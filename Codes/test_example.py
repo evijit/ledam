@@ -7,12 +7,12 @@ import nltk
 import pandas as pd
 import numpy as np
 import time
-from nltk.tag import StanfordNERTagger
-st = StanfordNERTagger('english.all.3class.distsim.crf.ser.gz')
-stanford_dir = st._stanford_jar.rpartition('/')[0]
-from nltk.internals import find_jars_within_path
-stanford_jars = find_jars_within_path(stanford_dir)
-st._stanford_jar = ':'.join(stanford_jars)
+# from nltk.tag import StanfordNERTagger
+# st = StanfordNERTagger('english.all.3class.distsim.crf.ser.gz')
+# stanford_dir = st._stanford_jar.rpartition('/')[0]
+# from nltk.internals import find_jars_within_path
+# stanford_jars = find_jars_within_path(stanford_dir)
+# st._stanford_jar = ':'.join(stanford_jars)
 
 dates1="[0-9][0-9][\/\.-][0-9][0-9][\/\.-][0-9][0-9]+"
 only_letters=re.compile('[^a-zA-Z]')
@@ -146,9 +146,9 @@ from textblob import TextBlob
 
 blob= TextBlob(text)
 print('Noun Phrases')
-print(blob.noun_phrases)
+print(set(blob.noun_phrases))
 
-nouns=list(tokens.get_nouns(text))
+nouns=set(list(tokens.get_nouns(text)))
 print('Nouns')
 print(nouns)
 
