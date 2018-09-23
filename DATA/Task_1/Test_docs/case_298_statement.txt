@@ -1,0 +1,66 @@
+
+
+1. The appellant is a public limited company. It manufactures glassware. One of the purchasers of such glassware during the period under appeal, namely, 6th September, 1979 to 15th January 1983 was the Alembic Chemical Works Company Limited. Because the assessee held shares in this chemical company and the chemical company held shares in the assesses and the chairman and three directors were common, it was contended by the revenue that they were "related persons" and that the price at which the assesses sold glassware to the chemical company should be marked up for the purposes of valuation for excise duty.
+
+2. The matter having reached the tribunal, the case put forth by the revenue was accepted on this basis;
+
+"In the present case both the companies were set up by the same family and the appellant company is holding 9% of the shares of M/s. Alembic Chemical Works Co. Ltd. while M/s. Alembic Chemical Works Co. Ltd. holds 14% shares of the total shares held in the appellant company. It is clear from the fact that they have mutual interest in the business of each other. Furthermore, the chairman and the three directors are common and it is implied, both the companies are managed by same management. It is not a mere case where one company is holding shares in other company but both the companies are holding some shares in each other in addition to having common chairman and the three directors. With this factual position we do not find any infirmity in the impugned order holding that M/s. Alembic Chemical Works Co. Ltd. was a related person under Section 4(4)(c) of the Act."
+
+3. The relevant provision during the period with which we are concerned, Section 4 of the Central Excise Act, reads insofar as is relevant, thus:
+
+"Section 4 Valuation of excisable goods for purposes of charging of duty of excise
+
+(1) Where under this Act, the duty of excise is chargeable on any excisable goods, with reference to value, such value shall, subject to the other provisions of this section, be deemed to be--
+
+(a) the normal price thereof, that is to say, the price at which such goods are ordinarily sold by the assessee to a buyer in the course of wholesale trade for delivery at the time and place of removal, where the buyer is not a related person and the price is the sole consideration for the sale;
+
+Provided that--
+
+(i) Where, in accordance with the normal practice of the wholesale trade in such goods, such goods are sold by the assessee at different prices to different classes of buyers (not being related persons) each such price shall, subject to the existence of the other circumstances specified in Clause (a), be deemed to be the normal price of such goods in relation to each such class of buyers:
+
+. (ii) Where such goods are sold by the assessee in the course of wholesale trade, for delivery at the time and place of removal at a price fixed under any law for the time being in force or at a price, being the maximum, fixed under any such law, then, notwithstanding anything contained in Clause (iii) of this proviso, the price or the maximum price, as the case may be, so fixed, shall, in relation to the goods so sold, be deemed to be the normal price thereof;
+
+(iii) where the assesses so arranges that the goods are generally not sold by him in the course of wholesale trade except to or through a related person, the normal price of the goods sold by the assessee to or through such related persons shall be deemed to be the price at which they are ordinarily sold by the related person in the course of wholesale trade at the time of removal, to dealers (not being related persons) or where such goods are not sold to such dealers, to dealers (being related persons) who sell such goods in retail;
+
+(b) Where the normal price of such goods is not ascertainable for the reason that such goods are not sold or for any other reason, the nearest ascertainable equivalent thereof determined in such manner as may be prescribed.
+
+(2) xxxxx
+
+(3) xxxxx
+
+(4) For the purpose of this section
+
+(a) xxxxx
+
+(b) xxxxx
+
+(c) 'related person' means a person who is so associated with the assessee that they have interest, directly or indirectly, in the business of each other and including a holding company, subsidiary company, a relative and a distributor of the assessee, and any sub-, distributor of such distributor.
+
+Explanation:- In this clause, 'holding company', 'subsidiary company' and 'relative' have the same meanings as in the Companies Act, 1956(1 of 1956);
+
+(d) xxxxx
+
+(e) xxxxx"
+
+4. It was submitted by learned counsel for the assessee that the assessee was a public limited company as was the chemical company and two public limited companies could not be said to be 'related persons', unless one was the holding or the subsidiary company of the other, which was not the case here. The fact that the assessee held shares of the chemical company and that the chemical company held shares of the assessee and that they had common directors could not lead to the conclusion that the assessee and the chemical company had an interest, directly or indirectly, in each other's business so as to make them related persons.
+
+5. Learned counsel for the revenue submitted that it was not necessary that one public limited company should be the holding or the subsidiary company of another public limited company, for the definition of 'related person' in Section 4 was inclusive. He submitted that, in the present case, the assessee held shares in the chemical company and vice-versa and there were common directors which clearly showed that the one had an interest in the business of the other and that, therefore, the valuation of the assessee's glassware sold to the chemical company would have to be made having due regard to the relationship, of related persons, between the assessee and the chemical company.
+
+6. Both sides relied upon the judgment of this Court in the case of Union of India and Ors. v. Atic Industries Limited MANU/SC/0175/1984MANU/SC/0175/1984 : 1984(17)ELT323(SC) . Briefly put, the assessee in that case was a limited company that manufactured dyes. Its share capital was held by two companies. The assessee had sold its dyes to the two companies. The question was whether it could be said that the sales had been made to "related persons". In this regard, this Court said:
+
+"There are two points of view from which the relationship between the assessee and Atul Products Limited may be considered. First, it may be noted that Atul Products Limited is a shareholder of the assessee to the extent of 50 per cent of the share capital. But we fail to see how it can be said that a limited company has any interest, direct or indirect, in the business carried on by one of its shareholders, even though the shareholding of such shareholder may be 50 per cent."
+
+(Emphasis supplied)
+
+7. In our view, this is the heart of the matter. The shareholders of a public limited company do not, by reason only of their shareholding, have an interest in the business of the company. Equally, the fact that two public limited companies have common directors does not mean that the one company has an interest in the business of the other. It is, therefore, not possible to uphold the conclusion of the tribunal that the assessee and the chemical company were related persons. This being so, it is unnecessary to go into the alternate arguments advanced on behalf of the assessee.
+
+8. At this stage of the judgment, learned counsel for the revenue draws our attention to the judgment, of a bench of two learned judges of this Court, in Calcutta Chromotype Limited v. Collector of Central Excise, Calcutta MANU/SC/0257/1998MANU/SC/0257/1998 : 1998(99)ELT202(SC) . It does not appear to us that the judgment carries the case of the revenue any further, nor does learned counsel so suggest. He says that he has referred to it because of this sentence therein: "The principle that a company under the Companies Act, 1956 is a separate entity and, therefore where the manufacturer and the buyer are two separate companies, they cannot be anything more than 'related persons' within the meaning of Clause (c) of Sub-section (4) of Section 4 of the Act is not the universal application." We have difficulty, for the reasons already stated, in accepting this as correct sentence. It appears to have been so stated in relation to and in the context of facts of that case. Therefore, the learned judges, it should be added, remanded the matter for further inquiry into the facts.
+
+9. At an earlier stage, this Court had directed a stay of the order of the tribunal provided, the appellant deposited fifty per cent of the additional duty demanded/and furnished a bank guarantee for the balance, that has been done: Now that the appeal succeeds, the revenue shall refund to the assessee the deposit towards duty and the bank guarantee for the balance shall stand discharged.
+
+10. The civil appeal is allowed. The order under appeal is set aside.
+
+11. No order as to costs.
+
+12. Learned counsel for the revenue now tells us that no appearance has been filed on behalf of the revenue and that this defect shall be cured within two days.
+

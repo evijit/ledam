@@ -1,0 +1,100 @@
+
+
+A.K. Goel, J.
+
+1. Leave granted.
+
+2. The question in this batch of appeals is whether the Appellate Tribunal under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 ("the SARFAESI Act") has the power to condone delay in fling an appeal Under Section 18(1) of the said Act.
+
+3. We have heard learned Counsel appearing for the parties, including S/Shri Amol Chitale and Akshat Shrivastava, counsel for the Appellants-borrowers and Shri Rana Mukherjee, senior counsel and S/Shri Anil Kumar Sangal and Pranab Kumar Mullick, counsel appearing for the Banks.
+
+4. The Appellants submit that the Appellate Tribunal has the power to condone delay in fling the appeal beyond by the prescribed period of limitation because of the following reasons:
+
+(i) Section 18(2) of the SARFAESI Act provides that the Appellate Tribunal shall follow the provisions of the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 ("the RDB Act") in disposing of the appeal unless otherwise provided under the SARFAESI Act or the rules made thereunder. The proviso to Section 20(3) of the RDB Act empowers the Appellate Tribunal to entertain an appeal after expiry of period of limitation, if sufficient cause for not fling the appeal within the period of limitation was shown. Thus, the proviso to Section 20(3) of the RDB Act is incorporated in Section 18(2) of the SARFAESI Act;
+
+(ii) Section 29(2) of the Limitation Act, 1963 makes the said Act's Sections 4 to 24 applicable to a special or local law prescribing a different period of limitation for a suit, appeal or application unless expressly excluded. There being no provision in the SARFAESI Act excluding the applicability of Sections 4 to 24 of the Limitation Act, delay can be condoned Under Section 5 of the Limitation Act, and time can be excluded Under Section 14 of the Limitation Act wherever applicable; and
+
+(iii) Section 24 of the RDB Act makes the Limitation Act applicable to an application made to a Tribunal. Section 36 of the SARFAESI Act makes period of limitation prescribed under the Limitation Act applicable to measures taken Under Section 13(4). Thus, there is be no exclusion of the Limitation Act.
+
+5. On the other hand, the Banks would contend that:
+
+(i) Section 18(2) of the SARFAESI Act cannot be read as extending provisions of proviso to Section 20(3) of the RDB Act to an appeal filed Under Section 18(1) of the SARFAESI Act;
+
+(ii) Section 29(2) of the Limitation Act is not attracted to proceedings before a Tribunal as the period of limitation prescribed under the Limitation Act is applicable only to proceedings before a Court and not before a Tribunal; and
+
+(iii) Provisions of Limitation Act can stand excluded not only by an express provision of a local or special law but also by necessary implication from the scheme of such local or special law. The scheme of the SARFAESI Act by making the Limitation Act expressly applicable to measures Under Section 13(4) of the Act impliedly excludes the said Act from appeals or other proceedings.
+
+6. Learned Counsel for the parties have brought to our notice that the issue in question has been examined by the High Courts of Madhya Pradesh, Andhra Pradesh, Bombay and Madras. While Madhya Pradesh High Court in Seth Banshidhar Media Rice Mills Pvt. Ltd. v. State Bank of India MANU/MP/1202/2011MANU/MP/1202/2011 : AIR 2011 MP 205 held that delay in fling an appeal cannot be condoned by the Tribunal, the Andhra Pradesh High Court in Sajida Begum v. State Bank of India MANU/AP/0546/2012MANU/AP/0546/2012 : AIR 2013 AP 24, the Bombay High Court in UCO Bank, Mumbai v. Kanji Manji Kothari and Co., Mumbai MANU/MH/1651/2008MANU/MH/1651/2008 : 2008 (4) MhLj 424 and the Madras High Court in Punnu Swami v. The Debts Recovery Tribunal 2009 (3) BJ 401 have taken contrary view.
+
+7. At this stage it will be appropriate to reproduce the provisions of Sections 18 and 36 of the SARFAESI Act, Section 20 and Section 24 of the RDB Act and Section 29 of the Limitation Act:
+
+Sections 18 and 36 of the SARFAESI Act:
+
+18. Appeal to Appellate Tribunal
+
+(1) Any person aggrieved, by any order made by the Debts Recovery Tribunal Under Section 17, may prefer an appeal alongwith such fee, as may be prescribed to an Appellate Tribunal within thirty days from the date of receipt of the order of Debts Recovery Tribunal:
+
+PROVIDED that different fees may be prescribed for fling an appeal by the borrower or by the person other than the borrower:
+
+PROVIDED FURTHER that no appeal shall be entertained unless the borrower has deposited with the Appellate Tribunal fifty per cent. of the amount of debt due from him, as claimed by the secured creditors or determined by the Debts Recovery Tribunal, whichever is less:
+
+PROVIDED ALSO that the Appellate Tribunal may, for the reasons to be recorded in writing, reduce the amount to not less than twenty-five per cent. of debt referred to in the second proviso.
+
+(2) Save as otherwise provided in this Act, the Appellate Tribunal shall, as far as may be, dispose of the appeal in accordance with the provisions of the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 (51 of 1993) and rules made thereunder.
+
+36. Limitation No secured creditor shall be entitled to take all or any of the measures Under Sub-section (4) of Section 13, unless his claim in respect of financial asset is made within the period of limitation prescribed under the Limitation Act, 1963 (36 of 1963).
+
+Sections 20 and 24 of the RDB Act:
+
+Section 20 Appeal to the Appellate Tribunal
+
+(1) Save as provided in Sub-section (2), any person aggrieved by an order made, or deemed to have been made, by a Tribunal under this Act, may prefer an appeal to an Appellate Tribunal having jurisdiction in the matter.
+
+(2) No appeal shall lie to the Appellate Tribunal from an order made by a Tribunal with the consent of the parties.
+
+(3) Every appeal Under Sub-section (1) shall be filed within a period of forty-five days from the date on which a copy of the order made, or deemed to have been made, by the Tribunal is received by him and it shall be in such form and be accompanied by such fee as may be prescribed:
+
+Provided that the Appellate Tribunal may entertain an appeal after the expiry of the said period of forty-five days if it is satisfied that there was sufficient cause for not fling it within that period.
+
+(4) On receipt of an appeal Under Sub-section (1), the Appellate Tribunal may, after giving the parties to the appeal, an opportunity of being heard, pass such orders thereon as it thinks ft, confirming, modifying or setting aside the order appealed against.
+
+(5) The Appellate Tribunal shall send a copy of every order made by it to the parties to the appeal and to the concerned Tribunal.
+
+(6) The appeal filed before the Appellate Tribunal Under Sub-section (1) shall be dealt with by it as expeditiously as possible and endeavour shall be made by it to dispose of the appeal finally within six months from the date of receipt of the appeal.
+
+Section 24 Limitation--The provisions of the Limitation Act, 1963 (36 of 1963), shall, as far as may be, apply to an application made to a Tribunal.
+
+Section 29 of the Limitation Act
+
+29. Savings-
+
+(1) Nothing in this Act shall affect Section 25 of the Indian Contract Act, 1872 (9 of 1872).
+
+(2) Where any special or local law prescribes for any suit, appeal or application a period of limitation different from the period prescribed by the Schedule, the provisions of Section 3 shall apply as if such period were the period prescribed by the Schedule and for the purpose of determining any period of limitation prescribed for any suit, appeal or application by any special or local law, the provisions contained in Sections 4 to 24 (inclusive) shall apply only in so far as, and to the extent to which, they are not expressly excluded by such special or local law.
+
+(3) Save as otherwise provided in any law for the time being in force with respect to marriage and divorce, nothing in this Act shall apply to any suit or other proceeding under any such law.
+
+(4) Sections 25 and 26 and the definition of "easement" in Section 2 shall not apply to cases arising in the territories to which the Indian Easements Act, 1882 (5 of 1882), may for the time being extend.
+
+8. The first point for consideration is the applicability of proviso to Section 20(3) of the RDB Act to the disposal of an appeal by the Appellate Tribunal Under Section 18(2) of the SARFAESI Act. A bare perusal of the said Section 18(2) makes it clear that the Appellate Tribunal under the SARFAESI Act has to dispose of an appeal in accordance with the provisions of the RDB Act. In this respect, the provisions of the RDB Act stand incorporated in the SARFAESI Act for disposal of an appeal. Once it is so, we are unable to discern any reason as to why the SARFAESI Appellate Tribunal cannot entertain an appeal beyond the prescribed period even on being satisfied that there is sufficient cause for not fling such appeal within that period. Even if power of condonation of delay by virtue of Section 29(2) of the Limitation Act were held not to be applicable, the proviso to Section 20(3) of the RDB Act is applicable by virtue of Section 18(2) of the SARFAESI Act. This interpretation is clearly borne out from the provisions of the two statutes and also advances the cause of justice. Unless the scheme of the statute expressly excludes the power of condonation, there is no reason to deny such power to a Appellate Tribunal when the statutory scheme so warrants. Principle of legislation by incorporation is well known and has been applied inter alia in Ram Kirpal Bhagat v. The State of Bihar MANU/SC/0165/1969MANU/SC/0165/1969 : (1969) 3 SCC 471, Bolani Ores Ltd. v. State of Orissa MANU/SC/0313/1974MANU/SC/0313/1974 : (1974) 2 SCC 777, Mahindra and Mahindra Ltd. v. Union of India MANU/SC/0391/1979MANU/SC/0391/1979 : (1979) 2 SCC 529 and Onkarlal Nandlal v. State of Rajasthan MANU/SC/0321/1985MANU/SC/0321/1985 : (1985) 4 SCC 404 relied upon on behalf of the Appellants. We have thus no hesitation in holding that the Appellate Tribunal under the SARFAESI Act has the power to condone the delay in fling an appeal before it by virtue of Section 18(2) SARFAESI Act and proviso to Section 20(3) of the RDB Act.
+
+9. The fact that RDB Act and the SARFAESI Act are complimentary to each other, as held by this Court in Transcore v. Union of India MANU/SC/5319/2006MANU/SC/5319/2006 : (2008) 1 SCC 125, also supports this view.
+
+10. We may now deal with the conflicting views of the High Courts on the subject. The Madhya Pradesh High Court has held that the power of condonation of delay stood excluded by principle of interpretation that if a later statute has provided for shorter period of limitation without express provision for condonation, it could be implied that there was no power of condonation. Reliance has been placed on principles of statutory interpretation by Justice G.P. Singh, 12th Edition, 2010, page 310. It was further observed that the Limitation Act was made applicable to a Tribunal Under Section 24 of the RDB Act, but there was no similar provision with respect to the Appellate Tribunal. To justify such an inference, reliance has also been placed on Gopal Sardar case and Fairgrowth Investments Ltd. v. The Custodian MANU/SC/0898/2004MANU/SC/0898/2004 : (2004) 11 SCC 472. It was further observed that the object of SARFAESI Act was to ensure speedy recovery of the dues and quicker resolution of disputes arising out of action taken for recovery of such dues. We find the approach to be erroneous and incorrect understanding of the principle of interpretation which has been relied upon. The principle discussed in the celebrated Treatise in question is as follows:
+
+When an amending Act alters the language of the principal statue, the alteration must be taken to have been made deliberately.
+
+11. It is difficult to appreciate how the above principle justifies the view of the High Court. The change intended in SARFAESI Act has to be seen from the statute and not from beyond it. No doubt the period of limitation for fling appeal Under Section 18 of the SARFAESI Act is 30 days as against 45 days Under Section 20 of the RDB Act. To this extent, legislative intent may be deliberate. The absence of an express provision for condonation, when Section 18(2) expressly adopts and incorporates the provisions of the RDB Act which contains provision for condonation of delay in fling of an appeal, cannot be read as excluding the power of condonation. As already observed, the proviso to Section 20(3) which provides for condonation of delay (45 days under RDB Act) stands extended to disposal of appeal under the SARFAESI Act (to the extent that condonation is of delay beyond 30 days). There is no reason to exclude the proviso to Section 20(3) in dealing with an appeal under the SARFAESI Act. Taking such a view will be nullifying Section 18(2) of the SARFAESI Act. We are thus, unable to uphold the view taken by the Madhya Pradesh High Court.
+
+12. We approve the view taken by the Madras, Andhra Pradesh and Bombay High Courts, but for different reasons. The view taken by Andhra Pradesh High Court in Sajida Begum v. State Bank of India MANU/AP/0546/2012MANU/AP/0546/2012 : AIR 2013 AP 24 is based on applicability of Section 29(2) of the Limitation Act. In our view, Section 29(2) of the Limitation Act has no absolute application, as the statute in question impliedly excludes applicability of provisions of Limitation Act to the extent a different scheme is adopted. If no provision of Limitation Act was expressly adopted, it may have been possible to hold that by virtue of Section 29(2) power of condonation of delay was available. It is well settled that exclusion of power of condonation of delay can be implied as laid down in Union of India v. Popular Construction Co. MANU/SC/0453/1995MANU/SC/0453/1995 : (1995) 5 SCC 5, Chhattisgarh State Electricity Board v. Central Electricity Regulatory Commission MANU/SC/0252/2010MANU/SC/0252/2010 : (2010) 5 SCC 23, Commissioner of Customs and Central Excise v. Hongo India Private Limited MANU/SC/0471/2009MANU/SC/0471/2009 : (2009) 5 SCC 791 and Gopal Sardar v. Karuna Sardar MANU/SC/0195/2004MANU/SC/0195/2004 : (2004) 4 SCC 252 relied upon on behalf of the Banks.
+
+13. We may now advert to the last question as to whether the Appellate Tribunal under the SARFAESI Act was not a Court and therefore, Section 29(2) of the Limitation Act was not attracted.
+
+14. The Andhra Pradesh High Court in Sajida Begum case in holding the Tribunal to be Court, has relied on Sections 22 and 24 of the RDB Act. Section 22 vests powers of Civil Court on the Tribunal only for purposes mentioned therein, such as summoning witnesses, discovery and production of documents, receiving evidence, issuing commission for examining witnesses etc. and deems Tribunals to be courts for specified purposes, such as for Sections 193, 196 and 228 of the Indian Penal Code and Section 195 of the Code of Criminal Procedure. These provisions may not be conclusive of the question of the Tribunal being Court for Section 29(2) of the Limitation Act without further examining the scheme of the statutes in question. In Nahar Industrial Enterprises Ltd. v. Hong Kong and Shanghai Banking Corporation MANU/SC/1330/2009MANU/SC/1330/2009 : (2009) 8 SCC 646, this Court examined the scheme of the two Acts in question and held that the Tribunal was a court but not a civil court for purposes of Section 24 of the Code of Civil Procedure. We are of the view that for purposes of decision of these appeals, it is not necessary to decide the question whether the Tribunal under the Banking statutes in question was court for purposes of Section 29(2) of the Limitation Act. We have already held that the power of condonation of delay was expressly applicable by virtue of Section 18(2) of the SARFAESI Act read with proviso to Section 20(3) of the RDB Act and to that extent, the provisions of Limitation Act having been expressly incorporated under the special statutes in question, Section 29(2) stands impliedly excluded. To this extent, we differ with the view taken by the Andhra Pradesh High Court as well as Madras and Bombay High Courts. We are also in agreement with the principle that even though Section 5 of the Limitation Act may be impliedly inapplicable, principle of Section 14 of the Limitation Act can be held to be applicable even if Section 29(2) of the Limitation Act does not apply, as laid down by this Court in Consolidated Engineering Enterprises v. Principal Secretary, Irrigation Department MANU/SC/7460/2008MANU/SC/7460/2008 : (2008) 7 SCC 169 and M.P. Steel Corporation v. Commissioner of Central Excise MANU/SC/0484/2015MANU/SC/0484/2015 : (2015) 5 SCALE 505.
+
+15. As a result of the above discussion, the question is answered in the affirmative by holding that delay in fling an appeal Under Section 18(1) of the SARFAESI Act can be condoned by the Appellate Tribunal under proviso to Section 20(3) of the RDB Act read with Section 18(2) of the SARFAESI Act. The contrary view taken by the Madhya Pradesh High Court in Seth Banshidhar Media Rice Mills Pvt. Ltd. case is overruled.
+
+16. Accordingly, the appeal filed by the Bank against the judgment of the Andhra Pradesh High Court is dismissed and the appeals filed by the borrowers are allowed. The impugned orders passed by the High Court of Madhya Pradesh (in appeals arising out of SLP(C) No. 27674 of 2011 and SLP(C) No. 36316 of 2011) are set aside and the matters are remanded to the High Court for being dealt with afresh in accordance with law. The appeal arising out of SLP(C) No. 38436 of 2012 has been preferred directly from the order of the Debt Recovery Appellate Tribunal, Delhi passed by the said tribunal relying upon the judgment of the Madhya Pradesh High Court in Seth Banshidhar Media Rice Mills Pvt. Ltd. case. The said impugned order is also set aside and the matter is remanded to the Debt Recovery Appellate Tribunal, Delhi for being dealt with afresh in accordance with law.
+
+17. All the appeals are disposed of accordingly.
+
