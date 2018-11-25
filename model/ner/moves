@@ -1,0 +1,32 @@
+Å´transitions⁄Ç[
+  {
+    "clas":0,
+    "move":1,
+    "label":"LEGAL",
+    "name":"B-LEGAL"
+  },
+  {
+    "clas":1,
+    "move":2,
+    "label":"LEGAL",
+    "name":"I-LEGAL"
+  },
+  {
+    "clas":2,
+    "move":3,
+    "label":"LEGAL",
+    "name":"L-LEGAL"
+  },
+  {
+    "clas":3,
+    "move":4,
+    "label":"LEGAL",
+    "name":"U-LEGAL"
+  },
+  {
+    "clas":4,
+    "move":5,
+    "label":"",
+    "name":"O"
+  }
+]
