@@ -1,0 +1,56 @@
+
+
+1. In all these appeals, the issue that arises for consideration is the same which relates to interpretation of Exemption Notification No. 67/95, as amended, and dutiability of the intermediary product 'Clinker' obtained at an intermediary stage in the production of 'Cement'. The Appellant contends that as per Rules 4 and 8 of the Central Excise Rules, no duty is payable in respect of the intermediate product 'Clinker' which is utilised within the factory in the manufacture of 'Cement'. Such 'Clinker' is not dutiable. In the alternative, it is submitted by the Appellant that even if 'Clinker' is held to be dutiable, it is exempted under Exemption Notification No. 67/95-C.E., dated 16-3-1995. For the sake of convenience, we take note of the facts from Civil Appeal No. 2793 of 2006.
+
+2. The Appellant/Assessee is the manufacturer of cement. For manufacturing of cement, clinker is the raw material/input. Clinker is also manufactured by the Appellant in its factory located in the 'Industrial Growth Centre' in Himachal Pradesh. It is cleared from the factory upon payment of duty as a final product because of the reason that there is no exemption available in respect of clinker which is cleared from the factory as a final product and is dutiable. As mentioned above, cement is also produced by the Appellant.
+
+3. Clinker and Cement are dutiable products under Chapter 25 of the First Schedule to the Central Excise Tariff Act, 1985, which deals with Salt; Sulphur; Clay and Stone; Plastering Materials; Lime and Cement.
+
+4. Sub-heading 25.02 in this behalf, which covers these products reads as under:
+
+5. However, cement is exempt from payment of duty under Exemption Notification No. 50/2003-C.E. : MANU/EXCT/0046/2003, dated 10-6-2003, since it is manufactured and cleared from the factory of the Appellant which is located in the 'Industrial Growth Centre' in Himachal Pradesh. Thus, on this final product, viz., cement, no duty is payable as it is exempted from payment of duty. To this extent, there is no dispute.
+
+6. In this manner, the Appellant is a manufacturer, who manufactures in the aforesaid factory a 'dutiable final product' (Clinker) as well as 'exempted final product' (Cement), as contemplated in Clause (vi) of the Notification.
+
+7. On these facts, we have to examine as to whether the product "Clinker" is covered by the Exemption Notification No. 67/1995. The relevant portion of Notification No. 67/95 is extracted below:
+
+"Exemption to all capital goods and inputs if captively consumed within the factory of production. - In exercise of the powers conferred by Sub-section (1) of Section 5A of the Central Excise Act, 1944 (1 of 1944), read with Sub-section (3) of Section 3 of the Additional Duties of Excise (Goods of Special Importance) Act, 1957 (58 of 1957), (hereinafter referred to as the said Special Importance Act), the Central Government, being satisfied that it is necessary in the public interest so to do, hereby exempts -
+
+(i) capital goods as defined in the CENVAT Credit Rules, 2002 manufactured in a factory and used within the factory of production;
+
+(ii) goods specified in column (1) of the Table hereto annexed (hereinafter referred to as 'inputs') manufactured in a factory and used within the factory of production in or in relation to the manufacture of final products specified in column (2) of the said Table;
+
+from the whole of the duty of excise leviable thereon which is specified in the Schedules to the Central Excise Tariff Act, 1985 (5 of 1986) or additional duty of excise leviable thereon, which is specified in the Schedule to the said Special Importance Act:
+
+Provided that nothing contained in this notification shall apply to inputs used in or in relation to the manufacture of final products which are exempt from the whole of the duty of excise or additional duty of excise leviable thereon, or are chargeable to nil rate of duty, other than those goods which are cleared, -
+
+(i) to a unit in a Free Trade Zone, or
+
+(ii) to a hundred percent Export Oriented Undertaking, or
+
+(iii) to a unit in an Electronic Hardware Technology Part, or
+
+(iv) to a unit in a Software Technology Part, or
+
+(v) under Notification No. 108/95-Central Excise, dated the 28th August, 1995, or
+
+(vi) by a manufacturer of dutiable and exempted final products, after discharging the obligation prescribed in Rule 6 of the CENVAT Credit Rules, 2001.
+
+8. As per Clause (ii), with which we are concerned, goods specified under column (1) of the table which are inputs and manufactured in a factory and used within the factory of production in or in relation to manufacture of the final products specified in column (2) of the said table, are exempted from payment of excise duty.
+
+9. Thus, if the input is specified in column (1) and it is manufactured in its factory and at the same time captively used in or in relation to the manufacture of the final product, the same is exempted from duty.
+
+10. If one were to apply this clause, there is no dispute that Clinker would be an item which would be covered by column (1) of the Table as column (1) of the Table mentions of goods falling under the First Schedule to the Central Excise Tariff Act, 1985, with the exception of certain goods (inputs) specifically excluded and clinker is not one of those inputs. However, proviso appended to this Notification excludes those inputs where these are used in or in relation to the manufacture of the final product and that final product is also exempt.
+
+11. In the present case, we find that the Clinker is used as input for production of Cement and Cement is exempted from the excise duty. Therefore, by virtue of this proviso insofar as Clinker is concerned, Exemption Notification would not apply. However, the matter does not end here inasmuch as the proviso itself is not applicable under certain circumstances as mentioned therein, viz., in respect of those goods which are cleared under six circumstances. We are concerned here with Clause (vi) which states that if goods are cleared by a manufacturer of dutiable and exempted final products after discharging the obligation prescribed in Rule 6 of the CENVAT Credit Rules, 2001, then proviso would not apply. Therefore, the outcome of this case depends upon the answer to the question as to whether in the instant case, the Appellants are discharging the obligation prescribed in Rule 6 of the CENVAT Credit Rules.
+
+12. On facts, there is no dispute that Appellants have discharged the 'obligation' prescribed in Rule 6 of the CENVAT Credit Rules. The Respondent have not even disputed the same.
+
+13. The case set up by the Appellant therefore, was that since the exempted goods ('Cement') is cleared by the Appellant who is a manufacturer of (a) 'dutiable final products' ('Clinker'); and (b) 'exempted final products' ('Cement') after discharging the "obligation" prescribed in Rule 6 of the CENVAT Credit Rules, 2001, Clause (vi) of the notification applies. In such a case, exemption is available in respect of 'Clinker' which is captively consumed in the manufacture of 'Cement' as per the opening part of the Notification. The Customs, Excise and Service Tax Appellate Tribunal (for short 'CESTAT') has disallowed the exemption in respect of 'Clinker' as claimed above.
+
+14. As per the CESTAT, Rule 6 applies only if some final product is partly exempt and partly dutiable. However, we do not find any such restriction in Rule 6 which contemplates the situation where a manufacturer produces (a) final products which are chargeable to duty, as well as; (b) exempted goods. The Rule does not provide that the same final product should be partly dutiable and partly exempted. On the contrary, this Rule relates to taking of CENVAT credit in respect of 'inputs'.
+
+15. This Rule is not applicable as such in its totality since taking of CENVAT credit is not in issue in these cases. On the other hand, relevance of this Rule is only to the extent of 'obligation' contained in the said Rule which is to be discharged. A plain reading of Clause (vi) of the notification would show that it only contemplates a situation where 'a manufacturer manufactures both dutiable as well as exempt final products'. There may be different final products manufactured by the same manufacturer. The final products may be made out of the same product or out of different products. Clause (vi) does not contemplate that the manufacturer should manufacture only 'one final product' or that if he manufactures only one product that product itself should be both dutiable and exempted. The basis adopted by the CESTAT that the 'same final product' should be partly dutiable and partly exempt, is neither a requirement of Clause (vi) nor a requirement of Rule 6.
+
+16. In view of the aforesaid discussion, we are of the opinion that the CESTAT decision is erroneous and is liable to be set aside. We, thus, allow these appeals and quash the order of the CESTAT. No costs.
+
