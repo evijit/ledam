@@ -1,0 +1,1 @@
+Acceptance, Bank, Cheque, Debt, Demand, Dishonour, Endorsement, Holder, Holder in Due Course, Instrument, Interest, Negotiable, Negotiable Instrument, Payable

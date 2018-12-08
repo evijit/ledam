@@ -1,0 +1,504 @@
+
+
+Rohinton Fali Nariman, J.
+
+1. These appeals have been argued over a number of days, but ultimately the points raised in them lie within a narrow compass.
+
+2. On 19.1.2005, the Central Government, in exercise of powers Under Section 63 of the Electricity Act, 2003 issued guidelines for a tariff based competitive bid process to be initiated by distribution licensees/procurers for procurement of power from generating companies. The electricity to be procured by such procurers is for the purpose of distribution and retail supply to consumers generally. On 10.2.2006, in pursuance of these guidelines, procurers in different States, namely, Appellants 1 to 3 and Respondents 5 to 15 (in Civil Appeal Nos. 5239-5240 of 2016) nominated Power Finance Corporation Limited, a Government of India undertaking as the Nodal Agency to complete a competitive bid process for development of an ultra mega power project based on linked coalmines using super critical technology of units of 660 mega watts (MW) each, plus or minus 20%, in Sasan District, Singrauli, Madhya Pradesh. On 10.2.2006, Sasan Power Limited was incorporated as a special purpose vehicle by Power Finance Corporation in order to implement the aforesaid purpose. On 1.8.2007, based on the competitive bidding process held by Power Finance Corporation, Reliance Power Limited, having quoted the lowest amount, was selected as the successful bidder, and a letter of intent was issued to Reliance Power Ltd. The quoted tariff, year by year, for a period of 25 years, which was accepted and incorporated as Schedule 11 in the Power Purchase Agreement dated 7.8.2007 (PPA) had tariffs at an extremely depressed rate for the first two years, after which the tariffs were fixed at a significantly higher rate. On the very day that the PPA was executed between Sasan Power Limited and the procurers for generation and sale of electricity, 100% share holding of the special purpose vehicle was acquired by Reliance Power Limited. The PPA contains detailed clauses with respect to generation of power and the tariffs payable for the period of 25 years. Apart from other provisions, we are really concerned with Article 6 read with Schedule 5 which provides for pre-conditions to be satisfied for declaration of a generating unit as Commercial Operation Date, "COD", namely readiness to commence commercial operations. This happens only when a performance test, by operating the generating unit at 95% of the contracted capacity as existing on the Effective Date on a continuous running basis for 72 hours, has been certified by an independent engineer, by giving a final test certificate to the aforesaid effect. The PPA also contains various other clauses which will be set out during the course of this judgment.
+
+3. The bone of contention in these matters is whether the COD for Unit No. 3, which was the first Unit to be commissioned, had been achieved on 31.3.2013. If it had, then under Schedule 11 to the PPA, the entire first year would get exhausted in one day, i.e., 31st March being the end of the contract year, for which tariff payable would be at the rate of 69 paise per unit. If not, then it is only on and from the commencement of COD that such year would begin, which, according to the Appellants before us, would only begin on 16.8.2013 when a final test certificate in accordance with Article 6 of the PPA was given by the independent engineer to the effect that 95% of the contracted capacity had been achieved for a continuous period of 72 hours. We are informed that if the COD is said to be on 31.3.2013, as has been held by the Appellate Tribunal, the consumers would have to pay a sum of over ` 1000 crores, being the differential tariff that would apply.
+
+4. The date for commissioning the first unit was fixed under the PPA as 7th May, 2013. However, under Schedule 11 thereof, this date was preponed to 27th November, 2012. As Sasan kept postponing this date, it appears that the commissioning tests for generating Unit No. 3 commenced from 20.3.2013. Various emails were exchanged from 27.3.2013 to 30.3.2013 between Sasan and the Western Region Load Dispatch Centre (hereinafter referred to as "the WRLDC"), a statutory authority under the Electricity Act, 2003. It is the case of Sasan that though they were ready to deliver electricity on 31.3.2013 at 95% of the contracted capacity of 620 MW of the unit, they could not do so as WRLDC did not give them the necessary green signal to go ahead. They relied heavily upon the independent engineer's test certificate dated 30.3.2013 to show that a COD took place on the following day, which we will consider in some detail later. At this stage, suffice it to say that a petition was filed by WRLDC before the Central Electricity Regulatory Commission (CERC) on 25.4.2013, in which it was prayed:
+
+1. Kindly look into the veracity of the certificate issued by the Independent Engineer in view of deliberate suppression and misrepresentation of the facts and issue suitable directions to Respondent No. 2 to desist from such act.
+
+2. Kindly look into the matter of Respondent No. 1 including into intentional mis-declaration of parameters related to commercial mechanism in vogue and has purported to declare the part (de-rated) capacity of 101.38 MW as commercial on the grounds of load restriction by WRLDC and issued suitable directions in the matter.
+
+3. Issue specific guidelines with respect to declaration of COD of the generators who are not governed by the CERC (Terms and Conditions of Tariff) Regulations, 2009 to be in line with CERC Regulations so that the same can be implemented in a dispute free manner and eliminate any possibility of gaming by generator.
+
+4. Hon'ble Commission may give any further directions as deemed fit in the circumstances of the case.
+
+5. This petition was allowed by the CERC by its order dated 8.8.2014, by which it first set out five issues as follows:
+
+(a) Whether the petition filed by WRLDC is maintainable?
+
+(b) Whether the Certificate issued by IE is in accordance with the PPA and if not, whether IE has made deliberate suppression or misrepresentation of facts while issuing the certificate?
+
+(c) Whether COD of the station as declared by SPL is in accordance with the PPA?
+
+(d) Whether the Respondent No. 1 has indulged in mis-declaration of parameters relating to commercial mechanism in vogue?
+
+(e) Guidelines with regard to the commercial operation of a generating station which is not regulated by the tariff Regulations of the Commission.
+
+6. The CERC answered issues (a), (b), (c), and (e) in the affirmative, and issue (d) in the negative. Ultimately the Commission arrived at the conclusion that COD had not been achieved on 31.3.2013 but had only been achieved later, on 16th August of the same year. This finding was set aside by the Appellate Tribunal by its judgment dated 31.3.2016, in which the Appellate Tribunal found that though COD had not been achieved on 31.3.2013 in accordance with the PPA, but that the procurers under the PPA had waived their right to demand performance at 95%, and that the performance of Unit No. 3, which was only roughly 17% of its contracted capacity, was accepted by all the procurers, and that therefore there was a waiver of this essential condition, which would then entitle the generator to treat 31.3.2013 as the date on which commercial operation of Unit No. 3 commenced. It is the correctness of this judgment which has been assailed by the various Appellants before us.
+
+7. Mr. Jayant Bhushan, learned senior Counsel, Mr. Gopal Jain, learned senior Counsel, Mr. M.G. Ramachandran, learned Counsel, Mr. Purusha Indra Kavrar, learned AAG, and Mr. Alok Shankar, learned Counsel appearing for the Appellants have relied heavily on Article 6.3.1 read with Schedule 5 of the PPA, and stated that this is an Article which does not merely reflect the individual rights and liabilities of the generator and procurers of electricity but would also sound in public interest inasmuch as the declaration of COD would have effect on the tariff that is payable by consumers generally. They, therefore, argued that Article 6.3.1 cannot be waived as a matter of law. They also argued that it cannot also be waived as a matter of fact inasmuch as when the PPA expressly allowed a certain provision to be waived, it expressly stated so. In this regard, Articles 3.1.2, 4.4.2(b) 10.1(c), 10.2(c) were pointed out by them. Referring to Article 18.3 of the PPA, it was argued that the said Article is not a substantive provision for waiver, but only a provision dealing with the manner in which waiver is to be exercised, and has reference only to the aforesaid Articles. Further, even assuming that there was a waiver, such waiver took place as late as 15.4.2013 when the last communication from Uttarakhand Power was received. There was, therefore, no waiver of the aforesaid condition on 31.3.2013. They also argued that as a matter of fact the emails exchanged between the parties would show that the lead procurer and all the other procurers had in fact never consented to 31.3.2013 as being the COD for the purpose of the PPA. They also argued that really speaking any such alleged waiver was not a waiver at all, but an amendment to the PPA which would require the Commission's consent Under Article 18.1, inasmuch as it would affect the tariff payable by consumers. They also argued that it is clear from a reading of a chart which showed generation from March to August, 2013 that Sasan was not able to achieve anywhere near 95% of contracted capacity until 16th August which is when the COD took place on facts. They also pointed out that, for example, in the month of July, there was no supply of power at all by Sasan Power. Ultimately, it was stated that the Independent Engineer's certificate dated 30.3.2013 was a document made only to favour Sasan, so that Sasan could swallow one entire year of tariff in one day, so that the consumer would have to pay the higher tariff for what is in reality the first year, but is now being treated as the second year of generation and supply.
+
+8. As against this, Shri Chidambaram and Shri Sibal, learned senior Counsel appearing on behalf of Sasan Power Ltd., have argued that as against 69 and 70 paise per unit for electricity supplied under the PPA, the procurers were in fact procuring electricity at much higher rates. It was the procurers themselves, therefore, who kept telling Sasan to supply power as soon as possible. For this, they relied, in particular, on the minutes of a meeting dated 27.2.2013 between the procurers and Sasan, in which the procurers unequivocally stated that any time upto 31.3.2013, the power generation should begin from Unit No. 3. This was because the moment such power generation began, whether it was 69 paise or 70 paise for the second year, the aforesaid tariff was much, much lower than what the procurers would have to pay otherwise. It was their argument that it was only at the behest of the procurers themselves that the COD was declared on 31.3.2013. They further argued that on a correct reading of emails and letters exchanged between the parties, the lead procurer and all other procurers had actually and unequivocally waived the requirement of 95% of contracted capacity demand and that the Appellate Tribunal was right in this behalf. Countering the arguments of the Appellant, they referred to and relied upon Section 63 of the Indian Contract Act, 1872 to buttress their submission that waiver is a right granted by the Contract Act and does not depend upon the PPA. Therefore, whatever the construction of Article 18.3 of the PPA, it is clear that the Contract Act itself gives them this right which the procurers themselves have exercised in accordance with law, for the very good reason that they wanted the supply of cheap energy at any cost, even at the cost of being at 17% instead of 95% of contracted demand. It was also their case that they were ready to supply electricity on 31st March at 95% of the contracted demand, but unfortunately WRLDC prevented them from doing so, and that the independent engineer's certificate had been wrongly castigated by CERC, as was correctly held by the Appellate Tribunal. The independent engineer laid bare the facts correctly and therefore did not give a false or wrong certificate as was found by CERC. They also met an argument raised by the Appellant that Haryana at least had waived its right without prejudice to its other rights and contentions. This was met by stating that Haryana accounted only for roughly 12% of the total electricity demanded by all the procurers and that as per a Clause in the PPA, if the lead procurer and the other procurers constitute 65% or more, they can bind all the other procurers.
+
+9. In order to appreciate the rival submissions, it is necessary to refer to the relevant provisions of the PPA, which reads as follows:
+
+1. Definitions
+
+The terms used in this Agreement, unless as defined below or repugnant to the context, shall have the same meaning as assigned to them by the Electricity Act, 2003 and the Rules or Regulations framed thereunder, including those issued/framed by Appropriate Commission (as defined hereunder), as amended or re-enacted from time to time.
+
+The following terms when used in this Agreement shall have the respective meanings, as specified below:
+
+6: Synchronization, Commissioning and Commercial Operation
+
+6.1 Synchronisation
+
+6.1.1 The Seller shall give the Procurers and RLDC at least sixty (60) days advance preliminary written notice and at least thirty (30) days advance final written notice, of the date on which it intends to synchronize a Unit to the Grid System, Provided that no Unit shall be synchronized prior to 36 months from NTP.
+
+6.1.2 Subject to Article 6.1.1, a Unit may be synchronized by the Seller to the Grid System when it meets all connection conditions prescribed in any Grid Code then in effect and otherwise meets all other Indian legal requirements for synchronization to the Grid System.
+
+6.2 Commissioning
+
+6.2.1 The Seller shall be responsible for ensuring that each Unit is Commissioned in accordance with Schedule 5 at its own cost, risk and expense.
+
+6.2.2 The Seller shall give all the Procurers and the Independent Engineer not less than ten (10) days prior written notice of Commissioning Test of each Unit.
+
+6.2.3 The Seller (individually), the Procurers (jointly) and the Independent Engineer (individually) shall each designate qualified and authorized representatives to witness and monitor Commissioning Test of each Unit.
+
+6.2.4 Testing and measuring procedures applied during each Commissioning Test shall be in accordance with the codes, practices and procedures mentioned in Schedule 5 of this Agreement.
+
+6.2.5 Within five (5) days of a Commissioning Test, the Seller shall provide the Procurers (jointly) and the Independent Engineer with copies of the detailed Commissioning Test results. Within five (5) days of receipt of the Commissioning Test results, the Independent Engineer shall provide to the Procurers and the Seller in writing, his findings from the evaluation of Commissioning Test results, either in the form of Final Test Certificate certifying the matters specified in Article 6.3.1 or the reasons for non-issuance of Final Test Certificate.
+
+6.3 Commercial Operation
+
+6.3.1 A Unit shall be Commissioned on the day after the date when all the Procurers receive a Final Test Certificate of the Independent Engineer stating that:
+
+a) the Commissioning Tests have been carried out in accordance with Schedule 5 and are acceptable to him; and
+
+b) the results of the Performance Test show that the Unit's Tested Capacity, is not less than ninety five (95) percent of its Contracted Capacity as existing on the Effective Date.
+
+6.3.2 If a Unit fails a Commissioning Test, the Seller may retake the relevant test, within a reasonable period after the end of the previous test, with three (3) day's prior written notice to the Procurers and the Independent Engineer. Provided however, the Procurers shall have a right to require deferment of any such re-tests for a period not exceeding fifteen (15) days, without incurring any liability for such deferment, if the Procurers are unable to provide evacuation of power to be generated, due to reasons outside the reasonable control of the Procurers or due to inadequate demand in the Grid.
+
+6.3.3 The Seller may retake the Performance Test by giving at least fifteen (15) days advance notice in writing to the Procurers, up to eight (8) times, during a period of one hundred and eighty (180) days ("Initial Performance Retest Period") from a Unit's COD in order to demonstrate an increased Tested Capacity over and above as provided in Article 6.3.1 (b). Provided however, the Procurers shall have a right to require deferment of any such re-tests for a period not exceeding fifteen (15) days, without incurring any liability for such deferment, if the Procurers are unable to provide evacuation of power to be generated, due to reasons outside the reasonable control of the Procurers or due to inadequate demand in the Grid.
+
+6.3.4 (i) If a Unit's Tested Capacity after the most recent Performance Test mentioned in Article 6.3.3 has been conducted, is less than its Contracted Capacity as existing on the Effective Date, the Unit shall be de-rated with the following consequences in each case with effect from the date of completion of such most recent test:
+
+a) the Unit's Contracted Capacity shall be reduced to its Tested Capacity, as existing at the most recent Performance Test referred to in Article 6.3.3 and Quoted Capacity Charges shall be paid with respect to such reduced Contracted Capacity;
+
+b) The Quoted Non Escalable Capacity Charge (in Rs. /kwh) shall be reduced by the following in the event Tested Capacity is less than ninety five (95%) per cent of its Contracted Capacity as existing on the Effective Date: Rs. 0.25/kwh x [1 - {(Tested Capacity of all Commissioned Units + Contracted Capacity of all Units not Commissioned at the Effective Date)/Contracted Capacity of all Units at the Effective Date})
+
+c) the Seller shall not be permitted to declare the Available Capacity of the Unit at a level greater than its Tested Capacity;
+
+d) the Availability Factor of the derated Unit shall be calculated by reference to the reduced Contracted Capacity; and
+
+e) the Capital Cost and each element of the Capital Structure Schedule shall be reduced in proportion to the reduction in the Contracted Capacity of the Power Station as a result of that de-rating (taking into account the Contracted Capacity of any Unit which has yet to be Commissioned).
+
+(ii) If at the end of Initial Performance Retest Period or the date of the eighth Performance Test mentioned in Article 6.3.3, whichever is earlier, the Tested Capacity is less than the Contracted Capacity (as existing on the date of this Agreement), the consequences mentioned in Article 8.2.2 shall apply for a period of one year. Provided that such consequences shall apply with respect to the Tested Capacity existing at the end of Initial Performance Retest Period or the date of the eighth Performance Test mentioned in Article 6.3.3, whichever is earlier.
+
+6.3.5 If a Unit's Tested Capacity as at the end of the Initial Performance Retest Period or the date of the eighth Performance Test mentioned in Article 6.3.3, whichever is earlier, is found to be more than it's Contracted Capacity as existing on the Effective Date, the Tested Capacity shall be deemed to be the Unit's Contracted Capacity if any Procurer/s agrees and intimates the same to the Seller within thirty (30) days of receipt of the results of the last Performance Test to purchase such excess Tested Capacity and also provide to the Seller additional Letter of Credit and Collateral Arrangement (if applicable) for payments in respect of such excess Tested Capacity agreed to be purchased by such Procurer/s. In case the Procurer/s decide not to purchase such excess Tested Capacity, the Seller shall be free to sell such excess Tested Capacity to any third party and the Unit's Contracted Capacity shall remain unchanged, notwithstanding that the Tested Capacity exceeded the Contracted Capacity.
+
+Provided that in all the above events, the Seller shall be liable to obtain/maintain all the necessary consents (including Initial Consents), permits and approvals including those required under the environmental laws for generation of such excess Tested Capacity.
+
+6.4 Costs Incurred.
+
+The Seller expressly agrees that all costs incurred by him in synchronizing, connecting, Commissioning and/or Testing or Retesting a Unit shall be solely and completely to his account and the Procurer's or Procurers' liability shall not exceed the amount of the Energy Charges payable for such power output, as set out in Schedule 7.
+
+18: Miscellaneous Provisions
+
+18.1 Amendment
+
+The Agreement may only be amended or supplemented by a written agreement between the Parties and after duly obtaining the approval of the Appropriate Commission, where necessary.
+
+18.3. No Waiver
+
+A valid waiver by a Party shall be in writing and executed by an authorized representative of that Party. Neither the failure by any Party to insist on the performance of the terms, conditions, and provisions of this Agreement nor time or other indulgence granted by any Party to the other Parties shall act as a waiver of such breach or acceptance of any variation or the relinquishment of any such right or any other right under this Agreement, which shall remain in full force and effect.
+
+Schedule 5: Commissioning and Testing
+
+1.1 Performance Test
+
+i. (a) The Performance Test shall be conducted under any and all ambient conditions (temperature, humidity etc.) and any and all Fuel qualities that may exist during the time of the Performance Test and no corrections in final gross and net output of the Unit will be allowed as a result of prevailing ambient conditions or Fuel quality.
+
+(b) The correction curves will only be used if the Grid System operation during the Performance Test exceeds Electrical System Limits.
+
+(c) The Performance Test shall be deemed to have demonstrated the Contracted Capacity of the Unit under all designed conditions and therefore no adjustments shall be made on account of fuel quality or ambient conditions.
+
+(d) The Seller shall perform in respect of each Unit a Performance Test, which such Unit shall be deemed to have passed if it operates continuously for seventy two consecutive hours at or above ninety five (95) percent of its Contracted Capacity as existing on the Effective Date and within the Electrical System Limits and the Functional Specifications.
+
+ii. For the purposes of any Performance Test pursuant to this sub-article 1.1, the Electrical System Limits to be achieved shall be as follows:
+
+(a) Voltage
+
+The Unit must operate within the voltage levels described in the Functional Specification for the duration of the Performance Test. If, during the Performance Test, voltage tests cannot be performed due to Grid System, data supplied from tests of the generator step-up transformers and generators supplied by the manufacturers shall be used to establish the ability of the Unit to operate within the specified voltage limits.
+
+(b) Grid System Frequency
+
+The Unit shall operate within the Grid System frequency levels described in the Functional Specification for the duration of the Performance Test.
+
+(c) Power Factor
+
+The Unit shall operate within the power factor range described in the Functional Specification for the duration of the Performance Test. If, during the Performance Test, power factor tests cannot be performed due to the Grid System, data supplied from tests of the generators and the generator step-up transformers supplied by the manufacturers shall be used to establish the ability of the Unit to operate within the specified power factor range.
+
+(d) Fuel quality and cooling water temperature
+
+The Unit must operate to its Contracted Capacity with Fuel quality and water temperature available at the time of Testing and no adjustment shall be allowed for any variation in these parameters.
+
+iii. As a part of the Performance Test, the Seller shall demonstrate that the Unit meets the Functional Specifications for Ramping rate as mentioned in Schedule 4. For this purpose, representative samples of ramp rates shall be taken, by ramping up or down the gross turbine load while maintaining the required temperature and temperature differences associated with each ramp rate within the turbine while maintaining all other operational parameters within equipment limits.
+
+iv. Further, as a part of the Performance Test, the Unit shall be tested for compliance with parameters of Supercritical Technology.
+
+1.2 Testing and Measurement procedures applied during Performance Test shall be in accordance with codes, practices or procedures as generally/normally applied for the Performance Tests.
+
+1.3 The Seller shall comply with the prevalent Laws, Rules and Regulations as applicable to the provisions contained in this Schedule from time to time.
+
+Schedule 11: Quoted Tariff
+
+10. It is also necessary to set out the relevant provisions of the Electricity Act, 2003. Sections 28, 29, 61, 62 and 63 of the Electricity Act, 2003 read as under:
+
+Section 28. Functions of Regional Load Despatch Centre:
+
+(1) The Regional Load Despatch Centre shall be the apex body to ensure integrated operation of the power system in the concerned region.
+
+(2) The Regional Load Despatch Centre shall comply with such principles, guidelines and methodologies in respect of the wheeling and optimum scheduling and despatch of electricity as the Central Commission may specify in the Grid Code.
+
+(3) The Regional Load Despatch Centre shall -
+
+(a) be responsible for optimum scheduling and despatch of electricity within the region, in accordance with the contracts entered into with the licensees or the generating companies operating in the region;
+
+(b) monitor grid operations;
+
+(c) keep accounts of quantity of electricity transmitted through the regional grid;
+
+(d) exercise supervision and control over the inter-State transmission system; and
+
+(e) be responsible for carrying out real time operations for grid control and despatch of electricity within the region through secure and economic operation of the regional grid in accordance with the Grid Standards and the Grid Code.
+
+(4) The Regional Load Despatch Centre may levy and collect such fee and charges from the generating companies or licensees engaged in inter-State transmission of electricity as may be specified by the Central Commission.
+
+Section 29. Compliance of directions: --- (1) The Regional Load Despatch Centre may give such directions and exercise such supervision and control as may be required for ensuring stability of grid operations and for achieving the maximum economy and efficiency in the operation of the power system in the region under its control.
+
+(2) Every licensee, generating company, generating station, sub-station and any other person connected with the operation of the power system shall comply with the directions issued by the Regional Load Despatch Centres under Sub-section (1).
+
+(3) All directions issued by the Regional Load Despatch Centres to any transmission licensee of State transmission lines or any other licensee of the State or generating company (other than those connected to inter State transmission system) or sub-station in the State shall be issued through the State Load Despatch Centre and the State Load Despatch Centres shall ensure that such directions are duly complied with the licensee or generating company or sub-station.
+
+(4) The Regional Power Committee in the region may, from time to time, agree on matters concerning the stability and smooth operation of the integrated grid and economy and efficiency in the operation of the power system in that region.
+
+(5) If any dispute arises with reference to the quality of electricity or safe, secure and integrated operation of the regional grid or in relation to any direction given under Sub-section (1), it shall be referred to the Central Commission for decision: Provided that pending the decision of the Central Commission, the directions of the Regional Load Despatch Centre shall be complied with by the State Load Despatch Centre or the licensee or the generating company, as the case may be.
+
+(6) If any licensee, generating company or any other person fails to comply with the directions issued under Sub-section (2) or Sub-section (3), he shall be liable to a penalty not exceeding rupees fifteen lacs.
+
+Section 61. Tariff Regulations: The Appropriate Commission shall, subject to the provisions of this Act, specify the terms and conditions for the determination of tariff, and in doing so, shall be guided by the following, namely:
+
+(a) the principles and methodologies specified by the Central Commission for determination of the tariff applicable to generating companies and transmission licensees;
+
+(b) the generation, transmission, distribution and supply of electricity are conducted on commercial principles;
+
+(c) the factors which would encourage competition, efficiency, economical use of the resources, good performance and optimum investments;
+
+(d) safeguarding of consumers' interest and at the same time, recovery of the cost of electricity in a reasonable manner;
+
+(e) the principles rewarding efficiency in performance;
+
+(f) multi year tariff principles;
+
+(g) that the tariff progressively reflects the cost of supply of electricity and also, reduces cross-subsidies in the manner specified by the Appropriate Commission;
+
+(h) the promotion of co-generation and generation of electricity from renewable sources of energy;
+
+(i) the National Electricity Policy and tariff policy:
+
+Provided that the terms and conditions for determination of tariff under the Electricity (Supply) Act, 1948, the Electricity Regulatory Commission Act, 1998 and the enactments specified in the Schedule as they stood immediately before the appointed date, shall continue to apply for a period of one year or until the terms and conditions for tariff are specified under this section, whichever is earlier.
+
+Section 62. Determination of tariff: (1) The Appropriate Commission shall determine the tariff in accordance with the provisions of this Act for -
+
+(a) supply of electricity by a generating company to a distribution licensee: Provided that the Appropriate Commission may, in case of shortage of supply of electricity, fix the minimum and maximum ceiling of tariff for sale or purchase of electricity in pursuance of an agreement, entered into between a generating company and a licensee or between licensees, for a period not exceeding one year to ensure reasonable prices of electricity;
+
+(b) transmission of electricity;
+
+(c) wheeling of electricity;
+
+(d) retail sale of electricity:
+
+Provided that in case of distribution of electricity in the same area by two or more distribution licensees, the Appropriate Commission may, for promoting competition among distribution licensees, fix only maximum ceiling of tariff for retail sale of electricity.
+
+(2) The Appropriate Commission may require a licensee or a generating company to furnish separate details, as may be specified in respect of generation, transmission and distribution for determination of tariff.
+
+(3) The Appropriate Commission shall not, while determining the tariff under this Act, show undue preference to any consumer of electricity but may differentiate according to the consumer's load factor, power factor, voltage, total consumption of electricity during any specified period or the time at which the supply is required or the geographical position of any area, the nature of supply and the purpose for which the supply is required.
+
+(4) No tariff or part of any tariff may ordinarily be amended, more frequently than once in any financial year, except in respect of any changes expressly permitted under the terms of any fuel surcharge formula as may be specified.
+
+(5) The Commission may require a licensee or a generating company to comply with such procedures as may be specified for calculating the expected revenues from the tariff and charges which he or it is permitted to recover. (6) If any licensee or a generating company recovers a price or charge exceeding the tariff determined under this section, the excess amount shall be recoverable by the person who has paid such price or charge along with interest equivalent to the bank rate without prejudice to any other liability incurred by the licensee.
+
+Section 63. Determination of tariff by bidding process: Notwithstanding anything contained in Section 62, the Appropriate Commission shall adopt the tariff if such tariff has been determined through transparent process of bidding in accordance with the guidelines issued by the Central Government.
+
+11. Since counsel for the opposing parties have made wide ranging arguments on the effect of Article 18 and waiver as a legal concept, it is important first to find out as to which pigeonhole the facts of the present case fit - whether the emails exchanged by the parties would amount to an "amendment" governed by Article 18.1, or whether it would amount to a "waiver" governed by Article 18.3.
+
+12. A perusal of the emails exchanged between the parties would show that the parties did not intend to amend by a written agreement any of the provisions of the PPA. Whereas an amendment of the PPA Under Article 18.1 would be bilateral, a waiver of a provision of the PPA would be unilateral Under Article 18.3.
+
+13. In order to better understand, conceptually, the difference between amendment and waiver, it is necessary to advert to Sections 1, 62 and 63 of the Indian Contract Act, 1872.
+
+Section 1. Short title.-This Act may be called the Indian Contract Act, 1872.
+
+Extent, Commencements.-It extends to the whole of India except the State of Jammu and Kashmir; and it shall come into force on the first day of September, 1872.
+
+Nothing herein contained shall affect the provisions of any Statute, Act or Regulation not hereby expressly repealed, nor any usage or custom of trade, nor any incident of any contract, not inconsistent with the provisions of this Act.
+
+Section 62. Effect of novation, rescission, and alteration of contract.
+
+If the parties to a contract agree to substitute a new contract for it, or to rescind or alter it, the original contract need not be performed.
+
+Section 63. Promisee may dispense with or remit performance of promise.- Every promise may dispense with or remit, wholly or in part, the performance of the promise made to him, or may extend the time for such performance, or may accept instead of it any satisfaction which he thinks fit.
+
+14. Under Section 62, apart from novation of a contract and rescission of a contract, alteration of a contract is mentioned. Alteration is understood here, in the facts of the present case, in the sense of amendment. It is settled law that an amendment to a contract being in the nature of a modification of the terms of the contract must be read in and become a part of the original contract in order to amount to an alteration Under Section 62 of the Indian Contract Act. This is clear from Juggilal Kamlapat v. N.V. Internationale Crediet-En-Handels Vereeninging 'Rotterdam' MANU/WB/0013/1955MANU/WB/0013/1955 : AIR 1955 Cal 65 in paragraph 15 of which it is stated:
+
+The effect of the alterations or modifications is that there is a new arrangement; in the language of Viscount Haldane in Morris v. Baron & Co. (1) (1918 Appeal Cases, 1 at 17), "a new contract containing as an entirety the old terms together with and as modified by the new terms incorporated." The modifications are read into and become part and parcel of the original contract. The original terms also continue to be part of the contract and are not rescinded and/or superseded except in so far as they are inconsistent with the modifications. Those of the original terms which cannot make sense when read with the alterations must be rejected. In my view the arbitration Clause in this case is in no way inconsistent with the subsequent modifications and continues to subsist. [para 15]
+
+15. No such thing having occurred on the present facts, it is clear that there is in fact no amendment by written agreement to the PPA. To this extent, learned Counsel for Sasan are correct.
+
+16. The relevant Section therefore that would apply on the facts of the present case is Section 63. At this stage, it is important to advert to an argument made by counsel for the Appellants that Article 18.3 only refers to waivers that can expressly be made under various provisions of the agreement and not to Article 6 which, according to learned Counsel, cannot be waived under the PPA. Assuming that such argument is correct, and that Article 18.3 refers only to the mode of carrying out a waiver under the PPA, yet it is clear that Section 63 would operate on the facts of this case. This is for the reason that, when read with Section 1 of the Contract Act, it becomes clear that the PPA is subject to Section 63 of the Contract Act, which would allow a promise to dispense with or remit, wholly or in part, the performance of the promise made to him, and accept instead of it any satisfaction which he thinks fit. This is made clear in an interesting judgment by Chief Justice Stone in Official Assignee of Bombay v. Madholal Sindhu ILR 1948 (2) Bom 1. The learned Chief Justice after setting out the facts had this to say on the effect of Section 1 of the Contract Act:
+
+The Indian Contract Act of 1872 applies to all contracts in India and with regard to a pawn is a codification of the English common law. Speaking of the common law right to sell Mr. Justice Story in his commentaries on the Law of Bailments, eighth edition, says at p. 262:
+
+Another right resulting, by the common law, from the contract of pledge is the right to sell the pledge, where there has been a default in the pledge in complying with his engagement, but a sale before default would be a conversion. Such a right does not divest the general property of the pawner but still leave in him (as we shall presently see) a right of redemption.
+
+And at p. 263:
+
+The common law of England, existing in the time of Glanville, seems to have required a judicial process to justify the sale, or at least to destroy the right of redemption. But the law as at present established leaves an election to the pawner. He may file a bill in equity against the pawner for a foreclosure and sale; or, he may proceed to sell ex mero motu, upon giving notice of his intention to the pledger.
+
+The terms of an instrument of pledge, such as there is in this case, giving an unqualified power of sale, are inconsistent with the provisions of Section 176 of the Indian Contract Act, and, therefore, by virtue of Section 1 of that Act must give place to the express provisions of the Act: See Chitguppi & Co. v. Vinaya Kashinath [(1920) 45 Bom. 157 : S.C. 22 Bom L.R. 959].
+
+The group of Sections in the Indian Contract Act dealing with bailment commence with Section 148, and it is to be observed that in the Sections 152, 163, 171 and 174 the power is given to contract out of the Act. In the former Section the words are "in the absence of any special contract" and in the three latter Sections the expression used is "in the absence of any contract to contrary". In my opinion, therefore, except in these four sections, the provisions of the Act with regard to bailment are mandatory: see The Co-operative Hindustan Bank, Ltd. v. Surendranath De [(1931) 59 Cal. 667.].
+
+17. It is thus clear that if on facts there is a waiver of a provision of the PPA by one of the parties to the PPA, then Section 63 of the Contract Act will operate in order to give effect to such waiver.
+
+18. At this juncture, it is important to understand what exactly is meant by waiver. In Jagad Bandhu Chatterjee v. Nilima Rani MANU/SC/0490/1969MANU/SC/0490/1969 : (1969) 3 SCC 445, this Court held:
+
+In India the general principle with regard to waiver of contractual obligation is to be found in Section 63 of the Indian Contract Act. Under that Section it is open to a promise to dispense with or remit, wholly or in part, the performance of the promise made to him or he can accept instead of it any satisfaction which he thinks fit. Under the Indian law neither consideration nor an agreement would be necessary to constitute waiver. This Court has already laid down in Waman Shriniwas Kini v. Ratilal Bhagwandas & Co. [MANU/SC/0171/1959MANU/SC/0171/1959 : 1959 Supp 2 SCR 217, 226] that waiver is the abandonment of a right which normally everybody is at liberty to waive. "A waiver is nothing unless it amounts to a release. It signifies nothing more than an intention not to insist upon the right". It is well-known that in the law of pre-emption the general principle which can be said to have been uniformly adopted by the Indian courts is that acquiescence in the sale by any positive act amounting to relinquishment of a pre-emptive right has the effect of the forfeiture of such a right. So far as the law of pre-emption is concerned the principle of waiver is based mainly on Mohammedan Jurisprudence. The contention that the waiver of the Appellant's right Under Section 26-F of the Bengal Tenancy Act must be founded on contract or agreement cannot be acceded to and must be rejected. [para 5]
+
+19. In P. Dasa Muni Reddy v. P. Appa Rao MANU/SC/0392/1974MANU/SC/0392/1974 : (1974) 2 SCC 725, this Court held:
+
+Waiver is an intentional relinquishment of a known right or advantage, benefit, claim or privilege which except for such waiver the party would have enjoyed. Waiver can also be a voluntary surrender of a right. The doctrine of waiver has been applied in cases where landlords claimed forfeiture of lease or tenancy because of breach of some condition in the contract of tenancy. The doctrine which the courts of law will recognise is a Rule of judicial policy that a person will not be allowed to take inconsistent position to gain advantage through the aid of courts. Waiver sometimes partakes of the nature of an election. Waiver is consensual in nature. It implies a meeting of the minds. It is a matter of mutual intention. The doctrine does not depend on misrepresentation. Waiver actually requires two parties, one party waiving and another receiving the benefit of waiver. There can be waiver so intended by one party and so understood by the other. The essential element of waiver is that there must be a voluntary and intentional relinquishment of a right. The voluntary choice is the essence of waiver. There should exist an opportunity for choice between the relinquishment and an enforcement of the right in question. It cannot be held that there has been a waiver of valuable rights where the circumstances show that what was done was involuntary. There can be no waiver of a non-existent right. Similarly, one cannot waive that which is not one's as a right at the time of waiver. Some mistake or misapprehension as to some facts which constitute the underlying assumption without which parties would not have made the contract may be sufficient to justify the court in saying that there was no consent. [para 13]
+
+20. Regard being had to the aforesaid decisions, it is clear that when waiver is spoken of in the realm of contract, Section 63 of the Indian Contract Act governs. But it is important to note that waiver is an intentional relinquishment of a known right, and that, therefore, unless there is a clear intention to relinquish a right that is fully known to a party, a party cannot be said to waive it. But the matter does not end here. It is also clear that if any element of public interest is involved and a waiver takes place by one of the parties to an agreement, such waiver will not be given effect to if it is contrary to such public interest. This is clear from a reading of the following authorities.
+
+21. In Lachoo Mal v. Radhey Shyam MANU/SC/0715/1971MANU/SC/0715/1971 : (1971) 1 SCC 619, it was held:
+
+The general principle is that everyone has a right to waive and to agree to waive the advantage of a law or Rule made solely for the benefit and protection of the individual in his private capacity which may be dispensed with without infringing any public right or public policy. Thus the maxim which sanctions the non-observance of the statutory provision is cuilibet licet renuntiare juri pro se introducto. (See Maxwell on Interpretation of Statutes, Eleventh Edn., pp. 375 and 376). If there is any express prohibition against contracting out of a statute in it then no question can arise of anyone entering into a contract which is so prohibited but where there is no such prohibition it will have to be seen whether an Act is intended to have a more extensive operation as a matter of public policy. [para 6]
+
+22. In Indira Bai v. Nand Kishore MANU/SC/0250/1991MANU/SC/0250/1991 : (1990) 4 SCC 668, it was held:
+
+The test to determine the nature of interest, namely, private or public is whether the right which is renunciated is the right of party alone or of the public also in the sense that the general welfare of the society is involved. If the answer is latter then it may be difficult to put estoppel as a defence. But if it is right of party alone then it is capable of being abnegated either in writing or by conduct. [para 5]
+
+23. In Krishna Bahadur v. Purna Theatre MANU/SC/0667/2004MANU/SC/0667/2004 : (2004) 8 SCC 229, it was held:
+
+The principle of waiver although is akin to the principle of estoppel; the difference between the two, however, is that whereas estoppel is not a cause of action; it is a Rule of evidence; waiver is contractual and may constitute a cause of action; it is an agreement between the parties and a party fully knowing of its rights has agreed not to assert a right for a consideration.
+
+A right can be waived by the party for whose benefit certain requirements or conditions had been provided for by a statute subject to the condition that no public interest is involved therein. Whenever waiver is pleaded it is for the party pleading the same to show that an agreement waiving the right in consideration of some compromise came into being. Statutory right, however, may also be waived by his conduct. [para 9]
+
+24. It is thus clear that if there is any element of public interest involved, the court steps in to thwart any waiver which may be contrary to such public interest.
+
+25. On the facts of this case, it is clear that the moment electricity tariff gets affected, the consumer interest comes in and public interest gets affected. This is in fact statutorily recognized by the Electricity Act in Sections 61 to 63 thereof. Under Section 61, the appropriate commission, when it specifies terms and conditions for determination of tariff, is to be guided inter alia by the safeguarding of the consumer interest and the recovery of the cost of electricity in a reasonable manner. For this purpose, factors that encourage competition, efficiency and good performance are also to be heeded. Under Section 62 of the Act, the appropriate commission is to determine such tariff in accordance with the principles contained in Section 61. The present case, however, is covered by Section 63, which begins with a non obstante Clause stating that notwithstanding anything contained in Section 62, the appropriate commission shall adopt the tariff if such tariff has been determined through a transparent process of bidding in accordance with the guidelines issued by the Central Government. The guidelines dated 19.1.2005 issued by the Central Government Under Section 63 make it clear that such guidelines are framed with the following objectives in mind:
+
+These guidelines have been framed under the above provisions of Section 63 of the Act. The specific objectives of these guidelines are as follows:
+
+1) Promote competitive procurement of electricity by distribution licensees;
+
+2) Facilitate transparency and fairness in procurement processes;
+
+3) Facilitate reduction of information asymmetries for various bidders;
+
+4) Protect consumer interests by facilitating competitive conditions in procurement of electricity;
+
+5) Enhance standardization and reduce ambiguity and hence time for materialization of projects;
+
+6) Provide flexibility to suppliers on internal operations while ensuring certainty on availability of power and tariffs for buyers.
+
+Clause 2.3 of the said guidelines reads as follows:
+
+2.3. Unless explicitly specified in these guidelines, the provisions of these guidelines shall be binding on the procurer. The process to be adopted in event of any deviation proposed from these guidelines is specified later in these guidelines under para 5.16.
+
+26. Paragraph 4 of the aforesaid guidelines relates to tariff structure and paragraph 4.11 in particular, which relates to energy charges, is as follows:
+
+4.11 Where applicable, the energy charges payable during the operation of the contract shall be related on the base energy charges specified in the bid with suitable provision for escalation. In case the bidder provides firm energy charge rates for each of the years of the contract term, the same shall be permitted in the tariffs.
+
+27. Para 5.4 then speaks of a model power purchase agreement proposed to be entered into with the seller of electricity as follows:
+
+(ii) Model PPA proposed to be entered into with the seller of electricity. The PPA shall include necessary details on:
+
+• Risk allocation between parties;
+
+• Technical requirements on minimum load conditions;
+
+• Assured off take levels;
+
+• Force majeure clauses as per industry standards;
+
+• Lead times for scheduling of power;
+
+• Default conditions and cure thereof, and penalties;
+
+• Payment security proposed to be offered by the procurer.
+
+28. Paragraph 5.16 then goes on to state:
+
+Deviation from process defined in the guidelines
+
+5.16 In case there is any deviation from these guidelines, the same shall be with the prior approval of the Appropriate Commission. The Appropriate Commission shall decide on the modifications to the bid documents within a reasonable time not exceeding 90 days.
+
+29. A perusal of the CERC tariff adoption order in the present case dated 17.10.2007 makes it clear that the tariff is adopted by the Commission only because the competitive bidding process which has been undertaken is in accordance with the guidelines so issued.
+
+30. All this would make it clear that even if a waiver is claimed of some of the provisions of the PPA, such waiver, if it affects tariffs that are ultimately payable by the consumer, would necessarily affect public interest and would have to pass muster of the Commission Under Sections 61 to 63 of the Electricity Act. This is for the reason that what is adopted by the Commission Under Section 63 is only a tariff obtained by competitive bidding in conformity with guidelines issued. If at any subsequent point of time such tariff is increased, which increase is outside the four corners of the PPA, even in cases covered by Section 63, the legislative intent and the language of Sections 61 and 62 make it clear that the Commission alone can accept such amended tariff as it would impact consumer interest and therefore public interest.
+
+31. But on the facts of these cases, it is argued by learned Counsel for Sasan that in point of fact the tariff laid down in Schedule 11 of the PPA has not been sought to be changed. All that has happened is that, as a result of COD being declared on 31.3.2013, the very tariff laid down in Schedule 11 becomes applicable, but for year one being treated as one day and year two commencing from 1.4.2013. Counsel for Sasan may be right in saying this, but the substance of the matter is that a consumer would have to pay substantially more by way of tariff under the PPA if year one is gobbled up in one day, as year two's tariff is one paisa more than year one and year three's tariff is substantially more than year two. In short, instead of getting two years or part thereof exceeding one year at a substantially lower tariff, the consumer now gets only one year and one day at the lower tariff rates. This may also by itself not lead to the parties having to go to the Commission as this is envisaged by the PPA. But it is clear that if a waiver is to be accepted on the facts of this case, it would clearly impact the public interest, in that consumers would have to pay substantially more for electricity consumed by them. This being the case, on facts it may not be necessary to go to the Commission as had Sasan in fact met the parameters of Schedule 5 on 30th March, then as per Schedule 11, year one would in fact have been only for one day. However, any waiver of the requirement of Schedule 5 would definitely impact the generation of electricity at the mandated percentage of contracted capacity as also the amounts payable by consumers, and would therefore affect the public interest. This being the case, this is not a case covered by the judgments cited on behalf of Sasan, in particular the judgment of this Court in Commissioner of Customs, Bombay v. Virgo Steels Bombay MANU/SC/0255/2002MANU/SC/0255/2002 : (2002) 4 SCC 316, in which it has been held that even the mandatory requirement of a statute can be waived by the party concerned, provided it is intended only for his benefit. This case would fall within the parameters of the other judgments referred to above, and would therefore be governed by judgments which state that any waiver of the requirements of Article 6.3 and Schedule 5 would ultimately impact consumer interest and therefore the public interest. Such waiver therefore cannot be allowed to pass muster on the facts of the present case.
+
+32. Since the result of this case also depends upon the correct reading of Article 6 read with Schedule 5 of the PPA, and whether there has been waiver in fact in the sense of being the intentional relinquishment of a known right by the procurers or on their behalf, it is necessary to advert to the scheme of Article 6, the independent engineer's certificate, and various meetings, emails, and letters exchanged between the parties. Article 6 deals with synchronization, commissioning, and commercial operations. In the first step to be taken by the seller, the unit producing electricity has to be synchronized to the grid system. It is only after synchronization takes place that the unit is to be commissioned. What is important is that at the commissioning stage, the parameters mentioned in Schedule 5 are to be met. The most important parameter mentioned in Schedule 5, when the performance test is to be taken for the purpose of commissioning, is that a unit shall be deemed to have passed such test only if it operates continuously for 72 consecutive hours at or about 95% of its contracted capacity as existing on the effective date and within the electrical system limits and functional specifications. Further, as a part of the performance test, the seller must demonstrate that the unit meets functional specifications for ramping rate separately mentioned in Schedule 4 of the PPA. It is only when such test is passed that a unit can be said to be commissioned under the PPA. This then is to be certified by the independent engineer jointly appointed by the parties Under Article 6.3.1, in the form of a final test certificate, which states that (a) the commission tests have been carried in accordance with Schedule 5 and are acceptable to him, and (b) the result of the performance test shows that the unit's tested capacity is not less than 95% of the contracted demand as existing on the effective date.
+
+33. If the Schedule 5 parameters are not met, it is incumbent on the independent engineer to then state reasons for the non-issuance of the final test certificate. Once this is done, Under Article 6.3.2, the seller may retake the relevant test within a reasonable period after the end of the previous test so as to comply with the basic requirements of Schedule 5. It is only after this that a unit can be said to be a "commissioned unit" as defined, which means that it is a unit in respect of which COD has occurred. COD or commercial operation date is also separately defined as meaning, in relation to a unit, the date one day after the date when each of the procurers receives a final test certificate of the independent engineer as per Article 6.3.1. It is thus clear that the scheme of Article 6 is that a unit cannot be said to have a commercial operation date unless and until it is first synchronized with the grid and commissioned after meeting the parameters mentioned in Schedule 5 of the PPA.
+
+34. Article 6.3.3 refers to performance tests of a unit during the period of the PPA. If Under Article 6.3.3 after COD has been achieved in a unit, an increased tested capacity over and above that provided in 6.3.1 (b) is achieved in a subsequent performance test, certain consequences follow. Equally, if after COD has been obtained in a unit, and the most recent performance test mentioned during the working of the PPA has been conducted, and it is found that in such test a figure less than contracted capacity is achieved, the unit shall be de-rated with certain consequences which are mentioned in Article 6.3.4 read with Article 8.2.2. The scheme of Article 6 therefore read as a whole appears to be that COD cannot be achieved until the parameters mentioned in Schedule 5 are achieved and there is a final test certificate to that effect. The subsequent clauses, Article 6.3.3 and Article 6.3.4 only kick in after COD is obtained in a unit, leading to either increased capacity or to de-rated capacity with consequences which follow under the PPA.
+
+35. The meetings, emails, and letters between the parties have now to be examined. The first important meeting that is necessary for us to advert to is the meeting of 27.2.2013. The meeting was Chaired by the Managing Director of the lead procurer i.e. M.P. Power Management Company Limited. It was attended by all the other procurers, and officials of Sasan. What is emphasized on behalf of Sasan is that the revised COD of the Sasan units was accepted by all the procurers Under Article 4.5.1 of the PPA to be - (first unit) by 31.3.2013. The procurers asked Sasan for the estimated date for synchronization and COD of the first unit. Sasan indicated that synchronization is expected in the first week of March, 2013, and the COD before 31.3.2013. What is important about this meeting is that the procurers were no doubt interested in getting electricity from Sasan as soon as possible, but obviously only in accordance with Article 6.3.1 read with the 5th Schedule. This would only mean that the meeting would disclose that the anxiety of the procurers to get electricity at cheap rates would be in accordance with the PPA and not against it. In other words, if a final test certificate had been given to the effect that 95% of contracted capacity could have been delivered by Unit No. 3 on or before 31.3.2013, the procurers were anxious to avail of it, and not otherwise.
+
+36. It is unnecessary for us to burden this judgment with the emails that passed between Sasan and WRLDC between 27.3.2013 and 30.3.2013. It is enough for us to state that Sasan contends that it was ready to deliver at 95% of the contracted demand but for WRLDC, and WRLDC states that Sasan was never obstructed by WRLDC, and in fact was not capable of delivering electricity at 95% of the contracted demand at the relevant time. WRLDC appears to be correct in this for the simple reason that if we see the performance of Sasan for the period 1st April to 16th August, 2013, it is clear that various tests were undertaken, but 95% of contract capacity for a continuous period of 72 hours had only been achieved in June even according to Sasan.
+
+37. In any event, the performance test certificate issued on 30.3.2013 leaves much to be desired. Since the Commission has castigated this certificate and the Appellate Tribunal has absolved the Independent Engineer completely, it is necessary to set out this certificate in full.
+
+Lahmeyer International (India) Pvt. Ltd.
+
+Corporate Office & Correspondence address:
+
+Intec House, 37 Institutional Area, Sector 44, Gurgaon-122002, National Capital Region (INDIA)
+
+CERTIFICATE OF INDEPENDENT ENGINEER (IE)
+
+Test Certificate of Performance Test for the Commercial Operation Declaration of the First Unit (Unit-3 of 660 MW) of SASAN ULTRA MEGA POWER PROJECT (6x660 MW)
+
+This Certificate is issued by IE with reference to Article 6.3.1 of PPA executed on 7th August 2007 between Sasan Power Limited (SPL, the Seller) and the Power Procurers. Based on the Performance Test witnessed by IE from 27th March 2013 to 30th March 2013 and review of the detailed Performance Test results provided by the Seller, it is certified that:
+
+1. The Unit was synchronized with the grid at 15.18 hrs on 27th March 2013 after receiving the permission of WRLDC.
+
+2. The Seller (SPL) had submitted the power injection Schedule to WRLDC at 15.35 hours on 27th March 2013 for raising the load gradually to 100% of the Contracted Capacity of 620.4 MW(ex bus) by 2000 hrs. on 27th March 2013 for demonstrating continuous operation at that load for continuous 72 (seventy two) consecutive hours. However, WRLDC, did not permit the Seller to operate the Unit beyond 100 MW (ex bus) till the morning of 28th March 2013 due to the following reasons:
+
+a) The demand in the grid was low due to the Holiday on account of Holi Festival.
+
+b) All the Units in the grid were operating at their technical minimum capacity.
+
+3. The Seller was continuously keeping in touch with WRLDC till 21.40 hours on 29th March 2013 for seeking permission to raise the load. At 22.19 hrs on 29th March 2013 WRLDC permitted the seller to raise the load. Accordingly, Seller raised the load to around 150 MW (ex bus).
+
+4. At 07.13 hours on 30th March 2013, WRLDC asked the seller to submit its revised power injection Schedule for raising the load. At this point of time, the Unit had already completed continuous operation of 50 (fifty) consecutive hours at a low load of about 100 MW (ex-bus) and another 9 (nine) consecutive hours immediately thereafter at 150 MW. Seller informed WRLDC at 14.18 hrs that it would increase the load from 20.00 hours to reach full load. As such, in line with WRLDC instructions and grid conditions. Seller maintained load of around 100 MW (ex bus) for around 50 hours and maintained load of around 150 MW (ex bus) for remaining 22 hours as per WRLDC instructions and grid conditions.
+
+5. The Commissioning Test has been carried out in accordance with Schedule 5 of PPA and the results of the Performance Test are acceptable to IE. The results of the Performance Test show that the Unit's Tested Capacity is not less than 101.38 MW (ex bus), the maximum permitted load by WRLDC for injection into the grid. During the above stated period of continuous 72 (seventy two) consecutive hours, the performance of the unit was found to conform to the Electrical Limits of the Functional Specifications in accordance with Schedule 4 of PPA.
+
+The salient details of the Performance Test are as follows:
+
+(*) Due to load restriction by WRLDC.
+
+6. Since the Unit was operating below 50% of the rated load due to grid restriction, the Unit could not be demonstrate the Ramping Rate above 50% of the rated load in accordance with Schedule 4 of PPA. However, as per the certificate provided by Original Equipment Manufacturer of Boiler, Turbine & Generator, minimum ramp up and ramp down rate of 1% of Contracted Capacity per minute can be achieved.
+
+7. The Unit could not be tested for the following parameters of Supercritical Technology at the steam turbine inlet as defined in PPA due to grid restriction.
+
+i) Main Steam Pressure: 247 kg/cm2 (abs)
+
+ii) Main Steam Temperature: 535 deg C.
+
+iii) Reheat Temperature: 565 deg C.
+
+However, the Unit was found to operate with the following parameters at the steam turbine inlet during one hour operation from 1200 hrs to 1300 hrs on 29th March 2013.
+
+i) Main Steam Pressure: 77.36 Kg/cm2 (abs)
+
+ii) Main Steam Temperature: 535.64 deg. C.
+
+iii) Reheat Temperature: 575.04 deg C.
+
+8. All the systems and equipment have been commissioned and are operational with two coal mills which were taken into service. The balance mills could not be taken into service due to the restrictions imposed by the grid. The furnace was found to operate stably even at a low load of 101.38 MW (ex-bus) and the parameters of Turbine shaft vibrations, Generator slot temperature and Generator core temperature were found to be well within the equipment limits recommended by OEM.
+
+9. In view of the above, the Unit-3 is certified to have achieved Commercial Operation, with a tested capacity of 101.38 MW (ex bus) since:
+
+(a) Commissioning Test was carried out in accordance with Article 6 and Schedule 5 of the PPA.
+
+(B) Results of the test show that Unit-3 has met functional specifications stipulated in Schedule 4 of the PPA.
+
+For Lahmeyer International s(India)
+
+Sd/-
+
+R.K. Soni
+
+Project Manager
+
+Dated: 30th March 2013
+
+38. It will be seen from this certificate that the tested capacity of the Unit was found to be only 101.38 MW as against 95% of 620 MW i.e. 587 MW. It was also stated that since the unit was operating below 50% of the rated load due to grid restriction, the unit could not demonstrate ramping rate above 50% of rated load in accordance with the Schedule 4 of the PPA.
+
+39. Paragraph 9 of the certificate leaves much to be desired. Obviously, if the tested capacity is 101.38 MW as against the required 95% i.e. 587 MW, the test could not have been carried out in accordance with Article 6 read with Schedule 5, and that despite the fact that ramping up and down could not be achieved, functional specifications stipulated in Schedule 4 of the PPA were said to have been met. We are constrained, therefore, to agree with CERC which in its order dated 8.8.2014 has castigated this certificate. What Article 6.3.1 requires is first and foremost a final test certificate of the Independent Engineer. The certificate dated 30.3.2013 given by the Independent Engineer is not a final test certificate. Indeed, it is only in August that a final test certificate was given in accordance with Article 6.3.1 of the PPA by the very same independent engineer. Obviously the commissioning tests could not have been carried out in accordance with Schedule 5, which requires in Clause 1.1 (i) (d) that the seller shall perform, in respect of each unit, a performance test, by which such unit shall be deemed to have passed only if it operates continuously for 72 consecutive hours, at or above 95% of its contracted capacity as existing on the effective date. Also, part of the same Schedule requires that as a part of the performance test, the seller shall demonstrate that the unit meets the functional specifications for ramping rate as mentioned in Schedule 4, which was again conspicuous by its absence. According to the Independent Engineer, "... the Unit 3 is certified to have achieved Commercial Operation, with a tested capacity 101.38 MW" after carrying out the commissioning test in accordance with Article 6 and Schedule 5 of the PPA. In the certificate dated 30.3.2013 he has stated that on witnessing the performance test from 27.03.2013 to 30.03.2013, the tested capacity of the Unit is 101.38 MW. However, it is clearly recorded that Unit was operated beyond 100 MW only from the morning of 28.03.2013. In the chart on the performance test, the Independent Engineer has noted that 101.38 MW is operated only from 06.00 a.m. on 28.03.2013. Under Article 6 read with Schedule 5 ... "Unit shall be deemed to have passed if it operates continuously for 72 consecutive hours at or above 95% of its contracted capacity as existing on the Effective Date." Even according to the Independent Engineer, 101.38 MW was injected only at 06.00 a.m. on 28.03.2013. Such a tested capacity of 101.38 MW for 72 hours continuously could therefore have been certified only at 06.00 a.m. on 31.03.2013. If that be so, the Commercial Operation Date would have been only one day after the date when the test certificate of the Independent Engineer has been received by the procurers. For this reason also, the test certificate is by no means in accordance with Article 6.3.1 of the PPA read with Schedule 5 thereof.
+
+40. It is now important to examine the correspondence between the parties in order to ascertain whether the Appellate Tribunal is correct in stating that waiver had in fact taken place. At this stage, it is important to advert to an email dated 31.3.2013 sent by the lead procurer to Sasan. This email categorically states as follows:
+
+With reference to the letter No. GEIE 12086/12-13/001/RKS dt. 30th March 2013 relating to the Test Certificate of the Independent Engineer towards the Performance Test for declaration of COD of Unit-3 of 660 MW of UMPP Sasan Project. It is to inform that as per Clause 6.3.1 (a) and (b) of the PPA, Commissioning Test should have been carried out in accordance with Schedule 5 of PPA and that the result of the test should not have been less than ninety five (95) percent of its Contracted Capacity. The test result is not as per the aforesaid Clause and, therefore, is not acceptable to us. If the Seller is agreeable to consider the performance test under Clause 6.3.4 for a de-rated capacity of 101.38 MW, the same could be agreed by us.
+
+41. However, Sasan relies heavily upon an email sent on 2.4.2013 by the lead procurer to Sasan. This email reads as follows:
+
+To
+
+The Chief Executive Officer
+
+M/s. Sasan Power Ltd.,
+
+Dhirubhai Ambani Knowledge City,
+
+1 Block, 2nd Floor, North Wing,
+
+Thane, Belapur Road, Koparkhairane,
+
+Navi Mumbai,
+
+Maharashtra 400 710
+
+Sub: Independent Engineer's letter dated 30th March 2013
+
+Ref: Independent Engineer's letter dated 30th March 2013
+
+Dear Sir,
+
+Please refer the Independent Engineer's letter dated 30th March 2013 pertaining to "Test Certificate of Performance Test for the Commercial Operation Declaration of the First Unit (Unit-3 of 660 MW) of SASAN ULTRA MEGA POWER PROJECT (6x660 MW)" and e-mail dated 31.3.2013 of 12.39 AM sent by Western Region Load Despatch Centre regarding scheduling of power from Unit No. 3 of Sasan UMPP. As lead procurer, the Performance Test, as certified by the independent Engineer for a capacity of 101.38 MW (ex-bus), is acceptable to us under Clause 6.3.4 of the PPA. You may kindly go for Performance Test under notice to us for increasing the capacity beyond certification by the Independent Engineer in accordance with Clause 6.3.3 of the PPA.
+
+As provided in Article 6.3.4 of the PPA, in the period between this performance test and the next performance test, the unit's contracted capacity and available capacity would be considered as 101.38 MW (ex-bus) and its availability factor shall be calculated by reference to 101.38 MW. The charges payable for power shall be as laid down in Article 6.3.4 of the PPA. In case the unit is in position to produce beyond 101.38 MW, the additional quantity would be scheduled in favour of the Procurers under proviso to Article 11.1 of the PPA, until the next Performance Test is conducted Under Article 6.3.3.
+
+Thanking you,
+
+Yours faithfully,
+
+Sd/-
+
+Executive Director (IPC)
+
+42. The two emails read together would show that the lead procurer made it clear that declaration of COD of unit 3 is not accepted by them as the test was not performed as per Article 6.3.1. However, in its anxiety to procure electricity, what was stated in the second email was that the capacity of 101.38 MW was acceptable only Under Article 6.3.4 of the PPA, meaning thereby that this ought to be treated as de-rated capacity, which should be paid for as provided. And any quantity produced over and above 101.38 MW would be treated as infirm power Under Article 11.1 proviso, and paid for as such.
+
+43. Shri Sibal argued that the moment Article 6.3.4 of the PPA is attracted, this would necessarily mean that the Appellants have waived the requirement of 95% of the contracted capacity as existing on the effective date mentioned in Article 6.3.1(b). According to him, this would mean that scheduled power would have to be supplied, which in turn can only be done if there is waiver of the aforesaid requirement. It is difficult to agree. The case of the Appellants has throughout been, starting from 12th April, 2013, onwards, that it has never consented to Schedule 5 of the PPA and Article 6.3.1(b) parameters being lowered. It is true that Article 6.3.4 would not apply for the reason that it would come into effect only after the last recent performance test mentioned in Article 6.3.3 has been conducted. And for Article 6.3.3 to apply, a performance test must first indicate that from a unit's COD an increased tested capacity over and above that provided in Article 6.3.1(b) must first occur. Admittedly on facts this has not happened. What is important to note therefore is that the Appellants desperately wanted power at a cheaper rate, and were willing to go to any extent to get such power, including invoking Clause 6.3.4, which would not apply, and stating that anything over and above 101.38 MW ought to be treated as infirm power. It is clear under the Regulations, however, that infirm power can never be supplied to the Appellants themselves but can only be supplied to the grid. This being the case, the question that is still posed is whether the two emails read together would amount to a waiver of the right mentioned in Clause 6.3.1. Waiver is, as has been pointed out above, an intentional relinquishment of a known right. Waiver must be spelled out with crystal clarity for there must be a clear intention to give up a known right. There is no such clear intention that can be spelled out on a reading of the two emails. All that can be spelled out is that the first email of 31.3.2013 categorically states that the test result is not as per Article 6.3.1, and is not acceptable. The last sentence of this very email then refers to Clause 6.3.4 and to a de-rated capacity of 101.38 MW. Thereafter, the email of 2nd April, 2013 expands on the aforesaid last sentence of the earlier email by referring to Article 6.3.4 and Article 11 proviso. This is akin to a 'without prejudice' acceptance of de-rated power, being a non-acceptance of the test certificate dated 30.3.2013 coupled with a desperate attempt to somehow get whatever power is available. But this does not amount to a clear and unequivocal intention to relinquish a known right.
+
+44. It is not necessary to burden this judgment with various other acceptance emails of the other DISCOMS inasmuch as they are all in terms of the email sent by the lead procurer. Haryana DISCOM has sent an email dated 12.4.2013 in which, even while accepting derated power, it has accepted the same without prejudice to its rights.
+
+45. In contrast to the aforesaid emails, the acceptance emails of BYPL and BRPL, both Reliance Group Companies, may now be quoted:
+
+Dear Sir
+
+From Sasan UMPP Delhi has allocation of 450 mw as per MOP out of which BRPL share is 43.58 out of Delhi allocation. We accept the COD of 1st unit of 660 mw as declared by SPL. May please Schedule Full quantum of BRPL with immediate effect and confirm.
+
+Regards.
+
+Sanjay Srivastav.
+
+Assistant VP BRPL. 9312147045
+
+Sanjay Srivastav (As V.P.)
+
+46. This acceptance email is in stark contrast with the acceptance email of the lead procurer, in that it unequivocally accepts COD of the first Unit of 660 MW as declared by Sasan. It is therefore clear that on facts in this case there is no waiver and the Appellate Tribunal in coming to an opposite conclusion, is clearly erroneous.
+
+47. Interestingly enough, the Appellate Tribunal, in the impugned judgment dated 31.3.2016, contradicts itself when it states in one portion as follows:
+
+e) We have carefully gone through the ratio of the law laid down by Hon'ble Supreme Court in Waman Shriniwas and in Krishan Lal's case, wherein in the latter case the Hon'ble Supreme Court cited an illustration in paragraph 21 thereof. The words of the Hon'ble Supreme Court are "to illustrate this principle, it has been stated that if the statutory condition be imposed simply for the security or the benefit of the parties to the action themselves, such condition will not be considered as indispensable and either party may waive it." In the present case, the requirement of achieving 95% of the contracted capacity for declaration of COD was not one for the private benefit of the seller and procurers. The said requirement and the appointment of an independent expert to oversee the commissioning process was built into the statutory contract i.e. PPA itself for a specific purpose, as a requirement of general policy, to ensure that generators do not declare their units to be commercially available without even demonstrating the capability of such units to achieve at least 95% of the contracted capacity.
+
+And then goes on to state:
+
+We further find that in the present case, there is no question of any public interest or public policy or morals or statutory Regulations being violated. The WRLDC, who was a Petitioner before the Central Commission, in its Petition clearly and equivocally states that there are no guidelines in respect of declaration of COD of the generators who are not governed by CERF (Tariff Regulations) 2009 and in the Petition, WRLDC prays to the Central Commission for issuing Regulations and guidelines in that behalf.
+
+48. We thus find that the Appellate Tribunal is wholly incorrect in accepting the case of waiver put forward by learned Counsel for Sasan, and is equally incorrect in absolving the independent engineer for the test certificate given by him on 30.3.2013. We, therefore, set aside the Appellate Tribunal's judgment, and reinstate the judgment dated 8.8.2014 of the Central Electricity Regulatory Commission.
+
+49. Shri Sibal's last argument is that there is no substantial question of law so as to attract Section 125 of the Electricity Act, 2003 in these appeals. We are afraid that we cannot agree. One substantial question of law is whether, when public interest is involved, waiver can at all take place of a right in favour of the generator of electricity under a PPA if the right also has an impact on consumer interest. This substantial question of law has been answered by us in the course of the judgment. We have also pointed out that the Appellate Tribunal's finding that the Independent Engineer's test certificate can pass muster and that there is a waiver on facts is not a possible conclusion, and such finding is, therefore, perverse and hence set aside. That apart, we have also pointed out the contradictory nature of the judgment of the Appellate Tribunal, when it points out that the requirement of Article 6.3.1 is not merely for the private benefit of the procurers of electricity, but is as a matter of general policy; and then later on in the judgment finds that no question of public interest or public policy arises in the present case. In these circumstances, this plea must also be turned down. In the result, the appeals are allowed but with no order as to costs.
+

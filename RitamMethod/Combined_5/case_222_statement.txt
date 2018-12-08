@@ -1,0 +1,246 @@
+
+
+S.P. Bharucha, C.J.I.
+
+1. In Ador Samia Private Limited v. Peekav Holdings Limited and Ors. MANU/SC/0506/1999MANU/SC/0506/1999 : AIR1999SC3246 , Bench of two learned Judges of this Court came to the conclusion that the Chief Justice or any person or institution designated by him, acting under Section 11 of the Arbitration and Conciliation Act, 1996 (hereinafter called "The Act"), acted in an administrative capacity and such order did not attract the provisions of Article 136 of the Constitution of India. A Bench of two learned Judges referred for re-consideration the decision in Ador Samia to a Bench of three learned Judges. The decision of the Bench of the three Judges Konkan Railway Corporation Ltd. and Ors. v. Mehul Construction Co., MANU/SC/0523/2000MANU/SC/0523/2000 : AIR2000SC2821 ] affirmed the view taken in Adore Samia, namely, that the order of the Chief Justice or his designate in exercise of the power under Section 11 of the Act was an administrative order and that such order was not amenable to the jurisdiction of this Court under Article 136. Thereafter, in Konkan Railway Corpn. Ltd. and Anr. v. Rani Construction Pvt. Ltd. [2000(8) SCC 159], a Bench of two learned Judges referred to a larger Bench the decision of the three learned Judges for re-consideration (a practice which a Constitution Bench has frowned upon). This is how the matter comes to be placed before a Construction Bench.
+
+2. When it first reached before a Constitution Bench, the following order was passed:
+
+"This reference has been made by a detailed referral order MANU/SC/0653/2000MANU/SC/0653/2000 : 2000(8) SCC 159.
+
+It appears that the Chief justice or his nominee, acting under Section 11 of the Arbitration and Reconciliation Act, 1996, have decided contentious issues arising between the parties to an alleged arbitration agreement and the question that we are called upon to decide is whether such an order deciding issues is a judicial order or an administrative order.
+
+In the course of the short hearing before us, another question has surfaced, such is: does the Chief Justice or his nominee, acting under Section 11, have the authority to decide any contentious issues between the parties to the alleged arbitration agreement? In other words, is the power of the Chief Justice or his nominee under Section 11 restricted to the nomination of an arbitrator in cases falling under Sub-sections (4), (5) and (6) thereof?
+
+From what we understood, the learned Solicitor General appearing for the appellant, and learned counsel appearing for the respondents are ad idem on this aspect. According to both of them, the power of the Chief Justice or his nominee under Section 11 is restricted to the nomination of an arbitrator and the order that he makes is an administrative order.
+
+It, therefore, becomes necessary to request the Attorney General to assist the Court. Mr. Andhyarujina, who is in Court but is not appearing in the matter, has advanced some submissions before us. He shall also be entitled to do so when the matter is taken up again before a Constitution Bench.
+
+The Registry shall furnish a copy of this order and a copy of the paper books both to the Attorney General and to Mr. Andhyarujina.
+
+Adjourned accordingly."
+
+3. To determine whether the order of the Chief Justice or his designate under Section 11 of the Act is a judicial order or an administrative order, it is necessary to take note of certain provisions of the Act. Section 2(e) defines a Court thus:
+
+"(e) "Court" means the principal Civil Court of original jurisdiction in a district, and includes the High Court in exercise of its ordinary original civil jurisdiction, having jurisdiction to decide the questions forming the subject-matter of the arbitration if the same had been the subject-matter of a suit, but does not include any civil court of a grade inferior to such principal Civil Court, or any Court of Small Causes,"
+
+4. Section 5 read thus:
+
+" Extent of judicial intervention - Notwithstanding anything contained in any other law for the time being in force, in matters governed by this Part, no judicial authority shall intervene except where so provided in this Part."
+
+5. Section 8, so far as is relevant, reads thus:
+
+"8(1) A judicial authority before which an action is brought in a matter which is the subject of an arbitration agreement shall, if a party so applies not later than when submitting his first statement on the substance of the dispute, refer the parties to arbitration."
+
+6. Section 10 states that the parties to an arbitration agreement are free to determine the number of arbitrators, provided that such number shall not be an even number; failing such determination, the arbitral tribunal shall consist of a sole arbitrator.
+
+7. Section 11 reads thus:
+
+" Appointment of arbitrators - (1) A person of any nationality may be an arbitrator, unless otherwise agreed by the parties.
+
+(2) Subject to Sub-section (6), the parties are free to agree on a procedure for appointing the arbitrator or arbitrators.
+
+(3) Failing any agreement referred to in Sub-section (2), in an arbitration with three arbitrators, each party shall appoint one arbitrator, and the two appointed arbitrators shall appoint the third arbitrator who shall act as the presiding arbitrator.
+
+(4) If the appointment procedure in Sub-section (3) applies and- (a) a party fails to appoint an arbitrator within thirty days from the receipt of a request to do so from the other party; or
+
+(b) the two appointed arbitrators fail to agree on the third arbitrator within thirty days from the date of their appointment.
+
+the appointment shall be made, upon request of a party, by the Chief Justice or any person or institution designated by him.
+
+(5) Failing any agreement referred to in Sub-section (2), in an arbitration with a sole arbitrator, if the parties fail to agree on the arbitrator within thirty days from receipt of a request by one party from the other party to so agree the appointment shall be made, upon request of a party, by the Chief Justice or any person or institution designated by him.
+
+(6) Where, under an appointment procedure agreed upon by the parties,-
+
+(a) a party fails to act as required under that procedure; or
+
+(b) the parties, or the two appointed arbitrators, fail to reach an agreement expected of them under that procedure; or
+
+(c) a person, including an institution, fails to perform any function entrusted to him or it under that procedure,
+
+a party may request the Chief Justice or any person or institution designated by him to take the necessary measure, unless the agreement on the appointment procedure provides other means for securing the appointment.
+
+(7) A decision on a matter entrusted by Sub-section (4) or Sub-section (5) or Sub-section (6) to the Chief Justice or the person or institution designated by him is final.
+
+(8) The Chief Justice or the person or institution designated by him, in appointing an arbitrator, shall have due regard to-
+
+(a) any qualifications required of the arbitrator by the agreement of the parties; and
+
+(b) other considerations as are likely to secure the appointment of an independent and impartial arbitrator.
+
+(9) In the case of appointment of sole or third arbitrator in an international commercial arbitration, the Chief Justice of India or the person or institution designated by him may appoint an arbitrator of a nationality other than the nationalities of the parties where the parties belong to different nationalities.
+
+(10) The Chief Justice may make such scheme an he may deem appropriate for dealing with matters entrusted by Sub-section (4) or Sub-section (5) or Sub-section (6) to him.
+
+(11) Where more than one request has been made under Sub-section (4) or Sub-section (5) or Sub-section (6) to the Chief Justices of different High Court or their designates, the Chief Justice or his designate to whom the request has been first made under the relevant Sub-section shall alone be competent to decide on the request.
+
+(12)(a) Where the matters referred to in Sub-sections (4)(5), (6), (7),(8) and (10) arise in an international commercial arbitration, the reference to "Chief Justice" in those sub-sections shall be construed as a reference to the "Chief Justice of India".
+
+(b) Where the matters referred to in Sub-sections (4), (5), (6), (7), (8) and (10) arise in any other arbitration, the reference to "Chief Justice" in those sub-sections shall be construed as a reference to the Chief Justice of the High Court within whose local limits the principal Civil Court referred to in Clause (e) of Sub-section (1) of Section 2 is situate and, where the High Court itself is the Court referred to in that clause, to the Chief Justice of that High Court."
+
+Section 12 imposes upon a person approached to be an arbitrator the obligation to disclose to the parties in writing any circumstances that may give rise to justifiable doubts as to his independence and impartiality. An arbitrator can be challenged if there are circumstances that give rise to justifiable doubts about his independence and impartiality or if he does not possess the qualifications agreed to by the parties, but such challenge can be made only for reasons which the party challenging becomes aware of after the appointment has been made. Section 13 speaks of the challenge procedure. It states that the parties are free to agree on such a procedure. Failing that, the party who makes the challenge must within fifteen days after becoming aware of the constitution of the arbitral tribunal or of any of the circumstances mentioned in Section 12, send a written statement of the reasons for the challenge to the arbitral tribunal. Unless the challenged arbitrator withdraws or the other party to the arbitrations agrees to the challenge, the arbitral tribunal shall decide upon the challenge and if the challenge is not successful it shall continue the arbitration proceedings and make an award. That award can be sought to be set aside under Section 34.
+
+8. Section 16 empowers the arbitral tribunal to rule on its own jurisdiction. Clause (1) of Section 16 is relevant, and reads thus:
+
+"(1) The arbitral tribunal may rule on its own jurisdiction, including ruling on any objections with respect to the existence or validity of the arbitration agreement, and for that purpose,-
+
+(a) an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract; and
+
+(b) a decision by the arbitral tribunal that the contract is null and void shall not entail ipso jure the validity of the arbitration clause.
+
+9. If a party is aggrieved by an arbitral award made after rejection of his plea of jurisdiction, he can challenge it in accordance with Section 34.
+
+10. Section 34, so far as is relevant reads thus:
+
+"(1) Recourse to a court against an arbitral award may be made only by an application for setting aside such award in accordance with Sub-section (2) and Sub-section (3).
+
+(2) An arbitral award may be set aside by the court only if-
+
+(a) the party making the application furnishes proof that-
+
+(i) a party was under some incapacity; or
+
+(ii) the arbitration agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law for the time being in force; or
+
+(iii) the party making the application was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case; or
+
+(iv) the arbitral award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submissions to arbitration:
+
+Provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the arbitral award which contains decisions on matters not submitted to arbitration may be set aside; or
+
+(v) the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this Part from which the parties cannot derogate, or, failing such agreement, was not in accordance with this Part; or.
+
+(b) the court finds that-
+
+(i) the subject-matter of the dispute is not capable of settlement by arbitrator: under the law for the time being in force, or
+
+(ii) the arbitral award is in conflict with the public policy of India.
+
+Explanation .--Without prejudice to the generality of Sub-clause (2), it is hereby declared, for the avoidance of any doubt, that an award is in conflict with the public policy of India if the making of the award was induced or affected by fraud or corruption or was in violation of Section 75 or Section 81."
+
+11. An order setting aside or refusing to set aside an arbitral award under Section 34 is appealable by reason of Section 37. Also appealable are the orders relating to the jurisdiction of the arbitral tribunal under Section 16.
+
+12. It is convenient at this stage to set our the scheme framed by the Chief Justice of India under Section 11(10) of the Act. It is representative of the schemes framed by the High Court under the same provision.
+
+"THE APPOINTMENT OF ARBITRATORS BY THE CHIEF
+
+JUSTICE OF INDIA SCHEME, 1996
+
+No. F. 22/1/95/SCA/Genl. --In exercise of the powers conferred on the Chief Justice of India under Sub-section (10) of Section 11 of the Arbitration and Conciliation Ordinance, 1996, I hereby make the following Scheme.
+
+1. Short title .-- This Scheme may be called the Appointment of Arbitrators by the Chief Justice of India Scheme, 1996.
+
+2. Submission of request .--The request to the Chief Justice under Sub-section (4) or Sub-section (5) or Sub-section (6) of Section 11 shall be made in writing and shall be accompanied by-
+
+(a) the original arbitration agreement or a duly certified copy thereof;
+
+(b) the names and addresses of the parties to the arbitration agreement;
+
+(c) the names and addresses of the arbitrators, if any, already appointed;
+
+(d) the name and address of the person or institution, if any, to whom or which any function has been entrusted by the parties to the arbitration agreement under the appointment procedure agreed upon by them;
+
+(e) the qualifications required, if any, of the arbitrators by the agreement of the parties;
+
+(f) a brief written statement describing the general nature of the dispute and the points at issue;
+
+(g) the relief or remedy sought; and
+
+(h) an affidavit, supported by the relevant document, to the effect that the condition to be satisfied under Sub-section (4) or Sub-section; (5) or Sub-section (6) of Section 11, as the case may be, before making the request to the Chief Justice, has been satisfied.
+
+3. Authority to deal with the request.-- Upon receipt of a request under paragraph 2, the Chief Justice may either deal with the matter entrusted to him or designate any other person or institution for that purpose.
+
+4. Forwarding of request to designated person or institution.-- Where the Chief Justice designates any person or institution under paragraph 3, he shall have the request along with the documents mentioned in paragraph 2 forwarded forthwith to such person or institution and also have a notice sent to the parties to the arbitration agreement.
+
+5. Seeking further information.-- The Chief Justice or the person or the institution designated by him under paragraph 3 may seek further information or clarification from the party making the request under this Scheme.
+
+6. Rejection of request.-- Where the request made by any party under paragraph 2 is not in accordance with the provisions of this Scheme, the Chief Justice or the person or the institution designated by him may reject it.
+
+7. Notice to affected persons.-- Subject to the provisions of paragraph 6, the Chief Justice or the person or the institution designated by him shall direct that a notice of the request be given to all him shall direct that a notice of the request be given to all the parties to the arbitration agreement and such other person or persons as may seem to him or is likely to be affected by such request to show cause, within the time specified in the notice, why the appointment of the arbitrator or the measure proposed to be taken should not be made or taken and such notice shall be accompanied by copies of all documents referred to in paragraph 2 or, as the case may be, by information or clarification, if any, sought under paragraph 5.
+
+8. Withdrawal of authority.-- If the Chief Justice, on receipt of a complaint from either party to the arbitration agreement or otherwise is of opinion that the person or institution designated by him under paragraph 3 has neglected or refused to act or is incapable of acting he may withdraw the authority given by him to such person or institution and either deal with the request himself or designate another person or institution for that purpose.
+
+9. Intimation of action taken on request.-- The appointment made or measure taken by the Chief Justice or any person or institution designated by him in pursuance of the request under paragraph 1 shall be communicated in writing to-
+
+(a) the parties to the arbitration agreement;
+
+(b) the arbitrators, if any, already appointed by the parties to the arbitration agreement;
+
+(c) the person or the institution referred to in paragraph 2(D);
+
+(d) the arbitrator appointed in pursuance of the request.
+
+10. Requests and communications to be sent to Registrar.-- All requests under this Scheme and communications relating thereto which are addressed to the Chief Justice shall be presented to the Registrar of this court, who shall maintain a separate Register of such requests and communications.
+
+11. Delivery and receipt of written communications.-- The provisions of Sub-sections (1) and (2) of Section 3 of the Arbitration and Conciliation Ordinance, 1996 shall, so far as may be, apply to all written communications received or sent under this Scheme.
+
+12. Costs for processing requests.-- The party making a request under this Scheme shall, on receipt of notice of demand from-
+
+(a) the Registry of the court where the Chief Justice makes the appointment of an arbitrator or takes the necessary measure, or
+
+(b) the designated person or the institution as the case may be, where such person or institution makes appointment or arbitrator or takes the necessary measure,
+
+pay an amount of Rs. 15,000 in accordance with the terms of such notice towards to costs involved in processing the request.
+
+13. Interpretation.-- If any question arises with reference to the interpretation of any of the provisions of this Scheme, the question shall be referred to the Chief Justice, whose decision shall be final.
+
+14. Power to amend the Scheme.-- The Chief Justice may, from time to time, amend by way of addition or variation any provision of this Scheme."
+
+13. The three Judge Bench whose judgment is to be reconsidered framed the following two questions for consideration:
+
+"(1) What is the nature of the order that is passed by the Chief Justice or his nominee in exercise of power under Sub-section (6) of Section 11 of the Act?
+
+(2) Even if the said order is held to be administrative in nature what is the remedy open to the person concerned if his request for appointment of an arbitrator is turned down by the learned Chief Justice or his nominee, for some reason or other?"
+
+14. The three Judge Bench noted that the Act was based upon the UNCITRAL Model framed by the Commission on International Trade Law established by the United Nations. It said that if a comparison was made between the language of Section 11 of the Act and Article 11 of the Model Law it was apparent that the Act had designated the Chief Justice of a High Court in cases of domestic arbitration and the Chief Justice of India in cases of international commercial arbitration to be the authority to perform the function of appointment of an arbitrator whereas under the Model Law that power had been vested in the court. When the matter was placed before the Chief Justice or his designate under Section 11 it was imperative for the Chief Justice or his designate to bear in mind the legislative intent that the arbitral process should be set in motion without any delay and leave all contentious issues to be raised before the arbitral tribunal. At that stage it was not contentious issues between the parties and decide the same. A bare reading of Section 13 and 16 made it clear that questions with regard to the qualifications, independence and impartiality of the arbitrator and in respect of the jurisdiction of the arbitrator could be raised before the arbitrator, who would decide the same. If a contingency arose where the Chief Justice or his designate refused to make an appointment, the party seeking the appointment was not without remedy. An intervention was possible by a court in the same way as an intervention was possible against an administrative order of the executive. In other words, it would be a case of non-performance of his duty by the Chief Justice or his designate and, therefore, a mandamus would lie. In such an event there would not be any inordinate delay in setting the arbitral process in motion. The nature and function performed by the Chief Justice or his designate being essentially to aid the constitution of the arbitral tribunal, it could not be held to be a judicial function, as otherwise the legislature would have used the expression "court" or "judicial authority". It was, therefore, held that an order under Section 11 refusing to appoint an arbitrator was not amenable to the jurisdiction of this Court under Article 136 of the Constitution.
+
+15. In the referring judgment the Bench of two learned Judges noted the material relied upon by learned counsel for the appellant before them, which related to the Model Law, and learned counsel's argument. It then stated, "In the light of the above contentions and material, which in our opinion have a substantial bearing on the matter, and further inasmuch as this question is one arising almost constantly in a large number of cases in the various High Courts, it is desirable that this Court re-examines the matter".
+
+16. It is convenient at this stage itself to deal with the argument based on the Model Law. The Statement of Objects and Reasons of the Act states, "Though the said UNCITRAL Model Law and Rules are intended to deal with international commercial arbitration and conciliation, they could, with appropriate modifications, serve as a model for legislation on domestic arbitration and conciliation. The present Bill seeks to consolidate and amend the law relating to domestic arbitration, international commercial arbitration, enforcement of foreign arbitral awards and to define the law relating to conciliation, taking into account the said UNCITRAL Model Law and Rules". That the Model Law was only taken into account in the drafting of the said Act is, therefore, patent. The Act and the Model Law are not identically drafted. Under Section 11 the appointment of an arbitrator, in the event of a party to the arbitration agreement failing to carry out his obligation to appoint an arbitrator, is to be made by "the Chief Justice or any person or institution designated by him"; under Clause 11 of the Model Law it is to be made by a court. Section 34 of the Act is altogether different from Clause 34 of the Model Law. The Model Law and judgments and literature thereon are, therefore, not a guide to the interpretation of the Act and, especially, of Section 11 thereof.
+
+17. Learned counsel for the appellants submitted that Section 11 of the Act laid down conditions precedent to the Chief Justice or his designate naming an arbitrator in that, as for example, in Sub-section (4)(a) the party had to fail to appoint an arbitrator within thirty days from the receipt of a request to do so from the other party. If the party who was alleged to have failed to appoint an arbitrator within thirty days of the receipt of the request contested this position, it was for the Chief Justice or his designate to decide the issue. Reliance was placed upon Sub-section (7) of Section 11, which refers to a "decision" on the matter entrusted to the Chief Justice or his designate, and on Sub-section(8), which requires the Chief Justice or his designate to have due regard to the qualifications required of the arbitrator by the agreement of the parties and other considerations as are likely to secure the appointment of an independent and impartial arbitrator. In learned counsel submission, these also indicated that the Chief Justice or his designate had to perform an adjudicatory function in naming an arbitrator. Learned counsel submitted that Section 16 of the Act enabled the arbitral tribunal to decide on the width of its jurisdiction but it could not decide whether or into an arbitrator had no jurisdiction because he had been appointed by the Chief Justice or his designate even though the period of thirty days of the receipt of the request to do so had not elapsed; this was an issue which had to be decided by the Chief Justice or his designate. Reliance was placed upon Clause 7 of The Appointment of Arbitrators by the Chief Justice of India Scheme; it was submitted that the affected parties had to be given notice by reason of that clause to show cause, which implied that, on their showing cause, the issues they raised would be decided by the Chief Justice or his designate. Reliance was placed upon Associated Cement Companies Ltd. v. P.N. Sharma and Anr. MANU/SC/0215/1964MANU/SC/0215/1964 : (1965)ILLJ433SC , to contend that the Chief Justice or his designate functioned as a tribunal so as to attract Article 136 to the order naming an arbitrator. It was submitted that the four essential requirements in this behalf were satisfied, namely, the appointment of the Chief Justice was an appointment by the State; the Chief Justice or his designate were independent of the executive; there was a duty cast upon them to decide judicially; and they had the power to enforce their decision.
+
+18. The learned Attorney General, on notice, made submissions that were adopted by learned counsel for the respondents. The Attorney General drew our attention to Section 5 of the Act, which mandated that no judicial authority should intervene except to the extent provided in the Act, and to Section 8, which required a judicial authority before which an action was brought in a matter which was the subject of an arbitration agreement to refer the parties to arbitration. The emphasis of the Act, in the learned Attorney General's submission, was to expedite the proceedings of the domestic tribunal to which the parties had agreed to submit their disputes. It was in this light that the Act had to be read. Section 11 did not require the Chief Justice or his designate to perform any adjudicatory function. All that the Chief Justice or his designate was required to do was to nominate an arbitrator if a party to an arbitration agreement had failed to do so within the specified time after a request to it to do so had been made, and in so nominating an arbitrator the Chief Justice or his designate was to have regard to the qualifications that were required of the arbitrator by the agreement of the parties and to other considerations which were likely to secure the appointment of an independent and impartial arbitrator. This the Chief Justice or his designated had to do on an ex facie basis; no element of adjudication came into it. The learned Attorney General drew attention to Section 12 and 13 which provided for a challenge to an arbitrator in respect of whom there were doubts about independence or impartiality. The provisions of Section 12 and 13 applied even to an arbitrator who had been nominated by the Chief Justice or his designate under Section 11. In the submission of the learned Attorney General, the competence of the arbitral tribunal to role on its own jurisdiction under Section 16 was not confined to the width of its jurisdiction but extended to deciding whether it had any jurisdiction at all. Section 34 gave a party adversely affected by an arbitral award the right to approach a court to set it aside on the stated grounds, which included the composition of the arbitral tribunal. An order under Section 34 was appealable under Section 37, as was an order accepting the plea that the arbitral tribunal did not have jurisdiction. The learned Attorney General drew our attention to the judgments of this Court in The Engineering Mazdoor Sabha Representing Workmen Employed under The Hind Cycles Ltd. and Anr. v. The Hind Cycle Ltd., Bombay MANU/SC/0279/1962MANU/SC/0279/1962 : 1963 Supp. (1) SCR 625 and Jaswant Sugar Mills Ltd., Meerut v. Lakshmichand and Ors. MANU/SC/0382/1962MANU/SC/0382/1962 : [1963]1SCR242 to submit that a tribunal was a body that exercised an adjudicatory function. The Chief Justice or his designate under Section 11 performed neither an adjudicatory function nor they were exercising the power of the State. They were not, therefore, tribunals and their orders under Section 11 could not be made the subject of petitions for leave to appeal under Article 136.
+
+19. Article 136 empowers this Court to grant special leave to appeal from any judgment, decree, sentence or order in any cause or matter passed or made by any court or tribunal in the territory of India. For the nomination of an arbitrator by the Chief Justice or his designate under Section 11 of the Act to be subject to Article 136 such nomination must be (a) a judgment, decree, determination, sentence or order (b) passed or made by any court or tribunal in the territory of India. The question is whether such nomination is a determination or order and whether it is made by a tribunal, as contended by learned counsel for the appellants. There is in the line of authority of this Court on the subject a recurring theme.
+
+20. In the judgment cited by learned counsel for the appellants himself, namely, the case of Associated Cement Companies Ltd., a Constitution Bench said, "The question which we have to decide in the present appeal is whether the State Government is a tribunal when it exercises its authority under Rule 6(5) or Rule 6(6) ..... The main and basic test, however, is whether the adjudicating power which a particular authority is empowered to exercise has been conferred on it by a statute and can be described as a part of the State's inherent power exercised in discharging its judicial function. Applying this test, there can be no doubt that the power which the State Government exercises under Rule 6(5) and Rule 6(6) is a part of the State's judicial power. It has been conferred on the State Government by a statutory Rule and it can be exercised in respect of disputes between the management and its welfare officers. There is, in that sense, a lis; there is affirmation by one party and denial by another, and the dispute necessarily involves the rights and obligations of the parties to it."
+
+21. In Jaswant Sugar Mills Ltd., cited by the learned Attorney General, this Court said, "The expression "determination" in the context in which it occurs in Article 136 signifies and effective expression of opinion which ends a controversy or a dispute by some authority to whom it is submitted under a valid law for disposal. The expression "order" must have also a similar meaning, except that it need not operate to end the dispute. 'Determination' or 'order' must be judicial or quasi-judicial; purely administrative or executive direction is not contemplated to be made the subject-matter of appeal to this Court. The essence of the authority of this Court being judicial, this Court does not exercise administrative or executive powers, i.e. character of the power conferred upon this Court, original or appellate, by its constitution being judicial, the determination or order sought to be appealed from must have the character of a judicial adjudication". The Court went on to state that to make a decision or an act judicial, the following criteria must be satisfied:
+
+"(1) it is in substance a determination upon investigation of a question by the application of objective standards to facts found in the light of pre-existing legal rule;
+
+(2) it declares rights or imposes upon parties obligations affecting their civil rights; and
+
+(3) that the investigation is subject to certain procedural attributes contemplating an opportunity of presenting its case to a party, ascertainment of facts by means of evidence if a (sic) be on questions of fact, and if the dispute be on question of law on the presentation of legal argument, and a decision resulting in the disposal of the matter on findings based upon those questions of law and fact."
+
+22. The Court added, "But every decision or order by an authority under a duty to act judicially is not subject to appeal to this Court. Under Article 136, an appeal lies to this Court from adjudications of courts and tribunals only. Adjudication of a court or a tribunal must doubtless be judicial but every authority which by its constitution or authority specially conferred upon it is required to act judicially is not necessary a tribunal for the purpose of Article 136."
+
+23. In the case of The Engineering Mazdoor Sabha, a Constitution Bench said:
+
+"For invoking Article 136(1), two conditions must be satisfied. The proposed appeal must be from any judgment, decree, determination, sentence or order, that is to say, it must not be against a purely executive or administrative order. If the determination or order giving rise to the appeal is a judicial or quasi-judicial determination or order, the first condition is satisfied. The second condition imposed by the Article is that the said determination or order must have been made or passed by any Court or Tribunal in the territory of India. These conditions, therefore, require that the act complained against must have the character of a judicial or quasi-judicial act and the authority whose act is complained against must be a Court or a Tribunal. Unless both the conditions are satisfied, Article 136(1) cannot be invoked."
+
+The Court added:
+
+"...The Tribunal which are contemplated by Article 136(1) are clothed with some of the powers of the courts. They can compel witnesses to appear, they can administer oath, they are required to follow certain rules of procedure; the proceedings before them are required to comply with rules of natural justice, they may not be bound by the strict and technical rules of evidence, but, nevertheless, they must decide on evidence adduced before them; they may not be bound by other technical rules of law, but their decisions must, nevertheless, be consistent with the general principles of law. In other words, they have to act judicially and reach their decisions in an objective manner and they cannot proceed purely administratively or base their conclusions on subjective tests or inclinations...".
+
+24. To put it concisely, for an order properly to be the subject of a petition for special leave to appeal under Article 136 it must be an adjudicatory order, an order that adjudicates upon the rival contentions of parties, and it must be passed by an authority constituted by the State by law for the purpose in discharge of the State's obligation to secure justice to its people.
+
+25. Section 11 of the Act deals with the appointment of arbitrators. It provides that the parties are free to agree on a procedure for appointing an arbitrator or arbitrators. In the event of there being no agreement in regard to such procedure, in an arbitration by three arbitrators each party is required to appoint one arbitrator and the two arbitrators so appointed must appoint the third arbitrator. If a party fails to appoint an arbitrator within thirty days from the request to do so by the other party or the two arbitrators appointed by the parties fail to agree on a third arbitrator within thirty days of their appointment, a party may request the Chief Justice to nominate an arbitrator and the nomination shall be made by the Chief Justice or any person or institution designated by him. If the parties have not agreed on a procedure for appointing an arbitrator in an arbitration with a sole arbitrator and the parties fail to agree on an arbitrator within thirty days from receipt of a request to one party by the other party, the nomination shall be made on the request of a party by the Chief Justice or his designate. Where an appointment procedure has been agreed upon by the parties but a party fails to act as required by that procedure or the parties, or the two arbitrators appointed by them, fail to reach the agreement expected of them under that procedure or a person or institution fails to perform the function entrusted to him or it under that procedure, a party may request the Chief Justice or his designate to nominate an arbitrator, unless the appointment procedure provides other means in this behalf. The decision of the Chief Justice or his designate is final. In nominating an arbitrator the Chief Justice or his designate must have regard to the qualifications required of the arbitrator in the agreement between the parties and to other considerations that will secure the nomination of an independent and impartial arbitrator.
+
+26. There is nothing in Section 11 that requires the party other than the party making the request to be noticed. It does not contemplate a response from that other party. It does not contemplate a decision by the Chief Justice or his designate on any controversy that the other party may raise, even in regard to its failure to appoint an arbitrator within the period of thirty days. That the Chief Justice or his designate has to make the nomination of an arbitrator only if the period of thirty days is over does not lead to the conclusion that the decision to nominate is adjudicatory. In its request to the Chief Justice to make the appointment the party would aver that this period has passed and, ordinarily, correspondence between the parties would be annexed to bear this out. This is all that the Chief Justice or his designate has to see. That the Chief Justice or his designate has to take into account the qualifications required of the arbitrator by the agreement between the parties (which, ordinarily, would also be annexed to the request) and other considerations likely to secure the nomination of an independent and impartial arbitrator also cannot lead to the conclusion that the Chief Justice or his designate is required to perform an adjudicatory function. That the word 'decision' is used in the matter of the request by a party to nominate an arbitrator does not of itself means that an adjudicatory decision is contemplated.
+
+27. As we see it, the only function of the Chief Justice or his designate under Section 11 is to fill the gap left by a party to the arbitration agreement or by the two arbitrators appointed by the parties and nominate an arbitrator. This is to enable the arbitral tribunal to be expeditiously constituted and the arbitration proceedings to commence. The function has been left to the Chief Justice or his designate advisedly, with a view to ensure that the nomination of the arbitrator is made by a person occupying high judicial office or his designate, who would take due care to see that a competent, independent and impartial arbitrator is nominated.
+
+28. It might be that through the Chief Justice or his designate might have taken all due care to nominate an independent and impartial arbitrator, a party in a given case may have justifiable doubts about that arbitrator's independent or impartiality. In that event it would be open to that party to challenge the arbitrator under Section 12, adopting the procedure under Section 13. There is no reason whatever to conclude that the grounds for challenge under Section 13 are not available only because the arbitrator has been nominated by the Chief Justice or his designate under Section 11.
+
+29. It might also be that in a given case the Chief Justice or his designate may have nominated an arbitrator although the period of thirty days had not expired. If so, the arbitral tribunal would have been improperly constituted and be without jurisdiction. It would then be open to the aggrieved party to require the arbitral tribunal to rule on its jurisdiction. Section 16 provides for this. It states that the arbitral tribunal may rule on its own jurisdiction. That the arbitral tribunal may rule "on any objections with respect to the existence or validity of the arbitration agreement" shows that the arbitral tribunal's authority under Section 16 is not confined to the width of its jurisdiction, as was submitted by learned counsel for the appellants, but goes to the very root of its jurisdiction. There would, therefore, be no impediment in contending before the arbitral tribunal that it had been wrongly constituted by reason of the fact that the Chief Justice or his designate had nominated an arbitrator although the period of thirty days had not expired and that, therefore, it had no jurisdiction.
+
+30. The schemes made by the Chief Justice under Section 11 cannot govern the interpretation of Section 11. If the schemes, as drawn, go beyond the terms of Section 11 they are bad and have to be amended. To the extent that The Appointment of Arbitrators by the Chief Justice of India Scheme, 1996, goes beyond Section 11 by requiring in Clause 7, the service of a notice upon the other party to the arbitration agreement to show cause why the nomination of an arbitrator, as requested, should not be made, it is bad and must be amended. The other party needs to be given notice of the request only so that it may know of it and it may, if it so chooses, assist the Chief Justice or his designate in the nomination of an arbitrator.
+
+31. In conclusion, we hold that the order of the Chief Justice or his designate under Section 11 nominating an arbitrator is not an adjudicatory order and the Chief Justice or his designate is not a tribunal. Such an order cannot properly be made the subject of a petition for special leave to appeal under Article 136. The decision of the three Judge Bench in Konkan Railway Corporation Ltd. and Ors. v. Mehul Construction Co. is affirmed.
+
+32. We record our appreciation of the assistance rendered by the learned Attorney General as Amicus Curiae.
+
+33. In the result, the appeals are dismissed. No order as to costs.
+
