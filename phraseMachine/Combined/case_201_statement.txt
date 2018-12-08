@@ -1,0 +1,172 @@
+
+
+Ranjan Gogoi, J.
+
+1. Delay condoned. Leave granted in all the special leave petitions.
+
+2. This group of cases may be conveniently arranged in four different categories. The first are the appeals arising from the judgment and order dated 24/25.04.2013 passed by the Gujarat High Court declaring Section 145A of the Gujarat Provincial Municipal Corporations Act, 1949 (hereinafter referred to as "the Gujarat Act") as ultra vires the Constitution and on that basis interdicting the levy of property tax on "mobile towers". The High Court, by the impugned judgment, however, took the view that the Cabin in a mobile tower in which BTS system, details of which are noticed below, is located, would be a building and, therefore, exigible to tax under the Gujarat Act. The State Government and the different Municipal Corporations have challenged the first part of the order of the High Court whereas the Cellular operators have challenged the later part.
+
+3. The Bombay High Court which was in seisin of a somewhat similar challenge, by the order under challenge, has taken the view that the writ petitions challenging the levy of property tax on mobile towers should not be entertained and the aggrieved writ Petitioners therein (cellular operators) should be left with the option of exhausting the alternate remedies provided by the Act. This would be the third category of cases. In this regard, it must be noticed that in the Bombay Provincial Municipal Corporations Act, 1949, the charging Section does not specifically contemplate levy of taxes on mobile towers as in the Gujarat Act. The impugned levy, nevertheless, was imposed on the reasoning that mobile towers are buildings as defined in the Act. At this stage, it must also be noticed that the Bombay Provincial Municipal Corporations Act, 1949 was applicable to the State of Gujarat also until the year 2011 when by the Gujarat Short Titles (Amendment) Act, 2011 the word 'Gujarat' has been inserted in place of the word 'Bombay'.
+
+4. The fourth and fifth categories of cases would be the writ petitions raising identical issues which have been transferred from the Bombay High Court to this Court and the writ petitions filed before this Court by the cellular operators Under Article 32 of the Constitution raising a similar challenge as in the writ petitions filed before the High Court.
+
+5. As the elaborate arguments advanced in the course of the prolonged hearing have centered around the provisions of the Gujarat Act, it may be convenient to take up the Gujarat cases in the first instance. The answer to the issues arising therein would, in any way, effectively decide the issues arising in the Bombay cases also as well as in the transferred cases and the writ petitions filed Under Article 32 of the Constitution.
+
+6. The relevant provisions of the Gujarat Act defining the expressions "building", "land" and "mobile tower" are as follows:
+
+Section 2(5) "building" includes a house, out-house, stable, shed, hut and other enclosure or structure whether of masonry, bricks, wood, mud, metal or any other material whatever whether used as a human dwelling or otherwise, and also includes verandahs, fixed platforms, plinths, doorsteps, walls including compound walls and fencing and the like.
+
+xxx xxx xxx xxx xxx
+
+Section 2(30) "land" includes land which is being built upon or is built upon or covered with water, benefits to arise out of land, things attached to the earth or permanently fastened to anything attached to the earth and rights created by legislative enactment over any street.
+
+xxx xxx xxx xxx xxx
+
+Section 2(34AA) "Mobile tower" means a temporary or permanent structure, equipment or instrument erected or installed on land or upon any part of the building or premises for providing telecommunication services.
+
+7. Section 127(1) of the Gujarat Act, the charging section, is in the following terms:
+
+127. Taxes to be imposed under this Act.-
+
+(1) For the purposes of this Act, the Corporation shall impose the following taxes, namely:
+
+(a) Property taxes either Under Section 129 or Under Section 141AA.
+
+(b) a tax on vehicles, boats and animals.
+
+(c) a tax on mobile towers:
+
+Provided that xxx xxx xxx xxx xxx xxx xxx
+
+8. Section 129 of the Gujarat Act deals with different components of the property tax which can be levied under the Act. Briefly put the said components are water tax; conservancy and sewerage tax; general tax of not less than 12% but not exceeding 30% of the rateable value etc.
+
+9. Section 141AA deals with the rate at which water tax, conservancy tax and sewerage tax are to be imposed. Section 141B of the Gujarat Act provides for the rate at which the general tax is leviable.
+
+10. Section 145A (inserted by the Gujarat Local Authorities Laws (Amendment) Act, 2011) provides for tax on mobile towers at rates not exceeding those prescribed by order in writing by the State Government. Such tax which is levied on mobile towers is to be collected from persons engaged in providing telecommunication services through service towers. Section 145A is in the following terms.
+
+145A Tax on mobile towers.-
+
+(1) A tax at the rates not exceeding those prescribed by order in writing by the State Government in this behalf from time to time shall be levied on mobile towers from the person engaged in providing telecommunication services through such mobile towers.
+
+(2) The Corporation shall from year to year, in accordance with Section 99, determine the rates at which the tax shall be levied.
+
+11. By the aforesaid Gujarat Local Authorities Laws (Amendment) Act, 2011 similar provisions for levy of tax on mobile towers have been inserted in the Gujarat Municipalities Act, 1963 and also the Gujarat Panchayats Act, 1993.
+
+12. The short contention of the cellular operators advanced before the High Court is that Section 127(1)(c) read with Section 145A of the Gujarat Act are legislatively incompetent as mobile towers are beyond the scope of Entry 49 of List II of the Seventh Schedule to the Constitution which is in the following terms.
+
+49. Taxes on lands and buildings.
+
+13. The High Court thought it proper to accept the said contention and on that basis to hold that levy of tax on mobile towers under the Gujarat Act is ultra vires the Constitution except insofar as the Cabin that houses the BTS system is concerned.
+
+14. Two significant aspects connected to the issues arising may be taken note of at the outset. The meaning of any Legislative Entry e.g. "Taxes on lands and buildings" (Entry 49 of List II) should not be understood by reference to the definition of the very same expressions appearing in a statute traceable to the particular Legislative Entry. In the present case, though the Gujarat Act defines the expressions "land" and "building", as rightly held by the High Court, it would be self defeating to understand the meaning and scope of Entry 49 of List II by reference to the definition clauses in the Gujarat Act. Definitions contained in the statute may at times be broad and expansive; beyond the natural meaning of the words or may even contain deeming provisions. Though the wide meaning that may be ascribed to a particular expression by the definition in a statute will have to be given effect to, if the statute is otherwise found to be valid, it will, indeed, be a contradiction in terms to test the validity of the statute on the touchstone of it being within the Legislative Entry, by a reference to the definition contained in the statute.
+
+15. The second aspect, mentioned above, is one concerning the permissible operation of two different statutes relatable to two different Entries in List I or II or even in List III of the Seventh Schedule to the Constitution. This has been acknowledged by the High Court, in the impugned Order, by accepting that even if a mobile tower is a part of the apparatus pertaining to "telegraphs" covered by Entry 31 of List I, yet, the Gujarat Act could still co-exist as a statute levying a tax on lands and buildings so long and if only mobile towers can come within the scope and ambit of the aforesaid expressions "land and building" in Entry 49 of List II. The endeavour, therefore, must be to trace out the true meaning of the expressions "land and building" appearing against Entry 49 of List II by a correct application of the parameters and principles governing the interpretation of a Constitutional provision specially an Entry in any of the legislative fields under the Seventh Schedule to the Constitution.
+
+16. Certain accepted and settled principles of Constitutional interpretation may now be taken note of. It will not be necessary to enter into any detailed deliberations and debate in this regard in view of the undisturbed precedents on which such principles have come to rest. Broadly and illustratively some of the principles which have been culled out from the decisions of this Court are enumerated hereinbelow.
+
+(i) In interpreting the provisions of the Constitution, particularly the Legislative Entry, a broad, liberal and expansive interpretation is to be preferred as the meaning of an Entry is always inclusive. [Synthetics and Chemicals Ltd. v. State of Uttar Pradesh MANU/SC/0595/1989MANU/SC/0595/1989 : (1990) 1 SCC 109 Para 67.]
+
+(ii) Principles of interpretation of a statute are not foreign and altogether irrelevant for the purposes of interpreting a constitutional provision and/or a specific Legislative Entry. [Good Year India Ltd. v. State of Haryana and Anr. MANU/SC/0194/1989MANU/SC/0194/1989 : AIR 1990 SC 781 Para 17.]
+
+(iii) A Constitution is an organic document that must grow and live with the times. [State of West Bengal v. Kesoram Industries Ltd. MANU/SC/0038/2004MANU/SC/0038/2004 : (2004) 10 SCC 201 Para 50.]
+
+(iv) The spirit of the Constitution, the constitutional goals; and the constitutional philosophy must guide the broad and liberal interpretation of a Legislative Entry. [State of West Bengal v. Kesoram Industries Ltd. MANU/SC/0038/2004MANU/SC/0038/2004 : (2004) 10 SCC 201 Para 31.]
+
+(v) The dictionary meaning and the common parlance test can also be adopted. [Trutuf Safety Glass Industries v. Commissioner of Sales Tax, U.P. MANU/SC/3125/2007MANU/SC/3125/2007 : (2007) 7 SCC 242 Para 13.]
+
+(vi) Words and expressions in a constitutional provision or Legislative Entry should not be given an unnatural meaning. [India Cement v. State of Tamil Nadu MANU/SC/0226/1989MANU/SC/0226/1989 : (1990) 1 SCC 12 Para 18.]
+
+(vii) If a general word is used in a constitutional Entry, it must be construed as to extend all ancillary and subsidiary matters that can be reasonably included. [Jagannath Baksh Singh v. State of U.P. MANU/SC/0184/1962MANU/SC/0184/1962 : AIR 1962 SC 1563 Para 10; Elel Hotels & Investments Ltd. and Ors. v. U.O.I. MANU/SC/0176/1989MANU/SC/0176/1989 : (1989) 3 SCC 698 Para 14.]
+
+The abovesaid principles which are firmly entrenched as principles of Constitutional interpretation must be borne in mind while proceeding further in the case.
+
+17. In re. The Bill to amend Section 20 of the Sea Customs Act, 1878 and Section 3 of the Central Excise and Salt Act, 1944 MANU/SC/0037/1963MANU/SC/0037/1963 : 1964 (3) SCR 787, a Bench of nine Judges of this Court has observed that,
+
+Neither the Union nor the States can claim unlimited rights as regards the area of taxation. The right has been hedged in by considerations of respective powers and responsibilities of the Union in relation to the States, and those of the States in relation to citizens inter se or in relation to the Union. Part XII of the Constitution relates to Finances. At the very outset Article 265 lays down that "No tax shall be levied or collected except by authority of law." That authority has to be found in the three Lists in the Seventh Schedule subject to the provisions of Part XI which deals with relations between the Union and the States, particularly Chapter I thereof relating to legislative relations and distribution of legislative powers with special reference to Article 246.
+
+18. Article 246 is in the following terms:
+
+(1) Notwithstanding anything in Clauses (2) and (3), Parliament has exclusive power to make laws with respect to any of the matters enumerated in List I in the Seventh Schedule (in this Constitution referred to as the "Union List").
+
+(2) Notwithstanding anything in Clause (3), Parliament, and, subject to Clause (1), the Legislature of any State also, have power to make laws with respect to any of the matters enumerated in List III in the Seventh Schedule (in this Constitution referred to as the "Concurrent List").
+
+(3) Subject to Clauses (1) and (2), the Legislature of any State has exclusive power to make laws for such State or any part thereof with respect to any of the matters enumerated in List II in the Seventh Schedule (in this Constitution referred to as the "State List").
+
+(4) Parliament has power to make laws with respect to any matter for any part of the territory of India not included (in a State) notwithstanding that such matter is a matter enumerated in the State List.
+
+19. Though Article 246 has often been understood to be laying down the principle of Parliamentary supremacy, it must be qualified that such supremacy, if any, is extremely limited and very subtle. This has to be said when the federal structure of the Indian Union has been recognised as a basic feature of the Constitution. Both, the Central and the State legislatures, are competent to enact laws in any matters in their respective Lists i.e. List I and List II. Conflict or encroachments must be ironed out by the Courts and only on a failure to do so the provisions of Article 246 will apply. Insofar as the common List i.e. List III is concerned, any repugnancy in law making by the Union and State Legislatures is dealt with by Article 254 which gives primacy to the Parliamentary law over the State law subject to the provisions of Clause (2) of Article 254 of the Constitution which again is subject to a proviso which may indicate some amount of Parliamentary supremacy.
+
+20. The fields of taxation on which the Union Parliament and State legislatures are competent to enact legislations to meet the constitutional mandate Under Article 265 of the Constitution are clearly indicated in the respective Lists. While there can be no encroachment either way, it is possible that in a given situation though there may be some similarity between the taxes levied by a Central and a State enactment, both can co-exist having regard to the subject of the levy. A tax on income derived from land and a tax on the land itself wherein the income or earning therefrom forms the basis of the rates of the levy of tax is one such example. The above has been illustrated only to answer the arguments advanced before us on view expressed, in the order under challenge, by the High Court that even if it is assumed that the cellular operators are right in contending that mobile towers are covered by the field "telegraphs" (Entry 31 of List I), it cannot be said that if mobile towers can come within the fold of Entry 49 of List II, such a legislation would be legislatively incompetent.
+
+21. The Constitutional scheme with respect to financial relations between the Union and the State is dealt with by Part XII of the Constitution. The scheme discernible contemplates an equitable distribution of revenues between the Centre and the States. Though the Union and each of the federating units have their respective consolidated funds, the financial arrangements and adjustments that are to be found in the different provisions of Part XII of the Constitution would indicate an attempt at equitable distribution of revenues between the Union and the federating units even though such revenue may be derived from taxes and duties imposed by the Union and collected by it or through the agencies of the States. A perusal of the legislative entries relating to taxes imposable by the Central and the State legislatures do indicate that the larger share of the revenue goes to the Union because of the very nature of the taxes leviable by the Union Parliament which would stand credited to the consolidated fund of the Union. The allocation of revenue heads/taxation power in the States certainly shows a disequilibrium which, however, is sought to be balanced by the constitutional scheme aforementioned, namely, equitable distribution of revenues between the Union and the States even though such revenues may be derived from taxes and duties imposed by the Union and collected by it. This aspect of the Constitutional scheme which has been echoed in para 50 of the decision in State of West Bengal v. Kesoram Industries Ltd., (supra) has to be kept in mind as the discussions unfold.
+
+22. We may now see what a Mobile Tower is and consists of. In technical terms a Mobile Tower is called a "Base Transceiver Station." It involves the making of structure consisting of the following:
+
+a. A pre-fabricated shelter made of insulating PUF material made of fibres.
+
+b. Electronic Panel.
+
+c. Base Transceiver Station (BTS) and other radio transmission and reception equipment.
+
+d. A diesel generator set.
+
+e. Six poles of 6 to 9 meters length each made of hollow steel galvanized pipes.
+
+A mobile tower is constructed either on vacant land or on the terrace of existing buildings on the basis of agreements with the owners of such properties.
+
+23. To answer the question as to whether such mobile towers can come within the fold of 'land and building' appearing in Entry 49 List II of the Seventh Schedule it will be useful to take notice of the meanings of the two expressions as appearing in the leading judicial and English dictionaries. A comprehensive list of the different meanings expressed in different works so far as the two expressions 'land' and 'building' are concerned are set out below.
+
+LAND
+
+Stroud's Judicial Dictionary (Fifth Edition) defines that 'land', or 'lands', not only means the surface of the ground, but also everything (except gold or silver mines) on or over or under it, for Cujus est solum ejus est usque ad coelum et ad inferos (Co. Litt. 4 a; Touch. 91; 2 Bl. Com. 18; Lord Coke calls the earth "the suburbs of heaven").
+
+Black's Law Dictionary (Seventh Edition) defines that 'land' means an immovable and indestructible three-dimensional area consisting of a portion of the earth's surface, the space above and below the surface, and everything growing on or permanently affixed to it. The lexicographer further observes, "In its legal significance, 'land' is not restricted to the earth's surface, but extends below and above the surface. Nor is it confined to solids, but may encompass within its bounds such things as gases and liquids. A definition of 'land' along the lines of 'a mass of physical matter occupying space' also is not sufficient, for an owner of land may remove part or all of that physical matter, as nevertheless retain as part of his 'land' the space that remains. Ultimately, as a juristic concept, 'land' is simply an area of three-dimensional space, its position being identified by natural or imaginary points located by reference to the earth's surface. 'Land' is not the fixed contents of that space, although, as we shall see, the owner of that space may well own those fixed contents. Land is immovable, as distinct from chattels, which are moveable, it is also, in its legal significance, indestructible. The contents of the space may be physically severed, destroyed or consumed, but the space itself, and so the 'land', remains immutable." Peter Butt, Land Law 9 (2nd Edition, 1988).
+
+P. Ramanatha Aiyar's Law Lexicon (Second Edition) observes that the word 'land' is a comprehensive term, including standing trees, buildings, fences, stones, and waters, as well as the earth we stand on. Standing trees must be regarded as part and parcel of the land in which they are rooted and from which they draw their support. The word 'land', in the ordinary legal sense, comprehends everything of a fixed and permanent nature and therefore embraces growing trees. 48 All 498 95 IC 150 : 24 ALJ 583 : 1926 All 689.
+
+BUILDING
+
+Stroud's Judicial Dictionary (Fifth Edition) observes that what is a 'building' must always be a question of degree and circumstances: its "ordinary and usual meaning is, a block of brick or stone work, covered in by a roof" (per Esher M.R., Moir v. Williams [1892] 1 Q.B. 264). The ordinary and natural meaning of the word 'building' includes the fabric and the ground on which it stands (Victoria City v. Bishop of Vancouver Island [1921] A.C. 384, at p. 390).
+
+Black's Law Dictionary (Fifth Edition) observes that 'building' is a structure designed for habitation, shelter, storage, trade, manufacture, religion, business, education and the like. A 'building' is also a structure or edifice enclosing a space within its walls and usually, but not necessarily, covered with a roof.
+
+P. Ramanatha Aiyar's Law Lexicon (Second Edition) observes that 'building' is a house, out-house, garage or any other structure which cannot be erected without the ground on which it is to stand; the expression 'building' includes, the fabric of which it is composed, the ground upon which its walls stand and the ground within those walls. (per D.G. Gouse & Co. v. State of Kerala MANU/SC/0330/1980MANU/SC/0330/1980 : AIR 1980 SC 271 [Kerala Building Tax Act (1975) Section 2(3)])
+
+DICTIONARY MEANING OF LAND AND BUILDING
+
+'Building' is something with a roof and walls, such as a house or factory. (Collins Dictionary of the English Language, First Edition, 1979)
+
+'Land' refers to the solid part of the surface of the earth, as distinct from seas, lakes, etc. (Collins Dictionary of the English Language, First Edition, 1979)
+
+All other English dictionaries convey a more or less similar meaning, namely, as understood in common parlance-an enclosed space used for human use and dwelling.
+
+24. A cardinal principle of interpretation of a Legislative Entry in any of the Lists of the Seventh Schedule is to treat the words and expressions therein as inclusive in meaning and give the same all possible flexibility instead of restricting such meaning to the perceptions contemporaneous with the times when the Constitution was framed. The Constitution, an organic document, has to be allowed a natural growth by such a process of interpretation. Interpretation of a Legislative Entry has to grow and keep up with the pace of times.
+
+25. We may now see how judicial opinion has dealt with the question.
+
+In Anant Mills Co. Ltd. v. State of Gujarat and Ors. MANU/SC/0381/1975MANU/SC/0381/1975 : (1975) 2 SCC 175 this Court had occasion to consider the scope and ambit of the provisions contained in Entry 49 List II in the context of the provisions of the very same Act (as applicable to Bombay). Sufficient illumination and elucidation flows from such consideration which is available in para 44 of the report which may be very conveniently extracted below.
+
+44. Mr. Tarkunde on behalf of the Petitioner Company has urged that under Entry 49 of the State List in the Seventh Schedule to the Constitution, the State Legislature is empowered to enact a law relating to taxes on lands and buildings. It is submitted that the State Legislature has no competence under the above entry to enact a law for levying tax in respect of the area occupied by the underground supply lines. The word "land", according to the learned Counsel, denotes the surface of the land and not the underground strata. We are unable to accede to the above submission. Entry 49 of List II contemplates a levy of tax on lands and buildings or both as units. Such tax is directly imposed on lands and buildings and bears a definite relation to it. Section 129 makes provision for the levy of property tax on buildings and lands. Section 139 merely specifies the persons who would be primarily responsible for the payment of that tax. The word "land" includes not only the face of the earth, but everything under or over it, and has in its legal signification an indefinite extent upward and downward, giving rise to the maxim, Cujus est solum ejus est usque ad coelum (see p. 163, 73 Corpus Juris Secundum). According to Broom's Legal Maxims, 10th Edn., p. 259, not only has land in its legal signification an indefinite extent upwards, but in law it extends also downwards, so that whatever is in a direct line between the surface and the centre of the earth by the common law belongs to the owner of the surface (not merely the surface, but all the land down to the centre of the earth and up to the heavens) and hence the word "land" which is nomen generalissimum, includes, not only the face of the earth, but everything under it or over it.
+
+26. In Goodricke Group Ltd. and Ors. v. State of W.B. and Ors. MANU/SC/0964/1995MANU/SC/0964/1995 : (1995) 1 Supp SCC 707 cess imposed on green tea (leaves) by weight was held to be a tax on land and not on the produce. In an earlier decision in Ajoy Kumar Mukherjee v. Local Board of Barpeta MANU/SC/0266/1965MANU/SC/0266/1965 : AIR 1965 SC 1561 a levy on holding a market was held to be essentially a levy on land and, therefore, authorized by Entry 49 List II though the levy was imposed only on the days when the market was held. This Court, in Ajoy Kumar Mukherjee (supra) had inter alia held that,
+
+It follows therefore, that the use to which the land is put can be taken into account in imposing a tax on it within the meaning of entry 49 of List II, for the annual value of land which can certainly be taken into account in imposing a tax for the purpose of this entry would necessarily depend upon the use to which the land is put. It is in the light of this settled proposition that we have to examine the scheme of Section 62 of the Act, which imposes the tax under challenge.
+
+27. In Municipal Corporation of Greater Bombay MANU/SC/0171/1991MANU/SC/0171/1991 : AIR 1991 SC 686 the definitions of 'land' and 'building' in Sections 3(r) and 3(s) of the Bombay Provincial Municipal Corporations Act, 1949 were dealt with and considered by this Court and a broad and wide meaning of the said expressions was favoured. However, we may skip over the said part of the report in view of what has been earlier indicated by us, namely, that to test the vires of the provisions of the statute in question the scope and expanse of the words 'land' and 'building' has to be understood in the context of the provisions of the Legislative Entry (Entry 49 List II) and not the Statute relatable to the Entry. However, what would be of significance is to take into account the principles of interpretation which were followed by this Court in coming to its conclusions with regard to the true meaning and scope of the expressions 'land' and 'building' contained in the statute. As already observed by us principles of interpretation of the ordinary statute are not foreign to the principles of interpretation of the constitutional provisions. Paragraph 18 of the report in Municipal Corporation of Greater Bombay (supra) may now be noticed.
+
+18. In S.P. Gupta v. Union of India MANU/SC/0080/1981MANU/SC/0080/1981 : 1981 Supp SCC 87 interpreting Section 123 of the Indian Evidence Act, this Court held that the Section was enacted in the second half of the last century, but its meaning and content cannot remain static. The interpretation of every statutory provision must keep pace with changing concepts and the values and it must, to the extent to which its language permits or rather does not prohibit, suffer adjustments through judicial interpretation so as to accord with the requirements of the fast changing society which is undergoing rapid social and economic transformation. The language of a statutory provision is not a static vehicle of ideas and concepts and as ideas and concepts change, as they are bound to do in any country like ours with the establishment of a democratic structure based on egalitarian values and aggressive developmental strategies, so must the meaning and content of the statutory provision undergo a change. It is elementary that law does not operate in a vacuum. It is not an antique to be taken down, dusted, admired and put back on the shelf, but rather it is a powerful instrument fashioned by society for the purpose of adjusting conflicts and tensions which arise by reason of clash between conflicting interests. It is, therefore, intended to serve a social purpose and it cannot be interpreted without taking into account the social, economic and political setting in which it is intended to operate. It is here that a judge is called upon to perform a creative function. He has to inject flesh and blood in the dry skeleton provided by the legislature and by a process of dynamic interpretation, invest it with a meaning which will harmonise the law with the prevailing concepts and values and make it an effective instrument for delivering justice.
+
+The discussions that had preceded on the financial relations between the Union and the States would suggest a constitutional scheme wherein the federating States of the Indian Union are not destined to remain financially weak despite a situation where the Union undoubtedly has the upper hand by an allocation of the more lucrative subjects of taxation under the Seventh Schedule. Constitutionality of the Gujarat Act, in the above light, must be answered in favour of the State.
+
+28. Coming specifically to the expression "building" appearing in Entry 49 List II of the Seventh Schedule in view of the settled principles that would be applicable to find out the true and correct meaning of the said expression it will be difficult to confine the meaning of the expression "building" to a residential building as commonly understood or a structure raised for the purpose of habitation. In Government of Andhra Pradesh and Ors. v. Hindustan Machine Tools Ltd. MANU/SC/0382/1975MANU/SC/0382/1975 : AIR 1975 SC 2037 : (1975) 2 SCC 274 a tax on a building housing a factory has been understood to be a tax on building and not on the factory or its plant and machinery. A general word like 'building' must be construed to reasonably extend to all ancillary and subsidiary matters and the common parlance test adopted by the High Court to hold the meaning of levy of tax on building and machinery does not appear to be right keeping in mind the established and accepted principles of interpretation of a constitutional provision or a Legislative Entry. A dynamic, rather than a pedantic view has to be preferred if the constitutional document is to meet the challenges of a fast developing world throwing new frontiers of challenge and an ever changing social order.
+
+29. The regulatory power of the Corporations, Municipalities and Panchayats in the matter of installation, location and operation of 'Mobile Towers' even before the specific incorporation of Mobile Towers in the Gujarat Act by the 2011 Amendment and such control under the Bombay Act at all points of time would also be a valuable input to accord a reasonable extension of such power and control by understanding the power of taxation on 'Mobile Towers' to be vested in the State Legislature under Entry 49 of List II of the Seventh Schedule.
+
+30. The measure of the levy, though may not be determinative of the nature of the tax, cannot also be altogether ignored in the light of the views expressed by this Court in Goodricke (supra). Under both the Acts read with the relevant Rules, tax on Mobile Towers is levied on the yield from the land and building calculated in terms of the rateable value of the land and building. Also the incidence of the tax is not on the use of the plant and machinery in the Mobile Tower; rather it is on the use of the land or building, as may be, for purpose of the mobile tower. That the tax is imposed on the "person engaged in providing telecommunication services through such mobile towers" (Section 145A of the Gujarat Act) merely indicates that it is the occupier and not the owner of the land and building who is liable to pay the tax. Such a liability to pay the tax by the occupier instead of the owner is an accepted facet of the tax payable on land and building under Entry 49 List II of the Seventh Schedule.
+
+31. Viewed in the light of the above discussion, if the definition of "land" and "building" contained in the Gujarat Act is to be understood, we do not find any reason as to why, though in common parlance and in everyday life, a mobile tower is certainly not a building, it would also cease to be a building for the purposes of Entry 49 List II so as to deny the State Legislature the power to levy a tax thereon. Such a law can trace its source to the provisions Entry 49 List II of the Seventh Schedule to the Constitution.
+
+32. Though several other decisions of this Court and also of different High Courts have been placed before us we do not consider it necessary to refer to or to enter into any discussion of the propositions laid down in the said decisions as the views expressed in all the aforesaid cases pertain to the meaning of the expressions 'land' and 'building' as appearing in the definition Clause of the statutes in question.
+
+33. We, therefore, set aside the judgment passed by the Gujarat High Court and answer the appeals arising from the order of the Bombay High Court; transferred cases and the writ petitions accordingly. However, we leave it open, so far as the cellular operators in the Bombay cases are concerned, to agitate the issue with regard to the retrospective operation of the assessment/demand of tax and the quantum thereof before the appropriate forum, if so advised. Consequently, and in the light of the above all the appeals, writ petitions and the transferred cases are disposed of.
+

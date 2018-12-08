@@ -1,0 +1,132 @@
+
+
+A.K. Sikri, J.
+
+1. The issue, which arises for consideration in the present appeals is whether the Central Excise and Service Tax Appellate Tribunal (for short, 'CESTAT'), Bangalore erred in disallowing the benefit of the Notification No. 8/96 : MANU/EXCT/0010/1996 dated 23.07.1996 and Notification No. 4/97 dated 01.03.97 respectively to the Appellant.
+
+2. The Appellant herein is engaged in the manufacture of excisable goods falling under Chapter 85 and 90. From January 1997 onwards the Appellant had been manufacturing and clearing two models of D.C. Defibrillators which are known as Model No. DF2389R with recorder and Model 2389 without recorder. The Appellant had filed classification declaration from time to time and classified the items under C.E.T. heading 9018 and claimed exemption under Notification No. 8/96 dated 23.09.1996 and Notification No. 4/97 dated 01.03.97 respectively. The Revenue, however, took a view that the said Defibrillators were not eligible to the benefit of the aforesaid exemption Notifications. Therefore, by letter dated 17.02.98 it directed the Appellant to modify its classifications declaration as only miniaturized implantable defibrillators were eligible to the benefit of the Notification. The Appellant protested by giving reply and maintaining that the Notification in question encompassed the aforesaid goods manufactured by the Appellant as well. The department was not amused by the reply given by the Appellant. It resulted in issuance of show-cause notice dated 23.09.1998 whereunder demand duty with respect to Defibrillators manufactured during the period January 1997 to March 1998 was proposed as duty in the said show-cause notice.
+
+3. We may point out at this stage that a defibrillator is a device that delivers electrical shock through paddles placed either directly across the heart or on the surface of the body during cardiac emergency resulting from ventricular fibrillation. The meaning of Cardiac Defibrillator is explained in Medicine and Clinical Engineering Physiological and Clinical Medicine by Bertil Jacobson Karolinska Institute, Stockholm, Sweden, Jhon G. Webster, University of Wisconsin, Medison. It reads as follows:
+
+Some cardiac arrhythmias can be treated by passing a brief electric shock through heart. Ventricular fibrillation can often be stopped before circulatory arrest has caused irreversible brain damage due to oxygen deficiency. Likewise, atrial fibrillation and atrial flutter can often be stopped by defibrillator.
+
+4. Ventricular fibrillation may be caused by an external electric shock, which occurs near the peak of the T wave-the vulnerable period when the ventricle is re polarizing. It may also be caused when a PVC occurs during this same vulnerable period; in this case the heart electrocutes itself. Fibrillation has been likened to a dog chasing its tail, with continuous travel of the waves of depolarization and repolarization. During defibrillator, a large electric shock causes simultaneous depolarization of all cardiac muscle fibres. When they recover, normal packing resumes. An energy 50-500 ws (joules) has been found most effective, with the current passing through the heart along the longitudinal axis. Defibrillator can be performed externally via two electrodes placed on the chest or internally on the exposed heart during an operation. With an electrode about 50 cm in area, the resistance through the thorax is about 100 ft. For internal defibrillator on an exposed heart the resistance is lower, about 50 ft.
+
+5. As per the department, Defibrillators manufactured by the Appellant were designed to provide external counter shock and the apparatus for which nil rate of duty had been prescribed was for defibrillators meant for internal use only and not for conventional Defibrillators manufactured and cleared by the Appellant. The department had also invoked the longer period of limitation Under Section 11A of the Excise Act by alleging suppression. The Appellant filed their reply to the show-cause notice contending mainly that the Defibrillators were meant both for internal and external use and that the allegation of suppression of fact was totally incorrect and therefore the demand was time barred. The Appellant attended personal hearing and thereafter the Commissioner by order dated 19.11.1999 confirmed the demand of Rs. 27,71,326/- and imposed equivalent penalty Under Section 11AC as well as further penalty of Rs. 1 lakh.
+
+6. Thereafter, the Appellant filed an appeal before the CEGAT, Madras (now Chennai) against the order of the Commissioner mainly impressing upon the CEGAT that the Commissioner in the impugned order had relied upon extraneous grounds to come to the conclusion that the Defibrillators manufactured by the Appellant were only for external use and, therefore, the benefit of Notification could not be extended. The Appellant produced evidence in the form of certificates from the Department of Electronics, hospitals, invoices for clearance of the equipment with internal paddles and other technical literature to substantiate their contention that Defibrillators manufactured by them were put to internal use by using internal paddles on the exposed hear during cardiac surgery. They relied upon decisions that the term 'for use' means capable of being used and not actual use and also on interpretation of statute. The CEGAT, by its order dated 01.03.2002, held that the Commissioner had come to a finding on an incomplete reading of the manual and had not considered well-settled law on 'for use'. The CEGAT, therefore, remanded the matter back to the Commissioner to decide eligibility for exemption under above notifications. It further directed that during the re-adjudication both the sides were free to lead such evidence as were available to be put before the Adjudicating Authority. They left open the question of limitation, penalty and interest.
+
+7. On remand, the Appellant filed a further reply before the Commissioner and relied upon various documents in support of its contention that its Defibrillator was capable of internal use and the said Defibrillator and implantable Defibrillators were two different pieces of equipment. The Appellant again contended that the demand was time barred, as there was no suppression of facts. The Appellant appeared for personal hearing and reiterated its submissions and filed additional written submissions. It produced photographs showing the Defibrillator being put to internal use during open heart surgery as well as the Technical Literature to substantiate its claim.
+
+8. The Commissioner, however, by order dated 22.02.2003 upheld the earlier order of the Commissioner and once again denied the benefit of the notification to this product of the Appellant. According to the Commissioner the benefit of the exemption notification was available only to implantable defibrillators coupled with pace makers.
+
+9. The Appellant once again filed the Appeal before the CESTAT, Bangalore. After hearing, an order dated 31.12.2003 was passed, wherein there was a difference of opinion between the Judicial and Technical Member. As per the order of the Judicial Member, the Defibrillator manufactured by the Appellant could be used for internal use and therefore they are eligible to the benefit of the notification. Since his opinion was in favour of the Appellants on merits, he did not go into the time bar issue. The Technical Member while admitting that the Defibrillator could be used for internal use in "rare circumstances" when the heart is open and the paddles for internal use are fixed in the Defibrillators as there is a build in mechanism in the Defibrillator for making it usable as internal Defibrillator during an open heart surgery, however denied the benefit of the notification on the ground that only Defibrillators used with pace maker and which is implantable is eligible to the benefit of the notification.
+
+10. As there was a difference of opinion, the issue was referred to a Third Member. The Third Member, viz. the President of the Tribunal, heard the matter and passed the order dated 19.05.2004 disallowing the benefit of the notification to the Defibrillator thereby concurring with the view of the Technical Member.
+
+11. This is how the matter has come up to this Court in the form of present appeal filed by the Appellant Under Section 35L(b) of the Central Excise Act (herein after refer to as Act), challenging the aforesaid order dated 19.05.2004.
+
+12. We have already taken note of the product in question with its salient features and particular uses it can be put to. Question is as to whether it satisfies the requirement of Notification No. 8/96 : MANU/EXCT/0010/1996 and Notification No. 4/97, under which the Appellant is claiming exemption. Thus, before we proceed further it would be apt to scan through the ingredients of the aforesaid notifications along with earlier notifications under which exemption is granted in respect of defibrillator, from time to time. First notification in this behalf is the Notification No. 339/86 dated 11.06.1986, which was amended by notifications dated 01.03.1989 and 01.03.1994. Material part of these Notifications read as under:
+
+Notification No. 339/86-CE dated 11.06.86 amended by Notification Nos. 88/89-CE dated 01.03.89 and 58/94-CE dated 01.03.94.
+
+8 DC Defibrillators now internal use and Pacemakers and their accessories including patient cable, internal Defibrillators Paddles 45mm and 55mm sizes but excluding:
+
+(a) Cardiac Monitors
+
+(b) Cardioscopes
+
+(c) E.C.G. Monitors of any type.
+
+(d) E.C.G. Recorder
+
+and the following components of D.C. Defibrillators, namely:
+
+(i) Connector.
+
+(ii) Discharge/Damp Relay
+
+(iii) High Voltage Retractable, Flexible Wire
+
+(iv) Polyester/Paper Discharge Capacitor
+
+20. Implantable Cardiac Pacemaker and accessories.
+
+30. Pacemaker Wires.
+
+31. Patient Cable for Pacemaker.
+
+13. We now reproduce the relevant portion of the two Notification Nos. 8/96 : MANU/EXCT/0010/1996 and 4/97 with which we are directly concerned. These are as follows:
+
+II. Notification No. 8/96 : MANU/EXCT/0010/1996 dated 23.07.1996-
+
+TABLE
+
+(7) D.C. Defibrillators for internal use and pacemakers.
+
+(16) Implantable cardiac pacemakers.
+
+(58) Pace Maker.
+
+III. Notification No. 4/97 dated 01.03.97
+
+TABLE
+
+217. Medical equipment and other goods specified in List 6.
+
+LIST 6
+
+(7) DC Defibrillators for internal use and pacemakers.
+
+(16) Implantable cardiac pacemakers.
+
+(58) Pace Maker.
+
+14. From the reading of the aforesaid notifications, it becomes apparent that originally those D.C. Defibrillators which were meant for both internal as well as external use and also pacemakers and their accessories etc. were eligible for exemption. Certain goods which did not qualify for exemption like cardiac monitor, Cardioscopes etc. were specifically excluded. On the other hand some of the components of D.C. Defibrillators which were exempted from payment of Excise duty were also specifically mentioned. For our purposes what is relevant is that in the original Notification dated 11.06.1986, as amended on 01.03.1989 and 01.03.1994, the goods which qualified for exemption were "Defibrillators for internal and external use and pacemakers and their accessories including patient cable internal defibrillator paddles 45mm and 55mm sizes". Implantable cardiac pacemaker and accessories were also specifically included. This entry under went a substantial challenge in the notification No. 8/96 : MANU/EXCT/0010/1996 dated 23.07.1996. In this Notification, replacing the earlier notifications, defibrillators for external use are no more eligible for exemption. The entry now reads "D.C. Defibrillator for internal use and pacemaker". Thus, what is omitted is not only external use but also accessories of these D.C. Defibrillators. Likewise in place of earlier entry which mentioned on implantable cardiac pacemaker and accessories, entry in this Notification confines only to implantable cardiac pacemakers. Accessories thereof are specifically removed from exemptions. Moreover in place of pacemaker wires now it is only pacemaker. Though in the earlier notification, patient cable for pacemaker was included as exempted item, it is omitted altogether in Notification No. 8/96 : MANU/EXCT/0010/1996. This position is maintained in Notification No. 4/97 dated 01.03.1997.
+
+15. Keeping in view the aforesaid characteristic and feature of the Notifications in question, in contradistinction to the position which prevailed in the earlier Notification dated 11.06.1986 as amended from time to time and taken note of above, we have to examine as to whether the defibrillator of the Appellant would be covered by these two Notifications.
+
+16. It is not disputed by the Appellant that their Defibrillators are primarily meant for external use. It is, however, contended that this can be used internally as well. It is also admitted case that the defibrillator manufactured by the Appellant is not implantable internally in the human body. The only justification given by the Appellant is that at the time of carrying out the open heart surgery same device can be used to deliver electrical shock. However, it is accepted that to give the electrical shock paddles are needed, which is sold by the Appellant only as an accessory. Not only this, while selling the defibrillators said paddlers are not sold as an integral component/accessory of the main equipment. To the contrary, their purchase is optional, meaning thereby the choice is that the buyer to purchase paddle or not. During the arguments it was conceded that 99 per cent sale of these defibrillators were without paddles which means that predominantly the goods are sold for external use only. We would also like to reproduce, at this stage the description of the goods in question as given by the Appellant itself in the operating and service manual of the product in question. It reads as follows:
+
+DESCRIPTION
+
+BPL's Portable Defibrillator/Monitor is designed to provide external counter shocks and to display hear rate and ECO wave forms on the scope screen.
+
+...Delivery of the monophasic countershock pulse (Lown/Edmark Waveform) is triggered by depressing the discharge buttons on both of the anterior paddles, or if internal paddles are used, by depressing the INT., PADDLE DISCHARGE button located on the control panel Optional anterior paddles are equipped with a CHARGE push button that functions the same way as the SET CHARGE MANUAL push button does.
+
+17. Going by the aforesaid features of the Appellant's goods in question which are primarily meant for external use, simply because it can be used internally as well but not without the paddles and paddle is optional accessory, it is difficult to hold that conditions contained in the exemption Notifications are satisfied. We are making these remarks in the context of the Notification in question when contrasted with the earlier Notification, as already described above. On these facts the Third Member of the tribunal in the impugned order made the following analysis:
+
+5. As mentioned earlier, the Notification No. 339/86 as amended by Notification Nos. 88/89 and 58/94 took in both DC Defibrillator for internal and external use. While including accessories in the above items specific reference was made to 'internal defibrillator paddles with 45mm and 55mm sizes'. It is relevant to note that there is a marked difference in the description of the item when it came to Notification Nos. 8/96 : MANU/EXCT/0010/1996 and 4/97. There is no reference to D.C. Defibrillator for external use or a specific reference to 'internal defibrillator paddles'. Even according to the Assessee, its product can be treated as D.C. Defibrillators for internal use only when it is fitted with internal defibrillators. Admittedly Assessee is clearing defibrillators without such 'internal defibrillators paddles' also. A reference to Assessee's Operating and Service Manual also would show that 'internal defibrillator paddles' are only optional accessories. Defibrillators for external use which are once included in the exempted category are not taken out of such category under Notification Nos. 8/96 : MANU/EXCT/0010/1996 and 4/97. If the Assessee's contention is to be accepted then in spite of such specific exclusion its product will continue to get benefit of exemption on the basis of supply of some optional accessories like internal paddle.
+
+6. The material produced by the Revenue before the Commissioner and accepted by him were later made available toe the Assessee before this Tribunal. Arguments were addressed by both on that basis. The relevant portion from the Commissioner's order is quoted below:
+
+Internal Cardioverter Defibrillators (ICD) were originally developed and have been most frequently used for prevention of sudden cardiac death (www.americanheart.org). A modern internal defibrillator is much smaller and is implanted in the upper chest. Newer devices are a combination of ICD and pacemaker in the unit. These combination ICD/pacemakers are implanted in patients who require both devices (www.emedicine.com)........ This device is a small electric generator hooked up to wires called leads. A typical ICD weighs about 4 ounces and measures about 1/2 inch thick by 2 inches wide and is implanted under the skin in the upper chest. Leads are the wires that conduct the ICD to the heart the tip of which is placed against the heart's inner wall and carries electric impulses from the ICD to the heart through the cut vein into the heart's chambers beginning with the right ventricle (www.chfpatients.com).
+
+7. The above would show that D.C. Defibrillators for internal use included in the exempted category cannot be taken as a defibrillator for external use cleared by the Appellant with an accessory of internal defibrillators paddles. A reference to reply received from Jerry Potts to the Appellant's query would also lead such a conclusion. The reply reads as follows:
+
+Implantable defibrillators are definitely distinct from 'internal' defibrillators used during surgery to countershock the heart. If anything, the term internal defibrillator, as you defined it in your message, more closely relates to an external defibrillator. That is because the device typically used to manually deliver a counter shock to the myocardium during open hart surgery is identical to those defibrillators that externally deliver transthoracic shocks to a closed chest (except for the peddles that are used.)
+
+Therefore, the defibrillator used during open heart surgery is identical to the defibrillators used to deliver transthoracic shocks externally except for the internal paddles additionally provided. Exclusion of defibrillators for external use from the exemption provisions in Notification Nos. 8/96 : MANU/EXCT/0010/1996 and 4/97 cannot be ignored. Appellant's product which is basically a defibrillator for external use but capable of using during open heart surgery if the optional accessory of internal defibrillators paddles are also provided, cannot be treated as defibrillators for internal use are contemplated in the exemption provisions.
+
+18. We approve the aforesaid reasoning and rational given by the Tribunal in coming to the conclusion that the goods of the Appellant would not qualify the description contained in Notification Nos. 8/96 : MANU/EXCT/0010/1996 and 4/97. It is trite that strict interpretation is to be given to the exemption notifications and it is upon the Assessee to approve that he fulfills all the conditions of eligibility under such Notifications. This is so held by this Court in Rajasthan Spinning and Weaving Mills, Bhilwara, Rajasthan v. Collector of Central Excise, Jaipur, Rajasthan MANU/SC/0729/1995MANU/SC/0729/1995 : (1995) 4 SCC 473, wherein this principle was stated in the following manner:
+
+16. Lastly, it is for the Assessee to establish that the goods manufactured by him come within the ambit of the exemption notification. Since, it is a case of exemption from duty, there is no question of any liberal construction to extent the term and the scope of the exemption notification. Such exemption notification must be strictly construed and the Assessee should bring himself squarely within the ambit of the notification. No extended meaning can be given to the exempted item to enlarge the scope of exemption granted by the notification.
+
+19. This principle has been reiterated time and again. It is not necessary to take note of all such cases. We would however like to reproduce the restatement of this member by the Constitutional bench of this Court in Commissioner of Central Excise, New Delhi v. Hari Chand Shri Gopal and Ors. (2001) 1 SCC 236, as follows:
+
+29. The law is well settled that a person who claims exemption or concession has to establish that he is entitled to that exemption or concession. A provision providing for an exemption, concession or exception, as the case may be, has to be construed strictly with certain exceptions depending upon the settings on which the provision has been placed in the statute and the object and purpose to be achieved. If exemption is available on complying with certain conditions, the conditions have to be complied with. The mandatory requirements of those conditions must be obeyed or fulfilled exactly, though at times, some latitude can be shown, if there is a failure to comply with some requirements which are directory in nature, the non-compliance of which would not affect the essence or substance of the notification granting exemption.
+
+30. In Novopan India Ltd. (Novopan India Ltd. v. CCE and Customs MANU/SC/1216/1994MANU/SC/1216/1994 : 1994 Supp (3) SCC 606) this Court held that a person, invoking an exception or exemption provisions, to relieve him of tax liability must establish clearly that he is covered by the said provisions and, in case of doubt or ambiguity, the benefit of it must go to the State. A Constitution Bench of this Court in Hansraj Gordhandas v. CCE and Customs (MANU/SC/0265/1968MANU/SC/0265/1968 : AIR 1970 SC 755 : (1969) 2 SCR 253) held that (Novopan India Ltd. Case, SCC p. 614, para 16):
+
+16...such a notification has to be interpreted in the light of the words employed by it and not on any other basis. This was so held in the context of the principle that in a taxing statute, there is no room for any intendment, that regard must be had to the clear meaning of the words and that the matter should be governed wholly by the language of the notification i.e. by the plain terms of the exemption.
+
+20. Having regard to the above it is difficult to accept the contention of Mr. Datar, learned senior Counsel who appeared for the Appellant, predicated on the submission that such defibrillator of the Appellant is capable of internal use and, therefore, it would be covered by the aforesaid notifications. No doubt there is difference between the 'actual use' and 'intended for use' and even when a product is not actually used but is capable of being used, it would be treated as the product 'for use' as held in State of Haryana v. Dalmia Dardri Cement Limited MANU/SC/0593/1987MANU/SC/0593/1987 : (1987) Supp SCC 679. However, in the present case we find that defibrillator when sold without paddle is not capable of being used internally and paddle is only sold as optional accessory.
+
+21. For the same reason, judgment in the case of Collector of Customs, Bombay v. Handicraft Exports MANU/SC/1273/1997MANU/SC/1273/1997 : (1997) 7 SCC 144 will also have no application to the instance case. In that case exemption from import duty was provided in respect of 'embellishment for footwear under the notification. The Court held that the imported goods need not be capable of being exclusively used as embellishment for footwear but may also be capable for being used for other purposes. Here, as noted above, defibrillators are not capable of being used internally without paddles and paddle is an accessory which does not qualify for exemption any longer. It would be pertinent to note that in Handicraft Export's case this Court also held that importer will have to prove that the goods were not only capable of being utilized as embellishment for shoes but also that the same were imported for and were actually been used for embellishment for footwear. In the present case as defibrillators are sold without paddles, obviously the sale as such is not intended by the purchaser to be used for internal purpose. We are, therefore, of the view that the majority opinion of the Tribunal is correct in law.
+
+22. This leaves us with the question of extended period of limitation invoked by the department. It was contended that the declaration given by the Appellant was bona fide and such bona fides were clear from the fact that law on this issue was not free from doubt which can be gathered from the fact that even the impugned judgment of the Tribunal is not unanimous as the Member (Judicial) had taken a different view which was in favour of the Appellant. However, we find that the Third Member did not decide this issue and left it for the regular bench to consider the same, with the direction that the appeal would be placed before the regular Bench. Without awaiting the decision the Appellant filed the present appeal challenging the impugned order passed by the Third Member. Since we are affirming the decision rendered by the majority, it will now be for the Tribunal to consider the issue of limitation.
+
+23. Insofar as the present appeals are concerned, the same are dismissed.
+
+No costs.
+

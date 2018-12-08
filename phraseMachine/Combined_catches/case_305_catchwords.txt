@@ -1,0 +1,1 @@
+Buyer, Claim, Consideration, Interest, Lease, Value
