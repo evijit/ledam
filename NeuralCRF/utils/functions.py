@@ -157,10 +157,6 @@ def load_pretrain_emb(gloveFile):
     return model,len(model['the'])
 
 
-model = loadGloveModel('ledam/glove/vectors.txt')
-def vec(word):
-	return model[word]
-
 if __name__ == '__main__':
     a = np.arange(9.0)
     print(a)
