@@ -146,7 +146,7 @@ def norm2one(vec):
 
 def load_pretrain_emb(gloveFile):
     print ("Loading Glove Model")
-    f = open(gloveFile,'r')
+    f = open(gloveFile,'r',encoding="ISO-8859-1")
     model = {}
     for line in f:
         splitLine = line.split()
