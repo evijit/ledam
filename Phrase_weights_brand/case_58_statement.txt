@@ -1,0 +1,880 @@
+courts,2.1216528162511543
+naranbhai patel,0.5
+colleague shri mangalsingh on march,0.5
+other corroboration,0.5
+tribes,1.6409945421467553
+primary school at village bagod,0.5
+findings,1.049571253572887
+government,3.5583785424010483
+jadunath,1.0
+test identification,5.857142857142857
+few minute,0.4903846153846154
+sight,0.6194871794871795
+director,1.3549769585253457
+well-known by sight,0.0
+injured witness,2.8181818181818183
+behalf of the defence,0.6666666666666666
+corroboration,1.5714285714285714
+code,2.880559796437659
+charged,1.065928270042194
+castes,3.7222222222222223
+affinity,0.40404040404040403
+mind,1.1559066143122394
+other hand,0.6931925622439332
+that section,1.1768292682926829
+other school,0.3589743589743589
+corroborative circumstance,0.5
+residence,0.7568831168831168
+decisions of this court,1.8225806451612903
+teacher,3.0760180995475115
+boota,0.28205128205128205
+such identification,1.1111111111111112
+state of hp,1.0
+considerable delay,0.8
+tapara,0.5
+education,2.1892608326253185
+failure,0.7827962142086977
+circumstance of each case,0.0
+principal,1.3412499999999998
+absence of the identification parade,1.0
+identification in court,3.0
+court,12.24425115501509
+president of district teachers association,0.5
+silence,0.44280442804428044
+order of the trial court,1.0
+uttar pradesh v boota singh,0.5
+evidence of munshi ram,0.5
+aspects,1.0997620069447154
+catena of decisions,1.0833333333333333
+ram nath,1.0
+person,4.291511329454258
+offence bore,0.5
+enough assurance,0.5
+ors,2.8612718198296623
+cause,1.8431210321626654
+way,1.7812722068664852
+delhi admn,1.0
+behalf,1.9888053603529987
+sexual intercourse,0.35616438356164387
+identification become,0.5
+parkash chand sogani,1.0
+call,1.5442351461768689
+part,5.294464509893076
+conviction on the basis,0.5
+karsanbhai,0.5
+forcible sexual intercourse within a week,0.5
+valueless exercise,0.5
+observed-,0.0
+distance,0.7353606433777331
+vidisha police,0.5
+course if the prosecution,0.5
+primary government school,0.5
+provision in the code,1.0
+aspect,1.2449448189023034
+age,4.526374474274117
+circumstances if the courts,1.0
+number,1.4802651440973922
+shri,2.0759135877246115
+district,1.5506763074237984
+decisions,1.3888475974580996
+suresh chandra bahri v state,0.5
+sessions,1.3405714285714285
+gang,1.7035953177257526
+character,0.9325990965842764
+decision,2.9514937765898557
+trustworthines,0.4444444444444444
+hands,1.1725490196078434
+daylight,0.4745762711864407
+appropriate cases,1.2
+court in jadunath singh v state,0.5
+part ii,1.4746543778801842
+aforesaid,2.592896174863388
+aspect of the matter,1.4642857142857142
+shiv,0.6530206677265501
+delay after the arrest,0.5
+cartridge case,0.30000000000000004
+test,2.5329834591340266
+kailash,1.0
+sympathetic toward,0.5
+vaikuntam,0.5
+appeal,3.4125488033856883
+manak chand,1.0
+vidisha,3.5
+evidentiary value,1.0
+trustworthiness of that evidence,0.5
+empty cartridge case,0.5
+evidence in court,0.75
+delay in lodging,1.8333333333333333
+corroboration of the sworn testimony,0.5
+sessions judge,2.9545454545454546
+kailash chandra,0.5
+village,1.8429856945085372
+exhaustive considerations,0.5
+state of uttar pradesh,1.6470588235294117
+trustworthiness,0.4444444444444444
+stage,1.1298537871524448
+year,2.8349484769759212
+nath,1.2024818815807465
+courage,0.6100747737111374
+wherein,1.0724137931034483
+sessions trial,0.8
+state of uttar pradesh v boota singh,0.5
+judgment,3.288216560509554
+case of rajesh govind jagesha v state,0.5
+remark about the demeanour,0.0
+prashad,0.75
+effect from march,1.0
+subject,2.4420366233344897
+order,5.472481489660944
+j speaking for a three-judge bench,0.0
+circumstantial evidence,1.9000000000000001
+dr manju singhai,0.5
+act,12.870263922028107
+malkhansingh,1.6666666666666667
+safe rule,0.5
+that the prosecutrix,2.3333333333333335
+glimpse of the person,0.5
+chandrappa,0.5
+enough assurance to the implication,0.5
+teacher mangalsingh,0.5
+prosecutrix kumari lusia,0.5
+eyewitness,1.9470899470899472
+knowledge of shiv lal,0.5
+sufficient opportunity,0.8
+teacher in the government,0.5
+evidence of a witness,0.5
+jadunath singh,1.0
+accused persons,7.048780487804878
+ti parade,0.5
+which fact,0.47115384615384615
+effect,2.184583388478191
+observation in an earlier unreported decision,0.0
+identification becomes,0.5
+rifles smelt of fresh gunpowder,0.5
+remarks about the demeanour,0.5
+catena,0.5013888888888888
+-  year,0.0
+member,2.649111111111111
+respective names,0.5
+assistance to the prosecution,0.6666666666666666
+dire consequences,0.6666666666666666
+section,9.287987283173626
+sworn testimony,0.8
+time of roll call,0.5
+kanta,1.0
+merit in these appeals,0.875
+corroborative evidence,2.0
+january,0.8699641577060931
+incident,1.8609485257918057
+madhya,2.9183673469387754
+proper administration,0.8
+neighbour,0.8760330578512397
+judgments,1.2355646397547266
+consequence,0.8726692512593296
+justice that such identification,0.5
+place,2.333104345208554
+scheduled castes,2.7777777777777777
+circumstance,1.429931390219372
+finding,1.8129183657767178
+substantive evidence,1.8
+learned counsel for the appellants,1.7142857142857142
+zero chain puliya,0.5
+investigation,1.6673076923076922
+govind,0.7333333333333335
+regard,2.723310344827586
+observations in this regard,0.75
+court on august,0.6666666666666666
+evidence of identification becomes,0.5
+earlier decisions,1.24
+fleeting glimpse,1.0
+high court of madhya pradesh,1.1875
+stage of investigation,1.0
+rekha,1.5999999999999999
+circumstances if the court,1.0
+knowledge,1.1120671641791045
+next day,0.6306081754735793
+agency,1.8968779259354924
+deputy director of education,1.5
+occurrence,2.1343873517786562
+tapara of baldar khan,0.5
+parades,0.45454545454545453
+clear provisions of section,0.75
+harbajan singh v state of jammu,0.5
+length,0.6297872340425531
+that evidence,0.7794871794871795
+story,0.755772533184814
+facts,1.4696673624372698
+ranchhodbhai,0.5
+lodging,0.8205128205128205
+evidence of the witness,1.2222222222222223
+minutes,1.1231216272312163
+that the aforesaid observations,0.6666666666666666
+tribal woman,0.5
+state of rajasthan,1.9090909090909092
+basi,2.0752712086391383
+form,2.4865961263718424
+justification,0.6859587020648967
+foot to the school,0.5
+corroboration to the identification,0.5
+facts of this case,1.1923076923076923
+evidence of an eyewitness parade,0.5
+conviction of the appellants,2.0
+fine,1.3204039558531748
+home,0.9826663267907214
+weight,0.7538461538461538
+session,2.2400874351067563
+conviction,2.248165832071736
+threat of dire consequences,0.0
+basis,1.953226441078104
+atrocity,0.0
+president,2.1267129228100607
+reason to dis - agree,0.0
+assistant teacher in the government,0.5
+pm on the next day,0.6666666666666666
+course,1.6545957498716626
+caste,3.66454871293581
+same day,0.8830188679245283
+canal,1.375
+criminal appeal,2.5675675675675675
+accused person at the trial,0.5
+home at bagod,0.5
+magistrate,3.522077922077922
+nature of the evidence,0.3333333333333333
+charge,2.7679815308681284
+peculiar facts,0.9473684210526315
+kotwali,0.75
+bewar,0.325068870523416
+raj manu  scmanu  sc,0.0
+naranbhai,0.5
+implication,0.6615776081424936
+pradesh,4.365853658536586
+crime,1.6636528028933093
+respective name during the course,0.0
+officer,3.1197242647058823
+prosecutrix before the trial court,0.5
+villages,0.7433206106870229
+lend,0.8438020461575065
+ground,1.4186722903211633
+light of the principle,0.8
+mere identification,0.5
+demeanour,1.0
+appropriate case,1.4074074074074074
+opportunity,0.946186440677966
+impugned judgment,2.0927152317880795
+suresh chandra bahri v state of bihar,0.5
+earlier unreported decision,0.5
+earlier three - judge bench judgments,0.0
+matter,2.8088923076923082
+earlier three - judge bench judgment on the facts,0.0
+part ii of the indian penal code,0.5
+prevention of atrocities,1.0
+conclusion that the delay,0.6666666666666666
+shukla,1.0
+subject to exceptions,0.6666666666666666
+puliya,0.5
+trustworthines of that evidence,0.0
+criminal,3.301971081989414
+provision of section,1.4827586206896552
+roll,1.7278932172102048
+behalf of the appellant,1.4878048780487805
+appellant for the last  -  years,0.0
+boys,0.8607594936708862
+matter for the courts,1.0
+years of age,1.10099573257468
+penal,1.8829173709853835
+fleeting glimpse of the person,0.5
+appellants,7.701086956521739
+aforesaid three - judge bench decisions,0.0
+testimony of the prosecutrix,0.5
+shiv lal,1.5
+view,2.441100058469462
+case of the prosecution,2.3043478260869565
+remarks,0.4772727272727273
+scheduled caste,3.875
+trial before the additional sessions judge,0.5
+test identification parade,5.285714285714286
+penal code,2.710144927536232
+merit,1.2419290263876248
+andhra,4.830188679245283
+identification,2.0914158305462656
+assurance that the investigation,0.5
+of the offence under section,1.125
+clear provision,1.0
+that police station,0.5
+perpetrator,0.7090909090909091
+appellants as the perpetrators,0.5
+strangers,0.4800000000000001
+witness,5.333906623599983
+assistant,1.6732837055417698
+tragic experience,0.5
+delay,1.9544910179640715
+course of the trial,0.8333333333333334
+bihar,4.587301587301587
+markings,0.22413793103448276
+record,2.5393414390845273
+procedure,2.552771605064117
+witnesses in court,0.6666666666666666
+information,1.1320502836800534
+defence,1.3606588776096535
+polouse,0.0
+v delhi administration,1.2
+turn,1.6310093128618173
+provision,5.439002243350069
+patel,0.610909090909091
+right lines in addition,0.5
+dis-agree,0.0
+gang rape,1.0
+alarm,0.4005722460658083
+sexual assault,0.6666666666666666
+intercourse,0.4069565217391304
+provisions of section,2.762376237623762
+corroborative circumstances,0.5
+dutta,1.5
+importance,0.8632871064467765
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+report with the superintendent,0.5
+assurance to the implication,0.5
+evidence on record,2.7906976744186047
+fatal to the prosecution case in the circumstances,0.5
+anr,1.1271033322299457
+deputy,1.1595268542199488
+valueles,0.5714285714285714
+observation in this regard,0.0
+shri kaluram,0.5
+station,1.2515681586858238
+reasoning,0.6478937381404174
+clear that shiv lal,0.5
+khan,2.1073446327683616
+lekh raj manuscmanusc,0.5
+satpada,0.5
+criminal procedure,6.406779661016949
+mangal singh,0.6666666666666666
+december,0.9629002463054187
+broad day,0.9000000000000001
+unmarried person,0.6666666666666666
+first time,0.7741935483870968
+evidence of the prosecutrix,0.5
+witnes,5.333906623599983
+witness in court,0.30000000000000004
+town,1.9746537396121884
+features,0.6184582743988685
+extent,1.410108024691358
+necessity,0.7072538860103627
+times,0.8987140267391797
+few minutes,0.4903846153846154
+fact on account,0.5
+sogani,1.0
+light,0.8816192372754331
+aforesaid observation,1.0555555555555556
+teachers,2.506794564348521
+years,2.5395804110508022
+particular witnes,0.5
+exercise,1.9400726466785694
+report,1.7768151696835826
+identification proceedings,0.5
+code of criminal procedure,6.120689655172414
+papers,1.0564063453325199
+mahto,1.0666666666666667
+jabalpur,2.357142857142857
+principle,1.9620890732001848
+fact of this case,0.0
+jurisdiction of that police station,0.5
+fair play,0.8333333333333334
+basi of the identification,0.0
+delhi,2.6089285714285717
+independent witnesses,0.9090909090909091
+fortiori for the proper administration,0.5
+bullet,0.6797144263909404
+period of time,0.5706521739130435
+test identification parade in all cases,0.5
+justice,2.292557084574302
+further corroboration,1.0
+therein,1.5503424657534246
+guilty of the offence under section,1.25
+kaluram,1.0
+exaggeration,0.39024390243902446
+appellants as the perpetrator,0.5
+rameshwar,1.3333333333333333
+abundant opportunity,0.5
+v state,2.4603773584905664
+charge under the scheduled castes,0.5
+family member,1.0924657534246576
+testimony,1.4407553107789142
+baldar khan,1.0
+culprit,1.4285714285714286
+to the prosecution case in the circumstances,0.5
+clear that the aforesaid observations,0.5
+uttar pradesh,2.8
+administration,1.061072796934866
+submission that absence,0.5
+later decisions of this court,1.0
+heinous offence,1.25
+typed complaint to the superintendent,0.5
+offence,4.401610644257703
+neck,0.6142330723169047
+relevant papers,0.8
+rifle of the appellant,0.5
+scheduled,2.329545454545454
+valueless,0.5714285714285714
+position in law,0.8888888888888888
+edge,1.0883781551448468
+circumstances of each case,1.0833333333333333
+length of time,0.5634146341463415
+day,1.550999710228919
+relevant under section,0.5
+assistant teacher,1.0
+feature,0.6446262956901254
+vidisha polouse,0.0
+indian penal code on the allegation,0.5
+neighbours,0.5338983050847458
+appeal by special leave,1.04
+scmanu,7.940520446096654
+v state of gujarat,1.2424242424242424
+medical evidence on record,1.5
+appeals,1.7060218112849692
+animosity,0.4666666666666667
+need,1.1097650269586634
+later decision,1.0
+fate,0.5961046626008263
+august,0.977116704805492
+gurmukh,2.6666666666666665
+statement,2.5393160135035964
+particular witness,0.5
+jagesha,0.5
+first time in court,0.6666666666666666
+aforesaid three - judge bench decision of this court,0.0
+few facts,0.4761904761904762
+rifles smelt,0.5
+criminal intimidation,0.5
+accused person,4.565217391304348
+jadunath singh v state,0.5
+name,1.8996570753072433
+rajasthan,3.9215686274509802
+toward,1.0255939365170768
+v state of andhra pradesh,1.2
+first information report,1.9565217391304348
+medical examination,5.333333333333333
+basis of the identification,1.0
+lines in addition,0.30000000000000004
+innocent person,0.7439353099730458
+particular reason,0.3466666666666666
+high,5.367119186841496
+absence of a test identification parade,1.0
+brother,1.4566585956416465
+second additional sessions judge,0.5
+first person,0.5
+account,2.5754891049671977
+waste of time,1.0158730158730158
+gurmukh singh,2.6666666666666665
+assault,1.0656614201609997
+ratio of the aforesaid,0.75
+earlier identification proceeding,0.5
+line,1.6884436630262616
+zero,0.37681159420289856
+identification on the plea,0.5
+appeals by special leave,1.0
+relevant paper,0.8
+identification in the court,0.6666666666666666
+vallabhabhai,0.5
+purpose,2.519170317925504
+law,3.538923411654744
+trial court,3.854545454545455
+stronger if the witness,0.5
+fazal ali,1.25
+aspects of the matter,0.9090909090909091
+observation,0.7625074854374218
+time,2.4764180952862667
+identification of the appellants,2.0
+feature of the appellants,0.0
+justification for the contention,0.5
+cases,1.9728229418951067
+threats,0.5798319327731093
+rule of prudence,1.125
+form of earlier identification proceedings,0.5
+identification parade,6.125
+allegation,1.834319526627219
+teacher in the primary government school,0.5
+observations of the trial judge,0.5
+way to the persons,0.5
+number of times,0.5098039215686274
+bagod,3.5
+shame,0.4740740740740741
+colleague shri mangalsingh,0.5
+perpetrators,0.7777777777777778
+necessity of a ti parade,0.5
+element of exaggeration,0.5
+maharajsingh,1.5
+complaint,2.734525785235724
+path,1.307090626221047
+last  -  years,0.0
+fresh gunpowder,0.5
+assurance,0.9418901660280969
+substance in the argument,0.6666666666666666
+fine of rs,1.6
+addition,1.5588539142412572
+ramanbhai,0.5
+last  -  year,0.0
+right,3.07483248288682
+court of madhya pradesh,1.1875
+prosecution,4.619407894736842
+confer,1.1904670382471652
+facts of the case,1.161764705882353
+memory,0.4036208732694356
+fleeting glimpse of the appellants,0.5
+march,1.0644238856181665
+offences,1.6681887366818873
+fear,0.8662375822023226
+exception,1.1036946087733006
+view of this corroborative evidence,0.5
+imprisonment,1.4344262295081966
+threshold,0.4166666666666667
+faces,0.7325689494886891
+similar observation,0.5333333333333333
+experience,1.0353951355971713
+absence,1.092363454568179
+mangalsingh,1.0
+counsel,2.2246780703440323
+dire consequence,0.6666666666666666
+order of march,0.5
+dark night,1.0
+authorities,1.266131845134287
+previous identification parade,0.5
+appearance,0.531740614334471
+mere delay in lodging,0.5
+witnesses,3.359210526315789
+manju,0.7173913043478262
+confers,0.9700996677740863
+mere delay,0.8
+reading,0.9004509191814082
+commission,4.703619179345321
+place on march,0.5
+later decisions,1.0
+musab khan,2.0
+injured witnesses,2.5
+lekh,0.7200000000000001
+names,1.766440410418311
+mistake,0.6870879120879121
+name during the course,0.0
+defence case,0.6666666666666666
+appellants for the last  -  years,0.0
+association,1.2099052684061826
+rigorous imprisonment,1.9230769230769231
+threats of dire consequences,0.5
+knife,0.6624203821656051
+matter of great importance,0.6666666666666666
+court at the trial,0.5
+district teachers association,0.5
+school at village bagod,1.0
+scene of offence bore,0.5
+play,0.5464427772208388
+risk,1.2477718360071302
+reading of the evidence,0.5
+witnes in court,0.0
+marking,0.37333333333333335
+andhra pradesh,4.857142857142857
+submission,1.0913871684001404
+evidence,3.6676405172088815
+v vc,0.2142857142857143
+threat,1.0459885867740852
+consequences,0.6659897713598075
+decision of this court,2.3260869565217392
+bhogilal ranchhodbhai,0.5
+innocent persons,0.8076923076923077
+bhogilal,0.5
+broad daylight,0.6000000000000001
+suresh,0.8250000000000001
+govind jagesha v state,0.5
+similar observations in this regard,0.5
+reliance,1.400763358778626
+similar observation in this regard,0.0
+three - judge bench,0.0
+sense of shame,0.30000000000000004
+station satpada,0.5
+lusia,1.0
+circumstance of the case,0.5
+distinctive markings,0.5
+peculiar fact,1.0476190476190477
+identify,1.6331578947368424
+mr dutta,1.0
+appellant malkhansingh,1.0
+court after exhaustive considerations,0.5
+observations in an earlier unreported decision,0.5
+period,1.9480170842427122
+case,7.332269420884958
+different point,0.3555555555555555
+error,1.059158294766151
+example,0.5893965031020868
+pm at a place,0.5
+clothes,0.43778538812785384
+admn,0.36734693877551017
+respective name,0.5
+corroboration of the evidence,0.5
+bahri,0.75
+evidence of an eyewitness,1.0
+ram,2.11096203538064
+clothe,0.44423076923076926
+right lines,0.6666666666666666
+total stranger,0.38095238095238093
+evidence of mere identification,0.5
+authorities on the subject,0.5
+singh,3.7791111111111113
+information report,2.0
+medical evidence,1.2820512820512822
+harbajan singh v state,0.5
+earlier identification proceedings,0.5
+prosecution case,4.258064516129032
+element,0.7062328407033122
+trial judge,2.6666666666666665
+weak character,0.5
+rifle,0.6431767337807606
+appellant by sight,0.5
+rape,1.6904761904761905
+contention,1.666391070690368
+rescue,0.4424567680381634
+rule,5.04
+clear provision of section,0.0
+additional sessions judge,1.7647058823529411
+prior test identification,0.5
+few fact,0.46296296296296297
+proceedings,1.7670925223666287
+appellants by the prosecutrix,1.5
+singhai,0.5
+minds,0.6597481343283582
+identity,0.8835164835164835
+jammu,4.705882352941177
+distinctive marking,0.5
+ram nath mahto v state of bihar,0.5
+eyewitnesses,1.8010752688172045
+village bagod,2.0
+fact that the prosecutrix,0.5
+supra,2.246342614440774
+chandra,0.7012987012987013
+night for a few minutes,0.5
+bench,2.5793391667754992
+if the witness,1.0
+chand,1.4868766404199476
+absent at the time of roll call,0.5
+substantive evidence of a witness,0.5
+vaikuntam chandrappa,0.5
+prosecutrix,17.75
+prudence,0.9558823529411765
+light of the peculiar facts,0.5
+leave,1.0147842365477848
+court without previous identification parade,0.5
+superintendent,1.2698412698412698
+maharashtra,2.9076923076923076
+test identification parade in the course,0.5
+parade,2.090909090909091
+other circumstantial evidence,0.6666666666666666
+second,1.4990453300392075
+point of view,0.5886392009987514
+typed complaint,0.5
+residence of superintendent,0.5
+intimidation,0.8400000000000001
+investigating agency,2.0625
+tribe,2.294908466819222
+point,2.9165043546008516
+aforesaid three - judge bench decisions of this court,0.0
+offence under section,2.6
+manak,1.0
+appellant by the prosecutrix,0.0
+much reliance,0.4444444444444444
+waste,0.9238578680203045
+right line,0.6666666666666666
+different point of time,0.5
+considerations,0.7860235003092146
+woman,1.316528681253696
+identification proceeding,0.5
+apparent that the prosecutrix,0.5
+eyewitnes,1.9470899470899472
+charged of offences,0.5
+police,2.9749362629783356
+minute,1.0433976833976835
+primary school,0.7619047619047619
+earlier three - judge bench judgment,0.0
+principal submission,0.5
+matter to the police,0.6666666666666666
+examination,2.4920345926263088
+evidence act,3.8666666666666667
+time in court,0.6666666666666666
+rajesh govind jagesha v state,0.5
+lal,1.6786163249382287
+under section,5.374517374517374
+arrest,1.391895003453834
+effort,0.7536036036036036
+eyewitness parade,0.5
+ram nath mahto v state,0.5
+error in the reasoning,0.5
+reason,2.6381270903010035
+instant case,2.0631578947368423
+earlier decision,1.5454545454545454
+bus,2.020565168811983
+mangal,8.461538461538462
+position,1.549133168619177
+penal code on the allegation,0.5
+life,1.3352928273744242
+stronger if the witnes,0.5
+one,4.845669314438648
+scene,0.7999999999999999
+appellant maharajsingh,1.0
+stranger,0.5863636363636363
+aforesaid three - judge bench decision,0.0
+evidence in the court,0.6666666666666666
+gunpowder,0.2631578947368421
+independent witness,1.2121212121212122
+shri dutta,1.0
+kilometre,1.6666666666666667
+atrocities,0.45033112582781454
+safe rule of prudence,0.5
+consideration,1.9110153789142115
+sight as the brother,0.5
+rajesh,0.32098765432098764
+cartridge,0.6926229508196721
+sympathetic towards,0.5
+appellant musab khan,0.5
+plea,1.4430487701432178
+value,1.7137907830478438
+munshi,1.5
+brother of manak chand,1.0
+places,0.8371884824384251
+remark,0.5091064757160647
+others,0.9074667328904616
+later decision of this court,0.5
+glimpse,0.5142857142857143
+munshi ram,2.0
+identifying witnes,1.0
+shukla manuscmanusc,0.6666666666666666
+gujarat,3.2753623188405796
+kumari,4.764705882352941
+prevention,0.6124072110286319
+v state of jammu,1.0
+dark night for a few minutes,0.5
+lines,1.770523318937438
+family,1.856281506375408
+government school,0.5
+town of bewar,0.5
+judge,2.9012627415183325
+identification parade in order,0.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+j speaking,1.2941176470588236
+point of time,0.7999999999999999
+if the witnes,1.0
+authority,2.4352627108360636
+much evidentiary value,0.5
+evidence of the magistrate,0.6666666666666666
+substance,0.8230581678857541
+fortiori,0.6666666666666666
+fact that munshi ram,0.5
+glimpse of the appellants,0.5
+authority on the subject,0.0
+argument,0.9504580388560493
+exceptions,0.6478185993111366
+assistant teacher in the primary government school,0.5
+stare of ram nath,0.5
+conclusion,1.3883437407077015
+fact of the case,0.0
+face,0.7281253260594137
+madam,0.33599999999999997
+ratio,5.027061939235792
+special leave,1.903225806451613
+khamkheda,0.5
+respective names during the course,0.5
+fazal,1.25
+madhya pradesh,2.9583333333333335
+same fate,0.5294117647058824
+-  years,0.0
+great importance,0.6666666666666666
+budhsen,0.5
+similar observations,0.5333333333333333
+paper,1.8076689487632511
+chain,0.6855611957134798
+need for the corroboration,0.5
+stare,0.7752380952380952
+school,1.2666111192798444
+indian penal code,5.264705882352941
+circumstances of the case,1.3373493975903614
+identity of the accused persons,0.6666666666666666
+assistance,0.8623872906826965
+colleagues,0.6
+occurrence to others,0.5
+year of age,0.0
+prosecutrix in court,1.0
+hand,2.0299623418254717
+substantive evidence of the witness,0.5
+appreciation,0.7282229965156793
+names during the course,0.5
+hold,2.206214081425894
+sense,0.8606303395157362
+rifles,0.5971370143149284
+circumstantial evidence on record,0.5
+no doubt,0.8331331503088538
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+week,0.8253498691546249
+uttar,2.188679245283019
+clear provisions,0.75
+incident on march,0.5
+primary,0.7116013071895426
+credence,0.3670212765957446
+well-known by sight as the brother,0.0
+exhaustive consideration,0.5
+instant,1.131578947368421
+identifying witness,1.0
+forcible sexual intercourse,0.5
+high court,7.7477477477477485
+pradesh v boota singh,0.5
+state,6.817996007300392
+chance,0.7937084625609215
+jurisdiction,2.9539571926331507
+aforesaid observations,1.0833333333333333
+trial,3.7979448350459712
+such identification in the court,0.5
+manu,7.078142071124147
+observation of the trial judge,0.0
+fear on account,0.5
+absence of test identification,1.5
+boy,1.0245410384202889
+deputy director,0.6428571428571429
+purpose of a prior test identification,0.5
+counter,1.0576470084371923
+roll call,0.3333333333333333
+unreasonable delay after the arrest,0.5
+appreciation of the evidence,1.0
+baldar,1.0
+school at khamkheda,0.5
+airsc,1.6909090909090911
+that shiv lal,1.0
+nature,1.4149926876444778
+right line in addition,0.0
+foot,0.7144861347422464
+unreasonable delay,0.8
+earlier decision of this court,1.1
+harbajan,0.5
+held-,0.0
+earlier three - judge bench judgments on the facts,0.0
+clear that the aforesaid observation,0.5
+prosecution case in the circumstances,0.5
+failure of munshi ram,0.5
+court in parkash chand sogani,1.0
+maharashtra manuscmanusc,1.3529411764705883
+that the aforesaid observation,0.6666666666666666
+night,0.8690610404251893
+sexual intercourse within a week,0.5
+raj,1.3364194424876723
+observations,0.7454584147497534
+features of the appellants,0.6666666666666666
+musab,2.0
+colleague,0.8874841972187105
+kashmir,2.6608187134502925
+ali,3.7617236801781915
+teachers association,1.5238095238095237
+evidence of identification,2.6666666666666665
+line in addition,0.0
+persons,2.5993381990166555
+general rule,0.6352941176470589
+parkash,1.25
+implicit reliance,0.5
+case of state,1.4375
+commission of the occurrence,0.5

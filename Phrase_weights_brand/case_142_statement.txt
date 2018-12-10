@@ -1,0 +1,449 @@
+director,1.3549769585253457
+mbbs examination in an university,0.5
+admission to the post graduate course,1.5
+constitution of india,3.0095238095238095
+non-fulfilment,0.0
+regard to admissions,0.6666666666666666
+home states,0.30000000000000004
+residence,0.7568831168831168
+home-states,0.0
+education,2.1892608326253185
+reservation of seats,2.0
+interest,2.74353772015385
+court,12.24425115501509
+union,2.0981927710843373
+bulletin,0.43231441048034935
+question of preference,0.5
+ors,2.8612718198296623
+state of assam,1.0769230769230769
+petitioner therein,1.0
+entrance,0.7155844155844157
+sense that a student,0.5
+student of same university laboratory,0.0
+dr parag gupta v university,0.5
+graduation,0.3440860215053763
+stray,1.211340206185567
+undergraduate courses,0.3333333333333333
+nehru,0.42857142857142855
+percentage of seats,0.5
+aforesaid decision of the states,0.5
+condition of residence,0.5
+number,1.4802651440973922
+health service,0.3157894736842105
+decision,2.9514937765898557
+aforesaid,2.592896174863388
+home state,0.888888888888889
+seat,2.8245469748060423
+parag,1.355463347164592
+condition precedent,1.7058823529411764
+admission to the post - graduate course,0.0
+post graduate course,2.8333333333333335
+dinesh kumar s case,0.0
+formula,1.9020570115902682
+dr dinesh kumar,0.6666666666666666
+stage,1.1298537871524448
+account of the residence,0.5
+judgment,3.288216560509554
+basi of institutional preference,0.0
+india basis,1.5
+aforesaid percentage,0.5
+services,1.6850241065659326
+admission to post-graduate courses,0.0
+residents,0.8191605554688717
+order,5.472481489660944
+different standards,0.75
+institutional basis,0.5
+bulletin of information,1.0
+admission to the goa medical college,0.5
+from the next academic session,0.5
+case in relation,0.5
+standards,1.312168199737188
+dr prachi almeida v dean,0.5
+india quota,3.25
+medical,1.633306645316253
+for admission to the post - graduate course,0.0
+motilal,0.8333333333333334
+residents of the state,0.5
+eligible if heshe,0.5
+effect,2.184583388478191
+grievance of the petitioner,1.0
+candidates,3.508445945945946
+students of same university laboratory,0.5
+dinesh,3.230769230769231
+three - judges bench,0.0
+courses,1.0904013961605583
+two-judge bench,0.0
+health services,0.4166666666666667
+medical colleges,1.4285714285714286
+heshe,2.3684210526315788
+preference on the basis,0.5
+issue of preference,0.5
+graduate course,5.1000000000000005
+medical college,1.45748987854251
+other observations,0.4444444444444444
+quota by the director,0.5
+examination on all india basis,0.5
+union of india manuscmanusc,1.847457627118644
+uniformity,0.5454545454545454
+college,2.1498947162234954
+available for admission to the post-graduate course,0.0
+condition,2.259476395625584
+pattern,0.6151546391752578
+post - graduate course,0.0
+standard,1.4669008088548319
+post-graduate study,0.0
+other than delhi university,0.5
+admission to the post-graduate course,0.0
+circumstance,1.429931390219372
+correct criteria,0.5
+post-graduate courses,0.0
+fact of that case,1.0
+regard,2.723310344827586
+same medical college,0.5
+lordships,1.9166666666666667
+context,0.9269383697813122
+considerations of equality,0.5
+to the direction of this court,0.5
+direction,1.8495050210098996
+consideration before this court,1.0833333333333333
+degree,0.6705786026200874
+facts,1.4696673624372698
+issue,2.766776251628934
+pradeep,3.5
+most of the other states,0.5
+basi,2.0752712086391383
+look at the judgment,0.5
+post graduate course in the same medical college,0.5
+home,0.9826663267907214
+candidate,6.356675392670156
+university of delhi,1.75
+lordship,1.0416666666666667
+residential requirement,0.5
+today,0.6330563683773655
+petitioner,4.524972253052164
+root,0.44430482003410826
+session,2.2400874351067563
+judgment of this court,2.1029411764705883
+vineet,1.3333333333333333
+study in some other state,0.5
+basis,1.953226441078104
+percentage,0.8769344141488578
+residence requirement,1.0
+graduate courses,1.2000000000000002
+course,1.6545957498716626
+clear that the states of assam,0.5
+number of seats,3.777777777777778
+competitive examination,1.6
+which state,0.5909090909090909
+aforesaid case,1.3529411764705883
+pradeep jain,5.0
+peculiar facts,0.9473684210526315
+v motilal,0.6666666666666666
+country,1.2903191103863751
+aforesaid judgment in paragraph,0.5
+court in pradeep jain,2.0
+two - judge bench,0.0
+different standard,0.45000000000000007
+jain,1.673202614379085
+aforesaid conclusion,1.1818181818181819
+ground,1.4186722903211633
+certain percentage,0.4444444444444444
+territory,1.3688226421790437
+undergraduate study,1.5
+opportunity,0.946186440677966
+post graduate degree,0.5
+resident of the state,0.25
+account reservations,0.5
+matter,2.8088923076923082
+relation,1.397320207820618
+capital territory,0.75
+of the total number,0.5185185185185186
+contrary to the direction of this court,0.5
+article,4.378806157159795
+look,0.7258645241210043
+view,2.441100058469462
+rationale,0.6017094017094018
+post,2.344803646492219
+opinion,1.4960606342789635
+conflict,1.314561353483509
+side,3.88845645915565
+question of admission,0.5
+conclusion of the judgment,0.5
+petition under article,1.6388888888888888
+if he  she,0.0
+effective from the next academic session,0.5
+information,1.1320502836800534
+petitions,1.3930830039525692
+mbbs course,1.1428571428571428
+available for admission on the basis,0.5
+whereunder,1.25
+that the state of assam,0.0
+respect,2.6704963235294117
+dr parag gupta,1.5
+account of different standards,0.5
+dean,0.42057692307692307
+criteria,1.3561764705882353
+importance,0.8632871064467765
+fact,3.6284951019474962
+learned judge,3.3692307692307693
+pradeep jain s case sq,0.0
+university laboratory,0.5
+three - judges bench in pradeep jain case,0.0
+admission on all india basis,0.5
+basis of all india entrance examination,1.5
+almeida,0.5
+reservations,1.8229166666666667
+pattern of institutional preference,0.5
+of the seats,1.8000000000000003
+total number,0.8813725490196079
+india basi,1.5
+goa,0.6574823943661972
+kumar,2.028839704896043
+dr pradeep jain,0.6666666666666666
+delhi university in relation,0.5
+case of some preferential treatment,0.5
+open seats,1.0
+aforesaid decision,1.15625
+states of assam,1.5
+essence,0.5974025974025974
+aforesaid observation,1.0555555555555556
+principle,1.9620890732001848
+quota,2.2173531989482913
+delhi,2.6089285714285717
+contrary to the judgment of the three-judge bench,0.0
+grievance,1.032529659395331
+equality,1.5627329192546584
+per,7.977753416636086
+case sq,0.6666666666666666
+excellence,0.6521739130434783
+residential preference,0.5
+that particular case,0.4444444444444444
+only preference,0.5
+present circumstances,0.5
+of the open seats,0.5
+colleges,1.9166666666666667
+pattern of admission,0.5
+judgment of a three - judge bench,0.0
+institution,2.7327010745685443
+opinion that the decision,0.8
+question,2.980312372067635
+principles,1.3198511166253102
+available for admission on all india basis,0.5
+bare look at the judgment,0.5
+other states,1.3494318181818181
+learned judge of this court,0.5
+scmanu,7.940520446096654
+word,2.065873981084096
+view of the matter,1.7142857142857142
+court by a three - judge bench,0.0
+admission in post-graduate course,0.0
+question of institutional preference,0.5
+delhi university,1.0
+-judge,0.0
+next academic session,0.6666666666666666
+to the judgment of the three - judge bench,0.0
+-judge bench,0.0
+resident,1.6560361185631094
+institutional continuity in education,0.5
+graduate,2.968643655809431
+residence whereas,0.5
+studies,1.1615103532277709
+mbbs examination,1.3333333333333333
+account,2.5754891049671977
+gupta,0.7610062893081762
+event,1.4310854436179261
+nature of preference,0.5
+ground for reservation,0.5
+laboratory,1.037248755301494
+equity,1.3214285714285714
+states,1.5120646995827023
+judgment in paragraph,0.5
+law,3.538923411654744
+karnataka,3.8596491228070176
+study,1.4280920541907696
+observation,0.7625074854374218
+cases,1.9728229418951067
+than delhi university,0.5
+treatment,1.1351020408163266
+for admission on all india basis,0.5
+basis of institutional preference,1.0
+post-graduate studies,0.0
+continuity,0.5565476190476191
+case in hand,2.1
+bare look,0.75
+home-state,0.0
+same university laboratory,0.5
+facts of that case,1.0
+admissions,0.8529980657640233
+criterion,0.7104166666666666
+right,3.07483248288682
+basis of non - fulfilment,0.0
+admission into mbbs course,0.6666666666666666
+consideration of equality,0.0
+tamil,3.111111111111111
+account reservation,0.5
+v vineet singh,0.5
+criteria into consideration,0.5
+india,2.7684068260703585
+appearance,0.531740614334471
+many word,0.2777777777777778
+parag gupta s case,0.0
+decision of the states,0.5
+many words,0.2857142857142857
+of the other state,0.5333333333333333
+cent,2.4795666588956498
+permanent resident of the national capital territory,0.5
+different state,0.7272727272727273
+uniformity throughout the country,0.5
+preferential treatment,1.0
+clear that the state of assam,0.0
+three - judge bench,0.0
+impasse,0.3529411764705882
+mbb,0.75
+students,1.1355891528677706
+undergraduate course,1.0
+peculiar fact,1.0476190476190477
+same university,1.0
+case,7.332269420884958
+impugned bulletin of information,0.5
+cent of the total number,0.4
+dinesh kumar,1.1666666666666667
+pradeep jain case,0.5
+constitution,3.204842342342342
+nadu,1.4166666666666665
+singh,3.7791111111111113
+stray observation,0.5
+preference on the institutional basis,0.5
+service,4.257395095954566
+residence wherea,0.5
+contention,1.666391070690368
+reservation on the basis,0.6666666666666666
+certain percentage of seats,0.5
+institutional preference,3.5
+india entrance examination in respect,0.5
+larger interest,1.0
+that context,0.6351606805293006
+supra,2.246342614440774
+resident of the national capital territory,0.5
+hardship,0.7236842105263158
+national capital territory,0.75
+bench,2.5793391667754992
+own importance,0.30000000000000004
+different view,0.5378151260504201
+contingency,0.4924242424242425
+undergraduate study in some other state,0.5
+aforesaid contingency,0.5
+applicant,0.7861822513400833
+mbbs course from a medical college,0.5
+under-graduate study from a university,0.0
+preference on account,0.5
+admission,1.5389848246991107
+considerations,0.7860235003092146
+allahabad,2.3404255319148937
+india manuscmanusc,1.8333333333333333
+dr parag gupta v university of delhi,0.5
+view of the judgment,1.0
+peculiar fact of that case,0.0
+competitive examination on all india basis,0.5
+examination,2.4920345926263088
+prachi,0.5
+same formula,0.5
+seats,4.349544072948328
+permanent resident,0.38888888888888895
+reservation,2.6876587100050786
+earlier decision,1.5454545454545454
+basi of non - fulfilment,0.0
+petition,5.3436539306104525
+present circumstance,0.5
+correct criteria into consideration,0.5
+consideration,1.9110153789142115
+parag gupta,3.5
+goa medical college,1.0
+paragraph,1.2930197483150305
+case of dr  dinesh kumar,0.0
+post-graduate course,0.0
+words,1.6384367086179112
+value,1.7137907830478438
+such reservation on the basis,0.5
+-judge bench in pradeep jain,0.0
+such reservation,1.25
+peculiar facts of that case,0.6666666666666666
+higher side,0.45000000000000007
+impugned bulletin,0.5
+continuity in education,0.5
+decision in dr  parag gupta,0.0
+mbbs,1.125
+india entrance examination,2.0
+earlier decision in dr  parag gupta,0.0
+condition precedent for admission,0.5
+taking,1.5813408809014857
+roots,0.4743589743589744
+student,1.2777711454664835
+judge,2.9012627415183325
+manuscmanusc,7.940520446096654
+case of dr  pradeep jain,0.0
+tamil nadu,3.176470588235294
+other state,1.851851851851852
+conclusion,1.3883437407077015
+seat in the state,0.5
+ratio,5.027061939235792
+judgment of the three - judge bench,0.0
+correct criterion into consideration,0.0
+preferential right,0.6666666666666666
+judges,2.0931496919173616
+post graduate courses,0.8888888888888888
+institutional continuity,0.5
+iilljsc,2.1666666666666665
+preference for admission,0.5
+direction of this court,1.0
+national,1.5126860273884035
+aforesaid judgment,1.4583333333333333
+hand,2.0299623418254717
+contentions,0.9641025641025641
+sense,0.8606303395157362
+under-graduate study,0.0
+circumstances,1.3944461370073231
+- fulfilment,0.0
+great hardship,0.75
+different states,1.25
+petitions under article,0.9
+two-judge bench in parag gupta,0.0
+pradeep jain s case,0.0
+for admission on the basis,0.5
+requirement,1.2416133333333332
+parag gupta s cases,0.0
+assam,1.06
+state,6.817996007300392
+dmmch,0.5
+admission on the basis,0.5
+university in relation,0.5
+preference,1.0460251046025104
+state of tamil nadu,1.8421052631578947
+manu,7.078142071124147
+general,1.7536558414534391
+academic session,8.666666666666666
+institutional basi,0.5
+requirement of residence,0.5
+basi of all india entrance examination,0.0
+airsc,1.6909090909090911
+state of up,2.0784313725490198
+nature,1.4149926876444778
+fulfilment,0.5833333333333333
+health,0.8632619439868204
+residence requirement within the state,0.5
+correct criterion,0.0
+criterion into consideration,0.0
+of the other states,0.4444444444444444
+conflict between the pradeep jain,0.5
+precedent,0.8982341399607586
+observations,0.7454584147497534
+aforesaid conclusion of the judgment,0.5
+that the states of assam,0.5
+university,3.75675614961249
+capital,1.0983272274832379
+case of dr  parag gupta,0.0
+learned judges of this court,1.2
+learned judges,3.4864864864864864
+open seat,1.0
+admissions to post-graduate courses,0.0
+other observation,0.4

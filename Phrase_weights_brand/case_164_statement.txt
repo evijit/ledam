@@ -1,0 +1,195 @@
+courts,2.1216528162511543
+court of gujarat,2.3076923076923075
+committee,2.546237803603864
+unauthorized structure,2.0
+high court of gujarat,2.3076923076923075
+government,3.5583785424010483
+process,1.6274942048088725
+directions to the collector,0.5
+illegal encroachment,1.5
+subject plot of land,0.5
+moreso in respect,0.5
+appellant on municipal land,0.5
+occupation of a public property,0.5
+writ,2.8882378560889794
+public right of way,0.6666666666666666
+power,3.8165227690948367
+structure,1.568520357497517
+illegal occupants,2.0
+directions,1.5134125183504605
+moreso,0.2608695652173913
+structures,0.8929115853658537
+respondent - municipality,0.0
+plot,1.9177369203731243
+high court to collector,0.5
+municipal land,1.5
+executive committee of the municipality,0.5
+high courts,2.676470588235294
+high,5.367119186841496
+mandate of section,1.0833333333333333
+ahmedabad in writ petition,0.5
+lease deed,0.875
+court,12.24425115501509
+hence,1.1440732910500353
+portion of the municipal land,0.5
+possession of property,0.8
+property,2.9368986630013745
+road,1.0764686576960945
+writ petition,6.24223602484472
+petition,5.3436539306104525
+petition for issuance,0.6666666666666666
+person,4.291511329454258
+interference,0.5733527484528578
+purpose,2.519170317925504
+law,3.538923411654744
+way,1.7812722068664852
+behalf,1.9888053603529987
+construction,2.2504918032786887
+constructions,0.6758620689655173
+different person,0.5384615384615384
+structure on the subject public property,0.0
+occupants therefrom,0.5
+right of way,0.8888888888888888
+division,1.7657319129617017
+committee of the municipality,0.5
+structures on the subject public property,0.5
+lessees,1.3333333333333333
+issuance,1.05379513633014
+different persons,0.6666666666666666
+case note,0.8
+present appeal,1.3424657534246576
+absence of a formal lease deed,0.5
+street,3.189100817438692
+encroachment on the public property,0.5
+possession of the property,2.3636363636363638
+gujarat municipalities act,2.0
+unauthorized structures on the subject public property,0.5
+courts in writ petitions,0.75
+concerned property,1.0
+filed,2.428695652173913
+permission,1.1531211886018407
+merit,1.2419290263876248
+history,0.5728887807252372
+gujarat,3.2753623188405796
+executive,1.3789130780232004
+direction to state authorities,0.5
+appeal,3.4125488033856883
+unauthorized structure on the subject public property,0.0
+right,3.07483248288682
+collector,1.8095238095238093
+disposition,1.4544025157232705
+authority,2.4352627108360636
+derogation of the section,0.5
+land,6.337534028705619
+illegal occupant,2.0
+municipality,1.96875
+streets,0.6508108108108107
+area,2.675167256985439
+unauthorized occupation,0.5
+petitions,1.3930830039525692
+formal lease deed,0.5
+mandate,0.8783810859547183
+expounded policy,0.5
+absence,1.092363454568179
+state authorities,1.5714285714285714
+comprehensive policy,1.2
+policy,3.250773332247955
+occupation,1.1158072696534236
+authorities,1.266131845134287
+encroachment,1.0106951871657754
+judgment,3.288216560509554
+respect,2.6704963235294117
+authority of law,1.7692307692307692
+due process,0.6064690026954178
+fact,3.6284951019474962
+order,5.472481489660944
+act fact,0.0
+subject plot,1.6666666666666667
+removal,0.7204301075268817
+resolution,1.771256437663978
+pil,0.8227750138197899
+act,12.870263922028107
+public property,0.888888888888889
+letter of allotment,0.5
+high court in writ petitions,0.0
+such direction,1.375
+other purpose,0.4895104895104894
+that power,0.6764705882352942
+unauthorized structures,1.0
+illegal occupants therefrom,0.5
+municipality as public street,0.5
+due proces,0.6064690026954178
+iii,1.5614499719992534
+conformity,0.71875
+high courts in writ petitions,0.75
+municipality to different persons,0.5
+possession,2.808810857389056
+possession of the concerned property,0.5
+state government,3.027142857142857
+allotment,4.111111111111112
+appellant,14.387096774193548
+municipality as public streets,0.5
+that behalf,1.3548387096774193
+public street,1.6666666666666667
+request of the occupants,0.5
+court to collector,0.5
+public road,0.3333333333333333
+municipalities,1.1454545454545455
+direction to the collector,0.5
+high court,7.7477477477477485
+appellant on a municipal land,0.5
+such unauthorized occupation,0.5
+state,6.817996007300392
+case,7.332269420884958
+note,1.3654108484234107
+favour of the appellant,1.4838709677419355
+sorders,0.5072463768115942
+citing,0.45054945054945056
+prior permission,0.3692307692307692
+section,9.287987283173626
+leases,0.5612244897959184
+deed,1.3564447722662734
+ahmedabad,2.55
+protection,1.1604395604395603
+state authority,1.0
+which construction,1.6666666666666667
+lease,1.2000155472636815
+letter,2.707240080105903
+court in writ petitions,0.0
+writ petitions,2.984848484848485
+which constructions,0.5
+conformity with the expounded policy,0.5
+place,2.333104345208554
+prior history,0.3333333333333333
+act facts,0.0
+public streets,1.0
+portion,1.0756311179804223
+executive committee,1.0
+request,1.1474439594584596
+demolition,1.105263157894737
+derogation,1.0952380952380951
+action in respect,0.6666666666666666
+favour,1.653145208700764
+sorder,0.9302550855666775
+division bench,3.965217391304348
+public right,0.5925925925925926
+favour by the executive committee,0.5
+proces,1.627944583238701
+direction,1.8495050210098996
+municipality without authority,0.5
+reference,2.1755848210276256
+bench,2.5793391667754992
+existence,0.731202675709574
+occupant,1.8116883116883118
+action,3.127292663476874
+fact that a resolution,0.5
+facts,1.4696673624372698
+occupants,2.048780487804878
+lessee,1.515151515151515
+respondent,4.757894736842104
+plot of land,0.6428571428571429
+municipal,2.4099173553719004
+subject public property,0.5
+protection under the law,0.5
+persons,2.5993381990166555
+formal lease,1.5

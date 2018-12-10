@@ -1,0 +1,53 @@
+witnesses,3.359210526315789
+judgment,3.288216560509554
+appellants by reason,0.5
+order of the high court,1.296875
+cross,2.0778316690442225
+non - production of the panchas,0.0
+count,2.7493281810130092
+shop,1.5065156686317096
+breach of natural justice,0.75
+cost,1.2954397451466992
+order,5.472481489660944
+warrant,0.611066164387025
+appellants,7.701086956521739
+pancha,8.892857142857142
+justice,2.292557084574302
+view,2.441100058469462
+cross-examination,0.0
+witnesses in this behalf,0.6666666666666666
+material witness,0.9047619047619048
+non - production,0.0
+material witness in this behalf,0.0
+witness in this behalf,0.0
+examination,2.4920345926263088
+house,2.0021735292386764
+prejudice,0.880907124598545
+appellant,14.387096774193548
+search warrant,0.2268518518518519
+high,5.367119186841496
+appeal,3.4125488033856883
+witness,5.333906623599983
+- production,0.0
+search,1.156007562422583
+reason,2.6381270903010035
+court,12.24425115501509
+order under appeal,1.0
+argument that no prejudice,0.5
+breach,1.3366228070175439
+natural justice,2.6666666666666665
+material witnesses,0.9600000000000002
+panchas,1.25
+civil appeal,2.2413793103448274
+production,2.1071428571428577
+high court,7.7477477477477485
+issue,2.766776251628934
+pancha to the search,0.0
+material witnesses in this behalf,0.5
+appellant by reason,0.0
+costs,0.8167395522604189
+argument,0.9504580388560493
+cros,1.8137948361162648
+behalf,1.9888053603529987
+panchas to the search,0.5
+- production of the panchas,0.0

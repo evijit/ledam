@@ -1,0 +1,214 @@
+short question,0.5714285714285714
+service condition,2.272727272727273
+essential qualification,0.6666666666666666
+pre,6.408342692122574
+respondents herein,1.8333333333333333
+senior,1.989753211141579
+that view of the matter,1.553191489361702
+senior assistant subject,0.5
+point,2.9165043546008516
+government,3.5583785424010483
+cost,1.2954397451466992
+judgment of the high court,1.721311475409836
+necessary for promotion to the rank,0.5
+electrical inspectorate in the state,0.5
+appeals,1.7060218112849692
+expiry,2.2888888888888888
+service conditions of the appellant,0.5
+case of the employees,0.5
+doubt whatsoever,1.1428571428571428
+employee,6.280487804878048
+tribunal disposed,0.8333333333333334
+examination,2.4920345926263088
+subordinate officers,1.0
+ministerial service rules,2.0
+assistant from junior assistant,0.5
+officers part i,0.5
+for promotion to the rank,0.5
+contention of the appellant,1.1851851851851851
+to the respondents,1.6521739130434783
+department of chief electrical inspectorate,0.5
+high,5.367119186841496
+case of the appellant,1.1714285714285715
+pradesh,4.365853658536586
+account,2.5754891049671977
+reason,2.6381270903010035
+court,12.24425115501509
+officer,3.1197242647058823
+creation,0.5716118684843625
+ministerial service rule,2.0
+notification,3.0112746633260263
+chief engineer,7.363636363636363
+petition,5.3436539306104525
+date of passing,0.8333333333333334
+administrative tribunal,3.8
+purpose,2.519170317925504
+electricity board,2.2285714285714286
+head,1.5827778446537666
+consideration,1.9110153789142115
+part,5.294464509893076
+time,2.4764180952862667
+matter,2.8088923076923082
+accounts test for subordinate officers,1.0
+inspectorate,2.4000000000000004
+relevant criteria among others,0.5
+senior assistant,3.0
+engineer,3.318922187370092
+electricity department,1.3333333333333333
+in the case of the appellant,0.8333333333333334
+passing,0.8851858023662723
+chief electrical inspectorate at any point,0.5
+assistant under the chief electrical inspectorate,0.5
+present appeal,1.3424657534246576
+departments,0.9019607843137255
+special qualifications,0.5
+board,2.401414435268602
+government of andhra pradesh,1.6153846153846154
+others,0.9074667328904616
+view,2.441100058469462
+post,2.344803646492219
+oas,0.3617434268572437
+therein that passing,0.5
+chief electrical inspectorate,4.0
+andhra,4.830188679245283
+passing of the accounts test,1.0
+test,2.5329834591340266
+pradesh state,1.5
+appeal,3.4125488033856883
+judgment of the tribunal,1.5555555555555556
+criteria among others,0.5
+criterion,0.7104166666666666
+relevant criteria,0.5
+assistant,1.6732837055417698
+tribunal disposed of the oas,0.5
+chief electrical inspectorate in the state,0.5
+dispute that the service,0.5
+engineer in place,0.5
+pradesh ministerial service rule,2.0
+constitution of the andhra,0.5
+petitions,1.3930830039525692
+chief electrical inspector,4.333333333333333
+effect that the head,0.5
+november,0.7203359669727383
+order of the tribunal,2.0
+stage,1.1298537871524448
+year,2.8349484769759212
+chief engineer in place,0.5
+service condition of the appellant,0.0
+later stage,0.7083333333333334
+department under the government,0.5
+seniority of the appellant,0.5
+rules,3.130914366958792
+senior assistants,1.0
+applicable in the case of the appellant,0.5
+judgment,3.288216560509554
+relevant criterion,0.5
+service rule,3.1
+case of the appellant herein,0.6666666666666666
+subordinate officers part i,0.5
+view of the above,1.1764705882352942
+to the respondent,2.1153846153846154
+subject,2.4420366233344897
+criteria,1.3561764705882353
+services,1.6850241065659326
+place of the department,0.5
+date for the purpose,0.6666666666666666
+department of the government,1.2222222222222223
+junior to the respondents herein,0.5
+order,5.472481489660944
+post of senior assistants,0.5
+to the respondents herein,0.6666666666666666
+electrical inspectorate at any point,0.5
+electrical inspectorate,4.0
+consideration in the present appeals,0.75
+electrical inspector in place,0.5
+dispute that the services,0.5
+department,1.9858367499068206
+seniority of the employees,0.5
+accounts,2.7564363143631434
+chief,1.9429638234317954
+examination after expiry,0.5
+andhra pradesh,4.857142857142857
+december,0.9629002463054187
+dispute,2.402137592137592
+electricity department of the state,0.5
+qualification,2.1521739130434785
+electrical,2.955939132409721
+appellant,14.387096774193548
+effect,2.184583388478191
+conditions,1.9988092071092867
+particular rule,0.5
+list,4.014941314095513
+high court,7.7477477477477485
+other employee,1.05
+junior assistant,1.0
+qualifications,1.0714285714285714
+state,6.817996007300392
+doubt,1.3646267723102583
+case,7.332269420884958
+junior assistant under the chief electrical inspectorate,0.5
+period,1.9480170842427122
+requisite,0.7788359788359789
+years,2.5395804110508022
+electrical inspector,3.0
+requisite examination,0.5
+other employees,1.0303030303030303
+assistant subject,0.5
+constitution,3.204842342342342
+condition,2.259476395625584
+posts,2.6556317082632876
+senior to the respondents,0.5
+place,2.333104345208554
+promotion to the rank,0.6666666666666666
+officers,2.442124212421242
+therein,1.5503424657534246
+accounts test for subordinate officers part i,0.5
+service,4.257395095954566
+office of the chief electrical inspector,0.5
+senior assistant from junior assistant,0.5
+pradesh ministerial service rules,2.0
+appellant herein,2.046153846153846
+contention,1.666391070690368
+relevant criterion among others,0.0
+as the date of passing,0.5
+seniority list of senior assistants,0.5
+subordinate officer,1.0
+rule,5.04
+post of senior assistant,1.5
+seniority,7.989473684210527
+tribunal,5.07183212267958
+present appeals,1.625
+promotion,2.946428571428571
+applicable in case of the employees,0.5
+date,6.195616975795285
+service conditions,2.1818181818181817
+direction,1.8495050210098996
+junior,0.9861207494795279
+special qualification,0.5
+criterion among others,0.0
+electricity,4.4831223628691985
+accounts test,2.0
+service rules,2.95
+administrative,1.85302734375
+in case of the employees,0.5
+ministerial,1.1111111111111112
+certain posts,0.3333333333333333
+respondent,4.757894736842104
+reason of creation,0.5
+office,3.5913445886237847
+inasmuch as the date of passing,0.5
+subordinate,1.43
+certain post,0.3333333333333333
+pradesh electricity board,0.8
+respondents,2.6341263330598856
+leave,1.0147842365477848
+superintendent,1.2698412698412698
+inspector,1.2705882352941176
+costs,0.8167395522604189
+seniority list,3.857142857142857
+employees,4.611008798854102
+chief electrical inspector in place,0.5
+rank,0.6723585912486659
+assistants,0.4722222222222222
+question,2.980312372067635
+accounts test within a period,0.5

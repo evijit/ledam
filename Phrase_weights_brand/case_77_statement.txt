@@ -1,0 +1,694 @@
+mishra,0.3173076923076923
+courts,2.1216528162511543
+above period,0.6666666666666666
+committee,2.546237803603864
+time measure,0.6666666666666666
+government,3.5583785424010483
+insofar,0.9295774647887324
+special police officers,0.5
+vacant sanctioned posts,0.5
+police officers,0.8421610169491526
+vacancy,1.0666666666666667
+terms of the above,1.25
+services of employees,0.6666666666666666
+vacant posts,1.3333333333333333
+intervention of orders,0.5
+mind,1.1559066143122394
+condition that new appointments,0.5
+state results in further financial commitment,0.5
+notice of the university,0.5
+priorities,0.5062893081761006
+viz,0.7732570026579433
+employee,6.280487804878048
+filing,1.1274190041313328
+terms,2.390350840909655
+interim order,2.9166666666666665
+ramashray baleshwar college,1.5
+arbitrary action,0.8333333333333334
+education,2.1892608326253185
+case of the appellant,1.1714285714285715
+universityfor,0.5
+failure,0.7827962142086977
+principal,1.3412499999999998
+interest,2.74353772015385
+court,12.24425115501509
+yatindra,0.5
+for the state,1.0163934426229508
+employment,1.5239770785161355
+lalit,1.55
+college employees federation,0.5
+violation of the bihar state universities act,0.5
+creation,0.5716118684843625
+consonance,1.5
+union,2.0981927710843373
+light of the circular,0.5
+single judge,4.011627906976744
+service of the employees,0.6666666666666666
+person,4.291511329454258
+ors,2.8612718198296623
+dalsang sarai,0.5
+way,1.7812722068664852
+irregular,1.580312603924177
+benefits on a par,0.5
+part,5.294464509893076
+illegal appointment,1.6666666666666667
+relevant consideration,1.2
+appeal by special leave arises,0.6666666666666666
+such demand,1.0
+additional financial burden,1.0
+appointment of duly,0.5
+new post,0.41666666666666663
+rival contention,1.1111111111111112
+year need,0.5
+regularization on the post,0.5
+to the facts of the present case,0.9090909090909091
+aspect,1.2449448189023034
+such as the ones,0.5
+various communications,1.0
+decision,2.9514937765898557
+competent authority,2.7142857142857144
+claim,2.817264601856604
+class iv post of night guard,0.5
+same to the vice chancellors of the universities,0.5
+staff,1.3233972834416785
+recruitments,1.3333333333333333
+appeal,3.4125488033856883
+daily wager,1.6666666666666667
+contra,3.550142721217888
+court of judicature,1.4210526315789473
+on record,1.572992700729927
+service of such employees,0.0
+following condition,0.65
+month,1.3454861111111112
+year,2.8349484769759212
+qualified persons,1.0
+judgment,3.288216560509554
+daily wager in the high court,0.0
+class iv,1.9393939393939394
+human resources development department,1.5
+applicable to the facts of the present case,0.75
+banumathi,0.9
+leave arises,0.6666666666666666
+executive government,1.0
+illegal appointment in state,0.0
+education institutions,0.75
+prescribed qualifications,0.5
+services,1.6850241065659326
+order,5.472481489660944
+as the appellant,1.1724137931034482
+act,12.870263922028107
+relevant factor,0.8663594470046083
+priorities of the state,0.6666666666666666
+night guard,1.6666666666666667
+decades,0.5510204081632653
+pursuance,1.543859649122807
+clas,2.1196191893660425
+appointment,3.1380281690140843
+bihar state universities act,1.5
+state universities act,1.5
+bihar state university,0.5
+considerable time,0.5555555555555556
+prescribed minimum qualification,0.5
+state government,3.027142857142857
+following conditions,0.6000000000000001
+benefit on a par,0.0
+copy,0.8620926631522174
+patna,2.3421052631578947
+wage,1.5814065510597304
+member,2.649111111111111
+years on daily wages,0.5
+three,1.4240369592813202
+limine by the high court,0.5
+special leave arise,0.6666666666666666
+section,9.287987283173626
+as the one,0.4465811965811966
+daily wagers in the high court,0.5
+other employees,1.0303030303030303
+objective,0.5021775147928994
+blemish record,0.5
+college,2.1498947162234954
+service of employees,0.5
+condition,2.259476395625584
+police officer of similar rank,0.0
+bypassing,0.4583333333333333
+scheme under section,1.0
+constitutional scheme,1.6363636363636365
+record by the respondents,0.5
+educational institutions,1.2480000000000002
+pattern,0.6151546391752578
+v ml,0.4
+general principles,0.5735294117647058
+insofar as contention,0.5
+pensionary benefit,3.6666666666666665
+staffing,0.5714285714285714
+circumstance,1.429931390219372
+officers,2.442124212421242
+present case,1.5611814345991561
+as the ones,0.2727272727272727
+judicature,1.4210526315789473
+clear case of violation,0.5
+regard,2.723310344827586
+wages vide office order,0.5
+appellant by the registrar,0.5
+context,0.9269383697813122
+unsanctioned post,0.5
+rule of bsu act,0.0
+class,2.1508512849922936
+proces,1.627944583238701
+direction,1.8495050210098996
+service of the appellant,1.2
+rational decision,0.3333333333333333
+decade,0.5014409221902018
+such as the appellant,0.8
+union of india,3.1324503311258276
+facts,1.4696673624372698
+wagers,1.375
+supply of cheap labour,0.5
+appointment of such employee,0.5
+issue,2.766776251628934
+para,2.300239586747483
+staff pattern,0.6666666666666666
+period of decades,0.5
+ramashray,1.5
+basi,2.0752712086391383
+benefits,2.0896027049873203
+nanjundappa,0.5
+appellant seeks,0.6666666666666666
+service of these appellants,0.0
+illegal appointments,1.0
+ones,1.1255220584705485
+days,1.6721350893491447
+year on the post,0.0
+benefit,2.604810195438474
+details whether any other night guard,0.5
+class iv post,1.6666666666666667
+existence of the need,0.5
+cost,1.2954397451466992
+orders,1.4936359300077826
+prescribed staffing pattern,0.5
+basis,1.953226441078104
+mithila,0.5
+scheme,3.415949119373777
+directions,1.5134125183504605
+person in duly,0.0
+sub,7.816899313759727
+legislative scheme,1.0
+proces for termination,0.0
+services of these appellants,0.5
+vide letters,1.0
+implication,0.6615776081424936
+wagers in the high court,0.5
+from the above,0.649867374005305
+bihar government,1.25
+officer,3.1197242647058823
+letters,2.0877496159754223
+for consideration for regularization,0.5
+opportunity,0.946186440677966
+appellants into the services,0.5
+financial burden,1.8333333333333333
+education authority,0.0
+vide order,1.7058823529411764
+regularization,4.0
+monetary benefit,1.8888888888888888
+vacant whichever,0.5
+resources development department,1.5
+office order,0.6666666666666666
+part of the state,0.8021390374331551
+term,3.6255105640901575
+vacant post,1.3333333333333333
+term of the above,0.0
+appellants,7.701086956521739
+vires,2.388888888888889
+spite,0.8919640378414163
+view,2.441100058469462
+post,2.344803646492219
+vide,4.454025282767798
+opinion,1.4960606342789635
+vacancies,7.473684210526316
+additional financial burden on the exchequer,0.5
+daily wagers,1.6666666666666667
+case creation,0.5
+merit,1.2419290263876248
+regularisation,6.857142857142857
+illegal appointments in state,0.5
+resources development,1.0
+leave arise,0.6666666666666666
+result,1.3356630184144715
+clerk,1.0416666666666667
+bihar,4.587301587301587
+limine,1.3636363636363635
+record,2.5393414390845273
+material,1.4148767018946966
+laws,1.4186274337269533
+polouse,0.0
+financial implications,0.6666666666666666
+daily wages vide office order,0.5
+secretary,0.9217877094972067
+circular,2.0360934182590236
+vice chancellor,1.25
+appointment of the appellant,2.6666666666666665
+department of bihar government,0.5
+r banumathi,0.9
+services of such employees,0.5
+one - time measure,0.0
+year on daily wages,0.0
+recruitment,5.333333333333333
+contended,1.7740863787375416
+fact,3.6284951019474962
+monetary benefit for the above period,0.5
+learned counsel,3.703333333333333
+resolution,1.771256437663978
+process for termination,0.5
+sanctioned posts,1.8
+umadevi s case,0.0
+exchequer,0.75
+department,1.9858367499068206
+duties,1.477142857142857
+appointments in state,0.5
+irregular appointment,2.0
+special,1.7363344051446945
+manu  scmanu  sc,0.0
+material on record,1.40625
+cheap labour,0.5
+new appointment,0.5
+universities laws,0.5
+kumar,2.028839704896043
+domain of the legislature,0.6666666666666666
+above communication,0.75
+ultra vires,1.8484848484848484
+yatindra kumar mishra,0.5
+demand,1.5671679197994988
+impugned order,2.265957446808511
+sector bank,5.333333333333333
+vice chancellors of the universities,0.5
+daily wage on the post,0.0
+duly,1.13589803737587
+other word,0.758838674565131
+work,2.8478559811646353
+merit in the light,0.0
+necessity,0.7072538860103627
+to the vice chancellors of the universities,0.5
+qualifications,1.0714285714285714
+held,3.3171122162354454
+brief facts,1.0
+light,0.8816192372754331
+absorption of the appellant,0.5
+lpa,0.9672836569649268
+years,2.5395804110508022
+decision in para,0.75
+further financial commitment,0.5
+punjab,1.0438169425511197
+such employees,1.4
+protection,1.1604395604395603
+principle,1.9620890732001848
+constitution bench judgment,1.5384615384615385
+judice,0.8914641744548287
+class iv employee,1.2222222222222223
+narayanappa,0.5
+benefit for the above period,0.5
+details,0.9406426856198188
+sanctioned post,3.0
+posts,2.6556317082632876
+factor,1.2878742338904643
+settlement,1.6881394467601363
+month from this date,0.0
+nagarajan,1.0
+justice,2.292557084574302
+work from persons,0.5
+claim of the appellant declaring,0.5
+appellant vide letter,0.5
+court by way,1.1
+services of the state,1.0
+v state,2.4603773584905664
+allocation,0.5581395348837209
+absorption of the special police officers,0.5
+services of the appellant,1.3333333333333333
+cover of orders,0.5
+claim for regularization,0.5
+date,6.195616975795285
+new posts,0.4444444444444444
+competitive selection,0.5
+ultra vire,1.8484848484848484
+state result in further financial commitment,0.0
+reference,2.1755848210276256
+existence,0.731202675709574
+court order,0.4077457069784436
+colleges,1.9166666666666667
+bank,9.40770083102493
+vacant sanctioned post,0.5
+direction of registrar,0.5
+ten years,1.3829279923700524
+narayan mithila university,0.5
+open competitive selection,0.5
+evident from the above,0.5
+institution,2.7327010745685443
+respondent,4.757894736842104
+consonance with the recruitment rules,0.5
+employees,4.611008798854102
+day,1.550999710228919
+appointment on any post,0.5
+question,2.980312372067635
+principles,1.3198511166253102
+v state of punjab,1.4848484848484849
+class iv employees,1.2222222222222223
+which employees,0.5
+scmanu,7.940520446096654
+word,2.065873981084096
+domain,0.6316883116883117
+writ,2.8882378560889794
+priority of the state,0.0
+step,0.8867024753460084
+need,1.1097650269586634
+months,1.1938163721148947
+other words,0.7578482137053969
+clear case,0.5000000000000001
+vice chancellor of the universities,0.0
+vice chancellors,0.5
+objective behind the exception,0.5
+that the state government,1.4
+issue that the appointment,0.5
+bsu act,0.5
+which employee,0.6666666666666666
+high,5.367119186841496
+members,1.9437616522164103
+order of termination,3.25
+consideration for regularization,0.5
+such additional burden,0.5
+finances,0.680952380952381
+daily wages on the post,0.5
+appointments,1.2888888888888888
+wages on the post,0.5
+communications,0.7330779054916986
+vide letter,2.142857142857143
+such as the one,0.4846153846153846
+brief fact,1.0
+sub judice,0.5
+learned,3.406323898681099
+regularization viz,0.5
+law,3.538923411654744
+karnataka,3.8596491228070176
+nos,1.2635492554198444
+that regularisation,0.5
+months from this date,0.75
+time,2.4764180952862667
+cases,1.9728229418951067
+educational institution,1.6904176904176904
+baleshwar college,1.5
+vacant post of class iv employees,0.0
+preferred lpa,0.5
+appellant as daily wage,0.5
+continuity,0.5565476190476191
+resource,0.8416706827309237
+par,7.011805363704756
+appellant into the services,0.0
+to the fact of the present case,0.6666666666666666
+persons in duly,1.0
+guard,1.1435613062230436
+wager,1.5873015873015872
+state of karnataka,1.9259259259259258
+special leave arises,0.6666666666666666
+facts of the case,1.161764705882353
+state governments,1.3345864661654134
+ratio of umadevi,0.5
+further bypassing,0.5
+exception,1.1036946087733006
+appellant by the principal,0.5
+counsel,2.2246780703440323
+termination,1.6799615488397193
+creation of the posts,0.5
+implications,0.5223021582733813
+financial burden to the state,0.5
+case demonstrate,0.5
+india,2.7684068260703585
+authorities,1.266131845134287
+ad-hoc,0.0
+rules,3.130914366958792
+appellant seek,0.8333333333333334
+temporary employee,0.5
+security of employment,0.5
+commitment,0.382608695652174
+illegality,0.8076923076923077
+claim of the appellant,1.6666666666666667
+more in duly,1.0
+dalsang,0.5
+court in umadevi,0.5
+above order,1.7857142857142858
+view that the case,0.6666666666666666
+recruitment rules,10.166666666666666
+university vide letter,1.0
+illegality in the order,0.8
+wef,0.859375
+sector,1.1724200913242009
+irregular appointment of employees,0.5
+question of regularisation,0.5
+available on record,1.2857142857142858
+that the existence of the need,0.5
+disposal,1.1180555555555556
+open for the state,1.0
+instant case creation,0.5
+submission,1.0913871684001404
+document,1.401100265092073
+instant case demonstrate,0.5
+results,0.6487493619193466
+vice,3.766984711894892
+need for the creation,0.5
+conditions,1.9988092071092867
+services of the employees,1.6
+detail,0.9737454684220567
+wager in the high court,0.0
+relevant factor with reference,0.5
+circumstance of the case,0.5
+case creation of new posts,0.5
+inaction,0.6031746031746033
+regular recruitments,0.5
+case,7.332269420884958
+difference,0.8774847235514982
+vice - chancellor for consideration,0.0
+period,1.9480170842427122
+sarai,0.6666666666666666
+prescribed minimum qualifications,0.5
+sector banks,5.4
+supply,2.0557395143487858
+education institution,0.75
+registrar,1.8341346153846154
+contended that principal,0.5
+exception to the general principles,0.5
+scc,1.941872465904902
+principal of the college,2.0
+institutions,2.2839413875598087
+constitution,3.204842342342342
+letter,2.707240080105903
+education authorities,0.5
+cum,1.9825519589997616
+rules of bsu act,0.5
+post of class iv employees,0.0
+new appointments,0.5
+further bypassing of the constitutional requirement,0.5
+singh,3.7791111111111113
+appellant preferred lpa,0.5
+governments,1.020200276243094
+future,0.9664487618116651
+service,4.257395095954566
+condition that new appointment,0.5
+class iii,2.4166666666666665
+contention,1.666391070690368
+baleshwar,1.5
+case of violation,0.75
+bsu,0.6040224913494809
+rule,5.04
+high court order,0.8571428571428571
+respondent that the appointment,0.5
+universities,1.8989361702127658
+special police officer,0.6666666666666666
+bear,0.7747014535390094
+other factor,0.509090909090909
+light of this judgment,1.0
+additional burden,0.18181818181818182
+that context,0.6351606805293006
+constitution bench judgment in secretary,0.5
+supra,2.246342614440774
+duty,3.2272215973003378
+state university,0.23168980373384396
+wages,1.2315068493150687
+principal of the college vide letters,0.5
+violation,1.2087401208740118
+appointment to class iii,0.5
+service of the state,0.6666666666666666
+bench,2.5793391667754992
+office,3.5913445886237847
+respondents,2.6341263330598856
+financial implication,0.8
+leave,1.0147842365477848
+factor with reference,0.5
+resources,0.9331054687500001
+costs,0.8167395522604189
+evident that the state government,0.5
+education institutions on the basis,0.5
+such employee,2.0
+burden,0.9853978671041838
+cwjc,0.9444444444444444
+process,1.6274942048088725
+rival contentions,1.0
+absorption,0.928888888888889
+kesari,2.2
+notice,2.3300025999395686
+other night guard,0.5
+high court of judicature,1.4210526315789473
+hoc,0.8814236714464876
+instant case creation of new posts,0.5
+merits,0.968421052631579
+to the vice chancellor of the universities,0.0
+police,2.9749362629783356
+steps,1.169318181818182
+blemish,0.42857142857142855
+nihal singh,1.3333333333333333
+court in the cases,1.25
+regard to the various communications,0.5
+above communication of human resources development department,0.5
+police officer,1.0366379310344829
+protection of the interim order,0.5
+priority,0.7086614173228346
+financial commitment,0.5
+chancellors,0.3333333333333333
+filing of this appeal,0.8
+various banks,1.75
+communication,1.013409067330636
+concern for the college,0.5
+monetary benefits,1.7142857142857142
+nihal,1.3333333333333333
+one,4.845669314438648
+person on daily wages,0.0
+writ petition,6.24223602484472
+petition,5.3436539306104525
+tribunals,2.527472527472528
+as the appellants,1.0909090909090908
+instrumentalities,1.1428571428571428
+failure of the executive government,0.5
+ten year,1.3831258644536653
+intervention,0.6975694444444444
+federation,0.6243243243243244
+consideration,1.9110153789142115
+human,1.0063526196524266
+clear that the existence of the need,0.5
+court in nihal singh,0.5
+police officers of similar rank,0.5
+proces of open competitive selection,0.0
+words,1.6384367086179112
+years on the post,0.6666666666666666
+commissioner,2.271608643457383
+college vide letters,0.5
+documents,1.142515923566879
+regular recruitment,0.5
+various bank,2.0
+daily wage,2.5
+eligible for consideration for regularization,0.5
+held between bihar state university,0.5
+appointment of employees,0.5
+irregular appointments,0.5
+various communication,0.6666666666666666
+respondent nos,2.5185185185185186
+education institution on the basis,0.0
+financial burden on the exchequer,0.5
+counsel for respondents,1.25
+chancellor,0.37142857142857144
+qualified person,0.6666666666666666
+process of open competitive selection,0.5
+legislature,2.818553268765133
+additional financial burden to the state,0.5
+authority,2.4352627108360636
+judge,2.9012627415183325
+irregular appointment of duly,0.5
+manuscmanusc,7.940520446096654
+umadevi,4.0
+regularising,1.3333333333333333
+posts of class iv employees,0.6666666666666666
+selection,2.2651528696585017
+appointment in state,0.0
+vice - chancellor,0.0
+public sector bank,5.333333333333333
+daily wages,2.0
+development,2.3145884270578647
+high court by way,0.8333333333333334
+fact of the case,0.0
+ratio,5.027061939235792
+instrumentality,5.555555555555555
+qualified person in duly,0.0
+security,1.5014864864864865
+pensionary benefits,3.5555555555555554
+legislative scheme under section,0.5
+appellant declaring,0.5
+general principle,0.625
+circumstances of the case,1.3373493975903614
+interest of justice,1.2
+motion,1.9249311294765838
+fact of the present case,0.6666666666666666
+continuity of service,0.8
+banks,6.73024
+recruitment rule,10.166666666666666
+vacant posts of class iv employees,0.5
+iii,1.5614499719992534
+contentions,0.9641025641025641
+no doubt,0.8331331503088538
+job,0.6733466933867737
+qualification,2.1521739130434785
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+regularization of such appointments,0.5
+allocation of the finances,0.5
+instant,1.131578947368421
+college vide letter,0.5
+public sector banks,5.4
+requirement,1.2416133333333332
+creation of posts,1.0
+high court,7.7477477477477485
+other employee,1.05
+service of appellant vide letter,0.0
+whichever,0.8426966292134831
+learned counsel for the appellant,1.7884615384615385
+human resources development,1.5
+state,6.817996007300392
+vire,1.2466124661246614
+mithila university,0.5
+jobs,0.5589459084604715
+such appointments,1.6666666666666667
+manu,7.078142071124147
+concern,2.0544958000579303
+umadevi manuscmanusc,0.5
+narayan,0.8111111111111111
+qualified persons in duly,1.0
+appellant as daily wages,0.5
+universities law,0.5
+post without the benefit,0.5
+state results,0.5
+single,1.6221488419098207
+such appointment,1.5
+services of appellant vide letter,0.5
+light of the various communications,0.5
+state result,0.5
+cover,2.502726787041524
+such as the appellants,0.6666666666666666
+respondent no,5.395833333333333
+counsel for respondent nos,0.5
+constitutional requirement,0.5714285714285714
+temporary employees,0.5
+tribunal,5.07183212267958
+impugned order of the high court,0.8333333333333334
+finance,1.9582470669427192
+night,0.8690610404251893
+wage on the post,0.0
+measure,1.1941357983816498
+prescribed qualification,0.5
+action,3.127292663476874
+university,3.75675614961249
+college on daily wages,0.5
+registrar of the university,1.0
+merits in the light,0.5
+labour,2.5372960372960374
+similar rank,0.5
+consonance with the ratio,0.5
+persons,2.5993381990166555
+pursuance of the high court order,0.5
+persons on daily wages,0.5
+members committee,3.0
+rank,0.6723585912486659
+facts of the present case,1.24

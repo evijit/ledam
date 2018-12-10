@@ -1,0 +1,221 @@
+seriousnes of the offence,0.0
+courts,2.1216528162511543
+from the material on record,0.5
+independence,0.6549707602339182
+court in the case,1.3333333333333333
+petitioner,4.524972253052164
+scmanu,7.940520446096654
+orders,1.4936359300077826
+police officers,0.8421610169491526
+notice,2.3300025999395686
+writ,2.8882378560889794
+chief judicial magistrate,2.230769230769231
+fir against any judicial officer,0.5
+application for permission,1.5
+contempt,1.5446913580246913
+criminal conduct,0.7500000000000001
+central bureau of investigation,1.0769230769230769
+directions,1.5134125183504605
+criminal involvement,0.5
+police,2.9749362629783356
+appropriate disciplinary action,0.6666666666666666
+course,1.6545957498716626
+materials,1.1534090909090908
+sections,1.640495469442838
+interim order,2.9166666666666665
+police officer,1.0366379310344829
+irrespective,0.7304347826086957
+magistrate,3.522077922077922
+pursuant to any fir without the permission,0.5
+seriousnes,0.5777777777777777
+present in the case,0.5
+high,5.367119186841496
+bureau of investigation,0.5647058823529412
+manjeet singh,0.5
+judicial magistrate,2.7857142857142856
+court,12.24425115501509
+crime,1.6636528028933093
+earlier decision,1.5454545454545454
+officer,3.1197242647058823
+from the materials on record,0.8
+jain,1.673202614379085
+courts act,0.923076923076923
+- as bribe,0.0
+complaint against shri nk,0.5
+states,1.5120646995827023
+writ petition,6.24223602484472
+petition,5.3436539306104525
+interference,0.5733527484528578
+guidelines,1.540251572327044
+way,1.7812722068664852
+seriousness of the offence,0.8
+judicial officers,9.083333333333334
+part,5.294464509893076
+observation,0.7625074854374218
+time,2.4764180952862667
+concerned high court,1.25
+matter,2.8088923076923082
+present,1.9747480780089475
+chief justice of the concerned high court,0.75
+meantime,0.5833333333333334
+allegation,1.834319526627219
+that permission,0.7200000000000001
+facie,1.0476190476190477
+interim orders,1.5238095238095237
+aforesaid final report,0.5
+in the case,1.732770745428973
+apparent from the materials on record,0.5
+which tantamounts,0.5
+shri,2.0759135877246115
+contempt of courts act,1.1111111111111112
+interim direction of the court,0.5
+action under the provisions,0.5
+involvement,1.020685900925422
+errant officer,1.0
+decision,2.9514937765898557
+case of delhi judicial service association manu  scmanu  sc,0.0
+sukhpal singh,0.5
+aforesaid,2.592896174863388
+sukhpal,0.5
+complaint,2.734525785235724
+bribe,0.95
+permission,1.1531211886018407
+disciplinary proceedings,1.5
+addition,1.5588539142412572
+tantamount,0.5761904761904763
+prosecution,4.619407894736842
+to any fir without the permission,0.5
+independence of the judicial officers,0.5
+authority,2.4352627108360636
+provisions,3.8929824561403508
+material,1.4148767018946966
+that permission in question,0.5
+regard to the lapse,0.5
+record,2.5393414390845273
+conduct,1.5998023165163158
+march,1.0644238856181665
+polouse,0.0
+disciplinary authority,3.6666666666666665
+certain guidelines,0.875
+counsel,2.2246780703440323
+ipc,2.785166240409207
+application,2.3322596088086445
+guideline,1.5641711229946524
+provision,5.439002243350069
+interim direction,1.5
+judicial independence,0.5
+certain guideline,0.875
+contempt proceedings,0.8
+time to time,1.0211267605633803
+errant officers,1.0
+judicial service association manu  scmanu  sc,0.0
+fact,3.6284951019474962
+order,5.472481489660944
+additional guidelines,0.5
+learned counsel,3.703333333333333
+association,1.2099052684061826
+act,12.870263922028107
+learned counsel for the petitioner,1.3214285714285714
+such direction,1.375
+proceedings against the errant officers,0.5
+final form,0.6666666666666666
+duties,1.477142857142857
+learned counsel for the parties,1.263157894736842
+hand,2.0299623418254717
+seriousness,0.5777777777777777
+disciplinary action against the errant police officer,0.5
+delhi judicial service association manuscmanusc,1.0
+purported exercise,0.75
+chief,1.9429638234317954
+tantamounts,0.75
+cognizant,0.4800000000000001
+material on record,1.40625
+cjm,1.0451388888888888
+direct that the disciplinary authority,0.5
+counsel states,0.6666666666666666
+fir without the permission,0.5
+errant police officer,0.5
+effect,2.184583388478191
+disciplinary proceedings against the errant officers,0.5
+stricture,0.75
+decision of this court,2.3260869565217392
+justice of the concerned high court,0.75
+final order,1.1466666666666667
+contempt proceeding,1.0
+judicial officer,10.714285714285714
+official duty,20.0
+high court,7.7477477477477485
+which tantamount,0.5
+complainant,4.538461538461538
+dispose,0.9912909836065574
+parties,1.8210828547990157
+disciplinary proceedings against the errant officer,0.5
+state,6.817996007300392
+additional guideline,0.5
+case,7.332269420884958
+nature of the offence,1.0
+aforesaid observations,1.0833333333333333
+aforesaid observation,1.0555555555555556
+section,9.287987283173626
+exercise,1.9400726466785694
+bureau,0.5022321428571429
+report,1.7768151696835826
+irrespective of the nature of the offence,0.5
+judicial,2.8688059701492543
+manu,7.078142071124147
+disciplinary action,0.9750000000000001
+central,2.61875
+incident,1.8609485257918057
+party,2.2250894654439723
+bareilly,2.25
+irrespective of the fact,0.9
+fir,2.85390975582079
+serious matter,0.5714285714285714
+criminal case,1.4464285714285714
+delhi,2.6089285714285717
+final report,1.3426573426573427
+crime for investigation,0.5
+singh,3.7791111111111113
+strictures,0.75
+justice,2.292557084574302
+contempt proceedings against the police officer,0.5
+officers,2.442124212421242
+service,4.257395095954566
+lapse,0.9238095238095239
+appropriate disciplinary action against the errant police officer,0.5
+nature,1.4149926876444778
+entire allegation,0.6666666666666666
+investigation,1.6673076923076922
+proceedings against the errant officer,0.5
+regard,2.723310344827586
+direction of the court,0.8333333333333334
+earlier decision of this court,1.1
+proceedings,1.7670925223666287
+judicial officer in discharge,0.5
+direction,1.8495050210098996
+agency,1.8968779259354924
+materials on record,1.1363636363636365
+observations,0.7454584147497534
+concerned magistrate,1.0
+officer in discharge,0.6666666666666666
+part of the final order,0.5
+duty,3.2272215973003378
+criminal prosecution,1.35
+of the seriousness,0.5
+action,3.127292663476874
+offence,4.401610644257703
+chief justice,4.684210526315789
+course of action,0.5886970172684458
+of the seriousnes,0.5
+manjeet,0.5
+serious incident,0.5
+central bureau,0.5384615384615384
+discharge,1.305219638242894
+disciplinary proceeding,1.6428571428571428
+form,2.4865961263718424
+counsel state,1.0
+cognizant of the seriousness,0.5
+question,2.980312372067635
+shri nk,3.6666666666666665
+permission of the chief justice,1.0
+investigating agency,2.0625

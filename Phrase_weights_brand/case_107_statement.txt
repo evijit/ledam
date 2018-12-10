@@ -1,0 +1,817 @@
+apex,0.8555555555555555
+excise duty to the government,0.5
+holding of the high court,0.5
+government,3.5583785424010483
+system of accounting,1.5
+future date,0.6666666666666666
+business expenditure,1.0
+litre fee,2.0
+limb of the sub - section,0.0
+ratio of those decisions,0.5
+rameshwar prasad,2.0
+liability of the assessee,2.0
+mandli,0.22727272727272727
+revision,1.6299226441631505
+ito to state,0.5
+kamanu,1.1428571428571428
+which case,0.5512489233419466
+los,1.8125523261338943
+meaning,1.8612727545949643
+cit,2.2857642235586386
+second one,0.34108527131782945
+question of liability,0.5
+fee,1.560669497024209
+income as a liability,0.5
+court,12.24425115501509
+deemed income,1.0
+allied concept,0.5
+agreement with the view,0.875
+union,2.0981927710843373
+agreement,3.450434632433366
+hesitation,0.5405405405405406
+various assessment year,0.5
+amount of sales tax,0.5
+single judge,4.011627906976744
+that year,0.6122448979591837
+outcome,0.6303030303030303
+income tax act,1.8571428571428572
+high court in vt,0.5
+way,1.7812722068664852
+receipts,1.884057971014493
+entries,2.110809342748506
+expenditure within the meaning,0.5
+income of the year,1.3333333333333333
+part,5.294464509893076
+relevant consideration,1.2
+full bench,5.0
+hand arises for consideration,0.5
+test of cessation,0.5
+following question of law,0.5
+collocation,0.3333333333333333
+such payment,1.2
+obtains refund of the amount,0.5
+analysi,0.6883471219855659
+provision in section,1.0
+hand arise,0.5
+payment in discharge,0.5
+entire amount of sales turnover,0.5
+decisions,1.3888475974580996
+subject matter,1.2537313432835822
+assessee s liability towards,0.0
+payment of excise duty,1.0
+character,0.9325990965842764
+decision,2.9514937765898557
+typical example,0.2777777777777778
+amount of excise duty,1.8
+excise duty account,0.5
+actual refund,0.5
+following analysi of the section,0.0
+tea,1.2494773519163762
+court in kg,0.5
+following analysis,0.6666666666666666
+statutory liability,2.4285714285714284
+liability towards,1.0
+amplitude,0.9523809523809523
+excise duty refund,2.0
+claim,2.817264601856604
+situations,0.7435282837967402
+next step,0.5
+test,2.5329834591340266
+ito,1.7187604773846985
+that payment,1.2857142857142858
+business expenditure during the earlier year,0.5
+cessation thereof,2.3333333333333335
+appeal,3.4125488033856883
+part of the liability,1.0
+determination,1.5980374665477253
+manuwbmanuwb,1.1818181818181819
+petitioner by the court,0.5
+good,2.6154941054299674
+view of the high court,1.3571428571428572
+fact situation,1.3333333333333333
+that previous year,1.0
+refund in respect,0.5
+such loss,1.3333333333333333
+assessee in respect,1.0
+assessment year,5.375
+interpretation,1.518366298484459
+read,2.2147281730888695
+following condition,0.65
+excise duty,5.818181818181818
+relevant facts,0.7692307692307692
+stage,1.1298537871524448
+year,2.8349484769759212
+violence to the language,0.6666666666666666
+payable by the assessee,0.5
+nath,1.2024818815807465
+lto,0.5457943925233644
+doubt by the express provisions,0.5
+wherein,1.0724137931034483
+cit v thirumalaiswamy naidu,0.5
+that the revenue,0.5
+judgment,3.288216560509554
+actual payment,0.75
+income - tax department,0.0
+ceases,0.7703703703703704
+over-lapping concept,0.0
+final as the state,0.5
+meaning of section,1.3611111111111112
+high court in substance,0.6666666666666666
+subject,2.4420366233344897
+india v jk synthetics,0.5
+liability toward,1.0
+order,5.472481489660944
+loss,2.0689655172413794
+second limb,1.0
+act,12.870263922028107
+concluding,0.624
+sub-section,0.0
+audyogik sahakari mandli ltd v cit manugjmanugj,0.5
+analysis,0.6606741573033708
+ingredients,0.7539893617021276
+co v cit,0.5
+v lto,0.5
+deduction in the computation,0.5
+relevant fact,0.9393939393939393
+following conditions,0.6000000000000001
+following question,0.5
+remission of trading liability,0.5
+pendency,1.0084033613445378
+security deposit amount,0.5
+pendency of the writ petition,1.0
+sales,2.89512876202296
+such receipt,1.0
+manner,1.4494591333432125
+case of benefit,0.5
+relevant previous year,2.6666666666666665
+finality,1.1746031746031746
+allowance,2.1019607843137256
+excise department,1.0
+nature of a duty,0.5
+which allowance,0.5
+section,9.287987283173626
+particular limb,0.5
+reddi,0.5454545454545454
+chief commissioner,1.25
+income of any liability,0.5
+objective,0.5021775147928994
+levy at a later date,0.5
+appellate,2.561224489795918
+condition,2.259476395625584
+income tax v kesaria tea co ltd manuscmanusc,0.5
+tax,3.549237288135593
+india v jk synthetic,0.5
+applies if the following conditions,0.5
+turnover,9.86029411764706
+anatomy,0.5898617511520737
+place,2.333104345208554
+circumstance,1.429931390219372
+finding,1.8129183657767178
+actual refund as no amount,0.5
+gain,2.812245309642126
+naught,0.5405405405405406
+present case,1.5611814345991561
+nath jute,0.5
+first clause of section,0.5
+includible in the assessee s total income,0.0
+fact of that case,1.0
+to tax,1.2025
+over-lapping concepts,0.0
+respect of loss,1.0
+regard,2.723310344827586
+existence in that year,0.5
+ratio of the decision,1.0714285714285714
+context,0.9269383697813122
+assessment for the relevant year,0.5
+assessee s taxable income,0.0
+assessee - company,0.0
+duty on the goods,0.5
+account of cessation,0.5
+first appellate authority,1.0
+respect of any expenditure,0.5
+revisional proceeding although the assessee,0.5
+regards,0.9072861236185019
+facts,1.4696673624372698
+issue,2.766776251628934
+patent appeal against the order,0.6666666666666666
+para,2.300239586747483
+as the income of the year,0.5
+violence,1.524896265560166
+discharge,1.305219638242894
+excise duty in the court,0.5
+gains,2.5197995467213867
+case of union,1.25
+basi,2.0752712086391383
+form,2.4865961263718424
+ingredients of section,0.8
+first limb,1.0
+correct way,0.37037037037037035
+such remission,0.5
+that provision in support,0.5
+very decision,0.8571428571428571
+reference to the expression remission,0.5
+which such remission,0.5
+benefit,2.604810195438474
+latter,0.7109238669791096
+petitioner,4.524972253052164
+cost,1.2954397451466992
+judgment of the high court,1.721311475409836
+orders,1.4936359300077826
+basis,1.953226441078104
+kar,1.3679239962007126
+actual decision,0.6666666666666666
+holding,1.2555282555282552
+sums,0.6341911764705883
+remission of liability,1.5
+refund as a sequel,0.5
+law - makers,0.0
+sub,7.816899313759727
+which deduction,2.3333333333333335
+course,1.6545957498716626
+events,0.6160483175150993
+controversy relevant,0.5
+way of remission,1.6666666666666667
+which refund,0.5
+company,5.864471879286695
+ingredient of section,0.5
+court s judgment,0.0
+deposit,2.1724508050089444
+gjmanu,1.0833333333333333
+respect of any loss,0.5
+termination of the proceedings,0.5
+such los,1.3333333333333333
+applies,0.9353049100122315
+other case,0.6654088050314465
+revenue receipt,1.0
+letters,2.0877496159754223
+such trading liability by way,1.3333333333333333
+necessary that the revenue,0.5
+patent appeal,3.5833333333333335
+court in vt,0.5
+fate of the slp,0.5
+addition to the income,0.3333333333333333
+jeopardy in view,0.5
+arises,0.8292682926829268
+liable to duty,0.6666666666666666
+arora,0.35000000000000003
+profits,4.935344827586206
+allowance in respect,0.6666666666666666
+following observations,0.8222222222222223
+matter,2.8088923076923082
+concept,0.9402138540213855
+conclusion that the excise duty,0.5
+state govt,1.2857142857142858
+course of trade,1.0
+judgment of the full bench,0.5
+becomes,0.8134319664492078
+view,2.441100058469462
+character of revenue receipt,0.5
+liability,2.532836248924577
+commissioner of income tax,1.3333333333333333
+makers,0.8582995951417005
+appropriate order,1.565217391304348
+full bench decision,1.7272727272727273
+opinion,1.4960606342789635
+ingredient,1.2242798353909468
+- matter of appeals,0.0
+relief,1.4748116760828625
+benefit in respect,1.6666666666666667
+merit,1.2419290263876248
+reassessment,3.733333333333333
+actual payment of duty,0.5
+reassessment proceeding,1.0
+limb,0.509338061465721
+that provision,0.75
+irrelevant line,0.5
+steel,1.615214878638226
+refund of excise duty,1.0
+accounting,1.3880597014925373
+receipt on the revenue account,0.5
+very decision of the allahabad high court,0.5
+kedar,0.3589743589743589
+wrong interpretation,0.3333333333333333
+account in respect,0.6666666666666666
+books of accounts,1.8571428571428572
+inclusion,0.9738480697384807
+such reversal,0.5
+payment towards,0.5
+taxable during the year in question,0.5
+scope,0.8412698412698413
+reason of payment,0.5
+litre,0.9499999999999998
+part of the controversy relevant,0.5
+second question,0.5355371900826446
+sahakari,0.8
+final adjudication,0.6666666666666666
+total income of any liability,0.5
+provision,5.439002243350069
+assessee s income,0.0
+jk synthetic,2.3333333333333335
+support,0.8630946786249609
+iron,2.76566757493188
+apex court,1.375
+account of loss,0.6666666666666666
+respect,2.6704963235294117
+tribunal uphold,0.5
+business,2.8512056385864457
+book of accounts,0.0
+importance,0.8632871064467765
+phrase,0.7269338303821062
+fact,3.6284951019474962
+decision of allahabad high court,1.0
+learned counsel,3.703333333333333
+refund as no amount,0.5
+discussion as regards applicability,0.5
+strong reliance,1.606060606060606
+learned judge,3.3692307692307693
+expression,1.7424391201885312
+obvious that the liability to tax,0.5
+assessee,15.925925925925926
+department,1.9858367499068206
+relevant year,1.1111111111111112
+application to the present case,0.75
+case on which strong reliance,0.5
+includible in the assessee s taxable income,0.0
+same as the income of the year,0.5
+accounts,2.7564363143631434
+express provisions,0.875
+chief,1.9429638234317954
+reasoning,0.6478937381404174
+special,1.7363344051446945
+context of present case,0.6666666666666666
+anatomy of the section,0.5
+to duty,0.6000000000000001
+as the state,0.7713097713097713
+question of applicability,0.8333333333333334
+prasad,1.1407089151450054
+demand,1.5671679197994988
+question of interpretation,0.75
+demands,0.7474201474201474
+conclusion of the high court,0.8888888888888888
+other word,0.758838674565131
+system,1.1230229504341178
+orders in the light,0.6666666666666666
+taxable income,1.0
+profession in respect,0.5
+income of the assessee,2.0
+illustrative of the point,0.5
+points,0.7095682483711788
+excise authority,0.6666666666666666
+other manner,0.7222222222222222
+applicability,1.0928961748633879
+regards applicability,1.0
+doubt,1.3646267723102583
+rameshwar prasad v vk,0.5
+such interpretation,0.375
+duty in the course,0.5
+light,0.8816192372754331
+years,2.5395804110508022
+excise authorities,0.6666666666666666
+prasad s case,0.0
+judgment of the single judge,1.25
+cease,3.3103181958603645
+concerned authority,1.0
+year in question,1.0
+favour of the petitioner,1.4545454545454546
+in order,1.0314452731304171
+jk synthetics,2.3333333333333335
+naught on a future date,0.5
+remission,2.807017543859649
+enquiry,2.145762711864407
+value of benefit,1.3333333333333333
+way of an expenditure,0.5
+therein,1.5503424657534246
+cessation of the liability,0.5
+profession,1.0704601259741646
+revenue,1.486701237872198
+rameshwar prasad s case,0.0
+court rest,0.75
+appellate authority,2.2
+jute,0.8571428571428572
+apposite,0.7111111111111111
+court rests,0.5
+rameshwar,1.3333333333333333
+income,2.734813573523251
+income tax act to the case,0.5
+right in law,0.75
+earlier clause,1.0
+date,6.195616975795285
+light of the above discussion,0.75
+- under section,0.0
+sons,2.7457346002031446
+become,1.1924008436951488
+reference,2.1755848210276256
+cegat,1.8571428571428572
+understanding,0.8257450331125827
+existence,0.731202675709574
+widest amplitude,1.8571428571428572
+final decision on the question,0.5
+matter of appeal,1.0
+fact situation in that case,0.5
+liability for which allowance,0.5
+govt,0.7017766497461929
+amount in respect,1.75
+inclusion in the taxable income,0.5
+sale,3.3662581620085734
+question,2.980312372067635
+verdict of higher court,0.5
+verdict,0.6880952380952381
+afore-mentioned as correct,0.0
+payment of certain amount,0.5
+concepts,0.6911669890393295
+closing part,0.5
+during the year in question,1.0
+appeal by special leave,1.04
+scmanu,7.940520446096654
+amounts,0.9789856139834046
+thirumalaiswamy naidu s case,0.0
+such expenditure,1.0
+writ,2.8882378560889794
+word,2.065873981084096
+step,0.8867024753460084
+appeals,1.7060218112849692
+amount,3.179688593072295
+fate,0.5961046626008263
+other words,0.7578482137053969
+gains of business,4.0
+refunded amount,2.0
+supreme court,1.4278957326045825
+maker,1.0485537190082643
+revisional proceeding,0.5
+entry,4.707210447678601
+first step,0.38961038961038963
+reimbursement,2.066666666666667
+gain of business,0.0
+high,5.367119186841496
+crucial observation in the judgment,0.5
+payment,2.059553716565686
+high court s judgment,0.0
+reassessment proceedings,1.0
+account,2.5754891049671977
+event,1.4310854436179261
+chief commissioner of income tax v kesaria tea co ltd manuscmanusc,0.5
+collocation of the words,0.5
+purchase,3.239871541501976
+assessee inclusive of the amount,0.5
+hesitation that the deduction,0.5
+line,1.6884436630262616
+assessable under section,1.0
+short act,1.1666666666666667
+earlier years,0.4571428571428572
+steel industries,0.5
+dismissal,1.614076246334311
+correct,1.3001213281100739
+deduction in respect,4.0
+obtains refund,0.5
+liability to tax,0.5
+appeal to the supreme court,1.6666666666666667
+karnataka,3.8596491228070176
+law,3.538923411654744
+assumption,0.47735650342285413
+as sales tax,0.75
+observation,0.7625074854374218
+appropriate orders,1.2666666666666666
+merit in the appeal,1.0833333333333333
+time,2.4764180952862667
+cases,1.9728229418951067
+question whether the excise duty,0.5
+latter part,0.4444444444444445
+synthetics,1.0
+assumption that the words  remission,0.0
+correct way of understanding section,0.5
+eligibility,1.1788856304985336
+sum of rs,2.125
+certain amount,0.4375
+that amount,0.5714285714285714
+amount of refund,1.6666666666666667
+part of the deemed income,0.5
+refund,2.670692431561997
+subramanyam v cit manukamanuka,0.5
+scope of section,0.9090909090909091
+allied concepts,0.5
+arise,1.1675508399646328
+previous clause,1.0
+cessation,1.3333333333333333
+facts of that case,1.0
+court of kerala,1.0833333333333333
+hand arise for consideration,0.0
+assessment,2.647276084949215
+operation of the provision,0.6666666666666666
+following analysi,0.6666666666666666
+applies if the following condition,0.5
+apex court in favour,0.5
+state of karnataka,1.9259259259259258
+addition,1.5588539142412572
+entire amount,1.3333333333333333
+outcome of the appeal,0.5
+assessee s liability toward,0.0
+consideration in that case,1.0
+self-contained provision,0.0
+facts of the case,1.161764705882353
+assessee inclusive,0.5
+levy,3.3133874239350907
+income tax,1.4126984126984128
+reads,0.8722657304887929
+counsel,2.2246780703440323
+by the assessee,5.125
+application,2.3322596088086445
+termination,1.6799615488397193
+india,2.7684068260703585
+thirumalaiswamy naidu,2.0
+authorities,1.266131845134287
+amount of sales turnover,0.5
+assessment years,1.6666666666666667
+tribunal upholds,0.5
+such challenge,0.8333333333333334
+second limb of the sub - section,0.0
+decision of the gujarat,0.5
+such trading liability,1.3333333333333333
+profit,3.0739182692307687
+view of the fact,0.8707482993197279
+earlier period,0.75
+book of account,0.0
+play,0.5464427772208388
+short reasoning,0.5
+such reversal of entries,0.5
+son,4.595622484812135
+way of understanding section,0.5
+ltd,2.382356477306883
+closing,0.8636363636363636
+dispute,2.402137592137592
+earlier year,0.7999999999999999
+decision in jk  synthetics,0.0
+high court rests,0.5
+industry,8.208106219426973
+hand arises,0.5
+decision of this court,2.3260869565217392
+slp in this court,0.5
+conditions,1.9988092071092867
+legality of levy,0.6666666666666666
+amount by way,1.2857142857142858
+duty account,0.5
+reliance,1.400763358778626
+excise,4.429175475687103
+levy in respect,0.5
+later date,0.5714285714285714
+ratio of decision,0.5
+mercantile system,1.5
+gujarat high court,1.2666666666666666
+circumstance of the case,0.5
+court in substance,0.6666666666666666
+purchase tax,4.375
+possible in some cases that such payment,0.5
+case,7.332269420884958
+period,1.9480170842427122
+payment toward,0.5
+facts that the issue,0.5
+emphasi,0.9191619047619048
+income of that previous year,1.0
+example,0.5893965031020868
+p venkatarama reddi,0.8333333333333334
+reason of such interpretation,0.5
+view of the pendency,0.6666666666666666
+revenue account,0.5
+bharat,0.9142857142857144
+adjudication,1.5392156862745099
+account of such loss,0.5
+right lines,0.6666666666666666
+possible liability,0.5
+proceeding although the assessee,0.5
+typical example of remission,0.5
+words  remission,0.0
+letter,2.707240080105903
+cit v bharat iron,0.5
+applicability of any particular limb,0.5
+cases that such payment,0.5
+future,0.9664487618116651
+sons manuscmanusc,0.6666666666666666
+way of discharge,0.6666666666666666
+deduction on account,0.6666666666666666
+subject - matter,0.0
+current year,0.26666666666666666
+contention,1.666391070690368
+understanding section,0.6666666666666666
+example of remission,0.5
+business liability,0.5
+appropriate order in the light,0.0
+proceedings,1.7670925223666287
+favour,1.653145208700764
+following observation,0.8039215686274509
+character as expenditure,0.5
+elaborate discussion,0.5333333333333333
+supra,2.246342614440774
+duty,3.2272215973003378
+thirumalaiswamy,2.0
+bench,2.5793391667754992
+vis-a-vis trading liability,0.0
+sub - section,0.0
+revisional,1.7058823529411764
+sales tax,1.9017094017094016
+such liability,1.0
+leave,1.0147842365477848
+legality,0.6845938375350139
+following analysis of the section,0.5
+costs,0.8167395522604189
+slp,1.291953447628582
+eligibility of purchase tax,0.5
+duty refund,2.0
+allahabad high court,1.7037037037037037
+income - tax act,0.0
+year in which such remission,0.5
+petitioner in the court,0.5
+interpretation of the provision,1.0909090909090908
+latter clause,0.5
+point,2.9165043546008516
+in some cases that such payment,0.5
+goods,4.7578125
+right line,0.6666666666666666
+allahabad,2.3404255319148937
+benefit of deduction,1.0
+steel industry,0.0
+duty amount,0.75
+action under section,1.6
+cessation of trading liability,1.5
+decision of the high court,1.24
+decision of karnataka,0.5
+structure,1.568520357497517
+following observation in the judgment,0.0
+income tax department,0.8333333333333334
+correct ratio of the decision,0.5
+irrelevant line of enquiry,0.5
+such as sales tax,0.6666666666666666
+steps,1.169318181818182
+question whether the latter,0.5
+naidu,2.0
+deduction,6.463320463320464
+which such reversal of entries,0.5
+impression that the dispute,0.5
+high court of kerala,1.0833333333333333
+following observations in the judgment,0.5
+under section,5.374517374517374
+patent,1.3540828816226613
+line of enquiry,0.5
+reason,2.6381270903010035
+instant case,2.0631578947368423
+order under appeal,1.0
+operation,1.0959893294085181
+decision on the question,1.6
+position,1.549133168619177
+that contention,1.0
+possibility of the refund,0.5
+one,4.845669314438648
+writ petition,6.24223602484472
+petition,5.3436539306104525
+dismissal of slp,0.6666666666666666
+claim for refund,0.8
+law - maker,0.0
+determination by the supreme court,0.5
+remedy,1.3214024835646458
+court in thirumalaiswamy naidu,0.5
+sales turnover,0.6666666666666666
+consideration,1.9110153789142115
+income-tax as the income of that previous year,0.0
+total income,10.5
+assessment for any year,0.5
+kesaria,1.0
+audyogik,0.5
+words,1.6384367086179112
+such receipts,1.0
+reversal,1.4166666666666667
+facie,1.0476190476190477
+commissioner,2.271608643457383
+value,1.7137907830478438
+bench decision,2.317073170731707
+clause,3.526455026455027
+appellate authorities,0.75
+earlier years towards purchase tax,0.5
+various assessment years,0.5
+reference application,0.3333333333333333
+which such reversal,0.5
+apply,1.5478801169590641
+receipt,1.5471923536439667
+appropriate orders in the light,0.6666666666666666
+assessment for earlier period,0.5
+question of cessation,0.5
+proceeding,2.1298245614035087
+previous year in which such remission,0.5
+trade,1.8307706424423558
+subramanyam,0.5
+gujarat,3.2753623188405796
+present liability,0.5
+trading,1.4943609022556392
+lines,1.770523318937438
+possible in order,0.5
+challenge,1.2204566274399267
+reimbursement of the expenditure,0.5
+authority,2.4352627108360636
+judge,2.9012627415183325
+sequel,0.2608695652173913
+provisions,3.8929824561403508
+concluding para,0.6666666666666666
+levy of litre fee,0.5
+counsel that the amount,0.5
+substance,0.8230581678857541
+clause of section,1.0
+above discussion,0.9333333333333333
+view that the assessee,1.0
+argument,0.9504580388560493
+trading liability by way,1.3333333333333333
+claim of the excise authorities,0.5
+correct ratio,0.5
+conclusion,1.3883437407077015
+fact of the case,0.0
+ratio,5.027061939235792
+- matter,0.0
+duty on goods,1.0
+special leave,1.903225806451613
+duty in the court,0.5
+structure of the provision,0.5
+judges,2.0931496919173616
+security,1.5014864864864865
+relevant time,1.008
+subject - matter of appeals,0.0
+plain meaning,0.9230769230769231
+circumstances of the case,1.3373493975903614
+wrong interpretation of the provision,0.5
+payment of duty,3.142857142857143
+argument of the assessee,0.6666666666666666
+final decision,0.4958677685950412
+hand,2.0299623418254717
+first clause,1.2000000000000002
+account towards purchase tax liability,0.5
+way of security,1.3333333333333333
+jeopardy,0.3231292517006803
+cash,1.4775207900207898
+itr,4.961453567240706
+express provision,1.15
+no doubt,0.8331331503088538
+busines,2.8488759960122034
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+expenditure,2.804307692307692
+crucial observation,0.5
+cessation of liability,1.3333333333333333
+trading liability,5.333333333333333
+expression  remission,0.0
+supreme,1.443815331010453
+previous year,1.384404924760602
+kerala,4.135593220338983
+high court,7.7477477477477485
+deeming,1.0526315789473684
+learned counsel for the appellant,1.7884615384615385
+refund of duty,0.75
+state,6.817996007300392
+chargeable to tax,1.0
+controversy,0.8593204191806921
+statutory levy,1.5
+wbmanu,1.1818181818181819
+which strong reliance,1.0
+manu,7.078142071124147
+impression,0.6037621359223301
+self,1.6847516412733803
+language,0.8555828468744352
+mercantile system of accounting,1.5
+order in the light,0.0
+observation in the judgment,0.5
+elaborate discussion as regards applicability,0.5
+emphasis,0.8024289099526066
+closing part of sub - section,0.0
+provision in the books,1.0
+books of account,3.3
+recent decision,0.9
+nature,1.4149926876444778
+assessee company,7.0
+treating,0.5822187254130606
+discussion,0.7445831166579996
+assessee s total income,0.0
+claim for the current year,0.5
+tribunal,5.07183212267958
+computation,1.3021653543307086
+possibility,0.7613466503601033
+earlier clause of section,0.5
+provision towards liability,0.5
+sum,2.554898897856461
+situation,1.1254754682459434
+excise duty amount,0.5
+guj,1.1301369863013697
+manufacturing,1.07831715210356
+observations,0.7454584147497534
+synthetic,0.9056603773584907
+ltd manuscmanusc,1.4473684210526316
+court as a possible liability,0.5
+attention,0.8724846605528799
+opinion of the high court,1.2857142857142858
+book,0.7435955668604651
+action,3.127292663476874
+venkatarama,1.6666666666666667
+books,0.8894824707846412
+opinion of the high court rests,0.5
+high court rest,0.75
+learned judges,3.4864864864864864
+of the point,0.5142857142857143
+statutory levy in respect,0.5
+industries,2.162068965517242
+that the liability to tax,0.5
+subject matter of appeal,0.5
+high court in kg,0.5
+higher court,0.5714285714285714

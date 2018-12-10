@@ -1,0 +1,57 @@
+matter,2.8088923076923082
+judgment,3.288216560509554
+further proceeding,1.0
+party,2.2250894654439723
+matter afresh in accordance,0.6666666666666666
+such additional issue,0.5
+view of the above,1.1764705882352942
+question whether any fresh issue,0.5
+cost,1.2954397451466992
+appeal court,1.0
+consequence,0.8726692512593296
+remand,1.08843537414966
+order,5.472481489660944
+learned counsel,3.703333333333333
+fresh evidence,0.5
+appeals,1.7060218112849692
+further proceedings,1.0
+view,2.441100058469462
+decision,2.9514937765898557
+merits,0.968421052631579
+opinion,1.4960606342789635
+learned counsel for the parties,1.263157894736842
+opinion on merits,0.6666666666666666
+goel,0.5384615384615384
+merit,1.2419290263876248
+proceedings,1.7670925223666287
+evidence,3.6676405172088815
+high,5.367119186841496
+appeal,3.4125488033856883
+additional issue,1.5
+trial court on such additional issue,0.5
+further question,0.5923076923076923
+court,12.24425115501509
+afresh,0.6891891891891891
+further evidence,0.8421052631578948
+amendment,2.2486412346818434
+matter afresh,1.0
+court for further proceedings,0.5
+further question whether any fresh issue,0.5
+high court,7.7477477477477485
+issue,2.766776251628934
+parties,1.8210828547990157
+leave,1.0147842365477848
+counsel,2.2246780703440323
+accordance,1.4069045211613462
+case,7.332269420884958
+july,0.9742727723122656
+high court for further proceedings,0.5
+costs,0.8167395522604189
+trial court,3.854545454545455
+law,3.538923411654744
+fresh issue,0.5
+impugned judgment,2.0927152317880795
+trial,3.7979448350459712
+question,2.980312372067635
+report,1.7768151696835826
+judgment of the trial court,1.25

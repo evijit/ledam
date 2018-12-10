@@ -1,0 +1,754 @@
+courts,2.1216528162511543
+apex,0.8555555555555555
+indian registration act,0.6666666666666666
+findings,1.049571253572887
+forfeiture,0.8593750000000001
+order of the mamlatdar,1.0
+statutory requisites,0.5
+implementation,1.2465707594513213
+kadam,1.25
+contention in the matter,0.5
+valid one,0.2727272727272727
+other land,1.3877551020408163
+trickery proceedings from the landlord,0.5
+english court,6.75
+provisions of this act,2.4722222222222223
+application forthwith,0.5
+lands act,1.0
+salient feature,0.6666666666666666
+revision,1.6299226441631505
+reasons,1.3749054007567938
+sections,1.640495469442838
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+predecessors,0.5151515151515151
+meaning,1.8612727545949643
+question arise,0.5206611570247933
+which case,0.5512489233419466
+pass,2.510543963686946
+so - called mortgagee,0.0
+interest,2.74353772015385
+requirement of the provisions,0.8
+court,12.24425115501509
+resignation,3.984375
+- agricultural use,0.0
+agreement,3.450434632433366
+day of april,1.5238095238095237
+behalf of the landlord,0.5
+person,4.291511329454258
+ors,2.8612718198296623
+behalf,1.9888053603529987
+halsbury,1.5294117647058822
+restoration of the land,0.5
+consideration in this appeal,0.9090909090909091
+part,5.294464509893076
+surrender invalid,2.0
+purported finding of fact,0.5
+ganpat,0.6881720430107526
+keshav,1.4444444444444444
+labourer,1.25
+bombay,2.3134020618556703
+importance of these provisions,0.5
+bombay tenancy,1.5
+same issue,0.4632352941176471
+such land,2.2857142857142856
+implementation of the general scheme,0.5
+agricultural labourer,1.25
+decisions,1.3888475974580996
+predecessors of the appellant,0.6666666666666666
+decision,2.9514937765898557
+dashrath,0.5
+landlord,3.643181818181818
+aforesaid,2.592896174863388
+physical possession,1.4166666666666667
+possession of the disputed land,0.6666666666666666
+tahsildar,3.5
+predecessor - in - interest in favour,0.0
+test,2.5329834591340266
+house,2.0021735292386764
+transfer,1.9975047057658015
+insertion,0.5564516129032258
+appeal,3.4125488033856883
+collector,1.8095238095238093
+disposition,1.4544025157232705
+years from the date,1.8518518518518519
+mortgage with the right,0.5
+land,6.337534028705619
+scr,2.483838975311538
+physical possession of the land,0.6666666666666666
+interest therein,1.0
+interpretation,1.518366298484459
+abdul,1.5086206896551726
+area,2.675167256985439
+kishan,2.0000000000000004
+salient feature of section,0.0
+year,2.8349484769759212
+such mandatory provision,0.5
+chavare,0.5
+alia,0.9479866480753792
+surrender of tenancy,0.5
+trickery proceedings,0.5
+suo,0.6228646517739815
+judgment,3.288216560509554
+suit land,2.1666666666666665
+bhagwant pundlik,0.5
+question as regards,0.875
+young v bristol aeroplane,0.5
+order of the appellate authority,0.5
+land in addition,0.5
+subject,2.4420366233344897
+order,5.472481489660944
+act,12.870263922028107
+v govind joti chavare,0.5
+sub-section,0.0
+agreement for sale,1.4
+pursuance,1.543859649122807
+wrong legal test,0.5
+such purported finding of fact,0.5
+tenancy under sub - section,0.0
+revision petition before the maharashtra revenue tribunal,0.5
+cases of fraud,0.6666666666666666
+devolution,0.5714285714285714
+violation of the act,0.75
+such possession,1.0
+interest therein in favour,0.5
+successor-in-interest,0.0
+tenancies,0.5
+maharashtra revenue tribunal,0.5
+tests,1.9146311374290645
+compliance for a valid surrender,0.5
+feature of section,0.0
+effect,2.184583388478191
+preliminary issue,1.25
+mandatory provision of sections,0.0
+accordance with procedure,0.5
+view that the amendment,0.6666666666666666
+ignorance of a house,0.5
+court in dhondiram totoba kadam,1.0
+ramchandra,1.4
+lords decisions,0.5
+aforementioned reasons,1.0
+manner,1.4494591333432125
+abdul ajij shaikh jumma,0.5
+misrepresentation,0.7240740740740741
+section,9.287987283173626
+possible coercion,0.5
+predecessor - in - interest of the appellant,0.0
+neglect,0.6777777777777777
+analogous provisions of the bombay tenancy,0.5
+contrary view,0.7464114832535885
+provision of this section,0.0
+appellate,2.561224489795918
+condition,2.259476395625584
+interpretation of section,1.5
+perusal of the relevant documents,0.5
+amendment in the year,0.8571428571428571
+chemicals,0.8728571428571429
+halsbury laws,0.5
+consequence,0.8726692512593296
+accordance with the provisions,1.9523809523809523
+tenant on the relevant date,0.5
+mentioned date,0.6666666666666666
+absence of any registered document,0.5
+features of section,0.5
+place,2.333104345208554
+circumstance,1.429931390219372
+finding,1.8129183657767178
+contention of the respondent,1.1333333333333333
+analogous provision of the bombay tenancy,0.0
+danger,0.8066378066378066
+later pursuant,0.5
+appellant herein,2.046153846153846
+halsbury law of england,0.0
+govind,0.7333333333333335
+regard,2.723310344827586
+dispossession,0.8727272727272727
+context,0.9269383697813122
+directed restoration of possession,0.5
+imperative language,0.5
+salient features,0.6666666666666666
+perusal,0.750733137829912
+favour of the tenant,0.6666666666666666
+interest by testamentary disposition,0.5
+like conditions,0.3555555555555555
+disobedience,1.0208333333333335
+tenancy in respect,0.5
+anxious thought,0.75
+regards,0.9072861236185019
+earlier judgment,1.8
+crop,1.0811273746496417
+issue,2.766776251628934
+earlier decision of co-ordinate bench,0.0
+thereof,1.7897727272727273
+adequate argument,0.5
+that possession,0.5333333333333333
+july,0.9742727723122656
+basi,2.0752712086391383
+form,2.4865961263718424
+writing,1.1746753246753248
+ajij,0.5555555555555556
+landlord proceed,0.5
+short question,0.5714285714285714
+question arise in the context,0.0
+surrender by the tenant,1.0
+benefit,2.604810195438474
+such surrender,1.0
+petitioner,4.524972253052164
+halsbury law,0.5
+cost,1.2954397451466992
+attitude of helpless self-resignation,0.0
+judgment of this court,2.1029411764705883
+judgment of the high court,1.721311475409836
+doctrine,0.7455954017243533
+conformity with the provisions,1.0
+basis,1.953226441078104
+inquiry in the prescribed manner,0.5
+earlier binding precedent,1.0
+scheme,3.415949119373777
+pundalik,1.0
+bharaskal,0.5
+vidarbha,4.0
+sub,7.816899313759727
+right of possession,0.5
+statutory requisite,0.5
+appellant thereafter,0.8333333333333334
+favour of the respondent,2.0434782608695654
+agricultural land,1.6666666666666667
+agricultural lands act,0.5
+consequent liking over possession,0.5
+pradesh,4.365853658536586
+furtherance,1.758139534883721
+ram chandra keshav adke,0.5
+officer,3.1197242647058823
+amendment,2.2486412346818434
+stare decisis,2.0
+young,0.586428145497913
+possession by the landlord,1.0
+edition volume,1.25
+term of sections,0.0
+analogous provisions,0.6666666666666666
+interest in the land,0.8
+arises,0.8292682926829268
+chemical,1.5078102189781022
+inquiry,1.3527272727272728
+respect of the surrender,0.5
+matter,2.8088923076923082
+tenant,4.821212121212122
+court of coordinate jurisdiction,0.5
+article,4.378806157159795
+ramchandra keshav adke,1.5
+suo motu proceedings,0.5
+provision of section,1.4827586206896552
+term,3.6255105640901575
+conveyance,0.793388429752066
+whereby section,0.5
+previous decision,1.2857142857142858
+view,2.441100058469462
+indian,1.2604961505560306
+ignorance,0.649062049062049
+aforesaid question arises,0.5
+requirements,0.7375979875979877
+giving,0.9925770841263798
+opinion,1.4960606342789635
+majority,1.3427634276342764
+tenant of land,0.5
+use,5.06801278974993
+andhra,4.830188679245283
+like extent,0.5
+strength of a similar language,0.5
+volume,0.5619176554909612
+lord,1.6027618015615013
+petition under article,1.6388888888888888
+tenant s own ignorance,0.0
+tahsildar in the year,0.5
+co-ordinate bench,0.0
+rao,0.9220020325203252
+relationship,1.1804123711340206
+principle in relaxation,0.5
+aforesaid surrender,0.5
+procedure,2.552771605064117
+such termination of tenancy,0.5
+laws,1.4186274337269533
+landlord proceed for termination,0.0
+case of bhagwant pundlik,0.5
+weaker position,0.5
+application under sub - section,0.0
+similar language,0.5
+hereinbefore,2.159090909090909
+provision,5.439002243350069
+abdul ajij s case,0.0
+disputed land,0.75
+apex court,1.375
+case of fraud,1.0
+such mandatory provisions,0.5
+such possession to the mamlatdar,0.5
+binding precedent of the same court,0.5
+provisions of section,2.762376237623762
+respect,2.6704963235294117
+such order,1.056910569105691
+decision of co - ordinate bench,0.0
+importance,0.8632871064467765
+trickery,0.23333333333333334
+fact,3.6284951019474962
+general scheme,0.4444444444444444
+transfer of property act,1.9166666666666667
+owner,2.9502416709822197
+learned counsel,3.703333333333333
+registration,2.231365215068127
+alse general importance,0.0
+expression,1.7424391201885312
+departure,0.6451612903225807
+finding that the appellant,0.8571428571428571
+anr,1.1271033322299457
+ignorance of a previous decision,0.5
+clauses,1.5486111111111112
+either suo motu,0.75
+surrender thereof,0.5
+special,1.7363344051446945
+to forfeiture of crops,0.5
+influence,0.7049608355091384
+liking,0.5175202156334232
+that the tribunal,2.3
+legal tests,0.5
+similar contention in the matter,0.5
+particulars,0.9472222222222222
+regard to the provisions,1.1176470588235294
+thereto,1.0358342665173572
+that behalf,1.3548387096774193
+mandates,0.6923076923076924
+receipt of application,1.6666666666666667
+later judgment,0.75
+fraud,2.7602996254681647
+ignoratium,1.0
+modification,0.9714977645305514
+features,0.6184582743988685
+extent,1.410108024691358
+year from the date,1.5
+incuriam,3.25
+dispossession of the appellant,0.5
+dhondiram,3.0
+bar,1.4720990391722097
+years,2.5395804110508022
+binding precedent,1.9166666666666667
+part of the so - called mortgagee,0.0
+property act,1.7333333333333334
+benefit order,0.5
+lords,0.8620729190552625
+protection,1.1604395604395603
+dubal,0.2608695652173913
+position in the tenant - landlord relationship,0.0
+own right,1.0303030303030303
+principle,1.9620890732001848
+application for possession,1.0
+appeal of the appellant,0.8888888888888888
+party,2.2250894654439723
+anything,0.9132309941520469
+judgment under challenge,0.9
+bajrang maruti kanse,1.0
+respondent herein,1.8936170212765957
+mandatory provision,1.5454545454545454
+kanse,0.3487179487179487
+v kishan ganpat bharaskal,0.5
+issues,1.1246716508385532
+enquiry,2.145762711864407
+other against the tenant s own ignorance,0.0
+type of danger,0.0
+the act,5.708327371273712
+possession of the land,2.6923076923076925
+revenue,1.486701237872198
+lands,1.3404179836160743
+argument at the bar,0.5
+same court,0.5
+possession of land,1.4
+appellate authority,2.2
+stare decisi,2.0
+bajrang,1.0
+forfeiture of crops,0.5
+revenue tribunal,0.5
+date,6.195616975795285
+co - ordinate bench,0.0
+fit case for appeal,0.5
+reference,2.1755848210276256
+provision of this act,0.75
+purpose of section,1.3888888888888888
+last mentioned date,0.5
+in nature,0.7593052109181141
+findings that the decision,0.5
+respondent,4.757894736842104
+jumma,0.5
+order thereon,1.0
+govt,0.7017766497461929
+land in accordance,1.5
+satyanarayana,1.0
+case of dhondiram totoba kadam,0.5
+accordance,1.4069045211613462
+divisional,1.6233766233766234
+statutory force,0.75
+day,1.550999710228919
+termination of tenancy,1.5
+est,6.379089545995401
+sale,3.3662581620085734
+question,2.980312372067635
+provision of the bombay tenancy,0.0
+feature,0.6446262956901254
+abdul ajij,1.0
+great general importance,0.5
+surrender,1.2518092105263157
+that view of the matter,1.553191489361702
+respondents herein,1.8333333333333333
+bhagwant pundalik,1.0
+possession thereof,1.0
+relevant date,2.8
+true that the tribunal,1.0
+scmanu,7.940520446096654
+writ,2.8882378560889794
+consequent liking,0.5
+tenancy,3.0545454545454542
+v synthetic,0.5
+predecessor - in - interest,0.0
+practice,1.7660110149488593
+efficacious implementation,0.5
+voluntary surrender,1.0
+purported finding,0.5
+ecc,0.5479541734860884
+basis of the decision,1.0
+thereon,0.877037037037037
+precedents,0.6333333333333333
+judgment in dhondiram totoba kadam,0.5
+english courts,0.6666666666666666
+high,5.367119186841496
+payment,2.059553716565686
+trickery proceeding,0.5
+consistent view,0.6000000000000001
+so - called mortgagee in the aforementioned circumstances,0.0
+account,2.5754891049671977
+tatoba,0.5
+agricultural,3.5005050505050503
+event,1.4310854436179261
+landlord in favour,0.5
+natural meaning,1.1666666666666667
+force,1.6009408121948314
+such purported finding,0.5
+suo motu proceedings for restoration,0.5
+property,2.9368986630013745
+relevant documents,0.6000000000000001
+preliminary issues,0.75
+suit,2.485274378207659
+proviso,2.112
+non-est for the purpose of section,0.0
+purpose,2.519170317925504
+law,3.538923411654744
+english,0.9836154262307752
+dwelling house,2.5
+time,2.4764180952862667
+order of the tahsildar,0.5
+application in the prescribed form,0.5
+cases,1.9728229418951067
+similar contention,0.9
+possession to the mamlatdar,0.5
+particulars in that behalf,0.5
+synthetics,1.0
+judgment of the apex court,0.5
+lrs,0.46643518518518523
+purchaser,2.017857142857143
+application of the tenant,0.6666666666666666
+mortgage,8.214285714285714
+totoba,2.5
+finding that a third party,0.5
+landlord in violation,0.5
+arise,1.1675508399646328
+aforementioned reason,1.0
+mamlatdar in the prescribed manner,1.0
+portion of the land,0.8
+salient features of section,0.5
+successor,1.2925170068027212
+admitted that the aforesaid surrender,0.5
+dhondiram tatoba kadam v ramchandra balwantrao dubal,0.5
+view to protection,0.5
+right,3.07483248288682
+like purpose,0.6666666666666666
+addition,1.5588539142412572
+legal position,0.7659574468085106
+inda,0.8238449471180608
+agricultural lands,1.1666666666666667
+ignoratium of a statute,0.5
+balwantrao,0.5
+otherwise,1.2549820889894419
+certificate,2.732600732600732
+mandate,0.8783810859547183
+context of the act,0.5
+reference to the mandatory provisions,0.5
+type,0.8102172691515265
+counsel,2.2246780703440323
+application,2.3322596088086445
+absence,1.092363454568179
+termination,1.6799615488397193
+sub - divisional officer,0.0
+predecessor,0.9857142857142858
+april,0.8928235149629509
+divisional officer,4.5
+earlier binding precedent of the co - ordinate bench,0.0
+appeal before the sub divisional officer,0.5
+attitude,0.4886970172684459
+provisions of this section,1.0
+aforementioned circumstances,0.5
+indas,0.3636363636363636
+land to the purchaser,0.5
+modification that the tenant,0.5
+beneficent purpose,0.5
+much thereof,0.5
+mortgagee,14.0
+ceiling area,5.666666666666667
+v bristol aeroplane,0.5
+andhra pradesh,4.857142857142857
+ltd,2.382356477306883
+dispute,2.402137592137592
+improvidence,0.5
+document,1.401100265092073
+sub divisional officer,1.0
+coercion,1.0153846153846156
+decision of this court,2.3260869565217392
+conditions,1.9988092071092867
+analogous provision,0.6666666666666666
+provisions of sections,1.44
+whole,0.951414768806073
+compliance,1.0029799914857385
+possession of any land,1.75
+registered document,1.0
+such termination,1.0
+bhagwant pundalik s case,0.0
+case,7.332269420884958
+sub-sections,0.0
+period,1.9480170842427122
+requisite,0.7788359788359789
+curia,0.7449392712550608
+region,2.372542065649998
+favour of the appellant,1.4838709677419355
+devolution on death,0.5
+re-conveyance,0.0
+quotable in law,0.5
+scc,1.941872465904902
+fronts,0.5
+edition,0.9664589349951868
+constitution,3.204842342342342
+coordinate,0.75
+general importance,0.75
+ram,2.11096203538064
+types,0.6765151515151515
+landlord proceeds for termination,0.5
+ordinate,1.2442006833303363
+purposes,1.4391216613438835
+terms of sections,1.5
+portion,1.0756311179804223
+lords decision,0.5
+land to the landlord,0.5
+mandatory provisions,1.375
+contention,1.666391070690368
+bhagwant,2.0
+tenant - landlord relationship,0.0
+rule,5.04
+maruti,9.833333333333334
+expression  possession,0.0
+proceedings,1.7670925223666287
+favour,1.653145208700764
+day of july,1.0
+direct that such land,0.5
+view of the insertion,0.6666666666666666
+liking over possession,0.5
+matter of law,1.0
+supra,2.246342614440774
+chandra,0.7012987012987013
+bench,2.5793391667754992
+violation,1.2087401208740118
+tenant in terms,0.6666666666666666
+sub - section,0.0
+respondents,2.6341263330598856
+bombay high court,2.4642857142857144
+leave,1.0147842365477848
+maharashtra,2.9076923076923076
+costs,0.8167395522604189
+legal possession,0.6666666666666666
+appeal before the sub - divisional officer,0.0
+finding of the tribunal,0.8571428571428571
+restoration,0.8498168498168498
+relevant document,0.5714285714285714
+like purposes,0.5
+testamentary disposition,4.333333333333333
+adequate argument at the bar,0.5
+point,2.9165043546008516
+act in terms,1.125
+bristol,0.2579075425790754
+dhondiram totoba kadam,2.5
+- est for the purpose of section,0.0
+remand,1.08843537414966
+landlord proceeds,0.5
+aforesaid question arise in the context,0.0
+particular,1.5248953455371081
+motu,0.5230769230769231
+beneficent statute,0.5
+joti,0.5
+injunction,2.1512605042016806
+premise,1.2347417840375587
+constitution before the bombay,0.5
+landlord of the land,0.5
+title,1.74290600761189
+respondent - landlord,0.0
+weaker position in the tenant-landlord relationship,0.0
+reason,2.6381270903010035
+statue,0.5306122448979591
+earlier decision,1.5454545454545454
+consequence of the violation,0.5
+position,1.549133168619177
+aforementioned circumstance,0.5
+non - agricultural use,0.0
+halsbury laws of england,0.5
+one,4.845669314438648
+point in preference,0.5
+writ petition,6.24223602484472
+petition,5.3436539306104525
+finding of fact,1.7083333333333333
+ceiling,3.0180995475113117
+respondent - landlord thereafter,0.0
+valid surrender,1.0
+effect of the provisions,0.6666666666666666
+consideration,1.9110153789142115
+wrong legal tests,0.5
+carelessnes,0.3333333333333333
+subject to the like conditions,0.5
+entirety,0.6814814814814815
+permissive possession,0.5
+case of ramchandra keshav adke,0.5
+such form,0.6285714285714287
+penalty,1.5165226929932814
+aforesaid question arise,0.5
+front,0.8400299386969539
+liable to forfeiture of crops,0.5
+clause,3.526455026455027
+documents,1.142515923566879
+revision application,1.4444444444444444
+decisi,3.027445988388693
+inclusive,0.6904761904761905
+aforesaid question arises in the context,0.5
+air,2.0589664272145285
+carelessness,0.3333333333333333
+registration act,3.0
+prescribed manner,2.1666666666666665
+receipt,1.5471923536439667
+practice per incuriam,0.5
+basi of the decision,0.0
+ignorance of the terms,0.5
+pundalik s case,0.0
+pune,1.3423295454545454
+crops,1.3846153846153846
+pas,2.68416862749163
+superior court,0.7222222222222222
+landlord in pursuance,0.5
+legislature,2.818553268765133
+furtherance thereof,1.2
+lawful title,1.0
+challenge,1.2204566274399267
+majority judgment,2.125
+aeroplane,0.25
+authority,2.4352627108360636
+judge,2.9012627415183325
+death,2.361592909460208
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+mandatory provisions of sections,0.5
+tenant in respect,1.0
+directed restoration,0.5
+question arises,0.5206611570247933
+order of the sub divisional officer,0.5
+decisis,2.0
+argument,0.9504580388560493
+question as regard,1.105263157894737
+land on the date,0.6666666666666666
+dead,0.8845609936055091
+conclusion,1.3883437407077015
+third party,1.053291536050157
+special leave,1.903225806451613
+undue influence,1.2857142857142858
+judges,2.0931496919173616
+fit case,1.1578947368421053
+relationship of the landlord,0.5
+iilljsc,2.1666666666666665
+stare,0.7752380952380952
+strength,1.1679328901551123
+prescribed form,2.375
+efficacious implementation of the general scheme,0.5
+legal requirement,1.0
+against the tenant s own ignorance,0.0
+v synthetics,0.5
+conformity,0.71875
+no doubt,0.8331331503088538
+artisan,0.653061224489796
+question arises in the context,0.5
+possession,2.808810857389056
+adke,0.5681818181818182
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+relaxation,0.8571428571428572
+possession of the landlord,1.0
+v dashrath indas nhavi,0.5
+supreme,1.443815331010453
+self - resignation,0.0
+types of danger,0.5
+surrender of the tenancy,0.5
+requirement,1.2416133333333332
+provisions of the bombay tenancy,0.5
+portion thereof,0.875
+high court,7.7477477477477485
+text,0.869556447376715
+state,6.817996007300392
+statute,2.5765859456247218
+jurisdiction,2.9539571926331507
+state legislature,4.444444444444445
+like condition,0.3555555555555555
+requisites,0.4444444444444445
+preference,1.0460251046025104
+termination of tenancies,0.5
+manu,7.078142071124147
+favour of the mortgagee,1.0
+self,1.6847516412733803
+language,0.8555828468744352
+legal test,0.5
+own ignorance,0.26666666666666666
+inter-alia,0.0
+doctrine of precedents,1.0
+revision petition,2.6363636363636362
+question therefore,0.9
+mamlatdar,5.5
+legal possession of the land,0.5
+coordinate jurisdiction,0.5
+provision of sections,0.0
+state of up,2.0784313725490198
+nature,1.4149926876444778
+finding that the purchaser,0.5
+suo motu proceeding,0.5
+case for appeal,0.5
+such injunction,0.5
+v b satyanarayana rao,0.5
+rule of stare decisis,0.6666666666666666
+such order thereon,1.0
+predecessor of the appellant,0.0
+permissive possession of the land,0.5
+particular in that behalf,0.0
+tribunal,5.07183212267958
+shaikh,1.6500000000000001
+vidarbha region,1.0
+payment of costs,0.75
+petitioners,3.536507936507937
+fact that the apex court,0.5
+precedent,0.8982341399607586
+regard to the text,0.6666666666666666
+synthetic,0.9056603773584907
+bombay high court in view,0.5
+mandatory in nature,1.1666666666666667
+proper case,0.75
+full effect,1.2222222222222223
+nhavi,0.6481481481481481
+pundlik,0.5
+thought,0.7081151153746436
+persons,2.5993381990166555
+helpless self-resignation,0.0
+england,0.9336071184120466

@@ -1,0 +1,628 @@
+courts,2.1216528162511543
+ananda,1.2000000000000002
+orissa high court,1.0
+second complaint on the same allegations,1.5
+hansabai,1.0
+code,2.880559796437659
+benimadhab,0.5
+bench in dwarka nath mandal v benimadhab banerji,0.5
+criminal petition,0.5
+das,1.508694082231246
+mind,1.1559066143122394
+other hand,0.6931925622439332
+previous facts,0.5
+adducing,1.0909090909090908
+reasons,1.3749054007567938
+sections,1.640495469442838
+single judge of the orissa high court,0.5
+reasonable diligence,1.3333333333333333
+commission of offences,1.0
+solemn affirmation,0.5
+inter,3.683850287482992
+dwarka,8.125
+previous complaint on the same allegations,0.5
+respect of the case,0.6666666666666666
+bringing,0.6589371980676328
+previous fact,0.5
+of the aforesaid decisions,0.8
+reproduction of the earlier complaint petition,0.5
+interest,2.74353772015385
+serlingampaly,0.5
+court,12.24425115501509
+situate at serlingampaly,0.5
+ranjan,0.5
+presidency magistrate,0.5
+judge of the high court,1.75
+matter afresh,1.0
+madras,2.836734693877551
+second complaint on the same facts,3.0
+several other decisions,0.6666666666666666
+single judge,4.011627906976744
+same view,0.7272727272727272
+patna high court,1.4166666666666667
+person,4.291511329454258
+ors,2.8612718198296623
+patna high court in cases,0.5
+allegations,1.8333333333333335
+way,1.7812722068664852
+consideration herein,0.6666666666666666
+behalf,1.9888053603529987
+full bench,5.0
+earlier decision of several high courts,0.0
+nothing,0.8658723322806009
+fresh fact,0.5
+queen empress v dolegobinda das,1.0
+bindeshwari,1.0
+criminal complaint,1.7
+bombay,2.3134020618556703
+settled legal principle,0.6666666666666666
+learned magistrate for the purpose,0.5
+good reasons,0.8852941176470588
+bindeshwari prasad s case,0.0
+cognizance of offence,0.6666666666666666
+fresh evidence,0.5
+number,1.4802651440973922
+district,1.5506763074237984
+decisions,1.3888475974580996
+dispute between the parties,1.4736842105263157
+cognizance of the offence,2.375
+decision,2.9514937765898557
+complaint on the same allegations,2.0
+entertainment,0.8058608058608059
+list of the exceptional circumstances,0.5
+referable to the investigation,0.5
+criminal complaint in the court,0.5
+aforesaid,2.592896174863388
+issue proces,2.3333333333333335
+other person,0.9635036496350365
+test,2.5329834591340266
+proper exercise,0.6666666666666666
+exhaustive list,0.6666666666666666
+appeal,3.4125488033856883
+complaint in the court,0.5
+court of judicature,1.4210526315789473
+acknowledgement,0.43103448275862066
+ranga reddy,1.0
+information report against the respondent,0.5
+scr,2.483838975311538
+land,6.337534028705619
+incomplete record,1.5
+chandra pal,0.5
+doraisami v subramania,0.5
+police report,0.5555555555555556
+fact for the bringing,0.0
+sayaji,0.5
+facts for the bringing,0.5
+kishore,0.6823529411764706
+previous proceedings,1.6666666666666667
+complainant case,0.5
+nath,1.2024818815807465
+circumstances of this case,1.1363636363636365
+alia,0.9479866480753792
+nawal,1.3333333333333333
+madhab,0.6000000000000001
+mandal,0.44871794871794873
+conclusion as thee,0.5
+judgment,3.288216560509554
+to the investigation,0.6666666666666666
+subject,2.4420366233344897
+district of ranga reddy,1.0
+more of the aforesaid,0.5
+order,5.472481489660944
+queen empress v dolegobinda dass ilr,0.5
+judgment of the patna high court,0.6666666666666666
+food corporation,2.142857142857143
+conclusion that the dispute,0.6666666666666666
+same allegations,3.0
+clas,2.1196191893660425
+kumariah v chinna naicker,1.0
+question prinsep,0.5
+complainant in previous matter,0.5
+record in the previous proceedings,1.0
+taluqdar s case,0.0
+good reason,0.833
+procedure whereupon summons,0.5
+copy,0.8620926631522174
+patna,2.3421052631578947
+miscarriage,1.015625
+complainant upon a full consideration,0.5
+list,4.014941314095513
+other decisions,1.0666666666666667
+manner,1.4494591333432125
+new facts,0.9523809523809524
+parties,1.8210828547990157
+orissa,2.3125
+nature of a complaint petition,0.5
+earliest of the aforesaid decisions,0.5
+verbatim reproduction,1.0
+section,9.287987283173626
+herein,2.825259515570934
+science,0.6879334257975034
+queen empress v dolegobind das,0.5
+additional judicial,0.5
+dolegobinda,1.0
+consequence,0.8726692512593296
+full bench in dwarka nath mandal v benimadhab banerji,0.5
+second complaint,8.0
+complaint petition,4.5
+survey nos,0.5
+place,2.333104345208554
+ramanand,1.3333333333333333
+circumstance,1.429931390219372
+finding,1.8129183657767178
+warrant case,1.0
+appellant herein,2.046153846153846
+pramatha nath taluqdar s case,0.0
+investigation,1.6673076923076922
+judicature,1.4210526315789473
+banerji,0.6666666666666666
+manifest miscarriage of justice,1.0
+regard,2.723310344827586
+reddy,0.7218614718614719
+kutty,1.6666666666666667
+narasimha,0.9583333333333334
+thakur,1.6
+inasmuch as a discharge,0.5
+earlier decisions,1.24
+knowledge,1.1120671641791045
+reason of the impugned judgment,1.0
+class,2.1508512849922936
+proces,1.627944583238701
+truth,0.9590230664857531
+protest  complaint petition,0.0
+similar allegation,1.0
+matter afresh in the light,0.5
+facts,1.4696673624372698
+sheri,0.4787234042553192
+issue,2.766776251628934
+summons,0.9764492753623188
+titilagarh,0.5
+dolegobind,1.5
+mr ramakrishna,0.5
+meanwhile,0.5323868677905944
+investigating,1.5794836956521738
+scope of the enquiry,0.5
+july,0.9742727723122656
+discharge,1.305219638242894
+basi,2.0752712086391383
+allah ditta v karam baksh,1.0
+prinsep,0.5
+of the aforesaid,1.2126984126984126
+reference to a large number,0.5
+senior,1.989753211141579
+xxi,0.7926906112161312
+similar allegations,1.0
+regard to the dismissal,0.5
+earlier complaint petition,1.0
+allah,0.7473958333333334
+petitioner,4.524972253052164
+cost,1.2954397451466992
+fact that a previous complaint,0.5
+pramatha nath taluqdar,2.0
+basis,1.953226441078104
+contempt,1.5446913580246913
+scientific opinion,0.5
+holding,1.2555282555282552
+exercise of the discretion,0.6666666666666666
+queen empress v dolegobinda da,1.0
+subramania,0.5000000000000001
+magistrate,3.522077922077922
+that the previous order of dismissal,0.5
+pal,1.6504163634893685
+high courts,2.676470588235294
+cognizance,1.728
+pradesh,4.365853658536586
+similar allegation of fact,0.0
+officer,3.1197242647058823
+empress,0.8333333333333333
+jain,1.673202614379085
+ground,1.4186722903211633
+high court in dwarka nath mondul v beni madhab banerjee,0.5
+arguments,0.7212211466865226
+dissenting,0.7272727272727273
+opportunity,0.946186440677966
+minority judgment,1.0
+west,1.1420057009587976
+impugned judgment,2.0927152317880795
+naicker,1.6666666666666667
+misunderstanding,0.6
+matter,2.8088923076923082
+south,0.8254159150130287
+several high courts,0.6666666666666666
+special case,0.8181818181818183
+police authorities,0.5714285714285714
+criminal,3.301971081989414
+behalf of the appellant,1.4878048780487805
+penal,1.8829173709853835
+kamal chandra pal s case,0.0
+view,2.441100058469462
+protest petition,2.25
+fresh complaint on the self,0.5
+opinion,1.4960606342789635
+acknowledgment,0.75
+penal code,2.710144927536232
+andhra,4.830188679245283
+calcutta,1.6022727272727273
+well-settled that a second complaint,0.0
+thee,0.5324675324675324
+other categories,1.4285714285714286
+opinion of macleam,0.5
+witness,5.333906623599983
+dwarka nath mandal v benimadhab banerji,0.5
+satisfied that the previous order of dismissal,0.5
+macleam,0.5
+record,2.5393414390845273
+procedure,2.552771605064117
+material,1.4148767018946966
+information,1.1320502836800534
+scope,0.8412698412698413
+s second complaint,0.5
+such circumstances,0.5729166666666666
+polouse,0.0
+november,0.7203359669727383
+hereinbefore,2.159090909090909
+miscarriage of justice,2.642857142857143
+support,0.8630946786249609
+criminal procedure whereupon summons,0.5
+forensic science laboratory,1.0
+other category,0.4444444444444444
+respect,2.6704963235294117
+beni,0.6686746987951808
+first,1.9006367208168047
+division bench of the patna high court,0.5
+large number,1.0979284369114877
+queen,0.43923444976076553
+fact,3.6284951019474962
+sarkar,0.8571428571428571
+such circumstance,0.5723905723905723
+fresh facts,0.5
+learned counsel,3.703333333333333
+munilal thakur s case,0.0
+strong reliance,1.606060606060606
+learned judge,3.3692307692307693
+decision of several high courts,0.0
+new fact for the bringing,0.0
+first class magistrate,0.75
+pramatha nath taluqdar v saroj ranjan sarkar manuscmanusc,0.5
+saroj,1.6
+anr,1.1271033322299457
+interests,1.0562317935913441
+special,1.7363344051446945
+caution,1.0777000777000778
+under ch,0.8197530864197531
+criminal procedure,6.406779661016949
+prasad,1.1407089151450054
+impugned order,2.265957446808511
+code of criminal procedure whereupon summons,0.5
+other word,0.758838674565131
+sen,4.021152898608279
+support of the appeal,0.8888888888888888
+panachand,1.5
+aforesaid decision,1.15625
+held,3.3171122162354454
+doubt,1.3646267723102583
+ramakrishna,0.45454545454545453
+light,0.8816192372754331
+bar,1.4720990391722097
+exercise,1.9400726466785694
+nilratan,0.5
+report,1.7768151696835826
+code of criminal procedure,6.120689655172414
+previous complaint,2.5
+prasad singh v kali singh manuscmanusc,0.5
+judicial,2.8688059701492543
+similar allegations of fact,0.5
+principle,1.9620890732001848
+prasad s case,0.0
+party,2.2250894654439723
+chaubey,0.5
+respondent herein,1.8936170212765957
+mondul,0.2857142857142857
+further proceedings,1.0
+food corporation of india,2.0
+enquiry,2.145762711864407
+ram narain chaubey v panachand jain,0.5
+justice,2.292557084574302
+therein,1.5503424657534246
+lands,1.3404179836160743
+ram narain v panachand jain,1.0
+kamal chandra pal,0.5
+kumariah,1.0
+division bench,3.965217391304348
+exhaustive list of the exceptional circumstances,0.5
+september,0.8548484848484849
+reference,2.1755848210276256
+afresh,0.6891891891891891
+complaint on the same facts,3.0
+aforesaid decisions,0.9333333333333333
+offence,4.401610644257703
+presence,0.9604834261070158
+in nature,0.7593052109181141
+kamal,0.8250000000000001
+respondent,4.757894736842104
+necessary caution,0.5
+mr ps,0.8
+sale,3.3662581620085734
+question,2.980312372067635
+principles,1.3198511166253102
+that view of the matter,1.553191489361702
+pramatha,2.0
+criminal contempt,0.4444444444444444
+scmanu,7.940520446096654
+word,2.065873981084096
+later decision,1.0
+doraisami,0.5
+other words,0.7578482137053969
+august,0.977116704805492
+ditta,0.6666666666666666
+accused person,4.565217391304348
+sale-deed,0.0
+behalf of the respondent,1.453125
+first information report,1.9565217391304348
+chandra pal s case,0.0
+bar to the entertainment,1.0
+kapur,1.2
+high,5.367119186841496
+ilr,0.4788808178638687
+new category,1.0
+high court in re,1.2352941176470589
+previous proceeding,1.6666666666666667
+hansabai sayaji v ananda,0.5
+s second complaint on the same facts,0.5
+fresh complaint,1.5
+karam,2.190981432360743
+saroornagar in the district,0.5
+laboratory,1.037248755301494
+dismissal,1.614076246334311
+misunderstanding of the nature,0.9000000000000001
+suit,2.485274378207659
+purpose,2.519170317925504
+law,3.538923411654744
+proceeds,1.083011583011583
+nos,1.2635492554198444
+dass,0.8333333333333334
+observation,0.7625074854374218
+cases,1.9728229418951067
+division,1.7657319129617017
+ormanu,0.5555555555555556
+application under section,2.8076923076923075
+complaint petition with a view,0.5
+queen empress v dolegobind dass,0.5
+same fact,0.9375
+allegation,1.834319526627219
+affirmation,0.5653021442495126
+disposal report,1.0
+as a discharge,0.5
+bar to further proceedings,0.5
+ghose,1.25
+mr p,0.8393365893365893
+special bench,1.0
+cognizance of an offence,0.6666666666666666
+proper exercise of the discretion,0.5
+chinna naicker air,0.5
+of the aforesaid decision,0.8571428571428571
+same allegation,3.0
+complaint,2.734525785235724
+single judge of the high court,1.588235294117647
+protest,1.349300087489064
+civil in nature,0.6666666666666666
+sen s case,0.0
+settled legal principles,0.5
+offences,1.6681887366818873
+connection,1.050640279394645
+other reason,0.704191616766467
+counsel,2.2246780703440323
+application,2.3322596088086445
+to an acquittal,0.6666666666666666
+civil dispute,0.7619047619047619
+ranga,0.6643356643356643
+india,2.7684068260703585
+third complaint,0.5
+authorities,1.266131845134287
+commission,4.703619179345321
+witnesses,3.359210526315789
+further proceeding,1.0
+to a manifest error,0.5
+authenticated copy,0.75
+later decisions,1.0
+entertainment of a second complaint,3.5
+presidency,0.3333333333333333
+procedure code,1.3157894736842106
+illegality,0.8076923076923077
+exceptional circumstance,1.8
+v nawal kishore thakur,0.5
+civil suit,0.7413793103448276
+procedure whereupon summon,0.5
+jayashankar,1.0
+criminal procedure whereupon summon,0.5
+sinha,0.8166351606805294
+clt,0.30607966457023056
+acquittal,2.2714285714285714
+saroornagar,0.5
+process upon the respondent,0.0
+manuormanuor,1.0
+xxi of the code,0.8
+andhra pradesh,4.857142857142857
+dispute,2.402137592137592
+disposal,1.1180555555555556
+several other decision,0.6666666666666666
+evidence,3.6676405172088815
+document,1.401100265092073
+diligence,0.9876543209876543
+regard to the police report,0.5
+food,1.1292356927710843
+reliance,1.400763358778626
+bhmanu,1.1111111111111112
+vigilance,0.75
+judge of the orissa high court,0.5
+previous order of dismissal,1.0
+circumstance of the case,0.5
+decisions in queen empress v dolegobinda dass ilr,0.5
+case,7.332269420884958
+v sheri,0.5
+error,1.059158294766151
+mad,4.259987780455518
+decision in queen empress v dolegobinda dass ilr,0.0
+case for cognizance,0.5
+ram,2.11096203538064
+held in pramatha nath taluqdar,0.5
+learned magistrate,4.454545454545454
+final report,1.3426573426573427
+conclusion that the appellant herein,0.5
+singh,3.7791111111111113
+manifest error,1.6666666666666667
+information report,2.0
+legal bar,0.4800000000000001
+processes upon the respondent,0.5
+civil suits,0.8571428571428572
+criminal procedure code,1.4
+rule,5.04
+inter alia,1.3280423280423281
+sufficient ground,1.6363636363636365
+crpc,2.2424242424242427
+proceedings,1.7670925223666287
+allegations of fact,0.6666666666666666
+supra,2.246342614440774
+chandra,0.7012987012987013
+suits,1.0993657505285412
+bench,2.5793391667754992
+reproduction,0.5098814229249011
+bombay high court,2.4642857142857144
+titilagarh v jayashankar mund,0.5
+new facts for the bringing,0.5
+leave,1.0147842365477848
+costs,0.8167395522604189
+full consideration,0.6000000000000001
+processes,0.8585858585858587
+discretion,1.2998211091234348
+october,0.9478375701551667
+process,1.6274942048088725
+police authority,1.0
+hansabai v ananda,0.5
+bindeshwari prasad,1.0
+high court of judicature,1.4210526315789473
+empres,0.8333333333333333
+power,3.8165227690948367
+court in re,1.2549019607843137
+investigation of the matter,0.6666666666666666
+police,2.9749362629783356
+affirmation under section,0.5
+manifest miscarriage,1.0
+jayashankar mund,1.0
+bench in the judgment,0.5
+supp,1.7223856594132256
+ranga reddy against the respondent herein,0.5
+reason,2.6381270903010035
+earlier decision,1.5454545454545454
+kali,1.9421965317919077
+circumstance of this case,0.0
+munilal,1.0
+survey,0.9775055679287304
+continuation,0.5723370429252783
+petition,5.3436539306104525
+category,1.9351744779266717
+forensic,0.4285714285714286
+chinna,1.375
+banerjee,1.1428571428571428
+baksh,2.4285714285714284
+basis thereof,0.875
+truth of the complaint,1.0
+consideration,1.9110153789142115
+same facts,2.1666666666666665
+words,1.6384367086179112
+order of dismissal,3.6153846153846154
+integra,0.832258064516129
+rule of necessary caution,0.5
+documents,1.142515923566879
+hidayatullah,1.0
+court in dwarka nath mondul v beni madhab banerjee,0.5
+new fact,0.8333333333333333
+air,2.0589664272145285
+opinion that the high court,1.0
+situate,0.8771266540642723
+previous matter,0.5
+proceeding,2.1298245614035087
+arose therein,0.75
+vigilance polouse,0.0
+mind to the material,0.5
+due to a manifest error,0.5
+authority,2.4352627108360636
+judge,2.9012627415183325
+verbatim reproduction of the earlier complaint petition,0.5
+particular case,0.4358974358974359
+jayashankar mund s case,0.0
+koyassan,1.0
+argument,0.9504580388560493
+interests of justice,1.2
+corporation,3.6427750743444176
+category of manifest error,0.5
+conclusion,1.3883437407077015
+narain,0.4978662873399715
+submit that the high court,0.8333333333333334
+district manager,0.3333333333333333
+warrant,0.611066164387025
+full bench of the calcutta,0.5
+science laboratory,0.4285714285714286
+indian penal code,5.264705882352941
+circumstances of the case,1.3373493975903614
+munilal thakur,1.0
+interest of justice,1.2
+minority,0.8717948717948719
+law in this behalf,0.75
+mund,0.532051282051282
+hand,2.0299623418254717
+proceed,2.930994380987473
+previous order,1.222222222222222
+kutty air,0.5
+occasion,0.7946745562130177
+taluqdar,2.0
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+prejudice,0.880907124598545
+madra,2.836734693877551
+ganuji,0.5
+manager,1.7133044010756409
+justice to the complainant,0.5
+solemn affirmation under section,0.5
+earlier complaint,1.3333333333333333
+several high court,0.6666666666666666
+high court,7.7477477477477485
+manubhmanubh,1.1111111111111112
+allegation of fact,0.0
+complainant,4.538461538461538
+complaint on the self,0.5
+answer,0.9554305705177771
+first information report against the respondent,0.5
+cal,2.9844609343772106
+issue process,2.3333333333333335
+deed,1.3564447722662734
+manu,7.078142071124147
+submit,2.197409354703731
+self,1.6847516412733803
+dwarka nath mondul v beni madhab banerjee,0.5
+regard to the adducing,0.5
+statutory bar,0.5
+summon,1.0346907993966816
+nothing in law,1.6666666666666667
+informant,2.935483870967742
+other decision,1.1818181818181819
+single,1.6221488419098207
+vigilance police,1.0
+view of the bombay high court,0.6666666666666666
+triable under ch,0.5
+nature,1.4149926876444778
+survey no,2.0
+categories,0.8800000000000001
+impugned order of the high court,0.8333333333333334
+exceptional circumstances,1.8
+earlier decisions of several high courts,0.5
+class magistrate,0.75
+consequence in this particular case,0.5
+bench of the calcutta,1.1428571428571428
+observations,0.7454584147497534
+nature of a complaint,1.0
+senior counsel,2.2857142857142856
+magistrate under section,1.2
+equivalent to an acquittal,0.5
+special bench in the judgment,0.5
+decisions of several high courts,0.5

@@ -1,0 +1,2169 @@
+government,3.5583785424010483
+bangorm firm,0.5
+credits,0.8780487804878049
+mark,2.700508607198748
+commission without any basi,0.5
+share of good-will,0.0
+time of the hearing,0.4444444444444444
+only dispute,0.5
+contested issue,0.5
+more amount,0.6666666666666666
+bungalows,0.5
+granted relief,0.8
+separate possession thereof against defendants,1.0
+way,1.7812722068664852
+halsbury,1.5294117647058822
+calculation,0.8853448275862068
+crediting profit,0.5
+bengorm nilgiri plantation co r,0.0
+signifies,0.5384615384615384
+impugned orders,1.2352941176470589
+cross,2.0778316690442225
+negative advantage,0.5
+central bank,0.9000000000000001
+share,2.560794932990637
+ownership,1.1522633744855968
+retirement,10.167032967032968
+present appeal,1.3424657534246576
+dikshitulu,0.6666666666666666
+district,1.5506763074237984
+interest on the decree,1.0
+due to the plaintiff on accounts,0.5
+decree before the madras,0.5
+annum till realization,0.5
+subordinate judge,3.6363636363636362
+larger profit during the period,0.5
+widow of pravinlal madhvani,0.5
+correctnes,0.8404159132007234
+procedural provision,1.0
+other company,0.3508771929824561
+small items,0.5
+profit on which interest,0.0
+retired judge of the madras,0.6666666666666666
+general medical services under the national health service,0.5
+scr,2.483838975311538
+reasonable return,1.0
+kilogram of tea,1.0
+stage,1.1298537871524448
+month,1.3454861111111112
+other companies,0.3870967741935484
+decree for mesne profit,2.0
+income - tax department,0.0
+severe drought,0.5
+application for amendment,0.5
+subject,2.4420366233344897
+ordinary way,0.5
+order,5.472481489660944
+partnership firm,6.0
+co-owner,0.0
+family members,1.2631578947368423
+profits for the first year,0.5
+smt,0.7459757206267715
+partitions,0.4117647058823529
+othep adjustment,0.5
+co - owner,0.0
+share vii,0.0
+plaint,3.104295112903434
+pleading,1.1270125223613594
+total amount of mesne profits,0.5
+yield,2.0476190476190474
+preliminary hearing of the writ petition,0.5
+question of goodwill,0.5
+non - applicability,0.0
+pendency,1.0084033613445378
+member,2.649111111111111
+parties,1.8210828547990157
+valuation,2.0129870129870135
+civil procedure,5.448275862068965
+present appellants against the final decree,0.5
+other prayers in the plaint,0.5
+proportionate cost,1.0
+madhvani real brother,0.5
+admission of rw,1.0
+dispute about this fact,0.5
+express assignment,0.5
+respect to the determination,0.5
+lack of jurisdiction,1.1428571428571428
+several judgment of this court,0.0
+certain figure for the subsequent period,0.0
+first part,1.236842105263158
+accordance with the provisions,1.9523809523809523
+principles of res-judicata,0.0
+upon death,0.5
+reasonable by the court,0.5
+seal,1.5645371577574967
+mistakes,0.49709302325581395
+amount at the rate,0.5
+present case,1.5611814345991561
+insistence of the plaintiff,0.5
+such leaves,0.5
+certain figure,0.5
+other interlocutory applications,0.5
+bengorm tea plantation,0.5
+encumbrances like gratuity liability,0.5
+onkar,0.45454545454545453
+limitation,2.4984479402325457
+by the high court on the basis,0.75
+less towards firms tax r,0.0
+deceased partner,0.5
+same stand,0.42857142857142855
+para,2.300239586747483
+good-will,0.0
+keeping,0.7917143948071784
+pendency of the appeals,1.0
+powers,1.876345371920593
+decree vide judgment,1.0
+other question,0.6025778732545649
+shri vepa sarathy,0.5
+vepa,0.2457627118644068
+worth nothing,0.5
+asset of the partnership,0.5
+holding,1.2555282555282552
+alongwith interest at the rate,0.5
+president,2.1267129228100607
+basis of the profits,1.5
+vii,1.26552423069836
+similar busines in the name,0.0
+suit claim as a commercial transaction,0.5
+deposit,2.1724508050089444
+notice on the chief justice,0.5
+several irregularities,0.5
+pradesh high court,2.409090909090909
+share in the assets,0.5
+as no writ,0.8
+separate suit,0.6666666666666666
+actions,3.633288043478261
+pravin madhavani,0.5
+transaction,5.884921444603142
+opportunity,0.946186440677966
+special leacial petition,0.5
+judge at ootacamund,0.5
+due on account of mesne profits,0.5
+impugned judgment,2.0927152317880795
+chemical,1.5078102189781022
+following observations,0.8222222222222223
+second part,2.0913461538461537
+loan,2.299059561128527
+such dismissal,0.5
+provision of section,1.4827586206896552
+learned counsel for appellants,0.5
+medical service,0.4307692307692308
+applications,1.0021816198527407
+agrl,1.0
+present case by the high court,0.5
+decree till realisation,2.5
+various other interlocutory application,0.5
+partners,4.220858895705521
+andhra,4.830188679245283
+bengorm estate,2.0
+executor of the estate,0.5
+forms part of the assets,0.5
+quantification,1.0666666666666667
+mete,1.2615274935032081
+share of the amount,0.5
+respondent s appeal,0.0
+books of accounts,1.8571428571428572
+interest at such rate,1.0
+operative portion,0.875
+court without jurisdiction,1.0
+decree to that extent,0.5
+illegal gain,1.0
+preliminary decree vide judgment,1.0
+claim with respect,1.0
+taraben,1.0
+v bd,0.3555555555555555
+srimathi,0.6666666666666666
+details whereof,1.0
+slp stage,1.0
+due by the high court on the basis,0.5
+book of accounts,0.0
+profit at a rate,0.0
+properties to the extent,0.5
+assignment of the goodwill,0.5
+award of share,0.5
+periodical,0.6330935251798561
+-d if the argument,0.0
+othep adjustments,0.5
+anr,1.1271033322299457
+simple interest,1.8333333333333333
+reserve bank permission,0.5
+first year,0.5045045045045045
+entire estate r,0.5
+reserve,1.8336147492356134
+special,1.7363344051446945
+profits at a rate,0.5
+share in the entire estate,0.5
+to the plaintiff,3.3
+suggestions of the parties,0.5
+december,0.9629002463054187
+court in these appeals,0.75
+subsequent period,1.4285714285714286
+prasad,1.1407089151450054
+aforementioned volume of halsbury,0.5
+v state of kerala,1.1304347826086956
+one - third share,0.0
+personal expenses,0.6666666666666666
+defendant in the suit,0.6666666666666666
+such earlier date as the court,0.5
+correction in the decree,0.0
+pravinlal vithaldas,2.0
+applicability,1.0928961748633879
+interlocutory application,1.7333333333333334
+possession thereof against defendants,1.0
+own other company,0.0
+bar,1.4720990391722097
+term  goodwill,0.0
+practical fruits,0.5
+retention,1.1818181818181819
+report,1.7768151696835826
+paise,3.3333333333333335
+amending,1.0947712418300655
+everything,0.6255060728744939
+principle,1.9620890732001848
+angle,0.4852556924225457
+medical services under the national health service,0.5
+anything,0.9132309941520469
+entire tea estate,1.0
+stocks in trade,1.0
+principle of res-judicata,0.0
+offer of only rs,0.5
+circumstances of the present case,1.0714285714285714
+commencement,1.2037037037037035
+medical service under the national health service,0.0
+yearly basis,3.0
+surviving,0.583030303030303
+offer,2.188208616780045
+goodwill as an asset,0.5
+estate r,0.8
+court in an application,0.6666666666666666
+annum as the court,0.5
+present appeals,1.625
+alongwith interest,1.0
+division bench,3.965217391304348
+date,6.195616975795285
+reference,2.1755848210276256
+appeal against preliminary decree,0.5
+plaintiff s share,0.0
+respondent,4.757894736842104
+bare reading,0.9285714285714286
+bank rate of interest,1.5
+part of the goodwill,0.5
+schedule,2.9453067257945307
+separate possession thereof against defendant,1.0
+amendment sought in para,0.5
+submission of mr  naik,0.0
+aliammal,0.5
+gifts,0.39805825242718446
+possession thereof,1.0
+increase,1.3270102600811262
+amounts,0.9789856139834046
+correction of the mistakes,0.5
+honble,2.4444444444444446
+due towards,0.5
+matter of fact,0.6230936819172114
+august,0.977116704805492
+share in the tea estate,0.5
+concern of the defendants,0.5
+investment,3.057915057915058
+share of the plaintiff,2.5
+various circumstance in support,0.0
+supreme court,1.4278957326045825
+signify,0.3897435897435898
+muller,0.20879120879120883
+certain findings,0.8
+arun kumar,1.0
+name of the firm,0.5
+challenge to the award,0.6666666666666666
+high,5.367119186841496
+payment,2.059553716565686
+following terms,1.5957446808510638
+brother,1.4566585956416465
+co - ownership property,0.0
+shree bharat,0.5
+event,1.4310854436179261
+goodwill,3.4320000000000004
+entire period,1.2
+such contested issues,0.5
+acre of land wherein pravinlal,0.0
+way of mesne profits,2.5
+defendant,3.7706855791962175
+nos,1.2635492554198444
+at the same rate ie,0.5
+interest in the estate,0.6666666666666666
+well-settled that an order,0.0
+neelgiri,0.5
+plaintiff by the defendants,0.5
+date of institution,1.5
+interest on the basis,0.5
+receivers accounts,0.5
+sands,0.41992433795712486
+continuity,0.5565476190476191
+higher rate,1.1627906976744187
+payment of money,0.8333333333333334
+stands,0.7032366540563262
+transactions from time,1.5
+appeals against the judgment,1.0
+order interest,0.5
+non - applicability of the amendment,0.0
+affairs,0.8608695652173913
+entire amount,1.3333333333333333
+contribution,0.8348513902205177
+successor,1.2925170068027212
+encumbrances,3.6
+similar amendment sought,0.5
+return on this basis,0.5
+amount from the beginning,0.5
+amendment of the cpc,0.5
+fruits,0.6605113636363636
+march,1.0644238856181665
+final decree for partition,0.5
+income tax,1.4126984126984128
+reasoning of the high court,0.8571428571428571
+liabilities,1.0606060606060608
+award,3.104213525266157
+sole executor of the estate,0.5
+basis of the capital value,0.5
+commission,4.703619179345321
+death of a partner,0.5
+own other companies like kodanadu estate,0.5
+aforementioned volume,0.5
+procedure code,1.3157894736842106
+claim of the appellant,1.6666666666666667
+profits on which interest,0.5
+nullities,0.75
+case by the high court,0.5
+realization,0.6944444444444444
+club,0.8279165868248507
+mistake,0.6870879120879121
+place in the firm,0.5
+foreign trip,0.5
+loans,0.7388888888888888
+decreased partner,0.5
+illegality in the order,0.8
+wef,0.859375
+earlier round,1.0
+till payment,1.25
+national health service,0.25
+profits for the period,1.5
+other partner,0.7619047619047619
+evidence,3.6676405172088815
+premises of business,0.5
+interlocutory,1.96
+civil procedure code,1.1
+substitution,0.5932203389830508
+document,1.401100265092073
+respondent taraben,0.5
+capital contribution,0.5
+judicata,1.5384615384615385
+from m,1.0012521382337687
+respondent in the court,0.5
+decree till realisation interest,0.5
+purchaser of the business,0.5
+vithaldas,1.5
+husband of the plaintiff,1.0
+per annum till realization,0.5
+private auction amongst the parties,0.5
+rate at which interest,0.5
+person in wrongful possession,0.5
+question of rate,1.0
+kodanad tea estate,0.5
+date of original plaint,0.5
+srimathi kaushalya devi,0.6666666666666666
+commercial transaction,1.9200000000000004
+wrongful possession,0.6666666666666666
+favour by the courts,0.5
+arbitrator although the law,0.5
+till date,1.2352941176470589
+unknown in commercial field,0.5
+service,4.257395095954566
+therefore,2.960332350576253
+end,6.1484001628618765
+opposite party,2.3333333333333335
+rule,5.04
+of the value,0.7215686274509804
+decision of the tribunal,1.5454545454545454
+proceedings,1.7670925223666287
+favour,1.653145208700764
+due as r,0.5
+questions in controversy,1.0
+following observation,0.8039215686274509
+widow of vallabhdas,0.5
+laxmi,1.25
+civil appeal,2.2413793103448274
+j jermon,0.5
+properties,1.7286779414438989
+respondents,2.6341263330598856
+court with respect,1.0
+costs,0.8167395522604189
+fact that no notice,0.5
+government pleader,1.6666666666666667
+commercial loans,1.0
+whole year,0.2727272727272727
+third state,0.5
+behalf of the defendants,0.5
+less towards income tax r,0.0
+admission,1.5389848246991107
+date herein,1.0
+bengorm nilgiri plantation,2.5
+simple interest thereon,0.5
+travel expenses,0.2222222222222222
+power,3.8165227690948367
+- interest,0.0
+state of tamilnadu,0.5
+correctness of the impugned judgment,0.75
+respondent - plaintiff by the appellants,0.0
+material part of the practical fruits,0.5
+one-third share of the plaintiff,0.0
+interest on the amount,1.4
+contrary agreement,0.5
+concerns,0.9134645423305218
+extent of rs,1.0
+store,0.6686444634658782
+respective first respondent,0.5
+position,1.549133168619177
+as evidence,0.560701754385965
+n wagh,0.5
+one,4.845669314438648
+green leaves,0.5
+petition,5.3436539306104525
+remedy,1.3214024835646458
+stage ie,0.75
+such profits,4.666666666666667
+transactions,6.503443526170798
+case mesne profits,0.5
+consideration,1.9110153789142115
+expense,1.4186440677966103
+several judgment,1.0
+paragraph,1.2930197483150305
+old customers,1.0
+various other interlocutory applications,0.5
+fact that the defendant,0.6666666666666666
+crp,1.32
+commissioner,2.271608643457383
+clause,3.526455026455027
+earlier date as the court,0.5
+basis because the amount,0.5
+operative portion of the final decree,0.5
+than rs,0.9696969696969696
+entry by entry,0.5
+balance sheets,1.0
+decree in the following terms,0.5
+procedure deal,0.8333333333333334
+trade mark,2.1904761904761902
+limitations,0.8120300751879699
+andor,0.8398466033601169
+which mesne profits,0.5
+family,1.856281506375408
+plaint interest,0.5
+provisions,3.8929824561403508
+plaintiff herein,0.5
+manuscmanusc,7.940520446096654
+lala,0.2773333333333334
+substance,0.8230581678857541
+figures for the subsequent period,1.0
+connection thereof,0.5
+passing of the decree,0.6666666666666666
+preliminary objection that the writ petition,0.5
+doctrine of res judicata,0.6666666666666666
+basi of the receivers accounts,0.0
+goodwill to the plaintiff,0.5
+advantage,1.1441364159430905
+corrections in the decree,0.5
+separation,0.7297830374753452
+pursuant,0.7227692307692308
+exercise of jurisdiction,1.0666666666666667
+basis of amended section,1.0
+on such principal sum,1.5
+basi at the rate,0.0
+circumstances of the case,1.3373493975903614
+commercial loan in view,0.0
+onward for a period,0.0
+national,1.5126860273884035
+due toward,0.5
+similar amendment sought in para,0.5
+occasion,0.7946745562130177
+possession,2.808810857389056
+decree of the trial court,1.0
+cent per annum,1.3333333333333333
+firm s periodical balance sheet,0.0
+supreme,1.443815331010453
+interest from the date,1.1428571428571428
+powraj chemicals,0.5
+interest thereon on the share,0.5
+- applicability,0.0
+suggestion,1.2425592585991803
+mesne,11.701492537313433
+pro-rate profit,0.0
+plaint with simple interest,0.5
+shri sarathi s attention,0.0
+matter of serious controversy,0.5
+value of the share,1.8333333333333333
+bound,0.8762782658793029
+deal,2.1942302694273583
+receivable by the plaintiff,0.5
+hotel expenses,0.5
+basis of the receivers accounts,0.5
+well - known principle,0.0
+bound of the plaintiff,0.0
+cpc,1.0529279279279278
+real question,0.25
+inherent lack of jurisdiction,1.0
+cross appeal,1.0
+decree for mesne profits,1.5
+that jurisdiction of the high court,0.5
+madhavani,0.5
+nature,1.4149926876444778
+periodical basi,0.5
+total r,0.3958333333333333
+figure rs,1.0
+bengorm nilgiri plantation co rs,0.0
+accountant,1.8627450980392157
+asset,3.0300107181136124
+opinion that the entry,0.5
+amendment plea,0.6666666666666666
+something,0.5915378827342709
+action,3.127292663476874
+interest vary,0.0
+fit,2.7848485899724365
+yearly basi,3.0
+chartered,1.5
+customers,1.646655231560892
+items of expenditure,0.5
+debt,3.4485322896281807
+thing,1.1131787570209408
+which decree,0.5
+pravinlal madhvani,1.0
+findings,1.049571253572887
+decree till the date,0.6666666666666666
+compromise,1.6862573099415208
+name as part,0.5
+general medical service,0.5
+predecessor in the interest,0.0
+canos,0.7619047619047619
+land wherein pravinlal,0.5
+value of the plaintiff,1.0
+law of england,0.5
+that section,1.1768292682926829
+operations in the portion,0.5
+more than the total amount,0.5
+sections,1.640495469442838
+vary,0.888586262660652
+matters,1.4810665618448637
+los,1.8125523261338943
+family property,0.75
+inter,3.683850287482992
+dwarka,8.125
+respondent s appeals,0.0
+monies,1.3268292682926828
+figure for the subsequent period,0.0
+late pravin madhavani,0.5
+first respondent in ca,0.5
+court,12.24425115501509
+- rata basis,0.0
+plantations,3.6666666666666665
+agreement,3.450434632433366
+objection,1.68120480131216
+administrative tribunal,3.8
+person,4.291511329454258
+probability,0.45294117647058824
+correctness,0.8404159132007234
+entries,2.110809342748506
+partnership firm with interest thereon,0.5
+husband pravinlal,0.5
+following item,0.25
+capital value,1.3333333333333333
+court on these matters,0.5
+late pravinlal madhavni,0.5
+court inter alia on the ground,0.5
+nothing,0.8658723322806009
+amount of gratuity,0.5
+such expenses,0.75
+account of the partnership firm,0.0
+tamilnadu,0.5
+number,1.4802651440973922
+subject matter,1.2537313432835822
+decision,2.9514937765898557
+power of the court,1.2142857142857142
+hands,1.1725490196078434
+total,1.183527325379098
+claim,2.817264601856604
+plantations co,5.0
+court fee on the decretal amount,0.5
+house,2.0021735292386764
+chart,1.0666850372003307
+share iii,0.0
+annum wef,0.5
+hearing of the writ petition,0.8
+sheet,1.1667364016736401
+interpretation,1.518366298484459
+th defendant,0.75
+relevant facts,0.7692307692307692
+year,2.8349484769759212
+judgment,3.288216560509554
+claims,1.1941982272360998
+other prayer in the plaint,0.0
+gift,1.4785575048732944
+disposal of slp,0.5
+one-third share,0.0
+lakhs,2.046511627906977
+party to the suit,0.5
+same stood,0.6666666666666666
+name of the outgoing partner,0.5
+loss,2.0689655172413794
+act,12.870263922028107
+circumstance of the present case,0.0
+spare,0.8627450980392156
+other earlier date,0.5
+continuous busines,0.5
+admission by the counsel,0.5
+plaintiff at the end,0.5
+relevant fact,0.9393939393939393
+to a provision,0.75
+yearly basi at the rate,0.0
+term  goodwill  signifies,0.0
+report of commission,0.5
+nationalised bank during the relevant years,0.0
+finality,1.1746031746031746
+tea plantations company,2.5
+section,9.287987283173626
+chartered accountants,4.8
+major irregularities,0.5
+assets of partnership firm,0.6666666666666666
+expense of the firm,0.0
+decree on account,0.5
+sale proceeds in the court,0.5
+revenue commissioner,0.75
+bengorm,10.5
+rate of interest,9.666666666666666
+figure r,0.5555555555555556
+preliminary decree with regard,0.5
+finding,1.8129183657767178
+appointment of receiver,0.6666666666666666
+share of further claims,0.5
+small item of expenditure,0.0
+advance,1.2070333024745414
+use of the property,0.5
+regard,2.723310344827586
+item of expenditure,0.0
+provision of unamended section,0.0
+willingness,0.7818181818181819
+procedural aspect,1.0
+expenses,1.2727272727272727
+practitioners,0.6511627906976745
+money,1.6567889044524557
+towards income tax r,0.0
+rights,1.6349541930937281
+item,1.3319648896447913
+koshipathi estate,0.5
+accordance with law,1.0046948356807512
+facts,1.4696673624372698
+crop,1.0811273746496417
+pure question of law,0.75
+meanwhile,0.5323868677905944
+varies,0.4166666666666667
+time on commercial transactions,2.0
+share in the goodwill,1.0
+form,2.4865961263718424
+compromise for the reasons,0.6666666666666666
+executor,1.0
+expenses of the firm,0.5
+lack,0.6349809734425119
+further contention,1.0769230769230769
+benefit,2.604810195438474
+various circumstances in support,0.5
+records,0.9879294336118848
+cost,1.2954397451466992
+final decree before the madras,0.5
+as par balance sheet,0.5
+sub,7.816899313759727
+course,1.6545957498716626
+original plaint,0.7619047619047619
+company,5.864471879286695
+certain figures,0.5
+pradesh,4.365853658536586
+firm,1.7435548272439818
+pendency of the appeal,1.4166666666666667
+family members of the defendants,0.5
+arguments,0.7212211466865226
+number of workers,0.3333333333333333
+vide order,1.7058823529411764
+heads at the rate,0.5
+profits,4.935344827586206
+estoppel,2.736842105263158
+field,1.5820968371729793
+matter,2.8088923076923082
+relation,1.397320207820618
+court fee at the time,0.5
+interest varies,0.5
+interest on mesne profits,1.5
+submission on behalf,0.875
+profit towards,0.5
+liability,2.532836248924577
+part of the high court,1.0
+firm s periodical balance sheets,0.0
+real questions,0.30000000000000004
+for a medical practitioner,0.5
+wife,1.4518086408500224
+determination of mesne profits,0.5
+constitution in the high court,0.8
+issue in j jermons,0.5
+partnership in suit,0.5
+volume,0.5619176554909612
+in view of clause,1.0
+suit till date,0.5
+nationalised banks during the relevant years,1.0
+material,1.4148767018946966
+procedure,2.552771605064117
+petitions,1.3930830039525692
+full fledged appeal,0.5
+such admission,0.5
+- rate profit to the extent,0.0
+hereinbefore,2.159090909090909
+provision,5.439002243350069
+tea plantations company sand,0.5
+support,0.8630946786249609
+bare reading of order vi rule,0.5
+shree,0.75
+conclusions,0.8522069292833413
+nil profit towards,0.5
+computation of net amount,0.5
+maximum,0.8925619834710745
+business,2.8512056385864457
+estate,1.9402985074626868
+owner,2.9502416709822197
+style of bengorm tea plantations,0.5
+original plaint interest,0.5
+plaintiff against the preliminary decree,0.5
+nationalised banks from time,2.0
+term of the preliminary decree,0.0
+department,1.9858367499068206
+relevant year,1.1111111111111112
+by way of mesne profits,2.5
+accounts,2.7564363143631434
+original defendant,1.25
+object,1.4940119760479043
+kumar,2.028839704896043
+demand,1.5671679197994988
+thereto,1.0358342665173572
+immovable property,1.75
+advantage belonging to the firm,0.5
+less towards income tax rs,0.0
+viii,0.7209469153515065
+owners,1.9409649385675758
+in the facts,0.9398907103825137
+extent,1.410108024691358
+only amendment,0.5
+debtor,2.4615384615384617
+amount rs,0.75
+profit toward,0.5
+terms of order,1.0
+such case,0.7332761578044598
+firm s continuous busines,0.0
+court under article,2.032258064516129
+same rate ie,0.5
+general medical services,0.5
+relation to the valuable assets,0.5
+principles of res judicata,1.3333333333333333
+alongwith,0.810989010989011
+whereof,1.2790697674418605
+lump sum amount,0.5
+issues,1.1246716508385532
+opinion that the findings,0.6666666666666666
+adduce,0.8093750000000001
+points for decision,0.5
+per,7.977753416636086
+accordance with rules,0.75
+decree for the amount,2.0
+pre decree period,0.5
+approval,1.4085456739300164
+reasonable opportunity,1.5714285714285714
+sister,1.0774703557312253
+agree with the opinion of brother arun kumar,0.5
+stages,0.7858851674641147
+tea plantations company to the bengorm firm,0.5
+order interest at such rate,0.5
+of rs,1.6608156028368795
+property by the other co - owners,0.0
+trips,1.44
+part of the preliminary decree,1.0
+unamended section,1.6
+receiver,1.266211604095563
+admissible in the present case,0.6666666666666666
+principles,1.3198511166253102
+nationalised bank from time,0.0
+interest under the decree,0.5
+such leaf,0.0
+current account,0.9
+volume of halsbury,0.5
+suit with respect,0.6666666666666666
+share viii,0.0
+opinion that the finding,0.6666666666666666
+proper,2.7623036581024407
+terms of the judgment,0.6666666666666666
+writ,2.8882378560889794
+tea estate,9.25
+need,1.1097650269586634
+deals with the question,1.0
+months,1.1938163721148947
+high court in calculation,0.5
+reading of order vi rule,0.5
+accounts against defendants,0.5
+decretal amount of rs,0.5
+mode,0.8201666928762384
+reimbursement,2.066666666666667
+acres,1.8522588522588521
+run by the partnership,0.5
+basis at the rate,0.5
+such compensation,1.0
+pravinlal till separation,0.5
+subject matter of serious controversy,0.5
+same in administrative tribunal,0.5
+file,1.3720673638585223
+date of decree till realisation interest,0.5
+interest thereon,1.2857142857142858
+auction house,0.5
+dismissal,1.614076246334311
+basi of the profits,0.0
+final figure rs,0.5
+admitted liability,1.0
+interest in para,0.5
+tea estate at the hands,0.5
+personal gifts,0.5
+change,1.2214862766571903
+head,1.5827778446537666
+order vi rule,3.0
+busines in the name,0.0
+bengorm estate with respect,0.5
+v punjab national bank,0.5
+possession thereof against defendant,1.0
+division,1.7657319129617017
+nai,0.8373883076415114
+goodwill of the business,0.5
+above judgment,1.8461538461538463
+basi of the capital value,0.0
+claim of the plaintiff,0.6666666666666666
+leacial,0.5
+by the court,1.2436363636363634
+refunds,0.75
+proprietary interest,0.6666666666666666
+commercial transactions,2.5
+financial year,3.1666666666666665
+national bank,0.8636363636363636
+appeals ie,0.5
+connection,1.050640279394645
+gratuity to workers,0.5
+joint receiver,1.5
+levy,3.3133874239350907
+fact that the defendants,0.6666666666666666
+parts,0.6609660823170732
+india,2.7684068260703585
+record that the plaintiff,0.5
+shri sarathi,0.5
+regard to the fact,1.5862068965517242
+neelgiris area,0.5
+plantation,1.8823529411764706
+in terms of the decree,1.5
+asset of partnership firm,0.0
+credit,2.9526050420168066
+list of medical practitioners,0.5
+profit for the first year,0.0
+further pleadings,0.5
+certain finding,0.8
+whole amount from the beginning,0.5
+date of decree till realisation,2.5
+family member of the defendants,0.0
+amendment application of the plaintiff,0.5
+medical services,0.4800000000000001
+similar business in the name,0.5
+return,1.5755725190839696
+special leave petition,2.013333333333333
+diligence,0.9876543209876543
+decision of this court,2.3260869565217392
+amount by way,1.2857142857142858
+mesne profit at a rate,0.0
+learned counsel for respondent,1.1666666666666667
+par balance sheet,0.5
+court in this regard,1.3333333333333333
+old name,0.37037037037037035
+term of order,0.0
+liable for any part of the loss,0.5
+decision interest,0.5
+sheets,0.4754285714285714
+edition,0.9664589349951868
+bahu,1.0476190476190477
+matte from different angle,0.5
+bharat,0.9142857142857144
+next period,0.5
+periodical basis,0.5
+same date,0.6153846153846154
+respect of profits,4.0
+advantage belonging,0.5
+portion,1.0756311179804223
+distribution,2.7289109919449284
+periods,0.8597883597883598
+lord machaghten,0.5
+madhavni,0.5
+bengorn tea estate,0.5
+court on various grounds,0.5
+mere chance of probability,0.5
+part of the practical fruits,0.5
+payable r,0.5
+trained worker,0.5
+which interest,0.9000000000000001
+negation,0.3333333333333333
+amended section,1.8333333333333333
+duty,3.2272215973003378
+general medical service under the national health service,0.0
+parties to the suit,2.8
+legality,0.6845938375350139
+conclusion that irrespective,0.5
+appeal against the preliminary decree,1.0
+assignment,0.6215753424657535
+res judicata,1.3846153846153846
+- rata basi,0.0
+earlier round of litigation,1.0
+point,2.9165043546008516
+to the plaintiff on accounts,0.5
+more than the amendment,0.5
+sizeable profit,1.0
+award of interest,3.75
+santokben,1.5
+sum amount of rs,0.5
+steps,1.169318181818182
+order on special leacial petition,0.5
+further contention of mr naik,1.0
+defendants inclusion,0.5
+in-balance sheet,0.0
+towards income tax rs,0.0
+payable as par balance sheet,0.5
+proprietor,1.0303030303030303
+several irregularity,0.0
+decree with regard,0.5
+prayer for amendment,0.5
+rate of interest varies,0.5
+plaintiff in the suit,1.3333333333333333
+code of civil procedure deals,0.6666666666666666
+writ petition,6.24223602484472
+amended provisions,2.5384615384615383
+plaintiff on accounts,0.5
+share in the immovable properties,0.5
+j jermons,0.5
+due as rs,0.5
+plea,1.4430487701432178
+passing,0.8851858023662723
+revision application,1.4444444444444444
+transaction from time,0.0
+second stage,0.41935483870967744
+expenses of the defendants,0.5
+round,1.6469623212681128
+plaint relate,1.0
+trade,1.8307706424423558
+increase in the value,0.5
+relevant years,1.0
+furtherance thereof,1.2
+powraj,0.5
+challenge,1.2204566274399267
+paras,0.7450980392156863
+chartered accountant,4.2
+attention to the limitations,0.5
+authority,2.4352627108360636
+death,2.361592909460208
+view of clause,1.0
+other partners,1.0
+balance sheet of bengorm nilgiri plantations,0.5
+several foreign trip,0.5
+present case mesne profits,0.5
+other reliefs,1.0
+third,1.0303422515142742
+partner,4.163434903047091
+further interest on such principal sum,0.5
+agreement of counsel,0.5
+page,1.011907905159212
+counsel for the appellant,1.9621212121212122
+payable at the same rate ie,0.5
+impugned award,0.5
+bengorm estate to the extent,0.5
+drought,0.22727272727272727
+way of amendment,1.4285714285714286
+first appeal,1.112781954887218
+marks,1.4136144754122284
+banks,6.73024
+proceed,2.930994380987473
+iii,1.5614499719992534
+methods,0.6227758007117437
+obligation,1.1071428571428574
+seal of approval,0.4800000000000001
+judgments of this court,1.4666666666666666
+certain number of workers,0.5
+various grounds,1.0555555555555556
+instant,1.131578947368421
+value of the entire estate rs,0.5
+kerala,4.135593220338983
+continuity of the undertaking,0.5
+bansal manuscmanusc,0.6666666666666666
+state,6.817996007300392
+second issue,0.40909090909090906
+chance,0.7937084625609215
+with respect to the payment,0.5
+note,1.3654108484234107
+controversy,0.8593204191806921
+firm upon death,0.5
+practitioner,0.8401826484018265
+high court in this regard,1.1666666666666667
+less dtp loan rs,0.0
+decree in favour,0.75
+case of decree,0.5
+simple interest at the rate,2.0
+till date of realization,0.5
+necessary correction,0.6666666666666666
+counter,1.0576470084371923
+pursuant thereto,1.0769230769230769
+reputation,0.7215189873417721
+madhvani real brother of pravinlal madhvani,0.5
+date of the decree,1.3333333333333333
+plaintiff s claim,0.0
+airsc,1.6909090909090911
+stocks,0.5357142857142857
+kilogram,1.0947368421052632
+defendant nos,1.2
+aspect of the amendment,0.5
+estate rs,0.5
+plaintiff s insistence,0.0
+per annum,2.25
+amendment of the plaint,2.0
+cost of the suit,0.75
+than r,0.6759091822382961
+commercial loan,1.0
+nilgiri plantations co,2.0
+schedule to the plaint,1.0
+defendants inclusion of rs,0.5
+respect to the rate,1.5
+basi of balance sheet,0.0
+book,0.7435955668604651
+books,0.8894824707846412
+negation of justice,0.5
+in term of the decree,0.0
+capital,1.0983272274832379
+type of tea,0.5
+subordinate judge at ootacamund,0.5
+opportunity to the opposite party,0.5
+certain number,0.4571428571428572
+account of mesne profits,0.5
+therefrom,0.673076923076923
+valuable asset,0.2727272727272727
+larger profit,0.5
+price of rs,1.6666666666666667
+pre,6.408342692122574
+in administrative tribunal,0.5
+fourth,0.6464025500910748
+liability towards gratuity with respect,0.5
+such principal sum for any period,0.5
+full fledged appeals against the judgment,0.5
+such suit,1.2857142857142858
+decision thereon,1.0
+decree in respect,0.6666666666666666
+capital assets,0.6000000000000001
+darjeeling,4.5
+pravinlal vithaldas madhvani,2.0
+constitution of india,3.0095238095238095
+lakhs per annum,0.5
+bounds of the plaintiff,1.0
+in the circumstances,1.3584905660377358
+reliefs,1.308641975308642
+various circumstances,0.5555555555555556
+maximum at the rate,1.0
+proper rate,0.5
+predecessors,0.5151515151515151
+sarathy,1.6
+more than a mere chance of probability,0.5
+assets of the partnership firm,0.5
+ordinary diligence,0.5
+principal,1.3412499999999998
+fee,1.560669497024209
+interest,2.74353772015385
+finding of the high court,1.6363636363636365
+note of amendment,0.5
+neighbouring tea estate,0.5
+books of account stating,0.5
+suit till the date,0.5
+amount of mesne profits,3.5
+behalf,1.9888053603529987
+account stating,0.5
+commissioner s report,0.0
+in the circumstance,1.3584905660377358
+firms,1.0769230769230769
+mesne profit for the relevant period,0.5
+commission without any basis,0.5
+maintainable in view of clause,0.5
+health service,0.3157894736842105
+ootacamund,0.5
+pravinlal,10.0
+articles,1.4349688743466387
+tea,1.2494773519163762
+loans in view,0.5
+halsbury s law,0.0
+permission,1.1531211886018407
+legal aspect of the amendment,0.5
+wrong on the part of the high court,0.5
+appeal,3.4125488033856883
+central bank of india,1.3333333333333333
+against the order,1.2222222222222223
+iva,1.3272019231089818
+user,0.5042401399919236
+share of a co-owner,0.0
+view of the high court,1.3571428571428572
+medical practitioner,2.1666666666666665
+area,2.675167256985439
+further claims,0.5
+relevant period,2.1333333333333333
+amendment sought,0.6666666666666666
+prayers in the plaint,1.0
+operations,1.1793611793611793
+that award of interest,0.5
+simple interest thereon at the rate,0.5
+certain figures for the subsequent period,0.5
+alia,0.9479866480753792
+hotel expense,0.5
+illegal decree,0.5
+only rs,1.0
+original side,1.8333333333333333
+time to time,1.0211267605633803
+question of law,3.057142857142857
+commercial transaction from time,0.0
+sub-section,0.0
+interest to the defendants,0.5
+may,3.683418028199994
+to the plaintiff in the suit,0.5
+co-owners,0.0
+question of award,1.5
+appellants in these appeals,0.5
+average,0.9365131578947369
+return at the rate,0.5
+independent materials,0.5
+property to the extent,0.0
+-- if the plaintiff s share,0.0
+high court on various grounds,0.5
+question of reimbursement,0.5
+necessary correction of the mistakes,0.5
+list,4.014941314095513
+fruit,0.7602602602602603
+foreign trips,0.5
+partnership business,0.6666666666666666
+present suit,1.6666666666666667
+amended provision,2.8823529411764706
+admissible as evidence,0.5
+co - ownership property of the members,0.0
+due to the plaintiff,3.5
+companies,2.2664576802507836
+january,0.8699641577060931
+chemicals,0.8728571428571429
+tax,3.549237288135593
+particular as no writ,0.6666666666666666
+- per annum,0.0
+accounts against defendant,0.5
+attention to section,1.0
+trip,1.2663939393939396
+therein that possession,0.5
+circumstance,1.429931390219372
+civil,2.126558634963905
+gain,2.812245309642126
+more than r,0.65
+purchase in the ordinary way,0.5
+district court,0.9523809523809523
+co - owners,0.0
+genuineness,0.8142857142857144
+reason of the impugned judgment,1.0
+plaintiff respondent,1.0
+stage of the litigation,0.5
+annum from the date herein,1.0
+effect that the plaintiff,0.6666666666666666
+real questions in controversy,0.5
+laws of england,1.5294117647058822
+commercial loans in view,0.5
+permitted amendment of the plaint,0.5
+i determination,0.5
+trade marks,0.8333333333333334
+interest on such profits,0.5
+basi,2.0752712086391383
+various circumstance,0.5555555555555556
+chief justice of ap,0.6666666666666666
+annual return,1.0
+leave petition,2.013333333333333
+objections,1.2025072324011572
+share of pravinlal,3.0
+date of payment,1.8
+bengorm tea planation company,0.5
+public law remedy,1.75
+high court on the basis,0.8571428571428571
+days,1.6721350893491447
+amount r,0.8842105263157896
+doctrine,0.7455954017243533
+acre,1.6948939682084037
+judgment of the high court,1.721311475409836
+prayers,0.6104336043360433
+basis,1.953226441078104
+civil revision applications,0.5
+sale proceeds,1.75
+date of the suit,0.6666666666666666
+necessary steps,0.7279411764705882
+honble court,2.4444444444444446
+civil procedure deal,0.6666666666666666
+deshmukh,0.5
+nationalised bank,2.4444444444444446
+permitted interest maximum at the rate,0.5
+yearly basis because the amount,0.5
+immovable properties,1.1666666666666667
+irrespective,0.7304347826086957
+account of retention,0.5
+nilgiri,2.5
+calculation memo,1.0
+tea estate in the neelgiris area,0.5
+furtherance,1.758139534883721
+amendment,2.2486412346818434
+decree for rs,0.5
+asset of the partnership firm,0.0
+premise of business,0.0
+profit of the whole year,0.5
+regard to award,0.5
+v shri kl,0.6666666666666666
+cros,1.8137948361162648
+predecessors in the interest,0.5
+mr naik,1.5
+private auction,0.5
+further pleading,0.5
+present appeals against the judgment,0.5
+effect that the defendants,0.5
+price,2.8302710227712162
+rent,2.460251217077583
+realisation,2.1538461538461537
+irregularities,1.2263736263736265
+bank rate,1.6666666666666667
+similar busines,1.6666666666666667
+bengorm nilgiri plantations,2.0
+term,3.6255105640901575
+appellants,7.701086956521739
+private auction amongst the party,0.0
+court fee,1.1666666666666667
+view,2.441100058469462
+vide,4.454025282767798
+behalf of appellants,0.8333333333333334
+inter alia for the following reliefs,0.5
+side,3.88845645915565
+relief,1.4748116760828625
+tribunal s order,0.0
+entry in the books,0.0
+pleadings,1.3125
+use,5.06801278974993
+fledged appeal,0.5
+lord,1.6027618015615013
+bengorm tea plantations,0.5
+result,1.3356630184144715
+entire estate rs,0.5
+record,2.5393414390845273
+balance in current account,0.5
+division bench of the high court,1.6825396825396826
+terms of the preliminary decree,0.6666666666666666
+style of bengorm nilgiri plantations company,0.5
+style,0.6284633359296762
+mr ramamoorthy,0.5
+sarathi,0.5
+account of the firm,0.5
+nilgiri plantations,2.0
+provisions of section,2.762376237623762
+court in calculation,0.5
+pravinlal as a co-owner,0.0
+profit for the relevant period,0.5
+premises,1.290983606557377
+major irregularity,0.0
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+building,3.870745432459903
+chief,1.9429638234317954
+following relief,1.1818181818181819
+real brother of pravinlal madhvani,0.5
+impugned order,2.265957446808511
+price of green leaves,0.5
+less profit,0.6666666666666666
+personal expense of the defendants,0.0
+own other companies,0.5
+alongwith interest on the amount,0.5
+to the plaintiff at the end,0.5
+brand,1.6359001593202334
+reason that the special leave petition,0.5
+years,2.5395804110508022
+other co - owner,0.0
+exercise,1.9400726466785694
+costs of the suit,1.0
+other against the order,0.5
+husband of the plaintiff - respondent,0.0
+affirmative advantage,0.5
+party,2.2250894654439723
+widow,0.45833333333333337
+respondent herein,1.8936170212765957
+payment of gratuity,0.8
+portion of the final decree,0.5
+basis ie,0.2777777777777778
+stock in trade,0.6666666666666666
+ancillary building,0.5
+enhanced interest,0.5
+arun,0.9503105590062112
+justice,2.292557084574302
+suppression,1.1538461538461537
+therein,1.5503424657534246
+value of the goodwill,1.0
+revenue,1.486701237872198
+reasonings,0.4761904761904762
+reference to the commissioner,0.5
+personal expense,0.6666666666666666
+terms of the above judgment,0.5
+interest on a decree,0.5
+high court in an application,0.5
+point for decision,0.0
+income,2.734813573523251
+v state,2.4603773584905664
+sale proceed in the court,0.0
+decree,3.732408834103749
+metes,0.6000000000000001
+cross appeals,1.0
+forms,0.8089941394570028
+jermon,0.5
+book of account stating,0.0
+material part,1.1666666666666667
+hearing,0.9644508209787979
+beginning,0.8322990543735226
+bank,9.40770083102493
+consequence of that dismissal,0.5
+small items of expenditure,0.5
+day,1.550999710228919
+sale,3.3662581620085734
+pleas,0.6851599700282798
+estates,0.9166666666666666
+question,2.980312372067635
+execution,1.3041894353369763
+proportionate costs of the suit,0.5
+term of the judgment,0.0
+scmanu,7.940520446096654
+mesne profit,24.0
+step,0.8867024753460084
+law remedy,1.75
+amount,3.179688593072295
+practice,1.7660110149488593
+statement,2.5393160135035964
+for the period,1.0307692307692309
+amount of rs,1.5806451612903225
+interest of the plaintiff,0.6666666666666666
+fact that a special leave petition,0.5
+interest at a higher rate,0.6666666666666666
+same amount from the income,0.5
+judgment in canos,1.0
+wagh,0.5
+entry,4.707210447678601
+partnership busines,0.6666666666666666
+deal with the question,1.0
+sic,1.1611481056257176
+items with simple interest,0.5
+wrongful use,0.5
+force,1.6009408121948314
+practical fruit,0.5
+justice of ap,0.6666666666666666
+behalf of the plaintiffs,1.0
+property,2.9368986630013745
+unamended provision,2.5
+suit,2.485274378207659
+kaushalya,1.0
+such other relief,0.5333333333333333
+mesne profits,18.5
+payable in terms of the decree,0.5
+balance,0.9863636363636363
+law,3.538923411654744
+observation,0.7625074854374218
+institution of suit till date,0.5
+kodanad,1.0
+plaintiff,2.177926421404682
+present,1.9747480780089475
+such earlier date,0.5
+amendment of section,2.3
+learned counsel for the respondent,1.507936507936508
+leaf,0.1462333825701625
+items,1.0672246220302377
+res-judicata,0.0
+material on records,0.5
+lrs,0.46643518518518523
+purchaser,2.017857142857143
+accounts of the partnership firm,1.0
+proper in the circumstances,0.8333333333333334
+same amount,0.40634920634920635
+same financial year,0.5
+par,7.011805363704756
+laxmi wool store,0.5
+refund,2.670692431561997
+death of pravinlal till separation,0.5
+present case mesne profit,0.5
+neelgiris,0.5
+nationalised bank on commercial transactions,0.5
+certain finding on the basis,0.0
+workers to the plaintiff,0.5
+wool store,0.5
+addition,1.5588539142412572
+kodanadu,0.5
+joint,1.0091324200913243
+advances,0.6333333333333333
+application,2.3322596088086445
+rates,0.9535092413452435
+april,0.8928235149629509
+- rate profit,0.0
+other relevant facts,0.4444444444444444
+share vi,0.0
+other co - owners,0.0
+procedure deals,0.75
+civil revision application,1.25
+reading,0.9004509191814082
+enhanced interest at the bank rate,0.5
+illegality,0.8076923076923077
+due share,0.5
+profit,3.0739182692307687
+reasonable in the facts,0.6666666666666666
+cent,2.4795666588956498
+demand of payment,0.5
+i determination of quantum,0.5
+question in controversy,0.0
+asset of the firm,0.0
+closing,0.8636363636363636
+submission,1.0913871684001404
+surviving partner,1.0
+periodical that the firm,0.5
+pravinlal vithalda,2.0
+add,1.784477084023226
+award of mesne profits,1.0
+second defendant,2.0
+detail,0.9737454684220567
+difference,0.8774847235514982
+period,1.9480170842427122
+ancillary buildings,0.5
+such other reliefs,0.75
+annual return from the property,0.5
+recent decision of this court,0.8
+share in the bengorm tea estate,1.5
+constitution,3.204842342342342
+addition to any interest,0.5
+pro-rate profit to the extent,0.0
+othep,0.5
+circumstance in support,0.0
+appellant before the high court,1.0
+club expenses,1.0
+undertaking,2.8508771929824563
+auction amongst the parties,0.5
+sum amount,0.5
+gratuity liability,0.5
+trial judge,2.6666666666666665
+granted relief in favour,0.5
+mesne profit on which interest,0.0
+personal expenses of the defendants,0.5
+from m  s,0.0
+correctnes of the impugned judgment,0.0
+gratuity deposits,0.5
+dwarka prasad agarwal,12.0
+relief in respect,1.0
+lump,0.5384615384615385
+which high court,0.5
+praful,1.0
+para of the plaint,0.5
+suits,1.0993657505285412
+only r,0.6858422939068101
+plaintiff - respondent,0.0
+before amendment of section,0.5
+favour of the plaintiff respondent,1.0
+various ground,1.0555555555555556
+partnership,4.92929292929293
+plaint relate to award,0.5
+appellant in these appeals,0.0
+term of the above judgment,0.0
+reasonable rate,0.6666666666666666
+defendant no,4.222222222222222
+october,0.9478375701551667
+enforcement of the amended provision,0.5
+total amount by way,0.5
+bengorm nilgiri plantations company,0.5
+reasonable on such principal sum,0.5
+old firm,0.5
+correction,0.7676767676767677
+wool,0.48979591836734687
+leviable on the amount of mesne profits,0.5
+v iva,0.3333333333333333
+years on an average,0.5
+late,2.9930933606465375
+account of the fact,1.0256410256410258
+earlier order,1.625
+prayer of the plaintiff,1.0
+premise,1.2347417840375587
+share of the parties,0.0
+less dtp loan r,0.0
+gratuity,2.9
+entries in the books,1.0
+partnership article,0.5
+payable rs,0.0
+suppression as regard,0.5
+neighbouring tea estates,0.5
+well - known principle of valuation,0.0
+reason,2.6381270903010035
+mesne profits on which interest,0.5
+submission of mr  ramamoorthy,0.0
+deals,1.3395407335280751
+operation,1.0959893294085181
+respect thereof,1.0666666666666667
+decision on the question,1.6
+life,1.3352928273744242
+impugned judgment of the high court,1.0
+year on an average,0.0
+subject matter of civil revision application,0.5
+respondents  defendant,0.0
+full fledged appeals,0.5
+matter from another angle,0.6666666666666666
+club expense,1.0
+scope of powers,0.6666666666666666
+principal sum,1.5
+earlier date,0.6000000000000001
+shares,3.3129411764705883
+anil,1.1751552795031055
+hand of a successor,0.0
+till realisation,3.5
+proceeding,2.1298245614035087
+tea from the tea estate,0.5
+contention of mr  naik,0.0
+regard quantification,1.0
+decree for accounts,4.5
+profit for the period,0.5
+further interest at such rate,0.5
+vallabhdas,0.5
+judge,2.9012627415183325
+other prayers,0.3333333333333333
+appeal before the high court,1.1875
+high court under para,0.5
+final decree proceeding,1.0
+share of mesne profits,1.5
+firm s continuous business,0.0
+interest wef,0.5
+report in the high court,0.5
+benefit of the business,0.5
+conclusion,1.3883437407077015
+hands of a successor,0.5
+client,2.2968505695778423
+general account,0.2692307692307692
+final decree,14.25
+matte,2.8064635761589405
+goodwill of the firm,1.0
+adjustment of admitted liability,0.5
+dtp,0.1846846846846847
+questions,0.9979150871872632
+fledged appeals against the judgment,0.5
+affair of the tea estate,0.0
+pradesh administrative tribunal order,0.5
+credit of late pravinlal madhavni,0.5
+leaves,0.6983075791022811
+onward,0.6182170542635659
+interpretation of article,0.75
+circumstances,1.3944461370073231
+decree in any suit,0.5
+nationalised banks,2.8333333333333335
+permitted amendment,0.5
+amendment of pleadings,1.0
+same stands,0.75
+learned counsel for appellant,1.0
+high court,7.7477477477477485
+valuable assets,0.5
+learned counsel for the appellant,1.7884615384615385
+busines in plantation,0.0
+stores,0.7275985663082436
+jurisdiction,2.9539571926331507
+trial,3.7979448350459712
+finding of the trial court,1.0
+time of institution,0.5
+manu,7.078142071124147
+concern,2.0544958000579303
+for any part of the loss,0.5
+plaintiff in this behalf,0.5
+cistern concern of the defendants,0.5
+initial stage of the litigation,0.5
+mere chance,0.6666666666666666
+books of account,3.3
+ramnik,1.0
+decree for partitions,1.0
+respect to the payment,0.5
+second year,0.5
+encumbrance,3.142857142857143
+worker to the plaintiff,0.0
+health,0.8632619439868204
+share v,0.5
+civil procedure deals,0.6666666666666666
+in the fact,0.7692307692307693
+tribunal,5.07183212267958
+computation,1.3021653543307086
+buildings,1.3041267942583734
+naik,1.164021164021164
+sum,2.554898897856461
+compensation,3.7916666666666665
+share of the purchase money,0.5
+applications in terms,0.5
+terms of the decree,1.5
+stock,1.0778270324523251
+in the present case,1.3486005089058526
+quantum of mesne profits,1.0
+yearly basis at the rate,0.5
+assets,2.6879084967320264
+profit on that one - third share,0.0
+nil profit toward,0.5
+quasi arbitrator,0.5
+principal act,6.571428571428571
+advantage of the amended provisions,0.5
+england,0.9336071184120466
+courts,2.1216528162511543
+medical practice,0.27956989247311825
+hotel,0.8866352770735241
+inherent lack,1.0
+bangorm,0.5
+due for the period,0.5
+code,2.880559796437659
+chance of probability,0.5
+third stage ie,0.5
+preliminary hearing,0.6666666666666666
+investments,1.7287581699346406
+revision,1.6299226441631505
+due by way of mesne profits,1.0
+reasons,1.3749054007567938
+terms,2.390350840909655
+sale proceed,2.4166666666666665
+subject matter of different civil revision applications,0.5
+adjustments,0.4856321839080459
+auditor,1.169230769230769
+first respondent,4.575757575757576
+argument of the appellants,1.0
+- will,0.0
+madras,2.836734693877551
+quantum of yield,0.5
+travel expense,0.2222222222222222
+planation,1.438489726475592
+pro-rata basis,0.0
+more than rs,1.3333333333333333
+ors,2.8612718198296623
+medical practitioners,1.1666666666666667
+partnership firm because the firm,0.5
+basi of books,0.0
+total amount,0.5333333333333333
+nullity,1.8235294117647058
+part,5.294464509893076
+ramamoorthy,2.0
+litigation,1.4968553459119498
+vallabhda,0.5
+interest at the bank rate,0.5
+court on the basis,1.0666666666666667
+plantations co in the books,0.5
+year to year basis,0.75
+onwards for a period,0.5
+reserves,0.9127659574468084
+aspect,1.2449448189023034
+absence of contrary agreement,0.5
+shri,2.0759135877246115
+proprietary interest in the estate,0.5
+same rate,1.1818181818181817
+decretal amount,2.3333333333333335
+matters of accounts,0.5
+period from the date,1.5
+terms of the provisions,1.4782608695652173
+term of the decree,0.0
+round of litigation,1.8
+real question in controversy,0.0
+determination,1.5980374665477253
+basis of books,0.5
+opinion that the entries,0.5
+decree for partition,2.0
+land,6.337534028705619
+vithalda,1.5
+business in plantation,0.5
+bounds,0.5730994152046784
+amount from the income,0.5
+than the total amount,0.5
+appellants against the final decree,0.5
+obligations,0.9121212121212122
+respondent - plaintiff,0.0
+basis that the annual return,0.5
+code of civil procedure,5.5636363636363635
+defendants,2.3554376657824934
+wrongful use of the property,0.5
+quantum of mesne profit,2.5
+following items,0.25641025641025644
+style everything,0.5
+mesne profit after the death,0.0
+reasonable return at the rate,0.5
+services,1.6850241065659326
+panipat,0.5
+change in bank rate,0.5
+kunhayammed,0.6666666666666666
+payable to the plaintiff in the suit,0.5
+pursuance,1.543859649122807
+appointment,3.1380281690140843
+periodical balance sheet,0.5
+other prayer,0.3333333333333333
+on account of mesne profits,0.5
+circumstances in support,0.5
+enforcement,0.7354220499569336
+profits on that one - third share,0.0
+respondents  defendants,0.0
+halsbury s laws,0.0
+effect,2.184583388478191
+deposits,0.8739495798319328
+share in bengorm estate,1.0
+respondent in reply,0.5
+delivery,1.3054726368159204
+rest,3.3424534062537377
+unlawful for a medical practitioner,0.5
+year basis,0.75
+objection that the writ petition,0.5
+closing stock,1.0
+such expense,0.75
+mesne profits on that one-third share,0.0
+final figure r,0.5
+express assignment of the goodwill,0.5
+that one-third share,0.0
+that award,1.2222222222222223
+fourth edition,0.45112781954887216
+partnership firm with interest,1.0
+judgments,1.2355646397547266
+consequence,0.8726692512593296
+continuous business,0.5
+free from all encumbrances like gratuity liability,0.5
+prayer in the plaint,0.0
+mesne profits after the death,0.5
+place,2.333104345208554
+life time,0.4
+opinion of brother arun kumar,0.5
+plaint stand,0.5
+following term,1.6170212765957446
+administrative tribunal order,0.5
+loan in view,0.0
+impugned award of interest,0.5
+account of dissolution,0.5
+quasi arbitrator although the law,0.5
+court under para,0.6666666666666666
+whole advantage belonging to the firm,0.5
+regard quantification of the mesne profit,0.5
+sale of tea,0.5
+issue,2.766776251628934
+stood,1.0434207261599535
+arguments of the appellants,1.0
+regard to the nature,1.0
+similar business,1.6666666666666667
+plaintiff for the user,0.5
+learned counsel for the defendants,0.5
+pravinlal madhavni,0.5
+irregularity,2.0
+gains,2.5197995467213867
+several judgments,1.0
+earlier occasion,1.0
+method,0.9027027027027026
+mesne profits at a rate,0.5
+year basi,0.75
+application in terms,0.5
+part of the loss,0.5
+dtp loan rs,0.0
+petitioner,4.524972253052164
+pleader,1.6666666666666667
+judgment of this court,2.1029411764705883
+orders,1.4936359300077826
+common judgment,1.3636363636363635
+share therein,0.5
+tea plantations company to the bangorm firm,0.5
+new plea,0.45000000000000007
+brand name,3.876190476190476
+basis of balance sheet,0.5
+than a mere chance of probability,0.5
+payments,1.0129870129870129
+grounds,0.9540208829455945
+balance r,0.3333333333333333
+plaint in which decree,0.5
+report of the commissioner,0.6666666666666666
+ground,1.4186722903211633
+other relief,0.6666666666666666
+sale to a partner,0.5
+finding on the basis,0.5
+crediting profit for the period,0.5
+agarwal,7.8125
+drawings,1.2767857142857144
+head at the rate,0.0
+share of profit,0.5
+total of mesne profits,0.5
+liability towards gratuity,0.5
+expense of the defendants,0.0
+question of amendment,0.5
+figures,1.023593964334705
+bungalow,0.6666666666666666
+article,4.378806157159795
+arbitration,11.242690058479532
+cent under the unamended provisions,0.5
+infirmity in the judgment,0.75
+respective first respondent in ca,0.5
+final decree in the following terms,0.5
+assets of the firm,1.5
+decretal amount at the rate,0.5
+heads,0.7896459995907509
+opinion,1.4960606342789635
+suggestions,0.7508630609896433
+question of interest,1.6666666666666667
+purchase money,0.5
+travel,1.0699727250185966
+principle of res judicata,0.8
+limine,1.3636363636363635
+defendants in the suit,0.4
+inclusion,0.9738480697384807
+paras of the plaint,0.5
+scope,0.8412698412698413
+laws,1.4186274337269533
+respect to the award,0.5
+yearly basis ie,0.5
+november,0.7203359669727383
+workers,1.9961977186311788
+balance sheet,1.3333333333333333
+suit on enquiry,2.0
+successive year,0.5
+particular brand,0.2647058823529412
+respect,2.6704963235294117
+periodical balance sheets,0.5
+pravin,4.190476190476191
+plaintiffs,1.2549019607843137
+reasonable rate of interest,1.0
+much before amendment of section,0.5
+pure question,1.125
+share ix,0.0
+pendency of the litigation,0.6666666666666666
+initial stage,0.5333333333333333
+joint family property,0.75
+forms part,1.1
+lump sum amount of rs,0.5
+amended pleading,1.0
+payment of such compensation,0.5
+reasoning,0.6478937381404174
+bansal,1.6666666666666667
+mode of the calculation,0.5
+husband,1.6418918918918919
+annum,2.25
+guha,0.45000000000000007
+stand,1.8422769621739425
+due from ms,0.5
+receivers account,0.5
+amount of goodwill,0.5
+- applicability of the amendment,0.0
+points,0.7095682483711788
+levy of interest,0.5
+genuinenes,0.8142857142857144
+other interlocutory application,1.0
+less towards firms tax rs,0.0
+punjab,1.0438169425511197
+dtp loan r,0.0
+nationalised banks on commercial transactions,0.5
+j ca,0.8139534883720931
+cogent reasons,1.0
+paragraphs,0.9552238805970149
+regard to the rights,0.5
+independent material,0.5
+part of the judgment,1.0
+details,0.9406426856198188
+accordance with rule,1.3333333333333333
+enquiry,2.145762711864407
+insistence,0.5
+goodwill of the tea estate,0.5
+whole amount,0.6666666666666666
+family member,1.0924657534246576
+high court on these matters,0.5
+in commercial field,0.5
+separate possession thereof,1.0
+sons,2.7457346002031446
+september,0.8548484848484849
+corrections,0.3355263157894737
+view that an illegal decree,0.5
+chief justice,4.684210526315789
+adjustment,0.6982649174777825
+value of the business,0.5
+cogent reason,1.25
+subordinate,1.43
+institution,2.7327010745685443
+first stage,0.39375
+accordance,1.4069045211613462
+partnership articles,0.5
+tea plantations company sands,0.5
+payable to the respondent-plaintiff by the appellants,0.0
+present appellant,1.3333333333333333
+compulsory retirement,4.285714285714286
+division bench of the madras,1.0
+hereby,0.9937897922972551
+paise in pursuance,0.5
+profits on yearly basis ie,0.5
+bengorm firm,1.5
+such rate,1.5454545454545454
+different civil revision application,0.5
+appeals,1.7060218112849692
+receivables,0.25
+appeal before this court,0.9166666666666666
+february,0.8575630252100839
+partition,0.8877551020408164
+operation in the portion,0.0
+ramnarayan,0.6666666666666666
+will,1.9263907124198036
+thereon,0.877037037037037
+name,1.8996570753072433
+toward,1.0255939365170768
+till date of realisation,1.0
+suggestion of the parties,0.0
+other companies like kodanadu estate,0.5
+members,1.9437616522164103
+account,2.5754891049671977
+accountants,2.5000000000000004
+course of hearing,1.0476190476190477
+that jurisdiction,1.0
+purchase,3.239871541501976
+due to the plaintiff at the end,0.5
+specific bar,1.0
+rest of the prayers,0.5
+provisions of unamended section,0.5
+prayer,0.6969296987087519
+factory,1.1501182033096926
+note thereof,0.5
+purpose,2.519170317925504
+trial court,3.854545454545455
+proceeds,1.083011583011583
+koshipathi,0.5
+several judgments of this court,0.6666666666666666
+way of example,0.75
+that purpose,0.609375
+retired judge,1.4545454545454546
+time,2.4764180952862667
+acres of land wherein pravinlal,0.5
+sand,0.5956187194946885
+appeal against the preliminary decree vide judgment,0.5
+powraj chemical,0.5
+auction,4.7739938080495365
+sum of rs,2.125
+further claim,0.5333333333333333
+part of the tea estate,0.5
+aforementioned situation,1.4545454545454546
+question of legality,0.4444444444444444
+such profit,4.666666666666667
+small item,0.26666666666666666
+kodanadu estate,0.5
+paise wef,0.5
+proper rate of interest,0.5
+tea company,5.666666666666667
+several foreign trips,0.5
+drawing,0.648159645232816
+right,3.07483248288682
+contested issues,0.5
+that extent,0.8888888888888888
+method of calculation,0.6666666666666666
+appeals before this court,0.75
+affairs of the tea estate,0.5
+difference of receivable,0.5
+other relevant fact,0.5833333333333334
+shape,0.4645522388059702
+mr ramnik,0.5
+absence,1.092363454568179
+type,0.8102172691515265
+counsel,2.2246780703440323
+predecessor,0.9857142857142858
+further interest,0.6666666666666666
+appearance,0.531740614334471
+president under article,0.5
+well - known principles of valuation,0.0
+rules,3.130914366958792
+certain findings on the basis,0.5
+decree proceeding,1.0
+profit on yearly basis ie,0.0
+commercial transactions from time,1.5
+that dismissal,0.75
+matter of civil revision application,0.5
+book of account,0.0
+run,1.061635248797611
+institution of the suit,1.5
+inland,0.525
+son,4.595622484812135
+dispute,2.402137592137592
+disposal,1.1180555555555556
+legal aspect,1.0
+effect that the defendant,0.5
+capital value of the entire tea estate,1.0
+fledged appeals,0.5
+trial court in terms,0.6666666666666666
+higher profit,0.5
+tea company to the bengorm firm,0.5
+sister concern,2.0
+madhvani,3.5
+shape of the right,0.5
+cano,0.5102880658436214
+circumstance of the case,0.5
+question as regard quantification,0.5
+rate ie,0.4
+case,7.332269420884958
+error,1.059158294766151
+reasonings of the high court,0.5
+example,0.5893965031020868
+green leaf,0.0
+affair,0.8341728395061728
+- by way of mesne profits,0.0
+prayer in para,0.5
+than the amendment,0.5
+court on an earlier occasion,0.6666666666666666
+machaghten,0.5
+whole advantage belonging,0.5
+old customer,1.0
+firm name,1.0
+manifest error,1.6666666666666667
+gratuity deposit,0.5
+interest to the return,0.5
+balance rs,0.5
+preliminary objection,1.3125
+statements,1.110873440285205
+amendment application,1.3333333333333333
+contention,1.666391070690368
+sisters,0.6034482758620691
+findings on the basis,0.5
+auction amongst the party,0.0
+inter alia,1.3280423280423281
+total rs,0.5
+arbitrator,13.860000000000001
+personal gift,0.5
+appellate jurisdiction,2.769230769230769
+amount i d,0.0
+bench,2.5793391667754992
+jermons,0.5
+principal sum for any period,0.5
+plaintiff in relation,1.0
+pro-rata basi,0.0
+leave,1.0147842365477848
+slp,1.291953447628582
+item with simple interest,0.0
+trained workers,0.5
+brother arun kumar,0.5
+quantum,0.8922235363690124
+a thing,0.5305555555555557
+interest on such principal sum,0.5
+court inter alia,1.2
+bank of india,5.333333333333333
+matter of accounts,1.0
+notice,2.3300025999395686
+high court inter alia,1.0
+district judge,2.1684981684981683
+decision of the high court,1.24
+interest thereon at the rate,1.0
+dissolution,2.888888888888889
+well - known principles,0.0
+figure,1.2881717501815544
+cistern concern,0.5
+loan amount,2.0
+materials,1.1534090909090908
+per annum wef,0.5
+respect to rate,1.5
+receivable,0.875
+proportionate costs,0.5
+onwards,0.625668449197861
+instant case,2.0631578947368423
+lakh,1.3647388059701493
+which mesne profit,0.5
+plaintiff to the workers,0.5
+high court inter alia on the ground,0.5
+interest at the rate,2.3
+willingnes,0.7818181818181819
+report of the commission,1.0
+leacial petition,0.5
+rajnikant,0.6666666666666666
+question of determination,0.6666666666666666
+entire produce,0.5
+civil appeals,1.24
+share iv,0.0
+retired high court judge,1.4285714285714286
+such interest,0.5833333333333334
+counter claim therefore,0.5
+share of pravinlal vithaldas,1.0
+value,1.7137907830478438
+devi,1.2339221178171305
+illegal gains,1.0
+such principal sum,1.5
+clear illegality,0.5
+customer,1.993717277486911
+reply,1.0337305560040906
+year to year,1.5238095238095237
+inland revenue commissioner,0.75
+res,10.359704275735774
+present appellants,1.1
+shares of the parties,0.5
+anil r deshmukh v onkar,0.5
+loss account,3.5
+crops,1.3846153846153846
+interest in the plaint,0.5
+subsisting,2.848484848484848
+pursuant to a provision,0.5
+reasonable opportunity to the opposite party,0.5
+bengorn,0.5
+argument,0.9504580388560493
+permitted interest maximum,0.5
+case mesne profit,0.5
+produce,1.7202617328519856
+silent with respect to the payment,0.5
+hand,2.0299623418254717
+necessary step,0.7017543859649122
+mesne profit on that one-third share,0.0
+payable by way of mesne profits,0.5
+tea plantation company,1.0
+entire estate,1.0
+busines,2.8488759960122034
+proportionate cost of the suit,0.0
+appellant,14.387096774193548
+madra,2.836734693877551
+expenditure,2.804307692307692
+preliminary decree,11.2
+memo,1.4242074188165834
+different civil revision applications,0.5
+bahu v lala ramnarayan,0.6666666666666666
+suit claim,0.8888888888888888
+matter of different civil revision applications,0.5
+return at rs,1.0
+materials on records,0.6666666666666666
+outgoing partner,1.5
+from all encumbrances like gratuity liability,0.5
+infirmity,1.3095238095238095
+central,2.61875
+rate,3.088725136774248
+net amount,0.5
+view of the specific bar,0.5
+unamended provisions,2.0
+profit during the period,0.5
+share in the capital assets,0.5
+commercial field,0.5
+report before the high court,0.5
+term of the provisions,0.0
+such contested issue,0.5
+real brother,0.5
+sister concerns,1.0
+recent decision,0.9
+sole executor,0.5
+view of sections,0.8
+to the respondent - plaintiff by the appellants,0.0
+serious controversy,0.5
+admitted liability of pravinlal,1.0
+basi of amended section,0.0
+term  goodwill  signify,0.0
+situation,1.1254754682459434
+amendment of plaint,1.6666666666666667
+observations,0.7454584147497534
+return from the property,0.5
+attention,0.8724846605528799
+administrative,1.85302734375
+different angle,0.5555555555555556
+pravinlal towards the partnership firm,0.5
+petitioner  plaintiff,0.0
+business in the name,0.5
+date of delivery,0.5
+following reliefs,1.2
+receivers,0.3116883116883117
+capital asset,0.6000000000000001
+amended pleadings,0.5
+spares,0.888888888888889
+nilgiri plantation,2.5
+worker,1.9239190944516609
+bengorm tea estate,3.0

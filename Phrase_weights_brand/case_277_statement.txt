@@ -1,0 +1,610 @@
+findings,1.049571253572887
+court in the case,1.3333333333333333
+appellant rameshwar prasad choudhary,1.0
+government,3.5583785424010483
+week from the receipt,0.0
+field verification,1.5
+order of the hpcl,0.5
+aforementioned decisions,0.6666666666666666
+locations,0.46341463414634143
+mind,1.1559066143122394
+lpg distributorship by the hpcl,0.5
+names of the mother,0.5
+viz,0.7732570026579433
+filing,1.1274190041313328
+reasons,1.3749054007567938
+neetu,0.5
+terms,2.390350840909655
+merit panel,1.5
+fixed deposit receipt after the last date,0.0
+exercise of a statutory authority,0.5
+deposit receipt with regard,0.0
+statutory authority,1.2105263157894737
+court,12.24425115501509
+name of mother,2.5
+candidature,1.4444444444444444
+declaration,2.152560083594566
+demerit,0.5
+aspects,1.0997620069447154
+suppression of material fact,0.5
+eye,0.9466574319441098
+at this stage,0.7272727272727273
+hesitation,0.5405405405405406
+in law,1.1088664421997756
+other authority,1.0666666666666667
+single judge,4.011627906976744
+person,4.291511329454258
+connected appeals,1.0
+correctness,0.8404159132007234
+receipts,1.884057971014493
+gross violation,0.4083333333333333
+lpg,1.6639344262295082
+fide mistake,1.0
+legal contention,2.230769230769231
+false information,0.5333333333333333
+writ petitioner,4.482758620689655
+coal,0.78125
+condition in the advertisement,0.6666666666666666
+bombay,2.3134020618556703
+verification of the information,0.5
+leave petition no,1.0
+selection as lpg dealership,0.5
+aspect,1.2449448189023034
+district,1.5506763074237984
+decisions,1.3888475974580996
+correct information,1.2000000000000002
+decision,2.9514937765898557
+respondent hpcl,1.0
+aforesaid,2.592896174863388
+application in response,0.5
+married personapplication,0.5
+joint name,1.0
+claim,2.817264601856604
+correctnes,0.8404159132007234
+main panel list,0.5
+appeal,3.4125488033856883
+cancellation,1.677272727272727
+evaluation,0.7358156028368795
+fact situation,1.3333333333333333
+conditions of the selection,0.5
+appellant to the fact,0.5
+counter statement,1.0
+stage,1.1298537871524448
+learned single judge,3.4935064935064934
+photocopy of the fixed deposit receipts,0.0
+informations,0.3298245614035088
+correctness of the removal,0.5
+demerits,0.5
+rival legal contention,1.75
+judgment,3.288216560509554
+absence of specific grounds,0.5
+regard to the principles,0.5
+bad in law,1.4285714285714286
+name of the appellant,1.7142857142857142
+government of bombay,0.6666666666666666
+subject,2.4420366233344897
+services,1.6850241065659326
+guidelines of the brochure,0.5
+order,5.472481489660944
+disqualification from consideration,0.5
+view of the re-evaluation,0.0
+inability,0.7162534435261708
+appointment,3.1380281690140843
+date of submission,0.8
+weeks from the receipt,0.5
+explanation,1.4510159010600707
+major discrepancy,0.0
+unmarried sister,1.5
+clear that public orders,0.5
+court in ap,0.9166666666666666
+effect,2.184583388478191
+copy,0.8620926631522174
+support of the proposition,0.8333333333333334
+patna,2.3421052631578947
+pendency,1.0084033613445378
+counsel for the parties,1.263157894736842
+list,4.014941314095513
+specific grounds,0.6666666666666666
+catena,0.5013888888888888
+inadvertence,1.0
+mother,1.5057341472881893
+member,2.649111111111111
+appellant s name,0.0
+parties,1.8210828547990157
+joint name of the mother,0.0
+actings,0.30000000000000004
+misrepresentation,0.7240740740740741
+information in the application,0.5
+appellant from the merit panel,0.5
+version,1.0500313479623824
+writ of mandamus,2.642857142857143
+condition,2.259476395625584
+legality of the cancellation order,0.5
+statement of law,1.0
+place,2.333104345208554
+officers,2.442124212421242
+finding,1.8129183657767178
+various legal contention,1.2
+regard to the information,0.5
+appellant herein,2.046153846153846
+judicature,1.4210526315789473
+regard,2.723310344827586
+evaluation of all aspects,1.0
+discrepancy,0.6097560975609757
+certain observations,1.1111111111111112
+knowledge,1.1120671641791045
+distributorship of the appellant,0.5
+cancellation of the candidature,1.0
+photocopy,0.52
+her spouse,2.2
+new principles,0.75
+fault,0.8125244007183572
+facts,1.4696673624372698
+issue,2.766776251628934
+para,2.300239586747483
+support of the contention,1.0
+cancellation by the commissioner,1.0
+that public orders,0.5
+family unit in case,0.5
+parents,1.8852093189324288
+july,0.9742727723122656
+basi,2.0752712086391383
+form,2.4865961263718424
+traceable in the order,0.5
+panel list,0.5
+sonsdaughter,0.5
+re - evaluation,0.0
+major discrepancies during the field verification,0.5
+pursuant to the advertisement,1.0
+appellant herein ie,0.5
+correctness of the common judgment,0.5
+senior,1.989753211141579
+candidate,6.356675392670156
+benefit,2.604810195438474
+rectification,0.38095238095238093
+rejection of the name,0.5
+other applicant,0.30000000000000004
+petitioner,4.524972253052164
+fixed deposit receipt with regard,0.0
+orders,1.4936359300077826
+common judgment,1.3636363636363635
+basis,1.953226441078104
+incorrect information,1.1111111111111112
+deposit amount,0.75
+catena of cases,0.8333333333333334
+advertisement,1.5480769230769234
+public order,1.6666666666666667
+hpcl officers,0.5
+cwjc nos,1.0
+applicants,0.6960950764006791
+grounds,0.9540208829455945
+regard to the fdr amount,0.5
+deposit,2.1724508050089444
+hence,1.1440732910500353
+officer,3.1197242647058823
+venkateswarulu,0.5
+deposit receipts,2.0
+appellant in the connected appeals,0.5
+ground,1.4186722903211633
+hajipur district,0.5
+definition of the  family unit,0.0
+lpg distributorship at hajipur district,0.5
+eyes towards the new principles,0.5
+impugned judgment,2.0927152317880795
+photocopies,2.3333333333333335
+new ground,0.4444444444444444
+field,1.5820968371729793
+matter,2.8088923076923082
+person  applicant,0.0
+fixed deposit receipts after the last date,0.5
+public effect,0.5
+scrutiny,0.912987012987013
+court in bsn,0.5
+term,3.6255105640901575
+applications,1.0021816198527407
+subsequent field verification,0.5
+view,2.441100058469462
+post,2.344803646492219
+relief,1.4748116760828625
+verification,0.9934640522875817
+connected appeal,1.2
+writ petition of the appellant,0.5
+merit,1.2419290263876248
+prasad choudhary,1.5
+mandamus,3.0
+copy of this judgment,0.875
+post - office,0.0
+correctnes of the findings,0.0
+bsn,0.30769230769230765
+last date for submission,1.0
+hpcl,4.800000000000001
+unit,2.176678509944691
+rival legal contentions,1.75
+result,1.3356630184144715
+officials,1.3691666666666666
+cwjc no,2.0
+joint name of mother,0.5
+record,2.5393414390845273
+receipt of this order,0.75
+information,1.1320502836800534
+power of general relaxation,0.5
+division bench of the high court,1.6825396825396826
+application form,0.6666666666666666
+merit position in the merit panel,0.5
+name of neetu kumari,0.5
+vague allegation,0.5
+cancellation of candidature,0.5
+guideline,1.5641711229946524
+pressure,0.6730769230769231
+support,0.8630946786249609
+disqualification,4.761904761904762
+leave petition nos,0.5
+joint names of the mother,0.5
+other statements,0.6666666666666666
+heard,0.782882203033377
+fact,3.6284951019474962
+case of unmarried personapplicant,0.5
+removal,0.7204301075268817
+learned counsel,3.703333333333333
+deposit receipts with regard,0.5
+violation of terms,0.5
+declarations,0.9411764705882353
+writ petition letter of intent,0.5
+bothers,0.25
+department,1.9858367499068206
+specific ground,1.0
+name of the mother,0.5
+vague allegation that the statement,0.5
+false declaration,0.5
+reasoning,0.6478937381404174
+gross violation of terms,0.5
+prasad,1.1407089151450054
+vaishali,1.0
+other statement,0.4
+impugned order,2.265957446808511
+factual aspect,1.0714285714285714
+technical ground,0.7936507936507936
+relevant factual aspects under the order,0.5
+division bench with reference,0.5
+brief facts,1.0
+petroleum corporation ltd,1.0
+light,0.8816192372754331
+appellant herein by the respondent hpcl,0.5
+lpa,0.9672836569649268
+affidavit,2.2996987951807224
+public service commission,3.7857142857142856
+exercise,1.9400726466785694
+law that the court,0.8
+principle,1.9620890732001848
+paragraphs,0.9552238805970149
+appeal of the appellant,0.8888888888888888
+that public order,0.5
+party,2.2250894654439723
+review,1.3564101463582128
+definition,1.6460425937698666
+respondent herein,1.8936170212765957
+aforementioned decision,0.8333333333333334
+guideline of the brochure,0.0
+proposition,0.6371087928464977
+necessary at this stage,0.6666666666666666
+hpcl in the writ petition proceedings,0.5
+certain observation,1.1111111111111112
+selection for lpg distributorship,0.5
+general relaxation,0.5
+enquiry,2.145762711864407
+suppression,1.1538461538461537
+hpcl for disqualification,0.5
+sustainable by this court,0.5
+koneti,0.5
+discrepancies,0.9195402298850575
+writ petition letter,0.5
+service commission,5.142857142857143
+reliance upon the judgment,1.2857142857142858
+chairman,1.3592677345537758
+rameshwar,1.3333333333333333
+meena,0.3365384615384615
+cancellation of the name,0.5
+family member,1.0924657534246576
+division bench,3.965217391304348
+date,6.195616975795285
+new lpg distributorship at hajipur district,0.5
+sons,2.7457346002031446
+public authority,1.4444444444444444
+reference,2.1755848210276256
+sister,1.0774703557312253
+impermissible in law,1.2222222222222223
+respondent,4.757894736842104
+consist,1.0784032265563253
+mandamu to the hpcl,0.0
+cancellation order,1.6666666666666667
+principles,1.3198511166253102
+photocopies of the fixed deposit receipts,0.5
+major discrepancy during the field verification,0.0
+vigilance department,0.6666666666666666
+scmanu,7.940520446096654
+essential condition,1.0
+writ,2.8882378560889794
+appeals,1.7060218112849692
+hereinbelow,1.0
+amount,3.179688593072295
+statement,2.5393160135035964
+parent,0.9965655833245622
+letter of intent,1.75
+relevant brief fact,0.5
+subject to verification of the information,0.5
+merit panel on the basis,0.5
+name,1.8996570753072433
+gordhandas bhanji,1.0
+hpcl s officers,0.0
+fdr amount,0.5
+deposit receipt,1.5
+commissioner s affidavit,0.0
+high,5.367119186841496
+fdrs,2.0
+gupta,0.7610062893081762
+reference to the language,0.5
+other applicants,0.3333333333333333
+brief fact,1.0
+merit list on evaluation,0.5
+order of cancellation,1.0
+by this court,3.113861386138614
+hindustan petroleum corporation ltd,1.0
+purpose,2.519170317925504
+gordhandas,1.0
+law,3.538923411654744
+vague ground,0.5
+english,0.9836154262307752
+nos,1.2635492554198444
+subsequent stage,1.0
+observation,0.7625074854374218
+time,2.4764180952862667
+cases,1.9728229418951067
+division,1.7657319129617017
+week from the date,0.6666666666666666
+mandamu,3.0
+rejection,0.7335907335907336
+sahara,0.375
+sonsdaughters,0.5
+allegation,1.834319526627219
+to the interview,0.5
+learned counsel for the respondent,1.507936507936508
+issuance,1.05379513633014
+public orders,1.0
+officials of the hpcl,0.5
+appellant ie,0.75
+benefit of appointment,0.5
+challenge in these civil appeals,0.5
+special leave petition nos,0.5
+principle of strict compliance,0.5
+successful candidate,1.6666666666666667
+correctness of the findings,1.0
+hpcl officer,0.5
+fixed deposit receipts with regard,0.5
+reason in the counter statement,0.0
+lpa nos,0.5
+pursuant to the application in response,0.5
+rameshwar prasad choudhary,1.5
+merit list,5.0
+unmarried son,1.3333333333333333
+to the application in response,0.5
+absence,1.092363454568179
+factual aspect under the order,0.0
+counsel,2.2246780703440323
+application,2.3322596088086445
+authorities,1.266131845134287
+commission,4.703619179345321
+explanations,0.4655172413793104
+claim of the appellant,1.6666666666666667
+clear that public order,0.5
+principle that the order,0.5
+names,1.766440410418311
+in the order,0.912962962962963
+mistake,0.6870879120879121
+new principle,0.5555555555555556
+eyes,0.4774823657080847
+writ petitioners,3.75
+son,4.595622484812135
+bother,0.40800444691495275
+ltd,2.382356477306883
+submission,1.0913871684001404
+document,1.401100265092073
+results,0.6487493619193466
+joint names,0.5
+conditions,1.9988092071092867
+family unit,0.6666666666666667
+v nair coal services,0.5
+reliance,1.400763358778626
+fdr in the name,0.5
+writ petition before the high court,1.0
+vigilance,0.75
+compliance,1.0029799914857385
+discrepancy during the field verification,0.0
+fdr,1.2083333333333333
+case,7.332269420884958
+favour of the appellant,1.4838709677419355
+emphasi,0.9191619047619048
+annexure,2.7560975609756095
+scc,1.941872465904902
+submission of the application,1.5
+place in the merit list,0.5
+regard to the reasons,0.5
+interviews,0.3765432098765432
+letter,2.707240080105903
+reasons in the counter statement,0.5
+rectification in the fdrs,0.5
+bhanji,1.0
+public authorities,0.5714285714285714
+same reason,0.4496969696969697
+undertaking,2.8508771929824563
+deposit receipts after the last date,0.5
+statements,1.110873440285205
+strict compliance,1.4444444444444444
+division bench on the basis,0.5
+service,4.257395095954566
+fixed deposit receipts,2.0
+therefore,2.960332350576253
+judicature at patna,1.2222222222222223
+contention,1.666391070690368
+allegation that the statement,0.5
+sisters,0.6034482758620691
+relevant factual aspect under the order,0.0
+joshi,0.9259259259259259
+learned single judge of the high court,1.2758620689655173
+lpg dealership,0.5
+proceedings,1.7670925223666287
+favour,1.653145208700764
+her parent,0.9027777777777779
+supra,2.246342614440774
+bench,2.5793391667754992
+appellant pursuant,0.6666666666666666
+interview,1.56113727542299
+violation,1.2087401208740118
+such conditions,0.6545454545454545
+proceedings before the high court,0.8333333333333334
+civil appeal,2.2413793103448274
+correctnes of the removal,0.0
+office,3.5913445886237847
+spouse,1.0202546296296295
+leave,1.0147842365477848
+legality,0.6845938375350139
+applicant,0.7861822513400833
+lpg distributorship,3.0
+removal of the name,0.5
+discrepancies during the field verification,0.5
+cwjc,0.9444444444444444
+attempt,0.7943782192788815
+weeks from the date,1.1428571428571428
+hpcl s advertisement,0.0
+v nair coal service,0.5
+her parents,0.9285714285714286
+prayed,0.5974815458098133
+appellant pursuant to the advertisement,0.5
+shall,3.6283780276816606
+therewith,0.6394230769230769
+power,3.8165227690948367
+location,0.8935109449248265
+relevant factual aspect,0.5
+brochure,0.603864734299517
+merits,0.968421052631579
+mandamus to the hpcl,1.0
+nair,0.5064935064935066
+impugned common judgment,1.0
+communication,1.013409067330636
+reason,2.6381270903010035
+material fact,1.4615384615384615
+deposit receipt after the last date,0.0
+further issue,0.4
+special leave petition no,1.0
+position,1.549133168619177
+furnished information,0.5
+documentation,0.6317254174397031
+writ petition,6.24223602484472
+petition,5.3436539306104525
+guidelines,1.540251572327044
+response,0.7112676056338028
+gordhandas bhanji s case,0.0
+consideration,1.9110153789142115
+factual aspects under the order,0.5
+paragraph,1.2930197483150305
+reasoning of the division bench,0.6666666666666666
+civil appeals,1.24
+distributorship,2.6666666666666665
+fixed deposit receipt,1.6666666666666667
+condition of the selection,0.0
+acting,1.159475440547977
+fault with the action,0.5
+position in the merit list,0.5
+commissioner,2.271608643457383
+major discrepancies,1.0
+documents,1.142515923566879
+appellant on the date,0.5
+unmarried personapplicant,0.5
+subsequent to the interview,0.5
+official of the hpcl,0.0
+legal contentions,2.230769230769231
+order of the division bench,1.1111111111111112
+air,2.0589664272145285
+receipt,1.5471923536439667
+kumari,4.764705882352941
+reason with regard,0.0
+essential conditions,1.0
+exclusive name of the mother,0.5
+family,1.856281506375408
+challenge,1.2204566274399267
+light of explanations,0.5
+such condition,0.6407322654462243
+authority,2.4352627108360636
+judge,2.9012627415183325
+manuscmanusc,7.940520446096654
+conduct,1.5998023165163158
+selection,2.2651528696585017
+last date,1.9285714285714286
+same reasons,0.4137931034482759
+eyes towards the new principle,0.5
+writ petition proceedings,0.6666666666666666
+relevant factual aspects,0.5
+corporation,3.6427750743444176
+petroleum,1.6261261261261262
+exclusive name,0.5
+chairman of the hpcl,0.5
+correctnes of the common judgment,0.0
+conclusion,1.3883437407077015
+various legal contentions,1.2
+weeks,0.8109161793372318
+reasonable time,0.7142857142857143
+incorrect informations,0.5
+dealership,1.2260536398467434
+panel,1.3733381243262668
+neetu kumari,0.5
+choudhary,1.6666666666666667
+pursuant,0.7227692307692308
+relevant brief facts,0.5
+furnished information in the application,0.5
+brief,0.540112172829248
+aforesaid judgment,1.4583333333333333
+exercise of some power,0.5
+hyper technical ground,0.5
+contentions,0.9641025641025641
+hindustan,1.85
+writ petition proceeding,0.6666666666666666
+factual aspects,0.9166666666666666
+appellant,14.387096774193548
+relaxation,0.8571428571428572
+obligation,1.1071428571428574
+week,0.8253498691546249
+senior counsel for the parties,1.0
+own authority,0.30000000000000004
+high court,7.7477477477477485
+married daughter,1.1111111111111112
+application for the distributorship,0.5
+public,2.923239095873367
+daughter,1.0364906832298135
+official,2.6854955160358718
+intent,1.8427075724373023
+appellant from the merit list,2.5
+reasons with regard,0.5
+judicial review,2.64
+manu,7.078142071124147
+language,0.8555828468744352
+merit position,1.3333333333333333
+english version,0.4444444444444444
+emphasis,0.8024289099526066
+meena gupta,0.5
+hpcl s officer,0.0
+intimation,1.105263157894737
+view of the condition,0.5
+gordhanda,1.0
+hajipur,1.0
+lpa no,1.2
+petitioners,3.536507936507937
+bona fide mistake,0.5
+situation,1.1254754682459434
+new lpg distributorship,0.5
+observations,0.7454584147497534
+ltd manuscmanusc,1.4473684210526316
+issuance of a writ,1.0
+action,3.127292663476874
+senior counsel,2.2857142857142856
+referred supra,0.5
+relief as prayed,0.5
+date for submission,1.0

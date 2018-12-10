@@ -1,0 +1,591 @@
+fact that the fir,0.6666666666666666
+of acceptance,0.9689440993788822
+pre,6.408342692122574
+armed with an axe,0.5
+satisfactory explanation,0.6666666666666666
+appellants  contention,0.0
+- examination,0.0
+injured witness,2.8181818181818183
+a- by accused persons,0.0
+das,1.508694082231246
+mind,1.1559066143122394
+read with section,2.3513513513513513
+sadar pathankot,1.0
+formal witness,1.0
+court in those cases,0.6666666666666666
+people,1.2855544825097243
+reasons,1.3749054007567938
+sections,1.640495469442838
+polouse at gurdaspur police station,0.0
+toto,0.6391347099311702
+decisions of this court,1.8225806451612903
+place within the territorial jurisdiction,0.5
+argument of learned counsel,1.4285714285714286
+inter,3.683850287482992
+considerable delay,0.8
+arm,0.9325525916287142
+raise to an adverse inference,0.5
+act against the appellants,0.5
+prior concert,1.0
+court,12.24425115501509
+basi of this non - examination,0.0
+polouse of this medico-legal case,0.0
+declaration,2.152560083594566
+eye,0.9466574319441098
+non - examination,0.0
+person,4.291511329454258
+ors,2.8612718198296623
+inference,1.006741573033708
+sons of deceased kirpal singh,0.5
+way,1.7812722068664852
+overt act,2.2777777777777777
+days before the incident,0.6666666666666666
+part,5.294464509893076
+jatinder,0.5
+son of deceased kirpal singh,0.0
+distance,0.7353606433777331
+punishable under sections,1.6153846153846154
+sudhir,2.5
+other formal witness,0.5
+incident in question,1.3
+victims of the assault,0.5
+aspect,1.2449448189023034
+decisions,1.3888475974580996
+sessions,1.3405714285714285
+decision,2.9514937765898557
+contrary,1.027917657672435
+prosecution evidence that the distance,0.5
+fir to the jurisdictional magistrate,0.5
+counsel for the respondent,1.5822784810126582
+only eye - witnesses,0.0
+appellants because the prosecution,0.5
+doctor on the night,0.5
+which police station,0.5
+house,2.0021735292386764
+chargesheet,2.625
+independent witnes,1.2121212121212122
+formal witnesses,0.6666666666666666
+appeal,3.4125488033856883
+police station at gurdaspur,0.5
+weapon,1.0217176079034398
+sheet,1.1667364016736401
+right leg,0.4444444444444445
+motive,0.8973573343546533
+other accused person,2.111111111111111
+read,2.2147281730888695
+denial,0.8338926174496643
+creditworthiness of pws,0.5
+sessions judge,2.9545454545454546
+village jangal,0.5
+relevant period,2.1333333333333333
+village,1.8429856945085372
+takua,0.5
+more person,1.2000000000000002
+manipulation that the prosecution,0.5
+judgment,3.288216560509554
+clear that the manner,0.5
+post mortem on the dead body,0.5
+father,1.4298716229162676
+much deliberations,0.5
+order,5.472481489660944
+injury,1.7199352451433856
+police at gurdaspur police station,0.5
+act,12.870263922028107
+blow,1.6904715887127946
+may,3.683418028199994
+smt,0.7459757206267715
+sukhdev,3.7142857142857144
+explanation,1.4510159010600707
+brother - in - law,0.0
+injured,2.286951144094001
+offender,1.3711405166981725
+accused persons,7.048780487804878
+defence witnesses,1.0
+direct brothers,1.0
+meeting of minds,1.1666666666666667
+copy,0.8620926631522174
+completion,1.1868131868131868
+morning,0.6560766182298546
+jurisdictional magistrate on the facts,0.5
+manner,1.4494591333432125
+parties,1.8210828547990157
+injured person,1.9090909090909092
+creditworthiness of the ocular evidence,0.5
+section,9.287987283173626
+herein,2.825259515570934
+eye-witnesses to the incident,0.0
+meeting,1.5978547625659538
+such ocular evidence,0.5
+incident,1.8609485257918057
+fir,2.85390975582079
+kms,0.7913793103448276
+prem singh a-,0.0
+copy of the fir,0.6666666666666666
+gurdaspur in a car,0.5
+victim of the assault,0.0
+counsel for the appellants,1.7258064516129032
+direct brother,1.0
+clear that these injured persons,0.5
+place,2.333104345208554
+civil,2.126558634963905
+regard to the delay,0.6666666666666666
+learned counsel for the appellants,1.7142857142857142
+yadav,1.8571428571428574
+ground that evidence,0.5
+investigation,1.6673076923076922
+regard,2.723310344827586
+abdoman of pw-,0.0
+relative of a-,0.0
+total denial,0.5
+altercation,1.75
+intervention of the people,0.5
+so - called other independent witness,0.0
+medico - legal case,0.0
+dr sudhir kumar pw-,0.0
+regard to the so-called other independent witnesses,0.0
+territorial jurisdiction,1.0
+benefit of doubt,1.8
+dr sudhir kumar,1.0
+sho,3.354516605502135
+overt act against the appellants,0.5
+chandigarh,1.52
+which a-,0.0
+nachhattar,1.5
+deliberations,0.625
+heel,0.695067264573991
+facts,1.4696673624372698
+asi ram das,0.5
+names of all other accused persons,0.5
+arrangement,0.7318181818181818
+course of action,0.5886970172684458
+sadar police station pathankot,0.5
+time before the injured,0.5
+back,1.1362801178713813
+basi,2.0752712086391383
+facts of this case,1.1923076923076923
+name jasbir singh,0.5
+conviction of the appellants,2.0
+absence of a motive,0.5
+days,1.6721350893491447
+families,3.0833333333333335
+cattle,0.5714285714285714
+benefit,2.604810195438474
+family feud,0.30000000000000004
+gurdaspur police station,0.5
+records,0.9879294336118848
+session,2.2400874351067563
+judgment of the high court,1.721311475409836
+car,1.5664537220559551
+conviction,2.248165832071736
+basis,1.953226441078104
+day before the incident,0.0
+reality,0.6251091491219559
+prosecution in regard,0.75
+interested evidence,0.5
+course,1.6545957498716626
+deficiency,0.5102880658436214
+evidence in this regard,0.4
+magistrate,3.522077922077922
+charge,2.7679815308681284
+groups,0.9065945998117897
+in the sho of ps,0.5
+khushal singh a-,0.0
+sadar,1.7142857142857142
+kirpan,2.0
+badruddin v state of up,0.5
+mr br,0.25
+private defence,1.4
+charges,2.061307113938693
+ground,1.4186722903211633
+police gurdaspur,0.5
+daughter smt,0.5
+kirpal,1.3333333333333333
+a- to a-,0.0
+few days before the incident,0.6666666666666666
+ground that those accused persons,0.5
+dang,0.8549186128803963
+interested evidence of pws,0.5
+nature of involvement,0.5
+matter,2.8088923076923082
+- night,0.0
+hospital,1.3942768854411434
+moment,0.5294822018215465
+leg,5.574082991234883
+pursuant to the abovesaid incident,0.5
+deadly weapon,0.8307692307692307
+left arm,0.47368421052631576
+appellants,7.701086956521739
+view,2.441100058469462
+involvement,1.020685900925422
+post,2.344803646492219
+opinion,1.4960606342789635
+doctor,1.4782608695652173
+more blow,0.5
+case of right,0.5
+manipulation,0.3037383177570094
+in regard to the so - called other independent witnesses,0.0
+singh a-,0.0
+sho of ps,0.5
+inter se,2.3076923076923075
+witness,5.333906623599983
+delay,1.9544910179640715
+that these injured person,0.5
+course of the trial,0.8333333333333334
+bihar,4.587301587301587
+record,2.5393414390845273
+material,1.4148767018946966
+information,1.1320502836800534
+defence,1.3606588776096535
+polouse,0.0
+drunkard,0.3508771929824561
+overt acts,1.125
+support,0.8630946786249609
+help of the police,0.5
+alarm,0.4005722460658083
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+only section,0.4444444444444444
+bihar manuscmanusc,1.9655172413793103
+considerable deliberations,0.5
+learned counsel for the parties,1.263157894736842
+other independent witness,1.3333333333333333
+station,1.2515681586858238
+hospital at gurdaspur,0.5
+material on record,1.40625
+hegde,1.1333333333333333
+statements of injured witnesses,0.5
+kumar,2.028839704896043
+weapons,1.1105810008481765
+wherea in the case,0.0
+witnes,5.333906623599983
+brothers,0.9570135746606334
+non examination,0.5
+victims,0.9
+blows with kirpan,0.5
+applicability,1.0928961748633879
+n santosh hegde,0.8888888888888888
+doubt,1.3646267723102583
+santosh,1.3333333333333333
+report,1.7768151696835826
+nachhattar singh a-,0.0
+punjab,1.0438169425511197
+protection,1.1604395604395603
+fact of this case,0.0
+party,2.2250894654439723
+anything,0.9132309941520469
+prosecution case in toto,0.5
+unusual in the sho of ps,0.5
+plea of total denial,0.5
+haryana at chandigarh,0.875
+independent witnesses,0.9090909090909091
+few days,0.7211538461538461
+taqua,0.5
+non examination of another son,0.5
+deliberation,0.7366666666666667
+only eye - witness,0.0
+nachhater singh,0.5
+pathankot police station,1.5
+blow on the head,3.3333333333333335
+actual incident,0.3333333333333333
+v state,2.4603773584905664
+sons,2.7457346002031446
+way to the hospital,0.6666666666666666
+existence,0.731202675709574
+offence,4.401610644257703
+presence,0.9604834261070158
+hearing,0.9644508209787979
+respondent,4.757894736842104
+material contradiction in the evidence,0.5
+other formal witnesses,0.5
+only eye - witness in this case,0.0
+deceased,4.535714285714286
+day,1.550999710228919
+question,2.980312372067635
+son - in - law,0.0
+jangal,0.5
+due to the intervention of the people,0.5
+police station,1.40045766590389
+to the abovesaid incident,0.5
+scmanu,7.940520446096654
+jad,0.5749128919860627
+statement,2.5393160135035964
+intimation to the police gurdaspur,0.5
+view of some previous enmity,0.5
+accused person,4.565217391304348
+creditworthiness,1.3333333333333333
+present at the time of the incident,1.5
+name,1.8996570753072433
+a- during which act,0.0
+toward,1.0255939365170768
+material facts,1.1818181818181819
+contradiction in the evidence,1.0
+hospital in gurdaspur,0.5
+sukhdev singh a-,0.0
+high,5.367119186841496
+brother,1.4566585956416465
+regard to the applicability,0.6666666666666666
+assault,1.0656614201609997
+help,0.7217940266720754
+law,3.538923411654744
+trial court,3.854545454545455
+explanation for this delay,0.5
+dass,0.8333333333333334
+head,1.5827778446537666
+spur of the moment,0.4444444444444444
+time,2.4764180952862667
+cases,1.9728229418951067
+mid - night,0.0
+act against the appellant,0.6666666666666666
+group,1.691932599016908
+person in the array,0.0
+ram dass,2.0
+briefly,0.5805159028299525
+to the jurisdictional magistrate,2.5
+karni,0.5
+further blows,0.5
+conviction under section,1.5
+more persons,1.388888888888889
+badruddin,0.6666666666666666
+post mortem,1.4
+regard to this delay,0.5
+complaint,2.734525785235724
+material contradiction,1.0
+whereas,0.7770612954644255
+murder,1.4968553459119496
+right,3.07483248288682
+prosecution,4.619407894736842
+pm in village jangal,0.5
+spot,0.778096903096903
+offences,1.6681887366818873
+worthy of acceptance,0.8
+absence,1.092363454568179
+ipc,2.785166240409207
+counsel,2.2246780703440323
+kulhari,0.5
+clear that these injured person,0.5
+place of the incident,2.0
+witnesses,3.359210526315789
+course of trial,0.8333333333333334
+injured witnesses,2.5
+pathankot,3.5
+abdoman,0.0
+medico - legal aspect,0.0
+names,1.766440410418311
+name of all other accused persons,0.0
+eye-witness,0.0
+considerable deliberation,0.5
+ramashish,1.3333333333333333
+prosecution evidence,1.2
+such contradiction,0.5
+acceptance,1.4762112614578786
+acquittal,2.2714285714285714
+with an axe,0.2647058823529412
+feud,0.25
+son,4.595622484812135
+intention,1.7585585585585588
+attack,1.0505713076597545
+evidence,3.6676405172088815
+document,1.401100265092073
+few day before the incident,0.0
+mr mahabir singh,0.5
+eye-witness to the incident,0.0
+statement of injured witnesses,0.0
+decision of this court,2.3260869565217392
+drunkards,0.26666666666666666
+victim,1.204831365285174
+jurisdictional magistrate,3.0
+concert,1.385885885885886
+mahabir,0.6666666666666666
+that matter,0.5503846153846154
+relatives,0.8460264900662252
+such material contradiction,0.5
+police station pathankot,1.0
+whereas in the case,0.8
+magistrate on the facts,0.5
+creditworthines of pws,0.0
+case,7.332269420884958
+period,1.9480170842427122
+sufficient material,1.0
+abovesaid incident,0.5
+element of delay,0.5
+heel of pw-,0.0
+consequent,0.9615838143114256
+such prior concert,0.5
+existence of nature,0.5
+ram,2.11096203538064
+singh,3.7791111111111113
+injuries,2.4130008710801394
+statements,1.110873440285205
+evidence of pws,2.6363636363636362
+defence witness,1.0
+prosecution case,4.258064516129032
+element,0.7062328407033122
+spur,0.7309688581314878
+prem,1.757457603819093
+contention,1.666391070690368
+grievous injury,0.6666666666666666
+crpc,2.2424242424242427
+blow with kirpan,0.0
+contradiction,0.609271523178808
+minds,0.6597481343283582
+view of ours,0.5
+view that the high court,1.0
+information to the jurisdictional magistrate,0.5
+learned sessions judge,2.5
+grievous injuries,1.0
+armed,1.3980232677854423
+wit,7.927883367146261
+blows,1.1295731707317074
+parhlad,1.0
+conduct of the offenders,0.5
+ocular evidence,1.0
+kirpal singh,2.0
+civil hospital,1.2
+creditworthines of the ocular evidence,0.0
+fight,1.0237585694076679
+evidence of dr  sudhir kumar,0.0
+creditworthines,1.3333333333333333
+abdomen,0.6666666666666666
+complaint of the appellants,0.5
+body,1.336775463480009
+array of accused persons,0.5
+common intention,8.5
+police,2.9749362629783356
+sentence,2.3896654193264366
+time of the incident,1.1
+which act,0.5777777777777778
+charge sheet,2.0526315789473686
+examination,2.4920345926263088
+relatives of a-,0.0
+omission,1.1856094505101127
+enmity,0.4377104377104377
+under section,5.374517374517374
+effort,0.7536036036036036
+order situation,2.3333333333333335
+further blow,0.5
+more blows,0.5
+adverse inference,3.0833333333333335
+reason,2.6381270903010035
+alarm hearing,0.5
+material fact,1.4615384615384615
+instant case,2.0631578947368423
+balram singh a-,0.0
+so - called other independent witnesses,0.0
+kulhari blow,0.5
+overt act against the appellant,0.5
+life,1.3352928273744242
+delay in the fir,1.0
+pre-meditated concert,0.0
+intervention,0.6975694444444444
+jasbir,2.4
+independent witness,1.2121212121212122
+haryana,2.935064935064935
+consideration,1.9110153789142115
+arrangements for the post mortem,0.5
+much deliberation,0.5
+ground that those accused person,0.5
+front,0.8400299386969539
+plea,1.4430487701432178
+attack on pws,0.5
+more person in the array,0.0
+arrangements,0.6399535423925667
+to the intervention of the people,0.5
+acts,1.9133929521984454
+relative,1.0564311594202898
+good in regard to the so-called other independent witnesses,0.0
+khushal,2.0
+police of this medico-legal case,0.0
+deadly weapons,0.9
+nachhater,0.5
+deceased kirpal singh,2.0
+eye-witnesses,0.0
+badruddin v state,0.5
+family,1.856281506375408
+that the manner,0.75
+regard to an incident,0.5
+examination of another son,0.5
+judge,2.9012627415183325
+death,2.361592909460208
+manuscmanusc,7.940520446096654
+asi,2.9557996793834067
+karni pw-,0.0
+appeal before the high court,1.1875
+conduct,1.5998023165163158
+front of the house,1.0
+parhlad singh a-,0.0
+other accused persons,2.111111111111111
+opinion that the evidence,0.5
+pws,1.5484615384615386
+fact that the complainant,0.5
+balram,2.2
+asi ram dass,0.5
+police station sadar pathankot,0.5
+argument,0.9504580388560493
+contradiction on material facts,0.5
+that these injured persons,0.5
+satisfactory explanation for this delay,0.5
+prosecution in support,0.75
+persons in the array,0.5
+hrs,0.8909952606635071
+room,0.6950710108604846
+fact that prem singh a-,0.0
+background,0.6800452488687784
+strength,1.1679328901551123
+at the time of the incident,1.08
+raise,1.365471801709938
+ramashish yadav,0.5
+hand,2.0299623418254717
+under sections,2.1931818181818183
+v state of bihar manuscmanusc,1.8076923076923077
+deficiencies,0.5185185185185185
+appellant,14.387096774193548
+bhangi,9.0
+few day,0.7211538461538461
+appeal against the acquittal,0.8
+instant,1.131578947368421
+invoked section,1.0
+injured persons,1.8888888888888888
+sufficient protection,0.5
+high court,7.7477477477477485
+complainant,4.538461538461538
+same to the jurisdictional magistrate,0.5
+daughter,1.0364906832298135
+wherea,0.8062806257067471
+state,6.817996007300392
+axe,1.1255540598220442
+only eye - witnesses in this case,0.0
+previous enmity,0.6666666666666666
+gurdaspur,3.5
+jurisdiction,2.9539571926331507
+ram das,0.5714285714285714
+trial,3.7979448350459712
+offenders,0.9550387596899225
+pw-,0.0
+a- with a taqua,0.0
+manu,7.078142071124147
+rate,3.088725136774248
+array,0.5209444021325209
+role,1.0562959821210092
+dead body,1.192156862745098
+arrangement for the post mortem,0.0
+nature,1.4149926876444778
+abdomen of pw-,0.0
+medico,0.8888888888888888
+intimation,1.105263157894737
+special report,1.1666666666666667
+basis of this non - examination,0.0
+more persons in the array,0.5
+kulhari blow on the head,0.5
+situation,1.1254754682459434
+night,0.8690610404251893
+raj,1.3364194424876723
+jasbir singh,2.4
+action,3.127292663476874
+asi of the pathankot police station,0.5
+kashmir,2.6608187134502925
+other independent witnesses,1.0
+mortem,1.402116402116402
+persons,2.5993381990166555
+medico - legal aspect of the case,0.0
+dr jatinder,0.5
+jurisdiction of police station sadar pathankot,0.5

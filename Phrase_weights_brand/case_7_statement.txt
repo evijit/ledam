@@ -1,0 +1,918 @@
+tribunal about the location of the plot,0.5
+hotel,0.8866352770735241
+committee,2.546237803603864
+permission to any applicant,0.5
+findings,1.049571253572887
+government,3.5583785424010483
+court in the case,1.3333333333333333
+plots,0.8001672240802675
+consistent with the directions of the high court,0.5
+owner of the plot,0.5
+writ petition for similar challenge,0.5
+disregard,0.5855263157894736
+tribunal suffer from error apparent,0.0
+tribunal committed error in law,0.5
+with the direction of the high court,0.0
+such facilities,1.3333333333333333
+such construction activities,0.6666666666666666
+temporary occupation of touristsvisitors,0.5
+density,1.530612244897959
+read with section,2.3513513513513513
+metres of high tide line,1.0
+condolim,0.5
+responsibility,0.8659259259259259
+river ecosystem,0.5
+report in that regard,1.0
+river water,0.15384615384615385
+building permission,0.5
+terms,2.390350840909655
+constructionreconstruction,1.0
+meaning,1.8612727545949643
+metres of the high tide line,0.5
+for such activity,0.5
+court in the first week,0.5
+drainage,0.6857142857142857
+crz notifications,0.5
+user therein,0.5
+shelter,0.8820998278829605
+sub-clause,0.0
+non-est,0.0
+relevant clause,1.75
+court,12.24425115501509
+commercial activity,1.3333333333333335
+play field,0.5
+basi of permission,0.0
+customary us,0.5
+tribunal complaining about violation,0.5
+union,2.0981927710843373
+deputy collector,1.0
+original applicants,0.5
+road,1.0764686576960945
+week to the environment department,0.0
+facilities,0.9130594727161252
+touristsvisitor,0.5
+objection,1.68120480131216
+person,4.291511329454258
+show,1.5002130552117363
+construction of the unauthorized structure,0.5
+tribunal under section,1.6666666666666667
+clause-iii of crz-iii zone,0.0
+correctness,0.8404159132007234
+behalf,1.9888053603529987
+cause,1.8431210321626654
+nullity,1.8235294117647058
+part,5.294464509893076
+crz policy,3.0
+such unauthorized structure,0.5
+permission of the concerned authorities,0.5
+correctnes of this finding,0.0
+environment,4.8219106957424716
+salt manufacture,0.5
+substantial question,5.615384615384615
+litigation,1.4968553459119498
+nothing,0.8658723322806009
+houses,1.0821764442454098
+distance,0.7353606433777331
+thereon vide,0.5
+bombay,2.3134020618556703
+new licence for any type,0.5
+open plot,0.5
+facility,1.2989690721649485
+tribunal before this court,0.5
+enquiry as regards,0.5
+construction of a commercial building,0.5
+present appeal,1.3424657534246576
+compliances about demolition,0.5
+number,1.4802651440973922
+case of construction,0.5
+decision,2.9514937765898557
+town wise,0.5
+competent authority,2.7142857142857144
+total,1.183527325379098
+construction  reconstruction,0.0
+permission,1.1531211886018407
+house,2.0021735292386764
+correctnes,0.8404159132007234
+pasture,0.1857142857142857
+areas,1.6237236125072747
+norm for permissible activities,0.0
+appeal,3.4125488033856883
+appellant exerted political influence,0.5
+toilets,0.2857142857142857
+bombay in the case,1.0
+user,0.5042401399919236
+state government  union territory administration,0.0
+collector,1.8095238095238093
+- est,0.0
+purpose  activity,0.0
+breach,1.3366228070175439
+basis of permission,0.5
+land,6.337534028705619
+read,2.2147281730888695
+which complaint,0.75
+area,2.675167256985439
+original application,3.3333333333333335
+policy  regulation,0.0
+village,1.8429856945085372
+other norm,0.2727272727272727
+month,1.3454861111111112
+year,2.8349484769759212
+structure after repair,0.5
+record by the parties,0.6666666666666666
+compliance about demolition,0.0
+available to the public,0.5384615384615384
+original respondent,0.25
+park,1.1480541455160744
+metre of the high tide line,0.0
+judgment,3.288216560509554
+construction of schools,0.5
+prompt compliance,0.5
+re-flooring of the structure,0.0
+salt,0.7390776699029126
+rain shelters,0.5
+subject,2.4420366233344897
+manufacture,3.7256425233644856
+such constructionreconstruction,0.5
+violators,0.4
+same structure after repair,0.5
+substantial question of law,6.7
+original structure,1.0
+order,5.472481489660944
+shelters,0.5384615384615384
+question of law,3.057142857142857
+plots in crz - iii zone,0.0
+act,12.870263922028107
+public importance arises,0.5
+community,1.3158036677454152
+crz-iii zone,0.0
+may,3.683418028199994
+pollution,3.0000000000000004
+petitions to the petitioners,0.5
+less of great public importance arises,0.5
+regard to the status,0.75
+permissible activity,0.0
+judgments on the original application,0.5
+middle of the plot,0.5
+prohibits,0.6923076923076923
+due proces,0.6064690026954178
+appellant by gczma,0.5
+vacant plots,0.5
+above terms,0.9375
+crz,5.753968253968254
+repairs of vehicles,0.5
+weeks to the environment department,0.5
+crz-iii area in goa,0.0
+completion,1.1868131868131868
+middle,0.4836233367451382
+commercial activities,1.0666666666666667
+prompt compliance of the directions,0.5
+contemporaneous record,0.5
+toilet,0.39308176100628933
+prior approval,0.787878787878788
+parties,1.8210828547990157
+authorized structures,1.75
+action against the violators,0.5
+permission from the concerned authorities,0.5
+dwelling unit,5.8
+costs payment,0.5
+section,9.287987283173626
+violation of the provisions,1.5
+house property revenue record,0.5
+provisions of law,1.0833333333333333
+conditions that the total number,0.5
+first week,0.42352941176470593
+different-both in shape,0.0
+petition to the petitioners,0.0
+panjim city,0.5
+tribunal read,0.6666666666666666
+water,0.9741079360379036
+fishing,0.390625
+gardens,0.44999999999999996
+condition,2.259476395625584
+judgments,1.2355646397547266
+correctness of this finding,0.5
+documentary evidence,0.6825
+responsible for construction of a commercial building,0.5
+violator,0.45000000000000007
+inhabitants,0.4835164835164836
+costs of rs,1.0
+traditional rights,0.5
+fishing villages,0.5
+place,2.333104345208554
+appropriate action,0.5625
+finding,1.8129183657767178
+structure at the corner,1.5
+report of the enquiry committee,0.5
+regulation,4.3783195107648485
+demolition,1.105263157894737
+present case,1.5611814345991561
+such activity under the notification,0.5
+relevant contemporaneous record,0.5
+third week,0.3333333333333333
+utilization,0.6346153846153846
+regard,2.723310344827586
+activities under the notification,1.0
+dispensary,1.3333333333333333
+commercial activity of the bar,0.0
+crziiino,0.5
+reply to the application,0.6666666666666666
+proces,1.627944583238701
+direction,1.8495050210098996
+limitation,2.4984479402325457
+six,1.0514614302932905
+re-flooring,0.0
+prior approval of ministry,0.5
+western,0.9170906914097575
+rights,1.6349541930937281
+other structure,0.5333333333333333
+in this zone agriculture,0.5
+illegal structure of crz area,0.0
+crz - iii zone in goa,0.0
+construction of facilities,0.5
+regards,0.9072861236185019
+facts,1.4696673624372698
+salt manufacture from sea water,0.5
+municipal,2.4099173553719004
+para,2.300239586747483
+ecosystem,0.8974358974358975
+rain,1.6895439889451866
+contents,0.66519564577817
+fishing village,0.2
+structures of crz area,0.5
+construction upto,0.5
+basi,2.0752712086391383
+permission of the competent authority,1.0
+objections,1.2025072324011572
+lacs as costs,0.5
+structure within crz area,0.5
+that regard,0.5944055944055944
+units,5.004460400348129
+renovation,1.7142857142857142
+petitioner,4.524972253052164
+records,0.9879294336118848
+cost,1.2954397451466992
+degradation,0.4666666666666666
+facts of the present case,1.24
+basis,1.953226441078104
+panchayat,10.0
+crz regulation,0.5
+utilization thereof,0.5
+permissible activity under the notification,0.0
+directions,1.5134125183504605
+illegal structures,1.0
+approval of the competent authority,0.5
+sub,7.816899313759727
+structure in respect,0.5
+structures,0.8929115853658537
+such activities,0.6666666666666667
+appellant thereafter,0.8333333333333334
+applicants,0.6960950764006791
+local inhabitants,1.0
+which permission,0.5
+roads,0.5501567398119123
+grande,1.0769230769230769
+survey report,0.5
+same for the demolition in accordance,0.5
+plot vide,0.5
+occupation of tourists  visitors,0.0
+cost of rs,0.8888888888888888
+hence,1.1440732910500353
+metres,2.0
+such violation,0.75
+villages,0.7433206106870229
+notification in relation,1.0
+territory,1.3688226421790437
+final judgment,1.7575757575757576
+resort,0.7319355397678043
+size,0.4932317346481398
+tribunal held,1.0
+impugned judgment,2.0927152317880795
+inquiry,1.3527272727272728
+excess,0.9860601614086574
+liberty,0.7860465116279071
+reconstructionalteration,0.5
+field,1.5820968371729793
+matter,2.8088923076923082
+type of structures,0.0
+relation,1.397320207820618
+basis of the contents,0.6666666666666666
+compliances,0.6666666666666666
+south,0.8254159150130287
+summer,0.327710843373494
+date-wise,0.0
+which direction,0.40909090909090906
+tribunal with regard to the status,0.5
+village morombio grande in merces,1.5
+tribunal following that decision,0.5
+panchayats,5.25
+- as remedy of appeal,0.0
+term,3.6255105640901575
+structure as restaurant,0.5
+gaothan,0.5
+lac,2.403150042398463
+in above terms,0.75
+unit with regard,0.0
+appellants,7.701086956521739
+due permission of the competent authority,1.0
+view,2.441100058469462
+calangute,0.5
+activities,1.57291280148423
+appropriate order,1.565217391304348
+requirements,0.7375979875979877
+opinion,1.4960606342789635
+new licence,0.5
+than the view,0.5
+environmental,4.334707903780068
+use,5.06801278974993
+merit,1.2419290263876248
+town-wise,0.0
+repair of vehicles,0.0
+unit,2.176678509944691
+structures of respondent,0.5
+licences,0.95
+result,1.3356630184144715
+face of the record,0.875
+entire material,0.8
+delay,1.9544910179640715
+for construction of such facilities,0.5
+record,2.5393414390845273
+procedure,2.552771605064117
+material,1.4148767018946966
+activity,1.3846153846153848
+land survey,1.0
+construction activities,1.1428571428571428
+petitions,1.3930830039525692
+open plots,0.5
+available for construction of hotels,0.5
+uses,1.4908719787871272
+sewerage,1.3333333333333333
+inhabitant of the area,0.0
+for construction of a commercial building,0.5
+state authorities,1.5714285714285714
+for construction of hotels,1.0
+forests,1.8333333333333333
+above effort report,0.5
+guideline,1.5641711229946524
+city,2.544592792669584
+provision,5.439002243350069
+conclusion of the survey,0.5
+great public importance arises,0.5
+illegal structures of respondent,0.5
+respect,2.6704963235294117
+consequential direction,1.0
+barpub,0.5
+status of the structure,1.0
+importance,0.8632871064467765
+fact,3.6284951019474962
+owner,2.9502416709822197
+principal argument,0.4444444444444444
+learned counsel,3.703333333333333
+court in the third week,0.5
+deals with crz area,0.5
+ambit of traditional rights,0.5
+evidence on record,2.7906976744186047
+order on completion,0.5
+notification ie,0.6666666666666666
+demolition in accordance,0.5
+vehicle,2.973111766564837
+department,1.9858367499068206
+norms for permissible activities,0.5
+building,3.870745432459903
+deputy,1.1595268542199488
+total covered area on all floors,0.5
+location of the plot,0.5
+enquiry as regard,0.75
+clauses,1.5486111111111112
+december,0.9629002463054187
+influence,0.7049608355091384
+total number,0.8813725490196079
+violation of crz notification,1.0
+goa,0.6574823943661972
+illegal structure,1.3333333333333333
+stand,1.8422769621739425
+that behalf,1.3548387096774193
+norms,1.1693121693121695
+local inhabitant,1.0
+work,2.8478559811646353
+town,1.9746537396121884
+same structure,1.0
+other norms for permissible activities,0.5
+practices,1.3187467899332308
+plea of the appellant,0.9
+subject plot vide,0.5
+bar,1.4720990391722097
+motor garage,0.5
+corner,0.7011583011583012
+affidavit,2.2996987951807224
+retention,1.1818181818181819
+house property revenue records,0.5
+report,1.7768151696835826
+contents of the affidavit,0.6666666666666666
+state governmentunion territory administration,1.0
+protection,1.1604395604395603
+party,2.2250894654439723
+public rain shelter,0.5
+review,1.3564101463582128
+such area,0.47619047619047616
+western zone,0.5
+concerned authority,1.0
+types of structures,0.5
+complete disregard,0.5
+due procedure,0.8
+goa foundation,1.0
+permissible in this zone agriculture,0.5
+settlement,1.6881394467601363
+environmental protection act,1.0
+relation to the crz-iii zone,0.0
+enquiry,2.145762711864407
+same cause,1.0
+maintainable-as remedy,0.0
+green tribunal,1.5
+tide line,4.0
+inspection report,0.8
+tourists,0.36111111111111116
+to the commercial activities of the bar,0.5
+panjim,0.5
+revenue,1.486701237872198
+which directions,0.6666666666666666
+metres distance,0.5
+restaurant,0.5578947368421052
+survey reports,0.5
+inspection,0.8496732026143791
+allied structures,0.5
+approval,1.4085456739300164
+visitors,0.46798029556650245
+inhabitants of the area,0.6666666666666666
+coastal ecosystem,0.5
+activities of the bar,0.5
+date,6.195616975795285
+policy  regulation for utilization thereof,0.0
+detrimental to the coastal ecosystem,0.5
+foundation,0.770509435807177
+administration,1.061072796934866
+public rain shelters,0.5
+action against the persons,0.5
+sale deed,2.142857142857143
+existence,0.731202675709574
+schools,0.700507614213198
+roofing,0.37037037037037035
+plot size,1.3333333333333333
+fields,0.9241650294695481
+municipal authority,1.25
+respondent,4.757894736842104
+enquiry committee,0.6666666666666666
+plot of land,0.6428571428571429
+govt,0.7017766497461929
+due procedures,0.5
+accordance,1.4069045211613462
+green,0.574679113185531
+stand of the appellant,1.1
+procedures,0.6129675045984059
+original owner of the plot,0.5
+permissible activities,2.0
+thousand,0.625287081339713
+est,6.379089545995401
+sale,3.3662581620085734
+crz notification,1.5
+question,2.980312372067635
+sub-clauses,0.0
+appropriate policyregulation for utilization thereof,0.5
+count,2.7493281810130092
+alteration,1.2619047619047619
+crz-iii i,0.0
+court to the applicants,0.5
+entire evidence,1.2307692307692308
+due to the commercial activities of the bar,0.5
+floors ground floor,0.5
+view of the matter,1.7142857142857142
+writ,2.8882378560889794
+honble,2.4444444444444446
+months,1.1938163721148947
+amount,3.179688593072295
+practice,1.7660110149488593
+february,0.8575630252100839
+essential for such activities,1.0
+august,0.977116704805492
+to those direction,0.5
+vacation,0.38268955650929903
+land records,0.5
+first place,0.48711943793911006
+amount of rs,1.5806451612903225
+plot,1.9177369203731243
+crz notification in relation,0.5
+essential for such activity under the notification,0.5
+remedy of appeal,1.3333333333333333
+goa foundation v the panchayat,0.5
+zone agriculture,0.5
+high,5.367119186841496
+payment,2.059553716565686
+designated areas,0.3333333333333333
+for the demolition in accordance,0.5
+offending structures,0.5
+metre of high tide line,0.0
+account,2.5754891049671977
+to the crz policy document,0.5
+major part,0.4166666666666667
+appropriate action against the person,0.5
+force,1.6009408121948314
+line,1.6884436630262616
+property,2.9368986630013745
+notification,3.0112746633260263
+original applicant,0.5
+relevant documents,0.6000000000000001
+new structure,0.5
+registered sale deed,1.625
+disregard of the directions,0.5
+purpose,2.519170317925504
+law,3.538923411654744
+constructions,0.6758620689655173
+attention to the relevant documents,0.5
+change,1.2214862766571903
+fix responsibility for the violation,0.5
+nos,1.2635492554198444
+allied activity,1.0
+time,2.4764180952862667
+- as remedy,0.0
+present,1.9747480780089475
+metres from the high tide line,2.5
+structure within the meaning,0.5
+compliance of the directions,0.8
+high tide line,4.0
+action against such unauthorized structure,0.5
+mef,0.5697528278173439
+to the commercial activity of the bar,0.0
+plot in crz - iii zone,0.0
+tribunal suffers from error apparent,0.5
+garage,0.8623853211009175
+units with regard,0.5
+content,1.5450574489970066
+for the order,0.4
+contrary to those directions,0.5
+khanwilkar,0.6666666666666666
+complaint,2.734525785235724
+appropriate action against the persons,0.5
+tribunal suffers,0.5
+customary uses,0.5
+right,3.07483248288682
+resorts,0.2631578947368421
+construction activity,1.3333333333333333
+basi of the contents,0.0
+alterations,1.0714285714285714
+result of the survey,0.5
+certificate,2.732600732600732
+shape,0.4645522388059702
+offending structure,0.5
+moot question,1.0
+error apparent,1.1
+type,0.8102172691515265
+river,1.243409567587255
+application,2.3322596088086445
+for such activity under the notification,0.5
+counsel,2.2246780703440323
+violation of crz regulation,0.5
+policy,3.250773332247955
+exces,0.9881465517241379
+percent,0.7207207207207208
+ndz,0.45833333333333337
+water supply,0.6944444444444444
+change of user,1.5
+twenty,0.7332834704562453
+authorities,1.266131845134287
+rules,3.130914366958792
+than the original structure,0.5
+compliance of this direction,0.5
+construction of hotelsbeach resorts,0.5
+metre,1.607142857142857
+merces,0.75
+complete disregard of the directions,0.5
+licence for any type,0.5
+sea water,0.30000000000000004
+zone,1.373358348968105
+counts,2.151344841429145
+appropriate policyregulation,0.5
+tribunal about the status of the structure,0.5
+absolute,0.7467999697038552
+change of user therein,0.5
+goa in terms,0.5
+unauthorized structure within the meaning,0.5
+original owner,0.5263157894736842
+unauthorized structures,1.0
+floor,2.088735201031532
+crz if no other area,0.5
+short ndz,0.5
+action against the violator,0.5
+subject application,0.11764705882352941
+horticulture,1.5
+submission,1.0913871684001404
+evidence,3.6676405172088815
+construction of hotels,1.0
+metre from the high tide line,0.0
+preliminary objections,1.0
+document,1.401100265092073
+motor,1.832417821954835
+approval of ministry,0.5
+construction work,2.4000000000000004
+such unauthorized structures,0.5
+conditions,1.9988092071092867
+tribunal complaining,0.5
+community toilet,0.5
+prohibit,1.9655608736315124
+appropriate action against the violators,0.5
+contrary to the crz policy document,0.5
+learned counsel for respondent,1.1666666666666667
+lacs as cost,0.5
+inhabitant,0.4840336134453781
+other norm for permissible activities,0.0
+provision of law,0.9090909090909091
+compliance,1.0029799914857385
+permissible fsi,1.0
+other than the original structure,0.5
+case,7.332269420884958
+construction of such facilities,0.5
+period,1.9480170842427122
+error,1.059158294766151
+supply,2.0557395143487858
+reconstructionalterations,0.5
+favour of the appellant,1.4838709677419355
+emphasi,0.9191619047619048
+annexure,2.7560975609756095
+factual finding,0.6666666666666666
+green tribunal act,0.5
+state authority,1.0
+visitor,0.47159090909090906
+south goa,1.0
+permissible activities under the notification,1.0
+types,0.6765151515151515
+protection act,1.1700000000000002
+ambit,1.0862754267009587
+review petition,2.72
+tribunal following,0.5
+preliminary objection,1.3125
+such areas,0.45000000000000007
+designated area of crz-iii,0.0
+units within crz,0.5
+to the show cause notice,1.0
+les of great public importance arises,0.0
+garden,0.48275862068965514
+repairs,1.386880856760375
+environment department,0.6666666666666666
+summer vacation,0.5
+rule,5.04
+direction in paragraph,0.0
+chalta,0.25510204081632654
+favour,1.653145208700764
+necessary permission,0.4444444444444444
+of great public importance arises,0.5
+sewerage for requirements,0.5
+breach thereof,0.5
+supra,2.246342614440774
+for such violation of the provisions,0.5
+that construction,1.2307692307692308
+bench,2.5793391667754992
+violation,1.2087401208740118
+directions of the high court,1.0
+litigation cost,1.3333333333333333
+respondents,2.6341263330598856
+bombay high court,2.4642857142857144
+different in shape,0.5
+subject to the conditions that the total number,0.5
+-a village morombio grande in merces,0.0
+to the coastal ecosystem,0.5
+costs,0.8167395522604189
+applicant,0.7861822513400833
+activity of the bar,0.0
+fsi,0.817948717948718
+tourist,0.5904761904761905
+deal with crz area,0.0
+honble high court,1.1666666666666667
+commercial activities of the bar,0.5
+public importance arise,0.5
+with the directions of the high court,0.5
+finding of the tribunal,0.8571428571428571
+hotelsbeach resorts,0.5
+building permission for such constructionreconstruction,0.5
+relevant document,0.5714285714285714
+parks,0.3402777777777778
+unauthorized structure,2.0
+process,1.6274942048088725
+hotelsbeach resort,0.5
+re-roofing,0.0
+floors,1.4081632653061227
+notice,2.3300025999395686
+above term,0.9375
+date of the notification ie,0.5
+maintainable-as remedy of appeal,0.0
+status,1.14824388424026
+decision of the high court,1.24
+avail,1.1343021914648213
+location,0.8935109449248265
+land area,0.5333333333333333
+structure,1.568520357497517
+percent of the plot size,0.5
+merits,0.968421052631579
+structure of respondent,0.0
+development of vacant plots,0.5
+reconstruction,0.7857142857142856
+construction of public rain shelters,0.5
+rain shelter,0.5
+degradation of environment,1.0
+forestry,0.56
+pub,2.6874171418647057
+effort,0.7536036036036036
+local inhabitants of the area,0.5
+other structures,0.5
+reason,2.6381270903010035
+review petition before the tribunal,0.5
+of great public importance arise,0.5
+deals,1.3395407335280751
+high court to the applicants,0.5
+play fields,0.5
+survey,0.9775055679287304
+vehicles,1.4161490683229814
+position,1.549133168619177
+national green tribunal,1.5
+action against the person,0.6666666666666666
+gczma,2.0
+small structure,1.0
+open plots in crz - iii zone,0.0
+direction of the high court,1.1666666666666667
+designated areas of crz-iii,0.0
+writ petition,6.24223602484472
+petition,5.3436539306104525
+finding of fact,1.7083333333333333
+tribunal relying on the decision,0.5
+appropriate action against the violator,0.5
+commercial building,0.3333333333333333
+remedy,1.3214024835646458
+guidelines,1.540251572327044
+construction,2.2504918032786887
+review application,1.5
+consideration,1.9110153789142115
+absolute in above terms,0.6666666666666666
+such facility,0.5
+paragraph,1.2930197483150305
+such activity,0.40909090909090906
+content of the affidavit,0.5
+tide,0.914396887159533
+such violation of the provisions,0.5
+number thereof,0.5
+decision of the authority,1.0
+other norms,0.5
+tribunal suffer,0.5
+pollution of river water,0.5
+to those directions,0.5
+judgment on the original application,0.0
+necessary action,1.0
+plea,1.4430487701432178
+crz-iii area,0.0
+crz policy document,1.0
+clause,3.526455026455027
+documents,1.142515923566879
+activity under the notification,0.5
+panchayat of calangute,0.5
+account of unauthorized construction,0.5
+reply,1.0337305560040906
+sea,1.6312447855066885
+subject to the appropriate order on completion,0.5
+anil,1.1751552795031055
+respondent nos,2.5185185185185186
+crz - iii zone,0.0
+tribunal held that the structure,0.5
+pune,1.3423295454545454
+plinth area,1.6
+development zone,2.0
+overall height of construction,0.5
+small structure at the corner,1.5
+in shape,0.5714285714285714
+location for which reason,0.5
+to the public,0.7291666666666666
+responsible for such violation of the provisions,0.5
+challenge,1.2204566274399267
+necessary permission from the concerned authorities,0.5
+ministry,1.6350210970464136
+authority,2.4352627108360636
+locality,0.7993421052631579
+provisions,3.8929824561403508
+bridges,0.4606060606060605
+lacs,1.6941699604743086
+substance,0.8230581678857541
+for such activities,0.6666666666666666
+purpose of repairs,0.6666666666666666
+development,2.3145884270578647
+licence,3.10964429776311
+directions in paragraph,0.5
+vacant plot,0.5
+argument,0.9504580388560493
+occupation,1.1158072696534236
+dispensaries,0.6666666666666666
+conclusion,1.3883437407077015
+face,0.7281253260594137
+weeks,0.8109161793372318
+costs payment of costs,0.5
+which reason,0.42857142857142855
+structure of crz area,0.0
+due permission,1.0
+sub-claus,0.0
+concerned authorities,1.090909090909091
+tribunal relying,0.75
+due process,0.6064690026954178
+authorized structure,2.75
+coastal,0.4871794871794872
+subject plot,1.6666666666666667
+relevant time,1.008
+school,1.2666111192798444
+gaothans,0.5
+particular to the show cause notice,0.5
+touristsvisitors,0.5
+national,1.5126860273884035
+fact of the present case,0.6666666666666666
+unauthorized construction,1.3333333333333333
+traditional right,0.5
+village morombio grande,2.0
+show cause notice,2.9565217391304346
+iii,1.5614499719992534
+norm,1.1955826794536473
+different than the view,0.5
+construction in crz-iii zone,0.0
+beach,0.19970414201183428
+goa coastal zone,0.5
+cause of action,2.1470588235294117
+appellant,14.387096774193548
+week,0.8253498691546249
+settlement of land records,0.5
+due compliance,0.75
+height of construction,0.5
+community toilets,0.5
+-a village morombio grande,0.0
+requirement,1.2416133333333332
+clause-iii,0.0
+principal argument of the appellant,0.5
+open plot in crz - iii zone,0.0
+high court,7.7477477477477485
+height,0.748166259168704
+public,2.923239095873367
+entire evidence on record,1.1666666666666667
+garage at the relevant time,0.5
+same cause of action,1.0
+state,6.817996007300392
+morombio,2.0
+tribunal committed error,1.0
+land record,0.75
+municipal authorities,2.6
+crz area,2.0
+existed prior,0.5
+renovation permission,0.5
+forest,2.292817679558011
+deal,2.1942302694273583
+consequential directions,0.6666666666666666
+deed,1.3564447722662734
+fix responsibility,0.5
+national green tribunal act,0.5
+tribunal issued direction,0.5
+hotels,0.40909090909090906
+bridge,1.1911260881774781
+pastures,0.2777777777777778
+june,0.9339080459770116
+appropriate order on completion,0.5
+emphasis,0.8024289099526066
+illegal structure of respondent,0.0
+argument of the appellant,1.0
+- both in shape,0.0
+litigation costs,1.0
+other area,0.4166666666666667
+temporary occupation,0.5
+authorized building,0.5
+action against such unauthorized structures,0.5
+respondent no,5.395833333333333
+high court in the case,1.2222222222222223
+overall height,0.5
+tribunal,5.07183212267958
+available for construction of such facilities,0.5
+kind,0.9236881920088026
+illegal structures of crz area,0.5
+similar challenge,1.0
+repair,1.1641083521444697
+flooring,0.30000000000000004
+petitioners,3.536507936507937
+merce,2.1840929401251117
+due compliance of this direction,0.5
+agriculture,1.6135593220338982
+great public importance arise,0.5
+such construction activity,0.0
+attention,0.8724846605528799
+necessary for the order,0.5
+action,3.127292663476874
+allied structure,0.5
+total covered area,0.6666666666666666
+iii area,2.0
+andor renovation,0.5
+alternative,0.841508109794136
+local inhabitant of the area,0.0
+purpose whatsoever,0.5
+persons,2.5993381990166555
+specific permissible fsi,0.5
+therefrom,0.673076923076923
+notifications,1.9743589743589745
+designated area,0.3333333333333333
+website,1.8571428571428572
+crz-iii,0.0

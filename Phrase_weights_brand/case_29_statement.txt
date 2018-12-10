@@ -1,0 +1,231 @@
+october,0.9478375701551667
+restoration,0.8498168498168498
+tourism activities,4.0
+validity of notification,0.5
+account of the interim orders,0.5
+courts,2.1216528162511543
+broad parameters,0.5
+to the party,0.8148148148148148
+main writ petition,0.5
+petitioner,4.524972253052164
+cost,1.2954397451466992
+orders,1.4936359300077826
+writ,2.8882378560889794
+appropriate proceeding,1.1
+comprehensive guideline for tiger conservation,0.0
+validity,1.521010638297872
+directions,1.5134125183504605
+merits,0.968421052631579
+facie consideration of the matter,0.5
+terms,2.390350840909655
+interim order,2.9166666666666665
+tourism activity,0.5
+high courts,2.676470588235294
+redress,1.2
+high,5.367119186841496
+slpc,2.727272727272727
+country,1.2903191103863751
+pradesh,4.365853658536586
+progress,1.075925925925926
+interest,2.74353772015385
+account,2.5754891049671977
+reason,2.6381270903010035
+court,12.24425115501509
+pil case note,0.0
+requirement in the aforesaid guidelines,0.0
+broad parameter,0.5
+court from time,0.8333333333333334
+ground,1.4186722903211633
+notification,3.0112746633260263
+present petition,1.5
+learned,3.406323898681099
+writ petition,6.24223602484472
+petition,5.3436539306104525
+validity of the notification,0.6666666666666666
+order slp,0.5
+guidelines,1.540251572327044
+purpose,2.519170317925504
+tourism activities within the core,1.0
+liberty for the parties,0.5
+as the challenge before present,0.5
+observation,0.7625074854374218
+consideration,1.9110153789142115
+part,5.294464509893076
+aforesaid guideline,1.0
+cases,1.9728229418951067
+liberty,0.7860465116279071
+terms of the guidelines,1.0
+further direction,1.2380952380952381
+matter,2.8088923076923082
+time,2.4764180952862667
+present,1.9747480780089475
+same before an appropriate forum,0.5
+tourism,1.75
+interim orders,1.5238095238095237
+remain,1.0335567356972242
+tiger conservation,1.5
+term,3.6255105640901575
+any matter relevant,0.5
+reserves,0.9127659574468084
+applications,1.0021816198527407
+aspect,1.2449448189023034
+consideration of the matter,1.0
+open to the parties,0.75
+view,2.441100058469462
+activities,1.57291280148423
+requirements,0.7375979875979877
+such tourism activity,0.0
+opinion,1.4960606342789635
+aforesaid guidelines,1.0
+subsequent developments,1.0
+requirements in the aforesaid guidelines,1.0
+leave petition with the observations,0.5
+courts in writ petitions,0.75
+aforesaid,2.592896174863388
+tiger population,0.5
+aspect of the matter,1.4642857142857142
+developments,0.5581395348837209
+filed,2.428695652173913
+merit,1.2419290263876248
+tourism activities within core,0.5
+comprehensive guidelines for tiger conservation,1.0
+other aspect,0.6921768707482993
+areas,1.6237236125072747
+as the challenge,1.0
+logical conclusion,0.43636363636363634
+whereto,0.5294117647058824
+interim directions,1.5
+other aspect of the matter,1.1
+core,0.43168575654387237
+court of madhya pradesh,1.1875
+challenge,1.2204566274399267
+authority,2.4352627108360636
+inasmuch as the challenge before present,0.5
+court for any further direction,1.0
+activity,1.3846153846153848
+area,2.675167256985439
+refusal of an interim order,1.0
+petitions,1.3930830039525692
+parameters within which such tourism activity,0.0
+comprehensive guideline,1.0
+guidelines for tourism,0.5
+public interest,2.380434782608696
+november,0.7203359669727383
+special leave petition with the observations,0.5
+counsel,2.2246780703440323
+development,2.3145884270578647
+application,2.3322596088086445
+guideline,1.5641711229946524
+redres in appropriate proceedings,0.0
+which such tourism activity,0.0
+which such tourism activities,0.5
+sustainable facts,0.0
+tiger reserves,3.0
+parameter,0.7630669107179174
+critical areas of tiger reserves,2.5
+interim direction,1.5
+authorities,1.266131845134287
+conclusion,1.3883437407077015
+subject,2.4420366233344897
+subsequent development,0.6857142857142857
+madhya pradesh,2.9583333333333335
+guidelines for tiger conservation,1.0
+appropriate proceedings,1.1428571428571428
+facie consideration,0.5
+fact,3.6284951019474962
+order,5.472481489660944
+validity of interim order,0.5
+learned counsel,3.703333333333333
+pil,0.8227750138197899
+critical area,2.5
+jabalpur in writ petition,0.5
+learned counsel for the petitioner,1.3214285714285714
+high court in writ petitions,0.0
+national,1.5126860273884035
+reserve,1.8336147492356134
+iii,1.5614499719992534
+contentions,0.9641025641025641
+parameters within which such tourism activities,0.5
+high courts in writ petitions,0.75
+no doubt,0.8331331503088538
+several direction,0.75
+parameters,0.8168253968253969
+thereto,1.0358342665173572
+circumstances,1.3944461370073231
+special leave petition,2.013333333333333
+impugned order,2.265957446808511
+inasmuch as the challenge,1.0
+requirement,1.2416133333333332
+to the parties,0.6967741935483872
+population,1.8313253012048192
+sustainable fact,0.0
+high court,7.7477477477477485
+several directions,0.75
+areas of tiger reserves,2.5
+parties,1.8210828547990157
+area of tiger reserves,0.0
+court for restoration,1.0
+state,6.817996007300392
+held,3.3171122162354454
+case,7.332269420884958
+guideline for tiger conservation,0.0
+anyone of the contentions,0.5
+tiger reserve,3.0
+note,1.3654108484234107
+sorders,0.5072463768115942
+above subsequent developments,0.5
+jabalpur,2.357142857142857
+part b,0.4871794871794872
+january,0.8699641577060931
+party,2.2250894654439723
+madhya,2.9183673469387754
+court in writ petitions,0.0
+national tiger conservation authority,0.5
+writ petitions,2.984848484848485
+henceforth tourism activity,0.0
+circumstance,1.429931390219372
+tiger conservation authority,0.5
+civil,2.126558634963905
+critical area of tiger reserves,0.0
+tiger population in the country,0.5
+appropriate forum,0.47647058823529415
+contention,1.666391070690368
+progres,1.075925925925926
+forum,1.9016754850088184
+refusal,0.813597918022121
+redres,1.1730769230769231
+proceedings,1.7670925223666287
+before an appropriate forum,0.6666666666666666
+high court of madhya pradesh,1.1875
+sorder,0.9302550855666775
+conservation,0.7109375
+tiger,1.7436974789915967
+state of madhya pradesh,1.7142857142857142
+direction,1.8495050210098996
+challenge before present,0.5
+observations,0.7454584147497534
+broad parameters within which such tourism activities,0.5
+henceforth tourism activities,1.0
+opinion on the merits,1.0
+broad parameters within which such tourism activity,0.0
+guideline for tourism,0.0
+high court for any further direction,1.0
+such tourism activities,0.5
+comprehensive guidelines,1.0
+facts,1.4696673624372698
+above subsequent development,0.5
+incidental thereto,1.0
+high court for restoration,1.0
+party feeling,0.5
+leave,1.0147842365477848
+accordance,1.4069045211613462
+july,0.9742727723122656
+costs,0.8167395522604189
+redress in appropriate proceedings,0.5
+remains,0.6909272183449652
+critical areas,2.5
+present court,2.0
+leave petition,2.013333333333333
+prima,0.9758788156000698
+term of the guidelines,0.0
+ground that this court,0.6666666666666666

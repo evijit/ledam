@@ -1,0 +1,106 @@
+dog,3.520249221183801
+petitioner,4.524972253052164
+implementation,1.2465707594513213
+bite of stray dogs,0.5
+notice,2.3300025999395686
+writ,2.8882378560889794
+lives,0.6840821832520494
+children,1.3787369914853358
+clipping,0.7407407407407408
+sections,1.640495469442838
+instance,0.9469803370786518
+implementation of sections,0.5
+targets,1.375
+human race,0.25
+prey,0.4107142857142857
+cruelty,2.9099099099099095
+fundamental embodiment,0.5
+life,1.3352928273744242
+learned,3.406323898681099
+child,3.0202810640613067
+writ petition,6.24223602484472
+petition,5.3436539306104525
+prayer,0.6969296987087519
+certain newspaper clipping,0.5
+prayer for interim relief,0.5
+mr vk,1.0
+targets for these kind,0.5
+certain newspaper clippings,0.5
+issue notice,1.0952380952380953
+meantime,0.5833333333333334
+stray,1.211340206185567
+innocent targets,0.5
+prevention of cruelty,1.0
+animal,3.672202634997217
+independent writ petition at the instance,0.5
+submission of mr  vk,0.0
+relief,1.4748116760828625
+target for these kind,0.0
+stray dog,2.3333333333333335
+protection from any kind,0.5
+prevention,0.6124072110286319
+stray dogs because child,0.5
+record,2.5393414390845273
+municipality,1.96875
+foundation that the lives,0.5
+fundamental embodiment of human race,0.5
+counsel,2.2246780703440323
+prey to the stray dogs,0.5
+innocent target,0.5
+many children,0.6666666666666666
+many child,0.6666666666666666
+submission that the children,0.5
+weeks,0.8109161793372318
+newspaper clipping,0.3333333333333333
+counsel for the petitioner,1.4242424242424243
+injury,1.7199352451433856
+heard mr vk,0.6666666666666666
+learned counsel,3.703333333333333
+association,1.2099052684061826
+act,12.870263922028107
+animals,1.4863203806502776
+attack,1.0505713076597545
+submission,1.0913871684001404
+week,0.8253498691546249
+stray dogs because children,0.5
+foundation that the life,0.0
+petitioner - association,0.0
+serious injuries,0.4365079365079365
+animals act,0.8
+writ petition at the instance,0.5
+kerala,4.135593220338983
+beings,0.5577464788732395
+attack by the stray dogs,0.5
+innocent target for these kind,0.0
+essence,0.5974025974025974
+human beings,0.6097152428810719
+section,9.287987283173626
+race,0.6810000694251597
+independent writ petition,0.5
+interim relief,1.9166666666666667
+protection,1.1604395604395603
+stray dogs,3.3333333333333335
+newspaper,1.4133350781914544
+clippings,0.6000000000000001
+kerala municipality act,0.6666666666666666
+issue notice on the writ petition,0.5
+injuries,2.4130008710801394
+bite,0.9658025372311085
+civil,2.126558634963905
+target,1.8734177215189871
+serious injury,0.4
+returnable date,1.0
+embodiment,0.5
+registry,0.510662177328844
+protection from stray dogs,0.5
+kind,0.9236881920088026
+date,6.195616975795285
+submission that the child,0.5
+innocent targets for these kind,0.5
+human being,0.599078341013825
+foundation,0.770509435807177
+dogs,3.8716356107660457
+protection for the children,0.5
+newspaper clippings,0.5
+embodiment of human race,0.5
+biju,1.3333333333333333

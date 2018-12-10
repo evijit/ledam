@@ -1,0 +1,454 @@
+courts,2.1216528162511543
+enactment,1.439950980392157
+letters patent to the high court,0.5
+government,3.5583785424010483
+limitation thereon,0.5
+similarity,0.5698051948051948
+view that a letters,0.5
+letters patent,6.041666666666667
+code,2.880559796437659
+other hand,0.6931925622439332
+that section,1.1768292682926829
+manudemanude,1.1666666666666667
+sections,1.640495469442838
+clear that a letters,0.5
+behalf of the state,1.5263157894736843
+appeal on the basis,0.5
+hyderabad,2.5833333333333335
+supreme court subject,0.5
+single judge of the high court whereas,0.5
+maintainable under the law,0.5
+court,12.24425115501509
+to appeal from original decrees,0.0
+declaration,2.152560083594566
+judge of the high court,1.75
+appropriate legislature,1.8333333333333333
+aspects,1.0997620069447154
+bihar land encroachment act,0.5
+union,2.0981927710843373
+view that this case,0.5
+single judge,4.011627906976744
+court in asia industries,0.5
+ors,2.8612718198296623
+show,1.5002130552117363
+behalf,1.9888053603529987
+land acquisition judge,0.5
+part,5.294464509893076
+daga v ganpatrao,0.5
+combined reading,0.8571428571428571
+high court wherea,0.75
+nehru,0.42857142857142855
+proceedings under this act,0.6666666666666666
+aspect,1.2449448189023034
+district,1.5506763074237984
+refers to the forum,0.5
+single judge bench,0.5
+decision,2.9514937765898557
+contrary,1.027917657672435
+said,4.745510632356149
+case of mahli devi v chander bhan,0.0
+supreme court subject to the provisions,0.5
+maintainable against the judgment,1.0
+aforesaid,2.592896174863388
+appellant claim,1.125
+following legal position emerge,0.5
+claim,2.817264601856604
+justice of india,2.1333333333333333
+that a letters,1.8
+appeal,3.4125488033856883
+maintainable before the letters,0.5
+determination,1.5980374665477253
+xliv,0.3333333333333333
+view of the high court,1.3571428571428572
+land,6.337534028705619
+refers,0.6484772632457239
+interpretation,1.518366298484459
+narayanda,0.5
+to appeals from original decrees,0.5
+sarup manuscmanusc,0.5
+technological,0.6509554140127387
+airdelhi,1.0
+code of civil procedure,5.5636363636363635
+judgment,3.288216560509554
+act reads,1.0
+claims,1.1941982272360998
+subject,2.4420366233344897
+order,5.472481489660944
+act,12.870263922028107
+jawaharlal,0.6666666666666666
+may,3.683418028199994
+high court in exercise,1.0714285714285714
+technological university,0.22619047619047622
+court wherea,0.8571428571428571
+court-subject to the provisions,0.0
+court-subject,0.0
+mr mathur,1.0
+same court in the form,0.5
+manner,1.4494591333432125
+agree with the view,0.9375
+parties,1.8210828547990157
+finality,1.1746031746031746
+civil procedure,5.448275862068965
+declaration under section,3.0
+section,9.287987283173626
+following legal position emerges,0.5
+chander,1.8095238095238095
+authority of a judgment,0.5
+january,0.8699641577060931
+- obstante clause in section,0.0
+land reform,0.8333333333333334
+decision of the single judge bench,0.5
+civil,2.126558634963905
+sharan,2.6250000000000004
+learned counsel for the appellants,1.7142857142857142
+district court,0.9523809523809523
+high court under the letters patent,0.6666666666666666
+other court eg,0.5
+limitation,2.4984479402325457
+act for determination,1.0
+bhan,1.4088145896656534
+control,2.148867902684286
+facts,1.4696673624372698
+court to the high court,0.5
+lpa to the division bench,0.5
+appeals in proceedings,0.5
+basi,2.0752712086391383
+form,2.4865961263718424
+baljit singh,2.0
+powers,1.876345371920593
+short question,0.5714285714285714
+letters patent grant,0.6666666666666666
+orders,1.4936359300077826
+maintainability,1.0256410256410258
+basis,1.953226441078104
+settled legal position,0.875
+l t,3.7827990354968772
+relevance,0.6870535714285714
+claims that the state,0.5
+high courts,2.676470588235294
+grounds,0.9540208829455945
+implication,0.6615776081424936
+government of india act,4.4
+hence,1.1440732910500353
+officer,3.1197242647058823
+court subject to the provisions,0.6666666666666666
+bench against the judgment,0.5
+acquisition,6.764044943820224
+further appeal,1.1666666666666667
+ground,1.4186722903211633
+letters,2.0877496159754223
+patent appeal,3.5833333333333335
+concession,1.3748597081930416
+impugned judgment,2.0927152317880795
+court from the award,0.5
+matter,2.8088923076923082
+judge for decision,0.5
+before the letters,0.5
+rent,2.460251217077583
+prima facie,1.0185185185185184
+term,3.6255105640901575
+appeal nos,1.6666666666666667
+appellants,7.701086956521739
+sarup,0.8333333333333334
+view,2.441100058469462
+constitution power,0.75
+appropriate order,1.565217391304348
+constitution power of a high court,0.0
+conflict,1.314561353483509
+virtue of the letters,0.5
+letter patent,1.0
+use,5.06801278974993
+judges of this court,1.4782608695652173
+demanu,0.7777777777777778
+other aspect,0.6921768707482993
+statutory enactment,1.0
+sweep,0.9338152247571719
+bihar,4.587301587301587
+procedure,2.552771605064117
+paten,1.3617765343591537
+judge bench,2.8472222222222223
+judge of this court,1.1428571428571428
+provision,5.439002243350069
+non - obstante clause in section,0.0
+civil appeal nos,1.5416666666666667
+case of basant kumar v union,1.0
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+judgment of a single judge,1.75
+applicable to appeals from original decrees,0.5
+such appeals,1.0
+decree of the high court,0.75
+part of the award,1.0
+learned counsel for the parties,1.263157894736842
+chief,1.9429638234317954
+kumar,2.028839704896043
+prasad,1.1407089151450054
+honble judges,1.3
+other word,0.758838674565131
+maintainable,2.7551020408163267
+lah,0.8728321248356866
+extent,1.410108024691358
+mohabbat,0.5
+clear that a letter,0.5
+manunamanuna,0.6666666666666666
+other manner,0.7222222222222222
+charter,1.2735678391959797
+light,0.8816192372754331
+bar,1.4720990391722097
+lpa,0.9672836569649268
+single judge for decision,0.5
+exercise,1.9400726466785694
+next question,0.6190476190476191
+obstante,3.9285714285714284
+necessary implication,1.2608695652173914
+maintainable against a judgment,0.5
+circle,1.211299866386715
+party,2.2250894654439723
+judgment of the single judge,1.25
+virtue,0.9167557066537153
+anything,0.9132309941520469
+delhi,2.6089285714285717
+appeal in the high court,1.0
+use of the word,0.6352941176470589
+settlement,1.6881394467601363
+justice,2.292557084574302
+to the constitution powers of a high court,0.5
+dev,2.1018632238997714
+state of bihar,2.5918367346938775
+appellant claims that the state,0.5
+forum,1.9016754850088184
+same court,0.5
+v state,2.4603773584905664
+decision in baljit singh,0.5
+decree,3.732408834103749
+land to the appellant,0.75
+division bench,3.965217391304348
+concerned statute,0.75
+statement of grounds,0.5
+enactment for the time,1.0
+court in the form,0.75
+september,0.8548484848484849
+reference,2.1755848210276256
+sale deed,2.142857142857143
+view that no letter,0.5
+similarity with sections,0.5
+chief justice,4.684210526315789
+order xliv thereof,0.5
+judgment in asia industries case,1.0
+clear that section,1.0
+sale,3.3662581620085734
+question,2.980312372067635
+before the letter,0.5
+view that a letter,0.5
+submits,2.1733333333333333
+scmanu,7.940520446096654
+next submit,0.8
+word,2.065873981084096
+high court from the award,0.5
+honble,2.4444444444444446
+provision of a letters patent,0.5
+appeals,1.7060218112849692
+february,0.8575630252100839
+other words,0.7578482137053969
+practice,1.7660110149488593
+basant kumar v union,1.0
+statement,2.5393160135035964
+asia,1.43375
+basant,1.8333333333333333
+refer,3.840717772752903
+judge bench of this court,1.6486486486486487
+supreme court,1.4278957326045825
+thereon,0.877037037037037
+division bench for consideration,0.5
+srinivas,0.5128205128205129
+appeal in proceedings,0.0
+akin to the constitution powers of a high court,0.5
+judgment of the division bench,1.8125
+high,5.367119186841496
+decrees,0.9545454545454545
+crown,0.4166666666666667
+force,1.6009408121948314
+notification,3.0112746633260263
+registered sale deed,1.625
+asia industries case,2.0
+v state of haryana,1.3103448275862069
+appeal to the supreme court,1.6666666666666667
+law,3.538923411654744
+nos,1.2635492554198444
+observation,0.7625074854374218
+appropriate orders,1.2666666666666666
+time,2.4764180952862667
+cases,1.9728229418951067
+division,1.7657319129617017
+constitution powers of a high court,0.5
+land acquisition act,12.714285714285714
+question whether a letters,0.5
+briefly,0.5805159028299525
+power of appeal,1.0
+dev narayan prasad,1.5
+mahli,0.5
+pecuniary value,0.5
+registered deed,0.6666666666666666
+single judge of the high court,1.588235294117647
+reading of section,1.3043478260869565
+namanu,0.6666666666666666
+ganpatrao,0.5
+appellant under section,1.4375
+letters patent grants,0.6666666666666666
+right,3.07483248288682
+hereinafter,0.7670609645131939
+that extent,0.8888888888888888
+reference under section,2.272727272727273
+reform,0.6780894886363636
+mohabbat singh v crown,0.5
+civil appeal no,2.1403508771929824
+court in exercise,1.28
+counsel,2.2246780703440323
+provision of finality,0.5
+reforms,0.6547619047619048
+constitution powers,0.5
+light of the observations,0.9
+patent appeal before the division bench,0.8571428571428571
+award,3.104213525266157
+april,0.8928235149629509
+india,2.7684068260703585
+charter of the high court,1.0
+registered deed of settlement,0.5
+rules,3.130914366958792
+reading,0.9004509191814082
+bar to the maintainability,0.5
+contrary in any enactment for the time,1.0
+appellant claims,1.0
+original decree,0.6666666666666666
+appeal as aforesaid,0.5
+baljit singh s case,0.0
+such appeal,1.3846153846153846
+court subject,1.2857142857142858
+letters patent grants to the high court,0.6666666666666666
+submission,1.0913871684001404
+court whereas,0.8333333333333334
+industry,8.208106219426973
+land encroachment act,0.5
+variava,1.0
+claim under section,1.2
+original decrees,0.6666666666666666
+case,7.332269420884958
+favour of the appellant,1.4838709677419355
+scc,1.941872465904902
+constitution,3.204842342342342
+letter,2.707240080105903
+m srinivas v jawaharlal,0.5
+high court against the judgment,0.6666666666666666
+appeal under section,3.1176470588235294
+singh,3.7791111111111113
+letters patent grant to the high court,0.0
+asia industries,2.5
+rule,5.04
+high court whereas,0.75
+appeals from original decrees,0.6666666666666666
+proceedings,1.7670925223666287
+favour,1.653145208700764
+supra,2.246342614440774
+bench,2.5793391667754992
+next submits,0.5
+plain reading of section,1.4285714285714286
+- obstante clause,0.0
+attempt,0.7943782192788815
+judgment in baljit singh,0.5
+notice,2.3300025999395686
+india manuscmanusc,1.8333333333333333
+land reforms,0.8
+power,3.8165227690948367
+chief justice of india,2.066666666666667
+basant kumar s case,0.0
+act read,0.8366013071895425
+bihar land reforms,0.5
+title,1.74290600761189
+under section,5.374517374517374
+patent,1.3540828816226613
+reason,2.6381270903010035
+cases of mahli devi v chander bhan,0.5
+appeal from original decrees,0.0
+position,1.549133168619177
+concerned statutory enactment,0.5
+maintainable against the judgment of a single judge,0.5
+case of baljit singh,0.5
+under the law,0.46495726495726497
+haryana,2.935064935064935
+consideration,1.9110153789142115
+that a letter,1.8
+appeal no,2.288135593220339
+baljit,2.0
+to the constitution power of a high court,0.0
+words,1.6384367086179112
+facie,1.0476190476190477
+value,1.7137907830478438
+clause,3.526455026455027
+devi,1.2339221178171305
+air,2.0589664272145285
+daga,0.4166666666666667
+mathur,0.7916666666666666
+honble judge,1.4
+appeal to the high court,2.25
+india act,3.5714285714285716
+plain reading,1.173913043478261
+delhi rent control act,2.4
+non - obstante clause of this nature,0.0
+legislature,2.818553268765133
+asia industry,0.0
+authority,2.4352627108360636
+judge,2.9012627415183325
+court against the judgment,0.8
+such appeal as aforesaid,0.5
+provisions,3.8929824561403508
+question whether a letter,0.5
+other aspects,0.5798816568047337
+conclusion,1.3883437407077015
+conflict between section,1.0
+encroachment,1.0106951871657754
+narayan prasad,1.5
+judges,2.0931496919173616
+- obstante clause of this nature,0.0
+excluded unless the concerned statutory enactment,0.5
+questions,0.9979150871872632
+appeal under the letter patent,0.5
+interpretation of sections,0.6666666666666666
+hand,2.0299623418254717
+bihar land reform,0.5
+letters patent appeal,3.5833333333333335
+appellant,14.387096774193548
+supreme,1.443815331010453
+right of appeal,3.3333333333333335
+that court,0.7384615384615386
+basant kumar,1.6666666666666667
+sriniva,0.5128205128205129
+virtue of section,1.2857142857142858
+high court,7.7477477477477485
+mahli devi v chander bhan,0.5
+appeal under the letters patent,1.0
+view that no letters,0.5
+non - obstante clause,0.0
+judge of the high court whereas,0.5
+state,6.817996007300392
+statute,2.5765859456247218
+narayandas,0.5
+deed,1.3564447722662734
+manu,7.078142071124147
+submit,2.197409354703731
+subject to an appeal to that court,0.5
+narayan,0.8111111111111111
+court under the letters patent,0.6666666666666666
+appeal to that court,0.5
+single,1.6221488419098207
+circle officer,1.6
+nature,1.4149926876444778
+discussion,0.7445831166579996
+court eg,0.6666666666666666
+tribunal,5.07183212267958
+consideration in this case,0.75
+compensation,3.7916666666666665
+observations,0.7454584147497534
+university,3.75675614961249
+decision of the division bench,0.5
+refer to the forum,0.0
+industries,2.162068965517242

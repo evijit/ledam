@@ -1,0 +1,193 @@
+courts,2.1216528162511543
+senior,1.989753211141579
+committee,2.546237803603864
+perusal of the record,1.0
+sanction from the market committee,0.5
+relevant date,2.8
+present li,0.45000000000000007
+word,2.065873981084096
+prior sanction,1.75
+orders,1.4936359300077826
+bangalore in rfa,0.5
+senior division,2.1
+other words,0.7578482137053969
+amount,3.179688593072295
+sub,7.816899313759727
+aforesaid provision,1.6333333333333333
+mandatory sanction,0.5
+filing,1.1274190041313328
+sanction of the market committee,1.0
+previous sanction,1.8
+high,5.367119186841496
+principal,1.3412499999999998
+interest,2.74353772015385
+court,12.24425115501509
+instant case,2.0631578947368423
+agricultural,3.5005050505050503
+noticed hereinabove,1.1428571428571428
+marketing,4.023015873015873
+relevant provisions of the limitation act,0.5
+suit,2.485274378207659
+areca,0.5098039215686274
+fresh disposal,0.75
+transaction,5.884921444603142
+defendant,3.7706855791962175
+rfa,1.4708617698091382
+trial court,3.854545454545455
+purpose,2.519170317925504
+bags,2.023668639053254
+cause,1.8431210321626654
+law,3.538923411654744
+karnataka,3.8596491228070176
+vide order,1.7058823529411764
+law of limitation,1.625
+consideration,1.9110153789142115
+law under the act,0.5
+civil judge,3.2142857142857144
+time,2.4764180952862667
+division,1.7657319129617017
+matter,2.8088923076923082
+agricultural produce marketing,6.0
+plaintiff,2.177926421404682
+words,1.6384367086179112
+market,5.294198044198044
+bag of areca nuts,0.0
+conclusion that the suit,0.6666666666666666
+time of filing,1.1666666666666667
+term,3.6255105640901575
+briefly,0.5805159028299525
+present appeal,1.3424657534246576
+hereinabove,1.911764705882353
+appellants,7.701086956521739
+view,2.441100058469462
+relevant provisions,1.5
+prior sanction from the market committee,0.5
+decision,2.9514937765898557
+opinion,1.4960606342789635
+proceeding,2.1298245614035087
+cause of action arose,0.6666666666666666
+aforesaid,2.592896174863388
+provisions of the limitation act,0.8
+admitted fact that the sanction,0.5
+court of karnataka,1.826086956521739
+appeal,3.4125488033856883
+recovery,3.9892473118279574
+certain provisions,1.2
+shimoga,0.6666666666666666
+years from the date,1.8518518518518519
+judge,2.9012627415183325
+provisions,3.8929824561403508
+record,2.5393414390845273
+high court of karnataka,1.826086956521739
+counsel,2.2246780703440323
+year,2.8349484769759212
+filing of a suit,0.5
+provision,5.439002243350069
+reconsideration,1.0846153846153848
+nuts,0.4577114427860696
+lis,3.299683526578166
+conclusion,1.3883437407077015
+areca nuts,1.0
+judgment,3.288216560509554
+respect,2.6704963235294117
+view that the learned trial court,0.5
+mandatory prior sanction,0.5
+view of the above,1.1764705882352942
+relevant provision,1.5737704918032787
+date for the purpose,0.6666666666666666
+fact,3.6284951019474962
+order,5.472481489660944
+produce,1.7202617328519856
+learned counsel,3.703333333333333
+question of limitation,1.0
+act,12.870263922028107
+sub-section,0.0
+areca nut,1.0
+defendant  appellant herein,0.0
+present lis,0.5
+first appeal,1.112781954887218
+certain provision,1.1818181818181819
+market committee,7.800000000000001
+learned counsel for the parties,1.263157894736842
+plaint,3.104295112903434
+relevant date for the purpose,0.5
+enforcement,0.7354220499569336
+dispute,2.402137592137592
+disposal,1.1180555555555556
+trader,1.3795986622073577
+cause of action,2.1470588235294117
+action arose,0.6666666666666666
+appellant,14.387096774193548
+admitted facts,0.8888888888888888
+only question,0.5172413793103449
+trial court for fresh disposal,0.5
+reconsideration in accordance,0.6666666666666666
+plaintiff  respondent herein,0.0
+decision of this court,2.3260869565217392
+admitted fact in the present appeal,0.0
+pendency,1.0084033613445378
+instant,1.131578947368421
+produce marketing,6.0
+other word,0.758838674565131
+bangalore,1.2
+high court,7.7477477477477485
+year from the date,1.5
+compliance,1.0029799914857385
+parties,1.8210828547990157
+sanction,2.0167207792207793
+prescribed period,1.7692307692307692
+case,7.332269420884958
+period,1.9480170842427122
+court in respect,1.1666666666666667
+original suit,2.4
+years,2.5395804110508022
+admitted facts in the present appeal,0.5
+section,9.287987283173626
+trial,3.7979448350459712
+issue in the present lis,0.5
+bag,1.1303125392243003
+bags of areca nuts,0.5
+party,2.2250894654439723
+anything,0.9132309941520469
+judgments,1.2355646397547266
+apmc,0.6611972044971133
+respondent herein,1.8936170212765957
+well-settled that the term,0.0
+dates,2.6187832912811886
+amount of money,0.42857142857142855
+civil,2.126558634963905
+therefore,2.960332350576253
+regulation,4.3783195107648485
+provision of the limitation act,0.5
+apmc act,3.5
+regard,2.723310344827586
+enforcement of certain provisions,0.5
+admitted fact,1.3076923076923077
+date of sanction,1.5
+relevant provision of the limitation act,0.0
+date,6.195616975795285
+limitation,2.4984479402325457
+suit for recovery,1.25
+money,1.6567889044524557
+perusal,0.750733137829912
+limitation act,6.833333333333333
+learned trial court,2.5
+accordance with law,1.0046948356807512
+action,3.127292663476874
+civil appeal,2.2413793103448274
+prescribed period of limitation,1.2
+regards,0.9072861236185019
+facts,1.4696673624372698
+respondent,4.757894736842104
+previous sanction of the market committee,0.5
+prescribed time period,0.5
+regular first appeal,1.25
+respondents,2.6341263330598856
+traders,0.5588235294117647
+nut,1.0369895056265013
+issue,2.766776251628934
+leave,1.0147842365477848
+accordance,1.4069045211613462
+that compliance,0.3333333333333333
+question,2.980312372067635
+disputes,2.3049883690876194

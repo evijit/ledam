@@ -1,0 +1,627 @@
+courts,2.1216528162511543
+defence irrespective,0.6666666666666666
+receipt of the standard,0.5
+committee,2.546237803603864
+security of face value rs,0.0
+government,3.5583785424010483
+code,2.880559796437659
+suit of the cmf,0.5
+that suit,0.7619047619047619
+alse general manager at that time,0.0
+tendency amongst party,0.0
+record of the defendants,0.0
+verification of facts,0.6666666666666666
+sections,1.640495469442838
+matters,1.4810665618448637
+false averments,0.5
+relevant record,1.1111111111111112
+manager in charge,0.5
+mischievous consequence,0.5
+interest,2.74353772015385
+court,12.24425115501509
+securities of face value rs,1.0
+employment,1.5239770785161355
+defendant transaction with the bank,0.5
+divisional manager in charge,0.5
+defendant with a request,0.5
+show cause notices,1.2
+canbank,2.3333333333333335
+proceedings for contempt,0.5
+outcome,0.6303030303030303
+show,1.5002130552117363
+person,4.291511329454258
+trustees,0.7090909090909092
+allegations,1.8333333333333335
+way,1.7812722068664852
+appellant read,0.5
+inference,1.006741573033708
+such stand,0.5714285714285714
+behalf,1.9888053603529987
+cause,1.8431210321626654
+part,5.294464509893076
+systems,0.3927792585413133
+scope of the contempt jurisdiction,0.5
+litigation,1.4968553459119498
+statement on behalf,0.5
+basi of pleadings,0.0
+cross,2.0778316690442225
+nothing,0.8658723322806009
+advert,0.9668151969981237
+evidence before court,0.5
+canbank s own document,0.0
+fresh sgl transfer form,1.0
+decision,2.9514937765898557
+contrary,1.027917657672435
+sale transactions,6.5
+parading,0.2692307692307692
+aforesaid,2.592896174863388
+sgl transfer forms in government,0.5
+stand that the transaction,0.6666666666666666
+claim,2.817264601856604
+transfer,1.9975047057658015
+appeal,3.4125488033856883
+on the basi of pleadings,0.0
+securities to the first defendant,0.5
+canbank s own documents,0.0
+sheet,1.1667364016736401
+mere parading,0.5
+read,2.2147281730888695
+plaintiffs from the ist,1.0
+in the evidence in chief amounts,0.5
+same in the evidence in chief amounts,0.5
+document of independent parties,0.0
+stage,1.1298537871524448
+entire proceedings,0.8
+apology,1.171875
+independent party,0.0
+such tendency,0.0
+hearsay,0.873015873015873
+at the time,1.141352987628323
+chief amounts,0.5
+unconditional apology,1.5
+obligations,0.9121212121212122
+limited,1.3713554955535188
+defendants,2.3554376657824934
+system in the employment,0.0
+crore from the plaintiffs,0.0
+general manager at that time,0.5
+affairs of the canbank,0.5
+averments,1.76
+services,1.6850241065659326
+charge-sheet,0.0
+order,5.472481489660944
+basi of material,0.0
+reference to the decision,1.0
+rajendra,1.6428571428571428
+fresh sgl forms,0.5
+act,12.870263922028107
+sgl,4.922514619883041
+face value r,1.6666666666666667
+may,3.683418028199994
+crores,6.931034482758621
+babu,1.1979166666666667
+reference bank,0.5
+plaint,3.104295112903434
+explanation,1.4510159010600707
+such averment,0.75
+enquiry with hiten dalal,0.0
+pleading,1.1270125223613594
+broker,16.705882352941178
+for security,0.0
+other party,0.8608695652173913
+effect,2.184583388478191
+sale transaction,4.25
+affidavits of mr hiten,0.5
+other material,0.6175438596491228
+broker in this transaction,0.5
+statement of fact,0.5333333333333333
+reference to other material,0.5
+possible on the basis of pleadings,0.5
+sgl forms,2.0
+entire proceeding,0.8571428571428571
+delivery,1.3054726368159204
+parties,1.8210828547990157
+basi of documents,0.0
+section,9.287987283173626
+india security transaction,0.5
+hiten dalal,5.5
+various portions,0.5
+securities,8.22857142857143
+refund of a sum,0.5
+sort of defence irrespective,0.5
+attention to the fact,0.75
+investment busines,1.0
+single document,0.3333333333333333
+consequence,0.8726692512593296
+standard,1.4669008088548319
+representative,1.0617102796119673
+cmf in the companion suit,0.5
+circumstance,1.429931390219372
+several contentions,0.8
+plaintiffs from the ist defendant,1.0
+canbank investment service,0.5
+present case,1.5611814345991561
+basi of the documents,0.0
+regard,2.723310344827586
+basis of the stand,0.6666666666666666
+special court,5.7
+knowledge,1.1120671641791045
+mr acharya,1.0
+proces,1.627944583238701
+to the notice,0.9047619047619048
+ist,4.8667817164179095
+truth,0.9590230664857531
+basis of personal knowledge,0.5
+facts,1.4696673624372698
+several contention,0.8
+public debt office,0.6666666666666666
+enquiries,0.5986394557823128
+july,0.9742727723122656
+karad,2.5
+basi,2.0752712086391383
+form,2.4865961263718424
+security to the sgl account,0.0
+own document,0.5
+rane,0.5788232973319525
+balance of rs,0.75
+fine,1.3204039558531748
+let,2.597170100952156
+rectification,0.38095238095238093
+records,0.9879294336118848
+cost,1.2954397451466992
+offences under the indian penal code,1.0
+race value,0.5
+basis,1.953226441078104
+personal knowledge,1.5
+contempt,1.5446913580246913
+independent parties,0.3333333333333333
+assistant general manager at that time,0.5
+goi,0.7135025219428889
+aggregate face value,2.0
+sgl account,2.3333333333333335
+course,1.6545957498716626
+same day,0.8830188679245283
+reserve bank,0.8
+learned judge of the special court,1.0
+inquiry by general manager,0.5
+various portion of the evidence,0.0
+ist defendant obligation,0.5
+divisional manager,3.0
+fresh sgl form for that amount,0.0
+plaintiffs to the reserve bank,0.5
+charge,2.7679815308681284
+company,5.864471879286695
+sgl forms for that amount,0.5
+crime,1.6636528028933093
+nature of a claim,0.75
+hence,1.1440732910500353
+officer,3.1197242647058823
+ist defendant in the course,1.0
+favour of the plaintiffs,1.3333333333333333
+basis of the documents,0.5
+transfer form of rs,0.5
+crore,4.747474747474747
+transaction,5.884921444603142
+cros,1.8137948361162648
+portion of the evidence,0.0
+cbi,3.9568421052631577
+akin to the defence,0.5
+inquiry,1.3527272727272728
+consequences to the administration,0.5
+memos,0.7692307692307693
+matter,2.8088923076923082
+relation,1.397320207820618
+defendant transactions,1.0
+aggregate face value r,1.0
+evidence in chief,1.5
+bearing,0.7901184156798694
+sgl transfer form in government,0.0
+crore from the ist defendant sgl account,0.0
+crores from the ist defendant sgl account,0.5
+bom,1.9699381078691425
+behalf of the appellant,1.4878048780487805
+penal,1.8829173709853835
+narichania,0.5
+basis that the note,0.5
+original sgl transfer form,0.5
+spite,0.8919640378414163
+ist defendant with a request,0.5
+sgl transfer forms,3.3333333333333335
+liability,2.532836248924577
+view,2.441100058469462
+show cause,3.193548387096774
+securities of the aggregate face value rs,0.5
+suit of cmf,0.5
+commitments,0.45652173913043476
+verification,0.9934640522875817
+pleadings,1.3125
+penal code,2.710144927536232
+contempt jurisdiction,0.6666666666666666
+portions of the evidence,1.3333333333333333
+security to the first defendant,0.0
+basi of facts,0.0
+basis of documents,1.0
+assistant,1.6732837055417698
+plaintiff to the reserve bank,0.0
+defendant transaction,1.5
+plaintiffs cheque to the ist defendant,0.5
+suit against cmf,0.5
+record,2.5393414390845273
+material,1.4148767018946966
+information,1.1320502836800534
+scope,0.8412698412698413
+defence,1.3606588776096535
+sgl transfer form in respect,0.5
+combined sgl transfer form,0.5
+averment,1.7
+security between the plaintiffs,0.5
+cbi in case,0.5
+person to the liability,0.5
+karad ltd hiten dalal,0.5
+solicitor,1.7073170731707317
+respect,2.6704963235294117
+plaintiffs,1.2549019607843137
+affidavit of mr hiten,0.0
+business,2.8512056385864457
+securities of the aggregate face value,1.5
+fact,3.6284951019474962
+defendant obligation,0.5
+falsehood,0.7166666666666668
+same security,0.3333333333333333
+learned judge,3.3692307692307693
+reserve bank of india,2.111111111111111
+additional solicitor,2.5454545454545454
+expression,1.7424391201885312
+simple imprisonment for a period,0.8
+officer of bank,0.5
+chief,1.9429638234317954
+reserve,1.8336147492356134
+offence under the indian penal code,0.0
+special,1.7363344051446945
+further stand,0.6666666666666666
+december,0.9629002463054187
+security of the aggregate face value,0.0
+particulars,0.9472222222222222
+sgl transfer form for rs,0.5
+stand,1.8422769621739425
+due,1.6178286949129652
+clutch,0.18552875695732843
+system,1.1230229504341178
+evidence in chief amounts,0.5
+false averment,0.5
+extent,1.410108024691358
+ist defendant,14.0
+additional,1.4256530253244384
+entire proceedings in relation,0.5
+essence,0.5974025974025974
+ist defendant sgl account,0.5
+affidavit,2.2996987951807224
+report,1.7768151696835826
+further stand of the appellant,0.5
+aggregate race value,0.5
+replacement by a fresh sgl transfer form,0.5
+mischievous consequence to the administration,0.0
+party,2.2250894654439723
+whereof,1.2790697674418605
+such tendencies,0.5
+first defendant,0.5
+security of face value,0.0
+amount of interest,0.5333333333333333
+read in order,0.3333333333333333
+essence of crimes,0.5
+to the appellant,2.239669421487603
+securities of face value,2.0
+aware that the defence,0.5
+justice,2.292557084574302
+enquiry,2.145762711864407
+the act,5.708327371273712
+cross-examination,0.0
+request,1.1474439594584596
+alse general manager,0.0
+internal inquiry by general manager,0.5
+dalal,3.6666666666666665
+securities to the sgl account,0.5
+aggregate face value rs,1.0
+september,0.8548484848484849
+forms,0.8089941394570028
+reference,2.1755848210276256
+administration,1.061072796934866
+defendant transactions with the plaintiffs,0.5
+systems in the employment,0.5
+pursuant to the notice,0.8
+such statements,0.3888888888888889
+mischievous consequences to the administration,0.5
+offence,4.401610644257703
+bank,9.40770083102493
+securities on behalf,2.0
+want,0.9034484256025601
+for the same security between the plaintiffs,0.5
+divisional,1.6233766233766234
+stand of the appellant,1.1
+knowledge of the transactions,1.0
+day,1.550999710228919
+outstanding for the same security between the plaintiffs,0.5
+thousand,0.625287081339713
+sale,3.3662581620085734
+basi of the stand,0.0
+question,2.980312372067635
+genuine remorse,0.5
+portions,0.6041219407471018
+chief executive,0.5142857142857143
+companion,0.31205673758865243
+to the defence,0.5333333333333333
+amounts,0.9789856139834046
+mr manoj,0.5
+sort,0.7327002541370012
+criminal justice,0.78698224852071
+amount,3.179688593072295
+august,0.977116704805492
+abuse,0.6372486093281985
+dalal in july,0.5
+false at the time,0.5
+debt office,0.6666666666666666
+statement,2.5393160135035964
+investment,3.057915057915058
+claim in that suit,0.5
+security to the plaintiffs,0.0
+account,2.5754891049671977
+companion suit,0.5
+case of this nature,1.1818181818181819
+cmf,1.875
+file,1.3720673638585223
+that the defence,1.1428571428571428
+behalf of the plaintiffs,1.0
+contempt proceeding arises,0.5
+suit,2.485274378207659
+perjury,0.6666666666666666
+defendant,3.7706855791962175
+dues,1.2780386019822638
+balance,0.9863636363636363
+law,3.538923411654744
+nos,1.2635492554198444
+time,2.4764180952862667
+conformity with plaint,0.5
+plaintiff,2.177926421404682
+false statement,0.7386363636363635
+allegation,1.834319526627219
+for securities,0.5
+good answer to the show cause,0.5
+sum of rs,2.125
+order to effect transfer,0.5
+special court prima facie,0.5
+crores from the bank,0.5
+that amount,0.5714285714285714
+committee report,0.16304347826086957
+refund,2.670692431561997
+affairs,0.8608695652173913
+executive,1.3789130780232004
+fine of rs,1.6
+hereinafter,0.7670609645131939
+prosecution,4.619407894736842
+offences,1.6681887366818873
+imprisonment,1.4344262295081966
+certain security,0.5
+liabilities,1.0606060606060608
+various portions of the evidence,0.5
+india,2.7684068260703585
+simple imprisonment,1.3
+aforesaid circumstance,0.75
+mutual,0.6917350639435006
+explanations,0.4655172413793104
+commitment,0.382608695652174
+basis of facts,0.75
+on the basis of pleadings,0.6666666666666666
+abuse of process,1.0
+outset,0.5899159663865546
+connected suit by cmf,0.5
+personal knowledge of the transactions,1.0
+consequence to the administration,0.0
+formulation,2.2418478260869565
+cheque,6.749999999999999
+learned judge in the course,0.5
+fresh sgl form,0.5
+own documents,0.5
+answer to the show cause,0.5
+ltd,2.382356477306883
+evidence,3.6676405172088815
+document,1.401100265092073
+connected suit,0.5
+disadvantage,0.9298245614035088
+ist defendant in the sum,0.5
+consequences,0.6659897713598075
+aforesaid circumstances,0.75
+stand of the bank,0.6666666666666666
+replacement,0.5521844660194175
+expression of genuine remorse,0.5
+crimes,0.7056429734129138
+circumstance of the case,0.5
+plaintiff from the ist,0.0
+india security transactions,0.5
+case,7.332269420884958
+period,1.9480170842427122
+affair,0.8341728395061728
+tendencies,0.2692307692307692
+letter,2.707240080105903
+mischievous consequences,0.5
+defendant in the sum,0.5
+records of the defendants,0.5
+crores from the plaintiffs,0.5
+aforesaid transaction between the ist defendant,0.0
+basis of material,1.1666666666666667
+investment business,1.0
+statements,1.110873440285205
+false defence,0.5
+service,4.257395095954566
+acharya,2.1666666666666665
+portion,1.0756311179804223
+contention,1.666391070690368
+transfer form,5.25
+clutches,0.2763157894736842
+crore from the bank,0.0
+transfer forms,3.0
+proceedings,1.7670925223666287
+favour,1.653145208700764
+other party in this matter,0.5
+allegations of fact,0.6666666666666666
+deponent,1.8333333333333333
+statement cmf,0.5
+jankiraman s committee report,0.0
+office,3.5913445886237847
+plaint in suit,0.5
+original sgl transfer form in respect,0.5
+chief amount,0.5
+defendant sgl account,0.5
+security on behalf,2.0
+face value rs,2.0
+plaintiffs cheque,0.5
+imprisonment for a period,1.375
+attempt,0.7943782192788815
+process,1.6274942048088725
+basis of pleadings,0.6666666666666666
+tendency amongst parties,0.5
+defendant transaction with the plaintiffs,0.0
+notice,2.3300025999395686
+contempt proceeding arise,0.5
+particular,1.5248953455371081
+trustee,1.466666666666667
+trial of offences,1.5
+such statement,0.5689655172413793
+sgl transfer form,6.0
+position in regard,0.75
+face value of rs,1.6666666666666667
+security of the aggregate face value rs,0.0
+extent of rs,1.0
+examination,2.4920345926263088
+transfer form for rs,0.5
+canbank mutual fund,1.5
+spite of fact,0.5
+general manager,0.9625000000000001
+order under appeal,1.0
+canbank investment services,0.5
+transaction of investment,2.0
+mr narichania,0.5
+position,1.549133168619177
+liability on part,0.5
+remorse,0.5
+clutches of law,0.5
+one,4.845669314438648
+sgl form,2.6666666666666665
+views,0.6965871413779037
+aforesaid transaction,1.6666666666666667
+notices,0.5487269534679544
+manoj,0.32142857142857145
+transactions,6.503443526170798
+aforesaid transactions between the ist defendant,0.5
+consideration,1.9110153789142115
+bank s letter,0.0
+mr acharya s letter,0.0
+fund,2.9945256868353374
+part of the evidence,1.3333333333333333
+available to the appellant,0.875
+assistant general manager,0.6666666666666666
+value,1.7137907830478438
+mutual fund,1.25
+documents,1.142515923566879
+defendant in the course,1.0
+party in this matter,0.5
+liable for securities,0.5
+party to litigation,0.3333333333333333
+false statements,0.4
+outstanding till,0.5
+jankiraman,1.0
+receipt,1.5471923536439667
+securities to the plaintiffs,0.5
+s rajendra babu,1.4444444444444444
+proceeding,2.1298245614035087
+outcome of hearsay,0.5
+cash memo,0.5
+sgl form for that amount,0.0
+such averments,0.6666666666666666
+aforesaid transactions,1.6666666666666667
+judge,2.9012627415183325
+legal obligation,0.6000000000000001
+good answer,0.2608695652173913
+proceedings in relation,0.8333333333333334
+basi of personal knowledge,0.0
+transfer of securities,0.5
+aggregate race value of rs,0.5
+defendant obligations,0.5
+affidavits,1.954022988505747
+transaction in securities,0.75
+course of the order,1.0
+cash memos,0.5
+record on the basis,0.6666666666666666
+face,0.7281253260594137
+weeks,0.8109161793372318
+ist defendant obligations,0.5
+clutch of law,0.0
+security,1.5014864864864865
+want of insufficient balance,0.5
+pursuant,0.7227692307692308
+relevant time,1.008
+contempt of court,0.8214285714285716
+indian penal code,5.264705882352941
+circumstances of the case,1.3373493975903614
+documents of independent parties,0.5
+mr hiten,0.5
+banks,6.73024
+karad ltd,7.0
+race value of rs,0.5
+iii,1.5614499719992534
+show cause notice,2.9565217391304346
+conformity,0.71875
+scb,0.29358626919602526
+tendency,0.5150501672240803
+contentions,0.9641025641025641
+cash,1.4775207900207898
+busines,2.8488759960122034
+clearance,4.090225563909774
+plaintiff from the ist defendant,0.0
+false statement of fact,0.5
+circumstances,1.3944461370073231
+appellant,14.387096774193548
+obligation,1.1071428571428574
+week,0.8253498691546249
+acbbom,0.5
+manager,1.7133044010756409
+allegation of fact,0.0
+public,2.923239095873367
+memo,1.4242074188165834
+effect transfer,1.0
+answer,0.9554305705177771
+hiten,1.1199999999999999
+jurisdiction,2.9539571926331507
+note,1.3654108484234107
+trial,3.7979448350459712
+race,0.6810000694251597
+hearsay evidence,0.5
+certain securities,1.0
+general,1.7536558414534391
+transactions of investment,1.0
+june,0.9339080459770116
+nothing in law,1.6666666666666667
+internal inquiry,0.5
+face value,1.053191489361702
+various portion,0.5
+nature,1.4149926876444778
+enquiries with hiten dalal,0.5
+affair of the canbank,0.0
+let defendant,0.5
+relevant records,1.1428571428571428
+fresh sgl forms for that amount,0.5
+appellant read in order,0.5
+time to the disadvantage,0.5
+bank of karad ltd,7.0
+kind,0.9236881920088026
+sum,2.554898897856461
+insufficient balance,1.0
+reference bank of india,0.5
+court prima facie,0.5
+attention,0.8724846605528799
+action,3.127292663476874
+chartered,1.5
+same security between the plaintiffs,0.5
+stand of the plaintiff,0.5
+stand that the transactions,0.5
+account of insufficient balance,0.5
+debt,3.4485322896281807

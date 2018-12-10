@@ -1,0 +1,216 @@
+further contention,1.0769230769230769
+motor accident claims tribunal,1.3333333333333333
+that view of the matter,1.553191489361702
+court in the case,1.3333333333333333
+purpose of claim,0.5
+cost,1.2954397451466992
+kaushnuma begum,0.5
+scmanu,7.940520446096654
+judgment of the high court,1.721311475409836
+notice,2.3300025999395686
+judgments of the high court,0.75
+amount,3.179688593072295
+appropriate multiplier in the case,1.0
+mind,1.1559066143122394
+consideration of the submissions,0.5
+claimants in this case,0.6666666666666666
+motor vehicles act,2.8461538461538463
+dhanurjaya suna,0.5
+question of appropriate multiplier,1.0
+monthly income,1.3333333333333333
+jindal vijayanagar steel at sandur taluka,0.5
+such case under the motor vehicles act,0.0
+motor accident compensation cases,0.5
+begum,0.717948717948718
+sandur,0.5
+ms suri that no reason,0.5
+terms,2.390350840909655
+filing,1.1274190041313328
+salary,1.6193181818181817
+company,5.864471879286695
+high,5.367119186841496
+dhanurjaya,0.5
+submission to the question,0.0
+total compensation amount,0.75
+cases under the motor vehicles act,0.5
+interest,2.74353772015385
+reason,2.6381270903010035
+court,12.24425115501509
+insurance company,1.4965986394557822
+new india assurance co ltd,1.3333333333333333
+vehicles,1.4161490683229814
+such cases under the motor vehicles act,0.5
+position,1.549133168619177
+interest at the rate,2.3
+year on the date,0.0
+compensation from the date,0.5
+applicable in the case,0.8571428571428571
+petition,5.3436539306104525
+ample substance in the contention,0.5
+ors,2.8612718198296623
+purpose,2.519170317925504
+cros,1.8137948361162648
+karnataka,3.8596491228070176
+interest per annum,1.1111111111111112
+that rate,0.3555555555555555
+insurer,8.041666666666664
+cutter,0.16666666666666666
+consideration,1.9110153789142115
+compensation amount,1.75
+cases,1.9728229418951067
+matter,2.8088923076923082
+cross,2.0778316690442225
+relevant factors,0.8608695652173913
+mfa,0.4705882352941176
+realisation,2.1538461538461537
+further contention of ms  suri,0.0
+term,3.6255105640901575
+suna,0.27969121140142517
+in the case,1.732770745428973
+age,4.526374474274117
+sum of rs,2.125
+insurance,1.7782738095238095
+district,1.5506763074237984
+alongwith cross appeal,0.5
+view,2.441100058469462
+in a case,0.8742216687422166
+claim,2.817264601856604
+second schedule,1.8
+victim of the accident,0.5
+second schedule under section,0.5
+assurance,0.9418901660280969
+question of interest,1.6666666666666667
+appeal,3.4125488033856883
+accident ie,0.5
+determination,1.5980374665477253
+hereinafter,0.7670609645131939
+steel,1.615214878638226
+claim petition till realisation,0.5
+scr,2.483838975311538
+manuscmanusc,7.940520446096654
+payable in a case,0.5
+gas cutter in m  s,0.0
+substance,0.8230581678857541
+jindal vijayanagar steel,0.5
+sandur taluka,0.5
+counsel,2.2246780703440323
+salary of rs,1.3333333333333333
+month,1.3454861111111112
+order of the tribunal,2.0
+year,2.8349484769759212
+suri,0.750382262996942
+guideline,1.5641711229946524
+award,3.104213525266157
+india,2.7684068260703585
+court on appeal,0.5
+accident,1.7464867454487383
+ms kiran suri,0.5
+vijayanagar,0.5
+mvc,0.27999999999999997
+judgment,3.288216560509554
+substance in the contention,0.75
+district of the state,0.6666666666666666
+claims,1.1941982272360998
+overtime,1.5298013245033113
+guideline for the purpose,0.5
+claimant,2.3438596491228068
+insurer of the vehicle,0.5
+realization,0.6944444444444444
+order,5.472481489660944
+appropriate rate of interest,0.5
+karnataka in mfa,0.5
+counsel for the appellant,1.9621212121212122
+years on the date,1.25
+new,0.9418497626301229
+owner,2.9502416709822197
+learned counsel,3.703333333333333
+act,12.870263922028107
+relevant factor,0.8663594470046083
+high court on appeal,0.5
+bellary,0.6666666666666666
+to the claimant,2.0
+smt,0.7459757206267715
+vehicle,2.973111766564837
+jindal,0.6666666666666666
+determined net income,0.5
+overtime allowance,1.0
+claimant in this case,0.0
+learned counsel for the parties,1.263157894736842
+such cases,0.7390180878552971
+amount of compensation,3.375
+submissions,0.5235745614035088
+claimants,1.8627450980392155
+ltd,2.382356477306883
+payable to the claimants,0.6666666666666666
+perusal of the judgment,0.6666666666666666
+bellary district,0.5
+submission,1.0913871684001404
+bellary district of the state,0.5
+motor accident compensation case,0.5
+appellant,14.387096774193548
+motor,1.832417821954835
+annum,2.25
+purpose of determination,1.3333333333333333
+case under the motor vehicles act,0.0
+ample substance,0.5
+victim,1.204831365285174
+counsel for the parties,1.263157894736842
+claim till the date,0.6666666666666666
+extent as above,0.5
+extent,1.410108024691358
+high court,7.7477477477477485
+india assurance co ltd,1.5
+parties,1.8210828547990157
+allowance,2.1019607843137256
+contention of ms  suri,0.0
+state,6.817996007300392
+appropriate multiplier,2.75
+case,7.332269420884958
+such case,0.7332761578044598
+years,2.5395804110508022
+multiplier in the case,1.0
+section,9.287987283173626
+- per month,0.0
+multiplier,3.466666666666667
+manu,7.078142071124147
+rate,3.088725136774248
+second schedule to the act,1.3333333333333333
+appeal for compensation,0.5
+party,2.2250894654439723
+judgments,1.2355646397547266
+factors,0.9829522460542292
+rate of interest,9.666666666666666
+factor,1.2878742338904643
+the act,5.708327371273712
+case since the claim,0.5
+therefore,2.960332350576253
+schedule under section,0.6666666666666666
+contention,1.666391070690368
+- as compensation,0.0
+compensation under section,1.4285714285714286
+per annum,2.25
+gas cutter,0.5
+tribunal,5.07183212267958
+taluka,1.1
+income,2.734813573523251
+schedule to the act,1.5454545454545454
+kiran,0.6461538461538461
+submissions to the question,0.5
+date,6.195616975795285
+gas,1.240010731232918
+sum,2.554898897856461
+compensation,3.7916666666666665
+ms suri,1.0
+perusal,0.750733137829912
+appropriate rate,0.6666666666666666
+overtime allowance from the monthly income,0.5
+respondent,4.757894736842104
+determination of compensation,1.7777777777777777
+respondents,2.6341263330598856
+to the claimants,1.6666666666666667
+schedule,2.9453067257945307
+kaushnuma,0.5
+leave,1.0147842365477848
+date of filing,1.0588235294117647
+costs,0.8167395522604189
+question,2.980312372067635

@@ -1,0 +1,1852 @@
+government,3.5583785424010483
+allowances,1.642105263157895
+goods for consideration,0.5
+similar matter,0.42857142857142855
+power in order,0.5
+unfair trade practices,1.5
+establishment,0.9899216125419933
+terms of section,1.98
+marked awarenes,0.5
+purity,0.8724489795918368
+pass,2.510543963686946
+procedural wrangle,0.5
+circumstance of each case,0.0
+legislative competence of parliament,1.75
+respect of these entries,0.6666666666666666
+draft guidelines for consumer protection,0.5
+other remedies,0.4
+union,2.0981927710843373
+v shrinath chaturvedi manuscmanusc,0.5
+appellate court by a party,0.5
+courts bill,0.5
+cause,1.8431210321626654
+way,1.7812722068664852
+same manner,0.6079182630906769
+regard to the recent decision,0.5
+calculation,0.8853448275862068
+that such contingency,0.5
+wrangles,0.4444444444444444
+supreme court in the absence,0.5
+court by a party,0.5
+power of high court,0.5
+district,1.5506763074237984
+state bank of bikaner,0.5
+public affair,0.7894736842105263
+original jurisdiction of the supreme court,0.5
+ordinary law for all intent,0.5
+access to an authority,0.5
+of opinion,0.6801075268817204
+grievances of consumers,0.5
+transfer,1.9975047057658015
+correctnes,0.8404159132007234
+competence of parliament,4.25
+cooperation in the field,0.5
+sole factor,0.75
+scr,2.483838975311538
+abdul,1.5086206896551726
+beneficiary of such services,0.5
+imbalance,0.34871794871794876
+expert,2.5786336542870245
+circumstances of this case,1.1363636363636365
+basic structure of the constitution,0.8
+suitable amendment,0.8
+marketing of goods,0.5
+piece,0.8682170542635659
+appellants petitioners,0.5
+subject,2.4420366233344897
+order,5.472481489660944
+edn,0.4833395383469844
+alternative system of consumer justice,0.5
+objects ad,0.5
+effect changes,0.5
+standards,1.312168199737188
+medical,1.633306645316253
+statement of objects,1.565217391304348
+execution to a court,0.5
+plenary power of the parliament,0.5
+majority opinion,1.1666666666666667
+that the decisions of the district forum,0.5
+power of parliament,2.2
+term of article,0.0
+member,2.649111111111111
+similar matters,0.4
+functioning,0.9337944664031622
+parties,1.8210828547990157
+allowance,2.1019607843137256
+civil procedure,5.448275862068965
+such services,0.6666666666666666
+central consumer protection council,0.5
+contrary view,0.7464114832535885
+such power implies,0.5
+servant,2.030552291421857
+expertise,0.7351351351351351
+patterns,0.291358024691358
+condition,2.259476395625584
+decision of the forums state commissions,0.5
+business house,0.5
+hires,0.4150943396226415
+present case,1.5611814345991561
+bare perusal,1.25
+fiction,0.7938733125649013
+list iii of the seventy schedule,0.5
+viith schedule of the constitution,1.3333333333333333
+protection of the interests,1.0
+satisfaction that the good,0.5
+isse non potest,0.5
+consideration before this court,1.0833333333333333
+economics,0.5293367346938775
+enterprises,0.948060941828255
+event of any difference,0.5
+helplessnes of a consumer,0.0
+grievances before a forum,0.5
+fault,0.8125244007183572
+exploitation of consumers,0.5
+president of the district forum,0.5
+district forum,15.333333333333334
+larger sense of user,0.5
+powers,1.876345371920593
+empower,0.9420289855072463
+complaint on behalf,1.0
+consumer movement,0.6666666666666666
+term of entries,0.0
+v psg,0.30000000000000004
+adequate protection,0.6666666666666666
+v vp,0.2857142857142857
+various field,0.8
+scheme,3.415949119373777
+such good for resale,0.0
+president,2.1267129228100607
+subsidiary matter,2.0
+technicalities,1.0
+rawat,0.6666666666666666
+charge,2.7679815308681284
+common man helples,0.5
+high courts,2.676470588235294
+list iii,9.615384615384615
+mutandi,1.25
+country,1.2903191103863751
+brief in support,0.5
+court in a large number,0.6666666666666666
+atiqa begum manufemanufe,0.75
+courts act,0.923076923076923
+complaints,0.9978858350951374
+forums  commission,0.0
+higher forums,0.5
+following observations,0.8222222222222223
+state government in the state,0.6666666666666666
+felt necessity,0.5
+bearing,0.7901184156798694
+engineer,3.318922187370092
+supplier,0.5907692307692307
+consumer protection resolution,0.5
+view of the constitutional scheme,0.5
+prabhu,1.0
+remedy in a civil court,0.5
+conflict,1.314561353483509
+reasonable implication from the provisions,0.5
+dr rd,0.5
+provinces,0.49769585253456217
+bodies,0.8969063256135499
+recognition,1.4333333333333333
+judgment of the karnataka,0.5
+local limits,1.4444444444444444
+marked awareness among the consumers,0.5
+final step,0.2692307692307692
+helplessness against a powerful business house,0.5
+population as consumers,0.5
+abdul khader case,0.5
+such construction,1.0
+provision of the contempt,0.0
+judicial standards,0.5
+non potest,0.5
+parallel,0.6032265606733692
+resolution,1.771256437663978
+vires of the consumer protection act,0.5
+remedies to consumers,0.5
+anr,1.1271033322299457
+special,1.7363344051446945
+purchaser of goods,0.5
+such contingency,0.5
+secretary general,0.40909090909090906
+right of the consumers,1.0
+framework,0.5828468792096991
+law for the time,1.945945945945946
+that compensation,0.8333333333333334
+last few year,0.34234234234234234
+treatment in the matter,0.6666666666666666
+applicability,1.0928961748633879
+doubt,1.3646267723102583
+high court in dk,0.6666666666666666
+bar,1.4720990391722097
+navinchandra mafatlal v cit,0.5
+cardinal principle of interpretation,0.6666666666666666
+procedure as regards,0.5
+power imply,0.0
+protection,1.1604395604395603
+majority opinion of the members,0.5
+appropriate forums,0.3333333333333333
+laxmi engineering,0.5
+principle,1.9620890732001848
+united province,0.8
+anything,0.9132309941520469
+ends,1.0190933803699291
+factor,1.2878742338904643
+seventh,2.451612903225806
+commencement,1.2037037037037035
+high level,1.2790697674418605
+servants,1.1313131313131313
+quasi - judicial bodies authorities agencies,0.0
+interpretation clause,0.875
+alternative system of consumer jurisdiction,0.5
+relation to any service,0.5
+assess,4.0251399052948775
+division bench,3.965217391304348
+avails of any services,0.5
+widest amplitude,1.8571428571428572
+consumers,3.861290322580645
+fields,0.9241650294695481
+commission-,0.0
+works,1.7935487434410384
+administration of justice,1.1092436974789917
+schedule,2.9453067257945307
+services to consumers,0.5
+helplessnes,0.5962732919254659
+hierarchy,1.0694444444444446
+implied power,0.6666666666666666
+store house,0.5
+constitutional provision,0.7307692307692307
+approach,1.001908852302553
+consumer disputes,3.111111111111111
+reason of the act,0.0
+national consumer dispute,1.0
+commerce,2.221288515406162
+vishwabharathi house,0.6666666666666666
+gwyer,1.0
+supreme court,1.4278957326045825
+begum,0.717948717948718
+asses,3.6469028181356946
+piece of legislation,1.3
+high,5.367119186841496
+payment,2.059553716565686
+following terms,1.5957446808510638
+legal fiction,1.6
+cooperative society arise,0.5
+event,1.4310854436179261
+grave hardship to the applicant,0.5
+word in a constitutional enactment,0.0
+conceditur,1.0
+civil court,3.706666666666667
+english,0.9836154262307752
+engineering,1.3567493112947657
+arabind,0.6666666666666666
+quasi - judicial bodies authorities agency,0.0
+implication from the provisions,0.5
+cardinal rule,0.7500000000000001
+in some cases that the president,0.5
+allegation,1.834319526627219
+fast rule,0.5798816568047337
+court in the absence,0.5
+lucknow development authority v mk,0.5
+functioning thereof,0.5
+member of the state commission,0.5
+shantha,0.3
+delhi high court bar association,0.75
+other authority for the settlement,0.0
+following practices,0.5
+general assembly of the united nations organisation,0.5
+affairs,0.8608695652173913
+state of karnataka,1.9259259259259258
+other statutes,0.75
+hereinafter,0.7670609645131939
+independent consumer groups,0.5
+order of injunction,1.2222222222222223
+parallel civil courts,0.5
+experience,1.0353951355971713
+exces,0.9881465517241379
+united provinces,0.8
+commission,4.703619179345321
+banking tribunal,3.0
+attitude,0.4886970172684459
+criminal court parallel,0.5
+powers in order,0.5
+acces,1.6146156832298137
+sinha,0.8166351606805294
+second high court,0.5
+viith schedule,3.5
+evidence,3.6676405172088815
+creation of special courts,0.5
+traditional court,0.5
+manufacturer,1.7352281226626773
+negotiation,0.6679035250463822
+content thereof,0.5
+desires,0.5601415094339622
+emphasi,0.9191619047619048
+annexure,2.7560975609756095
+vire of the consumer protection act,0.0
+additional power upon the forum,0.5
+bikaner,0.5
+international levels,0.30000000000000004
+factors,0.9829522460542292
+for reappointment,0.5
+rate minimizes,1.0
+competitive prices,0.3333333333333333
+discussions,0.6699766355140188
+singh,3.7791111111111113
+wrong,1.2933182103578877
+purposes,1.4391216613438835
+agencies,0.9094581337642103
+quality,1.3318577075098814
+detailed procedure as regard,0.5
+district forums,2.0
+service,4.257395095954566
+speedy remedies to consumers,0.5
+therefore,2.960332350576253
+end,6.1484001628618765
+opposite party,2.3333333333333335
+rule,5.04
+mohindra v,0.5
+adequate knowledge,0.9333333333333332
+expertise in the subject,0.5
+proceedings,1.7670925223666287
+benevolent pieces of legislation,0.5
+basi of the following observations,0.0
+scr manuscmanusc,1.0
+following observation,0.8039215686274509
+avails,1.0
+chandra,0.7012987012987013
+other authorities for the settlement,0.5
+impossible situations,0.5
+laxmi,1.25
+civil appeal,2.2413793103448274
+legitimate step,0.5
+- judicial powers,0.0
+costs,0.8167395522604189
+shantha manuscmanusc,0.5
+cooperative,1.4295572167912591
+hazardous to life,1.0
+attempt,0.7943782192788815
+levels of ethical conduct,0.5
+decision of the district forum,0.0
+submission of the learned counsel,1.0769230769230769
+union territory,3.066666666666667
+modi,1.248798010500138
+l chandra kumar v union of india,0.6666666666666666
+power,3.8165227690948367
+composition,1.4736842105263157
+woman,1.316528681253696
+such special tribunal,0.5
+due consideration,1.1111111111111112
+independence of the judiciary,1.8
+provide,3.0496848599534587
+bare perusal of the section,0.5
+store,0.6686444634658782
+matters in this list,1.0
+public affairs,0.7894736842105263
+grievance before a forum,0.0
+judicial work,0.6666666666666666
+own order,0.75
+store house of inaction,0.5
+position,1.549133168619177
+recourse to some other remedies,0.5
+one,4.845669314438648
+upon consultation with the chief justice,0.5
+petition,5.3436539306104525
+surindra timber stores manuscmanusc,0.5
+remedy,1.3214024835646458
+guidelines,1.540251572327044
+competitive price,0.2727272727272727
+consideration,1.9110153789142115
+substitute of the civil courts,0.5
+welfare of the society,0.75
+- judicial tribunals,0.0
+words,1.6384367086179112
+penalty,1.5165226929932814
+clause,3.526455026455027
+extensive discussion,0.2727272727272727
+redressal forum,1.1666666666666667
+common man helpless,0.5
+from section,1.105263157894737
+other law,0.991304347826087
+way of imprisonment,0.5
+need for consumer redressal fora,0.5
+standing,1.224042586942808
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+act provide for adequate safeguards,0.5
+jj merchant,0.5
+room for the apprehension,0.5
+postulates,0.4208754208754209
+lis,3.299683526578166
+imbalances,0.38095238095238093
+institute manu  scmanu  sc,0.0
+performance,1.4794327394994442
+such service,0.6666666666666666
+number of cases,0.5
+experts,2.4829710144927537
+suffer,0.9987778769729485
+commissions,1.3666666666666667
+desires of consumers,0.5
+national,1.5126860273884035
+court in a suit,1.0
+purpose of the act,1.7
+means,1.3868295182781003
+act supplement,0.5
+such powers,1.0833333333333333
+clarity,0.5142857142857143
+supreme,1.443815331010453
+criminal court parallel to a high court,0.5
+sixty-seven years,0.0
+requirement,1.2416133333333332
+great significance,0.75
+derogation thereof,0.6666666666666666
+vire,1.2466124661246614
+forum  commission,0.0
+local limit,1.4444444444444444
+deal,2.1942302694273583
+intention of the rule,0.5
+general,1.7536558414534391
+aliquid,0.5
+banking,2.1351674641148324
+self,1.6847516412733803
+ancillary to the powers,0.5
+language,0.8555828468744352
+intendment,1.4375
+marked awarenes among the consumers,0.0
+socio,0.5934684684684685
+grammatical meaning subject to this rider,0.6666666666666666
+other allowances,1.4285714285714286
+scheme of the act,1.5238095238095237
+see,2.8180360783074034
+act exercise,0.6666666666666666
+nature,1.4149926876444778
+power of judicial review,1.6666666666666667
+recording of evidence,1.5714285714285714
+such goods,3.1818181818181817
+court for appropriate relief,1.0
+president of the state commission,0.5
+effect that an order,0.5
+behalf of the petitioners,1.8333333333333333
+than a court subordinate to the high court,0.5
+english law,1.1616161616161615
+petitioners,3.536507936507937
+something,0.5915378827342709
+terminology,0.42500000000000004
+other remedy,0.8
+judge of the supreme court,1.0
+potency,1.05
+viith,3.5
+thing,1.1131787570209408
+abusive business practice,0.5
+servant of high courts,0.0
+enactment,1.439950980392157
+capacity,1.7421691881525676
+jurisdiction of a high court,1.0
+quasi-judicial power for redressal,0.0
+resale,0.3586956521739131
+conceditur ed id since quo res,0.5
+other point,0.4927536231884058
+das,1.508694082231246
+consumer redressal fora,0.5
+seventy,0.5561497326203209
+other terms,1.2222222222222223
+that legislative competence,0.6666666666666666
+responsibility,0.8659259259259259
+batch,1.2940630797773658
+a network,0.4797979797979797
+sections,1.640495469442838
+goods for resale,0.5
+matters,1.4810665618448637
+interim order,2.9166666666666665
+los,1.8125523261338943
+evident that remedies,0.5
+inter,3.683850287482992
+court,12.24425115501509
+large number of consumers,0.6666666666666666
+manufacturers,1.1404255319148935
+parliament,2.6571235781762095
+basic structure,0.8666666666666667
+wrangle,0.2619047619047619
+provision for transfer,0.6666666666666666
+person,4.291511329454258
+allegations,1.8333333333333335
+correctness,0.8404159132007234
+entries,2.110809342748506
+as the provision,1.1764705882352942
+other members,0.59375
+consumer group,0.5
+established case,0.5
+price of goods,0.5
+composition of the state commission,0.5
+interim orders,1.5238095238095237
+other provisions,1.9
+price in excess,0.5
+age,4.526374474274117
+number,1.4802651440973922
+decision,2.9514937765898557
+rate minimize,1.0
+pieces,0.6062837506136476
+commission ie,0.5
+draft guidelines,0.5
+impossible situation,0.3333333333333333
+history,0.5728887807252372
+claim,2.817264601856604
+changes,0.8318262938726949
+establishment of consumer disputes,0.5
+house,2.0021735292386764
+large trading,0.5
+justice of india,2.1333333333333333
+society v union of india manu  scmanu  sc,0.0
+problems,0.7376119010005265
+interpretation,1.518366298484459
+members of the state commission,2.3333333333333335
+year,2.8349484769759212
+rights of the consumer,1.0
+judgment,3.288216560509554
+development of market conditions,0.5
+positive power,0.6666666666666666
+hire,0.7466666666666667
+preamble,0.34324942791762014
+remedies,0.6206451612903225
+conceditur ed id,0.5
+loss,2.0689655172413794
+act,12.870263922028107
+matter in this list,0.0
+that power,0.6764705882352942
+addition to any other mode,0.5
+guideline for consumer protection,0.0
+moderation,0.22916666666666669
+forums state commission,1.3333333333333333
+safeguards,0.5785123966942148
+rider,0.4313304721030043
+reasons of the act,0.8333333333333334
+level,1.1533169827122092
+detailed procedure as regards,0.5
+- judicial power,0.0
+man helpless,0.5
+desk,0.16999999999999998
+appropriate entry,0.6666666666666666
+correctness thereof,0.5
+legislative competence,7.153846153846154
+setting,0.7533735285673271
+grave hardship,0.5
+object of the legislation,1.0
+synco industries,0.5
+section,9.287987283173626
+every court,0.4444444444444444
+bare perusal of the aforementioned provisions,0.8333333333333334
+herein,2.825259515570934
+larger sense,0.3333333333333333
+settlement in consonance,0.5
+correct law,0.9230769230769231
+thereunder,1.2794117647058825
+interpretation of section,1.5
+constitutional scheme,1.6363636363636365
+consumer dispute,3.6666666666666665
+seventh schedule,6.733333333333333
+standard,1.4669008088548319
+officers,2.442124212421242
+business practice,1.0000000000000002
+exercise of such power,1.0
+consumer act,0.5
+charan singh v,0.8
+regard,2.723310344827586
+to the disposal of disputes,0.5
+special court,5.7
+certain observations,1.1111111111111112
+knowledge,1.1120671641791045
+direction,1.8495050210098996
+agency,1.8968779259354924
+money,1.6567889044524557
+rights,1.6349541930937281
+item,1.3319648896447913
+few cases,0.4102564102564103
+deliberations,0.625
+facts,1.4696673624372698
+traders,0.5588235294117647
+union of india v harbhajan singh dhillon scr manuscmanusc,0.5
+writing,1.1746753246753248
+lists,1.1177777777777778
+- compliance,0.0
+approval of such person,0.5
+step in order,0.0
+population as consumer,0.5
+navinchandra,0.75
+expres,2.3455332782538525
+milestone in history,0.5
+execution thereof,0.5
+supply of any goods,0.5
+benefit,2.604810195438474
+rights of the parties,1.1764705882352942
+non-compliance,0.0
+cost,1.2954397451466992
+desire,0.6008255933952529
+contempt,1.5446913580246913
+voluntary consumer association,0.5
+power implies that all legitimate steps,0.5
+ultimate power,0.5
+powerful business,1.0
+understood,0.8127711496746204
+virtue of clause,0.5
+sub,7.816899313759727
+deficiency,0.5102880658436214
+perusal of the aforementioned provisions,0.8333333333333334
+registered society v union,0.75
+company,5.864471879286695
+groups,0.9065945998117897
+cardinal principle,0.8571428571428571
+manner of doubt,1.0
+authorities under the act exercise,0.5
+unfair trade practice,1.8
+excess,0.9860601614086574
+field,1.5820968371729793
+inasmuch as the provision,0.75
+matter,2.8088923076923082
+relation,1.397320207820618
+law for all intent,0.5
+business practices by all enterprises,0.5
+enterprise,0.921565795175502
+economic,1.263998382858298
+observation of the high court,0.6666666666666666
+bearing on the deliberations,0.5
+speedy remedy,1.25
+deceptive practice,0.3333333333333333
+indian,1.2604961505560306
+liability,2.532836248924577
+formal procedures of a court,0.5
+good for a consideration,0.0
+powers of all courts,1.0
+significance,0.6059966216216216
+arabind das v state,0.5
+other forums  court,0.0
+traditional courts,0.5
+intermediate step in order,0.0
+member thereof,0.75
+- hazardous products,0.0
+such attempt,0.3888888888888889
+court from an order,0.5
+banking tribunals,1.3333333333333333
+quo res,0.5
+relevant provision of the constitution,0.0
+procedure,2.552771605064117
+petitions,1.3930830039525692
+hereinbefore,2.159090909090909
+mafatlal,1.8571428571428572
+guideline,1.5641711229946524
+provision,5.439002243350069
+support,0.8630946786249609
+united nations,0.6
+appeal from the order,0.75
+reason of sub-section,0.0
+business,2.8512056385864457
+long felt necessity,0.5
+contravention,2.586206896551724
+importance,0.8632871064467765
+large number,1.0979284369114877
+large number of cases,0.875
+qualitative change,0.6666666666666666
+central council,0.5
+accepted legal principles,0.5
+laws for the establishment,0.6666666666666666
+abusive business practice by all enterprises,0.0
+consumer council,0.6666666666666666
+object,1.4940119760479043
+kumar,2.028839704896043
+such power imply,0.0
+courts for the purposes,0.5
+power to certain authority,0.5
+consumer councils,0.6666666666666666
+in the facts,0.9398907103825137
+extent,1.410108024691358
+practices,1.3187467899332308
+bhat,0.9333333333333333
+permissible for parliament,0.5
+court under article,2.032258064516129
+aim,2.7822546950944274
+review,1.3564101463582128
+whereof,1.2790697674418605
+civil courts for execution thereof,0.5
+delhi,2.6089285714285717
+issues,1.1246716508385532
+mandate that the proceedings,0.5
+reason of section,0.875
+approval,1.4085456739300164
+imbalance in economic terms,0.0
+level of ethical conduct,0.0
+social,1.161734693877551
+than the person,0.6000000000000001
+such tribunals,1.0
+other provision,1.281045751633987
+same power,0.6018518518518517
+bill,1.134631348577466
+firm opinion,1.0
+judge of high court,1.5
+howsoever,0.8333333333333334
+imperfection,0.22499999999999998
+speedy remedies,0.5
+admissible in the present case,0.6666666666666666
+-b do,0.0
+principles,1.3198511166253102
+appropriate relief,1.0
+feature,0.6446262956901254
+ethical conduct,0.5
+council,1.464939453675021
+international level,0.30000000000000004
+substitute,1.042145593869732
+true that the decision of the district forum,0.0
+central level,0.6666666666666666
+amendments,1.2633895818048422
+none of the items,1.0
+universal application,0.8666666666666667
+society v union,0.75
+writ,2.8882378560889794
+benevolent piece of legislation,0.5
+need,1.1097650269586634
+assembly,2.613006617038875
+act strike,0.5
+use by a consumer,0.5
+mode,0.8201666928762384
+modi manuscmanusc,0.5
+chairman whereof,1.0
+to the power,0.5555555555555556
+damages depend,0.5
+fees,0.9865534324133051
+common man,0.5982905982905983
+emphasizing,0.44932432432432434
+power implies that all legitimate step,0.5
+gupta,0.7610062893081762
+clear that these forumscommissions,0.5
+such cost,1.3333333333333333
+gobind,1.2857142857142858
+consumer education,0.5
+satpal,2.6666666666666665
+change,1.2214862766571903
+charan,1.1111111111111112
+cases,1.9728229418951067
+division,1.7657319129617017
+such hierarchy of consumer courts,0.5
+suppliers of goods,0.5
+non-hazardous products,0.0
+group,1.691932599016908
+court parallel,0.5
+air engineers,0.5
+relevant for this case,0.6666666666666666
+term of section,0.5
+extensive discussions,0.5
+marked awareness,0.5
+presuppose that the forum,0.5
+access,1.61231677279827
+basis of the following observations,0.5
+extraneous consideration,1.2857142857142858
+constitutions,0.40909090909090906
+calculation of damages depends,0.5
+harbhajan,0.6666666666666666
+connection,1.050640279394645
+provision of any other law,0.0
+contempt of such court,0.5
+damages depends,0.5
+limits,0.8405888207868406
+state consumer protection councils,0.5
+jowitt s dictionary,0.0
+ends of justice,1.45
+india,2.7684068260703585
+alse general,0.0
+- technicality,0.0
+claimant,2.3438596491228068
+exploitation,0.6222222222222222
+association,1.2099052684061826
+legislative power,2.1944444444444446
+negotiations among governments,0.5
+other statute,1.1428571428571428
+complainant feels,0.5
+list iii of the seventh schedule,1.4
+civil courts for the purposes,0.5
+self - contained code,0.0
+submissions,0.5235745614035088
+powerful business house,0.5
+power of all courts,0.0
+such as economic,0.5
+merchant,1.09281045751634
+summary trial,2.0
+interest of the consumers,1.6666666666666667
+that matter,0.5503846153846154
+service to consumers,0.0
+provisions of sections,1.44
+market economy,0.30000000000000004
+understood in commercial sense,0.5
+network,0.7548833632401949
+inaction,0.6031746031746033
+fait,0.6765531591637216
+authorities for the settlement,0.5
+scc,1.941872465904902
+law with respect,5.5
+question of the competence,0.75
+few year,0.5598715890850722
+therein for appeal,0.5
+powers of the supreme court,1.0
+such office as president,0.5
+provisions of any other law,1.0
+united nations organisation,0.5
+writ petitions,2.984848484848485
+portion,1.0756311179804223
+consumer from exploitation,0.5
+distribution,2.7289109919449284
+judiciary,1.5942028985507246
+rackets,0.3188405797101449
+system of deferred payment,2.0
+surindra,0.5
+justice chagla,0.75
+other laws,0.5079365079365079
+otherwise of article,0.5
+limited appeal,0.5
+act for redressal,0.5
+procedures of a court,0.5
+hazardou to life,0.0
+end of justice,0.5
+dhillon decision,0.5
+more defects,0.5
+duty,3.2272215973003378
+quo,1.4641201465860294
+contingency,0.4924242424242425
+competence of the parliament,6.0
+criminal court,2.888888888888889
+traders of consumer goods,0.5
+grievances,0.9324324324324326
+manner of performance,0.5
+service provider,2.25
+higher forum,1.5
+assignment,0.6215753424657535
+district courts,0.6666666666666666
+point,2.9165043546008516
+goods,4.7578125
+framework for the consumer act,0.5
+avail,1.1343021914648213
+national commission,4.818181818181818
+chief justice of india,2.066666666666667
+evident that remedy,0.0
+steps,1.169318181818182
+legislatures,1.5314285714285718
+person in pursuance,0.5
+companies act,4.391304347826087
+need of consumers,0.0
+consultation,1.1724137931034484
+lower prices,0.25
+engineers,1.7887874837027378
+list i of the seventh schedule,2.3333333333333335
+writ petition,6.24223602484472
+other points,0.5
+statute quasi-judicial authority,0.0
+submissions of the learned counsel,0.8
+passing,0.8851858023662723
+evident from section,0.8
+possible that such contingency,0.5
+aforementioned provisions,0.875
+reappointment,0.5
+quo re,0.6666666666666666
+trade,1.8307706424423558
+plain reading,1.173913043478261
+abusive business practices,0.5
+mind that consumer,0.5
+authority,2.4352627108360636
+consideration at appropriate forums,0.5
+president whereof,0.5
+accountancy,1.5
+forums  commissions,0.0
+selection,2.2651528696585017
+tier,0.46958981612446954
+development,2.3145884270578647
+question as regard,1.105263157894737
+terms of article,1.5384615384615385
+jowitt,0.5
+power of a civil court,0.0
+inadequacy,0.7777777777777778
+ghmanu,1.0
+relevant provision,1.5737704918032787
+distribution pattern,0.5
+original power,0.38095238095238093
+judicial administration,1.0
+background,0.6800452488687784
+subjects,0.9254185692541858
+minority,0.8717948717948719
+iii,1.5614499719992534
+order of the district forum,0.5
+prejudice,0.880907124598545
+obligation,1.1071428571428574
+member of the national commission,0.0
+such good,1.7676767676767675
+numerous consumers,0.5
+power of the supreme court,0.6666666666666666
+act proclaim,0.5
+restrictive trade practice,1.25
+other authorities,1.8923076923076925
+tenure,2.0160000000000005
+forums state commissions,1.0
+signatory,1.5333333333333332
+complainant,4.538461538461538
+text,0.869556447376715
+quasi-judicial powers for redressal,0.0
+state,6.817996007300392
+statute,2.5765859456247218
+chance,0.7937084625609215
+subsidiary,1.0769230769230769
+power of the parliament,1.238095238095238
+words in a constitutional enactment,0.6666666666666666
+judicial review,2.64
+such provision,0.5079365079365079
+arabind das v state of assam,0.5
+jurisdiction over the area,0.6666666666666666
+conclusion that the claim,0.5
+few years,0.5598715890850722
+that remedies,0.5
+entire act,0.8571428571428572
+airsc,1.6909090909090911
+man,6.972395052694935
+such appointment,1.5
+formal procedure,0.5
+judicial system,0.8333333333333333
+penalties,0.6902761104441777
+consumer good,1.0
+discussion,0.7445831166579996
+such power,0.8907563025210085
+plenary power,1.2857142857142858
+high levels of ethical conduct,0.5
+safety,1.5344583560152423
+constitution in the matter,0.6666666666666666
+manufacturing,1.07831715210356
+appellants petitioner,0.5
+persons,2.5993381990166555
+such banking tribunals,0.6666666666666666
+industries,2.162068965517242
+to the powers,0.6666666666666666
+for the district forum,0.5
+general assembly,0.3846153846153846
+court for the purposes,0.5
+that scheme of the constitution,0.5
+lower price,0.3333333333333333
+such use,0.5333333333333333
+jurisdiction of the forum  commissions,0.0
+speedy resolution of disputes,0.5
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+producer,1.8999999999999997
+timber,0.4266666666666667
+international cooperation in the field,0.5
+courts of a considerable portion,0.5
+greater choice,0.5
+viz,0.7732570026579433
+salary,1.6193181818181817
+meaning,1.8612727545949643
+other than the person,1.0
+femanu,1.25
+limited appeal to the supreme,0.5
+l chandra kumar v union,0.6666666666666666
+sub-clause,0.0
+fee,1.560669497024209
+interest,2.74353772015385
+statutory authority,1.2105263157894737
+plain language,1.1
+production,2.1071428571428577
+hardship to the applicant,0.5
+consonance,1.5
+other authority,1.0666666666666667
+behalf,1.9888053603529987
+consideration in this appeal,0.9090909090909091
+true that the decisions of the district forum,0.5
+information in regard,1.25
+requirement of the act,0.5
+such court,1.7272727272727273
+chief justice chagla,0.75
+unscrupulous manufacturer,0.5
+relevant provisions,1.5
+unscrupulous exploitation of consumers,0.5
+articles,1.4349688743466387
+awarenes among the consumers,0.0
+steps in order,0.5
+amplitude,0.9523809523809523
+goods in competitive prices,0.5
+upon consultation,0.6666666666666666
+defects,0.6712564543889845
+appeal,3.4125488033856883
+user,0.5042401399919236
+widest possible construction,0.6666666666666666
+procedure of a court,0.0
+- hazardous product,0.0
+area,2.675167256985439
+arbitrariness,0.9047619047619048
+basic feature of the constitution,1.0
+alia,0.9479866480753792
+review of the provisions,0.5
+law as regard constitution,0.5
+legislative competence under an appropriate entry,0.6666666666666666
+conjunction,0.4375
+law as the president,0.5
+sub-section,0.0
+different of opinion,0.5
+national consumer disputes,1.0
+court parallel to a high court,0.5
+such as economics,0.5
+possible construction,0.75
+trader,1.3795986622073577
+idea,0.5945499587118084
+air engineer,0.5
+intermediate steps,0.5
+other provision of the constitution,0.5
+completion,1.1868131868131868
+for this case,0.75
+similar complaint,0.5
+office for a term,0.5
+provisions of the contempt,0.6666666666666666
+forum state commission,1.3333333333333333
+list,4.014941314095513
+eligible for reappointment,0.5
+manner,1.4494591333432125
+forums  courts,0.0
+objective,0.5021775147928994
+conditions of service,2.235294117647059
+companies,2.2664576802507836
+pattern,0.6151546391752578
+benevolent piece,0.6666666666666666
+person of ability,0.0
+circumstance,1.429931390219372
+civil,2.126558634963905
+intermediate steps in order,0.5
+mean,2.390645692553228
+b krishna,0.5
+district court,0.9523809523809523
+court except the supreme court,0.0
+perusal,0.750733137829912
+primal question,0.8571428571428571
+assembly of the united nations organisation,0.5
+los of salary,0.0
+regards,0.9072861236185019
+mutandis,1.25
+effect change,0.6666666666666666
+aliquid conceditur,0.5
+contents,0.66519564577817
+thereof,1.7897727272727273
+basi,2.0752712086391383
+preamble of the act proclaims,0.5
+consumer against unfair trade practices,0.5
+chaturvedi,0.6666666666666666
+contract,6.227349970404598
+individual,1.1485140562248994
+awarenes,0.4649122807017544
+distribution of goods,7.25
+basis,1.953226441078104
+such construction of section,0.5
+passing of interim orders,0.5
+directions,1.5134125183504605
+lay,1.6417997860111886
+such special tribunals,0.5
+state bank,7.0
+fair treatment in the matter,0.5
+organisation of all courts,0.6666666666666666
+loss of salary,0.5
+correctness of those reasons,0.5
+implication,0.6615776081424936
+high level of ethical conduct,0.0
+that thing unless something,0.5
+negotiation among governments,0.0
+officer,3.1197242647058823
+amendment,2.2486412346818434
+state consumer protection council,0.5
+potest,0.5
+defect,1.4259259259259258
+territory,1.3688226421790437
+economic term,0.5
+special subjects,0.5
+function,1.6326372491145218
+business-to busines,0.0
+consumer against unfair trade practice,0.5
+court in dk,0.6666666666666666
+necessary complement,0.5
+hospital,1.3942768854411434
+perusal of the section,0.6666666666666666
+consumer association,1.3333333333333333
+office as president,0.5
+price,2.8302710227712162
+term,3.6255105640901575
+appellants,7.701086956521739
+vires,2.388888888888889
+court fee,1.1666666666666667
+view,2.441100058469462
+provision of the constitution,0.5
+aims,1.1816143115385926
+vide,4.454025282767798
+shinghal,0.5
+relief,1.4748116760828625
+ordinary law,1.25
+majority,1.3427634276342764
+basic feature,1.0
+use,5.06801278974993
+act proclaims,0.5
+countries,0.72236958443855
+other mode,0.43853820598006643
+judicial administration in the country,0.5
+result,1.3356630184144715
+that thing,0.6
+economic terms,0.5
+information,1.1320502836800534
+honorarium,0.75
+division bench of the high court,1.6825396825396826
+technicality,0.0
+-b in terms of entries,0.0
+secretary,0.9217877094972067
+qualitative change in the attitude,1.0
+- list i,0.0
+grammatical meaning subject,0.75
+manufacturer of consumer goods,0.0
+laws with respect,3.5555555555555554
+manughmanugh,1.0
+legislation,3.2032032032032034
+contravention of the provisions,1.4
+civil court for appropriate relief,1.0
+man from wrongs,0.5
+fact,3.6284951019474962
+express,2.3455332782538525
+learned counsel,3.703333333333333
+statutory tribunal,0.8
+exclusive jurisdiction,1.5151515151515154
+consultation with the chief justice,1.0
+building,3.870745432459903
+such authority,1.3571428571428572
+interests,1.0562317935913441
+acces to an authority,0.0
+chief,1.9429638234317954
+for parliament,1.0
+satpal mohindra v,0.5
+servants of high courts,0.5
+regard to the provisions,1.1176470588235294
+considerable portion,0.3333333333333333
+constitution of such tribunals,0.5
+forums  court,0.0
+impugned order,2.265957446808511
+commissionnational commission,0.5
+provider,1.803921568627451
+assembly of the united nations,0.5
+right of consumers,0.0
+necessity,0.7072538860103627
+effective remedy,1.0
+consumer court,1.5
+akin to order,0.5
+number of consumers,0.6666666666666666
+years,2.5395804110508022
+exercise,1.9400726466785694
+meaning of words,0.6000000000000001
+powers of a civil court,0.6666666666666666
+party,2.2250894654439723
+assess compensation,0.5
+consumer forums,1.6
+certain observation,1.1111111111111112
+justice,2.292557084574302
+therein,1.5503424657534246
+grievance,1.032529659395331
+civil court for execution thereof,0.0
+councils,0.6666666666666666
+to life,0.9949317738791423
+forum,1.9016754850088184
+such banking tribunal,0.6666666666666666
+chairman,1.3592677345537758
+behalf of appellants petitioners,0.5
+decree,3.732408834103749
+administration,1.061072796934866
+society,2.1182859399684046
+path - breaking benevolent legislation,0.0
+existence,0.731202675709574
+bank,9.40770083102493
+hearing,0.9644508209787979
+public character,1.25
+social development,0.5
+reason of constitution,0.5
+such order to the court,0.5
+civil court for the purposes,0.5
+sale,3.3662581620085734
+common man from wrongs,0.5
+question,2.980312372067635
+choice,0.6825955124317767
+execution,1.3041894353369763
+levels,0.8861538461538463
+right of the consumer,1.75
+scmanu,7.940520446096654
+legitimate steps,0.5
+step,0.8867024753460084
+beneficiary,1.8333333333333333
+possess legislative competence to effect changes,0.5
+practice,1.7660110149488593
+institute,0.9140980436760691
+deferred payment,4.0
+statement,2.5393160135035964
+part of entry,1.0
+awareness among the consumers,0.5
+vacation,0.38268955650929903
+united,0.7052854122621566
+synco,0.5
+such eventuality,0.8
+organization of all courts,1.0
+hierarchy of consumer courts,0.5
+remedy to consumers,0.0
+entry,4.707210447678601
+selection committee,1.1
+cooperation,0.8318725099601593
+manufacturing bodies,0.5
+three - tier fora,0.0
+deal with the question,1.0
+needs,0.6897483569699066
+sic,1.1611481056257176
+force,1.6009408121948314
+assess compensation on the basis,0.5
+property,2.9368986630013745
+interest of the parties,0.6666666666666666
+suit,2.485274378207659
+appellate court,3.1458333333333335
+order of the karnataka,1.0
+law,3.538923411654744
+district fora,1.0
+observation,0.7625074854374218
+additional forum,0.5
+few case,0.4273504273504274
+rights of consumers,0.5
+treatment,1.1351020408163266
+that scheme,1.0
+items,1.0672246220302377
+members of the national commission,0.5
+purchaser,2.017857142857143
+consumers interest,2.2
+authorization,0.8252525252525252
+complaint,2.734525785235724
+effect of article,0.75
+path,1.307090626221047
+function of article,0.5
+distribution patterns,0.5
+absence of such provisions,0.6666666666666666
+terms of entries,0.5
+as the provisions,1.1538461538461537
+court for execution thereof,0.0
+gupta manuscmanusc,1.0
+addition,1.5588539142412572
+independent authority,0.5
+otherwise,1.2549820889894419
+better protection of the interests,1.0
+imprisonment,1.4344262295081966
+application,2.3322596088086445
+other law for the time,1.6
+other provisions of the constitution,1.2
+court for necessary relief,0.6666666666666666
+parallel civil court,0.5
+authorities,1.266131845134287
+economic interest of a consumer,0.5
+summary,0.8025241675617614
+reading,0.9004509191814082
+industrial,5.673304955913652
+strike,0.6155419222903886
+redressal,2.7333333333333334
+entry in list ii,3.3333333333333335
+- judicial powers for redressal,0.0
+milestone,0.40384615384615385
+speedy remedy to consumers,0.0
+business practices,1.1111111111111112
+intention,1.7585585585585588
+submission,1.0913871684001404
+racket,0.47368421052631576
+dictionary,0.7964252553389043
+other member,0.6470588235294118
+such tribunal,1.0
+difference,0.8774847235514982
+sub-sections,0.0
+matter of duty,0.5
+quasi-judicial power,0.0
+general word,2.0
+disposal of disputes,0.5
+constitution,3.204842342342342
+special courts,1.6666666666666667
+quasi-judicial tribunals,0.0
+necessary intendment,1.4285714285714286
+governments,1.020200276243094
+avail of the services,0.0
+liberty approach,0.5
+complaint about the deficiencies,0.5
+recourse to the remedy,0.5
+- technicalities,0.0
+commission by the central council,0.5
+reason in support,0.0
+a network of rackets,0.5
+savitri v gobind singh rawat manuscmanusc,0.5
+trade practice,2.6666666666666665
+recommendation,2.6589497459062676
+as economic,0.2857142857142857
+supra,2.246342614440774
+money s worth,0.0
+hardship,0.7236842105263158
+various fields,0.8
+good for resale,0.0
+terms of entry,3.0
+manufacturing body,0.0
+provisions of any service,0.5
+applicant,0.7861822513400833
+aforementioned provision,1.1
+independence,0.6549707602339182
+jurisdiction of the supreme court,0.6666666666666666
+right to consumer education,0.5
+explanation-,0.0
+rights of the consumers,0.5
+india manuscmanusc,1.8333333333333333
+batch of appeals,1.3125
+decisions of the district forum,0.5
+therewith,0.6394230769230769
+lawful for the district forum,0.5
+persons of ability,1.0
+purpose of sub - clause,0.0
+injunction,2.1512605042016806
+forty-second amendment,0.0
+regards interpretation of section,0.5
+original jurisdiction,1.4166666666666667
+reason,2.6381270903010035
+deals,1.3395407335280751
+medicine,0.6969887076537014
+reason exclude,0.5
+life,1.3352928273744242
+right of assess,0.5
+sufficient safeguard,0.8571428571428571
+hyper-technicalities,0.0
+system of consumer justice,0.5
+commercial sense,0.5
+appointment under this clause,1.0
+better protection,0.5
+civil courts,4.181818181818182
+meaning subject to this rider,0.6666666666666666
+court of a considerable portion,0.0
+formal procedure of a court,0.0
+other term,0.7132867132867132
+others,0.9074667328904616
+care,0.8846948234137723
+courts for execution thereof,0.5
+special tribunals,0.6666666666666666
+- in the event,0.0
+chance of arbitrariness,0.0
+act provide,1.0588235294117647
+pas,2.68416862749163
+detailed procedure,0.5333333333333333
+different lists,0.9259259259259259
+trading,1.4943609022556392
+requisite power,1.0
+state commission,7.066666666666668
+alternative system,1.0
+judge,2.9012627415183325
+nation,3.034318722392117
+that remedy,0.5
+to order,0.6392045454545454
+province,0.7345491388044579
+legislative competence of the parliament,3.8
+powerful busines,1.0
+list i,12.920712694877505
+fair treatment,0.7407407407407407
+safeguard,0.6623074687590815
+complaint despite the fact,0.5
+conclusion,1.3883437407077015
+absence of requirement,0.5
+necessary order,0.6666666666666666
+room,0.6950710108604846
+conflict of decisions,0.6666666666666666
+state legislatures,1.9547511312217196
+questions,0.9979150871872632
+assignment of reason excludes,0.5
+livelihood,1.3777777777777778
+intermediate step,0.5
+brief,0.540112172829248
+extension of the jurisdiction,0.5
+grievance of consumers,0.0
+contentions,0.9641025641025641
+sense,0.8606303395157362
+no doubt,0.8331331503088538
+deficiencies,0.5185185185185185
+circumstances,1.3944461370073231
+opinion of the majority,0.8
+welfare,1.3226788432267886
+product,2.242984858429713
+as economics,0.3333333333333333
+high court,7.7477477477477485
+assam,1.06
+independent authorities,0.5
+construction of section,0.8888888888888888
+stores,0.7275985663082436
+jurisdiction,2.9539571926331507
+state legislature,4.444444444444445
+intent,1.8427075724373023
+trial,3.7979448350459712
+commercial purpose,0.625
+term of entry,0.0
+manu,7.078142071124147
+rare case,1.4074074074074074
+central levels,0.5
+fora,0.9542743538767396
+consumer justice,0.5
+consumers  association,0.0
+purport,1.3465627214741318
+impugned order as annexure,0.5
+earl,1.7775307797537616
+list ii,18.844444444444445
+list iii as item,0.5
+ample,0.8642775752051047
+in the fact,0.7692307692307693
+tribunal,5.07183212267958
+conclusion that the consumer court,0.5
+resolution of disputes,1.375
+assocn,0.3333333333333333
+compensation,3.7916666666666665
+india v harbhajan singh dhillon scr manuscmanusc,0.5
+in the present case,1.3486005089058526
+benevolent pieces,0.5
+procedural wrangles,0.5
+rule of interpretation,1.2
+system of consumer jurisdiction,0.5
+courts,2.1216528162511543
+public bodies,0.6666666666666666
+vishwabharathi,0.6666666666666666
+committee,2.546237803603864
+prices,0.9771470160116448
+code,2.880559796437659
+registered society v union of india manu  scmanu  sc,0.0
+satisfaction that the goods,0.5
+history of legislation,1.25
+effect of use,0.5
+wrongs,1.2500000000000002
+reasons,1.3749054007567938
+terms,2.390350840909655
+problem,0.6764352120789936
+cit,2.2857642235586386
+education,2.1892608326253185
+savitri,1.25
+high levels,0.2857142857142857
+nations organisation,0.5
+proper in the facts,0.75
+employment,1.5239770785161355
+creation,0.5716118684843625
+business practice by all enterprises,0.0
+ors,2.8612718198296623
+more defect,0.5
+quasi-judicial tribunal,0.0
+constitution of state consumer protection councils,0.5
+integrity,0.8973214285714286
+correctnes of those reasons,0.0
+part,5.294464509893076
+effective provision,0.5
+presence of a person,0.5
+medical assocn,0.5
+following objective,0.6666666666666666
+age of sixty - seven years,0.0
+general assembly of the united nations,0.5
+interest of a consumer,0.5
+law for the establishment,0.0
+shri,2.0759135877246115
+decisions,1.3888475974580996
+character,0.9325990965842764
+development of independent consumer groups,0.5
+abusive business practices by all enterprises,0.5
+jurisdiction of the civil courts,0.6666666666666666
+situations,0.7435282837967402
+recognition of such implied power,0.5
+non-hazardous product,0.0
+good,2.6154941054299674
+writ petition under article,1.2
+competence under an appropriate entry,0.6666666666666666
+read,2.2147281730888695
+chances of arbitrariness,1.0
+body of consumers,0.6666666666666666
+satisfaction,0.6639095671353735
+subsidiary matters,2.0
+code of civil procedure,5.5636363636363635
+conjunction with section,0.75
+question as regards,0.875
+parliamentary statute,0.5
+civil court for necessary relief,0.6666666666666666
+services,1.6850241065659326
+relevant factor,0.8663594470046083
+inability,0.7162534435261708
+pursuance,1.543859649122807
+formal procedures,0.5
+- judicial bodies authorities agency,0.0
+appointment,3.1380281690140843
+explanation,1.4510159010600707
+that the decision of the district forum,0.0
+enforcement,0.7354220499569336
+state government,3.027142857142857
+indian medical assocn,0.5
+special courts bill,0.5
+effect,2.184583388478191
+rest,3.3424534062537377
+consumer groups,0.5
+population,1.8313253012048192
+adequate safeguard,0.3333333333333333
+psg,0.19938650306748468
+good for consideration,0.0
+reasons in support,0.75
+statute quasi-judicial authorities,0.0
+impartial judicial administration,0.5
+tribunals in relation,0.6666666666666666
+reason of sub-sections,0.0
+constitution of organization,0.5
+none,0.8181718550217885
+national commission ie,0.5
+enforcement of orders,0.5
+judicial background,0.5
+healing,0.2777777777777778
+further safeguard to the effect,0.5
+appropriate forum,0.47647058823529415
+lay person,0.25
+procedure as regard,0.5
+following term,1.6170212765957446
+such office,1.25
+krishna,1.2505446623093683
+appeal to the supreme,1.6666666666666667
+to consumer education,0.5
+worth,0.9292196007259528
+by way of imprisonment,0.5
+arbitrarines,0.9047619047619048
+imbalances in economic terms,0.5
+issue,2.766776251628934
+third member,2.0
+fanfare as a path-breaking benevolent legislation,0.0
+package,0.8176589460593814
+special tribunal,1.4
+such hierarchy,0.5
+relevant provisions of the constitution,0.75
+method,0.9027027027027026
+anything of public character,0.5
+fine,1.3204039558531748
+power upon the forum,0.5
+petitioner,4.524972253052164
+helplessness,0.5962732919254659
+different list,1.1111111111111112
+orders,1.4936359300077826
+effective remedy in a civil court,0.5
+chagla,0.75
+maintenance,0.8632111808077473
+supplement,0.5381599215796107
+helplessness of a consumer,0.5
+following practice,0.6666666666666666
+bargaining,0.38709677419354843
+purpose of the provisions,0.6666666666666666
+constitutional provisions,0.6000000000000001
+nations,0.9375742619504617
+trade practices,1.5
+writ petitions under article,0.875
+industrial institute manuscmanusc,0.5
+damage,1.8281814532316336
+act to the effect,0.8
+ability,2.0097418327420304
+consumer with greater choice,0.0
+traditional courts of a considerable portion,0.5
+liberty,0.7860465116279071
+power implies,0.5
+quantity,0.9457720588235292
+vacations,0.30000000000000004
+reasonable implication,0.5
+relevant factors,0.8608695652173913
+article,4.378806157159795
+market,5.294198044198044
+such costs,1.4
+enforcement of the orders,0.5
+further safeguard,0.5
+consumer protection act,1.3846153846153846
+opinion,1.4960606342789635
+recover,3.5107692307692306
+atiqa,0.8
+special subject,0.6666666666666666
+- judicial power for redressal,0.0
+awareness,0.4649122807017544
+possible in some cases that the president,0.5
+draft,1.1403225806451613
+effective provision for the establishment,0.5
+power on the authority,0.5
+consumer goods,1.0
+such power implies that all legitimate step,0.5
+adequate safeguards,0.3333333333333333
+scope,0.8412698412698413
+laws,1.4186274337269533
+same interest,0.5
+same powers,1.0
+suppscr,1.0
+order for execution,0.0
+avail of any services,0.0
+meaning subject,0.75
+respect,2.6704963235294117
+such order,1.056910569105691
+international cooperation,0.2857142857142857
+due consideration at appropriate forums,0.5
+recording,1.3265454545454545
+other forums  courts,0.0
+list of the seventh schedule,1.25
+tenure of the office,0.5
+timber stores manu  scmanu  sc,0.0
+existence of article,0.75
+following objectives,0.6666666666666666
+needs of consumers,0.5
+public body,0.5
+jaipur,1.0
+same time,0.6913511801045461
+act strike at the independence,0.5
+final order,1.1466666666666667
+state government in each district,0.5
+work,2.8478559811646353
+system,1.1230229504341178
+guidelines for consumer protection,1.0
+court in union,1.1764705882352942
+mandate that the proceeding,0.5
+principle of interpretation,1.1818181818181819
+provides,1.440346729708432
+points,0.7095682483711788
+state government on the recommendation,0.5
+business-to business,0.0
+papers,1.0564063453325199
+lay persons,0.5
+virtue,0.9167557066537153
+consumers with greater choice,0.5
+unfair method,0.5
+desire of consumers,0.0
+settlement,1.6881394467601363
+impartial judicial administration in the country,0.5
+regards interpretation,0.6666666666666666
+deliberation,0.7366666666666667
+unscrupulous manufacturers,0.5
+derogation,1.0952380952380951
+consumer,4.596273291925465
+unesco,0.5
+state commission to the national commission,0.5
+district forum to the state commission,0.5
+such implied power,0.5
+reason excludes,0.5
+draft guideline,0.5
+economic interest,0.5454545454545454
+presence,0.9604834261070158
+chief justice,4.684210526315789
+subordinate,1.43
+circumstances of each case,1.0833333333333333
+complainant feel,0.6666666666666666
+procedures,0.6129675045984059
+recommendation of the selection committee,0.5
+extension,0.7526908023483366
+constitutionality of the consumer protection act,0.5
+order to the court,0.5
+observations of the high court,0.9
+rare cases,1.2592592592592593
+word,2.065873981084096
+apprehension,0.9319526627218935
+that these forums  commission,0.0
+appeals,1.7060218112849692
+court subordinate to the high court,0.6666666666666666
+right of the parties,0.0
+compulsion,0.6274509803921569
+avails of the services,0.5
+postulate,0.5385790679908328
+inadequacy in the quality,0.5
+thereon,0.877037037037037
+objectives,0.698051948051948
+toward,1.0255939365170768
+tribunal in relation,0.0
+authority for the settlement,0.0
+cases that the president,0.5
+members,1.9437616522164103
+account,2.5754891049671977
+marketing,4.023015873015873
+sixty-seven year,0.0
+objects,0.7297830374753452
+purpose,2.519170317925504
+karnataka,3.8596491228070176
+common cause,2.5396825396825395
+consumer protection,2.076923076923077
+time,2.4764180952862667
+that these forums  commissions,0.0
+applicable to the disposal of disputes,0.5
+central government,3.0380952380952384
+consumer courts,1.0
+touch,0.9673751421324236
+such good for consideration,0.0
+specific purpose,0.5079365079365079
+such person,0.9634888438133874
+sale to the public,0.5
+seventy schedule,0.5
+such power implies that all legitimate steps,0.5
+other allowance,1.5714285714285714
+content,1.5450574489970066
+requisite legislative competence,1.3333333333333333
+compensation to the extent,0.6666666666666666
+district forum state commission,1.0
+herein in civil appeal,0.5
+independent consumer group,0.5
+limit,2.3804570428443834
+empowers,0.8708708708708708
+right,3.07483248288682
+condition of service,0.5
+common,1.4619971980191346
+registered,1.141896938013443
+necessary relief,0.6666666666666666
+mandate,0.8783810859547183
+appeal from a decision,1.0
+absence,1.092363454568179
+counsel,2.2246780703440323
+suit in an appropriate civil court,0.5
+list iii of the constitution,0.5
+such goods for consideration,0.5
+forum  commissions,0.0
+other than a court subordinate to the high court,0.5
+rules,3.130914366958792
+regard constitution,0.5
+- judicial bodies authorities agencies,0.0
+feature of the constitution,1.0
+good in competitive prices,0.0
+fanfare,0.2727272727272727
+maxim,0.9230402066486973
+dhillon,1.25
+criminal courts,2.0
+deficiency in any respect,0.5
+dispute,2.402137592137592
+disposal,1.1180555555555556
+industry,8.208106219426973
+consumer jurisdiction,0.5
+conditions,1.9988092071092867
+- judicial tribunal,0.0
+consumer forum,2.4285714285714284
+possess legislative competence,0.5
+act in addition,0.5
+compliance,1.0029799914857385
+orders for execution,0.5
+case,7.332269420884958
+provision of any service,0.0
+court subordinate,0.75
+supply,2.0557395143487858
+competence,3.09375
+pieces of legislation,0.6666666666666666
+appropriate civil court,0.5
+affair,0.8341728395061728
+inasmuch as the provisions,0.5
+clear that these forumscommission,0.5
+legislative powers,1.2
+supplier of goods,0.0
+creation of courts,0.5
+contention,1.666391070690368
+momentum,0.27672955974842767
+certain authority,0.5
+inter alia,1.3280423280423281
+socio-economic legislation,0.0
+united nation,0.7
+lucknow,3.4545454545454546
+bench,2.5793391667754992
+goods for a consideration,0.5
+office,3.5913445886237847
+considerable enthusiasm,0.5
+hyper-technicality,0.0
+provide for the hierarchy,0.5
+provision for the establishment,1.0
+purpose of execution,0.5
+conclusion that the consumer courts,0.5
+body,1.336775463480009
+more consumers,0.5
+district judge,2.1684981684981683
+president of a district forum,0.5
+statutory authorities,1.7222222222222223
+cardinal rule of interpretation,1.25
+large body of consumers,0.6666666666666666
+structure,1.568520357497517
+constitutional enactment,0.6666666666666666
+constitutionality,0.7965517241379311
+damages,1.7104072398190044
+liberal construction,1.1428571428571428
+forums,1.5972222222222223
+authority under the act exercise,0.0
+entry in a list,0.4444444444444444
+circumstance of this case,0.0
+negotiations,0.5230769230769231
+might,1.0355857950512737
+traditional court of a considerable portion,0.0
+judicial standard,0.5
+additional power,0.30000000000000004
+tribunals,2.527472527472528
+construction,2.2504918032786887
+structure of the constitution,1.0
+civil appeals,1.24
+observations of this court,1.0
+other statutory authority,0.0
+accepted legal principle,0.5
+air,2.0589664272145285
+res,10.359704275735774
+deal with the composition,0.0
+complement,0.426829268292683
+more consumer,0.5
+legislature,2.818553268765133
+market condition,0.5
+trader of consumer goods,0.0
+chances,0.4692737430167598
+recourse,0.9157232704402517
+numerous consumer,0.5
+conduct,1.5998023165163158
+market conditions,0.5
+organisation,1.4034090909090908
+civil court in a suit,0.5
+such goods for resale,0.5
+argument of the learned counsel,0.8
+argument,0.9504580388560493
+dispute that the parliament,0.5
+mohindra,0.6666666666666666
+society arise,0.5
+producers,1.5789473684210527
+provisions of the constitution,1.8823529411764706
+khader,1.25
+tenure of the members,0.75
+change in the attitude,1.0
+that power of judicial review,0.5
+manufacturers of consumer goods,0.5
+products,1.6079404466501241
+large body,0.3333333333333333
+paper,1.8076689487632511
+reason of the provisions,1.5
+movement,0.8351097178683385
+courts except the supreme court,2.0
+unscrupulous exploitation,0.5
+public benefit,0.45000000000000007
+importance of the act,0.5
+organization,1.1323094113464371
+suppliers,0.49180327868852464
+statutes,0.9659824046920822
+busines,2.8488759960122034
+appellant,14.387096774193548
+deals with the composition,0.6666666666666666
+effect to the exercise,0.5
+requirement of court fee,0.5
+whichever,0.8426966292134831
+public,2.923239095873367
+eventuality,0.5864197530864198
+answer,0.9554305705177771
+economy,0.43614336193841496
+enthusiasm,0.3529411764705882
+draft guideline for consumer protection,0.0
+last few years,0.34234234234234234
+purposes of sub - clause,0.0
+experience in the field,0.5
+other statutory authorities,0.6666666666666666
+consumers interests,0.6666666666666666
+rate,3.088725136774248
+central,2.61875
+synco industry,0.0
+educational level,0.3333333333333333
+emphasis,0.8024289099526066
+sense of user,0.5
+provision of sections,0.0
+recent decision,0.9
+ordinary meaning,1.0
+speedy resolution,0.6666666666666666
+observation of this court,0.6666666666666666
+list i if the answer,0.6666666666666666
+user of such goods,0.5
+consumer protection council,1.0
+social council,0.5
+momentum to the consumer movement,0.5
+situation,1.1254754682459434
+quasi-judicial powers,0.0
+observations,0.7454584147497534
+hierarchy of courts,1.25
+man helples,0.5
+such provisions,0.5128205128205128
+touch hospital,0.6666666666666666
+member before the commencement,0.5
+punishable by way of imprisonment,0.5
+shrinath,0.5
+disputes,2.3049883690876194

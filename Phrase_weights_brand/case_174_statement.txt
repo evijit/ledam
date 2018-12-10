@@ -1,0 +1,619 @@
+st paul,0.2391304347826087
+courts,2.1216528162511543
+order of the high court,1.296875
+government,3.5583785424010483
+face of the plea,0.5
+requirements in consideration,0.5
+prayer that a telegram,0.5
+occasions,0.7723557692307693
+validity,1.521010638297872
+class xth,0.5
+respondents no,1.6428571428571428
+passage from the above,0.5
+note of the provision,0.6666666666666666
+following interim order,0.75
+mark,2.700508607198748
+viz,0.7732570026579433
+filing,1.1274190041313328
+examination bye - laws of the board,0.0
+teacher,3.0760180995475115
+interim order,2.9166666666666665
+problem,0.6764352120789936
+matters,1.4810665618448637
+afraid that this kind of administration,0.5
+hence direction,0.5
+education,2.1892608326253185
+subversion of law,0.5
+examination bye - law of the board,0.0
+legal provisions,0.875
+court,12.24425115501509
+fresh notice,1.0
+rise,1.6238941915958565
+private candidate for all india secondary school examination,0.5
+academic standard,0.5
+person,4.291511329454258
+ors,2.8612718198296623
+kind of administration,0.5
+medical educational society,0.5
+way,1.7812722068664852
+behalf,1.9888053603529987
+part,5.294464509893076
+than grade e,0.5
+papers of class xth,0.5
+nothing,0.8658723322806009
+rule of law,0.5359801488833746
+judgment refers to the plea,0.5
+middle school examination,1.0
+interim orders,1.5238095238095237
+examination of the petitioner,0.5
+series,0.4722257940079723
+present appeal,1.3424657534246576
+decisions,1.3888475974580996
+india  delhi secondary school examination of the board,0.0
+decision,2.9514937765898557
+examinations,1.173913043478261
+sd- judge,0.0
+validity of the examination,0.5
+regular course of studies,1.0
+few decision,0.75
+something repugnant,0.5
+situations,0.7435282837967402
+appeal,3.4125488033856883
+judgment refer,0.875
+relevant examination bye - law of the board,0.0
+relevant examination bye - laws of the board,0.0
+sheet,1.1667364016736401
+fact situation,1.3333333333333333
+scr,2.483838975311538
+other conditions,0.8888888888888888
+certified,1.8313253012048194
+few decision on the point,0.0
+stage,1.1298537871524448
+year,2.8349484769759212
+sympathy for the candidates,0.5
+academic matters,0.5
+cbse,1.3333333333333333
+judgment,3.288216560509554
+guru,0.9513050253213869
+father,1.4298716229162676
+subject,2.4420366233344897
+remedies,0.6206451612903225
+something repugnant in the subject,0.5
+doabia judge,0.0
+sd- t,0.0
+order,5.472481489660944
+school authorities on the ground,0.5
+school examination,5.0
+subject to the decision of this petition,1.0
+examination as a private candidate,0.5
+clas,2.1196191893660425
+standards,1.312168199737188
+result of respondent,0.5
+medical,1.633306645316253
+examination bye - laws,0.0
+grade in each subject,0.5
+text book,0.5294117647058824
+several occasion,0.5
+copy today,0.30000000000000004
+way of registered post,0.5
+report that respondent,0.5
+days with a further direction,0.5
+effect,2.184583388478191
+examination in class x,0.5
+candidates,3.508445945945946
+minimum,1.388221153846154
+copy,0.8620926631522174
+thereafter,1.3123461853978673
+few decisions on the point,0.5
+middle,0.4836233367451382
+education department of the govt,0.5
+court in writ petition,1.4615384615384615
+courses,1.0904013961605583
+passage,0.6514737598849748
+list,4.014941314095513
+of such cases,0.5142857142857143
+minimum educational qualification,0.8
+secondary school,0.875
+promotion to class x,0.5
+provisional result,0.5
+certificates,0.7105263157894737
+grade,2.004840489566613
+infructuou since the examination form of the respondent,0.0
+gwalior,1.9
+parminder,0.2727272727272727
+madhya,2.9183673469387754
+condition,2.259476395625584
+x x,0.8596550823099033
+standard,1.4669008088548319
+to the case,0.776936026936027
+india  delhi secondary school examination,0.0
+functions,1.326241134751773
+circumstance,1.429931390219372
+v p sunil kumar,0.5
+finding,1.8129183657767178
+syllabu,0.5714285714285714
+discipline of the system,0.5
+regulation,4.3783195107648485
+present case,1.5611814345991561
+board under orders,0.5
+regard,2.723310344827586
+context,0.9269383697813122
+promotion,2.946428571428571
+sympathy in favour,0.5
+class,2.1508512849922936
+direction,1.8495050210098996
+decision of this petition,1.0
+decisions on matters,1.4
+that this kind of administration,0.5
+appearance on behalf,0.75
+facts,1.4696673624372698
+judicial discretion to the criticism,0.5
+para,2.300239586747483
+the board,2.8555448253661675
+contents,0.66519564577817
+basi,2.0752712086391383
+form,2.4865961263718424
+account at the interlocutory stage,0.5
+prima,0.9758788156000698
+ill-conceived sympathy masquerade,0.0
+subjects within a period,0.5
+such orders,0.823529411764706
+days,1.6721350893491447
+senior,1.989753211141579
+that bye-law,0.0
+sd- ts,0.0
+candidate,6.356675392670156
+supplementary examination,1.0
+respondents in the petition,0.5
+apchristians,0.5
+today,0.6330563683773655
+petitioner,4.524972253052164
+cost,1.2954397451466992
+school authority,0.0
+orders,1.4936359300077826
+examining body,1.3333333333333333
+paul,1.032984782793505
+basis,1.953226441078104
+english subjects within a period,0.5
+result of the examination,2.25
+last week,0.4861538461538461
+violations in the hope,0.5
+scheme,3.415949119373777
+high court in writ petition,1.1
+school authority on the ground,0.0
+as the admission form,0.5
+course,1.6545957498716626
+criticism,0.5566549632939675
+violation in the hope,0.0
+pradesh,4.365853658536586
+high - school examination,0.0
+private candidates,2.5
+hence,1.1440732910500353
+officer,3.1197242647058823
+pradesh high court,2.409090909090909
+masquerade,0.30000000000000004
+court in contravention,0.5
+in view,1.2566801619433199
+sympathy factor,0.5
+several occasions,0.5
+ground,1.4186722903211633
+view of these circumstances,0.6666666666666666
+ajmer,1.7142857142857142
+function,1.6326372491145218
+concession,1.3748597081930416
+impugned judgment,2.0927152317880795
+further direction,1.2380952380952381
+- school examination,0.0
+guru nanak dev university v parminder kr,0.5
+certificate in favour,1.0
+matter,2.8088923076923082
+of academic discipline,0.5
+fresh marks sheet without any endorsement thereon,1.0
+sunil kumar,1.0
+fresh marks - sheet,0.0
+roll,1.7278932172102048
+behalf of the appellant,1.4878048780487805
+result of the petitioner,0.5
+view,2.441100058469462
+examination of the central board,0.5
+post,2.344803646492219
+serious impasse,0.5
+requirements,0.7375979875979877
+class ix examination,2.5
+andhra,4.830188679245283
+decision on matters,0.5
+legal provision,0.6
+brief facts of the case,1.0
+result,1.3356630184144715
+state  ut,0.0
+educational,1.1138712241653417
+material,1.4148767018946966
+result of class x,0.5
+interlocutory remedies,0.5
+bye-law,0.0
+notice of admission,0.5
+petitions,1.3930830039525692
+laws,1.4186274337269533
+subsequent examination,0.5
+provision,5.439002243350069
+impasse in academic life,0.5
+bye-laws of the board,0.0
+students of an unaffiliated institution,0.5
+supplementary examination in hindi,0.5
+applicable to the case,1.0909090909090908
+respect,2.6704963235294117
+such order,1.056910569105691
+ill-conceived sympathy masquerades,0.0
+to the respondent,2.1153846153846154
+heard,0.782882203033377
+legal requirements,0.8
+contravention,2.586206896551724
+fact,3.6284951019474962
+class ix as a regular student,0.5
+learned counsel,3.703333333333333
+judicial discretion,1.5
+examination in hindi,0.6666666666666666
+minimum educational qualification of middle school examination,0.5
+text books,0.5714285714285714
+legal requirement in consideration,0.0
+department,1.9858367499068206
+such cases,0.7390180878552971
+anr,1.1271033322299457
+decision of the writ petition,0.5
+order petitioner,0.0
+bansal,1.6666666666666667
+candidate for all india  delhi secondary school examination  should,0.0
+high school examination,1.0
+kumar,2.028839704896043
+educational qualification of middle school examination,0.5
+form for high - school examination,0.0
+viii,0.7209469153515065
+system,1.1230229504341178
+regional officer,0.5
+brief facts,1.0
+light,0.8816192372754331
+academic matter,0.5
+teachers,2.506794564348521
+such case,0.7332761578044598
+years,2.5395804110508022
+infructuous as the admission form,0.5
+endorsement thereon,1.0
+report,1.7768151696835826
+papers,1.0564063453325199
+certificates in favour,0.5
+more violations,0.5
+anything,0.9132309941520469
+bye - law of the board,0.0
+definition,1.6460425937698666
+class viii,1.5
+delhi,2.6089285714285717
+benevolence,0.25
+basis of the above provision,0.5
+factor,1.2878742338904643
+brijesh kumar,1.0
+respondent in the petition,0.0
+justice,2.292557084574302
+india  delhi senior school certificate examination,0.0
+therein,1.5503424657534246
+most of such cases,0.6666666666666666
+grievance,1.032529659395331
+dev,2.1018632238997714
+school examination of the board,1.0
+lapse,0.9238095238095239
+judgment refer to the plea,0.0
+court to the following effect,0.5
+hindi,0.2882352941176471
+examination form of the respondent,0.5
+bye-laws nos,0.0
+date,6.195616975795285
+forms,0.8089941394570028
+legal requirements in consideration,0.5
+administration,1.061072796934866
+society,2.1182859399684046
+existence,0.731202675709574
+india  delhi secondary school examination  should,0.0
+respondent,4.757894736842104
+institution,2.7327010745685443
+academic discipline,0.3333333333333333
+govt,0.7017766497461929
+subsequent examination as a private candidate,0.5
+day,1.550999710228919
+syllabus,1.0
+relevant examination bye - law,0.0
+difficult situation,0.28571428571428575
+english subjects,0.5
+morar,0.6666666666666666
+scmanu,7.940520446096654
+view of the matter,1.7142857142857142
+writ,2.8882378560889794
+chapter,1.3867471532446152
+few decisions,0.75
+class x in the year,0.5
+practice,1.7660110149488593
+decision on the point,0.5
+thereon,0.877037037037037
+rajasthan,3.9215686274509802
+subversive of academic discipline,0.5
+serious impasse in academic life,0.5
+high,5.367119186841496
+payment,2.059553716565686
+studies,1.1615103532277709
+unaffiliated institution,0.5
+account,2.5754891049671977
+class ix examination from an institution,0.5
+candidate for all india secondary school examination,0.5
+case of sunil kumar,0.5
+apchristian,0.5
+brief fact,1.0
+subject of internal assessment,1.0
+telegram,0.48039215686274506
+infructuous since the examination form of the respondent,0.5
+prayer,0.6969296987087519
+subversion,0.4444444444444444
+purpose,2.519170317925504
+law,3.538923411654744
+english,0.9836154262307752
+nos,1.2635492554198444
+study,1.4280920541907696
+time,2.4764180952862667
+academic life,1.0
+cases,1.9728229418951067
+interlocutory stage,0.6666666666666666
+lapses,0.5761316872427984
+registered post,0.5333333333333333
+class ix,4.5
+judge bench decision,1.3157894736842106
+matter relates,0.75
+board,2.401414435268602
+eligibility,1.1788856304985336
+case in hand,2.1
+educational qualification,2.625
+bye-laws no,0.0
+final result,0.2777777777777778
+examination at the roll,0.5
+content,1.5450574489970066
+more violation in the hope,0.0
+secondary examination of the board,0.5
+academic standards,0.5
+discipline,0.5608974358974359
+assessment,2.647276084949215
+admissions,0.8529980657640233
+interlocutory remedy,0.0
+complication,0.49090909090909085
+series of orders,0.5
+legal position,0.7659574468085106
+difficult situations,0.3333333333333333
+facts of the case,1.161764705882353
+examination for class ix,0.5
+brief fact of the case,0.0
+applicable to the respondent,0.5
+discretion to the criticism,0.5
+certificate,2.732600732600732
+regular student,0.2
+matter relates to the admission,0.5
+counsel,2.2246780703440323
+serious complications,0.5
+rise to filing,0.5
+regular candidate,1.0
+april,0.8928235149629509
+india,2.7684068260703585
+authorities,1.266131845134287
+appearance,0.531740614334471
+rules,3.130914366958792
+andor appear,0.5
+class ix examination for the year,0.5
+candidates definition,0.0
+new,0.9418497626301229
+v government of andhra pradesh,0.6666666666666666
+matter relate to the admission,0.0
+day with a further direction,0.0
+private candidates definition,0.0
+mention,1.6248742837095076
+andhra pradesh,4.857142857142857
+respondents nos,1.2
+examination of the board,2.0
+more violations in the hope,0.5
+results,0.6487493619193466
+gap,0.5109023703753942
+bye,1.9938461538461536
+school authorities,0.6666666666666666
+judgment refers,0.5
+hope,0.6530575035063113
+conditions,1.9988092071092867
+definite case,0.6666666666666666
+grade e,0.4
+cursorily,0.6666666666666666
+impasse,0.3529411764705882
+sd-,0.0
+surety that the examining body,0.5
+mbb,0.75
+students,1.1355891528677706
+brijesh,1.0
+case,7.332269420884958
+mere sympathy factor,0.5
+period,1.9480170842427122
+emphasi,0.9191619047619048
+secondary school examination,2.0
+direction by the court,0.5
+institutions,2.2839413875598087
+scheme of studies,0.5
+x examination,4.5
+above provision,1.2727272727272727
+purposes,1.4391216613438835
+mention of clause,0.5
+service,4.257395095954566
+sunil,1.0
+third language,1.0
+prescribed,1.6622077338129497
+rule,5.04
+forwarding,0.6428571428571429
+favour,1.653145208700764
+class x examination,2.0
+supra,2.246342614440774
+bench,2.5793391667754992
+violation,1.2087401208740118
+v government,0.6666666666666666
+different view,0.5378151260504201
+class x,7.0
+respondents,2.6341263330598856
+which provision,0.8571428571428571
+costs,0.8167395522604189
+marks sheet without any endorsement thereon,1.0
+internal assessment,1.0
+discretion,1.2998211091234348
+student of st  paul,0.0
+student of an unaffiliated institution,0.0
+examination form,1.0
+point,2.9165043546008516
+body,1.336775463480009
+affiliated  recognized school,0.0
+surety,1.6
+admission,1.5389848246991107
+decisions on the point,0.8
+sympathy,0.7490636704119851
+notice,2.3300025999395686
+examination of the year,0.5
+since the examination form of the respondent,0.5
+bye - laws of the board,0.0
+high-school examination,0.0
+matter relate,0.8333333333333334
+finding in respect,0.6666666666666666
+bye-law of the board,0.0
+examination,2.4920345926263088
+of the rule of law,1.3333333333333333
+subject to the decision of the writ petition,0.5
+india secondary school examination,1.0
+education department,0.2142857142857143
+regulation of the board,0.0
+in view of these circumstances,0.6666666666666666
+position,1.549133168619177
+life,1.3352928273744242
+examination form by an institution,0.5
+one,4.845669314438648
+writ petition,6.24223602484472
+petition,5.3436539306104525
+necessary requirement,0.6666666666666666
+decision of madhya,0.5
+remedy,1.3214024835646458
+notices,0.5487269534679544
+provisions of the bye - laws,0.0
+consideration,1.9110153789142115
+violations,0.7048092868988391
+plea,1.4430487701432178
+clause,3.526455026455027
+secondary school examination of the board,1.0
+provision of the bye - laws,0.0
+basi of the above provision,0.0
+mbbs,1.125
+grievance of the board,0.5
+examination bye - law,0.0
+marks - sheet,0.0
+text books as prescribed,0.5
+accurate assessment,0.5
+academic authority,0.0
+report that respondents,0.5
+student,1.2777711454664835
+authority,2.4352627108360636
+judge,2.9012627415183325
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+private benevolence,0.5
+facie legal position,0.5
+doabia,1.0
+affixation,0.5
+examination of mbbs,0.5
+ill-conceived sympathy masquerades as interlocutory justice,0.0
+part in the examination,1.0
+course of studies,0.5
+list in the last week,0.5
+xth,1.6392813267813269
+fact of the case,0.0
+service to anyone,0.5
+part in this examination,0.5
+face,0.7281253260594137
+secondary,0.9060773480662985
+admission form,0.5
+attention to provision,0.5
+appellant to the effect,0.8
+fresh marks sheet,1.0
+background,0.6800452488687784
+paper,1.8076689487632511
+subjects,0.9254185692541858
+bye-laws,0.0
+school,1.2666111192798444
+marks,1.4136144754122284
+legal requirement,1.0
+hand,2.0299623418254717
+form for high school examination,0.5
+secondary education,2.0
+occasion,0.7946745562130177
+next order,0.5
+qualification,2.1521739130434785
+educational society,0.5
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+week,0.8253498691546249
+interlocutory justice,0.5
+regional,2.357638888888889
+requirement in consideration,0.0
+regular course,1.0
+paper of class xth,0.0
+other condition,0.8627450980392157
+regulations of the board,0.5
+bye - laws,0.0
+masquerades,0.30000000000000004
+complications,0.48780487804878053
+central board,1.5833333333333333
+serious complication,0.5
+requirement,1.2416133333333332
+high court,7.7477477477477485
+text,0.869556447376715
+regular candidates,0.5
+learned counsel for the appellant,1.7884615384615385
+new delhi,1.744186046511628
+state,6.817996007300392
+of such case,0.525
+regulations,3.7157723577235777
+private candidate,4.0
+statute,2.5765859456247218
+note,1.3654108484234107
+relevant examination bye - laws,0.0
+english subject,0.5
+marks sheet,1.0
+secondary examination,0.5
+manu,7.078142071124147
+regard to the eligibility,0.5
+central,2.61875
+class ix from an institution,0.5
+bye - law,0.0
+language,0.8555828468744352
+regard to the private candidates,0.5
+june,0.9339080459770116
+nanak,0.5000000000000001
+board of secondary education,2.5
+regional officer of the board,0.5
+more violation,0.5
+emphasis,0.8024289099526066
+airsc,1.6909090909090911
+concessions,0.6896551724137931
+destructive of the rule of law,0.5
+officer of the board,0.6666666666666666
+endorsement,0.8138461538461539
+fiat,0.4805194805194805
+kind,0.9236881920088026
+higher than grade e,0.5
+situation,1.1254754682459434
+background of the law,0.5
+anretc,0.5
+academic authorities,0.5
+attention,0.8724846605528799
+book,0.7435955668604651
+something,0.5915378827342709
+following effect,1.3846153846153846
+books,0.8894824707846412
+examination for class x,1.0
+university,3.75675614961249
+central board of secondary education,2.5
+admission to class x,0.5
+high court to the following effect,0.5
+examination under the interim orders,1.0

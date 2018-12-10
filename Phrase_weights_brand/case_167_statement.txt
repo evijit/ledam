@@ -1,0 +1,984 @@
+courts,2.1216528162511543
+passers,0.26
+understandable in the facts of this case,0.5
+order of the high court,1.296875
+time with the daughter,0.5
+compromise,1.6862573099415208
+regard to the facts,1.1
+large number of villagers,1.5
+lives,0.6840821832520494
+life imprisonment under the aforesaid sections,0.5
+since a panchayati,0.5
+east,0.8065147296612034
+arrival,0.6270833333333333
+place in the morning,0.5
+immediate cause,1.0
+side of darwaza,0.5
+mind,1.1559066143122394
+signature,1.1400966183574879
+darwaza,1.5
+formal witness,1.0
+people,1.2855544825097243
+act of violence,0.0
+mark,2.700508607198748
+minor,1.0277735341745853
+sections,1.640495469442838
+eye witnes,1.4333333333333333
+presence of other eye witnesses,0.5
+family property,0.75
+dhawal,1.0
+basi of the fir,0.0
+instance,0.9469803370786518
+that village,0.5454545454545454
+truthfulnes,0.6000000000000001
+menace to society,1.0
+arm,0.9325525916287142
+false story,0.5
+date of occurrence,2.0
+madan singh,18.666666666666668
+court,12.24425115501509
+other eye witness,2.5
+present in village dilman chapra,0.5
+dacoit,5.0
+order of the trial court,1.0
+pistols,0.5419354838709677
+eye,0.9466574319441098
+rise,1.6238941915958565
+hesitation,0.5405405405405406
+co - villager,0.0
+several panchayatis,1.0
+oclock,0.2614678899082569
+chowk of village dilman chapra,0.5
+person,4.291511329454258
+deceased shambhu sharan dubey,0.5
+cause,1.8431210321626654
+way,1.7812722068664852
+behalf,1.9888053603529987
+same manner,0.6079182630906769
+witness from village dilman chapra,0.5
+part,5.294464509893076
+true that pw,0.6666666666666666
+sufficient light,0.75
+other members,0.59375
+deeds of gift,2.5
+many person,1.0
+sub - inspector of police,0.0
+passer,2.5919540229885056
+litigation,1.4968553459119498
+cross,2.0778316690442225
+nothing,0.8658723322806009
+distance,0.7353606433777331
+minor disputes,0.5
+share,2.560794932990637
+range,0.8144965675057209
+incident in question,1.3
+assailant,0.5333333333333333
+aspect,1.2449448189023034
+number,1.4802651440973922
+shri,2.0759135877246115
+nothing of significance,0.5
+district,1.5506763074237984
+sessions,1.3405714285714285
+decision,2.9514937765898557
+hands,1.1725490196078434
+appropriate cases,1.2
+on account of the fact,1.5384615384615385
+lurking suspicion that something,0.5
+aspect of the matter,1.4642857142857142
+pistol,1.0449735449735449
+step behind the accused persons,0.0
+other members of the family,0.6666666666666666
+ring,3.703396266780767
+house,2.0021735292386764
+gun shot,0.9818181818181818
+entire occurrence,0.6666666666666666
+land dispute,0.6666666666666666
+share of lands,0.5
+appeal,3.4125488033856883
+dw-,0.0
+am police station kesaria,0.5
+member of the family,0.6000000000000001
+post mortem examination,1.0
+steps behind the accused persons,0.5
+court of judicature,1.4210526315789473
+different village,0.4
+cancellation,1.677272727272727
+father of babban singh,0.5
+place in the past,0.5
+land,6.337534028705619
+mukhiya,0.6666666666666666
+which complaint,0.75
+reluctance,0.5454545454545454
+sessions judge,2.9545454545454546
+villagers,1.6111111111111112
+suggestion that the appellants,0.5
+village,1.8429856945085372
+overwhelming evidence,0.3333333333333333
+careful consideration,0.9285714285714286
+kishore,0.6823529411764706
+stage,1.1298537871524448
+year,2.8349484769759212
+dead bodies,0.6521739130434784
+nawal,1.3333333333333333
+doubt belong,0.5
+sessions trial,0.8
+number of villagers,1.5
+judgment,3.288216560509554
+katha,0.5714285714285714
+kirana,1.5
+only criticism,0.5
+testimony of the eye,2.75
+gift deed in favour,0.0
+time to time,1.0211267605633803
+gift,1.4785575048732944
+father,1.4298716229162676
+satisfied that the injuries,0.5
+subject,2.4420366233344897
+ram anup singh from time,0.5
+order,5.472481489660944
+anyone talk about commission,0.5
+injury,1.7199352451433856
+entire family,0.6857142857142857
+great promptitude,0.5
+police about the occurrence,1.0
+second deed,0.5
+act,12.870263922028107
+wives of shambhu sharan dubey,0.5
+son-in-law shambhu sharan dubey,0.0
+family members,1.2631578947368423
+medical officers,1.5
+babu,1.1979166666666667
+clas,2.1196191893660425
+pw- shivji,0.0
+false case,1.0
+reliable evidence,0.8333333333333334
+station diary,1.0
+signature on the statement,0.5
+dubey,7.166666666666667
+title suit,4.0
+accused persons,7.048780487804878
+defence witnesses,1.0
+commission of dacoity,2.0
+effect,2.184583388478191
+close range,0.6984126984126984
+kilometer from village dilman chapra,0.5
+thereupon babban singh shot at shambhu sharan dubey,0.5
+patna,2.3421052631578947
+bhageshwar,1.0
+double barrel gun,0.5
+in this case,0.8093377376732195
+baithka,1.0
+few days before the occurrence,0.5
+gifted land,0.5
+left side,0.9021164021164021
+morning,0.6560766182298546
+list,4.014941314095513
+caught,0.736111111111111
+witnes from village dilman chapra,0.0
+manner,1.4494591333432125
+such suggestion,0.5
+sound of gun shots,1.0
+shri bhagwan v state of rajasthan,0.5
+member,2.649111111111111
+mother,1.5057341472881893
+barbarism,0.22448979591836732
+gifted lands,0.5
+section,9.287987283173626
+sentence under section,1.0
+similar assertion,0.5
+criminal act of violence,0.0
+none,0.8181718550217885
+witness of village dilman chapra,0.5
+version,1.0500313479623824
+incident,1.8609485257918057
+fir,2.85390975582079
+water,0.9741079360379036
+injury as a result,0.5
+shop,1.5065156686317096
+condition,2.259476395625584
+younger brother,0.7727272727272727
+son rabindra dubey,1.0
+separate sentence,0.4
+by the dacoit,0.5
+assertion,0.5478622435144175
+anup singh,15.5
+- kilometers from the place,0.0
+counsel for the appellants,1.7258064516129032
+acts of violence,0.25
+place,2.333104345208554
+circumstance,1.429931390219372
+civil,2.126558634963905
+officers,2.442124212421242
+- feet,0.0
+sharan,2.6250000000000004
+testimony of eye witnesses,0.6666666666666666
+fake,0.5264516129032258
+confirmation,2.098684210526316
+sita devi,5.0
+same manner as the informant pw-,0.0
+mukhiya of the village,0.5
+shambhu sharan dubey on the ground,0.5
+investigation,1.6673076923076922
+judicature,1.4210526315789473
+regard,2.723310344827586
+second wives of shambhu sharan dubey,0.5
+appeal of ram anup singh,0.5
+consistency in the evidence,1.0
+sheoji devi,2.5
+by the dacoits,0.5
+knowledge,1.1120671641791045
+class,2.1508512849922936
+agency,1.8968779259354924
+relevant circumstances,1.2
+cordial relationship,0.5
+report of gun shot,0.5
+sheoji,2.5
+ram anup,15.5
+occurrence,2.1343873517786562
+truth,0.9590230664857531
+bigha,0.6428571428571429
+length,0.6297872340425531
+sound,0.8535719072510389
+story,0.755772533184814
+resulting,0.6009756097560975
+facts,1.4696673624372698
+assault on the victims,0.5
+issue,2.766776251628934
+arrival of the investigating officer,0.5
+consistency,0.7974537037037037
+investigating,1.5794836956521738
+court to appellants,0.5
+violence,1.524896265560166
+minutes,1.1231216272312163
+relationship between madan singh,1.0
+crowd,2.06340718105424
+basi,2.0752712086391383
+untoward incident,1.0
+- kilometer from the place,0.0
+that the conviction of the appellants,0.5
+lists,1.1177777777777778
+facts of this case,1.1923076923076923
+reference to the high court,0.5
+method,0.9027027027027026
+conviction of the appellants,2.0
+days,1.6721350893491447
+behavior in the past,0.5
+account of village relationship,0.5
+accused person in this connection,0.0
+herein ie,0.8
+session,2.2400874351067563
+shambhu,5.166666666666667
+convening,0.5454545454545454
+conviction,2.248165832071736
+basis,1.953226441078104
+that the occurrence,1.0
+panchayat,10.0
+cross examination,1.7272727272727273
+obvious that the occurrence,0.5
+second time,0.3653846153846154
+suspicion,0.690982776089159
+relevant circumstance,1.2
+sub,7.816899313759727
+view of the overwhelming evidence,0.5
+class farmer family,0.5
+head as a result,1.0
+events,0.6160483175150993
+course,1.6545957498716626
+criminal appeal,2.5675675675675675
+police pw-,0.0
+same day,0.8830188679245283
+samdhi madan singh,1.0
+co - villagers,0.0
+diary entry,0.6666666666666666
+house of madan singh,4.0
+criticism,0.5566549632939675
+khairnar,1.0
+brother of madan singh,1.0
+country,1.2903191103863751
+retaliation,0.2222222222222222
+mere passer,0.5
+crime,1.6636528028933093
+officer,3.1197242647058823
+pw- mahendra singh,0.0
+villages,0.7433206106870229
+pw- dwarika singh,0.0
+mass,0.49419584798420113
+lurking suspicion,0.5
+land in dilman chapra,0.5
+ground,1.4186722903211633
+complaints,0.9978858350951374
+marriage,1.8031648351648353
+formal fir,1.2
+mahendra singh,1.0
+such barbarism,0.5
+bhagya narain dubey,0.5
+appropriate case,1.4074074074074074
+dacoits,0.5
+opportunity,0.946186440677966
+such other small dispute,0.5
+cros,1.8137948361162648
+samdhi of madan singh,0.5
+death under section,1.3333333333333333
+champaran,0.5
+lallan singh,6.0
+matter,2.8088923076923082
+such land dispute,0.5
+meantime,0.5833333333333334
+mere chance witnesses,0.5
+scrutiny,0.912987012987013
+article,4.378806157159795
+menace,0.78
+criminal,3.301971081989414
+bhagwan v state,0.5
+defence case as fake,0.5
+term,3.6255105640901575
+dacoity,4.8
+- kilometer,0.0
+village of the informant,0.5
+appellants,7.701086956521739
+chowk for panchayati,0.5
+view,2.441100058469462
+chest,0.7395639311931632
+barrel gun,1.0
+decision of the panchayat,0.5
+past deed,0.30000000000000004
+post,2.344803646492219
+case of the prosecution,2.3043478260869565
+significance,0.6059966216216216
+side,3.88845645915565
+interested witnesses,0.875
+wife,1.4518086408500224
+such sentence,0.5
+place from a short distance,0.5
+injury to anyone,0.6666666666666666
+with the version,0.4444444444444444
+time at the stage,0.5
+such attempt,0.3888888888888889
+regard to these facts,0.6666666666666666
+promptness,0.5
+fact madan singh,0.5
+bodies,0.8969063256135499
+such fact,1.0833333333333333
+of the offence under section,1.125
+witness,5.333906623599983
+result,1.3356630184144715
+delay,1.9544910179640715
+signatures,0.9850746268656717
+brutal crime,0.5
+relationship,1.1804123711340206
+kesaria police station,0.5
+record,2.5393414390845273
+information,1.1320502836800534
+innocent life,0.0
+family of madan singh,1.5
+other small dispute,0.5
+scope,0.8412698412698413
+defence,1.3606588776096535
+polouse,0.0
+appellant in that case,0.75
+other eye witnesses,2.0
+mas,0.9088561393243791
+pw- shivji dubey,0.0
+witnes of village dilman chapra,0.0
+chowk,1.75
+wife in favour,0.5
+distant,0.3242009132420091
+whisper about a dacoity,0.5
+that the injury,0.5
+deed of gift,3.5
+other villager,1.6666666666666667
+persuasion,0.3188405797101449
+part in the panchayati,0.5
+in the fact of this case,0.0
+respect,2.6704963235294117
+plaintiffs,1.2549019607843137
+drastic action,0.30000000000000004
+pw- babu nand dubey,0.0
+hour after the occurrence,0.5
+statement of the informant,0.6666666666666666
+lines as the informant,0.5
+babban,6.5
+son shambhu,2.5
+behavior,0.4553359683794467
+large number,1.0979284369114877
+fact,3.6284951019474962
+many persons,1.0
+members of the family,0.8888888888888888
+recording,1.3265454545454545
+joint family property,0.75
+evidence on record,2.7906976744186047
+suggestion that a crowd,0.5
+large number of persons,1.4545454545454546
+appellant in the case,0.0
+deposition of the medical officers,0.5
+station,1.2515681586858238
+immediate cause of the incident,0.5
+pw- of kesaria police station,0.0
+ram anup singh that person,0.5
+hour,1.1326135248230613
+first time,0.7741935483870968
+mere passers,0.5
+criminal act,1.0074074074074073
+samdhi madan,1.0
+promptitude,0.8
+diary,0.986533041027247
+witnes,5.333906623599983
+father of shambhu sharan dubey,1.0
+brothers,0.9570135746606334
+anything on this aspect,0.5
+pw- caught hold,0.0
+superintendent of police,2.1153846153846154
+modification,0.9714977645305514
+victims,0.9
+entire land,0.4444444444444444
+additional,1.4256530253244384
+son-in-law from the village,0.0
+different villages,0.30000000000000004
+light,0.8816192372754331
+that pw,1.9
+years,2.5395804110508022
+eye witnesses,3.1
+brother appellant,0.5
+reliable evidence on record,0.5
+statement before the police,0.8
+report,1.7768151696835826
+punjab,1.0438169425511197
+cause of the incident,0.5
+many people,0.3721871049304678
+aforesaid sections,0.5
+fact of this case,0.0
+kilometer from the village,0.5
+daughter - in - law of informant,0.0
+question of sentence,1.6666666666666667
+talk about commission,1.0
+anything,0.9132309941520469
+arms,1.2384993436918101
+villager,1.1733333333333333
+son rabindra,1.0
+few days,0.7211538461538461
+deposition of pw-,0.0
+deceased resulting,0.5
+mass killing,0.18421052631578946
+minor dispute,0.5
+other non violent method,0.5
+consent that shambhu,0.5
+great value,0.30000000000000004
+information to the police station,0.5
+truthfulness,0.6000000000000001
+sentence of death,1.5428571428571431
+cross-examination,0.0
+heart,0.8127090301003345
+request,1.1474439594584596
+guilty of the offence under section,1.25
+lands,1.3404179836160743
+other small disputes,0.5
+dwarika singh,1.0
+killing,0.5793901156677181
+v state,2.4603773584905664
+disputes between madan singh,0.5
+ext,2.3165580391059217
+family member,1.0924657534246576
+testimony,1.4407553107789142
+date,6.195616975795285
+consent,1.224924012158055
+eye witness,1.4333333333333333
+sons,2.7457346002031446
+credibility,0.6069651741293531
+rai,2.517873434808919
+reference,2.1755848210276256
+society,2.1182859399684046
+interested witness,0.8888888888888888
+dead by the dacoits,0.5
+nothing on record,1.5
+offence,4.401610644257703
+presence,0.9604834261070158
+ram anup singh that persons,0.5
+way of retaliation,0.5
+ten years,1.3829279923700524
+extreme penalty of death,2.5
+relationship between ram anup singh,0.5
+exts,0.30562943262411346
+inspector,1.2705882352941176
+daughter sita devi,1.0
+such behavior in the past,0.5
+son of pw-,0.0
+cross - examination of this witness,0.0
+earlier day,0.3333333333333333
+day,1.550999710228919
+subject to the modification,1.4285714285714286
+question,2.980312372067635
+threat to the society,1.5
+son - in - law,0.0
+feature,0.6446262956901254
+scene of occurrence,1.75
+life imprisonment,1.2083333333333333
+execution,1.3041894353369763
+deposition,1.534
+v state of maharashtra,1.875
+rare cases,1.2592592592592593
+postmortem,1.2142857142857142
+police station,1.40045766590389
+evidence of pw- shivji dubey,0.0
+respect of land,0.8
+account of grief,0.5
+wife of shambhu sharan dubey,0.5
+scmanu,7.940520446096654
+medical evidence on record,1.5
+step,0.8867024753460084
+chance witnesses,0.75
+trees,1.4355828220858895
+assailants,0.9650349650349649
+statement,2.5393160135035964
+kirana shop of bhageshwar raut,1.0
+offence whatsoever,0.5
+accused person,4.565217391304348
+jamunia jasauli,4.5
+son - in - law of madan singh,0.0
+place of occurrence,2.6153846153846154
+brother of ram anup singh,0.5
+different medical officers,0.5
+rajasthan,3.9215686274509802
+past,0.9553167330358714
+bhageshwar raut,1.0
+entry,4.707210447678601
+prakash,1.8933333333333333
+formal witnes,1.0
+high,5.367119186841496
+members,1.9437616522164103
+brother,1.4566585956416465
+am in village dilman chapra,0.5
+account,2.5754891049671977
+distance between villages,0.5
+entire lands,0.5
+event,1.4310854436179261
+assault,1.0656614201609997
+non violent methods,0.5
+tutored witness,0.6666666666666666
+aforesaid section,1.1538461538461537
+pm recording of statements,0.5
+behalf of the appellants,1.46875
+line,1.6884436630262616
+property,2.9368986630013745
+suit,2.485274378207659
+wives,0.6435483870967741
+great promptnes,0.5
+consistent with the version,0.5
+interference,0.5733527484528578
+purpose,2.519170317925504
+that pws,0.8333333333333334
+high court to appellants,0.5
+jamunia,4.5
+great promptness,0.5
+inhuman cruel,0.5
+that purpose,0.609375
+law,3.538923411654744
+head,1.5827778446537666
+trial court,3.854545454545455
+led counsel,0.6666666666666666
+observation,0.7625074854374218
+time,2.4764180952862667
+cases,1.9728229418951067
+raut,0.3968253968253968
+plaintiff,2.177926421404682
+instigated madan singh,0.5
+tutored witnesses,0.6666666666666666
+allegation,1.834319526627219
+prakash dhawal khairnar,1.0
+gun,1.1509321528900995
+son-in-law for cancellation,0.0
+case of dacoity,1.0
+only daughter,0.5
+evidence of the witnesses,1.0
+informant in connection,0.5
+grief,0.3131991051454139
+opportunity for the informant,0.5
+son-in-law,0.0
+entry in the station diary,0.5
+same lines,0.3970588235294118
+brother with sita devi,0.5
+complaint,2.734525785235724
+sadhu,1.0
+conclusion that the defence,0.5
+mahendra,0.3333333333333333
+rarest,2.0
+licensed gun,0.5
+execution of gift deeds,0.5
+conspicuou in the evidence of the defence witnesses,0.0
+death sentence,2.911764705882353
+short distance,0.25862068965517243
+which complaints,0.6666666666666666
+prosecution,4.619407894736842
+east champaran,0.5
+polouse about the occurrence,0.0
+anyone talk,0.2777777777777778
+shivji dubey,1.5
+gift by madan singh,0.5
+appellant ram anup singh,1.5
+spot,0.778096903096903
+panchas,1.25
+march,1.0644238856181665
+offences,1.6681887366818873
+connection,1.050640279394645
+dwarika,1.0
+imprisonment,1.4344262295081966
+farmer,2.606382978723404
+view that the sentence,0.5
+statement of witnesses,1.1428571428571428
+other non violent methods,0.5
+ipc,2.785166240409207
+counsel,2.2246780703440323
+feet,0.5815085158150851
+gift deed,1.5
+policy,3.250773332247955
+additional district,1.9583333333333333
+evidence of the defence witnesses,0.5
+imprisonment for life,1.7142857142857142
+shivji,1.5
+panchayatis,1.5
+village of occurrence,5.333333333333333
+commission,4.703619179345321
+basis of the fir,1.0
+witnesses,3.359210526315789
+regard to the fact,1.5862068965517242
+that the injuries,0.6666666666666666
+days before the occurrence,0.6666666666666666
+such behavior,0.3555555555555555
+babu nand dubey investigation,0.5
+criminal acts,0.601851851851852
+defence case,0.6666666666666666
+civil suit,0.7413793103448276
+true that pws,0.6666666666666666
+whisper,0.5142857142857143
+chowkidar,1.4
+rigorous imprisonment,1.9230769230769231
+day before the occurrence,0.5
+talk,0.6790085679314566
+darwaza of ram anup singh,1.0
+suggestion that the appellant,0.5
+place over ten years,0.5
+son,4.595622484812135
+panchayati,6.5
+relative of the informant,0.0
+case that a dacoity,0.5
+few day before the occurrence,0.0
+commenced investigation,0.5
+effect that none,0.5
+talk of dacoity,0.5
+dispute,2.402137592137592
+evidence,3.6676405172088815
+abundant evidence,0.5
+document,1.401100265092073
+threat,1.0459885867740852
+am on the basis,0.5
+bhagwan v state of rajasthan,0.5
+dilman chapra,11.5
+victim,1.204831365285174
+presence at the scene,0.5
+food,1.1292356927710843
+feature of the case,0.75
+mind of the witnesses,0.6666666666666666
+moreover,0.7807228915662651
+sub inspector,1.7
+brother s family,0.0
+babu nand dubey,1.0
+relatives,0.8460264900662252
+second wives,0.5
+other member,0.6470588235294118
+circumstance of the case,0.5
+confusion,0.5114622057001239
+veracity,0.6470588235294118
+deposition of the defence witnesses,0.5
+bighas,1.0
+case,7.332269420884958
+bighas of land,0.5
+period,1.9480170842427122
+same dispute,0.5
+reliability,0.6606110652353426
+saintly life,0.5
+nothing in the cross examination,0.5
+deeds,1.0200708382526564
+affair,0.8341728395061728
+accused persons in this connection,0.5
+gun in the course,0.5
+ram,2.11096203538064
+conspicuous in the evidence of the defence witnesses,0.5
+tree,2.5601868779199677
+village dilman chapra,9.0
+cross - examination,0.0
+singh,3.7791111111111113
+injuries,2.4130008710801394
+report to the police pw-,0.0
+date for panchayati,0.5
+- kilometers,0.0
+am in the heart,0.5
+statements,1.110873440285205
+firing,1.7124384236453203
+defence witness,1.0
+medical evidence,1.2820512820512822
+nawal kishore dubey,1.5
+prosecution case,4.258064516129032
+sub inspector of police,1.2
+appellants in the case,0.8
+natural since a panchayati,0.5
+innocent lives,0.5294117647058824
+kilometers,0.20454545454545456
+connection with the panchayati,1.0
+request of madan singh,0.5
+anup,1.4958592132505175
+rescue,0.4424567680381634
+noon,0.9860557768924303
+village relationship,0.5
+statement of pw- babu nand dubey,0.0
+pm recording,0.5
+seizure,0.6583598956824108
+daughter of madan singh,1.0
+favour,1.653145208700764
+kathas of land,0.5
+jagarnath rai,0.5
+extreme penalty,2.5
+chabila singh,0.5
+shots,0.3196881091617934
+straightforward manner,0.5
+medical officer,1.090909090909091
+fact that jamunia jasauli,0.5
+pw- nawal kishore dubey,0.0
+occurrence in the same manner,0.5
+rumor that some person,0.5
+properties,1.7286779414438989
+non violent method,0.5
+maharashtra,2.9076923076923076
+superintendent,1.2698412698412698
+learned additional sessions judge,1.3
+father that madan singh,0.5
+testimony of pw-,0.0
+kilometer,0.3
+in the evidence of the defence witnesses,0.5
+disputes,2.3049883690876194
+saran,0.888888888888889
+investigating agency,2.0625
+second time with the daughter,0.5
+statement at the darwaza,0.5
+several panchayati,1.0
+in village dilman chapra,2.5
+attempt,0.7943782192788815
+body,1.336775463480009
+offence under section,2.6
+postmortem examination,1.1428571428571428
+chance witness,0.8333333333333334
+- foot,0.0
+deposition before the trial court,0.6666666666666666
+such other small disputes,0.5
+step behind the assailants,0.0
+high court of judicature,1.4210526315789473
+bhagwan,1.5555555555555556
+account of the fact,1.0256410256410258
+shri bhagwan v state,0.5
+dalbir,0.5
+son-in-law of madan singh,0.0
+bigha of land,0.0
+sentence,2.3896654193264366
+police,2.9749362629783356
+steps,1.169318181818182
+dilman,11.5
+confirmation of the sentence,0.5
+minute,1.0433976833976835
+son of the informant,0.6666666666666666
+policy by anyone,0.5
+lengthy cross examination,0.6666666666666666
+criminal acts of violence,0.5
+examination,2.4920345926263088
+earlier deed of gift,0.5
+title,1.74290600761189
+dalbir singh v state of punjab,0.5
+present none of the villagers,0.5
+unhappy on account of the fact,0.5
+past deeds,0.30000000000000004
+family properties,0.5
+reason,2.6381270903010035
+katha of land,0.0
+pw- rabindra dubey,0.0
+scope for any confusion,0.5
+such facts,1.0
+that village with a purpose,0.5
+second deed of gift,0.5
+life,1.3352928273744242
+one,4.845669314438648
+scene,0.7999999999999999
+category,1.9351744779266717
+penalty of death,2.5
+ten year,1.3831258644536653
+knowledge about the immediate cause,0.5
+actual term,0.5333333333333333
+consideration,1.9110153789142115
+similar,1.2954182353326582
+gift deeds,1.0
+critical scrutiny,0.4444444444444444
+kesaria,1.0
+penalty,1.5165226929932814
+rabindra,2.0
+village dilman chapra in connection,1.0
+mere chance witness,0.5
+value,1.7137907830478438
+madan,3.9047619047619047
+signatures of witnesses,0.6666666666666666
+cruel,1.9887836490528417
+devi,1.2339221178171305
+respect of the gifted lands,0.5
+village for the panchayati,0.5
+intimation about the convening,0.5
+air,2.0589664272145285
+middle class farmer family,0.5
+first time at the stage,0.5
+others,0.9074667328904616
+other villages,0.5555555555555556
+other near the kirana shop,0.0
+death reference,1.5
+relative,1.0564311594202898
+acts,1.9133929521984454
+informant pw-,0.0
+patil,0.85
+same lines as the informant,0.5
+entire family of madan singh,0.5
+brother shambhu,0.5
+deceased madan singh,0.5
+eye witness account,0.6666666666666666
+lines,1.770523318937438
+abundant evidence on record,0.5
+postmortem examination of dead bodies,0.5
+own brother,0.3333333333333333
+family,1.856281506375408
+dispute between madan singh,0.5
+judge,2.9012627415183325
+death,2.361592909460208
+manuscmanusc,7.940520446096654
+other member of the family,0.0
+same line,0.4129032258064516
+other villagers,1.3333333333333333
+allegation about the appellants,0.5
+pws,1.5484615384615386
+dilman chapra in connection,1.0
+sub - inspector,0.0
+critical scrutiny of the evidence,0.5
+nand,1.0072239422084623
+wife sheoji devi,2.0
+offences under section,1.3157894736842106
+present none,0.6666666666666666
+conclusion,1.3883437407077015
+shot,1.5276221441634974
+other issue,0.4939759036144578
+dacoity on the date,0.5
+narain,0.4978662873399715
+baithka in village dilman chapra,0.5
+counsel for the appellant,1.9621212121212122
+signature of witnesses,0.0
+place on the earlier day,0.5
+background,0.6800452488687784
+barrel,0.501453488372093
+second wife of shambhu sharan dubey,0.5
+circumstances of the case,1.3373493975903614
+rumor that some persons,0.5
+marks,1.4136144754122284
+which shambhu sharan dubey,0.5
+joint family properties,0.5
+in the facts of this case,0.8333333333333334
+chapra,11.5
+hand,2.0299623418254717
+jagarnath,0.5
+course of the dacoity,0.5
+relatives of the informant,0.5
+hold,2.206214081425894
+babban singh,6.5
+methods,0.6227758007117437
+gift deeds in favour,0.5
+no doubt,0.8331331503088538
+day of occurrence,0.5
+led counsel for the appellants,0.5
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+prevailing,0.6814814814814815
+few day,0.7211538461538461
+suggestion,1.2425592585991803
+village jamunia jasauli,3.5
+instance of the accused persons,0.5
+number of persons,1.2592592592592593
+evidence of pw-,0.0
+high court,7.7477477477477485
+rabindra dubey,3.0
+brother of the informant,0.5
+house of deceased madan singh,0.5
+daughter,1.0364906832298135
+category of the rarest,1.0
+state,6.817996007300392
+bhagya,0.5
+chance,0.7937084625609215
+manner of occurrence,1.0
+thereupon babban singh shot,0.5
+trial,3.7979448350459712
+others near the kirana shop,0.5
+pw-,0.0
+deed,1.3564447722662734
+execution of deeds,0.5
+manu,7.078142071124147
+daughter - in - law,0.0
+rare case,1.4074074074074074
+crossing,1.2380952380952381
+act of the appellants,1.0
+kathas,1.0
+role,1.0562959821210092
+informant,2.935483870967742
+samdhi,3.0
+younger brother of deceased shambhu sharan dubey,0.5
+clue,0.31653404067197166
+separate sentence under section,0.5
+dead body,1.192156862745098
+pancha,8.892857142857142
+ring of truth,0.4444444444444444
+rumor,0.4431818181818182
+chabila,0.5
+gun shots,0.6666666666666666
+brother of deceased shambhu sharan dubey,0.5
+jasauli,4.5
+appellant ram anup,1.5
+thereupon,1.4857142857142858
+intimation,1.105263157894737
+foot,0.7144861347422464
+motihari,0.5
+rigorous imprisonment for life,1.0
+different medical officer,0.5
+sita,0.6331210191082801
+manner as the informant pw-,0.0
+second wife,1.2
+consistent,0.7948615014050582
+light on this aspect,0.6666666666666666
+gun in the air,0.5
+shambhu sharan dubey,10.5
+v state of maharashtra manuscmanusc,1.3125
+oclock in the morning,0.20588235294117646
+maharashtra manuscmanusc,1.3529411764705883
+satisfied that the conviction of the appellants,0.5
+situation,1.1254754682459434
+earlier deed,0.5
+night,0.8690610404251893
+dalbir singh v state,0.5
+anything in the cross-examination,0.0
+unpleasantnes,0.30000000000000004
+kirana shop,1.5
+similar in this case,0.5
+satisfied that the injury,0.0
+scrutiny of the evidence,0.5
+steps behind the assailants,0.5
+other village,1.2037037037037035
+something,0.5915378827342709
+action,3.127292663476874
+lallan singh caught hold,0.5
+arms act,1.4545454545454544
+post mortem examination on the dead bodies,0.5
+promptnes,0.5
+unpleasantness,0.30000000000000004
+ram anup singh,15.5
+mortem,1.402116402116402
+persons,2.5993381990166555
+investigating officer,3.2580645161290325
+background of such facts,0.5
+belong,1.4340222575516692
+lallan,3.0

@@ -1,0 +1,1010 @@
+courts,2.1216528162511543
+enactment,1.439950980392157
+foodgrain in question,0.0
+committee,2.546237803603864
+standpoint,0.47619047619047616
+restriction,1.0123456790123457
+facet,0.8467741935483872
+such transaction,3.950617283950617
+- members,0.0
+sectors,0.37499999999999994
+housing society,1.0
+activity in order,0.5
+owner of immovable property,0.5
+tenancy rights between a housing society,0.5
+industrial financing,0.5
+legal representatives,4.111111111111111
+such act,0.7419047619047618
+decision thereon,1.0
+concept of business,0.5
+dhandhania kedia,0.5
+other similar business activity,1.5
+contempt petition,2.0714285714285716
+general clauses,2.625
+inasmuch as the society,0.5
+relative work,0.5
+expression business,3.5
+past member of the society,0.5
+essential commodities act,2.25
+p ramanatha aiyar,1.0
+viz,0.7732570026579433
+employee,6.280487804878048
+reasons,1.3749054007567938
+single transaction of sale,0.5
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+predecessors,0.5151515151515151
+meaning,1.8612727545949643
+kinds of disputes,1.0
+los,1.8125523261338943
+material difference,0.8
+state enactments,0.6666666666666666
+income tax officer,0.8333333333333334
+other than a member of the society,0.5
+refusal of the respondent,0.5
+legal representatives of any deceased agent,1.0
+failure,0.7827962142086977
+co - operative society,0.0
+dispute arising,2.6666666666666665
+interest,2.74353772015385
+manager up,0.6666666666666666
+court,12.24425115501509
+resignation,3.984375
+financing,0.8148148148148148
+debtor as a result,0.5
+maharashtra co - operative societies act,0.0
+law lexicon,1.0
+declaration,2.152560083594566
+skill,1.0107260726072607
+food grain,1.6666666666666667
+management of the society,0.6666666666666666
+madras,2.836734693877551
+rise,1.6238941915958565
+hesitation,0.5405405405405406
+act of trespass,0.6666666666666666
+agreement,3.450434632433366
+service of the employees,0.6666666666666666
+person,4.291511329454258
+ors,2.8612718198296623
+mahesh chandra,4.666666666666667
+business of the appellant - society,0.0
+correctness,0.8404159132007234
+ramanatha,0.4444444444444444
+behalf,1.9888053603529987
+consideration in this appeal,0.9090909090909091
+part,5.294464509893076
+objective of this society,0.5
+term of the objects,0.0
+financial,2.2822547614171618
+foodgrain,3.5
+description,0.8190476190476191
+retail transactions,0.5
+such dispute,2.0
+clause c,1.3764705882352941
+pronouncement,0.8197343453510436
+houses,1.0821764442454098
+other relative work,0.5
+view of the expression,1.0
+lexicon,0.27272727272727276
+dealer,2.712825585229146
+busines of the society,0.0
+bombay,2.3134020618556703
+case fall,0.9
+elaborate discussion on the subject,0.5
+deccan merchants,2.5
+dispute between a member,0.5
+transaction in the circumstances,0.5
+storage for sale,0.5
+liquidation of a society,0.5
+series,0.4722257940079723
+present appeal,1.3424657534246576
+deceased agent,1.5
+number,1.4802651440973922
+prefer,1.1985494322572976
+decisions,1.3888475974580996
+subject matter,1.2537313432835822
+purchase of the land,0.5
+decision,2.9514937765898557
+house sites,1.0
+transaction without any business element,0.5
+entertainment,0.8058608058608059
+articles,1.4349688743466387
+meaningles,0.6583774969425195
+article of association,0.0
+perceptions,0.3369565217391305
+liberal view of the expression,0.5
+such legislative intent,0.5
+dealers,1.3270142180094788
+claim,2.817264601856604
+versa,0.8291326966379378
+judgment of the bench,0.8888888888888888
+main busines of the society,0.0
+house,2.0021735292386764
+correctnes,0.8404159132007234
+disputes between any other society,0.5
+parts of buildings,1.0
+appeal,3.4125488033856883
+storage of food grains,0.5
+transactions within the purview,0.5
+deccan merchant,2.5
+land,6.337534028705619
+election,6.758005637447438
+tenancy right between a housing society,0.0
+such loss,1.3333333333333333
+v income tax officer,0.6666666666666666
+interpretation,1.518366298484459
+nagpur high courts,0.5
+members in accordance,0.5
+ward,2.4967109028473318
+stage,1.1298537871524448
+articles of association,0.4444444444444444
+mr khanna,0.5
+business transaction in order,0.5
+judgment,3.288216560509554
+prescribed commodity,0.0
+reportable judgment,1.2
+banumathi,0.9
+advanced,0.7762723387723387
+such busines,1.0
+meaning of section,1.3611111111111112
+subject,2.4420366233344897
+financial corporation,3.5
+scope of that expression,0.5
+other similar business activity of the society,1.5
+order,5.472481489660944
+loss,2.0689655172413794
+act,12.870263922028107
+sub-section,0.0
+mrs  justice r banumathi,0.0
+smt,0.7459757206267715
+businessman,0.46153846153846145
+vice-a-versa,0.0
+purview of section,1.75
+question in any court,0.6666666666666666
+that definition,0.3970588235294118
+than a member of the society,0.5
+single contract,0.5
+guarantee,2.2562167724232554
+dispute between a tenant,0.5
+appellant - society,0.0
+discernible nexus,0.5
+part of buildings,0.0
+effect,2.184583388478191
+sale transaction,4.25
+land for allotment,0.5
+concern of the society,0.6666666666666666
+asset of a society,0.0
+agent,1.406335913378167
+parties to the dispute,1.2
+skill with a view,0.5
+property dealers,0.5
+mds,0.8484848484848485
+kedia,2.888888888888889
+manner,1.4494591333432125
+member,2.649111111111111
+arrangement for the construction,0.5
+careful reading of the above,0.8
+parties,1.8210828547990157
+business of purchase,1.0
+appellant - society before the deputy registrar,0.0
+regional manager up,0.6666666666666666
+doubtful whether the word,0.5
+nature of the dispute,0.8571428571428571
+section,9.287987283173626
+cooperative societies act,2.111111111111111
+herein,2.825259515570934
+classes of dealings,0.5
+facets of the business,0.5
+single business transaction,0.5
+objective,0.5021775147928994
+in view of the provisions,1.0769230769230769
+conditions of service,2.235294117647059
+past committee,1.0
+servant,2.030552291421857
+madhya,2.9183673469387754
+past member,4.0
+dispute arising in connection,0.5
+ground that the respondents,1.0
+condition,2.259476395625584
+that transaction,1.2
+that expression,0.75
+judgments,1.2355646397547266
+tax,3.549237288135593
+order that a transaction,0.5
+instalment,1.375
+non-member,0.0
+dhandhania,0.5
+construct,2.326665011409452
+representative,1.0617102796119673
+other right,0.6222222222222222
+parcel of land,1.0
+respondents - sellers,0.0
+circumstance,1.429931390219372
+chapter vii of the act,0.6666666666666666
+present case,1.5611814345991561
+description of persons,0.5
+assets of a society,0.5
+rise to the dispute,0.5
+commercial busines,0.2857142857142857
+business of the society,6.0
+refusal,0.813597918022121
+regard,2.723310344827586
+dealer within the meaning,1.6666666666666667
+element of the definition,0.5
+thakur,1.6
+aiyar,0.5555555555555556
+foodgrains in question,0.5
+context,0.9269383697813122
+member of the society,3.0
+high court of madhya pradesh,1.1875
+common ground that the respondent,1.0
+to private sector,0.30000000000000004
+property for profit,0.5
+present servant,1.0
+court in manipur administration v,0.5
+class,2.1508512849922936
+respondent non - members,0.0
+money,1.6567889044524557
+enterprises,0.948060941828255
+rights,1.6349541930937281
+such work,0.7000000000000001
+tribunal that a dispute,0.5
+essential requirement for a dispute,0.5
+regards,0.9072861236185019
+facts,1.4696673624372698
+jugraj,0.5
+appeal before the mp,0.5
+above meaning,0.37037037037037035
+different state enactment,0.5
+arrangement,0.7318181818181818
+business transaction between the society,0.5
+past servant,0.5
+fact that the dispute,0.5
+sale transaction in terms,0.5
+purview,1.0864197530864197
+meaningless,0.6583774969425195
+banking sectors,0.5
+business of a society,2.0
+distinct questions,0.4444444444444444
+liquidation of the co - operative society,0.0
+contract for sale,2.0
+busines of purchase,0.0
+short question,0.5714285714285714
+contract,6.227349970404598
+exchange,1.09516494769951
+lordship,1.0416666666666667
+mrs,0.4085714285714286
+andhra pradesh co - operative societies act,0.0
+essential,1.137813781378138
+benefit,2.604810195438474
+private sector,0.3660714285714286
+business transaction because the society,0.5
+deputy registrar,2.7142857142857144
+vice versa,0.7526881720430109
+trespass,1.6722222222222223
+cost,1.2954397451466992
+view that the respondents,0.6666666666666666
+prescribed commodities,0.5
+orders,1.4936359300077826
+additional industrial tribunal,0.5
+liquidator,37.0
+contempt,1.5446913580246913
+common ground that the respondents-seller,0.0
+scheme,3.415949119373777
+such disputes under the purview,0.5
+sub,7.816899313759727
+class of dealings,0.0
+vii,1.26552423069836
+similar business activity,1.5
+contract of sale,2.5
+nagpur,6.5625
+agricultural land,1.6666666666666667
+high courts,2.676470588235294
+company,5.864471879286695
+clauses act,2.857142857142857
+busines of the appellant - society,0.0
+country,1.2903191103863751
+dispute under the purview,0.0
+same deal,0.2647058823529412
+kondiah,0.5
+pradesh,4.365853658536586
+rukibai,0.5
+no matter,0.5361552028218695
+operative,1.2876712328767126
+manner of doubt,1.0
+hence,1.1440732910500353
+officer,3.1197242647058823
+tenancy rights,2.3333333333333335
+cooperative bank case,0.5
+transactions that the requirements,0.5
+such los,1.3333333333333333
+acquisition,6.764044943820224
+jain,1.673202614379085
+satisfied viz,0.6666666666666666
+series of transactions,1.6666666666666667
+ground,1.4186722903211633
+present dispute between a tenant,0.5
+than trade,0.5
+co-operative society,0.0
+mr khanna that the requirement,0.5
+country with commendable frequency,0.5
+other prefers,0.5
+wide meaning,2.0
+resort,0.7319355397678043
+analogous provisions,0.6666666666666666
+own purpose,0.5294117647058824
+continuity of transactions,0.5
+transaction,5.884921444603142
+xxx,1.8708487084870848
+merchants,1.0153846153846153
+nagpur high court,0.5
+second requirement viz,0.5
+above description from the stand point,0.5
+agarwal,7.8125
+courts of madras,0.5
+past agent,0.5
+quantity,0.9457720588235292
+matter,2.8088923076923082
+cleavage in judicial opinion,0.5
+loan,2.299059561128527
+concept,0.9402138540213855
+narrower sense,1.25
+tenant,4.821212121212122
+article,4.378806157159795
+liquidation,5.300000000000001
+rent,2.460251217077583
+enterprise,0.921565795175502
+default of the principal debtor,0.5
+provision of general clauses act,0.0
+purpose of sub - section,0.0
+term,3.6255105640901575
+person by the application,0.5
+provision of section,1.4827586206896552
+nexus between acquisition  purchase,0.0
+co - operative central bank ltd,0.0
+other society,0.6666666666666666
+meaning of the expression,1.75
+public to private sector,0.5
+view,2.441100058469462
+position in co - operative central bank ltd,0.0
+aid,5.498621453008654
+commissioner of income tax,1.3333333333333333
+pronouncements,0.7435344827586207
+settlement of disputes,0.8
+preferences,0.38746438746438755
+requirements,0.7375979875979877
+opinion,1.4960606342789635
+prepare land for construction,0.5
+reading of the above,0.8333333333333334
+side,3.88845645915565
+relief,1.4748116760828625
+use,5.06801278974993
+party to the dispute,0.5
+andhra,4.830188679245283
+member in accordance,0.0
+honble mr justice ts,0.5
+registrar ujjain,0.5
+judicial opinion,0.5333333333333333
+cleavage,0.75
+second appeal,4.5
+result,1.3356630184144715
+business transaction from the standpoint,0.5
+twin requirement,0.6666666666666666
+khanna,1.2
+merchants case,1.5
+respondent non - member,0.0
+material,1.4148767018946966
+activity,1.3846153846153848
+land to a society,0.5
+than a member,2.0
+scope,0.8412698412698413
+laws,1.4186274337269533
+discernible nexus between acquisitionpurchase,0.5
+predecessor-in-interest,0.0
+division bench of the high court,1.6825396825396826
+own cost,0.9166666666666666
+bye-law,0.0
+own costs,0.9090909090909091
+different intention,0.5
+commodities,1.6200000000000003
+conmt,0.5
+provision,5.439002243350069
+extenso,0.6666666666666666
+whereunder,1.25
+provisions of section,2.762376237623762
+respect,2.6704963235294117
+suffice,0.5886850152905199
+application to the case,1.0
+which counsel for the appellant-society,0.0
+business,2.8512056385864457
+heard,0.782882203033377
+fact,3.6284951019474962
+representative of a deceased member,0.5
+alteration of the conditions,1.0
+owner,2.9502416709822197
+learned counsel,3.703333333333333
+tenants,0.8391608391608391
+workmen,6.571428571428572
+nila chandra singh,0.5
+expression,1.7424391201885312
+complete right to this society,0.5
+land bank,0.5
+court in bhatnagar,0.5
+description of parties,0.5
+building,3.870745432459903
+such debt,1.0
+such dispute under the purview,0.0
+party to the transaction,0.5
+deputy,1.1595268542199488
+mr  justice,0.0
+clauses,1.5486111111111112
+claim by a surety,0.5
+whatever,0.602961432506887
+object,1.4940119760479043
+single contract for sale,0.5
+demand,1.5671679197994988
+prasad,1.1407089151450054
+regard to the provisions,1.1176470588235294
+essential requirement,1.0
+narsinda,0.5
+thereto,1.0358342665173572
+stand,1.8422769621739425
+immovable property,1.75
+tenancy right,2.5
+appeal today,0.5
+today,0.6330563683773655
+prefers,0.375
+other word,0.758838674565131
+announcement of the election,0.5
+work,2.8478559811646353
+law for the time,1.945945945945946
+house site to the members,0.0
+representative of any deceased agent,0.0
+representatives,0.8874021711688966
+necessity,0.7072538860103627
+purchase of immovable property,1.5
+disputes under the purview,0.5
+dispute in the case,0.6666666666666666
+alteration of a number,0.5
+debtor,2.4615384615384617
+doubt,1.3646267723102583
+honble mrs justice r banumathi,0.5
+dispute between non-members,0.0
+poverty,0.4403669724770643
+common ground that the respondents-sellers,0.0
+light,0.8816192372754331
+enactments,0.7301587301587302
+dispute between the society,0.0
+barendra prasad ray,0.5
+main business,0.5
+present agent,1.0
+provision of manipur foodgrains dealers,0.0
+true scope,1.0
+restrictions,0.7241671372106155
+principle,1.9620890732001848
+servant of the society,1.0
+party,2.2250894654439723
+newspaper,1.4133350781914544
+anything,0.9132309941520469
+that word,0.4716981132075471
+definition,1.6460425937698666
+use of the word,0.6352941176470589
+proposition,0.6371087928464977
+settlement,1.6881394467601363
+counsel for the appellant - society,0.0
+nobody,0.6463806463806463
+deccan merchants case,1.5
+with the question whether a dispute,0.5
+which relief,0.5
+justice,2.292557084574302
+complete right,0.5
+busines of such purchase,0.0
+residential accommodation,1.4
+expression business of the society,2.0
+liquidator of the society,1.0
+occupation of a person,0.5
+distinct question,0.4444444444444444
+income,2.734813573523251
+ray,0.8140506967693749
+v state,2.4603773584905664
+aid by the appellant-society,0.0
+sort of continuity,0.5
+touching,1.0222222222222221
+clause b,1.1428571428571428
+creditor,5.357142857142858
+division bench,3.965217391304348
+joint registrar,1.0
+interplay,0.38095238095238093
+bhatnagar,4.2
+reference,2.1755848210276256
+administration,1.061072796934866
+parcel,3.0625
+society,2.1182859399684046
+dealings,0.78
+transaction between a society,0.5
+bank,9.40770083102493
+respondent,4.757894736842104
+court of madras,1.2857142857142858
+schedule,2.9453067257945307
+accordance,1.4069045211613462
+amount in respect,1.75
+default,0.7094574436346588
+employees,4.611008798854102
+definition show,0.5
+deducible from the scheme,0.5
+sale,3.3662581620085734
+financing to commercial banking sectors,0.5
+question,2.980312372067635
+v state of up,1.7027027027027026
+contention that a single transaction,0.5
+purview of the definition,0.5
+import,1.5850112386464603
+sub-clauses,0.0
+present officer,1.3333333333333333
+execution,1.3041894353369763
+non-members,0.0
+alteration,1.2619047619047619
+construction of building,1.5
+application of clauses,0.5
+scmanu,7.940520446096654
+word,2.065873981084096
+universal application,0.8666666666666667
+writ,2.8882378560889794
+proper,2.7623036581024407
+tenancy,3.0545454545454542
+honble,2.4444444444444446
+sort,0.7327002541370012
+loan by the society,1.0
+chapter,1.3867471532446152
+amount,3.179688593072295
+august,0.977116704805492
+other words,0.7578482137053969
+guilty under section,0.8
+compulsion,0.6274509803921569
+court in preference,0.0
+expression of wide import,0.5
+narsindas,0.5
+solitary transaction between a society,0.5
+member of deceased member,0.5
+thereon,0.877037037037037
+pronouncement from different high courts,0.0
+commercial banking sector,0.5
+main business of the society,0.5
+second essential requirement,0.5
+past,0.9553167330358714
+family necessity,0.5
+decision in deccan merchant,1.0
+industrial financing to commercial banking sectors,0.5
+foreign,1.2919207317073171
+high court in preference,0.0
+house sites to the members,1.0
+high,5.367119186841496
+society undertake,0.5
+members,1.9437616522164103
+society undertakes,0.5
+such transactions,3.819444444444444
+courts in preference,0.5
+agriculturist,1.5
+that words,0.4
+line of decision,0.8333333333333334
+single transaction in the circumstances,0.5
+deceased member of a society,1.0
+purchase,3.239871541501976
+force,1.6009408121948314
+agriculturists,0.5
+line,1.6884436630262616
+singular in view of the provisions,0.5
+commodity,1.4505494505494503
+property,2.9368986630013745
+building on instalment,0.5
+object of the appellant - society,0.0
+use by the society,0.5
+bye laws,0.6666666666666666
+commodities act,2.25
+objects,0.7297830374753452
+purpose,2.519170317925504
+law,3.538923411654744
+nos,1.2635492554198444
+time,2.4764180952862667
+division,1.7657319129617017
+sides,0.6706755273269035
+similar view,0.5274725274725275
+present,1.9747480780089475
+property dealer,0.6666666666666666
+connect between the facts,0.5
+dispute under this clause,0.5
+behalf of the appellant-society,0.0
+continuity,0.5565476190476191
+board,2.401414435268602
+purchaser,2.017857142857143
+busines of the bank,0.0
+past member of deceased member,0.5
+requirement viz,0.5
+discussion on the subject,0.5
+accommodation,1.3095238095238095
+decreed specific performance of the contract,0.5
+discernible nexu,0.5
+to the objects of the society,0.5
+such occupation,0.5
+relatable to the objects of the society,0.5
+principal debtor,1.5
+industrial tribunal,6.3
+mortgage,8.214285714285714
+second essential requirement for a dispute,0.5
+nature of the society,0.5
+non,1.3417336444559675
+plural,0.5086306098964327
+central general clauses,0.5
+right,3.07483248288682
+legal position,0.7659574468085106
+court of madhya pradesh,1.1875
+such transaction within the purview,1.0
+respondents - seller,0.0
+part of the business,1.3333333333333333
+narrower interpretation,0.5
+bye law,2.0
+joint,1.0091324200913243
+condition of service,0.5
+dealing,1.3134282178217822
+facts of the case,1.161764705882353
+resort to proceedings,0.5
+view that the respondent,0.6666666666666666
+march,1.0644238856181665
+connection,1.050640279394645
+income tax,1.4126984126984128
+announcement,2.2524167561761548
+business transaction,5.777777777777778
+barendra,0.5
+application,2.3322596088086445
+other law for the time,1.6
+counsel,2.2246780703440323
+sub-lease,0.0
+second appeal before the mp,0.5
+sellers,1.1475409836065573
+predecessor,0.9857142857142858
+parts,0.6609660823170732
+argument that the plural,0.5
+purchaser - society,0.0
+legal representative of any deceased agent,0.0
+alse general clauses,0.0
+rules,3.130914366958792
+reading,0.9004509191814082
+industrial,5.673304955913652
+state enactment,1.3333333333333333
+trespas,1.6722222222222223
+manipur administration v,0.5
+execution of a contract,0.5
+flat,2.2950575421290584
+profit,3.0739182692307687
+anyone of the clauses,0.5
+loans,0.7388888888888888
+association,1.2099052684061826
+provisions of manipur foodgrains dealers,0.5
+other than a member,2.0
+high courts in preference,0.5
+definition shows,0.5
+sector,1.1724200913242009
+different state enactments,0.5
+narrower,1.0
+intention,1.7585585585585588
+andhra pradesh,4.857142857142857
+ltd,2.382356477306883
+dispute,2.402137592137592
+kerala in preferences,0.5
+merchant,1.09281045751634
+results,0.6487493619193466
+vice,3.766984711894892
+bye,1.9938461538461536
+retail transaction,0.3333333333333333
+decision of this court,2.3260869565217392
+conditions,1.9988092071092867
+kinds,0.5807291666666666
+analogous provision,0.6666666666666666
+mr  justice ts,0.0
+food,1.1292356927710843
+reliance,1.400763358778626
+other rights,0.4666666666666667
+sale of property,1.0
+flats,2.4583333333333335
+business transactions,6.0
+solitary transaction,1.0
+case,7.332269420884958
+difference,0.8774847235514982
+clear that words,0.5
+period,1.9480170842427122
+emphasi,0.9191619047619048
+registrar,1.8341346153846154
+scc,1.941872465904902
+edition,0.9664589349951868
+which counsel,0.5
+wide import,2.0
+lease,1.2000155472636815
+constitution,3.204842342342342
+expression busines of the society,0.0
+adjudication,1.5392156862745099
+continuously,1.2313144329896908
+claim by a society,1.0
+different high court,1.1428571428571428
+assets of the society,0.6666666666666666
+surety of a member,1.0
+sites,0.37916666666666665
+deccan,2.3333333333333335
+singh,3.7791111111111113
+same effect,0.875
+common ground that the respondents,1.0
+bank case,2.6
+nobody s case,0.0
+deceased officer,0.5
+ground that the respondent,1.0
+service,4.257395095954566
+pet,5.141971066600646
+element,0.7062328407033122
+pleasure,0.4961832061068702
+contention,1.666391070690368
+past officer,1.6666666666666667
+bhatnagar v smt,0.5
+rule,5.04
+courts of madhya pradesh,0.6666666666666666
+honble mr justice t,0.5
+proceedings,1.7670925223666287
+favour,1.653145208700764
+frequency,0.40502793296089384
+similar business activity of the society,1.5
+application to the facts,0.8888888888888888
+advanced law lexicon,0.6666666666666666
+grains,1.507246376811594
+elaborate discussion,0.5333333333333333
+respondents-herein,0.0
+supra,2.246342614440774
+high courts of madhya pradesh,0.6666666666666666
+high court of madras,1.2857142857142858
+chandra,0.7012987012987013
+bench,2.5793391667754992
+co-operative tribunal,0.0
+house site,1.3333333333333333
+clear that word,0.5
+properties,1.7286779414438989
+respondents,2.6341263330598856
+careful reading,1.1538461538461537
+asset of the society,0.0
+leave,1.0147842365477848
+maharashtra,2.9076923076923076
+as the society,0.30000000000000004
+costs,0.8167395522604189
+mahesh,1.3214285714285716
+nominee,0.9666666666666667
+slp,1.291953447628582
+point of view,0.5886392009987514
+such other compulsion,0.5
+disputes,2.3049883690876194
+object of the society,0.0
+cooperative,1.4295572167912591
+multiple transactions,1.0
+clause b  whereunder,0.0
+point,2.9165043546008516
+surety,1.6
+such disputes,1.875
+foodgrains,3.5
+- member,0.0
+management,1.6732611752395274
+general claus,2.75
+dalichand,0.5
+that intention,0.6666666666666666
+objects of the society,1.5
+connection with the business,0.5
+lal,1.6786163249382287
+under section,5.374517374517374
+disputes between the society,0.5
+dispute between any other society,0.0
+reason,2.6381270903010035
+instant case,2.0631578947368423
+other compulsion,0.5
+no contrary intention,0.5
+position,1.549133168619177
+ujjain,1.0
+workman,2.3486111111111114
+stranger,0.5863636363636363
+petition,5.3436539306104525
+wider than trade,0.5
+writ petition,6.24223602484472
+case fall outside the expression,0.5
+commercial banking sectors,0.5
+members of the society,1.0
+construction,2.2504918032786887
+business element,0.5
+creditor of a society,1.0
+consideration,1.9110153789142115
+transactions,6.503443526170798
+court in on,0.4444444444444444
+necessary restriction,0.5
+respondent in favour,0.5
+words,1.6384367086179112
+common ground,0.5454545454545454
+ground that the respondents - sellers,0.0
+housing,1.9061032863849767
+foreign section,0.5
+commissioner,2.271608643457383
+facet of the business,0.0
+clause,3.526455026455027
+twin requirements,0.6666666666666666
+air,2.0589664272145285
+different high courts,1.1538461538461537
+business of the bank,0.5
+other law,0.991304347826087
+loan to the respondents,0.5
+trade,1.8307706424423558
+facets,0.6363636363636364
+co - operative societies act,0.0
+banking sector,0.5
+trading,1.4943609022556392
+kind of disputes,0.0
+legislature,2.818553268765133
+family,1.856281506375408
+transaction of sale,2.0
+heir,2.4782705005515444
+decreed specific performance,0.5
+main busines,0.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+particular with the question whether a dispute,0.5
+newspapers,0.854368932038835
+heirs,1.7930440771349863
+licensing,1.5485564304461943
+societies,1.7085137085137085
+terms of the objects,0.5
+question whether a dispute,0.5
+case at hand,1.0617283950617284
+legal representative,3.727272727272727
+mr  justice t,0.0
+argument,0.9504580388560493
+corporation,3.6427750743444176
+court in deccan merchants,0.5
+occupation,1.1158072696534236
+transactions that the requirement,0.5
+declaration of the results,0.5
+composite society,0.5
+member of a society,1.0
+underlying section,1.6
+dispute in respect,0.6666666666666666
+third party,1.053291536050157
+v dalichand jugraj jain,0.5
+fact of the case,0.0
+special leave,1.903225806451613
+expression busines,3.5
+storage,0.9779323578795875
+above description,0.30000000000000004
+service of an employee,1.0
+sub-claus,0.0
+honble mr justice,1.5833333333333333
+madhya pradesh,2.9583333333333335
+performance,1.4794327394994442
+liquidation of the society,0.5
+necessary restrictions,0.5
+election of any officer,0.5
+co-operative central bank ltd,0.0
+site,0.9890725980575135
+questions,0.9979150871872632
+co-operative bank ltd,0.0
+bye-laws,0.0
+liberal view,0.5000000000000001
+first appeal,1.112781954887218
+legislative intent,1.3823529411764706
+actual trading,1.0
+objects of the appellant - society,0.0
+hand,2.0299623418254717
+general clauses act,2.857142857142857
+high courts of madras,0.5
+provisions of general clauses act,0.5
+industrial dispute,7.611111111111111
+bhopal,3.5714285714285716
+member of the bank,0.5
+multiple transaction,1.0
+dispute between a society,0.0
+iii,1.5614499719992534
+sense,0.8606303395157362
+essential requirements,0.8
+parties to the transaction,1.0
+busines,2.8488759960122034
+purchase of land,0.5454545454545454
+commercial business,0.2857142857142857
+to the object of the society,0.0
+circumstances,1.3944461370073231
+appellant,14.387096774193548
+allotment,4.111111111111112
+madra,2.836734693877551
+regional,2.357638888888889
+grain,1.4777777777777779
+disputes between a society,0.5
+co-operative societies,0.0
+manager,1.7133044010756409
+present dispute,1.0
+earning profit,0.6666666666666666
+representatives of any deceased agent,1.0
+interpretation of the courts,0.5
+requirement,1.2416133333333332
+kerala,4.135593220338983
+such transactions within the purview,0.5
+high court,7.7477477477477485
+learned counsel for the appellant,1.7884615384615385
+short ground,0.5
+state,6.817996007300392
+s mohan lal v r kondiah manuscmanusc,0.5
+statute,2.5765859456247218
+pronouncements from different high courts,0.5
+predecessors-in-interest,0.0
+classes,1.212856534695615
+such business,1.0
+decision thereon of the registrar,0.5
+systematic activity,0.5
+intent,1.8427075724373023
+busines of a society,0.0
+deal,2.1942302694273583
+stand point,0.7777777777777778
+other prefer,0.6666666666666666
+preference,1.0460251046025104
+co - operative bank,0.0
+purchase of the property,0.5
+manu,7.078142071124147
+concern,2.0544958000579303
+manipur foodgrains dealers,0.5
+general,1.7536558414534391
+light of such legislative intent,0.5
+rate,3.088725136774248
+central,2.61875
+solitary transaction of sale,0.5
+nature of business,0.5
+banking,2.1351674641148324
+language,0.8555828468744352
+land on lease,0.5
+maharashtra act,1.3333333333333333
+behalf of the respondents,1.3235294117647058
+emphasis,0.8024289099526066
+hand as the same deal,0.5
+scheme of the act,1.5238095238095237
+prepare land,0.5
+such purchase,1.2857142857142858
+repairing,0.391304347826087
+ground that the respondents - seller,0.0
+single transaction,3.5
+nature,1.4149926876444778
+true meaning,0.5603448275862069
+societies act,2.3
+commendable frequency,0.5
+discussion,0.7445831166579996
+seller,3.1695238095238096
+dispute between society,0.5
+mohan,1.5416666666666667
+nila,0.4347826086956522
+transaction within the purview,1.0
+right to this society,0.5
+asset,3.0300107181136124
+manipur foodgrains dealer,0.5
+tribunal,5.07183212267958
+buildings,1.3041267942583734
+view of the provisions,1.0666666666666667
+principal debtor as a result,0.5
+kind,0.9236881920088026
+redundant,0.7162629757785468
+acquisitionpurchase,0.5
+business of such purchase,0.5
+guarantee of loan,0.5
+business activity,1.6666666666666667
+scope of the word,1.0
+generic expression,0.5
+something,0.5915378827342709
+accurate hence,0.5
+legal representative of a deceased member,0.5
+perception,0.43055555555555564
+labour,2.5372960372960374
+manipur,1.75
+food grains,1.6666666666666667
+whether the word,0.7200000000000001
+disputes between non-members,0.0
+assets,2.6879084967320264
+connect,1.1246675490010714
+nexus,0.8586538461538462
+persons,2.5993381990166555
+debt,3.4485322896281807
+joint registrar ujjain,0.5
+deceased member,2.0
+chapter vii,1.0

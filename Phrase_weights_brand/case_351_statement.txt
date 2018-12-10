@@ -1,0 +1,1943 @@
+government,3.5583785424010483
+support trader,0.5
+seedling,0.6666666666666666
+first respondent herein,1.5
+different provision of the statute,0.0
+east,0.8065147296612034
+type of grafts,0.0
+other interest,0.4102564102564103
+godowns,0.75
+establishment,0.9899216125419933
+scientists,0.2612612612612612
+terms of section,1.98
+genetic purity,2.5
+declaration of market area,0.5
+foregoing reason,1.0714285714285714
+sale of seeds,2.0
+purity,0.8724489795918368
+respective arguments,1.0
+seeds for quality factors,0.5
+commodity from grain,0.5
+notice to the companies,0.0
+rise,1.6238941915958565
+union,2.0981927710843373
+other rule,0.4861111111111111
+serial,0.95402624374587
+input dealers association,3.0
+harvest,0.6
+following statement,0.6547619047619048
+way,1.7812722068664852
+non inclusion on the schedule,0.5
+oil,0.6595019659239842
+unfit for human consumption,1.5
+sri krishna coconut,1.0
+certificates to dealers,0.5
+utility as foodgrain,0.5
+district,1.5506763074237984
+lord simond,1.0
+other poisonous substance,0.5
+contrary,1.027917657672435
+act deal,1.736842105263158
+aforesaid,2.592896174863388
+sample,1.7733348061416105
+agricultural produce,21.5
+that seed of wheat,0.0
+seed laboratory as the central seed laboratory,0.5
+judgment of brother dr ar,0.5
+scr,2.483838975311538
+transaction of wheat,0.5
+abdul,1.5086206896551726
+such terms,0.5333333333333333
+chemical treatment bazra,0.5
+minimum seed standards,2.5
+following questions,0.5185185185185185
+stage,1.1298537871524448
+agreement on the foundation seed distribution form,0.5
+trader purchase,0.5
+provisions of the seeds act,1.0
+quality of certain seed,1.0
+subject,2.4420366233344897
+order,5.472481489660944
+inspection charge,0.5
+programme,1.5640149666503986
+foodgrains movement restriction,0.5
+from foodgrain,1.0
+sorts,0.5452646239554317
+variety,0.5229534147444596
+seed on the ground,0.0
+rajasthan agriculture input dealer association air,0.5
+standards,1.312168199737188
+medical,1.633306645316253
+statement of objects,1.565217391304348
+pleading,1.1270125223613594
+chemicals at processing plant,0.5
+yield,2.0476190476190474
+national seeds corporation,0.6666666666666666
+method of production,0.5
+high yielding seed,0.5
+court in writ petition,1.4615384615384615
+reason for seed production,0.0
+sales,2.89512876202296
+letter under reference,0.5
+option,1.002339493011135
+parties,1.8210828547990157
+provision of production,0.0
+minimum seed standard,2.5
+meeting,1.5978547625659538
+version,1.0500313479623824
+more lenient one,0.5
+condition,2.259476395625584
+provisions of the essential commodities act,0.5
+than the business of sale,0.5
+foodgrains market restrictions,0.5
+standards of the seed,0.5
+wide that seed of the cereals,0.0
+contention of the respondent,1.1333333333333333
+certified foundation seed,0.5
+present case,1.5611814345991561
+separate commodity from grain,0.5
+certificate to the company,0.5
+first respondent dew,0.5
+context,0.9269383697813122
+difference in wheat,0.5
+proces,1.627944583238701
+object of legislature,0.5
+produce in the market area,1.5
+other particulars,0.7619047619047619
+para,2.300239586747483
+extraction,0.5028571428571429
+state of rajasthan,1.9090909090909092
+same as seed,0.5
+qbd,0.2807017543859649
+seed of food crops,0.0
+imposition,1.4444444444444444
+in the case of the first respondent,0.5
+powers,1.876345371920593
+priester,0.6666666666666666
+cattle,0.5714285714285714
+rakesh dwivedi,1.4285714285714286
+entire transaction of wheat,0.5
+various crop,0.5
+such item in processed form,1.0
+in the context,0.7695831424644984
+valid registration certificate from the district agriculture officer,0.5
+charge,2.7679815308681284
+list iii,9.615384615384615
+market fee on the purchase,0.5
+same unfit for the human consumption,0.5
+country,1.2903191103863751
+agriculture input dealers,1.0
+retail sale,0.6545454545454544
+revolution,0.30825688073394497
+seeding,0.5714285714285714
+inter-state movement of non-descript seeds,0.0
+trader furnish,0.5
+first respondent herein deal,0.5
+transaction,5.884921444603142
+other than the business of sale,0.5
+inception to the time,0.5
+centum,1.3333333333333333
+input,1.4506694855532065
+chemical,1.5078102189781022
+wide interpretation,1.2
+following observations,0.8222222222222223
+grower,2.1714285714285713
+to market fee,1.0
+offspring of these seeds,0.0
+provision of section,1.4827586206896552
+classification of foundation seed,0.5
+bros manuscmanusc,0.75
+conflict,1.314561353483509
+busines except the business,0.0
+merit,1.2419290263876248
+andhra,4.830188679245283
+various crops,0.5
+non inclusion,0.6666666666666666
+licences,0.95
+from food grains,0.5
+method of seeds production,0.5
+foundations seed,0.5
+substances to the foodgrains,0.5
+inconsistent therewith,0.8
+market area of mandi samiti,1.0
+state government on matters,0.0
+that seeds of wheat,0.5
+such produce,0.5
+state of rajasthan agriculture input dealer association air,0.5
+judgment in state,0.5
+undergone chemical,0.5
+transformed form,0.5
+act deal with definition,0.0
+pradesh certification agency,0.5
+anr,1.1271033322299457
+special,1.7363344051446945
+honble supreme court,2.272727272727273
+factual aspect,1.0714285714285714
+trite that fiscal statute,0.5
+field report,1.0
+doubt,1.3646267723102583
+composition of genes,0.5
+serialized seeds,0.5
+characteristic,0.6366782006920415
+sale of any specified agricultural produce,0.5
+report,1.7768151696835826
+s samuel,0.2619047619047619
+true scope,1.0
+principle,1.9620890732001848
+pure seed year after year,0.5
+angle,0.4852556924225457
+declaration of law,1.1818181818181819
+anything,0.9132309941520469
+integrated process,0.5
+poisonous substances to the foodgrains,0.5
+sri,1.1524741891017525
+rhizomes,1.0
+cell,1.2725925925925925
+iano,0.5214659685863874
+distinct from foodgrains,1.0
+certification standards,1.0
+factor,1.2878742338904643
+inspection,0.8496732026143791
+central government in order,0.5
+seedings,1.0
+malpractice,0.72
+division bench,3.965217391304348
+other particular,0.6233766233766233
+uttar pradesh,2.8
+reference,2.1755848210276256
+fields,0.9241650294695481
+respondent,4.757894736842104
+persona,1.2084932524452148
+demands against law,0.5
+schedule,2.9453067257945307
+penal sections,0.5
+fiscal statute,0.6666666666666666
+progeny of breeder seeds,0.0
+seed laboratory,2.5
+inclusion on the schedule,0.5
+cuttings,0.5
+direction to the first respondent herein,0.5
+fit for human consumption,1.5
+purview of the expression,1.0
+governments on all matters,0.5
+honble,2.4444444444444446
+uttar pradesh certification agency,0.5
+case of tuck,0.5
+supreme court,1.4278957326045825
+market areas without licence,0.5
+exemption of seeds,1.0
+rajasthan,3.9215686274509802
+heading,2.130249543517955
+high,5.367119186841496
+payment,2.059553716565686
+following terms,1.5957446808510638
+viticulture,1.0
+brother,1.4566585956416465
+event,1.4310854436179261
+central seed act,0.5
+production of certified seeds,2.0
+property of the farmer,0.5
+labour of a person,0.5
+laboratory,1.037248755301494
+classification,2.196286472148541
+seeds certification programme,0.5
+commodities act,2.25
+uniu,0.25
+senior counsel for the appellants,1.375
+character ie,1.0
+graft,0.5244755244755244
+nos,1.2635492554198444
+commodity for any other purpose,0.0
+bakhi,0.2142857142857143
+buying of seeds,0.5
+cereal,1.8333333333333333
+raw uncertified seed,1.0
+seeds of fruits,1.0
+statutory seeds certification agency,0.5
+progenies of breeder seeds,0.5
+company purchase,0.6666666666666666
+certified seed from the farmers,0.0
+supervision of the statutory seeds certification agency,0.5
+amount of market fee,0.5
+varieties of seeds,0.5
+difference in bazra,0.5
+entire production,0.6666666666666666
+cereals,1.09375
+hereinafter,0.7670609645131939
+which market fee,0.5
+specified agricultural produce on which market fee,0.5
+statutory rules,1.875
+contesting respondent,1.0
+fruits,0.6605113636363636
+inter-state movement,0.0
+maintaining,0.677400468384075
+exception,1.1036946087733006
+ordinary parlance at particular stages,0.5
+business inter alia in the agricultural produce,0.5
+liabilities,1.0606060606060608
+note on method,0.5
+collect,1.9397673399979387
+commission,4.703619179345321
+subject to market fee on account,0.5
+renewal,1.090909090909091
+commodity distinct,0.5
+prohibit business,0.6666666666666666
+purchasers,0.5909090909090909
+loss at processing,0.0
+administration of this act,0.5
+ist respondent,0.5
+strict supervision of the statutory seeds certification agency,0.5
+sinha,0.8166351606805294
+in the subject,0.4371345029239766
+certificate holder,0.5
+stage of seed production,0.5
+order of any court,1.1666666666666667
+seeds of the cereals,0.5
+export import,0.5
+provision of the seeds act,0.5
+procedure of production,0.5
+document,1.401100265092073
+seeds rules,2.0
+agricultural produce for the purpose,1.0
+berrriman,0.5
+prohibit busines of specified agricultural produce,0.0
+certified seeds from the farmers,1.0
+certified seed,22.0
+purchase tax,4.375
+emphasi,0.9191619047619048
+annexure,2.7560975609756095
+first respondent - company,0.0
+favour of the dealers,0.5
+that right form,0.5
+types,0.6765151515151515
+factors,0.9829522460542292
+notified government seed,0.5
+expression unius,0.5
+singh,3.7791111111111113
+purposes,1.4391216613438835
+agencies,0.9094581337642103
+taxation officer,0.5
+quality,1.3318577075098814
+service,4.257395095954566
+creating,0.7193597698048736
+wise with intimation,0.5
+totality of the situation,0.5
+rule,5.04
+inspection charge to the agency,0.0
+favour,1.653145208700764
+identity,0.8835164835164835
+such item,1.3333333333333335
+following observation,0.8039215686274509
+civil appeal,2.2413793103448274
+such by the state seed certification agency,0.5
+definition of  agricultural produce,0.0
+appellants that the first respondent,0.5
+wider sense,1.1428571428571428
+respondents,2.6341263330598856
+dispute that the respondents,0.5
+costs,0.8167395522604189
+principal secretary,1.0
+commodity within the meaning,0.5
+act deals with power,0.5
+grafts,0.5
+unfit by seed certificate agency,0.5
+process,1.6274942048088725
+provision of the essential commodities act,0.0
+topes of grafts,0.5
+dushyant,2.111111111111111
+sales tax under an exemption notification,0.5
+nature s force,0.0
+particular,1.5248953455371081
+legal obligations,0.4444444444444444
+mandi parishad,1.5
+power,3.8165227690948367
+composition,1.4736842105263157
+basic character ie,1.0
+such fee,0.7090909090909092
+supervision of the up,0.5
+standard of genetic identity,0.0
+oil seed,1.3333333333333333
+alteriu,0.19047619047619047
+business procedure,0.5
+utpadan,2.5
+commodity distinct from foodgrains,0.5
+activity as busines,0.5
+petition,5.3436539306104525
+stage ie,0.75
+agricultural year,0.6666666666666666
+transactions,6.503443526170798
+consideration,1.9110153789142115
+course of dealings,0.6666666666666666
+high yields,0.5
+appeal no,2.288135593220339
+paragraph,1.2930197483150305
+in the instant case,2.0224719101123596
+agricultural year in respect,0.5
+words,1.6384367086179112
+penalty,1.5165226929932814
+corporation in uncertified form,0.5
+abovesaid,1.263157894736842
+commissioner,2.271608643457383
+clause,3.526455026455027
+pesticide,0.75
+detailed reply,0.5
+certification standard,1.0
+animal,3.672202634997217
+produce means,1.0
+seeds of cattle fodder,0.5
+tubers,0.6666666666666666
+contract farmer for further production,0.0
+subject to such rules,0.6666666666666666
+transaction of sale,2.0
+ministry,1.6350210970464136
+university to the various seed,0.0
+quality factor,1.0
+legal obligation,0.6000000000000001
+distributors,2.0
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+serialized item,0.5
+object of the legislature,0.75
+favour of the subject,0.5
+substance,0.8230581678857541
+more principals,0.5
+aforesaid order,1.2857142857142858
+to this case,0.6000000000000001
+hence subject,0.5
+chemical treatment of bazra,0.5
+trader furnishes,0.5
+unfit,1.0555555555555556
+chemical proces for preservation,0.0
+national,1.5126860273884035
+certification procedures,0.3333333333333333
+that seed of the cereals,0.0
+means,1.3868295182781003
+tendency,0.5150501672240803
+certification agency,13.0
+price on the certified seed,0.0
+export,2.527777777777778
+on such transactions of sale,0.5
+supreme,1.443815331010453
+mind by the high court,0.5
+respective fields,2.0
+dushyant a dave,1.75
+field by an inspector,0.5
+godavari coconut,0.5
+schedule to the adhiniyam,1.0
+state of rajasthan v,2.2857142857142856
+forest,2.292817679558011
+deal,2.1942302694273583
+central seed committee,0.5
+prohibit business of specified agricultural produce,0.5
+following classes of seeds,1.0
+seed,16.41235059760956
+above pleading,0.5
+trader purchases,0.5
+agricultural produce mean,1.0
+construction of a penal statute,0.5
+respondent herein deal,0.5
+development ces to the committee,0.0
+see,2.8180360783074034
+solid substances,0.5
+nature,1.4149926876444778
+ministry of agriculture,1.5
+payment of market fee,1.5
+sent by the secretary,0.5
+dispute that the entire proces,0.5
+for human consumption,1.2
+quality of certain seeds,0.5
+produce for the purpose,1.0
+unfit for the human consumption,0.5
+respondent - company,0.0
+bazra,2.5
+something,0.5915378827342709
+action,3.127292663476874
+such exceptions,0.75
+seeds from the farmers,1.0
+such as seeds of food crops,1.0
+respondent s seeds,0.0
+manner prescribed,0.4800000000000001
+maintaining that foodgrains,0.5
+food grains,1.6666666666666667
+movement of seeds,0.5
+nature of commodity,0.5
+jedi,0.5
+losses,0.9434840425531913
+authorized agent,0.38095238095238093
+thirteen other food products,0.5
+thing,1.1131787570209408
+applicable to this case,0.5
+entire quantity,1.0
+different provisions,2.0
+procurement,0.73125
+director,1.3549769585253457
+research institute,0.6502463054187192
+alam bagh,1.0
+serialized seed,0.5
+that commodity as seeds,0.5
+trader from another trader,0.5
+that section,1.1768292682926829
+sections,1.640495469442838
+matters,1.4810665618448637
+detailed provisions,0.5
+los,1.8125523261338943
+foodgrains market restriction,0.5
+senior counsel for the contesting respondent,0.5
+seed act,0.5
+inter,3.683850287482992
+market fee on wheat,0.5
+minimum standard of germination,0.0
+railway,5.321428571428572
+court,12.24425115501509
+estimated quantity of produce,0.5
+food grain,1.6666666666666667
+declaration,2.152560083594566
+with effect from june,0.5
+parliament,2.6571235781762095
+agreement,3.450434632433366
+seed year,0.5
+other than the busines of sale,0.0
+such items of produce,1.0
+andor purchase,0.5
+person,4.291511329454258
+company purchases,0.5
+germination,1.5
+mandi,1.1597651911788038
+with intimation,0.5
+provision of the statute,0.5
+foodgrain,3.5
+perusal with an english translation,0.5
+nothing,0.8658723322806009
+dealer,2.712825585229146
+high quality,0.22429906542056072
+seed standard,2.5
+respondent dew,0.5
+subject matter,1.2537313432835822
+unprocessed seeds,0.5
+decision,2.9514937765898557
+market areas,2.6666666666666665
+wise,1.2953038674033148
+agriculture input dealer dealers association,0.5
+dealers,1.3270142180094788
+foundation seed,8.5
+seed control order,1.0
+totality,0.6293706293706293
+notified area at such rates,0.5
+madras commercial crops market,0.5
+indian minimum seed standard,0.5
+contra,3.550142721217888
+notice of this court,1.0
+development cess on the ground,0.5
+interpretation,1.518366298484459
+bulb,0.34615384615384615
+year,2.8349484769759212
+unsuccessful respondent,0.5
+detailed provision,0.5
+parlance food,0.5
+judgment,3.288216560509554
+ceases,0.7703703703703704
+preamble,0.34324942791762014
+compulsory labelling,0.5
+certificate from the seed certification agency,0.5
+notified agriculture universities,0.5
+hindi version,0.5
+seed certificate agency,1.0
+production of seeds,0.5
+sowing of the foundation seed,0.5
+chemical at processing plant,0.0
+loss,2.0689655172413794
+act,12.870263922028107
+processing plant,0.6666666666666666
+items of agricultural produce,0.5
+ordinary course,1.0769230769230769
+agricultural produce  means,0.0
+level,1.1533169827122092
+minimum,1.388221153846154
+agent,1.406335913378167
+vegetables,0.41304347826086957
+alterius,0.19047619047619047
+breeder seed into foundations seeds,0.0
+other decisions,1.0666666666666667
+specific view,0.5
+animal consumption,0.5
+constitution of a central committee,0.5
+as seed,2.7777777777777777
+respondent in the writ petition  appellants,0.0
+human beings,0.6097152428810719
+business of purchase,1.0
+section,9.287987283173626
+herein,2.825259515570934
+course of business,2.5
+thereunder,1.2794117647058825
+sealed container,0.5
+interpretation of section,1.5
+which seed,0.5
+standard,1.4669008088548319
+condition of such certificate,0.0
+counsel for the appellants,1.7258064516129032
+functions,1.326241134751773
+officers,2.442124212421242
+green revolution in the country,0.5
+regard,2.723310344827586
+offsprings,0.2142857142857143
+statute like the act,0.5
+scientist,0.2635431918008785
+inspection charges to the agency,0.5
+specified agricultural produce,7.0
+udham,0.38095238095238093
+direction,1.8495050210098996
+agency,1.8968779259354924
+production of foundation seeds,0.5
+following statement of objects,0.5
+item,1.3319648896447913
+facts,1.4696673624372698
+seed inspector,0.5
+crop,1.0811273746496417
+tobacco market committee manuscmanusc,0.5
+nourishing value,0.5
+other business,0.8333333333333334
+-exemption of certified seeds,0.0
+form,2.4865961263718424
+tuber,0.28632478632478636
+appellant seeks,0.6666666666666666
+by seed certificate agency,0.5
+benefit,2.604810195438474
+leviable over the sale,0.5
+benefit of the producers,0.5
+cost,1.2954397451466992
+form of wheat,0.5
+view that the respondents,0.6666666666666666
+liability of purchase tax,0.5
+farmers seed crop,0.5
+case of doubt,0.5333333333333333
+understood,0.8127711496746204
+sub,7.816899313759727
+course,1.6545957498716626
+standard of genetic purity,0.0
+company,5.864471879286695
+market area if the trader furnishes,0.5
+pradesh,4.365853658536586
+strict supervision of the agency,0.5
+appeals read,0.5
+penal statute,2.0
+arguments,0.7212211466865226
+conditions of such certificate,0.5
+particular context,0.5
+meaning of the provisions,1.6
+notices to the companies,0.5
+supreme court in m  s,0.0
+centum of the price,1.0
+field,1.5820968371729793
+matter,2.8088923076923082
+secretary agriculture,1.0
+relation,1.397320207820618
+english translation,0.43902439024390244
+insecticide,1.0909090909090908
+nexus whether the seed,0.5
+strict supervision,1.0
+indian,1.2604961505560306
+uncertified seeds,1.0
+samuel,0.19326241134751773
+liability,2.532836248924577
+representation in pursuance,1.0
+issue of renewal,0.5
+such consumption,0.5
+market fee on account,0.5
+other busines,0.8333333333333334
+mandamus,3.0
+first respondent herein deals,0.5
+to the committee,1.1428571428571428
+solid substance,0.5
+unit,2.176678509944691
+that seed,1.3636363636363635
+core,0.43168575654387237
+material,1.4148767018946966
+procedure,2.552771605064117
+activity,1.3846153846153848
+provisions thereof,1.0
+petitions,1.3930830039525692
+non-descript seed,0.0
+such circumstances,0.5729166666666666
+contention of the respondent - company,0.0
+commodities,1.6200000000000003
+north eastern railway company,0.5
+business except the business,0.5
+hereinbefore,2.159090909090909
+brother dr ar,0.5
+provision,5.439002243350069
+v state of maharashtra etc,0.75
+contest,1.1755967404629697
+unprocessed seed before chemical treatment,1.0
+standards of genetic identity,0.5
+mandi fee on the seeds,0.5
+levy fees,2.0
+business,2.8512056385864457
+importance,0.8632871064467765
+transaction of seeds,0.5
+seeds in sealed containers,0.5
+seeds busines,0.5
+act deal with the power,0.0
+department,1.9858367499068206
+mandi adhiniyam,1.0
+lump sum,0.9
+prices on the certified seed,0.5
+such commodity,0.5
+relation to the above subject,0.5
+object,1.4940119760479043
+levy of market fees,0.5
+demand,1.5671679197994988
+poisonous substance,1.5
+penal section,0.5
+foundation seed to contract farmers,0.5
+duly,1.13589803737587
+wheat within the market area,0.5
+representatives,0.8874021711688966
+times,0.8987140267391797
+act deals with the power,0.5
+factual disputes,0.5
+transactions of sale,1.5
+parliamentary,1.8068812430632628
+first respondent purchases,0.5
+venture in agricultural produce,0.5
+malpractice in the old markets,0.0
+definition,1.6460425937698666
+provisions of production,0.5
+of the representation,1.9090909090909092
+ltd etc,0.8
+profession,1.0704601259741646
+powers under section,1.1
+maintaining that foodgrain,0.5
+other case of sale,0.5
+approval,1.4085456739300164
+stage of certification,0.0
+foundation,0.770509435807177
+bill,1.134631348577466
+edible oil seeds,1.3333333333333333
+become,1.1924008436951488
+stages,0.7858851674641147
+relevant of the representation,0.5
+first respondent intake,0.5
+contract farmer,2.0
+distinct commodity,0.5
+overlapping,0.48275862068965525
+such fees,0.6666666666666666
+act deal with certification agency,0.0
+principles,1.3198511166253102
+trade for purchase,0.5
+minimum standards,1.75
+associationmanu,0.5
+same to the committee,0.5
+medical association,0.4285714285714286
+parlance,0.8333333333333333
+writ,2.8882378560889794
+unprocessed seed,2.0
+interpretation clauses,0.75
+schedule at sno,0.5
+aegi,0.38095238095238093
+respondent herein deals,0.5
+court in state,1.5909090909090908
+produce mean,1.0
+from the produce,1.0
+fees,0.9865534324133051
+seeds rule,2.0
+application for the grant,0.6666666666666666
+government of uttar pradesh directing,0.5
+sub - heading cereal,0.0
+power of the state government,0.6666666666666666
+other rules,0.4897959183673469
+dushyant a,1.75
+unit to process,0.5
+utpadan mandi adhiniyam,1.0
+certification,2.7598566308243724
+other interests,0.3333333333333333
+simonds,1.0
+anubhag-,0.0
+division,1.7657319129617017
+above judgment,1.8461538461538463
+secretary agriculture in meeting,0.5
+distinct from food grains,0.5
+offspring,0.8250000000000001
+seed container,0.5
+on transaction of sale,0.0
+government on all matters,0.0
+wheat from farmers,0.5
+wheat,2.2425249169435215
+term of section,0.5
+progenies,0.5
+like purpose,0.6666666666666666
+consideration by the supreme court,0.5
+dealing,1.3134282178217822
+view that the respondent,0.6666666666666666
+civil appeal no,2.1403508771929824
+farmer,2.606382978723404
+levy,3.3133874239350907
+farmer in a land,0.5
+limits,0.8405888207868406
+than the busines of sale,0.0
+pesticide treatment,0.5
+india,2.7684068260703585
+dual utility,0.5
+regard to the fact,1.5862068965517242
+venture,0.9918552036199095
+est exclusio alterius,0.6666666666666666
+shakker,0.5
+association,1.2099052684061826
+exclusion,1.276390008058018
+penalty in any particular case,0.6666666666666666
+other chemicals,0.8571428571428571
+purchase of agricultural produce,1.3333333333333333
+lord simonds,1.0
+special leave petition,2.013333333333333
+undergone,0.8341384863123994
+market fee on seeds,1.0
+decision of this court,2.3260869565217392
+food,1.1292356927710843
+personae,0.30000000000000004
+coconut,1.3333333333333333
+rajasthan agriculture input dealer,2.0
+hence subject to payment,0.5
+writ petition  appellants,0.0
+seed from the agricultural universities,0.5
+step of production,0.5
+deals with power,1.0
+adjudication,1.5392156862745099
+types of grafts,0.5
+green revolution,0.6666666666666666
+levy fee,3.3333333333333335
+writ petitions,2.984848484848485
+market fee,29.0
+instruction,1.8197943962910703
+distinct commodity as certified seed,0.5
+distribution,2.7289109919449284
+essential commodity,0.5
+deal with the authority,0.0
+levy fees on the notified commercial crop,0.5
+reasonable interpretation,0.5
+offsprings of these seeds,0.5
+rajasthan v,1.8181818181818181
+list iii of the th schedule,0.6666666666666666
+that construction,1.2307692307692308
+rajasthan agriculture input dealers,1.0
+other commodities,0.5
+control of market,0.5
+basic characteristic,0.5
+powers under the essential commodities act,0.5
+commercial,1.6950767880649407
+act deals with certification agency,0.5
+pvt,0.8625817965496728
+sport,1.7240132768083078
+revolution in the country,0.5
+such sale,1.5151515151515154
+agricultural produce since the purchase,0.5
+following observation of lord esher nk,0.0
+allahabad high court,1.7037037037037037
+same as seeds,0.5
+further processing,1.0
+other market area,0.5
+deal with the procedure,0.5
+certificate by certification agency,0.5
+penal statute like the act,0.5
+goods,4.7578125
+seeds over a period,0.5
+annexed as annexure,0.75
+fiscal provision,0.5
+other commodity,0.0
+rudrapur,0.5
+shall,3.6283780276816606
+translation,0.4666095890410959
+quality factors,1.0
+lal,1.6786163249382287
+communication,1.013409067330636
+pesticides,0.6000000000000001
+other business except the business,0.5
+liability on the ground,0.5
+writ petition,6.24223602484472
+category,1.9351744779266717
+present circumstance,0.5
+barastin,0.5
+notices,0.5487269534679544
+bags,2.023668639053254
+proper effect,0.75
+proposed legislation,0.25
+appellants in this appeal,0.5
+dispute that the breeder seed,0.5
+certificate under sub-section,0.0
+state seed certification agencies,0.5
+statutory,2.0326923076923076
+payable on transactions of sale,0.5
+acts,1.9133929521984454
+holder,1.8472993827160495
+consumption as food,1.0
+gene,1.7880498291792841
+iilljsc by this court,0.5
+deals with the procedure,0.5
+trade,1.8307706424423558
+poisonous substances,1.5
+such certificate,0.6666666666666666
+from food grain,0.5
+essential conditions,1.0
+heading of cereals,0.5
+challenge,1.2204566274399267
+paras,0.7450980392156863
+produce within the meaning,1.5
+case of london,0.5
+authority,2.4352627108360636
+compare,0.5193199381761979
+lump sum in lieu,0.5
+inception,0.5869565217391305
+produce since the purchase,0.5
+purpose of agriculture,1.0
+particular case,0.4358974358974359
+development,2.3145884270578647
+market fee under section,0.6666666666666666
+detailed provisions of production,0.5
+ratio,5.027061939235792
+research,1.351044147915173
+relevant provision,1.5737704918032787
+cotton seeds,1.5
+schedule i,1.4090909090909092
+legal principles,0.6000000000000001
+commercial crops markets,0.5
+pindwal,0.5
+iilljsc,2.1666666666666665
+time of hearing,1.0
+that form,0.5
+item of produce,0.0
+other purpose,0.4895104895104894
+progeny of foundation seed,0.5
+ratio decidendi,0.8333333333333334
+way of amendment,1.4285714285714286
+appellants herein  respondent in the writ petition,0.0
+aforesaid judgment,1.4583333333333333
+yielding seed,0.5
+particular stage,0.5
+fiscal provisions,0.5
+iii,1.5614499719992534
+methods,0.6227758007117437
+court of allahabad,1.0
+factual aspects,0.9166666666666666
+obligation,1.1071428571428574
+uttar,2.188679245283019
+standard of germination,0.0
+process of coating,1.0
+uncertified form,0.5
+certified seeds of wheat,1.0
+ces,4.858624829174895
+interpretation claus,0.875
+counsel for the contesting respondent,0.6666666666666666
+other relevant documents,0.5
+state,6.817996007300392
+statute,2.5765859456247218
+business of sale,1.0
+classes,1.212856534695615
+edible oil-seed,0.0
+note,1.3654108484234107
+malpractices in the old markets,0.5
+indian medical association,1.0
+bag,1.1303125392243003
+such agreement on the foundation seed distribution form,0.5
+bulbs,0.41935483870967744
+june,0.9339080459770116
+procurement of breeder seeds,0.5
+other decision,1.1818181818181819
+airsc,1.6909090909090911
+respondents in the writ petition  appellants,0.0
+stocks,0.5357142857142857
+government seed,1.5
+mandi parishad from mandi tax,0.5
+intimation,1.105263157894737
+other quality factors,0.5
+seed producer,0.5
+license,2.9365546218487393
+agricultural produce  mean,0.0
+foundation seed distribution form,0.5
+kind,0.9236881920088026
+repair,1.1641083521444697
+tag,1.4955935368626179
+respondent purchases,0.5
+human being,0.599078341013825
+relevant,1.7104913678618858
+development ces from the purchaser,0.0
+senior counsel,2.2857142857142856
+following observations of lord esher nk,0.5
+bagging of the seeds,0.5
+principals,0.3529411764705882
+labour,2.5372960372960374
+director mandi,0.5
+deals with the authority,0.5
+above appeal by way,0.5
+paras supra,0.5
+nexus,0.8586538461538462
+therefrom,0.673076923076923
+fee on such purchase,1.0
+appellants herein  respondent,0.0
+exemption,1.7371031746031744
+above appeal,1.0
+utility as foodgrains,0.5
+north,0.8632276384287743
+trade tax department,1.0
+of such items,1.0
+a-agriculture,0.0
+mind,1.1559066143122394
+fodder,0.7741935483870968
+constitution of india,3.0095238095238095
+processing of wheat,0.5
+producer,1.8999999999999997
+over the sale,0.2777777777777778
+meaning,1.8612727545949643
+minimum limit of germination,0.0
+entire process,1.0
+translation of the letter,0.5
+identity that the seed,0.5
+mandi samiti adhiniyam,1.0
+principal,1.3412499999999998
+fee,1.560669497024209
+interest,2.74353772015385
+aegis,0.4
+market fees,0.6666666666666666
+aspects,1.0997620069447154
+production,2.1071428571428577
+packing,0.3582089552238806
+noticed hereinbefore,1.6785714285714286
+esher,0.5345622119815667
+substances,0.7777777777777778
+behalf,1.9888053603529987
+items of produce,1.0
+gur,1.2175293815570762
+provisions of the statute,1.2
+wide that seeds of the cereals,0.5
+malayalam,0.6666666666666666
+uncertified seed,1.0
+following question of law,0.5
+such agreement,1.0666666666666667
+wide connotation to the words,0.5
+representative of the central government,0.0
+seed industry for production,0.5
+market fee to the committee,0.5
+supervision of the agency,1.0
+liable to market fee,0.5
+respondent for further processing,0.5
+bros,0.39272030651340994
+relevant provisions,1.5
+tea,1.2494773519163762
+representation of the first respondent,0.5
+other busines except the business,0.0
+market fee on purchase,0.5
+amplitude,0.9523809523809523
+permission,1.1531211886018407
+connotation to the words,0.5
+fee on the seeds,0.5
+dave,0.5541026479241583
+appeal,3.4125488033856883
+lord esher nk,0.5
+eastern,0.43291404612159334
+view of the high court,1.3571428571428572
+motive,0.8973573343546533
+cotton seed,1.6666666666666667
+area,2.675167256985439
+tobacco,26.506024096385545
+lieu,0.5964912280701754
+alia,0.9479866480753792
+upto,0.7713804853723404
+district agriculture officer,0.5
+terms as certified seed,0.5
+seeds corporation,0.6666666666666666
+time to time,1.0211267605633803
+such in the final field report,0.5
+busines in certified seeds,0.0
+sub-section,0.0
+jute seeds,0.5
+seeds certification agency,2.5
+particular variety,0.0
+which price,0.3333333333333333
+that commodity,0.6666666666666666
+nagar,0.8617021276595744
+personae vel rei,0.5
+seeds production,0.5
+manner as the state government,0.5
+trader,1.3795986622073577
+lakshmanan,1.125
+harrisons,0.2777777777777778
+various seed,0.5
+following question,0.5
+list,4.014941314095513
+manner,1.4494591333432125
+fruit,0.7602602602602603
+quick phose,0.5
+agricultural produce in the market area,1.5
+word of indefinite import,0.5
+specifications,1.0991735537190084
+purchases,0.7075471698113207
+raw uncertified seeds,1.0
+topes,0.2727272727272727
+certificates,0.7105263157894737
+expression uniu,0.5
+companies,2.2664576802507836
+mandi samitis,1.0
+january,0.8699641577060931
+definition of  seed,0.0
+chemicals,0.8728571428571429
+tax,3.549237288135593
+circumstance,1.429931390219372
+civil,2.126558634963905
+regulation,4.3783195107648485
+undersize,0.3333333333333333
+mean,2.390645692553228
+commission agent,1.3333333333333333
+further production,1.0
+madras commercial crops markets,0.5
+class,2.1508512849922936
+perusal,0.750733137829912
+ist,4.8667817164179095
+for human,0.6948529411764705
+descript,0.754955031754827
+union of india,3.1324503311258276
+apiculture,1.0
+samitis,1.0
+thereof,1.7897727272727273
+above subject,0.7619047619047619
+purview,1.0864197530864197
+leave petition,2.013333333333333
+beings,0.5577464788732395
+respondent before the high court,0.75
+busines of purchase,0.0
+wheat by the seed processing unit,1.0
+distinct commodity as certified seeds,0.5
+seeds act,5.0
+contract,6.227349970404598
+rule of strict construction,1.3333333333333333
+definition of term,0.2857142857142857
+notified order specify,0.5
+root,0.44430482003410826
+such certification standard,0.5
+judgment of the high court,1.721311475409836
+yields,0.4
+poisonous substance to the foodgrains,0.0
+tag of the uttar pradesh certification agency,0.5
+private limited company,1.2
+factual dispute,0.5
+adhiniyam,7.6
+sealed containers,0.5
+edible oil seed,1.3333333333333333
+of such item,1.0
+other function,0.6666666666666666
+respondents before the high court,0.8
+defines seed,1.0
+foundation seed by the contract farmer,0.5
+implication,0.6615776081424936
+hence,1.1440732910500353
+officer,3.1197242647058823
+bagh,0.301056338028169
+amendment,2.2486412346818434
+reasons thereof,0.5
+charges,2.061307113938693
+testing,1.029039991282554
+other case,0.6654088050314465
+following questions of law,0.5
+indian minimum seed standards,0.5
+function,1.6326372491145218
+argument of the counsel,0.5
+wide amplitude,1.0
+agricultural universities,1.0
+price,2.8302710227712162
+act deal with power,0.0
+rhizome,1.0
+term,3.6255105640901575
+notified area,1.25
+appellants,7.701086956521739
+becomes,0.8134319664492078
+view,2.441100058469462
+first respondent purchase,1.5
+final adjudication of the case,0.5
+pleadings,1.3125
+use,5.06801278974993
+simond,0.39285714285714285
+pilibhit under the seeds control order,0.5
+dictionary meaning of business,0.5
+commercial venture,0.30000000000000004
+lord,1.6027618015615013
+rajasthan v mandi lal pindwal,0.5
+standards of genetic purity,1.0
+high court of allahabad,1.0
+record,2.5393414390845273
+information,1.1320502836800534
+payment of registration,0.5
+half per centum of the price,1.0
+central seed laboratory,2.0
+final adjudication,0.6666666666666666
+secretary,0.9217877094972067
+chemical process,0.25
+mr rakesh dwivedi,1.5
+agricultural university,0.0
+provisions of section,2.762376237623762
+legislation,3.2032032032032034
+standards of germination,0.5
+support trader s stand,0.0
+domestic consumption,0.6666666666666666
+next stage ie,0.5
+fact,3.6284951019474962
+such circumstance,0.5723905723905723
+registration,2.231365215068127
+definition of specified agricultural produce,0.5
+business in certified seeds,0.5
+market committee,7.800000000000001
+interests,1.0562317935913441
+chief,1.9429638234317954
+ordinary parlance,0.6666666666666666
+particulars,0.9472222222222222
+that construction of a statute,0.5
+other functions,0.6666666666666666
+demands,0.7474201474201474
+impugned order,2.265957446808511
+laboratory of seeds certification agency,0.0
+godown,0.525
+sno,0.5243373493975904
+indefinite import,0.5
+seed in sealed containers,0.0
+human consumption,1.3333333333333333
+necessity,0.7072538860103627
+minimum limits of germination,0.5
+parishad,5.2727272727272725
+alam,0.7025641025641025
+exercise,1.9400726466785694
+power under the essential commodities act,0.0
+non-descript seeds,0.0
+party,2.2250894654439723
+cease,3.3103181958603645
+chemical treatment,3.5
+respondent herein,1.8936170212765957
+minimum standards of germination,0.5
+such period,1.411764705882353
+genetic identity,2.5
+justice,2.292557084574302
+bagging,0.2777777777777778
+reasonings,0.4761904761904762
+applicable in the instant case,0.8571428571428571
+jute,0.8571428571428572
+sense of an occupation,0.5
+thiram,0.6666666666666666
+seed from agricultural universities,0.0
+v state,2.4603773584905664
+common parlance food,0.5
+genes,0.35946949602122014
+decree,3.732408834103749
+repugnant in the subject,0.8
+levy fee on the notified commercial crop,0.0
+extraction therefrom for such consumption,0.5
+dealings,0.78
+administration,1.061072796934866
+seed production,2.0
+same reference,0.5714285714285714
+statutory rule,2.45
+hearing,0.9644508209787979
+decision of the state government,0.6666666666666666
+inspector,1.2705882352941176
+sale,3.3662581620085734
+est,6.379089545995401
+ambit of section,1.5
+food crops,2.6666666666666665
+question,2.980312372067635
+certified foundation seeds,0.5
+substance to the foodgrains,0.0
+import,1.5850112386464603
+standardised seed,0.5
+function of the certification agency,0.0
+scmanu,7.940520446096654
+extraction therefrom,0.5
+respective field,1.8
+london,0.48471615720524014
+step,0.8867024753460084
+cess,3.0071678613102186
+amount,3.179688593072295
+institute,0.9140980436760691
+respondent intakes,0.5
+statement,2.5393160135035964
+item in processed form,1.0
+contract farmers,1.5
+stages of certification,0.5
+entry,4.707210447678601
+first step,0.38961038961038963
+market fee on the transaction,1.5
+such transactions,3.819444444444444
+sic,1.1611481056257176
+agricultural,3.5005050505050503
+parliament in exercise,1.0
+force,1.6009408121948314
+intention of the legislature,2.0434782608695654
+certified seed of wheat,0.0
+notification,3.0112746633260263
+relevant documents,0.6000000000000001
+property,2.9368986630013745
+law,3.538923411654744
+legal principle,0.8142857142857144
+observation,0.7625074854374218
+aspects of the matter,0.9090909090909091
+overlappings,0.5
+development ces,4.333333333333333
+treatment,1.1351020408163266
+seed inspection,0.5
+agricultural produce means,1.0
+items,1.0672246220302377
+following class,0.5714285714285714
+purchaser,2.017857142857143
+different provisions of the statute,0.5
+state of andhra,3.52
+entire field,2.888888888888889
+honble supreme court in ms,0.5
+specific genetic identity,0.5
+grant,1.7314487632508835
+honble chief justice,1.0
+compulsory labelling of seed containers,0.5
+produce under the provisions,0.5
+such items,0.9523809523809524
+by the state seed certification agency,1.0
+agricultural produce market fee,0.5
+certificate,2.732600732600732
+kanpur,1.0
+rise to this appeal,0.8333333333333334
+basic characteristics,0.5
+commercial crops market,0.5
+definition of  seeds,0.0
+application,2.3322596088086445
+development cess,4.333333333333333
+rates,0.9535092413452435
+business of the company,1.0
+applicable in the case of the first respondent,0.5
+basic character,1.5
+reading,0.9004509191814082
+appellant seek,0.8333333333333334
+drink,0.5098389982110912
+profit motive,0.4444444444444444
+profit,3.0739182692307687
+high yield,1.0
+growers,2.0571428571428574
+respondent s seed,0.0
+harrison,0.5037037037037037
+such term,0.5529100529100529
+intention,1.7585585585585588
+ltd,2.382356477306883
+horticulture,1.5
+submission,1.0913871684001404
+defines seeds,0.5
+supervision of seed certification agency,0.5
+kinds,0.5807291666666666
+other licence,0.6666666666666666
+such manner,1.0909090909090908
+reasons for seed production,0.5
+purchases of wheat,0.5
+as seeds of food crops,1.0
+difference,0.8774847235514982
+appellant in this appeal,0.6666666666666666
+sub-sections,0.0
+period,1.9480170842427122
+development cess to the committee,1.5
+representatives of the central government,0.6666666666666666
+other relevant document,0.5
+further production thereof,0.5
+record to letter,0.5
+constitution,3.204842342342342
+letter,2.707240080105903
+government in order,0.5
+progeny of breeder seed,0.5
+essential commodity within the meaning,0.5
+coating,0.3714285714285714
+governments,1.020200276243094
+commodity as certified seed,0.5
+company godown,0.5
+pleasure,0.4961832061068702
+universities,1.8989361702127658
+production thereof,0.5
+admixture,1.0
+lump,0.5384615384615385
+market area if the trader furnish,0.5
+supra,2.246342614440774
+procurement of seeds breeder,0.5
+mshtcii,0.5
+writ petition of the respondents,0.6666666666666666
+schedule in exercise,0.5
+present writ petition,1.2857142857142858
+such liability,1.0
+activity as business,0.5
+maharashtra,2.9076923076923076
+agriculture produce,1.0
+poison,1.089678510998308
+planting,0.5142857142857143
+relevant document,0.5714285714285714
+core question,0.6
+allahabad,2.3404255319148937
+such rule,0.6095238095238095
+form i,0.7153024911032029
+therewith,0.6394230769230769
+hence market fee,0.5
+seed of cereals,0.5
+maintenance of the body,0.5
+more principal,0.5
+reason,2.6381270903010035
+deals,1.3395407335280751
+operation,1.0959893294085181
+time of purchase,2.0
+life,1.3352928273744242
+exclusio,1.2681017612524463
+respective argument,1.0
+purchase of food grains,1.0
+farmers,2.9
+produce for the purposes,0.6666666666666666
+human,1.0063526196524266
+food crop,2.6666666666666665
+that entry,1.75
+framers,0.7777777777777778
+functions of the certification agency,0.5
+seeds from farmers,0.5
+in the final field report,0.5
+certification procedure,0.3333333333333333
+characteristics,0.6133333333333333
+taxation officers,0.5
+other chemical,0.7941176470588236
+term of sub-section,0.0
+connotation,1.018181818181818
+act if agricultural produce,0.5
+processing,1.122175821822465
+expressions,0.8027972027972027
+limited company,2.2857142857142856
+cutting,0.944206008583691
+final field report,1.0
+attention to the relevant provisions,0.5
+difference between wheat,0.5
+following classes,0.6666666666666666
+bazra seed,0.5
+commodity as certified seeds,0.5
+growth,0.7269455690508322
+instant appeal,1.2857142857142858
+uttar pradesh directing,0.5
+sri krishna coconut s case,0.0
+commodities for any other purpose,0.5
+occupation,1.1158072696534236
+business inter alia,0.6666666666666666
+detailed provision of production,0.0
+seed of cattle fodder,0.0
+supervision,2.825
+wheat seed,2.0
+such transactions of sale,0.5
+annexure ca,1.0
+seed over a period,0.0
+seed before chemical treatment,1.0
+questions,0.9979150871872632
+assistance,0.8623872906826965
+minimum standard of genetic purity,0.0
+processed form,1.0
+foregoing reasons,1.0714285714285714
+times during the growth,0.5
+that seeds of the cereals,0.5
+such market area,0.5
+minimum limits,0.5
+sense,0.8606303395157362
+state governments on matters,0.5
+circumstances,1.3944461370073231
+seeds control order,1.5
+grain,1.4777777777777779
+as seeds,2.7777777777777777
+product,2.242984858429713
+high court,7.7477477477477485
+entire transaction,1.0
+purchaser  trader,0.0
+respondent purchase,1.5
+vegetable,0.45098039215686275
+different commodity,0.5
+seed of bazra,0.5
+manu,7.078142071124147
+notified commercial crop,0.5
+list of agriculture produce,0.5
+role,1.0562959821210092
+seed containers,0.5
+sri krishna coconut co v,0.5
+purport,1.3465627214741318
+seed committee,0.5
+certification agency for the state,0.5
+buying,1.0517578125000002
+such purchase,1.2857142857142858
+exemption of certified seeds,1.0
+market fee on such purchase,0.5
+registration certificate from the district agriculture officer,0.5
+varieties,0.5833333333333334
+wide connotation,0.8
+quantity of such seeds,0.5
+certification machinery,0.5
+development cess from the purchaser,0.5
+markets,6.181818181818182
+standard of the seed,0.0
+sum,2.554898897856461
+limits of germination,0.5
+increased agricultural production,1.0
+english translation of the letter,0.5
+stock,1.0778270324523251
+university,3.75675614961249
+labelling of seed containers,0.5
+container,0.5
+agriculture input dealer,2.0
+definition of agricultural produce,2.5
+only exception,0.5555555555555556
+committee,2.546237803603864
+court in the case,1.3333333333333333
+restriction,1.0123456790123457
+jaggery,1.0
+such transaction,3.950617283950617
+prices,0.9771470160116448
+view that the seeds,0.5
+- descript seeds,0.0
+terms of sub-section,0.0
+different from the produce,0.5
+importance of the questions,0.75
+schedule i of the adhiniyam,0.5
+such rules,0.5194805194805194
+seeds business,0.5
+essential commodities act,2.25
+aaaa,0.08360128617363344
+mandi act if agricultural produce,0.5
+reasons,1.3749054007567938
+preservation under the samples,0.5
+terms,2.390350840909655
+sir,1.1712841173013164
+prohibit busines,0.6666666666666666
+preservation,0.7312500000000001
+abovesaid meeting,0.5
+standardized seed,0.5
+first respondent,4.575757575757576
+first respondent intakes,0.5
+inspection charges,0.5
+government of uttar pradesh,2.0
+madras,2.836734693877551
+udham singh nagar,0.5
+universities to the various seed,0.5
+for the final adjudication of the case,0.5
+ors,2.8612718198296623
+seed from farmers,0.0
+malpractices,2.4
+factual aspect of the matter,0.5
+that distinction,0.3333333333333333
+sericulture,1.0
+aspect,1.2449448189023034
+decisions,1.3888475974580996
+tuck,0.36579406631762656
+character,0.9325990965842764
+produce market fee,0.5
+inspector of the seed certification agency,1.0
+other quality factor,0.5
+stuff,1.2840690978886757
+rakesh,1.4
+laboratories of seeds certification agency,0.5
+aspect of the matter,1.4642857142857142
+on transactions of sale,1.0
+breeder seeds,5.5
+writ petition  appellant,0.0
+seed certification agency,6.5
+dispute that the respondent,1.0
+terms of the provisions,1.4782608695652173
+areas,1.6237236125072747
+distinction,0.7312167973690868
+instructions,1.8111673678956002
+rajasthan agricultural produce market act,0.5
+good,2.6154941054299674
+lots,1.0732649366324685
+land,6.337534028705619
+seeds breeder,0.5
+deal with power,0.0
+more of such items,1.0
+important for the final adjudication of the case,0.5
+certified,1.8313253012048194
+settled rule,0.8571428571428571
+submission of final field report,0.5
+seeds on the ground,0.5
+mandi fee,0.5
+terms as certified seeds,0.5
+entire quantity of such seeds,0.5
+agricultural research institute,0.5
+obligations,0.9121212121212122
+purview of the provisions,0.5
+mandis,0.2608695652173913
+minimum standard of genetic identity,0.0
+breeder,1.9615384615384612
+such liability on the ground,0.5
+cattle fodder,1.5
+krishi,3.3333333333333335
+power under section,1.7142857142857142
+pursuance,1.543859649122807
+superintendence,2.1538461538461537
+foodgrain of particular varieties,0.0
+heading  cereal,0.0
+to market fee on account,0.5
+state government,3.027142857142857
+act deals with definition,0.5
+effect,2.184583388478191
+purchase of wheat,1.0
+licence under the act,1.0
+agricultural produce as a principal,0.5
+utility,0.6431972789115645
+seed of wheat,1.0
+seed from the farmers,0.0
+ratio decidendi of the above decision,0.5
+wherever seeds,1.0
+term of the licenses,0.0
+view that the seed,0.5
+rate of half,0.5
+pisciculture,1.0
+specified,1.676205533596838
+terms of the licenses,0.5
+specification,1.0483870967741935
+foundation seeds,4.5
+function of the central seed laboratory,0.0
+maharashtra v,1.0666666666666667
+minimum standard,1.75
+seeds of wheat,2.5
+treatment with insecticides,0.5
+representative,1.0617102796119673
+appropriate action,0.5625
+bazra seeds,0.5
+that seeds,1.1111111111111112
+agricultural produce under the provisions,0.5
+judgment in the case,2.5555555555555554
+following manner,0.5555555555555556
+seed industry,0.5
+following term,1.6170212765957446
+krishna,1.2505446623093683
+mandi samiti,4.0
+control,2.148867902684286
+company godowns,0.5
+interest of increased agricultural production,1.0
+issue,2.766776251628934
+contract farmers for further production,0.5
+stage i,0.7047619047619047
+parlance at particular stages,0.5
+certain seeds,0.5
+development ces on the ground,0.0
+central committee,0.25
+method,0.9027027027027026
+perusal of the schedule,0.5
+samples,1.552941176470588
+such seeds,1.5
+rejected lots,0.5
+essential,1.137813781378138
+foundations,0.24193548387096778
+that commodity as seed,0.5
+appeals reads,0.5
+application for seed production,0.5
+judgment of this court,2.1029411764705883
+orders,1.4936359300077826
+busines of sale,0.0
+limit of germination,0.0
+item of agricultural produce,0.0
+agriculture input dealers association,1.0
+maintenance,0.8632111808077473
+above decision,1.1818181818181819
+entire proces,1.0
+naseem,1.0
+rab,1.3420202410136615
+estimated quantity,0.5
+same in the context,0.5
+seed of the cereals,0.0
+oil - seeds,0.0
+following class of seeds,0.0
+effect from june,0.5
+ground,1.4186722903211633
+white,0.5645371577574967
+aegi of an inspector,0.0
+quantity,0.9457720588235292
+exemption notification,2.7142857142857144
+article,4.378806157159795
+old market,0.5
+market,5.294198044198044
+farmers to the mandi samiti,0.5
+machinery,0.9071637426900585
+est exclusio alteriu,0.6666666666666666
+imposition of market fee,1.5
+appeal nos,1.6666666666666667
+mandi tax liability,1.0
+opinion,1.4960606342789635
+oil seeds,1.3333333333333333
+provisions of the rules,1.0
+compare to wheat,0.5
+role in the trade,0.5
+factual aspects of the matter,0.6666666666666666
+respondent intake,0.5
+sale of such seeds,0.5
+such exception,0.8
+distributor,1.6741071428571428
+certification service in each state,0.5
+dwivedi,6.75
+above pleadings,0.5
+inclusion,0.9738480697384807
+scope,0.8412698412698413
+laws,1.4186274337269533
+standardised seeds,0.5
+fresh representation,0.5
+procedure for grant,0.5
+such item of produce,0.0
+respondent therein,1.3
+standardized seeds,0.5
+specified agricultural produce in the market area,1.5
+respect,2.6704963235294117
+unsuccessful respondents,0.5
+category of certified seed,0.5
+payable on such transactions of sale,0.5
+minimum standards of genetic identity,0.5
+civil appeal nos,1.5416666666666667
+from foodgrains,1.0
+processed item,0.5
+expression,1.7424391201885312
+market fee on the sale,1.0
+retail sale of any specified agricultural produce,0.5
+clauses,1.5486111111111112
+reasoning,0.6478937381404174
+particular stages,0.5
+stand,1.8422769621739425
+wherever seed,1.0
+labelling,0.2619047619047619
+minimum limit,0.5
+particular varieties,0.5
+registration of the contract farmers,0.5
+variety of seeds,0.0
+agriculture input dealer association air,0.5
+seed processing unit,1.0
+parliamentary acts,0.5
+old markets,0.5
+necessary implication,1.2608695652173914
+restrictions,0.7241671372106155
+as seed of food crops,0.0
+adjudication of the case,0.5
+liable with effect from june,0.5
+consumer,4.596273291925465
+hindi,0.2882352941176471
+as compare to wheat,0.5
+pradesh v h abdul bakhi,0.5
+opinion that the respondent,0.5
+present circumstances,0.5
+sons,2.7457346002031446
+meaning of business,0.5
+chief justice,4.684210526315789
+settled rule for the construction,0.5
+th schedule,6.846153846153846
+pursuance of the aforesaid order,0.75
+procedures,0.6129675045984059
+animal husbandry,1.0
+processing of agricultural produce,0.6666666666666666
+genetic identity that the seed,0.5
+same form,0.42857142857142855
+khandsari,1.0
+such rate,1.5454545454545454
+word,2.065873981084096
+essential condition,1.0
+busines of the company,0.0
+sort,0.7327002541370012
+appeals,1.7060218112849692
+grant of licences,0.5
+agricultural input dealers association,2.0
+rajasthan agriculture input dealers association,1.0
+market area,19.0
+account,2.5754891049671977
+seed for quality factors,0.0
+purchase,3.239871541501976
+valid registration certificate,0.5
+foundations seeds,0.5
+yielding seeds,0.5
+-exemption,0.0
+commodity,1.4505494505494503
+state seed certification agency,3.5
+objects,0.7297830374753452
+minimum standards of genetic purity,1.0
+purpose,2.519170317925504
+that purpose,0.609375
+mandi tax,1.5
+trader of agricultural produce,1.0
+time,2.4764180952862667
+central government,3.0380952380952384
+state seed certificate agency inspector,0.5
+mandamu,3.0
+containers,0.5238095238095238
+sub - heading cereals,0.0
+process of seed production,0.5
+decidendi,0.8333333333333334
+aforementioned situation,1.4545454545454546
+chemical proces,0.25
+limit,2.3804570428443834
+husbandry,1.0
+crop  variety,0.0
+state governments,1.3345864661654134
+utpadan mandi samiti adhiniyam,1.0
+produce as a principal,0.5
+rei,2.5792639525793164
+seed year after year,0.5
+counsel,2.2246780703440323
+type,0.8102172691515265
+first reasoning,0.5
+certified seeds,15.5
+certificate of registration,1.3333333333333333
+rules,3.130914366958792
+maxim,0.9230402066486973
+unfit for human,2.0
+which seeds,0.5
+rajasthan agriculture input dealer dealers association,0.5
+framer,0.7777777777777778
+insecticides,1.4285714285714286
+certification of seeds,0.5
+commercial venture in agricultural produce,0.5
+first step of production,0.5
+son,4.595622484812135
+dispute,2.402137592137592
+dictionary meaning,1.5
+oil - seed,0.0
+shakkar,0.5
+industry,8.208106219426973
+such manner as the state government,0.5
+conditions,1.9988092071092867
+case of the first respondent,1.0
+prohibit,1.9655608736315124
+jute seed,0.5
+proces of coating,0.0
+phose,1.0
+licenses,0.8542857142857143
+case,7.332269420884958
+such certification standards,0.5
+seed of fruits,0.0
+on such transaction of sale,0.0
+pure seed year,0.5
+year in respect,0.8
+mandi samiti in civil appeal nos,0.5
+certificate to dealers,0.0
+ambit,1.0862754267009587
+agricultural produce within the meaning,1.5
+such as seed of food crops,0.0
+chemical process for preservation,0.5
+contention,1.666391070690368
+sowing,1.0
+inter alia,1.3280423280423281
+quick,0.5186015933173487
+lucknow,3.4545454545454546
+plant,1.381330685203575
+different provision,2.0
+grains,1.507246376811594
+khemka,2.75
+bench,2.5793391667754992
+seeds of food crops,2.0
+agricultural produce for the purposes,0.6666666666666666
+sales tax,1.9017094017094016
+leave,1.0147842365477848
+body,1.336775463480009
+progeny,0.6000000000000001
+notice,2.3300025999395686
+foodgrains,3.5
+inspection of the farmer,0.5
+treatment of bazra,0.5
+express intention,0.6666666666666666
+unius,0.75
+certification service,0.5
+such transaction of sale,0.0
+separate commodity,0.5
+lucknow krishi anubhag- lucknow,0.0
+certain seed,1.0
+tope,0.3127572016460905
+sound legal principle,0.5
+trader from the producer,0.5
+proces of seed production,0.0
+pradesh directing,0.5
+time during the growth,0.0
+consumption,2.4979360165118676
+maharashtra etc,0.75
+aegis of an inspector,0.5
+sound legal principles,0.5
+rejected lot,0.5
+instant case,2.0631578947368423
+case of sale,1.6666666666666667
+taxation,1.2112499999999997
+ordinary course of business,1.0
+thirteen other food product,0.5
+registration certificate,0.5
+such market areas,0.5
+purchase of raw uncertified seeds,1.0
+integrated proces,0.5
+such seed,1.5
+reasonable construction,0.75
+construction,2.2504918032786887
+losses at processing,0.5
+seeds from agricultural universities,0.5
+civil appeals,1.24
+high as compare to wheat,0.5
+provision of the rules,0.0
+value,1.7137907830478438
+documents,1.142515923566879
+government to the director,0.5
+levy of market fee,3.6666666666666665
+air,2.0589664272145285
+such rates,1.4
+reply,1.0337305560040906
+seed standards,2.5
+object of the act,1.5555555555555556
+crops,1.3846153846153846
+act deals,1.2666666666666666
+- descript seed,0.0
+case of wheat,1.0
+extraction for the like purpose,0.5
+legislature,2.818553268765133
+foodgrains of particular varieties,0.5
+roots,0.4743589743589744
+liquid,8.381735911147675
+seeds,12.077922077922077
+strict construction,2.142857142857143
+such market areas without licence,0.5
+licence,3.10964429776311
+argument,0.9504580388560493
+exceptions,0.6478185993111366
+supervision of an inspector,1.0
+corporation,3.6427750743444176
+dispute that the breeder seeds,0.5
+producers,1.5789473684210527
+trader within the meaning,0.5
+harmonious construction,1.5
+purchase of breeder seeds,0.5
+notified agriculture university,0.0
+products,1.6079404466501241
+produce,1.7202617328519856
+samiti,2.6666666666666665
+animals,1.4863203806502776
+larger bench,2.0606060606060606
+movement,0.8351097178683385
+statutes,0.9659824046920822
+busines,2.8488759960122034
+appellant,14.387096774193548
+farmer to the mandi samiti,0.0
+high yielding seeds,0.5
+madra,2.836734693877551
+pilibhit,1.0
+market fee levy,0.5
+other poisonous substances,0.5
+trader from a producer,0.5
+division bench of the allahabad high court,0.8
+cotton,0.8571428571428571
+lakshmanan that the appeal,0.5
+representation,1.2338308457711442
+seedling of food crops,0.5
+rate,3.088725136774248
+breeder seed,7.0
+central,2.61875
+sent,3.0628620770573307
+term of the provisions,0.0
+dew,0.5919298245614034
+emphasis,0.8024289099526066
+detailed representation,1.0
+mandi act,1.0
+laboratories,0.912621359223301
+edible oil-seeds,0.0
+tope of grafts,0.0
+breeder seeds into foundations seeds,0.5
+functions of the central seed laboratory,0.5
+dispute that the entire process,0.5
+situation,1.1254754682459434
+agriculture,1.6135593220338982
+observations,0.7454584147497534
+purposes of agriculture,0.5
+attention,0.8724846605528799
+godavari,1.25
+heading  cereals,0.0
+same unfit,0.5
+state government in exercise,2.0
+parliamentary act,2.25
+case of state,1.4375
+disputes,2.3049883690876194

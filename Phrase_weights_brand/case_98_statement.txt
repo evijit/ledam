@@ -1,0 +1,72 @@
+pandeypur yojana,1.0
+varanasi,1.0
+condition,2.259476395625584
+today,0.6330563683773655
+aforesaid flat,1.0
+flat,2.2950575421290584
+housing,1.9061032863849767
+vacant,1.8672727272727272
+due repairs,0.5
+cost,1.2954397451466992
+lakhs,2.046511627906977
+order,5.472481489660944
+fact,3.6284951019474962
+month from today,0.8333333333333334
+learned counsel,3.703333333333333
+peaceful possession,1.4
+sum of rs,2.125
+yojana,1.0
+amount,3.179688593072295
+months,1.1938163721148947
+scheme,3.415949119373777
+months from today,1.0
+afore - stated payment,0.0
+peculiar facts of the case,0.8
+therefore,2.960332350576253
+aforesaid,2.592896174863388
+repairs,1.386880856760375
+final payment,0.75
+regard,2.723310344827586
+respondent under the residential housing scheme,0.5
+rupee,2.2291666666666665
+admitted fact,1.3076923076923077
+possession,2.808810857389056
+pandeypur yojana in varanasi,0.5
+in question,1.2157528957528958
+peculiar facts,0.9473684210526315
+appellant - authority,0.0
+allotment,4.111111111111112
+appellant,14.387096774193548
+repair,1.1641083521444697
+appeal,3.4125488033856883
+payment,2.059553716565686
+sum,2.554898897856461
+appellant - authority for allotment,0.0
+regard to the allotment,0.5
+precedent,0.8982341399607586
+flat in question,0.8
+authority,2.4352627108360636
+facts of the case,1.161764705882353
+- authority,0.0
+lakh,1.3647388059701493
+pandeypur,1.0
+rupees,2.311111111111111
+due repair,0.5
+facts,1.4696673624372698
+peculiar fact of the case,0.0
+respondent,4.757894736842104
+peculiar fact,1.0476190476190477
+leave,1.0147842365477848
+counsel,2.2246780703440323
+case,7.332269420884958
+residential housing scheme,0.5
+normal condition,0.38095238095238093
+month,1.3454861111111112
+housing scheme,1.0
+residential,1.3847358121330724
+costs,0.8167395522604189
+- authority for allotment,0.0
+question,2.980312372067635
+afore,2.233039388594944
+admitted fact that a sum,0.5
+fact of the case,0.0

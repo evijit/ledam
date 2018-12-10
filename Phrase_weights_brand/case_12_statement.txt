@@ -1,0 +1,301 @@
+canara bank,9.75
+courts,2.1216528162511543
+days,1.6721350893491447
+senior,1.989753211141579
+presumption in favour,0.8
+material for the completion,0.5
+above payment term,0.5
+contract,6.227349970404598
+insufficient fund,1.5
+sarakki layout branch,0.5
+offence under section,2.6
+road trial,0.5
+units,5.004460400348129
+petitioner,4.524972253052164
+cheques amount,1.0
+approach,1.001908852302553
+clear presumption in favour,0.5
+word,2.065873981084096
+dishonour,1.425
+presentation with the remarks,0.5
+amounts,0.9789856139834046
+notice,2.3300025999395686
+orders,1.4936359300077826
+code,2.880559796437659
+- drawn on canara bank,0.0
+basis,1.953226441078104
+memorandum of cheques,0.5
+notice by the respondent,0.0
+provisions under section,0.6666666666666666
+months,1.1938163721148947
+aforesaid cheque,1.0
+amount,3.179688593072295
+aforesaid cheques,1.0
+signature,1.1400966183574879
+course,1.6545957498716626
+approach on the part,0.3333333333333333
+day from the date,0.0
+filing,1.1274190041313328
+cheque for rs,0.6666666666666666
+endorsement  insufficient funds,0.0
+terms,2.390350840909655
+contract with the respondent herein,0.5
+project,4.265889006716154
+of the fact,0.9194706545605603
+order of the courts,0.0
+by the respondent to the appellant,1.5
+inter,3.683850287482992
+negotiable instrument,1.8571428571428572
+that due notice of the dishonour,0.5
+cheque of the nature,0.5
+avl,0.9984076433121019
+high,5.367119186841496
+agree by the above payment terms,0.5
+payment,2.059553716565686
+specific averment,0.75
+defence to the effect,0.5
+sushil,2.0
+balance r,0.3333333333333333
+interest,2.74353772015385
+supplies,0.7939086294416243
+aforesaid cheque in the aforesaid manner,0.0
+reason,2.6381270903010035
+court,12.24425115501509
+appellant,14.387096774193548
+obligation under the contract,0.6666666666666666
+lakh,1.3647388059701493
+purchase,3.239871541501976
+balance amounts,0.5
+above payment terms,0.5
+jain,1.673202614379085
+ground,1.4186722903211633
+interest at the rate,2.3
+road,1.0764686576960945
+agreement,3.450434632433366
+cheques in favour,2.6666666666666665
+suit,2.485274378207659
+following averment,0.6666666666666666
+dues,1.2780386019822638
+neat submission,0.5
+xxx,1.8708487084870848
+trial court,3.854545454545455
+law,3.538923411654744
+notices,0.5487269534679544
+nos,1.2635492554198444
+impugned judgment,2.0927152317880795
+requisite supplies,0.5
+material to the respondent,0.5
+balance,0.9863636363636363
+part,5.294464509893076
+time,2.4764180952862667
+that due notice,0.5
+presumption under section,1.2222222222222223
+days from the date,1.7352941176470589
+cheque in favour,2.5
+fund,2.9945256868353374
+supply of units,1.0
+memorandum,1.2142857142857144
+words,1.6384367086179112
+bearing nos,0.6666666666666666
+erroneous approach,0.5
+layout,0.46697388632872494
+due for the work undertaken,0.5
+aforesaid manner,0.5
+for the appellant,2.0108108108108107
+due with interest at the rate,0.5
+term,3.6255105640901575
+obligation under the agreement,1.0
+balance amount ie,0.5
+penal,1.8829173709853835
+board,2.401414435268602
+remark,0.5091064757160647
+spite,0.8919640378414163
+funds,3.352010547132498
+time of supply,0.5
+reply,1.0337305560040906
+liability,2.532836248924577
+holder,1.8472993827160495
+contrary,1.027917657672435
+client towards the payment,0.5
+for the work undertaken,0.5
+opinion,1.4960606342789635
+thereto,1.0358342665173572
+remarks,0.4772727272727273
+aforesaid,2.592896174863388
+mr sushil kumar jain,0.6666666666666666
+reason as insufficient fund,0.5
+aforesaid cheques in the aforesaid manner,0.5
+complaint,2.734525785235724
+presumption in law,0.5
+penal code,2.710144927536232
+filing of the complaint,0.6666666666666666
+money on the ground,0.5
+demonstration,0.8202247191011236
+aforesaid period,1.0
+clear presumption,0.5
+appeal,3.4125488033856883
+ground that the appellant,1.0
+avl units,0.5
+unit,2.176678509944691
+road trials,0.5
+hereinafter,0.7670609645131939
+complaint under section,2.7142857142857144
+payment in terms,0.8
+due to the appellant,0.6666666666666666
+appellant that the appellant,0.8
+signatures,0.9850746268656717
+provisions,3.8929824561403508
+negotiable instruments,1.7142857142857142
+material,1.4148767018946966
+defence,1.3606588776096535
+cheques for rs,0.5
+due course,1.0648148148148149
+certain project,0.30000000000000004
+counsel,2.2246780703440323
+opinion that the dishonour,0.5
+month,1.3454861111111112
+purchase order,0.37037037037037035
+development,2.3145884270578647
+appellant thereupon,0.5
+endorsement  insufficient fund,0.0
+alia,0.9479866480753792
+provision,5.439002243350069
+cheques,7.85
+averment,1.7
+requisite supply,0.0
+work undertaken,0.6666666666666666
+aforesaid circumstance,0.75
+release,0.9830403257846643
+judgment,3.288216560509554
+notice that the cheque,0.5
+time of board level demonstration,0.5
+document to the effect,0.6666666666666666
+avl unit,0.5
+client,2.2968505695778423
+design,1.6729193584375017
+averments,1.76
+development of avl units,0.5
+taxes,1.49645390070922
+order,5.472481489660944
+fact,3.6284951019474962
+following averments,0.6666666666666666
+other liability,0.6666666666666666
+learned counsel,3.703333333333333
+civil suit,0.7413793103448276
+necessary for the appellant,0.5
+cent,2.4795666588956498
+presumption in favor,0.5
+act,12.870263922028107
+payment of balance amount ie,0.5
+indian penal code,5.264705882352941
+erroneous approach on the part,0.5
+insufficient,0.6109090909090908
+negotiable,0.9493670886075949
+holder of a cheque,0.5
+acceptance,1.4762112614578786
+canara,5.8500000000000005
+cheque,6.749999999999999
+learned counsel for the parties,1.263157894736842
+branch,2.8500288406075756
+station,1.2515681586858238
+rupee,2.2291666666666665
+time of road trials,0.5
+submission,1.0913871684001404
+evidence,3.6676405172088815
+instruments act,1.7142857142857142
+obligation,1.1071428571428574
+circumstances,1.3944461370073231
+document,1.401100265092073
+demand,1.5671679197994988
+amount of cheques,0.5
+effect,2.184583388478191
+provision under section,0.6666666666666666
+presumption,1.06
+level,1.1533169827122092
+payable by the respondent to the appellant,0.5
+legal error,0.6666666666666666
+complaint on the basis,0.5
+due,1.6178286949129652
+completion,1.1868131868131868
+aforesaid circumstances,0.75
+sarakki,0.5
+evidences,0.5483870967741935
+bangalore,1.2
+appellant for the respondent,0.5
+work,2.8478559811646353
+manner,1.4494591333432125
+high court,7.7477477477477485
+notice that the cheques,0.5
+aforesaid complaint,0.5
+parties,1.8210828547990157
+aware of the fact,0.5454545454545454
+case,7.332269420884958
+favor,0.6819541375872383
+period,1.9480170842427122
+error,1.059158294766151
+legal notice,1.25
+supply,2.0557395143487858
+encashment to the bank,0.5
+section,9.287987283173626
+trial,3.7979448350459712
+encashment,1.9090909090909092
+base,0.8959264091163237
+rate,3.088725136774248
+orders of the courts,1.0
+party,2.2250894654439723
+offence in terms,0.5
+board level demonstration,0.5
+respondent herein,1.8936170212765957
+tax,3.549237288135593
+balance amount,1.1428571428571428
+error in law,1.0
+pursuant thereto,1.0769230769230769
+presentation,1.1205371248025278
+bearing no,0.9000000000000001
+to the appellant,2.239669421487603
+balance rs,0.5
+endorsement ie,0.5
+circumstance,1.429931390219372
+reason as insufficient funds,0.5
+finding,1.8129183657767178
+therein,1.5503424657534246
+kumar,2.028839704896043
+thereupon,1.4857142857142858
+nature,1.4149926876444778
+per,7.977753416636086
+appellant herein,2.046153846153846
+notices by the respondent,0.5
+appellant that the money,0.5
+inter alia,1.3280423280423281
+negotiable instruments act,1.7142857142857142
+endorsement,0.8138461538461539
+cent from the date,0.5
+favour,1.653145208700764
+lakh twenty,0.5
+date,6.195616975795285
+instruments,0.8428470754052149
+holder in due course,4.0
+money,1.6567889044524557
+with interest at the rate,1.2857142857142858
+respondent to the appellant,1.3333333333333333
+instrument,1.493863846866317
+rupees,2.311111111111111
+layout branch,0.5
+length,0.6297872340425531
+aforesaid complaint under section,0.5
+offence,4.401610644257703
+trials,0.5583800086169755
+bank,9.40770083102493
+base station unit,0.5
+respondent,4.757894736842104
+senior counsel,2.2857142857142856
+time of release,0.3333333333333333
+spite thereof,0.6666666666666666
+leave,1.0147842365477848
+discharge,1.305219638242894
+insufficient funds,1.5
+basi,2.0752712086391383
+day,1.550999710228919
+thousand,0.625287081339713
+- drawn,0.0
+debt,3.4485322896281807

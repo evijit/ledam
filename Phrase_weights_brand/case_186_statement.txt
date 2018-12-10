@@ -1,0 +1,896 @@
+courts,2.1216528162511543
+full salary,1.25
+apex,0.8555555555555555
+court judges,3.6666666666666665
+thereto in terms,0.5
+capacity,1.7421691881525676
+findings,1.049571253572887
+indian civil service,1.0
+government,3.5583785424010483
+allowances,1.642105263157895
+basis of pratibha bonnerjea,0.5
+service in the union,0.6666666666666666
+code,2.880559796437659
+pension rules,7.25
+office of profits,0.5
+constitution of india,3.0095238095238095
+consolidated fund of india,1.6666666666666667
+reasons,1.3749054007567938
+payable to the petitioner,0.6666666666666666
+terms,2.390350840909655
+office premises,1.25
+court r,1.0300322660709853
+meaning,1.8612727545949643
+salary,1.6193181818181817
+inter,3.683850287482992
+sub-clause,0.0
+court,12.24425115501509
+part apply,0.0
+first respondent,4.575757575757576
+employment,1.5239770785161355
+payable to others,0.5
+declaration,2.152560083594566
+proces of interpretation,0.0
+judge of the high court,1.75
+madras,2.836734693877551
+respect of any previous service,1.0
+sole question,1.0
+union,2.0981927710843373
+rise,1.6238941915958565
+parliament,2.6571235781762095
+news papers,0.6666666666666666
+agreement,3.450434632433366
+appointment in the cat,0.5
+administrative tribunal,3.8
+person,4.291511329454258
+special reasons,2.0
+ors,2.8612718198296623
+speaking for the bench,1.0
+petitioner therein,1.0
+rise to the question,0.5
+way,1.7812722068664852
+behalf,1.9888053603529987
+high court judge ie,0.5
+part,5.294464509893076
+court manu  scmanu  sc,0.0
+constitutional office,0.6666666666666666
+man commission,0.5
+nothing,0.8658723322806009
+supreme court within the meaning,0.5
+nakara case,3.3333333333333335
+president cancel,0.5
+clubbing,0.17777777777777776
+juncture,0.8717948717948718
+affair of the union,0.0
+other provisions,1.9
+retirement,10.167032967032968
+true that this court,0.75
+coimbatore town,1.5
+justice of a high court,0.75
+age,4.526374474274117
+speaking,0.6506672453075838
+shri,2.0759135877246115
+district,1.5506763074237984
+applicable to the secretary to the government,0.5
+decision,2.9514937765898557
+different offices,0.5
+mallinath v union,0.5
+than a disability,1.0
+contrary,1.027917657672435
+part ii,1.4746543778801842
+government of tamil nadu,1.6
+chief justice of calcutta,0.5
+place in the district,0.75
+claim,2.817264601856604
+nem chandra jain,0.5
+such allowances,1.0
+second schedule,1.8
+transfer,1.9975047057658015
+anything in this chapter,0.5
+appeal,3.4125488033856883
+sukur,0.5
+pension in accordance,1.5
+scr,2.483838975311538
+election,6.758005637447438
+interpretation,1.518366298484459
+emolument,2.5555555555555554
+area,2.675167256985439
+provision in rule,0.5
+stating,0.8256619531175857
+month,1.3454861111111112
+year,2.8349484769759212
+lieu,0.5964912280701754
+place in coimbatore town,1.0
+nath,1.2024818815807465
+alia,0.9479866480753792
+pasupati,0.6666666666666666
+retirement as a chief justice,0.5
+wherein,1.0724137931034483
+hew,0.9420541768492066
+judgment,3.288216560509554
+fixation,1.1141025641025641
+alleged incidents of attack,1.0
+subject,2.4420366233344897
+services,1.6850241065659326
+order,5.472481489660944
+fixation of pension,0.5
+own facts,1.125
+act,12.870263922028107
+sub-section,0.0
+other office,0.8791208791208792
+service as chief justice,1.0
+kunhayammed,0.6666666666666666
+governor,1.1316137566137567
+service in the national human rights commission,0.5
+to the petitioner,2.088888888888889
+such post,0.5
+case of a judge,0.75
+members of the tribunal,0.8
+appointment,3.1380281690140843
+in view of article,1.0
+special reason,2.2857142857142856
+under this act,1.6
+state government,3.027142857142857
+place of the order,0.5
+nakara,4.285714285714286
+minimum,1.388221153846154
+eligible for a pension under any other provisions,0.5
+independent judicial service,0.5
+term of article,0.0
+dcrb rules,0.5
+particular rule,0.5
+order determine,1.0
+serving judge,0.6666666666666666
+manner,1.4494591333432125
+pension rule,7.375
+shri justice venugopal,0.5
+banerjea,0.5
+member,2.649111111111111
+learned chief justice,1.0909090909090908
+parties,1.8210828547990157
+allowance,2.1019607843137256
+to a retired judge of the high court,0.5
+disability,0.621301775147929
+in terms of article,1.5384615384615385
+statutory requirement under rule,0.5
+re-fixation,0.0
+pension of the petitioner,0.5
+pattanaik,1.7692307692307692
+section,9.287987283173626
+tamil newspapers,0.5
+part-i,0.0
+provisions of law,1.0833333333333333
+judicial discipline,1.0
+conditions of service,2.235294117647059
+thereunder,1.2794117647058825
+incident,1.8609485257918057
+additional judge,0.75
+servant,2.030552291421857
+january,0.8699641577060931
+pension for the period,1.0
+condition,2.259476395625584
+constitutional scheme,1.6363636363636365
+pensioner as a retired high court judge,0.5
+commission of inquiry act,0.0
+ill-health,0.0
+- per annum,0.0
+statement of law,1.0
+civil misc,0.8571428571428571
+provision in part i,0.5
+place,2.333104345208554
+pensionary benefit,3.6666666666666665
+functions,1.326241134751773
+civil,2.126558634963905
+than the declaration of law,0.5
+finding,1.8129183657767178
+serving judge of a high court,1.0
+risk of repetition,0.6666666666666666
+dcrb rule,0.5
+fiction,0.7938733125649013
+meaning of paragraph,0.5
+government of madras,1.5
+ratio of pratibha banerjea,0.5
+requirement under rule,0.5
+member of the tribunal,0.5
+following term,1.6170212765957446
+commissioner of payments,0.5
+regard,2.723310344827586
+pradvat kumar v,0.5
+available to the chairman,0.5
+services for pension,0.5
+india read,1.0
+court judge ie,0.5
+proces,1.627944583238701
+writ petition before the madras,0.5
+under the high court judges,0.5
+services of the petitioner,0.5
+salaries,0.7500000000000001
+rights,1.6349541930937281
+material time,1.2
+thence,0.40909090909090906
+thereto by way,0.5
+india read with section,0.6666666666666666
+pensionable civil post under the union,0.5
+proceedings between the parties,0.5
+union of india,3.1324503311258276
+facts,1.4696673624372698
+issue,2.766776251628934
+chief justice of a high court,0.75
+upon retirement,0.5
+judge of a high court,1.0
+previous consent of the president,0.5
+such judge,0.6545454545454544
+thereof,1.7897727272727273
+subject to the provisions,2.4705882352941178
+july,0.9742727723122656
+meanwhile,0.5323868677905944
+scope of part iii,0.5
+riot,0.5756643356643357
+basi,2.0752712086391383
+to the chairman,0.5333333333333333
+state at the time,0.6666666666666666
+powers,1.876345371920593
+leave petition,2.013333333333333
+benefits,2.0896027049873203
+justice venugopal,0.5
+period during which such service,0.5
+part iii of the first schedule,3.0
+short question,0.5714285714285714
+re-employment in connection,0.0
+days,1.6721350893491447
+consideration of this court,1.0714285714285714
+mr jayant bhushan,0.8
+benefit,2.604810195438474
+petitioner,4.524972253052164
+provisions in part ii,1.3333333333333333
+shri justice p venugopal,1.0
+matter of opinion,0.2619047619047619
+doctrine,0.7455954017243533
+basis,1.953226441078104
+scheme,3.415949119373777
+fourteen day,1.0
+office premise,1.25
+president,2.1267129228100607
+subsequent thereto by way,0.5
+grant of pension,2.3333333333333335
+attacks,0.65565749235474
+sub,7.816899313759727
+legislative,2.4237377279102383
+sukul,0.5
+consent of the president,0.5
+territory of india,2.5
+provision in part ii,0.0
+justice p venugopal,1.5
+alleged incident,1.08
+payments,1.0129870129870129
+charge,2.7679815308681284
+high courts,2.676470588235294
+under the high court judge,0.5
+pension as a high court judge,0.5
+full time basi,0.5
+civil service,2.722222222222222
+country,1.2903191103863751
+implication,0.6615776081424936
+payable under this act,0.5
+two - judge bench,0.0
+other perquisites,0.5
+alleged incident of attack,0.0
+furtherance,1.758139534883721
+constitutional provisions,0.6000000000000001
+pradesh,4.365853658536586
+ganguly,0.6285714285714286
+additional pension,0.5
+pensionable post,2.0
+reliance in support,0.8571428571428571
+amendment,2.2486412346818434
+jain,1.673202614379085
+acquisition,6.764044943820224
+invalid pension,0.5
+parties thereto,0.9
+territory,1.3688226421790437
+resort,0.7319355397678043
+foregoing provision,0.8333333333333334
+different office,0.3333333333333333
+function,1.6326372491145218
+impugned judgment,2.0927152317880795
+inquiry,1.3527272727272728
+profits,4.935344827586206
+same reasoning,0.4
+consideration in this matter,0.6666666666666666
+matter,2.8088923076923082
+relation,1.397320207820618
+attacks on the office premises,0.5
+secretary to the government,0.8
+article,4.378806157159795
+such pension,1.0
+other judge,1.8571428571428572
+previous service in the union,0.5
+news,0.8405125851029581
+term,3.6255105640901575
+commission of inquiry,2.75
+non - speaking order,0.0
+judge for the period,0.5
+court of the country,0.5
+subsequent proceeding,1.0
+indian,1.2604961505560306
+part of the high court,1.0
+time basis,0.3333333333333333
+view,2.441100058469462
+post,2.344803646492219
+reports,1.0202012199952466
+notice that a three-judge bench,0.0
+rate of pension,0.5
+judgment of justice nand lal ganguly,0.5
+opinion,1.4960606342789635
+service as any other judge,0.5
+purpose of computation,1.0
+statutory requirement,1.2857142857142858
+dominion,1.7127659574468086
+services as a high court judge ie,0.5
+merger,0.8533333333333334
+incidents of attack,1.0
+governor s province,0.0
+calcutta,1.6022727272727273
+provision in part iii,0.0
+post of vice - chairman,0.0
+term of reference whereof,0.0
+high court rs,1.0
+part i of the schedule,0.5
+bhushan,4.9375
+retired judges,1.5
+india v kb,0.5
+retire,7.810520939734421
+scope,0.8412698412698413
+speaking order,1.3
+determine,1.677171017033897
+such allowance,1.0
+turn,1.6310093128618173
+service in view,0.75
+member of the state,0.75
+hereinbefore,2.159090909090909
+two - judge bench of this court,0.0
+high court judges,2.2
+provision,5.439002243350069
+minimum pension,0.5
+other office of profit,0.5
+support,0.8630946786249609
+secretary,0.9217877094972067
+apex court,1.375
+other perquisite,0.5
+former judge of madras,0.5
+amount of pension,0.75
+race club,1.0
+more high court,0.5
+respect,2.6704963235294117
+concerned state,1.8888888888888888
+payable to a judge,2.0
+premises,1.290983606557377
+pensionable post under the union,2.0
+fact,3.6284951019474962
+to other,0.6135937327595719
+affairs of the union,1.0
+v pratibha bonnerjea,0.5
+strong reliance,1.606060606060606
+other high court,1.3333333333333333
+judge of madras,0.5
+anr,1.1271033322299457
+escape from rule,0.5
+chief,1.9429638234317954
+reasoning,0.6478937381404174
+premises of the news papers,0.5
+aforementioned notification,0.75
+kumar,2.028839704896043
+such allowances as the president,1.0
+question of clubbing,0.5
+thereto,1.0358342665173572
+service of the petitioner,0.0
+connection with affairs,0.5
+annum,2.25
+appointment of a judge,0.5
+v state of kerala,1.1304347826086956
+high court manuscmanusc,0.5
+respect of a person,0.6666666666666666
+high court to function,0.5
+nothing in this paragraph,0.5
+high court r,1.513157894736842
+pension under part iii,1.0
+work,2.8478559811646353
+fund of india,1.6666666666666667
+town,1.9746537396121884
+above work,0.6000000000000001
+appointment of an ad hoc judge,0.5
+times,0.8987140267391797
+total emoluments,0.5
+such election,2.0
+good law,0.5743589743589743
+doubt,1.3646267723102583
+member of the indian civil service,1.0
+benefit of gratuity,0.5
+years,2.5395804110508022
+schedule to the constitution,2.3
+report,1.7768151696835826
+papers,1.0564063453325199
+office of judge,0.5
+judicial,2.8688059701492543
+principle,1.9620890732001848
+party,2.2250894654439723
+issue in question,0.75
+declaration of law,1.1818181818181819
+newspaper,1.4133350781914544
+whereof,1.2790697674418605
+anything,0.9132309941520469
+district judge in the state,0.5
+retires,1.0285714285714287
+details,0.9406426856198188
+only order binding,0.5
+privileges,2.142857142857143
+commencement,1.2037037037037035
+justice,2.292557084574302
+other than the declaration of law,0.5
+pension,11.516129032258064
+doctrine of merger,0.5
+post of commission,0.5
+respect of judges,0.5
+ten months,0.5
+chairman,1.3592677345537758
+previous service,3.0
+v state,2.4603773584905664
+pashupati,0.5
+chairman of the central administrative tribunal,2.0
+offices,0.6871508379888269
+division bench,3.965217391304348
+date,6.195616975795285
+consent,1.224924012158055
+other provision,1.281045751633987
+senior district judge,0.5
+to others,0.48799999999999993
+judge as a pension,0.5
+uttar pradesh,2.8
+reference,2.1755848210276256
+afresh,0.6891891891891891
+remuneration,1.4285714285714286
+union  state,0.0
+in nature,0.7593052109181141
+subsequent thereto,1.5
+chief justice,4.684210526315789
+payable to a judge for the period,0.5
+awc,0.3659340659340659
+respondent,4.757894736842104
+provisions in part i,1.5
+v state of uttar pradesh,1.375
+view of article,1.0
+election to parliament,1.6666666666666667
+schedule,2.9453067257945307
+accordance,1.4069045211613462
+part applies,1.0
+day,1.550999710228919
+union of india v kb,0.5
+dinakaran,1.0
+assent,0.7090909090909091
+question,2.980312372067635
+ahmadi,0.2742857142857143
+subsequent proceedings,1.0
+own fact,0.5761904761904763
+office of profit,1.0
+notification of the government,0.5
+alleged incidents,1.0
+strong reliance in support,0.8333333333333334
+age of superannuation,3.5833333333333335
+constitutional provision,0.7307692307692307
+year of service,1.4
+attention of the court,1.0
+basi of pratibha bonnerjea,0.0
+justice nand lal ganguly,2.0
+scmanu,7.940520446096654
+writ,2.8882378560889794
+chapter,1.3867471532446152
+honble,2.4444444444444446
+daily allowances,0.5
+months,1.1938163721148947
+amount,3.179688593072295
+- health,0.0
+manuupmanuup,1.411764705882353
+statement,2.5393160135035964
+payable in terms of article,0.5
+time basi,0.30000000000000004
+that part,0.9543770509156346
+such alleged incidents,0.5
+supreme court,1.4278957326045825
+pratibha banerjea,0.5
+service for pension,2.0
+high,5.367119186841496
+perquisite,0.5
+following terms,1.5957446808510638
+members,1.9437616522164103
+payment,2.059553716565686
+legal fiction,1.6
+account,2.5754891049671977
+tribunal act,0.8571428571428571
+notification,3.0112746633260263
+pension under any other provisions,0.5
+office of a high court judge,0.5
+proviso,2.112
+purpose,2.519170317925504
+law,3.538923411654744
+that high court,0.8888888888888888
+news paper,1.25
+retired judge,1.4545454545454546
+consideration therein,0.8333333333333334
+time,2.4764180952862667
+travelling,0.9988584474885847
+central government,3.0380952380952384
+pratibha bonnerjea,2.5
+division,1.7657319129617017
+pension under part i,2.0
+madras race club,1.0
+claim of the petitioner,1.5555555555555556
+re-employment,0.0
+such person,0.9634888438133874
+jayant,1.0
+annum in the case,1.0
+conditions of appointment,0.5
+retired judge of the high court,0.6666666666666666
+provisions of the administrative tribunal act,0.5
+exhaustive in nature,0.5
+sum of rs,2.125
+attack on the office premises,0.0
+part iii thereof,0.75
+further pensionary benefit,0.5
+extra remuneration,0.5
+pradvat,0.5
+aforementioned situation,1.4545454545454546
+bonnerjea,2.5
+non,1.3417336444559675
+discipline,0.5608974358974359
+grant,1.7314487632508835
+affairs,0.8608695652173913
+honble chief justice,1.0
+further pensionary benefits,0.5
+addition,1.5588539142412572
+cat,5.965184298874564
+right,3.07483248288682
+hereinafter,0.7670609645131939
+member of the national human rights commission,0.5
+nem,0.7308920569574683
+second schedule to the constitution,0.5
+misc,0.7132772338860931
+condition of service,0.5
+time before the commencement,0.5
+tamil,3.111111111111111
+part i of the first schedule,2.0
+other provisions of this part,1.0
+connection,1.050640279394645
+upmanu,0.9411764705882354
+moot question,1.0
+reasoning of the high court,0.8571428571428571
+counsel,2.2246780703440323
+implications,0.5223021582733813
+sitting of high courts,0.0
+india,2.7684068260703585
+commission,4.703619179345321
+only order binding as re,0.5
+rules,3.130914366958792
+privilege,2.436023622047244
+pension of rs,0.5
+kanyakumari by an order,0.5
+provision of this part,1.5
+club,0.8279165868248507
+profit,3.0739182692307687
+precedent in terms,0.5
+material times,1.75
+court to function,0.5
+reference whereof,0.6666666666666666
+risk,1.2477718360071302
+commissions of inquiry act,0.5
+perquisites,0.5
+writ petition by reason,0.5
+legislative in view of article,0.5
+such alleged incident,0.5
+attack,1.0505713076597545
+that pension,2.4
+additional pension under part - i,0.0
+gap,0.5109023703753942
+special leave petition,2.013333333333333
+vice,3.766984711894892
+vice-chairman,0.0
+in term of article,0.0
+decision of this court,2.3260869565217392
+conditions,1.9988092071092867
+residuary provision,0.75
+riots,0.39869281045751637
+years of service,2.8000000000000003
+reliance,1.400763358778626
+three - judge bench,0.0
+day of october,2.5
+pensionable post under the union  state,0.0
+man commission of inquiry,0.5
+better pensionary benefit,0.5
+detail,0.9737454684220567
+provision of law,0.9090909090909091
+terms of reference whereof,0.5
+that state,0.8973013493253372
+case,7.332269420884958
+period,1.9480170842427122
+repetition,0.47619047619047616
+agreement with the judgment,0.5
+emphasi,0.9191619047619048
+post under the union,3.5
+that this court,1.3653846153846154
+that sub-section,0.0
+venugopal,2.7142857142857144
+affair,0.8341728395061728
+constitution,3.204842342342342
+to a judge as a pension,0.5
+previous consent,1.0
+nadu,1.4166666666666665
+commissioner of payment,1.0
+grant of leave,0.6666666666666666
+undertaking,2.8508771929824563
+superannuation,4.684210526315789
+tenure basi,0.5
+service,4.257395095954566
+wound,1.4035549703752468
+provision of that part,0.5
+contention,1.666391070690368
+central administrative tribunal,1.8333333333333333
+subject to the other provisions of this part,0.5
+rule,5.04
+inter alia,1.3280423280423281
+to a judge,1.05
+pension under part - i,0.0
+proceedings,1.7670925223666287
+tamil newspaper,0.5
+process of interpretation,1.0
+part in such alleged incidents,0.5
+pensioners,5.75
+supra,2.246342614440774
+shri justice p venugopal in the performance,0.5
+chandra,0.7012987012987013
+judicial service,7.3076923076923075
+ad hoc judge for a term,0.5
+bench,2.5793391667754992
+first schedule,2.7142857142857144
+receipt of a pension,1.0
+judge at the time,0.6666666666666666
+office,3.5913445886237847
+tenure basis,0.5
+leave,1.0147842365477848
+aforementioned provision,1.1
+court rs,1.0
+second,1.4990453300392075
+term of act,0.0
+behalf of the petitioner,1.6666666666666667
+ad hoc judge,5.0
+point of view,0.5886392009987514
+discretion,1.2998211091234348
+allahabad high court,1.7037037037037037
+nath sukul,0.5
+october,0.9478375701551667
+subject to the aforementioned provision,0.5
+purported period of services,0.5
+assent of the president cancel,0.5
+point,2.9165043546008516
+process,1.6274942048088725
+sitting,1.1033984092552422
+order of the court,0.8888888888888888
+terms of the aforementioned provision,0.5
+allahabad,2.3404255319148937
+residuary provision in rule,0.5
+charge to the consolidated fund,0.5
+notice,2.3300025999395686
+district judge,2.1684981684981683
+high court judge,3.7
+shall,3.6283780276816606
+part i,1.6275757575757575
+power,3.8165227690948367
+incidents,0.8645320197044336
+court claiming,0.3333333333333333
+aforementioned contention,1.0
+case of an ad hoc judge,0.5
+pensioner,4.5
+mallinath v union of india,0.5
+condition of appointment,0.0
+premise,1.2347417840375587
+national human rights commission,1.0
+jurisdiction in relation,1.0
+- per annum in the case,0.0
+gratuity,2.9
+remuneration for the above work,0.5
+lal,1.6786163249382287
+eve,4.4311144863565985
+for a pension under any other provisions,0.5
+case interpretation,0.6666666666666666
+payable to a judge as a pension,0.5
+daily allowance,0.5
+kanyakumari,0.5
+allowances as the president,1.0
+president of india,1.8
+reason,2.6381270903010035
+rules with regard,0.6666666666666666
+provisions of this part,1.25
+earlier decision,1.5454545454545454
+scope for resort,0.5
+payable to a retired judge of the high court,0.5
+writ petition,6.24223602484472
+petition,5.3436539306104525
+order of the supreme court,1.0
+th day,0.781456953642384
+administrative tribunal act,0.5
+service of chairman,0.5
+high court claiming,0.5
+that capacity,0.5714285714285714
+consideration,1.9110153789142115
+consolidated fund,2.0
+human,1.0063526196524266
+senior district judge in the state,0.5
+paragraph,1.2930197483150305
+retired high court judge,1.4285714285714286
+fund,2.9945256868353374
+bench in the aforementioned situation,0.5
+subsequent thereto in terms,0.5
+statutory,2.0326923076923076
+vice-chairman of the central administrative tribunal,0.0
+commissioner,2.271608643457383
+pasupati nath sukur etc,0.5
+elect afresh,0.5
+clause,3.526455026455027
+petitioner in terms,1.0
+rule with regard,0.5
+subsequent proceedings between the parties,0.5
+pension from the concerned state,0.5
+others,0.9074667328904616
+holder,1.8472993827160495
+clubbing of services,0.5
+foregoing provisions,0.8
+res,10.359704275735774
+receipt,1.5471923536439667
+other provision of this part,0.0
+specific rule,0.37037037037037035
+emoluments,2.0
+holder of a constitutional post,0.5
+incident of attack,0.0
+post under the union  state,0.0
+three - judge bench of this court,0.0
+sittings,0.6666666666666666
+challenge,1.2204566274399267
+higher pension,1.0
+authority,2.4352627108360636
+judge,2.9012627415183325
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+newspapers,0.854368932038835
+better pensionary benefits,0.5
+tamil nadu,3.176470588235294
+constitutional post,1.0
+province,0.7345491388044579
+premise of the news papers,0.0
+substance,0.8230581678857541
+to the secretary to the government,0.5
+judge of that high court,0.5
+argument,0.9504580388560493
+first schedule to the act,0.8
+nand,1.0072239422084623
+terms of article,1.5384615384615385
+moot question for consideration,0.5
+ratio,5.027061939235792
+court in pasupati nath sukur etc,0.5
+special leave,1.903225806451613
+service in cat,0.5
+admissible under the high court judges,0.5
+matter in details,0.5
+murasu,0.5555555555555556
+former judge,0.8
+sittings of high courts,0.5
+judges,2.0931496919173616
+fit case,1.1578947368421053
+pensionary benefits,3.5555555555555554
+such service,0.6666666666666666
+reason of notification,0.5
+only order binding as res,0.5
+pursuant,0.7227692307692308
+performance,1.4794327394994442
+iilljsc,2.1666666666666665
+paper,1.8076689487632511
+rules by rules,0.5
+commissions,1.3666666666666667
+payable to a high court judge,0.5
+national,1.5126860273884035
+claiming,0.7345149253731345
+pension in respect,1.0
+iii,1.5614499719992534
+contentions,0.9641025641025641
+to a judge for the period,0.5
+respect of the incidents,0.5
+no doubt,0.8331331503088538
+mallinath,0.5
+pension to a retired judge,0.5
+court judge,1.9615384615384615
+dcrb,0.3333333333333333
+apex court of the country,0.5
+madra,2.836734693877551
+term of the legal fiction,0.0
+provisions in part iii,1.0
+uttar,2.188679245283019
+ten month,0.3333333333333333
+inquiry act,0.5
+supreme,1.443815331010453
+petitioner as a commission,0.5
+government servant,3.466666666666667
+tenure,2.0160000000000005
+requirement,1.2416133333333332
+proviso to that sub - section,0.0
+that court,0.7384615384615386
+division bench of the allahabad high court,0.8
+kerala,4.135593220338983
+high court,7.7477477477477485
+regard to the constitutional scheme,0.5
+actual service,0.3333333333333333
+state,6.817996007300392
+malai,1.0769230769230769
+answer,0.9554305705177771
+statute,2.5765859456247218
+dominion of india,0.5
+pensionable civil post,0.5
+jurisdiction,2.9539571926331507
+provision of the administrative tribunal act,0.0
+more high courts,0.5
+eve judge,0.5
+full time basis,0.5
+holders of a constitutional post,0.5
+office as an ad hoc judge,0.5
+contention that full salary,0.5
+race,0.6810000694251597
+pension at all material times,0.5
+holders,0.9411764705882353
+manu,7.078142071124147
+amendment act,3.6511627906976742
+rate,3.088725136774248
+retired,2.035934566908018
+central,2.61875
+member in the cat,0.5
+self,1.6847516412733803
+scale,2.0845464725643894
+emphasis,0.8024289099526066
+part iii,1.6764705882352942
+which such service,0.5
+airsc,1.6909090909090911
+man,6.972395052694935
+fourteen days,1.0
+human rights commission,1.0
+nature,1.4149926876444778
+terms of the legal fiction,0.5
+health,0.8632619439868204
+terms of act,1.5
+earlier decision of this court,1.1
+tribunal,5.07183212267958
+computation,1.3021653543307086
+to a high court judge,0.5
+schedule to the act,1.5454545454545454
+other pensionable civil post under the union,0.5
+other pensionable civil post,0.5
+term of the aforementioned provision,0.0
+sum,2.554898897856461
+khare,1.0
+situation,1.1254754682459434
+total emolument,0.5
+question for consideration,1.125
+authority in any proceedings,0.6666666666666666
+honble chief justice of calcutta,0.5
+pratibha,3.0
+precedent,0.8982341399607586
+rule by rules,0.0
+escape,0.6909090909090909
+attention,0.8724846605528799
+administrative,1.85302734375
+source,0.840137091365362
+extra remuneration for the above work,0.5
+other than a disability,1.0
+purported period,0.5
+senior counsel,2.2857142857142856
+appointment of retired judges,0.6666666666666666
+superannuation as a high court judge,0.5
+persons,2.5993381990166555
+period of services,0.5
+particular rules,0.3333333333333333
+office on the th day,0.5
+coimbatore,2.8

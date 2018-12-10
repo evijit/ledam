@@ -1,0 +1,522 @@
+courts,2.1216528162511543
+educational requirement,0.5
+court in the case,1.3333333333333333
+fourth,0.6464025500910748
+appellants with proportionate interest,0.5
+due to the loss,0.5
+children,1.3787369914853358
+mind,1.1559066143122394
+other hand,0.6931925622439332
+sarla verma v dtc manuscmanusc,0.5
+minor,1.0277735341745853
+filing,1.1274190041313328
+terms,2.390350840909655
+which case,0.5512489233419466
+salary,1.6193181818181817
+los,1.8125523261338943
+education,2.1892608326253185
+appellant by the respondent - insurance company,0.0
+total compensation amount,0.75
+interest,2.74353772015385
+court,12.24425115501509
+appellant no,3.689655172413793
+insurance company,1.4965986394557822
+compensation of rs,1.4615384615384615
+breakup,0.25609756097560976
+ors,2.8612718198296623
+appellant-children with proportionate interest,0.0
+way,1.7812722068664852
+spent,0.6496308915388983
+rajbir,1.6666666666666667
+behalf,1.9888053603529987
+part,5.294464509893076
+calculation,0.8853448275862068
+jhabbu verman,1.0
+minors,0.30352303523035234
+claim petition,2.2222222222222223
+towards los of estate,0.0
+share,2.560794932990637
+age,4.526374474274117
+fixed deposit,2.3333333333333335
+- towards loss,0.0
+decision,2.9514937765898557
+hands,1.1725490196078434
+with interest,1.1269841269841268
+claim,2.817264601856604
+v tamil nadu state transport corporation manuscmanusc,0.5
+judgment of the bench,0.8888888888888888
+v gopala gowda,1.1538461538461537
+- children,0.0
+appeal,3.4125488033856883
+- towards los,0.0
+motor accident,2.0
+appellants by the respondent - insurance company,0.0
+appellants against the final judgment,0.5
+which period,0.8333333333333334
+towards los,4.0
+non-reportable judgment,0.0
+post at the hospital,0.5
+appellant - children towards los,0.0
+- towards loss of consortium,0.0
+relevant facts,0.7692307692307692
+india insurance co,1.6
+- wife,0.0
+month,1.3454861111111112
+year,2.8349484769759212
+case of sarla verma,1.0
+period of treatment,0.5
+total loss of dependency,0.6666666666666666
+kunjujamma,0.5
+judgment,3.288216560509554
+claims,1.1941982272360998
+medical expense,1.8666666666666665
+father,1.4298716229162676
+case of kalpanaraj,0.5
+order,5.472481489660944
+total loss,0.75
+injury,1.7199352451433856
+to the severity of injuries,0.5
+loss,2.0689655172413794
+act,12.870263922028107
+- as compensation for loss,0.0
+total compensation of rs,1.0
+to the grievous injury,0.0
+necessary relevant fact,0.5
+theatre,0.7841269841269842
+x r,0.5040614709110867
+severity of injuries,0.5
+total los of dependency,0.0
+-insurance company that the high court,0.0
+relevant fact,0.9393939393939393
+enhancement of compensation,1.4
+copy,0.8620926631522174
+wheel of the vehicle,0.5
+case of juju kuruvila,0.5
+mother,1.5057341472881893
+parties,1.8210828547990157
+victims of uphaar tragedy manuscmanusc,0.5
+section,9.287987283173626
+educational requirement of the minor-children,0.0
+college,2.1498947162234954
+madhya,2.9183673469387754
+cogent evidence,0.75
+- per annum,0.0
+medical expenses,1.8666666666666665
+prospect of income,0.0
+circumstance,1.429931390219372
+-  rs,0.0
+tragedy manu  scmanu  sc,0.0
+learned counsel for the appellants,1.7142857142857142
+accidents,0.8385135135135136
+to the death of jhambu verman,0.5
+preference of appellant - no,0.0
+high court of madhya pradesh,1.1875
+expenses,1.2727272727272727
+direction,1.8495050210098996
+corporation of delhi v association,0.5
+nagappan,0.6666666666666666
+view that the court,0.6666666666666666
+age of the parents,0.5
+operation theatre technician,0.5
+appellant - minor,0.0
+facts,1.4696673624372698
+municipal,2.4099173553719004
+appellant-no,0.0
+total compensation,1.3333333333333333
+parents,1.8852093189324288
+bills of rs,0.5
+proportionate interest,1.0
+demand-draft,0.0
+back,1.1362801178713813
+- with interest at the rate,0.0
+-  r,0.0
+compensation under the following heads,0.5
+appellant - wife for medical purposes,0.0
+uphaar tragedy manuscmanusc,0.5
+consortium,0.4516129032258064
+lordship,1.0416666666666667
+- reportable judgment,0.0
+cost,1.2954397451466992
+orders,1.4936359300077826
+minor - children,0.0
+apportionment of the amount,0.5
+directions,1.5134125183504605
+municipal corporation of delhi v association,0.5
+deceased son,0.5
+total los,0.75
+nationalised bank,2.4444444444444446
+living expense,0.2857142857142857
+wife of the deceased spent,0.5
+company,5.864471879286695
+grounds,0.9540208829455945
+kuruvila,0.5
+pradesh,4.365853658536586
+deposit,2.1724508050089444
+appellant - children towards loss of love,0.0
+hence,1.1440732910500353
+- towards los of consortium,0.0
+ground,1.4186722903211633
+same with interest,0.5
+damage,1.8281814532316336
+that rajnikant tiwari,0.5
+child,3.0202810640613067
+case with a view,0.5
+final judgment,1.7575757575757576
+hereunder,1.4457142857142857
+impugned judgment,2.0927152317880795
+delhi v association,0.5
+garha,0.6666666666666666
+liberty,0.7860465116279071
+kalpanaraj,0.5
+hospital,1.3942768854411434
+uphaar,0.5
+following heads,0.6666666666666666
+bearing,0.7901184156798694
+term,3.6255105640901575
+appellant - parents towards loss,0.0
+affection,0.47619047619047616
+years of age,1.10099573257468
+mother  guardian,0.0
+appellants,7.701086956521739
+view,2.441100058469462
+chest,0.7395639311931632
+post,2.344803646492219
+heads,0.7896459995907509
+requirements,0.7375979875979877
+majority,1.3427634276342764
+wife,1.4518086408500224
+claim petition under section,0.5
+draft,1.1403225806451613
+dependency,1.4117647058823528
+result,1.3356630184144715
+apportionment,2.8333333333333335
+record,2.5393414390845273
+prospect,0.7464503042596349
+enhancement,0.5810526315789474
+-insurance,0.0
+monthly salary at rs,0.5
+future prospect of income,0.0
+salary of rs,1.3333333333333333
+amputation,0.7500000000000001
+support,0.8630946786249609
+operation theatre technician at the hospital,0.5
+accident,1.7464867454487383
+funeral expenses,1.0
+to the appellant by the respondent - insurance company,0.0
+respect,2.6704963235294117
+jhabbu,1.0
+fact,3.6284951019474962
+estate,1.9402985074626868
+learned counsel,3.703333333333333
+registration,2.231365215068127
+head with interest,0.0
+evidence on record,2.7906976744186047
+income of the deceased towards,0.5
+vehicle,2.973111766564837
+anr,1.1271033322299457
+mr  justice,0.0
+transport,1.8361522198731504
+husband,1.6418918918918919
+demand,1.5671679197994988
+annum,2.25
+gopala,1.4736842105263157
+death of jhambu verman,0.5
+appeal of the appellants,0.6666666666666666
+such amount,1.2380952380952381
+reasonable compensation,0.5
+victims,0.9
+personal expenses,0.6666666666666666
+years,2.5395804110508022
+jabalpur,2.357142857142857
+x rs,0.5
+principle,1.9620890732001848
+party,2.2250894654439723
+review,1.3564101463582128
+delhi,2.6089285714285717
+los of consortium,0.0
+v rajbir singh,0.5
+bill of rs,0.0
+justice,2.292557084574302
+personal expense,0.6666666666666666
+future prospects,0.6666666666666666
+monthly salary,0.6666666666666666
+income,2.734813573523251
+learned counsel on behalf,1.625
+- children towards loss,0.0
+loss of dependency,2.3333333333333335
+date,6.195616975795285
+-parents,0.0
+bill,1.134631348577466
+- as ex,0.0
+bank,9.40770083102493
+permanent job,1.0
+respondent,4.757894736842104
+of rs,1.6608156028368795
+court in the above,1.2
+case of sarla verma v dtc manu  scmanu  sc,0.0
+principles,1.3198511166253102
+deceased spent,0.5
+interference by this court,1.0
+scmanu,7.940520446096654
+amounts,0.9789856139834046
+honble,2.4444444444444446
+appeals,1.7060218112849692
+amount,3.179688593072295
+parent,0.9965655833245622
+payable to the appellants by the respondent-insurance company,0.0
+united,0.7052854122621566
+towards los of dependency,0.0
+amount of rs,1.5806451612903225
+plastic surgery,0.5
+toward,1.0255939365170768
+sarla verma,2.0
+appellant - children towards los of love,0.0
+- towards los of estate,0.0
+high,5.367119186841496
+operation theatre as a technician,0.5
+payment,2.059553716565686
+calculation of future prospects,0.5
+rashly,0.2857142857142857
+interference,0.5733527484528578
+funeral,0.5185185185185185
+purpose,2.519170317925504
+law,3.538923411654744
+loss of consortium,1.0
+legal principle,0.8142857142857144
+los of dependency,0.0
+- children towards los of love,0.0
+nos,1.2635492554198444
+head,1.5827778446537666
+v kunjujamma mohan,0.5
+observation,0.7625074854374218
+compensation amount,1.75
+time,2.4764180952862667
+to the loss,0.75
+week from the date,0.6666666666666666
+treatment,1.1351020408163266
+-insurance company,0.0
+learned counsel for the respondent,1.507936507936508
+attain majority,0.5
+left hand,0.5934065934065934
+amount to a total compensation,0.5
+medical purpose,0.5
+appellant with proportionate interest,0.0
+sum of rs,2.125
+insurance,1.7782738095238095
+love,0.4253968253968254
+view that the courts,0.5
+receipt of the copy,1.0
+occupation manager,0.5
+municipal corporation,1.3439153439153437
+equal share of rs,0.5
+non,1.3417336444559675
+future prospect,0.6666666666666666
+juju,0.18749999999999997
+severe damage,0.3333333333333333
+right,3.07483248288682
+madhya pradesh at jabalpur,1.0
+court of madhya pradesh,1.1875
+juju kuruvila,0.5
+minor - child,0.0
+tamil,3.111111111111111
+following head,0.6666666666666666
+various heads,0.6666666666666666
+share of rs,0.6666666666666666
+towards loss,4.0
+- toward,0.0
+severity,0.5
+appellant - minors,0.0
+counsel,2.2246780703440323
+technician at mahakaushal hospital,0.5
+application,2.3322596088086445
+award,3.104213525266157
+india,2.7684068260703585
+victim of uphaar tragedy manuscmanusc,0.0
+interest rate,0.8888888888888888
+association,1.2099052684061826
+due to the grievous injuries,0.5
+due to the death of jhambu verman,0.5
+-parent,0.0
+mp--ga-,0.0
+tribunal that no cogent evidence,0.5
+- child with proportionate interest,0.0
+reportable,0.7272727272727273
+son,4.595622484812135
+ltd,2.382356477306883
+breakup of compensation,0.5
+evidence,3.6676405172088815
+motor,1.832417821954835
+decision of this court,2.3260869565217392
+- children with proportionate interest,0.0
+bills for rs,0.5
+victim,1.204831365285174
+mahakaushal college,0.5
+tripuri,0.5
+pradesh at jabalpur,1.0
+appellant - parents towards los,0.0
+permanent post,0.6666666666666666
+circumstance of the case,0.5
+necessary relevant facts,0.5
+attain majority with the liberty,0.5
+appropriate multiplier,2.75
+case,7.332269420884958
+period,1.9480170842427122
+towards loss of estate,1.0
+scc,1.941872465904902
+jabalpur in ma,0.5
+further enhancement of compensation,0.5
+operation theatre,1.0
+sarla,2.3333333333333335
+heads with interest,0.5
+court in fixed deposit,0.5
+due to the severity of injuries,0.5
+nadu,1.4166666666666665
+respondent - insurance company,0.0
+singh,3.7791111111111113
+review petition,2.72
+-minor child,0.0
+injuries,2.4130008710801394
+purposes,1.4391216613438835
+future,0.9664487618116651
+mahakaushal,1.5
+jhambu,1.0
+appropriate application,0.5925925925925926
+- children towards los,0.0
+grievous injury,0.6666666666666666
+educational requirements of the minor-children,0.0
+favour,1.653145208700764
+appellant nos,1.375
+verman,0.9473684210526315
+appellant - minors  share,0.0
+grievous injuries,1.0
+supra,2.246342614440774
+united india insurance co,1.6
+educational requirements,0.5
+bench,2.5793391667754992
+- wife for medical purposes,0.0
+various ground,1.0555555555555556
+leave,1.0147842365477848
+to the los,0.45000000000000007
+court with respect,1.0
+technician,0.7122302158273381
+date of filing,1.0588235294117647
+costs,0.8167395522604189
+appellant - parents towards los of love,0.0
+motor vehicle act,0.8
+application till the date,0.5
+permanent post at the hospital,0.5
+weeks from the date,1.1428571428571428
+appellant - wife,0.0
+surgery,0.648582995951417
+wheel,0.5906413612565445
+- for treatment,0.0
+enhancement of compensation amount,0.5
+deduction,6.463320463320464
+case on hand,1.2941176470588236
+mahakaushal hospital,1.0
+insurance company that the high court,1.0
+towards loss of dependency,1.5
+dtc,0.30769230769230776
+to the appellants by the respondent - insurance company,0.0
+tragedy,0.5632798573975044
+guardian,3.176470588235294
+funeral expense,1.0
+operation,1.0959893294085181
+lakh,1.3647388059701493
+interest at the rate,2.3
+- towards,0.0
+special leave for enhancement,0.5
+petition,5.3436539306104525
+medical purposes,0.5
+appellant - children towards loss,0.0
+consideration,1.9110153789142115
+expense,1.4186440677966103
+rajesh,0.32098765432098764
+rajnikant,0.6666666666666666
+- under all heads with interest,0.0
+medical treatment,1.1428571428571428
+prospects of income,1.0
+equal share,0.4444444444444444
+-minor children,0.0
+bills,1.017857142857143
+prospects,0.4852941176470588
+receipt,1.5471923536439667
+deceased towards,0.5
+tiwari,1.0909090909090908
+actual salary,0.4444444444444444
+living expenses,0.2857142857142857
+salary at rs,0.5
+death,2.361592909460208
+bill for rs,0.0
+manuscmanusc,7.940520446096654
+appeal before the high court,1.1875
+leave for enhancement,0.5
+of the actual salary,0.6666666666666666
+development,2.3145884270578647
+living,1.0859950859950862
+such amounts,0.8
+corporation,3.6427750743444176
+occupation,1.1158072696534236
+motor accidents,1.6
+weeks,0.8109161793372318
+special leave,1.903225806451613
+gopala gowda,1.1538461538461537
+madhya pradesh,2.9583333333333335
+third,1.0303422515142742
+honble mr justice,1.5833333333333333
+legal principles,0.6000000000000001
+verma,0.8524475524475524
+m mansoor,0.5
+circumstances of the case,1.3373493975903614
+year of age,0.0
+requirements of the minor - children,0.0
+hand,2.0299623418254717
+future prospects of income,1.0
+mp--y-,0.0
+- child,0.0
+job,0.6733466933867737
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+week,0.8253498691546249
+- children towards loss of love,0.0
+jhambu verman,1.0
+welfare,1.3226788432267886
+various grounds,1.0555555555555556
+manager,1.7133044010756409
+requirement,1.2416133333333332
+requirement of the minor - children,0.0
+high court,7.7477477477477485
+view that the parents,0.5
+gowda,1.2142857142857142
+compensation for loss,0.6666666666666666
+state,6.817996007300392
+insufficient compensation,0.5
+application before the motor accidents,0.5
+truck,1.0360124699896083
+- per month,0.0
+preference,1.0460251046025104
+pw-,0.0
+appellant - parents towards loss of love,0.0
+multiplier,3.466666666666667
+manu,7.078142071124147
+rate,3.088725136774248
+review petition before the high court,0.6666666666666666
+scale,2.0845464725643894
+demand-draft in favour,0.0
+to the grievous injuries,0.5
+compensation amount by way,0.5
+mohan,1.5416666666666667
+- on medical treatment,0.0
+per annum,2.25
+tribunal,5.07183212267958
+calculation of loss,1.0
+motorcycle,0.5173313455087588
+- towards loss of estate,0.0
+sum,2.554898897856461
+compensation,3.7916666666666665
+further enhancement,0.3333333333333333
+appropriate application before the motor accidents,0.5
+mansoor,0.6666666666666666
+view that the parent,0.5
+deceased toward,0.5
+various head,0.6666666666666666

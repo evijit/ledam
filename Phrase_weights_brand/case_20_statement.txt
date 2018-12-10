@@ -1,0 +1,200 @@
+senior,1.989753211141579
+independence,0.6549707602339182
+criticism in a vibrant democracy,0.5
+government of the people,0.2727272727272727
+government,3.5583785424010483
+petitioner,4.524972253052164
+scmanu,7.940520446096654
+aspiration,0.41904761904761906
+orders,1.4936359300077826
+notice,2.3300025999395686
+desire,0.6008255933952529
+code,2.880559796437659
+validity of sections,1.0
+harps on the concept,0.5
+validity,1.521010638297872
+citizenry right,0.5
+people,1.2855544825097243
+swamy,2.923076923076923
+sub,7.816899313759727
+will,1.9263907124198036
+post office,0.375
+sections,1.640495469442838
+matters,1.4810665618448637
+interim order,2.9166666666666665
+cherished values,0.5
+criticism,0.5566549632939675
+alse general for the union,0.0
+advocate general for the state,1.0
+fair criticism,0.5
+own independence,0.5
+force,1.6009408121948314
+interim order of stay,0.8
+union,2.0981927710843373
+aspirations,0.39024390243902446
+learned,3.406323898681099
+further order,0.8253968253968255
+views,0.6965871413779037
+petition,5.3436539306104525
+prosecutions for criminal defamation,0.5
+policy decision,1.6
+person,4.291511329454258
+ors,2.8612718198296623
+law,3.538923411654744
+behalf,1.9888053603529987
+role under the provisions,0.5
+nos,1.2635492554198444
+subramanian,0.3571428571428572
+matter,2.8088923076923082
+ministry of law,0.8
+question whether the authority,0.5
+constant launching of criminal prosecution,0.5
+concept,0.9402138540213855
+criminal defamation,0.6666666666666666
+issue notice,1.0952380952380953
+stay,0.7804272356384462
+values,0.4464678178963893
+value,1.7137907830478438
+criminal,3.301971081989414
+definitive role,0.5
+penal,1.8829173709853835
+decisions,1.3888475974580996
+constitutional validity of sections,0.6666666666666666
+view,2.441100058469462
+activities,1.57291280148423
+decision,2.9514937765898557
+respondent nos,2.5185185185185186
+post,2.344803646492219
+opinion,1.4960606342789635
+hands,1.1725490196078434
+prosecutions,0.6623376623376622
+advocate general,1.6
+mr mm,0.5
+complaint,2.734525785235724
+penal code,2.710144927536232
+role under section,0.5
+case of subramanian swamy v union,0.5
+prosecution under sections,0.6666666666666666
+policy decisions,0.37037037037037035
+prosecution,4.619407894736842
+ministry,1.6350210970464136
+post office in the hands,0.5
+authority,2.4352627108360636
+harps,0.21875
+tamil,3.111111111111111
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+harp on the concept,0.0
+procedure,2.552771605064117
+activity,1.3846153846153848
+vibrant democracy,0.5
+tamil nadu,3.176470588235294
+tolerance,0.2236842105263158
+ranjit,2.7142857142857144
+turn,1.6310093128618173
+counsel,2.2246780703440323
+ipc,2.785166240409207
+role under sub - section,0.0
+heard mr gs,0.5
+provision,5.439002243350069
+policy,3.250773332247955
+independent role,0.5
+india,2.7684068260703585
+ramani,0.8874458874458874
+appearance,0.531740614334471
+public prosecutor,2.0952380952380953
+sustained democracy,0.5
+authorities,1.266131845134287
+weeks,0.8109161793372318
+alse general,0.0
+subramanian swamy v union,0.6666666666666666
+solicitor,1.7073170731707317
+counsel for the petitioner,1.4242424242424243
+office of the public prosecutor,0.5
+critic,0.7507924591257924
+indian penal code through the public prosecutor,0.5
+different opinion,0.25
+order,5.472481489660944
+additional advocate general for the state,0.5
+learned counsel,3.703333333333333
+mani,0.9311182500912955
+sub-section,0.0
+constitutional validity,2.6875
+indian penal code,5.264705882352941
+hand,2.0299623418254717
+such criticism,0.5
+desperation of the people,0.5
+prosecution for criminal defamation,0.0
+sacred role,0.5
+criminal procedure,6.406779661016949
+occasion,0.7946745562130177
+cherished value,0.5
+idea,0.5945499587118084
+force until further orders,0.5
+state government,3.027142857142857
+week,0.8253498691546249
+kumar,2.028839704896043
+citizen,1.261748909029876
+dissection,0.3333333333333333
+solicitor general,1.7368421052631577
+manner,1.4494591333432125
+mr ranjit kumar,1.1428571428571428
+public,2.923239095873367
+independent role under the provisions,0.5
+state,6.817996007300392
+democracy,1.3769338959212376
+case,7.332269420884958
+additional,1.4256530253244384
+further orders,0.7777777777777778
+matter of administration,0.0
+launching of criminal prosecution,0.5
+solicitor general for the union,0.8
+section,9.287987283173626
+routine manner,1.0
+code of criminal procedure,6.120689655172414
+manu,7.078142071124147
+launching,0.3082437275985663
+general,1.7536558414534391
+kashyap,0.6666666666666666
+penal code through the public prosecutor,0.5
+nadu,1.4166666666666665
+disapproval of views,0.5
+role,1.0562959821210092
+scale,2.0845464725643894
+matters of administration,0.5
+mr venkkata,1.0
+appearance for respondent,0.5
+citizenry,0.5600000000000002
+present case,1.5611814345991561
+respondent no,5.395833333333333
+additional advocate general,1.0
+critics,0.24038461538461536
+discernment,0.30000000000000004
+heard mr g,0.5
+disapproval,0.41379310344827586
+venkkata,1.0
+desperation,0.2619047619047619
+advocate,1.0791341991341994
+crpc,2.2424242424242427
+defamation,0.3828125
+constant launching,0.5
+order of stay,0.875
+dissent,0.7027777777777778
+administration,1.061072796934866
+idea of criticism,0.5
+prosecutor,1.1917989417989419
+definitive role under section,0.5
+criminal prosecution,1.35
+sacred role under sub-section,0.0
+appearance on behalf,0.75
+dissection of activities,0.5
+respondent,4.757894736842104
+senior counsel,2.2857142857142856
+office,3.5913445886237847
+issue,2.766776251628934
+further notice,0.736842105263158
+swamy v union,0.75
+mr mani,1.1666666666666667
+alse general for the state,0.0
+question,2.980312372067635
+harp,0.7457943925233644

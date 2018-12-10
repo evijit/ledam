@@ -1,0 +1,618 @@
+courts,2.1216528162511543
+relevant paragraphs,0.9
+capacity,1.7421691881525676
+financial condition,0.6666666666666666
+equal annual installments,0.5
+government,3.5583785424010483
+allowances,1.642105263157895
+increased portion,0.5
+same sense,0.2647058823529412
+director,1.3549769585253457
+payment of the increase,0.5
+implementation,1.2465707594513213
+compliance with the directions,0.5
+conclusion that the issuance,0.5
+sponsored commercial bank,0.5
+contempt petition,2.0714285714285716
+other hand,0.6931925622439332
+pay - scale,0.0
+comprehensive order,0.5
+salary if exceed,0.5
+revision,1.6299226441631505
+employee,6.280487804878048
+salary,1.6193181818181817
+los,1.8125523261338943
+deliberate violation,1.0
+new pay scale,0.6666666666666666
+shoot of the judgment,0.0
+rural banks act,0.5
+interest,2.74353772015385
+court,12.24425115501509
+current salaries,0.5
+consideration for determination,0.5
+upon the cash outflow in a particular year,0.5
+union,2.0981927710843373
+consonance,1.5
+hesitation,0.5405405405405406
+parliament,2.6571235781762095
+court as aforesaid,0.6666666666666666
+rrb employee,2.0
+year moratorium on the payment,0.5
+way,1.7812722068664852
+mukul,1.125
+arrear for a period,0.0
+counterparts in commercial banks,1.0
+revised pay scale in respect,0.0
+arrear salary accruing to the employees,0.5
+salary if exceeds,0.5
+aforesaid circular,1.3333333333333333
+bipartite settlement,1.25
+justice obul,1.5
+employees of the rrbs,1.0
+months from today,1.0
+alleged contemnor,2.0
+decision,2.9514937765898557
+decision in question,0.5
+mine on the different contentions,0.0
+same rate,1.1818181818181817
+hra,1.4361102287166454
+upon any other considerations,0.5
+aforesaid,2.592896174863388
+regional rural bank,9.0
+parity between the pay structure,0.5
+pay structure,1.5
+house,2.0021735292386764
+rrbs subsequent,0.5
+salaries on the basis,0.5
+distinction,0.7312167973690868
+appeal,3.4125488033856883
+rural mass,0.5
+determination,1.5980374665477253
+formula,1.9020570115902682
+sheet,1.1667364016736401
+crisis,0.33710691823899375
+exceeds,0.6925925925925925
+which such directions,0.5
+rural,1.961287078934138
+month,1.3454861111111112
+year,2.8349484769759212
+pay scales in respect,0.6666666666666666
+wherein,1.0724137931034483
+respective rrbs,0.5
+particular year,1.4285714285714286
+judgment,3.288216560509554
+arrear salary accruing,0.5
+proper implementation,0.4
+power under section,1.7142857142857142
+order,5.472481489660944
+loss,2.0689655172413794
+to comparable employees in the sponsor banks,0.5
+subsequent,1.2971213655431795
+act,12.870263922028107
+capacity of the government,0.5
+sub-section,0.0
+moratorium on the payment,1.0
+rrb,2.057347670250896
+sponsor bank,2.0
+shoots,0.2532467532467532
+payable by any rrb,0.5
+regard to the circumstances,0.6666666666666666
+rural bank with the idea,0.0
+idea,0.5945499587118084
+counterpart,0.8125
+germane consideration for determination,0.5
+effect,2.184583388478191
+level,1.1533169827122092
+rural mas,0.5
+flow,0.7030075187969925
+ipso,0.6734006734006733
+quarter,0.7884753275536145
+provisions of the contempt,0.6666666666666666
+wage,1.5814065510597304
+bank employees of equivalent level,0.5
+par with the commercial bank employees,0.5
+rest,3.3424534062537377
+manner,1.4494591333432125
+such directions,1.3333333333333333
+finality,1.1746031746031746
+allowance,2.1019607843137256
+economic affair,1.0
+pattanaik,1.7692307692307692
+section,9.287987283173626
+reddi,0.5454545454545454
+year moratorium,0.2777777777777778
+commercial bank employees of equivalent level,0.5
+payment of arrears,1.6666666666666667
+salary accruing to the employees,0.5
+pursuant to this order,0.75
+that award,1.2222222222222223
+condition,2.259476395625584
+circumstance,1.429931390219372
+civil,2.126558634963905
+officers,2.442124212421242
+operating losses in the previous year,0.5
+regional rural banks under section,0.5
+main controversy in the civil appeal,0.5
+by any rrb,0.5
+regard,2.723310344827586
+salary in various scales,0.5
+disrespect,0.375
+employee of the regional rural banks,0.0
+salary on the basis,0.0
+direction,1.8495050210098996
+salaries,0.7500000000000001
+power of the central government,1.0
+union of india,3.1324503311258276
+issue,2.766776251628934
+at the same rate,0.9333333333333332
+counterparts,0.7641509433962265
+view of the conclusion,0.75
+basi,2.0752712086391383
+package,0.8176589460593814
+to the rrb employee,1.0
+benefits,2.0896027049873203
+principle for current payment,0.0
+pay - scale of the employees,0.0
+depositors,0.2745098039215686
+employees of the nationalised commercial banks,0.5
+revised allowance,0.5
+benefit,2.604810195438474
+equivalent level,0.5
+today,0.6330563683773655
+upon any other consideration,0.5
+other considerations,0.7272727272727272
+judgment of this court,2.1029411764705883
+orders,1.4936359300077826
+basis,1.953226441078104
+contempt,1.5446913580246913
+due on account of increase,0.5
+shoots of the judgment,0.5
+directions,1.5134125183504605
+maintenance,0.8632111808077473
+appropriate authority,1.222222222222222
+individual sponsor banks,0.5
+sub,7.816899313759727
+relevant paragraph,1.0
+course,1.6545957498716626
+severe financial crisi,0.5
+relevance,0.6870535714285714
+applicants,0.6960950764006791
+last year,0.4925373134328358
+mr mukul rohtagi,1.0
+different contention,0.6666666666666666
+counterpart in commercial banks,0.0
+rrbs,2.0
+commercial bank employee,1.5
+country,1.2903191103863751
+new basic pay of each rrb employees,0.5
+operating,0.5978283786632933
+on account of increase,1.0
+officer,3.1197242647058823
+regard to the payment,0.6666666666666666
+aforesaid conclusion,1.1818181818181819
+mass,0.49419584798420113
+implementation of this package,0.5
+ground,1.4186722903211633
+officers of the regional rural banks,0.5
+courts act,0.923076923076923
+various scales,0.5
+alleged contemnors,1.25
+controversy in the civil appeal,0.5
+hereunder,1.4457142857142857
+salary of the employees,1.5
+further direction,1.2380952380952381
+matter,2.8088923076923082
+monetary benefit,1.8888888888888888
+different contentions,0.6666666666666666
+attitude of the authorities,0.6666666666666666
+contempt petitions,0.5
+depositors of the regional rural banks,0.5
+moratorium,1.0666666666666667
+rent,2.460251217077583
+economic,1.263998382858298
+employee of the rrbs,0.0
+opinion that the appropriate authority,0.5
+applications,1.0021816198527407
+financial crisis,0.75
+payment of increased portion,0.5
+contrary to the judgment of the court,0.5
+view,2.441100058469462
+action against the alleged contemnors,0.5
+employees of the sponsor bank,1.0
+rural bank,9.5
+opinion,1.4960606342789635
+parity,0.6888020833333334
+principles for current payment,0.5
+directors,1.6666666666666667
+compliance with the judgment,1.0
+report of justice obul,0.5
+operating profit,2.5
+case of employees,1.0
+compensatory,1.7142857142857142
+arrears for a period,0.5
+employee in the sponsor banks,0.0
+pay,3.828326695859537
+same with the respective rrbs,0.5
+to comparable employee in the sponsor banks,0.0
+petitions,1.3930830039525692
+mas,0.9088561393243791
+period of moratorium,0.5
+balance sheet,1.3333333333333333
+regard to the directions,0.5
+provision,5.439002243350069
+city,2.544592792669584
+so - called decision,0.0
+notification for proper implementation,0.5
+circular,2.0360934182590236
+action against the alleged contemnor,0.5
+concerned rrb,0.5
+department of economic affairs,1.0
+month from today,0.8333333333333334
+extenso,0.6666666666666666
+identical paragraphs,0.5
+conclusions,0.8522069292833413
+solicitor,1.7073170731707317
+respect,2.6704963235294117
+provision of the contempt,0.0
+rural banks,9.5
+dependant upon the cash outflow in a particular year,0.5
+contravention,2.586206896551724
+maintenance of parity,0.5
+fact,3.6284951019474962
+comparable employee,0.6666666666666666
+new basic pay,1.0
+applicable to comparable employees in the sponsor banks,0.5
+financial incapacity,0.5
+such direction,1.375
+officers wage revision wef,0.5
+department,1.9858367499068206
+salary accruing,0.5
+other consideration,0.7083333333333334
+impugned notification,1.5
+distinction between the regional rural banks,0.5
+same time,0.6913511801045461
+current payment of the increase,0.5
+employee of such rural banks,0.0
+of the operating profit,2.5
+judgment of the court,1.1666666666666667
+regional rural bank with the idea,0.0
+ipso facto revision,0.5
+comparable employees in the sponsor banks,0.5
+bank employees,2.8
+cash outflow,2.0
+interlocutory application,1.7333333333333334
+additional,1.4256530253244384
+city compensatory allowance,0.6666666666666666
+years,2.5395804110508022
+report,1.7768151696835826
+bank employee,2.4285714285714284
+employees  provident fund account,0.0
+principle,1.9620890732001848
+paragraphs,0.9552238805970149
+operating losses,0.5
+settlement,1.6881394467601363
+moratorium period,0.5
+justice,2.292557084574302
+to the rrb employees,1.0
+ground for non - implementation,0.0
+grievance,1.032529659395331
+revised allowances,0.5
+approval,1.4085456739300164
+management of the bank,0.75
+current salary on the basis,0.0
+respective rrb,1.0
+date,6.195616975795285
+respective rrb for the immediate previous year,0.5
+interlocutory applications,1.0833333333333333
+existence,0.731202675709574
+nationalised commercial bank,1.0
+date of issue,1.2857142857142858
+duty bound,1.0
+bank,9.40770083102493
+hearing,0.9644508209787979
+employee of the sponsor bank,0.0
+monetary benefit of the employees,0.0
+direct contravention of the judgment,0.5
+comparable employee in the sponsor banks,0.0
+employees,4.611008798854102
+wage revision wef,1.0
+question,2.980312372067635
+rural bank under section,0.0
+principles,1.3198511166253102
+individual sponsor bank,0.5
+rural banks under section,0.5
+manner that the cash outflow,1.0
+year on this account,0.5
+salary ie,0.5
+increase,1.3270102600811262
+to the grant of the new pay - scale,0.0
+implementation of the directions,1.3333333333333333
+account of the increase,0.5
+different set of employees,0.5
+employees of such rural banks,0.5
+months,1.1938163721148947
+amount,3.179688593072295
+such decision,1.5294117647058822
+ceiling on the payment,0.5
+with the respective rrbs,0.5
+employee of the sponsor,0.5
+provident fund account,1.0
+employees on the other hand,0.5
+new scale,0.5
+payment,2.059553716565686
+paragraphs of the package,0.5
+account,2.5754891049671977
+court in judgment,0.5
+course of hearing,1.0476190476190477
+cca,0.5743821185792104
+regard to the financial condition,0.5
+deliberate violation of the judgment,0.5
+view of the aforesaid conclusions,0.5
+incapacity,0.8888888888888888
+line,1.6884436630262616
+immediate previous year,0.5
+sponsor banks,1.0
+notification,3.0112746633260263
+bipartite,1.3333333333333333
+identical paragraphs of the package,0.5
+payable at the same rate,0.6666666666666666
+proviso,2.112
+new pay - scale,0.0
+directions of the court,1.3333333333333333
+balance,0.9863636363636363
+financial position,0.5
+arrear account,1.0
+aforesaid notification,1.5
+time,2.4764180952862667
+central government,3.0380952380952384
+division,1.7657319129617017
+fresh notification,1.0
+issuance,1.05379513633014
+that the period of moratorium,0.5
+account of increase,1.0
+board,2.401414435268602
+such attitude,0.3333333333333333
+par,7.011805363704756
+other allowance,1.5714285714285714
+rrb employees,2.0
+installments,1.9444444444444444
+pay - scales,0.0
+mass of the country,0.5
+non,1.3417336444559675
+acceptance of any bipartite settlement,0.5
+commercial bank employee of equivalent level,0.0
+grant,1.7314487632508835
+affairs,0.8608695652173913
+aforesaid period,1.0
+obul,0.5377358490566038
+position of the banks,0.5
+annual installment,0.5
+capacity of the employer,1.0
+benefits of the employees,0.75
+residual amount,0.5
+contemnors,1.4
+counsel,2.2246780703440323
+application,2.3322596088086445
+april,0.8928235149629509
+award,3.104213525266157
+pay scales of the rrb employees,0.5
+india,2.7684068260703585
+germane consideration,0.5
+regional rural banks act,0.5
+authorities,1.266131845134287
+direct contravention,0.5
+increase in salary ie,0.5
+union government,1.8333333333333333
+attitude,0.4886970172684459
+grant of the new pay - scale,0.0
+regional rural banks with the idea,0.5
+- implementation,0.0
+formula for fitment,0.5
+wherein in the larger interest,0.5
+fresh notification for proper implementation,0.5
+profit,3.0739182692307687
+view of the fact,0.8707482993197279
+above order,1.7857142857142858
+acceptance,1.4762112614578786
+board of directors,1.0769230769230769
+wef,0.859375
+above orders,0.75
+which such direction,0.5
+various scale,0.5
+to this order,0.8
+pay scales,4.0
+increase in wages,1.0
+interlocutory,1.96
+rural mas of the country,0.0
+forthwith paragraph,0.5
+current salaries on the basis,0.5
+effect ie,0.5
+compliance,1.0029799914857385
+identical paragraph,0.5
+case,7.332269420884958
+period,1.9480170842427122
+current payment of increase,1.5
+consonance with the directions,0.5
+financial position of the banks,0.5
+affair,0.8341728395061728
+regional rural bank under section,0.0
+new scales,0.5
+contravention of the judgment,1.0
+commercial bank employees,1.5
+ours on the different contentions,0.5
+current payment of increased portion,0.5
+arrear,1.4666666666666666
+plea of the union government,0.5
+portion,1.0756311179804223
+end,6.1484001628618765
+current year,0.26666666666666666
+contention,1.666391070690368
+direction of the court,0.8333333333333334
+contention of the union government,0.5
+line with scales,0.5
+new pay scales,0.6666666666666666
+tribunal that parity,0.5
+larger interest,1.0
+nationalised commercial banks,1.0
+pay - scales of the employees,0.0
+installment,1.9047619047619049
+commercial bank,2.75
+duty,3.2272215973003378
+wages,1.2315068493150687
+shoot,0.5013799448022079
+violation,1.2087401208740118
+civil appeal,2.2413793103448274
+commercial,1.6950767880649407
+comparable employees,0.6666666666666666
+rrb act,0.5
+subsequent circular,0.5
+benefit of the employees,1.0
+applicant,0.7861822513400833
+depositor,0.4285714285714286
+employees in the sponsor banks,0.5
+financial capacity of the government,0.5
+economic affairs,1.0
+crisi,0.3358024691358025
+mas of the country,0.0
+operating loss,0.3333333333333333
+current payment,3.5
+considerations,0.7860235003092146
+that score,0.4375
+power,3.8165227690948367
+other counsel,1.5
+particular year on this account,0.5
+structure,1.568520357497517
+management,1.6732611752395274
+dholakia,1.5
+willful disrespect,0.5
+such attitude of the authorities,0.5
+prospective effect ie,0.5
+wage structure of the employees,0.5
+set,2.3027452395971277
+operating loss in the previous year,0.0
+monetary benefits,1.7142857142857142
+scales,2.753521126760564
+position,1.549133168619177
+justice obul reddi,1.5
+different set,0.34782608695652173
+that account,0.5555555555555556
+exceed,1.155049786628734
+one,4.845669314438648
+case of deliberate violation,0.5
+anticipated cash out-flow,0.0
+petition,5.3436539306104525
+category,1.9351744779266717
+ceiling,3.0180995475113117
+learned additional solicitor general,2.6
+second proviso,2.5
+annual installments,0.5
+consideration,1.9110153789142115
+revised pay scale,1.0
+government of india,4.94
+authority of the central government,0.75
+paragraph,1.2930197483150305
+monetary benefits of the employees,0.5
+fund,2.9945256868353374
+plea,1.4430487701432178
+directions of this court,1.5555555555555556
+clause,3.526455026455027
+outflow,2.0
+paragraph of the package,0.0
+revised pay scales,1.0
+herein-below in extenso,0.0
+learned additional solicitor,2.65
+payment of increase,1.5
+regional rural banks,9.0
+other installment,0.5
+with the respective rrb,0.5
+ipso facto revision of wages,0.5
+due to the rrb employees,0.5
+commercial banks,2.75
+other installments,0.5
+ministry,1.6350210970464136
+severe financial crisis,0.5
+authority,2.4352627108360636
+determination under the second proviso,0.5
+provisions,3.8929824561403508
+identical paragraph of the package,0.0
+violation of the judgment,0.5
+pay scale of the rrb employees,0.0
+fitment,1.8
+pay scale in respect,0.0
+rural banks with the idea,0.5
+conclusion,1.3883437407077015
+cash out flow,0.5
+employees of the regional rural banks,5.0
+dependant upon any other considerations,0.5
+category of employees,0.75
+matter of determination,1.1428571428571428
+pursuant,0.7227692307692308
+grievance on that score,0.5
+direction of this court,1.0
+non-implementation,0.0
+basic pay of each rrb employees,0.5
+banks,6.73024
+house rent allowance,2.3333333333333335
+hand,2.0299623418254717
+iii,1.5614499719992534
+sense,0.8606303395157362
+arrears,2.3209876543209877
+contentions,0.9641025641025641
+employee on the other hand,0.0
+year on account,0.8
+cash,1.4775207900207898
+spirit,0.6048586885080135
+sponsor,0.9940828402366864
+account of financial incapacity,0.5
+score,0.45496296296296296
+fund account,1.0
+circumstances,1.3944461370073231
+regional,2.357638888888889
+previous year,1.384404924760602
+cash outflow in a particular year,1.0
+equal annual installment,0.5
+wage structure,0.6666666666666666
+financial capacity,1.0
+clear that the period of moratorium,0.5
+rural mass of the country,0.5
+basic pay,1.3333333333333333
+parity between the employees,0.5
+controversy,0.8593204191806921
+pay scale,3.875
+ministry of finance,0.6875
+such rural bank,0.5
+rrb for the immediate previous year,0.5
+general,1.7536558414534391
+rate,3.088725136774248
+central,2.61875
+banking,2.1351674641148324
+main controversy,0.8
+employer,2.639728353140917
+other allowances,1.4285714285714286
+scale,2.0845464725643894
+question of anticipated cash out - flow,0.0
+facto,1.3296269284712483
+financial crisi,0.75
+tribunal,5.07183212267958
+spirit as justice obul reddi,0.5
+aforesaid conclusions,0.6666666666666666
+contemnor,2.0
+finance,1.9582470669427192
+pay structure of the employees,1.0
+rohtagi,1.2222222222222223
+such rural banks,0.5
+financial capacity of the employer,0.5
+sponsored commercial banks,0.5
+set of employees,1.0
+current salary,0.0
+depositor of the regional rural banks,0.0
+action,3.127292663476874
+revised pay scales in respect,0.5
+due to the grant of the new pay-scale,0.0
+employee of the nationalised commercial banks,0.0
+bank employee of equivalent level,0.0
+appropriate authority of the central government,0.5
+current year on account,0.5
+officer of the regional rural banks,0.0
+losses,0.9434840425531913
+to the judgment of the court,0.6666666666666666

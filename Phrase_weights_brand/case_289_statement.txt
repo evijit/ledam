@@ -1,0 +1,338 @@
+technical requirements,0.6666666666666666
+hotel,0.8866352770735241
+judgment reads,0.75
+case of the assessee,1.5
+attempt,0.7943782192788815
+process,1.6274942048088725
+finding by the fact,0.5
+correctnes of the assessee,0.0
+kemanu,1.0
+scmanu,7.940520446096654
+judgment of this court,2.1029411764705883
+basis,1.953226441078104
+benches,1.1746031746031744
+clinches,0.5
+appeals,1.7060218112849692
+cit v anand,0.5
+holding,1.2555282555282552
+transformer foundation,0.5
+question in favour,0.8333333333333334
+power,3.8165227690948367
+clinch,0.4482758620689655
+validity,1.521010638297872
+structure,1.568520357497517
+cinema,1.5333333333333332
+investment,3.057915057915058
+merits,0.968421052631579
+water conductor system into the turbines,0.5
+plant for the purposes,2.0
+same assessee,0.5
+thereon,0.877037037037037
+structures,0.8929115853658537
+business of aqua culture,0.5
+admissible on these ponds,0.5
+ctr,2.483203997023493
+-ed,0.0
+meaning,1.8612727545949643
+cit,2.2857642235586386
+contrary decision,0.5
+company,5.864471879286695
+high,5.367119186841496
+conduction,0.3333333333333333
+country,1.2903191103863751
+victory,0.454054054054054
+aqua,0.5221445221445221
+ker,2.305184648934649
+reason,2.6381270903010035
+court,12.24425115501509
+turbine,0.75
+pen - stock,0.0
+instant case,2.0631578947368423
+facts in brief,0.75
+feature,0.6446262956901254
+generating system,1.0
+cable duct system,1.0
+question in the negative holding,0.5
+tail,1.158407957050491
+generation,1.2037318473488687
+that judgment,0.8444444444444444
+yard,1.5829315332690455
+water from the reservoir,0.5
+channel,0.6285928143712575
+finding of fact,1.7083333333333333
+rearingbreeding,0.5
+essential part,0.673076923076923
+fact that a building,0.5
+kerala in the case,0.5
+purpose,2.519170317925504
+law,3.538923411654744
+karnataka,3.8596491228070176
+correctness,0.8404159132007234
+reservoir,5.375
+tool of the business,0.0
+engineering,1.3567493112947657
+construction,2.2504918032786887
+validity of the judgment,0.6666666666666666
+consideration,1.9110153789142115
+host of authorities,0.5
+depreciation in respect,0.5
+part,5.294464509893076
+observation,0.7625074854374218
+reference to the various judgments,0.5
+division,1.7657319129617017
+matter,2.8088923076923082
+cases,1.9728229418951067
+relation,1.397320207820618
+special technical requirement,0.5
+effect that the pond,0.5
+generating,3.0503380916604055
+third question,0.40909090909090906
+acqa,0.5
+plea,1.4430487701432178
+machinery,0.9071637426900585
+various judgments,1.1818181818181819
+value,1.7137907830478438
+conductors,0.21818181818181817
+provision of section,1.4827586206896552
+conductor,0.4440528634361234
+aspect in detail,0.5
+relation to that question,0.5
+aqua culture,0.5
+host,0.7401666846197732
+customer,1.993717277486911
+aspect,1.2449448189023034
+prawn ponds,0.5
+for depreciation at the rates,0.5
+special features,0.42857142857142855
+view,2.441100058469462
+engineering work,3.7142857142857144
+aforesaid question,1.0
+decision,2.9514937765898557
+turbines,0.5
+much as judgment of this court,0.5
+prawns,1.0476190476190477
+opinion,1.4960606342789635
+requirements,0.7375979875979877
+part of the assessee,1.0
+tools to the business,0.5
+larger,0.7736473880597015
+such special construction,0.5
+aforesaid,2.592896174863388
+plants,0.49906191369605996
+appeals of the revenue,0.5
+england,0.9336071184120466
+merit,1.2419290263876248
+first case,0.4166666666666667
+claim,2.817264601856604
+prawn pond,0.5
+returns,0.43534482758620685
+duct,2.556652360515021
+test,2.5329834591340266
+question of fact,1.45
+grant,1.7314487632508835
+claim of the assessee,0.6666666666666666
+depreciation at the rates,0.5
+tail race channel,1.0
+correctnes,0.8404159132007234
+appeal,3.4125488033856883
+learned counsel for the revenue,2.0
+hereinafter,0.7670609645131939
+prawn,1.3095238095238095
+plea that these prawn pond,0.5
+authority,2.4352627108360636
+depreciation thereon,0.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+correctness of the assessee,0.5
+culture,0.6643581897245934
+otherwise,1.2549820889894419
+technical requirement,0.6666666666666666
+anand theatre,1.0
+division bench of the high court,1.6825396825396826
+counsel,2.2246780703440323
+tower,2.581168831168831
+stage,1.1298537871524448
+provision,5.439002243350069
+conclusion that a building,0.5
+corporation,3.6427750743444176
+cinema theatres,0.5
+rates,0.9535092413452435
+depreciation,1.8000000000000003
+proces of generation,0.0
+authorities,1.266131845134287
+judgment dt,2.0
+conclusion,1.3883437407077015
+investment allowance,3.5
+building for grant,0.5
+judgment,3.288216560509554
+provisions of section,2.762376237623762
+cita,0.5868790609935024
+respect,2.6704963235294117
+on these pond,0.5
+business,2.8512056385864457
+functional test,1.3333333333333333
+meaning of section,1.3611111111111112
+question of law,3.057142857142857
+fact on this aspect,0.5
+purposes of hotels,0.5
+anand,1.15
+fact,3.6284951019474962
+order,5.472481489660944
+natural ponds,0.5
+tools,0.47153714906157906
+integral part,1.3397435897435899
+learned counsel,3.703333333333333
+act,12.870263922028107
+brief,0.540112172829248
+larger bench,2.0606060606060606
+outset,0.5899159663865546
+engineering works,3.142857142857143
+rotation,0.48099415204678364
+assessee,15.925925925925926
+building,3.870745432459903
+outdoor yard,1.0
+cit v karnataka power corporation manuscmanusc,0.5
+process of generation,1.0
+judgment read,0.75
+tools of the business,0.5
+station building,3.0
+station,1.2515681586858238
+ltd,2.382356477306883
+theatre,0.7841269841269842
+transformers,0.4444444444444444
+transformer,0.6074766355140188
+appeal of the revenue,0.6666666666666666
+itr,4.961453567240706
+eligible for depreciation at the rates,0.5
+occasion,0.7946745562130177
+busines,2.8488759960122034
+return,1.5755725190839696
+yard structure,0.5
+dispute,2.402137592137592
+special construction,0.5
+effect,2.184583388478191
+part of the special engineering works,0.5
+rotation of the turbines,0.5
+tool to the business,0.0
+rearing,0.6000000000000001
+earlier judgments,1.2
+instant,1.131578947368421
+special engineering works,0.5
+transmission,1.1157457081545064
+reliance,1.400763358778626
+work,2.8478559811646353
+system,1.1230229504341178
+requirement,1.2416133333333332
+kerala,4.135593220338983
+assessee s special technical requirement,0.0
+features,0.6184582743988685
+purpose of hotels,0.0
+detail,0.9737454684220567
+pen - stocks,0.0
+same purpose,0.47115384615384615
+high court,7.7477477477477485
+to plant,0.2857142857142857
+appeals on merits,0.6666666666666666
+allowance,2.1019607843137256
+generating plant,0.5
+case,7.332269420884958
+various judgment,1.1818181818181819
+impugned judgment dt,1.0
+to a plant in respect,0.5
+earlier opinion,0.5
+note,1.3654108484234107
+section,9.287987283173626
+race,0.6810000694251597
+busines of aqua culture,0.0
+scc,1.941872465904902
+cit v victory aqua farm ltd manukemanuke,0.5
+cable,1.1411917451267013
+station buildings,0.5
+as judgment of this court,0.5
+contrary view,0.7464114832535885
+integral part of the assessee,0.5
+manu,7.078142071124147
+rate,3.088725136774248
+pen,4.066964279324603
+assessee s special technical requirements,0.0
+breeding,0.8437499999999999
+water conductor system,0.5
+hotels,0.40909090909090906
+special engineering work,0.5
+rearingbreeding of the prawns,0.5
+judgments,1.2355646397547266
+pond,4.523117799047727
+appeal on merits,0.8333333333333334
+yard structures,0.5
+water,0.9741079360379036
+exceptional case,0.8484848484848485
+conduction of the electricity,0.5
+consequence,0.8726692512593296
+ordinate,1.2442006833303363
+question before the court,0.875
+cit v victory acqa farm ltd manukemanuke,0.5
+tool,0.3971731448763251
+ponds,1.0222222222222221
+purposes,1.4391216613438835
+case on  functional test,0.0
+fact in brief,0.0
+the act,5.708327371273712
+stocks,0.5357142857142857
+finding,1.8129183657767178
+on these ponds,0.5
+cinema theatre,1.5
+potential transformer foundation,0.5
+portion,1.0756311179804223
+judgment in the case,2.5555555555555554
+revenue,1.486701237872198
+benches of the high court,0.75
+contention,1.666391070690368
+earlier judgment of the co - ordinate bench,0.0
+matter to a larger bench,0.8571428571428571
+special technical requirements,0.5
+authority that the assessee,0.5
+tribunal,5.07183212267958
+part of a generating plant,0.5
+favour,1.653145208700764
+buildings,1.3041267942583734
+negative holding,0.5
+applicable to plant,0.5
+plant,1.381330685203575
+division bench,3.965217391304348
+division bench by the impugned judgment dt,0.5
+proces,1.627944583238701
+additional depreciation,0.5
+co - ordinate bench,0.0
+foundation,0.770509435807177
+supra,2.246342614440774
+reference,2.1755848210276256
+electricity,4.4831223628691985
+bench,2.5793391667754992
+farm,2.197649572649573
+attention,0.8724846605528799
+applicable to a plant in respect,0.5
+theatres,0.75
+special feature,0.42857142857142855
+stock,1.0778270324523251
+anand theatres,1.0
+plant in respect,0.5
+earlier judgment,1.8
+facts,1.4696673624372698
+issue,2.766776251628934
+exceptional cases,0.7999999999999999
+oct,1.0871827036599764
+works,1.7935487434410384
+aforesaid question in the negative holding,0.5
+bench of the high court,1.8
+natural pond,1.0
+essential part of a generating plant,0.5
+relevant portion,0.6486486486486488
+basi,2.0752712086391383
+customers,1.646655231560892
+depreciation on the basis,1.0
+earlier occasion,1.0
+favour of the assessee,1.7142857142857142
+plea that these prawn ponds,0.5
+question,2.980312372067635
+ducts,1.4357734806629834
+transmission tower,0.5

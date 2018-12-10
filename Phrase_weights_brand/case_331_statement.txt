@@ -1,0 +1,420 @@
+word  public auction,0.0
+conditional on permission,0.5
+above appeal,1.0
+entering possession,0.5
+director,1.3549769585253457
+implementation,1.2465707594513213
+series of opportunities,0.5
+court of calcutta,1.2222222222222223
+mills,1.026315789473684
+lordship s permission,0.0
+sections,1.640495469442838
+terms,2.390350840909655
+inter,3.683850287482992
+talukdars,4.0
+shareholder,0.9469696969696969
+court,12.24425115501509
+- company,0.0
+road,1.0764686576960945
+such position,0.3333333333333333
+respondents - occupant,0.0
+objection,1.68120480131216
+person,4.291511329454258
+respondents - occupants,0.0
+part,5.294464509893076
+nothing,0.8658723322806009
+share,2.560794932990637
+series,0.4722257940079723
+shareholders,0.9333333333333333
+decision,2.9514937765898557
+factual matrix,1.173913043478261
+company s asset,0.0
+permission,1.1531211886018407
+claim,2.817264601856604
+appeal,3.4125488033856883
+determination,1.5980374665477253
+tapash,1.0
+royal blue accessories,1.5
+disposition,1.4544025157232705
+shareholder of the company,0.0
+land,6.337534028705619
+entire premises,0.5
+possession through m,0.5
+aid of talukdars,0.5
+careful consideration,0.9285714285714286
+judge on july,0.5
+month,1.3454861111111112
+alia,0.9479866480753792
+implementation of this order,0.6666666666666666
+invitation to the public,0.5
+blue accessories,1.5
+limited,1.3713554955535188
+judgment,3.288216560509554
+order,5.472481489660944
+partnership firm,6.0
+act,12.870263922028107
+may,3.683418028199994
+further encumbrances,0.5
+magnate industry,0.0
+spare,0.8627450980392156
+occupant in view,0.0
+magnate,0.30000000000000004
+liquidator in the affairs,0.5
+appointment,3.1380281690140843
+such company,0.5555555555555556
+landed asset,0.5
+corporate veil,1.0
+above terms,0.9375
+royal blue accessory,0.0
+citizen,1.261748909029876
+pendency,1.0084033613445378
+talukdar,5.0
+occupants in view,0.5
+right of the occupants,0.5
+above appeal of the company,0.5
+section,9.287987283173626
+in case,1.133952528379773
+none,0.8181718550217885
+shareholders of the company,0.5
+companies,2.2664576802507836
+january,0.8699641577060931
+property of a company,1.0
+condition,2.259476395625584
+finding,1.8129183657767178
+naught,0.5405405405405406
+refusal,0.813597918022121
+regard,2.723310344827586
+record of the official liquidator,0.5
+entire premise,0.3333333333333333
+ex - directors of the company,0.0
+direction,1.8495050210098996
+such undertaking,0.5555555555555556
+company court as the order,0.5
+occupant,1.8116883116883118
+regards,0.9072861236185019
+issue,2.766776251628934
+premise in question,0.0
+arrangement,0.7318181818181818
+narmada equipment,0.5
+july,0.9742727723122656
+careful consideration of the rival submissions,0.5
+purview,1.0864197530864197
+justification,0.6859587020648967
+lordship,1.0416666666666667
+custody of the company court,1.5
+liquidator,37.0
+response by learned counsel,0.5
+eviction,4.764705882352941
+premises in question,0.75
+magnet,0.6894586894586894
+tenancy in favour,0.5
+understood,0.8127711496746204
+possession through ms,0.5
+factory premises,1.6666666666666667
+factory premise,1.6666666666666667
+kolkata,0.8333333333333334
+prayer of the company,0.5
+suit in the matter,0.5
+company,5.864471879286695
+tech,1.1203909589894292
+indian potash,0.5
+ex - director,0.0
+court in apo nos,0.5
+no matter,0.5361552028218695
+hindustan bone mills,5.0
+hence,1.1440732910500353
+firm,1.7435548272439818
+talukdar for eviction,0.0
+occupants of the premises,0.5
+camouflage,0.37037037037037035
+company of talukdars,0.5
+bhattacharya,0.4444444444444444
+purview of sections,0.75
+invitation,2.2588235294117647
+rent from ms,0.5
+opportunity,0.946186440677966
+present factual matrix,1.0
+subsequent letter for direction,0.5
+vide order,1.7058823529411764
+matter,2.8088923076923082
+potash,0.5
+tenant,4.821212121212122
+liquidation,5.300000000000001
+issue of purported tenancy,0.5
+rent,2.460251217077583
+pagladanga,0.5
+order in terms,1.0
+provision of section,1.4827586206896552
+term,3.6255105640901575
+view,2.441100058469462
+aid,5.498621453008654
+liability,2.532836248924577
+ranjit bhowmick,0.5
+bone,0.6534106600386633
+basak,0.5
+false within the purview of sections,0.5
+side,3.88845645915565
+entering,0.7047619047619047
+directors,1.6666666666666667
+calcutta,1.6022727272727273
+set of the occupants,0.5
+apo nos,0.5
+above finding,1.3333333333333333
+record,2.5393414390845273
+ranjit,2.7142857142857144
+undertaking before the learned judge,0.5
+november,0.7203359669727383
+provision,5.439002243350069
+partnership concern of talukdars,0.5
+respect,2.6704963235294117
+law as understood,0.6666666666666666
+extracted,0.8219954648526075
+premises,1.290983606557377
+whereabouts,0.3508771929824561
+learned counsel,3.703333333333333
+same in case,0.6666666666666666
+learned judge,3.3692307692307693
+equipments,0.7518796992481204
+official liquidator in the affairs,0.5
+handing,1.0706896551724139
+regard to the claim,0.75
+kumar,2.028839704896043
+stand,1.8422769621739425
+impugned order,2.265957446808511
+company judge,5.666666666666667
+bone mills,5.0
+brothers,0.9570135746606334
+official liquidator,36.4
+permission of the company court,1.6666666666666667
+such case disposition,0.5
+pendency of the proceedings,0.8333333333333334
+possession of the landed assets,0.5
+coterminous with the official liquidator s possession,0.0
+nobody,0.6463806463806463
+commencement,1.2037037037037035
+apo no,0.5
+hefty amount,0.3333333333333333
+creditor,5.357142857142858
+division bench,3.965217391304348
+accessory,0.978723404255319
+september,0.8548484848484849
+official liquidator s possession,0.0
+landed assets,0.5
+possession of the official liquidator,1.0
+premise of the company,0.0
+occupants,2.048780487804878
+respondent,4.757894736842104
+chatterjee brothers,0.5
+ajit kumar talukdar,0.5
+royal,0.6156274664561957
+appellant - company,0.0
+sale,3.3662581620085734
+question,2.980312372067635
+subhasish,0.6666666666666666
+word,2.065873981084096
+blue accessory,0.0
+tenancy,3.0545454545454542
+appeals,1.7060218112849692
+months,1.1938163721148947
+amount,3.179688593072295
+august,0.977116704805492
+division bench of the calcutta,1.2
+name,1.8996570753072433
+handicap,0.6111111111111112
+entity,1.342435251377007
+high,5.367119186841496
+brother,1.4566585956416465
+appointments,1.2888888888888888
+custody,1.4166666666666667
+application inter,0.4571428571428572
+property,2.9368986630013745
+prayer,0.6969296987087519
+suit,2.485274378207659
+factory,1.1501182033096926
+deemed possession of the property,0.5
+assets of the company,6.666666666666667
+law,3.538923411654744
+nos,1.2635492554198444
+change,1.2214862766571903
+observation,0.7625074854374218
+case disposition,0.5
+division,1.7657319129617017
+possession of the entire property,0.5
+auction,4.7739938080495365
+tenancy of m  s,0.0
+entire property of the company,1.0
+matrix,0.46733812949640285
+hand over the possession,0.5
+on permission,0.6666666666666666
+possession of entire premises,0.5
+observation of the official liquidator,0.5
+specific undertaking before the learned judge,0.5
+purported tenancy,1.0
+narmada equipments,0.5
+possession under an arrangement,0.5
+affairs,0.8608695652173913
+encumbrances,3.6
+right,3.07483248288682
+hindustan bone mill,5.0
+subsequent letter,0.75
+march,1.0644238856181665
+mandate,0.8783810859547183
+counsel,2.2246780703440323
+court that m  s,0.0
+application,2.3322596088086445
+liabilities,1.0606060606060608
+parts,0.6609660823170732
+no matter whether the company,0.5
+further encumbrance,0.5
+company in liquidation,6.5
+coterminou with the official liquidator s possession,0.0
+possessions of the factory premises,0.5
+summary,0.8025241675617614
+talukdars for eviction,0.5
+care of the issue,0.5
+venture,0.9918552036199095
+premises of the company,1.5
+company s assets,0.0
+deemed possession,0.5
+order of the company court,1.0
+person by the name,0.4444444444444444
+letter for direction,2.0
+submissions,0.5235745614035088
+no matter whether property,0.5
+such purported tenancy,0.5
+dispute,2.402137592137592
+submission,1.0913871684001404
+industry,8.208106219426973
+possession of the assets,1.5
+occupant of the premises,0.0
+apo,0.9443061264104924
+alleged tenancy,0.5
+indian citizen,1.25
+royal blue,3.0
+bhowmick,0.6666666666666666
+case,7.332269420884958
+assets to the appellant,0.5
+direction that the company judge,0.5
+occasion in the present factual matrix,0.5
+court that m,0.6666666666666666
+affair,0.8341728395061728
+legal handicap in the occupants,0.5
+for the company,1.5555555555555554
+letter,2.707240080105903
+adjudication,1.5392156862745099
+pagladanga road,0.5
+wrong,1.2933182103578877
+property in possession,0.5
+undertaking,2.8508771929824563
+partner of ms,1.0
+public auction,3.0
+proceedings,1.7670925223666287
+favour,1.653145208700764
+chatterjee,0.3846153846153846
+respondents-herein,0.0
+within the purview of sections,0.5
+bench,2.5793391667754992
+pack tech,0.5
+tenant of the company,0.5
+possessions,0.24444444444444444
+partnership,4.92929292929293
+respondents,2.6341263330598856
+entire property,1.0
+leave,1.0147842365477848
+fatal for the company,0.5
+rival submission,1.0454545454545454
+creditors,3.1333333333333337
+asset to the appellant,0.0
+slp,1.291953447628582
+company petition,2.3333333333333335
+specific undertaking,0.5
+chatterjee brother,0.5
+restoration,0.8498168498168498
+opportunities,0.5793650793650793
+attempt,0.7943782192788815
+ex - director of the company,0.0
+rival submissions,1.0454545454545454
+notice,2.3300025999395686
+above term,0.9375
+that score,0.4375
+power,3.8165227690948367
+tapash talukdar,0.5
+high court of calcutta,1.2222222222222223
+premise,1.2347417840375587
+blue,0.5764676862358165
+share from ranjit,0.5
+equipment,0.8883209087681933
+legal handicap,0.5
+property of the company,4.133333333333334
+companies act,4.391304347826087
+set,2.3027452395971277
+reason,2.6381270903010035
+possession of the factory premises,0.0
+narmada,1.7333333333333334
+ajit,1.4213709677419357
+position,1.549133168619177
+scene,0.7999999999999999
+other set,0.5121951219512195
+petition,5.3436539306104525
+power without any mandate,0.5
+with the official liquidator s possession,0.0
+response,0.7112676056338028
+consideration,1.9110153789142115
+mill,1.0891891891891892
+possession claiming,0.5
+veil,0.7583333333333333
+respect of assets,0.5
+premasish,0.5
+high court in apo nos,0.5
+care,0.8846948234137723
+view of the change,0.75
+receipt,1.5471923536439667
+consideration of the rival submissions,0.5
+entering possession without court,0.5
+none of the occupants,0.5
+judge,2.9012627415183325
+accessories,2.0740740740740744
+lis,3.299683526578166
+view of the above,1.1764705882352942
+partner,4.163434903047091
+subhasish chatterjee,0.5
+ex - directors,0.0
+hand,2.0299623418254717
+hindustan,1.85
+occasion,0.7946745562130177
+liquidator s possession,0.0
+possession,2.808810857389056
+score,0.45496296296296296
+appellant,14.387096774193548
+packtech,0.5
+asset of the company,0.0
+picture,0.6116621983914209
+high court,7.7477477477477485
+public,2.923239095873367
+learned counsel for the appellant,1.7884615384615385
+whereabout,0.3508771929824561
+official,2.6854955160358718
+pack,0.8438990017615972
+concern,2.0544958000579303
+magnate industries,0.5
+june,0.9339080459770116
+further dispute,0.5
+company court,25.8
+stand of the occupants,0.5
+bone mill,5.0
+encumbrance,3.142857142857143
+asset,3.0300107181136124
+hand over possession,0.75
+application before the company judge,0.5
+handicap in the occupants,0.5
+question for consideration,1.125
+summary power,0.3333333333333333
+least nobody,0.3333333333333333
+case of royal blue accessories,0.5
+entities,0.5395256916996047
+persons,2.5993381990166555
+assets,2.6879084967320264
+spares,0.888888888888889
+industries,2.162068965517242
+possession of the part,0.5
+partnership concern,1.0

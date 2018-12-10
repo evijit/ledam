@@ -1,0 +1,222 @@
+short  act,0.0
+declaration that acquisition proceedings,0.5
+that view of the matter,1.553191489361702
+government,3.5583785424010483
+process,1.6274942048088725
+land acquisition proces,0.5
+complete residential colony,0.5
+land acquisition collector,2.1
+cost,1.2954397451466992
+approach,1.001908852302553
+appellant possession of the land,0.5
+allahabad,2.3404255319148937
+writ,2.8882378560889794
+step,0.8867024753460084
+such proceedings,1.0
+expiry,2.2888888888888888
+beneficiary,1.8333333333333333
+months,1.1938163721148947
+holding,1.2555282555282552
+scheme,3.415949119373777
+award under section,0.8333333333333334
+further proceedings after the award,0.5
+high court of judicature,1.4210526315789473
+beneficiaries,0.8333333333333334
+provisions of this act,2.4722222222222223
+various other aspects,0.75
+prior to the commencement of this act,0.5
+steps,1.169318181818182
+sub,7.816899313759727
+reasons,1.3749054007567938
+terms,2.390350840909655
+land acquisition proceedings,1.6666666666666667
+notification for acquisition,0.5
+grounds,0.9540208829455945
+high,5.367119186841496
+payment,2.059553716565686
+declaration that acquisition proceeding,0.5
+fair,1.333141121131062
+account,2.5754891049671977
+reason,2.6381270903010035
+court,12.24425115501509
+operation,1.0959893294085181
+hence,1.1440732910500353
+officer,3.1197242647058823
+- authority,0.0
+needles,0.5447697312104091
+declaration,2.152560083594566
+force,1.6009408121948314
+position,1.549133168619177
+aspects,1.0997620069447154
+acquisition,6.764044943820224
+land acquisition proceeding,1.6666666666666667
+ground,1.4186722903211633
+notification,3.0112746633260263
+award under the provisions,0.6666666666666666
+petition,5.3436539306104525
+writ petition,6.24223602484472
+neither compensation,0.5
+category,1.9351744779266717
+law,3.538923411654744
+land acquisition process under act,0.5
+part of the compensation,0.4444444444444444
+requisitioning,1.75
+needless,0.6410068426197458
+impugned judgment,2.0927152317880795
+part,5.294464509893076
+appropriate government,2.3846153846153846
+matter,2.8088923076923082
+emergency,2.635026737967914
+other reasons,0.5932203389830508
+land acquisition act,12.714285714285714
+either payment,0.5
+appellant - aligarh development authority,0.0
+value,1.7137907830478438
+clause,3.526455026455027
+provision of section,1.4827586206896552
+various other aspect,0.75
+matrix,0.46733812949640285
+term,3.6255105640901575
+account of the beneficiaries,0.5
+aspect,1.2449448189023034
+old act,1.2222222222222223
+view,2.441100058469462
+respect of the land,1.0
+reply,1.0337305560040906
+step for acquisition,0.0
+transparency,0.95
+commencement of this act,1.7142857142857142
+factual matrix,1.173913043478261
+majority,1.3427634276342764
+proceedings of such land acquisition afresh,0.5
+physical possession,1.4166666666666667
+admitted position,0.9166666666666666
+situations,0.7435282837967402
+other aspect,0.6921768707482993
+new act,0.5079365079365079
+appeal,3.4125488033856883
+kurian,0.9655172413793104
+right,3.07483248288682
+determination,1.5980374665477253
+collector,1.8095238095238093
+steps for acquisition,0.6666666666666666
+court of judicature,1.4210526315789473
+authority,2.4352627108360636
+physical possession of the land,0.6666666666666666
+land,6.337534028705619
+provisions,3.8929824561403508
+land owner,1.1666666666666667
+other reason,0.704191616766467
+such proceeding,1.0
+development,2.3145884270578647
+month,1.3454861111111112
+year,2.8349484769759212
+provision,5.439002243350069
+allahabad by the impugned judgment,0.5
+award,3.104213525266157
+stand of the authority,0.5
+incidental third situation,0.5
+appellant - authority,0.0
+regard to the factual matrix,0.5
+other aspects,0.5798816568047337
+question of lapse,0.5
+further proceeding,1.0
+judgment,3.288216560509554
+aligarh,1.0
+land acquisition afresh,0.5
+provisions of section,2.762376237623762
+respect,2.6704963235294117
+majority of land,0.5
+- aligarh development authority,0.0
+land acquisition process,0.5
+cases-,0.0
+second category,0.5000000000000001
+compensation in respect,0.75
+acquisition proceedings,2.375
+fact,3.6284951019474962
+order,5.472481489660944
+rider that the award,0.5
+owner,2.9502416709822197
+case of land acquisition proceedings,1.0
+fledged,0.5238095238095238
+sub-section,0.0
+act,12.870263922028107
+acquisitioning,1.0
+compensation in accordance,0.5
+emergency clause,1.0
+special,1.7363344051446945
+possession,2.808810857389056
+acquisitioning authority,1.0
+appellant,14.387096774193548
+rider,0.4313304721030043
+third situation,0.5
+which fact,0.47115384615384615
+effect,2.184583388478191
+stand,1.8422769621739425
+statutory lapse,0.6666666666666666
+authority-aligarh development authority,0.0
+impugned order,2.265957446808511
+of the compensation,0.9444444444444445
+resettlement act,0.6666666666666666
+various grounds,1.0555555555555556
+question of  come,0.0
+high court,7.7477477477477485
+acquisition proceeding,2.3333333333333335
+come,2.146356176589631
+such land acquisition afresh,0.5
+proceedings after the award,0.5
+case,7.332269420884958
+statutory lapse of the proceedings,0.5
+period,1.9480170842427122
+lapse of the proceedings,0.5
+view of the operation,0.5
+years,2.5395804110508022
+affidavit,2.2996987951807224
+appellant possession,0.5
+section,9.287987283173626
+admitted position that no award,0.5
+special land acquisition officer,1.0
+anything,0.9132309941520469
+joseph,0.4502673796791444
+residential colony,1.0
+accordance with the provisions,1.9523809523809523
+further proceedings,1.0
+colony,0.5172413793103449
+reply to the affidavit,0.5
+commencement,1.2037037037037035
+urgency for the acquisition,0.5
+resettlement,1.157142857142857
+officers,2.442124212421242
+land acquisition,14.041666666666666
+lapse,0.9238095238095239
+land acquisition officers,0.5
+possession of the land,2.6923076923076925
+main reason,0.375
+judicature,1.4210526315789473
+regard,2.723310344827586
+rehabilitation,4.416666666666667
+land acquisition officer,1.9
+proceedings,1.7670925223666287
+date,6.195616975795285
+proces,1.627944583238701
+situation,1.1254754682459434
+compensation,3.7916666666666665
+transparency in land acquisition,1.3333333333333333
+money,1.6567889044524557
+entire compensation,0.5
+afresh,0.6891891891891891
+provision of this act,0.75
+land acquisition proces under act,0.0
+determination of compensation,1.7777777777777777
+respondent,4.757894736842104
+various ground,1.0555555555555556
+kurian joseph,0.9655172413793104
+urgency,0.6066666666666667
+leave,1.0147842365477848
+accordance,1.4069045211613462
+costs,0.8167395522604189
+applicant,0.7861822513400833
+acquisition on various grounds,0.5
+question,2.980312372067635
+affidavit that the land,0.5
+land value,2.75

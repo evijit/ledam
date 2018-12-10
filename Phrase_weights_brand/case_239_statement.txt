@@ -1,0 +1,701 @@
+courts,2.1216528162511543
+ordinary norm,0.3333333333333333
+misconduct by a public servant,0.6666666666666666
+findings,1.049571253572887
+government,3.5583785424010483
+criminality of the appellants,0.5
+a- in respect of second work contract,0.0
+adherence,0.6737967914438503
+budget work,0.5
+aforesaid submission of the learned senior counsel,0.6666666666666666
+disregard,0.5855263157894736
+implementation,1.2465707594513213
+shows,0.8030554811042616
+part completion,0.5
+government funds,0.37037037037037035
+advance payment,1.6666666666666667
+code,2.880559796437659
+official position,1.4358974358974357
+nes block within the jurisdiction,0.5
+established circumstances,0.5
+rise to a strong suspicion,0.5
+assistant engineer,4.428571428571429
+other hand,0.6931925622439332
+read with section,2.3513513513513513
+established circumstances in this case,0.5
+norm of procedural behaviour,0.0
+reasons,1.3749054007567938
+sections,1.640495469442838
+payment for the work,0.5
+jry-construction,0.0
+further payment,1.0
+bail bond,0.9090909090909091
+trial court against the accused persons,0.5
+pwd,1.432576769025367
+sub-clause,0.0
+progress,1.075925925925926
+percentage valuation cost of the jry construction,0.5
+jawahar rozgar yojana,0.5
+interest,2.74353772015385
+court,12.24425115501509
+money from some person,0.5
+aforesaid payment,0.5
+union,2.0981927710843373
+rise,1.6238941915958565
+withdrawal from such funds,0.0
+agreement,3.450434632433366
+appellant under the provisions,0.5
+cost of the work,0.3333333333333333
+person,4.291511329454258
+ors,2.8612718198296623
+show,1.5002130552117363
+bail,2.0427807486631013
+way,1.7812722068664852
+irregular,1.580312603924177
+advantage without any public interest,1.3333333333333333
+appeals in the high court,1.0
+part,5.294464509893076
+financial,2.2822547614171618
+exp,3.534657952408237
+which stage certificates,0.5
+such payment,1.2
+court to the requirements,0.5
+installment basi,0.5
+part installments,0.5
+engineer in respect,0.5
+funds,3.352010547132498
+relevant provisions,1.5
+gravamen of the charge,0.6666666666666666
+pagarkar,0.5
+financial code,0.5
+aforesaid,2.592896174863388
+work in violation,0.6666666666666666
+other person,0.9635036496350365
+such funds,1.0
+aforesaid argument,1.0
+chargesheet,2.625
+instructions,1.8111673678956002
+appeal,3.4125488033856883
+situates,0.5
+daman,0.9
+diu,0.5756013745704468
+nature of exp,0.5
+nomenclature,0.8076923076923077
+trial court against the accused person,0.5
+read,2.2147281730888695
+area,2.675167256985439
+village,1.8429856945085372
+basi of the  stage certificate,0.0
+careful consideration,0.9285714285714286
+basis of any  stage certificate,0.0
+stage,1.1298537871524448
+year,2.8349484769759212
+unnecessary withdrawals,0.5
+project as advance payment,0.5
+letter exp,0.5
+more person,1.2000000000000002
+basi of purported  stage certificate,0.0
+mere start,0.5
+release,0.9830403257846643
+certain suggestions,0.5
+judgment,3.288216560509554
+total estimate,0.3333333333333333
+punishable under section,3.081081081081081
+contingent upon the stage of the execution,0.5
+time to time,1.0211267605633803
+guilt,1.1140207075064712
+lakhs,2.046511627906977
+order,5.472481489660944
+much before the issuance of exp,0.5
+aforesaid mandatory ingredient,0.5
+strong suspicion,0.5
+act,12.870263922028107
+basi of any  stage certificate,0.0
+codal violations,1.0
+aforesaid submission,1.0
+jungle clearance,0.5
+ingredients,0.7539893617021276
+rate of rs,1.9333333333333333
+hue,0.28897415185783526
+basis of the aforesaid documentary evidence,0.5
+accused persons in fir,0.5
+accused persons,7.048780487804878
+departmental order,0.5
+high court in support,0.6666666666666666
+which mention,0.42857142857142855
+completion,1.1868131868131868
+pendency,1.0084033613445378
+nutshell,0.4695121951219512
+scheme work,0.30000000000000004
+conviction of the appellant,1.8235294117647058
+rozgar,0.5
+manner,1.4494591333432125
+misutilisation of public funds,0.5
+valuation,2.0129870129870135
+section,9.287987283173626
+procedural behaviour,0.5
+certificates,0.7105263157894737
+none,0.8181718550217885
+gravamen,0.75
+fir,2.85390975582079
+servant,2.030552291421857
+thiruvananthapuram,1.6666666666666667
+position of the work,0.5
+documentary evidence,0.6825
+xxxx,0.9636184857423795
+misconduct-,0.0
+of the estimate amount,0.5
+obligation of the prosecution,0.6666666666666666
+mere disregard,0.5
+jry-consignment semi,0.0
+executive engineer,6.375
+respective submission,0.8
+panchayat president,1.0
+contract value,1.0
+circumstance,1.429931390219372
+high school building,0.5
+finding,1.8129183657767178
+mere start of the work,0.5
+works under jry,0.5
+present case,1.5611814345991561
+mean,2.390645692553228
+advance,1.2070333024745414
+investigation,1.6673076923076922
+circulars,1.1515151515151516
+high court vide the impugned judgment,0.6666666666666666
+reddy,0.7218614718614719
+proper perspective,0.6000000000000001
+estimate,1.0964912280701755
+other work,0.6296296296296297
+funds in advance,0.5
+direction,1.8495050210098996
+money,1.6567889044524557
+amount to a-,0.0
+such work,0.7000000000000001
+proper reading,0.3333333333333333
+among the payment,0.5
+non-adherence,0.0
+accused person in fir,0.0
+para,2.300239586747483
+vehement plea,0.5
+spite thereof,0.6666666666666666
+thereof,1.7897727272727273
+correct progres,0.5
+irregularity,2.0
+basi,2.0752712086391383
+writing,1.1746753246753248
+respective submission with reference,0.0
+which stage certificate,0.5
+convenor,0.5
+fray,0.3896103896103896
+second work contract,0.5
+fine,1.3204039558531748
+matter in a proper perspective,0.5
+criminal misconduct by a public servant,0.6666666666666666
+public funds,0.6666666666666666
+contract,6.227349970404598
+merit in the aforesaid arguments,0.5
+work contract,0.45000000000000007
+respect of second work contract,0.5
+cost,1.2954397451466992
+aforesaid arguments,0.6666666666666666
+guilty of offence,0.8571428571428571
+jry construction,0.5
+orders,1.4936359300077826
+certain suggestion,0.5
+conviction,2.248165832071736
+basis,1.953226441078104
+before the issuance of exp,1.0
+panchayat,10.0
+fund of jry,0.5
+percentage,0.8769344141488578
+temporary misutilisation,0.5
+suspicion,0.690982776089159
+scheme,3.415949119373777
+president,2.1267129228100607
+for the panchayat,1.0
+jry,2.916666666666667
+arudai,0.5
+sub,7.816899313759727
+largest among the payments,0.5
+behaviour,0.5142857142857143
+which such payments,0.5
+payments,1.0129870129870129
+charge,2.7679815308681284
+contention of the appellant,1.1851851851851851
+work of jungle clearance,0.5
+withdrawal,1.2055933484504913
+nomination basi,0.5
+first floor,1.5166666666666668
+officer,3.1197242647058823
+meat of the matter,0.5
+charges,2.061307113938693
+court for hearing,0.6666666666666666
+permissible for the panchayat,0.5
+payment of rs,1.2857142857142858
+territory,1.3688226421790437
+date of inspection,1.0
+arguments,0.7212211466865226
+realm of suspicion,0.5
+irresistible conclusion,1.1428571428571428
+impugned judgment,2.0927152317880795
+state against the acquittal,0.5
+matter,2.8088923076923082
+relation,1.397320207820618
+proof,1.0648141580366008
+irregularities,1.2263736263736265
+engineer,3.318922187370092
+part completion of the work,0.5
+such letter,1.5000000000000002
+panchayats,5.25
+term,3.6255105640901575
+high court for hearing,0.5
+appellants,7.701086956521739
+unnecessary withdrawal,0.5
+penal,1.8829173709853835
+spite,0.8919640378414163
+withdrawals from such funds,0.5
+case of the prosecution,2.3043478260869565
+requirements,0.7375979875979877
+vide,4.454025282767798
+opinion,1.4960606342789635
+ingredient,1.2242798353909468
+suggestions,0.7508630609896433
+remarks,0.4772727272727273
+penal code,2.710144927536232
+merit,1.2419290263876248
+government officials,0.38235294117647056
+clear from the nomenclature,0.5
+part bill,1.0
+hypothesis,0.2878179384203481
+assistant,1.6732837055417698
+which mentions about the manner,0.5
+officials,1.3691666666666666
+basi of the aforesaid documentary evidence,0.0
+court vide the impugned judgment,0.6666666666666666
+record,2.5393414390845273
+procedure,2.552771605064117
+material,1.4148767018946966
+information,1.1320502836800534
+contractors,2.2093023255813953
+polouse,0.0
+ordinary norm of procedural behaviour,0.0
+hypothesi,0.30324909747292417
+guideline,1.5641711229946524
+provision,5.439002243350069
+circular,2.0360934182590236
+support,0.8630946786249609
+more funds,0.711111111111111
+obtains,1.0825396825396827
+pecuniary advantage,8.25
+respect,2.6704963235294117
+causal connection,0.3333333333333333
+which such payment,0.5
+sikri,1.0
+fact,3.6284951019474962
+which mentions,0.3333333333333333
+learned counsel,3.703333333333333
+yojana,1.0
+panchayat situate,0.5
+evidence on record,2.7906976744186047
+department,1.9858367499068206
+building,3.870745432459903
+deputy,1.1595268542199488
+offence of criminal misconduct,1.0
+deputy superintendent,0.8
+reasoning,0.6478937381404174
+advance amount,1.0
+such payments,0.5
+of the contract value,0.5
+village development,1.0
+norms of procedural behaviour,0.5
+goa,0.6574823943661972
+work of construction,0.6666666666666666
+a- before the issuance of exp,0.0
+norms,1.1693121693121695
+spot by a-,0.0
+matter of allotment,0.5
+findings of the trial court,0.6666666666666666
+work,2.8478559811646353
+aforesaid procedure,0.5
+court in support,0.8571428571428571
+extent,1.410108024691358
+ordinary norms of procedural behaviour,0.5
+nes block,0.5
+various circular,1.0
+mohd,1.75
+doubt,1.3646267723102583
+appellant under sub-clause,0.0
+tune,0.5874773139745917
+documentary,0.6730769230769231
+circular of village development commissioner,0.5
+vandiperiyar,2.0
+years,2.5395804110508022
+public servant,4.65
+report,1.7768151696835826
+upon the stage,1.0
+necessary funds,0.3333333333333333
+more fund,0.6617647058823529
+appeal of the appellant,0.8888888888888888
+proof in relation,0.6666666666666666
+specific plea,1.1666666666666667
+permanent building,1.5
+jawahar,0.8333333333333334
+inspection of the work,0.5
+appeal in the high court,1.0
+established circumstance in this case,0.0
+nobody,0.6463806463806463
+part installment,0.5
+budget,1.9635270541082162
+inspection report,0.8
+lapse,0.9238095238095239
+request,1.1474439594584596
+panchayat situates,0.5
+withdrawals,1.0666666666666667
+progres,1.075925925925926
+basis of purported  stage certificate,0.0
+consumer,4.596273291925465
+inspection,0.8496732026143791
+of the advance,0.4
+largest of these payments,0.5
+various circulars,1.0
+v state,2.4603773584905664
+village development commissioner,0.5
+start,0.86071856465668
+date,6.195616975795285
+abdulla,0.16216216216216214
+date of exp,1.1428571428571428
+jry scheme work,0.5
+bill,1.134631348577466
+reference,2.1755848210276256
+consumers,3.861290322580645
+offence,4.401610644257703
+hearing,0.9644508209787979
+respondent,4.757894736842104
+panchayat for the works,0.0
+ordinary norms,0.5
+works,1.7935487434410384
+default,0.7094574436346588
+gravaman of the charge,0.0
+question,2.980312372067635
+bonds,0.670673076923077
+nes,3.820918768482422
+execution,1.3041894353369763
+obtain for any person,0.0
+deposition,1.534
+contracts,1.9600000000000002
+approach,1.001908852302553
+scmanu,7.940520446096654
+word,2.065873981084096
+similar circumstances,0.5454545454545454
+necessary fund in advance,0.0
+appeals,1.7060218112849692
+beneficiary,1.8333333333333333
+amount,3.179688593072295
+plea that the trial court,0.5
+estimated cost,0.7777777777777778
+basant,1.8333333333333333
+accused person,4.565217391304348
+amount of rs,1.5806451612903225
+kind of pecuniary advantage,0.5
+none of the circumstances,0.5
+of the work,1.5244066278549038
+high,5.367119186841496
+payment,2.059553716565686
+misutilisation of government funds,0.5
+submission with reference,0.0
+stage certificate in respect,0.5
+criminal misconduct,1.6666666666666667
+further term,0.6666666666666666
+purpose,2.519170317925504
+trial court,3.854545454545455
+shows that this letter,0.5
+cost of material,0.5
+approach of the trial court,0.5
+jungle,0.32558139534883723
+obtains for any person,1.0
+time,2.4764180952862667
+high court to the requirements,0.5
+permanent building in vandiperiyar,1.5
+of these payments,0.5
+from the nomenclature,0.5
+learned counsel for the respondent,1.507936507936508
+semi,0.48290238678090586
+issuance,1.05379513633014
+further payment of rs,0.6666666666666666
+alleging,0.672514619883041
+non-adherence to the aforesaid procedure,0.0
+total cost of the work,0.5
+submission of the learned senior counsel,0.6666666666666666
+that appellant,1.3529411764705883
+installments,1.9444444444444444
+limit,2.3804570428443834
+executive,1.3789130780232004
+stage certificates,0.5
+correct progress,0.5
+fine of rs,1.6
+stage certificate,6.0
+hereinafter,0.7670609645131939
+prosecution,4.619407894736842
+contractor,4.09297052154195
+spot,0.778096903096903
+unnecessary withdrawal from such funds,0.0
+of these payment,0.5
+certificate,2.732600732600732
+connection,1.050640279394645
+learned senior counsel,3.4615384615384617
+fold,0.5699140401146132
+criminality,0.8
+imprisonment,1.4344262295081966
+public interest,2.380434782608696
+counsel,2.2246780703440323
+limits,0.8405888207868406
+nomination basis,0.5
+pc act,6.666666666666667
+twenty,0.7332834704562453
+vehement plea that the trial court,0.5
+reading,0.9004509191814082
+total cost,0.5
+proper reading of the provisions,0.5
+tune of rs,1.4285714285714286
+panchayats for the works,0.5
+attempt of the prosecution,0.5
+conclusive nature,0.6666666666666666
+perspective,0.5639060811474604
+date on which stage certificates,0.5
+rigorous imprisonment,1.9230769230769231
+work under jry,0.0
+floor,2.088735201031532
+respective submissions with reference,0.5
+acquittal,2.2714285714285714
+submissions,0.5235745614035088
+mention,1.6248742837095076
+dispute,2.402137592137592
+submission,1.0913871684001404
+evidence,3.6676405172088815
+work under jawahar rozgar yojana,0.5
+corruption act,1.75
+mentions,0.5922498554077502
+opinion that the prosecution,0.75
+iota of evidence,0.4444444444444444
+obtain,1.239941067834243
+careful consideration of the material,0.5
+percentage valuation cost,1.0
+- adherence to the aforesaid procedure,0.0
+pagarkar v state,0.5
+favour of a-,0.0
+vigilance,0.75
+meat,0.3360730593607307
+letter to the panchayat,0.5
+case,7.332269420884958
+panchayat that the percentage valuation cost,0.5
+period,1.9480170842427122
+which mention about the manner,0.0
+responsible officer,1.0
+basi of these certificates,0.0
+scc,1.941872465904902
+circular pertaining,0.5
+mr basant,1.3333333333333333
+gravaman,0.0
+drd,0.16304347826086957
+letter,2.707240080105903
+departmental orders,0.5
+aforesaid paragraph,0.5
+valuable thing,2.857142857142857
+purposes,1.4391216613438835
+illegal mean,1.6666666666666667
+of offence,1.561904761904762
+project work,1.3333333333333333
+nobody s case,0.0
+instruction,1.8197943962910703
+false certificate,0.6666666666666666
+rajarathinam,0.5
+panchayat area,0.5
+contention,1.666391070690368
+v state of ap,1.0
+mr r basant,0.5
+appropriate agreement,0.5
+criminal charge,0.4615384615384615
+favour,1.653145208700764
+mentions about the manner,0.5
+such fund,1.0
+payment to the extent,0.5
+installment,1.9047619047619049
+government official,0.38114754098360654
+violation,1.2087401208740118
+convenors,0.5
+procedure for implementation,0.5
+office,3.5913445886237847
+prevention of corruption act,1.8
+superintendent,1.2698412698412698
+nominee,0.9666666666666667
+iota,0.34552845528455284
+dependent upon the stage,0.5
+jry-construction of permanent building,0.0
+attempt,0.7943782192788815
+years under section,0.8333333333333334
+payments as payments,0.5
+causal connection between release,0.5
+union territory,3.066666666666667
+position as a public servant,2.0
+writing of this letter,1.0
+consignment,1.25
+rigorous imprisonment for the period,0.5
+charge beyond reasonable doubt,0.5
+release of payments,1.0
+respective submissions,0.8
+fund in advance,0.0
+police,2.9749362629783356
+sentence,2.3896654193264366
+entire case of the prosecution,0.75
+mention about the manner,0.0
+estimate amount,0.5
+stage of the execution,0.6666666666666666
+necessary fund,0.3333333333333333
+rigorous imprisonment for a further term,0.5
+building in vandiperiyar,1.5
+project,4.265889006716154
+extent of rs,1.0
+under section,5.374517374517374
+disregard of relevant provisions,0.5
+position that exp,0.5
+peculiar advantage,0.5
+reason,2.6381270903010035
+established circumstance,0.5
+lakh,1.3647388059701493
+entire case,1.0
+position,1.549133168619177
+basis of the  stage certificate,0.0
+of the estimated cost,1.0
+government fund,0.2867647058823529
+aforesaid mandatory ingredients,0.5
+bond,0.7394882659713169
+request of panchayat president,1.0
+temporary misutilisation of public funds,0.5
+guilt of the officials,0.5
+pw- on the direction,0.0
+guidelines,1.540251572327044
+such works,0.4
+construction,2.2504918032786887
+year under section,0.6666666666666666
+consideration,1.9110153789142115
+purported stage certificate,0.5
+percentage of the work,0.5
+paragraph,1.2930197483150305
+school building,0.4444444444444444
+charges under sections,1.0
+reasonable doubt,0.8638838475499093
+violations,0.7048092868988391
+fund,2.9945256868353374
+public fund,0.5526315789473685
+start of the work,1.0
+words,1.6384367086179112
+charge under sections,0.0
+commissioner,2.271608643457383
+value,1.7137907830478438
+plea,1.4430487701432178
+clause,3.526455026455027
+issuance of exp,1.0
+connection between release,0.5
+bills,1.017857142857143
+unnecessary withdrawals from such funds,0.5
+departmental lapse,0.5
+work in hand,0.5
+remark,0.5091064757160647
+others,0.9074667328904616
+beneficiary of the work,0.5
+situate,0.8771266540642723
+payments as payment,0.5
+of work,1.4099447513812151
+advance expenditure,0.5
+appeal to the high court,2.25
+installment basis,0.5
+misconduct,1.2976744186046512
+prevention,0.6124072110286319
+of budget work,0.5
+among the payments,0.5
+imprisonment for the period,0.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+assistant executive engineer,1.2
+abdulla mohd,0.5
+mere disregard of relevant provisions,0.5
+corruption,0.9432672590567327
+development,2.3145884270578647
+argument,0.9504580388560493
+union territory of goa,0.5
+basis of these certificates,0.5
+conclusion,1.3883437407077015
+chenga,0.3333333333333333
+innocence,0.8135593220338982
+relevant provision,1.5737704918032787
+advantage,1.1441364159430905
+payments of rs,1.0
+introductory remarks,0.5
+site,0.9890725980575135
+codal violation,1.0
+school,1.2666111192798444
+indian penal code,5.264705882352941
+hypothesis of the guilt,0.6666666666666666
+assistant engineer in respect,0.5
+hand,2.0299623418254717
+reading of the provisions,1.1111111111111112
+iii,1.5614499719992534
+norm,1.1955826794536473
+submissions with reference,0.5
+means,1.3868295182781003
+misutilisation,1.0
+clearance,4.090225563909774
+pillar work,0.5
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+allotment,4.111111111111112
+hypothesi of the guilt,0.0
+expenditure,2.804307692307692
+obligation,1.1071428571428574
+case within the fold,0.5
+respect of work,0.6666666666666666
+dii,0.3785766691122524
+requirement,1.2416133333333332
+suggestion,1.2425592585991803
+high court,7.7477477477477485
+public,2.923239095873367
+block,0.7881443298969073
+corrupt,1.428343949044586
+state,6.817996007300392
+introductory remark,0.5
+jurisdiction,2.9539571926331507
+bail bonds,0.9
+official,2.6854955160358718
+imprisonment for a further term,0.5
+trial,3.7979448350459712
+finding of the trial court,1.0
+pw-,0.0
+submission of mr basant,0.5
+necessary funds in advance,0.5
+manu,7.078142071124147
+rate,3.088725136774248
+deputy superintendent of police,0.8
+criminal case,1.4464285714285714
+advance to the extent,0.5
+role,1.0562959821210092
+similar circumstance,0.5454545454545454
+nature,1.4149926876444778
+project  work,0.0
+amount for such works,0.5
+false stage certificate,0.5
+c chenga reddy,0.5
+office as a public servant,1.0
+nomination,4.422077922077922
+kind,0.9236881920088026
+noted above,0.7972027972027971
+allotting,1.0
+senior counsel,2.2857142857142856
+illegal means,1.6666666666666667
+realm,0.5917241379310344
+persons,2.5993381990166555
+pecuniary advantage without any public interest,1.3333333333333333
+consideration of the material,0.8
+thing,1.1131787570209408
+- adherence,0.0
+valuation cost,2.0

@@ -1,0 +1,184 @@
+kashmiri minority migrants,0.5
+home,0.9826663267907214
+tuesday,0.31262939958592134
+government,3.5583785424010483
+distres,0.39716312056737585
+petitioner,4.524972253052164
+cost,1.2954397451466992
+fernandes,0.5333333333333333
+record to the high court,0.5
+murder in terms,0.0
+writ,2.8882378560889794
+that property,0.75
+case of massacre,0.0
+sunil fernande,0.6666666666666666
+constitution of india,3.0095238095238095
+directions,1.5134125183504605
+reliefs,1.308641975308642
+concerned departments,0.6666666666666666
+counsel on tuesday,0.5
+respondent - state,0.0
+such contention,0.8333333333333334
+terms,2.390350840909655
+matters,1.4810665618448637
+relevant record,1.1111111111111112
+meaning,1.8612727545949643
+rehabilitation of kashmiri migrants,0.5
+respective counsel on tuesday,0.5
+high,5.367119186841496
+country,1.2903191103863751
+court,12.24425115501509
+multifarious relief,0.5
+permanent housing accommodation,0.5
+state of jammu,3.3636363636363638
+human right,1.1211406518010292
+high commissioner,0.2727272727272727
+displaced,1.1666666666666667
+kashmir with a request,0.5
+property,2.9368986630013745
+writ petition,6.24223602484472
+petition,5.3436539306104525
+person,4.291511329454258
+pandit,1.375
+various part,0.48533333333333334
+law,3.538923411654744
+migrant,3.5142857142857142
+part,5.294464509893076
+human,1.0063526196524266
+fernande,0.3862068965517242
+cases,1.9728229418951067
+government of india,4.94
+ministry of home affairs,1.1428571428571428
+matter,2.8088923076923082
+petition to the high court,0.5
+minority migrants,0.5
+article,4.378806157159795
+housing,1.9061032863849767
+commissioner,2.271608643457383
+displaced person,1.0
+disposal in accordance,0.8
+kashmiri migrants,1.3333333333333333
+guiding principle,0.45000000000000007
+term,3.6255105640901575
+departments,0.9019607843137255
+view,2.441100058469462
+accommodation,1.3095238095238095
+part of the country,0.0
+murders in terms,0.5
+relief,1.4748116760828625
+counsel for the respondent-state,0.0
+kashmiri migrant,1.3333333333333333
+murder,1.4968553459119496
+affairs,0.8608695652173913
+right,3.07483248288682
+ministry,1.6350210970464136
+record,2.5393414390845273
+counsel,2.2246780703440323
+distress,0.39716312056737585
+parts,0.6609660823170732
+april,0.8928235149629509
+averment,1.7
+india,2.7684068260703585
+encroachment,1.0106951871657754
+averments,1.76
+pages,0.4777568922305764
+concerned department,0.75
+counsel for the petitioners,1.2666666666666666
+direction to the state government,0.8
+housing accommodation,0.6666666666666666
+such contentions,0.75
+patty,0.0
+page,1.011907905159212
+kashmiri pandit,1.0
+learned counsel,3.703333333333333
+minority migrant,0.5
+minority,0.8717948717948719
+department,1.9858367499068206
+distress sales,0.5
+displaced persons,1.1428571428571428
+learned counsel for the parties,1.263157894736842
+various parts of the country,0.4800000000000001
+chief,1.9429638234317954
+rehabilitation department,0.6666666666666666
+pandits,0.5
+contentions,0.9641025641025641
+disposal,1.1180555555555556
+several direction,0.75
+matter to an appropriate bench,0.5
+patties,0.13333333333333333
+various parts,0.4656084656084656
+state government,3.027142857142857
+counter affidavit,1.96
+human rights,0.9865951742627346
+home affair,1.1428571428571428
+sales,2.89512876202296
+that court,0.7384615384615386
+high court,7.7477477477477485
+several directions,0.75
+parties,1.8210828547990157
+kashmiri pandits,0.5
+state,6.817996007300392
+case,7.332269420884958
+affidavit,2.2996987951807224
+appropriate bench,0.8
+prior concurrence,0.5
+distress sale,0.5
+migrants,4.3428571428571425
+that properties,0.5
+direction to the respondents,0.5
+affair,0.8341728395061728
+principle,1.9620890732001848
+constitution,3.204842342342342
+party,2.2250894654439723
+cases of massacre,0.3333333333333333
+counter,1.0576470084371923
+meaning of the guiding principles,0.5
+sunil fernandes,0.6666666666666666
+justice,2.292557084574302
+rejoinder,0.8717948717948718
+sunil,1.0
+request,1.1474439594584596
+rehabilitation department of the government,0.5
+massacre,0.9697542533081286
+contention,1.666391070690368
+various part of the country,0.0
+multifarious reliefs,0.5
+kashmir at jammu,1.0
+kashmir with a direction,0.5
+office of the un high commissioner,0.5
+registry,0.510662177328844
+rehabilitation,4.416666666666667
+murders,0.6462585034013606
+court of jammu,1.6666666666666667
+petitioners,3.536507936507937
+jammu,4.705882352941177
+encroachment on properties,0.5
+direction,1.8495050210098996
+chief justice of that court,0.5
+guiding principles,0.75
+respective counsel,0.75
+rights,1.6349541930937281
+kashmiri,2.3333333333333335
+concurrence,0.7692307692307693
+kashmiri minority migrant,0.5
+bench,2.5793391667754992
+length,0.6297872340425531
+high court of jammu,1.6666666666666667
+chief justice,4.684210526315789
+hearing,0.9644508209787979
+para,2.300239586747483
+kashmiri pandit without the prior concurrence,0.5
+office,3.5913445886237847
+respondent,4.757894736842104
+respondents,2.6341263330598856
+kashmir,2.6608187134502925
+home affairs,1.1428571428571428
+parts of the country,0.6352941176470588
+properties,1.7286779414438989
+accordance,1.4069045211613462
+costs,0.8167395522604189
+persons,2.5993381990166555
+un  high commissioner,0.0
+sale,3.3662581620085734
+principles,1.3198511166253102
+justice of that court,0.5

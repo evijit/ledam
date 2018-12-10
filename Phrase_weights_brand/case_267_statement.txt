@@ -1,0 +1,516 @@
+mishra,0.3173076923076923
+with proper attestation,0.5
+code,2.880559796437659
+legal heirs,3.1666666666666665
+incidental to the matter of booking,0.5
+award under section,0.8333333333333334
+same upon payment,0.5
+such claims in all times,0.5
+appropriate application before honble supreme court,0.5
+full co-operation,0.0
+party in respect,1.0
+reasons,1.3749054007567938
+sections,1.640495469442838
+terms,2.390350840909655
+matters,1.4810665618448637
+first party,5.666666666666667
+fee,1.560669497024209
+interest,2.74353772015385
+court,12.24425115501509
+gautam budh nagar,2.5
+noida,1.3333333333333333
+party beneficiary,0.5
+agreement,3.450434632433366
+witnesseth,0.5
+objection,1.68120480131216
+agreement as aforesaid,0.5
+ors,2.8612718198296623
+way,1.7812722068664852
+gh-,0.0
+behalf,1.9888053603529987
+total amount,0.5333333333333333
+litigation,1.4968553459119498
+nothing,0.8658723322806009
+honble supreme court liability to clear bank,0.5
+lac by way,0.5
+terms of para,1.0
+shri,2.0759135877246115
+district,1.5506763074237984
+to the matter of booking,0.5
+claim against the first party,0.5
+shri om prakash kapoor,1.0
+second party assure,0.5
+term of the present settlement,0.0
+aforesaid,2.592896174863388
+conciliation act,2.923076923076923
+claim,2.817264601856604
+case crime,3.6666666666666665
+first party indemnify in respect,0.5
+appeal,3.4125488033856883
+parties in case,0.6666666666666666
+court of judicature,1.4210526315789473
+second party undertakes,0.5
+other legal heirs,1.5
+petition under section,1.5
+read,2.2147281730888695
+alstonia apartments,0.5
+state of uttar pradesh,1.6470588235294117
+parte,0.7168042010502624
+details of payment,0.5
+obligations,0.9121212121212122
+limited,1.3713554955535188
+claims,1.1941982272360998
+miscellaneou,0.5284090909090909
+aforesaid fir,0.5
+subject,2.4420366233344897
+party assures,0.5
+father,1.4298716229162676
+apartments,0.21666666666666665
+lakhs,2.046511627906977
+order,5.472481489660944
+application omp,0.5
+payment settlement amount,0.5
+act,12.870263922028107
+complete exclusion,0.3333333333333333
+nagar,0.8617021276595744
+hereto,1.1302083333333333
+settlement agreement,1.0
+second party stand,0.5
+miscellaneous application,1.0
+effect,2.184583388478191
+copy,0.8620926631522174
+greater noida,0.5
+supreme court liability to clear bank,0.5
+parties,1.8210828547990157
+incidental to the dispute,0.5
+respect of remand,0.5
+such claims,0.5161290322580645
+section,9.287987283173626
+claim of the second party,0.0
+booking,1.3333333333333333
+first party to the second party,0.5
+check,0.7221664994984955
+january,0.8699641577060931
+fir,2.85390975582079
+second party undertake,0.5
+condition,2.259476395625584
+instalment,1.375
+respect of the matters,0.6666666666666666
+representative,1.0617102796119673
+honble allahabad high court,0.5
+second party in respect,1.0
+civil,2.126558634963905
+admission of liability,0.5
+district gautam budh nagar,2.0
+judicature,1.4210526315789473
+further slp,0.5
+regard,2.723310344827586
+shri anil bhasin,0.5
+sole arbitrator,2.25
+above total payment,0.5
+consequent proceedings,0.5
+term in the writing,0.0
+co - operation,0.0
+booking of the second party,0.5
+money,1.6567889044524557
+rights,1.6349541930937281
+copy of settlement deed,0.5
+such claim,1.0222222222222221
+para,2.300239586747483
+party in case,0.5
+further hereby,0.5
+final settlement amount liability,0.5
+relevant portion,0.6486486486486488
+form,2.4865961263718424
+legal heir to the complete exclusion,0.0
+leave petition,2.013333333333333
+writing,1.1746753246753248
+arbitration proceeding,2.909090909090909
+name of second party stands,0.5
+home,0.9826663267907214
+transmission to the second respondent,0.5
+benefit,2.604810195438474
+to the dispute,0.9743589743589743
+- dues certificate,0.0
+cost,1.2954397451466992
+aforesaid check fir,0.5
+obligation of second party,0.5
+such status,0.75
+mediation,0.4571428571428572
+law time,0.5
+counsel fee,0.5
+party stands,0.3333333333333333
+course,1.6545957498716626
+allahabad in criminal miscellaneous application,1.0
+father shri,0.6666666666666666
+interest in the same upon payment,0.5
+company,5.864471879286695
+home loan vide home loan agreement,0.5
+condition as mentioned therein,0.5
+pradesh,4.365853658536586
+crime,1.6636528028933093
+amendment,2.2486412346818434
+jain,1.673202614379085
+ground,1.4186722903211633
+richu kapoor,0.5
+late father shri,0.5
+learned counsel for the second respondent,0.5
+onward transmission to the second respondent,0.5
+sanil,0.6666666666666666
+second party to the settlement deed,0.5
+term of para,0.0
+matter,2.8088923076923082
+relation,1.397320207820618
+loan,2.299059561128527
+party assure,0.5
+arbitration,11.242690058479532
+delhi high court vide petition bearing,0.5
+criminal,3.301971081989414
+term,3.6255105640901575
+lac,2.403150042398463
+terms of the present settlement,0.5
+appellants,7.701086956521739
+penal,1.8829173709853835
+other legal heir,1.5
+view,2.441100058469462
+liability,2.532836248924577
+housing finance corporation,2.0
+vide,4.454025282767798
+penal code,2.710144927536232
+settlement amount liability,0.5
+draft,1.1403225806451613
+witness,5.333906623599983
+floor in alstonia apartments,0.5
+sector pi i,0.5
+second floor,1.0153846153846153
+record,2.5393414390845273
+procedure,2.552771605064117
+due course,1.0648148148148149
+terms in the writing,0.5
+appeal against order,0.75
+entire agreement among the parties,0.5
+benefit of the parties,0.6666666666666666
+criminal crime,2.5
+aforesaid dues,0.5
+flat in name of second party stands,0.5
+respect,2.6704963235294117
+such order,1.056910569105691
+first,1.9006367208168047
+first party indemnify,0.5
+respect of the home loan,0.5
+joint application,0.5
+remainder,0.5833333333333334
+learned counsel,3.703333333333333
+registration,2.231365215068127
+first party till date,0.5
+suit against the first party,0.5
+duties,1.477142857142857
+matter of booking,1.0
+special,1.7363344051446945
+settlement deed,1.0
+parties that the first party,0.5
+criminal procedure,6.406779661016949
+honble supreme court,2.272727272727273
+kumar,2.028839704896043
+demand,1.5671679197994988
+thereto,1.0358342665173572
+appellants under section,1.0
+second party assures,0.5
+second party,8.333333333333334
+impugned order,2.265957446808511
+civil suit against the first party,0.5
+remainder of the agreement,0.5
+due,1.6178286949129652
+attestation,0.6666666666666666
+modification,0.9714977645305514
+representatives,0.8874021711688966
+party to the second party,0.5
+times,0.8987140267391797
+aforesaid observation,1.0555555555555556
+apartment,0.14013840830449825
+successors,0.5333333333333333
+code of criminal procedure,6.120689655172414
+party,2.2250894654439723
+tripartite agreement,3.0
+delhi,2.6089285714285717
+upon payment,1.0
+details,0.9406426856198188
+settlement,1.6881394467601363
+legal heirs to the complete exclusion,0.5
+honble supreme court on account,0.5
+full force,0.47727272727272724
+kapoor,1.5
+date,6.195616975795285
+consent,1.224924012158055
+alstonia,0.5
+uttar pradesh,2.8
+understanding,0.8257450331125827
+demand draftbanker,0.5
+legal heir of late shri om prakash kapoor,0.0
+conciliation,1.925
+budh,1.5
+bank,9.40770083102493
+agreements,1.0784313725490198
+respondent,4.757894736842104
+negotiate settlement,0.5
+postbank,0.2857142857142857
+home loan,2.0
+banker,6.75
+read with order,1.8571428571428572
+question,2.980312372067635
+final settlement amount,1.0
+dr sanil kapoor,0.5
+such claim in all times,0.0
+demand draft,2.25
+under-,0.0
+final settlement amount liability of ms,0.5
+second floor in alstonia apartments,0.5
+hereby,0.9937897922972551
+alteration,1.2619047619047619
+thinking,0.4530612244897959
+india that the slp,0.5
+honble,2.4444444444444446
+other legal heir to the complete exclusion,0.0
+hereinbelow,1.0
+beneficiary,1.8333333333333333
+amount,3.179688593072295
+supreme court,1.4278957326045825
+consequent proceeding,0.5
+plot,1.9177369203731243
+name,1.8996570753072433
+entity,1.342435251377007
+prakash,1.8933333333333333
+cooperation,0.8318725099601593
+high,5.367119186841496
+payment,2.059553716565686
+supreme court on account,0.5
+detail of payment,0.0
+bank andor,0.5
+disputed claims,0.5
+account,2.5754891049671977
+party indemnify in respect,0.5
+file,1.3720673638585223
+force,1.6009408121948314
+bhasin,0.5
+honble supreme court liability,0.5
+second party stands,0.5
+legal heirs of late shri om prakash kapoor,0.5
+dismissal,1.614076246334311
+portion of this agreement,0.5
+prayer,0.6969296987087519
+suit,2.485274378207659
+dues,1.2780386019822638
+co - operation to the first party,0.0
+balance,0.9863636363636363
+claims in all times,0.5
+praying,0.5957446808510637
+purpose,2.519170317925504
+law,3.538923411654744
+change,1.2214862766571903
+trial court,3.854545454545455
+observation,0.7625074854374218
+deutsche,0.25
+time,2.4764180952862667
+settlement amount,2.0
+dewan,1.0476190476190477
+cooperation to the first party,1.0
+prosecute,1.1142045454545455
+application before honble supreme court,0.5
+sole,0.9772500356582512
+same with proper attestation,0.5
+party to the settlement deed,0.5
+settlement amount liability of m  s,0.0
+honble delhi high court vide petition bearing,0.5
+honble delhi high court,1.6666666666666667
+cost of litigation,0.5
+india in order,0.5
+other legal heirs to the complete exclusion,0.5
+- stood,0.0
+executive,1.3789130780232004
+successor,1.2925170068027212
+appellant under section,1.4375
+right,3.07483248288682
+hereinafter,0.7670609645131939
+severance,0.4800000000000001
+flat in question,0.8
+sum of money,0.7638888888888888
+certificate,2.732600732600732
+aforesaid due,0.5
+counsel,2.2246780703440323
+application,2.3322596088086445
+award,3.104213525266157
+india,2.7684068260703585
+such claim against the first party,0.5
+witnesses,3.359210526315789
+negotiate settlement of the dispute,0.5
+party ie,0.75
+onward transmission,0.5
+civil suit,0.7413793103448276
+exclusion,1.276390008058018
+other understanding,0.5
+application omp on any ground,0.5
+floor,2.088735201031532
+sector,1.1724200913242009
+cheque,6.749999999999999
+case of dismissal,0.5
+honble supreme court under special leave petition,0.5
+ltd,2.382356477306883
+dispute,2.402137592137592
+special leave petition,2.013333333333333
+om prakash kapoor,1.0
+arbitration proceedings against the second party,0.5
+detail,0.9737454684220567
+case,7.332269420884958
+possible way,0.2692307692307692
+tripartite agreement from company,0.5
+lease,1.2000155472636815
+c act,1.7647058823529411
+flat with the second party,0.5
+future,0.9664487618116651
+portion,1.0756311179804223
+court of law,0.673963133640553
+mentioned therein,1.1111111111111112
+aforesaid matter,0.5
+appropriate application,0.5925925925925926
+favour of the second respondent,0.5
+- in favour of the second respondent,0.0
+greater,0.592310772927513
+proceedings,1.7670925223666287
+favour,1.653145208700764
+third party beneficiary,0.5
+check fir,1.8000000000000003
+arbitrator,13.860000000000001
+perpetuity,0.45000000000000007
+agreement from company,0.5
+order by honble high court,0.5
+duty,3.2272215973003378
+view of the above total payment,0.5
+late shri om prakash kapoor,0.5
+incidental thereto,1.0
+leave,1.0147842365477848
+slp,1.291953447628582
+second,1.4990453300392075
+joint application on behalf,0.5
+honble high court,1.1666666666666667
+discretion,1.2998211091234348
+allahabad high court,1.7037037037037037
+omp,4.74098822724467
+final payment settlement amount,0.5
+disputes,2.3049883690876194
+housing finance corporation ltd,2.0
+gautam budh nagar at noida,0.5
+delhi high court,2.380952380952381
+ashok,0.4374740340673037
+party stand,0.3333333333333333
+admission,1.5389848246991107
+allahabad,2.3404255319148937
+hand over no-dues certificate,0.0
+remand,1.08843537414966
+notice,2.3300025999395686
+other legal heir of late shri om prakash kapoor,0.0
+district judge,2.1684981684981683
+shall,3.6283780276816606
+status,1.14824388424026
+high court of judicature,1.4210526315789473
+full co-operation to the first party,0.0
+miscellaneous,0.5284090909090909
+petition bearing,0.6666666666666666
+bank in due course,1.0
+criminal miscellaneous application,1.0
+blue,0.5764676862358165
+executive application,0.5
+in question,1.2157528957528958
+bank on behalf,1.6666666666666667
+reason,2.6381270903010035
+operation,1.0959893294085181
+claims of the second party,0.5
+lakh,1.3647388059701493
+entire agreement,0.75
+claim in all times,0.0
+alstonia apartment,0.5
+petition,5.3436539306104525
+remedy,1.3214024835646458
+notices,0.5487269534679544
+birla,0.6666666666666666
+legal heir,3.1538461538461537
+further slp before the honble supreme court,0.5
+claims of other legal heirs,0.5
+second respondent,4.166666666666667
+registration of aforesaid fir,0.5
+consent of the parties,1.1666666666666667
+blue home finance,0.5
+housing,1.9061032863849767
+ravish,0.6666666666666666
+clear bank,0.5
+with the second party,0.5
+party till date,0.5
+objection to the present settlement,0.5
+application on behalf,0.5
+arbitration proceedings,2.4545454545454546
+anil,1.1751552795031055
+sole discretion,0.75
+final amount,0.5
+tiwari,1.0909090909090908
+party indemnify,0.5
+second party ie,0.5
+better understanding,0.2807017543859649
+status of a third party beneficiary,0.5
+challenge,1.2204566274399267
+heir,2.4782705005515444
+judge,2.9012627415183325
+last instalment,1.0
+heirs,1.7930440771349863
+slp before the honble supreme court,0.5
+corporation,3.6427750743444176
+ex parte award,0.6666666666666666
+agreement among the parties,0.5
+richu,0.2142857142857143
+state v anil jain,3.5
+party undertake,0.5
+registration of aforesaid check fir,0.5
+gautam,2.5
+remedy against the award,0.5
+proper attestation,0.5
+pursuant,0.7227692307692308
+indian penal code,5.264705882352941
+hand,2.0299623418254717
+aforesaid matter of booking,0.5
+view of the settlement,0.75
+appellant,14.387096774193548
+settlement of disputed claims,0.5
+allotment,4.111111111111112
+either party,1.55
+obligation,1.1071428571428574
+that birla home finance,0.5
+uttar,2.188679245283019
+first blue home finance,0.5
+cheque before honble supreme court,0.5
+supreme,1.443815331010453
+transmission,1.1157457081545064
+such statu,0.9
+suggestion,1.2425592585991803
+high court,7.7477477477477485
+complainant,4.538461538461538
+party undertakes,0.5
+eventuality,0.5864197530864198
+state,6.817996007300392
+aforesaid observations,1.0833333333333333
+trial,3.7979448350459712
+deed,1.3564447722662734
+present settlement,1.0
+claim of other legal heirs,0.0
+criminal case,1.4464285714285714
+balance amount,1.1428571428571428
+parties hereto,1.4444444444444444
+supreme court under special leave petition,0.5
+supreme court liability,0.5
+other legal heirs of late shri om prakash kapoor,0.5
+final settlement,1.2857142857142858
+finance,1.9582470669427192
+sum,2.554898897856461
+observations,0.7454584147497534
+in name of second party stands,0.5
+disputed claim,0.6666666666666666
+other act,0.8264758497316638
+home finance,1.6666666666666667
+form of demand draftbanker,0.5

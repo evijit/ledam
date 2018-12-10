@@ -1,0 +1,1703 @@
+ananda,1.2000000000000002
+castestribes,1.0
+backdrop,0.5833333333333334
+government,3.5583785424010483
+reasonable opportunity for promotion exist,0.0
+senior division,2.1
+first respondent herein,1.5
+sources,0.8884345343723477
+assistant engineer,4.428571428571429
+mark,2.700508607198748
+other candidate,1.9259259259259258
+high court register in the order,0.5
+foregoing reason,1.0714285714285714
+relation to posts,0.6666666666666666
+caste in the roster,0.0
+appellant no,3.689655172413793
+ad hoc basis,1.0
+terms of the rules,1.2
+union,2.0981927710843373
+dispute that the result,0.5
+in law,1.1088664421997756
+cause,1.8431210321626654
+same manner,0.6079182630906769
+ex-servicemen,0.0
+civil judge,3.2142857142857144
+opening words,0.8333333333333334
+open in the order,0.5
+longest in service,1.0
+district,1.5506763074237984
+appointment of the candidates,0.5
+direct recruits,1.8571428571428572
+subordinate judge,3.6363636363636362
+approval by this court,0.5
+test,2.5329834591340266
+number of contentions,1.0
+merit suffer,0.5
+open to the high court in the interests,1.0
+rationale of reservation,0.6666666666666666
+psc,1.8715393133997786
+scr,2.483838975311538
+upto september,0.5
+limited number,0.3888888888888889
+accordance with the order,0.8
+appointment in the batch,0.0
+relevant instructions,0.5
+qualified candidates,2.25
+available to the government,1.0
+stage,1.1298537871524448
+reliance in this behalf,0.8333333333333334
+executive instructions,0.6666666666666666
+names of candidates,2.0
+categorical declaration,0.5
+fixation,1.1141025641025641
+recruits,2.0714285714285716
+constitutional schemes,0.5
+order,5.472481489660944
+edn,0.4833395383469844
+adjustment of the candidates,0.5
+high court in exercise,1.0714285714285714
+mr baljeet,0.5
+case in which members,0.0
+standards,1.312168199737188
+different time,0.425531914893617
+tests,1.9146311374290645
+valuable guide,0.6666666666666666
+on the constitutional anvil,0.6666666666666666
+candidates,3.508445945945946
+years  qualifying service,0.0
+placement in the order,0.5
+proficiency,0.41666666666666663
+member,2.649111111111111
+thereby,0.8226831482645437
+different source,0.9529411764705883
+parties,1.8210828547990157
+d organisation,0.8571428571428571
+chander,1.8095238095238095
+servant,2.030552291421857
+mr pramod kumar,1.6666666666666667
+executive engineer,6.375
+point promotion,0.5
+krishan,1.2
+scheduled castes,2.7777777777777777
+which member,0.45000000000000007
+anticipated vacancy,0.0
+present case,1.5611814345991561
+continho v collector,0.5
+constitutional anvil,0.6666666666666666
+proces,1.627944583238701
+misinterpretation of the relevant instructions,0.5
+number of the vacancies,0.0
+se seniority as assistant executive engineer,0.5
+higher positions,0.30000000000000004
+fault,0.8125244007183572
+gramya bank,0.5
+part-d governing appointment,0.0
+neelima shangla,4.5
+proviso to article,1.5
+other nations of the world,0.6666666666666666
+arrangement,0.7318181818181818
+making,1.409351874023649
+july,0.9742727723122656
+commander j kumar v union of india,0.5
+court in ajit singh-,0.0
+candidate,6.356675392670156
+absence of a rule,0.5
+mrs,0.4085714285714286
+ad hoc basi,1.0
+circular letter,2.5
+sources of recruitment,0.5
+term of the merit list,0.0
+various field,0.8
+percentage,0.8769344141488578
+holding,1.2555282555282552
+scheme,3.415949119373777
+suspicion,0.690982776089159
+president,2.1267129228100607
+such practice,1.159090909090909
+members of the general category,0.5
+competitive examination,1.6
+se seniority as regards vacancies,0.5
+lus merit,0.5
+high courts,2.676470588235294
+contention of the appellant,1.1851851851851851
+country,1.2903191103863751
+large number of places,0.5
+lower place,0.3333333333333333
+use of the word reservation,0.75
+- availability of the candidates,0.0
+mr pp,1.1
+mr chander bhan,0.5
+qualifications for appointments,0.5
+fore,7.06241367403315
+opportunity,0.946186440677966
+basis of result,0.5
+impugned judgment,2.0927152317880795
+meritorious in the order of merit,1.0
+era of globalisation,0.6666666666666666
+further direction,1.2380952380952381
+rk sabharwal,1.6
+sole determining factor,0.5
+meantime,0.5833333333333334
+appellant that the impugned rules,0.5
+appointment of mrs manisha chopra,0.5
+elusive factor,0.5
+engineer,3.318922187370092
+different persons,0.6666666666666666
+applications,1.0021816198527407
+basic fact of the matter,0.6666666666666666
+post,2.344803646492219
+main interest,0.2777777777777778
+such vacancy,0.5
+same persons,0.5
+scheduled caste,3.875
+respective date,1.0
+subject to any penalty loss of seniority,0.5
+appointment letters of mr  as  narang,0.0
+basis of the respective dates,0.5
+merit,1.2419290263876248
+subordinate positions,0.3333333333333333
+regard to the roster points,0.5
+backward,1.866666666666667
+sustainable on the constitutional anvil,0.6666666666666666
+penalty los,0.5
+judge bench,2.8472222222222223
+same examination,0.5
+register in the same manner,1.0
+apex court,1.375
+v state of punjab manuscmanusc,1.5217391304347827
+appointments in the batch,0.5
+removal,0.7204301075268817
+resolution,1.771256437663978
+appointment letters,1.0
+duties,1.477142857142857
+anr,1.1271033322299457
+s seniority points,0.5
+december,0.9629002463054187
+basi of principle,0.0
+absence of any specific rule,0.5
+continuous service,0.8
+applicability,1.0928961748633879
+qualifications,1.0714285714285714
+doubt,1.3646267723102583
+gramya,0.5
+public service commission,3.7857142857142856
+furthermore appointments,0.5
+report,1.7768151696835826
+backward classes,2.8
+seniority of service officers,0.5
+absence of rules,0.5
+different sources,0.9818181818181818
+principle,1.9620890732001848
+practice prevalent,0.5
+angle,0.4852556924225457
+ranking of the direct recruits,0.5
+seniority rules,0.75
+basi of respective dates,0.0
+factor,1.2878742338904643
+to the high court in the interests,1.0
+regards vacancy,0.0
+in term of rule,0.0
+executive order,0.4166666666666667
+positions,0.6913299663299662
+servants,1.1313131313131313
+examination for recruitment,0.5
+service commission,5.142857142857143
+voce tests,0.5
+third candidate,0.5
+capoor,0.5
+offer,2.188208616780045
+high court in kamal kant,0.5
+suitability,0.8181818181818181
+division bench,3.965217391304348
+limit to the number,0.2857142857142857
+date,6.195616975795285
+names as noticed hereinbefore,0.5
+se seniority,7.0
+reference,2.1755848210276256
+personal interest of members,0.5
+ten vacancy,0.0
+fields,0.9241650294695481
+kamal,0.8250000000000001
+requisition,1.7368421052631582
+respondent,4.757894736842104
+commission-,0.0
+schedule,2.9453067257945307
+post in the service,0.5
+emphasi on merit,0.0
+v state of punjab,1.4848484848484849
+block system for the purpose,0.5
+break,0.8632505016206206
+dispute that the rules,0.6666666666666666
+august,0.977116704805492
+merit of the qualified candidates,0.5
+ms sarita gupta,0.5
+india judges association,3.6666666666666665
+officers of haryana judicial service,0.5
+supreme court,1.4278957326045825
+past,0.9553167330358714
+best possible incumbents,0.5
+court in neelima shangla,3.0
+high,5.367119186841496
+in service,1.2540540540540541
+bimlesh,0.5
+following terms,1.5957446808510638
+fair,1.333141121131062
+narang,0.4
+term of the rules,0.0
+normal process of selection,0.5
+event,1.4310854436179261
+eligible advocate,0.6666666666666666
+fixation of pay scales,0.5
+equity,1.3214285714285714
+public service,1.9112903225806455
+v state of haryana,1.3103448275862069
+regard to the practice prevalent,0.5
+nos,1.2635492554198444
+engineering,1.3567493112947657
+v ananda chandra da,0.5
+effect of the roster- point promotion,0.0
+mere use,0.6000000000000001
+writ petitions of mr  rajiv tyagi,0.0
+roster- point promotion,0.0
+select,2.4759006372740275
+k duraisamy,0.75
+successful candidate,1.6666666666666667
+sant ram sharma s case manuscmanusc,0.0
+that recruitment,0.75
+relevant rules seniority,0.6666666666666666
+arise,1.1675508399646328
+competitive exam,1.8
+executive,1.3789130780232004
+merit list,5.0
+criterion,0.7104166666666666
+mere use of the word reservation,0.75
+misinterpretation,0.3333333333333333
+recruit,5.268177028451001
+hereinafter,0.7670609645131939
+statutory rules,1.875
+march,1.0644238856181665
+exception,1.1036946087733006
+experience,1.0353951355971713
+note of the fact,1.4705882352941178
+mr rajiv tyagi,1.0
+commission,4.703619179345321
+reserved categories,2.25
+large number of officers,0.75
+valid reason,0.6153846153846154
+in the order,0.912962962962963
+names,1.766440410418311
+manisha,3.0
+- existence,0.0
+illegality in the order,0.8
+regard to the amendment,0.6666666666666666
+sinha,0.8166351606805294
+ex-serviceman,0.0
+pay scales,4.0
+class inadequacy,0.6666666666666666
+vacancies of haryana,0.5
+gap,0.5109023703753942
+less weight,0.2777777777777778
+years period,1.0
+vacancy in the reserved categories,0.0
+ms ritu,1.0
+category candidates,2.25
+power of control,0.5
+state of maharashtra,2.5434782608695654
+determination of inter se seniority,1.0
+quota rules,0.5
+emphasi,0.9191619047619048
+such number,1.6
+honest work,0.30000000000000004
+possible incumbents,0.5
+careful compliance,0.5
+ram,2.11096203538064
+factors,0.9829522460542292
+cum,1.9825519589997616
+candidates to the state government,1.0
+students union v aiim,0.5
+singh,3.7791111111111113
+furtherance of the order,0.6666666666666666
+purposes,1.4391216613438835
+furthermore,0.9849537037037037
+case of the concerned candidate,0.0
+service,4.257395095954566
+end,6.1484001628618765
+affirmative action,0.6222222222222222
+miss neelima shangla,1.0
+rule,5.04
+aggrieved,1.2479674796747968
+duggal,0.5
+favour,1.653145208700764
+term of rule,0.0
+appellant nos,1.375
+basis of merit,1.5
+vogue,0.5898617511520737
+chandra,0.7012987012987013
+high court s direction,0.0
+names of the petitioner,0.5
+register in that order,0.5
+opening word,0.8333333333333334
+respondents,2.6341263330598856
+select list,1.75
+high court register,1.0
+singh-ii,0.0
+costs,0.8167395522604189
+ldr,1.2969330709891003
+scsbc in every block,0.0
+mr ram singh,0.5
+more vacancies,0.5
+neelima shangla v state of haryana manuscmanusc,0.5
+process,1.6274942048088725
+higher,1.7172937941551014
+part-a of the rules,0.0
+ashok,0.4374740340673037
+constitutional concept,0.75
+bcs,0.7296058661778184
+appointment letter of ms  ritu,0.0
+hoc,0.8814236714464876
+power,3.8165227690948367
+justification in favour,0.6666666666666666
+that merit,0.5
+placement,2.6365503080082138
+examination,2.4920345926263088
+schemes,1.1961722488038278
+kali,1.9421965317919077
+judge under rules,0.0
+position,1.549133168619177
+one,4.845669314438648
+petition,5.3436539306104525
+consideration,1.9110153789142115
+appeal no,2.288135593220339
+resolution in that behalf,0.5
+devoid,0.5094339622641509
+long standing practice,1.0
+public service by promotion,0.5
+words,1.6384367086179112
+penalty,1.5165226929932814
+attainment,0.3
+commissioner,2.271608643457383
+higher rung,0.5
+full list of successful candidates,0.5
+protective reservation,0.75
+merit inter,0.5
+india judges association s case,0.0
+officiation in such post,0.5
+rajiv tyagi,1.5
+script,0.6090128724483556
+inter alia therein,0.6666666666666666
+india judges  association,0.0
+jhanji,0.5
+serial number,0.15960912052117263
+rules in vogue,0.5
+standing,1.224042586942808
+rk sabharwal v state,0.6666666666666666
+list of candidates,1.25
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+promotion ladder,0.5
+hitherto fore,0.5
+earlier case in which members,0.0
+regard to the consistent practice,0.5
+special leave,1.903225806451613
+v ananda chandra das,0.5
+pursuant,0.7227692307692308
+lus,2.1507275274713313
+circumstances of the case,1.3373493975903614
+principal object of a promotion system,0.5
+national,1.5126860273884035
+substantive rank,0.5
+category in the competitive exam,0.5
+se seniority as regards vacancy,0.0
+interest of members,0.5
+sant,0.6136188907193849
+same rule,0.4861111111111111
+se seniority as assistant engineer,0.5
+for nepotism,0.5
+voce test,1.75
+dates of attainment,0.5
+supreme,1.443815331010453
+validity of the appointments,0.5
+writ of the court,0.6666666666666666
+sole test for selection,0.5
+legal issue,0.5454545454545454
+india v ml,0.5
+ladder,0.41304347826086957
+basis of the order,0.875
+relative seniority,1.0
+necessary selection,0.5
+general,1.7536558414534391
+banking,2.1351674641148324
+era,4.5714514802649
+language,0.8555828468744352
+merit in this appeal,0.9285714285714286
+higher percentage,0.5333333333333333
+respondent no,5.395833333333333
+determining factor,0.5
+petitioners,3.536507936507937
+contesting party,0.5
+number of officers,0.8
+action,3.127292663476874
+judges under article,1.0
+respective merit,0.8
+efficacy,0.7863247863247863
+issue order,0.75
+rule of affirmative action,0.5
+ajit singh,2.3333333333333335
+source of recruitment,0.6666666666666666
+haryana v rajiv kumar ca,0.5
+enactment,1.439950980392157
+reserved candidate,5.0
+vacancy,1.0666666666666667
+province of the commission,0.5
+viva-voce,0.0
+das,1.508694082231246
+major,1.2322145202480845
+other hand,0.6931925622439332
+publication,1.3442779291553135
+responsibility,0.8659259259259259
+impugned rule,1.6666666666666667
+batch,1.2940630797773658
+application whatsoever,0.75
+law in the following terms,1.0
+los,1.8125523261338943
+conclusion that the seniority,0.5
+instance,0.9469803370786518
+batra,1.3333333333333333
+inter,3.683850287482992
+court,12.24425115501509
+morale,0.4912280701754386
+regards vacancies,0.5
+declaration,2.152560083594566
+to other subordinate positions,0.5
+subordinate judges under rules,0.5
+respect of ms ritu jhanji,0.5
+person,4.291511329454258
+such promotion,0.5333333333333333
+nation of the world,0.0
+different person,0.5384615384615384
+service recruitment board,0.5
+various roster point,0.5
+rk sabharwal v state of punjab manuscmanusc,0.6666666666666666
+nothing,0.8658723322806009
+general candidate,5.5
+age,4.526374474274117
+number,1.4802651440973922
+decision,2.9514937765898557
+reserved point,0.5
+selection for promotion,1.0
+basis of respective dates,0.5
+prior thereto,0.8888888888888888
+different sources of recruitment,0.5
+manisha chopra,2.0
+seniority inter se,0.6666666666666666
+officers for determination,0.5
+years from the date,1.8518518518518519
+concerned candidate,0.5
+interpretation,1.518366298484459
+castes at point,0.5
+seniority vis - a - vis of different sources,0.0
+basis of quota,0.6666666666666666
+notified vacancies,0.5
+kishore,0.6823529411764706
+year,2.8349484769759212
+year of required service,0.0
+cent marks in the language paper,0.5
+backward class,3.8461538461538463
+judgment,3.288216560509554
+mr pramod,1.5
+se seniority of the candidates,1.6666666666666667
+pages,0.4777568922305764
+consequence of ipso facto,0.75
+loss,2.0689655172413794
+different categories,0.7800000000000001
+proces of selection,0.0
+permanent second mint,0.5
+recommendations as regard,0.6666666666666666
+general candidates,4.0
+such post,0.5
+opinion of the commission,0.75
+general category,2.0
+clas,2.1196191893660425
+category candidate,2.6
+court in the order,1.3333333333333333
+haryana judicial service,0.5
+level,1.1533169827122092
+thereafter,1.3123461853978673
+part d of the rules,1.5
+part d,0.6820512820512821
+passage,0.6514737598849748
+v chairman,0.5
+kant,0.8185328185328185
+nations of the world,0.6666666666666666
+voce,1.6666666666666665
+quota of appointment,0.5
+commander j kumar v union,0.5
+equal marks,0.5
+patrudu,0.5
+herein,2.825259515570934
+necessary that the person,0.5
+combined seniority list,1.0
+constitutional scheme,1.6363636363636365
+part-b,0.0
+scsbcs,2.0
+standard,1.4669008088548319
+more vacancy,0.0
+promotion in the r,0.5
+general principles,0.5735294117647058
+chief secretary s letter,0.0
+dates,2.6187832912811886
+punjab government gazette,0.5
+officers,2.442124212421242
+finding,1.8129183657767178
+punjab service commission in the list,0.5
+serial numbers of the vacancies,0.5
+appellant herein,2.046153846153846
+v union of india,2.381818181818182
+regard,2.723310344827586
+serial number of the vacancies,0.0
+merits deserve,0.6666666666666666
+important for the purpose of determination,0.5
+promotion,2.946428571428571
+general categories,0.5
+direction,1.8495050210098996
+seniority at level,0.5
+duraisamy,0.75
+rights,1.6349541930937281
+roster,2.670037926675094
+facts,1.4696673624372698
+students union v aiims,0.5
+higher grade,12.0
+relevant portion,0.6486486486486488
+justification,0.6859587020648967
+fixation of seniority,0.8333333333333334
+term of the roster points,0.0
+senior,1.989753211141579
+cadre of district judges,1.0
+cost,1.2954397451466992
+desire,0.6008255933952529
+result of the examination,2.25
+case of doubt,0.5333333333333333
+sufficient for the filling of vacancies,0.5
+sub,7.816899313759727
+haryana government,1.0
+course,1.6545957498716626
+category candidate in the merit list,0.5
+part-b of the rules,0.0
+such merit list,0.5
+direct recruit class ii engineering officers,0.5
+sabharwal,1.875
+incentives,0.9375
+high court for a long time,0.5
+private respondent,1.0
+seniority between general candidates,0.5
+unwillingnes,0.52
+field,1.5820968371729793
+matter,2.8088923076923082
+whole organization,0.30000000000000004
+relation,1.397320207820618
+respondent herein in relation,0.5
+consistent practice,0.5
+basic fact,0.4444444444444444
+writ petitions before the high court,0.6666666666666666
+open ones,0.5
+aid,5.498621453008654
+rationale,0.6017094017094018
+lowest to other subordinate positions,0.5
+cwp nos,1.3333333333333333
+vacancies,7.473684210526316
+for members of the general category,0.5
+state services,0.6666666666666666
+recruit class ii engineering officers,0.5
+core,0.43168575654387237
+respective high courts,1.6666666666666667
+availability,0.6313043478260868
+procedure,2.552771605064117
+petitions,1.3930830039525692
+selections for higher rungs,0.5
+submission of dr  chauhan,0.0
+higher standard,0.5454545454545454
+ad hoc,1.5833333333333333
+hereinbefore,2.159090909090909
+provision,5.439002243350069
+backward classes in the order,0.5
+support,0.8630946786249609
+circular,2.0360934182590236
+to other subordinate position,0.5
+concept of a protective reservation,0.75
+most weight,0.5
+advocates,0.6153846153846153
+selections,0.6289308176100629
+substantive rank of major sqn,0.5
+criteria,1.3561764705882353
+large number,1.0979284369114877
+organisation on subsequent dates,0.5
+jagdish,1.2222222222222223
+judicial branch,0.625
+government from time,0.8
+sssb,0.5555555555555556
+object,1.4940119760479043
+kumar,2.028839704896043
+thereto,1.0358342665173572
+qualification for appointments,0.0
+longest in service in a particular grade,0.5
+vacancies for general category,0.5
+interpretation of the rules,1.0
+shetty s commission,0.0
+schedule castes candidates,0.5
+more member,1.8
+times,0.8987140267391797
+leave petition in respect,0.5
+relevant portions,0.875
+light,0.8816192372754331
+punjab manuscmanusc,1.625
+service from the date,1.0
+india imply,0.5
+weight in promotions,0.5
+court that seniority,0.5
+whereof,1.2790697674418605
+- reliance by dr chauhan,0.0
+unreasonable go,0.6666666666666666
+issues,1.1246716508385532
+selection from the qualified candidates,0.5
+shetty,10.166666666666666
+request,1.1474439594584596
+support of this appeal,0.8333333333333334
+per,7.977753416636086
+case as executive engineer,0.5
+seniority vis - a - vis,0.0
+result in the gazette,0.5
+approval,1.4085456739300164
+become,1.1924008436951488
+reasonable opportunity,1.5714285714285714
+case manuscmanusc,3.3684210526315788
+terms of rule,1.8333333333333333
+shangla,4.5
+serial nos,1.3333333333333333
+sqn,0.23529411764705882
+fundamental duty,0.5
+general category candidate,1.3333333333333333
+employees,4.611008798854102
+that recruitment to the higher judicial service,0.6666666666666666
+lawyers,0.5820642978003383
+quota rule,0.5
+principles,1.3198511166253102
+names of the candidates,1.0
+district judges,4.75
+appointment letter,1.3333333333333333
+incentive,0.9444976076555026
+eligible advocates on the basis,0.6666666666666666
+writ,2.8882378560889794
+aforementioned backdrop,1.0
+complete list of qualified candidates,0.5
+seniority of the officers,0.5
+following passage,0.6942148760330578
+mode,0.8201666928762384
+side-stepping several general candidate,0.0
+normal proces of selection,0.0
+haryana public service commission,1.5
+customs,1.9344608879492597
+furthermore appointment,0.5
+gupta,0.7610062893081762
+proviso,2.112
+high court in the interests,1.0
+higher levels,0.4307692307692308
+esm,0.42608877721943045
+cases,1.9728229418951067
+division,1.7657319129617017
+implementation of recommendations,0.6666666666666666
+group,1.691932599016908
+cases of the concerned candidate,0.5
+seniority on the basis,1.0
+non-availability,0.0
+judicial officers for determination,0.5
+provision of articles,0.0
+cent mark,2.5
+per cent,1.6111111111111112
+dispute that the rule,0.6666666666666666
+aid to interpretation,0.6666666666666666
+to the government,0.7095343680709534
+block system,1.0
+ipso facto,0.8571428571428572
+wish,0.5561873255453323
+civil appeal no,2.1403508771929824
+government for appointment,1.5
+limits,0.8405888207868406
+light of the observations,0.9
+seniority in the r,0.5
+india,2.7684068260703585
+ten vacancies,0.5
+regard to the fact,1.5862068965517242
+mr man,1.1111111111111112
+standing practice,1.0
+dispute that the results,0.5
+association,1.2099052684061826
+pramod,1.4848484848484846
+promotions,0.8666666666666667
+perusal whereof,0.6666666666666666
+service by promotion,0.5
+statutory rule of the factual background,0.5
+origin,1.2344828910849253
+non-availability of the candidates,0.0
+entire list of qualified candidates,0.5
+respondents nos,1.2
+members of scheduled castes,0.75
+special leave petition,2.013333333333333
+decision of this court,2.3260869565217392
+name of the petitioner,1.3333333333333333
+judicial officer,10.714285714285714
+reliance,1.400763358778626
+students,1.1355891528677706
+writ petition before the high court,1.0
+whole,0.951414768806073
+settled seniority position,0.5
+officer of haryana judicial service,0.0
+statutory in origin,0.5
+the rule,2.2558441558441555
+cent of the posts,1.0
+case of candidates,0.5
+writ petitions,2.984848484848485
+advancement of any socially - and - educationally - backward classes,0.0
+chaman lal mohal,0.5
+hsc,0.39
+initial level,0.5
+promotee,1.4285714285714286
+higher position,0.4
+ajit singh-,0.0
+instruction,1.8197943962910703
+portion,1.0756311179804223
+appellant that the impugned rule,0.5
+recruit class ii engineering officer,0.5
+general category candidate in the merit list,0.5
+basi of quota,0.0
+length of continuous service,0.5
+judicial service,7.3076923076923075
+duty,3.2272215973003378
+test for selection,0.5
+legality,0.6845938375350139
+grievances,0.9324324324324326
+commander,0.25477707006369427
+tanwar,0.5
+clinching,1.0
+point,2.9165043546008516
+word reservation,0.75
+reference to the date,1.0
+rule in vogue,0.0
+cwp no,1.6363636363636365
+administrative side,1.6666666666666667
+steps,1.169318181818182
+serviceman,1.5555555555555556
+name of such number,0.0
+that basis,0.6886956521739132
+lal,1.6786163249382287
+reservation,2.6876587100050786
+engineers,1.7887874837027378
+vested rights,0.6666666666666666
+limited competitive examination of civil judges,0.6666666666666666
+ms manisha chopra,1.5
+rungs,0.3333333333333333
+writ petition in the high court,0.9166666666666666
+penalty loss of seniority,0.5
+years of required service,0.5
+dispute that this court,0.5
+category,1.9351744779266717
+writ petition,6.24223602484472
+dhonchak,0.5
+achievement,0.5070422535211268
+suppose recruitment,0.5
+that purposes,0.6666666666666666
+appointment as subordinate judge,0.5
+normal process,0.3333333333333333
+more names,0.38095238095238093
+sshri as narang,0.5
+mis,4.655567008935775
+incumbent,0.5797101449275363
+joining report,0.5
+writ petition of mr  rajiv tyagi,0.0
+plea,1.4430487701432178
+sant ram sharma,0.6666666666666666
+numbers of the vacancies,0.5
+respective dates,1.0
+sole basis,0.8
+question of appointment,0.75
+qualified employees,0.5
+specific rule,0.37037037037037035
+basi of merit,0.0
+result of an examination,0.5
+furtherance thereof,1.2
+viva,1.3664596273291927
+representations,0.5384615384615384
+opening,0.7180555555555556
+basis of principle,1.2
+selection,2.2651528696585017
+angles,0.3857142857142857
+requisite service,0.5
+language paper,0.3333333333333333
+inadequacy,0.7777777777777778
+level of the speciality,0.6666666666666666
+in order of merit,2.0
+matter of determination,1.1428571428571428
+goal,0.5651601830663616
+earlier cases,0.8
+page,1.011907905159212
+background,0.6800452488687784
+iilljsc,2.1666666666666665
+basi in case,0.0
+order of merit,4.6
+marks,1.4136144754122284
+respective posts,0.5
+for the filling of vacancies,0.5
+iii,1.5614499719992534
+methods,0.6227758007117437
+that situation,0.7674418604651163
+notice in the matter,0.5
+qualified candidate,1.5600000000000003
+selection of candidates,1.0
+successful candidates,1.0
+waiting,0.4161799065420561
+judge under article,0.5
+block,0.7881443298969073
+vacancy of the year,0.0
+post of a roster,0.5
+state,6.817996007300392
+officiation,0.5
+statute,2.5765859456247218
+chance,0.7937084625609215
+classes,1.212856534695615
+note,1.3654108484234107
+pay scale,3.875
+union of india v ss,0.5
+castes category,1.3333333333333333
+miss,4.620869345183967
+pursuant thereto,1.0769230769230769
+behalf of the respondents,1.3235294117647058
+basis of such merit list,0.5
+airsc,1.6909090909090911
+satish,0.8333333333333334
+man,6.972395052694935
+names of such number,1.0
+third candidates,0.5
+illjsc,3.25531914893617
+mohan,1.5416666666666667
+categories,0.8800000000000001
+source,0.840137091365362
+that register,0.5
+senior counsel,2.2857142857142856
+terms of the extant rules,0.6666666666666666
+judges under rules,0.5
+persons,2.5993381990166555
+tribes,1.6409945421467553
+lessor,2.7619047619047623
+corollary,0.5
+implementation,1.2465707594513213
+exist,1.4287788628534008
+validity,1.521010638297872
+constitution of india,3.0095238095238095
+right of appointment,0.6666666666666666
+custom,1.8742070505069293
+seniority over the general candidates,0.5
+meaning,1.8612727545949643
+fundamental duties,0.8333333333333334
+date of joining,0.8
+roster points,3.5
+factor in the making,0.5
+interest,2.74353772015385
+opportunity for promotion exist,0.0
+in the case of an appointment,0.5
+consonance,1.5
+noticed hereinbefore,1.6785714285714286
+behalf,1.9888053603529987
+ultimate goal,0.3508771929824561
+vacancy for a valid reason,0.0
+term of the extant rules,0.0
+customs manuscmanusc,1.0
+initial appointment,3.5
+normal proces,0.3333333333333333
+merit of the candidates,0.8
+court s direction,0.0
+castes in the roster,0.5
+vacancies for a valid reason,0.5
+that order,0.71055381400209
+merit suffers,0.5
+articles,1.4349688743466387
+more name,0.3636363636363636
+relative seniority of the members,0.6666666666666666
+dangerous guide,0.5
+appeal,3.4125488033856883
+promotion exist,0.5
+seniority rules in the light,0.5
+learned counsel for the petitioners,1.3076923076923077
+therein for consideration,0.5
+number of places,0.2692307692307692
+alia,0.9479866480753792
+backward class candidate,0.5
+other backward classes in the order,0.5
+whence roster system,0.5
+recommendation of the sub-committee,0.0
+advocate on the basis,0.0
+mrs manisha chopra,0.5
+aiims,1.8333333333333333
+appropriate rules,1.25
+mark in the viva - voce,0.0
+civil servant,0.6
+higher judicial service,5.375
+in service in a particular grade,0.5
+possible incumbents for the higher positions,0.5
+citizen,1.261748909029876
+purpose of determination,1.3333333333333333
+fact that the rights,0.5
+qualifying service,7.8
+fortuitous chance,0.5
+undisputed factual position,0.5
+list,4.014941314095513
+manner,1.4494591333432125
+recommendation for appointment,0.0
+most weight in promotions,0.5
+reasonability,0.5
+roster-,0.0
+first candidate,1.0
+valid in law,1.3333333333333333
+which members,0.45000000000000007
+eligible advocates,0.6666666666666666
+number of names,0.6666666666666666
+circumstance,1.429931390219372
+civil,2.126558634963905
+soni,0.5972035532698265
+- existence of posts,0.0
+like disadvantage,0.6666666666666666
+relation to such promotion,0.5
+that the persons,0.6666666666666666
+reason of the impugned judgment,1.0
+class,2.1508512849922936
+perusal,0.750733137829912
+mervyn,0.5
+respective places,0.5
+part-c,0.0
+basi of result,0.0
+length,0.6297872340425531
+recommendations,2.1638655462184877
+regards,0.9072861236185019
+post by haryana public service commission,0.5
+clear vacancy,0.5
+thereof,1.7897727272727273
+baljeet,0.5
+basi,2.0752712086391383
+possible incumbent,0.5
+leave petition,2.013333333333333
+cdr,0.5666214382632293
+consideration of this court,1.0714285714285714
+mr as narang,0.5
+notice that a division bench,0.6666666666666666
+filling of vacancies,0.5
+basis,1.953226441078104
+extant rules,0.8
+directions,1.5134125183504605
+whence,0.39473684210526316
+number of posts,1.2000000000000002
+advertisement,1.5480769230769234
+meritoriou in the order of merit,0.0
+irrespective,0.7304347826086957
+furtherance,1.758139534883721
+officer,3.1197242647058823
+amendment,2.2486412346818434
+that date,0.9333333333333333
+mere fortuitous chance,0.5
+citizens,1.0493208639501226
+direct recruit,4.266666666666667
+letters,2.0877496159754223
+promotion system,0.5
+function,1.6326372491145218
+devnagri,0.5
+arises,0.8292682926829268
+cent mark in the language paper,0.0
+medical students,0.3333333333333333
+high court inter se seniority,0.5
+nothing clinching,0.5
+term,3.6255105640901575
+mr rao,3.2
+india judges,4.666666666666667
+becomes,0.8134319664492078
+view,2.441100058469462
+name under the rules,0.5
+side,3.88845645915565
+relief,1.4748116760828625
+case of the reserved candidate,0.5
+use,5.06801278974993
+basi of the order,0.0
+viva - voce,0.0
+india v ss,0.5
+quota system,0.6666666666666666
+reserved category,2.5
+assistant,1.6732837055417698
+open one,0.3333333333333333
+result,1.3356630184144715
+basi of the respective dates,0.0
+pay,3.828326695859537
+se seniority as assistant engineers,0.5
+affirmative action in terms,0.5
+more members,1.8
+governing,1.0909090909090908
+world,0.7808471033398942
+secretary,0.9217877094972067
+additional district judge,1.6
+cavil,0.5555555555555556
+medical student,0.3333333333333333
+special leave petition in respect,0.5
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+interests,1.0562317935913441
+merit-cum-seniority,0.0
+chief,1.9429638234317954
+such vacancies,1.0
+officer for determination,0.0
+other nations,0.3252032520325203
+sole basi of merit,0.0
+nation as a whole,0.75
+seniority vis - a - vi,0.0
+that behalf,1.3548387096774193
+respective merit of the candidates,0.6666666666666666
+incumbents,0.38095238095238093
+year from the date,1.5
+vested right of seniority,0.0
+recruitment at the initial level,0.5
+particular grade,0.5
+good law,0.5743589743589743
+case of an appointment,0.5
+right of the candidates,0.5
+years,2.5395804110508022
+case of medical students,0.6666666666666666
+india judge,4.666666666666667
+exercise,1.9400726466785694
+judicial,2.8688059701492543
+break up thereof,0.5
+party,2.2250894654439723
+haryana gazette,0.5
+respondent herein,1.8936170212765957
+different category,1.0
+mohal,0.5
+older,1.7177189159325987
+reasonable opportunities,0.6666666666666666
+justice,2.292557084574302
+vacancies of the year,0.5
+therein,1.5503424657534246
+grievance,1.032529659395331
+list of successful candidates,0.6666666666666666
+number of candidates,1.75
+recommendations as regards,0.5
+chairman,1.3592677345537758
+part-d,0.0
+socially - and - educationally - backward classes,0.0
+v state,2.4603773584905664
+official group,0.5
+eligible advocate on the basis,0.0
+relevant instruction,0.5
+principal object,0.5
+rai,2.517873434808919
+open to the government,1.0
+the rules,2.1040892193308554
+administration,1.061072796934866
+existence,0.731202675709574
+statutory rule,2.45
+roster point,3.4
+qualified employee,0.5
+hearing,0.9644508209787979
+bank,9.40770083102493
+appointment of ms  sarita gupta,0.0
+services judgment,0.5
+available for members of the general category,0.5
+opinion that the decision,0.8
+kamal kant,1.5
+day,1.550999710228919
+original recruitment,0.5
+name of any qualified candidates,0.0
+question,2.980312372067635
+choice,0.6825955124317767
+part-d of the rules,0.0
+levels,0.8861538461538463
+vested right,1.6666666666666667
+applicability of rule,0.5
+scmanu,7.940520446096654
+that the person,0.5993355481727575
+accordance with the roster points,0.5
+step,0.8867024753460084
+practice,1.7660110149488593
+subordinate judge under rules,0.0
+court in kamal kant,0.5
+statement,2.5393160135035964
+list of qualified candidates,1.0
+selection committee,1.1
+service in a particular grade,0.5
+pursuant to the order,1.0
+part of the commission,0.6666666666666666
+v union,1.5773809523809523
+general category candidates,0.5
+sic,1.1611481056257176
+regard to the purport,0.8571428571428571
+speciality,0.9
+force,1.6009408121948314
+other backward class,1.5714285714285714
+cent mark in the aggregate,0.0
+states,1.5120646995827023
+inter se seniority between direct recruits,0.6666666666666666
+law,3.538923411654744
+full court of the high court,1.25
+observation,0.7625074854374218
+globalisation,0.6666666666666666
+castes candidate,1.0
+higher rungs,0.5
+marks among the candidates,0.5
+anvil,0.4125
+names of the requisite number,1.0
+entire list,0.2727272727272727
+emphasis on merit,0.5
+board,2.401414435268602
+- availability,0.0
+rule of seniority,1.0
+terms of the instructions,0.5
+order in the combined merit list,1.0
+date of attainment,0.0
+for the purpose of determination,1.3333333333333333
+possible incumbent for the higher positions,0.0
+court in exercise,1.28
+application,2.3322596088086445
+haryana manuscmanusc,1.1333333333333333
+seniority inter se of members,0.5
+april,0.8928235149629509
+illegality,0.8076923076923077
+basi of the joining reports,0.0
+cent,2.4795666588956498
+aiim,1.1
+court in the interests,1.0
+neelima shangla v state of haryana,1.0
+candidate at various roster points,0.5
+corollary of the above rule,0.5
+fifth respondent,1.5
+subordinate judges under article,1.0
+ltd,2.382356477306883
+net result,0.41600000000000004
+submission,1.0913871684001404
+high court that seniority,0.5
+entire mechanism,0.75
+scsbc,2.0
+period,1.9480170842427122
+court of the high court,1.4
+private respondents,1.0
+terms of the merit list,0.5
+constitution,3.204842342342342
+letter,2.707240080105903
+recent services judgments,0.5
+limited number of vacancies,0.5
+guide,1.417236993519472
+caste at point,0.0
+court inter se seniority,0.5
+government that more vacancies,0.5
+extant rule,0.8
+selection for higher rungs,0.0
+uppal,0.4
+recommendation,2.6589497459062676
+supra,2.246342614440774
+various fields,0.8
+member of scheduled castes,0.0
+older in age,0.5
+maharashtra,2.9076923076923076
+tyagi,1.1666666666666667
+class candidate,0.5
+combined seniority list of the candidates,0.5
+other candidates,0.5555555555555556
+opportunities,0.5793650793650793
+term of the law,0.0
+burden,0.9853978671041838
+tribe,2.294908466819222
+representation of class,0.5
+sub - committee,0.0
+obvious that this system,0.6666666666666666
+core question,0.6
+appeal in relation,0.5
+basis of the joining reports,0.5
+criterion of selection,0.5
+filling,0.664718772826881
+nepotism,0.2857142857142857
+merits,0.968421052631579
+successful employee,0.5
+premise,1.2347417840375587
+placement in the roster,0.5
+bench of this court,1.8271604938271604
+president of india,1.8
+reason,2.6381270903010035
+scales,2.753521126760564
+inter se seniority in the aforementioned premise,0.5
+ghalaut,0.5
+direction to the high court,0.5
+integra,0.832258064516129
+regard to the undisputed factual position,0.5
+places,0.8371884824384251
+others,0.9074667328904616
+state of haryana v rajiv kumar ca,0.5
+best possible incumbent,0.5
+state service,1.1666666666666667
+open for nepotism,0.5
+required service,0.5
+same advertisement,0.5
+requisite number,1.1428571428571428
+post of additional district judge,0.6666666666666666
+student,1.2777711454664835
+judge,2.9012627415183325
+nation,3.034318722392117
+assistant executive engineer,1.2
+province,0.7345491388044579
+instance case,0.75
+long time,0.5379746835443039
+vacancy of haryana,0.0
+conclusion,1.3883437407077015
+high court in cwp,0.5
+instance vacancies,0.5
+in the order of merit,2.25
+aggregate,1.3988095238095237
+viva - voce test,0.0
+general principle,0.625
+suspicion thereof,0.5
+number of vacancies,1.75
+archna,0.5
+foregoing reasons,1.0714285714285714
+branch,2.8500288406075756
+contentions,0.9641025641025641
+appointment though direct recruitment,0.5
+qualification,2.1521739130434785
+circumstances,1.3944461370073231
+non-existence of posts,0.0
+lawyer,0.6086956521739131
+necessary that the persons,0.5
+v state of tn,0.8
+suitability test,0.75
+high court,7.7477477477477485
+continho,0.5
+intent,1.8427075724373023
+instance vacancy,0.0
+rule of the factual background,0.5
+manu,7.078142071124147
+castestribe,1.0
+government gazette,1.0
+role,1.0562959821210092
+rk sabharwal case,0.5
+scale,2.0845464725643894
+purport,1.3465627214741318
+chaman,1.0
+cases in which members,0.5
+seniority rule,0.8
+promotion to a higher grade,0.5
+fundamental right,2.9790209790209787
+tribunal,5.07183212267958
+length of service,1.25
+qualifying,3.05
+measure,1.1941357983816498
+unwillingness,0.52
+neelima,4.5
+judicial officer for determination,0.0
+apex,0.8555555555555555
+niwa,0.5904761904761905
+courts,2.1216528162511543
+committee,2.546237803603864
+contesting parties,0.75
+in terms of rule,1.8333333333333333
+morale of the whole organization,0.5
+disregard,0.5855263157894736
+subordinate position,0.3333333333333333
+castes,3.7222222222222223
+such number of candidates,1.5
+respondents no,1.6428571428571428
+people,1.2855544825097243
+employee,6.280487804878048
+reasons,1.3749054007567938
+terms,2.390350840909655
+different source of recruitment,0.0
+more candidates,1.0
+vacancy at the reserved points,0.5
+other nation,0.32407407407407407
+ors,2.8612718198296623
+forthwith,0.625
+part,5.294464509893076
+weaken incentive,0.5
+appointment of subordinate judges,1.0
+similar request,0.3333333333333333
+that this system,0.6666666666666666
+same person,0.38571428571428573
+aspect,1.2449448189023034
+shri,2.0759135877246115
+aforesaid view,0.9230769230769231
+character,0.9325990965842764
+other subordinate position,0.5
+equal mark,0.5
+vested rights of seniority,0.5
+terms of the provisions,1.4782608695652173
+subsequent dates,0.5
+instructions,1.8111673678956002
+determination,1.5980374665477253
+collector,1.8095238095238093
+best possible incumbents for the higher positions,0.5
+scsbcs in every block,0.5
+rajiv,1.2
+appointments of the candidates,0.5
+fact that the right,0.6666666666666666
+quantum of reservation,1.3333333333333333
+best possible incumbent for the higher positions,0.0
+chopra,1.4
+force of the impugned rule,0.5
+stop-gap arrangement,0.0
+instances,0.5974025974025974
+psc  sssb,0.0
+seniority vis - a - vi of different sources,0.0
+part-d governing appointments,0.0
+civil right,0.4844036697247707
+candidate in the combined merit list,0.0
+devoid of merit,1.0
+services,1.6850241065659326
+sharma,0.9516994633273703
+introduction of public administration,0.5
+duty of the public service commission,1.0
+register in order,1.0
+sshri satish kumar garg,0.5
+appointment,3.1380281690140843
+rule of reservation,1.0
+earlier case,1.1428571428571428
+sole basi,0.8
+placement at nos,0.5
+cent marks,2.5
+state government,3.027142857142857
+necessary in terms of rule,1.0
+effect,2.184583388478191
+seniority rule in the light,0.0
+introduction,0.6363636363636365
+achievement of better standards,0.5
+s seniority point,0.5
+state of haryana,1.7608695652173914
+notified vacancy,0.0
+pilla sitaram patrudu,0.5
+grade,2.004840489566613
+ritu,0.7552447552447553
+superior civil servants,0.5
+judgments,1.2355646397547266
+appointment in terms,0.5
+role of reservation,0.6666666666666666
+consequence,0.8726692512593296
+publication of the result,0.6666666666666666
+rung,0.49
+factual background,1.0
+place,2.333104345208554
+vacancy for general category,0.0
+confirmation,2.098684210526316
+following term,1.6170212765957446
+civil servants,0.45000000000000007
+ie schedule castes category,0.5
+seniority of the members,0.6666666666666666
+serial numbers,0.24038461538461536
+bhan,1.4088145896656534
+full court,6.333333333333333
+control,2.148867902684286
+regard to the instructions,0.5
+issue,2.766776251628934
+back,1.1362801178713813
+dr krishan singh chauhan,0.5
+ones,1.1255220584705485
+method,0.9027027027027026
+to the order,0.7999999999999999
+subordinate judges,2.0
+weight,0.7538461538461538
+petitioner,4.524972253052164
+ashok kumar,1.9090909090909092
+different angles,0.3333333333333333
+supreme court in neelima shangla,1.0
+devnagri script,0.5
+service officers,0.26666666666666666
+caste,3.66454871293581
+same day,0.8830188679245283
+morale of members,0.5
+continho v collector of customs manuscmanusc,0.5
+absence of any statutory rules,1.0
+penalty los of seniority,0.0
+second mint,0.5
+subordinate judge under article,0.0
+public administration,0.6666666666666666
+civil service,2.722222222222222
+castes candidates,1.0
+promotees,1.4285714285714286
+report of the sub - committee,0.0
+schedule castes candidate,0.5
+nations,0.9375742619504617
+direct,3.0063324325138336
+select list therefore,0.5
+recommendations of the sub-committee,0.0
+ground,1.4186722903211633
+such opportunity,0.8571428571428571
+assistant engineers,3.0
+constitution of india imply,0.5
+white,0.5645371577574967
+reserved points,0.5
+serial no,1.6200000000000003
+court register,1.0
+same order,0.46753246753246747
+concept,0.9402138540213855
+terms of the law,1.0
+article,4.378806157159795
+on account of non - availability,0.0
+court for a long time,0.5
+behalf of the appellant,1.4878048780487805
+appeal nos,1.6666666666666667
+reports,1.0202012199952466
+opinion,1.4960606342789635
+appointment letter of mr  as  narang,0.0
+pilla,0.5429864253393665
+scs,0.6990393936723363
+rao,0.9220020325203252
+advocates on the basis,0.6666666666666666
+respect,2.6704963235294117
+quotas,2.1
+further reservation,1.0
+complete list,0.25641025641025644
+recruitment,5.333333333333333
+civil appeal nos,1.5416666666666667
+expression,1.7424391201885312
+departure,0.6451612903225807
+appointment to a post,0.5
+same time,0.6913511801045461
+appointment by direct recruitment,1.0
+work,2.8478559811646353
+system,1.1230229504341178
+action in terms,0.75
+points,0.7095682483711788
+bimlesh tanwar,0.5
+name of the requisite number,0.0
+punjab,1.0438169425511197
+recommendations for appointment,0.5
+papers,1.0564063453325199
+- reliance,0.0
+supposed merit,0.5
+full list,0.3333333333333333
+quota,2.2173531989482913
+combined merit list,2.0
+posts,2.6556317082632876
+citizenry,0.5600000000000002
+ladder of responsibility,0.5
+personal interest,0.4
+excellence,0.6521739130434783
+other backward classes,1.5714285714285714
+hindi,0.2882352941176471
+seniority,7.989473684210527
+september,0.8548484848484849
+sitaram,1.5
+adjustment,0.6982649174777825
+aforementioned premise,0.8333333333333334
+subordinate,1.43
+part-a,0.0
+consonance of the constitutional schemes,0.5
+accordance,1.4069045211613462
+cadre,2.7892948173322005
+servicemen,1.1874999999999998
+marks in the viva - voce,0.0
+portions,0.6041219407471018
+inter se seniority,6.666666666666667
+account of non-availability,0.0
+mark among the candidates,0.0
+word,2.065873981084096
+weaken incentive for honest work,0.0
+reasonable opportunities for promotion exist,0.5
+object of a promotion system,0.5
+examination of the candidates,0.5
+judge bench of this court,1.6486486486486487
+name,1.8996570753072433
+handicap,0.6111111111111112
+by a writ of the court,0.6666666666666666
+members,1.9437616522164103
+above rule,0.5714285714285714
+account,2.5754891049671977
+appointments,1.2888888888888888
+selection of candidate,1.5
+further selection,0.5
+garg,1.542056074766355
+purpose,2.519170317925504
+that purpose,0.609375
+mint,0.4222737819025522
+judicial officers,9.083333333333334
+time,2.4764180952862667
+side-stepping several general candidates,0.0
+services judgments,0.5
+factual position,1.3333333333333333
+rotational system,0.6666666666666666
+constitution bench,4.27536231884058
+basis in case,0.5
+content,1.5450574489970066
+ms ritu jhanji,0.5
+court register in the order,0.5
+aforementioned situation,1.4545454545454546
+higher in order of merit,0.5
+limit,2.3804570428443834
+ultimate goal of excellence,0.6666666666666666
+sarita,2.6666666666666665
+right,3.07483248288682
+regard to the rules,0.5
+favour of ms manisha batra,0.5
+requisition for anticipated vacancies,0.5
+public interest,2.380434782608696
+absence,1.092363454568179
+counsel,2.2246780703440323
+disregard of the order,1.0
+limited competitive examination,0.6666666666666666
+rules,3.130914366958792
+various roster points,0.5
+mechanism,0.7337579617834395
+puri,0.8184615384615385
+different times,0.41904761904761906
+date of confirmation,0.75
+respective place,0.5
+superior civil servant,0.5
+rank of major sqn,0.5
+favouritism,0.6666666666666666
+dispute,2.402137592137592
+vacancies in the reserved categories,0.5
+notice by the appellant,0.5
+leonard,0.18994413407821228
+results,0.6487493619193466
+disadvantage,0.9298245614035088
+dr chauhan,2.5
+back date,0.3333333333333333
+civil services,2.272727272727273
+appropriate rule,1.2
+opportunities for promotion exist,0.5
+compliance,1.0029799914857385
+circumstance of the case,0.5
+impugned rules,1.5
+provisions of articles,0.8
+issue order for appointment,0.5
+case,7.332269420884958
+high court in the order,0.5
+term of the instructions,0.0
+example,0.5893965031020868
+cwp,0.875
+chief secretary,1.6923076923076923
+punjab service commission,0.5
+executive instruction,0.75
+penalty loss,0.5
+weaken incentives for honest work,0.5
+numbers,0.8671061762664817
+more candidate,1.0
+future,0.9664487618116651
+relaxable in the case of the reserved candidate,0.5
+enforceable by a writ of the court,0.6666666666666666
+force in the contention,1.0
+contention,1.666391070690368
+name of candidates,0.0
+advocate,1.0791341991341994
+direct recruit class ii engineering officer,0.5
+advertisement notifying,0.5
+neelima shangla v state,1.0
+merit system,0.5
+civil judges,1.6666666666666667
+bench,2.5793391667754992
+higher level,0.48275862068965525
+capoor manuscmanusc,0.5
+leave,1.0147842365477848
+seniority list,3.857142857142857
+other subordinate positions,0.5
+basi of such merit list,0.0
+fact of the matter,0.5384615384615384
+quantum,0.8922235363690124
+court inter alia,1.2
+major sqn,0.5
+notice,2.3300025999395686
+district judge,2.1684981684981683
+other nation of the world,0.0
+earlier cases in which members,0.5
+sole test,1.75
+commission as a result,0.5
+socially - and - educationally - backward class,0.0
+full,1.5412997100815056
+constitutional concept of a protective reservation,0.75
+favour with the high court,1.25
+better standards,0.5
+legal issues,0.5
+end of the merit list,1.0
+service officer,0.26666666666666666
+niwas,0.761904761904762
+direct recruit class ii engineering officers  association,0.0
+leonard d,0.5
+name of the candidates,0.0
+union of india v ml,0.5
+ajit,1.4213709677419357
+future seniority,0.5
+purport of the expression,0.8
+of merit,2.5714285714285716
+selection board,0.6666666666666666
+haryana,2.935064935064935
+writ petition of mr  pramod kumar,0.0
+entirety,0.6814814814814815
+applicable in the case of an appointment,0.5
+cent marks in the aggregate,1.0
+joining,0.8649425287356324
+apex court in rk  sabharwal,0.0
+better standard,0.2777777777777778
+that basi,0.6481481481481481
+terms of the roster points,0.5
+respondent nos,2.5185185185185186
+regard to the decision,0.6666666666666666
+subsequent date,0.5
+gulab,0.8
+for member of the general category,0.0
+recruit class ii engineering officers  association,0.0
+organisation,1.4034090909090908
+behalf of appellant nos,0.5
+gazette,0.9578231292517008
+court in cwp,0.6666666666666666
+cent by promotion,1.3333333333333333
+order of candidates,1.0
+unfilled on account of non-availability,0.0
+other backward class in the order,0.0
+ms manisha batra,1.0
+sole basis of merit,0.5
+judges,2.0931496919173616
+irrespective of the position,0.5
+category of ex - servicemen,0.0
+paper,1.8076689487632511
+process of selection,3.0
+register,1.2311946902654867
+bharti,2.0
+judicial side,0.6666666666666666
+hand,2.0299623418254717
+organization,1.1323094113464371
+respective post,0.37037037037037035
+rules seniority,0.6666666666666666
+joining reports,0.5
+recent services judgment,0.5
+candidates in the combined merit list,0.5
+appellant,14.387096774193548
+non-existence,0.0
+names of any qualified candidates,0.5
+public,2.923239095873367
+memo,1.4242074188165834
+answer,0.9554305705177771
+principle of law,1.1538461538461537
+door,0.9196631033365728
+representation,1.2338308457711442
+offer of appointment,0.5
+backward class in the order,0.0
+member of the general category,0.0
+answer thereto,0.6666666666666666
+chauhan,1.75
+ranking,0.7657657657657657
+incumbent on the part of the commission,0.5
+in age,0.44117647058823534
+term of the provisions,0.0
+respective high court,1.6666666666666667
+emphasis,0.8024289099526066
+goal of excellence,0.6666666666666666
+government that more vacancy,0.0
+weaken incentives,0.5
+direct recruitment,4.0
+exam,2.613042709346538
+advancement,0.6169491525423729
+situation,1.1254754682459434
+observations,0.7454584147497534
+attention,0.8724846605528799
+further selection from the qualified candidates,0.5
+different angle,0.5555555555555556
+candidate to the state government,0.0
+rank,0.6723585912486659
+anticipated vacancies,1.3333333333333333

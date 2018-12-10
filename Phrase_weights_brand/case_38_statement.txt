@@ -1,0 +1,704 @@
+equivalent employee,0.5
+approval for the post,0.5
+tribes,1.6409945421467553
+committee,2.546237803603864
+monopoly,1.1892857142857143
+government,3.5583785424010483
+fourth,0.6464025500910748
+constitutional framework,0.8333333333333334
+total exclusion of general members,0.5
+director,1.3549769585253457
+clerks,0.7058823529411764
+earlier decision in palak dhari yadav manu  upmanu  up,0.0
+posts parts,0.5
+segment,0.5778120184899844
+general thrust of the constitutional provision,0.5
+occasions,0.7723557692307693
+sources,0.8884345343723477
+employee with effect,0.5
+castes,3.7222222222222223
+decision in palak dhari yadav manu  upmanu  up,0.0
+constitution of india,3.0095238095238095
+correctness of the decision,1.125
+substantive post,0.5
+compas,0.41211484593837533
+seventy,0.5561497326203209
+employee,6.280487804878048
+decision article,0.5
+within the constitutional framework,0.5
+aforesaid enunciation,0.5
+decisions of this court,1.8225806451612903
+monopoly of a specified category,0.5
+single post of class iii,1.0
+teacher,3.0760180995475115
+matters,1.4810665618448637
+education,2.1892608326253185
+promotion to the post,2.25
+unsatisfied ambition,0.5
+sawhney,0.75
+fact on all such occasions,0.5
+principal,1.3412499999999998
+interest,2.74353772015385
+sanctioned posts of head clerk,0.5
+enunciation,0.5210526315789474
+court,12.24425115501509
+question of exception,0.5
+first respondent,4.575757575757576
+employment,1.5239770785161355
+intermediate,0.7534722222222223
+consonance,1.5
+in intermediate college,0.5
+union,2.0981927710843373
+constitutional bedrock,0.5
+promotion from class iv,2.3333333333333335
+single judge,4.011627906976744
+such representation,1.25
+person,4.291511329454258
+ors,2.8612718198296623
+basti,0.3229166666666667
+way,1.7812722068664852
+correctness,0.8404159132007234
+thrust,0.4345864661654135
+part,5.294464509893076
+calculation,0.8853448275862068
+member of the backward classes,0.0
+management committee,0.6666666666666666
+writ petitioner,4.482758620689655
+nothing,0.8658723322806009
+employees of government,0.5
+contrary perception that the principle,0.5
+in the service jurisprudence,0.5
+dipak misra,1.0
+posts in different specialities,0.5
+retirement,10.167032967032968
+head clerk,0.5
+age,4.526374474274117
+number,1.4802651440973922
+district,1.5506763074237984
+decisions,1.3888475974580996
+decision,2.9514937765898557
+eligible candidates,1.1428571428571428
+plurality of post,1.0
+aforesaid,2.592896174863388
+claim,2.817264601856604
+correctnes,0.8404159132007234
+reservation for a single post,0.5
+appeal,3.4125488033856883
+reservation of such post,0.5
+members of the public,0.8888888888888888
+new in the service jurisprudence,0.5
+chandigarh v faculty association,0.5
+singular post in a cadre,0.5
+palak,0.75
+election,6.758005637447438
+equivalent employees of government,0.5
+eligible candidates from the feeder cadre,0.5
+fifty percent,1.0
+quota in the promotional cadre,0.5
+singular post in the clerical cadre,0.5
+bounds,0.5730994152046784
+year,2.8349484769759212
+crux of the matter,0.75
+backward class,3.8461538461538463
+posts part,0.3333333333333333
+controversy in a short compass,0.5
+judgment,3.288216560509554
+class iv,1.9393939393939394
+sanctioned post of head clerk,0.0
+such occasions,0.5
+time to time,1.0211267605633803
+in the promotional posts,0.5
+services,1.6850241065659326
+concept of quota,0.5
+order,5.472481489660944
+reference to a two - judge bench decision,0.0
+act,12.870263922028107
+community,1.3158036677454152
+permissible in the promotional posts,0.5
+decades,0.5510204081632653
+such post,0.5
+basi of seniority,0.0
+school education in the year,0.5
+clas,2.1196191893660425
+appointment,3.1380281690140843
+parmanand,0.6666666666666666
+medical,1.633306645316253
+nagar,0.8617021276595744
+tantamounts,0.75
+quota tantamount,0.5
+idea,0.5945499587118084
+application to the district inspector,0.5
+in the promotional post,1.0
+effect,2.184583388478191
+citizen,1.261748909029876
+candidates,3.508445945945946
+kuldeep kumar gupta,0.5
+large segment of the community,0.5
+singular post in the cadre,0.5
+daftari,0.5
+list,4.014941314095513
+equivalent employee of government,0.0
+minimum educational qualification,0.8
+intermediate examination in the year,0.5
+factual score,1.1428571428571428
+available in an intermediate college,0.5
+member,2.649111111111111
+earlier division bench judgment in jai bhagwan singh v district inspector,0.5
+secondary school,0.875
+open competition amongst all segments,0.5
+employee possess,0.5
+joint director,0.75
+such route,0.5
+understood in the constitutional bedrock,0.5
+different category of persons,1.0
+district inspector of schools,2.0
+aforesaid regulation,0.6666666666666666
+specified category,1.0
+college,2.1498947162234954
+separate post,0.3636363636363636
+post graduate institute of medical education,0.5
+appointment to such post,0.5
+consequence,0.8726692512593296
+assertion,0.5478622435144175
+place,2.333104345208554
+scheduled castes,2.7777777777777777
+circumstance,1.429931390219372
+regulation,4.3783195107648485
+hors,0.5646224859874711
+mean,2.390645692553228
+yadav,1.8571428571428574
+single post in the cadre,0.5
+separate posts,0.6666666666666666
+quota tantamounts to reservation,0.5
+regard,2.723310344827586
+roster in respect,0.5
+context,0.9269383697813122
+misra,0.4807692307692307
+promotion,2.946428571428571
+class,2.1508512849922936
+backward clas of citizens,0.0
+decade,0.5014409221902018
+roster,2.670037926675094
+chandigarh,1.52
+uplbec,1.0
+length,0.6297872340425531
+provision for reservation,0.5
+mr parmanand gaur,0.5
+promotional post,2.1666666666666665
+same stand,0.42857142857142855
+reserved clas,0.75
+sans,1.2041049030786772
+time on account,0.5
+hariom,0.5
+basi,2.0752712086391383
+method,0.9027027027027026
+such orders,0.823529411764706
+candidate,6.356675392670156
+such total exclusion,0.5
+petitioner,4.524972253052164
+cost,1.2954397451466992
+desire,0.6008255933952529
+orders,1.4936359300077826
+basis,1.953226441078104
+deal with equality,0.0
+special appeal,1.25
+percentage,0.8769344141488578
+immense aspiration,0.5
+gautambudh,0.5
+medical education,0.9714285714285713
+palak dhari yadav manuupmanuup,0.5
+caste,3.66454871293581
+advertisement,1.5480769230769234
+consonance with the thrust,0.5
+eligible for consideration of promotion,0.5
+madhyamic,0.5
+assail,0.7233333333333334
+promotees,1.4285714285714286
+hence,1.1440732910500353
+present purpose,0.8888888888888888
+amendment,2.2486412346818434
+service record,0.9523809523809524
+citizens,1.0493208639501226
+different speciality,0.0
+post graduate institute,0.5
+expose,0.6058641975308642
+opportunity,0.946186440677966
+deep rooted desire,0.5
+factual narration,0.5
+separate posts in different specialities,0.5
+matter,2.8088923076923082
+set of regulations,0.5
+concept,0.9402138540213855
+of the total number,0.5185185185185186
+meantime,0.5833333333333334
+article,4.378806157159795
+post cadre,2.0
+incharge,1.0250000000000001
+higher secondary school,0.6666666666666666
+elections,2.0254335260115606
+view,2.441100058469462
+enunciation of law,1.0
+post,2.344803646492219
+opinion,1.4960606342789635
+eligible candidate,1.1428571428571428
+scheduled caste,3.875
+merit,1.2419290263876248
+quota tantamounts,0.5
+contrary perception,0.5
+assistant,1.6732837055417698
+v hp,0.26666666666666666
+open competition amongst all segment,0.5
+court in indra sawhney manu  scmanu  sc,0.0
+clerk,1.0416666666666667
+employee of government,0.0
+backward,1.866666666666667
+record,2.5393414390845273
+departmental promotees,0.5
+such circumstances,0.5729166666666666
+whatever mean,0.25
+secondary schools,0.6666666666666666
+assistant district inspector of schools,0.5
+provision,5.439002243350069
+dhari,1.0
+committee of management,0.6666666666666666
+learned counsel for the appellant sans substance,0.5
+crux,0.25432900432900435
+reservation at any point,0.5
+post of clerk,1.75
+respect,2.6704963235294117
+such order,1.056910569105691
+recruitment,5.333333333333333
+premises,1.290983606557377
+fact,3.6284951019474962
+consideration of promotion,0.5
+such circumstance,0.5723905723905723
+source of departmental promotees,0.5
+state electricity board,2.125
+learned counsel,3.703333333333333
+sanctioned posts,1.8
+rotation,0.48099415204678364
+examination in the year,0.5
+aforesaid premise,1.0
+various provisions,1.5789473684210527
+anr,1.1271033322299457
+person in the feeder category,0.0
+reasoning,0.6478937381404174
+special,1.7363344051446945
+aforesaid premises,1.0
+total number,0.8813725490196079
+kumar,2.028839704896043
+same time,0.6913511801045461
+constitutional mandate,1.2727272727272727
+stand,1.8422769621739425
+basis of seniority,1.5
+than half,0.6666666666666666
+other word,0.758838674565131
+framework,0.5828468792096991
+available for open competition,0.75
+inseparable part,0.5
+clerical cadre,0.5
+aforesaid decision,1.15625
+more than half post,0.5
+years,2.5395804110508022
+indra,0.7803320561941253
+punjab,1.0438169425511197
+candidate by direct recruitment,0.5
+backward classes,2.8
+sense in the larger interest,0.5
+principle,1.9620890732001848
+quota,2.2173531989482913
+other occasions,0.2857142857142857
+newspaper,1.4133350781914544
+class iv employee,1.2222222222222223
+hidra,0.5
+respondent herein,1.8936170212765957
+for open competition,0.75
+division bench judgment in jai bhagwan singh v district inspector,0.5
+different category,1.0
+proposition,0.6371087928464977
+sanctioned post,3.0
+posts,2.6556317082632876
+device of rotation,1.0
+quota for a specified category,0.5
+equality,1.5627329192546584
+total exclusion,1.5
+factual expose,0.5
+employees through promotion,0.5
+part of the regulation,0.5
+other backward classes,1.5714285714285714
+education act,1.4444444444444444
+claim of the writ petitioner,0.75
+colour,0.48673194267063996
+cent reservation,0.6666666666666666
+thrust of the constitutional provision,0.5
+approval,1.4085456739300164
+seniority,7.989473684210527
+division bench,3.965217391304348
+date,6.195616975795285
+bhatnagar,4.2
+foundation,0.770509435807177
+less than half,0.5
+permanent employee with effect,0.5
+reference,2.1755848210276256
+administration,1.061072796934866
+society,2.1182859399684046
+aforesaid decisions,0.9333333333333333
+schools,0.700507614213198
+fourth class employee,0.5
+quota tantamount to reservation,0.0
+respondent,4.757894736842104
+persons in the feeder category,1.0
+institution,2.7327010745685443
+competition amongst all segments,0.5
+inspector,1.2705882352941176
+short compass,0.5
+employees,4.611008798854102
+asseveration of the proposition,0.5
+of the post,0.7880434782608696
+cadre,2.7892948173322005
+sheer assertion,0.5
+indra sawhney manuscmanusc,0.5
+assistant teacher,1.0
+question,2.980312372067635
+infraction,0.6349206349206349
+view of the aforesaid premises,0.5
+general thrust,0.5
+age of superannuation,3.5833333333333335
+asseveration,0.5
+yaduvanshi,0.5
+constitutional provision,0.7307692307692307
+compass,0.4085714285714286
+class iv employees,1.2222222222222223
+scmanu,7.940520446096654
+aspiration,0.41904761904761906
+general member of the public,0.0
+word,2.065873981084096
+school education,0.38095238095238093
+writ,2.8882378560889794
+dispute with regard,0.6666666666666666
+other words,0.7578482137053969
+bedrock,0.4266666666666667
+institute,0.9140980436760691
+manuupmanuup,1.411764705882353
+such decision,1.5294117647058822
+postulate,0.5385790679908328
+service under the state,0.0
+complete reservation,0.5
+various provision,1.5789473684210527
+high,5.367119186841496
+to the concept,0.6060606060606061
+graduate,2.968643655809431
+members,1.9437616522164103
+correctnes of the decision,0.0
+fifty percent of posts parts,0.5
+account,2.5754891049671977
+appointments,1.2888888888888888
+kisan uchchatar madhyamic vidyalaya,0.5
+gupta,0.7610062893081762
+event,1.4310854436179261
+speciality,0.9
+post in different specialities,0.0
+other backward class,1.5714285714285714
+post in favour,0.0
+fifty percent of the total number,0.5
+purpose of appointments,0.5
+segment of the community,0.5
+purpose,2.519170317925504
+law,3.538923411654744
+head,1.5827778446537666
+intermediate education act,0.6666666666666666
+roster in a single post cadre,0.5
+time,2.4764180952862667
+division,1.7657319129617017
+week from the date,0.6666666666666666
+concept of reservation finds place,0.5
+vidyalaya,1.25
+rejection,0.7335907335907336
+members of the backward classes,0.5
+akhilesh,2.5
+kanwar,2.4
+constitution bench,4.27536231884058
+permanent employee,1.8333333333333333
+board,2.401414435268602
+total exclusion of the general members,0.5
+eligibility,1.1788856304985336
+educational qualification,2.625
+stands,0.7032366540563262
+class employee,0.6666666666666666
+competition amongst all segment,0.5
+competition,0.9867647058823531
+bound to the members,0.0
+joint,1.0091324200913243
+plain reading of the aforesaid regulation,0.5
+promotional,1.2626262626262625
+exception,1.1036946087733006
+in an intermediate college,0.5
+upmanu,0.9411764705882354
+mandate,0.8783810859547183
+percent,0.7207207207207208
+counsel,2.2246780703440323
+note of the fact,1.4705882352941178
+application,2.3322596088086445
+category of persons,1.6666666666666667
+parts,0.6609660823170732
+india,2.7684068260703585
+common cadre,1.0
+segments,0.7432432432432433
+authorities,1.266131845134287
+subject to rejection of the unfit,0.5
+rules,3.130914366958792
+reading,0.9004509191814082
+jurisprudence,1.088888888888889
+madhav,2.0
+equivalent employees,0.5
+decision of the inspector,0.5
+association,1.2099052684061826
+cent,2.4795666588956498
+gagan,0.3333333333333333
+exclusion,1.276390008058018
+device,0.5076282415294341
+outset,0.5899159663865546
+promotions,0.8666666666666667
+bounds to the members,0.5
+candidates from the feeder cadre,0.5
+dispute,2.402137592137592
+district inspector,2.0
+post in the clerical cadre,0.5
+submission,1.0913871684001404
+decision of this court,2.3260869565217392
+reservation with regard,0.5
+specialities,1.2
+services under the state,0.6666666666666666
+higher secondary schools,0.6666666666666666
+birthmark,0.5
+order of the management committee,0.5
+such total exclusion of general members,0.5
+case,7.332269420884958
+available in intermediate college,0.5
+candidate from the feeder cadre,0.0
+fourth class employees,0.5
+general members of the public,1.5
+scc,1.941872465904902
+percentage of posts,0.75
+employee possesses,0.5
+base,0.8959264091163237
+constitution,3.204842342342342
+for consideration of promotion,0.5
+singular post,2.0
+general member,1.0
+clas of citizens,0.0
+representation to the district inspector,0.5
+ambit,1.0862754267009587
+india v madhav manuscmanusc,0.5
+singh,3.7791111111111113
+efforts,0.7431827431827432
+promotee,1.4285714285714286
+superannuation,4.684210526315789
+promotional cadre,1.5
+service,4.257395095954566
+jai bhagwan singh v district inspector,0.5
+class iii,2.4166666666666665
+uchchatar,0.5
+contention,1.666391070690368
+de hor,0.8888888888888888
+for the present purpose,0.8571428571428571
+rule,5.04
+counsel for the respondents,1.425531914893617
+favour,1.653145208700764
+promotional posts,1.5
+large segment,0.4
+high school education,0.3333333333333333
+larger interest,1.0
+bench,2.5793391667754992
+general members,1.0
+hor,3.0958179864706046
+roop narain singh,1.0
+respondents,2.6341263330598856
+management controller,0.5
+backward clas,3.8461538461538463
+leave,1.0147842365477848
+that half post,0.5
+reservation within the ambit,0.5
+costs,0.8167395522604189
+seniority list,3.857142857142857
+half post,1.0
+such occasion,0.5
+more that half post,0.5
+tribe,2.294908466819222
+point,2.9165043546008516
+attempt,0.7943782192788815
+weeks from the date,1.1428571428571428
+higher,1.7172937941551014
+reasoned,0.5526315789473685
+posts in favour,0.6666666666666666
+reserved class,0.75
+different specialities,0.6666666666666666
+bhagwan,1.5555555555555556
+constitutional foundation,0.5
+management,1.6732611752395274
+earlier division bench judgment,0.6666666666666666
+premise,1.2347417840375587
+eligible candidate from the feeder cadre,0.0
+law at length,0.5
+kuldeep,2.2
+examination,2.4920345926263088
+best efforts,0.4307692307692308
+intermediate college,1.25
+personnel,0.9491259524876736
+reservation finds place,0.5
+effort,0.7536036036036036
+supp,1.7223856594132256
+reservation,2.6876587100050786
+set,2.3027452395971277
+feeder cadre,2.0
+instant case,2.0631578947368423
+earlier decision,1.5454545454545454
+deals,1.3395407335280751
+assail in this appeal,0.5
+reading of the aforesaid regulation,0.5
+short compas,0.5
+permissible within the constitutional framework,0.5
+writ petition,6.24223602484472
+petition,5.3436539306104525
+category,1.9351744779266717
+attempt of reservation,0.5
+perception that the principle,0.5
+response,0.7112676056338028
+other occasion,0.4
+promotion of the first respondent,0.5
+consideration,1.9110153789142115
+mr hariom,0.5
+deals with equality,0.5
+effect over the decades,0.5
+words,1.6384367086179112
+whatever means,0.25
+reminder,0.393939393939394
+than half post,0.5
+post of class iii,1.0
+seventy-seventh amendment,0.0
+reservation of posts,0.75
+such reservation,1.25
+gautambudh nagar,0.5
+kisan,0.75
+service jurisprudence,0.75
+ambition,0.2553191489361702
+class of citizens,1.1666666666666667
+feeder category,1.5
+plain reading,1.173913043478261
+plurality,0.489795918367347
+public employment,0.8
+representation to the joint director,0.5
+infraction of the constitutional provision,0.5
+tantamount,0.5761904761904763
+relevant for the present purpose,0.6666666666666666
+opinion of the state,0.8333333333333334
+judge,2.9012627415183325
+authority,2.4352627108360636
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+retirement of roop narain singh,0.5
+substance,0.8230581678857541
+cent per cent reservation,0.5
+jurisdiction of high court,0.75
+postulates,0.4208754208754209
+concerned principal,0.5
+dipak,1.0
+controller,0.9038461538461539
+weeks,0.8109161793372318
+exclusion of the general members,0.5
+special leave,1.903225806451613
+post in a cadre,1.0
+narration,0.8571428571428572
+research,1.351044147915173
+narain,0.4978662873399715
+way of direct recruitment,1.0
+picture with the colour,0.5
+counsel for the appellant,1.9621212121212122
+two - judge bench decision,0.0
+feeder,1.3481481481481483
+school,1.2666111192798444
+unfit,1.0555555555555556
+member of the public,0.75
+high school education in the year,0.5
+explicit that reservation for a single post,0.5
+iii,1.5614499719992534
+question of reservation,1.0
+means,1.3868295182781003
+sense,0.8606303395157362
+that reservation for a single post,0.5
+occasion,0.7946745562130177
+post in the cadre,1.5
+score,0.45496296296296296
+qualification,2.1521739130434785
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+week,0.8253498691546249
+foreign to the concept,0.5
+quota for each category,0.5
+same stands,0.75
+instant,1.131578947368421
+open competition,1.2
+best effort,0.4307692307692308
+picture,0.6116621983914209
+appellant akhilesh kumar singh,0.5
+appellant sans substance,0.5
+high court,7.7477477477477485
+clerk duly,0.5
+-point roster,0.0
+plurality of posts,0.5
+union of india v madhav manuscmanusc,0.5
+public,2.923239095873367
+state,6.817996007300392
+regulations,3.7157723577235777
+jurisdiction,2.9539571926331507
+classes,1.212856534695615
+birthmarks,0.5
+note,1.3654108484234107
+representation,1.2338308457711442
+controversy,0.8593204191806921
+deal,2.1942302694273583
+bound,0.8762782658793029
+inspector on such representation,0.5
+manu,7.078142071124147
+vishnoi,0.5
+employer,2.639728353140917
+departmental promotee,0.5
+single post cadre,2.0
+vivek,1.3968253968253967
+merit in this appeal,0.9285714285714286
+separate post in different specialities,0.0
+single,1.6221488419098207
+v rn,0.303030303030303
+class employees,0.5
+single post,2.5
+rotation of roster,1.5
+idea of reservation,0.5
+rejection of the unfit,0.5
+personnel in the promotional post,0.5
+de hors,1.3333333333333333
+jai,1.2346163917255824
+direct recruitment,4.0
+gaur,0.9130434782608695
+recognised intermediate college,0.5
+equality of opportunity,0.6666666666666666
+opportunity in matters,0.6666666666666666
+situation,1.1254754682459434
+mr vivek vishnoi,0.5
+route,1.1635049683830172
+present appellant akhilesh kumar singh,0.5
+san,1.5298391598285395
+electricity,4.4831223628691985
+inseparable part of the regulation,0.5
+aforesaid enunciation of law,0.5
+state of punjab,1.6956521739130435
+source,0.840137091365362
+posts in a cadre,1.0
+fit,2.7848485899724365
+division bench judgment,1.0
+assistant district inspector,0.5
+perception,0.43055555555555564
+faculty,1.076595744680851
+roop,1.2727272727272727
+backward class of citizens,0.75
+persons,2.5993381990166555
+intermediate examination,0.5

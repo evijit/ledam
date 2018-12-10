@@ -1,0 +1,488 @@
+mishra,0.3173076923076923
+testimony of the eye - witnesses,0.0
+police officers,0.8421610169491526
+certainty,0.8630136986301371
+code,2.880559796437659
+jeep,0.711111111111111
+accused,10.856353591160222
+read with section,2.3513513513513513
+people,1.2855544825097243
+witness to the recovery,0.5
+reasons,1.3749054007567938
+for a long time after the incident,0.5
+sections,1.640495469442838
+terms,2.390350840909655
+witness for the seizure panchnama,0.5
+spot whereas the other deceased pavadappa,0.5
+submission on the basis,0.0
+aqua,0.5221445221445221
+toranagallu police station,0.5
+court,12.24425115501509
+silence,0.44280442804428044
+huge gathering of people,0.5
+eye,0.9466574319441098
+alleged weapon,0.6666666666666666
+sharp edged weapon,0.5
+person,4.291511329454258
+way,1.7812722068664852
+behalf,1.9888053603529987
+eye - witnesses,0.0
+next evidence,0.5
+part,5.294464509893076
+uncle,1.19187675070028
+long time after the incident,0.5
+bhimaneni,0.5
+substantial reason,0.5
+cross,2.0778316690442225
+nothing,0.8658723322806009
+incident to the police,0.6666666666666666
+distance,0.7353606433777331
+punishable under sections,1.6153846153846154
+ghosh,4.888888888888889
+assailant,0.5333333333333333
+present appeal,1.3424657534246576
+aspect,1.2449448189023034
+number,1.4802651440973922
+articles,1.4349688743466387
+jam,1.2378636688981517
+other person,0.9635036496350365
+judgment of the bench,0.8888888888888888
+appeal,3.4125488033856883
+other offences,1.3333333333333333
+none of the witnesses,0.8
+weapon,1.0217176079034398
+sheet,1.1667364016736401
+behalf of the accusedrespondents,1.0
+motive,0.8973573343546533
+trial court judgment,1.0
+wrongness,0.23076923076923073
+read,2.2147281730888695
+month,1.3454861111111112
+year,2.8349484769759212
+more person,1.2000000000000002
+judgment,3.288216560509554
+reportable judgment,1.2
+furtherance of the conspiracy,0.8
+guilt,1.1140207075064712
+charge-sheet,0.0
+recovery evidence,0.6666666666666666
+order,5.472481489660944
+police official,1.5750000000000002
+toranagallu,0.5
+injury,1.7199352451433856
+act,12.870263922028107
+cogent,0.6469565217391305
+minerals factory,0.5
+occupant of the indica car,0.0
+testimonies,1.105263157894737
+accused persons,7.048780487804878
+effect,2.184583388478191
+recovery of weapons,0.6666666666666666
+indica,1.263133679103229
+pinaki chandra ghose,1.3333333333333333
+- person,0.0
+material additions,0.5
+science laboratory report,0.5
+faith,0.6832428364066448
+section,9.287987283173626
+science,0.6879334257975034
+bang sound,0.5
+meeting,1.5978547625659538
+none,0.8181718550217885
+existence of conspiracy,1.5
+witnesses to recovery,0.5
+incident,1.8609485257918057
+fir,2.85390975582079
+other shorter sentence,0.5
+circuit,0.3301204819277109
+testimonies of the eye - witnesses,0.0
+many of the witnesses to recovery,0.5
+reasonable grounds,0.5
+number of the assailants,0.5
+various other shorter sentences for other offences,0.5
+pivotal to the prosecution case,0.5
+place,2.333104345208554
+driver,0.8230211045255637
+officers,2.442124212421242
+similar term,1.0
+present case,1.5611814345991561
+investigation,1.6673076923076922
+acqua mineral,0.5
+proximity to the place,0.5
+bleeding injuries,1.0
+benefit of doubt,1.8
+perusal,0.750733137829912
+security guards in aqua minerals factory,0.5
+twelve,0.8495192307692307
+sound,0.8535719072510389
+occupant,1.8116883116883118
+sab,1.0155839934998987
+facts,1.4696673624372698
+cultivation,0.8571428571428571
+witness to recovery,0.0
+investigating,1.5794836956521738
+colleague basavana gouda,0.5
+basi,2.0752712086391383
+police station by sheikh hussain sab,0.5
+next aspect,0.5
+men,12.280652027254101
+security guard,0.4
+prior plan,0.5
+guards,0.5881458966565349
+lordship,1.0416666666666667
+benefit,2.604810195438474
+recovery of the mobile phone,0.5
+deceased pavadappa,0.5
+front of acqua minerals,0.5
+root,0.44430482003410826
+accused  respondents in the incident,0.0
+car,1.5664537220559551
+conviction,2.248165832071736
+conduct of the eye - witnesses,0.0
+basis,1.953226441078104
+criminal appeal,2.5675675675675675
+gathering of people,0.5
+statements from the testimonies,0.5
+charge,2.7679815308681284
+pinaki,1.2857142857142858
+grounds,0.9540208829455945
+substantial reasons,0.5
+furtherance,1.758139534883721
+officer,3.1197242647058823
+toranagallu police station by sheikh hussain sab,0.5
+charges,2.061307113938693
+ground,1.4186722903211633
+various submissions,1.0
+other shorter sentence for other offences,0.0
+inmate,0.5170940170940173
+material alteration between the testimonies,0.0
+recovery of the weapon,1.0
+hostility,0.4743589743589744
+arguments,0.7212211466865226
+lacuna in the investigation,0.5
+cros,1.8137948361162648
+impugned judgment,2.0927152317880795
+material alterations between the testimonies,1.0
+proof,1.0648141580366008
+inmate of indica car,0.0
+hospital,1.3942768854411434
+perusal of the material,0.5
+article,4.378806157159795
+circuit bench at dharwad,0.5
+statement from the testimonies,0.0
+criminal,3.301971081989414
+term,3.6255105640901575
+unknown persons,1.0476190476190477
+other eye-witnesses,0.0
+- people,0.0
+penal,1.8829173709853835
+hand with sharp edged weapons,0.5
+aid,5.498621453008654
+root of the prosecution case,0.5
+opinion,1.4960606342789635
+aid of the prosecution,0.5
+quiet for a long time after the incident,0.5
+indica car,2.0
+penal code,2.710144927536232
+agrawal,0.8888888888888888
+recovery,3.9892473118279574
+witness,5.333906623599983
+record,2.5393414390845273
+material,1.4148767018946966
+heavy bleeding injuries,0.5
+polouse,0.0
+accident,1.7464867454487383
+pavadappa,0.5
+cultivator,0.4444444444444444
+fact,3.6284951019474962
+incident to any other person,0.5
+time after the incident,0.5
+bellary,0.6666666666666666
+seizure panchnama,0.5
+mr  justice,0.0
+station,1.2515681586858238
+high court by the impugned judgment,1.0
+material on record,1.40625
+kumar,2.028839704896043
+weapons,1.1105810008481765
+other witnesses,0.7
+various submission on the basis,0.0
+witnes,5.333906623599983
+recovered article,0.5
+manan,0.7859649122807019
+evidences,0.5483870967741935
+bheemaneni,0.5
+gouda,0.875
+doubt,1.3646267723102583
+bolero jeep,0.5
+light,0.8816192372754331
+other witness,0.7222222222222222
+that pw,1.9
+eye witnesses,3.1
+statement before the police,0.8
+report,1.7768151696835826
+other shorter sentences for other offences,0.5
+cultivator of the respondents,0.0
+justice,2.292557084574302
+above pivotal fact,0.5
+cross-examination,0.0
+material eye-witnesses,0.0
+accused respondent,1.0
+long distance,0.4
+hussain,1.8
+tata indica car,0.5
+other offence,1.3076923076923077
+serious lacunae,0.6666666666666666
+present appeals,1.625
+testimony,1.4407553107789142
+light of the above discussion,0.75
+eye witness,1.4333333333333333
+assailants from a long distance,0.5
+way to the hospital,0.6666666666666666
+sharp edged weapons,0.5
+existence,0.731202675709574
+minerals,1.8571428571428574
+offence,4.401610644257703
+occupants,2.048780487804878
+respondent,4.757894736842104
+beginning,0.8322990543735226
+close proximity to the place,0.5
+life imprisonment,1.2083333333333333
+bhimaneni kondaiah,0.5
+alteration,1.2619047619047619
+many car,0.25
+deposition,1.534
+police station,1.40045766590389
+reportable judgment of the bench,0.75
+various submission,1.0
+honble,2.4444444444444446
+assailant from a long distance,0.0
+chance witnesses,0.75
+appeals,1.7060218112849692
+months,1.1938163721148947
+recoveries,2.0
+assailants,0.9650349650349649
+statement,2.5393160135035964
+place of cultivation,0.5
+tata,0.7061403508771931
+grave,0.5757518081461743
+accused person,4.565217391304348
+mr pradip,0.6666666666666666
+toward,1.0255939365170768
+accused  respondent,0.0
+national highway,0.9629629629629629
+high,5.367119186841496
+above pivotal facts,0.5
+behalf of the complainant,1.25
+various other shorter sentence,0.5
+other shorter sentences,0.5
+laboratory,1.037248755301494
+big jeep,0.3333333333333333
+factory,1.1501182033096926
+similar terms,1.0
+counsel for the accused persons,0.5
+karnataka,3.8596491228070176
+trial court,3.854545454545455
+head,1.5827778446537666
+material alterations,1.5
+testimonies of other witnesses,0.5
+time,2.4764180952862667
+compelling,0.700280112044818
+individual witnesses,0.5
+individual act,0.6461538461538461
+mobile phone,2.25
+ghose,1.25
+plan,2.0162821688398056
+testimony of other witnesses,0.0
+more persons,1.388888888888889
+statements to the police,0.5
+guard,1.1435613062230436
+court of karnataka,1.826086956521739
+gathering,0.6346153846153846
+to the incident,0.6153846153846153
+addition,1.5588539142412572
+various other shorter sentence for other offences,0.0
+hereinafter,0.7670609645131939
+prosecution,4.619407894736842
+alterations,1.0714285714285714
+alleged conspiracy,1.6
+facts of the case,1.161764705882353
+spot,0.778096903096903
+high court of karnataka,1.826086956521739
+offences,1.6681887366818873
+learned senior counsel,3.4615384615384617
+imprisonment,1.4344262295081966
+certainty of the guilt,0.5
+prior plans,0.5
+absence,1.092363454568179
+counsel,2.2246780703440323
+other articles,0.7272727272727273
+plans,2.01766620176662
+witnesses,3.359210526315789
+other deceased pavadappa,0.5
+absence of proof,0.75
+eye - surgery,0.0
+phone,1.313791681305085
+proof of conspiracy,0.5
+pw that the fact,0.5
+eye-witness,0.0
+bheemaneni kondaiah,0.5
+various other shorter sentences,0.5
+wrongnes on the part,0.0
+acquittal,2.2714285714285714
+individual witness,0.5
+submissions,0.5235745614035088
+son,4.595622484812135
+recovery of the alleged weapons,0.5
+conspiracy,8.939203354297694
+submission,1.0913871684001404
+evidence,3.6676405172088815
+recovered articles,0.5
+deposition of pw ie,0.5
+iota of evidence,0.4444444444444444
+sheikh hussain sab,0.5
+food,1.1292356927710843
+serious lacunae in the prosecution case,0.5
+relatives,0.8460264900662252
+eye - witness,0.0
+witnes for the seizure panchnama,0.0
+veracity,0.6470588235294118
+case,7.332269420884958
+panchnama,0.75
+pw ie,0.5
+many cars,0.25
+mineral,0.9876543209876543
+clothes,0.43778538812785384
+acqua minerals,0.5
+clothe,0.44423076923076926
+due to the accident,0.5
+cross - examination,0.0
+injuries,2.4130008710801394
+heavy bleeding injury,0.0
+due to the incident,0.5
+other eye-witness,0.0
+statements,1.110873440285205
+witnesses to the recovery,0.5
+prosecution case,4.258064516129032
+contention,1.666391070690368
+wrongnes,0.23076923076923073
+seizure,0.6583598956824108
+security guard in aqua minerals factory,0.0
+sheikh,0.25462962962962965
+various submissions on the basis,0.5
+duty,3.2272215973003378
+chandra,0.7012987012987013
+bench,2.5793391667754992
+pradip,1.0
+bleeding,0.47368421052631576
+respondents,2.6341263330598856
+statements before the court,0.5
+leave,1.0147842365477848
+iota,0.34552845528455284
+positive evidence,0.5
+proximity,0.5887445887445887
+sentences,1.0513157894736844
+point,2.9165043546008516
+conspiracy at any point,0.5
+statement to the police,1.0
+chance witness,0.8333333333333334
+alleged weapons,0.5
+surgery,0.648582995951417
+evidence of existence,0.5
+occupants of the indica car,0.5
+blind,0.487958115183246
+police,2.9749362629783356
+sentence,2.3896654193264366
+acquittal order,1.5
+wherein pw,0.5
+mobile,1.5876623376623376
+lacuna,1.6111111111111112
+examination,2.4920345926263088
+police officer,1.0366379310344829
+acqua,0.4508196721311476
+under section,5.374517374517374
+reason,2.6381270903010035
+submissions on the basis,0.5
+life,1.3352928273744242
+main contention,0.6666666666666666
+forensic,0.4285714285714286
+other article,0.6889952153110048
+statement to the police officers,0.5
+close proximity,0.42352941176470593
+consideration,1.9110153789142115
+material eye-witness,0.0
+front,0.8400299386969539
+reasonable ground,0.7777777777777778
+wrongness on the part,0.5
+of the witness to recovery,0.0
+other serious lacunae,0.5
+relative,1.0564311594202898
+recovery evidences,0.5
+unknown person,1.0476190476190477
+cars,0.7225527312060573
+spot after the incident,0.5
+bang,1.2345821325648414
+eye-witnesses,0.0
+existence of a conspiracy,0.5
+material addition,1.0
+circuit bench,1.0
+aqua minerals factory,0.5
+death,2.361592909460208
+huge gathering,1.0
+appeal before the high court,1.1875
+conduct,1.5998023165163158
+forensic science laboratory report,0.5
+statement before the court,0.6666666666666666
+kondaiah,1.0
+above discussion,0.9333333333333333
+argument,0.9504580388560493
+other serious lacunae in the prosecution case,0.5
+long time,0.5379746835443039
+unnamed assailant,0.5
+deceased bheemaneni kondaiah,0.5
+fact of the case,0.0
+face,0.7281253260594137
+special leave,1.903225806451613
+court by the impugned judgment,1.0
+honble mr justice,1.5833333333333333
+security,1.5014864864864865
+of the witnesses to recovery,0.5
+unnamed assailants,0.5
+additions,0.44999999999999996
+indian penal code,5.264705882352941
+hostility of these witnesses,0.5
+national,1.5126860273884035
+mr manan kumar mishra,0.5
+hand,2.0299623418254717
+under sections,2.1931818181818183
+inmates,0.531400966183575
+bleeding injury,0.5
+job,0.6733466933867737
+appellant,14.387096774193548
+security guards,0.3333333333333333
+lacunae,1.2
+number of persons,1.2592592592592593
+high court,7.7477477477477485
+complainant,4.538461538461538
+accused respondents,1.0
+state,6.817996007300392
+chance,0.7937084625609215
+to the prosecution case,1.0
+trial,3.7979448350459712
+accused  respondent in the incident,0.0
+dharwad,3.6666666666666665
+cultivators,0.3333333333333333
+inmates of indica car,0.5
+accused  respondents,0.0
+man,6.972395052694935
+basavana,0.5
+discussion,0.7445831166579996
+cultivators of the respondents,0.5
+material alteration,1.5
+highway,0.8737664473684211
+colleague,0.8874841972187105
+senior counsel,2.2857142857142856
+bolero,0.24509803921568626
+persons,2.5993381990166555
+to the accident,0.6666666666666666
+investigating officer,3.2580645161290325

@@ -1,0 +1,501 @@
+courts,2.1216528162511543
+second appellant by order,0.5
+adherence,0.6737967914438503
+shahara,0.5
+saxena,0.375
+legal representatives,4.111111111111111
+code,2.880559796437659
+legal heirs,3.1666666666666665
+respondent-plaintiff,0.0
+representative of banwari lal,0.0
+necessary application,0.5
+responsibility,0.8659259259259259
+viz,0.7732570026579433
+appellant as no step,0.5
+interim order,2.9166666666666665
+following direction,1.0
+to the death of the second appellant - swaraj,0.0
+legal representative of late banwari lal,0.0
+progress,1.075925925925926
+interest,2.74353772015385
+court,12.24425115501509
+declaration,2.152560083594566
+matter afresh,1.0
+aspects,1.0997620069447154
+reading of order xxii rules,0.5
+union,2.0981927710843373
+plot nos,2.3333333333333335
+cause title in the decree,0.5
+ors,2.8612718198296623
+jamabandi,0.5
+cause,1.8431210321626654
+behalf,1.9888053603529987
+part,5.294464509893076
+further progres of the proceedings,0.0
+following grounds,1.0
+combined reading,0.8571428571428571
+legal representatives of the second appellant,1.0
+representatives of plaintiffs,0.5
+share,2.560794932990637
+impleadment,1.3333333333333333
+representative of late banwari lal,0.0
+aspect,1.2449448189023034
+number,1.4802651440973922
+payment of cost,0.8333333333333334
+extn,0.23846153846153847
+combined reading of order xxii rules,0.5
+flexible tool,0.5
+fresh applications,1.5
+kila,1.026315789473684
+relevant portion of the order,0.5
+claim,2.817264601856604
+prasad saxena,0.5
+death of the second appellant - swaraj,0.0
+defects,0.6712564543889845
+appeal,3.4125488033856883
+prem nagar extn,0.5
+bearing cm nos,0.5
+husband chander prakash,0.5
+land,6.337534028705619
+area,2.675167256985439
+village,1.8429856945085372
+year,2.8349484769759212
+right of citizen,0.26666666666666666
+second appeal before the high court,0.5
+code of civil procedure,5.5636363636363635
+defendants,2.3554376657824934
+judgment,3.288216560509554
+independent rights,0.6666666666666666
+banumathi,0.9
+claims,1.1941982272360998
+order,5.472481489660944
+appellants on the ground,0.75
+qua,2.4497935676369567
+area of village karawal nagar,0.5
+sardar amarjit singh kalra v pramod gupta manuscmanusc,0.5
+bearing cm no,0.5
+conformity with the avowed object,0.5
+provisions of order xxii code,0.5
+nagar,0.8617021276595744
+matter of principle,0.6666666666666666
+sufficient opportunity,0.8
+appellant as no steps,0.5
+substantial right of the parties,0.0
+application under order xxii rule,1.0
+citizen,1.261748909029876
+first appellate court,3.727272727272727
+legal representatives of the appellants,0.5
+decree of the courts,0.6666666666666666
+suit bearing,1.0
+pendency,1.0084033613445378
+miscarriage,1.015625
+pendency of the second appeal,0.5
+original number,0.4444444444444444
+late banwari,5.0
+constructive approach,0.5
+convenience,0.6501259072729966
+manner,1.4494591333432125
+abated qua the second appellant,1.0
+parties,1.8210828547990157
+civil procedure,5.448275862068965
+section,9.287987283173626
+representative of late banwari lal viz,0.0
+subsequent amendments thereto,0.5
+rachna,1.0
+chander,1.8095238095238095
+penal in nature,1.2
+rigid matter,0.5
+appellant - swaraj,0.0
+representative,1.0617102796119673
+costs of rs,1.0
+case of respondent-plaintiff,0.0
+parcel of land,1.0
+circumstance,1.429931390219372
+civil,2.126558634963905
+sardar,1.5789473684210527
+plot no,3.2222222222222223
+due to the death of the second appellant-swaraj,0.0
+first appellant,3.0
+banwari lal,9.0
+procedure order xxii,0.5
+discrepancy,0.6097560975609757
+substantial right of citizen,0.0
+sanctify miscarriage of justice,0.5
+second appellant-swaraj,0.0
+procedural aspect,1.0
+proces,1.627944583238701
+direction,1.8495050210098996
+rights,1.6349541930937281
+progres of the proceedings,0.0
+fault,0.8125244007183572
+sound,0.8535719072510389
+union of india,3.1324503311258276
+facts,1.4696673624372698
+from the combined reading of order xxii rules,0.5
+rules of procedure,1.5555555555555556
+relevant portion,0.6486486486486488
+basi,2.0752712086391383
+powers,1.876345371920593
+necessary applications,0.5
+real justice,0.5
+prescribed procedure,0.8
+high court on the following grounds,0.5
+legal representative of the appellants,0.0
+non prosecution,1.0
+substantial rights of the parties,0.5
+cm no,1.08
+rights of the parties,1.1764705882352942
+sanctify miscarriage,0.5
+records,0.9879294336118848
+abadi,0.6666666666666666
+cost,1.2954397451466992
+doctrine,0.7455954017243533
+order xxii code,1.0
+following ground,1.0
+code of civil procedure order xxii,0.5
+basis,1.953226441078104
+rights of citizen,0.35555555555555557
+cause of justice,1.0
+progress of the proceedings,0.5
+late banwari lal viz,0.5
+whole proces,0.375
+directions,1.5134125183504605
+name of the parties,0.0
+technicalities,1.0
+memo of the second appeal,0.5
+relevance,0.6870535714285714
+name of legal representatives,0.0
+grounds,0.9540208829455945
+share in the property,0.0
+cost of rs,0.8888888888888888
+penal statute,2.0
+question of abatement,0.5
+amendment,2.2486412346818434
+ground,1.4186722903211633
+defect,1.4259259259259258
+appellant for no fault,0.0
+appellant on the ground,0.8
+opportunity,0.946186440677966
+second appeal in accordance,0.5
+application for condonation,2.0
+liberty,0.7860465116279071
+matter,2.8088923076923082
+separate shares,0.5
+culmination,0.5555555555555556
+stay,0.7804272356384462
+representative of the deceased party,0.0
+applications,1.0021816198527407
+appellants,7.701086956521739
+view,2.441100058469462
+handmaid,0.2857142857142857
+khata,0.5
+merit,1.2419290263876248
+legal representatives of late banwari lal viz,0.5
+file of the high court,0.8
+adherence to the procedural aspects,0.5
+rights to property,0.6666666666666666
+second appeal,4.5
+result,1.3356630184144715
+delay,1.9544910179640715
+record,2.5393414390845273
+procedure,2.552771605064117
+to the death,0.5172413793103449
+laws,1.4186274337269533
+technicality,0.0
+rejection by the high court,0.5
+legal representatives of plaintiffs,0.5
+judge bench,2.8472222222222223
+provision,5.439002243350069
+support,0.8630946786249609
+r banumathi,0.9
+sufficient cause,0.6538461538461539
+premlata,0.5
+fresh appeal,0.5
+plaintiffs,1.2549019607843137
+substantial rights of citizen,0.5
+late banwari lal,5.0
+fact,3.6284951019474962
+owner,2.9502416709822197
+fact that the khata,0.5
+swaraj,1.8333333333333333
+shares in the property,0.5
+whole process,0.375
+interests,1.0562317935913441
+amendments thereto,0.5
+reasoning,0.6478937381404174
+husband,1.6418918918918919
+object,1.4940119760479043
+prasad,1.1407089151450054
+thereto,1.0358342665173572
+impugned order,2.265957446808511
+representatives,0.8874021711688966
+discrepancy between the decree,0.5
+interlocutory application,1.7333333333333334
+provision of order xxii code,0.0
+aforesaid parcel,0.5
+affidavit,2.2996987951807224
+years,2.5395804110508022
+exercise,1.9400726466785694
+banwari lal viz,0.5
+order xxii rules,0.6666666666666666
+principle,1.9620890732001848
+party,2.2250894654439723
+separate share,0.5
+further progres,0.6666666666666666
+delhi,2.6089285714285717
+respondent  balbir singh vide judgment,0.0
+tool,0.3971731448763251
+justice,2.292557084574302
+appeal of balbir singh,0.5
+law of procedure,0.0
+progres,1.075925925925926
+exercise of the court,0.5
+balbir,1.8333333333333333
+separate share in the property,0.0
+decree,3.732408834103749
+banwari lal in the memo,0.5
+date,6.195616975795285
+rect,3.4249090909090905
+interlocutory applications,1.0833333333333333
+administration,1.061072796934866
+parcel,3.0625
+afresh,0.6891891891891891
+assist,1.2795275590551183
+in nature,0.7593052109181141
+hearing,0.9644508209787979
+respondent,4.757894736842104
+representatives of banwari lal,1.0
+strict adherence,0.6666666666666666
+administration of justice,1.1092436974789917
+accordance,1.4069045211613462
+name of legal heirs,0.0
+portion of the order,0.75
+question,2.980312372067635
+approach,1.001908852302553
+separate shares in the property,0.5
+scmanu,7.940520446096654
+amendments,1.2633895818048422
+clear from the combined reading of order xxii rules,0.5
+right of the parties,0.0
+step,0.8867024753460084
+judge bench of this court,1.6486486486486487
+plot,1.9177369203731243
+name,1.8996570753072433
+prakash,1.8933333333333333
+appellate court by judgment,0.5
+high,5.367119186841496
+payment,2.059553716565686
+respondentbalbir singh,2.0
+sital prasad saxena,0.5
+gupta,0.7610062893081762
+rsa,0.6590093900847137
+respondent  balbir singh,0.0
+representatives of late banwari lal,3.0
+file,1.3720673638585223
+part of the appellants,0.6666666666666666
+property,2.9368986630013745
+dismissal,1.614076246334311
+suit,2.485274378207659
+appellate court,3.1458333333333335
+representative of the appellants,0.0
+defendant,3.7706855791962175
+law,3.538923411654744
+trial court,3.854545454545455
+reasonable exercise of the court,0.5
+nos,1.2635492554198444
+in the proceedings,1.0
+cause for the delay,0.5
+time,2.4764180952862667
+plaintiff,2.177926421404682
+peculiar nature,0.5
+rejection,0.7335907335907336
+in the proceeding,0.9187500000000001
+second appellant,3.0
+lrs,0.46643518518518523
+vakalatnama,1.0
+first appellate court by judgment,0.5
+representatives of the second appellant,1.0
+right,3.07483248288682
+prosecution,4.619407894736842
+civil procedure order xxii,0.5
+cm nos,1.5
+further progress,0.6666666666666666
+representatives of late banwari lal viz,0.5
+village karawal nagar,0.5
+proceedings against banwari lal,0.5
+application,2.3322596088086445
+others on merits,0.5
+court of delhi,1.4761904761904763
+india,2.7684068260703585
+rules,3.130914366958792
+manju,0.7173913043478262
+reading,0.9004509191814082
+court registry,0.5
+credit,2.9526050420168066
+names,1.766440410418311
+abatement,3.0000000000000004
+pramod,1.4848484848484846
+pendency of the first appeal,1.5
+applications for impleadment,0.6666666666666666
+banwari,6.333333333333333
+legal representative of plaintiffs,0.0
+subject to costs of rs,0.5
+substantial rights,1.0
+application under order i,0.5
+interlocutory,1.96
+circumstance of the case,0.5
+independent right,0.8
+case,7.332269420884958
+right to property,0.6666666666666666
+scc,1.941872465904902
+high court of delhi,1.4761904761904763
+adjudication,1.5392156862745099
+order xxii code of civil procedure,1.0
+handmaid of justice,0.5
+legal representative of late banwari lal viz,0.0
+pedantic approach,1.0
+singh,3.7791111111111113
+legal representatives of late banwari lal,3.0
+careful reading of the provisions,0.5
+substantial right,1.0
+portion,1.0756311179804223
+other on merits,0.0
+prem,1.757457603819093
+adjudication on merits,1.0
+other laws,0.5079365079365079
+rule,5.04
+illaqua,0.5
+proceedings,1.7670925223666287
+view that the high court,1.0
+culmination in an effective adjudication,0.5
+penal statutes,1.2
+bench,2.5793391667754992
+fresh application,1.3333333333333333
+legal representatives of the deceased party,0.5
+memo of appeal,1.8
+careful reading,1.1538461538461537
+leave,1.0147842365477848
+other in the proceedings,0.5
+high court registry,0.5
+costs,0.8167395522604189
+memorandum of second appeal,0.5
+restoration,0.8498168498168498
+representative of plaintiffs,0.0
+permanent injunction,1.5555555555555556
+process,1.6274942048088725
+rule of procedure,1.0
+gaurav,1.3333333333333333
+power,3.8165227690948367
+merits,0.968421052631579
+independent right to property,0.0
+injunction,2.1512605042016806
+steps,1.169318181818182
+appeal in accordance,1.0
+deceased party,0.5
+adjudication of the claims,0.5
+title,1.74290600761189
+lal,1.6786163249382287
+distinct,0.9015873015873016
+set,2.3027452395971277
+amarjit,0.6666666666666666
+procedural aspects,0.5
+representative of the second appellant,0.0
+yard,1.5829315332690455
+continuation,0.5723370429252783
+legal representative of the deceased party,0.0
+flexible tool of convenience,0.5
+legal heir,3.1538461538461537
+peculiar nature of the case,0.5
+illaqua shahara,0.5
+memorandum,1.2142857142857144
+memo of second appeal,1.0
+aforesaid parcel of land,0.5
+order i,1.1193693693693696
+appellant by order,0.5
+names of legal representatives,0.5
+shares,3.3129411764705883
+swaraj for declaration,0.5
+others,0.9074667328904616
+dismissal of the second appeal,0.5
+tool of convenience,0.5
+entire matter afresh,0.5
+representatives of the deceased party,0.5
+rigid matter of principle,0.5
+other law,0.991304347826087
+serious manner,0.5
+heir,2.4782705005515444
+judge,2.9012627415183325
+death,2.361592909460208
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+heirs,1.7930440771349863
+kalra,1.0
+appeal before the high court,1.1875
+vide judgment,1.2142857142857142
+second appellant - swaraj,0.0
+legal representative,3.727272727272727
+independent rights to property,0.5
+balbir singh,2.25
+interests of justice,1.2
+order xxii rule,4.0
+names of the parties,0.6666666666666666
+behalf of the legal heirs,0.5
+weeks,0.8109161793372318
+second appellant as no steps,0.5
+nature of the case,1.0
+judgment of the first appellate court,1.0
+rca,1.3203161732743096
+shakuntala,1.0
+circumstances of the case,1.3373493975903614
+delhi in the abadi,0.5
+first appeal,1.112781954887218
+interest of justice,1.2
+court on the following grounds,0.5
+following directions,1.0
+defendant-banwari lal,0.0
+reading of the provisions,1.1111111111111112
+support to the view,0.5
+iii,1.5614499719992534
+conformity,0.71875
+application for impleadment,0.0
+statutes,0.9659824046920822
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+week,0.8253498691546249
+karawal,0.5
+cause title,1.0
+legal representative of banwari lal,0.0
+high court,7.7477477477477485
+memo,1.4242074188165834
+condonation of delay,4.3
+statute,2.5765859456247218
+substantial justice,1.4
+trial,3.7979448350459712
+date of judgment,0.8333333333333334
+specific order,1.25
+laws of procedure,0.5
+- for restoration,0.0
+manu,7.078142071124147
+legal representative of the second appellant,0.0
+strict adherence to the procedural aspects,0.5
+xxii,1.3333333333333333
+doctrine of abatement,0.5
+nature,1.4149926876444778
+due to the death,1.0
+further progress of the proceedings,0.5
+yards,0.7422680412371134
+registry,0.510662177328844
+avowed object,0.75
+owner of parcel,0.5
+appellants for no fault,0.5
+condonation,6.5
+respondent-balbir singh,0.0
+reasonable exercise,1.0
+legal representatives of banwari lal,1.0
+perception,0.43055555555555564
+effective adjudication,1.0
+representatives of the appellants,0.5
+effective adjudication on merits,0.5
+names of legal heirs,1.0
+second appellant as no step,0.5
+sital,0.2222222222222222

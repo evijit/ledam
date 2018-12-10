@@ -1,0 +1,682 @@
+courts,2.1216528162511543
+order of the high court,1.296875
+findings,1.049571253572887
+bhursinh,0.5
+commissioner of police,1.9090909090909092
+finding that the suit,0.5
+evidence in defence,0.5
+director,1.3549769585253457
+major singh v state,0.5
+spite of several punishments,0.5
+occasions,0.7723557692307693
+bakshish singh,4.0
+mind,1.1559066143122394
+major,1.2322145202480845
+signature,1.1400966183574879
+order that the retention,0.5
+constabl,1.0909090909090908
+jai shankar v state,0.5
+employee,6.280487804878048
+residence,0.7568831168831168
+order invalidating,0.5
+n delhi distt,0.5
+unfitness for police service,1.0
+court,12.24425115501509
+employment,1.5239770785161355
+declaration,2.152560083594566
+order of the trial court,1.0
+gravest acts of misconduct,1.0
+apparent conflict,0.6000000000000001
+second ground,0.4444444444444444
+union,2.0981927710843373
+in law,1.1088664421997756
+challenge on several grounds,0.5
+incorrigible type of person,0.5
+administrative tribunal,3.8
+person,4.291511329454258
+ors,2.8612718198296623
+punjab police rules,0.6666666666666666
+additional deputy commissioner,1.0
+allegations,1.8333333333333335
+v ram phal,0.6666666666666666
+chanakya,0.5
+subordinate to the deputy commissioner of police,0.5
+part,5.294464509893076
+other members,0.59375
+absence from duty subsequent,1.0
+certain other decisions,0.75
+range,0.8144965675057209
+lapse of absence,0.5
+further medical leave,0.5
+court in harihar gopal,1.0
+aspect,1.2449448189023034
+to the deputy commissioner of police,0.5
+number,1.4802651440973922
+ground for dismissal,0.5
+decisions,1.3888475974580996
+appropriate punishment,0.5
+decision,2.9514937765898557
+charge of misconduct,0.5
+competent authority,2.7142857142857144
+finding with the conclusion,0.0
+only ground,0.75
+to the lower appellate court,0.6666666666666666
+claim,2.817264601856604
+judge in view,0.6666666666666666
+complete unfitness,1.0
+staff,1.3233972834416785
+case to the punishing authority,1.0
+number of decisions,0.6050420168067226
+appeal,3.4125488033856883
+state of punjab v chanan singh chanan singh,0.5
+tribunal that the appellant,0.5
+daman,0.9
+diu,0.5756013745704468
+notice of this court,1.0
+scr,2.483838975311538
+various period,0.45000000000000007
+original application,3.3333333333333335
+typre,0.2777777777777778
+ram singh,3.272727272727273
+year,2.8349484769759212
+parte,0.7168042010502624
+lower appellate court,3.6666666666666665
+defendants,2.3554376657824934
+judgment,3.288216560509554
+decision in harihar gopal,1.0
+chief of the army staff,0.5
+services,1.6850241065659326
+sharma,0.9516994633273703
+order,5.472481489660944
+occasion from the date,0.0
+signature of the bakshish singh,0.0
+duration,0.6373626373626373
+rajendra,1.6428571428571428
+act,12.870263922028107
+papaiahb,0.5
+ram singh ex-constabl,0.0
+adjustment of leave,0.5
+babu,1.1979166666666667
+such order of dismissal,0.6666666666666666
+tito,0.72
+medical,1.633306645316253
+unfitness,1.0
+several occasion,0.5
+state of madhya,1.7142857142857142
+aislj,1.0
+offender,1.3711405166981725
+effect,2.184583388478191
+first appellate court,3.727272727272727
+copy,0.8620926631522174
+list,4.014941314095513
+other decisions,1.0666666666666667
+rest,3.3424534062537377
+manner,1.4494591333432125
+view that the decision,1.0
+member,2.649111111111111
+absence for long periods,1.0
+several grounds,0.4
+enquiry proceedings,0.5
+facts in these cases,0.5
+previous punishment,0.5
+section,9.287987283173626
+duty subsequent,1.0
+francisco,0.185546875
+madhya,2.9183673469387754
+bakshish,4.0
+appellate,2.561224489795918
+condition,2.259476395625584
+long period,0.6161971830985916
+proper opportunity of hearing,1.0
+absence period,0.5
+submissions of any medical papers,0.5
+place,2.333104345208554
+circumstance,1.429931390219372
+civil,2.126558634963905
+finding,1.8129183657767178
+naught,0.5405405405405406
+habitual unauthorised absence,0.5
+present case,1.5611814345991561
+yadav,1.8571428571428574
+other members of the force,0.5
+advance,1.2070333024745414
+matter to a bench,0.8
+infact,0.20434782608695654
+regard,2.723310344827586
+delhi police act,0.5
+discipline of the force,0.5
+apmanu,0.9629629629629629
+departmental enquiry on the charge,0.5
+ratio of the decision,1.0714285714285714
+context,0.9269383697813122
+place through the superintendent,0.5
+delinquent officer,1.5
+dures during departmental proceedings,0.0
+list of witnesses,0.75
+direction,1.8495050210098996
+certain other decision,0.75
+consideration before this court,1.0833333333333333
+inconsistent judgment,0.5
+guilty of misconduct on the basis,0.5
+length,0.6297872340425531
+union of india,3.1324503311258276
+facts,1.4696673624372698
+account in an appropriate case,0.5
+issue,2.766776251628934
+para,2.300239586747483
+habitual absentee,0.5
+employment of delinquent officer,0.5
+satya pal yadav v union of india,0.5
+decision of courts,0.0
+several ground,0.4
+basi,2.0752712086391383
+powers,1.876345371920593
+leave petition,2.013333333333333
+discipline in the service,0.5
+services for unauthorised absence,0.5
+incorrigible type,0.5
+appropriate punishments,0.5
+days,1.6721350893491447
+service condition,2.272727272727273
+case of misconduct,0.5
+court on this aspect,0.75
+commandant,0.2777777777777778
+judgment of this court,2.1029411764705883
+orders,1.4936359300077826
+basis,1.953226441078104
+enlistment,0.4444444444444444
+other member of the force,0.0
+directions,1.5134125183504605
+singh v state of punjab,1.2352941176470589
+distt,1.0476190476190477
+categorical finding of fact,0.5
+appellant thereafter,0.8333333333333334
+absence from duty,5.5
+charge,2.7679815308681284
+period of leave,0.5
+high courts,2.676470588235294
+airap,1.5
+pal,1.6504163634893685
+grounds,0.9540208829455945
+punjab police manual,0.5
+pradesh,4.365853658536586
+other decisions of this court,0.8571428571428571
+satya,0.40624999999999994
+hence,1.1440732910500353
+officer,3.1197242647058823
+additional commissioner,1.2857142857142858
+several occasions,0.5
+ground,1.4186722903211633
+such opportunity,0.8571428571428571
+appropriate case,1.4074074074074074
+certain civil suit,0.5
+arguments,0.7212211466865226
+opportunity,0.946186440677966
+head note of the report,0.5
+pal yadav v union of india,0.5
+gopal,1.1610169491525424
+second part,2.0913461538461537
+decisions of courts,0.5
+matter,2.8088923076923082
+same order,0.46753246753246747
+native place through the superintendent,0.5
+v administrator of goa daman,0.5
+scrutiny,0.912987012987013
+deputy commissioner of police,2.5
+administrator,1.0441081081081083
+proper opportunity,1.0
+case against the findings,0.5
+medical service,0.4307692307692308
+appeal nos,1.6666666666666667
+appellants,7.701086956521739
+conflict between the decisions,0.6666666666666666
+spite,0.8919640378414163
+view,2.441100058469462
+basis of habitual unauthorised absence,0.5
+that finding,0.6666666666666666
+continued misconduct,1.0
+conflict,1.314561353483509
+order of punishment,1.5
+suit on the basis,0.6666666666666666
+period of absence,1.5
+pradesh v harihar,0.5
+member of the force,0.0
+order from the competent authority,0.0
+constable in delhi police,0.5
+assistant,1.6732837055417698
+witness,5.333906623599983
+second appeal,4.5
+various periods,0.45000000000000007
+signatures,0.9850746268656717
+unauthorised absence from duty,3.0
+pay,3.828326695859537
+limine,1.3636363636363635
+punishing authority,1.3333333333333333
+record,2.5393414390845273
+lesson from the previous punishments,0.5
+information,1.1320502836800534
+punjab police rule,0.6666666666666666
+police constable in punjab,0.5
+scope,0.8412698412698413
+petitions,1.3930830039525692
+gravest kind,1.0
+defence,1.3606588776096535
+correct record of the duration,0.5
+polouse,0.0
+respondent in the departmental proceedings,0.5
+order of the tribunal,2.0
+provision,5.439002243350069
+respondent s service conditions,0.0
+support,0.8630946786249609
+such order,1.056910569105691
+duress,1.6666666666666667
+civil appeal nos,1.5416666666666667
+fact,3.6284951019474962
+gravest act,1.0
+fact that the charge,0.6666666666666666
+inconsistency,0.7857142857142857
+department,1.9858367499068206
+signatures of the bakshish singh,0.5
+wilful absence,0.5
+anr,1.1271033322299457
+deputy,1.1595268542199488
+of misconduct on the basis,0.5
+habitual absence,0.5
+certain other decisions of this court,0.6666666666666666
+appeal in bakshish singh,0.5
+station,1.2515681586858238
+chief,1.9429638234317954
+presence of the appellant,1.0
+face of these findings,0.5
+termination of the employment,1.0
+absent from duty,1.5
+kumar,2.028839704896043
+goa,0.6574823943661972
+additional deputy commissioner of police,1.0
+stand,1.8422769621739425
+impugned order,2.265957446808511
+leave till,0.6666666666666666
+final order,1.1466666666666667
+findings of the trial court,0.6666666666666666
+claim to pension,0.5
+unauthorised absence,4.5
+work,2.8478559811646353
+years,2.5395804110508022
+retention,1.1818181818181819
+report,1.7768151696835826
+punjab,1.0438169425511197
+referable to a misconduct,0.5
+papers,1.0564063453325199
+rule reads,1.1111111111111112
+gravest acts,1.0
+principle,1.9620890732001848
+copies,0.5369304682962884
+declaration of law,1.1818181818181819
+delhi,2.6089285714285717
+conflict in this regard,0.5
+proposition,0.6371087928464977
+later part,0.75
+enquiry,2.145762711864407
+justice,2.292557084574302
+illness,0.883177570093458
+pension,11.516129032258064
+effect of continued misconduct,1.0
+lapse,0.9238095238095239
+basi of rule,0.0
+fresh order of punishment,2.0
+dures,0.7221114369501466
+slr,0.8103448275862069
+v state,2.4603773584905664
+certain paper,1.0
+phal,0.9593984962406016
+date,6.195616975795285
+service conditions,2.1818181818181817
+gist of evidence,0.5
+date of issue,1.2857142857142858
+presence,0.9604834261070158
+misconduct on the basis,0.5
+adjustment,0.6982649174777825
+hearing,0.9644508209787979
+ghaziabad,0.75
+signatures on certain papers,0.5
+respondent,4.757894736842104
+consist,1.0784032265563253
+inspector,1.2705882352941176
+authority before passing,0.5
+day,1.550999710228919
+medical paper,1.0
+question,2.980312372067635
+civili,0.4801283054295103
+islj,1.5
+giriraj,0.5
+delhi range,0.5
+bakshish singh s case,0.0
+appeal by special leave,1.04
+impugned order of dismissal,0.5
+v state of gujarat,1.2424242424242424
+scmanu,7.940520446096654
+word,2.065873981084096
+writ,2.8882378560889794
+misconduct for unauthorised absence,0.5
+appeals,1.7060218112849692
+permissible in law,1.35
+word about the finding,0.5
+court in ram singh,0.5
+rajasthan,3.9215686274509802
+harihar gopal s case,0.0
+order in the departmental enquiry,0.5
+high,5.367119186841496
+members,1.9437616522164103
+submission of any medical papers,0.0
+natural justice,2.6666666666666665
+account,2.5754891049671977
+acts of misconduct,1.0
+file,1.3720673638585223
+force,1.6009408121948314
+force with immediate effect,0.5
+constable maan singh,0.5
+gopal s case,0.0
+facts in mind,0.38095238095238093
+division of work,0.5
+part of the same order,0.5
+dismissal,1.614076246334311
+claim of the respondents,0.75
+suit,2.485274378207659
+constable,1.0606060606060606
+defendant,3.7706855791962175
+purpose,2.519170317925504
+law,3.538923411654744
+trial court,3.854545454545455
+equivalent in rank,1.0
+appellate court,3.1458333333333335
+police constable,1.0
+nos,1.2635492554198444
+head,1.5827778446537666
+which claim,0.4102564102564103
+cases,1.9728229418951067
+division,1.7657319129617017
+vikrant,0.5
+several punishment,0.5
+plaintiff,2.177926421404682
+certain papers,1.0
+allegation,1.834319526627219
+copies of the summary,0.5
+several punishments,0.5
+principle of natural justice,1.0
+categorical finding,0.75
+due to delinquent officer,0.5
+medical papers,1.0
+appellant court,1.2
+discipline,0.5608974358974359
+authority for the proposition,1.0
+hereinafter,0.7670609645131939
+residence of the appellant,0.5
+pal yadav v union,0.5
+police service,1.0
+civil appeal no,2.1403508771929824
+absence,1.092363454568179
+type,0.8102172691515265
+application,2.3322596088086445
+termination,1.6799615488397193
+army staff,0.5
+parts,0.6609660823170732
+award,3.104213525266157
+jai shankar v state of rajasthan,0.5
+jk sharma,0.5
+india,2.7684068260703585
+lesson,0.4693877551020409
+witnesses,3.359210526315789
+rules,3.130914366958792
+summary,0.8025241675617614
+manuapmanuap,1.4444444444444444
+tito francisco pereira,0.5
+to delinquent officer,0.5
+later part of the same order,0.5
+defaulter,1.5555555555555556
+civil suit,0.7413793103448276
+new,0.9418497626301229
+v bakshish singh,0.5
+puri,0.8184615384615385
+copy of the findings,0.5
+v administrator,0.5
+immediate effect,1.0833333333333333
+dlt,0.3054545454545455
+special leave petitions,1.6296296296296295
+other decision of this court,0.0
+submissions,0.5235745614035088
+medical services,0.4800000000000001
+satya pal yadav v union,0.5
+ltd,2.382356477306883
+submission,1.0913871684001404
+evidence,3.6676405172088815
+singh s case,0.0
+document,1.401100265092073
+special leave petition,2.013333333333333
+secunderabad,0.75
+question whether an employee,0.5
+decision of this court,2.3260869565217392
+conditions,1.9988092071092867
+findings with the conclusion,0.5
+additional dy,0.5
+whole,0.951414768806073
+other member,0.6470588235294118
+view that the disciplinary authority,0.5
+different occasions from the date,0.5
+case,7.332269420884958
+appellant in this appeal,0.6666666666666666
+different occasions,0.42857142857142855
+basi of habitual unauthorised absence,0.0
+period,1.9480170842427122
+consists,0.8632653061224488
+harihar gopal,5.0
+scc,1.941872465904902
+guilty of misconduct for unauthorised absence,0.5
+new delhi range,0.5
+opportunity of hearing,1.25
+different high court,1.1428571428571428
+ram,2.11096203538064
+punishment,1.6266937669376693
+charge against the appellant,0.8
+period of the plaintiff,0.5
+singh,3.7791111111111113
+harihar,3.4
+fresh order,1.5714285714285714
+service,4.257395095954566
+different occasion from the date,0.0
+previous punishments,0.5
+periods,0.8597883597883598
+v assistant director,0.5
+contention,1.666391070690368
+civil suits,0.8571428571428572
+order as a whole,0.5
+intimation to the department,0.5
+central administrative tribunal,1.8333333333333333
+conformity with the view,0.5
+rule,5.04
+act of misconduct,0.0
+apparent conflict between the decisions,0.5
+disciplinary authority before passing,0.5
+proceedings,1.7670925223666287
+judges in view,0.6666666666666666
+respondent s service condition,0.0
+application to the facts,0.8888888888888888
+from duty,3.6666666666666665
+iiilljsc,1.1666666666666667
+duty,3.2272215973003378
+suits,1.0993657505285412
+bench,2.5793391667754992
+civil appeal,2.2413793103448274
+respondents,2.6341263330598856
+leave,1.0147842365477848
+superintendent,1.2698412698412698
+enquiry officer within a period,0.5
+native place,0.75
+decisions in harihar gopal,0.5
+opportunities,0.5793650793650793
+point,2.9165043546008516
+absentee,0.2
+singh v state,1.75
+appellant from service,0.6666666666666666
+remand,1.08843537414966
+illnes,0.883177570093458
+notice,2.3300025999395686
+such incorrigible type of person,0.5
+copy of the summary,0.0
+power,3.8165227690948367
+complete unfitnes,1.0
+enquiry officer,1.75
+proceedings of the departmental enquiry ex parte,0.5
+police,2.9749362629783356
+major singh v state of punjab,0.5
+application for further medical leave,0.5
+communication,1.013409067330636
+instant case,2.0631578947368423
+shankar,0.84
+additional point,0.2857142857142857
+vol,1.8556860549079708
+position,1.549133168619177
+incorrigibility,1.0
+v vikrant,0.5
+writ petition in the high court,0.9166666666666666
+writ petition,6.24223602484472
+petition,5.3436539306104525
+finding of fact,1.7083333333333333
+correct record,0.5
+punishments,0.6444444444444445
+absent,0.7136150234741784
+cumulative effect,1.5555555555555556
+charge against the appellants,0.6666666666666666
+response,0.7112676056338028
+army,1.2797619047619049
+scope of powers,0.6666666666666666
+context of rule,0.5
+consideration,1.9110153789142115
+chanan,0.37499999999999994
+appeal no,2.288135593220339
+enquiry ex parte,0.5
+departmental proceedings,2.5714285714285716
+order of dismissal,3.6153846153846154
+regular departmental enquiry,0.5
+commissioner,2.271608643457383
+documents,1.142515923566879
+passing,0.8851858023662723
+additional commissioner of police,1.0
+case against the finding,0.5
+typres,0.2857142857142857
+different high courts,1.1538461538461537
+complete unfitness for police service,1.0
+enlistment in the department,0.5
+acts,1.9133929521984454
+leave without pay,3.0
+decision of the courts,0.5
+s rajendra babu,1.4444444444444444
+members of the force,0.5
+gujarat,3.2753623188405796
+pereira,0.28124999999999994
+first appellate court whether remand,0.5
+lower appellant court,0.5
+misconduct,1.2976744186046512
+the tribunal,2.376543209876543
+challenge,1.2204566274399267
+occasions from the date,0.5
+period of unauthorised absence,0.5
+departmental proceeding,2.625
+goa daman,0.6666666666666666
+judge,2.9012627415183325
+authority,2.4352627108360636
+claim for pension,0.75
+manuscmanusc,7.940520446096654
+orders from the competent authority,0.5
+long periods,0.48275862068965525
+departmental enquiry,3.0
+such opportunities,0.5
+disciplinary authority,3.6666666666666665
+record of the duration,0.5
+maan,0.25
+argument,0.9504580388560493
+signature on certain papers,0.0
+of misconduct for unauthorised absence,0.5
+conclusion,1.3883437407077015
+rule read,1.1666666666666667
+face,0.7281253260594137
+ratio,5.027061939235792
+special leave,1.903225806451613
+commandant of police,0.5
+appellate court whether remand,0.5
+virendra,0.8
+judges,2.0931496919173616
+appellant by an order,0.6666666666666666
+punjab v chanan singh chanan singh,0.5
+final order in the departmental enquiry,0.5
+iilljsc,2.1666666666666665
+paper,1.8076689487632511
+delhi police,1.0
+larger bench,2.0606060606060606
+rajpur,0.6666666666666666
+leave petitions,1.6296296296296295
+head note,0.2857142857142857
+conformity,0.71875
+basis of rule,0.5
+occasion,0.7946745562130177
+medical leave,1.0
+to a misconduct,0.5
+absence of the appellant,0.5
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+unfitnes,1.0
+court s attention,0.0
+police station chanakya puri,0.5
+high court,7.7477477477477485
+habitual absence for long periods,0.5
+question whether the view,0.5
+such incorrigible type,0.5
+new delhi,1.744186046511628
+state,6.817996007300392
+note,1.3654108484234107
+trial,3.7979448350459712
+award regard,1.3333333333333333
+finding of the trial court,1.0
+finding of the enquiry officer,0.5
+manu,7.078142071124147
+central,2.61875
+regular departmental enquiry on the charge,0.5
+other decision,1.1818181818181819
+deputy commissioner,2.2222222222222223
+wilful absence from duty,0.5
+delhi polouse,0.0
+open to the lower appellate court,0.5
+departmental enquiry ex parte,0.5
+different occasion,0.42857142857142855
+unfitnes for police service,0.0
+cumulative effect of continued misconduct,1.0
+discussion,0.7445831166579996
+certain other decision of this court,0.0
+intimation,1.105263157894737
+disciplined force,0.5
+illjsc,3.25531914893617
+complete unfitnes for police service,0.0
+vain,0.358695652173913
+tribunal,5.07183212267958
+fact in these cases,0.0
+jai,1.2346163917255824
+length of service,1.25
+kind,0.9236881920088026
+hamsinh,0.5
+duress during departmental proceedings,0.5
+enquiry proceeding,0.5
+certain civil suits,0.5
+file of the central administrative tribunal,0.5
+v giriraj sharma,0.5
+manual,0.7839771101573677
+attention,0.8724846605528799
+termination of employment,0.5
+gist,2.3317211948790892
+administrative,1.85302734375
+state of punjab,1.6956521739130435
+order that the defaulter,0.5
+fact in mind,0.4444444444444444
+gravest act of misconduct,0.0
+lenient view,0.5
+service for unauthorised absence,0.0
+rank,0.6723585912486659
+medical rest,0.5

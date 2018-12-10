@@ -1,0 +1,1366 @@
+finding by the respondent,0.5
+exercise of original jurisdiction,0.5
+government,3.5583785424010483
+suffers,0.6412121212121213
+signature,1.1400966183574879
+pradesh high court rule,0.5
+various impugned order,0.5
+definite findings,0.5
+prescribes,0.6387096774193549
+definite finding in that regard,0.5
+serial,0.95402624374587
+issue before this court,0.75
+high court in ia,0.5
+basic right,0.75
+cause,1.8431210321626654
+way,1.7812722068664852
+proviso to section,3.3181818181818183
+sitting of the court,0.0
+same manner,0.6079182630906769
+slp no,2.0
+errors,0.6042698360294927
+which remedy,0.5
+impugned orders,1.2352941176470589
+cross,2.0778316690442225
+unsatisfactory way,0.5
+order as the decision,0.5
+contrary,1.027917657672435
+aforesaid,2.592896174863388
+cross - objection,0.0
+correctnes,0.8404159132007234
+save,0.579674406424581
+opinion of the chief justice,0.5
+constituency,3.7333333333333334
+signatures at every page,0.5
+interlocutory proceeding,0.5
+content of an affidavit,0.5
+stage,1.1298537871524448
+respective power,0.75
+clarifications of an earlier order,0.5
+clarification of order,0.5
+corrupt practices,2.111111111111111
+subject,2.4420366233344897
+order,5.472481489660944
+unnecessary examination,0.5
+proper order,0.4
+identification of the affidavit,1.0
+own signature,0.5
+view of the foregoing discussion,0.75
+pleading,1.1270125223613594
+correctnes of the finding,0.0
+candidates,3.508445945945946
+copy,0.8620926631522174
+voters,2.522727272727273
+member,2.649111111111111
+annexure to the petition,0.5
+parties,1.8210828547990157
+allowance,2.1019607843137256
+filing of an affidavit,0.5
+civil procedure,5.448275862068965
+contention with respect,1.0
+violation of the provisions,1.5
+mohammed riyas case,0.5
+pursuant to this order,0.75
+madhya,2.9183673469387754
+amendment in the year,0.8571428571428571
+requirement of stipulations,0.5
+rules of the high court,1.3333333333333333
+krishan,1.2
+seal,1.5645371577574967
+present case,1.5611814345991561
+limitation,2.4984479402325457
+clarifications from the madhya,0.5
+other particulars,0.7619047619047619
+para,2.300239586747483
+separate affidavits,1.0
+such judge,0.6545454545454544
+july,0.9742727723122656
+stipulation,1.6507936507936507
+powers,1.876345371920593
+prescription,0.812549019607843
+election petitioner,11.875
+candidate,6.356675392670156
+slp nos,0.6666666666666666
+day from the date,0.0
+such practice,1.159090909090909
+relevance,0.6870535714285714
+v krishan,0.5
+end of the petition,0.5
+vii,1.26552423069836
+interregnum period,0.75
+practice in an election petition,0.5
+high courts,2.676470588235294
+concise statement of the material facts,0.5
+country,1.2903191103863751
+high court without any reference,0.5
+mr pp,1.1
+pradesh high court,2.409090909090909
+affidavit in the form,1.0
+full particulars of any corrupt practice,0.5
+relevant rule,1.1875
+considerations arise,0.75
+election petition complete in all respects,0.5
+irrelevant reference to the gm,0.5
+relation to the administration,0.5
+spite,0.8919640378414163
+post,2.344803646492219
+merit,1.2419290263876248
+division bench under rule,0.5
+correctnes of the findings,0.0
+for an election petitioner,0.5
+view of the above conclusion,0.5
+other category,0.4444444444444444
+certain facts,1.125
+virtue of such corrupt practice,0.5
+other documents,0.619047619047619
+court s observation,0.0
+learned judge,3.3692307692307693
+clarification of record,0.5
+mind that all official act,0.5
+anr,1.1271033322299457
+deputy,1.1595268542199488
+compliance of format affidavit,0.5
+fate of these appeals,0.5
+relevant rule of the high court,0.5
+available to the respondent under the unamended code,0.5
+phal manuscmanusc,0.6666666666666666
+law for the time,1.945945945945946
+modification,0.9714977645305514
+satisfies,0.5175983436853001
+applicability,1.0928961748633879
+interlocutory application,1.7333333333333334
+affidavit,2.2996987951807224
+following reason,0.505050505050505
+siddeshwar v prasanna kumar manuscmanusc,1.0
+principle,1.9620890732001848
+inference that the affidavit,0.5
+non-compliance with the requirement,0.0
+other defence of the election petitioner,0.0
+interlocutory proceedings,0.5
+otherwise of the affidavit,1.0
+commencement,1.2037037037037035
+subsequent to the date of the presentation,0.5
+various authority,0.0
+served,1.7576408787010507
+court hour to the additional registrar,0.0
+more about clarification of record,0.5
+division bench,3.965217391304348
+phal,0.9593984962406016
+date,6.195616975795285
+true state of facts,0.5
+other particular,0.6233766233766233
+jasti chelameswar,0.8888888888888888
+reference,2.1755848210276256
+afresh,0.6891891891891891
+regard to the allegations,0.5
+compliance with format prescribed,0.5
+respondent,4.757894736842104
+bare reading,0.9285714285714286
+schedule,2.9453067257945307
+format affidavit,0.5
+compliant with the requirement of statute,0.5
+petition in limine,1.3333333333333333
+respect to the non filing,0.5
+portion of rule,0.5
+honble,2.4444444444444446
+matter of fact,0.6230936819172114
+typographical error,0.30000000000000004
+other words,0.7578482137053969
+interpretation of the earlier orders,0.5
+that part,0.9543770509156346
+supreme court,1.4278957326045825
+begum,0.717948717948718
+certain findings,0.8
+contrary to law,1.3846153846153846
+of the fact,0.9194706545605603
+such mandate in the representation,0.5
+high,5.367119186841496
+sub-rule,0.0
+event,1.4310854436179261
+subject to the provisions of the constitution,1.3333333333333333
+affidavits in view,0.5
+basic facts,0.3970588235294118
+notary,0.4800000000000001
+nos,1.2635492554198444
+separate affidavit,1.3333333333333333
+election to the legislative assembly,0.0
+week from the date,0.6666666666666666
+rejection,0.7335907335907336
+layout,0.46697388632872494
+allegation,1.834319526627219
+part of the decree,1.2
+hereinabove,1.911764705882353
+affidavit in prescribed format,0.5
+date of the filing,0.75
+stands,0.7032366540563262
+affidavit pursuant,0.5
+event of the high court,0.5
+defective for any reason,0.6666666666666666
+duty of the registrar,0.5
+particular of any corrupt practice,0.0
+substantial compliance with the requirements,0.5
+properly,0.75165810868635
+clear that the petitioner,0.8
+hereinafter,0.7670609645131939
+other defences of the election petitioner,0.5
+bid,1.9753926494441585
+election disputes,1.6
+reads,0.8722657304887929
+opinion on the opening order-sheet,0.0
+commission,4.703619179345321
+to the respondent under the unamended code,0.5
+place in the year,0.75
+that legislature,0.8
+point during the course,0.5
+names,1.766440410418311
+virtue of dismissal,0.5
+well - settled principle of law,0.0
+limited extent,0.8
+available on record,1.2857142857142858
+orders of the high court,1.1
+evidence,3.6676405172088815
+document,1.401100265092073
+interlocutory,1.96
+case of review,0.0
+grounds that the returned candidate,0.5
+judicata,1.5384615384615385
+respective powers,0.75
+above that the election petitioner,1.0
+para commences with a clumsy statement,0.5
+representation of people act,1.625
+annexure,2.7560975609756095
+venugopal,2.7142857142857144
+shri ajay arjun singh,0.5
+ram,2.11096203538064
+singh,3.7791111111111113
+dispute with respect,0.5
+service,4.257395095954566
+therefore,2.960332350576253
+end,6.1484001628618765
+person with the consent,1.0
+rule,5.04
+proceedings,1.7670925223666287
+favour,1.653145208700764
+mohammed,0.6057692307692307
+para commence with a clumsy statement,0.0
+dispute on hand,0.5
+chandra,0.7012987012987013
+settled proposition of law,0.75
+civil appeal,2.2413793103448274
+respondents,2.6341263330598856
+court with respect,1.0
+costs,0.8167395522604189
+final by virtue of dismissal,0.5
+interregnum,0.8333333333333334
+categoric finding in that regard,0.5
+petitioner alleges,1.0
+respondent under the unamended code,0.5
+collection,1.0907127429805616
+finding in that regard,1.0
+particular,1.5248953455371081
+present election petition,1.0
+power,3.8165227690948367
+foot by the party,0.5
+election petition at page nos,1.0
+above submission,1.0
+third objection,0.5
+examination,2.4920345926263088
+specific plea of the election petitioner,0.5
+magistrate of the first class,0.75
+requirement of the representation,0.0
+affidavit pursuant to the order,0.5
+clarification,1.0567698846387372
+one,4.845669314438648
+petition,5.3436539306104525
+case from stage,0.5
+remedy,1.3214024835646458
+distinct grounds,0.6666666666666666
+review application,1.5
+affidavit at page nos,8.5
+consideration,1.9110153789142115
+government of india,4.94
+clarification of an earlier order,0.0
+paragraph,1.2930197483150305
+appropriate pleading,0.5
+course of the adjudication,0.5
+definite finding in the event,0.0
+words,1.6384367086179112
+commissioner,2.271608643457383
+clause,3.526455026455027
+election petition in the madhya,0.0
+affidavit under form-,0.0
+xerox,0.30624999999999997
+such pleadings,0.5
+division court,1.3333333333333333
+practice by the returned candidate,0.5
+ground for rejection,0.75
+sittings,0.6666666666666666
+foregoing discussion,0.8571428571428571
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+point of time,0.7999999999999999
+affidavit at page,9.5
+affidavits,1.954022988505747
+period of limitation,3.3181818181818183
+names of the parties,0.6666666666666666
+fact of the case,0.0
+doctrine of res judicata,0.6666666666666666
+adjudication of election disputes,0.6666666666666666
+for the respondent,1.6083333333333334
+pursuant,0.7227692307692308
+suffer,0.9987778769729485
+finding to the contra,0.5
+circumstances of the case,1.3373493975903614
+to the stipulation of section,0.5
+conformity,0.71875
+to the election petitioner,1.0
+result of a returned candidate,0.5
+statement of the material facts,0.5
+occasion,0.7946745562130177
+high court pursuant,0.6666666666666666
+page of the election petition,1.5
+judicial orders,0.6666666666666666
+supreme,1.443815331010453
+requirement,1.2416133333333332
+right of any party,0.0
+manner as the petition,0.5
+deal,2.1942302694273583
+wbmanu,1.1818181818181819
+afresh affidavit,0.5
+language,0.8555828468744352
+churhat assembly constituency,1.0
+nature,1.4149926876444778
+vague finding that the election petitioner,0.5
+court by an order,1.0
+examination of the issues,0.6666666666666666
+matter of challenge,1.25
+actual date,1.2
+action,3.127292663476874
+mind that all official acts,0.5
+above conclusion,0.7407407407407408
+legislative assembly,4.473684210526316
+affidavit sworn,1.3333333333333333
+requirement of the law,0.6666666666666666
+corrupt practices by the returned candidate,1.0
+order of the high court,1.296875
+capacity,1.7421691881525676
+findings,1.049571253572887
+xerox copies,0.4
+corrupt practice in an election petition,0.5
+other hand,0.6931925622439332
+publication,1.3442779291553135
+batch,1.2940630797773658
+fact compliant,0.5
+sections,1.640495469442838
+matters,1.4810665618448637
+ultimate result,0.6666666666666666
+content of petition,0.0
+basi of aforesaid discussion,0.0
+rule stipulates that any application,0.5
+court,12.24425115501509
+declaration,2.152560083594566
+judge of the high court,1.75
+parliament,2.6571235781762095
+single judge,4.011627906976744
+objection,1.68120480131216
+inference,1.006741573033708
+person,4.291511329454258
+allegations,1.8333333333333335
+correctness,0.8404159132007234
+description,0.8190476190476191
+provisions of this constitution,1.4
+subject matter,1.2537313432835822
+decision,2.9514937765898557
+chapter vii rule,0.0
+affidavit in the prescribed form,5.0
+affidavit in form,5.5
+record of the high court,0.5
+signature at every page,0.0
+siddeshwar case,0.5
+contra,3.550142721217888
+sheet,1.1667364016736401
+election,6.758005637447438
+interpretation,1.518366298484459
+year,2.8349484769759212
+paper publication,1.0
+requirement of form,0.5
+opening clause,0.8333333333333334
+judgment,3.288216560509554
+pages,0.4777568922305764
+unnecessary examination of various authorities,0.5
+act,12.870263922028107
+order vi,1.7575757575757576
+issue as the returned candidate,0.5
+judicial proceeding,1.3333333333333333
+riyas,0.8
+conduct of election rules,2.4
+ajay,0.911764705882353
+abovementioned finding,0.5
+analysis,0.6606741573033708
+clas,2.1196191893660425
+legal implication,0.6666666666666666
+election petitions deal,0.5
+same parties,0.8333333333333334
+agent,1.406335913378167
+only judgments,0.5
+petition by the additional registrar,0.5
+implication of the earlier orders,0.0
+various impugned orders,0.5
+finality,1.1746031746031746
+rule of the high court,1.0
+para commences,0.5
+section,9.287987283173626
+other pages,0.2857142857142857
+correct law,0.9230769230769231
+fact whether somebody points,0.5
+court by the parties,0.75
+finding,1.8129183657767178
+clear that the returned candidate s objection,0.0
+exercise of such power,1.0
+chapter vii rules,0.0
+regard,2.723310344827586
+knowledge,1.1120671641791045
+direction,1.8495050210098996
+rights,1.6349541930937281
+justice of the high court,1.1666666666666667
+truth,0.9590230664857531
+other defence,0.6666666666666666
+petitioner allege,1.0
+facts,1.4696673624372698
+different considerations arise,0.75
+summons,0.9764492753623188
+course of action,0.5886970172684458
+relevant portion,0.6486486486486488
+form,2.4865961263718424
+returned,1.865874363327674
+decree without cross - objection,0.0
+- compliance,0.0
+that regard,0.5944055944055944
+lack,0.6349809734425119
+benefit,2.604810195438474
+non-compliance,0.0
+records,0.9879294336118848
+first affidavit,0.5
+cost,1.2954397451466992
+plea of the election petitioner,0.5
+following ground,1.0
+appearance in the court,0.5
+verification clause,0.5
+sub,7.816899313759727
+course,1.6545957498716626
+to the date of the presentation,0.5
+amendment of order,0.5
+pradesh,4.365853658536586
+estoppel,2.736842105263158
+cause of cause,0.5
+matter,2.8088923076923082
+relation,1.397320207820618
+listing,0.6422018348623852
+first clas,0.78125
+basic fact,0.4444444444444444
+final orders,0.8333333333333334
+that part of the decree,1.0
+hour of presentation,0.5
+elections to the legislative assembly,0.6666666666666666
+above submissions of the returned candidate,0.5
+conduct rules,1.1428571428571428
+provisions of any law,2.5
+slps,1.6363636363636365
+material,1.4148767018946966
+procedure,2.552771605064117
+petitions,1.3930830039525692
+clear declaration by the constitution,0.5
+such circumstances,0.5729166666666666
+fact in issue,2.6666666666666665
+provision,5.439002243350069
+support,0.8630946786249609
+first class,0.78125
+same date ie,0.5
+conclusions,0.8522069292833413
+same question,0.5357142857142857
+requirement of sub - rule,0.0
+contravention,2.586206896551724
+abundant caution,2.5
+high court pursuant to the power,0.5
+trial of an election petition,1.0
+riya,0.44925742574257427
+opening clause of article,0.5
+caution,1.0777000777000778
+justice in the court,0.5
+full compliance thereof,0.5
+kumar,2.028839704896043
+thereto,1.0358342665173572
+other defences,0.5
+reference to the gm,0.5
+absence of an appropriate pleading,0.5
+extent,1.410108024691358
+practices,1.3187467899332308
+facts in issue,0.6666666666666666
+defences,1.1904761904761905
+member of legislative assembly,0.8333333333333334
+light,0.8816192372754331
+stipulates that the person,0.5
+clerical error,0.4444444444444444
+abovementioned order,0.5
+jabalpur,2.357142857142857
+copies,0.5369304682962884
+certified copy,2.6923076923076925
+form-,0.0
+review,1.3564101463582128
+discretion in the chief justice,0.5
+sought,1.1658793604651163
+court hours to the additional registrar,0.5
+issues,1.1246716508385532
+submission of the returned candidate,1.0
+as the order,0.717948717948718
+reply of the election petitioner,2.0
+of commission,0.95
+- compliance of section,0.0
+signatures of the registrar,0.5
+clerical errors,0.5
+respect of an interlocutory order,0.5
+support of the averments,1.0
+allegations of commission,0.5
+question of burden,0.6666666666666666
+above submission of the returned candidate,0.0
+vii rule,4.285714285714286
+view of the specific pleading,0.5
+assembly,2.613006617038875
+religion,3.489119987394627
+para commence,0.5
+affidavit in support,1.6
+decrees,0.9545454545454545
+suffers from lack,0.6666666666666666
+churhat,2.0
+exercise of such jurisdiction,0.5
+petition by the petitioner,1.0
+dismissal,1.614076246334311
+learned,3.406323898681099
+full particular,1.2
+proviso,2.112
+virtue of powers,0.5
+clumsy statement,0.5
+that the petitioner,1.9230769230769231
+order vi rule,3.0
+mr venugopal s submission,0.0
+cases,1.9728229418951067
+division,1.7657319129617017
+order vii rule,1.6666666666666667
+satisfy,0.9014141008925886
+rule of court,1.0
+single judge of the high court,1.588235294117647
+paramjit,0.6666666666666666
+election petitioner in compliance,0.5
+dealing,1.3134282178217822
+banarsi,0.5
+date ie,0.5555555555555556
+registrar on the affidavit,0.5
+high court on the affidavit,0.5
+defect in affidavit,0.5
+stage that the finding,0.5
+verification of pleadings,1.0
+india,2.7684068260703585
+unamended code,0.5
+certain finding,0.8
+correct law to this limited extent,0.5
+various authorities,0.6000000000000001
+code deal with the verification,0.0
+submissions,0.5235745614035088
+compliant with the requirement of stipulations,0.5
+form of affidavit,2.0
+question whether the affidavit,0.5
+confusion,0.5114622057001239
+analysi of the provisions,0.0
+other page,0.2857142857142857
+registrar,1.8341346153846154
+scc,1.941872465904902
+adjudication,1.5392156862745099
+error in the abovementioned order,0.5
+petition reads,0.5
+court hour,0.5
+review petition,2.72
+niwas manuscmanusc,0.5
+necessary for the respondent,1.0
+portion,1.0756311179804223
+compliance with proviso,0.5
+regular division bench,0.5
+existence of a fact,0.5
+respects,0.5585139318885449
+opening order - sheet,0.0
+duty,3.2272215973003378
+court in gm,0.5
+application for review,1.2222222222222223
+substantial compliance,1.3333333333333333
+discretion,1.2998211091234348
+correctnes of the various impugned orders,0.0
+res judicata,1.3846153846153846
+concise statement,1.3333333333333333
+point,2.9165043546008516
+finding in the judgment,0.5
+considerations,0.7860235003092146
+shall,3.6283780276816606
+respective power of the judges,0.0
+requirement of statute,0.5
+bose,0.5178571428571428
+abovementioned pleading of the returned candidate,0.5
+duty on the registrar,0.5
+omission,1.1856094505101127
+ground of corrupt practice,0.6666666666666666
+stand by way,0.5
+material fact,1.4615384615384615
+petition read,0.5
+commencement of this constitution,1.0
+category,1.9351744779266717
+such mandate,0.5
+such corrupt practice,1.5
+well - settled principle,0.0
+allegations of the commission,0.6666666666666666
+certain matters,0.8571428571428571
+conduct of elections,1.3333333333333333
+xerox copy,0.5
+days from the date,1.7352941176470589
+plea,1.4430487701432178
+enquiry into certain facts,0.5
+acts,1.9133929521984454
+about clarification of record,0.5
+controversy in these appeals,0.5
+issue in a former suit,0.5
+abovementioned pleading,0.5
+challenge,1.2204566274399267
+authority,2.4352627108360636
+opening,0.7180555555555556
+affidavit in compliance,1.0
+regard to the above,0.8333333333333334
+listing of certain matters,0.5
+weeks,0.8109161793372318
+jasti,0.8888888888888888
+reply to the ia,0.5
+page,1.011907905159212
+guilty of commission,0.5
+prescribed form,2.375
+signature to every page,1.5
+iii,1.5614499719992534
+stipulates,1.033492822966507
+objection that the order,0.5
+week,0.8253498691546249
+finality to the judicial orders,0.5
+absolute compliance,0.5
+election petitions deal with the basic rights,0.5
+various grounds,1.0555555555555556
+instant,1.131578947368421
+to the election petition,2.75
+view of the stipulation,0.5
+sittings of the court,0.5
+state,6.817996007300392
+statute,2.5765859456247218
+note,1.3654108484234107
+controversy,0.8593204191806921
+legal implication of the earlier orders,0.0
+prasanna,1.0
+presentation,1.1205371248025278
+returned candidate before the high court,0.5
+discussion,0.7445831166579996
+such power,0.8907563025210085
+foot,0.7144861347422464
+categories,0.8800000000000001
+erroneous identification,1.0
+dismissal of the election petition,0.6666666666666666
+affidavit in terms,0.5
+affidavit in spite,0.5
+name of the corrupt practice,0.5
+with regard to the above,0.75
+state of punjab,1.6956521739130435
+senior counsel,2.2857142857142856
+vague finding,0.5
+third affidavit,0.5
+representation of the peoples act,0.5
+earliest point,1.0
+high court by an order,0.6666666666666666
+election petition in addition,0.5
+pre,6.408342692122574
+non - compliance of section,0.0
+court on the affidavit,0.5
+petitioner relies,0.5
+that the returned candidate s objection,0.0
+preliminary objection that the order,0.5
+mind,1.1559066143122394
+validity,1.521010638297872
+mind of the high court,0.5
+fact compliant with the requirement,0.5
+own knowledge,0.38095238095238093
+existence of affidavit,0.5
+finding in the event,0.0
+somebody points,0.3333333333333333
+name of the person,0.3333333333333333
+pure question of fact,0.6666666666666666
+failure,0.7827962142086977
+withdrawn,0.7887667887667889
+interest,2.74353772015385
+requirement of the provisions,0.8
+appropriate legislature,1.8333333333333333
+pre - amendment stage,0.0
+- compliance with the requirement,0.0
+more judges,0.6666666666666666
+behalf,1.9888053603529987
+reading of pa,0.5
+satisfaction of the court,0.8
+review petition that the direction,0.5
+such stipulation,0.6666666666666666
+rules of court,0.4444444444444444
+full particulars,1.2
+now,1.562632209665858
+division courts,0.5
+conduct rule,1.1428571428571428
+desired result,0.4266666666666667
+above - mentioned stand,0.0
+insertion,0.5564516129032258
+appeal,3.4125488033856883
+election of the returned candidate,1.4285714285714286
+pleadings--,0.0
+modification of only judgments,0.5
+later stage,0.7083333333333334
+defence of the election petitioner,0.0
+notice to the respondents,0.8
+time to time,1.0211267605633803
+full particular of any corrupt practice,0.0
+question of law,3.057142857142857
+proviso to sub - section,0.0
+averments,1.76
+sub-section,0.0
+subject to the law,0.5
+banku,0.5
+basis of aforesaid discussion,0.5
+justice solanki,0.5
+petition though the finding,0.5
+basic rights,0.38095238095238093
+cross - objection to the extent,0.0
+manner,1.4494591333432125
+none of the documents,0.5
+several grounds,0.4
+earliest point during the course,0.5
+election petition within the period,0.5
+january,0.8699641577060931
+state of facts,0.3333333333333333
+compliance of section,1.2857142857142858
+date of the presentation,0.5
+absolute compliance of format affidavit,0.5
+incidental questions,0.75
+circumstance,1.429931390219372
+civil,2.126558634963905
+rejoinder,0.8717948717948718
+class,2.1508512849922936
+with the requirement of statute,0.5
+prescribe,1.5663430420711975
+length,0.6297872340425531
+contents,0.66519564577817
+thereof,1.7897727272727273
+basi,2.0752712086391383
+consideration of this court,1.0714285714285714
+respective powers of the judges,0.5
+days,1.6721350893491447
+candidate by an agent,0.5
+ground of non - compliance,0.0
+doctrine,0.7455954017243533
+basis,1.953226441078104
+high courts with respect,0.5
+honble court,2.4444444444444446
+principal question,0.75
+prescribed format,1.8
+magistrate,3.522077922077922
+favour of the respondent,2.0434782608695654
+implication,0.6615776081424936
+examination of all incidental questions,0.5
+hence,1.1440732910500353
+amendment,2.2486412346818434
+defect,1.4259259259259258
+composite affidavit,1.5
+solanki,0.75
+resort,0.7319355397678043
+cros,1.8137948361162648
+above submissions,0.75
+irrespective of the fact whether somebody points,0.5
+proof,1.0648141580366008
+evidence that the election petitioner,0.5
+compliance with the requirements,0.6666666666666666
+term,3.6255105640901575
+elections,2.0254335260115606
+view,2.441100058469462
+provision of the constitution,0.5
+banarsi v ram,0.5
+requirements,0.7375979875979877
+defect in this regard,1.0
+pleadings,1.3125
+urgency of the matter,0.5
+non - compliance of proviso,0.0
+identification,2.0914158305462656
+chapter iv rule,0.5
+full signature,1.5
+result,1.3356630184144715
+defect in the affidavit,0.5
+signatures,0.9850746268656717
+legal implications of the earlier orders,0.5
+earlier affidavit,1.0
+record,2.5393414390845273
+question whether the election petitioner,0.5
+information,1.1320502836800534
+oaths,0.7407407407407408
+conclusion that the affidavit,1.0
+same result,0.4
+defence,1.3606588776096535
+people act,1.455168475157053
+pursuant to order,0.6666666666666666
+statutory discretion,0.6666666666666666
+validity of an election,0.5
+same judge,1.0
+averment,1.7
+consequential direction,1.0
+mandatory duty on the registrar,0.5
+fact,3.6284951019474962
+contrary to the stipulation of section,0.5
+such circumstance,0.5723905723905723
+corrupt practice by the returned candidate,0.5
+learned counsel,3.703333333333333
+typewritten index,0.5
+evidence on record,2.7906976744186047
+particulars thereof,0.6666666666666666
+chief,1.9429638234317954
+fact in law,0.5
+hour,1.1326135248230613
+particulars,0.9472222222222222
+impugned order,2.265957446808511
+specific pleading,0.75
+other word,0.758838674565131
+correctness of the finding,1.4285714285714286
+insertion of clause,0.5
+necessity,0.7072538860103627
+fact that the election petitioner,0.5
+more judges for that purpose,0.5
+non - compliance,0.0
+categoric finding,1.0
+exercise,1.9400726466785694
+election petition,23.75
+judicial,2.8688059701492543
+v marium begum,0.5
+pradesh rule,0.6666666666666666
+requirement of section,1.5
+party,2.2250894654439723
+obedience,0.8817685047193246
+view of the finding,1.2
+proposition,0.6371087928464977
+nobody,0.6463806463806463
+justice,2.292557084574302
+therein,1.5503424657534246
+exercise of the power,1.525
+revenue,1.486701237872198
+commission of a corrupt practice,0.5
+learned counsel on behalf,1.625
+decree,3.732408834103749
+administration,1.061072796934866
+which respondent,0.8571428571428571
+affidavit in form-,0.0
+court of madhya pradesh rules,0.5
+to law,0.6557377049180327
+affidavit in view,0.5
+existence,0.731202675709574
+correctness of the various impugned orders,0.5
+day,1.550999710228919
+compliance thereof,0.75
+question,2.980312372067635
+sharadendu,0.5
+marium,0.5
+scmanu,7.940520446096654
+fate,0.5961046626008263
+practice,1.7660110149488593
+statement,2.5393160135035964
+peoples,0.6156921539230384
+entry,4.707210447678601
+such jurisdiction,0.6666666666666666
+regular bench,1.0
+margin of first page,0.5
+annexures,1.1428571428571428
+receipt of certified copy,1.5
+finding that the election petitioner,2.0
+force,1.6009408121948314
+ground of the commission,0.5
+contradictory,0.576271186440678
+states,1.5120646995827023
+suit,2.485274378207659
+view of the findings,0.6666666666666666
+law,3.538923411654744
+legal principle,0.8142857142857144
+reference to the affidavit,0.5
+observation,0.7625074854374218
+employment of the expression,0.5
+practices by the returned candidate,1.0
+dismissal of the review petition,1.3333333333333333
+high court s observation,0.0
+definite findings in the event,0.5
+correctness of the findings,1.0
+incidental question,1.0
+non filing,0.5
+reading of earlier affidavit,0.5
+returned candidate admit,0.5
+for any reason,0.5448028673835126
+non,1.3417336444559675
+typographical error in the abovementioned order,0.5
+answer to the questions,0.5
+addition,1.5588539142412572
+voter,2.7989417989417995
+facts of the case,1.161764705882353
+otherwise,1.2549820889894419
+copy of the election petition,0.5
+certain matter,0.4615384615384615
+true state,0.3636363636363636
+act by virtue,1.0
+application,2.3322596088086445
+cryptic conclusions,0.5
+implications,0.5223021582733813
+authorities,1.266131845134287
+more judge for that purpose,0.0
+reading,0.9004509191814082
+cross-objection against that part,0.0
+normal course,0.8666666666666667
+peoples act,0.6666666666666666
+outset,0.5899159663865546
+page no,3.222222222222222
+general election to the legislative assembly,0.0
+conclusion without any discussion,0.5
+non - compliance of the rule,0.0
+submission,1.0913871684001404
+earlier orders,1.0
+single affidavit,0.5
+format prescribed,0.6666666666666666
+detail,0.9737454684220567
+registrar judicial,1.0
+difference,0.8774847235514982
+sub-sections,0.0
+period,1.9480170842427122
+principle on the basis,0.6666666666666666
+code deals,0.6666666666666666
+constitution,3.204842342342342
+conclusion that the defect,0.5
+compliance with sub-rule,0.0
+sufficient ground,1.6363636363636365
+matter in order,0.3333333333333333
+amendment in the code,0.5
+supra,2.246342614440774
+finding that the affidavit,0.5
+opinion that the objection,0.5
+various ground,1.0555555555555556
+second,1.4990453300392075
+consequential direction of the high court,0.5
+burden,0.9853978671041838
+the rp act,2.6666666666666665
+adverse to the election petitioner,0.5
+incurring expenditure,0.6666666666666666
+election rules,2.3333333333333335
+page nos,10.5
+abovementioned imprecise finding,0.5
+judicial order,1.3333333333333333
+batch of appeals,1.3125
+earlier order,1.625
+merits,0.968421052631579
+returned candidate s objection,0.0
+affidavit in obedience,0.5
+provision of this constitution,0.0
+correctness of the abovementioned findings,0.5
+substantial compliance of section,0.5
+original jurisdiction,1.4166666666666667
+same manner as the petition,0.5
+reason,2.6381270903010035
+petition--,0.0
+deals,1.3395407335280751
+index,0.5730288668677295
+inconsistent with the earlier finding,0.5
+direction of the high court,1.1666666666666667
+madhya pradesh rule,0.5
+response,0.7112676056338028
+interlocutory orders,1.0
+subject matter of challenge,1.25
+with the requirement of stipulations,0.5
+receipt,1.5471923536439667
+proceeding,2.1298245614035087
+shortcut,0.25
+provision of any law,0.0
+tiwari,1.0909090909090908
+election petitioner s reply,0.0
+existence of the affidavit,0.5
+such pleading,0.5
+judge,2.9012627415183325
+to order,0.6392045454545454
+suffer from lack,0.0
+layout of the affidavit,0.5
+examination of various authorities,0.5
+allowance to the clerical errors,0.5
+conclusion,1.3883437407077015
+place of the commission,0.5
+fatal to the election petition,0.5
+consideration before a larger bench,0.5
+questions,0.9979150871872632
+relevance to the controversy,0.5
+sense,0.8606303395157362
+stipulations,1.0476190476190477
+circumstances,1.3944461370073231
+adjudication of an issue,0.5
+that legislature by this constitution,0.5
+election petitioner in this regard,1.0
+high court,7.7477477477477485
+jurisdiction,2.9539571926331507
+clear declaration,0.5
+trial,3.7979448350459712
+manu,7.078142071124147
+more judge,0.6666666666666666
+arjun,2.259259259259259
+summon,1.0346907993966816
+single,1.6221488419098207
+margin,1.4244114002478314
+that affidavit at page nos,0.5
+election petitions in the madhya,0.5
+election petitioner s response,0.0
+somebody point,0.2631578947368421
+substantial compliance with format prescribed,0.5
+further affidavit,1.0
+election petitions,3.2222222222222223
+cross - objection against a finding,0.0
+name of religion,0.3589743589743589
+returned candidate to the reply,0.5
+apex,0.8555555555555555
+niwa,0.5904761904761905
+courts,2.1216528162511543
+irrelevant reference,0.5
+restriction,1.0123456790123457
+representation of the people,2.6
+- satisfies,0.0
+signature of the registrar,3.0
+code,2.880559796437659
+read with section,2.3513513513513513
+people,1.2855544825097243
+reasons,1.3749054007567938
+filing,1.1274190041313328
+terms,2.390350840909655
+such affidavit,1.6
+question whether an election petition,0.5
+supreme court in order,0.6666666666666666
+erroneous identification of the affidavit,1.0
+oath,0.9395348837209302
+employment,1.5239770785161355
+election dispute,2.8
+content of reply,0.5
+rights of any party,0.5
+ors,2.8612718198296623
+occasion for the election petitioner,0.6666666666666666
+part,5.294464509893076
+following grounds,1.0
+analysi,0.6883471219855659
+correctnes of the abovementioned findings,0.0
+matters for examination,0.5
+possible of the names of the parties,0.5
+shri,2.0759135877246115
+index of the election petition,0.5
+requirements of the representation,0.5
+of the name of the parties,0.0
+clear from the abovementioned pleading of the returned candidate,0.5
+legal implications,0.6666666666666666
+rule stipulate,1.0
+rule stipulates,1.0
+other person,0.9635036496350365
+situations,0.7435282837967402
+question of fact,1.45
+power of the judges,0.0
+manuwbmanuwb,1.1818181818181819
+code deal,0.6666666666666666
+such as the order,0.5
+on record,1.572992700729927
+read,2.2147281730888695
+forth,0.7104532839962997
+judge for that purpose,0.0
+satisfaction,0.6639095671353735
+issue of fact,0.6666666666666666
+implications of the earlier orders,0.5
+official act,2.5
+code of civil procedure,5.5636363636363635
+court without any reference,0.5
+chelameswar,0.8888888888888888
+handwriting,1.5517241379310345
+explanation,1.4510159010600707
+principal question of law,0.5
+- compliance of proviso,0.0
+commissioner of oaths,0.5
+additional registrar,3.0
+settled proposition,0.8
+general elections to the legislative assembly,0.5
+election of a returned candidate,1.0
+format,1.0259899495813714
+citizenry of this country,0.5
+corrupt practice,3.5833333333333335
+none,0.8181718550217885
+-a in the index,0.0
+judgments,1.2355646397547266
+consequence,0.8726692512593296
+court hours,0.5
+place,2.333104345208554
+following manner,0.5555555555555556
+high court of madhya pradesh,1.1875
+other page of the election petition,0.0
+definite finding,1.0
+absence of the seal,1.0
+earliest point of time,0.75
+issue,2.766776251628934
+second affidavit,0.5
+urgency,0.6066666666666667
+numbered paragraph,0.5
+several ground,0.4
+findings in the event,0.5
+way of abundant caution,2.0
+petitioner,4.524972253052164
+deputy registrar,2.7142857142857144
+general election,0.7878787878787878
+orders,1.4936359300077826
+stipulate,0.993421052631579
+returned candidate,7.846153846153846
+legal principle on the basis,0.5
+name of the parties,0.0
+court pursuant to the power,0.5
+grounds,0.9540208829455945
+fresh affidavit in obedience,0.5
+interlocutory order,1.5555555555555556
+ground,1.4186722903211633
+high court with respect,0.0
+aforesaid reasons,1.1379310344827587
+allegation of the commission,0.0
+issue in a judicial proceeding,0.5
+article,4.378806157159795
+appealable order,1.0
+aforesaid reason,1.1176470588235294
+election petition complete,0.5
+opinion,1.4960606342789635
+verification,0.9934640522875817
+election agent,2.1666666666666665
+other categories,1.4285714285714286
+principle of res judicata,0.8
+rao,0.9220020325203252
+limine,1.3636363636363635
+mandatory duty,1.0
+clarificatory,1.75
+clear with regard to the above,0.5
+imperative for an election petitioner,0.5
+respect,2.6704963235294117
+pure question,1.125
+omission of the court,1.0
+judges for that purpose,0.5
+pradesh high court rules,0.5
+expression,1.7424391201885312
+rule of estoppel,0.5
+manu  scmanu  sc,0.0
+certain fact,0.7222222222222222
+stand,1.8422769621739425
+that ground,0.6190476190476191
+final order,1.1466666666666667
+vi rule,3.0
+bribery,1.1842105263157896
+work,2.8478559811646353
+aforesaid discussion,1.0
+adjudication of election petitions,0.6666666666666666
+siddeshwar,1.5
+summons in the normal course,0.5
+punjab,1.0438169425511197
+paragraphs,0.9552238805970149
+powers of the judges,0.5
+virtue,0.9167557066537153
+specific plea,1.1666666666666667
+inconformity,0.5
+details,0.9406426856198188
+affidavit inconformity of the form,0.5
+accordance with rule,1.3333333333333333
+enquiry,2.145762711864407
+subject to the provisions of this constitution,1.4
+citizenry,0.5600000000000002
+lapse,0.9238095238095239
+petition states,0.5
+the election petitioner,12.142857142857142
+mr venugopal,3.6666666666666665
+matter for examination,0.0
+such application,1.1428571428571428
+representation of the people act,2.4
+consent,1.224924012158055
+analysis of the provisions,0.6666666666666666
+behalf of the election petitioner,0.5
+petitioner rely,0.0
+chief justice,4.684210526315789
+singh v paramjit singh manuscmanusc,0.5
+high court of madhya pradesh rules,0.5
+rejoinder to the above - mentioned stand,0.0
+accordance,1.4069045211613462
+reference to the numbered paragraphs,0.5
+default,0.7094574436346588
+cases of review,0.5
+election rule,2.3333333333333335
+word,2.065873981084096
+courts with respect,0.5
+chapter,1.3867471532446152
+appeals,1.7060218112849692
+failure of the registrar,0.5
+february,0.8575630252100839
+description of the capacity,0.5
+court in order,1.0
+name,1.8996570753072433
+material facts,1.1818181818181819
+members,1.9437616522164103
+objection of the returned candidate,0.5
+view of the abovementioned imprecise findings,0.5
+prayer,0.6969296987087519
+purpose,2.519170317925504
+that purpose,0.609375
+time,2.4764180952862667
+returned candidate on the following grounds,0.5
+support of the allegation,0.6666666666666666
+fact whether somebody point,0.5
+election petitioner with regard,0.5
+cross - objection laying challenge,0.0
+defences of the election petitioner,0.5
+content,1.5450574489970066
+opinion of the court,1.75
+inconsistent,0.7870017771007869
+of the names of the parties,0.5
+hours,1.1644152367043934
+summon in the normal course,0.0
+right,3.07483248288682
+court pursuant,1.0
+court of madhya pradesh,1.1875
+mandate,0.8783810859547183
+absence,1.092363454568179
+counsel,2.2246780703440323
+chandra bose,1.0
+policy,3.250773332247955
+appearance,0.531740614334471
+rules,3.130914366958792
+general elections,0.7142857142857143
+returned candidate admits,0.5
+only judgment,0.5
+relevant portion of rule,0.5
+to this order,0.8
+mention,1.6248742837095076
+dispute,2.402137592137592
+petition state,0.5
+with the earlier finding,0.5
+raghavan,0.6000000000000001
+appeal to the voters,0.5
+chief justice of the high court,1.1666666666666667
+compliance,1.0029799914857385
+circumstance of the case,0.5
+aware of the fact,0.5454545454545454
+case,7.332269420884958
+error,1.059158294766151
+declaration by the constitution,0.5
+favour of the appellant,1.4838709677419355
+bare reading of earlier affidavit,0.5
+later stage that the finding,0.5
+full signature to every page,1.5
+public policy,1.2058823529411764
+preliminary objection,1.3125
+law to this limited extent,0.5
+requirement of a matter,0.5
+- compliance of the rule,0.0
+benefit of the order,0.5
+contention,1.666391070690368
+clarification from the madhya,0.0
+other person with the consent,1.0
+strict sense,1.0
+bench,2.5793391667754992
+violation,1.2087401208740118
+ajay arjun singh,1.0
+particulars of any corrupt practice,0.6666666666666666
+leave,1.0147842365477848
+first page,0.2647058823529412
+slp,1.291953447628582
+same party,0.2
+other document,0.6172839506172839
+somebody,0.5581624605678233
+contents of petition,0.5
+weeks from the date,1.1428571428571428
+sitting,1.1033984092552422
+court in view,1.0
+notice,2.3300025999395686
+judge chose,0.6666666666666666
+other pages of the election petition,0.5
+code deals with the verification,0.5
+affidavit inconformity,0.5
+submissions of the returned candidate,1.0
+niwas,0.761904761904762
+fresh affidavit in form,0.5
+instant case,2.0631578947368423
+result of the election,4.0
+from the abovementioned pleading of the returned candidate,0.5
+court in ia,0.75
+finding of fact,1.7083333333333333
+numbered paragraphs,0.5
+rp act,3.0
+compliance with the requirement,2.25
+content of the affidavit,0.5
+civil appeals,1.24
+apex court gm,0.5
+documents,1.142515923566879
+by virtue of dismissal,0.5
+absence of an affidavit,0.5
+truth of the explanation,0.5
+air,2.0589664272145285
+reply,1.0337305560040906
+res,10.359704275735774
+question of proof,0.5
+- satisfy,0.0
+requirement of law,1.25
+legislature,2.818553268765133
+recourse,0.9157232704402517
+madhya pradesh rules,0.5
+aforesaid defect,1.0
+true that affidavit at page nos,0.5
+conduct,1.5998023165163158
+riyas v mk,1.0
+abovementioned findings,0.5
+affidavit in the prescribed format,0.5
+consideration of the high court,0.5
+incurring expenditure in contravention,0.5
+provisions of the constitution,1.8823529411764706
+madhya pradesh,2.9583333333333335
+pradesh rules,0.5
+judges,2.0931496919173616
+such seal,0.5
+alone,0.8326476835793606
+paper,1.8076689487632511
+distinct ground,0.75
+larger bench,2.0606060606060606
+concerned registrar,0.5
+hand,2.0299623418254717
+former suit,0.5
+official acts,0.4444444444444444
+cause of action,2.1470588235294117
+appellant,14.387096774193548
+cryptic conclusion,0.5
+expenditure,2.804307692307692
+proceedings of the election petition,0.5
+further finding,0.5
+cross-objection,0.0
+that court,0.7384615384615386
+allegation of commission,0.0
+answer,0.9554305705177771
+cross-objection to a finding,0.0
+representation,1.2338308457711442
+absence of the signature,0.5
+cal,2.9844609343772106
+clarifications,0.6111111111111112
+high court in view,0.75
+mandate in the representation,0.5
+following reasons,0.505050505050505
+pages of the election petition,0.5
+finding as the ultimate result,0.5
+light of the explanation,0.5
+abovementioned imprecise findings,0.5
+situation,1.1254754682459434
+modification of a judgment,1.0
+returned candidate in support,0.5
+adjudication of an election petition,0.5
+stipulation of section,0.5
+earlier finding,0.3333333333333333
+collection thereof,0.5
+fresh affidavit,1.3333333333333333
+disputes,2.3049883690876194

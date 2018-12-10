@@ -1,0 +1,658 @@
+courts,2.1216528162511543
+contentions on merit,0.5
+backdrop,0.5833333333333334
+appellant for offence,1.0
+committee,2.546237803603864
+findings,1.049571253572887
+government,3.5583785424010483
+insofar,0.9295774647887324
+medical act,0.5
+imprisonment for a term,1.5
+sanction of the medical council,0.5
+purpose of judicial proceedings,0.5
+prior sanction,1.75
+such act,0.7419047619047618
+right that the allegations,0.5
+code,2.880559796437659
+whoever,1.482116788321168
+pronounce in any stage,0.0
+final acquittal,0.5
+court of calcutta,1.2222222222222223
+accused doctors,1.0
+several medical practitioner,0.5
+doctor in the year,0.0
+ethical,0.3547008547008547
+read with section,2.3513513513513513
+available to the complainant,0.5
+doctors,2.018642703862661
+to the facts of this case,0.9090909090909091
+- rooted criminal conspiracy,0.0
+affirmation for the purpose,0.0
+ethical cases committee,0.5
+limits of the station,0.5
+clear from the bare reading of the provisions,0.5
+deficiency in service,1.25
+skin,0.5855176168624094
+offenders with the intention,0.5
+capital offence,0.75
+controversy whether the appellants,0.5
+judicial magistrate,2.7857142857142856
+legal punishment,0.5
+damage in favour,0.0
+court,12.24425115501509
+oath,0.9395348837209302
+that report,0.39
+complaint against the member,0.5
+non-consideration,0.0
+union,2.0981927710843373
+forces,0.9192073170731707
+in law,1.1088664421997756
+appellant under the provisions,0.5
+provision in the complaint,0.5
+person,4.291511329454258
+medical practitioners,1.1666666666666667
+to the fact of this case,0.0
+allegations,1.8333333333333335
+respect of affidavits,0.5
+behalf,1.9888053603529987
+armed force,0.7105263157894737
+overt act,2.2777777777777777
+offence by the appellants,0.6666666666666666
+same manner,0.6079182630906769
+part,5.294464509893076
+plain reading of this provision,0.5
+description,0.8190476190476191
+false information,0.5333333333333333
+accused doctor,1.0
+criminal complaint,1.7
+complaint with the west,0.5
+present appeal,1.3424657534246576
+provisions of sub - section,0.0
+provision of sub - section,0.0
+civil consequence,0.6666666666666666
+medical expert to the effect,0.0
+decision,2.9514937765898557
+contrary,1.027917657672435
+indian penal code applies in the instant case,0.5
+treatment of dr  b halder,0.0
+legal proceedings in respect,0.5
+aforesaid,2.592896174863388
+permission,1.1531211886018407
+maltreatment,0.6666666666666666
+evidence of the commission,1.0
+information relating,0.4307692307692308
+treatment to the wife,1.0
+false information to screen offender,0.5
+instructions,1.8111673678956002
+appeal,3.4125488033856883
+offender with the intention,0.0
+medical practitioner,2.1666666666666665
+molay,0.5
+petition under section,1.5
+read,2.2147281730888695
+stating,0.8256619531175857
+affirmations in discharge,0.5
+expert,2.5786336542870245
+delinquent doctors,6.5
+relates to the commission,0.5
+month,1.3454861111111112
+year,2.8349484769759212
+stage,1.1298537871524448
+dr sukumar mukherjee,0.5
+judgment,3.288216560509554
+punishable under section,3.081081081081081
+bengal medical council,2.0
+subject,2.4420366233344897
+manner in which medical treatment,0.5
+order,5.472481489660944
+ingredients of the aforesaid section,0.5
+armed forces of the union,0.5
+imprisonment of either description,2.2
+act,12.870263922028107
+sub-section,0.0
+national consumer disputes,1.0
+judicial proceeding,1.3333333333333333
+kind of evidence,0.2777777777777778
+pursuance,1.543859649122807
+ingredients,0.7539893617021276
+issued process,0.8
+medical,1.633306645316253
+halder,0.25
+screen offender,0.5
+state government,3.027142857142857
+offender,1.3711405166981725
+accused persons,7.048780487804878
+issued proces,0.8
+less offence under section,0.5
+effect,2.184583388478191
+action before the council,0.0
+forces of the union,0.5
+counsel for the parties,1.263157894736842
+manner,1.4494591333432125
+member,2.649111111111111
+parties,1.8210828547990157
+upward,1.144736842105263
+conspiracy--,0.0
+affirmation in discharge,0.0
+indian penal code reads,0.5
+expert report,0.5
+section,9.287987283173626
+member of the inquiry committee,0.0
+prejudice to the powers,1.0
+molay kumar ganguly,0.5
+servant,2.030552291421857
+judgments,1.2355646397547266
+consumer dispute,3.6666666666666665
+pronounces in any stage,0.5
+consent of parties authority,0.5
+consequence,0.8726692512593296
+allegations against the delinquent doctors,0.5
+other legal proceedings in respect,0.5
+public servant in judicial proceeding,0.5
+finding,1.8129183657767178
+following manner,0.5555555555555556
+present case,1.5611814345991561
+punishment of criminal conspiracy,0.5
+different medical expert,0.5
+rigorous imprisonment for a term,1.3333333333333333
+regard,2.723310344827586
+armed force of the union,0.0
+proper perspective,0.6000000000000001
+argument by this court,0.0
+which evidence,0.45000000000000007
+cases committee,0.5
+proces,1.627944583238701
+practitioners,0.6511627906976745
+offence under the aforesaid provisions,0.6666666666666666
+perusal,0.750733137829912
+force of the union,0.0
+foregoing paragraph,1.4
+fault,0.8125244007183572
+inquiry into the allegations,0.6666666666666666
+indian penal code applies,0.5
+regards,0.9072861236185019
+facts,1.4696673624372698
+issue,2.766776251628934
+years  imprisonment,0.0
+discharge,1.305219638242894
+basi,2.0752712086391383
+powers,1.876345371920593
+facts of this case,1.1923076923076923
+matter on merits,0.8333333333333334
+alipore,4.0
+reading of this provision,0.5
+indian penal code apply in the instant case,0.0
+complaint of dr  saha,0.0
+petitioner,4.524972253052164
+cost,1.2954397451466992
+acquittal of the accused doctors,0.5
+aforesaid situation,0.5
+judgment of this court,2.1029411764705883
+respondent against the appellants,0.5
+orders,1.4936359300077826
+maintainability,1.0256410256410258
+basis,1.953226441078104
+offence of medical negligence,0.5
+mere non-mentioning,0.0
+other affidavits,0.5
+allegation of deliberate suppression,0.0
+medical negligence,1.6
+course,1.6545957498716626
+medical experts,0.6666666666666666
+to state that the departmental proceedings,0.5
+deficiency,0.5102880658436214
+sub,7.816899313759727
+magistrate,3.522077922077922
+charge,2.7679815308681284
+damages in favour,0.5
+penal code read with section,2.625
+cognizance,1.728
+such reports,0.5
+furtherance,1.758139534883721
+from the above,0.649867374005305
+negligence in performance,0.5
+ganguly,0.6285714285714286
+officer,3.1197242647058823
+disappearance of evidence,1.3333333333333333
+ground,1.4186722903211633
+damage,1.8281814532316336
+actions,3.633288043478261
+arguments,0.7212211466865226
+west,1.1420057009587976
+inquiry,1.3527272727272728
+field,1.5820968371729793
+matter,2.8088923076923082
+final acquittal of the accused doctors,0.5
+criminal,3.301971081989414
+several medical practitioners,0.5
+provision of section,1.4827586206896552
+term,3.6255105640901575
+appellants,7.701086956521739
+that offence,0.6666666666666666
+penal,1.8829173709853835
+expert reports,0.5
+state that the departmental proceedings,0.5
+view,2.441100058469462
+reports,1.0202012199952466
+oaths act,0.5
+vide,4.454025282767798
+opinion,1.4960606342789635
+doctor,1.4782608695652173
+ingredient,1.2242798353909468
+side,3.88845645915565
+wife,1.4518086408500224
+other legal proceeding,1.2
+penal code,2.710144927536232
+punishable,1.237037037037037
+merit,1.2419290263876248
+calcutta,1.6022727272727273
+disciplinary proceedings,1.5
+final argument by this court,0.0
+sake,0.5262975778546712
+committee of the council,0.5
+result,1.3356630184144715
+that discussion,0.2608695652173913
+indian penal code read with section,2.625
+bengal,1.9299191374663072
+information,1.1320502836800534
+procedure,2.552771605064117
+oaths,0.7407407407407408
+judgments in support,0.75
+aforesaid approach,0.6666666666666666
+such offence,1.0
+overt acts,1.125
+provision,5.439002243350069
+orders of the ncdrc,0.5
+support,0.8630946786249609
+opinion that the aforesaid approach,0.5
+affirmations for the purpose,0.5
+with imprisonment for any term,0.5
+criminal complaint against the member,0.5
+provisions of section,2.762376237623762
+limit of the station,0.0
+offending doctor,0.5
+respect,2.6704963235294117
+crr,0.31930693069306937
+offence under the aforesaid provision,1.0
+saha,0.7196261682242991
+members of the west bengal medical council,0.5
+fact,3.6284951019474962
+proceedings in the course,0.5
+sake of argument,0.42929292929292934
+duties,1.477142857142857
+indian penal code apply,0.0
+proceedings against the appellant,1.0
+allegation in the complaint,1.0
+chief,1.9429638234317954
+station,1.2515681586858238
+case that the opinion,0.5
+criminal procedure,6.406779661016949
+honble supreme court,2.272727272727273
+husband,1.6418918918918919
+such complaint,0.6666666666666666
+kumar,2.028839704896043
+same time,0.6913511801045461
+unsustainable in law,0.8333333333333334
+death of the wife,0.6666666666666666
+professional misconduct,0.6666666666666666
+evidences,0.5483870967741935
+duties as doctor,0.5
+report of the experts,0.6666666666666666
+law for the time,1.945945945945946
+aforesaid discussion,1.0
+final arguments,0.6666666666666666
+criminal conspiracy,14.4
+ground that the jurisdiction,0.5
+submission of the appellants,0.5
+medical experts to the effect,0.5
+affidavit,2.2996987951807224
+a much prior date,0.5
+years,2.5395804110508022
+public servant,4.65
+exercise,1.9400726466785694
+mukherjee,3.2857142857142856
+report,1.7768151696835826
+penal code apply in the instant case,0.0
+code of criminal procedure,6.120689655172414
+judicial,2.8688059701492543
+upwards,0.5172413793103449
+pronounces,0.6666666666666666
+opinions,0.735248687055916
+principle,1.9620890732001848
+paragraphs,0.9552238805970149
+members of the inquiry committee,1.0
+party,2.2250894654439723
+fact of this case,0.0
+roychowdhury,0.5
+basi of that report,0.0
+proceedings against the delinquent doctors,0.5
+guilty of professional misconduct,0.5
+suppression,1.1538461538461537
+receipt of the notice,0.6666666666666666
+present proceedings,1.1666666666666667
+medical treatment of dr  b halder,0.0
+consumer,4.596273291925465
+delinquent doctor,6.5
+punishable with death,1.25
+bare reading of the provisions,0.5
+date,6.195616975795285
+consent,1.224924012158055
+to law,0.6557377049180327
+longest term,0.5
+offence,4.401610644257703
+respondent,4.757894736842104
+member of the committee,0.5
+bare reading,0.9285714285714286
+mr mn,0.5
+permission in view,0.6666666666666666
+submissions of the appellants,1.0
+so - called conspiracy,0.0
+negligence,1.3017543859649123
+medical council,4.375
+other affidavit,1.6666666666666667
+state that the departmental proceeding,0.5
+court under section,1.8888888888888888
+verdict,0.6880952380952381
+party to a criminal conspiracy,1.0
+present proceeding,1.125
+offender from legal punishment,0.5
+armed forces,0.7981220657276997
+council,1.464939453675021
+approach,1.001908852302553
+consumer disputes,3.111111111111111
+scmanu,7.940520446096654
+national consumer dispute,1.0
+honble,2.4444444444444446
+appellant in support,0.6666666666666666
+months,1.1938163721148947
+appellants in support,0.8
+screen,0.966113337149399
+such suppression,0.5
+grave,0.5757518081461743
+accused person,4.565217391304348
+other legal proceedings,0.5
+abani,0.5714285714285714
+respondent against the appellant,0.5
+deep - rooted criminal conspiracy,0.0
+supreme court,1.4278957326045825
+aforesaid provision,1.6333333333333333
+to state that the departmental proceeding,0.5
+contrary to law,1.3846153846153846
+doctors in disciplinary proceedings,0.5
+high,5.367119186841496
+members,1.9437616522164103
+penal code applies in the instant case,0.5
+penal offence,1.0
+such report,1.0
+aforesaid section,1.1538461538461537
+force,1.6009408121948314
+dr saha in the court,0.5
+order of the ncdrc,0.0
+suit,2.485274378207659
+penal code read,2.75
+purpose,2.519170317925504
+law,3.538923411654744
+clear from the above,0.875
+counsel for parties,0.6666666666666666
+time,2.4764180952862667
+cases,1.9728229418951067
+right that the allegation,0.5
+treatment,1.1351020408163266
+allegation,1.834319526627219
+affirmation,0.5653021442495126
+criminal offence,1.0666666666666667
+culpability,1.1428571428571428
+affirmations,1.0
+matter in detail,0.6666666666666666
+member of the west bengal medical council,0.0
+appellants for offence,0.5
+foregoing paragraphs,0.75
+complaint,2.734525785235724
+imprisonment for any term,0.5
+act on the state government,0.5
+limit,2.3804570428443834
+ingredient of the aforesaid section,0.0
+west bengal medical council,2.0
+hereinafter,0.7670609645131939
+than a criminal conspiracy,0.5
+punishable with  imprisonment for life,0.0
+deliberate suppression,1.3333333333333333
+offences,1.6681887366818873
+certain experts,0.5
+imprisonment,1.4344262295081966
+certain expert,0.5
+reads,0.8722657304887929
+counsel,2.2246780703440323
+insofar as the contention,0.5
+application,2.3322596088086445
+other law for the time,1.6
+limits,0.8405888207868406
+other than a criminal conspiracy,0.5
+imprisonment for life,1.7142857142857142
+commission,4.703619179345321
+reading,0.9004509191814082
+pronounce,0.9030508474576273
+relate,1.0088867598470672
+doctors in the year,0.5
+redressal,2.7333333333333334
+judicial proceedings,1.8571428571428572
+perspective,0.5639060811474604
+rigorous imprisonment,1.9230769230769231
+sukumar,1.0
+acquittal,2.2714285714285714
+submissions,0.5235745614035088
+sufficient to state that the departmental proceedings,0.5
+intention,1.7585585585585588
+conspiracy,8.939203354297694
+dispute,2.402137592137592
+inquiry committee,3.0
+submission,1.0913871684001404
+evidence,3.6676405172088815
+military,2.757292522596549
+penal code reads,0.5
+allegations in the complaint,1.5
+which medical treatment,0.5
+detail,0.9737454684220567
+whole,0.951414768806073
+punishable with imprisonment for life,1.0
+case,7.332269420884958
+difference,0.8774847235514982
+findings that the delinquent doctors,0.5
+stating of the facts,0.5
+error,1.059158294766151
+with imprisonment for life,1.3333333333333333
+registrar,1.8341346153846154
+scc,1.941872465904902
+of professional misconduct,0.5
+grave error,0.42857142857142855
+offending doctors,0.5
+medical treatment to the wife,1.0
+that delinquent doctor,0.5
+less offence,0.5
+punishment,1.6266937669376693
+following courts,0.5
+abani roychowdhury,0.5
+petition vide,0.75
+high court under section,1.5333333333333334
+exercise of the powers,1.4545454545454546
+mr krishnamani,1.6666666666666667
+instruction,1.8197943962910703
+service,4.257395095954566
+with  imprisonment for life,0.0
+delinquent doctors in disciplinary proceedings,0.5
+penal code applies,0.5
+contention,1.666391070690368
+criminal complaint against the members,0.5
+final arguments by this court,0.5
+crpc,2.2424242424242427
+same to the facts of this case,0.5
+proceedings,1.7670925223666287
+favour,1.653145208700764
+aforesaid principle,1.0
+commanding officer,0.6666666666666666
+armed,1.3980232677854423
+arguments by this court,0.5
+scot,0.25333333333333335
+one-fourth part of the longest term,0.0
+duty,3.2272215973003378
+suppression of such reports,0.5
+parties authority,0.5
+allegations against the delinquent doctor,0.5
+leave,1.0147842365477848
+to the complainant,1.6666666666666667
+charge of conspiracy,3.2
+costs,0.8167395522604189
+basis of that report,0.5
+disappearance,0.75
+non - mentioning,0.0
+different medical expert to the effect,0.0
+information to screen offender,0.5
+dr b halder,0.5
+attempt,0.7943782192788815
+process,1.6274942048088725
+offence under section,2.6
+favour of the complainant,1.0
+complaint against the members,0.5
+notice,2.3300025999395686
+chief judicial magistrate,2.230769230769231
+power,3.8165227690948367
+high court of calcutta,1.2222222222222223
+merits,0.968421052631579
+criminal nature,0.5
+that intention,0.6666666666666666
+from the bare reading of the provisions,0.5
+inquiry committee of west bengal medical council,0.5
+allegations of deliberate suppression,0.5
+damages,1.7104072398190044
+delinquent doctor in disciplinary proceedings,0.0
+under section,5.374517374517374
+aforesaid judgment of this court,0.75
+penal code apply,0.0
+reason,2.6381270903010035
+instant case,2.0631578947368423
+life,1.3352928273744242
+final argument,0.4444444444444444
+either description,2.2
+that delinquent doctors,0.5
+petition,5.3436539306104525
+v sukumar mukherjee,0.5
+court of the chief judicial magistrate,1.0
+remedy,1.3214024835646458
+members of the committee,0.6000000000000001
+consideration,1.9110153789142115
+medical expert,0.4444444444444444
+paragraph,1.2930197483150305
+medical treatment,1.1428571428571428
+behalf--,0.0
+departmental proceedings,2.5714285714285716
+maintainability of the case,0.5
+value,1.7137907830478438
+duties as doctors,0.5
+air,2.0589664272145285
+complaint in an attempt,0.5
+opinion of certain experts,0.5
+acts,1.9133929521984454
+krishnamani,2.0
+different medical experts,0.5
+receipt,1.5471923536439667
+other appellant,0.8571428571428571
+proceeding,2.1298245614035087
+prior sanction of the medical council,0.5
+punishable with imprisonment for any term,0.5
+other law,0.991304347826087
+note of provisions,0.5
+ship,2.0697961579725104
+plain reading,1.173913043478261
+servant in judicial proceeding,0.5
+misconduct,1.2976744186046512
+matter in proper perspective,0.6666666666666666
+one-fourth part,0.0
+relate to the commission,0.0
+departmental proceeding,2.625
+authority,2.4352627108360636
+judge,2.9012627415183325
+death,2.361592909460208
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+commission of any offence,1.0
+argument,0.9504580388560493
+case that the opinions,0.5
+other appellants,0.8
+affidavits,1.954022988505747
+face,0.7281253260594137
+with death,0.6282051282051282
+subject to the provisions of sub-section,0.0
+different medical experts to the effect,0.5
+performance,1.4794327394994442
+legal proceedings,0.7500000000000001
+indian penal code read,2.75
+experts,2.4829710144927537
+term offender,0.5
+doctor in disciplinary proceedings,0.0
+indian penal code,5.264705882352941
+brief,0.540112172829248
+air force station,0.4444444444444444
+proceedings against the delinquent doctor,0.5
+of negligence,0.4761904761904762
+national,1.5126860273884035
+aforesaid judgment,1.4583333333333333
+respect of other affidavits,0.5
+aforesaid provisions,1.25
+reading of the provisions,1.1111111111111112
+contentions,0.9641025641025641
+perusal of the judgment,0.6666666666666666
+result of the aforesaid discussion,0.5
+express provision,1.15
+appellant,14.387096774193548
+prejudice,0.880907124598545
+following reading,0.75
+aforesaid doctors,0.5
+relates,0.7171071327081556
+supreme,1.443815331010453
+code for the punishment,0.5
+instant,1.131578947368421
+stage of a judicial proceedings,0.5
+imprisonment of the description,0.5
+high court,7.7477477477477485
+complainant,4.538461538461538
+actions before the council,0.5
+controversy whether the appellant,0.5
+sanction,2.0167207792207793
+state,6.817996007300392
+judgment in support,0.6666666666666666
+jurisdiction,2.9539571926331507
+note,1.3654108484234107
+controversy,0.8593204191806921
+offenders,0.9550387596899225
+proceedings against the appellants,0.5
+such provision,0.5079365079365079
+manu,7.078142071124147
+practitioner,0.8401826484018265
+findings that the delinquent doctor,0.5
+submitting,0.4181818181818182
+face value,1.053191489361702
+ncdrc,2.0
+following court,0.5
+case of conspiracy,1.2
+nature,1.4149926876444778
+discussion,0.7445831166579996
+contention on merit,0.0
+petition as a whole,0.5
+view of the provisions,1.0666666666666667
+aforesaid doctor,0.5
+kind,0.9236881920088026
+- consideration,0.0
+guilty of negligence,0.6666666666666666
+situation,1.1254754682459434
+concerned magistrate,1.0
+action,3.127292663476874
+appellants under the provisions,0.5
+senior counsel,2.2857142857142856
+other remedy,0.8
+exercise of any power,0.5
+capital,1.0983272274832379
+dr saha,1.0
+legal proceeding,0.7714285714285716
+disciplinary proceeding,1.6428571428571428
+persons,2.5993381990166555
+disputes,2.3049883690876194

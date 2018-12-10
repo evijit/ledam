@@ -1,0 +1,164 @@
+senior,1.989753211141579
+council,1.464939453675021
+process,1.6274942048088725
+conveyancing,0.5
+elected member of the state bar council,0.0
+court with regard,0.8571428571428571
+provisions of the advocates,0.5
+practice in such manner whatsoever,0.5
+that the person,0.5993355481727575
+on - going process,0.0
+pleading in the matters,0.0
+step,0.8867024753460084
+practice,1.7660110149488593
+members of the bar association,1.0
+such numbers,0.6666666666666666
+necessary steps,0.7279411764705882
+steps,1.169318181818182
+discrepancies in the matter,0.5
+such activities,0.6666666666666667
+terms,2.390350840909655
+matters,1.4810665618448637
+such discrepancy in the matter,0.0
+on - going process of such activities,0.0
+country,1.2903191103863751
+members,1.9437616522164103
+term of the rules,0.0
+account,2.5754891049671977
+court,12.24425115501509
+terms of the rules,1.2
+position,1.549133168619177
+ground,1.4186722903211633
+member of the bar associations,0.0
+final outcome of the matters,0.5
+petition,5.3436539306104525
+step in accordance,0.0
+person,4.291511329454258
+outcome,0.6303030303030303
+clear that the person,0.5
+such number of fake lawyers,0.0
+cases,1.9728229418951067
+liberty,0.7860465116279071
+matter,2.8088923076923082
+such activity,0.40909090909090906
+members of the bar associations,0.5
+stay,0.7804272356384462
+respective bar councils,0.5
+such action,0.5664488017429193
+mr kk,1.1111111111111112
+term,3.6255105640901575
+numbers of fake lawyers,1.0
+number,1.4802651440973922
+board,2.401414435268602
+district,1.5506763074237984
+activities,1.57291280148423
+provision of the advocates,0.0
+on - going proces of such activities,0.0
+pleadings,1.3125
+matter in accordance,0.75
+such discrepancy,0.0
+bar councils,1.3333333333333333
+provisions,3.8929824561403508
+activity,1.3846153846153848
+certificate,2.732600732600732
+petitions,1.3930830039525692
+manner whatsoever,0.7333333333333335
+application form,0.6666666666666666
+counsel,2.2246780703440323
+application,2.3322596088086445
+stay order,0.5
+provision,5.439002243350069
+india,2.7684068260703585
+steps in accordance,0.26666666666666666
+bar council,2.5
+advocates,0.6153846153846153
+member of the bar association,0.0
+conclusion,1.3883437407077015
+rules,3.130914366958792
+respect,2.6704963235294117
+fake lawyers,1.5
+order,5.472481489660944
+stay order against bar council,0.5
+respective bar council,0.5
+stay of such action,0.5
+association,1.2099052684061826
+act,12.870263922028107
+elected members,1.6
+bar associations,2.0
+ground that lawyers,0.5
+number of fake lawyers,0.0
+andor member,0.5
+necessary step,0.7017543859649122
+certain grievances,0.6666666666666666
+pleading,1.1270125223613594
+board in january,0.5
+senior counsel for the parties,1.0
+lawyer,0.6086956521739131
+counsel for the parties,1.263157894736842
+tenure,2.0160000000000005
+necessary step in accordance,0.0
+pleadings in the matters,0.5
+such discrepancies,0.5
+such discrepancies in the matter,0.5
+matter in question,1.0
+manner,1.4494591333432125
+member,2.649111111111111
+parties,1.8210828547990157
+andor member of any bar associations,0.5
+state,6.817996007300392
+case,7.332269420884958
+bar,1.4720990391722097
+elected member,1.6
+such number,1.6
+section,9.287987283173626
+venugopal,2.7142857142857144
+fake lawyer,1.5
+thereunder,1.2794117647058825
+january,0.8699641577060931
+account by the respective bar councils,0.5
+party,2.2250894654439723
+necessary steps in accordance,0.26666666666666666
+ground that lawyer,0.5
+correct position in respect,0.5
+bar association,1.6
+numbers,0.8671061762664817
+enquiry,2.145762711864407
+grievance,1.032529659395331
+such numbers of fake lawyers,0.5
+profession,1.0704601259741646
+councils,0.6666666666666666
+clear that the persons,0.5
+discrepancies,0.9195402298850575
+such application,1.1428571428571428
+regard,2.723310344827586
+rule,5.04
+registry,0.510662177328844
+advocate,1.0791341991341994
+discrepancy,0.6097560975609757
+that the persons,0.6666666666666666
+discrepancy in the matter,0.0
+elected members of the state bar council,0.5
+subject to the final outcome of the matters,0.5
+proces,1.627944583238701
+bar council of india,2.3333333333333335
+such manner whatsoever,0.5
+action,3.127292663476874
+respondent,4.757894736842104
+senior counsel,2.2857142857142856
+respondents,2.6341263330598856
+state bar council,0.5
+member of the bar councils,0.5
+correct position,0.4571428571428572
+on - going proces,0.0
+final outcome,0.8
+accordance,1.4069045211613462
+india with regard,0.6666666666666666
+associations,0.8492647058823529
+persons,2.5993381990166555
+certain grievance,0.6666666666666666
+form,2.4865961263718424
+grievances,0.9324324324324326
+outcome of the matters,0.5
+lawyers,0.5820642978003383
+question,2.980312372067635
+position in respect,0.6666666666666666

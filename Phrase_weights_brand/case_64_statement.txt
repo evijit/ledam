@@ -1,0 +1,424 @@
+issueless,0.6666666666666666
+ratangarh pursuant,0.5
+government,3.5583785424010483
+mana,1.816131014786161
+fact of adoption,0.5
+code,2.880559796437659
+lives,0.6840821832520494
+francis,0.4144427001569858
+land in dispute,1.6
+sections,1.640495469442838
+interim order,2.9166666666666665
+instance,0.9469803370786518
+camel,0.169921875
+wounds,1.0980392156862744
+narayana,0.6857142857142858
+court,12.24425115501509
+appellant bhagwana ram,0.5
+eye,0.9466574319441098
+person,4.291511329454258
+free fight,0.6666666666666666
+way,1.7812722068664852
+suit in the court,0.75
+cross case,0.5
+post-mortem report,0.0
+part,5.294464509893076
+shera,0.4
+litigation,1.4968553459119498
+cross,2.0778316690442225
+niryana,1.0
+incident in question,1.3
+scenario,0.4835164835164836
+present appeal,1.3424657534246576
+district,1.5506763074237984
+preparednes,0.40384615384615385
+shera ram,1.0
+claim,2.817264601856604
+appeal,3.4125488033856883
+none of the witnesses,0.8
+weapon,1.0217176079034398
+land,6.337534028705619
+read,2.2147281730888695
+village,1.8429856945085372
+megha,1.8333333333333333
+indra ram,0.5
+exhibit,0.8875432525951558
+years with a fine,0.6666666666666666
+nirayana ram,0.5
+month,1.3454861111111112
+year,2.8349484769759212
+satisfaction,0.6639095671353735
+judgment,3.288216560509554
+-thakur ram,0.0
+punishable under section,3.081081081081081
+claims,1.1941982272360998
+life imprisonment with a fine,0.6666666666666666
+order,5.472481489660944
+bhanwari,1.0
+injury,1.7199352451433856
+may,3.683418028199994
+court by the judgment,0.6666666666666666
+smt,0.7459757206267715
+exhibit p,2.5500000000000003
+ingredients,0.7539893617021276
+eyewitness,1.9470899470899472
+alternative under sections,0.5
+preparedness,0.40384615384615385
+case of free fight,0.5
+accused persons,7.048780487804878
+pendency,1.0084033613445378
+lungs,0.4222222222222223
+morning,0.6560766182298546
+manner,1.4494591333432125
+member,2.649111111111111
+parties,1.8210828547990157
+dr bhanwar lal verma,0.5
+section,9.287987283173626
+respect of agricultural land,0.5
+of the offence,2.760869565217391
+none,0.8181718550217885
+version,1.0500313479623824
+incident,1.8609485257918057
+fir,2.85390975582079
+that transaction,1.2
+megha ram,0.5
+sugana,1.0
+fracture,0.6111111111111112
+civil,2.126558634963905
+finding,1.8129183657767178
+first appellant,3.0
+occurrence,2.1343873517786562
+accused stand,0.6666666666666666
+appeal by way,0.8571428571428571
+genesi,0.3588516746411483
+appellant bhanwari,0.5
+july,0.9742727723122656
+member of the unlawful assembly,0.6666666666666666
+post - mortem,0.0
+fine,1.3204039558531748
+blunt weapon,1.3333333333333333
+accused stands,0.5
+bhanwar,2.3333333333333335
+sua devi,2.0
+crime in question,0.75
+orders,1.4936359300077826
+conviction,2.248165832071736
+exhibit d,1.25
+sub,7.816899313759727
+criminal appeal,2.5675675675675675
+organ,2.0834119139920135
+person from the complainant side,0.0
+magistrate,3.522077922077922
+charge,2.7679815308681284
+agricultural land,1.6666666666666667
+criticism,0.5566549632939675
+penal code read with section,2.625
+crime,1.6636528028933093
+sub - divisional magistrate,0.0
+-harkha ram,0.0
+private defence,1.4
+- edged weapon,0.0
+charges,2.061307113938693
+pendency of the appeal,1.4166666666666667
+damage,1.8281814532316336
+transaction,5.884921444603142
+cros,1.8137948361162648
+allegation against the first appellant,0.5
+lung,0.6965517241379311
+moola,0.6666666666666666
+post - mortem report in respect,0.0
+gopal,1.1610169491525424
+field,1.5820968371729793
+matter,2.8088923076923082
+hospital,1.3942768854411434
+version of pws,0.6666666666666666
+criminal,3.301971081989414
+vital part,0.6666666666666666
+appellants,7.701086956521739
+penal,1.8829173709853835
+view,2.441100058469462
+aid,5.498621453008654
+post,2.344803646492219
+reports,1.0202012199952466
+high court by the judgment,0.6666666666666666
+ingredient,1.2242798353909468
+unlawful assembly,3.625
+side,3.88845645915565
+alternative under section,1.3333333333333333
+intensity,0.2215909090909091
+at exhibit,0.38095238095238093
+wife,1.4518086408500224
+interested witnesses,0.875
+ratangarh,1.0
+penal code,2.710144927536232
+injury in that transaction,0.0
+dassusar,0.5
+giridhari lal by registered sale deed,0.5
+first appellant herein,0.5
+witness,5.333906623599983
+vital organ,0.45000000000000007
+indian penal code read with section,2.625
+record,2.5393414390845273
+material,1.4148767018946966
+defence,1.3606588776096535
+november,0.7203359669727383
+sharp-edged weapon,0.0
+injuries in the transaction,0.5
+amra ram,0.5
+respect,2.6704963235294117
+open jail,0.5
+ten,6.264302675621631
+post - mortem report exhibit p,0.0
+fact,3.6284951019474962
+persons from the complainant side,0.5
+likhma ram,0.5
+rival claim,1.2
+charge under section,3.8181818181818183
+reporting,0.4125
+sharp - edged weapon,0.0
+post - mortem report,0.0
+material on record,1.40625
+object,1.4940119760479043
+weapons,1.1105810008481765
+witnes,5.333906623599983
+haika simsiya,0.5
+rival claims,1.0
+agricultural land in question,1.0
+tulcha,0.5
+fractures,0.5555555555555556
+doubt,1.3646267723102583
+liver,1.353671259488434
+years,2.5395804110508022
+indra,0.7803320561941253
+report,1.7768151696835826
+satisfaction of the ingredients,0.5
+party,2.2250894654439723
+widow,0.45833333333333337
+whereof,1.2790697674418605
+district churu,0.5
+punctured wound on vital parts,0.0
+active participant in the transaction,0.5
+injuries in that transaction,0.5
+injury report,0.9000000000000001
+blunt weapons,0.6666666666666666
+possession of the land,2.6923076923076925
+punctured wounds,0.5
+jodhpur in division bench,0.5
+charges under section indian penal code,1.0
+testimony,1.4407553107789142
+blunt weapon while injuries  -,0.0
+division bench,3.965217391304348
+wife of megha ram,0.5
+sale deed,2.142857142857143
+interested witness,0.8888888888888888
+mr vj,0.5
+offence,4.401610644257703
+presence,0.9604834261070158
+deva,1.3174556213017752
+preparednes on part,0.0
+divisional,1.6233766233766234
+default,0.7094574436346588
+jodhpur,0.8
+sale,3.3662581620085734
+government hospital,0.8888888888888888
+adoption,0.6852035749751738
+question,2.980312372067635
+life imprisonment,1.2083333333333333
+aforesaid sale,1.3333333333333333
+appeal by special leave,1.04
+mana ram,0.5
+months,1.1938163721148947
+assembly,2.613006617038875
+preferred division bench,0.5
+possession to the purchasers,0.5
+accused person,4.565217391304348
+tulcha ram,0.5
+rajasthan,3.9215686274509802
+indian penal code  for short  ipc,0.0
+default whereof,1.0
+charges under section,1.5
+high,5.367119186841496
+members,1.9437616522164103
+bhagwana ram,1.5
+account,2.5754891049671977
+preparedness on part,0.5
+assault,1.0656614201609997
+amra,1.150375939849624
+registered sale deed,1.625
+suit,2.485274378207659
+widow sua devi,0.5
+penal code read,2.75
+trial court,3.854545454545455
+village dassusar,0.5
+presence of the first appellant,1.0
+year with a fine,0.5
+time,2.4764180952862667
+division,1.7657319129617017
+allegation,1.834319526627219
+counter suit,0.5
+gordhan reveal,0.5
+hereinabove,1.911764705882353
+purchaser,2.017857142857143
+franci,0.41393728222996506
+am at government hospital,0.5
+tiku ram,0.5
+finding that the complainant party,0.5
+right,3.07483248288682
+gordhan,1.2
+participation of the first appellant,0.5
+prosecution,4.619407894736842
+guilty of the offences,1.0
+present at the time of occurrence,0.5
+true that none of the witnesses,0.5
+offences,1.6681887366818873
+giridhari lal,0.5
+imprisonment,1.4344262295081966
+ipc,2.785166240409207
+parts,0.6609660823170732
+lesson,0.4693877551020409
+simple imprisonment,1.3
+witnesses,3.359210526315789
+that none of the witnesses,0.5
+lathi,5.0
+injuries -,0.0
+-bhagwana,0.0
+abrasions,0.2857142857142857
+civil suit,0.7413793103448276
+purchasers,0.5909090909090909
+rigorous imprisonment,1.9230769230769231
+kunana,0.5
+submissions,0.5235745614035088
+incised wound,2.75
+dispute,2.402137592137592
+submission,1.0913871684001404
+evidence,3.6676405172088815
+moola ram,1.0
+vital parts,0.6666666666666666
+tiku,0.2579710144927536
+active participant,0.4
+-harkha,0.0
+weapon while injuries  -,0.0
+case,7.332269420884958
+injury report exhibit,0.5
+other eyewitnesses,0.75
+camel cart,0.5
+injury in the transaction,0.0
+ram,2.11096203538064
+civil suit in the court,0.5
+-thakur,0.0
+injuries,2.4130008710801394
+abrasion,0.5714285714285714
+evidence of pws,2.6363636363636362
+gordhan reveals,0.5
+wound,1.4035549703752468
+exhibit p in respect,0.5
+sale by sua devi,0.5
+fact that the first appellant,0.5
+at exhibits,0.4444444444444444
+advocate,1.0791341991341994
+eyewitnesses,1.8010752688172045
+section indian penal code,6.722222222222222
+materials on record,1.1363636363636365
+bench,2.5793391667754992
+churu,0.5
+injury reports,0.5
+- edged weapons,0.0
+haika,2.4
+specific allegation against the first appellant,0.5
+genesis,0.3599817268158977
+leave,1.0147842365477848
+jetha,1.0
+rival submission,1.0454545454545454
+field in question,0.5
+fight,1.0237585694076679
+october,0.9478375701551667
+village dassusar of haika simsiya,0.5
+-bhagwana ram,0.0
+rival submissions,1.0454545454545454
+short ipc,0.8333333333333334
+punctured wounds on vital parts,0.5
+sugana ram,1.0
+participation,1.138392857142857
+sentence,2.3896654193264366
+materials,1.1534090909090908
+charge under section indian penal code,5.5
+civil litigation,1.0
+role to the first appellant,0.5
+lal,1.6786163249382287
+under section,5.374517374517374
+court of rajasthan,0.75
+reason,2.6381270903010035
+life,1.3352928273744242
+punctured wound,1.0
+participant,0.37430555555555556
+right of private defence,1.4
+incised wounds,0.5
+various injuries,0.6666666666666666
+high court of rajasthan,0.75
+jail,0.7548476454293629
+cart,0.7334963325183375
+value,1.7137907830478438
+devi,1.2339221178171305
+-girdhari ram,0.0
+gopal ram,0.5
+which injury report,0.5
+available at exhibits,0.5
+complainant party,2.625
+other eyewitness,0.6000000000000001
+sua,1.143961465479492
+eye witness account,0.6666666666666666
+time of occurrence,1.375
+complainant side,0.5
+death,2.361592909460208
+reporting of the incident,0.5
+land in question,2.111111111111111
+pws,1.5484615384615386
+niryana ram,1.0
+special leave,1.903225806451613
+room,0.6950710108604846
+pursuant,0.7227692307692308
+at the time of occurrence,1.0
+verma,0.8524475524475524
+d- show,0.0
+indian penal code read,2.75
+issueles,0.6666666666666666
+aforesaid sale by sua devi,0.5
+giridhari,0.5
+of the offences,1.4545454545454546
+indian penal code,5.264705882352941
+specific allegation,0.4444444444444444
+nirayana,0.5
+narayan ram,0.6666666666666666
+possession,2.808810857389056
+appellant,14.387096774193548
+exhibits,0.4733727810650888
+bhagwana,1.5
+khasra,2.6666666666666665
+high court,7.7477477477477485
+complainant,4.538461538461538
+penal code  for short  ipc,0.0
+state,6.817996007300392
+likhma,0.5
+mohan ram,0.5
+learned advocate,1.6875
+trial,3.7979448350459712
+deed,1.3564447722662734
+guilty of the offence,1.3571428571428572
+narayan,0.8111111111111111
+role,1.0562959821210092
+june,0.9339080459770116
+counter,1.0576470084371923
+simsiya,0.5
+prosecution in the morning,0.5
+mohan,1.5416666666666667
+which injury reports,0.5
+participant in the transaction,0.5
+quite cogent,0.5
+conviction with the aid,0.5
+d- shows,0.0
+sharp-edged weapons,0.0
+alternative,0.841508109794136
+jetha ram,1.0
+mortem,1.402116402116402
+persons,2.5993381990166555
+various injury,0.0

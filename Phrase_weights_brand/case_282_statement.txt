@@ -1,0 +1,1367 @@
+government,3.5583785424010483
+allowances,1.642105263157895
+several representations,0.6666666666666666
+court in brij mohan gupta,0.5
+reliance on the judgments,0.6666666666666666
+entire record with minutes details,0.5
+pension rules,7.25
+signature,1.1400966183574879
+permanent feature,0.5
+establishment,0.9899216125419933
+shirish,0.6666666666666666
+v ishwar chand jain,0.5
+wrong provision,0.5
+retirement age of officers,1.0
+actions on the part,0.5
+terms of the rules,1.2
+judge s case,0.0
+union,2.0981927710843373
+other rule,0.4861111111111111
+feature of sufficient gravity,0.0
+aforementioned finding,0.8333333333333334
+impugned orders,1.2352941176470589
+cross,2.0778316690442225
+juncture,0.8717948717948718
+right subject,0.14814814814814814
+retirement,10.167032967032968
+purview thereof,0.6666666666666666
+year with a proviso,0.0
+services of those members,0.5
+large number of review petitions,0.5
+persons of doubtful integrity,0.5
+view that the admitted fact,0.5
+sample,1.7733348061416105
+test,2.5329834591340266
+clause in the rule,0.3333333333333333
+alse general of the high court,0.0
+scr,2.483838975311538
+illjker,0.5
+counsel in that case,0.5
+certiorari,1.8333333333333333
+stage,1.1298537871524448
+month,1.3454861111111112
+materia,1.4277220364176888
+appellants herein,1.4883720930232558
+wherein,1.0724137931034483
+shri garg,1.0
+term of the direction,0.0
+subject,2.4420366233344897
+high court rajasthan,0.5
+order,5.472481489660944
+high courts in accordance,0.5
+records of the members,0.5
+deen garg,4.5
+members of the judicial service,1.8
+member,2.649111111111111
+option,1.002339493011135
+viswanathan,1.0
+parties,1.8210828547990157
+allowance,2.1019607843137256
+conformity with the directions,0.5
+such benefit,1.5714285714285714
+meeting,1.5978547625659538
+servant,2.030552291421857
+under the rajasthan service rules,0.5
+condition,2.259476395625584
+court in accordance,1.0
+seal,1.5645371577574967
+learned counsel for the appellants,1.7142857142857142
+justified thereunder,0.5
+context,0.9269383697813122
+enhancement of retirement age,0.5
+limitation,2.4984479402325457
+overall circumstance,0.6666666666666666
+para,2.300239586747483
+benefit of the extended superannuation age,0.6666666666666666
+making,1.409351874023649
+state of rajasthan,1.9090909090909092
+which right,0.5
+law ie,0.375
+higher judicial officer,0.5
+retiral benefits,1.7142857142857142
+residence till,0.5
+confidential report,0.6666666666666666
+applicability thereof,1.0
+conclusion that the appellants,0.6666666666666666
+power exists,0.8
+applicability of the rules,0.5
+charge,2.7679815308681284
+high courts,2.676470588235294
+mr pp,1.1
+mata deen garg,4.5
+jain,1.673202614379085
+normal age of superannuation,1.0
+above appeal in this court,0.0
+actions,3.633288043478261
+opportunity,0.946186440677966
+minutes of the committee,0.5
+impugned judgment,2.0927152317880795
+relevant rule,1.1875
+judicial officers in terms,0.5
+scrutiny,0.912987012987013
+other services,0.5714285714285714
+post,2.344803646492219
+merit,1.2419290263876248
+discretionary jurisdiction under article,0.5
+service on the afternoon,1.0
+other pre-requisite therefore,0.0
+bengal,1.9299191374663072
+retire,7.810520939734421
+bye-law,0.0
+record with minutes details,0.5
+taherakhatoon,0.6666666666666666
+gravity,0.3746556473829201
+as the rule,1.3846153846153846
+quashing,0.9915966386554622
+for the benefit of extended service,0.5
+other documents,0.619047619047619
+v superintendent,0.5
+resolution,1.771256437663978
+duties,1.477142857142857
+anr,1.1271033322299457
+claimants,1.8627450980392155
+orders against any particular person,0.5
+court by reason,0.8
+conformity with the iind,0.5
+essential fact,0.38095238095238093
+december,0.9629002463054187
+mohinder singh gill,1.0
+prasad,1.1407089151450054
+admitted facts,0.8888888888888888
+ultra vires,1.8484848484848484
+chief election commissioner,1.0
+applicability,1.0928961748633879
+submission of the appellants,0.5
+enactments,0.7301587301587302
+bar,1.4720990391722097
+affidavit,2.2996987951807224
+report,1.7768151696835826
+last day of the month,2.3333333333333335
+respondent on the rajasthan service rules,0.0
+principle,1.9620890732001848
+government servants,1.7
+relevant provision of the rules,0.0
+servant retire,0.5
+to the judicial officers,2.75
+confidential reports,0.6666666666666666
+amended rules,1.6666666666666667
+commencement,1.2037037037037035
+fitnes of the officer,0.0
+cross-examination,0.0
+record of the members,0.0
+illegal order,1.0
+years with a proviso,0.5
+servants,1.1313131313131313
+continuance in service,0.6666666666666666
+suitability,0.8181818181818181
+assess,4.0251399052948775
+division bench,3.965217391304348
+concurrent judgment,1.3333333333333333
+appointment of any judge,0.5
+service conditions,2.1818181818181817
+date,6.195616975795285
+higher judicial officers,0.5
+holiday,0.5518018018018018
+fields,0.9241650294695481
+respondent,4.757894736842104
+date of this decision,1.0
+conduct of judicial officers,0.5
+baran,0.8461538461538463
+appointment to the service,0.5
+that view of the matter,1.553191489361702
+honble,2.4444444444444446
+force with effect,1.0
+other words,0.7578482137053969
+in civil appeal,1.7692307692307692
+india judges association,3.6666666666666665
+above appeals,1.0
+own reason,0.35294117647058826
+supreme court,1.4278957326045825
+rajasthan,3.9215686274509802
+asses,3.6469028181356946
+association s case,0.0
+high,5.367119186841496
+following terms,1.5957446808510638
+term of the rules,0.0
+brother,1.4566585956416465
+sub-rule,0.0
+contradistinction to the expression,0.5
+event,1.4310854436179261
+several officers,0.5
+officer of the rajasthan,0.0
+higher judicial services,1.5
+to judicial officer,1.0
+nos,1.2635492554198444
+retirement age,1.8
+re-employment,0.0
+relevant rules,1.1428571428571428
+under the rajasthan service rule,0.5
+champalal binani v cit,0.5
+statutory rules,1.875
+retiral benefits to the appellants,0.5
+exception,1.1036946087733006
+compulsory retirement on completion,1.0
+officer of doubtful integrity,1.0
+pre-requisite,0.0
+services rule,0.8
+view of the fact,0.8707482993197279
+new,0.9418497626301229
+enough time,0.3285024154589372
+wef,0.859375
+india judges case,1.6666666666666667
+v state of wb,1.1818181818181819
+nepal,0.3333333333333333
+document,1.401100265092073
+bishwanath prasad singh s case,0.0
+only rule,0.2857142857142857
+minute of the meeting,0.5
+central jail,0.8333333333333334
+court in boppanna venkateswaraloo,0.5
+singh,3.7791111111111113
+power exist,0.8
+lal sharma,1.6666666666666667
+permits assessment,0.5
+face thereof as the reasons,0.5
+quality,1.3318577075098814
+superannuation,4.684210526315789
+terms of the exception,1.0
+service,4.257395095954566
+subject - matter,0.0
+rule,5.04
+essential facts,0.4
+bombay through registrar,0.5
+proceedings,1.7670925223666287
+favour,1.653145208700764
+term of rule,0.0
+appointees from the bar,0.5
+mohammed,0.6057692307692307
+rajasthan service,4.5
+chandra,0.7012987012987013
+appointments to the service,0.5
+civil appeal,2.2413793103448274
+hor,3.0958179864706046
+ineligible for extension,0.5
+chand,1.4868766404199476
+bishwanath,1.6666666666666667
+respondents,2.6341263330598856
+only construction,0.6666666666666666
+costs,0.8167395522604189
+lady officer,0.5
+bishwanath prasad singh v state,1.0
+general reputation,0.5
+otherwise of an order,0.5
+higher,1.7172937941551014
+union territory,3.066666666666667
+than class iv,0.5
+amended rule,2.111111111111111
+rule in consonance,0.5
+power,3.8165227690948367
+note-,0.0
+honble judge of the full court,0.0
+concerned government,0.5714285714285714
+case on hand,1.2941176470588236
+examination,2.4920345926263088
+ruling of this court,0.0
+election commissioner,1.5
+boppanna venkateswaraloo,1.0
+assessment undertaken,0.5
+se as punishment,0.5
+one,4.845669314438648
+subject to the conditions,1.125
+petition,5.3436539306104525
+conclusion that these appellants,0.5
+remedy,1.3214024835646458
+ten year,1.3831258644536653
+consideration,1.9110153789142115
+appeal no,2.288135593220339
+in the instant case,2.0224719101123596
+passing of the impugned order,0.6666666666666666
+jail,0.7548476454293629
+words,1.6384367086179112
+pointer,0.40648379052369077
+attainment,0.3
+commissioner,2.271608643457383
+clause,3.526455026455027
+compliance of pre-requisite,0.0
+apply,1.5478801169590641
+india judges association s case,0.0
+limitations,0.8120300751879699
+india judges  association,0.0
+object of the assessment,0.5
+departmental proceeding,2.625
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+courts error,0.5
+person of doubtful integrity,0.0
+scope of the power,1.1666666666666667
+special leave,1.903225806451613
+performance,1.4794327394994442
+fit case,1.1578947368421053
+force of the judgment,0.5
+pursuant,0.7227692307692308
+face thereof,0.3333333333333333
+unfit,1.0555555555555556
+circumstances of the case,1.3373493975903614
+direction of this court,1.0
+uncontrovertibly facts,0.5
+general clauses act,2.857142857142857
+conformity,0.71875
+part of the pension,0.5
+case of government servants,0.5
+supreme,1.443815331010453
+permits,0.8868838028169013
+general clause act,0.5
+requirement,1.2416133333333332
+shri garg except the harassment part,0.5
+temporary measure,0.4444444444444444
+different field,0.6857142857142857
+vire,1.2466124661246614
+vires of rule,0.5
+above judgment that the direction,0.5
+general,1.7536558414534391
+shri bhanwar lal sharma,1.0
+view of the benefit,0.5
+official duties,2.5
+prasad singh,2.2222222222222223
+tan,3.8183802410816945
+provision of age,0.0
+nature,1.4149926876444778
+injustice,1.1882716049382718
+relevant records,1.1428571428571428
+such retirement,1.0
+ultra vire of rule,0.0
+court meeting,1.75
+admitted fact,1.3076923076923077
+officer in discharge,0.6666666666666666
+union territory to the effect,0.0
+action,3.127292663476874
+thus-,0.0
+examination of the service record,0.5
+power of the high court,1.625
+thing,1.1131787570209408
+order of the high court,1.296875
+enactment,1.439950980392157
+india judges  case,0.0
+findings,1.049571253572887
+view that the officer,0.5
+other hand,0.6931925622439332
+publication,1.3442779291553135
+action on the part,0.6862745098039216
+impugned rule,1.6666666666666667
+inter,3.683850287482992
+hyderabad,2.5833333333333335
+court,12.24425115501509
+resolution by the full court,0.5
+person,4.291511329454258
+venkateswaraloo,1.0
+harassment part,0.5
+ishwar,2.888888888888889
+courts in accordance,0.5
+case of such retirement,0.5
+reason thereof,1.3333333333333333
+age,4.526374474274117
+number,1.4802651440973922
+decision,2.9514937765898557
+which event,0.44871794871794873
+prior thereto,0.8888888888888888
+aforementioned condition,0.6666666666666666
+claim,2.817264601856604
+changes,0.8318262938726949
+order of such retirement,0.5
+election,6.758005637447438
+harassment,1.5747368421052634
+year,2.8349484769759212
+judgment,3.288216560509554
+same disciplinary proceedings,0.5
+contention of the appellants,1.1666666666666667
+clause act,0.5
+act,12.870263922028107
+governor,1.1316137566137567
+that power,0.6764705882352942
+deadwood,0.5
+clas,2.1196191893660425
+term of the exception,0.0
+respective party,0.0
+review for compulsory retirement,1.5
+support from a number,0.5
+continuance,1.5151515151515154
+repetition to state,1.0
+section,9.287987283173626
+extended age,0.5
+thereunder,1.2794117647058825
+orders with respect,1.0
+west bengal,3.3333333333333335
+scrutiny of rule,0.5
+officers,2.442124212421242
+continued utility,0.75
+finding,1.8129183657767178
+such evaluation,0.6666666666666666
+hors,0.5646224859874711
+years for all government servants,0.5
+v union of india,2.381818181818182
+test of suitability,0.5
+regard,2.723310344827586
+appellant shri bhanwarlal sharma,0.5
+such publication,0.5
+independent of the assessment for compulsory retirement,0.5
+own reason for construction,0.0
+direction,1.8495050210098996
+roy,0.802892290355902
+rights,1.6349541930937281
+communication of this order,0.6666666666666666
+accordance with law,1.0046948356807512
+facts,1.4696673624372698
+potential for continued useful purpose,2.5
+support of the contention,1.0
+minutes,1.1231216272312163
+discharge,1.305219638242894
+writing,1.1746753246753248
+mohinder,1.0
+ruling,0.5854935847080388
+such orders,0.823529411764706
+further contention,1.0769230769230769
+benefit,2.604810195438474
+last day,1.0611764705882354
+records,0.9879294336118848
+cost,1.2954397451466992
+officers in accordance,0.6666666666666666
+distinction between judicial officers,0.5
+inefficiency in due performance,0.5
+sub,7.816899313759727
+complete justice to the parties,0.8
+rigour,1.0
+service record,0.9523809523809524
+jurisdiction in favour,1.0
+jurisdiction under article,1.2857142857142858
+arguments,0.7212211466865226
+west,1.1420057009587976
+inquiry,1.3527272727272728
+field,1.5820968371729793
+matter,2.8088923076923082
+judgment of the supreme court,1.0
+months before the date,1.0
+action of the high court,0.5
+duties in all india judges,0.5
+liability,2.532836248924577
+vire of rule,0.0
+government order,2.138888888888889
+own reasons,0.38095238095238093
+officer in accordance,0.5
+nature of judicial service,0.5
+member of the judicial service come,0.0
+birth,1.5969847398418826
+disciplinary proceedings,1.5
+sds,0.22648221343873517
+entire material,0.8
+discretionary jurisdiction,1.25
+respective high courts,1.6666666666666667
+material,1.4148767018946966
+procedure,2.552771605064117
+enhancement,0.5810526315789474
+petitions,1.3930830039525692
+years with the liability,0.5
+hereinbefore,2.159090909090909
+appointee from the bar,0.0
+provision,5.439002243350069
+support,0.8630946786249609
+further contention of the appellants,0.5
+government servant before the date,0.5
+quashing of an illegal order,0.5
+face thereof as the reason,0.5
+rajasthan judicial service,2.0
+large number,1.0979284369114877
+such law,0.81203007518797
+direction with regard,1.3333333333333333
+such cases,0.7390180878552971
+completion of ten years,0.5
+object,1.4940119760479043
+kumar,2.028839704896043
+thereto,1.0358342665173572
+honble judges,1.3
+conclusion that the services,0.5
+superannuation of members,0.5
+service till the enhanced superannuation age,0.5
+consideration for the arguments,0.5
+times,0.8987140267391797
+rangrao,0.6666666666666666
+discretionary jurisdiction in favour,1.0
+such case,0.7332761578044598
+necessary service rule,0.5
+aim,2.7822546950944274
+law in favour,0.8
+year with effect,0.5
+review,1.3564101463582128
+whereof,1.2790697674418605
+delhi,2.6089285714285717
+years in accordance,0.6666666666666666
+provision in the pension rules,0.5
+anticipation thereof,0.5
+registrar v sarnam singh,1.0
+exception runs,0.5
+approval,1.4085456739300164
+right in law,0.75
+ultra vire,1.8484848484848484
+terms of rule,1.8333333333333333
+term of exception,0.0
+integrity certificate,0.5
+principles,1.3198511166253102
+herewith government order,0.5
+subject to the exception,0.6666666666666666
+feature,0.6446262956901254
+assessment of the performance,0.5
+shri viswanathan,1.5
+following statutory rules,0.5
+writ,2.8882378560889794
+relevant service rule,0.5
+association case,2.6666666666666665
+months,1.1938163721148947
+ltd v jay container service,0.5
+division bench of the kerala,1.0
+regard to the overall circumstances,0.5
+mode,0.8201666928762384
+overall circumstances,0.6666666666666666
+prasad singh s case,0.0
+service till,3.0
+gupta,0.7610062893081762
+superannuation age for information,0.5
+continuance in office,0.5
+effect that the high court,0.6666666666666666
+other rules,0.4897959183673469
+proviso,2.112
+other construction,2.5
+benefit during the period,0.5
+inefficiency,0.5714285714285714
+change,1.2214862766571903
+year with the liability,0.0
+cases,1.9728229418951067
+division,1.7657319129617017
+above judgment,1.8461538461538463
+officers of rajasthan judicial service,1.5
+power exists under any provision,0.5
+vakalatnama,1.0
+court rajasthan,0.5
+justice to the parties,0.8333333333333334
+detention of the lady officer,0.5
+court of kerala,1.0833333333333333
+benefit on the judicial officers,0.5
+appellant mata deen garg,0.5
+civil appeal no,2.1403508771929824
+contention of the respondents,1.0
+assessment in question,0.6666666666666666
+ranga,0.6643356643356643
+india,2.7684068260703585
+alse general,0.0
+claimant,2.3438596491228068
+association,1.2099052684061826
+high court by reason,0.8
+court in rajat baran roy,0.5
+to judicial officers,1.0
+day of the month,1.4000000000000001
+earlier stage,0.9166666666666666
+extra-ordinary jurisdiction under articles,0.0
+decision of this court,2.3260869565217392
+authority in the respective states,0.5
+judicial officer,10.714285714285714
+reliance,1.400763358778626
+appellant although the order of the high court,0.5
+rajasthan rajpatra,0.5
+requisite,0.7788359788359789
+registrar,1.8341346153846154
+scc,1.941872465904902
+rajasthan law,0.5
+provisions of age,0.5
+cry,0.24336661035171248
+pursuant to the judgment,0.6666666666666666
+writ petitions,2.984848484848485
+date of commencement,1.3
+review petition,2.72
+passing thereof,0.5
+than an assessment undertaken for compulsory retirement,0.5
+shri kv,0.5
+judge of the full court,0.0
+judiciary,1.5942028985507246
+several year,0.47849462365591394
+members of the subordinate judiciary,1.0
+counsel for the claimants,0.6666666666666666
+mohammad,0.9375
+see sd,0.5
+potential,0.7759544352337449
+assessment undertaken for compulsory retirement,0.5
+judicial service,7.3076923076923075
+duty,3.2272215973003378
+shri bhanwarlal sharma,0.5
+case on article,0.0
+pvt,0.8625817965496728
+legality,0.6845938375350139
+application in the event,0.5
+preferably within a period,0.6666666666666666
+point,2.9165043546008516
+allowances in lieu,1.5
+view that the admitted facts,0.5
+appellant in civil appeal,1.6
+doubtful integrity,2.0
+accidental claim case,0.5
+government servant of class iv,1.0
+court in the cases,1.25
+specific provision,1.1363636363636365
+exception run,0.5
+omission,1.1856094505101127
+high court of kerala,1.0833333333333333
+lal,1.6786163249382287
+in the case of government servants,0.5
+exception to the applicability thereof,0.5
+communication,1.013409067330636
+interest of the claimants,0.5
+continuation,0.5723370429252783
+views,0.6965871413779037
+writ petition,6.24223602484472
+first of a month,1.0
+v brij mohan gupta,0.5
+officers in discharge,0.5
+retire at the age,1.5
+plea,1.4430487701432178
+passing,0.8851858023662723
+special circumstance,0.8666666666666667
+patil,0.85
+cases on article,0.5
+different fashion,0.3333333333333333
+other relevant record,1.0
+bishwanath prasad singh,2.0
+paras,0.7450980392156863
+authority,2.4352627108360636
+officer of rajasthan judicial service,0.0
+representations,0.5384615384615384
+superannuation age,4.666666666666667
+discretionary relief,1.0
+shri mata,2.5
+rigours,0.8
+concurrent judgments,1.0
+minimum qualifying service,1.0
+face,0.7281253260594137
+- matter,0.0
+own reasons for construction,0.5
+terms of the notification,0.75
+relevant provision,1.5737704918032787
+counsel for the appellant,1.9621212121212122
+respondents on the rajasthan service rules,0.5
+iilljsc,2.1666666666666665
+bye-laws,0.0
+sarnam,1.5
+other service,0.5714285714285714
+character roll,0.6666666666666666
+year of age,0.0
+law in this behalf,0.75
+contradistinction,0.8888888888888888
+state government in the rajasthan service rules,0.5
+seal of approval,0.4800000000000001
+other than class iv,0.5
+for extension,1.2727272727272727
+instant,1.131578947368421
+binani,0.5
+kerala,4.135593220338983
+force wef,1.0
+state,6.817996007300392
+age of retirement,3.0
+regulations,3.7157723577235777
+note,1.3654108484234107
+state of assam v ranga,0.5
+sustainable under the rajasthan service rules,0.5
+strong reliance on the judgments,0.5
+officers in terms,0.5
+teherakhatoon,0.6666666666666666
+judicial officer in terms,0.0
+june,0.9339080459770116
+minutes of the meeting,1.6666666666666667
+reputation,0.7215189873417721
+airsc,1.6909090909090911
+illjsc,3.25531914893617
+mohan,1.5416666666666667
+departmental inquiry,1.0
+number of review petitions,0.5
+potentiality,1.125
+kind,0.9236881920088026
+fashion,0.5711297071129708
+opinion of the high court,1.2857142857142858
+limitation of applicability thereof,0.0
+respect to the establishment,0.5
+term of judges,0.0
+senior counsel,2.2857142857142856
+persons,2.5993381990166555
+present context,0.5555555555555556
+service of those members,0.0
+issuing of orders,0.5
+cry if retirement,0.5
+pre,6.408342692122574
+harassment of a lady judicial officer,0.5
+sheep,0.22000000000000003
+above appeal,1.0
+champalal,0.5
+expiry,2.2888888888888888
+validity,1.521010638297872
+constitution of india,3.0095238095238095
+relevant provisions of the rules,1.0
+minutes details,0.5
+servant retires,0.5
+sufficient gravity,0.5
+relevant record,1.1111111111111112
+procedure for the compulsorily retirement,0.5
+year by the rules,0.0
+age of judicial officers,0.6666666666666666
+interest,2.74353772015385
+statutory authority,1.2105263157894737
+purpose of this rule,0.75
+consonance,1.5
+afternoon of the last day,2.5
+minimum qualifying service of ten years,0.5
+behalf,1.9888053603529987
+shri viswanathan that the respondents,0.5
+pronouncement,0.8197343453510436
+other relevant records,1.0
+officers of the rajasthan,0.6666666666666666
+taherakhatoon v,0.6666666666666666
+prasad singh v state of bihar,1.0
+relevant provisions,1.5
+articles,1.4349688743466387
+above appeals in this court,0.5
+reliance on a decision,0.75
+indolence,1.0
+review petitions,1.5
+appeal,3.4125488033856883
+complete justice,1.7777777777777777
+court of judicature,1.4210526315789473
+evaluation,0.7358156028368795
+months  pay,0.0
+signatures from vakalatnama,0.5
+shri viswanathan that the respondent,0.5
+lieu,0.5964912280701754
+alia,0.9479866480753792
+full court of the rajasthan high court,0.5
+allowance in lieu thereof,0.0
+compulsorily retirement,0.5
+shri ramesh garg,1.0
+class iv,1.9393939393939394
+question of review,0.6666666666666666
+retirement on completion,1.6666666666666667
+time to time,1.0211267605633803
+service rules by notification,0.5
+allowances in lieu thereof,0.5
+gill,0.6233439706024563
+other than an assessment undertaken for compulsory retirement,0.5
+pre-retirement assessment,0.0
+reliance on the judgment,0.7407407407407408
+lakshmanan,1.125
+higher judicial service,5.375
+nepal singh v state,0.5
+view of the decision,1.0
+completion,1.1868131868131868
+qualifying service,7.8
+making of rules,0.6666666666666666
+manner,1.4494591333432125
+in-person,0.0
+uniformity,0.5454545454545454
+association cases,1.5
+qualifying service of ten years,0.5
+younger brother,0.7727272727272727
+circumstance,1.429931390219372
+regulation,4.3783195107648485
+respective appellants,0.5
+judicature,1.4210526315789473
+service in accordance,0.75
+difficulty,0.656910569105691
+proceedings against the appellant mata deen garg,0.5
+class,2.1508512849922936
+time after a government servant,1.0
+retirement age of the judicial officer,0.6666666666666666
+recommendations,2.1638655462184877
+mr mata,0.5
+features of sufficient gravity,0.5
+above procedure,0.2857142857142857
+purview,1.0864197530864197
+pre - retirement assessment,0.0
+other mode of retirement,0.5
+benefits,2.0896027049873203
+untenable as the rule,0.5
+issuing,0.9271826153259627
+service with effect,0.8
+judges in this aspect,0.5
+anticipation,0.5238095238095238
+- ordinary jurisdiction under articles,0.0
+date of birth,1.5
+directions,1.5134125183504605
+neither rule,0.5
+to the judicial officer,2.75
+bishwanath prasad singh v state of bihar,1.0
+illegal one,0.38095238095238093
+terms of the direction,0.8
+irrespective,0.7304347826086957
+clauses act,2.857142857142857
+effect till the commencement,0.5
+judicial service come,0.5
+shamsher v state of punjab,0.5
+furtherance,1.758139534883721
+hence,1.1440732910500353
+officer,3.1197242647058823
+amendment,2.2486412346818434
+charges,2.061307113938693
+territory,1.3688226421790437
+cros,1.8137948361162648
+penal consequence,1.4
+prasad singh v state,1.0
+prima facie,1.0185185185185184
+rajat baran roy,2.0
+term,3.6255105640901575
+mr rao,3.2
+india judges,4.666666666666667
+years of age,1.10099573257468
+vires,2.388888888888889
+appellants,7.701086956521739
+view,2.441100058469462
+expiry of the period,1.2222222222222223
+requirements,0.7375979875979877
+vide,4.454025282767798
+side,3.88845645915565
+relief,1.4748116760828625
+accordance with the directions,1.0
+appellants for the proposition,0.5
+lieu thereof,1.6
+preferably,0.5042016806722689
+other mode,0.43853820598006643
+hard worker,0.3333333333333333
+terms of a letter,0.5
+pay,3.828326695859537
+signatures,0.9850746268656717
+record,2.5393414390845273
+information,1.1320502836800534
+continued useful purpose,2.5
+afternoon of that day,1.0
+extra-ordinary jurisdiction,0.0
+service conditions with regard,0.5
+enhancement of the superannuation age,0.6666666666666666
+hyderabad state,0.5
+fact,3.6284951019474962
+minutes detail,0.5
+learned counsel,3.703333333333333
+benefit of pension,2.0
+available to judicial officers,0.6666666666666666
+chief,1.9429638234317954
+grave injustice,0.4444444444444444
+vide notification,1.2
+case of s paradesi thyagarajan,0.5
+point out the lower courts error,0.5
+impugned order,2.265957446808511
+other word,0.758838674565131
+benefit to the appellants,0.6666666666666666
+retiral benefit to the appellants,0.0
+years,2.5395804110508022
+india judge,4.666666666666667
+exercise,1.9400726466785694
+rajasthan service rules,4.0
+respect to the person,0.5
+brij mohan gupta,1.0
+judicial,2.8688059701492543
+party,2.2250894654439723
+charge in the same disciplinary proceedings,0.5
+amendment of rajasthan service,0.5
+india judges cases,1.5
+proposition,0.6371087928464977
+justice,2.292557084574302
+therein,1.5503424657534246
+uncontrovertibly,0.5
+specific provision in the pension rules,0.5
+applicable in the instant case,0.8571428571428571
+v state,2.4603773584905664
+allahabad through registrar v sarnam singh,1.0
+year in accordance,0.6666666666666666
+only rule in force,0.5
+fitnes,0.5525
+kind of appeals,0.0
+difficulties,0.570873786407767
+statutory rule,2.45
+manukemanuke,1.0
+above rules,0.3333333333333333
+ten years,1.3829279923700524
+date of superannuation,0.6666666666666666
+aforementioned conditions,0.6666666666666666
+day,1.550999710228919
+consonance with the decision,0.5
+question,2.980312372067635
+choice,0.6825955124317767
+mentioning of a wrong provision,0.5
+age of superannuation,3.5833333333333335
+nepal singh v state of up,0.5
+fitness,0.5525
+entire record,0.8
+scmanu,7.940520446096654
+year under the service rules,0.0
+concerned government servant,0.5
+bombay v,1.0555555555555556
+judicial office,10.2
+departmental proceedings against the appellant mata deen garg,0.5
+months pay,2.0
+time after the passing,0.5
+v union,1.5773809523809523
+force,1.6009408121948314
+permit,1.2568972835314092
+notification,3.0112746633260263
+states,1.5120646995827023
+law,3.538923411654744
+such review,0.5
+observation,0.7625074854374218
+purpose of the judgment,0.5
+sides,0.6706755273269035
+pronouncement of the judgment,0.6666666666666666
+special leave under article,0.5
+lrs,0.46643518518518523
+members of the rajasthan judicial service,0.5
+review committee of the high court,0.5
+assessment,2.647276084949215
+addition,1.5588539142412572
+otherwise,1.2549820889894419
+such notice,1.7857142857142858
+appellant in - person,0.0
+certificate,2.732600732600732
+shamsher,0.5
+benefit of extended service,0.5
+special circumstances,0.8666666666666667
+application,2.3322596088086445
+contention of mr  rao,0.0
+authorities,1.266131845134287
+constraint,0.38964401294498385
+power exist under any provision,0.0
+benefit of extension,2.5
+time for the purpose,0.8
+term of the notification,0.0
+ltd,2.382356477306883
+benefit of the judgment,1.0
+submission,1.0913871684001404
+bye,1.9938461538461536
+motor,1.832417821954835
+kinds,0.5807291666666666
+irrespective of the nature,0.75
+member of the subordinate judiciary,0.0
+annual confidential reports,0.5
+detail,0.9737454684220567
+fes,2.10032791717328
+permits assessment of the service record,0.5
+difference,0.8774847235514982
+period,1.9480170842427122
+repetition,0.47619047619047616
+that this court,1.3653846153846154
+assessment for compulsory retirement,0.5
+boppanna,1.0
+constitution,3.204842342342342
+letter,2.707240080105903
+shamsher v state,0.5
+appointee,0.6578947368421053
+reason for construction,0.0
+conclusion that the appellant,0.8571428571428571
+- ordinary jurisdiction,0.0
+to the judgment,1.358974358974359
+performance of any government servant,0.5
+fitness of the officer,0.5
+rajat baran roy s case,0.0
+age of compulsory retirement,1.5
+recommendation,2.6589497459062676
+supra,2.246342614440774
+case in the case,0.8
+service rules,2.95
+pointer to the fact,0.8571428571428571
+rulings of this court,0.5
+competent,1.3701267639320736
+detention,1.326530612244898
+maharashtra,2.9076923076923076
+superintendent,1.2698412698412698
+extended age of superannuation,0.5
+applicant,0.7861822513400833
+pre - requisite therefore,0.0
+charge of the office,1.0
+time with a view,0.5
+singh v state,1.75
+allahabad,2.3404255319148937
+such rule,0.6095238095238095
+limitations of applicability thereof,0.5
+merits,0.968421052631579
+order in the departmental proceedings,0.5
+aforementioned findings,0.75
+same before the high court rajasthan,0.5
+respective appellant,0.5
+closed holiday,1.0
+date of compulsory retirement,2.0
+reason,2.6381270903010035
+operation,1.0959893294085181
+service rule by notification,0.0
+suitable for the benefit of extended service,0.5
+judge s cases,0.0
+accidental,0.3991228070175439
+jay,0.9354055271559237
+appellant shri chandra singh,0.5
+departmental proceedings,2.5714285714285716
+substantive orders,0.5
+territories,1.012
+facie,1.0476190476190477
+directions of this court,1.5555555555555556
+others,0.9074667328904616
+proceeding,2.1298245614035087
+uncontrovertibly fact,0.5
+judge,2.9012627415183325
+justice of the case,0.3333333333333333
+order before the rajasthan,0.5
+force by virtue,0.75
+different fields,0.6349206349206349
+dead,0.8845609936055091
+conclusion,1.3883437407077015
+claim case,1.0
+superannuation age of every subordinate,0.6666666666666666
+judicial services,2.2
+questions,0.9979150871872632
+contentions,0.9641025641025641
+substantive order,0.5
+see sds,0.5
+circumstances,1.3944461370073231
+term of a letter,0.0
+fess,2.897923467842358
+registrar v sarnam singh anr,0.5
+due performance,1.25
+high court,7.7477477477477485
+assam,1.06
+learned counsel for the appellant,1.7884615384615385
+jurisdiction,2.9539571926331507
+substantial justice,1.4
+benefit of a discretionary relief,0.5
+extended superannuation age,1.0
+manu,7.078142071124147
+employer,2.639728353140917
+rulings,0.5416666666666667
+retirement after completion,0.5
+iind,0.7411764705882352
+scale,2.0845464725643894
+assam v ranga,0.5
+benefits to the appellants,0.5
+qualifying,3.05
+lower courts error,0.5
+normal age,1.0
+measure,1.1941357983816498
+issuance of a writ,1.0
+time before an officer,0.5
+matter of several officers,0.5
+retirement order,0.5
+container,0.5
+extension of service,1.0
+courts,2.1216528162511543
+other than a government servant of class iv,0.5
+committee,2.546237803603864
+various ruling,0.5
+kemanu,1.0
+relief under article,0.75
+such rules,0.5194805194805194
+necessary service rules,0.5
+note of the provision,0.6666666666666666
+employee,6.280487804878048
+reasons,1.3749054007567938
+residence,0.7568831168831168
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+cit,2.2857642235586386
+member of the judicial service,0.0
+employment,1.5239770785161355
+ors,2.8612718198296623
+abovesaid view,0.5
+members of the judicial service come,0.5
+benefit of the enhanced superannuation age,0.5
+integrity,0.8973214285714286
+part,5.294464509893076
+thoughtful consideration,0.8333333333333334
+signature from vakalatnama,0.0
+judicial officers in discharge,0.5
+bombay,2.3134020618556703
+deen,1.1270491803278688
+services rules,0.6666666666666666
+stage  s,0.0
+aspect,1.2449448189023034
+s paradesi thyagarajan,0.5
+shri,2.0759135877246115
+decisions,1.3888475974580996
+character,0.9325990965842764
+india judges  association cases,0.0
+mentioning,0.6167832167832168
+distinction,0.7312167973690868
+officer in terms,0.0
+pari materia,0.8333333333333334
+read,2.2147281730888695
+review committee,1.6666666666666667
+services,1.6850241065659326
+sharma,0.9516994633273703
+appointment,3.1380281690140843
+salambin,1.3333333333333333
+explanation,1.4510159010600707
+earlier case,1.1428571428571428
+service wef,0.6666666666666666
+state government,3.027142857142857
+afternoon,1.133879781420765
+that the concerned government,0.5
+effect,2.184583388478191
+pension rule,7.375
+utility,0.6431972789115645
+thoughtful consideration for the arguments,0.5
+materia with section,0.8571428571428571
+judgments,1.2355646397547266
+consequence,0.8726692512593296
+honble judges of the full court,0.5
+place,2.333104345208554
+extension in service,1.0
+full court meeting,1.75
+constraints,0.43956043956043955
+appellant in ca,1.2
+following term,1.6170212765957446
+governor of rajasthan,0.5
+ultra vires of rule,0.5
+thence,0.40909090909090906
+full court,6.333333333333333
+pari materia with section,0.8571428571428571
+appellants contention,1.0
+shri chandra singh,1.0
+month from the date,1.2222222222222223
+service condition,2.272727272727273
+bhanwar,2.3333333333333335
+service records,1.3333333333333333
+thyagarajan,0.5
+judgment of this court,2.1029411764705883
+orders,1.4936359300077826
+common judgment,1.3636363636363635
+mata,1.746031746031746
+month before the date,0.0
+months  notice,0.0
+civil service,2.722222222222222
+court in para,1.375
+years with effect,0.5
+enhanced superannuation age,1.0
+years under the service rules,0.5
+satisfied that the concerned government,0.5
+respective parties,1.0
+leave under article,0.6666666666666666
+article,4.378806157159795
+application of such law,0.6666666666666666
+roll,1.7278932172102048
+appeal nos,1.6666666666666667
+reports,1.0202012199952466
+opinion,1.4960606342789635
+provisions of the rules,1.0
+thee,0.5324675324675324
+several officer,0.5
+true that mentioning of a wrong provision,0.5
+rao,0.9220020325203252
+bihar,4.587301587301587
+following statutory rule,0.5
+scope,0.8412698412698413
+laws,1.4186274337269533
+appointees,0.6857142857142857
+various rulings,0.5
+incompetence,0.6122448979591837
+committee of judges,3.0
+conclusion that the service,0.5
+retiral benefit,2.142857142857143
+respect,2.6704963235294117
+such order,1.056910569105691
+civil appeal nos,1.5416666666666667
+that mentioning of a wrong provision,0.5
+strong reliance,1.606060606060606
+expression,1.7424391201885312
+association v union,1.0
+terms of exception,0.5
+clauses,1.5486111111111112
+reasoning,0.6478937381404174
+stand,1.8422769621739425
+work,2.8478559811646353
+features,0.6184582743988685
+discretionary remedy,0.6666666666666666
+court in all india judges,2.0
+punjab,1.0438169425511197
+such state,0.8872053872053872
+particular person,0.6349206349206349
+virtue,0.9167557066537153
+substantive rights,1.5
+details,0.9406426856198188
+service condition with regard,0.0
+enquiry,2.145762711864407
+pension,11.516129032258064
+case of judicial officers,0.5
+retirement at the age,1.0
+painstaking,0.3333333333333333
+service come,0.5
+allahabad through registrar v sarnam singh anr,0.5
+officer thereunder,0.5
+ramesh,1.5798816568047334
+judicial officer in discharge,0.5
+constitutional power of the high court,0.5
+rajat,2.0
+ltd v jay container services,0.5
+chief justice,4.684210526315789
+india judges  cases,0.0
+subordinate,1.43
+accordance,1.4069045211613462
+order for compulsory retirement,0.5
+judl,0.3333333333333333
+extension,0.7526908023483366
+india judges  association case,0.0
+substantive orders against any particular person,0.5
+compulsory retirement,4.285714285714286
+reasons for construction,0.5
+word,2.065873981084096
+attainment of the age,0.6666666666666666
+appeals,1.7060218112849692
+february,0.8575630252100839
+order with respect,0.5
+kinds of appeals,0.5
+rajasthan service rule,4.0
+name,1.8996570753072433
+registrar general of the high court,0.75
+allowance in lieu,0.0
+subordinate judiciary,2.1666666666666665
+year for all government servants,0.0
+members,1.9437616522164103
+order of retirement,1.0
+above rule,0.5714285714285714
+account,2.5754891049671977
+appointments,1.2888888888888888
+minute of the committee,0.0
+arguments of the learned counsel,0.8
+subject to extension,0.5
+following rule,0.6000000000000001
+garg,1.542056074766355
+interference,0.5733527484528578
+purpose,2.519170317925504
+outer limit,2.0
+judicial officers,9.083333333333334
+time,2.4764180952862667
+service till the age,1.5
+issuance,1.05379513633014
+eligibility,1.1788856304985336
+member of the rajasthan judicial service,0.0
+difference between a judicial service,0.5
+possible preferably within a period,0.6666666666666666
+statutory right subject,0.5
+mode of retirement,0.5
+limit,2.3804570428443834
+extended service,0.25
+performance of the appellants,1.0
+right,3.07483248288682
+applicability of the enacting clause,0.5
+enacting clause,0.5
+than a government servant of class iv,0.5
+public interest,2.380434782608696
+substantive right,1.9166666666666667
+absence,1.092363454568179
+counsel,2.2246780703440323
+policy,3.250773332247955
+aim of uniformity,0.5
+rules,3.130914366958792
+shirish kumar rangrao patil,0.6666666666666666
+mechanism,0.7337579617834395
+union territories,3.111111111111111
+duty in all india judges,0.0
+sufficient potentiality,0.5
+judges of the full court,0.5
+commencement of enactments,0.5
+case of mata,0.5
+several years,0.47849462365591394
+disposal,1.1180555555555556
+conditions,1.9988092071092867
+civil services,2.272727272727273
+appropriate rule,1.2
+order for sample,0.5
+compliance,1.0029799914857385
+circumstance of the case,0.5
+clear that this court,0.75
+case,7.332269420884958
+error,1.059158294766151
+earlier superannuation age,0.6666666666666666
+punishment,1.6266937669376693
+condition for compulsory retirement,0.5
+court of the rajasthan high court,0.5
+public policy,1.2058823529411764
+years by the rules,0.5
+haryana through rg,0.5
+force in the contention,1.0
+contention,1.666391070690368
+respective state,1.5
+report of the committee,1.1666666666666667
+inter alia,1.3280423280423281
+applicable to the judicial officers,1.0
+bench,2.5793391667754992
+shipping,0.31542857142857145
+annual confidential report,0.5
+reason of the statutory rules,1.0
+office,3.5913445886237847
+reason of the purported amendment,0.5
+leave,1.0147842365477848
+terms of judges,0.5
+other document,0.6172839506172839
+several representation,0.6666666666666666
+state by reason,0.6666666666666666
+registrar general,0.8333333333333334
+notice,2.3300025999395686
+possible preferably,0.6666666666666666
+high court of judicature,1.4210526315789473
+purported amendment,0.5
+record of the judicial officer,0.6666666666666666
+full,1.5412997100815056
+correct provision,0.5
+minute,1.0433976833976835
+singh v state of up,1.1666666666666667
+instant case,2.0631578947368423
+same disciplinary proceeding,0.5
+requisite jurisdiction,0.75
+paradesi,0.5
+construction,2.2504918032786887
+haryana,2.935064935064935
+before the high court rajasthan,0.5
+exclusionary clause,1.2
+performance of any judicial officer,0.5
+necessary action,1.0
+provision of the rules,0.0
+documents,1.142515923566879
+conclusion that these appellant,0.5
+appointing authority,4.375
+procedure for compulsory retirement,1.5
+honble judge,1.4
+constitutional power,0.8333333333333333
+rajpatra,0.5
+recourse,0.9157232704402517
+judge in this aspect,0.0
+appellant for the proposition,0.0
+applicable in the case of government servants,0.5
+conduct,1.5998023165163158
+earlier stage  s,0.0
+argument of the learned counsel,0.8
+argument,0.9504580388560493
+times without number,0.6666666666666666
+service rule,3.1
+judges,2.0931496919173616
+court in high court,0.5
+un - amended rule,0.0
+sarnam singh,1.5
+months from the date,1.3333333333333333
+hand,2.0299623418254717
+appellant,14.387096774193548
+high court in accordance,1.0
+government servant,3.466666666666667
+official duty,20.0
+rajasthan high court,1.9090909090909092
+whichever,0.8426966292134831
+new delhi,1.744186046511628
+matter of record,0.6666666666666666
+representation,1.2338308457711442
+central,2.61875
+brij,0.7090909090909092
+respective high court,1.6666666666666667
+bhanwarlal,0.5
+union territories to the effect,0.5
+situation,1.1254754682459434
+night,0.8690610404251893
+observations,0.7454584147497534
+lady judicial officer,0.5
+disciplinary proceeding,1.6428571428571428
+black sheep,0.5
+respective states,1.375
+relevant service rules,0.5
+worker,1.9239190944516609

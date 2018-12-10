@@ -1,0 +1,254 @@
+kaif,1.1111111111111112
+home,0.9826663267907214
+agency of the police station nagar thana,0.5
+distres,0.39716312056737585
+today,0.6330563683773655
+petitioner,4.524972253052164
+home secretary,1.0
+scmanu,7.940520446096654
+notice,2.3300025999395686
+india manuscmanusc,1.8333333333333333
+basis,1.953226441078104
+step,0.8867024753460084
+children,1.3787369914853358
+basi of an fir,0.0
+status,1.14824388424026
+mr panday,2.0
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+central bureau of investigation,1.0769230769230769
+fear in the mind,0.75
+mr kislay,0.5
+accused person,4.565217391304348
+police,2.9749362629783356
+solace,0.2285714285714286
+steps,1.169318181818182
+dey,0.8643216080402009
+petitioner that mohammad kaif,0.6666666666666666
+course,1.6545957498716626
+mohammad kaif,2.3333333333333335
+politic,0.9858689682228325
+name,1.8996570753072433
+perusal of the petition,0.6666666666666666
+dasti,1.1666666666666667
+bureau of investigation,0.5647058823529412
+atrophy to the sense,0.6666666666666666
+man with courage,0.6666666666666666
+protagonist,0.4
+principal,1.3412499999999998
+court,12.24425115501509
+hold party position,0.5
+course of hearing,1.0476190476190477
+ranjan,0.5
+counsel in the cause list,0.5
+officer,3.1197242647058823
+custody,1.4166666666666667
+witnesses as a consequence,0.6666666666666666
+position,1.549133168619177
+kind of anti - social elements,0.0
+powerful protagonists,0.6666666666666666
+union,2.0981927710843373
+notification,3.0112746633260263
+child,3.0202810640613067
+petition,5.3436539306104525
+facie discernible,0.6666666666666666
+person,4.291511329454258
+kind of danger,0.4444444444444444
+manoj,0.32142857142857145
+constant fear,0.6666666666666666
+cause,1.8431210321626654
+mother of all virtues,0.6666666666666666
+cbi,3.9568421052631577
+nos,1.2635492554198444
+call,1.5442351461768689
+political executive,1.0
+gopal,1.1610169491525424
+liberty,0.7860465116279071
+narula,0.5
+matter,2.8088923076923082
+prima facie discernible that the petitioner,0.6666666666666666
+instruction from respondent nos,0.0
+moment,0.5294822018215465
+issue notice,1.0952380952380953
+group,1.691932599016908
+article,4.378806157159795
+render assistance,0.5
+lady,0.6819258089976322
+news,0.8405125851029581
+mr panday that criminalization,0.5
+district,1.5506763074237984
+view,2.441100058469462
+decision,2.9514937765898557
+respondent nos,2.5185185185185186
+occasion with respondents,0.5
+competent authority,2.7142857142857144
+- social elements,0.0
+yesterday,0.4064417177914111
+developments,0.5581395348837209
+district siwan,1.3333333333333333
+rajdev,1.0
+situations,0.7435282837967402
+position in the political executive,0.5
+such kind,0.5555555555555556
+house,2.0021735292386764
+executive,1.3789130780232004
+helpless widow of a senior reporter,0.5
+instructions,1.8111673678956002
+manoj narula v union of india manuscmanusc,0.5
+basis of an fir,0.5
+family,1.856281506375408
+witness,5.333906623599983
+- social element,0.0
+authority,2.4352627108360636
+place in the district siwan,0.6666666666666666
+fact situation,1.3333333333333333
+bihar,4.587301587301587
+certain powerful protagonists,0.6666666666666666
+other accused person,2.111111111111111
+anti-social element,0.0
+fear,0.8662375822023226
+polouse,0.0
+status report before this court,0.6666666666666666
+case at hand,1.0617283950617284
+proclaimed offender,2.1666666666666665
+other accused persons,2.111111111111111
+siwan,4.0
+counsel,2.2246780703440323
+development,2.3145884270578647
+police station nagar thana,0.5
+secretary,0.9217877094972067
+proclaimed offenders by the court,0.5
+distress,0.39716312056737585
+virtues,0.3541666666666667
+politics,0.3488465306849559
+courage,0.6100747737111374
+india,2.7684068260703585
+witnesses,3.359210526315789
+certain powerful protagonist,0.6666666666666666
+today to the superintendent,0.5
+weeks,0.8109161793372318
+hapless,0.5
+dainik,4.25
+state of continuous fear,0.6666666666666666
+small children,0.375
+fact,3.6284951019474962
+order,5.472481489660944
+day before yesterday,0.30000000000000004
+widow of a senior reporter,0.5
+proclaimed offender by the court,0.0
+concerned station house officer of nagar thana,0.6666666666666666
+proclaimed offenders,2.25
+home secretary of the state,0.6666666666666666
+that fear,0.3188405797101449
+liberty from custody,0.5
+siwan district,1.3333333333333333
+assistance,0.8623872906826965
+bureau,0.5022321428571429
+hand,2.0299623418254717
+station,1.2515681586858238
+nagar,0.8617021276595744
+hold,2.206214081425894
+sense,0.8606303395157362
+hindustan,1.85
+cause list,0.5
+occasion,0.7946745562130177
+husband,1.6418918918918919
+anti-social elements,0.0
+submission,1.0913871684001404
+offender,1.3711405166981725
+accused persons,7.048780487804878
+week,0.8253498691546249
+citizen,1.261748909029876
+mohammad javed,1.6666666666666667
+haples,0.5
+counsel for the state,1.3043478260869565
+copy,0.8620926631522174
+victim,1.204831365285174
+superintendent of police,2.1153846153846154
+kislay,0.5
+list,4.014941314095513
+helpless widow,0.5
+mother,1.5057341472881893
+station house officer of nagar thana,0.6666666666666666
+copy of the petition,1.3333333333333333
+nagar thana,1.0
+state,6.817996007300392
+case,7.332269420884958
+status report,1.1358024691358024
+concerned station house officer,0.6666666666666666
+pandaya,0.75
+police protection to the petitioner,0.6666666666666666
+powerful protagonist,0.6666666666666666
+dignity,0.5529953917050692
+reporter,0.21681415929203543
+trial,3.7979448350459712
+manoj narula v union,0.5
+offenders,0.9550387596899225
+report,1.7768151696835826
+criminalization,0.25
+herein,2.825259515570934
+lady in distress,0.6666666666666666
+scc,1.941872465904902
+affair in that regard,0.5
+police protection,0.5454545454545454
+manu,7.078142071124147
+affair,0.8341728395061728
+protection,1.1604395604395603
+central,2.61875
+constitution,3.204842342342342
+party,2.2250894654439723
+name of mr,0.6666666666666666
+senior reporter,0.5
+widow,0.45833333333333337
+fir,2.85390975582079
+virtue,0.9167557066537153
+group of persons,1.75
+facie discernible that the petitioner,0.6666666666666666
+protection by the competent authority,0.6666666666666666
+consequence,0.8726692512593296
+singh,3.7791111111111113
+protagonists,0.5
+javed,0.7333333333333334
+atrophy,0.3333333333333333
+place,2.333104345208554
+instruction,1.8197943962910703
+justice,2.292557084574302
+man,6.972395052694935
+prima facie discernible,0.6666666666666666
+panday,2.0
+state of bihar,2.5918367346938775
+danger,0.8066378066378066
+element,0.7062328407033122
+respondent no,5.395833333333333
+investigation,1.6673076923076922
+regard,2.723310344827586
+registry,0.510662177328844
+constant victim,0.6666666666666666
+potentiality,1.125
+submission of mr panday,0.5
+kind,0.9236881920088026
+mohammad,0.9375
+place in the siwan district,0.6666666666666666
+station house officer,1.25
+situation,1.1254754682459434
+agency,1.8968779259354924
+copy of the order,1.2142857142857142
+perusal,0.750733137829912
+mr pk,1.25
+such kind of anti-social elements,0.0
+rajdev ranjan,0.5
+instructions from respondent nos,0.6666666666666666
+hearing,0.9644508209787979
+respondent,4.757894736842104
+respondents,2.6341263330598856
+elements,0.676937441643324
+central bureau,0.5384615384615384
+superintendent,1.2698412698412698
+persons,2.5993381990166555
+basi,2.0752712086391383
+day,1.550999710228919
+thana,0.4696969696969697
+that regard,0.5944055944055944
+continuous fear,0.6666666666666666
+gopal singh,2.5
+small child,0.375

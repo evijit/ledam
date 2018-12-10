@@ -1,0 +1,149 @@
+normal working hour,0.3333333333333333
+last day,1.0611764705882354
+cost,1.2954397451466992
+expiry of prescribed period,1.0
+only extension,0.5
+code,2.880559796437659
+appeals,1.7060218112849692
+expiry,2.2888888888888888
+vacation,0.38268955650929903
+non-working saturday,0.0
+extension of prescribed period,0.6666666666666666
+fling,1.325892857142857
+saturday,0.8641975308641976
+vii,1.26552423069836
+court holiday,0.5
+meaning,1.8612727545949643
+appellant under order vii rule,0.5
+day within the meaning,0.5
+high,5.367119186841496
+anybody,0.9486652977412732
+pradesh,4.365853658536586
+court,12.24425115501509
+file,1.3720673638585223
+certain case,0.5333333333333333
+ground,1.4186722903211633
+applies,0.9353049100122315
+non-working saturday for the judges,0.0
+learned,3.406323898681099
+suit,2.485274378207659
+day of winter vacation,0.5
+normal working hours,0.3333333333333333
+explanation under section,0.75
+part of the day,0.5
+defendant,3.7706855791962175
+trial court,3.854545454545455
+cause,1.8431210321626654
+law,3.538923411654744
+impugned judgment,2.0927152317880795
+assumption,0.47735650342285413
+part,5.294464509893076
+cases,1.9728229418951067
+bar for fling,0.5
+certain cases,0.5333333333333333
+defendant on the ground,0.5
+plaintiff,2.177926421404682
+regular hearing,0.5
+applies to suits,0.5
+order vii rule,1.6666666666666667
+applications,1.0021816198527407
+apply,1.5478801169590641
+reading on reasoning,0.5
+file of the adj,0.5
+first principles on the law,0.5
+explanation-a court,0.0
+last day of winter vacation,0.5
+working hour,0.2692307692307692
+question of any confusion,0.5
+working,1.1479822756765312
+working hours,0.2727272727272727
+suit on non-working saturday,0.0
+hours,1.1644152367043934
+appeal,3.4125488033856883
+kurian,0.9655172413793104
+recovery,3.9892473118279574
+hereinafter,0.7670609645131939
+case for anybody,0.5
+judge,2.9012627415183325
+procedure,2.552771605064117
+principle on the law,0.0
+last date,1.9285714285714286
+such confusion,0.5
+application,2.3322596088086445
+period of limitation,3.3181818181818183
+code of civil procedure,5.5636363636363635
+- fling,0.0
+reading,0.9004509191814082
+judgment,3.288216560509554
+madhya pradesh,2.9583333333333335
+judges,2.0931496919173616
+control of the plaintiff,0.5
+order,5.472481489660944
+mistake,0.6870879120879121
+apply to suits,0.0
+act,12.870263922028107
+dispute that the last date,0.5
+prescribed period for any suit,0.5
+explanation,1.4510159010600707
+first principles,0.5
+reasoning,0.6478937381404174
+dispute,2.402137592137592
+no doubt,0.8331331503088538
+hour,1.1326135248230613
+principles,1.3198511166253102
+appellant,14.387096774193548
+impugned order,2.265957446808511
+wrong on the first principles on the law,0.5
+high court,7.7477477477477485
+winter,0.4263322884012539
+confusion,0.5114622057001239
+doubt,1.3646267723102583
+case,7.332269420884958
+prescribed period,1.7692307692307692
+period,1.9480170842427122
+civil procedure,5.448275862068965
+bar,1.4720990391722097
+section,9.287987283173626
+trial,3.7979448350459712
+adj,1.390246117518845
+gwalior,1.9
+mistake of non - fling,0.0
+principle,1.9620890732001848
+non-working saturday under the assumption,0.0
+madhya,2.9183673469387754
+judgments,1.2355646397547266
+joseph,0.4502673796791444
+first principle,0.5714285714285714
+wrong,1.2933182103578877
+non - working saturday,0.0
+the act,5.708327371273712
+civil,2.126558634963905
+regular hearing of cases,0.5
+non-fling,0.0
+interesting reading,0.3333333333333333
+rule,5.04
+holiday for the registry,0.5
+registry,0.510662177328844
+tribunal,5.07183212267958
+recovery suit,0.6666666666666666
+date,6.195616975795285
+limitation,2.4984479402325457
+principles on the law,0.5
+interesting reading on reasoning,0.5
+limitation act,6.833333333333333
+bonafide mistake,1.0
+suits,1.0993657505285412
+holiday,0.5518018018018018
+control,2.148867902684286
+hearing,0.9644508209787979
+under order vii rule,1.5
+kurian joseph,0.9655172413793104
+impugned judgment on limitation,0.5
+leave,1.0147842365477848
+costs,0.8167395522604189
+winter vacation,0.5
+day,1.550999710228919
+hearing of cases,0.5
+question,2.980312372067635
+extension,0.7526908023483366
+first principle on the law,0.0

@@ -1,0 +1,985 @@
+stamp papers,1.5
+amongst,1.0294726586286689
+enactment,1.439950980392157
+pre,6.408342692122574
+candidates at an election,0.6666666666666666
+committee,2.546237803603864
+extracts,0.48128342245989303
+xerox copies,0.4
+plots,0.8001672240802675
+candidate at an election,2.0
+combination,1.5053521126760565
+body meeting of akola,0.5
+vacancy,1.0666666666666667
+code,2.880559796437659
+elected councillor of respondent,0.0
+highest fraction number,0.5
+list of gatneta,0.5
+validity of resolution,0.5
+strength of the respective recognized parties,0.5
+deshpande,0.6666666666666666
+appointment by nomination,3.0
+validity,1.521010638297872
+corporation election,0.5
+other hand,0.6931925622439332
+maharashtra local authorities member,0.5
+signature,1.1400966183574879
+bhartiya,2.25
+sections,1.640495469442838
+terms,2.390350840909655
+meaning,1.8612727545949643
+appointment of a councillor,0.5
+relative strength of the political parties,0.5
+proportion to the strength,0.5
+various categories,0.8
+pass,2.510543963686946
+maharashtra local authority members  disqualification act,0.0
+ganesh thakur,1.0
+court,12.24425115501509
+first respondent,4.575757575757576
+declaration,2.152560083594566
+non - inclusion of names,0.0
+milind,0.5
+relative strength,2.5714285714285716
+aspects,1.0997620069447154
+nagpur bench of the high court,0.5
+eye,0.9466574319441098
+front within a month,0.5
+objection,1.68120480131216
+person,4.291511329454258
+ors,2.8612718198296623
+amncns office of municipal secretary akola,0.0
+proviso to section,3.3181818181818183
+behalf,1.9888053603529987
+first proviso,1.6666666666666667
+formation,1.1075979991753988
+decides on the validity,0.5
+part,5.294464509893076
+candidates for election,0.5
+amravati division,0.5
+consciou of the fact,0.0
+vika,0.7259259259259259
+application before the divisional commissioner,0.5
+writ petitioner,4.482758620689655
+litigation,1.4968553459119498
+positive order,0.5
+such serious infirmities,0.5
+sunil meshram member,0.0
+maharashtra local authority members  disqualification rules,0.0
+bombay,2.3134020618556703
+quotient of this division,0.5
+first proviso to section,1.25
+procedure for such registration,0.5
+in the affidavit dt,0.5
+corporations act,2.2
+aspect,1.2449448189023034
+amnc,0.396551724137931
+provisions of sub - section,0.0
+number,1.4802651440973922
+janta,1.2
+shri,2.0759135877246115
+provision of sub - section,0.0
+such variation,0.6666666666666666
+limited question,0.75
+decision,2.9514937765898557
+tenor,0.48571428571428577
+local authority members  disqualification rule,0.0
+violation of the language,0.5
+counsel for the respondent,1.5822784810126582
+proposal dt,0.5
+aforesaid,2.592896174863388
+vanguard  front,0.0
+such variations of the relative strength,0.5
+functioning of the corporations,0.5
+sanjay babulal badone,5.5
+seat,2.8245469748060423
+totality,0.6293706293706293
+house,2.0021735292386764
+merge,1.2320125715568524
+subordinate legislation,1.5
+case of any other councilor,0.5
+appeal,3.4125488033856883
+bhartiya rashtriya congress,1.5
+argument on behalf,1.0
+sudhar committee,1.0
+scope of the powers,0.6666666666666666
+collector,1.8095238095238093
+contra,3.550142721217888
+other external aid for the interpretation,0.5
+component party,0.0
+fact situation,1.3333333333333333
+election,6.758005637447438
+land,6.337534028705619
+interpretation,1.518366298484459
+certain member,0.3333333333333333
+read,2.2147281730888695
+above order of the divisional commissioner,0.5
+registered party,0.0
+recognised party,0.0
+that round,0.4
+ward,2.4967109028473318
+month,1.3454861111111112
+mahanagar sudhar samiti,5.0
+recognition of variations,0.5
+councilor,2.0
+serious infirmities,0.5
+better representation in the various categories,0.5
+municipal corporation act,3.4
+commissioner amravati,3.0
+provision of maharashtra local authorities members,0.0
+judgment,3.288216560509554
+detailed order,0.875
+weeks from today,1.2
+recognised parties,0.5
+proviso to sub - section,0.0
+subject,2.4420366233344897
+order,5.472481489660944
+new political party,0.5
+other external aid,0.5
+madhuri sanjay badone,5.5
+local authority member,5.0
+act,12.870263922028107
+sub-section,0.0
+elected members,1.6
+further apparent,0.6666666666666666
+smt,0.7459757206267715
+relevant extracts,0.8
+that power,0.6764705882352942
+external aid for the interpretation,0.5
+guarantee,2.2562167724232554
+appointment,3.1380281690140843
+nagar,0.8617021276595744
+ministerial work,0.5
+maharashtra local authorities members,0.5
+bhargad,1.5
+independent councillor,1.0
+following committees,0.5
+above terms,0.9375
+effect,2.184583388478191
+candidates,3.508445945945946
+dated,3.314287926295823
+compliance with the impossibilities,0.5
+copy,0.8620926631522174
+court in writ petition,1.4615384615384615
+maharashtra land revenue code,0.5
+list,4.014941314095513
+rest,3.3424534062537377
+manner,1.4494591333432125
+member,2.649111111111111
+option,1.002339493011135
+registration book of divisional commissioner office,0.5
+functioning,0.9337944664031622
+annexed,0.5930232558139535
+parties,1.8210828547990157
+finality,1.1746031746031746
+affidavit of sanjay babulal badone,0.0
+-b as independent candidate,0.0
+rahate,0.5
+commissioner office,0.5
+provisions of disqualification act,0.5
+authority membership disqualification rules,1.5
+alongwith original document,0.5
+zilla,0.45161290322580644
+section,9.287987283173626
+herein,2.825259515570934
+part of the group,0.38095238095238093
+meeting,1.5978547625659538
+variation,0.5234042553191488
+thereunder,1.2794117647058825
+city secretary of municipal corporation,1.0
+interpretation of section,1.5
+madan bodulal bhargad,1.5
+namuna,0.5
+highest fraction number in the relative strength,0.5
+consequence,0.8726692512593296
+post-poll alliance,0.0
+provisions of the disqualification act,1.0
+committees,1.1
+representative,1.0617102796119673
+order of registration,0.5
+seal,1.5645371577574967
+which front,0.5
+stamp,0.871914299021891
+maharashtra local authority member,5.0
+present case,1.5611814345991561
+act of the proposer,0.5
+fiction,0.7938733125649013
+list of members,0.3333333333333333
+extract,0.7823518379594899
+high court that the writ petition,0.6666666666666666
+akola vikas mahaaghadi,3.0
+judicature,1.4210526315789473
+-akola municipal corporation in march,0.0
+leader of the house,0.6666666666666666
+regard,2.723310344827586
+registration in the register book,1.0
+thakur,1.6
+original copies,0.5
+respective relative strength,1.0
+rid of disqualification,0.5
+context,0.9269383697813122
+councillors of corporation,0.5
+various legal consequence,0.5
+further apparent from the language,0.5
+local authority members  disqualification act,0.0
+such registration,0.6666666666666666
+assume,0.6606114311032344
+local authority members,5.0
+local authority membership disqualification rules,1.5
+registration under second proviso,1.0
+prabhag,1.5
+old enactment,0.5
+writ petitioner before the high court,0.6666666666666666
+direction,1.8495050210098996
+perusal,0.750733137829912
+five,1.330543193138613
+meant for a limited purpose,0.5
+merge into the aghadifront,0.5
+copies of affidavits,0.5
+month of the election,0.5
+registration of post-poll group,0.0
+shri harish ratanlalji alimchandani,1.5
+fault,0.8125244007183572
+such member,1.0
+regards,0.9072861236185019
+facts,1.4696673624372698
+month from the date,1.2222222222222223
+municipal,2.4099173553719004
+issue,2.766776251628934
+perusal of concerned documents,0.5
+mahanagar,6.0
+post - poll aghadi,0.0
+executive in exercise,0.5
+following committee,0.5
+corporation elections as independent candidates,0.5
+form,2.4865961263718424
+powers,1.876345371920593
+stipulation,1.6507936507936507
+lists,1.1177777777777778
+copy of communication,0.3333333333333333
+local authority,3.933333333333333
+nominate members,0.5
+candidate,6.356675392670156
+proposition in detail,0.5
+mandatory under section,0.5
+today,0.6330563683773655
+local,1.7491695749064458
+petitioner,4.524972253052164
+individual,1.1485140562248994
+vaishnav,3.0
+cost,1.2954397451466992
+second proviso of sub - section,0.0
+orders,1.4936359300077826
+panchayat,10.0
+holding,1.2555282555282552
+scheme,3.415949119373777
+high court by a detailed judgment,0.5
+high court in writ petition,1.1
+nagpur bench,1.6666666666666667
+annexure p-,0.0
+total strength of members,0.5
+distt,1.0476190476190477
+sub,7.816899313759727
+set-aside to that extent,0.0
+meaningful exercise,0.5
+proportion,1.3026315789473686
+applicants,0.6960950764006791
+nagpur,6.5625
+corporation elections as independent candidate,0.5
+elected councillors of respondent,0.5
+bhartiya rashtriya congres in registration book,0.0
+recognized party,0.0
+aghadi after the election,0.5
+abovementioned period,0.5
+groups,0.9065945998117897
+geeta nagar,0.5
+original copy of affidavits,0.0
+understanding of the executive,0.5
+revenue division,0.5
+akola vikas mahaaghadi akola,1.0
+only duty,0.5
+notable aspect,0.5
+ground,1.4186722903211633
+idnani,1.0
+municipal corporation shri sanjay babulal badone,0.5
+divisional commissioner office,0.5
+municipal secretary,1.5
+whole number,0.6666666666666666
+mah,1.0727582507730171
+xxx,1.8708487084870848
+municipal party,0.5
+janta party,1.0
+function,1.6326372491145218
+vide order,1.7058823529411764
+proposal in prescribed form,1.5
+relation,1.397320207820618
+proof,1.0648141580366008
+figures,1.023593964334705
+meantime,0.5833333333333334
+individual independent councillors,0.5
+scrutiny,0.912987012987013
+general body meeting of akola,0.5
+notification of election results,0.5
+strength of respondent,0.5
+whether the petition,1.5714285714285714
+term,3.6255105640901575
+committee as members,0.5
+in above terms,0.75
+councillors,6.333333333333333
+amncns office,0.0
+appellants,7.701086956521739
+elections,2.0254335260115606
+view,2.441100058469462
+such post-poll aghadi,0.0
+aid,5.498621453008654
+sixteenth vacancy,0.5
+indian,1.2604961505560306
+vide resolution,0.5
+post,2.344803646492219
+badone,11.0
+groups under this act,0.5
+significance,0.6059966216216216
+opinion,1.4960606342789635
+form iv,0.5555555555555556
+vacancies,7.473684210526316
+such vacancy,0.5
+body meeting,2.0
+herewith sd- municipal secretary,0.0
+verification,0.9934640522875817
+careful perusal,0.8
+merger,0.8533333333333334
+writ petitioners before the high court,0.5
+recognition,1.4333333333333333
+municipal corporation shri gajanan madhusudan pande,0.5
+date of the notification,1.2857142857142858
+various category,0.0
+brief facts of the case,1.0
+present respondent nos,0.5
+maharashtra local authority members  disqualification rule,0.0
+number of councillors,1.5
+letter bearing,0.6666666666666666
+witness,5.333906623599983
+result,1.3356630184144715
+notification of the election results,1.0
+representation of the petitioner,0.5
+signatures,0.9850746268656717
+secretary akola,1.0
+record,2.5393414390845273
+procedure,2.552771605064117
+inclusion,0.9738480697384807
+behalf of respondent,1.3333333333333333
+bye-law,0.0
+information,1.1320502836800534
+scope,0.8412698412698413
+laws,1.4186274337269533
+quotient,0.6666666666666666
+provisions of indian evidence act,0.5
+post-poll group,0.0
+that round of litigation,0.6666666666666666
+akola,12.666666666666666
+secretary,0.9217877094972067
+provision,5.439002243350069
+local authority membership disqualification rule,1.5
+city,2.544592792669584
+provision of maharashtra local authority membership disqualification act,0.0
+exercise of verification,0.5
+disqualification,4.761904761904762
+annexed with the reply,0.5
+advocates,0.6153846153846153
+notice dt,0.5
+divisional commissioner under rule,0.5
+copy of letter,3.6666666666666665
+naphade,1.5
+sovereign,0.6162162162162163
+respect,2.6704963235294117
+legislation,3.2032032032032034
+total strength,0.5
+incomprehensible aspect,0.5
+separate aghadi,1.0
+fact,3.6284951019474962
+shri nikhil nayyar,0.5
+resolution,1.771256437663978
+registration,2.231365215068127
+variations of the relative strength,0.5
+general body meeting,2.0
+expression,1.7424391201885312
+anr,1.1271033322299457
+such cases,0.7390180878552971
+committee as member,0.5
+samiti party,0.5
+councillor on the committee,0.0
+transport,1.8361522198731504
+poll,1.8799933862433862
+behalf of such party,0.5
+members of the aghadi,0.5
+object,1.4940119760479043
+total number,0.8813725490196079
+such serious infirmity,0.0
+above communication,0.75
+questioning,0.6370887337986042
+formation of the aghadi,0.5
+following order,0.5647058823529412
+representation in the various categories,0.5
+attestation,0.6666666666666666
+proportional representation-,0.0
+non - inclusion,0.0
+work,2.8478559811646353
+representatives,0.8874021711688966
+extent,1.410108024691358
+copy of affidavits,0.0
+decides,0.7800453514739227
+maharashtra local authority membership disqualification act,1.5
+parishad,5.2727272727272725
+proposer,2.75
+proposal,1.8145800316957208
+aalsi plots,0.5
+santosh,1.3333333333333333
+brief facts,1.0
+affidavit,2.2996987951807224
+such case,0.7332761578044598
+exercise,1.9400726466785694
+member of such aghadi,0.0
+papers,1.0564063453325199
+members for proportional representation,0.5
+amravati,2.25
+principle,1.9620890732001848
+alongwith,0.810989010989011
+maharashtra local authority members,5.0
+paragraphs,0.9552238805970149
+copies,0.5369304682962884
+party,2.2250894654439723
+virtue,0.9167557066537153
+harish ratanlalji alimchandani,1.5
+anything,0.9132309941520469
+contra on behalf,0.6666666666666666
+second proviso to section,2.0
+present respondent no,1.0
+such non-inclusion of names,0.0
+proposition,0.6371087928464977
+detailed judgment,0.8
+recognized parties,4.0
+external aid,0.5
+konkar,0.5
+legal consequences,0.5
+shri madan bodulal bhargad,1.5
+rashtriya,1.25
+revenue,1.486701237872198
+lapse,0.9238095238095239
+variation of the relative strength,0.0
+hearing of present case,0.5
+various legal consequences,0.5
+vest with the commissioner,0.0
+month of election,0.5
+other councilor,0.5
+original copies of affidavits,0.5
+membership,1.1432614078528476
+annexure r,1.0
+group under this act,0.0
+affidavit dt,0.5
+date,6.195616975795285
+member of such post - poll aghadi,0.0
+fraction,0.6662650602409638
+understanding,0.8257450331125827
+members of such post - poll aghadi,0.0
+existence,0.731202675709574
+shekhar,1.0
+such party,1.5
+hearing,0.9644508209787979
+respondent,4.757894736842104
+city secretary,1.0
+difference of opinion,0.5833333333333334
+bench of the high court,1.8
+seat in this manner,0.0
+accordance,1.4069045211613462
+divisional,1.6233766233766234
+registered pre - poll aghadi,0.0
+more seats,0.5
+political identity,0.5
+question,2.980312372067635
+councillor of corporation,0.0
+present appellant,1.3333333333333333
+objection to registration,0.5
+pre - poll aghadi,0.0
+meshram,0.5
+results of the election,0.6666666666666666
+order of rejection,0.6666666666666666
+municipal corporation elections,0.5
+such aghadis,0.5
+municipal secretary akola,1.0
+aghadi  front,0.0
+madhuri,3.4
+vendor,0.7748881431767338
+scmanu,7.940520446096654
+word,2.065873981084096
+vests,0.7007818052594171
+writ,2.8882378560889794
+bhartiya janata party,1.0
+february,0.8575630252100839
+august,0.977116704805492
+variations,0.4711538461538462
+parent,0.9965655833245622
+scheme of the subordinate legislation,0.5
+relation to the councilor,0.5
+will,1.9263907124198036
+corporation shri sanjay babulal badone,0.5
+office of divisional commissioner,1.5
+member of the aghadi,0.0
+better representation,0.5
+plot,1.9177369203731243
+name,1.8996570753072433
+of the fact,0.9194706545605603
+entry,4.707210447678601
+vikas,1.0208333333333333
+vest,2.5867992501903814
+proviso of sub - section,0.0
+high,5.367119186841496
+corporation in february,0.5
+members,1.9437616522164103
+shri shekhar naphade,0.5
+legal fiction,1.6
+corporation act,2.5
+account,2.5754891049671977
+divisional commissioner amravati,3.0
+finds,0.5917335193582143
+rule about the formation,0.0
+reliable documents,0.6666666666666666
+brief fact,1.0
+behalf of the appellants,1.46875
+attention to the copy,0.5
+member for proportional representation,0.0
+notification,3.0112746633260263
+further discussion,0.3555555555555555
+incumbent upon the divisional commissioner,0.5
+member of a panchayat samiti party,0.5
+court by a detailed judgment,0.5
+proviso,2.112
+registration book,1.0
+notary,0.4800000000000001
+purpose,2.519170317925504
+law,3.538923411654744
+alliance,0.47252747252747246
+stamps,0.20588235294117646
+front within a period,0.5
+change,1.2214862766571903
+statutory construction,1.0
+nos,1.2635492554198444
+principle of statutory construction,0.6666666666666666
+observation,0.7625074854374218
+adv,1.8434008520215417
+time,2.4764180952862667
+cases,1.9728229418951067
+various possible combination of councillors,0.0
+division,1.7657319129617017
+lohiya,0.5
+transport committee,0.5
+-b as independent candidates,0.0
+rejection,0.7335907335907336
+group,1.691932599016908
+groups in the corporation,0.5
+fraction number,1.0
+bhartiya janta party,1.0
+order of the fraction number,0.5
+sufficient scope,0.5
+from rule,1.0
+incomprehensible act,0.5
+jeevan,1.6
+possible combinations,0.3333333333333333
+reduction,0.8411214953271028
+general body,2.3333333333333335
+opposition,0.7717250324254215
+possible combinations of councillors,0.5
+status of respondent nos,0.5
+complaint,2.734525785235724
+contrast to the stipulation,0.5
+municipal corporation,1.3439153439153437
+non,1.3417336444559675
+disqualification rules,3.5
+application of the writ petitioners,0.5
+executive,1.3789130780232004
+rules about the formation,0.5
+frontaghadi,0.5
+councilors,1.0
+hereinafter,0.7670609645131939
+that extent,0.8888888888888888
+facts of the case,1.161764705882353
+gajanan,0.5
+brief fact of the case,0.0
+march,1.0644238856181665
+positive order of registration,0.5
+exception,1.1036946087733006
+indian evidence act,1.3125
+reliance in the case,0.5
+committee ie,0.5
+counsel,2.2246780703440323
+various possible combinations,0.5
+application,2.3322596088086445
+reads,0.8722657304887929
+more registered party,0.0
+authority membership disqualification rule,1.5
+language of section,1.125
+authorities,1.266131845134287
+aghadis,1.5
+proportionate representation of the petitioner,0.5
+local authority members  disqualification rules,0.0
+witnesses,3.359210526315789
+rules,3.130914366958792
+case of the following committees,0.5
+name of sau,1.0
+representation of respondent,0.5
+illegality,0.8076923076923077
+strength of representatives,0.5
+case of interpretation,0.5
+madhusudan,0.6666666666666666
+original copy,0.0
+names,1.766440410418311
+judicature at bombay,1.5
+absolute,0.7467999697038552
+evident from rule,0.6666666666666666
+bhartiya rashtriya congres,1.5
+above order,1.7857142857142858
+mc-,0.0
+municipal corporation elections as independent candidate,0.5
+earlier round,1.0
+impossibilities,0.5
+eyes,0.4774823657080847
+party for the purpose,0.6666666666666666
+writ petitioners,3.75
+vests with the commissioner,0.5
+stamp paper,1.3333333333333333
+infirmities,0.54
+congres,0.7158683610296513
+evidence,3.6676405172088815
+document,1.401100265092073
+results,0.6487493619193466
+bye,1.9938461538461536
+consequences,0.6659897713598075
+names of shri sanjay babulal badone,0.5
+leader of each such party,0.5
+seats in this manner,0.5
+reliance,1.400763358778626
+sd-,0.0
+harish alimchandani to the divisional commissioner,0.5
+detail,0.9737454684220567
+assumes,0.5332902391725922
+compliance,1.0029799914857385
+proposal for registration,0.5
+councilor of a municipal corporation,0.5
+confusion,0.5114622057001239
+councillor in accordance,0.0
+standing committee,2.7755102040816326
+nayyar,0.6666666666666666
+group for the purposes,0.5
+difference,0.8774847235514982
+case,7.332269420884958
+period,1.9480170842427122
+court that the writ petition,0.6666666666666666
+-mahanagar sudhar samiti,0.0
+registered group,0.5
+parent enactment,0.5
+stamp vendor,0.5
+annexure,2.7560975609756095
+scc,1.941872465904902
+local authority membership disqualification act,1.5
+fronts,0.5
+leader,1.1127110228401191
+concerned document,0.5
+letter,2.707240080105903
+bhartiya rashtriya congress party,0.5
+gatneta,1.0
+independent candidate,0.5333333333333333
+provisions of maharashtra local authorities members,0.5
+purposes,1.4391216613438835
+preliminary objection,1.3125
+fact that vide order,0.5
+sunil,1.0
+reliable document,0.4444444444444444
+election result,1.3333333333333333
+rule,5.04
+aggrieved,1.2479674796747968
+advocate,1.0791341991341994
+proceedings,1.7670925223666287
+inherent guarantee,0.5
+leader of opposition,1.6666666666666667
+such variations,0.5
+identity,0.8835164835164835
+commissioner in the case,0.5
+such parties,0.4444444444444444
+date of attestation,0.5
+supra,2.246342614440774
+duty,3.2272215973003378
+certain members,0.3333333333333333
+ground that name,0.5
+land revenue code,1.6666666666666667
+violation,1.2087401208740118
+bench,2.5793391667754992
+body meeting for this limited purpose,0.5
+office,3.5913445886237847
+special committee,1.0
+such aghadi,1.0
+vanguard,0.6000000000000001
+respondents,2.6341263330598856
+leave,1.0147842365477848
+mayor,0.2168674698795181
+maharashtra,2.9076923076923076
+costs,0.8167395522604189
+applicant,0.7861822513400833
+vikas aghadi,0.5
+santosh rahate,0.5
+individual independent councillor,0.5
+provision of disqualification act,0.0
+disqualification act,7.5
+corporations,1.2988235294117647
+jeevan chandrabhan idnani,1.0
+municipal corporation election,0.5
+reduction in representation,0.5
+behalf of the respondent nos,0.5
+careful perusal of concerned documents,0.5
+fraction number in the relative strength,0.5
+body,1.336775463480009
+strength of members,0.5
+find,1.8780637112459413
+city secretary of municipal corporation shri gajanan madhusudan pande,0.5
+shri harish alimchandani,1.0
+impossibility,0.9166666666666666
+group in the corporation,0.0
+representation-,0.0
+political parties,0.8432432432432432
+notice,2.3300025999395686
+word aghadi,1.0
+above term,0.9375
+component parties,0.5
+meaning of word  aghadi,0.0
+status,1.14824388424026
+ganesh,1.9230769230769231
+power,3.8165227690948367
+respective recognized party,0.0
+post-electoral aghadi,0.0
+v divisional commissioner,0.5
+incomprehensible act of the proposer,0.5
+kind of reliable documents,0.5
+figure,1.2881717501815544
+provisions of rule,0.7407407407407408
+consistent with the true meaning,0.5
+strength of the political parties,0.5
+contrast,0.5347903657448707
+total number of councillors,0.5
+relative strength of the respective recognized parties,0.5
+elected councillors,1.0
+respective recognized parties,0.5
+mnc,0.8515625
+evidence act,3.8666666666666667
+seats,4.349544072948328
+under section,5.374517374517374
+week from today,0.75
+conscious of the fact,0.5833333333333334
+communication,1.013409067330636
+bhawan,2.0
+members-,0.0
+provision of indian evidence act,0.0
+second proviso to sub-section,0.0
+members of such aghadi,0.5
+result of the election,4.0
+position,1.549133168619177
+aaghadi,3.5
+provisions of maharashtra local authority membership disqualification act,1.0
+name of shri sanjay babulal badone,1.0
+one,4.845669314438648
+writ petition in the high court,0.9166666666666666
+position that law,0.5
+writ petition,6.24223602484472
+petition,5.3436539306104525
+category,1.9351744779266717
+ratanlalji,1.5
+second proviso,2.5
+formation of post - electoral aghadis,0.0
+registration of an aghadi,1.0
+construction,2.2504918032786887
+panchayat samiti party,0.5
+pant,0.9369488536155202
+absolute in above terms,0.6666666666666666
+councillor,4.0
+nominate member,0.5
+paragraph,1.2930197483150305
+register book,1.0
+individuals,0.7198633479746219
+xerox copy,0.5
+aghadi as post - poll alliance,0.0
+sudhar,6.0
+affidavit of shri sanjay babulal badone,1.0
+combination of a group,0.5
+combinations,0.23749999999999996
+front,0.8400299386969539
+madan,3.9047619047619047
+commissioner,2.271608643457383
+purport of the parent enactment,0.5
+clause,3.526455026455027
+signatures of witnesses,0.6666666666666666
+documents,1.142515923566879
+chandrabhan,1.0
+janata,1.5
+dtd,0.561023622047244
+harish,0.40211640211640215
+independent candidates,0.5333333333333333
+others,0.9074667328904616
+application for registration,3.0
+reply,1.0337305560040906
+councillors in accordance,0.5
+respondent nos,2.5185185185185186
+nikhil,1.0
+present appellants,1.1
+receipt,1.5471923536439667
+xerox,0.30624999999999997
+candidate for election,1.75
+alimchandani,2.5
+various possible combination,0.5
+relevant extract,0.8571428571428571
+round,1.6469623212681128
+greater significance,0.75
+applicant adv,0.0
+affidavits of sanjay babulal badone,0.5
+affidavit after receipt,0.5
+pas,2.68416862749163
+detailed procedure,0.5333333333333333
+bodulal,1.5
+casual vacancies,0.5
+notary shri rr,0.5
+legislature,2.818553268765133
+such whether the petition,0.5
+with the true meaning,0.6666666666666666
+more seat,0.30000000000000004
+decide,1.6018650602802482
+authority,2.4352627108360636
+standing,1.224042586942808
+corporation act in this meeting,0.5
+commissioner of a revenue division,0.5
+provision of rule,0.5
+manuscmanusc,7.940520446096654
+later expression,0.5
+babulal,6.0
+provisions,3.8929824561403508
+municipal corporation elections as independent candidates,0.5
+municipal corporation in february,0.5
+substance,0.8230581678857541
+alongwith original documents,0.5
+proportional representation,0.7619047619047619
+formation of an aghadi,1.5
+argument,0.9504580388560493
+affidavits,1.954022988505747
+corporation,3.6427750743444176
+corporation shri gajanan madhusudan pande,0.5
+decision of the corporation,0.6666666666666666
+corporation elections,0.5
+second proviso of sub-section,0.0
+shri harish alimchandani to the divisional commissioner,0.5
+conclusion,1.3883437407077015
+fact of the case,0.0
+act unless the context,0.5
+weeks,0.8109161793372318
+limited purpose,0.9047619047619048
+political party,2.24
+disqualification rule,3.5
+akola in prescribed form,1.0
+which group,0.2222222222222222
+post-electoral aghadis,0.0
+registered parties,4.5
+general body meeting for this limited purpose,0.5
+signature of witnesses,0.0
+mahaaghadi,3.0
+provision of the disqualification act,0.0
+paper,1.8076689487632511
+bye-laws,0.0
+strength,1.1679328901551123
+register,1.2311946902654867
+prescribed form,2.375
+samiti,2.6666666666666665
+second proviso to sub - section,0.0
+commissioner under rule,0.5
+party leader,1.6363636363636362
+possible combination of councillors,0.0
+component,0.6292906178489701
+hand,2.0299623418254717
+possible combination,0.30000000000000004
+prafulla,0.8333333333333334
+shri sanjay babulal badone,5.0
+sau,1.2736891744525332
+shri rr,0.5
+proposals,1.8872549019607843
+such non-inclusion,0.0
+congress,0.7151067323481116
+proportionate representation,0.5
+appellant,14.387096774193548
+week,0.8253498691546249
+concerned documents,0.5
+more registered parties,0.5
+pande,0.7500420521446594
+legal consequence,0.75
+proportionate reduction in representation,0.5
+ad hoc committee,0.5
+harish alimchandani,1.0
+aghadi in the eyes,0.5
+bhartiya rashtriya congress in registration book,0.5
+high court,7.7477477477477485
+-akola municipal corporation,0.0
+annexure r-,0.0
+representation in the standing committee,1.0
+aghadi,27.5
+appointment of councillors,0.5
+present respondent,1.0
+list of councillors,1.0
+elected member,1.6
+ratanlalji alimchandani,1.5
+representation,1.2338308457711442
+controversy,0.8593204191806921
+serious infirmity,0.75
+behalf of mayor,0.5
+manu,7.078142071124147
+general,1.7536558414534391
+record that a complaint,0.5
+infirmity,1.3095238095238095
+petitioner therefore,0.8
+language,0.8555828468744352
+authority membership disqualification act,1.5
+group of persons,1.75
+municipal corporations act,2.5
+divisional commissioner,14.0
+purport,1.3465627214741318
+various possible combinations of councillors,0.5
+register of information,1.0
+such variation of the relative strength,0.0
+notice in the case,0.5
+prafulla c pant,0.8
+present application,1.0
+election results,1.5
+true meaning,0.5603448275862069
+casual vacancy,0.5
+registered aghadi,1.0
+respondent no,5.395833333333333
+stamp vendor on the stamp papers,0.5
+discussion,0.7445831166579996
+order of divisional commissioner,0.5
+combination of political parties,0.5
+independent councillors,1.0
+categories,0.8800000000000001
+registration of akola vikas mahaaghadi,1.0
+proportionate reduction,0.5
+nomination,4.422077922077922
+that respect,0.5333333333333333
+kind,0.9236881920088026
+councillors on the committee,0.5
+elected councillor,1.0
+petitioners,3.536507936507937
+situation,1.1254754682459434
+decide on the validity,0.5
+observations,0.7454584147497534
+attention,0.8724846605528799
+book,0.7435955668604651
+senior counsel,2.2857142857142856
+sanjay,0.7908496732026145
+herein under the provisions,0.5
+aalsi plot,0.5
+purpose of the present case,0.5
+ground that names,0.5
+aalsi,0.5
+persons,2.5993381990166555
+which vanguardfront,0.5
+vikas mahaaghadi,3.0

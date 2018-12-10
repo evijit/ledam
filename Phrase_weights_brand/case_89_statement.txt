@@ -1,0 +1,502 @@
+gazetted,2.3333333333333335
+government,3.5583785424010483
+extendable on year,0.5
+constitution of india,3.0095238095238095
+read with section,2.3513513513513513
+publication,1.3442779291553135
+action on the part,0.6862745098039216
+court s order,0.0
+reasons,1.3749054007567938
+terms,2.390350840909655
+sir,1.1712841173013164
+cadre posts,2.6666666666666665
+- with clear stipulation,0.0
+principal,1.3412499999999998
+court,12.24425115501509
+appointment in view,0.6666666666666666
+employment,1.5239770785161355
+medical examination of the appellants,0.5
+person,4.291511329454258
+above post on regular basis,0.0
+above posts on regular basis,0.5
+electricity board,2.2285714285714286
+part,5.294464509893076
+subject-,0.0
+initial appointment,3.5
+arrear of pay,0.0
+examination of the appellants,0.5
+rival contention,1.1111111111111112
+deen,1.1270491803278688
+regular basi,0.9
+number,1.4802651440973922
+district,1.5506763074237984
+decision,2.9514937765898557
+electricity board recruitment,0.5
+recommended candidate,0.6666666666666666
+board meeting,0.6666666666666666
+factual matrix,1.173913043478261
+aforesaid,2.592896174863388
+new regulation,0.3636363636363636
+of the regular pay,1.5
+commission s website,0.0
+qualified person with qualification,0.0
+test,2.5329834591340266
+accounts officer class - i,0.0
+appeal,3.4125488033856883
+application to the post,0.0
+determination,1.5980374665477253
+read,2.2147281730888695
+appellants with consequential benefits,0.5
+regular assistant account officers class i,0.5
+that the term of conditions,0.0
+above posts,0.5
+month,1.3454861111111112
+year,2.8349484769759212
+triplicate,0.5
+stage,1.1298537871524448
+later stage,0.7083333333333334
+qualified persons,1.0
+judgment,3.288216560509554
+factual matrix of the case,0.5
+himachal,2.5833333333333335
+time to time,1.0211267605633803
+himachal pradesh public service commission,1.5
+subject,2.4420366233344897
+respondents  state authority,0.0
+aforesaid requisition,1.0
+order,5.472481489660944
+ex-servicemen gen-,0.0
+act,12.870263922028107
+copy of the r,0.5454545454545454
+different categories,0.7800000000000001
+recommended candidates,0.6666666666666666
+secretary hp,0.0
+clas,2.1196191893660425
+appointment,3.1380281690140843
+rule of reservation,1.0
+medical,1.633306645316253
+regular pay scale,0.6666666666666666
+upadhyaya hospital,0.5
+the hp,1.5813953488372094
+candidates,3.508445945945946
+copy,0.8620926631522174
+shimla in cwp,0.5
+on commission s website,0.0
+post of assistant accounts officer,4.0
+pres,3.886376551409615
+candidate to the posts,0.0
+year basis,0.75
+assistant account officers class i,0.5
+section,9.287987283173626
+grade,2.004840489566613
+meeting,1.5978547625659538
+regularization of service,1.0
+appointment from the date,0.5
+condition,2.259476395625584
+prescribing,0.6304347826086957
+finance etc,0.6666666666666666
+special circumstance for reasons,0.0
+such further extension,0.5
+recruitment of assistant accounts officers,1.0
+circumstance,1.429931390219372
+officers,2.442124212421242
+regulation,4.3783195107648485
+difficulty,0.656910569105691
+promotion,2.946428571428571
+class,2.1508512849922936
+direction,1.8495050210098996
+increment,1.4721485411140585
+regular basis,0.9
+wwwhimachalnicinhppsc,0.5
+facts,1.4696673624372698
+candidate for appointment,0.0
+relevant portion,0.6486486486486488
+july,0.9742727723122656
+of article,2.1149999999999998
+recommendation by the public service commission,0.5
+basi,2.0752712086391383
+form,2.4865961263718424
+seniority etc,0.5
+benefits,2.0896027049873203
+stipulation,1.6507936507936507
+writing,1.1746753246753248
+person with qualification,0.0
+method,0.9027027027027026
+post of assistant accounts officers,0.5
+year basi,0.75
+contract,6.227349970404598
+candidate,6.356675392670156
+units,5.004460400348129
+benefit,2.604810195438474
+requisition to the public service commission,0.5
+cost,1.2954397451466992
+clear that the terms of conditions,0.5
+p regulation of assistant accounts officers,0.0
+orders,1.4936359300077826
+basis,1.953226441078104
+vision-,0.0
+work in various units,0.5
+percentage,0.8769344141488578
+accounts officer,6.666666666666667
+directions,1.5134125183504605
+number of posts,1.2000000000000002
+advertisement,1.5480769230769234
+qualification etc,0.5
+candidates for appointment,1.25
+pradesh state electricity board,1.0
+new regulations,0.30000000000000004
+shimla,2.6666666666666665
+pradesh,4.365853658536586
+officer,3.1197242647058823
+ground,1.4186722903211633
+disabled person,0.875
+impugned judgment,2.0927152317880795
+regularization,4.0
+further direction,1.2380952380952381
+matter,2.8088923076923082
+direct recruitmentcontractby promotion,0.5
+hospital,1.3942768854411434
+post on regular basis,0.0
+article,4.378806157159795
+feeder grade,0.5
+department of mpp,1.0
+gen-,0.0
+p regulations,1.0
+term,3.6255105640901575
+regular posts,0.6666666666666666
+applications,1.0021816198527407
+appellants,7.701086956521739
+name of appellants,0.0
+view,2.441100058469462
+post,2.344803646492219
+total- post,0.0
+vide,4.454025282767798
+shimla-,0.0
+regular appointment,2.8
+case for recruitment,0.5
+regularisation,6.857142857142857
+class i,1.9999999999999996
+unit,2.176678509944691
+court of hp,0.5
+assistant,1.6732837055417698
+result,1.3356630184144715
+persons with qualification,0.5
+pay,3.828326695859537
+need of regular assistant account officers class i,0.5
+record,2.5393414390845273
+procedure,2.552771605064117
+medical board,1.75
+unfair employment practice,0.5
+november,0.7203359669727383
+state authorities,1.5714285714285714
+names of appellants,0.5
+secretary,0.9217877094972067
+provision,5.439002243350069
+subject to such further extension for a period,0.5
+government of himachal pradesh,0.5
+regular posts of assistant accounts officers,0.5
+recruitment,5.333333333333333
+pradesh public service commission press note,0.0
+fact,3.6284951019474962
+state electricity board,2.125
+learned counsel,3.703333333333333
+dp on contract basis,0.5
+candidates to the posts,0.5
+bhavan,0.8333333333333334
+department,1.9858367499068206
+accounts,2.7564363143631434
+chief,1.9429638234317954
+cadre posts of assistant accounts officers,0.5
+advertisement for the post,0.5
+violative,2.2972972972972974
+consensus,0.8020833333333334
+--- to the pr,0.0
+total number,0.8813725490196079
+years as probation,0.5
+exercise of power,0.7513227513227514
+district hospital,2.0
+special circumstances for reasons,0.5
+work,2.8478559811646353
+various units,0.30000000000000004
+p regulation,1.0
+of regular pay,0.5
+order in compliance,0.0
+sas part - ii examination,0.0
+aforesaid observation,1.0555555555555556
+public service commission,3.7857142857142856
+years,2.5395804110508022
+occasion for the respondents,0.5
+exercise,1.9400726466785694
+arrears of pay,4.0
+post of assistant accounts officer class - i,0.0
+form-,0.0
+contract basi,3.3333333333333335
+regular appointment from the date,0.5
+accounts officers,4.5
+recruitment  contract  by promotion,0.0
+different category,1.0
+recommendation of the public service commission,0.5
+posts,2.6556317082632876
+request,1.1474439594584596
+service commission,5.142857142857143
+term of conditions,0.0
+nature of appointment,1.5
+seniority,7.989473684210527
+date,6.195616975795285
+obc-,0.0
+pradesh electricity board,0.8
+respondent,4.757894736842104
+recruitment to the post,1.3333333333333333
+requisition,1.7368421052631582
+govt,0.7017766497461929
+divisional,1.6233766233766234
+initial period,0.6666666666666666
+other consequential benefits,0.75
+cadre,2.7892948173322005
+servicemen,1.1874999999999998
+hpseb,0.5
+question,2.980312372067635
+extension,0.7526908023483366
+year of service,1.4
+formal order in compliance,0.0
+step,0.8867024753460084
+need,1.1097650269586634
+above post,0.26666666666666666
+months,1.1938163721148947
+february,0.8575630252100839
+practice,1.7660110149488593
+such action on the part,0.5
+regular pay,2.0
+further extension for a period,0.5
+appointment-,0.0
+total-,0.0
+requisition for the recruitment,1.0
+promotion regulations for the post,1.0
+that the terms of conditions,0.6666666666666666
+low,3.2873832565701946
+other consequential benefit,0.75
+name,1.8996570753072433
+medical examination,5.333333333333333
+press,2.0449126984126984
+---,0.0
+prescribed form- ie,0.0
+high,5.367119186841496
+payment,2.059553716565686
+press note,2.6666666666666665
+account,2.5754891049671977
+employment practice,0.5
+officers in feeder grade,0.5
+vidyut,0.5
+provision for regularization,0.5
+regular scale,0.6666666666666666
+such further extension for a period,0.5
+notification,3.0112746633260263
+state electricity board vidyut bhavan,0.5
+orders in compliance,0.5
+sent herewith in triplicate,0.5
+posts by method,0.5
+learned,3.406323898681099
+public service,1.9112903225806455
+prayer,0.6969296987087519
+deen dayal,0.5
+law,3.538923411654744
+hppsc,1.0
+herewith,0.6627497062279671
+sas,1.3924742710120068
+observation,0.7625074854374218
+time,2.4764180952862667
+mpp,0.4530956848030019
+present,1.9747480780089475
+term of regulation,0.0
+allegation,1.834319526627219
+learned counsel for the respondent,1.507936507936508
+matrix,0.46733812949640285
+wherein direction,0.5
+board,2.401414435268602
+same top hp,0.5
+secretary of the himachal,0.5
+clear that the term of conditions,0.0
+aforesaid requisition for recruitment,0.5
+absence of any allegation,0.8333333333333334
+entire cadre post,0.5
+right,3.07483248288682
+hereinafter,0.7670609645131939
+posts of assistant accounts officers,2.5
+entire cadre posts,0.5
+march,1.0644238856181665
+pradesh public service commission,1.6666666666666667
+government for appointment,1.5
+himachal pradesh,2.5
+special circumstances,0.8666666666666667
+counsel,2.2246780703440323
+consequential benefits,1.5
+application,2.3322596088086445
+absence,1.092363454568179
+entire cadre posts of assistant accounts officers,0.5
+reads,0.8722657304887929
+india,2.7684068260703585
+extendable,0.2608695652173913
+authorities,1.266131845134287
+formal orders,0.5
+commission,4.703619179345321
+top,1.051543552640638
+promotion regulation,1.0
+service of the appellants,0.75
+names,1.766440410418311
+court of himachal pradesh,0.75
+formal order,0.8
+service commission at later stage,0.5
+officer in feeder grade,0.0
+regular scale of pay,0.6666666666666666
+letter of regular appointment,0.5
+respondents  state authorities,0.0
+vision,6.1797909407665506
+other recommended candidate,0.5
+divisional accounts,0.5
+low vision,0.5
+conditions,1.9988092071092867
+scale of pay,3.2
+divisional account,0.5
+years of service,2.8000000000000003
+sd-,0.0
+probation for a period,0.6666666666666666
+compliance,1.0029799914857385
+himachal pradesh public service commission press note,0.0
+case,7.332269420884958
+period,1.9480170842427122
+supply,2.0557395143487858
+post by direct recruitment,0.0
+percentage of posts,0.75
+cwp,0.875
+appellant with orders,0.0
+state authority,1.0
+interviews,0.3765432098765432
+constitution,3.204842342342342
+letter,2.707240080105903
+total number of posts,0.6666666666666666
+arrear,1.4666666666666666
+service,4.257395095954566
+portion,1.0756311179804223
+formal orders in compliance,0.5
+contention,1.666391070690368
+rule,5.04
+part-ii examination,0.0
+recommendation,2.6589497459062676
+medical officer,1.090909090909091
+procedure for regular appointment,0.5
+procedure of selection,0.6666666666666666
+interview,1.56113727542299
+violative of article,2.1379310344827585
+available on commission s website,0.0
+respondents,2.6341263330598856
+leave,1.0147842365477848
+matrix of the case,0.5
+superintendent,1.2698412698412698
+costs,0.8167395522604189
+principal secretary,1.0
+dayal,0.9047619047619048
+public service commission at later stage,0.5
+terms of regulation,1.0
+assistant accounts officer,9.5
+aforesaid fact,0.9230769230769231
+power,3.8165227690948367
+sd- secretary hp,0.0
+upadhyaya,0.75
+steps,1.169318181818182
+serviceman,1.5555555555555556
+examination,2.4920345926263088
+circumstance for reasons,0.0
+reservation,2.6876587100050786
+reason,2.6381270903010035
+prayer on the ground,0.5
+high court of himachal pradesh,0.75
+category,1.9351744779266717
+assistant accounts officer on regular basis,1.0
+apparent,0.7326514555468135
+cadre post of assistant accounts officers,0.0
+post by method,0.5
+qualified persons with qualification,0.5
+total- posts,0.0
+such action,0.5664488017429193
+clause,3.526455026455027
+full board meeting,0.5
+regular appointment in view,0.5
+advertisement by the state authorities,0.5
+special circumstance,0.8666666666666667
+assistant accounts officers,4.5
+regular post of assistant accounts officers,0.0
+sd- under secretary hp,0.0
+posts by direct recruitment,0.5
+accounts officer on regular basis,1.0
+p regulations of assistant accounts officers,0.5
+regular post,0.2962962962962963
+qualified person,0.6666666666666666
+payment at the rate,1.0
+authority,2.4352627108360636
+on year,0.6777408637873754
+clear stipulation,0.6666666666666666
+applications to the post,0.5
+selection,2.2651528696585017
+consequential benefit,1.5
+other recommended candidates,0.5
+terms of conditions,0.75
+pradesh electricity board by letter,0.5
+promotion regulation for the post,0.0
+probation,2.8636363636363633
+pursuant,0.7227692307692308
+further extension,0.5
+feeder,1.3481481481481483
+high court of hp,0.5
+probation with further direction,0.5
+period of contract,1.0
+arrears,2.3209876543209877
+cadre post,2.25
+occasion,0.7946745562130177
+appellant against the order,0.6666666666666666
+qualification,2.1521739130434785
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+only question,0.5172413793103449
+sent herewith,0.5
+electricity board by letter,0.5
+assistant accounts officer class-i,0.0
+case of regularisation,0.5
+various unit,0.30000000000000004
+high court,7.7477477477477485
+consensu,0.7453271028037382
+public,2.923239095873367
+state,6.817996007300392
+result of the interviews,0.5
+regulations,3.7157723577235777
+aforesaid observations,1.0833333333333333
+chief medical officer,0.3333333333333333
+note,1.3654108484234107
+pay scale,3.875
+appointment to the post,2.0
+appellant with consequential benefits,0.0
+rate,3.088725136774248
+circumstances for reasons,0.5
+appellants with orders,0.5
+promotion regulations,1.0
+vacant,1.8672727272727272
+june,0.9339080459770116
+posts on regular basis,1.0
+entire cadre post of assistant accounts officers,0.0
+scale,2.0845464725643894
+posts of assistant accounts officer,4.0
+contract basis,3.3333333333333335
+nature,1.4149926876444778
+accountant,1.8627450980392157
+categories,0.8800000000000001
+direct recruitment,4.0
+finance,1.9582470669427192
+board vide,0.4
+publication of regulation,0.5
+observations,0.7454584147497534
+electricity,4.4831223628691985
+action,3.127292663476874
+fit,2.7848485899724365
+top hp,0.5
+persons,2.5993381990166555
+contract basis as apparent,0.5
+website,1.8571428571428572

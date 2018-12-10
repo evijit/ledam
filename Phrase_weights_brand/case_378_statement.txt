@@ -1,0 +1,418 @@
+in the absence,0.8988764044943819
+government,3.5583785424010483
+insofar,0.9295774647887324
+prayers for ante - dating,0.0
+inspection of the availability,0.5
+admission beyond such dates,0.0
+batch,1.2940630797773658
+basis for the petitioners,0.5
+reasons,1.3749054007567938
+terms,2.390350840909655
+behalf of the state,1.5263157894736843
+teacher,3.0760180995475115
+following direction,1.0
+earliest conclusion,0.5
+petitioners college,0.5
+education,2.1892608326253185
+date for grant,0.5
+ground that the academic session,0.5
+relevant academic year,0.5
+interest,2.74353772015385
+batches  groups,0.0
+court,12.24425115501509
+grant of recognition,4.333333333333333
+mahavidyalaya,1.5
+such dates,0.8
+third batch of seatsstudents,0.5
+least from the academic year,0.5
+training,2.5456213222568365
+ors,2.8612718198296623
+impending session,0.5
+behalf,1.9888053603529987
+mandatory number,0.5
+last date for recognition,0.5
+state body ie,0.5
+infrastructure,1.1264822134387351
+affiliationsadmissions,0.5
+number,1.4802651440973922
+certain that the academic session,0.5
+sessions,1.3405714285714285
+examinations,1.173913043478261
+applications for affiliation,0.5
+admissions beyond such dates,0.5
+more than the seats,0.5
+batch with each batch,0.0
+second semester examination,0.5
+claim,2.817264601856604
+seat,2.8245469748060423
+totality,0.6293706293706293
+chart,1.0666850372003307
+such course,0.6666666666666666
+counter affidavit that the last date,0.5
+academic sessions,1.0
+detail of the btc,0.0
+final date for grant,0.5
+national council,1.5
+state council for educational research,0.5
+state of uttar pradesh,1.6470588235294117
+month,1.3454861111111112
+year,2.8349484769759212
+year ie,1.0
+stage,1.1298537871524448
+different batchesgroup,0.5
+short  in the present cases,0.0
+academic calendar of the state,0.5
+batches,2.444444444444444
+court in maa vaishno devi mahila mahavidyalaya,1.0
+may,3.683418028199994
+btc course,2.5
+different batchesgroups,0.5
+recognition by the national council,0.5
+that the academic session,2.5
+different dates for different batchesgroups,0.5
+process of affiliation,1.0
+above terms,0.9375
+counter affidavit,1.96
+court in maa vaishno devi mahila mahavidyalaya v state,0.5
+effect,2.184583388478191
+a close on completion,0.5
+candidates,3.508445945945946
+minimum,1.388221153846154
+completion,1.1868131868131868
+counsel for the parties,1.263157894736842
+courses,1.0904013961605583
+manner,1.4494591333432125
+option,1.002339493011135
+thereby,0.8226831482645437
+parties,1.8210828547990157
+stages of completion,0.5
+options,0.4805219364599092
+uniformity,0.5454545454545454
+counsels,1.2333333333333334
+college,2.1498947162234954
+group of cases,1.0
+representative,1.0617102796119673
+present group,1.0
+dates,2.6187832912811886
+in the present cases,0.8333333333333334
+basi for the petitioners,0.0
+present case,1.5611814345991561
+short,1.1554118773946358
+examination for each batch,0.5
+peril,0.5499181669394435
+regard,2.723310344827586
+maa vaishno devi mahila mahavidyalaya,1.5
+different date for different batchesgroups,0.0
+ante,1.545898893082828
+government college,1.0
+proces,1.627944583238701
+direction,1.8495050210098996
+proper in the absence,0.5
+different date of holding,0.0
+date of holding,0.5
+seatsstudents,0.5
+different date,1.3
+facts,1.4696673624372698
+inputs,1.796036333608588
+issue,2.766776251628934
+date for different batches  groups,0.0
+consistency,0.7974537037037037
+july,0.9742727723122656
+basi,2.0752712086391383
+affiliation,1.517948717948718
+exercise for admissions,0.5
+days,1.6721350893491447
+candidate,6.356675392670156
+petitioner,4.524972253052164
+session,2.2400874351067563
+prayers,0.6104336043360433
+basis,1.953226441078104
+different batch,1.0
+wastage of available seats,0.5
+affiliations,0.2647058823529412
+holding,1.2555282555282552
+from the academic year,0.5
+previous year ie,0.5
+directions,1.5134125183504605
+course,1.6545957498716626
+dates for different batches  groups,0.0
+groups,0.9065945998117897
+clear that the academic session,0.5
+students in each semester,0.5
+pradesh,4.365853658536586
+above claim,0.38095238095238093
+maa,0.4179728317659352
+state council,2.8
+representative of the students,0.0
+ground,1.4186722903211633
+del,2.939294714549935
+available option,0.5
+ncte to the petitioner colleges,0.5
+input,1.4506694855532065
+year course,0.5
+matter,2.8088923076923082
+necessary exercise,0.8333333333333334
+which number,0.2857142857142857
+large number of private colleges,0.5
+term,3.6255105640901575
+separate dates of commencement,0.5
+applications,1.0021816198527407
+date for recognition,0.5
+handful of government colleges,0.5
+view,2.441100058469462
+batch of students,0.5
+- as a zero  year,0.0
+aforesaid time schedule,0.5
+academic calendar ie,0.5
+affiliation beyond the dates,0.5
+vaishno,1.5
+consequential affiliation of the petitioners colleges,0.5
+such date,1.1818181818181819
+recognition,1.4333333333333333
+academic session for the year,0.5
+final stages of completion,0.5
+such affiliation,0.6666666666666666
+features in the conduct,0.5
+btc,0.7391304347826086
+delay,1.9544910179640715
+educational,1.1138712241653417
+availability,0.6313043478260868
+procedure,2.552771605064117
+academic year,2.555555555555556
+petitions,1.3930830039525692
+separate dates,0.6666666666666666
+petitioners colleges,0.5
+private colleges,0.6666666666666666
+different batches,1.0
+time schedule,1.1428571428571428
+respect,2.6704963235294117
+maximum,0.8925619834710745
+heard,0.782882203033377
+large number,1.0979284369114877
+fact,3.6284951019474962
+delayed commencement of the academic sessions,0.5
+learned counsel,3.703333333333333
+than the seats,0.5
+available options,0.5
+session for the year,0.5
+interests,1.0562317935913441
+december,0.9629002463054187
+norms,1.1693121693121695
+months if the prayers,0.5
+subsequent academic sessions,0.5
+features,0.6184582743988685
+representatives,0.8874021711688966
+different dates,1.2222222222222223
+such commencement,0.875
+proces of admission,0.0
+above directions,0.9
+necessary exercise for admissions,0.5
+bar,1.4720990391722097
+affidavit,2.2996987951807224
+years,2.5395804110508022
+exercise,1.9400726466785694
+ncte norms,0.5
+party,2.2250894654439723
+commencement of the academic session,1.0
+details,0.9406426856198188
+available seats,1.6666666666666667
+commencement,1.2037037037037035
+details of the btc,0.5
+march of each calendar year,0.5
+petitioner colleges,1.0
+number of candidates,1.75
+process of admission,1.0
+academic,1.5996047430830038
+inspection,0.8496732026143791
+government colleges,1.0
+interests of the institutions,1.0
+date,6.195616975795285
+end of december,1.0
+third batch,1.0
+september,0.8548484848484849
+batch of seats  students,0.0
+uttar pradesh that the academic session,0.5
+uttar pradesh,2.8
+stages,0.7858851674641147
+colleges,1.9166666666666667
+respondent,4.757894736842104
+institution,2.7327010745685443
+conclusion of the course,0.5
+schedule,2.9453067257945307
+present group of petitioners,0.5
+second semester examinations,0.5
+completion of the course,0.5
+day,1.550999710228919
+question,2.980312372067635
+group of petitioners,0.5
+months if the prayer,0.5
+feature,0.6446262956901254
+council,1.464939453675021
+proces of affiliation,0.0
+scmanu,7.940520446096654
+writ,2.8882378560889794
+need,1.1097650269586634
+months,1.1938163721148947
+subsequent academic session,0.5
+next academic session,0.6666666666666666
+semesters,1.0
+calendar of the state,0.5
+picture with regard,0.5
+separate date,0.6666666666666666
+account,2.5754891049671977
+session of the previous year ie,0.5
+maa vaishno devi mahila mahavidyalaya v state,0.5
+separate date of commencement,0.0
+delayed commencement,0.5
+zero,0.37681159420289856
+prayer,0.6969296987087519
+commence,1.2515644555694618
+purpose,2.519170317925504
+learned counsels,1.3846153846153846
+final stage of completion,0.0
+fifth batch,1.0
+nos,1.2635492554198444
+more than the seat,0.5
+time,2.4764180952862667
+cases,1.9728229418951067
+batches with each batch,0.5
+group,1.691932599016908
+totality of facts,0.5
+final stage,0.2619047619047619
+than the seat,0.5
+affiliation by the state body ie,0.5
+original academic calendar ie,0.5
+btc course in the state,0.5
+close,1.2054851361898455
+different dates of holding,0.5
+above direction,1.0
+zero  year,0.0
+discipline,0.5608974358974359
+grant,1.7314487632508835
+admissions,0.8529980657640233
+hereinafter,0.7670609645131939
+petitioner - college,0.0
+present group of cases,0.5
+march,1.0644238856181665
+prayer for ante - dating,0.0
+scert,0.7985759277009448
+absence,1.092363454568179
+counsel,2.2246780703440323
+application,2.3322596088086445
+wastage,0.75
+batches  group,0.0
+authorities,1.266131845134287
+mahila,4.5
+suggestion of the learned counsels,0.5
+consequential affiliation,0.5
+fifth batches,0.5
+application for recognition,3.3333333333333335
+interest of the institutions,0.0
+submission,1.0913871684001404
+days for each year,0.5
+consistency in the academic calendar,0.5
+above position,1.0
+final stages,0.2777777777777778
+additional input,0.5
+students,1.1355891528677706
+detail,0.9737454684220567
+case,7.332269420884958
+scc,1.941872465904902
+institutions,2.2839413875598087
+semester,1.0
+writ petitions,2.984848484848485
+date of commencement,1.3
+end,6.1484001628618765
+commencement of the session,0.5
+uttar pradesh ie,0.5
+academic session of the previous year ie,0.5
+supra,2.246342614440774
+ncte,1.25
+additional inputs,0.5
+teacher education coursedeled,0.5
+calendar,0.8620689655172413
+different batch with each batch,0.0
+student in each semester,0.0
+affiliationsadmission,0.5
+bed,1.4983050847457626
+ncte norm,0.5
+body,1.336775463480009
+process,1.6274942048088725
+affiliation of the petitioners colleges,0.5
+admission,1.5389848246991107
+notice,2.3300025999395686
+above term,0.9375
+calendar year,1.3333333333333333
+pradesh that the academic session,0.5
+examination,2.4920345926263088
+handful,0.3333333333333333
+seats,4.349544072948328
+such examination,0.75
+reason,2.6381270903010035
+different batches with each batch,0.5
+course commence,0.5
+position,1.549133168619177
+writ petition,6.24223602484472
+petition,5.3436539306104525
+pradesh ie,0.5
+petitioner college,1.0
+indicate,1.1663542642924085
+semester examinations,0.5
+application for affiliation,0.0
+academic calendar,2.0
+number of private colleges,0.5
+course commences,0.5
+devi,1.2339221178171305
+stage of completion,0.0
+ante-dating,0.0
+respondent nos,2.5185185185185186
+petitioner - colleges,0.0
+seatsstudent,0.5
+recognition of the petitioner - colleges,0.0
+student,1.2777711454664835
+authority,2.4352627108360636
+manuscmanusc,7.940520446096654
+semester examination,0.5
+conduct,1.5998023165163158
+affiliation to the colleges,0.5
+last date,1.9285714285714286
+insofar as the academic session,0.5
+conclusion,1.3883437407077015
+final date,0.5
+research,1.351044147915173
+student for the government colleges,0.0
+following directions,1.0
+national,1.5126860273884035
+teacher education,11.0
+iii,1.5614499719992534
+norm,1.1955826794536473
+regard to the aforesaid time schedule,0.5
+feature in the conduct,0.0
+uttar,2.188679245283019
+present cases,0.8571428571428571
+representatives of the students,0.5
+picture,0.6116621983914209
+suggestion,1.2425592585991803
+third batch of students,0.5
+learned counsel for the state,1.1428571428571428
+view that such course,0.5
+educational research,0.8333333333333334
+state,6.817996007300392
+day for each year,0.0
+counseling,0.21875
+manu,7.078142071124147
+academic session,8.666666666666666
+counter,1.0576470084371923
+private college,1.5
+concerned academic session,0.5
+affiliation for the relevant academic year,0.5
+students for the government colleges,0.5
+respondent no,5.395833333333333
+time schedule for submission,0.5
+petitioners,3.536507936507937
+situation,1.1254754682459434
+dates of commencement,0.5
+action,3.127292663476874
+available seat,1.6666666666666667
+affiliation etc,0.5
+dates of holding,0.5

@@ -1,0 +1,2997 @@
+regard cases,0.5
+government,3.5583785424010483
+petitioner in a matrimonial petition,0.5
+change in practice,0.5
+lives,0.6840821832520494
+cerebral palsy,0.5
+hesitations,0.2777777777777778
+interest of the child,2.3333333333333335
+english court,6.75
+suffers,0.6412121212121213
+conflict between fundamental rights,0.5
+signature,1.1400966183574879
+fitness of the parents,0.5
+assessment of the amendment,0.5
+gautam kundu,1.0
+terms of section,1.98
+kamanu,1.1428571428571428
+qualified expert,0.5
+v shaik mohammad marakavar,0.5
+key to a happy married life,0.5
+prayer in order,0.0
+court expert,0.5
+v state of california,0.5
+hanumangarh,0.5
+respect of attendance,0.5
+union,2.0981927710843373
+rise,1.6238941915958565
+assurances from the patient,0.5
+database,0.5977859778597786
+violative of right to personal liberty,0.5
+matrimonial petition,0.5
+requisite directions,0.5
+facilities,0.9130594727161252
+exemptions,0.5625
+respondent avoid,0.5
+basic right,0.75
+cause,1.8431210321626654
+way,1.7812722068664852
+halsbury,1.5294117647058822
+justifying conditions,0.5
+penumbral right of article,0.0
+notable example of the vital necessity,0.0
+gulzarilal tandon manuscmanusc,0.5
+- testimonial evidence,0.0
+errors,0.6042698360294927
+nonentity,0.3333333333333333
+right of the individuals,0.0
+governmental agencies,0.5
+mental health records,1.0
+suffers from an illness,0.5
+facility,1.2989690721649485
+discoverable for therapeutic planning,0.5
+district,1.5506763074237984
+sessions,1.3405714285714285
+mental health treatment,0.5
+trust,1.8699167074963252
+unnecessary privacy intrusion,0.5
+fifth amendment issue,0.5
+matrimonial litigation in a case,0.5
+sample,1.7733348061416105
+test,2.5329834591340266
+correctnes,0.8404159132007234
+few strong instance,0.5
+dna profiles,1.0
+v official solicitor,0.5
+future utility,1.0
+breach,1.3366228070175439
+forth in this convention,0.5
+terrors,0.26
+psychoanalyst,0.3333333333333333
+prison law,0.5
+marriage proceeding,1.5
+physical examination,0.2857142857142857
+imbalance,0.34871794871794876
+advice,0.7581699346405227
+expert,2.5786336542870245
+marital life,0.5
+stage,1.1298537871524448
+further understanding,0.5
+type of violence crimes,0.0
+terror,3.0695596271295407
+embarrassments,0.5
+proper medical examination,1.0
+alleged miscarriage of justice,0.0
+reference in this connection,1.2
+issue in the lis,0.5
+such ground,0.8333333333333334
+piece,0.8682170542635659
+duty of the state,1.0
+restriction on the basis,0.5
+latter effort,0.5
+matrimonial court,1.5
+state of bombay v kathi kalu,0.5
+wide discretion,0.8333333333333334
+subject,2.4420366233344897
+order,5.472481489660944
+potential hospital authority,0.0
+smt,0.7459757206267715
+constitutional protection under article,0.6666666666666666
+hiv test amounts,0.5
+zuniga,0.2
+direction in a civil litigation,0.5
+medical,1.633306645316253
+tantamounts,0.75
+question about the paternity,0.5
+tests,1.9146311374290645
+exhibition,0.3409090909090909
+other party,0.8608695652173913
+marriage proceedings,1.5
+brigg,0.1590909090909091
+appropriate scope of the privilege,0.5
+pendency,1.0084033613445378
+term of article,0.0
+interference by a public authority,1.0
+latent capacity for satisfaction,0.0
+rehabilitations,1.0
+object of the court,0.6666666666666666
+such enunciation,0.5
+disabled persons,0.8333333333333334
+mother,1.5057341472881893
+slander of chastity,0.5
+natural modesty,0.5
+parties,1.8210828547990157
+prognosi,0.2222222222222222
+private communications,0.2777777777777778
+civil procedure,5.448275862068965
+no right,0.6454703832752613
+subject - matter of the action,0.0
+mental health though medical record,0.5
+shantilal,2.6666666666666665
+of right of privacy,0.5
+criminal cases,0.9904761904761905
+version,1.0500313479623824
+madhya,2.9183673469387754
+fishing,0.390625
+condition,2.259476395625584
+privacy safeguard,0.5
+speech,1.9520676691729324
+litigant,1.2698412698412698
+america,0.9205946994182289
+sharma v satish chandra,0.5
+pathological tests,0.5
+a power,0.7680155210643015
+fresh mean,0.5
+present case,1.5611814345991561
+detention under the mental health act,0.5
+speaking for a division bench,0.6666666666666666
+impotency,1.0
+universal,0.6125487415809996
+finger,2.27670349907919
+context,0.9269383697813122
+reach,1.1893120621603193
+paul h breithaupt,0.5
+constitutional limitation,0.8333333333333334
+proces,1.627944583238701
+limitation,2.4984479402325457
+record of prisoner,0.5
+her spouse,2.2
+industrial injuries,0.5
+protection under article,0.8333333333333334
+persons for the purpose,0.5
+para,2.300239586747483
+parents,1.8852093189324288
+marakayar,0.5
+full investigation,0.4
+men,12.280652027254101
+powers,1.876345371920593
+to troubled parent,0.5
+present for the evidence,0.5
+b v b,1.0
+adequate protection,0.6666666666666666
+other pathological tests,0.5
+today,0.6330563683773655
+emanation,0.30000000000000004
+mental faculties,0.3333333333333333
+fiber of an individual,0.5
+kharak,1.0
+reality,0.6251091491219559
+faculties,0.5384615384615384
+various courts,0.8
+difference in treatment,0.5
+sex-crime,0.0
+relevance,0.6870535714285714
+order blood test,1.0
+territory of india,2.5
+grading,0.4806629834254143
+other psychiatrists,0.5
+amendment issue,0.5
+proportionality,1.0476190476190477
+charge,2.7679815308681284
+constitution makers,1.75
+high courts,2.676470588235294
+sensibility,0.5
+comparable situation,0.4
+persons of unsound mind,0.5
+expert investigation,0.5
+country,1.2903191103863751
+forced taking,0.5
+simple methods,0.5
+jurisdiction of the high court,1.2222222222222223
+blood,1.1739965841161402
+longer reach,0.5
+pradesh high court,2.409090909090909
+law commission,2.4166666666666665
+whole group,0.38095238095238093
+inherent powers,2.8
+child,3.0202810640613067
+external form,0.5
+matter to a finality,0.0
+actions,3.633288043478261
+whole groups,0.5
+juries,2.433675652545999
+strong instance,0.5
+opportunity,0.946186440677966
+impugned judgment,2.0927152317880795
+reason of the unsoundness,0.5
+propriety,0.5551020408163265
+scrutiny,0.912987012987013
+mental faculty,0.0
+provision of section,1.4827586206896552
+england by way,0.5
+federal state,0.2608695652173913
+applications,1.0021816198527407
+recession,0.2142857142857143
+available to troubled parents,0.5
+suffering from delusions,0.5
+record for evidential purposes,0.5
+indication of this refusal,0.5
+makers,0.8582995951417005
+muslim marriage act,0.5
+post,2.344803646492219
+appropriate order,1.565217391304348
+breithaupt,0.5
+rights law,0.2857142857142857
+party to the marriage,3.0
+blood test,2.0625
+supervisory jurisdiction,1.1428571428571428
+broadly-based testing,0.0
+conflict,1.314561353483509
+personal injury action,0.5
+legitimate need,0.25
+rival versions of the parties,0.5
+benefit in terms,2.0
+last analysis,0.5
+recognition,1.4333333333333333
+suspect s dna,0.0
+andhra,4.830188679245283
+criminal investigations,0.30000000000000004
+grand juries,0.5
+own interest,0.5238095238095238
+bengal,1.9299191374663072
+relationship,1.1804123711340206
+unsoundness of mind,4.0
+hollowness,0.5
+for the evidence,0.3333333333333333
+which dna testing,0.5
+evidence if the trial judge,0.5
+first question,0.5
+- psychotherapist relationship avoid,0.0
+to troubled parents,0.5
+second question,0.5355371900826446
+worker,1.9239190944516609
+patient - litigant,0.0
+liberties,0.4225352112676056
+miscarriage of justice,2.642857142857143
+consummation of marriage,0.5
+matrimonial proceedings,0.5
+case amount,0.5
+gravity,0.3746556473829201
+non-testimonial compulsion force,0.0
+inherent power,3.0
+dna samples,2.5
+stres,0.5060879263872107
+to a happy married life,0.5
+judges in mp,0.5
+ground on which divorce,0.0
+hiv positive cases,0.5
+removal,0.7204301075268817
+sound legal basis for retention,0.5
+behalf of the appellant herein,0.75
+vehicle,2.973111766564837
+other distinction,0.5
+state of mind,1.1111111111111112
+anr,1.1271033322299457
+indictable offences,0.5
+other disorder,0.5
+special,1.7363344051446945
+andor article,0.6666666666666666
+birendra kumar biswas,1.0
+fingerprint,2.8416666666666663
+hiv,0.4526406690300882
+west bengal manuscmanusc,1.25
+artistic test,0.5
+such discretion,1.0
+forensic evidence,0.3333333333333333
+constitution maker,1.75
+evidences,0.5483870967741935
+specific provision in the code,0.5
+modification,0.9714977645305514
+blood specimens,0.5
+provisions of the persons,0.5
+photographs,0.8524590163934426
+doubt,1.3646267723102583
+retention,1.1818181818181819
+violative of clause,0.6666666666666666
+lords,0.8620729190552625
+report,1.7768151696835826
+blood sample,0.6000000000000001
+code of criminal procedure,6.120689655172414
+protection,1.1604395604395603
+up-grading of dna profiles,0.0
+principle,1.9620890732001848
+angle,0.4852556924225457
+criminal investigation,0.5714285714285714
+personal liberty under article,1.0
+public morality,0.5
+application of s,0.8346153846153846
+number of exemptions,0.5
+factor,1.2878742338904643
+period of time,0.5706521739130435
+mental illness,1.25
+commencement,1.2037037037037035
+contravention of the condition,1.0
+hiv test,0.8888888888888888
+extensive interpretation of the phrase,0.5
+proof of legitimacy,0.5
+issue for consideration,0.6666666666666666
+inspection,0.8496732026143791
+implicit power,0.5
+close affinity,0.6666666666666666
+other provision of the convention,0.0
+indian constitution,1.25
+division bench,3.965217391304348
+several other situations,0.5
+justifying conditions under article,0.5
+european convention on human rights,0.8
+time revoke,0.5
+reference,2.1755848210276256
+understanding,0.8257450331125827
+knowledge of pre - delivery sex,0.0
+balance of probabilities,0.5
+evidential purpose,0.5
+material before the court,1.5
+if the suspect,0.30000000000000004
+yale university,0.24137931034482762
+anandan,1.0
+respondent,4.757894736842104
+provision of the convention,0.0
+mental capacity,0.2857142857142857
+discretionary power under section,0.6666666666666666
+nurturing,0.3333333333333333
+residential home,0.6666666666666666
+regard to development,0.5
+lee ecc,0.5
+state of affairs,0.9015151515151515
+different people,0.25
+consequence of unsoundness,0.5
+grounds on which divorce,0.5
+powerles in this behalf,0.0
+report on any questions,0.5
+approach,1.001908852302553
+indian lunacy act,2.0
+conclusive proof of legitimacy,0.5
+inspection of a lady,0.5
+amounts,0.9789856139834046
+circumstance in which retention,0.0
+assurances,0.32432432432432434
+test as blood group test,0.5
+involf,0.0
+states in usa enacted legislations,0.5
+polouse during the course,0.0
+recommendation of the law commission,0.0
+consummation,0.4444444444444444
+marriage contract,0.4
+best interests,1.3333333333333333
+such court proceedings,0.5
+ecc,0.5479541734860884
+term of personality disorganization,0.5
+supreme court,1.4278957326045825
+tnmanu,1.7
+accounts of the substance,0.5
+viru,0.465029761904762
+expectation,0.8103813559322035
+other spouse,1.3333333333333333
+rajasthan,3.9215686274509802
+parental fitness,0.5
+medical examination,5.333333333333333
+heading,2.130249543517955
+phill,0.3163507109004739
+innocent person,0.7439353099730458
+scrutiny of the question,0.5
+high,5.367119186841496
+following terms,1.5957446808510638
+event,1.4310854436179261
+communications,0.7330779054916986
+venereal,0.6666666666666666
+human right,1.1211406518010292
+certain case,0.5333333333333333
+disabled,0.6464646464646465
+health professional in those communications,0.5
+infected persons,0.30000000000000004
+convention for the protection,0.6666666666666666
+mental illnes,1.25
+unfavourable inference,0.5
+defendant,3.7706855791962175
+business record,0.3333333333333333
+civil court,3.706666666666667
+physician,0.2287581699346405
+violation of article,1.2666666666666666
+mr kaushik,0.5
+matter of litigation,0.5
+proces of strained construction,0.0
+piece of evidence,0.8181818181818181
+application under section,2.8076923076923075
+govind v state,1.5
+right with reference,0.5
+fourth amendment,0.3333333333333333
+suspect s sample,0.0
+allegation,1.834319526627219
+process error,0.5
+strong case,0.3333333333333333
+application for a declaration,0.5
+expectation of confidentiality,0.5
+swamidoss joseph,1.0
+arbitration act,3.8421052631578947
+insurance,1.7782738095238095
+homes,0.6853146853146853
+confidentiality of the patient - psychotherapist relationship avoids,0.0
+genetic sample without consent,0.5
+criminal violence,0.3333333333333333
+such forced taking,0.5
+commencement of this act,1.7142857142857142
+general law,1.5625
+violative of right of privacy,0.5
+examination for the purpose,0.5
+rajagopal,1.25
+scientific tests,1.0
+unconsciousnes,0.3333333333333333
+affairs,0.8608695652173913
+crilj,5.333333333333333
+other statutes,0.75
+trust for welfare,0.5
+tamil,3.111111111111111
+pollard,0.13999999999999999
+justifying,0.5588235294117647
+disclaimer,0.24536340852130326
+further analysi in investigations,0.0
+expansive interpretation,0.75
+regard case,0.5
+fight against crime,0.3333333333333333
+ipc,2.785166240409207
+state statute,0.5
+liabilities,1.0606060606060608
+different thing,0.24705882352941178
+incurable unsoundnes of mind,0.0
+own motion,0.4444444444444445
+behavior on the part,0.3333333333333333
+commission,4.703619179345321
+tripartite test state,0.5
+peculiar assistance,0.5
+impres of realistic approach,0.0
+probabilities,0.34782608695652173
+requirement of article,0.6666666666666666
+federal common law,0.5
+kind that the petitioner,0.5
+so - called right,0.0
+person for the purpose,0.5
+zone,1.373358348968105
+automatic answer,0.5
+view of the fact,0.8707482993197279
+constitutional limitations,0.8333333333333334
+new,0.9418497626301229
+hindu marriage,2.3333333333333335
+acces,1.6146156832298137
+blood group,0.6666666666666666
+relation to those risks,0.5
+physician as an expert witness,0.5
+voidable marriage,0.5
+ram narain gupta v rameshwari manuscmanusc,0.5
+dna database system,0.5
+if the fact of a case fall,0.0
+sinha,0.8166351606805294
+dimension to the forced admissions,0.5
+such unsoundnes of mind,0.0
+liberty under article,1.0
+trust v s regina v collins,0.5
+evidence,3.6676405172088815
+datum,0.0
+document,1.401100265092073
+happy marital life,0.5
+nullity suits on the ground,0.5
+conflict between the right,0.5
+rival versions,0.5
+accordance with article,2.25
+cost of searches,0.5
+case of mental illness,0.5
+prevention of disorder,1.0
+scale of the database,0.5
+appropriate for parliament,0.5
+medical examination by an order,0.5
+hivaids,0.5
+susceptible to medical treatment,0.5
+addl,1.303854875283447
+vast majority of criminal cases,0.5
+miscarriages of justice,0.5
+lee,0.6545129579982127
+fact that other jurisdictions,0.5
+- acces,0.0
+sufficient material,1.0
+dna profile,1.0
+consistent answer,0.5
+evidential purposes,0.5
+- matter of the action,0.0
+sub-normality,0.0
+costello-roberts v,0.0
+subsection,3.6332070707070705
+ram,2.11096203538064
+schizophrenic,0.5555555555555556
+types,0.6765151515151515
+factors,0.9829522460542292
+to personal liberty,2.3333333333333335
+nadu,1.4166666666666665
+health professional,0.3333333333333333
+regard mechanical passing of such order,0.5
+define disease,0.5
+singh,3.7791111111111113
+adequate provisions for medical examination,0.5
+scientific datum,0.0
+kingdom,0.6954545454545455
+purposes,1.4391216613438835
+agencies,0.9094581337642103
+possible versu,0.5
+therefore,2.960332350576253
+end,6.1484001628618765
+subject - matter,0.0
+health record,0.6666666666666666
+statutory provision of the hindu marriage act,0.0
+practical manner,0.5
+rule,5.04
+proceedings,1.7670925223666287
+such as conspiracy,0.0
+dna sample,4.0
+medical officer,1.090909090909091
+other provisions of the convention,0.5
+necessary corollary,0.875
+chandra,0.7012987012987013
+such conditions,0.6545454545454545
+laxmi,1.25
+that certain laws,0.5
+hindu marriage act,2.5
+airguj,0.8
+constitutionality of these laws,0.5
+order by the court,0.5
+respondents,2.6341263330598856
+subject to the observations,0.5
+constellation in each case,0.5
+ummal v shaik mohammad marakavar,0.5
+costs,0.8167395522604189
+advance directive,1.5
+sensitivity,0.33846153846153854
+ningamma,1.0
+capacities,0.6222222222222222
+wlr,0.396
+therapists,0.2857142857142857
+a report by a court expert,0.5
+investigation of the case,1.375
+attempt,0.7943782192788815
+process,1.6274942048088725
+absolute right,0.6000000000000001
+collection,1.0907127429805616
+admission,1.5389848246991107
+investigators,0.1989795918367347
+troubled parent,0.5
+status,1.14824388424026
+power,3.8165227690948367
+woman,1.316528681253696
+wisdom,0.47641637300081324
+situations in which fingerprints,0.5
+plaintiff in a personal injury action,0.5
+subject to such conditions,1.2
+marriage act,2.0
+ill persons,0.5
+examination,2.4920345926263088
+print,1.119131334022751
+movement of an individual,0.0
+special powers of the medical officer,0.5
+sample of blood,0.5
+family life,1.6666666666666667
+earlier decision,1.5454545454545454
+country court cases by cc,0.5
+person of unsound mind,1.0
+vehicles,1.4161490683229814
+position,1.549133168619177
+terrorist act,1.82
+one,4.845669314438648
+to the american fourth amendment,0.5
+petition,5.3436539306104525
+regulation to constitutional limitations,0.5
+guidelines,1.540251572327044
+parentage,0.2777777777777778
+other means,0.49230769230769234
+normality,0.5
+decree for divorce,1.0
+regard to universal declaration,0.5
+consideration,1.9110153789142115
+issues for consideration,0.6666666666666666
+scientific advances,0.5
+several judgment,1.0
+paragraph,1.2930197483150305
+broadly-based testing of whole groups,0.0
+words,1.6384367086179112
+penalty,1.5165226929932814
+freedom of speech,2.2937062937062933
+specimen,1.5833333333333333
+best decision,0.30000000000000004
+health though medical record,0.5
+lady,0.6819258089976322
+clause,3.526455026455027
+commissioner,2.271608643457383
+sreeramamurthy,0.5
+such action,0.5664488017429193
+animal,3.672202634997217
+justifying condition,0.5
+divorce,1.2616822429906542
+photograph,1.2280701754385965
+other law,0.991304347826087
+hindu,2.3637826961770623
+limitations,0.8120300751879699
+dna markers,0.5
+animal existence,0.6666666666666666
+ren,4.354866549203122
+from intrusion,0.5
+necessary in a democratic society in the interests,1.0
+family,1.856281506375408
+majority judgment,2.125
+need of treatment,0.3333333333333333
+inspection of a party,0.5
+the prevention,0.9473684210526315
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+point of time,0.7999999999999999
+tamil nadu,3.176470588235294
+civil proceeding,1.5
+rights of a private party,0.5
+substance,0.8230581678857541
+expert medical evidence,0.5
+consent to the treatment,0.5
+specimen signature,0.6666666666666666
+above discussion,0.9333333333333333
+disease entities,0.5
+lis,3.299683526578166
+such peculiar assistance,0.5
+rehabilitative goal,0.5
+experts,2.4829710144927537
+- competence,0.0
+expansive interpretation of the phrase,0.5
+suffer,0.9987778769729485
+question whether the condition,0.5
+mad lw,0.5
+court proceedings,0.75
+circumstances of the case,1.3373493975903614
+neurosis,0.6000000000000001
+motion,1.9249311294765838
+bodily sample,1.0
+national,1.5126860273884035
+mental infirmity,1.0
+suitable conditions,0.5
+re - analysis,0.0
+kharak singh v state of up,1.0
+virus,0.24615384615384617
+means,1.3868295182781003
+occasion,0.7946745562130177
+possession,2.808810857389056
+routine,0.5687714145863925
+direction for protection,0.5
+instance of the party,0.6666666666666666
+question of the retention,0.5
+assessment of insanity,0.5
+supreme,1.443815331010453
+comparison with the disputed handwriting,0.5
+association with a national minority,1.0
+relevant periods of time,0.5
+rehabilitative goals,0.5
+powers of the medical officer,0.5
+duty of a court,0.5
+requirement,1.2416133333333332
+neurosi,0.6000000000000001
+protection of the rights,1.0
+parties to terms,0.5
+requirements of section,1.5833333333333333
+deterioration in the level,0.5
+insanity,1.0344827586206897
+unlawfulness,0.5
+discretionary power,1.4
+incompetency of a witness,1.0
+singareni collieries,0.5
+bound,0.8762782658793029
+deal,2.1942302694273583
+wbmanu,1.1818181818181819
+parents  wishes,0.0
+relevant to a specific crime in question,0.5
+banking,2.1351674641148324
+patient - psychotherapist relationship avoid,0.0
+self,1.6847516412733803
+goals,0.5553451178451179
+language,0.8555828468744352
+criminal case,1.4464285714285714
+commons,0.7297297297297298
+motor vehicle,2.852852852852853
+other jurisdiction,0.6000000000000001
+that spouse,0.3333333333333333
+relevant evidence,1.0
+attention of the medical officer,0.5
+see,2.8180360783074034
+speciman,0.0
+nature,1.4149926876444778
+well - being of the child,0.0
+right of a party,0.5
+detection of crime,0.5
+things,0.6162490788504054
+chattels,0.3636363636363636
+accountant,1.8627450980392157
+thereto inter alia on the ground,0.5
+planning,1.4283088235294117
+precedent,0.8982341399607586
+communication with mental health professionals,0.5
+jailor,0.5
+amendment plea,0.6666666666666666
+artificial insemination,0.2777777777777778
+something,0.5915378827342709
+action,3.127292663476874
+investigator,0.22807017543859645
+which dna samples,0.5
+states of america,0.43421052631578955
+united state of america,0.0
+client s incriminating record,0.0
+potency,1.05
+necessity for further understanding,0.5
+thing,1.1131787570209408
+prisoners,0.5690235690235691
+subject of a charge,0.5
+collin,0.3513513513513513
+capacity,1.7421691881525676
+complexity,0.29310344827586204
+technology,1.0922599740512486
+rival version of the parties,0.0
+scientific method,0.303030303030303
+nullity suits,0.5
+order of the addl,0.5
+independent examination,0.5
+therapy,0.17792792792792794
+incurable unsoundnes,0.5
+that section,1.1768292682926829
+human rights act,0.5454545454545454
+markers,0.25
+wherever applications,0.5
+personality,0.8909774436090225
+genetic sample,0.5
+sections,1.640495469442838
+matters,1.4810665618448637
+instance,0.9469803370786518
+inter,3.683850287482992
+interest of the children,0.0
+limited intrusion,0.5
+pregnancy,0.43781094527363185
+full investigation of the case,0.5
+common law,0.64
+court,12.24425115501509
+application to the high court,0.5
+declaration,2.152560083594566
+itp,0.3851217906517445
+scope of the privilege,0.5
+judge of the high court,1.75
+hivaids test,1.0
+parliament,2.6571235781762095
+agreement,3.450434632433366
+poor substitute,0.5
+mental health professional in those communications,0.5
+margin of appreciation,0.6666666666666666
+objection,1.68120480131216
+inference,1.006741573033708
+person,4.291511329454258
+brb,0.18770226537216828
+mahomed ibrahim v mohammad marakayar,0.5
+probability,0.45294117647058824
+immunity,0.44999999999999996
+correctness,0.8404159132007234
+insanity by virtue,0.5
+different person,0.5384615384615384
+retention of the samples,0.5
+process of strained construction,0.5
+nothing,0.8658723322806009
+virginity,0.25
+such unsoundness of mind,0.5
+case fall,0.9
+delusions,0.2727272727272727
+observing,0.5772880318334863
+other jurisdictions,0.6000000000000001
+provision in the code,1.0
+wish tantamounts,0.5
+blood specimen for hiv test,0.5
+other provisions,1.9
+lunacy,1.0666666666666667
+m vijaya,0.5
+number,1.4802651440973922
+list of violent crimes,0.5
+subject matter,1.2537313432835822
+mere balance,0.5
+finger print,0.6666666666666666
+committee on human rights,0.5
+european,0.42142857142857143
+decision,2.9514937765898557
+adequate protection inter,0.5
+faculty of life,0.0
+american constitution,0.3333333333333333
+infectious diseases,0.15
+hands,1.1725490196078434
+prayer for blood test,0.5
+unsoundnes of mind,0.0
+claim,2.817264601856604
+house,2.0021735292386764
+preservation of finger prints,0.5
+cream,0.45625000000000004
+language of incantation,0.5
+harrison v harrison,0.5
+fundamental freedom,0.26515151515151514
+condition precedent,1.7058823529411764
+court lead to a conclusion,0.5
+dna test,0.5555555555555556
+purpose of  the prevention,0.0
+re - analysi,0.0
+matter right to personal liberty,0.5
+interpretation,1.518366298484459
+denial,0.8338926174496643
+singareni,0.5
+examination by the experts,0.5
+stating,0.8256619531175857
+marakavar,0.5
+investigations,0.7905405405405406
+short temper,0.5
+dispute between the wife,0.5
+year,2.8349484769759212
+psychiatrist,0.9411764705882353
+party to a civil litigation,0.5
+suffering,1.0058873002523128
+aforesaid nature,0.5
+matrimonial case,1.0
+infirmity incapable,0.5
+suo,0.6228646517739815
+judgment,3.288216560509554
+ground that the other spouse,0.5
+blood test on the ground,0.5
+parliamentary scrutiny,0.5
+people s union,0.0
+various court,0.8
+by - case development,0.0
+mere balance of probabilities,0.5
+st george s healthcare nhs,0.0
+injury,1.7199352451433856
+act,12.870263922028107
+charle,0.3307766059443912
+medical inspection,1.0
+future utility of the database,0.5
+businessman,0.46153846153846145
+married life,0.5
+analysis,0.6606741573033708
+versus,0.3105022831050228
+person to a medical test,0.5
+ground for divorce,0.5
+further under sections,0.5
+venkatachallapati,0.5
+extent that the petitioner,0.5
+child standard,0.5
+aids law today,0.5
+g venkatanarayana,0.5
+retention of samples permits,0.5
+dna sample from the suspect,0.5
+chief constable of south yorkshire,0.5
+level,1.1533169827122092
+retardation,0.5384615384615384
+passage,0.6514737598849748
+recommendations of the law commission,0.5
+voidable if the other party,0.5
+requisite direction,0.5
+research in this direction,0.5
+cause of death,0.7894736842105263
+finality,1.1746031746031746
+trial court s discretion,0.0
+different treatment,0.6000000000000001
+alcohol test,0.5
+mere animal existence,0.6666666666666666
+additional interference,0.5
+once the psychiatrist,0.5
+dna on a stamp,0.5
+section,9.287987283173626
+medical jurisprudence,0.5
+- access in order,0.0
+strasbourg,0.2727272727272727
+venkatanarayana,0.5
+capacity for satisfaction,0.0
+thereunder,1.2794117647058825
+west bengal,3.3333333333333335
+v morris abram,0.5
+power to order,1.1111111111111112
+standard,1.4669008088548319
+other dna marker,0.5
+informed consent for hiv test,0.5
+examination on the question,0.5
+driver,0.8230211045255637
+relevant statutory provision,0.8333333333333334
+futile once the psychiatrist,0.5
+finding,1.8129183657767178
+delicacy,0.6666666666666666
+stamp,0.871914299021891
+danger,0.8066378066378066
+appellant herein,2.046153846153846
+private life  article,0.0
+confidentiality,0.873015873015873
+advance,1.2070333024745414
+govind,0.7333333333333335
+regard,2.723310344827586
+many innocent person,0.0
+refusal,0.813597918022121
+modern science,0.23529411764705882
+prima facie case,1.625
+genetic testing,0.5
+scene of the crime,0.3333333333333333
+knowledge,1.1120671641791045
+lunatic,0.784
+matching process,0.5
+direction,1.8495050210098996
+venkatanarayan,1.0
+agency,1.8968779259354924
+lord stowell,0.5
+federal states,0.5
+rights,1.6349541930937281
+truth,0.9590230664857531
+fundamental rights,2.1587301587301586
+extensive interpretation,0.5
+slander,0.18205128205128207
+facts,1.4696673624372698
+municipal,2.4099173553719004
+aforementioned contentions,1.0
+fifth amendment plea,0.5
+gulzarilal,0.5
+non-access in order,0.0
+purpose of appointment,1.0
+justification,0.6859587020648967
+form,2.4865961263718424
+conflict with the so-called right,0.0
+writing,1.1746753246753248
+that regard,0.5944055944055944
+chancery,1.0
+notable examples of the vital necessity,0.5
+home,0.9826663267907214
+re-analysi,0.0
+exchange,1.09516494769951
+benefit,2.604810195438474
+prayer for a decree,0.5
+prisons,0.6749999999999998
+crime in question,0.75
+women,1.162387410705042
+records,0.9879294336118848
+cost,1.2954397451466992
+session,2.2400874351067563
+muslim,0.8700225394440272
+desire,0.6008255933952529
+in this context,0.7953063885267274
+following ground,1.0
+useful reference,0.30000000000000004
+evidence of doctor,0.5
+nullity suit,0.5
+re mb,0.25471698113207547
+strong prima facie case,1.3333333333333333
+which privacy,0.5
+confidential information,0.31746031746031744
+re matthew r,0.5
+unjustifiable intrusion,0.5
+infringement,1.152439024390244
+mental infirmity incapable,0.5
+sub,7.816899313759727
+course,1.6545957498716626
+direction upon a party,0.5
+law privilege,0.5
+person under arrest,0.5
+airap,1.5
+male respondent,1.5
+groups,0.9065945998117897
+complete justice to the parties,0.8
+pradesh,4.365853658536586
+result of the approach,0.5
+freedom,1.9254884143571103
+crime,1.6636528028933093
+different fundamental right,0.5
+briggs v morgan,0.5
+fantasy,0.0
+st george s healthcare nh,0.0
+disabled person,0.875
+appropriate case,1.4074074074074074
+west,1.1420057009587976
+mr gordon,1.0
+v shri shanthappa manukamanuka,0.5
+inquiry,1.3527272727272728
+field,1.5820968371729793
+matter,2.8088923076923082
+primary duty,0.4
+relation,1.397320207820618
+profiles,0.75
+following issue,1.0833333333333333
+prohibition of discrimination,1.0
+privacy of the respondent,0.5
+sreeramamurthy v lakshmikantham manuapmanuap,0.5
+- psychotherapist relationship avoids,0.0
+stress,0.5011072445428663
+potential hospital authorities,0.5
+nath manuphmanuph,0.5
+indian,1.2604961505560306
+aid,5.498621453008654
+involvement,1.020685900925422
+jurisdictions,0.48571428571428565
+liability,2.532836248924577
+oghad,0.5
+giving,0.9925770841263798
+family law reform act,1.0
+suspect,1.0878953771289537
+enjoyment,0.631578947368421
+divorce act,1.4
+wife,1.4518086408500224
+nugatory,1.0
+retarded persons,0.5
+wishes,0.8214849921011059
+medical test as blood group test,0.5
+proximate cause of death,0.5
+medical report,0.5333333333333333
+alleged miscarriages of justice,0.5
+birth,1.5969847398418826
+regard to the expert medical opinion,0.5
+volume,0.5619176554909612
+that truth,0.48148148148148157
+manner in which privacy,0.5
+dna sample from all persons,0.0
+well,1.4966552780778166
+unjustifiable intrusion into the lives,0.5
+statutory provisions of the hindu marriage act,0.5
+unit,2.176678509944691
+witness,5.333906623599983
+core,0.43168575654387237
+medical research in this direction,0.5
+material,1.4148767018946966
+procedure,2.552771605064117
+professionals,0.2585034013605442
+state of america,0.0
+matthew,0.16649323621227888
+dictate,0.6783144912641316
+polouse,0.0
+harmful consequence,0.5
+adequate provision,0.6666666666666666
+hereinbefore,2.159090909090909
+guideline,1.5641711229946524
+provision,5.439002243350069
+such grounds,0.6666666666666666
+support,0.8630946786249609
+freedom of others,0.5
+circumstances in which retention,0.5
+democratic society,0.8888888888888888
+risk reduction,0.5
+conclusions,0.8522069292833413
+different state of affairs,0.5
+business,2.8512056385864457
+contravention,2.586206896551724
+importance,0.8632871064467765
+large number,1.0979284369114877
+such law,0.81203007518797
+health treatment,0.5
+municipal disabilities act,0.5
+case of a male respondent,0.5
+own potential hospital authorities,0.5
+admissibility,0.9629629629629629
+privacy of a person,1.0
+hollownes,0.5
+women prisoner,0.5
+department,1.9858367499068206
+such cases,0.7390180878552971
+that blood test,0.5
+accounts,2.7564363143631434
+civil liberties,0.35324675324675325
+caution,1.0777000777000778
+criminal procedure,6.406779661016949
+retarded person,0.5
+influence,0.7049608355091384
+object,1.4940119760479043
+kumar,2.028839704896043
+thereto,1.0358342665173572
+strong preponderance,0.5
+viii,0.7209469153515065
+particular matter,0.5
+fraud,2.7602996254681647
+george swamidoss joseph v,0.5
+finger prints,0.5
+right to life,1.2373737373737372
+valid hindu marriage,0.5
+diseases,0.731016731016731
+human rights angel,0.5
+extent,1.410108024691358
+v seton,0.5
+depreciation of the importance,0.5
+response of the privacy commissioner,0.5
+mind indisputably,0.5
+fundamental right of life,1.0
+terms of order,1.0
+such case,0.7332761578044598
+juvenile facilities,0.5
+which fingerprint,0.5
+troubled parents,0.5
+virginity test,0.5
+civil liberty,0.5
+usa enacted legislations,0.5
+fiber,0.1611842105263158
+health care,0.2507082152974504
+lakshmikantham,0.5
+kundu,2.3333333333333335
+aim,2.7822546950944274
+to privacy,2.217391304347826
+civil liabilities,0.5
+dna test in some countries,0.0
+position in any event,0.5
+prayers in order,0.5
+delhi,2.6089285714285717
+majority of criminal cases,0.5
+independent right of privacy,0.5
+proces of case- by - case development,0.0
+issues,1.1246716508385532
+people in prisons,0.5
+reason of any mental infirmity,0.5
+if the other party,0.4444444444444444
+subject to the advance directive,0.5
+agreement with the divisional court,0.5
+kurupati,0.5
+scientific experiment,0.2692307692307692
+medical concern,0.5
+colour,0.48673194267063996
+shah,1.9074421513445903
+such convenient time,0.5
+case under sections,0.6666666666666666
+usa enacted legislation,0.5
+lunatic for the purpose,0.5
+adequate provision for medical examination,0.0
+wedlock,0.543956043956044
+other provision,1.281045751633987
+credibility,0.6069651741293531
+bill,1.134631348577466
+compulsory,1.5719298245614035
+purpose of section,1.3888888888888888
+schmerber,0.5
+suitable condition,0.5
+democratically - elected body representative,0.0
+civil proceedings,1.2857142857142858
+thing to different people,0.0
+disclosure,1.4583333333333335
+test by force,0.5
+vital necessity,0.5
+existence of the conditions,0.6666666666666666
+recourse to medical test,0.5
+principles,1.3198511166253102
+following subsections,0.5
+respondent f v p,0.5
+feature,0.6446262956901254
+samples permits,0.5
+substitute,1.042145593869732
+matrimonial,3.272727272727273
+testimonial dimension,1.0
+injure,2.0736145574855254
+scott burry,0.5
+need,1.1097650269586634
+colliery,0.0
+medical examination by the experts,0.5
+abuse,0.6372486093281985
+abuse of the discretionary power,0.5
+such proceedings,1.0
+bhatt,0.7555555555555555
+religion,3.489119987394627
+negligent act,0.6666666666666666
+different thing to different people,0.0
+first place,0.48711943793911006
+latent capacities,0.5
+following passage,0.6942148760330578
+thereto inter alia,0.6666666666666666
+re-analysis,0.0
+maker,1.0485537190082643
+subject to an unjust order,0.5
+v sw,0.42857142857142855
+enjoyment of the rights,1.0
+entity,1.342435251377007
+that such medical testimony,0.5
+sangaria,0.5
+pradesh court in p,0.5
+lunatic--,0.0
+gupta,0.7610062893081762
+crime for which dna testing,0.0
+custody,1.4166666666666667
+terms of disease entities,0.5
+impress,0.5735745988391941
+rights act,0.6857142857142858
+syphilis,0.16666666666666666
+welfare homes,0.5
+creativity,0.375
+which retention,0.5
+constable of south yorkshire,0.5
+court to order,0.4800000000000001
+change,1.2214862766571903
+cases,1.9728229418951067
+division,1.7657319129617017
+inspection of experts,0.5
+- testimonial compulsion,0.0
+inquiry into paternity,0.5
+matching proces,0.5
+group,1.691932599016908
+such disease exists,0.5
+various courts of this country,0.5
+litigation in a case,0.5
+a power of the court,0.5
+state law,0.7279411764705882
+pradesh court,0.5
+adult,0.7479674796747968
+relevant evidences,0.5
+sample from the suspects,0.0
+love,0.4253968253968254
+penumbral right,0.5
+divorce inter alia,0.5
+as conspiracy,1.3333333333333333
+breach of article,0.75
+united kingdom,0.7304347826086955
+justice to the parties,0.8333333333333334
+term of section,0.5
+goutam kundu v state of west bengal,0.5
+authority for the proposition,1.0
+assurance,0.9418901660280969
+last analysi,0.5
+access,1.61231677279827
+appellant under section,1.4375
+phipson,0.5
+police during the course,0.5
+prosecution,4.619407894736842
+scientific methods,0.3137254901960784
+wish,0.5561873255453323
+retention unless the fingerprints,0.5
+matrimonial dispute,1.0
+reform,0.6780894886363636
+les in terms of disease entities,0.0
+statutory provision,1.1638418079096045
+biswas,1.5
+connection,1.050640279394645
+test states,0.5
+alcohol,2.6760563380281694
+gordon,0.31557377049180324
+party to the proceedings,1.5
+privilege of non-disclosure,0.0
+india,2.7684068260703585
+encyclopedia,0.4157303370786517
+own potential hospital authority,0.0
+guaranteed rights,0.5
+information despite a patient,0.5
+further analysi,1.0
+view that the clause,0.5
+appropriate scope,0.5
+gujrat high court,0.5
+physical integrity,0.5
+bastard,0.20899470899470896
+rules of evidence,0.6666666666666666
+association,1.2099052684061826
+dna tests in some countries,0.5
+morri,0.22778730703259006
+human rights law,0.5
+other statute,1.1428571428571428
+symptom,0.18386243386243387
+origin,1.2344828910849253
+in deterioration in the level,0.5
+other spouses,0.5
+benefits in terms,0.75
+objection in a child custody dispute,0.5
+birendra kumar biswa,1.0
+confidential communication,0.5
+strong preponderance of evidence,0.5
+automatic answer that this jurisdiction,0.5
+criminal penalty,0.5
+pendency of the suit,0.75
+cases of divorce,0.5
+indictable offence,1.4
+consequences,0.6659897713598075
+prisoner,0.8223844282238443
+correctness of the joint committee,0.5
+substantial issue,0.5
+self- incrimination,0.0
+subject to a number of exemptions,0.5
+profile,0.874074074074074
+students,1.1355891528677706
+term of order,0.0
+disorder of thought,0.5
+fifth,0.9689957652752572
+adequate power,0.4
+forced admissions,0.5
+likely prognosi,0.5
+therapeutic planning,0.5
+scc,1.941872465904902
+examples of the vital necessity,0.5
+edition,0.9664589349951868
+birendra,2.5
+attack of insanity,0.0
+adjudication,1.5392156862745099
+symptoms,0.18181818181818182
+convention,0.8756516211061666
+limitation on this right,0.0
+evidence with respect,0.6666666666666666
+disorder of a spouse,0.5
+medical evidence,1.2820512820512822
+periods,0.8597883597883598
+v chikkaiah,0.5
+notice that this court,0.75
+protection inter,0.5
+informed consent,0.6000000000000001
+further analysis,1.0
+matrimonial proceeding,0.6666666666666666
+right to privacy,2.8333333333333335
+mohammad,0.9375
+evidence against the party,0.5
+application to the facts,0.8888888888888888
+name to a thing,0.5
+duty,3.2272215973003378
+shanthappa,0.5
+question of unsoundness,0.5
+sound mind,1.9500000000000002
+aleson,0.6000000000000001
+medical research,0.234375
+spouse,1.0202546296296295
+federal states in usa enacted legislations,0.5
+fight,1.0237585694076679
+american fourth amendment,0.5
+discretion,1.2998211091234348
+new section,0.5555555555555556
+violence crimes,0.5
+point,2.9165043546008516
+right of disabled persons,0.0
+interference with the right,0.6666666666666666
+sex,0.853783819872148
+federal rule,0.6666666666666666
+doubt about the man,0.5
+spouse living,0.5
+blood tests,0.47368421052631576
+of right to  personal liberty,0.0
+disease entity,0.0
+spouse against the other spous,0.5
+sex worker,1.0
+suspect s involvement,0.0
+steps,1.169318181818182
+dna sample from a suspect,0.5
+specific provision,1.1363636363636365
+evidence act,3.8666666666666667
+elt,0.9685135464974371
+recent case,0.6666666666666666
+under section,5.374517374517374
+fundamental freedoms,0.23225806451612904
+communication,1.013409067330636
+consultation,1.1724137931034484
+feature in courts,0.5
+such medical examination on the ground,0.5
+yale,0.14431725265739984
+other spous,1.3333333333333333
+scene,0.7999999999999999
+assistance to the court,0.5
+present circumstance,0.5
+admissibility of mental health records,0.5
+forensic,0.4285714285714286
+specimens,0.5
+right of article,0.0
+- acces in order,0.0
+v state of mp,1.15
+medical treatment,1.1428571428571428
+powers of court,0.75
+branding,0.6000000000000001
+mis,4.655567008935775
+marker,0.20833333333333334
+incumbent,0.5797101449275363
+embarrassment,0.3238095238095238
+unit in family,0.5
+plea,1.4430487701432178
+learned counsel of the parties,0.5
+expert medical opinion,0.5
+divorce on such grounds,0.5
+passing,0.8851858023662723
+extraneous circumstances,1.3333333333333333
+equal opportunities,0.5
+different things,0.24647887323943662
+persistent disorder,0.5
+event second,0.5
+opinion that the high court,1.0
+reason of any mental disorder,0.5
+periods of time,0.38518518518518524
+different things to different people,0.5
+aforementioned provisions,0.875
+basic right to privacy,0.5
+curious external form,0.5
+disabilities act,1.0
+prevention,0.6124072110286319
+taking,1.5813408809014857
+challenge,1.2204566274399267
+provisions for medical examination,0.5
+authority,2.4352627108360636
+benefit to society,0.30000000000000004
+death,2.361592909460208
+kind that the other spouse,0.5
+physical integrity although the law,0.5
+fifth amendment privilege,0.5
+health act,0.8333333333333333
+private feelings,0.5
+thoughts,0.47595356550580437
+such proceeding,1.0
+development,2.3145884270578647
+dna samples from all persons,0.5
+checking,0.3314917127071823
+amalgam,0.24999999999999997
+injures,0.9142857142857144
+terms of article,1.5384615384615385
+- matter,0.0
+other psychiatrist,0.5
+free from intrusion,0.5
+revamma,1.0
+disease exist,0.2692307692307692
+parent in a child custody proceedings,0.5
+research,1.351044147915173
+gautam,2.5
+matter of determination,1.1428571428571428
+authority denying,0.5
+goal,0.5651601830663616
+page,1.011907905159212
+background,0.6800452488687784
+scientific probe by virginity tests,0.5
+regina,0.26666666666666666
+liberal view,0.5000000000000001
+zealand,0.2760942760942761
+such privilege,0.6666666666666666
+abrogate,0.375
+non-disclosure,0.0
+spouse against the other spouses,0.5
+minority,0.8717948717948719
+fifth amendment,1.0
+background of the case,0.6666666666666666
+iii,1.5614499719992534
+methods,0.6227758007117437
+order blood test as a matter,0.5
+nullity suit on the ground,0.0
+ground of impotency,0.5
+obligation,1.1071428571428574
+most jurisdictions,0.2
+considerable assistance,0.5
+aim of prosecuting,0.5
+chattel,0.40909090909090906
+particular matters,0.5
+judgment of other high courts,0.5
+legislations,3.3529411764705883
+medical examination for the purpose,0.5
+disorder,1.8343949044585988
+a report,0.8236170212765958
+complainant,4.538461538461538
+faculties of life,0.5
+realistic approach,0.6666666666666666
+state,6.817996007300392
+regulations,3.7157723577235777
+law s concern,0.0
+chance,0.7937084625609215
+statute,2.5765859456247218
+note,1.3654108484234107
+well - being,0.0
+private feeling,0.5
+such prayers in order,0.5
+such provision,0.5079365079365079
+interests of the children,1.0
+such allegation,0.6666666666666667
+blood speciman,0.0
+marriages,0.6882022471910113
+substantive articles,0.5
+third edition,0.4444444444444445
+which fingerprints,0.5
+negative unit in family,0.5
+miss,4.620869345183967
+rival version,0.5
+part iii,1.6764705882352942
+airsc,1.6909090909090911
+spouses,0.7563025210084034
+indian parliament,1.0
+satish,0.8333333333333334
+man,6.972395052694935
+such as conspiracies,0.5
+conduct of a prosecution,0.5
+medical opinion,1.75
+confidential communication with mental health professionals,0.5
+penalties,0.6902761104441777
+discussion,0.7445831166579996
+proportionate to the aim,0.5
+house of lords,0.684331797235023
+safety,1.5344583560152423
+child custody proceedings,0.5
+power of court,0.6666666666666666
+balancing test,1.0
+kind,0.9236881920088026
+interests clash,0.5
+public right,0.5925925925925926
+protection from violence,0.5
+matrimonial cases,1.0
+to healthy life,0.5
+goutam kundu,1.0
+woolf,0.4
+comparison,0.7333333333333333
+special power of the medical officer,0.0
+sparrow v harrison,0.5
+supreme court over a period,0.5
+entities,0.5395256916996047
+source,0.840137091365362
+use of blood tests,0.5
+thought,0.7081151153746436
+such tests,1.1111111111111112
+mere branding,0.5
+persons,2.5993381990166555
+anbu,0.2774869109947644
+unequivocal assurances,0.5
+more of the substantive articles,0.5
+pre,6.408342692122574
+expert medical evidence as a condition precedent,0.5
+corollary,0.5
+environmental reality,0.5
+exemption,1.7371031746031744
+fundamental,1.8473025048169558
+fourth,0.6464025500910748
+fluctuant state of attempted adjustment,0.5
+impress of realistic approach,0.5
+national minority,0.4285714285714286
+right of a person,1.0
+children,1.3787369914853358
+case-,0.0
+disease exists,0.2692307692307692
+madhuriben,0.5
+affinity,0.40404040404040403
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+voluntary test,1.0
+- detention,0.0
+following subsection,1.6666666666666667
+joint committee s report,0.0
+statutory provisions,1.6764705882352942
+patients,0.47297297297297297
+robert,0.3093664982510688
+relation to the retention,0.5
+directions for medical examination,0.5
+interest,2.74353772015385
+parsi marriage,0.5
+enunciation,0.5210526315789474
+power of the dna,0.5
+apparent conflict,0.6000000000000001
+corrective institutions,0.5
+hesitation,0.5405405405405406
+sufficient materials,0.6666666666666666
+behalf,1.9888053603529987
+swamidos,1.0
+aroja,0.3333333333333333
+environment,4.8219106957424716
+requisite degree,0.5
+armando,0.6666666666666666
+satisfaction of the court,0.8
+many innocent people,0.3333333333333333
+palsy,0.5
+app,13.318287960869865
+gautam kundu v state of west bengal manuscmanusc,0.5
+tandon,0.6233766233766233
+federal state in usa enacted legislations,0.0
+court on enquiry,0.5
+incriminating record,0.5
+suspects,1.2162162162162162
+public health,0.38636363636363635
+dimension,0.7919420837267862
+of the substantive articles,0.5
+ill person,0.5555555555555556
+articles,1.4349688743466387
+collection of dna samples,0.5
+violent crimes,0.23076923076923073
+psychological factor,0.3333333333333333
+halsbury s law,0.0
+professional,0.7317659631311781
+prime concern,0.6666666666666666
+such regulation,0.5
+proximate cause,0.6666666666666666
+george,0.6472834067547724
+complete justice,1.7777777777777777
+opinion on nature,0.0
+against the consequence,0.5
+apparent conflict between the right,0.5
+parental fitnes,0.5
+appeal,3.4125488033856883
+mental health though medical records,0.5
+michael,0.2507183908045977
+court of judicature,1.4210526315789473
+parsi,0.7232704402515724
+correspondence,0.8633776091081593
+allowing,0.8015624999999998
+relevant period,2.1333333333333333
+matrimonial litigation,0.5
+nath,1.2024818815807465
+suspect of investigators,0.5
+alia,0.9479866480753792
+edward,0.2751046025104602
+contentions in support,0.8
+medical examination on the question,0.5
+protection in terms,0.5
+economic well - being of the country,0.0
+test state,0.4444444444444444
+several other situation,0.5
+deterioration,0.25925925925925924
+valid consent,1.0
+guilt,1.1140207075064712
+parents  wish,0.0
+welfare home,0.5
+bodily samples,1.0
+number of other psychiatrists,0.5
+sub-section,0.0
+paternity of child,0.5
+may,3.683418028199994
+sub-normality of intelligence,0.0
+reorganization,1.0052356020942408
+discovery,0.6107142857142858
+capacities for satisfaction,0.5
+party to the lis,1.4
+such court proceeding,0.5
+question of such action,0.5
+unjust order,0.6666666666666666
+medical testimony,1.0
+psychotherapeutic proces,0.5
+following passage from the judgment,0.75
+following conditions,0.6000000000000001
+qualified doctor,0.6666666666666666
+arbitration by the arbitration act,0.0
+citizen,1.261748909029876
+proportionate,0.8258426966292135
+mere choice of words,0.5
+application for divorce,0.6666666666666666
+social origin,0.36363636363636365
+miscarriage,1.015625
+best interest of the child,1.3333333333333333
+well - being of the country,0.0
+of such cases,0.5142857142857143
+list,4.014941314095513
+manner,1.4494591333432125
+patent action,0.5
+wigmore on evidence,0.5
+st george,0.2857142857142857
+balancing,0.875
+detection,0.38620689655172413
+amended provision,2.8823529411764706
+dna tests,0.2777777777777778
+union of india manuscmanusc,1.847457627118644
+phipson on evidence,0.5
+intrusion,0.7702702702702703
+civil revision petition,1.4
+costello,0.13414634146341464
+burden of proof,0.7378917378917379
+truth of the matter,0.38095238095238093
+reasonable grounds,0.5
+approach to the article,0.5
+circumstance,1.429931390219372
+stewart,0.2
+civil,2.126558634963905
+right to healthy life,0.5
+regulation,4.3783195107648485
+mean,2.390645692553228
+female respondent,1.0
+investigation,1.6673076923076922
+special power,0.30000000000000004
+judicature,1.4210526315789473
+apmanu,0.9629629629629629
+incurable venereal diseases,0.5
+degree,0.6705786026200874
+psychoneurosis,0.5
+recommendations,2.1638655462184877
+anbu anandan v sivakumari manutnmanutn,0.5
+involuntary test,0.5
+mental health record,1.0
+violence,1.524896265560166
+condition for a valid hindu marriage,0.0
+injury action,0.5
+psychiatric examination,0.5
+possible versus,0.5
+basi,2.0752712086391383
+benefits,2.0896027049873203
+retention to fingerprints,0.5
+public right with reference,0.5
+new zealand,0.2775881683731513
+psychiatrists,0.3333333333333333
+contract,6.227349970404598
+bipinchandra shantilal bhatt v madhuriben manugjmanugj,0.5
+individual,1.1485140562248994
+discrimination on any ground,0.5333333333333333
+of clause,2.3582089552238807
+mother of that person,1.0
+question whether the plaintiff,0.5
+irresponsible conduct on the part,0.5
+paul,1.032984782793505
+case amount to battery,0.5
+basis,1.953226441078104
+prayers,0.6104336043360433
+psychotherapist,1.1428571428571428
+indian divorce act,0.6666666666666666
+industrial injury,0.0
+blood specimen,1.0
+directions,1.5134125183504605
+medical test,1.2857142857142858
+attacks,0.65565749235474
+goutam kundu v state,0.5
+note of caution,0.8333333333333334
+reorganization of a personality,0.5
+best interest of the children,0.0
+courts that no privilege,0.5
+step for the improvement,0.0
+venereal disease,0.6666666666666666
+national trust,0.5
+such test by force,0.5
+which judges,0.5
+healthcare nh,0.5
+medical inspection of a party,0.5
+gjmanu,1.0833333333333333
+officer,3.1197242647058823
+trust v s regina v collin,0.5
+specific crime,0.6666666666666666
+amendment,2.2486412346818434
+testing,1.029039991282554
+judicial scrutiny of the question,0.5
+stowell,0.15789473684210528
+territory,1.3688226421790437
+likely prognosis,0.5
+evidence of the other party,0.5
+disputed handwriting,0.5
+same balancing test,0.5
+bankrupts,0.5
+matron,0.5
+judgments of other high courts,0.5
+unsoundnes,2.476190476190476
+proof,1.0648141580366008
+hospital,1.3942768854411434
+non-acces in order,0.0
+sound legal basi,0.5
+singareni colliery,0.0
+present atmosphere,0.5
+best interests of the children,1.0
+criminal,3.301971081989414
+morality,0.7400332225913622
+dissolution of the marriage proceedings,0.5
+term,3.6255105640901575
+ibrahim,0.4444444444444444
+latent capacity,0.0
+view,2.441100058469462
+mahomed,0.75
+complete agreement with the divisional court,0.5
+requirements,0.7375979875979877
+matters to a finality,0.5
+doctor,1.4782608695652173
+preponderance,0.6222222222222222
+divorce inter alia on the ground,0.5
+relief,1.4748116760828625
+majority,1.3427634276342764
+blood group test,0.5
+penal code,2.710144927536232
+use,5.06801278974993
+personal examination,0.5
+identification,2.0914158305462656
+direction for medical examination,0.0
+crimination,0.8584298584298585
+defines,0.7532281205164992
+angel,0.38860103626943004
+lord,1.6027618015615013
+natural delicacy,0.5
+define,1.0519513092331876
+analysi in investigations,0.0
+countries,0.72236958443855
+rite,1.1425071890337506
+kastigar,0.5
+healthcare nhs,0.5
+fresh means,0.5
+result,1.3356630184144715
+data,0.9744599232788209
+record,2.5393414390845273
+information,1.1320502836800534
+infected person for the purpose,0.0
+united states of america,0.452054794520548
+procreation,0.2916666666666667
+branding of a person,0.5
+gujrat,0.75
+economic well - being,0.0
+to a specific crime in question,0.5
+correctnes of the joint committee,0.0
+relevant in this context,0.5
+public against the consequence,0.5
+accident,1.7464867454487383
+consent for hiv test,0.5
+less in terms of disease entities,0.5
+cavil,0.5555555555555556
+solicitor,1.7073170731707317
+airkant,1.0
+tripartite test states,0.5
+justifying condition under article,0.0
+constellation,0.3551912568306011
+legislation,3.2032032032032034
+regard to the complexity,0.5
+such issue,0.5263157894736842
+that testimonial dimension,0.5
+premises,1.290983606557377
+phrase,0.7269338303821062
+fact,3.6284951019474962
+reissue,0.43636363636363634
+such unsoundness,0.5
+to medical treatment,0.3333333333333333
+penumbral rights,0.5
+committee s report,0.0
+learned counsel,3.703333333333333
+erratic behavior,0.5
+manukamanuka,1.1428571428571428
+necessary for the state,0.6666666666666666
+such direction,1.375
+which judge,0.3333333333333333
+interests,1.0562317935913441
+time of the marriage,1.0
+constitutional protection,0.40909090909090906
+chief,1.9429638234317954
+either suo motu,0.75
+procreation of children,0.6666666666666666
+for parliament,1.0
+federal rule of evidence,0.0
+untrammelled right,0.5
+regard to the provisions,1.1176470588235294
+presumption,1.06
+that behalf,1.3548387096774193
+appoint somebody,0.5
+harmful consequences,0.5
+chikkaiah,0.5
+child custody proceeding,0.5
+witnes,5.333906623599983
+erratic behavior on the part,0.5
+necessity,0.7072538860103627
+judge s duty,0.0
+appropriate direction for protection,0.5
+federal rules of evidence,0.5
+south yorkshire,0.5
+years,2.5395804110508022
+miss shah,0.5
+exercise,1.9400726466785694
+party to terms,0.0
+answer that this jurisdiction,0.5
+conditions for a hindu marriage,0.5
+immunity under article,0.5
+retrial,2.875
+requirement of section,1.5
+party,2.2250894654439723
+medical reports,0.75
+other test,0.75
+proposition,0.6371087928464977
+nobody,0.6463806463806463
+justice,2.292557084574302
+most of such cases,0.6666666666666666
+application by any party,0.5
+sparrow,0.25
+to life,0.9949317738791423
+right of privacy,1.2000000000000002
+marshalling,0.6666666666666666
+waller,0.2857142857142857
+unconsciousness,0.3333333333333333
+third unlawfulness,0.5
+relevancy,1.1111111111111112
+chairman,1.3592677345537758
+v state,2.4603773584905664
+decree,3.732408834103749
+limitations on this right,0.5
+answer to the first question,0.4444444444444444
+fitnes,0.5525
+administration,1.061072796934866
+society,2.1182859399684046
+existence,0.731202675709574
+opinions on nature,0.5
+offence,4.401610644257703
+necessary if the suspect,0.5
+fluctuant state,0.5
+iimlj,0.3333333333333333
+such prayers,0.3333333333333333
+violent crime,0.18493150684931506
+divisional,1.6233766233766234
+infringement of a fundamental right,0.5
+jodhpur,0.8
+existence of requisite degree,0.5
+question,2.980312372067635
+women prisoners,0.5
+pre-delivery sex,0.0
+such as sex,0.6666666666666666
+power if the applicant,0.5
+choice,0.6825955124317767
+parte s,0.3333333333333333
+democratic society in the interests,1.0
+subsections,2.1875
+learned counsel in support,0.875
+fitness,0.5525
+doctor s opinion,0.0
+aller,0.5563318777292576
+further analysis in investigations,0.5
+conditions for a valid hindu marriage,0.5
+scmanu,7.940520446096654
+competence as a witnes,0.5
+shanti,2.764705882352941
+patient - psychotherapist relationship avoids,0.0
+other status,0.5333333333333333
+applicable,1.4183225921947726
+step,0.8867024753460084
+intrusive source,0.5
+amount,3.179688593072295
+practice,1.7660110149488593
+virginity tests,0.5
+modesty,0.25
+identification of prisoners,0.6666666666666666
+united,0.7052854122621566
+mental hospital,0.6666666666666666
+incurable unsoundness,0.5
+relevant statutory provisions of the hindu marriage act,0.5
+comparable situations,0.5
+scott,0.162426614481409
+grant of a decree,1.0
+analogou to the american fourth amendment,0.0
+ample jurisdiction,0.75
+specific provisions in the code,0.5
+state in usa enacted legislations,0.0
+fantasies,0.22499999999999998
+sic,1.1611481056257176
+such matrimonial cases,0.5
+limited - condition,0.0
+divorce act for recession,0.5
+volition,0.5384615384615384
+latent capacities for satisfaction,0.5
+force,1.6009408121948314
+bipinchandra shantilal,2.5
+extent of the parliamentary scrutiny,0.5
+property,2.9368986630013745
+samples from the suspects,0.5
+analysis in investigations,0.5
+states,1.5120646995827023
+suit,2.485274378207659
+balance,0.9863636363636363
+law,3.538923411654744
+observation,0.7625074854374218
+supervisory jurisdiction of the high court,0.5
+self-exhibition to the jury,0.0
+provisions in the code,0.75
+best interest,1.6516129032258065
+different formulation,0.5
+treatment,1.1351020408163266
+plaintiff,2.177926421404682
+course of therapy,0.5
+proof on these occasion,0.5
+simple method,0.30000000000000004
+right of life,0.3684210526315789
+a whether a matrimonial court,0.5
+joint committee on human rights,0.5
+relations,1.2666042780748663
+various rights,0.75
+if the facts of a case fall,0.5
+grant,1.7314487632508835
+assessment,2.647276084949215
+collection of samples,0.5
+addition,1.5588539142412572
+than mental retardation,0.5
+infected persons for the purpose,0.5
+other crime,0.2857142857142857
+otherwise,1.2549820889894419
+joint,1.0091324200913243
+involuntary tests,0.5
+artistic tests,0.5
+usa,0.9416563489832968
+offences,1.6681887366818873
+rule of impotency,0.5
+advances,0.6333333333333333
+anbu anandan,1.0
+decree of nullity,0.5
+mr x,0.4285714285714286
+application,2.3322596088086445
+morals,0.38505747126436785
+examination on behalf,1.0
+jurisdiction in the united states,0.5
+april,0.8928235149629509
+mr gordon s submission,0.0
+authorities,1.266131845134287
+manuapmanuap,1.4444444444444444
+industrial,5.673304955913652
+privilege,2.436023622047244
+broad principles,0.75
+dna evidence,4.0
+chief constable,0.6666666666666666
+documentary expert medical evidence as a condition precedent,0.5
+extraneous circumstance,1.3333333333333333
+different state,0.7272727272727273
+formulation,2.2418478260869565
+harrison,0.5037037037037037
+compellability,0.5
+conspiracy,8.939203354297694
+attack,1.0505713076597545
+such medical examination,1.3333333333333333
+submission,1.0913871684001404
+interest of the child standard,0.5
+motor,1.832417821954835
+democratically - elected body representative of the public,0.0
+notion,0.9071080318193483
+custody of the child,0.3333333333333333
+patent actions,0.5
+moo,0.5109648160339404
+other mean,0.4927536231884058
+authority s judgment,0.0
+mouth by a dentist,0.5
+independent right,0.8
+that state,0.8973013493253372
+psychoneurosi,0.5
+exorcism,0.5
+sub-sections,0.0
+period,1.9480170842427122
+difference,0.8774847235514982
+michael gorean stewart v,0.5
+version of the parties,0.0
+violence crime,0.5
+reasonable justification,0.6666666666666666
+reliability,0.6606110652353426
+institutions,2.2839413875598087
+other governmental agency,0.0
+other crimes,0.3333333333333333
+temper,0.7758620689655172
+exercise of this right except,1.0
+constitution,3.204842342342342
+letter,2.707240080105903
+divisional court,1.0
+abrogates,0.5
+- condition,0.0
+such matrimonial case,0.5
+non-testimonial evidence,0.0
+important about this constellation in each case,0.5
+which dna sample,0.5
+private party,1.9444444444444444
+phmanu,1.0
+nature of the information,0.5
+incumbent on the court,0.5
+other party to the proceedings,0.5
+convenient time,0.5
+trial judge,2.6666666666666665
+hivaid,0.5
+national insurance,1.5
+canada,1.073648007590133
+privacy commissioner,0.5
+mouth,0.2782462057335582
+unsound mind,2.6666666666666665
+reason that a learned authority,0.5
+mr x  v hospital,0.0
+expert witness,0.3111111111111111
+recommendation,2.6589497459062676
+supra,2.246342614440774
+disclosure of information,0.5
+suits,1.0993657505285412
+situation in which fingerprints,0.0
+relevant period of time,0.0
+right of that spouse,0.5
+competent,1.3701267639320736
+detention,1.326530612244898
+jurisdictional error,0.8
+types of violence crimes,0.5
+blanket authority,0.5
+other pathological test,0.5
+medical examination of a party,1.0
+plain dictate,0.5
+blood-group examination,0.0
+applicant,0.7861822513400833
+aforementioned provision,1.1
+rajasthan at jodhpur,0.6666666666666666
+proper medical examination of the person,0.5
+birendra kumar biswas v hemlata biswas manuwbmanuwb,0.5
+powerless in this behalf,0.5
+country court case by cc,0.0
+crimes for which dna testing,0.5
+mookerjee,0.5
+opportunities,0.5793650793650793
+notable examples,0.5
+burden,0.9853978671041838
+core question,0.6
+syphili,0.16666666666666666
+prison laws,0.5
+examination by an order,0.5
+unequivocal assurance from the patient,0.0
+india manuscmanusc,1.8333333333333333
+party-,0.0
+governmental agency,0.30000000000000004
+motu,0.5230769230769231
+woman-complainant in sex-crimes by psychiatric examination,0.0
+police,2.9749362629783356
+existence of syphilis,0.5
+premise,1.2347417840375587
+blood test whenever,0.5
+civil litigation,1.0
+federal,1.031040987823701
+plain dictate of principle,0.5
+arrest,1.391895003453834
+guardian,3.176470588235294
+addition i,0.5563186813186813
+adverse inference,3.0833333333333335
+child custody,1.5
+reason,2.6381270903010035
+importance in relation,0.5
+deals,1.3395407335280751
+sample without consent,0.5
+medicine,0.6969887076537014
+materiality,0.5
+govind v state of madhya pradesh,1.0
+life,1.3352928273744242
+patient,1.4067744260269741
+legal basi,0.4444444444444444
+answer to the second question,0.30000000000000004
+appropriate direction,1.25
+for marriage,0.2857142857142857
+corrective institution,0.5
+intervention,0.6975694444444444
+relevance of a medical evidence,0.5
+response,0.7112676056338028
+acj,0.4822222222222222
+human,1.0063526196524266
+physician as an expert witnes,0.5
+civil liability,0.0
+certain cases,0.5333333333333333
+sex-crime by psychiatric examination,0.0
+reasonable doubt,0.8638838475499093
+psychotherapeutic process,0.5
+court from the obligation,0.5
+incompetency,0.5
+non-access,0.0
+blanket,0.3181818181818182
+driver of a vehicle,0.3333333333333333
+therapist - patient relationship,0.0
+primary duty of a court,0.5
+practical language,0.5
+others,0.9074667328904616
+miscarriages,0.3333333333333333
+g venkatanarayan v kurupati laxmi devi manuapmanuap,0.5
+care,0.8846948234137723
+mlj,0.49677419354838703
+learned authority,0.5
+proceeding,2.1298245614035087
+mattes of aforesaid nature,0.5
+rites,0.500531475138774
+requisite power,1.0
+satisfaction of civil liabilities,0.5
+tantamount,0.5761904761904763
+student,1.2777711454664835
+judge,2.9012627415183325
+such prayer in order,0.0
+further privacy safeguard,0.5
+dream,0.31636952998379253
+mental health,2.75
+health though medical records,0.5
+adequate protection in terms,0.5
+safeguard,0.6623074687590815
+person in prisons,0.0
+freedoms of others,1.0
+conclusion,1.3883437407077015
+such forced taking of sample,0.5
+unlawfulnes,0.5
+utility of the database,0.5
+kathi,0.25
+power of a court,0.6666666666666666
+prisons act,1.0
+i try,0.23768115942028986
+client,2.2968505695778423
+swamidoss,1.0
+security,1.5014864864864865
+personality disorganization,0.5
+matte,2.8064635761589405
+circumstances in which interference,0.5
+right to personal liberty,3.0
+scientific advance,0.2777777777777778
+matching,0.3246376811594202
+riddle,0.4375
+- testimonial compulsion force,0.0
+questions,0.9979150871872632
+wherever application,0.5
+assistance,0.8623872906826965
+suspect unless the information,0.5
+contentions,0.9641025641025641
+sense,0.8606303395157362
+hemlata,1.2
+california,0.2231534834992142
+fitnes of the parents,0.0
+kaushik,0.5
+provision of the persons,0.0
+circumstances,1.3944461370073231
+interference with respect,0.5
+enjoyment of the guaranteed rights,0.5
+lawyer,0.6086956521739131
+welfare,1.3226788432267886
+decree of divorce,1.5
+common sense,0.5497159090909091
+such prayer,0.5333333333333333
+personal liberty,1.7000000000000002
+high court,7.7477477477477485
+of such case,0.525
+subject matter of litigation,0.5
+lunacy act,2.0
+jurisdiction,2.9539571926331507
+trial,3.7979448350459712
+race,0.6810000694251597
+unsoundness,2.476190476190476
+use of scientific tests,0.5
+manu,7.078142071124147
+concern,2.0544958000579303
+term of disease entities,0.0
+power in terms,0.6666666666666666
+subject matter of determination,0.5
+comprehending,0.4
+joseph,0.4502673796791444
+role,1.0562959821210092
+rational evidence,0.5
+scale,2.0845464725643894
+attendance,0.5024271844660194
+margin,1.4244114002478314
+application of the best interests,0.5
+manutnmanutn,1.7
+patient s best interests,0.0
+to  personal liberty,0.0
+facts of a case fall,0.5
+child as a bastard,0.5
+w v s,0.5
+court in ram narain gupta v rameshwari manu  scmanu  sc,0.0
+health,0.8632619439868204
+pollard v wybourn,0.5
+fundamental right,2.9790209790209787
+divorce proceeding,0.5
+voirdire,0.5
+adverse inference if the party,0.5
+affinity between law,0.5
+privilege against self - crimination,0.0
+reamma,0.3333333333333333
+courts of this country,0.5
+bipinchandra,2.5
+moral,0.5688981042654029
+other opinion,0.5263157894736842
+measure,1.1941357983816498
+account of the substance,0.0
+cream of evidence,0.5
+v b,0.7349523013123539
+universal declaration,0.6000000000000001
+university,3.75675614961249
+various case,0.8
+committee s approach,0.0
+nhs,0.19047619047619047
+other statu,0.8
+petition for dissolution,0.6666666666666666
+infectious disease,0.14655172413793105
+seton,0.2857142857142857
+disorganization,0.8181818181818181
+indication,0.6940825616072829
+venereal diseases,1.0
+england,0.9336071184120466
+courts,2.1216528162511543
+specific provisions,0.8571428571428571
+residential homes,0.6666666666666666
+committee,2.546237803603864
+hindus,1.0576923076923077
+restriction,1.0123456790123457
+sufficient material before the court,0.5
+x  v hospital,0.0
+convention on human rights,0.8
+medical records,0.2142857142857143
+conspiracies,0.7304347826086957
+competence as a witness,0.5
+code,2.880559796437659
+determination of potency,0.5
+read with section,2.3513513513513513
+self-exhibition,0.0
+development of mind,0.5
+lord stowell in briggs v morgan,0.5
+risks,1.0984615384615384
+non-testimonial compulsion,0.0
+people,1.2855544825097243
+revision,1.6299226441631505
+dna marker,0.5
+reasons,1.3749054007567938
+penumbral rights of article,0.5
+fingerprints,3.7037037037037037
+terms,2.390350840909655
+preservation,0.7312500000000001
+collieries,0.75
+v lakshmikantham manu  apmanu  ap,0.0
+suspects as a matter,0.5
+for the state,1.0163934426229508
+that report,0.39
+alleged miscarriage,0.5
+matter right,0.5
+madras,2.836734693877551
+choice of words,0.2647058823529412
+best interest of the child standard,0.5
+vast majority,0.4747474747474747
+jury,1.6150283512963683
+responsible for an offence,0.5
+ors,2.8612718198296623
+implicit power of a court,0.5
+expert s report,0.0
+integrity,0.8973214285714286
+nullity,1.8235294117647058
+part,5.294464509893076
+incurable unsoundness of mind,0.5
+interference with article,1.0
+judge in mp,0.0
+goutam,1.0
+medical record,0.2
+following grounds,1.0
+litigation,1.4968553459119498
+dreams,0.18930041152263374
+ways,1.3640952708404963
+analysi,0.6883471219855659
+rights of the individuals,0.5
+that blood tests,0.5
+bombay,2.3134020618556703
+liberty of the person,0.5
+relation to the question,0.6666666666666666
+further transmission,0.5
+important interest,0.5
+aspect,1.2449448189023034
+speaking,0.6506672453075838
+shri,2.0759135877246115
+decisions,1.3888475974580996
+disease,0.6741573033707865
+character,0.9325990965842764
+arbitrations,5.037037037037037
+m venkatachallapati,0.5
+probe,0.2508532423208191
+rights of article,0.5
+incomplete development of mind,0.5
+aspect of the matter,1.4642857142857142
+such laws,0.43010752688172044
+situations,0.7435282837967402
+dna from suspects,0.5
+preliminary examination,3.25
+distinction,0.7312167973690868
+number of decisions,0.6050420168067226
+searches,1.0588235294117647
+psychotherapist - patient privilege,0.0
+determination,1.5980374665477253
+search,1.156007562422583
+attempted adjustment,0.5
+movements of an individual,0.5
+read,2.2147281730888695
+parentage of any person,0.5
+therapist,1.1351351351351353
+certain guidelines,0.875
+allow,1.7741115281252893
+following condition,0.65
+forced taking of sample,0.5
+conciliatory role,0.5
+hag,1.1501650165016502
+forth,0.7104532839962997
+satisfaction,0.6639095671353735
+parte,0.7168042010502624
+joint committee,2.0
+husband about the potency,0.5
+code of civil procedure,5.5636363636363635
+versu,0.31494252873563217
+instances,0.5974025974025974
+certain guideline,0.875
+father,1.4298716229162676
+sharma,0.9516994633273703
+hiv test with informed consent,0.5
+power under section,1.7142857142857142
+female respondent f v p,0.5
+rights angel,0.5
+fifth amendment privilege against self- incrimination,0.0
+wish tantamount,0.5
+community,1.3158036677454152
+marriage by a decree,0.5
+process errors,0.5
+expert witnes,0.3111111111111111
+appointment,3.1380281690140843
+adequate provisions,0.6666666666666666
+handwriting,1.5517241379310345
+explanation,1.4510159010600707
+dna,1.4985915492957746
+irresponsible conduct,0.2857142857142857
+morris,0.22778730703259006
+things to different people,0.5
+halsbury s laws,0.0
+schizophrenia,1.6363636363636362
+effect,2.184583388478191
+functional nonentity,0.5
+of the substantive article,0.5
+introduction,0.6363636363636365
+sufficient if the facts of a case fall,0.5
+sivakumari,0.5
+example of the types,0.5
+party to a divorce proceeding,0.5
+delivery,1.3054726368159204
+such directions,1.3333333333333333
+full participation,0.5
+norton,0.20553359683794467
+utility,0.6431972789115645
+discrimination in respect,0.5
+utility of the dna database system,0.5
+dissolution of muslim marriage act,0.5
+ummal,0.5
+disability,0.621301775147929
+independent examination of a parent,0.5
+jurisdiction article,0.6666666666666666
+other situations,0.25
+report of the mental capacity,0.5
+case of divorce,0.0
+complete agreement,0.45000000000000007
+hiv test amount,0.5
+science,0.6879334257975034
+notable example,0.5
+charles,0.3440366972477064
+fourth edition,0.45112781954887216
+judgments,1.2355646397547266
+consequence,0.8726692512593296
+violation of constitution,0.5
+intrusion into the lives,0.5
+representative,1.0617102796119673
+place,2.333104345208554
+conduct on the part,0.7777777777777778
+invasive treatment,0.5
+mental health professional,1.0
+following term,1.6170212765957446
+health professionals,0.16666666666666666
+paternity,1.9047619047619049
+child custody dispute,1.0
+process of case- by - case development,0.0
+business records,0.3333333333333333
+volume viii,0.5
+interest of the general public,0.5
+common law privilege,0.5
+rise to a cause,0.75
+zones,0.7703703703703705
+sex workers,1.0
+issue,2.766776251628934
+examination of a parent,0.5
+impres,0.5736401832014838
+society in the interests,1.0
+of article,2.1149999999999998
+charge of rape,1.5
+several judgments,1.0
+morgan,0.36303438661710036
+hanumangarh camp sangaria,0.5
+broad principle,0.75
+method,0.9027027027027026
+pierce,0.22
+experiment,0.43849431818181817
+samples,1.552941176470588
+steps for the improvement,0.5
+informed decision,0.6666666666666666
+sound legal basi for retention,0.0
+various cases,0.75
+petitioner,4.524972253052164
+equal opportunity,0.2873563218390805
+itp act,0.5
+orders,1.4936359300077826
+close affinity between law,0.5
+other privilege,0.5
+consideration in the present case,0.75
+claim on that state,0.5
+scientific probe,0.5
+shanti devi,1.0
+house of commons,0.7142857142857143
+happy married life,0.5
+expert s opinion,0.0
+client s incriminating records,0.0
+healthcare,0.19148936170212766
+decision of the andhra,0.6666666666666666
+case- by-case development,0.0
+ample authority denying,0.5
+grounds,0.9540208829455945
+medical examination of the person,0.5
+general public,0.5777777777777777
+hl paper,0.5
+private communication,0.25
+future utility of the dna database system,0.5
+court of this country,0.0
+delusion,0.32
+analogous to the american fourth amendment,0.5
+marriage,1.8031648351648353
+ground,1.4186722903211633
+grand jury,0.0
+court lead,0.6666666666666666
+question of retention,0.5
+ability,2.0097418327420304
+which result,0.5
+legal basi for retention,0.0
+misunderstanding,0.6
+liberty,0.7860465116279071
+decision of gujrat high court,0.5
+attacks of insanity,0.5
+mattes,0.8
+axiomatic that a court,0.5
+article,4.378806157159795
+vijaya,1.2857142857142858
+that certain law,0.5
+south,0.8254159150130287
+context of search,0.5
+arbitration,11.242690058479532
+prints,1.6483516483516483
+inference if the party,0.5
+case of a female respondent f v p,0.5
+conclusive proof,0.9444444444444444
+penal,1.8829173709853835
+european convention,0.5555555555555556
+yorkshire,0.6666666666666666
+revision petition before the high court,0.8
+such test,1.1428571428571428
+improvement,2.157706093189964
+inherent power in terms,0.5
+reports,1.0202012199952466
+amendment privilege,0.5
+lead,1.2638604161606346
+opinion,1.4960606342789635
+armando schmerber,0.5
+voidable,0.8011204481792716
+dna testing,0.5
+key,0.5648701829704589
+life  article,0.0
+regard article,0.6666666666666666
+scientific experiments,0.3333333333333333
+wybourn,0.5
+allegation of fraud,3.0
+schizophrenic  constellation of symptoms,0.0
+united state,0.5525959367945824
+country court cases,0.5
+genetic,1.40625
+sound mind indisputably,0.5
+scope,0.8412698412698413
+laws,1.4186274337269533
+relevance with the determination,0.5
+blood speciman for hiv test,0.0
+arbitrations by the arbitration act,0.5
+turn,1.6310093128618173
+guaranteed right,1.0
+workers,1.9961977186311788
+everyone,0.6963340891912321
+public safety,0.46511627906976744
+scientific test,1.0
+nanita sharma,0.5
+specific crime in question,0.5
+depreciation,1.8000000000000003
+- access,0.0
+lawful for samples,0.5
+mental disorder of a spouse,0.5
+for sample,0.4
+circumstance in which interference,0.0
+respect,2.6704963235294117
+such order,1.056910569105691
+psychopathic personality,0.5
+fcr,0.719758064516129
+physical interventions,0.5
+following issues,1.0833333333333333
+behavior,0.4553359683794467
+recording,1.3265454545454545
+example of the vital necessity,0.0
+expression,1.7424391201885312
+other high court,1.3333333333333333
+matrimonial home,2.1666666666666665
+guardian in terms of order,0.5
+shaik,2.9
+mental health professionals,0.5
+qualified experts,0.5
+voidable marriages,0.5
+violative,2.2972972972972974
+such disease exist,0.5
+husband,1.6418918918918919
+other situation,0.25
+process of disorganization,0.5
+rameshwari,0.5
+transmission of the virus,0.5
+briggs,0.1590909090909091
+bipinchandra shantilal bhatt,2.0
+substantial issue in the suit,0.5
+work,2.8478559811646353
+medical examination on the ground,0.5
+system,1.1230229504341178
+national security,0.4590163934426229
+points,0.7095682483711788
+sufficient if the fact of a case fall,0.0
+child s best interest,0.0
+allows,0.48592592592592593
+reference by order,0.5
+discrimination,0.8429118773946361
+such information,0.5
+versions of the parties,0.5
+competency,0.7000000000000001
+private life,0.8333333333333333
+which results,0.4632352941176471
+disabilities,0.8333333333333333
+legal aid,2.142857142857143
+opinions,0.735248687055916
+virtue,0.9167557066537153
+blood samples,0.30000000000000004
+question before the court,0.875
+judicial scrutiny,1.375
+enquiry,2.145762711864407
+right except,0.6666666666666666
+illness,0.883177570093458
+legitimacy,0.5472972972972974
+notions,0.49253731343283585
+convention compliant,1.0
+zuniga v pierce,0.5
+medical examination on behalf,0.5
+treatment of a doctor,0.5
+court for the purpose,1.1666666666666667
+prosecuting,1.125
+pathological test,0.5
+encyclopedia of the american constitution,0.5
+testimony,1.4407553107789142
+impotence,0.26666666666666666
+rule of evidence,0.75
+self-crimination,0.0
+dissolution of marriage proceedings,1.0
+present circumstances,0.5
+consent,1.224924012158055
+mandate of article,0.8
+public authority,1.4444444444444444
+adjustment,0.6982649174777825
+directive,0.621951219512195
+sound legal basis,0.5
+provision for medical examination,0.0
+institution,2.7327010745685443
+accordance,1.4069045211613462
+court proceeding,0.75
+accordance with the law,1.0
+detailed discussion,0.5823529411764706
+testimonial in character,0.5
+decision against the introduction,0.5
+state of attempted adjustment,0.5
+for samples,0.3333333333333333
+proces of disorganization,0.0
+word,2.065873981084096
+incrimination,0.26666666666666666
+investigation of an offence,0.5
+long term,0.5946428571428571
+chapter,1.3867471532446152
+spouse living at the time,0.5
+hiv positive case,0.5
+compulsion,0.6274509803921569
+parent,0.9965655833245622
+canada to department,0.5
+degree of injures,0.5
+behalf of the respondent,1.453125
+sundari,0.5
+name,1.8996570753072433
+unequivocal assurance,0.5
+few strong instances,0.5
+disability of mind,1.0
+requirements of article,0.8
+violation of the right,0.75
+english courts,0.6666666666666666
+such issues,0.5263157894736842
+special marriage act,0.5
+unequivocal assurances from the patient,0.5
+r rajagopal v state,1.0
+power of the medical officer,0.0
+account,2.5754891049671977
+purposes of section,1.3076923076923077
+condition for a hindu marriage,0.0
+incapacity,0.8888888888888888
+adjudication of this case,0.5
+case of a female respondent,1.0
+prayer,0.6969296987087519
+interference,0.5733527484528578
+constable,1.0606060606060606
+purpose,2.519170317925504
+trial court,3.854545454545455
+way of example,0.75
+unchaste woman,0.5
+examination of a party,1.0
+purpose of grant,0.875
+time,2.4764180952862667
+- disclosure,0.0
+regard to the future,0.5
+hands of a court,0.5
+v hospital,0.6000000000000001
+other dna markers,0.5
+such person,0.9634888438133874
+form of evidence,0.5
+strong instances,0.5
+exercise of such discretion,0.5
+reduction,0.8411214953271028
+materiality to the issue,0.5
+wigmore,0.5
+fact that other jurisdiction,0.5
+juvenile facility,0.0
+expert advice,0.6666666666666666
+power of government,0.38095238095238093
+murder,1.4968553459119496
+parties to the marriage,0.6666666666666666
+mother as an unchaste woman,0.5
+admissions,0.8529980657640233
+testimonial compulsion,1.5
+right,3.07483248288682
+various right,0.75
+decision under the act,0.5
+mind of the plaintiff,1.0
+relevant statutory provision of the hindu marriage act,0.0
+about this constellation in each case,0.5
+considerable assistance to the court,0.5
+experiments,0.6394736842105264
+prohibition,1.9087256027554533
+nothing to the investigation,0.5
+common,1.4619971980191346
+mandate,0.8783810859547183
+indian evidence act,1.3125
+public interest,2.380434782608696
+absence,1.092363454568179
+type,0.8102172691515265
+counsel,2.2246780703440323
+state statutes,0.5
+way in which judges,0.5
+rules,3.130914366958792
+federal rules,0.6666666666666666
+issue in the suit,0.5
+jurisprudence,1.088888888888889
+substantive article,0.5
+special powers,0.30000000000000004
+integrity although the law,0.5
+guilt in the first place,0.5
+recognition of a fundamental right,0.5
+welcome feature,0.5
+medicinal technology,0.5
+mental retardation,0.5555555555555556
+kharak singh v state,1.0
+atmosphere,0.3046594982078853
+amendment privilege against self- incrimination,0.0
+insemination,0.2222222222222222
+abram,0.25862068965517243
+finding that the applicant,0.5
+play,0.5464427772208388
+risk,1.2477718360071302
+kalu,0.8292682926829267
+mental,2.7818434682524456
+matte of aforesaid nature,0.0
+dispute,2.402137592137592
+that a court,0.8333333333333334
+other governmental agencies,0.5
+life insurance,1.5714285714285714
+results,0.6487493619193466
+psychopathic disorder,1.0
+prisoner wanting,0.5
+welcome feature in courts,0.5
+rights of disabled persons,0.5
+conditions,1.9988092071092867
+person for compulsory,0.5
+united states,0.5498850574712644
+other tests,0.5
+artism,0.5
+moreover,0.7807228915662651
+as sex,0.5
+crimes,0.7056429734129138
+benefits to society,0.3333333333333333
+circumstance of the case,0.5
+- litigant,0.0
+case,7.332269420884958
+error,1.059158294766151
+roving inquiry,1.0
+competence,3.09375
+example,0.5893965031020868
+prime concern of the court,0.5
+battery,0.4206773618538324
+bankrupt,0.48571428571428577
+affair,0.8341728395061728
+infected person,0.30000000000000004
+physical intervention,0.5
+in this behalf,1.6
+ambit,1.0862754267009587
+retention unless the fingerprint,0.5
+injuries,2.4130008710801394
+suffer from an illness,0.0
+psychological factors,0.3333333333333333
+lord woolf,0.5
+future,0.9664487618116651
+scientific data,0.2692307692307692
+case under section,1.1111111111111112
+mere choice,0.3333333333333333
+court of law,0.673963133640553
+incriminating records,0.5
+which divorce,0.5
+rape,1.6904761904761905
+ct app,0.5675675675675675
+contention,1.666391070690368
+to the aim,0.5
+progressive in deterioration in the level,0.5
+collins,0.3506849315068493
+rehabilitation,4.416666666666667
+seizure,0.6583598956824108
+interventions,0.20588235294117646
+checking of the integrity,0.5
+bombay v kathi kalu,0.5
+speed,1.9085752419085753
+further transmission of the virus,0.5
+unfit for marriage,0.5
+dna samples despite article,0.5
+testimonial dimension to the forced admissions,0.5
+bench,2.5793391667754992
+negative unit,0.5
+violation,1.2087401208740118
+r rajagopal v state of tamil nadu,1.0
+utmost importance,0.6666666666666666
+sex-crimes by psychiatric examination,0.0
+contention in support,0.0
+violative of article,2.1379310344827585
+course of such proceedings,0.5
+in a democratic society in the interests,1.0
+hand of a court,0.0
+nanita,0.5
+for therapeutic planning,0.5
+cavil that a marriage,0.5
+large number of decisions,1.0
+reliability of the advance directive,0.5
+respondent avoids,0.5
+incomplete development,0.5
+patient s best interest,0.0
+somebody,0.5581624605678233
+subject to restriction on the basis,0.5
+moral integrity,0.5
+privacy intrusion,0.5
+incurable venereal disease,0.5
+body,1.336775463480009
+order of the court,0.8888888888888888
+mental disorder,3.5
+illnes,0.883177570093458
+notice,2.3300025999395686
+progeny,0.6000000000000001
+incantation,0.2692307692307692
+legal basis for retention,0.5
+high court of judicature,1.4210526315789473
+as conspiracies,0.5
+order for an inspection,0.5
+privacy,0.9812310030395137
+dissolution,2.888888888888889
+participation,1.138392857142857
+aforementioned contention,1.0
+non-acces,0.0
+most jurisdiction,0.2
+materials,1.1534090909090908
+constitutionality,0.7965517241379311
+delhi administration,1.2727272727272727
+documentary expert medical evidence,0.5
+marriage contract on the ground,0.5
+disturbance,0.5303030303030303
+effort,0.7536036036036036
+patent,1.3540828816226613
+violation of the person,0.5
+strained construction,1.0
+as mohammad ibrahim,0.5
+discretion against disclosure,0.5
+compellable as a witnes,0.5
+construction,2.2504918032786887
+interference with the person,0.5
+parent s ability,0.0
+lawful search,0.5
+individuals,0.7198633479746219
+national trust for welfare,0.5
+probe by virginity tests,0.5
+reasonable ground,0.7777777777777778
+value,1.7137907830478438
+shanti devi v,0.5
+documents,1.142515923566879
+other high courts,1.0
+ehrr,0.2857142857142857
+mental health act,1.5
+constellation of symptoms,0.5
+legal basis,0.4444444444444444
+for an offence,1.0256410256410258
+air,2.0589664272145285
+devi,1.2339221178171305
+justice consultation paper,0.5
+way of legal aid,0.5
+gorean,0.17592592592592593
+mere branding of a person,0.5
+versions,0.34412698412698406
+laznovsky v,0.5
+gautam kundu v state,0.5
+healthy life,0.6666666666666666
+involves,0.6055312954876274
+feelings,0.5829725829725829
+regard to article,1.0
+change in the law,0.2777777777777778
+interests of the general public,0.75
+ald,0.6445343725019984
+camp,1.917373271889401
+legislature,2.818553268765133
+recourse,0.9157232704402517
+such condition,0.6407322654462243
+sex-crimes,0.0
+gravity of the result,0.5
+breach of the convention,0.5
+conduct,1.5998023165163158
+preponderance of evidence,0.3333333333333333
+matrimonial disputes,1.0
+such unsoundnes,0.5
+first that any change in the law,0.5
+i regret,0.38518518518518524
+roberts,0.294017094017094
+led,4.4088449486125985
+acceptable piece,0.5
+dictate of principle,0.5
+such regulation to constitutional limitations,0.5
+living body,0.5
+treatments,0.2092198581560284
+new technology,0.6044444444444443
+madhya pradesh,2.9583333333333335
+narain,0.4978662873399715
+intelligence,0.5581881533101045
+judges,2.0931496919173616
+provisions of the convention,1.0
+feeling,0.4897158322056835
+regard mechanical passing,0.5
+paper,1.8076689487632511
+protection of rights,1.0
+register,1.2311946902654867
+indian penal code,5.264705882352941
+concern of the court,0.6666666666666666
+interpretation of the phrase,1.0
+movements,0.4406779661016949
+assurance from the patient,0.0
+movement,0.8351097178683385
+exchange of medical reports,0.5
+hand,2.0299623418254717
+organization,1.1323094113464371
+appreciation,0.7282229965156793
+session judge,1.3333333333333333
+equal,1.322635135135135
+statutes,0.9659824046920822
+busines,2.8488759960122034
+forced admission,0.5
+relevant periods,0.8
+express provision,1.15
+right of a private party,0.0
+appellant,14.387096774193548
+bengal manu  scmanu  sc,0.0
+madra,2.836734693877551
+child custody determination,0.5
+human rights,0.9865951742627346
+samples permit,0.5
+question of the unsoundness,0.5
+privilege expectation,0.5
+transmission,1.1157457081545064
+which interference,0.5
+relevant statutory provisions,0.8
+public,2.923239095873367
+permissible nugatory,0.5
+answer,0.9554305705177771
+protection of health,1.0
+examples,0.4418212478920742
+in character,0.6640316205533597
+curt,0.4694835680751174
+doubt about the chastity,0.5
+motor vehicles,2.5142857142857147
+dentist,0.2017543859649123
+chastity,0.5028248587570622
+infirmity,1.3095238095238095
+compellable as a witness,0.5
+court of appeal,0.6133333333333334
+biswa,3.4
+evidence of experts,1.75
+revision petition,2.6363636363636362
+prognosis,0.2222222222222222
+third unlawfulnes,0.5
+acceptable piece of evidence,0.5
+health records,0.6666666666666666
+alleged miscarriages,0.5
+point in issue,0.6666666666666666
+country court case,0.5
+burry,0.16666666666666666
+ongoing development,0.4
+contravention of the aforementioned provisions,0.5
+discovery of a patient-litigant,0.0
+justice to notions,0.5
+court over a period,0.6666666666666666
+situation,1.1254754682459434
+observations,0.7454584147497534
+attention,0.8724846605528799
+deadening influence,0.5
+prison,1.4542975696502667
+aids,0.4172803141875307
+freedoms,0.6401515151515151
+faculty,1.076595744680851
+other than mental retardation,0.5
+such provisions,0.5128205128205128
+innocent people,0.3539823008849558
+laznovsky,1.0
+fact of a case fall,0.0
+obtaining,0.82641065830721
+various court of this country,0.0
+trite law,0.6666666666666666
+disputes,2.3049883690876194

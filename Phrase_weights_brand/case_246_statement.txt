@@ -1,0 +1,1216 @@
+courts,2.1216528162511543
+fresh loans,0.5
+enactment,1.439950980392157
+fraction of the principal amount,0.5
+restriction,1.0123456790123457
+government,3.5583785424010483
+similarity,0.5698051948051948
+portion of the principal amount,0.5
+sight,0.6194871794871795
+director,1.3549769585253457
+repayable within a stipulated period,0.5
+railways,6.025974025974025
+similar corporations,0.5
+third parties with higher offer,0.5
+senior division,2.1
+state for education,0.5
+aforesaid position,0.75
+frame,1.023976722714937
+bona fides,0.4385964912280702
+scope of judicial review,1.0
+constitution of india,3.0095238095238095
+own perspective,0.30000000000000004
+corporation with a view,0.0
+similar corporation,0.5
+doubt that the approach,0.5
+people,1.2855544825097243
+case against the colour,0.5
+investments,1.7287581699346406
+corporation inter alia,0.5
+term credit to industrial undertakings,0.5
+administrative authorities,1.4
+v wednesbury corporation,0.5
+view in mahesh chandra,0.5
+default in repayment,0.6666666666666666
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+following word,0.6763636363636363
+matters,1.4810665618448637
+instance,0.9469803370786518
+scrutiny  judicial review,0.0
+inter,3.683850287482992
+sale proceed,2.4166666666666665
+adjustments,0.4856321839080459
+distinguished judge,0.5
+due publicity,1.0
+education,2.1892608326253185
+new circumstance,0.5
+that the distinction,0.30000000000000004
+railway,5.321428571428572
+gem cap s case,0.0
+failure,0.7827962142086977
+associated provincial picture house,0.5
+principal,1.3412499999999998
+interest,2.74353772015385
+subsequent decisions of this court,0.75
+small industrial units,0.5
+court,12.24425115501509
+locus clasicks,0.5
+creation,0.5716118684843625
+madras,2.836734693877551
+aspects,1.0997620069447154
+buyers,1.0235690235690234
+union,2.0981927710843373
+dead horse without any conceivable result,0.5
+parliament,2.6571235781762095
+agreement,3.450434632433366
+regular payment,0.5
+financial assistance,2.7777777777777777
+wood,0.4294193744768282
+fact situation of the decision,0.6666666666666666
+objection,1.68120480131216
+person,4.291511329454258
+ors,2.8612718198296623
+observations in mahesh chandra,0.5
+judgment for the judgments,0.0
+ventral of willes,0.5
+mahesh chandra,4.666666666666667
+further delay,0.45000000000000007
+way,1.7812722068664852
+contours of the doctrine,0.5
+provisions of the statute,1.2
+ambala in civil appeal,0.5
+state deals,0.5
+fide of the respondents,0.0
+provision of the statute,0.5
+part,5.294464509893076
+civil judge,3.2142857142857144
+entire aspect,0.6666666666666666
+financial,2.2822547614171618
+description,0.8190476190476191
+one - way street,0.0
+basi of the information,0.0
+last installment,1.5
+lord denning,1.2
+own light,0.5
+houses,1.0821764442454098
+several state government,0.5
+central industrial financial corporation,0.5
+rule of law,0.5359801488833746
+act of parliament,1.0
+- judicial action,0.0
+facility,1.2989690721649485
+foot in the name,0.5
+act unless the aforesaid,0.5
+respondents within a month,0.5
+aspect,1.2449448189023034
+non-payment,0.0
+bidders,1.2857142857142858
+district,1.5506763074237984
+decisions,1.3888475974580996
+funds,3.352010547132498
+contrary to the letter,0.5
+decision,2.9514937765898557
+bona fide,0.9259259259259259
+court of the civil judge,0.5
+general description,0.3333333333333333
+reliance on a decision,0.75
+aforesaid,2.592896174863388
+maximum public participation in the process,0.5
+micro,0.4806896852005051
+situations,0.7435282837967402
+borrower unit,0.5
+subsequent decision,1.1428571428571428
+third parties,0.4090909090909091
+borough counsel,0.5
+house,2.0021735292386764
+observation in mahesh chandra,0.0
+that no reasonable person,0.6666666666666666
+sipcot,0.5
+distinction,0.7312167973690868
+appeal,3.4125488033856883
+more money,0.24060150375939848
+dues by the corporation,0.5
+part of the administrative authorities,0.5
+first appellate court on the decision,0.5
+sick industrial unit irrespective,0.5
+respective installment,0.5
+valuation of a unit,0.5
+scr,2.483838975311538
+that action,0.4129032258064516
+contromix,0.5
+v union of india manuscmanusc,1.8275862068965518
+installments of payment,0.5
+quasi - judicial authority,0.0
+land,6.337534028705619
+payment of the amount,1.3
+fact situation,1.3333333333333333
+interpretation,1.518366298484459
+cast rubber,1.0
+minimal portion,0.5
+industrial unit irrespective,0.5
+advice,0.7581699346405227
+quasi-judicial authority,0.0
+learned counsel for the respondents,1.394736842105263
+installment of rs,0.6666666666666666
+month,1.3454861111111112
+year,2.8349484769759212
+business magazines,0.5
+cost of public funds,0.5
+stage,1.1298537871524448
+fresh loan,0.6666666666666666
+alia,0.9479866480753792
+genuine intention,0.5
+interpret statute,0.5
+obligations,0.9121212121212122
+- payment of the installment,0.0
+defendants,2.3554376657824934
+loan under section,0.5
+judgment,3.288216560509554
+science v,0.25925925925925924
+realization of the installments,0.5
+whereby judgment,0.5
+administrative action,1.25
+flexibility,0.5538461538461538
+power of the courts,0.5
+own attention,0.5
+incorporation,1.238095238095238
+financial corporation,3.5
+pages,0.4777568922305764
+power under section,1.7142857142857142
+order,5.472481489660944
+own facts,1.125
+act,12.870263922028107
+minimal portion of the principal amount,0.5
+buyer,1.8515283842794759
+karnataka state,1.625
+appropriate thereto,0.5
+chronic defaulter,1.0
+endeavour,0.5318181818181819
+stipulated period,1.0
+date amount,0.5
+allied,0.5846153846153845
+statute in question,1.0
+phrases,0.5062794348508634
+loan installments,0.5
+many time,0.4133064516129032
+intended object,1.0
+morris,0.22778730703259006
+state government,3.027142857142857
+provision of a statute,0.75
+familiar with the phraseology,0.5
+path to justice,0.5
+quasi-judicial authorities,0.0
+deal with the property,0.5
+first appellate court,3.727272727272727
+other suitable mode,0.5
+nutshell,0.4695121951219512
+intervene,0.6112909025530385
+passage,0.6514737598849748
+list,4.014941314095513
+right accrue,0.6666666666666666
+manner,1.4494591333432125
+present case show,0.6666666666666666
+reliance on decisions,0.6666666666666666
+setting,0.7533735285673271
+that no sensible person,0.5
+unit of the respondents,1.0
+parties,1.8210828547990157
+bad debt,0.5
+valuation,2.0129870129870135
+counsel for the corporation,0.5
+unit holder,2.3333333333333335
+maximum price,1.0
+power by the financial corporation,0.5
+with the phraseology,0.5
+relationship between the corporation,0.5
+appellate court on the decision,0.5
+section,9.287987283173626
+available to the administrative authorities,0.5
+mahesh chandra s case,0.0
+further delay in realization,0.5
+science,0.6879334257975034
+yearly installments,0.5
+discretions,0.2
+path of justice,0.5
+securities,8.22857142857143
+such adjustment,0.5
+correct law,0.9230769230769231
+moneylender,1.25
+ipsissima ventral of willes,0.5
+opportunity to the defaulter,0.5
+appellate,2.561224489795918
+condition,2.259476395625584
+judgments,1.2355646397547266
+everybody,0.39999999999999997
+action of the administrative authority,0.5
+speech,1.9520676691729324
+mala fide,1.75
+conscious decision,0.4444444444444445
+sale by private negotiation,0.5
+lord morri,0.6666666666666666
+other than the high courts,0.5
+factual background,1.0
+place,2.333104345208554
+functions,1.326241134751773
+circumstance,1.429931390219372
+civil,2.126558634963905
+industrialization,0.7142857142857143
+order of quasi-judicial authorities,0.0
+classic passage,0.5
+price by public auction,0.5
+industrialization of the states,0.5
+regulation,4.3783195107648485
+other than the high court,0.5
+participation of every person,0.5
+dead wood,0.5
+months from the first disbursement,0.5
+advance,1.2070333024745414
+deed of the corporation,0.0
+installments with interest,0.5
+lord reid,0.8333333333333334
+peril,0.5499181669394435
+regard,2.723310344827586
+adequate publicity,0.5
+difficulty,0.656910569105691
+proper perspective,0.6000000000000001
+repayment,1.5
+to the administrative authority,0.0
+context,0.9269383697813122
+wrong decision,0.75
+public money to private account,0.5
+basis of the information,0.6666666666666666
+long term credit,0.5
+following words,0.6763636363636363
+dock,0.5271565495207667
+breathing time to the unit,0.5
+proces,1.627944583238701
+case of quasi - judicial action,0.0
+direction,1.8495050210098996
+advertisements,0.5450733752620546
+necessary for judge,0.5
+money,1.6567889044524557
+modality,0.0
+to the administrative authorities,0.5
+industrial financial corporation,2.0
+unlimited fund,0.3333333333333333
+court in gem cap,1.0
+facts,1.4696673624372698
+month from the date,1.2222222222222223
+room for reasonable people,0.5
+which side,0.25
+arrangement,0.7318181818181818
+course of action,0.5886970172684458
+- judicial authority,0.0
+great weight,1.0
+naini oxygen,1.0
+powers of the authority,0.6666666666666666
+assets of the industrial concern,0.5
+discharge,1.305219638242894
+daily newspapers,0.4
+corporation for grant,0.5
+basi,2.0752712086391383
+equilibrium,0.375
+purview,1.0864197530864197
+powers,1.876345371920593
+circumstantial flexibility,0.8
+haryana financial corporation,0.6666666666666666
+latter decision,0.8
+financial corporation act,1.25
+method,0.9027027027027026
+bona fides of the respondents,0.5
+home,0.9826663267907214
+part of the property,1.0
+state deals with public money,0.5
+senior,1.989753211141579
+public funds,0.6666666666666666
+resemblance to another case,0.5
+units,5.004460400348129
+atkin,0.27627627627627627
+today,0.6330563683773655
+weight,0.7538461538461538
+cost,1.2954397451466992
+doctrine,0.7455954017243533
+orders,1.4936359300077826
+acetylene gas ltd,0.5
+good money,0.2777777777777778
+possession of the corporation,0.5
+basis,1.953226441078104
+installment with interest,0.0
+calculations,0.5769230769230769
+arijit pasayat,0.9230769230769231
+reality,0.6251091491219559
+sale proceeds,1.75
+statute definition,0.5
+directions,1.5134125183504605
+pretext,0.4131944444444444
+course,1.6545957498716626
+advertisement,1.5480769230769234
+breathing time,0.5
+setting of the facts,0.75
+euclid,0.18181818181818182
+industrial undertaking,2.0
+parties with higher offer,0.5
+judgment of courts,0.5
+extent of judicial scrutiny  judicial review,0.0
+basi of securities,0.0
+payments,1.0129870129870129
+bidder,1.4338235294117647
+v contromix pvt,0.5
+high courts,2.676470588235294
+industrial unit,2.8
+factual background of the case,0.5
+cordozo,0.5
+side of the line,0.5
+financial arrangements,0.75
+world of difference,0.5333333333333333
+deposit,2.1724508050089444
+change in the schedule,0.5
+airsc in the matter,0.6666666666666666
+sale of assets,0.5
+ground,1.4186722903211633
+corporation in exercise,0.5
+such nature,0.75
+megarry,0.3333333333333333
+factual situation fit,0.6666666666666666
+significant detail,0.6666666666666666
+jurisdiction under article,1.2857142857142858
+unlimited funds,0.3333333333333333
+opportunity,0.946186440677966
+disposal of seized units,0.5
+magazines,0.23493975903614459
+conceivable result,0.5
+xxx,1.8708487084870848
+function,1.6326372491145218
+thickets,0.5
+impugned judgment,2.0927152317880795
+grievance that corporation,0.5
+the constitution,2.878735388250949
+aforesaid guideline,1.0
+unwarranted opportunity to the defaulter,0.5
+money from the government,0.3333333333333333
+relation,1.397320207820618
+situation fits,0.6666666666666666
+loan,2.299059561128527
+matter,2.8088923076923082
+several state governments,0.5
+corporation v micro,0.5
+article,4.378806157159795
+scrutiny,0.912987012987013
+terms of the sanction letter,0.5
+price,2.8302710227712162
+enterprise,0.921565795175502
+machinery,0.9071637426900585
+such corporations,0.5
+- payment,0.0
+term,3.6255105640901575
+right to the financial corporation inter alia,0.5
+lac,2.403150042398463
+street,3.189100817438692
+fides of the respondents,0.5
+need of the intended borrowers,0.0
+borough,0.4975124378109453
+single significant detail,0.6666666666666666
+view,2.441100058469462
+liability,2.532836248924577
+partners,4.220858895705521
+other financial corporations,0.5
+opinion,1.4960606342789635
+provisions of a statute,0.8
+lord diplock in secretary,0.5
+best price for the property,0.5
+side,3.88845645915565
+dermot,0.2857142857142857
+commitments,0.45652173913043476
+contours,0.8076923076923077
+basic feature,1.0
+merit,1.2419290263876248
+intended object of the statute,0.0
+bodies,0.8969063256135499
+intended borrower,0.5
+respective installment towards the principal amount,0.5
+duty cast upon the borrowers,0.5
+upto date amount,0.5
+lord,1.6027618015615013
+sale of a unit,0.5
+recovery,3.9892473118279574
+unit,2.176678509944691
+judicial scrutinyjudicial review,0.5
+second appeal,4.5
+result,1.3356630184144715
+clasick,0.5
+delay,1.9544910179640715
+clear of obstructions,0.5
+relationship,1.1804123711340206
+material,1.4148767018946966
+procedure,2.552771605064117
+information,1.1320502836800534
+activity,1.3846153846153848
+scope,0.8412698412698413
+principles of natural justice,2.736842105263158
+loan account,0.5
+judicial utterances,0.75
+world,0.7808471033398942
+further interest of any corporation,0.5
+guideline,1.5641711229946524
+view of the trial court,0.5
+gas ltd,0.5
+statutory discretion,0.6666666666666666
+support,0.8630946786249609
+dishonest borrower,0.5
+tameside,0.5
+minor fraction of the principal amount,0.5
+ordinary moneylender,0.5
+provision,5.439002243350069
+lord atkin,0.6666666666666666
+financial corporation in the event,0.5
+good money after bad money,0.5
+theorems,0.4
+line with the legislative intent,0.5
+absurd that no sensible person,0.5
+seetharaman,0.25
+conclusions,0.8522069292833413
+large concerns,0.5
+installment of loan,0.5
+state deal with public money,0.0
+legislation,3.2032032032032034
+business,2.8512056385864457
+peculiar circumstance,1.0
+haryana high court in regular second appeal,0.5
+administrative authorities in such cases,0.5
+authority in such cases,0.0
+requisite procedure,0.75
+phrase,0.7269338303821062
+fact,3.6284951019474962
+modality for disposal,0.0
+owner,2.9502416709822197
+learned counsel,3.703333333333333
+bad money,0.5
+public property,0.888888888888889
+public participation,0.2777777777777778
+pasayat,1.0
+classic passage from the judgment,0.5
+building,3.870745432459903
+modalities for disposal,0.5
+own attention to the matters,0.5
+such cases,0.7390180878552971
+anr,1.1271033322299457
+asset of the industrial concern,0.0
+similar corporation with a view,0.0
+business magazine,0.5
+to the letter,0.47413793103448276
+complementary to the principles of natural justice,0.5
+financial corporation v micro,0.5
+guidelines in mahesh chandra,0.5
+dock co ltd v horton,0.5
+object,1.4940119760479043
+thereto,1.0358342665173572
+home office v dorset yacht co,0.5
+stand,1.8422769621739425
+latter decisions,0.5
+due,1.6178286949129652
+factual aspect,1.0714285714285714
+restrictions on the exercise,1.0
+naini,0.8888888888888888
+machinery in favour,0.5
+law in such manner,0.5
+work,2.8478559811646353
+which ordinary buyer,0.5
+highest price,1.0000000000000002
+due by the corporation,0.0
+support of the appeal,0.8888888888888888
+extent,1.410108024691358
+metropolitan borough counsel of tameside,0.5
+year from the date,1.5
+mahesh chandra s case place,0.0
+times,0.8987140267391797
+which corporation,0.5
+debtor,2.4615384615384617
+doubt,1.3646267723102583
+court in mahesh chandra,1.0
+light,0.8816192372754331
+restriction on the exercise,0.0
+most case,0.48484848484848486
+such case,0.7332761578044598
+years,2.5395804110508022
+arijit,0.9230769230769231
+price for the property,0.5
+similar corporations with a view,0.5
+exercise,1.9400726466785694
+which tender,0.5
+punjab,1.0438169425511197
+statutory violation,1.0
+papers,1.0564063453325199
+other financial corporation,0.5
+restrictions,0.7241671372106155
+opinions,0.735248687055916
+principle,1.9620890732001848
+general description of the things,0.5
+party,2.2250894654439723
+angle,0.4852556924225457
+review,1.3564101463582128
+installment of payment,0.0
+fair play,0.8333333333333334
+newspaper,1.4133350781914544
+undertakings,5.083333333333333
+that suitable bid,0.5
+definition,1.6460425937698666
+industrial financial corporation act,0.5
+within a stipulated period,0.5
+herrington v,0.6666666666666666
+qualification in new circumstances,0.5
+word in a legislative enactment,0.0
+case of administrative authorities,0.5
+yacht,0.2777777777777778
+lord atkin s speech,0.0
+factor,1.2878742338904643
+justice,2.292557084574302
+the act,5.708327371273712
+grievance,1.032529659395331
+repayment schedule,0.5
+request,1.1474439594584596
+liability to the financial corporation,0.5
+appellate authority,2.2
+offer,2.188208616780045
+chairman,1.3592677345537758
+colour,0.48673194267063996
+new circumstances,0.5
+case place,0.5
+judgments for the judgments,0.5
+second appeal before the punjab,0.5
+different fact,1.1428571428571428
+unnecessary restrictions on the exercise,0.5
+creditor,5.357142857142858
+decree,3.732408834103749
+situation fit,0.6666666666666666
+date,6.195616975795285
+gas,1.240010731232918
+fides,0.6470588235294118
+reconsideration in view,0.6666666666666666
+fraction,0.6662650602409638
+higher offer,0.6666666666666666
+realities,0.4081632653061224
+total loan,0.5
+possession of the unit,1.3333333333333333
+difficulties,0.570873786407767
+bank,9.40770083102493
+hearing,0.9644508209787979
+adjustment,0.6982649174777825
+attention to the matters,0.5
+respondent,4.757894736842104
+to the principles of natural justice,1.0
+willes,0.5
+schedule,2.9453067257945307
+accordance,1.4069045211613462
+following word of lord denning,0.0
+default,0.7094574436346588
+procedures,0.6129675045984059
+lawyers,0.5820642978003383
+installment thereof,0.75
+sale,3.3662581620085734
+question,2.980312372067635
+principles,1.3198511166253102
+breathing,0.20238095238095238
+intended objects,0.6666666666666666
+private negotiation,0.5
+feature,0.6446262956901254
+installments in time,0.5
+own fact,0.5761904761904763
+choice,0.6825955124317767
+execution,1.3041894353369763
+industrial units,2.2
+reasonable people,0.30000000000000004
+open to the corporation,0.5
+mala,0.727137439393212
+way industrialization,0.5
+comprehensive sense,0.6666666666666666
+that every endeavour,0.5
+approach,1.001908852302553
+part of an act,0.8
+own constitution,0.5
+scmanu,7.940520446096654
+amounts,0.9789856139834046
+available finance,0.5
+borrowers,1.0
+word,2.065873981084096
+dead horse,0.25
+london,0.48471615720524014
+step,0.8867024753460084
+need,1.1097650269586634
+regional manager,2.0
+purview of parliament,0.5
+months,1.1938163721148947
+amount,3.179688593072295
+individual moneylender,0.5
+requests,0.43076923076923074
+investment,3.057915057915058
+reliance on the decision,1.3333333333333333
+term credit,0.3333333333333333
+equilibrium of the financial arrangements,0.5
+such corporation,0.6666666666666666
+thereon,0.877037037037037
+mode,0.8201666928762384
+financial arrangement,0.75
+reid,0.2704354469060351
+subsequent decision of this court,0.0
+name,1.8996570753072433
+precedents,0.6333333333333333
+toward,1.0255939365170768
+business enterprise,0.5
+union list,7.5
+past,0.9553167330358714
+unreasonable that no reasonable person,0.5
+entry,4.707210447678601
+possible to such cases,0.5
+yearly installment,0.5
+temptation,0.5
+party with higher offer,0.0
+broad resemblance to another case,0.5
+high,5.367119186841496
+payment,2.059553716565686
+normal buyers,0.5
+matter of action,0.5
+needs,0.6897483569699066
+medium industries,1.0
+v union,1.5773809523809523
+natural justice,2.6666666666666665
+sic,1.1611481056257176
+account,2.5754891049671977
+corporation act,2.5
+enough security,0.0
+installment towards the principal amount,0.5
+event,1.4310854436179261
+subsequent decisions,1.3333333333333333
+purpose of this case,0.75
+maximum sale price,1.0
+line,1.6884436630262616
+duty cast,0.8333333333333334
+interest thereon,1.2857142857142858
+property,2.9368986630013745
+long term credit to industrial undertakings,0.5
+adequacy,0.6705882352941177
+associated,0.7201629327902239
+states,1.5120646995827023
+rules of interpretation,0.8
+creation of the mortgage,0.5
+prayer,0.6969296987087519
+suit,2.485274378207659
+objects,0.7297830374753452
+sanction letter,0.5
+result of tendered amount,0.5
+dues,1.2780386019822638
+defendant,3.7706855791962175
+purpose,2.519170317925504
+law,3.538923411654744
+karnataka,3.8596491228070176
+proceeds,1.083011583011583
+trial court,3.854545454545455
+change,1.2214862766571903
+locus,0.6133333333333334
+appellate court,3.1458333333333335
+observation,0.7625074854374218
+merit in the appeal,1.0833333333333333
+factual backgrounds,0.5
+time,2.4764180952862667
+cases,1.9728229418951067
+division,1.7657319129617017
+factual position,1.3333333333333333
+fact in the present case show,0.0
+normal activity of commercial banks,0.5
+loan installment,0.5
+words of a speech,0.6666666666666666
+auction,4.7739938080495365
+gem cap,3.5
+issuance,1.05379513633014
+possible course,0.3333333333333333
+huge amount for which ordinary buyer,0.5
+daily newspaper,0.4761904761904762
+locus clasick,0.5
+borrower,4.0625
+sum of rs,2.125
+board,2.401414435268602
+cap,1.6392142133228855
+adequacy of offer,0.5
+first installment of loan,0.5
+certain amount,0.4375
+interest of the corporation,0.6666666666666666
+content,1.5450574489970066
+principle of natural justice,1.0
+locu,0.5823659840876484
+financial corporation v gem cap,0.5
+corporation v gem cap,0.5
+financial assistance in the shape,0.5
+mortgage,8.214285714285714
+installments,1.9444444444444444
+path,1.307090626221047
+non,1.3417336444559675
+which reliance,0.9166666666666666
+maximum public participation,0.5
+grant,1.7314487632508835
+observations of courts,0.5
+commercial matter,0.5
+price on which tender,0.5
+british,0.46267029972752044
+to the principle of natural justice,0.0
+right,3.07483248288682
+hereinafter,0.7670609645131939
+authority over the decisions,0.5
+short the constitution,1.0
+bid,1.9753926494441585
+state governments,1.3345864661654134
+such change,0.6545454545454544
+shape,0.4645522388059702
+exception,1.1036946087733006
+advances,0.6333333333333333
+gem,1.3915645483043602
+intending participant,0.5
+in the discharge,2.5
+public interest,2.380434782608696
+stage in the sale,0.5
+counsel,2.2246780703440323
+deeds of the corporation,0.5
+sale of public property,0.5
+india,2.7684068260703585
+further interest,0.6666666666666666
+authorities,1.266131845134287
+industrial undertakings,2.4
+partners in a business enterprise,0.5
+repayment of principal amount,0.6666666666666666
+rules,3.130914366958792
+note of ground realities,0.5
+state deal,0.5
+thicket,0.6666666666666666
+industrial,5.673304955913652
+ploys,0.41212121212121217
+associated provincial picture houses,0.5
+commitment,0.382608695652174
+facts in the present case show,0.5
+peculiar circumstances,1.0
+credit,2.9526050420168066
+realization,0.6944444444444444
+perspective,0.5639060811474604
+v naini oxygen,0.5
+tenders,1.0344827586206897
+defaulter,1.5555555555555556
+most cases,0.48484848484848486
+loans,0.7388888888888888
+civil suit,0.7413793103448276
+morri,0.22778730703259006
+attention of an intending participant,0.5
+amount of discretion,0.75
+russell,0.4098124098124098
+corporation in the event,0.5
+play,0.5464427772208388
+wide publicity,0.5555555555555556
+matter of disbursement,0.5
+reschedule meant,0.5
+intention,1.7585585585585588
+for judge,0.3636363636363636
+ltd,2.382356477306883
+loan from the corporation,0.5
+disposal,1.1180555555555556
+to such case,0.5
+industry,8.208106219426973
+reasonable person,0.47058823529411764
+condition that sale proceed,0.5
+secretary,0.9217877094972067
+word of statutes,0.0
+conditions,1.9988092071092867
+decision of this court,2.3260869565217392
+madras-,0.0
+haryana high court,2.1538461538461537
+words in a legislative enactment,0.75
+sale price,1.3204633204633207
+negotiation,0.6679035250463822
+reliance,1.400763358778626
+horse without any conceivable result,0.5
+amount for which ordinary buyer,0.5
+such manner,1.0909090909090908
+ploy,5.064456721915285
+detail,0.9737454684220567
+addl,1.303854875283447
+true that the distinction,0.5
+tendered amount,0.5
+disbursement,1.7
+lord morris,0.6666666666666666
+oxygen,0.3401360544217687
+case,7.332269420884958
+difference,0.8774847235514982
+authority over the acts,0.5
+period,1.9480170842427122
+chronic deliberate,0.5
+public participation in the process,0.5
+tenderer,2.0
+lending,1.25
+scc,1.941872465904902
+deeds,1.0200708382526564
+contour of the doctrine,0.0
+lengthy discussion,0.30000000000000004
+appellate authority over the decisions,0.5
+constitution,3.204842342342342
+letter,2.707240080105903
+observation of courts,0.0
+position of a trustee,0.5
+normal buyer,0.5
+huge amount,0.5142857142857143
+tender,1.2253313696612664
+fide,0.8955057484612704
+work of industrial financial corporation,0.5
+discussions,0.6699766355140188
+power of the authority,1.0
+bona fide of the respondents,0.0
+intended borrowers,0.5
+purposes,1.4391216613438835
+till date,1.2352941176470589
+undertaking,2.8508771929824563
+orders of quasi-judicial authorities,0.0
+arrear,1.4666666666666666
+governments,1.020200276243094
+many times,0.413279132791328
+euclid s theorems,0.0
+other interpretation,0.40384615384615385
+description of the things,0.5
+installments action,0.5
+portion,1.0756311179804223
+quasi - judicial authorities,0.0
+date of execution,0.8333333333333334
+therefore,2.960332350576253
+public auction,3.0
+financial corporation inter alia,0.5
+ventral,0.3333333333333333
+inter alia,1.3280423280423281
+rule,5.04
+words of statutes,0.5
+proceedings,1.7670925223666287
+favour,1.653145208700764
+counsel for the respondents,1.425531914893617
+money to private account,0.5
+lord diplock,0.5
+activity of commercial banks,0.5
+interpret statutes,0.5
+regular realization of the installments,0.5
+installment,1.9047619047619049
+supra,2.246342614440774
+commercial bank,2.75
+duty,3.2272215973003378
+chandra,0.7012987012987013
+denning,0.6278538812785389
+violation,1.2087401208740118
+judicial utterance,0.75
+obstructions,0.4571428571428572
+civil appeal,2.2413793103448274
+medium,0.7537688442211055
+office,3.5913445886237847
+respondents,2.6341263330598856
+pvt,0.8625817965496728
+mahesh,1.3214285714285716
+horton,0.16129032258064516
+such sale,1.5151515151515154
+decree in civil suit,0.5
+rubber,1.0302511415525113
+corporations,1.2988235294117647
+of obstructions,0.5
+unnecessary restriction,0.4444444444444444
+wlr,0.396
+discretion,1.2998211091234348
+failure of justice,1.7142857142857142
+such adjustments,0.5
+statutory discretions,0.5
+permanent injunction,1.5555555555555556
+distinguished judges,0.5
+body,1.336775463480009
+process,1.6274942048088725
+guideline in mahesh chandra,0.0
+best price,0.6666666666666666
+suitable bid,0.5
+backgrounds,0.32258064516129037
+seized units,0.5
+non-payment of the installment,0.0
+term of the sanction letter,0.0
+which side of the line,0.5
+british railways board,0.6666666666666666
+action under section,1.6
+fiduciary relationship,0.4444444444444444
+dominant consideration,0.5
+india manuscmanusc,1.8333333333333333
+intent of section,0.5
+district judge,2.1684981684981683
+trustee,1.466666666666667
+small industrial unit,0.5
+dorset,0.3333333333333333
+indulgence,0.5333333333333333
+regular second appeal,0.6666666666666666
+power,3.8165227690948367
+matter of administrative action,0.5
+ample opportunity,0.42857142857142855
+first disbursement,0.5
+participation,1.138392857142857
+management,1.6732611752395274
+violation on the part,0.5
+to such cases,0.5
+injunction,2.1512605042016806
+steps,1.169318181818182
+assistance in the shape,0.5
+loan amount,2.0
+concerns,0.9134645423305218
+lending ie,0.5
+such step,0.8333333333333334
+graving,0.5
+proprietor,1.0303030303030303
+consideration matter,0.5
+effort,0.7536036036036036
+industrial concern,1.0
+seized unit,1.5
+reason,2.6381270903010035
+nature of the property,0.6666666666666666
+large concern,0.5
+highest price on which tender,0.5
+principal amount,2.4
+position,1.549133168619177
+such steps,0.8571428571428572
+- judicial authorities,0.0
+due to the corporation,0.5
+participant,0.37430555555555556
+views,0.6965871413779037
+installment in time,0.0
+calculation,0.8853448275862068
+ordinary buyer,0.5
+guidelines,1.540251572327044
+commercial matters,0.5
+administrative authority in such cases,0.0
+phraseology,0.5142857142857143
+haryana,2.935064935064935
+consideration,1.9110153789142115
+euclid s theorem,0.0
+government of india,4.94
+clasicks,0.5
+sick industrial unit irrespective of the cost,0.5
+money after bad money,0.5
+fund,2.9945256868353374
+public fund,0.5526315789473685
+unnecessary restrictions,0.4444444444444444
+words,1.6384367086179112
+right accrues,0.6666666666666666
+assails judgment,0.5
+plea,1.4430487701432178
+medium industry,0.0
+relation to exercise,0.5
+than the high courts,0.5
+fairnes,0.5708245243128964
+appellate authority over the acts,0.5
+certain amount of discretion,0.6666666666666666
+modalities,1.0
+essential that every endeavour,0.5
+arrangements,0.6399535423925667
+utterances,0.45000000000000007
+sensible person,0.6666666666666666
+acts,1.9133929521984454
+holder,1.8472993827160495
+aforesaid guidelines,1.0
+same facility,0.5
+premium,1.799652777777778
+minor fraction,0.5
+case of failure,0.5
+unsurmountable difficulties,1.0
+condition that sale proceeds,0.5
+court in up,1.5555555555555556
+lengthy discussions,0.5
+theorem,0.25961538461538464
+than the high court,0.5
+short the act,1.0714285714285714
+regular realization,0.5
+best price by public auction,0.5
+which corporations,0.5
+metropolitan,1.3088642659279779
+managing,1.4126463700234193
+legislative enactment,0.8333333333333334
+commercial banks,2.75
+challenge,1.2204566274399267
+other individual moneylender,0.5
+recourse,0.9157232704402517
+authority,2.4352627108360636
+judge,2.9012627415183325
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+seized unit in accordance,0.5
+newspapers,0.854368932038835
+wille,0.23749999999999996
+needs of the intended borrowers,0.5
+lacs,1.6941699604743086
+court intervene,0.5
+particular case,0.4358974358974359
+case at hand,1.0617283950617284
+cast,2.23102127865833
+such intimation,0.6666666666666666
+recourse to action,0.5
+magazine,0.28228228228228225
+scheduled time frame,0.5
+requisite procedures,0.6666666666666666
+corporation,3.6427750743444176
+reconsideration,1.0846153846153848
+decision of the corporation,0.6666666666666666
+prayer in the peculiar circumstances,0.5
+conclusion,1.3883437407077015
+third party,1.053291536050157
+such change in the schedule,0.5
+metropolitan borough counsel,0.5
+branches,0.5167464114832535
+interest of any corporation,0.5
+independent autonomous statutory body,0.5
+acetylene,0.25
+obstruction,0.47058823529411764
+reasonable time,0.7142857142857143
+instrumentality,5.555555555555555
+enough securities,0.5
+financial corporations,2.3333333333333335
+judges,2.0931496919173616
+partner,4.163434903047091
+security,1.5014864864864865
+room,0.6950710108604846
+page,1.011907905159212
+contour,0.515625
+products,1.6079404466501241
+background,0.6800452488687784
+paper,1.8076689487632511
+lord greene mr,0.5
+corporations with a view,0.5
+administrative authority,1.25
+basis of securities,0.5
+ground reality,0.0
+intended objects of the statute,0.5
+corporation as an instrumentality,1.0
+legislative intent,1.3823529411764706
+ambala,1.4
+assistance,0.8623872906826965
+task,0.5643819334389858
+mac,0.7401193861810312
+months from the date,1.3333333333333333
+banks,6.73024
+hand,2.0299623418254717
+kraipak,0.5
+background of the case,0.6666666666666666
+word of a speech,0.0
+proceed,2.930994380987473
+branch,2.8500288406075756
+factual situation fits,0.6666666666666666
+sense,0.8606303395157362
+loan agreement,1.0
+arrears,2.3209876543209877
+recovery proceedings,3.75
+occasion,0.7946745562130177
+statutes,0.9659824046920822
+possession,2.808810857389056
+no doubt,0.8331331503088538
+busines,2.8488759960122034
+factual aspects,0.9166666666666666
+possible course of action,0.3333333333333333
+qualification,2.1521739130434785
+circumstances,1.3944461370073231
+statutory violation on the part,0.5
+madra,2.836734693877551
+judgments of courts,0.6666666666666666
+obligation,1.1071428571428574
+regional,2.357638888888889
+decree for permanent injunction,1.0
+industrial unit irrespective of the cost,0.5
+ground realities,0.6666666666666666
+passage from the judgment,0.8333333333333334
+lawyer,0.6086956521739131
+functionary,0.5714285714285714
+following words of lord denning,0.5
+manager,1.7133044010756409
+autonomous statutory body,0.5
+xxx xxx xxx,3.176470588235294
+dock co ltd,0.5
+decree in civil appeal,0.5
+picture,0.6116621983914209
+product,2.242984858429713
+herrington,0.6666666666666666
+high court,7.7477477477477485
+functionaries,1.3333333333333333
+such in the discharge,0.6666666666666666
+quasi-judicial action,0.0
+diplock,0.5
+sanction,2.0167207792207793
+state,6.817996007300392
+statute,2.5765859456247218
+recovery proceeding,3.75
+jurisdiction,2.9539571926331507
+utterance,0.41666666666666663
+month from the first disbursement,0.0
+deliberate,0.8170731707317074
+note,1.3654108484234107
+public auction after adequate publicity,0.5
+consideration matters,0.5
+intent,1.8427075724373023
+of obstruction,0.3333333333333333
+trial,3.7979448350459712
+deal,2.1942302694273583
+first installment,1.5
+deed,1.3564447722662734
+scope of the industrial financial corporation,0.5
+judicial review,2.64
+mortgage deed,1.0
+manu,7.078142071124147
+private account,0.3333333333333333
+horse,0.3129770992366412
+concern,2.0544958000579303
+central,2.61875
+pretexts,0.2692307692307692
+wednesbury,0.6666666666666666
+language,0.8555828468744352
+auction after adequate publicity,0.5
+ipsissima ventral,0.5
+counter,1.0576470084371923
+payment of the installments action,0.5
+repayments,0.75
+airsc,1.6909090909090911
+appeal before the punjab,0.5
+authorities in such cases,0.5
+public money,1.1428571428571428
+resemblance,0.3283582089552239
+unnecessary restriction on the exercise,0.0
+case show,0.5333333333333333
+nature,1.4149926876444778
+premium to a dishonest borrower,0.5
+things,0.6162490788504054
+discussion,0.7445831166579996
+reserved judgment,0.5
+foot,0.7144861347422464
+intimation,1.105263157894737
+lord mac dermot,0.5
+third party with higher offer,0.0
+decision in mahesh chandra,2.0
+disposal of cases,1.25
+asset,3.0300107181136124
+request of the unit holder,0.5
+publicity,1.0266666666666668
+greene,0.22314049586776857
+repayment of the loan,0.8
+fairness,0.5844155844155844
+finance,1.9582470669427192
+close similarity,0.6666666666666666
+judgment for the judgment,0.5
+situation,1.1254754682459434
+sum,2.554898897856461
+precedent,0.8982341399607586
+observations,0.7454584147497534
+unwarranted opportunity,0.5
+normal activity,0.5
+attention,0.8724846605528799
+something,0.5915378827342709
+action,3.127292663476874
+such that suitable bid,0.5
+unsurmountable difficulty,0.0
+suitable mode,0.5
+court in karnataka state,0.5
+borough counsel of tameside,0.5
+to the corporation,3.857142857142857
+rule of interpretation,1.2
+broad resemblance,0.5
+assets,2.6879084967320264
+partner in a business enterprise,0.0
+industries,2.162068965517242
+debt,3.4485322896281807
+thing,1.1131787570209408
+provincial,1.2844444444444443

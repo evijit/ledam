@@ -1,0 +1,151 @@
+cwjc,0.9444444444444444
+admission,1.5389848246991107
+petitioner,4.524972253052164
+orders,1.4936359300077826
+manohar,1.1
+notice,2.3300025999395686
+writ,2.8882378560889794
+high court of judicature,1.4210526315789473
+indulgence,0.5333333333333333
+power,3.8165227690948367
+occasion arise,1.2
+thermal,0.8633841886269071
+occasion arises,1.2
+admission stage,0.5
+such right from the appellant,0.5
+ntpc,2.8767123287671237
+high,5.367119186841496
+valuable legal right of the citizen,0.5
+reason,2.6381270903010035
+court,12.24425115501509
+liberty by the high court,0.5
+event,1.4310854436179261
+force,1.6009408121948314
+writ petition,6.24223602484472
+petition,5.3436539306104525
+outcome,0.6303030303030303
+final judgment,1.7575757575757576
+remedy,1.3214024835646458
+arguments,0.7212211466865226
+justifiable reason,0.9
+cause,1.8431210321626654
+law,3.538923411654744
+valuable legal right,0.5
+that the petitioner,1.9230769230769231
+part,5.294464509893076
+time,2.4764180952862667
+liberty,0.7860465116279071
+matter,2.8088923076923082
+relation,1.397320207820618
+only grievance,0.75
+law in the event,0.6666666666666666
+legal right,0.6571428571428573
+force in this submission,0.75
+appellants,7.701086956521739
+subject matter,1.2537313432835822
+view,2.441100058469462
+decision,2.9514937765898557
+abhay,1.0
+representation to the national thermal power corporation,0.5
+competent authority,2.7142857142857144
+sapre,0.4
+side,3.88845645915565
+liberty to the appellant,1.0
+permission,1.1531211886018407
+clear that the petitioners,0.75
+representation before the competent authority,0.5
+national thermal power corporation,1.75
+other side,0.5701657458563535
+right from the appellant,0.5
+appeal,3.4125488033856883
+right,3.07483248288682
+clear that the petitioner,0.8
+recourse,0.9157232704402517
+court of judicature,1.4210526315789473
+authority,2.4352627108360636
+delay,1.9544910179640715
+facts of the case,1.161764705882353
+appeal in part,0.6666666666666666
+submission that the appellant,0.5
+record,2.5393414390845273
+counsel,2.2246780703440323
+stage,1.1298537871524448
+application,2.3322596088086445
+argument,0.9504580388560493
+corporation,3.6427750743444176
+adverse order,0.75
+abhay manohar sapre,0.6666666666666666
+fact of the case,0.0
+judgment,3.288216560509554
+subject matter of the representation,0.5
+remedies,0.6206451612903225
+subject,2.4420366233344897
+counsel for the petitioners,1.2666666666666666
+fact,3.6284951019474962
+order,5.472481489660944
+recourse to all legal remedies,1.5
+learned counsel,3.703333333333333
+representation to the ntpc,0.5
+relation to the dispute,1.0
+national,1.5126860273884035
+grievance in a court,0.5
+legal right of the citizen,0.5
+occasion,0.7946745562130177
+dispute,2.402137592137592
+submission,1.0913871684001404
+thermal power corporation,1.75
+that the petitioners,1.9285714285714286
+cause of action,2.1470588235294117
+appropriate court,0.8333333333333334
+such right,0.6951724137931035
+special leave petition,2.013333333333333
+same time,0.6913511801045461
+appellant,14.387096774193548
+citizen,1.261748909029876
+impugned order,2.265957446808511
+light of the order,0.6666666666666666
+patna,2.3421052631578947
+only grievance of learned counsel,0.5
+high court,7.7477477477477485
+detail,0.9737454684220567
+learned counsel for the appellant,1.7884615384615385
+same cause of action,1.0
+state,6.817996007300392
+case,7.332269420884958
+light,0.8816192372754331
+representation,1.2338308457711442
+herein,2.825259515570934
+notice to the other side,0.5
+legal remedy,0.6666666666666666
+appellant s writ petition,0.0
+indulgence to the appellant,0.5
+part of the impugned order,0.5
+recourse to the legal remedies,0.5
+future,0.9664487618116651
+same cause,1.0
+therein,1.5503424657534246
+order that the appellant,0.5
+grievance,1.032529659395331
+remedy in the court,0.5
+case if occasion arise,0.5
+notice of this appeal,0.5
+discussion,0.7445831166579996
+judicature,1.4210526315789473
+leave at the admission stage,0.5
+decision of the state,1.2222222222222223
+record of the case,1.0
+matter of the representation,0.5
+petitioners,3.536507936507937
+grievance before the ntpc,0.5
+agency,1.8968779259354924
+action,3.127292663476874
+case if occasion arises,0.5
+application in order,0.5
+facts,1.4696673624372698
+legal remedy in the court,0.5
+order that the appellants,0.5
+leave,1.0147842365477848
+leave petition,2.013333333333333
+law in relation,3.0
+patna in cwjc,0.5
+legal remedies,0.7857142857142857

@@ -1,0 +1,695 @@
+order of the high court,1.296875
+capacity,1.7421691881525676
+custodian of evacuee property,0.5
+revisional court,1.0
+restriction,1.0123456790123457
+shoes,0.5582706766917295
+mulk,0.25
+order of release,1.0
+banarasi,0.5
+vacancy,1.0666666666666667
+v k parameswaran pillai,0.5
+kerala buildings,0.6666666666666666
+east,0.8065147296612034
+bona fides,0.4385964912280702
+contempt petition,2.0714285714285716
+building in any capacity,0.5
+mind,1.1559066143122394
+locks,0.984863123993559
+das,1.508694082231246
+other hand,0.6931925622439332
+atma ram builders,0.5
+assistant district judge,1.0
+additional district magistrate,4.0
+revision,1.6299226441631505
+custodian,0.6233766233766234
+filing,1.1274190041313328
+terms,2.390350840909655
+interim order,2.9166666666666665
+evacuee,0.5
+preliminary objection that no special appeal,0.5
+uttar pradesh urban building,1.0
+son of dr  jd,0.0
+anybody,0.9486652977412732
+court,12.24425115501509
+case anybody,0.30000000000000004
+shoe of the landlords,0.0
+second innings,0.5
+single judge,4.011627906976744
+someone claiming,0.5
+objection,1.68120480131216
+person,4.291511329454258
+contention of the learned counsel,1.0625
+ors,2.8612718198296623
+cause,1.8431210321626654
+way,1.7812722068664852
+forty-eight hours from the date requisition,0.0
+receipts,1.884057971014493
+special leave petition on the terms,0.5
+more than thirteen rooms,0.5
+favour of landlord,0.5
+behalf,1.9888053603529987
+part,5.294464509893076
+judicial case,0.5
+review petition before the competent authority,0.5
+litigation,1.4968553459119498
+rajkumar,1.0
+ganpat,0.6881720430107526
+nothing,0.8658723322806009
+lucknow bench,0.6666666666666666
+conduct of respondents,0.5
+pillai,1.2222222222222223
+rent control inspector,2.0
+number,1.4802651440973922
+district,1.5506763074237984
+aforesaid view,0.9230769230769231
+finding that the occupants,0.5
+objections of concerned parties,0.5
+competent authority,2.7142857142857144
+bona fide,0.9259259259259259
+landlord,3.643181818181818
+hours in compliance,0.5
+physical possession,1.4166666666666667
+other person,0.9635036496350365
+history,0.5728887807252372
+banarasi da,0.5
+other respondents,0.8888888888888888
+appeal,3.4125488033856883
+round of litigation,1.8
+contemnor before the single judge,0.0
+save,0.579674406424581
+determination,1.5980374665477253
+pradesh urban building,1.0
+court of judicature,1.4210526315789473
+order-save as hereinafter,0.0
+abul kalam,1.0
+court in criminal miscellaneous case,0.5
+read,2.2147281730888695
+eviction proceedings,0.5
+hind,1.2454333585285966
+date requisition,0.5
+month,1.3454861111111112
+year,2.8349484769759212
+transferee,2.0
+sons of dr  jd,0.0
+stage,1.1298537871524448
+suit property,5.333333333333333
+release,0.9830403257846643
+judgment,3.288216560509554
+commendable in the case,0.5
+calculated attempt,0.3333333333333333
+lock,0.6127820822424298
+same arguments of fraud,0.5
+miscellaneou,0.5284090909090909
+firm of ganpat ram rajkumar,0.5
+premises after orders,0.5
+order,5.472481489660944
+order of eviction,0.5
+rai bahadur lakshman da,1.0
+allotment order,2.0
+act,12.870263922028107
+sub-section,0.0
+circumstance of the present case,0.0
+bahadur,1.0
+pursuance,1.543859649122807
+various occupant in violation,0.0
+whereby person,0.5
+effect,2.184583388478191
+decree of eviction,0.75
+alleged occupant,0.5
+dinesh,3.230769230769231
+court in writ petition,1.4615384615384615
+regulation of letting,1.0
+court of the assistant district judge,0.5
+delivery,1.3054726368159204
+fruit,0.7602602602602603
+parameswaran,1.0
+member,2.649111111111111
+parties,1.8210828547990157
+finality,1.1746031746031746
+kant,0.8185328185328185
+section,9.287987283173626
+more than thirteen room,0.5
+west bengal,3.3333333333333335
+condition,2.259476395625584
+above circumstances,0.875
+mrigendra,1.0
+place,2.333104345208554
+functions,1.326241134751773
+circumstance,1.429931390219372
+civil,2.126558634963905
+finding,1.8129183657767178
+building for the purpose,1.2857142857142858
+release under section,0.5
+eviction decree,0.6666666666666666
+regulation,4.3783195107648485
+demolition,1.105263157894737
+present case,1.5611814345991561
+judicature,1.4210526315789473
+whereby person in large number,0.0
+mr pradeep kant,0.5
+willingness,0.7818181818181819
+direction,1.8495050210098996
+west bengal on the basis,0.5
+perusal,0.750733137829912
+application for recall,1.0
+occupant,1.8116883116883118
+control,2.148867902684286
+facts,1.4696673624372698
+stage of the supreme court,0.5
+various occupants,0.5
+pradeep,3.5
+premise in question,0.0
+barrister,0.5
+office of cane commissioner,0.5
+reconstruction before the competent authority,0.5
+rooms,0.5689655172413793
+basi,2.0752712086391383
+form,2.4865961263718424
+building under section,1.0
+leave petition,2.013333333333333
+objections,1.2025072324011572
+powers,1.876345371920593
+cussednes,0.5
+way of sale deeds,0.5
+lack,0.6349809734425119
+method,0.9027027027027026
+alipore,4.0
+execution proceedings,1.3333333333333333
+days,1.6721350893491447
+case under haryana,0.5
+senior,1.989753211141579
+co-landlord,0.0
+today,0.6330563683773655
+petitioner,4.524972253052164
+lakshman,0.34285714285714286
+cost,1.2954397451466992
+orders,1.4936359300077826
+basis,1.953226441078104
+contempt,1.5446913580246913
+special appeal,1.25
+eviction,4.764705882352941
+premises in question,0.75
+assistance in execution,0.5
+delivery of the entirety,0.5
+high court in writ petition,1.1
+unauthorized occupant,1.5
+directions,1.5134125183504605
+respective contention of the learned counsel,0.0
+sub,7.816899313759727
+therefor,2.96088378499402
+respect of the building,0.5
+same arguments,0.2727272727272727
+arguments of fraud,0.5
+magistrate,3.522077922077922
+pal,1.6504163634893685
+company,5.864471879286695
+dispatch,0.9738805970149254
+alleged occupants under section,0.5
+private ltd v ak,0.5
+separate application,0.4444444444444444
+country,1.2903191103863751
+pradesh,4.365853658536586
+innings,0.2673611111111111
+hence,1.1440732910500353
+shashi,0.75
+order of allotment,1.0
+officer,3.1197242647058823
+firm,1.7435548272439818
+occupation of several tenants,0.5
+appellant anil kalra,0.5
+ground,1.4186722903211633
+cane,9.763837638376383
+letting,1.1424242424242426
+second round of litigation,0.5
+direction that the proceeding,0.5
+arguments,0.7212211466865226
+eviction proceeding,0.5
+xxx,1.8708487084870848
+view of law,1.0
+function,1.6326372491145218
+west,1.1420057009587976
+premise after orders,0.0
+vide order,1.7058823529411764
+contempt appeal,1.5
+fruit of the decree,0.0
+sale deeds,2.25
+matter,2.8088923076923082
+tenant,4.821212121212122
+rent,2.460251217077583
+criminal,3.301971081989414
+term,3.6255105640901575
+appeal nos,1.6666666666666667
+decree under execution,0.5
+appellants,7.701086956521739
+view,2.441100058469462
+humanitarian ground,0.5
+partners,4.220858895705521
+other capacity,0.5
+vide,4.454025282767798
+opinion,1.4960606342789635
+ganpat ram rajkumar v kalu ram,0.5
+dinesh kumar garg,1.0
+transferees,0.5
+objection that no special appeal,0.5
+cane commissioner,2.0
+assistant,1.6732837055417698
+rent revision,0.5
+swargiya,1.0
+midst,0.3448275862068966
+rent control,3.0000000000000004
+application before the competent authority,0.5
+release order,0.5
+other person in possession,0.5
+delay,1.9544910179640715
+bengal,1.9299191374663072
+tuli,0.19736842105263158
+information,1.1320502836800534
+up act,4.4298245614035086
+polouse,0.0
+uttar pradesh urban buildings,1.0
+city,2.544592792669584
+bengal on the basis,0.5
+occupants under section,0.5
+atma,0.48442970333517604
+duties under the act,1.0
+advocates,0.6153846153846153
+same argument,0.345679012345679
+hour in compliance,0.0
+respect,2.6704963235294117
+first,1.9006367208168047
+premises,1.290983606557377
+civil appeal nos,1.5416666666666667
+large number,1.0979284369114877
+fact,3.6284951019474962
+several occupants,0.5
+owner,2.9502416709822197
+learned counsel,3.703333333333333
+tenants,0.8391608391608391
+expression,1.7424391201885312
+direction from this court,0.6666666666666666
+nripendra pandey,1.0
+building,3.870745432459903
+duties,1.477142857142857
+islam,0.914674361088211
+that effect,0.6458333333333334
+deputy,1.1595268542199488
+clauses,1.5486111111111112
+special,1.7363344051446945
+hour,1.1326135248230613
+kumar,2.028839704896043
+stand,1.8422769621739425
+fraud,2.7602996254681647
+superintendent of police,2.1153846153846154
+owners,1.9409649385675758
+senior counsel for the appellant,1.7142857142857142
+swargiya sanjay gandhi sahkari avas samiti ltd,1.0
+miscellaneous case,0.75
+additional,1.4256530253244384
+affidavit,2.2996987951807224
+other respondent,0.9166666666666666
+years,2.5395804110508022
+nripendra,1.0
+report,1.7768151696835826
+hundred year,0.25
+form-d,0.0
+old building,0.5714285714285714
+whereby persons in large number,0.5
+party,2.2250894654439723
+v shashi,0.6666666666666666
+review,1.3564101463582128
+several tenants,0.5
+delhi,2.6089285714285717
+delivery of possession,1.5
+case of tenant,0.5
+evacuee property,0.75
+circumstances of the present case,1.0714285714285714
+finding that the occupant,0.5
+part thereof,1.6333333333333333
+perform,1.5531397174254318
+forty-eight hours,0.0
+second innings through someone claiming,0.5
+willingnes to hand,0.0
+same argument of fraud,0.0
+malpractice,0.72
+decree,3.732408834103749
+date,6.195616975795285
+fides,0.6470588235294118
+wasim,0.2857142857142857
+sons,2.7457346002031446
+rai,2.517873434808919
+forty year,0.26666666666666666
+pal singh manuscmanusc,0.75
+sister,1.0774703557312253
+objection of concerned parties,0.0
+society,2.1182859399684046
+other than the tenants,0.5
+sale deed,2.142857142857143
+occupants,2.048780487804878
+respondent,4.757894736842104
+requisition,1.7368421052631582
+ten years,1.3829279923700524
+inspector,1.2705882352941176
+day,1.550999710228919
+sale,3.3662581620085734
+banarasi das,0.5
+question,2.980312372067635
+transferees from swargiya sanjay gandhi sahkari avas samiti ltd,0.5
+zahurul,1.0
+execution,1.3041894353369763
+second round,0.38513513513513514
+gandhi,0.9090909090909092
+scmanu,7.940520446096654
+report from rent control inspector,0.5
+word,2.065873981084096
+gayatri devi,0.5
+view of the matter,1.7142857142857142
+writ,2.8882378560889794
+months,1.1938163721148947
+tenacity,0.37037037037037035
+allottee as the building,0.5
+first round,1.2427184466019419
+case in favour,0.6666666666666666
+whole conduct,0.5
+supreme court,1.4278957326045825
+meeramytheen,0.5
+first information report,1.9565217391304348
+competent court,1.380952380952381
+high,5.367119186841496
+brother,1.4566585956416465
+portion of the disputed premises,0.5
+dalibagh,0.5
+favour of the landlord,1.0
+force,1.6009408121948314
+forged rent receipt,0.5
+pandey,1.875
+migration,0.6171428571428573
+property,2.9368986630013745
+dismissal,1.614076246334311
+v additional district judge,0.5
+suit,2.485274378207659
+garg,1.542056074766355
+purpose,2.519170317925504
+help,0.7217940266720754
+law,3.538923411654744
+nos,1.2635492554198444
+observation,0.7625074854374218
+time,2.4764180952862667
+application for execution,1.3333333333333333
+conduct of the tenant,1.0
+tenant cease,0.5
+twenty year,1.103896103896104
+issuance,1.05379513633014
+sahkari,1.0
+in the case,1.732770745428973
+pakistan,0.22727272727272724
+forty years,0.26666666666666666
+second inning,0.30000000000000004
+unauthorized occupants,1.5
+above circumstance,0.875
+builder,1.1415929203539823
+hours,1.1644152367043934
+utmost dispatch,0.5
+occupant under section,0.0
+disputed premise,0.5
+hereinafter,0.7670609645131939
+matter pertain,1.0
+police help,0.8
+fruits,0.6605113636363636
+prohibition,1.9087256027554533
+spot,0.778096903096903
+aforesaid view of the matter,0.6666666666666666
+direction for execution,0.5
+miscellaneous judicial case,0.5
+atma ram builder,0.5
+lack of bona fides,0.5
+contemnors,1.4
+dwarika,1.0
+civil appeal no,2.1403508771929824
+reads,0.8722657304887929
+counsel,2.2246780703440323
+concerned party,0.5
+pradesh urban buildings,1.0
+application,2.3322596088086445
+kerala building,0.75
+than thirteen room,0.5
+writ petition by the high court,0.5
+perusal of the report,0.75
+various occupants in violation,0.5
+leave petition on the terms,0.5
+senior superintendent of police,0.5
+contentions of the learned counsel,0.75
+respective contention,1.0
+anguish,0.39
+builders,0.5416666666666667
+tenant ceases,0.5
+transferee from swargiya sanjay gandhi sahkari avas samiti ltd,0.0
+gayatri,0.6666666666666666
+banner of m  s,0.0
+control of rent,1.0
+finality with the dismissal,1.0
+kalu,0.8292682926829267
+son,4.595622484812135
+ltd,2.382356477306883
+matter pertains,0.5
+litigations,1.1818181818181819
+dubious method,0.6666666666666666
+dispute,2.402137592137592
+present matter pertains,0.5
+special leave petition,2.013333333333333
+period of fifteen days,0.75
+possession of thirteen rooms,1.0
+recall,1.8577938988095235
+willingness to hand,0.5
+alleged occupants,0.5
+court appeal,1.5454545454545454
+whole,0.951414768806073
+compliance,1.0029799914857385
+circumstance of the case,0.5
+above information,0.2857142857142857
+case,7.332269420884958
+period,1.9480170842427122
+authorized additional district magistrate,0.5
+occupants in violation,0.5
+scc,1.941872465904902
+zahurul islam,1.0
+deeds,1.0200708382526564
+ava,1.3539329040468908
+lease,1.2000155472636815
+respective contentions,1.0
+ram,2.11096203538064
+fide,0.8955057484612704
+execution proceeding,1.5
+innings through someone claiming,0.5
+singh,3.7791111111111113
+review petition,2.72
+preliminary objection,1.3125
+information report,2.0
+portion,1.0756311179804223
+maintainable against the order of the judge,0.5
+contention,1.666391070690368
+allottee,2.5555555555555554
+advocate,1.0791341991341994
+counsel for the respondents,1.425531914893617
+order of the judge,0.6666666666666666
+proceedings,1.7670925223666287
+favour,1.653145208700764
+duty under the act,0.5
+lucknow,3.4545454545454546
+fifteen days,1.2592592592592593
+mohammad,0.9375
+ganpat ram rajkumar,1.0
+duty,3.2272215973003378
+affected party,0.5
+bench,2.5793391667754992
+violation,1.2087401208740118
+civil appeal,2.2413793103448274
+competent,1.3701267639320736
+office,3.5913445886237847
+respondents,2.6341263330598856
+leave,1.0147842365477848
+date of filing,1.0588235294117647
+superintendent,1.2698412698412698
+dr mulk raj,0.5
+thirteen room,1.5
+costs,0.8167395522604189
+heir of rai bahadur lakshman das,0.0
+second,1.4990453300392075
+forty-eight hour,0.0
+possession despite the order,0.5
+several occupant,0.5
+rai bahadur lakshman das,1.0
+attempt,0.7943782192788815
+fifteen day,1.2592592592592593
+order of the court,0.8888888888888888
+execution petition,1.0
+allahabad,2.3404255319148937
+banner,0.1984126984126984
+district judge,2.1684981684981683
+favour of rai bahadur lakshman das,0.5
+avas,1.3575757575757577
+high court of judicature,1.4210526315789473
+that delivery,0.5
+power,3.8165227690948367
+person in possession,1.5
+miscellaneous,0.5284090909090909
+months  time,0.0
+police,2.9749362629783356
+premise,1.2347417840375587
+reconstruction,0.7857142857142856
+private,1.3048022500781278
+ltd  v ak,0.0
+dispute that the building,0.6666666666666666
+order of this court,2.125
+re-initiated from the stage,0.0
+building for reconstruction,0.5
+title,1.74290600761189
+separate application before the competent authority,0.5
+contemnors before the single judge,0.5
+intra,0.6386861313868613
+dispute in the present matter pertains,0.5
+supp,1.7223856594132256
+orders of the court,1.0909090909090908
+various occupant,0.5
+position,1.549133168619177
+writ petition,6.24223602484472
+petition,5.3436539306104525
+willingnes,0.7818181818181819
+part of the respondent,1.2222222222222223
+behalf of the firm,1.0
+ten year,1.3831258644536653
+than thirteen rooms,0.5
+argument of fraud,0.0
+pant,0.9369488536155202
+haryana,2.935064935064935
+consideration,1.9110153789142115
+appeal no,2.288135593220339
+m meeramytheen,0.5
+old buildings,0.5
+entirety,0.6814814814814815
+owner of the suit property,0.75
+alleged occupant under section,0.0
+words,1.6384367086179112
+abul,1.3737612081170363
+commissioner,2.271608643457383
+clause,3.526455026455027
+devi,1.2339221178171305
+displaced person,1.0
+vacant building,0.5
+decree - holder,0.0
+forged rent receipts,0.5
+others,0.9074667328904616
+fruits of the decree,0.5
+zahurul islam v abul kalam,0.5
+holder,1.8472993827160495
+anil,1.1751552795031055
+form-d before the rent control officer,0.0
+respondent nos,2.5185185185185186
+receipt,1.5471923536439667
+dubious methods,0.6666666666666666
+proceeding,2.1298245614035087
+round,1.6469623212681128
+criminal miscellaneous case,0.6666666666666666
+first round of litigation,1.0
+delhi rent control act,2.4
+form-c unauthorized occupants,0.0
+owners of the suit property,0.5
+family,1.856281506375408
+thirteen rooms,1.5
+shoe,0.5140186915887851
+heir,2.4782705005515444
+several tenant,0.5
+authority,2.4352627108360636
+judge,2.9012627415183325
+manuscmanusc,7.940520446096654
+case for delivery,0.5
+heirs,1.7930440771349863
+building in question,0.3333333333333333
+second court of the assistant district judge,0.5
+anil kalra,1.0
+kalra,1.0
+district magistrate,3.5
+than the tenants,0.5
+conduct,1.5998023165163158
+tenant on the part,0.5
+form-c unauthorized occupant,0.0
+urban,1.1793683610180365
+argument,0.9504580388560493
+affidavits,1.954022988505747
+occupation,1.1158072696534236
+landlords,0.8181818181818181
+dr jd,0.6666666666666666
+co-landlords,0.0
+barrel company,0.5
+affected parties,1.0
+barrister mohammad wasim,0.5
+pursuance of an allotment order,0.5
+heirs of rai bahadur lakshman das,0.5
+partner,4.163434903047091
+high court in criminal miscellaneous case,0.5
+room,0.6950710108604846
+counsel for the appellant,1.9621212121212122
+whereby persons,0.5
+barrel,0.501453488372093
+circumstances of the case,1.3373493975903614
+samiti,2.6666666666666665
+assistance,0.8623872906826965
+respective contentions of the learned counsel,0.6666666666666666
+whereafter,0.8205128205128206
+hand,2.0299623418254717
+prafulla,0.8333333333333334
+contentions,0.9641025641025641
+methods,0.6227758007117437
+possession,2.808810857389056
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+allotment,4.111111111111112
+occupant in violation,0.0
+uttar,2.188679245283019
+concerned parties,1.2
+supreme,1.443815331010453
+kerala,4.135593220338983
+kalam,0.6153846153846153
+high court,7.7477477477477485
+history of this litigation,0.5
+second court,0.30000000000000004
+order for release,0.5
+part of the vacant building,0.5
+intra court appeal,0.6666666666666666
+restriction on landlord,0.5
+disputed premises,0.5
+deed,1.3564447722662734
+manu,7.078142071124147
+concern,2.0544958000579303
+execution proceedings with utmost dispatch,0.5
+than the tenant,0.5
+issuance of form-c unauthorized occupants,0.0
+deputy cane commissioner,0.5
+conduct of the occupants,0.5
+release of the building,1.0
+rent control inspector that the deputy cane commissioner,0.5
+prafulla c pant,0.8
+forty-eight hour from the date requisition,0.0
+mrigendra pandey,1.0
+that delivery of possession,0.5
+respondent no,5.395833333333333
+cause to the appellant,0.5
+senior superintendent,0.5
+firm ganpat ram rajkumar v kalu ram,0.5
+buildings,1.3041267942583734
+landlord- appellant,0.0
+contemnor,2.0
+order release,0.5
+tenant of a building,0.5
+raj,1.3364194424876723
+observations,0.7454584147497534
+twenty years,1.1111111111111112
+shoes of the landlords,0.5
+direction that the proceedings,0.5
+present matter pertain,0.5
+senior counsel,2.2857142857142856
+sanjay,0.7908496732026145
+cussedness,0.5
+rent control officer,1.0
+persons,2.5993381990166555
+other than the tenant,0.5

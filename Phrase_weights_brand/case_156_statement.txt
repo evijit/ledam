@@ -1,0 +1,1348 @@
+review of the order,1.0
+courts,2.1216528162511543
+order of the high court,1.296875
+such controversy in a lawful manner,0.5
+question of appellants,0.5
+indian registration act,0.6666666666666666
+different forum,0.6666666666666666
+corollary,0.5
+fundamental,1.8473025048169558
+compromise,1.6862573099415208
+publisher sudhir agarwal,0.5
+various disputed questions,0.5
+director,1.3549769585253457
+titles as ultra vire,0.5
+application to the effect,0.5
+official respondent,1.5
+anuradha,1.0
+machinery provisions,0.5
+code,2.880559796437659
+first respondent herein,1.5
+several suits,0.5
+other suit,0.5
+bench,2.5793391667754992
+causes,0.5569620253164557
+prime question,0.5
+without the authorization of the firm,0.5
+mind,1.1559066143122394
+other hand,0.6931925622439332
+constitution of india,3.0095238095238095
+reliefs,1.308641975308642
+publication,1.3442779291553135
+responsibility,0.8659259259259259
+batch,1.2940630797773658
+proforma,1.0
+additional district magistrate,4.0
+filing,1.1274190041313328
+reasons,1.3749054007567938
+terms of section,1.98
+terms,2.390350840909655
+thing that somebody,0.5
+shri bishambhar dayal agarwal,0.5
+in a writ proceeding,1.0
+writer,0.9196082055072999
+question as regard infringement,0.5
+inter,3.683850287482992
+dwarka,8.125
+matters,1.4810665618448637
+pass,2.510543963686946
+regard maintainability of the writ petition,0.5
+anybody,0.9486652977412732
+binding,1.2909270216962525
+law character,1.0
+interest,2.74353772015385
+statutory authority,1.2105263157894737
+proper in the facts,0.75
+court,12.24425115501509
+property of the aforementioned firm,0.0
+common law,0.64
+fee,1.560669497024209
+first respondent,4.575757575757576
+own to short-circuit,0.0
+declaration,2.152560083594566
+fundamental right of the petitioner,0.75
+enlargement of the power,0.5
+terms of settlement,3.0
+terms of the rules,1.2
+aspects,1.0997620069447154
+analogous thereto,0.6666666666666666
+union,2.0981927710843373
+in term of the rules,0.0
+hesitation,0.5405405405405406
+agreement,3.450434632433366
+dwarka parsad agarwal,0.5
+in law,1.1088664421997756
+other authority,1.0666666666666667
+kasturi,2.25
+objection,1.68120480131216
+submission as regard,0.5
+person,4.291511329454258
+ors,2.8612718198296623
+transfers,0.960964408725603
+reliefs sought,0.8571428571428571
+allied industry,0.0
+resolution of a private law dispute,0.5
+petitioner therein,1.0
+way,1.7812722068664852
+place of compliance,0.5
+behalf,1.9888053603529987
+entries,2.110809342748506
+cause,1.8431210321626654
+nullity,1.8235294117647058
+part,5.294464509893076
+attention to the applications,0.5
+litigation,1.4968553459119498
+impugned orders,1.2352941176470589
+application  objection,0.0
+writ petitioner,4.482758620689655
+applicability of the provisions,0.8
+keshav,1.4444444444444444
+court on the basis,1.0666666666666667
+printing press,0.9545454545454545
+kelly,0.18181818181818182
+bombay,2.3134020618556703
+rule of law,0.5359801488833746
+kasturidevi,0.5
+sudhir,2.5
+factual aspect of the matter,0.5
+reason thereof,1.3333333333333333
+rival contention,1.1111111111111112
+share,2.560794932990637
+bishambhar dayal agarwal,4.5
+similar titles as ultra vires,0.5
+shareholders,0.9333333333333333
+ownership,1.1522633744855968
+aspect,1.2449448189023034
+ownership of dainik bhaskar,1.0
+number,1.4802651440973922
+shri,2.0759135877246115
+name in place,0.0
+reasonablenes,1.0588235294117647
+subject matter,1.2537313432835822
+district,1.5506763074237984
+european,0.42142857142857143
+sub-served if the appeals,0.0
+character,0.9325990965842764
+decision,2.9514937765898557
+dispute between the parties,1.4736842105263157
+bros,0.39272030651340994
+compromise before the high court,0.5
+international treaties,0.4
+rni,1.3262824655763565
+anuradha in place,0.5
+agreement of sale,2.0
+factual matrix,1.173913043478261
+main prayer against the adm,0.5
+litigants,1.5555555555555556
+aspect of the matter,1.4642857142857142
+private dispute,2.5
+clear pointer,0.8333333333333334
+permission,1.1531211886018407
+party to the agreement,0.6666666666666666
+parties before the high court,1.0
+terms of the compromise,0.5
+decision in case,0.6666666666666666
+kailash,1.0
+terms of the provisions,1.4782608695652173
+transfer,1.9975047057658015
+instructions,1.8111673678956002
+appeal,3.4125488033856883
+fundamental freedom,0.26515151515151514
+obligation,1.1071428571428574
+order of rni,0.5
+contra,3.550142721217888
+court of judicature,1.4210526315789473
+relation to the disputes,0.5
+several issues of grave importance,0.5
+scr,2.483838975311538
+provision of the code,0.5
+similar titles as ultra vire,0.5
+reports of the rni,0.5
+stating,0.8256619531175857
+existent,0.4743589743589744
+certiorari,1.8333333333333333
+effect of the consent order,0.5
+state in the country,0.0
+direction that the power,0.5
+learned single judge,3.4935064935064934
+public law character,0.5
+right in the newspaper,0.5
+comprehension,0.3440860215053763
+year,2.8349484769759212
+alia,0.9479866480753792
+report of the rni,0.0
+ramesh chandra agarwal for withdrawal thereof,0.5
+appellants herein,1.4883720930232558
+the disputes,2.6842105263157894
+later stage,0.7083333333333334
+obligations,0.9121212121212122
+per se,0.6894248900062854
+limited,1.3713554955535188
+much binding,0.5
+publisher thereof,0.5
+partition deed,0.5
+allied industries,1.0
+judgment,3.288216560509554
+suo,0.6228646517739815
+code of civil procedure,5.5636363636363635
+several other suits,0.5
+civil procedure andor principle,0.5
+provision of order,0.5
+various court,0.8
+father,1.4298716229162676
+subject,2.4420366233344897
+dwarka prasad agarwal in respect thereof,0.5
+order,5.472481489660944
+parties in the earlier proceedings,0.5
+partnership firm,6.0
+act,12.870263922028107
+notice there-about,0.0
+respondent authority,0.6666666666666666
+v howrah,0.5
+smt,0.7459757206267715
+businessman,0.46153846153846145
+purported settlement on the grounds,0.5
+different place,0.34239130434782605
+right in terms,0.5
+kishori,1.75
+allied,0.5846153846153845
+agarwal under article,0.5
+sudhir agarwal,2.5
+dainik bhaskar,5.333333333333333
+otherwise of the agreements,0.5
+properties of the aforementioned firm,0.5
+resolution of a private dispute,0.5
+regard admit of no doubt,0.5
+which law,0.5142857142857143
+registration of books act,2.5
+proceedings by way,0.6666666666666666
+other party,0.8608695652173913
+counter affidavit,1.96
+effect,2.184583388478191
+writ proceeding,1.375
+pendency,1.0084033613445378
+term of article,0.0
+deposits,0.8739495798319328
+applicable in terms of the rules,0.5
+procurator,0.25
+other properties,0.41666666666666663
+salkia businessman s association,0.0
+question of importance,0.5
+misdirection,0.8333333333333334
+pres,3.886376551409615
+manner,1.4494591333432125
+go - by,0.0
+thereby,0.8226831482645437
+- provision,0.0
+either side,0.45192307692307687
+controversy in a lawful manner,0.5
+parties,1.8210828547990157
+appropriate writ,2.125
+scope for controversy,0.5
+proforma respondent therein,1.0
+prior to the passing of the order,0.5
+nav,0.6563358837722412
+civil procedure,5.448275862068965
+withdrawal thereof,0.6666666666666666
+verbatim reproduction,1.0
+other court,0.7500000000000001
+section,9.287987283173626
+printing pres,0.9545454545454545
+that public law remedy by way,0.5
+non - provision of appellate power,0.0
+subject matter of suit,0.5
+approval to those observations,0.5
+gwalior,1.9
+non - provision,0.0
+bishambhar dayal agarwal in a proceeding,0.5
+authorization of the firm,0.5
+madhya,2.9183673469387754
+appellate,2.561224489795918
+private law dispute,0.5
+terms of indian registration act,0.5
+court in terms,1.4
+judgments,1.2355646397547266
+v central board of investigation,0.5
+consequence,0.8726692512593296
+circuit,0.3301204819277109
+jhumman singh,0.5
+particular as no writ,0.6666666666666666
+serious error insofar,0.5
+litigant,1.2698412698412698
+adequate instructions,0.5
+rival contentions on substitution,0.5
+adjudication before the civil courts,0.5
+late dwarka prasad agarwal,7.333333333333333
+void,1.2208700269947337
+different courts,0.6666666666666666
+place,2.333104345208554
+admit,1.3482801942633553
+treaty,0.0
+circumstance,1.429931390219372
+sufficient time,0.6666666666666666
+seal,1.5645371577574967
+company as a lessee,0.5
+main prayer,0.5
+international,1.4453445246925631
+different court,0.6666666666666666
+finding,1.8129183657767178
+settlement of all disputes,0.5
+entries in the register,0.5
+operation of law,0.8
+register from the firm,0.5
+investigation,1.6673076923076922
+ramesh chandra,3.75
+judicature,1.4210526315789473
+standi,1.284595524956971
+regard,2.723310344827586
+business of publication,0.5
+illegality in relation thereto,0.5
+hypothetical public interest,0.5
+forums with regard,0.5
+genuineness whereof,1.0
+high court of madhya pradesh,1.1875
+issue of grave importance,0.0
+genuineness,0.8142857142857144
+knowledge,1.1120671641791045
+action on behalf,0.6666666666666666
+acceptance of the purported settlement,0.5
+proces,1.627944583238701
+direction,1.8495050210098996
+money,1.6567889044524557
+perusal,0.750733137829912
+rights,1.6349541930937281
+contentions,0.9641025641025641
+thence,0.40909090909090906
+fundamental rights,2.1587301587301586
+same position,0.5
+names in place,0.5
+control,2.148867902684286
+whereby,0.6100917431192661
+facts,1.4696673624372698
+municipal,2.4099173553719004
+issue,2.766776251628934
+mis - representation of fact,0.0
+legality of the compromise,0.5
+thereof,1.7897727272727273
+violence,1.524896265560166
+several issue,0.6000000000000001
+above subject,0.7619047619047619
+mcc,0.7175112895132965
+basis upon,0.8
+of article,2.1149999999999998
+compromise for the reasons,0.6666666666666666
+other connected matters,0.75
+basi,2.0752712086391383
+singhvi,2.5833333333333335
+powers,1.876345371920593
+violation of the orders,0.6666666666666666
+substituted petitioners,0.5
+newspaper for india,0.0
+annexure p,1.6923076923076923
+daughters hemlata,1.0
+lawfulness,0.45000000000000007
+reason thereof the writ court,0.5
+- circuit,0.0
+public law remedy,1.75
+settlement of a private dispute,0.5
+method,0.9027027027027026
+senior,1.989753211141579
+expres,2.3455332782538525
+contract,6.227349970404598
+several proceeding,0.5
+petitioner,4.524972253052164
+cost,1.2954397451466992
+procedure andor principle,0.5
+judgment of the high court,1.721311475409836
+prayers,0.6104336043360433
+orders,1.4936359300077826
+several proceedings,0.5
+publication from jabalpur,0.5
+basis,1.953226441078104
+maintainability,1.0256410256410258
+dispute,2.402137592137592
+consent  no objection,0.0
+provisions of order,1.0
+go - by to the obligations,0.0
+well-settled that a writ remedy,0.0
+whence,0.39473684210526316
+pretext,0.4131944444444444
+nav bhaskar,2.0
+honble court,2.4444444444444446
+various courts,0.8
+mere contract,0.5
+infringement,1.152439024390244
+same day,0.8830188679245283
+sub,7.816899313759727
+way of a party,0.5
+remedy under article,0.6666666666666666
+judicial review of the order,0.5
+vii,1.26552423069836
+partitionfamily settlement,1.0
+nagpur,6.5625
+matter of division,0.5
+compromise in view,0.5
+magistrate,3.522077922077922
+father shri,0.6666666666666666
+jurisdiction in terms,0.8
+company,5.864471879286695
+attention to the order,0.9333333333333332
+grounds,0.9540208829455945
+country,1.2903191103863751
+owners of the newspapers,0.5
+pradesh,4.365853658536586
+freedom,1.9254884143571103
+effect of the order,0.75
+accordance with the notice,0.5
+application of mind,2.0
+furtherance,1.758139534883721
+right question,0.2692307692307692
+rni wherein inter,0.5
+assets of partnership firm irrespective,0.5
+mr pp,1.1
+withdrawal,1.2055933484504913
+firm,1.7435548272439818
+pradesh high court,2.409090909090909
+authenticity of the declaration,0.5
+salkia businessman,1.0
+amendment,2.2486412346818434
+as no writ,0.8
+lifetime,0.6774193548387096
+non - application,0.0
+ground,1.4186722903211633
+other relief,0.6666666666666666
+parties thereto,0.9
+territory,1.3688226421790437
+regard admit,0.5
+- provision of appellate power,0.0
+actions,3.633288043478261
+meticulous care,0.6666666666666666
+hereunder,1.4457142857142857
+own mind for the purpose,0.5
+agarwal,7.8125
+issue on private dispute,0.5
+matter,2.8088923076923082
+relation,1.397320207820618
+matter of civil appeal,1.0
+right of the petitioner,0.8333333333333334
+article,4.378806157159795
+compromise memo,1.0
+keshav dev agarwal,0.5
+that dwarka prasad agarwal,0.5
+dr singhvi,3.6
+machinery,0.9071637426900585
+term,3.6255105640901575
+observation of the high court,0.6666666666666666
+consequence of this order,0.5
+agreement in question,0.6666666666666666
+applications,1.0021816198527407
+mr rao,3.2
+purported order,0.6666666666666666
+vires,2.388888888888889
+violence to the terms,0.5
+illegal action,0.5714285714285714
+european convention,0.5555555555555556
+settlement between the private parties,0.5
+indian,1.2604961505560306
+aid,5.498621453008654
+liability,2.532836248924577
+v central board,0.5
+disputed questions,1.2857142857142858
+reports,1.0202012199952466
+rni wherein inter alia the following relief,0.5
+partners,4.220858895705521
+part of the high court,1.0
+opinion,1.4960606342789635
+questions of importance,0.5
+behalf of mahesh agarwal,0.5
+declaration of title,1.75
+side,3.88845645915565
+relief,1.4748116760828625
+wife,1.4518086408500224
+view of illegal action,0.5
+aforementioned order,0.8333333333333334
+several mis-representation,0.0
+certain document,1.0
+bodies,0.8969063256135499
+fundamental right under article,1.625
+directors,1.6666666666666667
+factual aspects of the matter,0.6666666666666666
+several questions,0.3440860215053763
+petition under article,1.6388888888888888
+son of dwarka prasad agarwal,1.0
+publisher,1.6211453744493391
+bhushan,4.9375
+similar titles,0.5
+contention of the petitioners,1.0
+own interest,0.5238095238095238
+rao,0.9220020325203252
+fairness in a trial,0.5
+shareholder,0.9469696969696969
+procedure,2.552771605064117
+counsel s fee,0.0
+statutory obligation,1.1538461538461537
+court without jurisdiction,1.0
+scope,0.8412698412698413
+petitions,1.3930830039525692
+withdrawal of suits,0.5
+division bench of the high court,1.6825396825396826
+title in the register,0.5
+furtherance of the purported consent order,0.5
+style,0.6284633359296762
+hereinbefore,2.159090909090909
+high court in terms,1.1111111111111112
+provision,5.439002243350069
+deed of partition  family settlement,0.0
+effective order,0.75
+respondent therein,1.3
+act from m  s dp,0.0
+authentication,0.3409090909090909
+annual reports of the rni,0.5
+cavil,0.5555555555555556
+right of the firm,0.5
+casual manner,0.75
+respect,2.6704963235294117
+dainik,4.25
+business,2.8512056385864457
+several other properties,0.5
+similar nature,1.125
+contravention,2.586206896551724
+importance,0.8632871064467765
+large number,1.0979284369114877
+fact,3.6284951019474962
+wife of late dwarka prasad agarwal,0.0
+express,2.3455332782538525
+learned counsel,3.703333333333333
+registration,2.231365215068127
+resolution,1.771256437663978
+owner,2.9502416709822197
+fundamental human,0.32142857142857145
+tale,0.35192909280500523
+recording,1.3265454545454545
+declarations,0.9411764705882353
+withdrawal of suit,1.0
+final settlement of the disputes,0.5
+law dispute,0.5
+conclusion that the writ petition,0.5
+regard ownership,0.5
+other property,0.5
+following relief,1.1818181818181819
+aforementioned agreement of settlement,0.5
+same without the authorization of the firm,0.5
+special,1.7363344051446945
+publication of a newspaper,0.5
+parties to the agreement,0.6666666666666666
+right title interest,0.75
+impact of the impugned order,0.5
+parties to a writ proceeding,0.5
+husband,1.6418918918918919
+above subject in the matter,0.5
+kumar,2.028839704896043
+several question of importance,0.0
+regard to the provisions,1.1176470588235294
+appeals against the impugned orders,0.5
+prasad,1.1407089151450054
+such controversy,0.5
+ultra vires,1.8484848484848484
+stand,1.8422769621739425
+impugned order,2.265957446808511
+thereto,1.0358342665173572
+purported consent order,1.3333333333333333
+factual aspect,1.0714285714285714
+rate by the highest courts,0.5
+title dainik bhaskar from m  s,0.0
+apposite that this petition under article,0.5
+various disputed question,0.5
+brothers,0.9570135746606334
+fraud,2.7602996254681647
+alleged deed of partition  family settlement,0.0
+law for the time,1.945945945945946
+official respondents,1.5
+owners,1.9409649385675758
+prior to the filing of the writ petition,0.5
+in the facts,0.9398907103825137
+non - application of mind,0.0
+extent,1.410108024691358
+newspaper at different places,0.0
+special leave application,0.5
+regard legality,0.5
+applicability,1.0928961748633879
+reason of an order,0.8
+doubt,1.3646267723102583
+reason thereof the right title interest,0.5
+terms of order,1.0
+high court that the agreement,0.5
+affidavit,2.2996987951807224
+different places,0.33749999999999997
+genuinenes,0.8142857142857144
+exercise,1.9400726466785694
+report,1.7768151696835826
+jurisdiction of the civil court,2.875
+jhumman,0.5
+writers,0.9160305343511449
+protection,1.1604395604395603
+leave application,0.5
+jabalpur,2.357142857142857
+own right,1.0303030303030303
+principle,1.9620890732001848
+party,2.2250894654439723
+appeals against the impugned order,0.5
+review,1.3564101463582128
+court in mp,1.0
+whereof,1.2790697674418605
+newspaper,1.4133350781914544
+favour of the petitioner,1.4545454545454546
+respondent herein,1.8936170212765957
+title dainik bhaskar,2.0
+delhi,2.6089285714285717
+busines of publication,0.0
+magistrateadditional district magistrate till an appellate authority,0.5
+clark,0.16091954022988506
+issues,1.1246716508385532
+fair trial,2.388888888888889
+mistake,0.6870879120879121
+pradesh high court by the petitioner therein,0.5
+settlement,1.6881394467601363
+purported comprehensive agreement,0.5
+justice,2.292557084574302
+petitioner under section,1.2
+therein,1.5503424657534246
+dev,2.1018632238997714
+resolution of a property,0.5
+indore,1.6
+competent jurisdiction,1.1666666666666667
+cost of proceedings,0.5
+impropriety of an order,0.5
+least prayers,0.5
+rights as partner,0.5
+per,7.977753416636086
+forum,1.9016754850088184
+same court,0.5
+appellate authority,2.2
+chairman,1.3592677345537758
+number of proceedings,0.5
+different forums,0.6666666666666666
+approval,1.4085456739300164
+respondents therein,1.0
+ramesh,1.5798816568047334
+asset of partnership firm irrespective,0.0
+blank vakalatnama,0.5
+division bench,3.965217391304348
+date,6.195616975795285
+consent,1.224924012158055
+son of keshav dev agarwal,0.0
+sons,2.7457346002031446
+ultra vire,1.8484848484848484
+september,0.8548484848484849
+relation thereto,1.1578947368421053
+public authority,1.4444444444444444
+provisions of the press,1.3333333333333333
+to law,0.6557377049180327
+huf,0.5921052631578948
+rupees,2.311111111111111
+notice of the high court,1.0
+impermissible in law,1.2222222222222223
+purported agreement,0.6666666666666666
+that public law remedy,1.0
+right to a fair trial,0.38095238095238093
+substituted petitioner,0.5
+hearing,0.9644508209787979
+aforementioned premise,0.8333333333333334
+agreements,1.0784313725490198
+lessee,1.515151515151515
+respondent,4.757894736842104
+order of high court,0.5
+go bye,0.5
+goodwill of a firm,0.5
+provisions of the registration act,0.5
+several question,0.3434343434343434
+accordance,1.4069045211613462
+disputed question of facts,0.0
+violation of section,1.1
+per of judicial review,0.5
+publication of dainik bhaskar,1.0
+thousand,0.625287081339713
+day,1.550999710228919
+sale,3.3662581620085734
+printing pres of which dwarka prasad agarwal,0.0
+question,2.980312372067635
+principles,1.3198511166253102
+provision of the registration act,0.0
+respondents herein for the purpose,0.5
+that view of the matter,1.553191489361702
+respondents herein,1.8333333333333333
+party to a writ proceeding,0.0
+observations of the high court,0.9
+new right,0.6666666666666666
+title interest,0.75
+short rni,0.5
+same day before the madhya,0.5
+subject matter of civil appeal,1.0
+annual report,1.0909090909090908
+basic fundamental human,0.5
+impact,1.0957789249924081
+scmanu,7.940520446096654
+private dispute between the parties,1.0
+non-set in law,0.0
+shanti,2.764705882352941
+fiscal,0.45454545454545453
+writ,2.8882378560889794
+honble,2.4444444444444446
+permissible in law,1.35
+need,1.1097650269586634
+appeals,1.7060218112849692
+amount,3.179688593072295
+appellate power,5.571428571428571
+law remedy,1.75
+newspapers at different places,0.5
+partition,0.8877551020408164
+misdirection in law,0.8
+grave,0.5757518081461743
+kirkcaldy,0.5
+doubt whatsoever,1.1428571428571428
+matter of mere contract,0.5
+writ of certiorari,2.2
+certain documents,1.0
+purported compromise in a casual manner,0.5
+busines,2.8488759960122034
+adequate instruction,0.5
+mode,0.8201666928762384
+name,1.8996570753072433
+contrary to law,1.3846153846153846
+partner of the partnership firm,0.5
+basis of any direction,0.5
+highest courts,0.5
+respondent sudhir agarwal,0.5
+press,2.0449126984126984
+entry,4.707210447678601
+son of ramesh chandra agarwal,0.5
+alleged partition deed,0.5
+high,5.367119186841496
+term of the compromise,0.0
+contention on substitution,0.0
+term of the rules,0.0
+pendency of these proceedings,0.5
+brother,1.4566585956416465
+right under a partnership,0.5
+gupta,0.7610062893081762
+event,1.4310854436179261
+different cause of action,0.5
+casualty,0.5
+late dwarka,7.333333333333333
+goodwill,3.4320000000000004
+force,1.6009408121948314
+human right,1.1211406518010292
+party in the earlier proceedings,0.0
+behalf of the appellants,1.46875
+several suit,0.5
+disputed questions of facts,0.5
+property,2.9368986630013745
+enlargement,0.6060606060606061
+states,1.5120646995827023
+signatory thereto,0.5
+no instructions,0.2777777777777778
+prayer,0.6969296987087519
+wives,0.6435483870967741
+proviso,2.112
+concubine,0.25
+suit,2.485274378207659
+convention for the protection,0.6666666666666666
+- existent by bishambhar dayal agarwal in a proceeding,0.0
+purpose,2.519170317925504
+that purpose,0.609375
+law,3.538923411654744
+civil court,3.706666666666667
+mr shanti bhushan,9.666666666666666
+respondent in terms,0.5
+sudhir agarwal for printing,0.5
+locus,0.6133333333333334
+kasturi devi,1.5
+alleged deed,0.5
+different forum with regard,0.0
+aspects of the matter,0.9090909090909091
+time,2.4764180952862667
+that pursuant,1.0
+observation,0.7625074854374218
+well-settled that an order,0.0
+division,1.7657319129617017
+deed of settlement,0.6666666666666666
+action therefore,0.3333333333333333
+present,1.9747480780089475
+paralytic attack,0.5
+issuance,1.05379513633014
+matrix,0.46733812949640285
+flagrant violation,0.6666666666666666
+total non-application of mind,0.0
+publishers,0.9859154929577465
+duty of the court,1.55
+board,2.401414435268602
+bhopal by ms,0.5
+regard maintainability,0.5
+different territories,0.5
+behalf of the parties,1.1764705882352942
+deposit,2.1724508050089444
+subject matter of a suit,0.6666666666666666
+locu,0.5823659840876484
+stage,1.1298537871524448
+share to the extent,0.5
+regard ownership of title dainik bhaskar,0.5
+authorization,0.8252525252525252
+publishing newspaper,0.5
+vakalatnama,1.0
+submission of the learned senior counsel,0.6666666666666666
+term of section,0.5
+municipal corporation,1.3439153439153437
+various rights,0.75
+withdrawal of the suits,0.5
+titles,0.44776119402985076
+cause of action therefore,0.5
+right,3.07483248288682
+fallout of the judgment,0.5
+non-existent by bishambhar dayal agarwal in a proceeding,0.0
+legal position,0.7659574468085106
+court that the agreement,0.5
+court of madhya pradesh,1.1875
+various right,0.75
+exercise of powers,0.6493506493506495
+that pretext,0.5
+contesting respondent,1.0
+otherwise,1.2549820889894419
+printer,0.5546058879392213
+company for the purpose,0.75
+case therefore,0.5555555555555556
+issue writ,1.1666666666666667
+march,1.0644238856181665
+connection,1.050640279394645
+learned senior counsel,3.4615384615384617
+of the high court in mp,0.5
+threshold,0.4166666666666667
+mr sunil gupta,1.0
+cavil that no writ,0.5
+public interest,2.380434782608696
+counsel,2.2246780703440323
+late bishambhar dayal agarwal,0.5
+application,2.3322596088086445
+other law for the time,1.6
+liabilities,1.0606060606060608
+no doubt,0.8331331503088538
+necessary fallout,0.6666666666666666
+upon the authenticity of the declaration,0.5
+india,2.7684068260703585
+instruction in the matter,0.5
+contentions on substitution,0.5
+authorities,1.266131845134287
+bhaskar,1.9673202614379082
+regard to the fact,1.5862068965517242
+rules,3.130914366958792
+other appropriate writ,2.25
+ramesh chandra agarwal son,1.0
+partnership firm irrespective,0.5
+short cut,0.3333333333333333
+respondent authorities,1.0
+illegality,0.8076923076923077
+extraordinary exercise,0.5
+day before the madhya,0.5
+nullities,0.75
+european convention for the protection,0.5
+larger huf consisting,0.5
+as no other party,0.5
+names,1.766440410418311
+view of the fact,0.8707482993197279
+in the order,0.912962962962963
+practising,0.6428571428571429
+judicial proces,1.125
+new,0.9418497626301229
+parsad,0.5
+association,1.2099052684061826
+large number of proceedings,0.5
+concubine of dwarka prasad agarwal,0.5
+compromise memorandum,0.5
+exclusion,1.276390008058018
+earlier writ petition,0.8333333333333334
+acceptance,1.4762112614578786
+aggarwal,0.8888888888888888
+go bye by reason thereof,0.5
+proceedings as no relief,0.5
+place of late dwarka prasad agarwal,1.0
+sinha,0.8166351606805294
+mahesh prasad,1.5
+several mis-representation of fact,0.0
+alleged title,0.5
+to short - circuit,0.0
+submissions,0.5235745614035088
+son,4.595622484812135
+writ petitioners,3.75
+rupee,2.2291666666666665
+different territory,0.0
+salkia,1.0
+sub-served if the appeal,0.0
+court by dwarka prasad agarwal,0.5
+ltd,2.382356477306883
+attack,1.0505713076597545
+civil procedure andor principles,0.5
+disposal,1.1180555555555556
+name of the owner,1.0
+private parties,1.4444444444444444
+bye,1.9938461538461536
+substitution,0.5932203389830508
+document,1.401100265092073
+industry,8.208106219426973
+misuse of judicial process,0.5
+regard to the prayers,0.5
+publisher sudhir agarwal as void,0.5
+decision of this court,2.3260869565217392
+writ proceedings,1.0
+publishing newspaper under the name,0.5
+jurisdiction in relation thereto,0.5
+titles as ultra vires,0.5
+reliance,1.400763358778626
+other suits,0.6666666666666666
+code of civil procedure andor principles,0.5
+authority letter,0.6666666666666666
+writ petition before the high court,1.0
+detail,0.9737454684220567
+in terms of the rules,1.2222222222222223
+mind for the purpose,0.4444444444444444
+compliance,1.0029799914857385
+total non-application,0.0
+circumstance of the case,0.5
+high court in mp,1.0
+term of order,0.0
+applicable in a writ proceeding,1.0
+case,7.332269420884958
+further orders,0.7777777777777778
+error,1.059158294766151
+registrar of newspapers,1.0
+-- stood,0.0
+objection as regard legality,0.5
+registrar,1.8341346153846154
+howrah,2.0
+disputed question,1.5
+annexure,2.7560975609756095
+dependent upon the authenticity of the declaration,0.5
+consequent,0.9615838143114256
+matter of dispute,0.8571428571428572
+states in the country,0.6666666666666666
+other connected matter,0.75
+india contract act,0.5
+constitution,3.204842342342342
+adm,2.2294073504479384
+adjudication,1.5392156862745099
+different causes of action,0.5
+in term of indian registration act,0.0
+right under article,1.8
+passing of the order,0.6666666666666666
+fallout,0.40909090909090906
+letter,2.707240080105903
+writ petitions,2.984848484848485
+fide,0.8955057484612704
+convention,0.8756516211061666
+various disputed question of facts,0.0
+public authorities,0.5714285714285714
+suo motu,1.3333333333333333
+various disputed questions of facts,0.5
+review petition,2.72
+mahesh chand agarwal to the exclusion,0.5
+errand,0.22916666666666669
+title dispute,0.5
+singh,3.7791111111111113
+furthermore,0.9849537037037037
+private party,1.9444444444444444
+instruction,1.8197943962910703
+sunil,1.0
+court of law,0.673963133640553
+agreement of settlement,0.5
+contingencies beyond the control,0.5
+huf consisting,0.5
+compromise petition,0.6666666666666666
+mis - representation,0.0
+contention,1.666391070690368
+deed of transfer,1.0
+settlement on the grounds,0.5
+karta,0.7636363636363636
+machinery provision,0.5
+books act,2.5
+inter alia,1.3280423280423281
+rule,5.04
+karta of huf,0.5
+capital of the firm,0.5
+detail in the order,0.5
+advocate,1.0791341991341994
+court at jabalpur,0.5
+own orders,0.5
+proceedings,1.7670925223666287
+favour,1.653145208700764
+ltd of which dwarka prasad agarwal,0.5
+bishambhar,3.3333333333333335
+same in the order,0.5
+least prayer,0.5
+connected matters,1.1666666666666667
+dwarka prasad agarwal,12.0
+consequence of recording,0.5
+entry in the register,0.0
+supra,2.246342614440774
+behalf of respondent sudhir kumar agarwal,0.5
+private law character,0.5
+necessary fallout of the judgment,0.5
+application for review,1.2222222222222223
+duty,3.2272215973003378
+chandra,0.7012987012987013
+suits,1.0993657505285412
+magistrateadditional district magistrate under section,0.5
+violation,1.2087401208740118
+petitioner s fundamental rights,0.0
+civil appeal,2.2413793103448274
+regard to the dispute,0.6666666666666666
+chand,1.4868766404199476
+compromise in a casual manner,0.5
+violative of article,2.1379310344827585
+several places viz,0.5
+foreign issue,0.5
+properties,1.7286779414438989
+partnership,4.92929292929293
+pvt,0.8625817965496728
+respondents,2.6341263330598856
+error insofar,0.6666666666666666
+leave,1.0147842365477848
+contingency,0.4924242424242425
+regard infringement,0.5
+legality,0.6845938375350139
+aforementioned newspaper,0.5
+magistrateadditional district magistrate,2.0
+mahesh,1.3214285714285716
+costs,0.8167395522604189
+matter of suit,0.5
+date of filing,1.0588235294117647
+authenticity,0.6649999999999998
+contesting respondents,1.0
+lawfulnes,0.45000000000000007
+honble high court,1.1666666666666667
+legal as no other party,0.5
+disputes,2.3049883690876194
+dayal,0.9047619047619048
+somebody,0.5581624605678233
+reason of the impugned order,1.0
+reason of the order,0.5
+respondent sudhir kumar agarwal,0.5
+body,1.336775463480009
+process,1.6274942048088725
+rival contentions,1.0
+same per se,0.5
+case of declarations,0.5
+order of the court,0.8888888888888888
+matter of a suit,0.8
+party at several places viz,0.0
+notice,2.3300025999395686
+district judge,2.1684981684981683
+motu,0.5230769230769231
+issues of grave importance,0.5
+late,2.9930933606465375
+impartial tribunal,1.0
+statutory authorities,1.7222222222222223
+batch of appeals,1.3125
+connected matter,1.1428571428571428
+petitioner s right,0.0
+respondents in terms,0.75
+high court of judicature,1.4210526315789473
+correct answer thereto,0.5
+power,3.8165227690948367
+irrationality,0.4347826086956522
+earlier order,1.625
+similar title,0.6666666666666666
+submissions of the learned senior counsel,0.6666666666666666
+contingencies,0.5925925925925926
+premise,1.2347417840375587
+behalf of smt,0.5
+bhaskar under the title,0.5
+logical corollary,0.8571428571428571
+private,1.3048022500781278
+mahesh prasad agarwal,1.0
+newspapers for india,1.0
+places viz,0.5
+annual report of the rni,0.0
+from resolution of a property,0.5
+available from resolution of a property,0.5
+rni wherein inter alia the following reliefs,0.5
+fairnes in a trial,0.0
+title,1.74290600761189
+owner of the title,1.5
+right of dwarka prasad agarwal,0.5
+forums,1.5972222222222223
+style of nav bhaskar,0.5
+firm s asset,0.0
+maintainable at the threshold,0.5
+fundamental freedoms,0.23225806451612904
+move,1.0374532340456146
+earlier proceedings,0.8
+mahesh chand agarwal,0.5
+kishoridevi,0.5
+reason,2.6381270903010035
+instant case,2.0631578947368423
+operation,1.0959893294085181
+own order,0.75
+large number of private disputes,0.5
+orders of the court,1.0909090909090908
+respect thereof,1.0666666666666667
+position,1.549133168619177
+one,4.845669314438648
+-- in the terms,0.0
+further order,0.8253968253968255
+occasion,0.7946745562130177
+writ petition,6.24223602484472
+petition,5.3436539306104525
+finding of fact,1.7083333333333333
+annual reports,0.2727272727272727
+lawful manner,0.5
+printing press of which dwarka prasad agarwal,0.5
+remedy,1.3214024835646458
+procedure andor principles,0.5
+showing,0.781949531949532
+several issues,0.6000000000000001
+express newspaper,0.8
+review application,1.5
+part of the orders,0.5
+civil courts,4.181818181818182
+consideration,1.9110153789142115
+human,1.0063526196524266
+authority in terms,0.75
+earlier proceeding,0.8333333333333334
+own right in the newspaper,0.5
+same in terms of indian registration act,0.5
+prasad agarwal,12.4
+writ court,1.4285714285714286
+memorandum,1.2142857142857144
+the dispute,1.5387016229712858
+conventions,0.3972602739726028
+pointer,0.40648379052369077
+territories,1.012
+mis,4.655567008935775
+ms dp,1.0
+plea,1.4430487701432178
+fairnes,0.5708245243128964
+fundamental right in terms,0.5
+passing,0.8851858023662723
+clause,3.526455026455027
+devi,1.2339221178171305
+documents,1.142515923566879
+solemn duty,0.4444444444444444
+misuse,0.5625
+places,0.8371884824384251
+owner of the newspaper,0.5
+fact that the compromise,0.5
+newspaper dainik bhaskar,1.6666666666666667
+cut,3.1207863829787237
+aforementioned firm,0.5
+application for disposal,0.5
+registration act,3.0
+care,0.8846948234137723
+ramesh chandra agarwal,4.666666666666667
+filing of the writ petition,0.8
+action of the official respondents,0.5
+contingency beyond the control,0.0
+proceeding,2.1298245614035087
+owner of dainik bhaskar,0.5
+printing of the aforementioned newspaper,0.5
+other law,0.991304347826087
+private disputes,1.0
+in terms of indian registration act,0.5
+right of ownership,0.30000000000000004
+relation to the newspaper,0.5
+pas,2.68416862749163
+writ remedy,0.5
+purported compromise,1.5
+international treaty,0.0
+managing,1.4126463700234193
+dwarka prasad agarwal in respect,1.0
+furtherance thereof,1.2
+several other property,0.0
+family,1.856281506375408
+constitution of the firm,0.5
+recourse,0.9157232704402517
+title in newspaper,0.5
+authority,2.4352627108360636
+judge,2.9012627415183325
+reasonableness,1.0588235294117647
+voidable under the india contract act,0.5
+manuscmanusc,7.940520446096654
+newspapers,0.854368932038835
+provisions,3.8929824561403508
+district magistrate,3.5
+dainik bhaskar at gwalior,0.5
+subject matter of dispute,0.8
+daughters,1.1785714285714286
+jabalpur of the declaration,0.5
+treaties,0.38372093023255816
+substance,0.8230581678857541
+casualty in the process,0.5
+that pursuant to the compromise,0.5
+fraud on the court,0.5
+express newspapers,0.75
+learned advocate of dwarka prasad agarwal,1.0
+sons of keshav dev agarwal,0.5
+hemlata,1.2
+firm s assets,0.0
+corporation,3.6427750743444176
+consideration in these appeals,0.9
+terms of article,1.5384615384615385
+different caus,0.38095238095238093
+printing,0.8226950354609928
+conclusion,1.3883437407077015
+flagrant violation of the orders,0.5
+blank,0.7343999999999999
+high court at jabalpur,0.5
+question of the learned advocate,0.5
+whereas kishori devi,0.5
+judicial process,1.125
+parties at several places viz,0.5
+madhya pradesh,2.9583333333333335
+raipur,1.8
+partner,4.163434903047091
+comprehensive agreement,0.5
+grave importance,0.5
+pursuant,0.7227692307692308
+questions,0.9979150871872632
+party before the high court,0.0
+register,1.2311946902654867
+circumstances of the case,1.3373493975903614
+brief,0.540112172829248
+respondent in the proceeding,0.5
+interest of justice,1.2
+order against the additional district magistrate,0.5
+order of authentication,0.5
+hand,2.0299623418254717
+bhopal,3.5714285714285716
+no instruction,0.5555555555555556
+number of private disputes,0.5
+iii,1.5614499719992534
+costly consequence,0.5
+proforma respondent herein,0.5
+methods,0.6227758007117437
+furtherance thereof the registrar,0.5
+several other suit,0.5
+- set in law,0.0
+part of article,0.8333333333333334
+bhaskar under the alleged title,0.5
+lawful one,1.0
+factual aspects,0.9166666666666666
+cause of action,2.1470588235294117
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+purported settlement,2.0
+spirit,0.6048586885080135
+only question,0.5172413793103449
+nature of compliance,0.5
+procedural impropriety,0.6666666666666666
+term of settlement,0.0
+newspaper dainik bhaskar in contravention,0.5
+human rights,0.9865951742627346
+petitioner s fundamental right,0.0
+lawyer,0.6086956521739131
+subject matter of division,0.5
+forum with regard,0.0
+rival contention on substitution,0.0
+instant,1.131578947368421
+basi of any direction,0.0
+party litigants,0.5
+correct legal position,0.75
+mahesh agarwal,0.5
+signatory,1.5333333333333332
+highest court,1.1
+high court,7.7477477477477485
+which dwarka prasad agarwal,1.5
+dispose,0.9912909836065574
+daughter,1.0364906832298135
+memo,1.4242074188165834
+new delhi,1.744186046511628
+state,6.817996007300392
+vire,1.2466124661246614
+answer,0.9554305705177771
+jurisdiction,2.9539571926331507
+unjust agreement,0.5
+learned advocate,1.6875
+representation,1.2338308457711442
+causes of action,0.8
+court of district judge,0.6666666666666666
+trial,3.7979448350459712
+controversy,0.8593204191806921
+petitioner herein,1.0
+deed,1.3564447722662734
+judicial review,2.64
+manu,7.078142071124147
+answer thereto,0.6666666666666666
+different forums with regard,0.5
+part of the official respondents,0.5
+consent order,3.0
+rate,3.088725136774248
+central,2.61875
+opinion that the interest,0.5
+consent  no objection to the recording,0.0
+writ petition before the madhya,0.5
+pursuant thereto,1.0769230769230769
+term of the provisions,0.0
+counter,1.0576470084371923
+therein bishambhar dayal agarwal,0.5
+purport,1.3465627214741318
+single,1.6221488419098207
+consideration before the high court,0.8333333333333334
+pradesh high court in mp,0.5
+airsc,1.6909090909090911
+prayer against the adm,0.5
+ltd v union,1.0
+businessman s association,0.0
+objection to this decision,0.5
+settlement of  the disputes,0.0
+thereupon,1.4857142857142858
+nature,1.4149926876444778
+different causes,0.2857142857142857
+appellants,7.701086956521739
+procedural impropriety of an order,0.5
+wives of late dwarka prasad agarwal,0.5
+part in the proceeding,0.6666666666666666
+several questions of importance,0.5
+term of indian registration act,0.0
+ltd recording,0.5
+fundamental right,2.9790209790209787
+asset,3.0300107181136124
+tribunal,5.07183212267958
+in the fact,0.7692307692307693
+fairness,0.5844155844155844
+party litigant,0.5
+final settlement,1.2857142857142858
+owner of the newspapers,0.0
+petitioners,3.536507936507937
+view,2.441100058469462
+occasion for the high court,0.5
+several issue of grave importance,0.0
+infringement of the right,0.5
+aforementioned agreement,0.5
+impropriety,0.5
+family settlement,6.25
+provision of the press,0.0
+observations,0.7454584147497534
+issuance of a writ,1.0
+own mind,0.2647058823529412
+favour of ms,0.8
+attention,0.8724846605528799
+book,0.7435955668604651
+action,3.127292663476874
+proceedings for substitution,0.5
+books,0.8894824707846412
+senior counsel,2.2857142857142856
+sanjay,0.7908496732026145
+capital,1.0983272274832379
+freedoms,0.6401515151515151
+doubt whatsoever that the writ petition,0.5
+legal proceeding,0.7714285714285716
+following reliefs,1.2
+reproduction,0.5098814229249011
+submission,1.0913871684001404
+reason of order,0.5
+short-circuit,0.0
+assets,2.6879084967320264
+name of owner,0.5
+karta of a larger huf consisting,0.5
+industries,2.162068965517242
+jabalpur in favour,0.5
+writ petition in terms,1.0
+thing,1.1131787570209408
+other of the high court in mp,0.5

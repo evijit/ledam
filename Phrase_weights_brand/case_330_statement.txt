@@ -1,0 +1,224 @@
+entire dispute,0.4444444444444444
+petitioner - wife,0.0
+days,1.6721350893491447
+thanks,0.3647830474268416
+decree of mutual consent,0.5
+wadhera,12.0
+grover,0.3846153846153846
+petitioner,4.524972253052164
+session,2.2400874351067563
+titled vivek varinder wadhera,1.0
+mediation,0.4571428571428572
+varinder shorilal wadhera,2.0
+constitution of india,3.0095238095238095
+amicable settlement,1.5
+dissolution,2.888888888888889
+miscellaneous,0.5284090909090909
+other litigation,0.5
+statutory period,0.7000000000000001
+vivek wadhera v vivek kumar varinder wadhera,0.5
+thanks to the cooperation,0.75
+will,1.9263907124198036
+marriage act,2.0
+criminal miscellaneous application,1.0
+revision,1.6299226441631505
+titled state,0.6666666666666666
+restraint on the travel,0.5
+criminal appeal,2.5675675675675675
+aditi vivek kumar wadhera,2.0
+terms,2.390350840909655
+vibha,1.4
+magistrate,3.522077922077922
+cooperation,0.8318725099601593
+members,1.9437616522164103
+judicial magistrate,2.7857142857142856
+interest,2.74353772015385
+account,2.5754891049671977
+court,12.24425115501509
+view that the interest,0.75
+memorandum of settlement,1.2
+sekhri,2.0
+file,1.3720673638585223
+terms of settlement,3.0
+marriage,1.8031648351648353
+varinder,7.5
+transfer petition,2.0
+petition,5.3436539306104525
+suit,2.485274378207659
+several litigations between the parties,0.5
+jurisdiction under article,1.2857142857142858
+way,1.7812722068664852
+nos,1.2635492554198444
+criminal revision,2.0
+haryana,2.935064935064935
+part,5.294464509893076
+family members on account,0.5
+cases,1.9728229418951067
+marriage between aditi vivek kumar wadhera,0.5
+litigation,1.4968553459119498
+several litigations,0.5
+sekhri v state of maharashtra,0.5
+memorandum,1.2142857142857144
+aforesaid terms,0.8333333333333334
+titled vivek varinder wadhera v state of maharashtra,0.5
+article,4.378806157159795
+maharashtra v vivek kumar varinder wadhera,0.5
+restraint,0.539491298527443
+vipon varinder wadhera,2.0
+first clas,0.78125
+vibha karun sekhri,1.5
+criminal,3.301971081989414
+part of the decree,1.2
+term,3.6255105640901575
+thank to the cooperation,0.0
+decision to part,0.5
+following cases,0.4761904761904762
+district,1.5506763074237984
+whole disputes,0.5
+sessions,1.3405714285714285
+view,2.441100058469462
+divorce,1.2616822429906542
+decision,2.9514937765898557
+present before the court,1.3333333333333333
+aditi,0.5719826808587407
+titled varinder shorilal wadhera,0.5
+amicable settlement of the entire disputes,0.5
+panchkula,1.0
+thank,0.8803466333008944
+wife,1.4518086408500224
+hindu,2.3637826961770623
+pune,1.3423295454545454
+court for transfer,0.6666666666666666
+joint petition for dissolution,0.5
+marriage act before the district court,0.5
+transfer,1.9975047057658015
+appeal,3.4125488033856883
+kurian,0.9655172413793104
+family,1.856281506375408
+travel,1.0699727250185966
+sekhri v state,0.5
+haryana to the family court,0.6666666666666666
+sessions court,2.230769230769231
+judge,2.9012627415183325
+marriage by mutual consent,0.5
+way of transfer petition,0.5
+usa,0.9416563489832968
+monetary part,0.5
+sessions judge,2.9545454545454546
+file of district,0.5
+counsel,2.2246780703440323
+aforesaid term,0.8333333333333334
+application,2.3322596088086445
+year,2.8349484769759212
+litigation between the parties,0.6666666666666666
+file of first class,0.5
+regard to the background,0.6666666666666666
+varinder wadhera v state of maharashtra,1.0
+india,2.7684068260703585
+work place,0.6666666666666666
+first class,0.78125
+mutual consent,0.6732824427480917
+few days in the year,0.5
+part of the settlement,0.5
+vivek kumar varinder wadhera-husband,0.0
+first,1.9006367208168047
+miscellaneou,0.5284090909090909
+work place in usa,0.5
+day in the year,0.0
+vipon,2.0
+fit case,1.1578947368421053
+hindu marriage act before the district court,0.5
+kumar varinder wadhera v aditi vivek kumar wadhera,0.5
+order,5.472481489660944
+few day in the year,0.0
+background,0.6800452488687784
+learned counsel,3.703333333333333
+varinder wadhera v state,1.0
+act,12.870263922028107
+several litigation between the parties,0.0
+family members,1.2631578947368423
+litigations between the parties,0.5
+hma,0.8333268788388106
+before the court,0.9804822043628013
+anr,1.1271033322299457
+clas,2.1196191893660425
+submission of mr vivek,0.5
+vivek kumar wadhera,3.0
+joint petition,0.5
+iii,1.5614499719992534
+end to all other litigation,0.5
+litigations,1.1818181818181819
+dispute,2.402137592137592
+husband,1.6418918918918919
+titled vibha sekhri v state of maharashtra,0.5
+submission,1.0913871684001404
+miscellaneous application,1.0
+kumar,2.028839704896043
+stand,1.8422769621739425
+term of settlement,0.0
+few day,0.7211538461538461
+application for divorce,0.6666666666666666
+pendency,1.0084033613445378
+background of the parties,0.6666666666666666
+mr vivek,1.0
+decree of divorce,1.5
+monetary part of the settlement,0.5
+work,2.8478559811646353
+member,2.649111111111111
+karun,0.6
+vivek wadhera v vivek kumar wadhera,0.5
+days in the year,0.5
+parties,1.8210828547990157
+state,6.817996007300392
+entire disputes,0.6666666666666666
+case,7.332269420884958
+period,1.9480170842427122
+jurisdiction,2.9539571926331507
+family member on account,0.0
+years,2.5395804110508022
+section,9.287987283173626
+pendency of the proceedings,0.8333333333333334
+judicial,2.8688059701492543
+criminal cases,0.9904761904761905
+constitution,3.204842342342342
+party,2.2250894654439723
+following case,0.4761904761904762
+criminal case,1.4464285714285714
+joseph,0.4502673796791444
+ramesh grover,0.5
+few days,0.7211538461538461
+vibha karun sekhri v aditi vivek wadhera,0.5
+vivek,1.3968253968253967
+regard to the submission,0.5
+conscious decision,0.4444444444444445
+rcc,0.3840304182509506
+settlement,1.6881394467601363
+future,0.9664487618116651
+place,2.333104345208554
+settlement of the entire disputes,0.6666666666666666
+justice,2.292557084574302
+end,6.1484001628618765
+conscious decision to part,0.5
+regard,2.723310344827586
+district court,0.9523809523809523
+whole dispute,0.6666666666666666
+titled state of maharashtra v vivek kumar varinder wadhera,0.5
+proceedings,1.7670925223666287
+family member,1.0924657534246576
+ramesh,1.5798816568047334
+decree,3.732408834103749
+class,2.1508512849922936
+consent,1.224924012158055
+family court,8.285714285714286
+several litigation,0.5
+shorilal,1.6666666666666667
+hindu marriage act,2.5
+kurian joseph,0.9655172413793104
+varinder wadhera,5.5
+maharashtra,2.9076923076923076
+petition for dissolution,0.6666666666666666
+file of sessions judge,0.5
+shorilal wadhera,2.0
+day,1.550999710228919
+vipon varinder wadhera v state,0.5
+disputes,2.3049883690876194

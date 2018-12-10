@@ -1,0 +1,1423 @@
+backdrop,0.5833333333333334
+government,3.5583785424010483
+hardness,0.3333333333333333
+procedure rule,1.125
+similar animals,0.5
+indulgent presumption,0.5
+plain intention,1.0
+seizure of gold,0.75
+contraband generate,0.5
+public mischief,0.8
+eye,0.9466574319441098
+union,2.0981927710843373
+way,1.7812722068664852
+meanings,0.4901960784313726
+technical meaning,0.6000000000000001
+judgment of acquittal,2.1
+area of discretion,0.5
+holes,0.6838495415493466
+consistent enactment of the whole statute,1.0
+penal enactment,1.0
+number of literature,0.5
+passage from the various textbooks,0.0
+test,2.5329834591340266
+vitals,0.3333333333333333
+creamy white variety of dentine,0.5
+elephant tusk,0.5
+weapon,1.0217176079034398
+scr,2.483838975311538
+context vis - a - vis,0.0
+v union of india manuscmanusc,1.8275862068965518
+abdul,1.5086206896551726
+provisions of the act,2.6056338028169015
+complete prohibition,2.0
+stage,1.1298537871524448
+month,1.3454861111111112
+impugned acts,0.5
+context vis - a - vi,0.0
+subject,2.4420366233344897
+order,5.472481489660944
+om kumar,0.5
+width,0.5151515151515151
+wing in a luminous void,0.0
+blow,1.6904715887127946
+variety,0.5229534147444596
+walru,0.36363636363636365
+carver,0.23214285714285715
+wealth,0.6565504807692307
+tinsukhia,0.5
+copy,0.8620926631522174
+accord with the object,0.5
+jalan,3.6666666666666665
+thereby,0.8226831482645437
+endangered species,0.5
+condition,2.259476395625584
+void,1.2208700269947337
+bengal v union,0.6666666666666666
+international,1.4453445246925631
+present case,1.5611814345991561
+old canons,0.6666666666666666
+resemble ivory,0.5
+inexactitude in the language,0.5
+context,0.9269383697813122
+strict construction of penal statutes,0.6666666666666666
+proces,1.627944583238701
+statute relating,0.5
+limitation,2.4984479402325457
+enterprises,0.948060941828255
+interpretative proces,0.8
+hard smooth,0.5
+walruses,0.3333333333333333
+statute as a whole,1.0
+such ivory,0.5
+making,1.409351874023649
+same principle,0.7309941520467836
+farwell,0.5
+scheme,3.415949119373777
+india v garware nylons,0.5
+endangered specy,0.0
+canal,1.375
+criminal trial,0.8333333333333334
+proportionality,1.0476190476190477
+charge,2.7679815308681284
+country,1.2903191103863751
+treatise  principle,0.0
+court of construction,0.5
+reference to the context vis-a-vis,0.0
+subject matter of ban,0.5
+acquisition,6.764044943820224
+state of maharashtra v natwarlal,0.6666666666666666
+india handicraft emporium,0.5
+transaction,5.884921444603142
+appellants state,0.875
+impugned judgment,2.0927152317880795
+accord with the words,0.5
+scrutiny,0.912987012987013
+construction of penal statutes,0.75
+complete ban on trade,0.5
+gold biscuit,1.25
+spite,0.8919640378414163
+creamy white variety,0.5
+naked eye,0.30000000000000004
+interpretive reasonings,0.5
+andhra,4.830188679245283
+concealing,0.4
+either types,0.5
+visceribus,1.0
+bengal,1.9299191374663072
+terms of clause,2.0526315789473686
+authority in the backdrop,0.5
+plastic articles,0.5
+duties,1.477142857142857
+anr,1.1271033322299457
+salmon v duncombe,0.5
+viscount simon l c in nokes,0.5
+intention of the parliament,1.3333333333333333
+west bengal manuscmanusc,1.25
+tentacle,0.5
+question of applicability,0.8333333333333334
+adulterator,1.0
+v secy,1.0
+applicability,1.0928961748633879
+doubt,1.3646267723102583
+temporary control,0.5
+lords,0.8620729190552625
+complete prohibition in trade,0.5
+amending,1.0947712418300655
+alaska,0.10025380710659898
+protection,1.1604395604395603
+principle,1.9620890732001848
+climatic conditions,0.3333333333333333
+deleterious effect on the national economy,0.5
+broken rice,1.0
+provision of food adulteration act,0.0
+accused respondent,1.0
+validity of the provisions,1.6666666666666667
+negotiable instruments act,1.7142857142857142
+principles of law,1.0714285714285714
+strict legal position,0.5
+division bench,3.965217391304348
+instruments,0.8428470754052149
+date,6.195616975795285
+reference,2.1755848210276256
+treatise  principles of statutory interpretation,0.0
+respondent,4.757894736842104
+procedure rules,1.1428571428571428
+soni manuscmanusc,0.6666666666666666
+govt,0.7017766497461929
+further investigation,1.6363636363636362
+endangered,0.5
+smith speak,0.5
+penal legislation,0.6666666666666666
+omissu,2.2
+wild animal,1.7105263157894737
+hanson,0.1639344262295082
+approach,1.001908852302553
+prohibition in trade,0.5
+ecc,0.5479541734860884
+heydon,0.6797385620915032
+common meaning to a word,0.5
+supreme court,1.4278957326045825
+unigems,0.5
+heading,2.130249543517955
+high,5.367119186841496
+following terms,1.5957446808510638
+viscount,0.8333333333333334
+salmon,0.42975206611570244
+assault,1.0656614201609997
+major part,0.4166666666666667
+situation of this nature,0.8
+murlidhar meghraj loya v state of maharashtra manuscmanusc,0.6666666666666666
+light of article,0.75
+constructions,0.6758620689655173
+english,0.9836154262307752
+handicraft emporium,1.0
+similar animal,0.5
+complexities,0.375
+casus omissus,2.2
+whereas mammoth belongs to an extinct species,0.5
+ivory so that while,1.0
+meghraj,1.0
+reasonable restriction,0.7
+developments,0.5581395348837209
+affairs,0.8608695652173913
+state of karnataka,1.9259259259259258
+criterion,0.7104166666666666
+hereinafter,0.7670609645131939
+legal position,0.7659574468085106
+chandrika manuscmanusc,0.5
+other case balram kumawat,0.5
+saveen kumar,0.5
+lord justice jame,0.5
+foreign exchange regulation act,0.75
+gas co ltd,1.0
+other part,0.7900432900432901
+that illegality,0.5
+amount of discretion,0.75
+commercial meaning,0.5
+that sub-rule,0.0
+sinha,0.8166351606805294
+acquittal,2.2714285714285714
+james,0.3839686098654708
+union v madura coats,0.5
+evidence,3.6676405172088815
+corruption act,1.75
+emphasi,0.9191619047619048
+manifest purpose,0.75
+vaguenes,0.8571428571428572
+for the purpose,1.8600737100737101
+j question,0.3333333333333333
+plea bargaining,0.5
+valeat,1.0
+types,0.6765151515151515
+singh,3.7791111111111113
+deleterious effect,0.38095238095238093
+furthermore,0.9849537037037037
+criminal statutes,1.25
+to climatic condition,0.5
+end,6.1484001628618765
+subject - matter,0.0
+various textbook,0.5
+india answers,0.5
+rule,5.04
+favour,1.653145208700764
+consistent enactment,1.0
+penal statutes,1.2
+basis of the interpretation,0.5
+chand,1.4868766404199476
+submission of mr  parikh,0.0
+properties,1.7286779414438989
+v government,0.6666666666666666
+respondents,2.6341263330598856
+social mission,0.5
+costs,0.8167395522604189
+india rules,0.6666666666666666
+therein for the purpose,0.5
+privy,1.2571428571428573
+fossil ivory,0.5
+process,1.6274942048088725
+delhi high court,2.380952380952381
+thippaswamy v state of karnataka manuscmanusc,0.5
+privy council,2.15
+gold smuggling,0.6666666666666666
+power,3.8165227690948367
+prohibition of trade,0.5
+fulham london borough council,0.5
+economic life,0.3333333333333333
+dunedin,0.25
+review of administrative orders,0.5
+fawcett properties,0.5
+complete ban,0.30000000000000004
+doncaster,0.2777777777777778
+position,1.549133168619177
+remedy,1.3214024835646458
+consideration,1.9110153789142115
+words,1.6384367086179112
+efficacy as instruments,0.5
+authorities for the proposition,0.5
+commissioner,2.271608643457383
+clause,3.526455026455027
+narrow construction,1.5
+animal,3.672202634997217
+appellant in the other case balram kumawat,0.5
+reject that construction,0.5
+content by construction,0.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+substance,0.8230581678857541
+isolation,0.45714285714285713
+basi for further investigation,0.0
+traffic in contraband generates,0.5
+which deal with crimes,0.0
+fact of the case,0.0
+underlying intendment,0.5
+impugned judgment insofar,0.8
+particular trade,0.5
+means,1.3868295182781003
+possession,2.808810857389056
+spirit,0.6048586885080135
+carrier,0.4186046511627907
+supreme,1.443815331010453
+textual passages,0.5
+distinguishing feature,0.75
+stability,0.546218487394958
+object of these provisions,0.5
+trade in stock,0.5
+requirement,1.2416133333333332
+due to climatic conditions,0.5
+several meanings,0.5
+impugned act,4.181818181818182
+scientific appreciation,0.5
+bound,0.8762782658793029
+deal,2.1942302694273583
+well - known principle,0.0
+language,0.8555828468744352
+amaigamated,0.5
+criminal case,1.4464285714285714
+intendment,1.4375
+potential public mischief,0.6666666666666666
+omissus,2.2
+handicrafts,1.0
+see,2.8180360783074034
+consistent enactment of the whole,1.0
+actus,0.48364008179959095
+nature,1.4149926876444778
+canons,0.5599999999999999
+regard to the subject matter,0.75
+vain,0.358695652173913
+terms of act,1.5
+commissioners,1.5384615384615383
+maharashtra manuscmanusc,1.3529411764705883
+legislative imperative,0.5
+india stating,0.5
+terminology,0.42500000000000004
+efficacy,0.7863247863247863
+rice,2.4911786828719737
+reasonable restriction within the meaning,0.6666666666666666
+thing,1.1131787570209408
+mammoth,4.5
+collin,0.3513513513513513
+enactment,1.439950980392157
+capacity,1.7421691881525676
+findings,1.049571253572887
+lalita,2.3333333333333335
+complexity,0.29310344827586204
+contraband article,1.0
+technology,1.0922599740512486
+harbourer,0.5
+vital,0.6587120250486588
+other hand,0.6931925622439332
+relation to a penal statute,0.5
+sections,1.640495469442838
+matters,1.4810665618448637
+hole,0.8270555912525205
+instance,0.9469803370786518
+psychiatric injury,1.0
+in other animal,0.5
+court,12.24425115501509
+pedantic construction,0.5
+procedural illegality,0.5
+secondary review of administrative orders,0.5
+parliament,2.6571235781762095
+cite,0.8125573394495413
+margin of appreciation,0.6666666666666666
+handicrafts emporium,1.0
+person,4.291511329454258
+series of statutesrulesregulations,0.5
+fulham,0.6666666666666666
+description,0.8190476190476191
+nothing,0.8658723322806009
+dealer,2.712825585229146
+long recognised rule of construction,0.5
+other provisions,1.9
+series,0.4722257940079723
+number,1.4802651440973922
+subject matter,1.2537313432835822
+decision,2.9514937765898557
+meaningles,0.6583774969425195
+court in balkrishna chhaganlal v state,0.5
+view of the well-settled principles,0.0
+legal affairs,0.8
+history,0.5728887807252372
+house,2.0021735292386764
+preamble of a statute,0.5
+cream,0.45625000000000004
+aware of existence of different types,0.5
+fundamental freedom,0.26515151515151514
+walrus,0.36363636363636365
+interpretation,1.518366298484459
+enactment of the whole statute,1.0
+year,2.8349484769759212
+developments in science,0.5
+judgment,3.288216560509554
+maity,1.0
+preamble,0.34324942791762014
+himachal,2.5833333333333335
+spirit of the enactment,0.5
+injury,1.7199352451433856
+act,12.870263922028107
+effect to the provisions,1.0
+commonsense test,0.5
+different type,0.382089552238806
+casus,0.9044444444444445
+amending acts,1.5
+level,1.1533169827122092
+passage,0.6514737598849748
+complexities of the matter,0.5
+setting,0.7533735285673271
+section,9.287987283173626
+passages,0.44010416666666663
+celebrated treatise principles,0.5
+other clause of the act,0.0
+coats,0.34108527131782945
+mischief rule,0.75
+case balram kumawat,0.5
+technical meaning of an object,0.5
+rashunath,0.5
+finding,1.8129183657767178
+v union of india,2.381818181818182
+regard,2.723310344827586
+elephant ivory,6.0
+large amount of discretion,0.5
+direction,1.8495050210098996
+meaning of the words,0.49358974358974356
+canon,0.3764705882352941
+rights,1.6349541930937281
+item,1.3319648896447913
+facts,1.4696673624372698
+traders,0.5588235294117647
+effect on the national economy,0.5
+xtravision,0.5
+form,2.4865961263718424
+preamble of the act,0.8571428571428571
+unwin v hanson,0.5
+inexactitude,0.5
+exchange,1.09516494769951
+cost,1.2954397451466992
+appellants state that mammoth ivory,0.5
+pereat,1.0
+clause of the act,0.5
+kumawat,0.6666666666666666
+sub,7.816899313759727
+case of contraband article,0.5
+wild,2.293103448275862
+company,5.864471879286695
+khet singh v union of india stating,0.5
+pradesh,4.365853658536586
+freedom,1.9254884143571103
+crime,1.6636528028933093
+indian elephants,1.0
+penal statute,2.0
+meaning of the provisions,1.6
+west,1.1420057009587976
+field,1.5820968371729793
+matter,2.8088923076923082
+relation,1.397320207820618
+enterprise,0.921565795175502
+lexical construction,1.0
+borough,0.4975124378109453
+liability,2.532836248924577
+activities,1.57291280148423
+lalita jalan,1.0
+procedure,2.552771605064117
+activity,1.3846153846153848
+airsc whereupon mr parikh,0.5
+purpose of the legislation,0.8
+requirements of law,0.75
+visceribu,1.0
+approval by the house,0.5
+hereinbefore,2.159090909090909
+restrictive meaning,1.2
+provision,5.439002243350069
+link,0.6814600840336135
+commercial tax officer,1.25
+business,2.8512056385864457
+loophole for the adulterator,0.0
+criteria,1.3561764705882353
+contravention,2.586206896551724
+large number,1.0979284369114877
+owner,2.9502416709822197
+clauses of the act,0.5
+gujarat manuscmanusc,1.1
+hardships,0.42857142857142855
+object,1.4940119760479043
+kumar,2.028839704896043
+thereto,1.0358342665173572
+administrator in matters,0.5
+void for vagueness,0.5
+reason of the amending acts,0.5
+siberia,0.22413793103448276
+silent telephone calls,0.5
+literature,0.4424552429667519
+light,0.8816192372754331
+review,1.3564101463582128
+jame,0.3847438752783965
+strict scrutiny test,0.5
+delhi,2.6089285714285717
+calls,0.5871357250667595
+variable margin,0.5
+criminal statute,1.5
+issues,1.1246716508385532
+shetty,10.166666666666666
+nature vis - a - vis,0.0
+profession,1.0704601259741646
+object of the parliament,0.5
+approval madanlal ramchandra daga v state,0.5
+court s duty,0.0
+colour,0.48673194267063996
+shah,1.9074421513445903
+approval,1.4085456739300164
+remembrancer,0.75
+thippaswamy v state,0.5
+poaching,1.5
+financial stability,0.5
+gas,1.240010731232918
+other provision,1.281045751633987
+relation thereto,1.1578947368421053
+permissive sense,0.5
+loopholes,0.5303030303030303
+well - known proposition,0.0
+deals with crimes,0.5
+non-destructive mean,0.0
+visceribus actus,1.0
+principles,1.3198511166253102
+feature,0.6446262956901254
+indian elephant,1.0
+council,1.464939453675021
+available in other animals,0.5
+plain meaning of the words,0.6666666666666666
+colliery,0.0
+months,1.1938163721148947
+ganeshmal jashraj,0.5
+purchaser of the goods observing,0.5
+abani,0.5714285714285714
+scrutiny win,0.5
+customs,1.9344608879492597
+case of this nature,1.1818181818181819
+custody,1.4166666666666667
+quam pereat,1.0
+singhania,0.5
+ambiguity in the language,0.6666666666666666
+possession of these gold biscuits,0.5
+cases,1.9728229418951067
+scrutiny test,0.5
+division,1.7657319129617017
+workable instrument,0.5
+papanasam,0.5
+ivory to the naked eye,0.5
+elephants,1.0212765957446808
+mammoth fossil ivory,0.5
+telephone call,0.7189189189189189
+quarrel,0.8181818181818182
+ordinary criminal law stating,0.5
+authority for the proposition,1.0
+vagueness,0.8571428571428572
+dentine of exceptional hardness,0.5
+prosecution,4.619407894736842
+animal article,0.6666666666666666
+dealing,1.3134282178217822
+statutory provision,1.1638418079096045
+light of the current scientific appreciation,0.5
+poaching of elephant,1.0
+parts,0.6609660823170732
+india,2.7684068260703585
+other animal,0.22499999999999998
+manchester,0.37209302325581395
+textbook,0.30917874396135264
+mesh of the law,0.0
+mr parikh as regards efficacy,0.5
+broken,0.7166361974405852
+favour of the respondents,1.4
+textbooks,0.3333333333333333
+efficacy as instrument,0.5
+submissions,0.5235745614035088
+well - settled principles,0.0
+narrower,1.0
+instruments act,1.7142857142857142
+amongst others in abani maity,0.5
+food,1.1292356927710843
+reliance,1.400763358778626
+celebrated treatise principles of statutory interpretation,0.5
+whole,0.951414768806073
+whitney v inland revenue commissioners,0.5
+mr sanghi,1.75
+international trade,0.4
+manifest purpose of the legislation,0.5
+visceribus actu,1.0
+substance of the transaction,1.5
+in other animals,0.5
+convention,0.8756516211061666
+pirthi,0.5
+wing,1.7891975171731296
+stock of ivory,0.5
+judiciary,1.5942028985507246
+customs rules,0.5
+whereas mammoth belong,0.5
+purposive construction,1.5
+social mission of food laws,0.5
+sheikh,0.25462962962962965
+khet,1.9
+duty,3.2272215973003378
+denning,0.6278538812785389
+term  ivory,0.0
+commercial,1.6950767880649407
+ms unigems,0.5
+term of act,0.0
+discretion,1.2998211091234348
+point,2.9165043546008516
+goods,4.7578125
+which deals with crimes,0.5
+plenary control,0.5
+connected matter,1.1428571428571428
+gold from the expression,0.5
+biscuits,0.7142857142857143
+lacuna,1.6111111111111112
+unreasonableness,0.8333333333333334
+fair commonsense meaning of the language,0.5
+omission,1.1856094505101127
+elt,0.9685135464974371
+fundamental freedoms,0.23225806451612904
+spirit of the statute,0.5
+social policy,0.5
+appellants in these matters,0.5
+fawcett property,0.0
+statutesrulesregulations,0.5
+customs rule,0.5
+appellant in these matters,0.0
+loopholes for this dangerous criminal tribe,0.5
+indulgent presumptions,0.5
+old canon,0.6666666666666666
+carving,0.5
+contraband generates,0.5
+well - settled principle,0.0
+that while,0.7148481439820022
+dangerous criminal tribe,0.5
+magis valeat quam pereat,1.0
+tusk,1.6666666666666667
+unenviable position,0.5
+loop - hole,0.0
+statutory,2.0326923076923076
+plea,1.4430487701432178
+passing,0.8851858023662723
+acts,1.9133929521984454
+acquisition of possession,0.5
+blockade,0.22916666666666669
+matter of ban,0.3333333333333333
+scientific procedure,0.3333333333333333
+trade,1.8307706424423558
+ship,2.0697961579725104
+special fact of the case,0.0
+ban on trade,1.5
+prevention,0.6124072110286319
+large number of literature,0.5
+international treaty,0.0
+textual passage,0.5
+nokes,0.2647058823529412
+authority,2.4352627108360636
+distinction between mammoth,0.5
+reject,1.132748538011696
+legislation to futility,0.5
+passages from the various textbooks,0.5
+development,2.3145884270578647
+provisions of food adulteration act,0.5
+madura,0.5555555555555556
+simon,0.33098591549295775
+- matter,0.0
+serious prejudice,0.8
+background,0.6800452488687784
+plain meaning,0.9230769230769231
+iii,1.5614499719992534
+job,0.6733466933867737
+obligation,1.1071428571428574
+prejudice,0.880907124598545
+regulatory  penal statute,0.0
+plain,3.198322602206429
+loophole for this dangerous criminal tribe,0.0
+ordinary sense with reference,0.5
+that investigation,0.5
+state,6.817996007300392
+regulations,3.7157723577235777
+statute,2.5765859456247218
+civil rights,0.4915514592933947
+judicial review,2.64
+dealer of any goods,0.5
+construction of this expression,0.5
+hippos,0.2727272727272727
+accord,2.1409462447350256
+quam,0.35714285714285715
+airsc,1.6909090909090911
+mohan,1.5416666666666667
+wrath,0.39722222222222225
+illegal search property,0.5
+- mentioned case,0.0
+search property,0.5
+business activity,1.6666666666666667
+instrument,1.493863846866317
+r v secy,1.0
+thought,0.7081151153746436
+labour,2.5372960372960374
+persons,2.5993381990166555
+amongst others,0.6666666666666666
+corollary,0.5
+matter in indian handicrafts emporium,0.5
+other enactment,2.0
+person act,1.1428571428571428
+plain intention of the parliament,0.5
+mind,1.1559066143122394
+validity,1.521010638297872
+constitution of india,3.0095238095238095
+imported ivory,1.0
+custom,1.8742070505069293
+possession of such ivory,0.5
+meaning,1.8612727545949643
+food laws,0.6666666666666666
+statutory provisions,1.6764705882352942
+interest,2.74353772015385
+statutory authority,1.2105263157894737
+white variety,0.5
+indian handicrafts emporium,1.0
+interpretations,0.7142857142857144
+consonance,1.5
+ineffectual angel,0.5
+futility,0.6285714285714286
+contraband,1.4857142857142858
+exceptional hardness,0.5
+pedantic construction of the prevention,0.5
+existence of different types,0.5
+behalf,1.9888053603529987
+environment,4.8219106957424716
+canal co v manchester racecourse co,0.5
+telephone calls,0.7225806451612903
+meaning from the context,0.5
+smith,0.803612937504151
+public health,0.38636363636363635
+articles,1.4349688743466387
+customs act,2.0588235294117645
+assam manuscmanusc,1.1666666666666667
+amplitude,0.9523809523809523
+financial issues,0.5
+uncertainty,0.8402948402948404
+construction of the prevention,0.5
+appeal,3.4125488033856883
+meshes,0.5
+ut re,0.675758791282257
+area,2.675167256985439
+arbitrariness,0.9047619047619048
+clause with the other parts,0.6666666666666666
+civil injury,0.0
+shetty manuscmanusc,0.5
+distinguishing,0.47413793103448276
+unigem,0.5
+legal affair,0.8
+exchange regulation act,0.75
+explicit language,0.5
+sub-section,0.0
+interpretive reasoning,0.6666666666666666
+interpretation thereof,0.8
+discovery,0.6107142857142858
+exposition,0.6533333333333333
+several meaning,0.5
+grain substance,0.5
+trader,1.3795986622073577
+west bengal v abani maity manuscmanusc,0.6666666666666666
+restriction within the meaning,0.6666666666666666
+offender,1.3711405166981725
+purpose of determination,1.3333333333333333
+casus omissu,2.2
+biscuit,0.6944444444444444
+term of clause,0.0
+manner,1.4494591333432125
+traffic,1.1556250000000001
+chandrika,0.6666666666666666
+learned chief justice,1.0909090909090908
+ivory,5.055555555555556
+suppression of the mischief,0.5
+other parts,0.3948051948051949
+words on any notion,0.5
+language of a statute,0.75
+companies,2.2664576802507836
+plastic article,0.5
+article irrespective,0.6666666666666666
+tax,3.549237288135593
+different types,0.3781818181818182
+treaty,0.0
+circumstance,1.429931390219372
+regulation,4.3783195107648485
+soni,0.5972035532698265
+sense with reference,0.5
+mean,2.390645692553228
+investigation,1.6673076923076922
+large amount,0.6524271844660194
+himachal pradesh v pirthi chand,0.5
+luminous void,0.5
+bbc enterprise,0.5
+length,0.6297872340425531
+racecourse,0.5
+commonsense meaning,0.5
+violence,1.524896265560166
+purview,1.0864197530864197
+basi,2.0752712086391383
+meaningless,0.6583774969425195
+prakasa,0.5
+new offence,1.0
+organised traffic,0.5
+meshes of law,0.6666666666666666
+rule of strict construction,1.3333333333333333
+doctrine,0.7455954017243533
+basis,1.953226441078104
+part of the tusks,1.0
+thippaswamy,0.5
+other instrument,0.7200000000000001
+whole length,0.24074074074074078
+farwell j,1.0
+narrow construction of this expression,0.5
+court s interpretative role,0.0
+construction for the purpose,0.5
+purpose of these provisions,0.5
+enactment of the whole,1.0
+officer,3.1197242647058823
+current meaning,0.6666666666666666
+other case,0.6654088050314465
+blockade of the activities,0.5
+wide amplitude,1.0
+purview of the law,0.6666666666666666
+joint commercial tax officer,0.5
+state of himachal pradesh v pirthi chand,0.5
+duncombe,0.5
+term,3.6255105640901575
+appellants,7.701086956521739
+view,2.441100058469462
+which deal,0.7129629629629629
+requirements,0.7375979875979877
+trade in elephant ivory,1.0
+penal code,2.710144927536232
+use,5.06801278974993
+doctrine of plea bargaining,0.5
+angel,0.38860103626943004
+lord,1.6027618015615013
+economic crime,0.5
+result,1.3356630184144715
+defence,1.3606588776096535
+telephone,1.1502185415228894
+wild life,1.5555555555555556
+ambiguity,0.7008985879332478
+factum,1.125
+legislation,3.2032032032032034
+civil procedure rules,0.75
+fact,3.6284951019474962
+phrase,0.7269338303821062
+learned counsel,3.703333333333333
+cites,0.6133004926108374
+handicraft,2.0
+constitutional validity,2.6875
+chief,1.9429638234317954
+whereas mammoth belongs,0.5
+presumption,1.06
+either type of ivory,0.0
+rule of purposive construction,0.6666666666666666
+english dictionary,1.0
+of impossibility,0.6666666666666666
+vital of the economic life,0.0
+celebrated treatise principle,0.5
+years,2.5395804110508022
+offence against the person act,0.5
+bengal v abani maity manu  scmanu  sc,0.0
+gold,1.6014084507042254
+tentacles of clause,0.5
+that trade in mammoth fossil ivory,0.5
+use of the word,0.6352941176470589
+proposition,0.6371087928464977
+nobody,0.6463806463806463
+justice,2.292557084574302
+suppression,1.1538461538461537
+therein,1.5503424657534246
+remembrancer of legal affairs,0.75
+revenue,1.486701237872198
+reasonings,0.4761904761904762
+convention on international trade,0.5
+applicable in relation thereto,0.5
+state of west bengal v union,0.6666666666666666
+administration,1.061072796934866
+existence,0.731202675709574
+offence,4.401610644257703
+goods observing,0.5
+interpretation thereof by a court,0.5
+meshes of the law,0.5
+question,2.980312372067635
+remedy in the light,0.5
+width of the language,0.5
+choice,0.6825955124317767
+treatise,0.46172839506172836
+loop,0.44167523124357666
+unreasonableness under article,0.5
+treatise  principles,0.0
+dentine,1.0
+casu,0.9632887189292544
+bolder construction for the purpose,0.5
+scmanu,7.940520446096654
+london,0.48471615720524014
+interpretative role,0.6666666666666666
+amount,3.179688593072295
+species in the year,0.5
+unreasonablenes,0.8333333333333334
+regards efficacy,0.5
+accused person,4.565217391304348
+union v madura coat,0.5
+tinsukhia electric supply co ltd v state,0.5
+variable margin of appreciation,0.5
+india answer,0.5
+abani maity,1.0
+murlidhar,1.0
+foreign,1.2919207317073171
+textual passage from the various textbooks,0.0
+v union,1.5773809523809523
+civil injuries,0.6666666666666666
+intention of the legislature,2.0434782608695654
+electric,4.0323098663926
+food offence,0.5
+property,2.9368986630013745
+last - mentioned case,0.0
+special fact,0.5555555555555556
+useful purpose,0.8666666666666667
+law,3.538923411654744
+same language,0.2727272727272727
+narrow construction of section,0.5
+purpose of the law,0.3333333333333333
+adulteration,0.8333333333333334
+hardnes,0.3333333333333333
+gold biscuits,1.25
+purchaser,2.017857142857143
+description of the words,0.5
+state of andhra,3.52
+exceptional hardnes,0.5
+meaning of these rules,0.5
+mission of food laws,0.5
+facts of the case,1.161764705882353
+application,2.3322596088086445
+authorities,1.266131845134287
+reading,0.9004509191814082
+headings,1.0
+illegality,0.8076923076923077
+nation s wealth,0.0
+whitney,0.25
+formulation,2.2418478260869565
+nature vis - a - vi,0.0
+legislation futility,0.5
+consideration for the purpose,0.875
+plain intention of the legislature,0.5
+intention,1.7585585585585588
+ltd,2.382356477306883
+submission,1.0913871684001404
+main part,0.5384615384615384
+notion,0.9071080318193483
+indian handicraft emporium,0.5
+dictionary,0.7964252553389043
+actu,2.135350774437069
+detail,0.9737454684220567
+parikh,0.6749999999999999
+period,1.9480170842427122
+oxford dictionary,0.5
+word in a statute,0.0
+constitution,3.204842342342342
+words  acquires possession,0.0
+ivory of every description,0.5
+loya,0.47398843930635837
+loop - holes,0.0
+whole statute,1.0
+fawcett,0.5
+clear direction,0.5
+lean against any construction,0.5
+loopholes for the adulterator,0.5
+lord justice james,0.5
+supra,2.246342614440774
+hardship,0.7236842105263158
+other cases,0.6446886446886447
+mohan kumar singhania,0.5
+subbarao,0.3333333333333333
+prevention of corruption act,1.8
+maharashtra,2.9076923076923076
+superintendent,1.2698412698412698
+criminal law stating,0.5
+amongst other,0.6521739130434783
+presumptions,0.38095238095238093
+abdul rehmanbhai sheikh v state of gujarat manuscmanusc,0.5
+tribe,2.294908466819222
+union of india v garware nylons,0.5
+impossibility,0.9166666666666666
+common meaning,0.2777777777777778
+india manuscmanusc,1.8333333333333333
+wings,1.1434426229508197
+construction in a permissive sense,0.5
+various textbooks,0.5
+obliviou of the fact that potential public mischief,0.0
+context of a particular statute,0.5
+months  time,0.0
+criminal tribe,0.5
+crucial omission,0.5
+opinion that the impugned judgment,0.8
+development in science,0.0
+intention of the law,0.75
+reason,2.6381270903010035
+unreasonablenes under article,0.0
+deals,1.3395407335280751
+resultant illegal trade,0.5
+life,1.3352928273744242
+impugned judgment of the high court,1.0
+mesh of law,0.0
+application of the rule,0.4444444444444444
+hippo,0.1865079365079365
+smith speaks,0.5
+courts  level,0.0
+word  ivory,0.0
+financial stability of the country,0.5
+favoured constructions,0.5
+others,0.9074667328904616
+term of sub-section,0.0
+proceeding,2.1298245614035087
+quasi - criminal proceeding,0.0
+defence of india rules,0.6666666666666666
+effective result,1.0
+crimes of special nature,0.5
+textual passages from the various textbooks,0.5
+expressions,0.8027972027972027
+distinguishing features,0.5
+nation,3.034318722392117
+v secy of state,1.0
+silent telephone call,0.5
+treaties,0.38372093023255816
+corruption,0.9432672590567327
+concealing in the second phrase,0.5
+balram,2.2
+deal with crimes,0.0
+conclusion,1.3883437407077015
+long recognised rule,0.5
+coat,0.42042042042042044
+secy,0.5555555555555556
+mr parikh,2.3333333333333335
+larger public interest,1.125
+sense,0.8606303395157362
+no doubt,0.8331331503088538
+circumstances,1.3944461370073231
+maharashtra v natwarlal,0.6666666666666666
+particular statute,1.0
+grain,1.4777777777777779
+tusks,1.5
+high court,7.7477477477477485
+assam,1.06
+harm,1.2124444444444444
+construction of section,0.8888888888888888
+dentine substance,0.5
+trial,3.7979448350459712
+manu,7.078142071124147
+provision of the act,0.8888888888888888
+business activity in imported ivory,0.5
+approval madanlal ramchandra daga v state of maharashtra manuscmanusc,0.5
+rule of  ex,0.0
+second charge,0.5
+- tech xtravision ltd,0.0
+copy right act,0.5
+- white colour,0.0
+role,1.0562959821210092
+way of poaching,0.5
+scale,2.0845464725643894
+purport,1.3465627214741318
+margin,1.4244114002478314
+law for arbitrariness,0.5
+tentacles,0.5
+vis-a-vis elephant ivory,0.0
+major part of the tusks,0.5
+health,0.8632619439868204
+language in any other enactment,0.5
+well - known proposition of interpretation,0.0
+bolder construction,1.0
+species,0.6307692307692307
+consideration of inconvenience,0.5
+new criminal jurisprudence,0.5
+history of cites,0.5
+stock,1.0778270324523251
+unwin,0.25
+rule of interpretation,1.2
+courts,2.1216528162511543
+restriction,1.0123456790123457
+sort of procedural illegality,0.5
+khet singh v union,0.5
+commonsense meaning of the language,0.5
+terms of sub-section,0.0
+code,2.880559796437659
+quantity of gold,1.0
+reasons,1.3749054007567938
+terms,2.390350840909655
+doctrine of proportionality,0.6666666666666666
+collieries,0.75
+rashunath v state,0.5
+madras,2.836734693877551
+garware,0.5
+words in a statute,1.0
+treatise  principle of statutory interpretation,0.0
+tinsukhia electric supply co ltd v state of assam manuscmanusc,0.5
+ors,2.8612718198296623
+financial issue,0.5
+current scientific appreciation,0.5
+as a weapon,0.35294117647058826
+meaning of  ivory,0.0
+nullity,1.8235294117647058
+part,5.294464509893076
+call,1.5442351461768689
+vitals of the economic life,0.5
+bombay,2.3134020618556703
+statutesrulesregulation,0.5
+dictionary meaning of the term  ivory,0.0
+decisions,1.3888475974580996
+of the fact that potential public mischief,0.6666666666666666
+ordinary sense,0.75
+international treaties,0.4
+kasambhai,0.5
+oblivious of the fact that potential public mischief,0.6666666666666666
+second phrase,0.25
+ut res,0.5416666666666666
+abdul rehmanbhai sheikh v state,0.5
+situations,0.7435282837967402
+shorter,0.5389718076285241
+dictum of farwell,0.5
+distinction,0.7312167973690868
+number of decisions,0.6050420168067226
+natwarlal,0.6666666666666666
+determination,1.5980374665477253
+search,1.156007562422583
+good,2.6154941054299674
+celebrated treatise principle of statutory interpretation,0.0
+obligations,0.9121212121212122
+civil right,0.4844036697247707
+wings in a luminous void,0.5
+basis for further investigation,0.5
+poacher,0.5
+community,1.3158036677454152
+civil procedure rule,0.8
+county council,1.0
+loophole,0.5133333333333334
+provision of a statute,0.75
+accused persons,7.048780487804878
+special facts of the case,0.5
+bbc,0.28977777777777775
+effect,2.184583388478191
+object of the law,0.5
+ramchandra,1.4
+karnataka manuscmanusc,1.3636363636363635
+which deals,0.6888888888888889
+oxford,0.4874746106973595
+rules as the case,0.6666666666666666
+ineffective as a weapon,0.6666666666666666
+above formulation,0.5
+science,0.6879334257975034
+fact that potential public mischief,0.6666666666666666
+case of restrictions,0.5
+judgments,1.2355646397547266
+nottinghamshire,0.5
+amending act,2.0
+factual background,1.0
+climatic condition,0.3333333333333333
+following term,1.6170212765957446
+yma,0.469880624426079
+amongst other in abani maity,0.0
+uncertain terms,0.7555555555555555
+basi of the interpretation,0.0
+factum of discovery,1.0
+control,2.148867902684286
+smuggling,0.781954887218045
+arbitrarines,0.9047619047619048
+vis-a-vis restriction,0.0
+issue,2.766776251628934
+organised traffic in contraband generates,0.5
+article irrespective of the purport,0.5
+different situations stating,0.5
+mammoth ivory,3.5
+administrative orders,0.5
+contravention of any provision,1.25
+yellowish - white colour,0.0
+legal blow,0.5
+crime of special nature,0.0
+effect to the purport,0.5
+illegal trade,0.30000000000000004
+principles of interpretation,1.4285714285714286
+aggravated nature vis-a-vi,0.0
+orders,1.4936359300077826
+common judgment,1.3636363636363635
+carvings,0.30000000000000004
+quarrel on the proposition,0.5
+constitutionality of the statutory provisions,0.5
+clause of a statute,0.0
+bargaining,0.38709677419354843
+public administration,0.6666666666666666
+tech,1.1203909589894292
+uncertain term,0.7555555555555555
+ground,1.4186722903211633
+new rule,1.0555555555555556
+description of  wild animal,0.0
+wide meaning,2.0
+v buckingham county council,0.5
+law in no uncertain terms,0.5
+quantity,0.9457720588235292
+in relation thereto,1.1578947368421053
+mischief,0.5934065934065934
+article,4.378806157159795
+administrator,1.0441081081081083
+consonance with articles,0.5
+nature of the activities,0.6666666666666666
+trade of ivory,0.5
+india v garware nylon,0.5
+food law,0.6666666666666666
+penal,1.8829173709853835
+consonance with the scheme,0.5
+opinion,1.4960606342789635
+complexity of the matter,0.0
+other claus,1.1111111111111112
+division bench of the delhi high court,1.0
+logical conclusion,0.43636363636363634
+ban,7.153551834566307
+such doubt,0.5
+rao,0.9220020325203252
+laws,1.4186274337269533
+poachers,0.5
+constitutional validity of the provisions,0.75
+interpretative process,0.8
+wrath of article,0.8571428571428571
+short of impossibility,0.5
+extinct species,1.5
+respect,2.6704963235294117
+administrative order,2.3333333333333335
+lord dunedin,0.5
+of existence of different types,0.5
+keeper,0.7040816326530613
+expression,1.7424391201885312
+dictum,0.6857142857142857
+fossil,0.8552631578947367
+clauses,1.5486111111111112
+reasoning,0.6478937381404174
+taxability,0.5
+rehmanbhai,0.5
+features,0.6184582743988685
+principle of interpretation,1.1818181818181819
+purpose of plenary control,0.5
+manchester ship,0.5
+madanlal,0.5
+complete prohibition of trade,0.5
+restrictions,0.7241671372106155
+tentacle of clause,0.0
+details,0.9406426856198188
+bolder,0.6666666666666666
+commonsense,0.7272727272727272
+india rule,0.8333333333333334
+meaning of the term  ivory,0.0
+dominant purpose,0.5
+rule in heydon,0.5
+time of passing,1.1428571428571428
+liability of the offender,0.5
+rashunath v state of karnataka,0.5
+legal,1.6383168326773236
+damodardas,0.6666666666666666
+passage of time,0.4102564102564103
+extinct species in the year,0.5
+stock of mammoth fossil,0.5
+special facts,0.5555555555555556
+word,2.065873981084096
+chapter,1.3867471532446152
+special nature,0.6666666666666666
+sort,0.7327002541370012
+appeals,1.7060218112849692
+mesh,1.2729684908789385
+food adulteration act,1.25
+fine grain substance,0.5
+account,2.5754891049671977
+emporium,0.8771929824561404
+purchase,3.239871541501976
+- criminal proceeding,0.0
+murlidhar meghraj loya v state,0.6666666666666666
+higher authority,0.5714285714285714
+purpose,2.519170317925504
+karnataka,3.8596491228070176
+time,2.4764180952862667
+spite of illegal search property,0.5
+entire statute,0.6666666666666666
+criminal jurisprudence,1.6666666666666667
+slip,1.0896057347670252
+content,1.5450574489970066
+art,5.941987862582413
+statute to a futility,0.5
+connected matter in indian handicrafts emporium,0.5
+comprehensive terminology,0.5
+nylon,0.23684210526315788
+v government of gujarat manuscmanusc,0.5
+making of legislation,0.6666666666666666
+doctrine of purposive construction,0.5
+right,3.07483248288682
+much use,0.2692307692307692
+favoured construction,0.5
+prohibition,1.9087256027554533
+warthog,0.5
+special meaning,0.2727272727272727
+public interest,2.380434782608696
+type,0.8102172691515265
+counsel,2.2246780703440323
+hi-tech xtravision ltd,0.0
+policy,3.250773332247955
+either type,0.2777777777777778
+balkrishna chhaganlal v state,0.5
+rules,3.130914366958792
+living animal,0.3333333333333333
+nothing by the language,0.5
+jurisprudence,1.088888888888889
+mission,3.4937549830705037
+whale,0.19518377693282635
+trite that the social mission of food laws,0.5
+inland,0.525
+bbc enterprises,0.5
+dispute,2.402137592137592
+contextual reading,0.5
+dictionary meaning,1.5
+bathu,0.5
+conditions,1.9988092071092867
+ganeshmal,0.5
+crimes,0.7056429734129138
+saveen,0.5
+shorter oxford dictionary,0.6666666666666666
+case,7.332269420884958
+error,1.059158294766151
+supply,2.0557395143487858
+damodarda,0.6666666666666666
+fair commonsense meaning,0.5
+other clauses,0.875
+affair,0.8341728395061728
+manifest error,1.6666666666666667
+same language in any other enactment,0.5
+injuries,2.4130008710801394
+other clauses of the act,0.5
+statutory interpretation,1.5
+momentum,0.27672955974842767
+plastic,0.3764367816091954
+collins,0.3506849315068493
+seizure,0.6583598956824108
+meaning to a word,0.5
+bench,2.5793391667754992
+pre-historic animal,0.0
+to climatic conditions,0.5
+trade in ivory,3.5
+depositor,0.4285714285714286
+state for environment,0.5
+carvings therefrom,0.5
+large number of decisions,1.0
+body,1.336775463480009
+noke,0.24489795918367344
+extinct specy,0.0
+statutory authorities,1.7222222222222223
+senseless that i,0.5
+logical corollary,0.8571428571428571
+constitutionality,0.7965517241379311
+inconvenience,0.47368421052631576
+necessary for the purpose,1.5
+law on the point,1.0
+white variety of dentine,0.5
+taxing statute,1.0
+smuggling of gold,0.75
+national economy,0.4444444444444444
+construction,2.2504918032786887
+elephant,3.4950980392156867
+conventions,0.3972602739726028
+aggravated nature vis-a-vis,0.0
+statute relating to the subject-matter,0.0
+daga,0.4166666666666667
+res,10.359704275735774
+comprehensive language,0.5
+sanghi,2.4
+hard dentine substance,0.5
+object of the act,1.5555555555555556
+buckingham,0.5
+gujarat,3.2753623188405796
+vis-a-vis restrictions,0.0
+job of the judiciary,0.6666666666666666
+requirement of law,1.25
+legislature,2.818553268765133
+clauses of a statute,0.5
+recourse,0.9157232704402517
+ms unigem,0.5
+that trade,0.39285714285714285
+strict construction,2.142857142857143
+ivory of elephant,0.5
+conclusion that the provision,0.75
+view that parliament,0.5
+argument,0.9504580388560493
+person in a capacity,0.5
+west bengal v union,0.6666666666666666
+jashraj,0.5
+poaching of indian elephants,0.5
+remover,0.23529411764705882
+viscount simon l c,0.5
+whereupon mr  parikh,0.0
+chapter va,0.6666666666666666
+whereas mammoth belong to an extinct species,0.0
+animals,1.4863203806502776
+negotiable,0.9493670886075949
+making of a penal legislation,0.6666666666666666
+nylons,0.5
+non-destructive means,0.0
+extant living animal,0.5
+hand,2.0299623418254717
+balkrishna,0.6666666666666666
+appreciation,0.7282229965156793
+statutes,0.9659824046920822
+busines,2.8488759960122034
+meaning of an object,0.5
+appellant,14.387096774193548
+bengal manu  scmanu  sc,0.0
+madra,2.836734693877551
+conclusion that the provisions,0.6666666666666666
+county,0.5539772727272727
+principle of law,1.1538461538461537
+economy,0.43614336193841496
+well - known principle of law,0.0
+secondary review,0.5
+judgment in indian handicrafts emporium,0.5
+commonsense approach,0.5
+public economy,0.5
+chhaganlal,1.0
+that i,2.6949902522585876
+v bombay gas co ltd,0.5
+situations stating,0.5
+pradesh v bathu prakasa rao,0.5
+hammersmith,0.6666666666666666
+emphasis,0.8024289099526066
+state of up,2.0784313725490198
+smooth,0.4100080710250202
+imperative,0.6201550387596899
+other animals,0.21666666666666667
+link between the body,0.5
+situation,1.1254754682459434
+either types of ivory,0.5
+details in india handicraft emporium,0.5
+attention,0.8724846605528799
+detail in india handicraft emporium,0.0
+mammoth fossil,1.5
+word on any notion,0.0
+freedoms,0.6401515151515151
+stability of the country,0.5
+whitney v inland revenue commissioner,0.5
+main part of the tusks,0.5

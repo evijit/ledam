@@ -1,0 +1,729 @@
+price of rs,1.6666666666666667
+demand of condonation delay fee,0.5
+government,3.5583785424010483
+plots,0.8001672240802675
+ninety day from the date,0.0
+relevant clauses from the provisional allotment order,0.5
+director,1.3549769585253457
+implementation,1.2465707594513213
+respondent that the restoration,0.5
+regard to the facts,1.1
+unjust enrichment,0.8
+compliance report for perusal,0.5
+validity,1.521010638297872
+extension of time,1.5
+other hand,0.6931925622439332
+public auction in favour,0.5
+report before the jurisdictional court,0.5
+entire cost of land,0.5
+reasons,1.3749054007567938
+terms,2.390350840909655
+hyderabad,2.5833333333333335
+allotment of the plot,1.0
+bonafide reason,0.5
+coil,0.4748062015503876
+of the land cost,1.5
+most of the plant,0.5
+fee,1.560669497024209
+interest,2.74353772015385
+legal provisions,0.875
+court,12.24425115501509
+reason in the impugned judgment,0.0
+employment,1.5239770785161355
+- implementation of the required project,0.0
+judge of the high court,1.75
+production,2.1071428571428577
+aspects,1.0997620069447154
+agreement,3.450434632433366
+in law,1.1088664421997756
+original project within that period,0.5
+single judge,4.011627906976744
+person,4.291511329454258
+untenable grounds,0.5
+correctness,0.8404159132007234
+commencement of production,0.5
+behalf,1.9888053603529987
+suit plot,0.5
+part,5.294464509893076
+plot cost towards condonation fee,0.5
+justification on the part,1.0
+legal contention,2.230769230769231
+penalty amount,1.0
+per terms,1.0
+per term,0.5555555555555556
+engineering project,0.6666666666666666
+relevant clauses of the provisional allotment letter,0.5
+day of receipt,0.0
+allotted plot,8.5
+allotment letter,10.5
+correctness of the judgment,1.1111111111111112
+unlawful on the part of the corporation,0.5
+registered sale deed in favour,1.0
+accordance with the rules,1.5714285714285714
+aspect,1.2449448189023034
+non-payment,0.0
+number,1.4802651440973922
+allotment rules,0.5
+to any legal provision,0.5
+agreement of sale,2.0
+aforesaid,2.592896174863388
+with interest,1.1269841269841268
+permission,1.1531211886018407
+claim,2.817264601856604
+v gopala gowda,1.1538461538461537
+correctnes,0.8404159132007234
+appeal,3.4125488033856883
+court of judicature,1.4210526315789473
+cancellation,1.677272727272727
+years from the date,1.8518518518518519
+land,6.337534028705619
+favour of respondent,1.3333333333333333
+relevant clauses,1.3333333333333333
+area,2.675167256985439
+non-implementation of project,0.0
+allotment rule,0.5
+shed,1.5094908862350724
+month,1.3454861111111112
+learned single judge,3.4935064935064934
+year,2.8349484769759212
+non-compliance of the aforesaid conditions,0.0
+upto,0.7713804853723404
+park,1.1480541455160744
+notice by the learned counsel mr annam,0.5
+rival legal contention,1.75
+judgment,3.288216560509554
+reason that the delayed payment,0.5
+permission to the respondent,0.5
+scheme in the allotted plot,0.5
+land of the owners,0.5
+subject,2.4420366233344897
+order,5.472481489660944
+allotment order,2.0
+condonation of delay fee,3.5
+clauses of the provisional allotment letter,0.5
+mosquito coil,1.0
+agreement for sale,1.4
+plot cost,2.5
+full cost,0.5
+in accordance with law,1.0046948356807512
+ninety day,1.0
+high court that claus,0.5
+clauses from the provisional allotment order,0.5
+land from the respondent,1.5
+high court that clauses,0.5
+in view of the fact,0.8707482993197279
+penalty for restoration,0.0
+state government,3.027142857142857
+circular notice,0.5
+counter affidavit,1.96
+copy,0.8620926631522174
+completion,1.1868131868131868
+requisite fees,0.5
+learned counsel mr  annam,0.0
+catena,0.5013888888888888
+manner,1.4494591333432125
+parties,1.8210828547990157
+payment of the allotted industrial plot,0.5
+no right,0.6454703832752613
+writ appeal,2.2142857142857144
+manufacturing activity,2.3333333333333335
+reasons in the impugned judgment,0.6666666666666666
+project cost,2.3333333333333335
+condition,2.259476395625584
+judgments,1.2355646397547266
+possession of the industrial plot,0.5
+telangana,14.666666666666666
+sale deed in respect,0.5
+circumstance,1.429931390219372
+civil,2.126558634963905
+same in accordance with law,0.8
+relevant claus,1.75
+officers,2.442124212421242
+area of the industrial land,0.5
+respondent for restoration,0.5
+finding,1.8129183657767178
+mean,2.390645692553228
+various legal contention,1.2
+investigation,1.6673076923076922
+judicature,1.4210526315789473
+time by the corporation,0.5
+regard,2.723310344827586
+clause no,0.47727272727272724
+respondent in respect,1.0
+direction,1.8495050210098996
+perusal,0.750733137829912
+subject to payment of rs,0.5
+investigation in the matter,0.6666666666666666
+land cost,1.6666666666666667
+stipulated time,1.5833333333333333
+accordance with law,1.0046948356807512
+allotted land,0.75
+condition by the respondent,0.0
+facts,1.4696673624372698
+month from the date,1.2222222222222223
+direction to the corporation,2.0
+para,2.300239586747483
+validity of demand,0.5
+justification,0.6859587020648967
+non-payment of the revised cost,0.0
+allotted land with interest,0.5
+bus-body manufacturing unit,0.0
+- compliance,0.0
+provisional allotment order,0.5
+entire cost,0.7999999999999999
+days,1.6721350893491447
+unjust enrichment by the corporation,0.5
+non-compliance,0.0
+cost,1.2954397451466992
+orders,1.4936359300077826
+cases of allotment,0.5
+further demand,0.5
+scheme,3.415949119373777
+holding,1.2555282555282552
+course,1.6545957498716626
+same day,0.8830188679245283
+advertisement,1.5480769230769234
+inspector general,0.6666666666666666
+cogent reasons in the impugned judgment,0.5
+change of manufacturing activity,2.0
+day from the date,0.0
+provisional allotment of plot,2.0
+applicants,0.6960950764006791
+industry on the allotted plots,0.0
+state bank,7.0
+state bank of india,6.4
+favour of the respondent,2.0434782608695654
+case of the corporation,0.5
+favour of the eligible applicants,0.5
+grounds,0.9540208829455945
+relevant clause nos,0.5
+favour of eligible persons,1.0
+pradesh,4.365853658536586
+payment by the respondent till,0.5
+hence,1.1440732910500353
+andhra bank,1.5714285714285714
+mr pp,1.1
+officer,3.1197242647058823
+ground,1.4186722903211633
+payment of rs,1.2857142857142858
+alse general of police,0.0
+condonation fee to the corporation,0.5
+industrial growth,1.0
+xxx,1.8708487084870848
+allotment of plot,4.0
+concession,1.3748597081930416
+impugned judgment,2.0927152317880795
+liberty,0.7860465116279071
+respondent that the project,0.5
+second part,2.0913461538461537
+matter,2.8088923076923082
+loan,2.299059561128527
+account of the additional amount,0.5
+price,2.8302710227712162
+market,5.294198044198044
+machinery,0.9071637426900585
+- payment,0.0
+term,3.6255105640901575
+in favour of an eligible applicant,0.5
+applications,1.0021816198527407
+employment to the unemployed youth,0.5
+days of receipt,1.2
+view,2.441100058469462
+re-allot,0.0
+vide,4.454025282767798
+clause of the provisional allotment letter,0.5
+to payment of total cost,0.5
+andhra,4.830188679245283
+legal provision,0.6
+demand of condonation fee,2.0
+payment for the plot,0.5
+application for loan,0.5
+prevailing rate,1.0
+unit,2.176678509944691
+plot cost with interest,0.5
+rival legal contentions,1.75
+delay condonation fee,1.0
+direction to the cod,0.5
+delay,1.9544910179640715
+provisional allotment,13.0
+court in the judgment,0.8
+rao,0.9220020325203252
+further terms,0.5
+activity,1.3846153846153848
+stipulated time as payment,0.5
+on the part of the corporation,1.5
+civil works,0.5
+division bench of the high court,1.6825396825396826
+absence of allotment rules,0.5
+polouse,0.0
+november,0.7203359669727383
+- andhra pradesh industrial corporation ltd,0.0
+civil work,0.5
+industrial plot,3.3333333333333335
+provision,5.439002243350069
+whomsoever,1.0
+circular,2.0360934182590236
+high court in the judgment,0.75
+condition of the provisional allotment letter,0.0
+emd,0.6137479541734862
+cost of land,1.6666666666666667
+respect,2.6704963235294117
+to the respondent,2.1153846153846154
+direction to the state government,0.8
+allotted plot to the corporation,0.5
+fact,3.6284951019474962
+owner,2.9502416709822197
+learned counsel,3.703333333333333
+registration,2.231365215068127
+estate,1.9402985074626868
+untenable stand,0.5
+allotted plot of land,1.0
+- per sq,0.0
+allottees for implementation,0.5
+original project,0.5
+such cases,0.7390180878552971
+clauses,1.5486111111111112
+enrichment,0.4210526315789474
+demand,1.5671679197994988
+relevant clause from the provisional allotment order,0.0
+stand,1.8422769621739425
+gopala,1.4736842105263157
+period in favour,0.5
+delayed payment,0.6666666666666666
+owners,1.9409649385675758
+work,2.8478559811646353
+period by the corporation,0.5
+undisputed fact,0.6857142857142857
+from the respondent,2.0
+- payment of the revised cost,0.0
+extent,1.410108024691358
+condonation fee,6.0
+year from the date,1.5
+above relevant aspects,0.5
+corporation as per term,0.5
+mosquito,0.7051282051282053
+brief facts,1.0
+non - compliance,0.0
+aforesaid observation,1.0555555555555556
+affidavit,2.2996987951807224
+years,2.5395804110508022
+mtr,1.097859604571014
+such case,0.7332761578044598
+original allotment,0.5
+behalf of the corporation,1.3333333333333333
+youth,0.4385150812064965
+report,1.7768151696835826
+cogent reasons,1.0
+copies,0.5369304682962884
+enrichment by the corporation,0.5
+party,2.2250894654439723
+various facts,0.4800000000000001
+day of the receipt,0.0
+newspaper,1.4133350781914544
+condition of allotment letter,0.0
+corporation in respect,0.6666666666666666
+conditions by the respondent,0.5
+allot,1.980342857142857
+pashamylaram,0.5
+subject to payment of total cost,0.5
+sale deed in favour,1.0
+allotment cost,0.5
+commencement,1.2037037037037035
+request,1.1474439594584596
+action in this regard,0.5
+of the plot cost,0.5
+projects on the allotted plots,0.5
+open for corporation,0.5
+development in the state,0.5
+suitable action,1.5
+approval,1.4085456739300164
+learned counsel on behalf,1.625
+contending,0.5735430157261795
+relevant clause of agreement,0.0
+division bench,3.965217391304348
+allotment of land,1.6666666666666667
+date,6.195616975795285
+possession of the plot,3.0
+compliance report,1.1666666666666667
+days of the receipt,1.0
+order of the single judge,0.75
+sale deed,2.142857142857143
+impermissible in law,1.2222222222222223
+final allotment,1.0
+bank,9.40770083102493
+respondent,4.757894736842104
+plot of land,0.6428571428571429
+cogent reason,1.25
+payable by the respondent,0.75
+additional amount,3.0
+works,1.7935487434410384
+plot with interest,0.5
+accordance,1.4069045211613462
+inspector,1.2705882352941176
+allotted plots,1.0
+default,0.7094574436346588
+annam,0.6933333333333332
+respondent on the same day,0.5
+day,1.550999710228919
+sale,3.3662581620085734
+cancellation order,1.6666666666666667
+industrial land,0.6666666666666666
+delay in implementation,2.3333333333333335
+extension,0.7526908023483366
+holding that the plea,0.6666666666666666
+for the corporation,0.8
+division bench of high court,1.3333333333333333
+further action for resumption,0.5
+interference by this court,1.0
+contending that the corporation,0.5
+delay fee for delay,0.5
+original allotment of plot,0.5
+phase-iii,0.0
+writ,2.8882378560889794
+correctnes of the judgment,0.0
+condonation fee from the respondent,1.5
+step,0.8867024753460084
+permissible in law,1.35
+earlier cancellation order,0.5
+months,1.1938163721148947
+amount,3.179688593072295
+corporation from the respondent,0.5
+plot allottees,0.5
+only course,0.75
+sale deed of the allotted plot,0.5
+amount of rs,1.5806451612903225
+behalf of the respondent,1.453125
+plot,1.9177369203731243
+plot for non - compliance,0.0
+name,1.8996570753072433
+to any legal provisions,0.5
+market value of the industrial plot,0.5
+fees,0.9865534324133051
+allotment letter states,0.5
+high,5.367119186841496
+condonation fee for delay,2.0
+payment,2.059553716565686
+detailed investigation,0.6666666666666666
+various fact,0.49382716049382713
+corporation to the respondent,0.5
+account,2.5754891049671977
+provisional allotment letter state,0.5
+industrial plots,1.0
+brief fact,1.0
+same contending that the corporation,0.5
+time in favour,1.0
+allotted plot from the respondent,0.5
+property,2.9368986630013745
+registered sale deed,1.625
+view that the corporation,0.5
+industries-the respondent herein for allotment,0.0
+suit,2.485274378207659
+further term,0.6666666666666666
+allottee for implementation,0.0
+interference,0.5733527484528578
+conditions of allotment letter,0.5
+purpose,2.519170317925504
+law,3.538923411654744
+nos,1.2635492554198444
+change,1.2214862766571903
+engineering,1.3567493112947657
+fit case for this court,0.5
+substantial implementation,0.5
+observation,0.7625074854374218
+time,2.4764180952862667
+condition ie,0.6666666666666666
+court in catena,0.5
+division,1.7657319129617017
+cases,1.9728229418951067
+application for allotment,0.0
+case in the corporation,0.0
+demand of condonation,3.5
+right under clauses,0.5
+auction,4.7739938080495365
+industrial park at pashamylaram,0.5
+learned counsel for the respondent,1.507936507936508
+of the plant,0.5
+corporation before the division bench,0.5
+conditions of the provisional allotment letter,2.0
+office accommodation,0.5
+court that clauses,0.5
+receipt of allotment letter,0.5
+state undertaking corporations,0.5
+behalf of the parties,1.1764705882352942
+accommodation,1.3095238095238095
+registration of the allotted plot,0.5
+substantial,1.26935142009326
+receipt of the copy,1.0
+in favour of eligible persons,1.0
+noc for mortgage,0.5
+mortgage,8.214285714285714
+single judge of the high court,1.588235294117647
+non,1.3417336444559675
+ninety days from the date,0.8333333333333334
+state undertaking corporation,0.5
+extension of period,0.6666666666666666
+right,3.07483248288682
+letter to the corporation,0.5
+same in favour of an eligible applicant,0.5
+mosquito coils,0.6666666666666666
+judgment for the purpose,0.6666666666666666
+demand of fee,0.5
+learned senior counsel,3.4615384615384617
+cost of the land,0.6666666666666666
+absence,1.092363454568179
+counsel,2.2246780703440323
+application,2.3322596088086445
+receipt of the allotment order,0.5
+cost of allotted plot,0.5
+rates,0.9535092413452435
+india,2.7684068260703585
+allotments,0.6666666666666666
+rules,3.130914366958792
+belated payment,1.5
+alse general,0.0
+total cost,0.5
+industrial,5.673304955913652
+- implementation,0.0
+non-implementation of the required project,0.0
+writ appeal of the corporation,0.5
+delay fee,4.5
+shivani,0.5
+aforesaid claus,0.875
+order warrant interference of this court,0.5
+view of the fact,0.8707482993197279
+completion of the project,0.6666666666666666
+project on the allotted plots,0.0
+installation of plant,0.5
+submissions,0.5235745614035088
+payment within stipulated time,0.5
+loan in favour,0.6666666666666666
+penalty amount on the allotment cost,0.5
+andhra pradesh,4.857142857142857
+ltd,2.382356477306883
+submission,1.0913871684001404
+industry,8.208106219426973
+noc,1.910971782627438
+conditions,1.9988092071092867
+party of the second part,1.0
+aforesaid conditions,0.6666666666666666
+installation,0.5759005145797599
+action of the corporation,1.0
+revised cost,0.75
+compliance,1.0029799914857385
+circumstance of the case,0.5
+case for this court,0.5
+case,7.332269420884958
+implementation of the project,3.0
+period,1.9480170842427122
+registered sale deed of the allotted plot,0.5
+for corporation,0.5
+respondent till,0.5
+plot in favour,1.0
+requisite fee,0.5
+letter,2.707240080105903
+further period,1.2
+payment of land cost,0.5
+traceable to any legal provisions,0.5
+years as fee,0.5
+same contending,0.6666666666666666
+telangana state,1.3333333333333333
+open for the corporation,0.5
+undertaking,2.8508771929824563
+- implementation of the project,0.0
+demand notice,5.0
+corporation for non - compliance,0.0
+therefore,2.960332350576253
+appellant - andhra pradesh industrial corporation ltd,0.0
+public auction,3.0
+contention,1.666391070690368
+provisional allotment letter,6.5
+order warrant interference,0.5
+rule,5.04
+aggrieved,1.2479674796747968
+allottee,2.5555555555555554
+favour,1.653145208700764
+plant,1.381330685203575
+coils,0.2882882882882883
+month of november,0.6666666666666666
+eligible persons,1.0
+agreement between the parties,1.7142857142857142
+projects,1.1885926573426573
+non-implementation of the project,0.0
+bench,2.5793391667754992
+condonation delay fee,1.0
+further demand of fee,0.5
+jurisdictional court,0.8
+more than the area,1.0
+office,3.5913445886237847
+advertisement in the newspapers,0.5
+leave,1.0147842365477848
+unemployed youth,0.3333333333333333
+- implementation of project,0.0
+applicant,0.7861822513400833
+right for cancellation,0.5
+corporations,1.2988235294117647
+part of the corporation,1.5
+resumption,1.1057692307692308
+restoration,0.8498168498168498
+than the area,0.6666666666666666
+clauses in the provisional allotment letter,0.5
+body,1.336775463480009
+penalties for restoration,0.5
+of the project cost,0.6666666666666666
+clause nos,0.5
+prayed,0.5974815458098133
+detailed investigation in the matter,0.5
+condonation fee of rs,0.5
+notice,2.3300025999395686
+payment of total cost,1.0
+corporation that the industrial plot,0.5
+high court of judicature,1.4210526315789473
+respondent for non - implementation,0.0
+possession of the allotted plot,0.5
+industries-the respondent herein,0.0
+police,2.9749362629783356
+allotment of allotted plot,0.5
+steps,1.169318181818182
+such fee,0.7090909090909092
+respondent by the corporation,1.0
+project,4.265889006716154
+allotment letter state,0.5
+store,0.6686444634658782
+- compliance of the aforesaid conditions,0.0
+ninety days,1.0
+in public auction in favour,0.5
+land in favour,0.75
+reason,2.6381270903010035
+provisional allotment of land,1.0
+industries on the allotted plots,0.5
+bus,2.020565168811983
+subject to the payment of total cost,0.5
+purpose of the development,0.5
+cod,2.9952292991861333
+cancellation of the provisional allotment,0.5
+writ petition,6.24223602484472
+petition,5.3436539306104525
+auction in favour,0.5
+construction,2.2504918032786887
+untenable ground,0.5
+relevant clauses of agreement,0.5
+eligible person,1.0
+further action,0.33333333333333337
+andhra pradesh at hyderabad,1.1111111111111112
+allotted industrial plot,0.5
+days from the date,1.7352941176470589
+provisional allotment of the plot,0.5
+allottees,2.75
+cases in the corporation,0.5
+clause in the provisional allotment letter,0.0
+that period,0.6127946127946128
+penalty,1.5165226929932814
+inspector general of police,2.125
+same in public auction in favour,0.5
+phase,1.4803405572755417
+re-fixed at rs,0.0
+necessary action,1.0
+plea,1.4430487701432178
+value,1.7137907830478438
+clause,3.526455026455027
+legal contentions,2.230769230769231
+order of the division bench,1.1111111111111112
+delay condonation fee from the respondent,0.5
+same in view of the fact,0.6666666666666666
+receipt,1.5471923536439667
+corporation as per terms,0.5
+law in this regard,0.75
+action for resumption,0.5
+above manner,0.4444444444444444
+name of delay condonation fee,0.5
+notice to the respondent,0.9
+condition number,0.5
+restoration of the provisional allotment,1.0
+registration of the plot,0.5
+judge,2.9012627415183325
+provisions,3.8929824561403508
+court that claus,0.6666666666666666
+newspapers,0.854368932038835
+required project within the stipulated time,0.5
+plot allottee,0.5
+growth,0.7269455690508322
+development,2.3145884270578647
+cod  cid of the state government,0.0
+contrary mr,0.6666666666666666
+relevant clause of the provisional allotment letter,0.0
+corporation,3.6427750743444176
+shivani engineering,0.5
+respondent for sanction,0.5
+eligible applicants,1.0
+various legal contentions,1.2
+case of allotment,0.0
+fit case,1.1578947368421053
+cogent reason in the impugned judgment,0.0
+warrant,0.611066164387025
+circumstances of the case,1.3373493975903614
+receipt of the allotment letter,2.0
+non-implementation,0.0
+aforesaid clauses,0.8
+months from the date,1.3333333333333333
+hand,2.0299623418254717
+iii,1.5614499719992534
+contentions,0.9641025641025641
+means,1.3868295182781003
+possession,2.808810857389056
+industrial estate,0.30000000000000004
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+allotment,4.111111111111112
+provisional allotment letter states,0.5
+same in favour of eligible persons,0.5
+xxx xxx xxx,3.176470588235294
+cod  cid,0.0
+high court,7.7477477477477485
+gowda,1.2142857142857142
+dispose,0.9912909836065574
+sanction,2.0167207792207793
+mtrs,1.2000000000000002
+state,6.817996007300392
+condonation of delay,4.3
+stores,0.7275985663082436
+applications for allotment,0.5
+representation,1.2338308457711442
+learned senior counsel on behalf,4.0
+clause from the provisional allotment order,0.0
+suitable action in this regard,0.5
+deed,1.3564447722662734
+general,1.7536558414534391
+industrial park,0.5
+required project,1.5
+restoration of allotment,2.5
+market value,2.125
+rate,3.088725136774248
+forfeited by the corporation,1.0
+cid,2.0205518073234354
+favour of an eligible applicant,0.5
+erection,0.6545454545454544
+full cost of the land,0.5
+clauses of agreement,0.5
+eligible applicant,1.25
+penalties,0.6902761104441777
+above relevant aspect,0.5
+clause of agreement,0.0
+extended period,1.1764705882352942
+by the respondent,2.4642857142857144
+registry,0.510662177328844
+park at pashamylaram,0.5
+acceptable to the respondent,1.5
+manufacturing,1.07831715210356
+relevant clause no,0.5
+aforesaid condition,0.8
+condonation,6.5
+to payment of rs,0.5
+action,3.127292663476874
+project within that period,0.5
+impugned judgments,1.3333333333333333
+project in public auction,0.5
+persons,2.5993381990166555
+project with the approval,0.5
+industries,2.162068965517242
+earlier project,0.5
+plot cost towards condonation fee for delay,0.5

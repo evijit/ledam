@@ -1,0 +1,1599 @@
+government,3.5583785424010483
+way of a legislation,0.5
+man of the petitioner appellant,0.5
+rejagopal,0.5
+framing,1.0965593784683685
+dolgobinda paricha v nimai charan misra,0.5
+sts,1.5353140664394884
+samant n balakrishna etc,0.5
+reason of any kind,0.5
+custodian,0.6233766233766234
+same way,0.4284124629080119
+evacuee,0.5
+above fact,0.505050505050505
+essays,0.2631578947368421
+arumugam v v,0.5
+purity,0.8724489795918368
+case of the appellant,1.1714285714285715
+candidature,1.4444444444444444
+individual freedom,0.5384615384615384
+inquiries by the scrutiny committee,0.6666666666666666
+union,2.0981927710843373
+facie fact,0.5
+absence of any law,1.3333333333333333
+andor part of another caste,0.5
+looses,0.2777777777777778
+way,1.7812722068664852
+same manner,0.6079182630906769
+thane,0.6447368421052632
+fernadez,0.5
+borne of deo kumari devi,1.0
+cross,2.0778316690442225
+restriction on feeding,0.5
+caste system till today,0.5
+indian mind,0.6666666666666666
+present appeal,1.3424657534246576
+district,1.5506763074237984
+husband s caste,0.0
+above basis,0.75
+caste council,0.5
+aforesaid,2.592896174863388
+test,2.5329834591340266
+same as andor part of another caste,0.5
+kailash,1.0
+sign,1.8302826558145708
+important member,0.5
+high court that respondent,0.5
+scr,2.483838975311538
+constituency,3.7333333333333334
+maximum commensality,0.5
+resident of village adai,0.5
+fancy for deo kumari devi,0.5
+stage,1.1298537871524448
+modern india,0.5
+materia,1.4277220364176888
+vexed issue,0.5
+gnana sambandha pandara sannadhi,0.5
+subject,2.4420366233344897
+assembly constituency,2.111111111111111
+attribute,0.6721108636476121
+order,5.472481489660944
+father of dinesh chaudhary,2.0
+caste community,1.2
+several factor,0.37037037037037035
+smt,0.7459757206267715
+entry resort,0.6666666666666666
+appellant that the respondent,0.6666666666666666
+classical concept of caste,0.5
+medical,1.633306645316253
+nomination paper of respondent,0.5
+groups within castes,1.0
+pleading,1.1270125223613594
+lachman utamchand kirpalani,0.5
+other party,0.8608695652173913
+candidates,3.508445945945946
+copy,0.8620926631522174
+mother,1.5057341472881893
+voters,2.522727272727273
+member,2.649111111111111
+kshatriya,0.6666666666666666
+parties,1.8210828547990157
+divine displeasure,0.5
+bad relation between the respondent,0.0
+oral evidence,1.3333333333333333
+meeting,1.5978547625659538
+several factors,0.37037037037037035
+special means of knowledge,0.5
+above circumstances,0.875
+customary hindu law,0.5
+educational institutions,1.2480000000000002
+speech,1.9520676691729324
+scheduled castes,2.7777777777777777
+fiction,0.7938733125649013
+bracket,0.4677419354838709
+officer in the background,0.5
+context,0.9269383697813122
+marriage dinesh chaudhary,0.5
+caste status at birth,0.5
+connubium,0.5
+next day,0.6306081754735793
+scheduled caste communities,0.5
+aside of the election,0.5
+dinesh chaudhary in that village,0.5
+para,2.300239586747483
+arrangement,0.7318181818181818
+of a circumstantial nature,0.5
+parents,1.8852093189324288
+non-production,0.0
+special knowledge of the other party,0.5
+mumbai,1.8484848484848484
+director of tribal welfare v laveti giri manuscmanusc,0.5
+notification to parts,0.5
+madhuri patil v addl commissioner,0.5
+election petitioner,11.875
+best evidence on the point,0.5
+candidate,6.356675392670156
+today,0.6330563683773655
+deo kumari evi,0.5
+circular letter,2.5
+to any person,1.125
+suspicion,0.690982776089159
+president,2.1267129228100607
+reality,0.6251091491219559
+recognition of caste autonomy,0.5
+case of the other party,0.5
+events,0.6160483175150993
+relevance,0.6870535714285714
+caste autonomy,0.5
+nagpur,6.5625
+lakshmi,0.942857142857143
+charge,2.7679815308681284
+derive strength from the weakness,0.5
+different section,1.0
+dinesh chaudhary with the police,0.5
+complaints,0.9978858350951374
+child,3.0202810640613067
+clear that the respondent,0.5
+impugned judgment,2.0927152317880795
+welfare officer,2.0
+nominee of janata dal,1.0
+peripheral attribute,1.0
+scrutiny,0.912987012987013
+- scheduled caste,0.0
+santosh yadav v narender singh on the proposition,0.5
+applications,1.0021816198527407
+endogamous groups,0.5
+post,2.344803646492219
+strange observation,0.5
+scheduled caste,3.875
+such parents,0.5
+recognition,1.4333333333333333
+reserved,1.7166177549523112
+non-schedule caste hindu father,0.0
+contrary to normal conduct of a prudent,0.5
+relationship,1.1804123711340206
+backward,1.866666666666667
+caste of the children,0.5
+of the author,0.7852445870088212
+kurmi by caste,10.5
+therein that the decision,0.5
+relevant for the relationship between bhagwan singh,0.5
+most of the authors,0.5
+evidence of persons,0.5
+reason of articles,0.5
+division of labour,0.5
+bhagwan singh of village bhavanichak,0.5
+vehicle,2.973111766564837
+anr,1.1271033322299457
+jeet mohinder singh v harminder singh jassi,0.5
+pari materia with article,0.5
+special,1.7363344051446945
+appointment to office,0.0
+other witnesses,0.7
+to non - production of material witness,0.0
+educational backwardnes,0.5
+behalf in terms,0.5
+non-schedule caste father,0.0
+brothers,0.9570135746606334
+construction of the benefits,0.5
+modification,0.9714977645305514
+inference in such circumstances,0.5
+doubt,1.3646267723102583
+characteristic,0.6366782006920415
+report,1.7768151696835826
+writers,0.9160305343511449
+backward classes,2.8
+chaudhary in that village,0.5
+protection,1.1604395604395603
+principle,1.9620890732001848
+petitioner to state,0.5
+angle,0.4852556924225457
+anything,0.9132309941520469
+non-examination,0.0
+cell,1.2725925925925925
+factor,1.2878742338904643
+brijesh kumar,1.0
+cross-examination,0.0
+nagendra,0.5
+date,6.195616975795285
+casteless status,0.5
+reference,2.1755848210276256
+fact of which special knowledge,0.0
+open to any person,0.6666666666666666
+respondent,4.757894736842104
+scheduled,2.329545454545454
+segmental division of society,0.5
+schedule,2.9453067257945307
+adai,1.9190476190476191
+party notwithstanding that the onus,0.5
+hierarchy,1.0694444444444446
+documentary evidence on the point,0.5
+approach,1.001908852302553
+sort of shifting,0.5
+caste statu,0.5
+dr rajdendra pandey,0.5
+original certificate,0.5
+caste system in india,1.0
+knowledge in respect thereof,0.5
+nasik,1.6
+srinivas,0.5128205128205129
+heading,2.130249543517955
+resident,1.6560361185631094
+characteristic of the caste system till today,0.0
+state after consultation,0.6666666666666666
+high,5.367119186841496
+following terms,1.5957446808510638
+brother,1.4566585956416465
+legal fiction,1.6
+yadav v narender singh,0.6666666666666666
+event,1.4310854436179261
+weaknes,0.3342391304347826
+pandey,1.875
+lot of opposition,0.5
+english,0.9836154262307752
+smtdeo kumari devi,0.5
+hilt,0.2361111111111111
+ors manuscmanusc,3.2662721893491122
+groups within the castes,0.5
+allegation,1.834319526627219
+part of caste,1.0
+strength from the weakness,0.5
+opposition,0.7717250324254215
+fir against the candidate,0.5
+deo kumari devi,17.0
+vexed issues,0.5
+normal conduct,1.0
+giri,1.9047619047619047
+other thing,0.48636363636363644
+adverse inference in the event,0.5
+harminder,0.5
+objector,0.315
+dinesh chaudhary on the ground,0.5
+bhagwan singh in support,0.5
+adverse inference under section,0.5
+resident of surangpur,0.5
+son bhagwan singh,0.5
+similar observation,0.5333333333333333
+reads,0.8722657304887929
+scrutiny committee,3.3333333333333335
+basic attribute,0.3333333333333333
+commission,4.703619179345321
+facts within the special knowledge,0.5
+report against the respondent,0.6666666666666666
+purpose of relationship,0.0
+sons of bhagwan singh,0.5
+sonkar,0.5
+shri dholakia,0.8
+view of the fact,0.8707482993197279
+v addl,1.2
+judicial recognition,0.5
+custody of the respondent,0.6666666666666666
+person by the name,0.4444444444444444
+evi,3.935509985259548
+sinha,0.8166351606805294
+hurdle,0.4
+wife jago,2.0
+illegible enquiry by the block development officer  circle officer  block welfare officer,0.0
+denotified,0.6666666666666666
+brackets,0.2391304347826087
+dilatory tactic,1.0
+evidence,3.6676405172088815
+document,1.401100265092073
+vice,3.766984711894892
+fancy,0.23333333333333334
+sociological,0.4444444444444444
+addl,1.303854875283447
+main controversy under issue,0.5
+brijesh,1.0
+representation of people act,1.625
+status certificate,2.0
+special backward category,0.6666666666666666
+emphasi,0.9191619047619048
+ram,2.11096203538064
+evidence of brother,0.5
+factors,0.9829522460542292
+brother of deo kumari devi,2.0
+singh,3.7791111111111113
+true that the respondent,0.75
+purposes,1.4391216613438835
+therefore,2.960332350576253
+basi of false social status certificate,0.0
+that connection,0.4
+proceedings,1.7670925223666287
+favour,1.653145208700764
+commission of such fraud,0.5
+following observation,0.8039215686274509
+member of scheduled caste,1.75
+costs,0.8167395522604189
+principle of individual freedom,0.6666666666666666
+attempt,0.7943782192788815
+lachman,0.12804878048780488
+rallaram,0.5
+admission,1.5389848246991107
+thiru,2.25
+union territory,3.066666666666667
+factor in absence,0.5
+particular,1.5248953455371081
+- schedule caste father,0.0
+status,1.14824388424026
+power,3.8165227690948367
+election commission of india,1.6
+husband s place,0.0
+deo kumari devi in some other place,0.5
+petitioner appellant,1.6666666666666667
+examination,2.4920345926263088
+order of this court,2.125
+knowledge of the alleged marriage,0.5
+hereditary class,0.5
+special mean,0.3636363636363636
+fir on the basis,1.0
+position,1.549133168619177
+customary laws,1.0
+one,4.845669314438648
+janata dal,1.3333333333333333
+petition,5.3436539306104525
+guidelines,1.540251572327044
+jehanabad,0.5
+different attributes,0.3333333333333333
+to vast area of the state,0.6666666666666666
+wad,0.9141092453194363
+caste in modern india,0.5
+court for non - production,0.0
+purposes of relationship,0.5
+due to alleged marriage of bhagwan singh,0.5
+lady,0.6819258089976322
+commissioner,2.271608643457383
+clause,3.526455026455027
+hindu society,1.0
+relation of deo kumari devi,0.0
+support of the suspicion,0.5
+hindu,2.3637826961770623
+second son bhagwan singh,0.5
+knowledge of the petitioner,0.5
+applicable in the facts,0.5
+more of a circumstantial nature,0.5
+natural inference,0.5
+family,1.856281506375408
+non-production of material witness,0.0
+that a caste certificate,0.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+principle that caste,0.5
+guntur medical college v vy,0.5
+substance,0.8230581678857541
+determination of caste,1.5
+shivchand,0.5
+caste scrutiny committees,1.3333333333333333
+wedlock with bhagwan singh,0.5
+support of that case,0.5
+person under the customary hindu law,0.5
+strength,1.1679328901551123
+knowledge of the respondent,1.5
+circumstances of the case,1.3373493975903614
+legal requirement,1.0
+bad relations,0.5
+jeet,2.0
+such case before the issue,0.0
+privileges of the different sections,0.5
+means,1.3868295182781003
+occasion,0.7946745562130177
+scrutiny objectors,0.5
+that the application for admission,0.0
+pasi,4.42
+as andor part of another caste,0.5
+possession,2.808810857389056
+onus,0.8162100456621004
+decide in that behalf,0.6666666666666666
+special knowledge of respondent,1.0
+endogamous group,0.5
+grave suspicion,1.0
+requirement,1.2416133333333332
+village bhavanichak,0.5
+major hereditary class,0.5
+cases before the issue,0.5
+main controversy,0.8
+different attributes of the caste,0.5
+criminal case,1.4464285714285714
+caste of the parents,0.5
+caste scrutiny committees for scs,0.6666666666666666
+relevant evidence,1.0
+cases on the point,0.6666666666666666
+nature,1.4149926876444778
+things,0.6162490788504054
+members with quorum,0.6666666666666666
+tribecaste scrutiny committee,0.6666666666666666
+criminal proceeding,2.9166666666666665
+something,0.5915378827342709
+legislative assembly,4.473684210526316
+sannadhi,0.5
+thing,1.1131787570209408
+collin,0.3513513513513513
+various writer,0.5
+findings,1.049571253572887
+nath tewari,0.5
+- examination,0.0
+director,1.3549769585253457
+pasi by caste,3.0
+madhuri patil,1.6666666666666667
+vacancy,1.0666666666666667
+clear - cut differentiation of functions,0.0
+senior counsel for the applicant,0.75
+other hand,0.6931925622439332
+sections,1.640495469442838
+los,1.8125523261338943
+inter,3.683850287482992
+dwarka,8.125
+bee,5.500336530665606
+category of other backward classes,0.5
+court,12.24425115501509
+fatua assembly constituency of state,0.5
+parliament,2.6571235781762095
+objection,1.68120480131216
+inference,1.006741573033708
+person,4.291511329454258
+allegations,1.8333333333333335
+part in some enquiry,0.5
+court manu  scmanu  sc,0.0
+other members,0.59375
+uncle,1.19187675070028
+scope of a notification,0.5
+nothing,0.8658723322806009
+question of submission,0.5
+pillai,1.2222222222222223
+relation between castes,0.0
+subsequent notification,1.125
+- production of parents,0.0
+caste certificate of the respondent,0.5
+decision,2.9514937765898557
+benefit of a reserved category,0.5
+regards prayer,0.6666666666666666
+position of burden,0.5
+bank upon the plea,0.5
+balakrishna,0.8
+claim,2.817264601856604
+house,2.0021735292386764
+obc candidate,0.6666666666666666
+member of the family,0.6000000000000001
+segmental division,0.5
+election,6.758005637447438
+denial,0.8338926174496643
+connection with that case,0.5
+year,2.8349484769759212
+backward class,3.8461538461538463
+judgment,3.288216560509554
+aray,0.7498575498575498
+dinesh chaudhary belong,1.0
+claims,1.1941982272360998
+srinivas at page,0.5
+residents,0.8191605554688717
+loss,2.0689655172413794
+act,12.870263922028107
+read with direction,0.6666666666666666
+pollution,3.0000000000000004
+governor,1.1316137566137567
+special backward category in existence,0.6666666666666666
+traits,0.32258064516129037
+tribal welfare v laveti giri manuscmanusc,0.5
+sriniva at page,0.0
+such fraud,0.3333333333333333
+setting,0.7533735285673271
+member with quorum,0.0
+onus of proof,0.9333333333333332
+trait,0.4158415841584159
+section,9.287987283173626
+dinesh chaudhary belongs to a scheduled caste community,0.5
+diacritical sign,0.5
+fir,2.85390975582079
+borne,0.6514872334824954
+meena alias mota,0.5
+functions,1.326241134751773
+officers,2.442124212421242
+finding,1.8129183657767178
+per requirement,1.0
+- production of material witness,0.0
+refusal,0.813597918022121
+regard,2.723310344827586
+same pattern of attribute - hierarchy,0.0
+speaker,1.0631212723658052
+normal human conduct of a prudent person,0.5
+knowledge,1.1120671641791045
+direction,1.8495050210098996
+nomination paper in respect,0.5
+such cogent reason,0.5
+hereditary classes,0.5
+few cases,0.4102564102564103
+petition that the respondent,1.0
+accordance with law,1.0046948356807512
+voters list of village adai,0.5
+facts,1.4696673624372698
+lodging,0.8205128205128205
+nomination paper,9.875
+bogus caste certificate,0.5
+mohinder,1.0
+fray,0.3896103896103896
+senior,1.989753211141579
+benefit,2.604810195438474
+records,0.9879294336118848
+cost,1.2954397451466992
+onu of proof,0.0
+dent,4.988589074020128
+sub,7.816899313759727
+for the purposes of relationship,0.5
+course,1.6545957498716626
+adverse party,1.0
+murugesam,0.5
+various writers,0.5
+caste of the father,0.5
+groups,0.9065945998117897
+freedom,1.9254884143571103
+nomination paper of the sole respondent,0.5
+relationship with deo kumari devi,0.5
+matter from any angle,0.5
+attribute of the caste,0.0
+light of the above observations,0.5
+reserved constituency as a scheduled caste candidate,0.5
+inquiry,1.3527272727272728
+election of the respondent,1.6
+matter,2.8088923076923082
+relation,1.397320207820618
+aforestated committee,0.6666666666666666
+observation of the high court,0.6666666666666666
+go - bye for any purpose whatsoever,0.0
+by birth,1.3333333333333333
+social status certificate,1.3333333333333333
+essay,0.22857142857142856
+hinduism,1.9066666666666665
+wife,1.4518086408500224
+member thereof,0.75
+kurmis,1.5
+kundan lal rallaram v custodian,0.5
+birth,1.5969847398418826
+- examination of witness,0.0
+pivotalattribute,0.5
+view of the adverse inference,0.5
+unit,2.176678509944691
+witness,5.333906623599983
+core,0.43168575654387237
+side by any evidence,0.5
+bhagwan singh in some other village,0.5
+material,1.4148767018946966
+nomination of dinesh chaudhary,0.5
+such circumstances,0.5729166666666666
+that the applications for admission,0.6666666666666666
+polouse,0.0
+kirpalani,0.5
+guideline,1.5641711229946524
+city,2.544592792669584
+cabinet,0.27011494252873564
+provision,5.439002243350069
+support,0.8630946786249609
+local hierarchy,0.5
+circular,2.0360934182590236
+clear - cut differentiation,0.0
+such parent,0.5
+caste certificate to the extent,0.5
+nomadic tribes,0.6666666666666666
+consent of husband,0.5
+aurangabad,0.9
+relevant issues,0.2857142857142857
+sociologist,0.2647058823529412
+aforesaid subject,0.5
+party notwithstanding that the onu,0.5
+abstract doctrine of onus,0.6666666666666666
+such cases,0.7390180878552971
+object,1.4940119760479043
+kumar,2.028839704896043
+thereto,1.0358342665173572
+feeding,0.284789644012945
+fraud,2.7602996254681647
+special means,0.5
+in the facts,0.9398907103825137
+extent,1.410108024691358
+religious disabilities,0.5
+naresh chaudhary,1.0
+light,0.8816192372754331
+other witness,0.7222222222222222
+such case,0.7332761578044598
+mention of the principle,0.5
+whereof,1.2790697674418605
+sought,1.1658793604651163
+true that the applications for admission,0.6666666666666666
+issues,1.1246716508385532
+privileges,2.142857142857143
+evacuee property,0.75
+controversy withholds,0.5
+dev,2.1018632238997714
+criminal proceedings,2.6818181818181817
+necessary that a caste certificate,0.5
+state of bihar,2.5918367346938775
+- schedule caste hindu father,0.0
+cloud,0.3701492537313433
+right by way,0.6666666666666666
+membership,1.1432614078528476
+vaisya,0.6666666666666666
+social,1.161734693877551
+wedlock,0.543956043956044
+which details,0.3333333333333333
+justice sb,0.6666666666666666
+want,0.9034484256025601
+council,1.464939453675021
+administrative instruction,0.8
+assembly,2.613006617038875
+religion,3.489119987394627
+grave,0.5757518081461743
+report from the district welfare officer,0.5
+notes,0.6013642564802183
+inter-caste marriage,0.0
+respondent as son,1.0
+attempt on the part,0.75
+list of scheduled castes,0.5
+deo kumari devi at village adai,0.5
+kurmi,17.333333333333332
+custody,1.4166666666666667
+full particular,1.2
+social status of eligibility,0.6666666666666666
+illegible enquiry,0.5
+change,1.2214862766571903
+court in kumari madhuri patil,1.0
+queer observation,0.5
+charan,1.1111111111111112
+cases,1.9728229418951067
+division,1.7657319129617017
+educational institution,1.6904176904176904
+group,1.691932599016908
+tenet,0.8018867924528303
+safina,0.5
+on the point,0.7930434782608696
+evidence in support,0.8571428571428571
+bad relation,0.5
+district welfare officer,2.5
+entry resort to dilatory tactics,0.6666666666666666
+other side,0.5701657458563535
+mother of dinesh chaudhary,0.5
+matrimonial dispute,1.0
+such evidence,0.9649122807017544
+hurdles,0.45000000000000007
+connection,1.050640279394645
+aside,1.2654996720980676
+tactic,0.5601325757575758
+such sort,0.5
+parts,0.6609660823170732
+india,2.7684068260703585
+chaudhary with the police,0.5
+laveti,0.5
+authenticated copy,0.75
+respondent from the angle,0.5
+maternal uncle,2.4285714285714284
+association,1.2099052684061826
+acceptance,1.4762112614578786
+spurious person,0.6666666666666666
+that caste certificate entitling,0.5
+certain decision,0.5
+return,1.5755725190839696
+hiring,0.9705882352941176
+means of knowledge,0.6666666666666666
+obc candidates,0.6666666666666666
+other thing by the concepts,0.0
+reliance,1.400763358778626
+veracity,0.6470588235294118
+due to vast area of the state,0.6666666666666666
+casteless,0.5
+relevant attribute,1.0
+prudent person,1.2
+different sections,1.0
+major hereditary classes,0.5
+objectors,0.8333333333333334
+alleged marriage,1.0
+instruction,1.8197943962910703
+authors,0.4505968169761273
+latif,0.5454545454545454
+posts under a state,0.6666666666666666
+traditional association with an occupation,0.5
+false social status certificate,0.6666666666666666
+scheduled caste candidate,0.6666666666666666
+womb,0.23655913978494622
+duty,3.2272215973003378
+basis of the evidence,1.3
+re-conversion,0.0
+human conduct of a prudent person,0.5
+returning,1.8741418764302058
+peripheral attributes,0.5
+behalf of the petitioner,1.6666666666666667
+son of bhagwan singh,2.5
+point,2.9165043546008516
+vote,4.2642709347614405
+person of the charge,0.5
+person from the family,0.5
+narender,0.75
+evidence act,3.8666666666666667
+obc,0.31831187410586553
+abstract doctrine,0.6666666666666666
+patna city,0.5
+lal,1.6786163249382287
+such acceptance,0.75
+consultation,1.1724137931034484
+material fact,1.4615384615384615
+particular relationship,0.3333333333333333
+placing of variations,0.5
+such facts,1.0
+sort of affinity,0.5
+category,1.9351744779266717
+constituency as a scheduled caste candidate,0.5
+competent person,0.6
+sambandha,0.5
+neither bhagwan singh,0.5
+backwardness,0.5
+statutory,2.0326923076923076
+untenable observation,0.5
+plea,1.4430487701432178
+that the controversy,0.6666666666666666
+special circumstance,0.8666666666666667
+characteristics of the caste,1.0
+tribe of the person,0.5
+patil,0.85
+pune,1.3423295454545454
+agree with the opinion,0.75
+decide,1.6018650602802482
+authority,2.4352627108360636
+john,0.49851778149329673
+development,2.3145884270578647
+admission to educational institutions,1.3333333333333333
+social statu,0.875
+parsram,0.5
+caste b,2.6
+father bhagwan singh,0.5
+research,1.351044147915173
+relevant provision,1.5737704918032787
+statement of dw,0.5
+page,1.011907905159212
+background,0.6800452488687784
+evidence of the respondent,0.5
+iii,1.5614499719992534
+arumugam v vs,0.5
+kurmi families,1.0
+instant,1.131578947368421
+lady kurmi by caste,0.5
+knowledge of respondent,1.0
+sriniva,0.5128205128205129
+deo,2.0342135354743927
+block,0.7881443298969073
+state,6.817996007300392
+statute,2.5765859456247218
+classes,1.212856534695615
+note,1.3654108484234107
+create hurdle in completion,0.0
+controversy,0.8593204191806921
+deo kumari devi hence,0.5
+jassi,9.666666666666666
+haji,1.4318181818181817
+surangpur,0.5
+kurmis by caste,0.5
+other decision,1.1818181818181819
+natural inference in such circumstances,0.5
+wad at page,0.5
+airsc,1.6909090909090911
+relation thereto the president,0.5
+man,6.972395052694935
+mohan,1.5416666666666667
+inference under section,0.5
+which hindu society,0.5
+customary law,1.25
+kind,0.9236881920088026
+judicial recognition of caste autonomy,0.5
+knowledge of any person,0.5
+alias,0.7720588235294116
+knowledge of people,0.5
+basis of false social status certificate,0.6666666666666666
+queer,0.19411764705882353
+kumari devi,17.5
+relations between the respondent,0.5
+vice-president of the community,0.0
+senior counsel,2.2857142857142856
+labour,2.5372960372960374
+persons,2.5993381990166555
+dakkal,0.5
+amongst others,0.6666666666666666
+customary trait,0.5
+inference against the respondent,1.0
+tribes,1.6409945421467553
+murugesam pillai v md,0.5
+residents of village adai,0.5
+other things by the concepts,0.5
+children,1.3787369914853358
+power under article,1.28
+affinity,0.40404040404040403
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+classical concept,0.3333333333333333
+statutory law,0.8571428571428571
+due to non-production of material witness,0.0
+naresh,1.8333333333333333
+application for admission,0.0
+andor part,0.6666666666666666
+that caste b,0.5
+meaning,1.8612727545949643
+case in the same way,0.5
+that village,0.5454545454545454
+principal,1.3412499999999998
+to the normal course of events,0.5
+thing by the concepts,0.0
+production,2.1071428571428577
+returned candidate to the legislative assembly,0.5
+amongst several objections,0.5
+hesitation,0.5405405405405406
+attributes,0.6717557251908397
+behalf,1.9888053603529987
+backward category in existence,0.6666666666666666
+kailash sonkar,0.5
+false status certificate,0.6666666666666666
+full particulars,1.2
+social intercourse,0.5
+marriage of bhagwan singh,2.0
+relevant provisions,1.5
+articles,1.4349688743466387
+inquiries,0.6559633027522935
+hereditary occupation,0.5
+family of the respondent,1.0
+course of events,0.6000000000000001
+respective officers,0.6666666666666666
+george,0.6472834067547724
+dev kumari devi,0.5
+appeal,3.4125488033856883
+inference in the event,0.5
+caste scrutiny committee,1.3333333333333333
+area,2.675167256985439
+village,1.8429856945085372
+nath,1.2024818815807465
+alia,0.9479866480753792
+caste ie,0.5
+hindu law,0.6666666666666666
+facts of which special knowledge,0.5
+meaning of section,1.3611111111111112
+dinesh chaudhary,9.666666666666666
+of the authors,0.25757575757575757
+evidence on the question,0.6666666666666666
+initial burden,1.3333333333333333
+citation,0.5314960629921259
+jahanabad assembly constituency,0.5
+view of the special knowledge,0.5
+trite that a circular letter,0.5
+wife of bhagwan singh,1.0
+mala dakkal,0.5
+evidence of bhagwan singh,1.0
+saklecha,0.5
+such adverse inference along,0.5
+enquiry by the block development officer  circle officer  block welfare officer,0.0
+kurmi ladies,0.5
+tenet of pasi,0.0
+purpose of determination,1.3333333333333333
+completion,1.1868131868131868
+direct evidence about the caste,0.5
+constituency for a person,0.5
+list,4.014941314095513
+manner,1.4494591333432125
+election matter,0.6666666666666666
+law in india,0.8
+statement during the course,0.5
+contrary to the normal course of events,0.5
+certificates,0.7105263157894737
+tribe of a person,0.0
+pasi lady,1.0
+go - bye,0.0
+whole story,0.2619047619047619
+college,2.1498947162234954
+documentary evidence,0.6825
+pattern,0.6151546391752578
+committees,1.1
+circumstance,1.429931390219372
+los of caste,0.0
+fake,0.5264516129032258
+mean,2.390645692553228
+yadav,1.8571428571428574
+circulars,1.1515151515151516
+purpose of this constitution,0.0
+true that the controversy,0.5
+wife jago devi,2.0
+misra,0.4807692307692307
+class,2.1508512849922936
+respective officer,0.6666666666666666
+hesitation that nomination paper,0.5
+such fact in the special knowledge,0.0
+arumugam,1.0
+regards,0.9072861236185019
+background of the allegations,0.5
+best evidence,0.9272727272727272
+characteristic of the caste,0.0
+basi,2.0752712086391383
+benefits,2.0896027049873203
+sole respondent,0.6666666666666666
+objections,1.2025072324011572
+village jahanabad,0.5
+bhawan singh,0.5
+instant caste,0.5
+doctrine,0.7455954017243533
+judgment of the high court,1.721311475409836
+human conduct,0.6666666666666666
+basis,1.953226441078104
+normal course of things,0.5
+directions,1.5134125183504605
+legislative,2.4237377279102383
+magistrate,3.522077922077922
+favour of the respondent,2.0434782608695654
+few cases on the point,0.5
+evidence on the point,0.6666666666666666
+implication,0.6615776081424936
+hence,1.1440732910500353
+officer,3.1197242647058823
+that date,0.9333333333333333
+sc  community,0.0
+territory,1.3688226421790437
+citation of certain decisions,0.5
+direct evidence,1.8409090909090908
+resort,0.7319355397678043
+adverse inference along,0.5
+cros,1.8137948361162648
+function,1.6326372491145218
+endogamy,0.5
+fraud on constitution,0.5
+kurmi mother ie,0.5
+proof,1.0648141580366008
+samant,0.4
+occasion for the petitioner appellant,0.5
+report of the district welfare officer,1.0
+prima facie,1.0185185185185184
+criminal,3.301971081989414
+term,3.6255105640901575
+sociological implication,0.5
+matter for the next day,0.5
+view,2.441100058469462
+contention on the vexed issues,0.5
+mahomed,0.75
+basis of untenable observation,0.5
+side,3.88845645915565
+relief,1.4748116760828625
+majority,1.3427634276342764
+pleadings,1.3125
+candidature of dinesh chaudhary,0.5
+such fact,1.0833333333333333
+parsram v,0.5
+reserved category,2.5
+onu,0.7016248153618907
+result,1.3356630184144715
+withholding,1.7058823529411766
+record,2.5393414390845273
+information,1.1320502836800534
+votes whereas the petitioner appellant,0.5
+for the relationship between bhagwan singh,0.5
+burden of the petitioner,0.5
+fact in the special knowledge,0.0
+evidence of the brother,0.5
+people act,1.455168475157053
+averment,1.7
+initiation,0.6820512820512821
+legislation,3.2032032032032034
+adi,1.5424387000526671
+fact,3.6284951019474962
+such circumstance,0.5723905723905723
+learned counsel,3.703333333333333
+counsel for the applicant,1.0
+particulars,0.9472222222222222
+fraudulent certificates,0.5
+presumption,1.06
+academic one,0.5
+basavalingappa,0.5
+that behalf,1.3548387096774193
+witnes,5.333906623599983
+borne of jago devi,1.0
+english dictionary,1.0
+group within any caste,0.5
+years,2.5395804110508022
+exercise,1.9400726466785694
+caste of the respondent,1.0
+election petition,23.75
+christian by birth,0.5
+amravati,2.25
+party,2.2250894654439723
+different attribute,0.3333333333333333
+respondent herein,1.8936170212765957
+applications for admission,0.6666666666666666
+proposition,0.6371087928464977
+fatua,0.6545454545454544
+justice,2.292557084574302
+therein,1.5503424657534246
+case of another marriage,0.5
+haji latif,0.6666666666666666
+sight of the fact,0.5714285714285714
+such information beforehand,0.5
+meena,0.3365384615384615
+v state,2.4603773584905664
+other essays,0.5
+per requirement of section,0.5
+above observation,0.6530612244897959
+special knowledge in respect thereof,0.5
+society,2.1182859399684046
+existence,0.731202675709574
+bank,9.40770083102493
+divisional,1.6233766233766234
+amongst several objection,0.5
+day,1.550999710228919
+question,2.980312372067635
+ram eqbal singh,0.5
+concepts,0.6911669890393295
+mala,0.727137439393212
+several witnesses,0.37333333333333335
+inter - caste marriage,0.0
+madhuri,3.4
+tribal development,2.0
+witness in list,0.0
+scmanu,7.940520446096654
+area of the state,0.6666666666666666
+variations,0.4711538461538462
+practice,1.7660110149488593
+statement,2.5393160135035964
+election of none,0.5
+court that respondent,0.5
+matter of scrutiny,0.6666666666666666
+entry,4.707210447678601
+other backward class,1.5714285714285714
+notification,3.0112746633260263
+property,2.9368986630013745
+respect to any state,0.5
+law,3.538923411654744
+relevant issue,0.2727272727272727
+non - scheduled caste,0.0
+observation,0.7625074854374218
+voter with divine displeasure,0.0
+particulars of the arrangement,0.5
+few case,0.4273504273504274
+sides,0.6706755273269035
+available on the point,0.5
+learned counsel for the respondent,1.507936507936508
+bhagwan singh with a pasi lady,0.5
+vigilance cell,0.6666666666666666
+sudra,1.0
+witness for the respondent,0.0
+own caste ie,0.5
+educational backwardness,0.5
+governor thereof,0.5
+modification in the order,0.5
+above circumstance,0.875
+complaint,2.734525785235724
+relations,1.2666042780748663
+non,1.3417336444559675
+mother deo kumari devi,1.0
+voter,2.7989417989417995
+constitution bench of this court,1.2647058823529411
+otherwise,1.2549820889894419
+vague statement,0.4444444444444444
+maya,0.34856614246068457
+protection to the members,0.5
+certificate,2.732600732600732
+special circumstances,0.8666666666666667
+tactics,0.4837209302325581
+application,2.3322596088086445
+implications,0.5223021582733813
+doctrine of onus,0.6666666666666666
+vast area of the state,0.6666666666666666
+summary,0.8025241675617614
+learned brother,1.7692307692307692
+privilege,2.436023622047244
+notification wherea,0.5
+krishanji,0.5
+normal course,0.8666666666666667
+view of certain circulars,0.5
+submission,1.0913871684001404
+bye,1.9938461538461536
+relation between the respondent,0.0
+particular position,0.5
+withholding of a witness,0.5
+definite case,0.6666666666666666
+jagjiwan,0.5
+dictionary,0.7964252553389043
+want of social status certificate,0.6666666666666666
+candidate for the election,0.6666666666666666
+detail,0.9737454684220567
+scheduled caste person,0.5
+other member,0.6470588235294118
+notification whereas,0.5
+that state,0.8973013493253372
+eqbal,0.6666666666666666
+particular caste,1.0
+several witness,0.37333333333333335
+effect that bhagwan singh,0.5
+institutions,2.2839413875598087
+things by the concepts,0.5
+constitution,3.204842342342342
+letter,2.707240080105903
+deo kumari devi in another village,0.5
+guntur,2.2857142857142856
+groups within the caste,0.5
+special knowledge of the respondent,1.5
+gaya,0.0935064935064935
+case of inter - caste marriage,0.0
+basic,0.8868621503201887
+that context,0.6351606805293006
+particular position in the local hierarchy,0.5
+fact that the respondent,0.8
+statement bhagwan singh,0.5
+applicant,0.7861822513400833
+second,1.4990453300392075
+amongst other,0.6521739130434783
+utamchand,0.5
+burden,0.9853978671041838
+tribe,2.294908466819222
+knowledge of the other party,0.5
+doubt about the veracity,0.6666666666666666
+sudra into which hindu society,0.5
+alias mota,0.5
+bhagwan,1.5555555555555556
+police,2.9749362629783356
+dholakia,1.5
+grave suspicion as a result,0.5
+nimai,0.14285714285714285
+kumari madhuri patil v addl commissioner,0.5
+bhagwan singh,12.6
+respect of the nomination paper,0.5
+guardian,3.176470588235294
+public notification,0.6666666666666666
+casteless statu,0.5
+president of india,1.8
+reason,2.6381270903010035
+adverse inference,3.0833333333333335
+witnesses in list,0.5
+respect thereof,1.0666666666666667
+certain circulars,0.5
+kurmi family,2.0
+normal human conduct,0.6666666666666666
+best evidence of the respondent,0.5
+dolgobinda,0.5
+state in exercise,0.8
+mota,0.23469387755102045
+caste as system,0.5
+facie,1.0476190476190477
+case of the parties,0.8
+characteristics,0.6133333333333333
+others,0.9074667328904616
+care,0.8846948234137723
+receipt,1.5471923536439667
+kumari,4.764705882352941
+social welfare officer,0.6666666666666666
+plurality,0.489795918367347
+judgment that the whole story,0.5
+student,1.2777711454664835
+district magistrate,3.5
+jehanabad assembly constituency,0.5
+gnana,0.2142857142857143
+for the purpose of relationship,0.0
+instant appeal,1.2857142857142858
+case of re-conversion,0.0
+occupation,1.1158072696534236
+core issue,0.5714285714285714
+conclusion,1.3883437407077015
+author,2.9909112471968258
+materia with article,0.5
+traditional division of labour,0.5
+witnes of the respondent,0.0
+true that the application for admission,0.0
+claiming,0.7345149253731345
+whereafter,0.8205128205128206
+circular of the government,0.5
+respondent s father,0.0
+nomination paper of the respondent,2.3333333333333335
+different attribute of the caste,0.0
+circumstances,1.3944461370073231
+welfare,1.3226788432267886
+castes in relation,0.5
+suspicion as a result,0.5
+high court,7.7477477477477485
+terms of a statute,0.75
+birth of the second son bhagwan singh,0.5
+jurisdiction,2.9539571926331507
+race,0.6810000694251597
+law within the meaning,0.8
+manu,7.078142071124147
+b basavalingappa v d munichinnappa manuscmanusc,0.5
+schedule caste mother,1.0
+santosh yadav v narender singh,0.6666666666666666
+kurmi  caste,0.0
+caste of the mother,0.5
+original caste,1.0
+inference drawn,1.0
+reserved constituency,1.6
+votes,3.9696793002915447
+substance of the decision,0.5
+in the fact,0.7692307692307693
+such sort of shifting,0.5
+reference to section,1.1111111111111112
+grave doubt,0.5714285714285714
+chaudhary as a scheduled caste person,0.5
+full effect,1.2222222222222223
+casteles,0.5
+purpose whatsoever,0.5
+absence of any statutory law,0.5
+voters list,1.3333333333333333
+ghurye,0.5
+other observation,0.4
+basi of untenable observation,0.0
+committee,2.546237803603864
+restriction,1.0123456790123457
+sight,0.6194871794871795
+state for the determination,0.5
+modern,0.6996724240619416
+castes,3.7222222222222223
+people,1.2855544825097243
+reasons,1.3749054007567938
+filing,1.1274190041313328
+terms,2.390350840909655
+writer,0.9196082055072999
+sir,1.1712841173013164
+preferential right by way,0.5
+respondent s case,0.0
+backward category,0.6666666666666666
+patna high court,1.4166666666666667
+ors,2.8612718198296623
+vast area,0.5
+that dinesh chaudhary,2.0
+occasion for the election petitioner,0.6666666666666666
+part,5.294464509893076
+v state of bihar,1.8918918918918919
+ways,1.3640952708404963
+sub-divisional magistrate,0.0
+bombay,2.3134020618556703
+aspect,1.2449448189023034
+shri,2.0759135877246115
+decisions,1.3888475974580996
+welfare v laveti giri manu  scmanu  sc,0.0
+respect whereof,0.6666666666666666
+information beforehand,0.5
+thiru john,0.6666666666666666
+create hurdles,0.6666666666666666
+aspect of the matter,1.4642857142857142
+research officertribal development,0.6666666666666666
+seat,2.8245469748060423
+controversy under issue,0.5
+determination,1.5980374665477253
+collector,1.8095238095238093
+pari materia,0.8333333333333334
+balwan singh v lakshmi narain,0.5
+read,2.2147281730888695
+tenets of pasi,0.5
+races,0.7216431637032495
+father,1.4298716229162676
+side of the election petitioner,1.0
+community,1.3158036677454152
+fact that the father,0.6666666666666666
+v george fernadez,0.5
+acceptance of the caste,0.5
+placing,0.7313195548489666
+tewari,1.0
+appointment,3.1380281690140843
+explanation,1.4510159010600707
+religious disability,0.0
+state government,3.027142857142857
+which fact,0.47115384615384615
+effect,2.184583388478191
+patna,2.3421052631578947
+dinesh,3.230769230769231
+controversy withhold,0.6666666666666666
+change of religion,0.5
+bhagwan singh s wife,0.0
+object of clause,0.5
+groups within caste,1.0
+disability,0.621301775147929
+status of eligibility,0.6666666666666666
+other observations,0.4444444444444444
+kumari madhuri patil,1.6666666666666667
+caste in relation,0.0
+initiation of criminal proceedings,0.5
+schedule caste,2.0
+term of a statute,0.0
+variation,0.5234042553191488
+none,0.8181718550217885
+practice of persons,0.5
+loss of caste,0.5
+place,2.333104345208554
+following term,1.6170212765957446
+same pattern,0.6000000000000001
+list of witnesses,0.75
+conduct of a prudent,1.0
+story,0.755772533184814
+non-production of parents,0.0
+member of  pasi,0.0
+issue,2.766776251628934
+relationship between bhagwan singh,0.5
+relevant for the purposes of relationship,0.5
+weakness,0.3342391304347826
+decisions manuscmanusc,0.5
+brahman,1.0
+families,3.0833333333333335
+that the respondent,2.046153846153846
+adverse inference against the respondent,1.0
+petitioner,4.524972253052164
+weight,0.7538461538461538
+concept of caste,0.5
+connection with the fact,0.5
+returned candidate,7.846153846153846
+airsc jeet mohinder singh v harminder singh jassi,0.5
+course of things,0.3333333333333333
+normal conduct of a prudent,0.5
+caste,3.66454871293581
+help to the respondent,0.75
+womb of deo kumari devi,0.5
+non-examination of witness,0.0
+scope of article,1.1428571428571428
+ladies,0.24725274725274726
+marriage,1.8031648351648353
+ground,1.4186722903211633
+loose,0.4783950617283951
+withheld,0.942857142857143
+gopal,1.1610169491525424
+liberty,0.7860465116279071
+decision of this court manu  scmanu  sc,0.0
+association with an occupation,0.5
+concept,0.9402138540213855
+article,4.378806157159795
+kundan,0.5
+special case,0.8181818181818183
+case of an inter-caste marriage,0.0
+circumstantial nature,0.5
+spurious persons,0.6666666666666666
+case on the point,0.0
+opinion,1.4960606342789635
+attributes of the caste,1.0
+caste system,1.5
+normal course of events,1.0
+sociological implications,0.5
+relations of deo kumari devi,0.5
+thee,0.5324675324675324
+above observations,1.0714285714285714
+tribes of a person,0.5
+scs,0.6990393936723363
+rao,0.9220020325203252
+bihar,4.587301587301587
+jago devi,8.5
+common occupation,0.5
+ghurye among others,0.5
+person borne,1.0
+scope,0.8412698412698413
+laws,1.4186274337269533
+communities,0.5181347150259067
+nomination of the respondent,0.6666666666666666
+which special knowledge,0.5
+balwan,1.3333333333333333
+intercourse,0.4069565217391304
+respect,2.6704963235294117
+case of the petition,1.25
+to alleged marriage of bhagwan singh,0.5
+village adai,5.5
+chaudhary on the ground,0.5
+that effect,0.6458333333333334
+genuine candidate,0.6666666666666666
+husband,1.6418918918918919
+instruction i,0.52
+ritual observance,0.3333333333333333
+same time,0.6913511801045461
+system,1.1230229504341178
+santosh,1.3333333333333333
+aforesaid election,0.75
+disabilities,0.8333333333333333
+kurmi father,2.0
+case before the issue,0.0
+details,0.9406426856198188
+posts,2.6556317082632876
+vice-president,0.0
+enquiry,2.145762711864407
+scheduled caste community,1.0
+deliberation,0.7366666666666667
+possession of best evidence,0.6666666666666666
+other backward classes,1.5714285714285714
+representation of the people act,2.4
+dokkalwar,0.5
+consent,1.224924012158055
+sons,2.7457346002031446
+material to the effect,0.5
+nothing on record,1.5
+information beforehand through the district magistrate,0.5
+cogent reason,1.25
+institution,2.7327010745685443
+accordance,1.4069045211613462
+devi manuscmanusc,0.75
+observations of the high court,0.9
+alleged marriage of bhagwan singh,1.0
+effect whether the nomination paper,0.5
+dinesh chaudhary belongs,1.0
+other place,0.4742268041237113
+displeasure,0.5185185185185185
+sort,0.7327002541370012
+important members,0.5
+parent,0.9965655833245622
+return candidate,0.5
+voters list of jahanabad assembly constituency,0.5
+behalf of the respondent,1.453125
+name,1.8996570753072433
+material facts,1.1818181818181819
+customary traits,0.5
+best witness,0.6666666666666666
+create hurdles in completion,0.6666666666666666
+members,1.9437616522164103
+appointments,1.2888888888888888
+caste status,0.5
+bhavanichak,0.5
+munichinnappa,0.5
+dal,0.772009472009472
+quorum,0.9142857142857144
+characteristics of the caste system till today,0.5
+prayer,0.6969296987087519
+purpose,2.519170317925504
+help,0.7217940266720754
+time,2.4764180952862667
+genuine candidates,0.6666666666666666
+chaudhary,1.4615384615384615
+denial of the fact,0.5
+constitution bench,4.27536231884058
+eligibility,1.1788856304985336
+party in the state,0.5
+special mean of knowledge,0.0
+inference drawn against the husband,0.5
+traditional association,0.5
+fact evidence,0.5
+shifting,0.5253424657534247
+adai with deo kumari devi,0.5
+traditional division,0.5
+light on the issue,0.75
+right,3.07483248288682
+conversion,0.6074029126213593
+kurmi lady,1.0
+derive strength,0.5
+commensality,1.0
+cogent reason for the respondent,0.5
+absence,1.092363454568179
+counsel,2.2246780703440323
+membership by birth,0.5
+dinesh chaudhary belong to a scheduled caste community,0.0
+yadav v narender singh on the proposition,0.5
+amongst other in the fray,0.0
+fatua assembly constituency,1.0
+best witnesses,0.6666666666666666
+which detail,0.2857142857142857
+witnesses,3.359210526315789
+allegation of marriage,0.5
+purposes of this constitution,0.5
+meetings,0.7029804727646454
+backwardnes,0.5
+other side by any evidence,0.5
+division of society,0.5
+prmanu,1.1333333333333333
+son,4.595622484812135
+mention,1.6248742837095076
+dispute,2.402137592137592
+jago,2.7600000000000002
+differentiation,0.8615384615384616
+receipt of the report,0.8333333333333334
+vigilance,0.75
+circumstance of the case,0.5
+airsc dolgobinda paricha v nimai charan misra,0.5
+case,7.332269420884958
+date of scrutiny objectors,0.5
+pivotalattributes,0.5
+create hurdle,0.6666666666666666
+responsible officer,1.0
+example,0.5893965031020868
+prudent,0.7692307692307693
+case to the hilt,0.5
+ketkar,0.6666666666666666
+particular of the arrangement,0.0
+post under a state,0.0
+election petition that the respondent,0.5
+caste certificate,4.25
+false certificate,0.6666666666666666
+court of law,0.673963133640553
+aforestated committees,0.6666666666666666
+contention,1.666391070690368
+fraudulent certificate,0.5
+collins,0.3506849315068493
+occasion to state,0.5
+witness of the respondent,0.5
+such information beforehand through the district magistrate,0.5
+autonomy,0.6610169491525425
+dinesh chaudhary as a scheduled caste person,0.5
+initial burden of the petitioner,0.5
+bench,2.5793391667754992
+lady kurmi,0.5
+statement of pw,1.7272727272727273
+office,3.5913445886237847
+nominee,0.9666666666666667
+mean of knowledge,0.0
+bad relations between the respondent,0.5
+such cogent reason for the respondent,0.5
+case of the respondent,2.0
+n balakrishna etc,0.5
+witnesses for the respondent,1.0
+material witnes,0.9047619047619048
+facts in the special knowledge,0.5
+prima facie fact,0.5
+above facts,0.47619047619047616
+material witness,0.9047619047619048
+certain decisions,0.4444444444444444
+above basi,0.5
+inconvenience,0.47368421052631576
+order  see aray,0.0
+bhawan,2.0
+instant case,2.0631578947368423
+relevant attributes,0.5
+time of the scrutiny,0.5
+certain circular,0.5
+decision in that behalf,0.8
+other essay,0.5
+construction,2.2504918032786887
+definite case of the appellant,0.5
+manuprmanupr,1.1333333333333333
+devi,1.2339221178171305
+janata,1.5
+air,2.0589664272145285
+comprising,0.6166666666666667
+weight of the evidence,0.5
+appointments to office,0.6666666666666666
+position in the local hierarchy,0.5
+determinative factor in absence,0.5
+respondent dinesh chaudhary,4.0
+fragile,0.25925925925925924
+category of schedule caste,0.5
+observance,0.6967741935483871
+conduct,1.5998023165163158
+such cases before the issue,0.5
+argument of the learned counsel,0.8
+argument,0.9504580388560493
+determinative factor,1.0
+pattern of attribute - hierarchy,0.0
+to normal conduct of a prudent,0.5
+genuine,0.8758169934640523
+tribal,2.6666666666666665
+paricha,0.5
+occasion for the appellant,0.5
+narain,0.4978662873399715
+preferential right,0.6666666666666666
+virendra,0.8
+tribecaste scrutiny committees,0.6666666666666666
+similar observations,0.5333333333333333
+paper,1.8076689487632511
+election commission,6.083333333333333
+mother at the house,0.5
+nomadic tribe,0.6666666666666666
+person borne in a kurmi family,1.0
+hand,2.0299623418254717
+special knowledge,3.5
+pandara,0.5
+speaker of the legislative assembly,0.5
+dilatory tactics,1.0
+appellant,14.387096774193548
+such facts in the special knowledge,0.5
+relations between castes,0.5
+rajdendra,0.5
+principle of law,1.1538461538461537
+proof to the effect,0.5
+amongst others in the fray,0.5
+block development officer  circle officer  block welfare officer,0.0
+representation,1.2338308457711442
+social status,0.875
+singh in village adai,0.5
+party notwithstanding,0.5
+emphasis,0.8024289099526066
+scrutiny objector,0.5
+voters with divine displeasure,0.5
+inquiry by the scrutiny committee,0.0
+privilege of the different sections,0.0
+evidence about the caste,0.5
+myth,0.2582159624413145
+caste scrutiny committee for scs,0.0
+nomination,4.422077922077922
+- production,0.0
+observations,0.7454584147497534
+other things,0.4197737746124843
+basi of the evidence,0.0
+other village,1.2037037037037035
+attribute-hierarchy,0.0
+few case on the point,0.0
+jahanabad,1.0
+tenets,0.7777777777777778
+status of respondent,0.6666666666666666
+person in fact,0.5

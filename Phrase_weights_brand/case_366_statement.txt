@@ -1,0 +1,1493 @@
+government,3.5583785424010483
+judge of the andhra,0.5
+appointment promotion,0.6666666666666666
+first respondent herein,1.5
+east,0.8065147296612034
+sts,1.5353140664394884
+reservation in favour,0.8
+zone of consideration,0.6666666666666666
+spouses of the local candidates,0.5
+pass,2.510543963686946
+deeper than coat of paint,0.0
+certain extraordinary situations inherent in the great diversity,0.5
+expression  the people,0.0
+union,2.0981927710843373
+spouse of the local candidates,0.0
+reserved category candidates,2.3333333333333335
+institutions for specified period,0.5
+consideration reservation quotas,0.5
+relevant rule of admission,0.0
+way,1.7812722068664852
+entrance,0.7155844155844157
+parent article,0.5
+district,1.5506763074237984
+reservations to the extent,0.5
+post-graduate course in mbbs examination,0.0
+reasonable limits-and,0.0
+districts,0.8210526315789474
+test,2.5329834591340266
+rationale of reservation,0.6666666666666666
+scr,2.483838975311538
+mysore,4.733333333333333
+limited number,0.3888888888888889
+impugned direction of the high court,0.6666666666666666
+minimum educational qualification for admission,0.5
+prohibition of capitation fee,0.5
+word  reservation,0.0
+extraordinary situation,0.6666666666666666
+relevant qualifying examination for admission,0.5
+order,5.472481489660944
+relevant qualifying examination,3.5
+state action,2.625
+standards,1.312168199737188
+state to the extent,0.75
+medical,1.633306645316253
+valuable guide,0.6666666666666666
+different way,0.4
+relevant rules of admission,0.5
+relative merit,0.38095238095238093
+wealth,0.6565504807692307
+on the constitutional anvil,0.6666666666666666
+candidates,3.508445945945946
+term of article,0.0
+member,2.649111111111111
+parties,1.8210828547990157
+living reality for the large masses,0.5
+otherwise of the policy,0.6666666666666666
+action under article,0.5
+osmania university,3.3333333333333335
+percentage of reservations,0.5
+servant,2.030552291421857
+condition,2.259476395625584
+to the university,0.8333333333333334
+educational institutions,1.2480000000000002
+question of any further reservation ie,0.5
+reverse discrimination,0.5
+scheduled castes,2.7777777777777777
+rangareddy,0.5
+of the unreserved seats,0.5
+rangaraya,0.5
+bare perusal,1.25
+constitutional anvil,0.6666666666666666
+indian nation,1.6190476190476188
+context,0.9269383697813122
+district of srikakulam,0.0
+mahaboobnagar,0.5
+para,2.300239586747483
+other nations of the world,0.6666666666666666
+arrangement,0.7318181818181818
+her study by reasons,0.5
+rules of admission,1.0
+different region,0.6666666666666666
+relevant factor for the state government,0.5
+local body,0.5
+parents,1.8852093189324288
+keeping,0.7917143948071784
+statewide educational institution,1.5
+region-wide,0.0
+in favour,1.4934550989345512
+nagarjuna university area,0.5
+part - ii,0.0
+rayalaseema area,0.5
+candidate,6.356675392670156
+jealousy,0.25
+first appearance in the part ii,0.5
+seats for admission,0.5
+form with necessary modification,0.5
+various field,0.8
+percentage,0.8769344141488578
+presidential order in respect,0.5
+compensatory state action,0.5
+president,2.1267129228100607
+reality,0.6251091491219559
+rayalaseema areas,0.5
+flung,0.2692307692307692
+more local areas,0.5
+antipathy,0.30000000000000004
+charge,2.7679815308681284
+non-local seat,0.0
+either of those parents,0.5
+country,1.2903191103863751
+national life,0.6666666666666666
+visakhapatnam,2.1666666666666665
+pradesh high court,2.409090909090909
+child,3.0202810640613067
+commendable quality,0.5
+patent appeal,3.5833333333333335
+opportunity,0.946186440677966
+impugned judgment,2.0927152317880795
+entire state,0.4571428571428572
+era of globalisation,0.6666666666666666
+disadvantaged person,0.5
+relevant rule,1.1875
+of the total number,0.5185185185185186
+amongst outside candidate,0.5
+equal periods,1.0
+inequalities,0.4444444444444444
+reference to the residence,0.5
+post,2.344803646492219
+in specified areas,0.5
+conflict,1.314561353483509
+scheduled caste,3.875
+respect of reservations,0.5
+bodies,0.8969063256135499
+merit,1.2419290263876248
+andhra,4.830188679245283
+head of the educational institution  institutions,0.0
+provisions for different parts,0.5
+venkateswara university,0.5
+backward,1.866666666666667
+sustainable on the constitutional anvil,0.6666666666666666
+coats of paint,0.5
+respect of balance,0.5
+general seats,0.5
+requirement of the presidential order,0.0
+gajendragadkar,1.0
+extenso,0.6666666666666666
+student union v aiims,0.5
+rule of admission,0.0
+that admissions,0.5
+dean,0.42057692307692307
+non-statewide educational institutions,0.0
+removal,0.7204301075268817
+mere use of the word  reservation,0.0
+efficient,0.7287878787878789
+kakinada,0.5
+constitutional,1.945673076923077
+duties,1.477142857142857
+anr,1.1271033322299457
+health regulation,0.5
+ultra vires,1.8484848484848484
+modification,0.9714977645305514
+regulations for admission,0.5
+qualifications,1.0714285714285714
+doubt,1.3646267723102583
+reason thereof the state,0.6666666666666666
+bar,1.4720990391722097
+boundaries of the state,0.5
+statewide university,0.5
+purpose of reservation,0.6666666666666666
+indra,0.7803320561941253
+backward classes,2.8
+principle,1.9620890732001848
+cuddapah,0.5
+anything,0.9132309941520469
+constitution of india provide,1.0
+detail of the year,0.0
+sri,1.1524741891017525
+historical wrong,0.5
+factor,1.2878742338904643
+academic year in which he  she,0.0
+available seats,1.6666666666666667
+certain extraordinary situations as explained hereinafter,0.5
+commencement,1.2037037037037035
+equality,1.5627329192546584
+amongst local candidate,0.5
+state government undertaking,0.5
+division bench,3.965217391304348
+date,6.195616975795285
+reference,2.1755848210276256
+wide university,1.0
+study certificatecertificates,0.5
+annexure-iii thereto,0.0
+direction by the high court,0.6666666666666666
+fields,0.9241650294695481
+respondent,4.757894736842104
+scheduled,2.329545454545454
+schedule,2.9453067257945307
+whereof percentage,0.5
+thousand,0.625287081339713
+disadvantaged persons,0.5
+that view of the matter,1.553191489361702
+qualifying examination,2.6666666666666665
+protective measure,1.0
+of the appointments,0.6666666666666666
+members of a backward class,0.5
+regions of the state,1.0
+instructions  rule,0.0
+past,0.9553167330358714
+detriment,0.5446808510638297
+high,5.367119186841496
+mbbs examination,1.3333333333333333
+subject to control of the state government,0.5
+event,1.4310854436179261
+candidate for admission,1.5
+plaintiff to the detriment,0.5
+medak,0.5
+defendant,3.7706855791962175
+of seats,4.063492063492063
+engineering,1.3567493112947657
+para- enjoins,0.0
+mere use,0.6000000000000001
+local university area,0.5
+relevant rules,1.1428571428571428
+k duraisamy,0.75
+speciality courses,1.3333333333333333
+local area,2.8636363636363633
+sub- para,0.0
+executive,1.3789130780232004
+available seat in each discipline,0.0
+criterion,0.7104166666666666
+for local candidates,1.5
+general seats in the state services,0.5
+hereinafter,0.7670609645131939
+further reservation ie,0.5
+constitutional philosophy,0.8
+exception,1.1036946087733006
+regard to the limited number,0.5
+- local status,0.0
+provision of the order,0.0
+exces,0.9881465517241379
+siddhartha,1.0
+constitutional law,0.5
+region from the medical colleges,0.0
+zone,1.373358348968105
+para- set,0.0
+kurnool,1.25
+sub-regulation,0.0
+similar other quasi government institutions,0.5
+sinha,0.8166351606805294
+identical standard,0.5
+class inadequacy,0.6666666666666666
+non-local seats,0.0
+legal infirmity,0.8
+category candidates,2.25
+specified areas,0.5
+to the state of andhra pradesh,0.6666666666666666
+nalgonda,0.5
+local area for the purpose,0.5
+emphasi,0.9191619047619048
+constitutional law of india,0.6666666666666666
+annexure,2.7560975609756095
+sangh air,0.5
+region of the state,0.0
+pradesh medical college,0.5
+- statewide university,0.0
+ratio of the impugned judgment,0.5
+admissions into post graduate,0.5
+factors,0.9829522460542292
+university area,4.0
+wrong,1.2933182103578877
+matter of legal equality,0.5
+several thousands of castes,0.5
+quality,1.3318577075098814
+service,4.257395095954566
+open category,2.0
+affirmative action,0.6222222222222222
+karmachari sangh air,0.5
+rule,5.04
+favour,1.653145208700764
+provision by way,0.6666666666666666
+reserved category candidates on the total number,0.5
+term of rule,0.0
+her study,0.673076923076923
+different regions of the state,0.6666666666666666
+basis of merit,1.5
+impugned directions,1.0
+member of scheduled caste,1.75
+chandra,0.7012987012987013
+respondents,2.6341263330598856
+short question in support,0.5
+costs,0.8167395522604189
+admission,1.5389848246991107
+constituent,1.4054054054054055
+sub - regulation,0.0
+such local area,3.5
+constitutional concept,0.75
+regions from the medical colleges,0.5
+boundary,0.7236842105263159
+non-local statu,0.0
+status,1.14824388424026
+regards non-reservation,0.0
+power,3.8165227690948367
+justification in favour,0.6666666666666666
+woman,1.316528681253696
+relation to any local area,0.5
+basis that the reservation,0.5
+president by order,0.5
+examination,2.4920345926263088
+marri,1.8040281329923273
+health sciences,0.45283018867924535
+author states,0.6666666666666666
+position,1.549133168619177
+term of the presidential order,0.0
+petition,5.3436539306104525
+ten year,1.3831258644536653
+extreme form,0.30000000000000004
+revenue department,0.5
+review application,1.5
+consideration,1.9110153789142115
+expense,1.4186440677966103
+paragraph,1.2930197483150305
+local candidate,14.0
+clause,3.526455026455027
+indra shawhney v union,0.5
+prescribed percentage,0.5
+detre,0.4444444444444444
+protective reservation,0.75
+basis of the relative merit,0.5
+standing,1.224042586942808
+rk sabharwal v state,0.6666666666666666
+provisions,3.8929824561403508
+reasonableness,1.0588235294117647
+manuscmanusc,7.940520446096654
+living,1.0859950859950862
+local candidates with reference,0.5
+- local area,0.0
+that local area for a period,0.5
+equal period,1.0
+consciousness,0.6096059113300493
+separation,0.7297830374753452
+post graduate courses,0.8888888888888888
+interruption,0.4
+pursuant,0.7227692307692308
+circumstances of the case,1.3373493975903614
+national,1.5126860273884035
+he  she,0.0
+diploma,1.8056603773584907
+group of degree,0.5
+unreserved ie,0.5
+means,1.3868295182781003
+tirupati,0.5
+relaxation,0.8571428571428572
+requirement,1.2416133333333332
+limits of the constitutional authority,0.5
+writ of the court,0.6666666666666666
+legal issue,0.5454545454545454
+provision for different parts,0.0
+vire,1.2466124661246614
+equal in specified areas,0.5
+amendment act,3.6511627906976742
+era,4.5714514802649
+such applicants,0.5
+diploma courses in favour,0.5
+extreme form of protective measure,0.5
+inequality,0.48
+view of conditions,0.5
+expression  the person,0.0
+injustice,1.1882716049382718
+action,3.127292663476874
+different parts,0.5034965034965034
+efficacy,0.7863247863247863
+alternative,0.841508109794136
+state government undertakings,0.5
+of the presidential order,4.0
+backward class of citizens,0.75
+final addres,1.0
+final address of dr  ambedkar,0.0
+different provisions,2.0
+provisional list of admission,0.5
+vacancy,1.0666666666666667
+proportional equality,0.5
+consideration reservation quota,0.5
+test of reasonableness,1.2
+hasty servant,0.5
+hyderabad,2.5833333333333335
+equality in law,0.5
+institution for specified period,0.0
+admission into post graduate,0.5
+court,12.24425115501509
+greet delusion,0.5
+following categories,0.5714285714285714
+single judge,4.011627906976744
+person,4.291511329454258
+nation of the world,0.0
+jure equality,0.5
+purpose of admission,2.0
+claims of these parties,0.5
+annexure iii of go,0.5
+balance seat,0.6666666666666666
+rk sabharwal v state of punjab manuscmanusc,0.6666666666666666
+nothing,0.8658723322806009
+presidential order,4.666666666666667
+- statewide educational institutions,0.0
+member of a backward class,0.0
+identical standards,0.5
+number,1.4802651440973922
+reasonablenes,1.0588235294117647
+additional seat,0.5
+decision,2.9514937765898557
+education pursuant,0.5
+competent authority,2.7142857142857144
+part ii,1.4746543778801842
+reservation under clause,0.5
+para- sets out the qualifications,0.0
+that admission,1.0
+claim,2.817264601856604
+addres of dr  ambedkar,0.0
+such course,0.6666666666666666
+open category candidates,0.5
+interpretation,1.518366298484459
+event article,0.5
+equality code,0.5
+year,2.8349484769759212
+backward class,3.8461538461538463
+qualifying examination for admission,0.5
+judgment,3.288216560509554
+similar quasi - public institutions,0.0
+claims,1.1941982272360998
+fraction of seat,1.0
+university on the ground,0.5
+consequence of ipso facto,0.75
+list of admission,0.5
+injury,1.7199352451433856
+element essential to an efficient,0.5
+act,12.870263922028107
+public sector corporation,1.5
+than a state,0.5
+analysis,0.6606741573033708
+general category,2.0
+clas,2.1196191893660425
+category candidate,2.6
+medical courses in the medical college,0.5
+doctrine of principles,0.5
+level,1.1533169827122092
+for local candidate,1.5
+passage,0.6514737598849748
+medical colleges,1.4285714285714286
+heshe,2.3684210526315788
+nations of the world,0.6666666666666666
+reserved category candidate,2.0
+medical college,1.45748987854251
+control of the state government,0.5
+relation to the local area,1.5
+incorrect impression,0.5
+principle of reservation,0.6666666666666666
+members of advanced classes,1.5
+thereunder,1.2794117647058825
+coats,0.34108527131782945
+standard,1.4669008088548319
+appointees promotee,0.5
+factor for the state government,0.5
+question whether the candidates,0.5
+period of his  her study,0.0
+appellant herein,2.046153846153846
+regard,2.723310344827586
+similar other quasi government institutions within the state,0.5
+candidate with reference,0.5
+promotion,2.946428571428571
+raison,0.3333333333333333
+- statewide universities,0.0
+direction,1.8495050210098996
+constituent assembly,1.3333333333333333
+duraisamy,0.75
+number of appointees promotees,0.5
+roster,2.670037926675094
+facts,1.4696673624372698
+extreme caution,0.30000000000000004
+local bodies,1.4444444444444444
+different part,0.4915966386554622
+member of the backward class,0.0
+justification,0.6859587020648967
+form,2.4865961263718424
+reason of the presidential order,0.5
+guise,0.6130414088529271
+social environment,0.3333333333333333
+corps,0.21779988944168047
+local,1.7491695749064458
+women,1.162387410705042
+cost,1.2954397451466992
+doctrine of reasonableness,0.5
+institution in such local area,0.5
+case of doubt,0.5333333333333333
+other similar quasi-public institutions,0.0
+andhra pradesh relating to both employment,0.5
+sub,7.816899313759727
+course,1.6545957498716626
+non-local area,0.0
+pradesh,4.365853658536586
+operative,1.2876712328767126
+thousands,0.42748091603053434
+- local seat,0.0
+reservation of an additional seat,0.5
+mass,0.49419584798420113
+sabharwal,1.875
+sub-talukmangal in the form,0.0
+regulation-c,0.0
+west,1.1420057009587976
+excess,0.9860601614086574
+total period,1.0
+field,1.5820968371729793
+matter,2.8088923076923082
+relation,1.397320207820618
+impugned direction,1.5714285714285714
+available for local candidates,0.5
+candidate under sub- regulation,0.0
+area by reference,0.0
+similar quasi - public institution in the state,0.0
+part of the state,0.8021390374331551
+local candidate with reference,0.5
+institutions in the state,1.0
+indian,1.2604961505560306
+aid,5.498621453008654
+rationale,0.6017094017094018
+extraordinary situations,1.0
+government order,2.138888888888889
+other educational institution,2.0
+birth,1.5969847398418826
+in each course,0.5
+prakasam,0.4444444444444444
+health regulations,0.5
+sense of the word,0.2608695652173913
+state services,0.6666666666666666
+educational institutions in such local area,0.5
+reservation emanate,0.5
+theory,0.43014388218941363
+procedure,2.552771605064117
+institution in the state,0.5
+provision,5.439002243350069
+city,2.544592792669584
+support,0.8630946786249609
+concept of a protective reservation,0.75
+last in such equal periods,0.5
+criteria,1.3561764705882353
+fact reservation,0.5
+sector corporation,1.5
+para-,0.0
+conflict in some decisions,0.5
+department,1.9858367499068206
+caution,1.0777000777000778
+considerable number,0.26666666666666666
+such applicant,0.8
+object,1.4940119760479043
+total number,0.8813725490196079
+maximum period,1.5
+thereto,1.0358342665173572
+nation in reality,0.5
+provision in the ap,0.5
+fraud,2.7602996254681647
+extent,1.410108024691358
+punjab manuscmanusc,1.625
+venkateshwara university,0.5
+details of the year,0.5
+nothing in the order,0.5
+certain extraordinary situation,1.0
+review,1.3564101463582128
+whereof,1.2790697674418605
+definition,1.6460425937698666
+calls,0.5871357250667595
+other order,0.6545454545454545
+unreasonable go,0.6666666666666666
+issues,1.1246716508385532
+other educational institution as the local area,0.5
+proviso to the para,0.5
+educational institutions in the state,0.5
+regulation of admission,1.5
+ultra vire,1.8484848484848484
+relation thereto,1.1578947368421053
+terms of rule,1.8333333333333333
+several thousand of castes,0.0
+case of the respondents,1.4285714285714286
+part - ii of final mbbs examination,0.0
+fundamental duty,0.5
+admission list,0.5
+reservation ie,0.5
+general category candidate,1.3333333333333333
+principles,1.3198511166253102
+harmony,0.5832106038291606
+writ,2.8882378560889794
+assembly,2.613006617038875
+in specified area,0.5
+masses,0.3602430555555556
+first place,0.48711943793911006
+following passage,0.6942148760330578
+fraction of seats,0.5
+studies,1.1615103532277709
+ground that sc,0.5
+para- sets,0.0
+extraordinary situations inherent,0.5
+proviso,2.112
+public sector,3.45
+thomas,0.47182521087160256
+higher levels,0.4307692307692308
+head,1.5827778446537666
+cases,1.9728229418951067
+division,1.7657319129617017
+educational institution,1.6904176904176904
+living reality,0.5
+group,1.691932599016908
+raison detre,0.6666666666666666
+educational qualification,2.625
+provisional list,1.0
+institutions in such local area,0.5
+similar quasi - public institutions within the state,0.0
+discipline,0.5608974358974359
+abilities,0.9050576752440107
+aid to interpretation,0.6666666666666666
+ipso facto,0.8571428571428572
+wish,0.5561873255453323
+adilabad,0.5
+contention of the respondents,1.0
+limits,0.8405888207868406
+parts,0.6609660823170732
+seat in the state services,0.0
+india,2.7684068260703585
+certain extraordinary situations,1.0
+regard to the fact,1.5862068965517242
+kerala manuscmanusc,1.0952380952380953
+relaxation in this strict rule,0.5
+period of interruption,0.5
+such seat,0.5
+presence of abilities,0.5
+educational institution in favour,0.5
+decision of this court,2.3260869565217392
+post-graduate courses in mbbs examination,0.0
+students,1.1355891528677706
+regard to the vacancy position,0.5
+bare perusal of the definition,0.5
+thoma,0.47259914972919453
+whole,0.951414768806073
+region,2.372542065649998
+matter of policy decision,0.6666666666666666
+total number of seats,3.0
+other quasi government institutions,0.5
+sri venkateswara universities,0.5
+long standing,0.711111111111111
+edition,0.9664589349951868
+statewide,1.6666666666666667
+mysore manuscmanusc,0.6666666666666666
+advancement of any socially - and - educationally - backward classes,0.0
+date of commencement,1.3
+mbbs from siddhartha medical college,0.5
+local candidates in relation,2.5
+promotee,1.4285714285714286
+instruction,1.8197943962910703
+periods,0.8597883597883598
+element,0.7062328407033122
+address,0.7129538279400157
+individual s sense,0.0
+impression of dr  ambedkar,0.0
+her parent,0.9027777777777779
+duty,3.2272215973003378
+seat for open category candidates,0.0
+presidential,1.96011396011396
+backward clas,3.8461538461538463
+spouse,1.0202546296296295
+regulation-,0.0
+appearance in the part ii,0.5
+corporations,1.2988235294117647
+certain percentage of reservations,0.5
+question in support,0.5
+that admissions in the courses,0.5
+similar other quasi government institution,0.5
+point,2.9165043546008516
+terms of regulation,1.0
+reserved class,0.75
+with the order,0.6593406593406593
+reservations in terms,1.0
+super speciality course,1.0
+candidates in relation,2.5
+wide,1.3724279835390947
+seat for the reserved category,0.0
+period of employment,0.5
+andhra university,1.5
+sets,2.026616266944734
+khammam,0.5
+sangh,1.5151515151515154
+available seats in each discipline,0.5
+reservation,2.6876587100050786
+extent of percentage,0.5
+writ petition in the high court,0.9166666666666666
+medical courses,1.25
+writ petition,6.24223602484472
+category,1.9351744779266717
+pride,0.31746031746031744
+classic treatise,0.5
+esprit,0.2631578947368421
+post-graduate course,0.0
+operation of any provisions,0.5
+incorrect impression of dr  ambedkar,0.0
+annexure iii,0.6666666666666666
+districts of srikakulam,0.5
+other similar quasi-public institution in the state,0.0
+thousand of castes,0.0
+members of scs,1.0
+basi of merit,0.0
+authority,2.4352627108360636
+study certificatecertificate,0.5
+terms of article,1.5384615384615385
+basi of the relative merit,0.0
+ratio,5.027061939235792
+critical analysis,0.30000000000000004
+inadequacy,0.7777777777777778
+total available seats,0.5
+level of the speciality,0.6666666666666666
+relevant provision,1.5737704918032787
+goal,0.5651601830663616
+page,1.011907905159212
+real sense,0.25806451612903225
+order of merit,4.6
+minority,0.8717948717948719
+total available seats in each discipline,0.5
+iii,1.5614499719992534
+dr ambedkar,1.0
+district of ananthapur,0.0
+aforementioned theory,0.5
+caste in a real sense,0.0
+warangal,2.5
+physiological sense,0.5
+claim of these parties,0.0
+kerala,4.135593220338983
+final address,1.0
+necessary modification,1.0
+state,6.817996007300392
+regulations,3.7157723577235777
+statute,2.5765859456247218
+classes,1.212856534695615
+note,1.3654108484234107
+open category candidate,0.5
+such provision,0.5079365079365079
+srikakulam,0.5
+fourth edition at page,0.6666666666666666
+of non-local seats,0.0
+airsc,1.6909090909090911
+spouses,0.7563025210084034
+social life,0.3333333333333333
+illjsc,3.25531914893617
+capitation,0.5
+categories,0.8800000000000001
+critical analysi,0.30000000000000004
+other quasi government institution,0.5
+consciousnes,0.6096059113300493
+appointees promotees,0.5
+available seat,1.6666666666666667
+author state,0.4444444444444444
+persons,2.5993381990166555
+open seat,1.0
+amongst,1.0294726586286689
+other competent authority,1.3333333333333333
+tribes,1.6409945421467553
+year in which he  she,0.0
+fourth,0.6464025500910748
+legal equality,0.5
+implementation,1.2465707594513213
+children,1.3787369914853358
+validity,1.521010638297872
+constitution of india,3.0095238095238095
+quota of reservation,0.5
+boundaries,0.6230769230769232
+reservation emanates,0.5
+meaning,1.8612727545949643
+fundamental duties,0.8333333333333334
+failure,0.7827962142086977
+seats in the state services,0.5
+fee,1.560669497024209
+speciality course,1.3333333333333333
+ordain,0.4067796610169492
+that admission in the courses,0.0
+non-statewide university,0.0
+rayalaseema areas of the state,0.5
+behalf,1.9888053603529987
+regard to the fact reservation,0.5
+full bench,5.0
+environment,4.8219106957424716
+candidate in the super speciality courses,0.5
+reservation to the extent,1.0
+ultimate goal,0.3508771929824561
+medical course in the medical college,0.0
+andhra medical college,0.5
+areas by reference,0.5
+different provisions for different parts,0.5
+seth,0.4752475247524752
+of un-reserved seats,0.0
+such course of study,0.5
+use of the word  reservation,0.0
+relevant provisions,1.5
+articles,1.4349688743466387
+un-reserved seats,0.0
+area read,0.6666666666666666
+child of parents,0.0
+reservation for the reserved category candidates,0.5
+appeal,3.4125488033856883
+special provision,1.1818181818181819
+area,2.675167256985439
+regulations of admission,1.0
+mandal,0.44871794871794873
+diploma courses,0.5
+time to time,1.0211267605633803
+similar quasi - public institution,0.0
+general seat,0.6666666666666666
+sekhar,0.6666666666666666
+facto inequalities,0.5
+aiims,1.8333333333333333
+available in each course,0.5
+admission to any course,1.5
+reason of go,0.5
+citizen,1.261748909029876
+following question,0.5
+form of study certificate  certificates,0.0
+list,4.014941314095513
+unreserved seats,1.0
+university of health sciences,1.0
+manner,1.4494591333432125
+minimum educational qualification,0.8
+of the available sets,0.5
+reasonability,0.5
+mandal revenue officer,0.5
+certificates,0.7105263157894737
+respect of such university,0.5
+college,2.1498947162234954
+independent charge,0.4444444444444444
+law of india,0.8333333333333334
+instructions  rules,0.0
+referable to the university,0.5
+circumstance,1.429931390219372
+regulation,4.3783195107648485
+mean,2.390645692553228
+regards non-reservation for scheduled castes,0.0
+absence of disabilities,0.5
+like disadvantage,0.6666666666666666
+difficulty,0.656910569105691
+different provision for different parts,0.0
+boundary of the state,0.0
+reason of the impugned judgment,1.0
+class,2.1508512849922936
+balaji,0.2222222222222222
+indra sawhney,0.6666666666666666
+perusal,0.750733137829912
+degree,0.6705786026200874
+whereby,0.6100917431192661
+genera,2.018942961800105
+way of appointment promotion,0.5
+basi,2.0752712086391383
+venkateswara,1.2
+respect of the state,0.5
+short question,0.5714285714285714
+days,1.6721350893491447
+lordship,1.0416666666666667
+favour of the local candidates,3.0
+individual,1.1485140562248994
+doctrine,0.7455954017243533
+basis,1.953226441078104
+schedule castes,1.0
+directions,1.5134125183504605
+j in karmachari sangh air,0.5
+number of seats,3.777777777777778
+non-statewide educational institution,0.0
+reservation in excess,0.5
+furtherance,1.758139534883721
+officer,3.1197242647058823
+amendment,2.2486412346818434
+courses in the medical college,0.5
+citizens,1.0493208639501226
+letters,2.0877496159754223
+certain percentage,0.4444444444444444
+policy decision,1.6
+resort,0.7319355397678043
+karimnagar,0.6666666666666666
+affirmative action by way,0.5
+necessary exercise,0.8333333333333334
+medical students,0.3333333333333333
+realisation,2.1538461538461537
+infirmity in the action,0.5
+rank of mandal revenue officer,0.5
+inconsistent with the order,0.5
+term,3.6255105640901575
+appellants,7.701086956521739
+vires,2.388888888888889
+view,2.441100058469462
+candidate in relation,1.5
+diploma course in favour,0.0
+requirements,0.7375979875979877
+amongst outside candidates,0.5
+relief,1.4748116760828625
+terms of the presidential order,1.0
+use,5.06801278974993
+districts of ananthapur,0.5
+reserved category,2.5
+sub para,1.0
+result,1.3356630184144715
+educational,1.1138712241653417
+resort to compensatory state action,0.5
+emanate,0.34615384615384615
+world,0.7808471033398942
+seats for the reserved category,0.5
+earliest universities,0.5
+accident,1.7464867454487383
+medical student,0.3333333333333333
+strict rule,0.75
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+available sets,1.0
+such direction,1.375
+protective discrimination,0.5
+rule of reservations,0.0
+local candidate in respect,1.0
+educational qualification for admission,0.5
+admission to the kurnool,0.5
+other nations,0.3252032520325203
+nation as a whole,0.75
+particular university area,0.5
+nizamabad,0.5
+several thousand,0.3414634146341463
+indra shawhney v union of india,0.5
+necessity,0.7072538860103627
+open seats,1.0
+whereof percentage of reservation,0.5
+years,2.5395804110508022
+case of medical students,0.6666666666666666
+post graduate,3.1999999999999997
+exercise,1.9400726466785694
+paint,0.3898305084745763
+virtue of residence,0.5
+amongst local candidates,0.5
+ground that scs,0.5
+candidate of non-local area,0.0
+party,2.2250894654439723
+sri venkateswara university,0.5
+undertakings,5.083333333333333
+candidate in the entrance examination,0.5
+applicable to the state of andhra pradesh,0.5
+respondent herein,1.8936170212765957
+children of parents,0.5
+legal infirmity in the action,0.5
+available set,0.6666666666666666
+different region of the state,0.0
+real equality,1.0
+provisions of the presidential order,0.5
+revenue,1.486701237872198
+super speciality courses,1.0
+thousands of castes,0.5
+commencement of the presidential order irrespective,0.5
+physiological sense of the word,0.5
+socially - and - educationally - backward classes,0.0
+v state,2.4603773584905664
+final addres of dr  ambedkar,0.0
+regulation- ii,0.0
+fraction,0.6662650602409638
+administration,1.061072796934866
+society,2.1182859399684046
+existence,0.731202675709574
+difficulties,0.570873786407767
+roster point,3.4
+ten years,1.3829279923700524
+osmania,4.0
+condemnation,0.44144144144144143
+day,1.550999710228919
+question,2.980312372067635
+local candidate under sub - regulation,0.0
+choice,0.6825955124317767
+such university,1.0
+deeper than coats of paint,0.5
+fact that considerable number,0.5
+treatise,0.46172839506172836
+levels,0.8861538461538463
+local candidate under sub- regulation,0.0
+attractive guise,0.5
+gandhi,0.9090909090909092
+vacancy position,1.5
+scmanu,7.940520446096654
+similar quasi - public institutions in the state,0.0
+united,0.7052854122621566
+seats for open category candidates,0.5
+sooner,0.39560439560439564
+equal periods ii,0.0
+graduate,2.968643655809431
+speciality,0.9
+constitution of india reservation,0.5
+guntur medical college,0.6666666666666666
+force,1.6009408121948314
+regions,0.6360000000000001
+states,1.5120646995827023
+balance,0.9863636363636363
+law,3.538923411654744
+marri chandra sekhar rao v dean,0.5
+other quasi government institutions within the state,0.5
+seth gs,0.5
+globalisation,0.6666666666666666
+para- of the order,0.0
+treatment,1.1351020408163266
+bench of the andhra,1.5
+plaintiff,2.177926421404682
+term of regulation,0.0
+following category,0.0
+anvil,0.4125
+philosophy,0.40044247787610615
+perusal of the definition,0.5
+para- enjoin,0.0
+addition,1.5588539142412572
+admission into mbbs course,0.6666666666666666
+otherwise,1.2549820889894419
+certificate,2.732600732600732
+engineering colleges,1.3333333333333333
+- statewide educational institution,0.0
+application,2.3322596088086445
+seth g,0.4444444444444444
+form of protective measure,0.5
+final mbbs examination,1.0
+siddhartha medical college,1.0
+more local area,1.0
+non-local status,0.0
+aiim,1.1
+sector,1.1724200913242009
+local university areas,0.5
+ananthapur,1.5
+mbb,0.75
+detail,0.9737454684220567
+entire mechanism,0.75
+period,1.9480170842427122
+constitutional authority,0.8333333333333334
+institutions,2.2839413875598087
+harmonies,0.3333333333333333
+provisions of the order,1.0
+prabhakar,0.48214285714285715
+constitution,3.204842342342342
+letter,2.707240080105903
+specified period,0.7142857142857143
+institution  institution,0.0
+clas of citizens,0.0
+educational institution  institutions,0.0
+appointee,0.6578947368421053
+reference to the places,0.5
+india reservation,0.5
+guide,1.417236993519472
+undertaking,2.8508771929824563
+para- set out the qualifications,0.0
+guntur,2.2857142857142856
+local areas by reference,0.5
+universities,1.8989361702127658
+cities,0.538072382929044
+institution  institutions,0.0
+in such equal periods,1.0
+nm thomas v state of kerala manuscmanusc,0.5
+supra,2.246342614440774
+earliest university,0.0
+various fields,0.8
+rules of reservations,0.5
+delebration,0.5
+candidate under sub - regulation,0.0
+applicant,0.7861822513400833
+employment of this state,1.0
+other orders,0.5333333333333333
+matter of implementation,0.5
+local candidates,9.0
+burden,0.9853978671041838
+tribe,2.294908466819222
+sympathy,0.7490636704119851
+diversity,0.32746478873239443
+genera seat,0.5
+than coat of paint,0.0
+seats,4.349544072948328
+matter of admissions,0.5
+guardian,3.176470588235294
+criterion for admission,0.0
+set,2.3027452395971277
+reason,2.6381270903010035
+provisional admission list,0.5
+district of adilabad,0.0
+genera seats,0.5
+operation,1.0959893294085181
+presidential order irrespective,0.5
+mangal,8.461538461538462
+life,1.3352928273744242
+institution in any local area,0.5
+general seat in the state services,0.0
+equality code as the following passage,0.5
+educational institution in any local area,0.5
+injustices,0.40909090909090906
+to presidential order,0.5
+places,0.8371884824384251
+ordains,0.6000000000000001
+balance seats,0.6666666666666666
+state service,1.1666666666666667
+expedient,1.1041666666666667
+pas,2.68416862749163
+student,1.2777711454664835
+judge,2.9012627415183325
+nation,3.034318722392117
+- local statu,0.0
+such seats,0.5
+educational institution in the state,0.0
+coat,0.42042042042042044
+author,2.9909112471968258
+andhra pradesh relating,0.5
+relation to any courses,0.5
+sense,0.8606303395157362
+open categories,0.5
+visakhaptanam,0.5
+qualification,2.1521739130434785
+circumstances,1.3944461370073231
+v state of tn,0.8
+harmonies administration,0.5
+high court,7.7477477477477485
+gop,0.6837881219903692
+large mass,0.4
+preference,1.0460251046025104
+manu,7.078142071124147
+role,1.0562959821210092
+single,1.6221488419098207
+purport,1.3465627214741318
+for scheduled castes,2.0
+revenue officer,1.2
+health,0.8632619439868204
+candidates with reference,0.5
+reason thereof the seat,0.5
+qualifying,3.05
+iyer,1.1794871794871795
+measure,1.1941357983816498
+university,3.75675614961249
+single judge of the andhra,0.5
+only exception,0.5555555555555556
+courts,2.1216528162511543
+entrance examination,1.0
+percentage of reservation,1.5
+code,2.880559796437659
+reason thereof the seats,0.5
+telengana,1.0
+east godavari,0.75
+castes,3.7222222222222223
+action by way,0.6666666666666666
+people,1.2855544825097243
+reasons,1.3749054007567938
+residence,0.7568831168831168
+terms,2.390350840909655
+problem,0.6764352120789936
+seat for admission,0.0
+state for total period,1.0
+education,2.1892608326253185
+sawhney,0.75
+large masses,0.6666666666666666
+requirements of the presidential order,0.5
+employment,1.5239770785161355
+than coats of paint,0.5
+facto inequality,0.0
+other nation,0.32407407407407407
+ors,2.8612718198296623
+greet,0.24725274725274726
+non - local one,0.0
+call,1.5442351461768689
+part,5.294464509893076
+such equal periods ii,0.0
+litigation,1.4968553459119498
+unreserved seat,2.5
+ways,1.3640952708404963
+analysi,0.6883471219855659
+slot in the roster,0.5
+several thousands,0.6666666666666666
+reservation in terms,0.0
+decisions,1.3888475974580996
+character,0.9325990965842764
+taluk,1.68
+consecutive academic year,3.0
+situations,0.7435282837967402
+seat,2.8245469748060423
+areas,1.6237236125072747
+instructions,1.8111673678956002
+post graduate course,2.8333333333333335
+mainstream of national life,0.5
+special provision by way,0.5
+quantum of reservation,1.3333333333333333
+certain extraordinary situations inherent,0.5
+status of candidates,0.5
+services,1.6850241065659326
+addres,0.7140043587773987
+relevant provisions of the presidential order,0.5
+relevant factor,0.8663594470046083
+different regions,0.6666666666666666
+statewide institution,0.5
+pursuant to presidential order,0.5
+appointment,3.1380281690140843
+explanation,1.4510159010600707
+sub- regulation,0.0
+advanced classes,1.5
+state government,3.027142857142857
+violative of the presidential order,0.5
+effect,2.184583388478191
+different context,0.5538461538461539
+courses,1.0904013961605583
+nm thomas v state,0.5
+such directions,1.3333333333333333
+population,1.8313253012048192
+such equal period,1.0
+specified area,0.5
+disability,0.621301775147929
+address of dr  ambedkar,0.0
+of the balance seats,0.5
+schedule caste,2.0
+science,0.6879334257975034
+first appearance,0.4444444444444444
+fourth edition,0.45112781954887216
+university areas,1.0
+role of reservation,0.6666666666666666
+consequence,0.8726692512593296
+period of study,0.6666666666666666
+place,2.333104345208554
+explained hereinafter,0.5
+other than a state,0.3333333333333333
+post-graduate courses,0.0
+relevant provision of the presidential order,0.0
+court in aiims,0.5
+examination in relation,0.5
+krishna,1.2505446623093683
+backward clas of citizens,0.0
+study as number,0.5
+control,2.148867902684286
+issue,2.766776251628934
+student union v aiim,0.5
+districts of adilabad,0.5
+study period,0.3333333333333333
+capitation fee,0.5
+- local one,0.0
+orders,1.4936359300077826
+caste,3.66454871293581
+applicants,0.6960950764006791
+gandhi medical college,0.5
+other similar quasi-public institutions within the state,0.0
+promotees,1.4285714285714286
+fraternity,0.4782608695652174
+nations,0.9375742619504617
+balaji v state of mysore manuscmanusc,0.5
+delusion,0.32
+ground,1.4186722903211633
+anger,0.7759630582328695
+ability,2.0097418327420304
+liberty,0.7860465116279071
+available for admission in the super speciality courses,0.5
+health university,1.0
+concept,0.9402138540213855
+expense of somebody,0.5
+article,4.378806157159795
+ordinance,1.176
+special case,0.8181818181818183
+pradesh high court by a judgment,0.6666666666666666
+behalf of the appellant,1.4878048780487805
+opinion,1.4960606342789635
+reason of the constitution,0.6666666666666666
+engineering college,0.5982905982905984
+past injustice,0.4444444444444444
+state during the whole,0.5
+united state,0.5525959367945824
+matter of admission,1.0
+course of study,12.0
+scs,0.6990393936723363
+rao,0.9220020325203252
+local candidate in relation,1.5
+academic year,2.555555555555556
+laws,1.4186274337269533
+mbbs course,1.1428571428571428
+appointees,0.6857142857142857
+total available seat in each discipline,0.0
+fraction of a seat,0.5
+whereunder,1.25
+nellore,0.5
+respect,2.6704963235294117
+g prabhakar,0.5
+order in relation thereto,0.0
+quotas,2.1
+further reservation,1.0
+criteria for admission,0.6666666666666666
+jure,1.8646346929627968
+expression,1.7424391201885312
+state as regard,0.75
+favour of local candidates,1.5
+emanates,0.8
+reservations,1.8229166666666667
+of the seats,1.8000000000000003
+action of the executive,0.5
+favour of local candidate,2.0
+state of andhra pradesh,3.625
+other similar quasi-public institution,0.0
+discrimination,0.8429118773946361
+relation to the local areas,0.5
+punjab,1.0438169425511197
+local area read,0.5
+limits - and,0.0
+disabilities,0.8333333333333333
+quota,2.2173531989482913
+virtue,0.9167557066537153
+such equal periods,1.0
+details,0.9406426856198188
+posts,2.6556317082632876
+total available seat,0.5
+excellence,0.6521739130434783
+castes in a real sense,0.5
+order irrespective,0.6666666666666666
+question whether the candidate,0.5
+that local area,1.0
+colleges,1.9166666666666667
+presence,0.9604834261070158
+educational institution in such local area,0.5
+separation in social life,0.5
+institution,2.7327010745685443
+health university regulations,0.5
+west godavari,0.6666666666666666
+mainstream,0.22590361445783133
+institution in favour,0.5
+regard to the reservations,0.5
+local area by reference,0.0
+full bench of the andhra,0.5
+word,2.065873981084096
+coat of paint,0.0
+appeals,1.7060218112849692
+particular service,0.6666666666666666
+parent,0.9965655833245622
+handicap,0.6111111111111112
+area for the purpose,0.6666666666666666
+by a writ of the court,0.6666666666666666
+percentage of reservation emanates,0.5
+members,1.9437616522164103
+account,2.5754891049671977
+appointments,1.2888888888888888
+course for admission,0.5
+local areas,2.0
+specific bar,1.0
+sciences,0.6228274967574579
+question whether any candidate,0.5
+kakatiya,1.3333333333333333
+matter to a full bench,0.5
+extraordinary situations as explained hereinafter,0.5
+purpose,2.519170317925504
+handicaps,0.4444444444444444
+study,1.4280920541907696
+for admission in the super speciality courses,0.5
+time,2.4764180952862667
+central government,3.0380952380952384
+india provide,1.0
+validity of policy decision,0.5
+alternative with reference,0.5
+post graduate admission rule,0.5
+anger at the treatment,0.5
+calm delebration,0.5
+caste problem,0.5
+member of advanced classes,0.0
+content,1.5450574489970066
+educational institution as the local area,0.5
+reserved category candidate on the total number,0.0
+rules of admission provide,0.5
+more parties,0.8571428571428571
+seervai,0.6666666666666666
+limit,2.3804570428443834
+venkateshwara,0.8
+ultimate goal of excellence,0.6666666666666666
+admissions,0.8529980657640233
+reserved classes,0.6666666666666666
+prohibition,1.9087256027554533
+ambedkar,1.3333333333333333
+medical course,2.2
+other similar quasi-public institutions in the state,0.0
+absence,1.092363454568179
+counsel,2.2246780703440323
+candidates of non-local area,0.0
+state-wide educational institution,0.0
+policy,3.250773332247955
+patent appeal before the division bench,0.8571428571428571
+candidate in respect,1.0
+sri venkateshwara university,0.5
+appearance,0.531740614334471
+rules,3.130914366958792
+admission provide,0.5
+officer of the revenue department,0.5
+mechanism,0.7337579617834395
+rule of admission provide,0.0
+health science,0.45283018867924535
+consecutive academic years,3.0
+diploma course,1.75
+purpose of this sub-regulation,0.0
+andhra pradesh,4.857142857142857
+dispute,2.402137592137592
+course in the medical college,0.0
+regulation for admission,0.0
+disadvantage,0.9298245614035088
+conditions,1.9988092071092867
+vizianagaram,0.5
+united states,0.5498850574712644
+which heshe,1.8000000000000003
+element essential,0.5
+circumstance of the case,0.5
+academic years,3.0
+case,7.332269420884958
+karmachari,0.5
+error,1.059158294766151
+nagarjuna,1.0
+mbb from siddhartha medical college,0.0
+respect of seats,0.5
+in such equal period,1.0
+manifest error,1.6666666666666667
+future,0.9664487618116651
+enforceable by a writ of the court,0.6666666666666666
+chittor,0.5
+contention,1.666391070690368
+admission in the super speciality courses,0.5
+orders in relation thereto,0.5
+different provision,2.0
+limit of the constitutional authority,0.0
+hm seervai,0.5
+bench,2.5793391667754992
+higher level,0.48275862068965525
+post graduate admission rules,0.5
+more party,0.0
+respect of any university,0.5
+quantum,0.8922235363690124
+somebody,0.5581624605678233
+body,1.336775463480009
+relation to local area,1.0
+un-reserved seat,0.0
+fraud on the constitution,0.5
+other nation of the world,0.0
+entire area,0.3333333333333333
+socially - and - educationally - backward class,0.0
+constitutional concept of a protective reservation,0.75
+legal issues,0.5
+existence of equality,0.5
+commencement of the order,0.5
+extraordinary situations inherent in the great diversity,0.5
+patent,1.3540828816226613
+region-wise,0.0
+respect of that local area,0.5
+purport of the expression,0.8
+fair manner,0.8
+regulation of admissions,1.5
+message,0.9435911954136882
+entirety,0.6814814814814815
+antipathy between caste,0.5
+air,2.0589664272145285
+government of andhra pradesh,1.6153846153846154
+class of citizens,1.1666666666666667
+shawhney,0.5
+edition at page,1.2857142857142858
+mbbs,1.125
+academic year in which heshe,2.5
+arrangement in any other order,0.5
+member of scs,0.0
+reservations in favour,1.0
+admission to this course,0.5
+corporation,3.6427750743444176
+- local seats,0.0
+eligible applicants,1.0
+pradesh medical colleges,0.5
+minority of seats,0.5
+judges,2.0931496919173616
+provision of the presidential order,0.0
+of the available seats,0.5
+state-wide course,0.0
+great diversity,0.5
+injustice of the past,0.5
+appellant,14.387096774193548
+advanced class,1.0
+public,2.923239095873367
+health university regulation,0.5
+order in respect,1.2857142857142858
+slot,0.27865064695009245
+rayalaseema area of the state,0.0
+venkateswara universities,0.5
+infirmity,1.3095238095238095
+central,2.61875
+impression,0.6037621359223301
+respect of the university,0.5
+emphasis,0.8024289099526066
+goal of excellence,0.6666666666666666
+eligible applicant,1.25
+genus,3.2
+favour of scheduled castes,1.3333333333333333
+advancement,0.6169491525423729
+situation,1.1254754682459434
+indians,0.45833333333333337
+godavari,1.25
+rayalaseema,0.5
+her failure,0.6666666666666666
+members of the backward class,0.6666666666666666
+non-statewide universities,0.0
+balaji v state,0.5
+such provisions,0.5128205128205128
+educational institution  institution,0.0
+rank,0.6723585912486659

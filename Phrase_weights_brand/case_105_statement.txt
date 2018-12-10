@@ -1,0 +1,1905 @@
+for appointment as a member,1.0
+government,3.5583785424010483
+high court that anyone,0.5
+assistant commissioner of labour,1.0
+external manifestations,0.5
+sources,0.8884345343723477
+frame,1.023976722714937
+correct choice,0.30000000000000004
+rules in the near future,0.5
+settled principle of law,1.0
+terms of section,1.98
+following word,0.6763636363636363
+constitution of the court,0.6666666666666666
+zone of consideration,0.6666666666666666
+foregoing reason,1.0714285714285714
+industrial court judge,0.5
+norm - creating authority,0.0
+number of labour court judges,0.5
+relations act,3.5
+eye,0.9466574319441098
+shri mahendra anand,0.5
+union,2.0981927710843373
+bangalore water supply v a rajappa manuscmanusc,0.5
+basis of seniority - comment subject,0.0
+way,1.7812722068664852
+meanings,0.4901960784313726
+courts of the country,0.6666666666666666
+atleast for ten years,0.5
+higher pay scale,1.0
+for appointment by promotion,1.0
+provision in section,1.0
+share,2.560794932990637
+business rule,0.5
+retirement,10.167032967032968
+acharya for appointment,1.5
+subject to the nominees,0.5
+district,1.5506763074237984
+lord simond,1.0
+act deal,1.736842105263158
+aforesaid,2.592896174863388
+basi of seniority - comment subject,0.0
+settled principle,1.0810810810810811
+correctnes,0.8404159132007234
+eligibility criterion,0.6666666666666666
+breach,1.3366228070175439
+scr,2.483838975311538
+provisions of the act,2.6056338028169015
+such terms,0.5333333333333333
+certiorari,1.8333333333333333
+expert,2.5786336542870245
+stage,1.1298537871524448
+kuttappan,0.5
+president by promotion,1.5
+eligibility criterion for appointment,0.0
+executive instructions,0.6666666666666666
+word  reservation,0.0
+subject,2.4420366233344897
+glasses,0.7442528735632185
+criterion for appointment,0.0
+order,5.472481489660944
+expert knowledge,2.0
+united bank,1.8
+court in bangalore water supply v a rajappa manu  scmanu  sc,0.0
+judgment of denning,1.0
+high court in exercise,1.0714285714285714
+of the views of denning,0.5
+requirements of main provision,0.5
+several possibility,0.0
+such company,0.5555555555555556
+pleading,1.1270125223613594
+assam money lenders,0.5
+industrial matters,2.3333333333333335
+candidates,3.508445945945946
+lawful justification,0.5
+order of governor,0.5
+such procedure,0.8888888888888888
+dpp,0.17222222222222222
+glass of the statute maker,0.0
+state with certainty,0.4
+equivalent post,0.5
+inadvertence,1.0
+member,2.649111111111111
+option,1.002339493011135
+functioning,0.9337944664031622
+public appointment,0.6666666666666666
+twelve member of the industrial court,0.0
+basis that the industrial court,0.5
+possible meanings,0.3333333333333333
+ahmedabad,2.55
+application of statutes,0.75
+adjudication of the disputes,0.6666666666666666
+reclamation,0.5
+meeting,1.5978547625659538
+post in question,1.6666666666666667
+advocate of high court,0.5
+change of policy,0.8333333333333334
+condition,2.259476395625584
+state for a long time,0.5
+void,1.2208700269947337
+speech,1.9520676691729324
+scheduled castes,2.7777777777777777
+context,0.9269383697813122
+advocate for high court,2.0
+judicial post,2.6666666666666665
+appropriate person,0.3333333333333333
+following words,0.6763636363636363
+post of the president,4.5
+proces,1.627944583238701
+shri na,4.714285714285714
+condition of the completion,0.5
+years of judicial work,0.5
+chandigarh,1.52
+different meanings of the legal norm,0.5
+proviso to article,1.5
+heroics,0.2777777777777778
+state at the time,0.6666666666666666
+powers,1.876345371920593
+columbia,0.15293801985511135
+candidate,6.356675392670156
+lender,0.78
+permissible course in the matter,0.5
+scheme,3.415949119373777
+member of that court,0.0
+several applications,0.30000000000000004
+president,2.1267129228100607
+officer of a labour court,1.0
+year of judicial work,0.0
+judges of city court,0.5
+relevance,0.6870535714285714
+industrial judges  association,0.0
+provision in fact,1.0
+organ,2.0834119139920135
+charge,2.7679815308681284
+canara bank manuscmanusc,0.75
+high courts,2.676470588235294
+fetter,0.625
+country,1.2903191103863751
+jurisdiction of the high court,1.2222222222222223
+name of shri na,3.0
+years service on the post,1.5
+composition of the court,0.5
+jain,1.673202614379085
+separate qualification for the appointment,0.5
+industrial arbitration court for the purpose,0.5
+thereof provide,1.1428571428571428
+statute maker,0.5
+further qualification,0.5
+opportunity,0.946186440677966
+impugned judgment,2.0927152317880795
+which several applications,0.5
+pure,0.6302083333333334
+meantime,0.5833333333333334
+appeal by a common judgment,0.0
+provision of section,1.4827586206896552
+wrotham,0.5
+applications,1.0021816198527407
+provisions of the bombay money lenders,0.5
+court of the country,0.5
+only mode of appointment,1.0
+post,2.344803646492219
+near future,0.5
+scheduled caste,3.875
+merit,1.2419290263876248
+andhra,4.830188679245283
+other of the contradictory norms,0.5
+tribunal become,0.6666666666666666
+years service as a member,0.5
+if the power of the statutory authority,0.5
+footing that the bir,0.5
+relationship,1.1804123711340206
+employers,0.6704225352112677
+judges of the city,0.5
+behalf of respondent,1.3333333333333333
+act word,0.4266666666666667
+lord simonds in the case,0.5
+late bombay state area,0.5
+high court judges,2.2
+appointment as a member,1.0
+twelve members,0.6666666666666666
+affidavit in reply,1.0
+high court by the law officer,0.5
+apparent that the draftsman,0.5
+certain year,0.5
+legal act,1.6752873563218391
+validity of the impugned notification,0.75
+mere use of the word  reservation,0.0
+justice gp,0.75
+meaning of the norms,0.5
+vehicle,2.973111766564837
+duties,1.477142857142857
+anr,1.1271033322299457
+reserve,1.8336147492356134
+special,1.7363344051446945
+footing,0.6555183946488294
+december,0.9629002463054187
+author if law,0.5
+industrial court save,0.5
+bangalore,1.2
+law for the time,1.945945945945946
+part of a statute,1.0
+consideration of the post,0.5
+qualifications,1.0714285714285714
+senior to the president,0.5
+brief facts,1.0
+bar,1.4720990391722097
+affidavit,2.2996987951807224
+public service commission,3.7857142857142856
+lords,0.8620729190552625
+kelsen,0.5
+everything,0.6255060728744939
+protection,1.1604395604395603
+registrar of cooperative societies,2.25
+true scope,1.0
+principle,1.9620890732001848
+post for the whole state,0.5
+eligibility criteria of a member,0.5
+high court as violative,0.5
+factor,1.2878742338904643
+industrial arbitration,3.5
+civil application nos,0.5
+equality,1.5627329192546584
+eligibility criterion for the president,0.0
+industrial court through the mode,0.5
+service commission,5.142857142857143
+mr na,1.0802469135802468
+reference,2.1755848210276256
+understanding,0.8257450331125827
+afresh,0.6891891891891891
+excellency,0.8888888888888888
+respondent,4.757894736842104
+govt,0.7017766497461929
+tribunal bar association,0.6666666666666666
+contradictory norms,1.5
+assam money lender,0.5
+omissu,2.2
+draft recruitment rule at the request,0.0
+criteria for appointment,1.5
+approach,1.001908852302553
+impact,1.0957789249924081
+view of the matter,1.7142857142857142
+to the application of law,0.5
+honble,2.4444444444444446
+other words,0.7578482137053969
+investment,3.057915057915058
+supreme court,1.4278957326045825
+eligibility for appointment,0.5
+expectation,0.8103813559322035
+qualification for chairman,0.0
+high,5.367119186841496
+following terms,1.5957446808510638
+brother,1.4566585956416465
+event,1.4310854436179261
+law lord in magor,0.0
+public service,1.9112903225806455
+positive - legal  correctness,0.0
+textual interpretation,0.6666666666666666
+st mellons,1.0
+appointment as the president,1.0
+civil court,3.706666666666667
+nos,1.2635492554198444
+sine qua non for consideration,0.5
+mere use,0.6000000000000001
+intra vire,1.25
+casus omissus,2.2
+purpose of president,0.5
+chandigarh v,0.8
+matrix,0.46733812949640285
+duty of the court,1.55
+k duraisamy,0.75
+in the following words,1.3157894736842106
+violative of articles,1.5454545454545454
+hameedia hardware store,0.5
+due discharge,1.0
+general law,1.5625
+current members of the industrial court,1.5
+mahendra,0.3333333333333333
+gujarat in the gujarat government gazette,0.5
+reading of section,1.3043478260869565
+criterion,0.7104166666666666
+old rule,7.0
+several possibilities,0.30000000000000004
+hereinafter,0.7670609645131939
+statutory rules,1.875
+selection proces,3.3333333333333335
+matter for consideration,0.6666666666666666
+contesting respondent,1.0
+to state with certainty,0.6666666666666666
+exception,1.1036946087733006
+labour law practitioner,0.5
+experience,1.0353951355971713
+reasoning of the high court,0.8571428571428571
+recruitment for the post,0.5
+passage from the speech,0.5
+purposive - and - literal construction,0.0
+commission,4.703619179345321
+indefiniteness at the lower level,0.5
+relevant for issuance of writ,0.5
+zone,1.373358348968105
+relevant pleadings,0.5
+judge of city court,0.0
+sinha,0.8166351606805294
+phrase by phrase,0.6666666666666666
+conceptual map of human experience,0.5
+v state of andhra,1.2
+gap,0.5109023703753942
+vice,3.766984711894892
+rule provision,0.5
+meanings of the legal norm,0.5
+hope,0.6530575035063113
+great frustration,0.5
+accordance with article,2.25
+power of control,0.5
+serving,0.6979118329466357
+for the high court,1.1666666666666667
+india inter alia,0.6666666666666666
+kazi,0.4800000000000001
+factors,0.9829522460542292
+cum,1.9825519589997616
+such courts,1.0
+singh,3.7791111111111113
+wrong,1.2933182103578877
+labour judges,1.5
+full bench of the gujarat,0.5
+purposes,1.4391216613438835
+exercise of the powers,1.4545454545454546
+such context,0.75
+superannuation,4.684210526315789
+use of any member,1.0
+service,4.257395095954566
+lord simond in the case,0.0
+therefore,2.960332350576253
+requisite qualification,1.25
+different qualifications,1.0
+court through the mode,0.5
+rule of construction,1.1
+rule,5.04
+term of rule,0.0
+gujarat state,1.0
+gujarat in the light,1.0
+twelve members of the industrial court functioning,0.5
+general right of equality,0.5
+appointment order,1.0
+respondents,2.6341263330598856
+costs,0.8167395522604189
+st mellon,1.0
+traditional theory,0.5
+industrial judges,0.5
+cooperative,1.4295572167912591
+attempt,0.7943782192788815
+industrial relations act,3.5
+process,1.6274942048088725
+district judge to which post,0.5
+rival submissions,1.0454545454545454
+constitutional concept,0.75
+city court judges,0.5
+power,3.8165227690948367
+composition,1.4736842105263157
+due consideration,1.1111111111111112
+provide,3.0496848599534587
+examination,2.4920345926263088
+endeavors,0.3333333333333333
+member of the industrial court,13.0
+store,0.6686444634658782
+several industries,0.5
+appeals by a common judgment,0.6666666666666666
+judicial work,0.6666666666666666
+basi of longer experience,0.0
+contention in the applications,0.0
+industrial arbitration court,0.5
+workman,2.3486111111111114
+one,4.845669314438648
+frustration,1.5319148936170213
+petition,5.3436539306104525
+absence of an express provision,0.75
+ten year,1.3831258644536653
+guidelines,1.540251572327044
+consideration,1.9110153789142115
+provision of other acts,0.0
+entire bir,0.5
+challenge by way,0.6666666666666666
+words,1.6384367086179112
+pointer,0.40648379052369077
+proces of law application,0.0
+years on the post,0.6666666666666666
+commissioner,2.271608643457383
+clause,3.526455026455027
+legal organ,1.0
+order absolute,0.5
+law lords in magor,0.5
+gaps,0.5703703703703704
+v central bank of india,0.6666666666666666
+kammin,0.5
+further consideration,0.45454545454545453
+protective reservation,0.75
+possibilities,0.5458579881656804
+selection process,3.3333333333333335
+direction of the chief justice,0.5
+family,1.856281506375408
+majority judgment,2.125
+standing,1.224042586942808
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+eligible for such promotion,0.5
+several industry,0.0
+isolation,0.45714285714285713
+eligibility criteria for the president,0.5
+constitution of india inter alia,0.5
+principles of statutory interpretation,0.8333333333333334
+probation,2.8636363636363633
+sub-claus,0.0
+anand,1.15
+pursuant,0.7227692307692308
+hopes of promotion,0.5
+relevant time,1.008
+circumstances of the case,1.3373493975903614
+judicial heroic,0.5
+recruitment rule of officers,0.0
+recruitment rule,10.166666666666666
+conformity,0.71875
+purpose of the act,1.7
+literal meaning of the enactment,0.5
+president of the industrial court save,0.5
+acharya-,0.0
+supreme,1.443815331010453
+bench of the gujarat,0.75
+longer experience,0.5
+mor,1.9832168328885975
+requirement,1.2416133333333332
+requirements of the bombay industrial relations act,0.5
+neither illegality,0.5
+vire,1.2466124661246614
+arbitration court,0.5
+industrial court belong,0.5
+deal,2.1942302694273583
+nascent state,0.5
+banking,2.1351674641148324
+texture,0.22500000000000003
+punjab land development,0.5
+language,0.8555828468744352
+omissus,2.2
+eligible for the post of the president,0.5
+views of denning,0.5
+said-,0.0
+nature,1.4149926876444778
+injustice,1.1882716049382718
+legislative purpose,1.25
+respondent no,5.395833333333333
+petitioners,3.536507936507937
+precedent,0.8982341399607586
+view of denning,0.0
+junior,0.9861207494795279
+calcutta v,1.0
+for the post of the president,0.5
+eligibility requirement,1.0
+hameedia,0.5
+judge of the city,0.0
+of articles,0.5798319327731094
+definition of  industry,0.0
+senior counsel for the respondents,1.1428571428571428
+eligibility criteria for appointment,1.3333333333333333
+court judges,3.6666666666666665
+enactment,1.439950980392157
+positive law,0.5
+section by section,0.75
+surat textile,0.5
+exception to the main provisions,0.0
+number of years,0.5818965517241379
+bir,1.8200073691967573
+post in india,2.0
+whole state,0.5
+francis,0.4144427001569858
+alleged gaps,0.5
+that section,1.1768292682926829
+sections,1.640495469442838
+matters,1.4810665618448637
+for appointment by nomination,3.0
+instance,0.9469803370786518
+inter,3.683850287482992
+third condition,0.6666666666666666
+draft recruitment rules at the request,0.5
+shareholder,0.9469696969696969
+ahmedabad in connection,0.5
+court,12.24425115501509
+declaration,2.152560083594566
+judge of the high court,1.75
+jone,0.2803792569659443
+parliament,2.6571235781762095
+mazdoor panchayat,3.3333333333333335
+channel,0.6285928143712575
+senior member,0.2857142857142857
+person,4.291511329454258
+junior judicial officer,1.5
+law lords,0.5
+such promotion,0.5333333333333333
+correctness,0.8404159132007234
+financial,2.2822547614171618
+nothing,0.8658723322806009
+common question,0.5454545454545454
+zenith investment,0.5
+rejoinder affidavit,1.75
+filing of the applications,0.6666666666666666
+age,4.526374474274117
+provisions of sub - section,0.0
+appointments on the post,0.5
+provision of sub - section,0.0
+number,1.4802651440973922
+industrial court judges  association,0.0
+decision,2.9514937765898557
+eligible candidates,1.1428571428571428
+reserve bank of india v peerless co manuscmanusc,0.5
+draft stage,1.0
+additional words,0.5
+landlord,3.643181818181818
+which event,0.44871794871794873
+judge of such court,1.5
+claim,2.817264601856604
+justice of india,2.1333333333333333
+totality,0.6293706293706293
+meaning of the legislative language,0.5
+condition precedent,1.7058823529411764
+hindi andor gujarati,0.5
+breach of section,0.6666666666666666
+contra,3.550142721217888
+interpretation,1.518366298484459
+law in any part,0.5
+deal with the non - residential buildings,0.0
+year,2.8349484769759212
+reflections on the reading,0.5
+judgment,3.288216560509554
+qualifications for appointment,0.6666666666666666
+judicial post for ten years,0.5
+of the view of denning,0.0
+administrative powers,1.6666666666666667
+frankfurter,0.5
+consequence of ipso facto,0.75
+voyage,0.13924050632911392
+positive - legal  correctnes,0.0
+interpretation by a law-applying organ,0.0
+act,12.870263922028107
+governor,1.1316137566137567
+peerless,0.75
+possible meaning,0.30000000000000004
+constitutional duty,1.0
+casus,0.9044444444444445
+atleast,0.594059405940594
+level,1.1533169827122092
+provision redundant,0.5
+passage,0.6514737598849748
+setting,0.7533735285673271
+years service,3.8
+either side,0.45192307692307687
+administrative members,0.5
+functions of committee,0.5
+due to the retirement of shri dv,0.5
+with the requirement of the bombay industrial relations act,0.0
+court of industrial arbitration,3.0
+section,9.287987283173626
+water,0.9741079360379036
+interpretation of section,1.5
+erroneous footing,0.5
+act deals with the composition,0.5
+twelve member,0.6666666666666666
+newport,0.2777777777777778
+reflection,0.34380165289256204
+functions,1.326241134751773
+officers,2.442124212421242
+calcutta v abhijit tea co pvt,0.5
+appellant herein,2.046153846153846
+different qualification for chairman,0.0
+advance,1.2070333024745414
+reclamation corporation ltd,0.5
+sections claus,0.6666666666666666
+regard,2.723310344827586
+that meaning,0.3333333333333333
+promotion,2.946428571428571
+willingness,0.7818181818181819
+knowledge,1.1120671641791045
+direction,1.8495050210098996
+post of president,14.0
+duraisamy,0.75
+practitioners,0.6511627906976745
+money,1.6567889044524557
+rights,1.6349541930937281
+open to the application of law,0.5
+item,1.3319648896447913
+accordance with law,1.0046948356807512
+deliberations,0.625
+facts,1.4696673624372698
+only member of industrial court,0.5
+president of the industrial court,24.0
+purpose of appointment,1.0
+judicial officer under the business rules,0.5
+- legal  correctness,0.0
+rule in the near future,0.0
+discharge,1.305219638242894
+justification,0.6859587020648967
+constitution vide gujarat government gazette,0.5
+mazdoor,1.8461538461538463
+alleged gaps in the law,0.5
+senior,1.989753211141579
+expres,2.3455332782538525
+hopes,0.32116788321167883
+regard to the pattern,0.5
+reed,1.3194110966904606
+records,0.9879294336118848
+cost,1.2954397451466992
+effect to the legislative purpose,0.5
+panchayat,10.0
+reed dickersen,0.5
+discharge of the constitutional duty,0.5
+respective impact of the candidates,0.5
+retirement of shri dv,1.0
+provision in the entire bir,0.5
+sub,7.816899313759727
+to the retirement of shri dv,0.5
+course,1.6545957498716626
+labour court,8.363636363636363
+cognition,1.3922772277227724
+company,5.864471879286695
+pradesh,4.365853658536586
+so - called gap,0.0
+interpretive procedure,0.5
+object of the statute,1.0
+draft rule,5.333333333333333
+senior judicial officers,0.5
+workmen in several industries,0.5
+arguments,0.7212211466865226
+doldrums,0.5
+unwillingnes,0.52
+intellectual act,1.5
+matter,2.8088923076923082
+relation,1.397320207820618
+court judges  association,0.0
+contradistinction to the interpretation,0.5
+other law lord,0.5
+labour court judges,1.0
+well,1.4966552780778166
+non - residential buildings,0.0
+theory,0.43014388218941363
+procedure,2.552771605064117
+activity,1.3846153846153848
+purposive interpretation,0.8333333333333334
+petitions,1.3930830039525692
+service in view,0.75
+provision,5.439002243350069
+with the requirements of the bombay industrial relations act,0.5
+guideline,1.5641711229946524
+issuance of quo warranto,0.5
+reflection on the reading,0.0
+city,2.544592792669584
+that interpretation,0.6857142857142857
+concept of a protective reservation,0.75
+advocates,0.6153846153846153
+writ jurisdiction in a matter,0.5
+conclusions,0.8522069292833413
+of the contradictory norms,0.5
+business,2.8512056385864457
+judicial heroics,0.5
+criteria,1.3561764705882353
+importance,0.8632871064467765
+large number,1.0979284369114877
+great frustration among members,0.5
+estate,1.9402985074626868
+relevant pleading,0.5
+workmen,6.571428571428572
+theory of law,0.3333333333333333
+recommendation to the draft rules,0.0
+post of joint district judge,0.5
+department,1.9858367499068206
+labour law practitioners  association,0.0
+object,1.4940119760479043
+thereto,1.0358342665173572
+years as member,0.5
+requirement of main provision,0.0
+special civil application,1.3333333333333333
+industrial court by nomination,1.5
+other factors,0.5128205128205129
+more member,1.8
+list of seniority,0.5
+extent,1.410108024691358
+light,0.8816192372754331
+arbitration court for the purpose,0.5
+aim,2.7822546950944274
+possible to state with certainty,0.6666666666666666
+senior counsel on behalf,4.0
+which several application,0.5
+permissible course,0.5
+definition,1.6460425937698666
+inter alia by way,0.6666666666666666
+high court to the government,0.5
+request,1.1474439594584596
+meaning content,0.75
+exceptions to the main provisions,0.5
+court by way,1.1
+colour,0.48673194267063996
+approval,1.4085456739300164
+for a long time,0.4745762711864407
+court s conclusion,0.0
+opinion that no illegality,0.5
+paper book,1.0
+bia,1.0685644390081173
+recruitment rule for the post,0.0
+other provision,1.281045751633987
+bill,1.134631348577466
+qualification for appointment,0.0
+period of practice  service,0.0
+terms of rule,1.8333333333333333
+that the provision in section,0.5
+judge of high court,1.5
+part vi,0.7333333333333334
+bench of the high court,1.8
+abhijit,0.6060606060606061
+cooperative transport society ltd,0.5
+other law lords,0.5
+legal organs,0.5
+principles,1.3198511166253102
+district judges,4.75
+purposes of the act,1.0
+quo warranto,2.3333333333333335
+appointment of a serving,0.5
+manner-,0.0
+permissible in the following words,0.5
+writ,2.8882378560889794
+civil application,1.4285714285714286
+issuance of writ,0.8
+bhatt,0.7555555555555555
+employment department of the government,0.5
+settled principles of law,0.8
+recourse to the doctrine,0.75
+mode,0.8201666928762384
+maker,1.0485537190082643
+eligibility requirement for appointment,1.0
+way of appointment,0.75
+further qualifications,0.5
+industrial court by way,1.0
+cooperative societies,3.0625
+such industrial dispute,0.5
+administrative power of control,0.0
+allied relief,0.5
+gaps in the law,0.5
+torquay,0.5
+consideration by the high court,1.0
+proviso,2.112
+bombay state area of gujarat,0.5
+change,1.2214862766571903
+assumption,0.47735650342285413
+incumbents of the post,0.5
+simonds,1.0
+cases,1.9728229418951067
+current member,0.75
+heroic,0.25
+accordance with positive law,0.5
+full bench of the high court,1.3333333333333333
+filling of a so - called gap,0.0
+unintended indefinitenes,0.5
+appointment of chairman,0.6666666666666666
+franci,0.41393728222996506
+law - creating function,0.0
+term of section,0.5
+rejoinder to the reply affidavit,0.5
+following points,0.5333333333333333
+ipso facto,0.8571428571428572
+branches outside the state,0.5
+laws practitioners association,0.5
+connection,1.050640279394645
+nomination on the basis,0.5
+distinction between interpretation,0.5
+india,2.7684068260703585
+president of industrial court,1.5
+pure theory,0.5
+hardware,0.2680764359270885
+law officer,1.3333333333333333
+pradesh manuscmanusc,1.5714285714285714
+act words,0.4307692307692308
+st mellon s case,0.0
+jones,0.2735294117647059
+association,1.2099052684061826
+appointment afresh on the post,1.0
+ultimate authority,0.6666666666666666
+source of power,0.8333333333333334
+special leave petitions,1.6296296296296295
+submissions,0.5235745614035088
+b mohan lal sowcar manuscmanusc,0.5
+district judges in gujarat,0.5
+lord simonds,1.0
+special leave petition,2.013333333333333
+other external manifestations,0.5
+plan of government,0.5
+eligibility criterion of a member,0.0
+purposive - and - strained construction,0.0
+judicial officer,10.714285714285714
+years of service,2.8000000000000003
+whole,0.951414768806073
+respective impact,0.5
+bombay state area,0.5
+registrar,1.8341346153846154
+scc,1.941872465904902
+seniority-comment subject,0.0
+edition,0.9664589349951868
+reflections,0.22826086956521738
+consultation with the high court,2.0
+adjudication,1.5392156862745099
+detailed note,0.5
+advancement of any socially - and - educationally - backward classes,0.0
+purposive construction of an enactment,0.5
+instruction,1.8197943962910703
+particular provision redundant,0.5
+acharya,2.1666666666666665
+judiciary,1.5942028985507246
+address,0.7129538279400157
+joshi,0.9259259259259259
+purposive construction,1.5
+right of consideration,0.6666666666666666
+other factor,0.509090909090909
+seaford court,0.5
+allahabad bank v canara bank manuscmanusc,0.6666666666666666
+judicial service,7.3076923076923075
+duty,3.2272215973003378
+denning,0.6278538812785389
+vacant for a long time,0.5
+quo,1.4641201465860294
+pvt,0.8625817965496728
+personal hearing,0.9523809523809524
+legality,0.6845938375350139
+rival submission,1.0454545454545454
+associated timber industries,0.5
+water supply v a rajappa manu  scmanu  sc,0.0
+apart,0.6007021119981881
+high court of gujarat,2.3076923076923075
+point,2.9165043546008516
+industrial court on the basis,1.5
+that appointment,1.2
+manner so that appointment,0.5
+general right,0.4
+chapter vi,2.1785714285714284
+high court judge,3.7
+chief justice of india,2.066666666666667
+supersession,1.4
+for issuance of writ,0.75
+administrative side,1.6666666666666667
+only mode,0.5714285714285714
+tribunal becomes,0.6666666666666666
+which post,0.5714285714285714
+employment department,2.5
+qua non for consideration,0.5
+trite that draft rule,0.5
+omission,1.1856094505101127
+construction of an enactment,0.5
+lal,1.6786163249382287
+communication,1.013409067330636
+consultation,1.1724137931034484
+reservation,2.6876587100050786
+well - known rule,0.0
+continuation,0.5723370429252783
+views,0.6965871413779037
+human experience,0.2727272727272727
+government of gujarat,2.4
+violence to the recruitment,0.5
+willingnes of the judicial officers,0.0
+absurdity,0.48214285714285704
+consideration on the basis,0.5
+science of law,0.5
+endeavors of the court,0.5
+meanings of a legal norm,0.5
+incumbent,0.5797101449275363
+statutory,2.0326923076923076
+vice chairman,0.2857142857142857
+acts,1.9133929521984454
+question of appointment,0.75
+crease,1.3356208234964586
+narrow interpretation of section,0.5
+literal interpretation of a provision,0.5
+administrative member of the service tribunal,0.0
+trade,1.8307706424423558
+appropriate time,0.6000000000000001
+ship,2.0697961579725104
+administrative side of the high court,0.5
+one except a member,0.5
+challenge,1.2204566274399267
+authority,2.4352627108360636
+word of a statute,1.0
+appointment by promotion,2.0
+selection,2.2651528696585017
+registered trade union,0.5
+accordance with the legislative purpose,1.0
+president of the court,1.5
+development,2.3145884270578647
+other of the different meanings of the legal norm,0.5
+practiceservice,1.0
+question as regard,1.105263157894737
+member at the first instance,0.5
+inadequacy,0.7777777777777778
+relevant provision,1.5737704918032787
+court as violative,0.5
+page,1.011907905159212
+reply affidavit,1.4
+background,0.6800452488687784
+iilljsc,2.1666666666666665
+dispute that the respondent no,0.5
+year of age,0.0
+task,0.5643819334389858
+appointment of the president,1.5
+banks,6.73024
+contradistinction,0.8888888888888888
+reading of the provisions,1.1111111111111112
+iii,1.5614499719992534
+court judge,1.9615384615384615
+justification for the high court,0.5
+law application,0.5
+plain,3.198322602206429
+instant,1.131578947368421
+judicial post in india,2.5
+frame within which several application,0.5
+kerala,4.135593220338983
+text,0.869556447376715
+state,6.817996007300392
+words in section,1.0
+statute,2.5765859456247218
+certain year of service,0.0
+classes,1.212856534695615
+note,1.3654108484234107
+see mor,0.25806451612903225
+nascent state for a long time,0.5
+controversy,0.8593204191806921
+pay scale,3.875
+natural meaning of section,0.5
+willingness of the judicial officers,0.5
+practitioner,0.8401826484018265
+degree in law,0.5
+entire act,0.8571428571428572
+gandhinagar,0.5
+absurd result,0.5
+airsc,1.6909090909090911
+illjsc,3.25531914893617
+mohan,1.5416666666666667
+intention on the part,0.8
+zenith,0.16999999999999998
+industry of textile,0.5
+special civil application no,1.25
+trade union,0.3333333333333333
+book,0.7435955668604651
+source,0.840137091365362
+senior counsel,2.2857142857142856
+labour,2.5372960372960374
+indefinitenes at the lower level,0.0
+industries,2.162068965517242
+other act,0.8264758497316638
+writ of quo warranto,2.0
+pre,6.408342692122574
+tribes,1.6409945421467553
+settled principles,1.0
+such suit,1.2857142857142858
+literal meaning,0.9000000000000001
+industrial court appointment,0.5
+such use,0.5333333333333333
+appointment by nomination,3.0
+validity,1.521010638297872
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+members of the judicial services,0.6666666666666666
+reliefs,1.308641975308642
+timber,0.4266666666666667
+meaning,1.8612727545949643
+rule provision by the office,0.5
+sub-clause,0.0
+statutory authority,1.2105263157894737
+such suits,0.6666666666666666
+senior - most member of the industrial court,0.0
+management of the society,0.6666666666666666
+aspects,1.0997620069447154
+side of the high court,0.75
+procedure for appointment,0.5
+other avenue,0.25
+jurisprudence interpreting law,0.5
+behalf,1.9888053603529987
+full bench,5.0
+several more labour judge,0.5
+vadodara,0.75
+such court,1.7272727272727273
+meaning of the enactment,0.5
+schildkamp,0.5
+alleged gap,0.5
+use of the word  reservation,0.0
+suit by the bank,0.5
+to statutory rule,0.5
+relevant provisions,1.5
+manner of appointment,0.5
+articles,1.4349688743466387
+tea,1.2494773519163762
+provision of the bombay money lenders,0.0
+qualifications for chairman,0.5
+expectation of a member,0.5
+sine qua non,1.0
+appointment of an appropriate person,0.5
+appeal,3.4125488033856883
+court-,0.0
+ascertainment of the meaning,0.5
+sources of power,0.6666666666666666
+area,2.675167256985439
+arbitrariness,0.9047619047619048
+village,1.8429856945085372
+alia,0.9479866480753792
+trite that draft rules,0.5
+first instance,0.8333333333333334
+industrial matter,2.3333333333333335
+park,1.1480541455160744
+beg,0.7217296943142032
+organs,0.33191489361702126
+whereby shri na,1.0
+meaning of section,1.3611111111111112
+question of law,3.057142857142857
+terms-,0.0
+conjunction,0.4375
+same procedure for appointment,0.5
+sub-section,0.0
+manifestations,0.2476190476190476
+discovery,0.6107142857142858
+labour judge,1.5
+phrases,0.5062794348508634
+draft rules,5.0
+channel of promotion,0.5
+- residential building,0.0
+voyage of discovery,0.5
+lakshmanan,1.125
+- legal  correctnes,0.0
+idea,0.5945499587118084
+citizen,1.261748909029876
+completion,1.1868131868131868
+casus omissu,2.2
+list,4.014941314095513
+manner,1.4494591333432125
+shri yp,1.0
+someone from judicial service,0.5
+inconsistent with the requirements of the bombay industrial relations act,0.5
+opinion of the state government,0.6666666666666666
+provisions of law,1.0833333333333333
+objective,0.5021775147928994
+regard to the importance,0.75
+companies,2.2664576802507836
+pattern,0.6151546391752578
+circumstance,1.429931390219372
+civil,2.126558634963905
+rejoinder,0.8717948717948718
+rule of addition,0.5
+difficulty,0.656910569105691
+possible meaning of a legal norm,0.0
+lower level,0.48275862068965525
+other avenue of promotion,0.5
+case of appointment,1.0
+map,0.6139008979048886
+senior on the basis of longer experience,0.5
+class,2.1508512849922936
+seniority-cum-merits,0.0
+members of that court,0.5
+degree,0.6705786026200874
+recommendations,2.1638655462184877
+consideration by this court,0.75
+same continuation,0.5
+function of committee,0.0
+asher,0.29841269841269835
+violence,1.524896265560166
+purview,1.0864197530864197
+basi,2.0752712086391383
+- residential building in the city,0.0
+leave petition,2.013333333333333
+year on the post,0.0
+contextual,0.5555555555555556
+s gopal reddy,0.5
+doctrine,0.7455954017243533
+basis,1.953226441078104
+power of the statutory authority,0.5
+directions,1.5134125183504605
+only relevant provision,1.0
+unintended indefiniteness at the lower level,0.5
+willingnes for appointment,0.0
+criticism,0.5566549632939675
+to the judicial service,1.3333333333333333
+implication,0.6615776081424936
+industrial court judges,0.5
+such building in the city,0.5
+officer,3.1197242647058823
+in the following word,1.3157894736842106
+current members,0.8181818181818181
+special civil application nos,0.5
+legal order,0.5
+citizens,1.0493208639501226
+labour court judge,1.0
+function,1.6326372491145218
+invalid if the power of the statutory authority,0.5
+correct decision,0.4444444444444444
+appointment as president,1.5
+banking industry run,0.5
+examination in hindi andor gujarati,0.5
+term,3.6255105640901575
+question stand,0.6666666666666666
+appellants,7.701086956521739
+years of age,1.10099573257468
+vires,2.388888888888889
+contentions in the applications,0.5
+view,2.441100058469462
+intra vires,1.25
+erroneous concept,0.3333333333333333
+endeavor,0.40993788819875776
+requirements,0.7375979875979877
+vide,4.454025282767798
+regular appointment,2.8
+side,3.88845645915565
+relief,1.4748116760828625
+majority,1.3427634276342764
+pleadings,1.3125
+use,5.06801278974993
+simond,0.39285714285714285
+current member of the industrial court,0.0
+additional district judge to which post,0.5
+ambiguous that beg,0.5
+judges  association,0.0
+that the decision,0.79
+lord,1.6027618015615013
+regard to purposive interpretation,0.5
+assistant,1.6732837055417698
+light of the decision,1.0
+behalf of the high court,1.0
+result,1.3356630184144715
+legitimate expectation,1.5714285714285714
+pay,3.828326695859537
+record,2.5393414390845273
+statute in the following terms,0.5
+more members,1.8
+old rules,1.0
+secretary,0.9217877094972067
+additional district judge,1.6
+judges of the industrial court belong,0.5
+new rules,0.3409090909090909
+provisions of section,2.762376237623762
+financial commissioner,0.5
+legislation,3.2032032032032034
+phrase,0.7269338303821062
+fact,3.6284951019474962
+such direct recruitment,0.5
+express,2.3455332782538525
+clear intention,0.8888888888888888
+willingness for appointment,0.5
+consultation with the chief justice,1.0
+building,3.870745432459903
+bennion,1.25
+handbook of guidelines,0.5
+impact of the candidates,0.5
+chief,1.9429638234317954
+additional reason,0.8
+act deal with the composition,0.0
+read in the light,0.8
+that-,0.0
+industry by reason,0.5
+other allied relief,0.5
+other word,0.758838674565131
+rule of purposive construction,0.6666666666666666
+essence of the language,0.5
+incumbents,0.38095238095238093
+addres of city court judges,0.0
+appointment of a junior judicial officer,0.5
+building in the city,0.6666666666666666
+chapter vi of part vi,0.5
+han,3.9742569992356223
+years,2.5395804110508022
+exercise,1.9400726466785694
+judicial,2.8688059701492543
+than exhibit,0.5
+late bombay state area of gujarat,0.5
+gap in the law,0.5
+straightaway,1.125
+biract,0.5
+main provision,2.1666666666666665
+nobody,0.6463806463806463
+certain years,0.5
+justice,2.292557084574302
+therein,1.5503424657534246
+mode of selection,0.5
+purview of the assam money lenders,0.5
+chairman,1.3592677345537758
+member of industrial court,1.0
+socially - and - educationally - backward classes,0.0
+v state,2.4603773584905664
+court by nomination,1.5
+such building,2.1666666666666665
+administration,1.061072796934866
+society,2.1182859399684046
+difficulties,0.570873786407767
+indefinitenes,0.5
+statutory rule,2.45
+bank,9.40770083102493
+hearing,0.9644508209787979
+directions of the chief justice,0.5
+ten years,1.3829279923700524
+such use if the landlord,0.5
+to statutory rules,0.5
+provisions of other acts,0.5
+consist,1.0784032265563253
+city court judge,0.5
+labour law practitioners,0.5
+mandatory consultation,0.5
+estates,0.9166666666666666
+question,2.980312372067635
+choice,0.6825955124317767
+sub-clauses,0.0
+treatise,0.46172839506172836
+vested right,1.6666666666666667
+age of superannuation,3.5833333333333335
+casu,0.9632887189292544
+year of service,1.4
+scmanu,7.940520446096654
+restriction on the power,0.6666666666666666
+manifest injustice,0.8
+practice,1.7660110149488593
+united,0.7052854122621566
+constitution duty,0.5
+right of equality,1.0
+law lord,0.6666666666666666
+for such promotion,0.5
+officer under the business rules,0.5
+way of promotion,1.5
+regard to the purport,0.8571428571428571
+natural meaning,1.1666666666666667
+force,1.6009408121948314
+brief fact,1.0
+recruitment rules for the post,2.5
+notification,3.0112746633260263
+associated,0.7201629327902239
+suit,2.485274378207659
+law,3.538923411654744
+mellon,0.4637931034482758
+qualification for the appointment,0.5
+values,0.4464678178963893
+years  service,0.0
+otiose,1.7142857142857142
+plan,2.0162821688398056
+recruitment rule for the president,0.0
+other law lord in magor,0.0
+eligibility conditions,0.8
+relations,1.2666042780748663
+non,1.3417336444559675
+addition,1.5588539142412572
+either-,0.0
+court that anyone,0.5
+joint,1.0091324200913243
+appointment on the post,3.0
+eligible for appointment by nomination,2.5
+court in exercise,1.28
+application,2.3322596088086445
+interpretation by jurisprudence,0.5
+pencil,0.32432432432432434
+conceptual matrix,0.5
+view of the scheme,1.0
+assistant commissioner,1.8125
+reading,0.9004509191814082
+learned brother,1.7692307692307692
+industrial,5.673304955913652
+illegality,0.8076923076923077
+same procedure,0.5
+recruitment rules,10.166666666666666
+outset,0.5899159663865546
+canara,5.8500000000000005
+erroneous footing that the bir,0.5
+such term,0.5529100529100529
+city court,1.0
+mr venkataramani,2.3333333333333335
+intention,1.7585585585585588
+ltd,2.382356477306883
+submission,1.0913871684001404
+member of the judiciary,0.5
+francis bennion,1.25
+provision of law,0.9090909090909091
+detail,0.9737454684220567
+vimal kumari,0.5
+probation for a period,0.6666666666666666
+entire mechanism,0.75
+eye of law,1.0
+contrary to statutory rules,0.5
+period,1.9480170842427122
+bombay money lenders,0.5
+post of member,3.0
+provisions of the consumer protection act,0.5
+constitution,3.204842342342342
+letter,2.707240080105903
+- most member of the industrial court,0.0
+joint district judge,1.0
+creases,0.37755102040816324
+appointee,0.6578947368421053
+different meaning,0.48387096774193555
+light of the criteria,0.5
+gujarat government gazette,1.0
+ballroom,0.2631578947368421
+impugned appointment,1.5
+counsel for the respondents,1.425531914893617
+senior member of the industrial court,0.5
+recommendation,2.6589497459062676
+suits,1.0993657505285412
+court belong,0.5
+separate qualification,0.5
+civil application no,1.2
+maharashtra,2.9076923076923076
+principle of statutory interpretation,1.0
+applicant,0.7861822513400833
+recommendation of the high court,0.6666666666666666
+court with the erroneous concept,0.5
+administrative power,2.4
+court of gujarat,2.3076923076923075
+tribe,2.294908466819222
+on the basis of longer experience,0.5
+allahabad,2.3404255319148937
+draftsman,1.3333333333333333
+filling,0.664718772826881
+account of the fact,1.0256410256410258
+management,1.6732611752395274
+merits,0.968421052631579
+external manifestation,0.5
+bench of this court,1.8271604938271604
+discharge of the constitution duty,0.5
+high court s conclusion,0.0
+constitution thereof,0.5
+reason,2.6381270903010035
+set,2.3027452395971277
+powers of control,0.5
+doldrum,0.5
+post by promotion,0.5
+of the different meanings of the legal norm,0.5
+post for ten years,0.5
+ascertainment,0.5333333333333333
+second proviso,2.5
+venkataramani,3.0
+conducive to the judicial service,0.5
+other allied reliefs,0.5
+conclusion that the appointee,0.5
+extent of the shares,0.5
+second provisos,0.5
+shares,3.3129411764705883
+real casus omissu,0.5
+court at the request,0.6666666666666666
+straightaway by nomination,0.5
+manifestation,0.4928571428571429
+post under rule,0.5
+consultation with the gujarat public service commission,0.5
+expressions,0.8027972027972027
+consideration of the provisions,1.0
+kumari,4.764705882352941
+jones v,0.6666666666666666
+only member,0.5555555555555556
+unconventional manner,0.5
+non - residential building,0.0
+decision to the effect,0.5
+rdc,0.45965339832114815
+judge,2.9012627415183325
+nitrogen,0.2040816326530612
+long time,0.5379746835443039
+tea co pvt,0.5
+respondent no in the application,0.5
+mandatory consultation with the gujarat public service commission,0.5
+conclusion,1.3883437407077015
+qua non,1.0
+branches,0.5167464114832535
+author,2.9909112471968258
+relevance as nobody,0.5
+author at page,0.5
+dpp v schildkamp,0.5
+court by the law officer,0.5
+more labour judge,0.5
+judicial services,2.2
+matte,2.8064635761589405
+labour courts,1.0
+bank v canara bank manu  scmanu  sc,0.0
+basis of interpretation,0.6666666666666666
+foregoing reasons,1.0714285714285714
+industrial dispute,7.611111111111111
+court appointment,1.0
+branch,2.8500288406075756
+hameedia hardware stores,0.5
+real casus omissus,0.5
+contentions,0.9641025641025641
+recommendations to the draft rules,0.5
+qualification,2.1521739130434785
+circumstances,1.3944461370073231
+law - applying organ,0.0
+thoughtful consideration on the rival submissions,0.5
+district judge in gujarat,0.0
+v state of tn,0.8
+scheme of the entire act,0.6666666666666666
+unintended indefinitenes at the lower level,0.0
+high court,7.7477477477477485
+assam,1.06
+senior - most member,0.0
+wherea,0.8062806257067471
+eligibility criteria,2.375
+stores,0.7275985663082436
+shri r venkataramani,1.0
+jurisdiction,2.9539571926331507
+different qualification,1.5
+initial constitution thereof,0.5
+decision in respect,0.5
+other external manifestations of purpose,0.5
+manu,7.078142071124147
+provision of the act,0.8888888888888888
+employer,2.639728353140917
+government gazette,1.0
+role,1.0562959821210092
+application of law,1.0
+common question of law,0.75
+cognitive ascertainment,0.5
+legal norms,0.6666666666666666
+purport,1.3465627214741318
+scale,2.0845464725643894
+registrar while the committee,0.5
+interim order absolute,0.5
+different meanings,0.47368421052631576
+tribunal,5.07183212267958
+several more labour judges,0.5
+course in the matter,0.5
+buildings,1.3041267942583734
+words of section,1.25
+iyer,1.1794871794871795
+issuance of a writ,1.0
+unwillingness,0.52
+recruitment rules for the president,0.5
+university,3.75675614961249
+other external manifestation of purpose,0.0
+act by this court,0.5
+modern cooperative transport society ltd,0.5
+rule out the appointment,0.0
+seaford,0.5
+justice on the issue,0.5
+majority judgment in that case,0.5
+courts,2.1216528162511543
+committee,2.546237803603864
+restriction,1.0123456790123457
+disregard,0.5855263157894736
+certainty,0.8630136986301371
+code,2.880559796437659
+rules out the appointment,0.5
+modern,0.6996724240619416
+castes,3.7222222222222223
+of the contradictory norm,0.5
+since the retirement of shri dv,0.5
+read with section,2.3513513513513513
+investments,1.7287581699346406
+magor,0.6666666666666666
+reasons,1.3749054007567938
+filing,1.1274190041313328
+terms,2.390350840909655
+disregard of consideration,0.5
+omission before the bill,0.6666666666666666
+eligible for appointment as a member,1.0
+employment,1.5239770785161355
+large number of labour court judges,0.5
+act as a whole,0.75
+alleged gap in the law,0.0
+endeavor of the court,0.0
+that the draftsman,0.5
+ors,2.8612718198296623
+none of the present members,0.5
+request of the government,1.5
+word of section,0.0
+importance of context,0.5
+part,5.294464509893076
+thoughtful consideration,0.8333333333333334
+such dispute,2.0
+which parliament,1.0
+court on the basis,1.0666666666666667
+bombay,2.3134020618556703
+member of the judicial services,0.0
+vimal,0.75
+aspect,1.2449448189023034
+mellons,1.0
+shri,2.0759135877246115
+gujarati,0.5
+constitution of the industrial court,0.5
+appointment as a high court judge,0.5
+present member,0.6666666666666666
+relationship between the employers,0.5
+filed,2.428695652173913
+challenge before the high court,0.5
+further qualification for appointment,0.0
+mentioning,0.6167832167832168
+distinction,0.7312167973690868
+instructions,1.8111673678956002
+blue pencil,0.5
+land,6.337534028705619
+years of practice,0.6000000000000001
+certain years of service,0.5
+culture,0.6643581897245934
+lenders,0.942857142857143
+read,2.2147281730888695
+kishan,2.0000000000000004
+consideration option section,0.5
+exhibit,0.8875432525951558
+different qualifications for chairman,0.5
+way of nomination,1.5
+eligible for appointment by promotion,0.5
+rules for appointment,0.5
+clause by clause,0.6666666666666666
+of the different meaning of the legal norm,0.0
+services,1.6850241065659326
+addres,0.7140043587773987
+qua,2.4497935676369567
+appointment,3.1380281690140843
+state government,3.027142857142857
+provision of a statute,0.75
+way of special leave petitions,0.6666666666666666
+requisite qualifications,0.6666666666666666
+effect,2.184583388478191
+senior judicial officer,0.6666666666666666
+meaning of a legal norm,0.0
+interpretation of a provision,0.5
+service tribunal,1.0
+industrial disputes,4.352941176470588
+assistant judge,1.0
+legal norm,1.6666666666666667
+sowcar,0.5
+comment,0.5887096774193549
+state of haryana,1.7608695652173914
+consultation with the public service commission,0.6666666666666666
+glasses of the statute maker,0.5
+associated timber industry,0.0
+mode of appointment,2.3333333333333335
+science,0.6879334257975034
+none,0.8181718550217885
+requirement of the bombay industrial relations act,0.0
+process of law application,0.5
+consequence,0.8726692512593296
+post of a president,0.5
+accordance with the draft rules,1.0
+place,2.333104345208554
+public services,0.6000000000000001
+cognitive interpretation by jurisprudence,0.5
+following manner,0.5555555555555556
+court from shri bi,0.5
+context of the entire act,0.5
+following term,1.6170212765957446
+reddy,0.7218614718614719
+shri bi,0.8
+cognitive ascertainment of the meaning,0.5
+full court,6.333333333333333
+control,2.148867902684286
+arbitrarines,0.9047619047619048
+appellant herein that no illegality,0.5
+issue,2.766776251628934
+bombay industrial relations act,3.5
+ahmedabad by nomination,0.5
+of article,2.1149999999999998
+rajappa,1.0
+absence of any rules,0.5
+consideration of the subject,0.5
+source therefore,0.5
+petitioner,4.524972253052164
+equal opportunity,0.2873563218390805
+clear intention on the part,0.5
+high court at the request,0.5
+common judgment,1.3636363636363635
+judicial member,0.8
+more than exhibit,0.5
+caste,3.66454871293581
+reserve bank,0.8
+applicants,0.6960950764006791
+grounds,0.9540208829455945
+jurisprudence as cognition,0.5
+cooperative society,1.75
+ground,1.4186722903211633
+new rule,1.0555555555555556
+governor of gujarat,1.5
+further qualifications for appointment,0.5
+several application,0.30000000000000004
+gopal,1.1610169491525424
+concept,0.9402138540213855
+mischief,0.5934065934065934
+advance from a higher level,0.5
+article,4.378806157159795
+arbitration,11.242690058479532
+administrator,1.0441081081081083
+main provisions,0.75
+pure theory of law,0.5
+period of practiceservice,1.0
+consumer protection act,1.3846153846153846
+opinion,1.4960606342789635
+eligible candidate,1.1428571428571428
+dickersen,0.5
+shri dv,1.5
+committee of the high court,2.3333333333333335
+statutes that the text,0.5
+calcutta,1.6022727272727273
+hand book,0.6666666666666666
+draft,1.1403225806451613
+public declaration,0.4444444444444444
+provision of article,0.6666666666666666
+communication to the government,0.5
+scope,0.8412698412698413
+laws,1.4186274337269533
+kammins,0.5
+suppscr,1.0
+gujarat in special civil application nos,0.5
+respect,2.6704963235294117
+meaning of the legal norm,0.0
+noticed lord simond,0.5
+intellectual activity,1.0
+additional word,0.5
+draft recruitment rules,2.5
+recruitment,5.333333333333333
+expression,1.7424391201885312
+direct shri na,0.5
+present members,0.6666666666666666
+background of the facts,0.6666666666666666
+omission in the act,0.6666666666666666
+clauses,1.5486111111111112
+impugned notification,1.5
+reasoning,0.6478937381404174
+workman in several industries,0.0
+transport,1.8361522198731504
+violative,2.2972972972972974
+nominees,0.4375
+clear that the decision,0.5
+norms,1.1693121693121695
+frame within which several applications,0.5
+high courts of the country,0.5
+name of the governor,0.5
+appointment by direct recruitment,1.0
+work,2.8478559811646353
+court save,0.5
+provides,1.440346729708432
+town,1.9746537396121884
+points,0.7095682483711788
+shri kazi,0.5
+essence,0.5974025974025974
+such interpretation,0.375
+court functioning,0.5
+clear that the provision in section,0.5
+expert knowledge of industrial matters,3.0
+punjab,1.0438169425511197
+necessary implication,1.2608695652173914
+technique,0.35170603674540685
+part of the judgment,1.0
+v central bank,0.6666666666666666
+details,0.9406426856198188
+appointment of president,2.5
+rk jain v union of india,0.5
+deliberation,0.7366666666666667
+consumer,4.596273291925465
+post of the chairman,0.5
+conceptual map,0.5
+basi of interpretation,0.0
+hindi,0.2882352941176471
+seniority,7.989473684210527
+twelve member of the industrial court functioning,0.0
+sections clauses,0.6666666666666666
+words-,0.0
+interpretation of these provisions,0.5
+respective counsel,0.75
+word by word,0.75
+concept of the president,0.5
+chief justice,4.684210526315789
+match,0.41847826086956524
+absence of the draft rules,0.5
+administrative members of the service tribunal,0.5
+accordance,1.4069045211613462
+language of the statute,1.0
+appointment as member,1.6666666666666667
+default,0.7094574436346588
+high court from shri bi,0.5
+surat,0.7619047619047619
+interpretation therefore,0.30000000000000004
+expression  shall consist,0.0
+business rules,0.5
+textile,0.6172839506172839
+address of city court judges,0.5
+word,2.065873981084096
+totality of the facts,1.5
+other law lords in magor,0.5
+chapter,1.3867471532446152
+appeals,1.7060218112849692
+incumbent of the post,0.0
+to the president,0.26666666666666666
+provision of the consumer protection act,0.0
+will,1.9263907124198036
+wrong mentioning of a provision,0.5
+name,1.8996570753072433
+high court of the country,0.0
+members,1.9437616522164103
+account,2.5754891049671977
+appointments,1.2888888888888888
+other external manifestation,0.5
+peerles,0.75
+prayer,0.6969296987087519
+avenue,0.43846153846153846
+purpose,2.519170317925504
+judicial officers,9.083333333333334
+time,2.4764180952862667
+chief justice on the issue,0.5
+issuance,1.05379513633014
+indefiniteness,0.5
+application from all eligible candidates,0.5
+eligibility,1.1788856304985336
+external manifestation of purpose,0.0
+content,1.5450574489970066
+literal interpretation,0.5555555555555556
+whereas,0.7770612954644255
+surat industry,0.5
+members of the industrial court,13.5
+right,3.07483248288682
+severance,0.4800000000000001
+other non - residential building,0.0
+purposive approach,0.6666666666666666
+critical of the views of denning,0.5
+case of nomination,0.0
+registered,1.141896938013443
+draft recruitment rule,2.5
+other acts,0.6545454545454544
+mode of direct recruitment,0.5
+absence,1.092363454568179
+counsel,2.2246780703440323
+policy,3.250773332247955
+consideration on the rival submissions,0.5
+that beg,0.25862068965517243
+rules,3.130914366958792
+other provision in the entire bir,0.5
+jurisprudence,1.088888888888889
+period of practice,1.6666666666666667
+mechanism,0.7337579617834395
+strained meaning,0.5
+which clause,0.5
+basis of longer experience,0.5
+approbation,0.5
+appointment in question,1.0
+word in section,0.0
+allahabad bank,5.2
+noticed lord simonds,0.5
+glass,0.8618012422360248
+governor of the state,1.0
+due discharge of the constitutional duty,0.5
+ideas,0.5673884537690045
+dispute,2.402137592137592
+approval of the government,1.0
+results,0.6487493619193466
+industry,8.208106219426973
+conditions,1.9988092071092867
+recruitment rules of officers,0.5
+zenith investments,0.5
+use if the landlord,0.5
+hope of promotion,0.0
+frustration among members,0.5
+circumstance of the case,0.5
+standing committee,2.7755102040816326
+case,7.332269420884958
+supply,2.0557395143487858
+provisos,0.6545454545454544
+cases of nomination,0.5
+executive instruction,0.75
+industrial court-,0.0
+wrong mentioning,0.5
+bombay money lender,0.5
+future,0.9664487618116651
+statutory interpretation,1.5
+warranto,1.5555555555555556
+contention,1.666391070690368
+ballrooms,0.5
+united bank of india,1.8
+inter alia,1.3280423280423281
+advocate,1.0791341991341994
+appointment of shri na,3.5
+supreme court in bangalore water supply v a rajappa manu  scmanu  sc,0.0
+different meaning of the legal norm,0.0
+eligibility condition,0.8
+order if a source therefore,0.5
+following point,0.4800000000000001
+bench,2.5793391667754992
+allied reliefs,0.5
+- residential buildings,0.0
+higher level,0.48275862068965525
+own use,1.0833333333333333
+office,3.5913445886237847
+leave,1.0147842365477848
+nominee,0.9666666666666667
+contesting respondents,1.0
+industry of power,0.5
+somebody,0.5581624605678233
+contradictory norm,1.5
+sitting,1.1033984092552422
+cognitive interpretation,0.5
+bank of india,5.333333333333333
+acharaya,0.5
+district judge,2.1684981684981683
+- and - literal construction,0.0
+ltd v asher,0.5
+socially - and - educationally - backward class,0.0
+meaningful interpretation,0.5
+v newport corporation,0.5
+full,1.5412997100815056
+constitutional concept of a protective reservation,0.75
+regard to the appointment,0.5
+mentioning of a provision,0.5
+instant case,2.0631578947368423
+- most member,0.0
+member of the service tribunal,0.0
+strained construction,1.0
+on the basi of longer experience,0.0
+legitimate expectation of a member,0.5
+seniority-cum-merit,0.0
+writ jurisdiction,1.2142857142857142
+nomination in accordance,0.5
+purport of the expression,0.8
+willingnes,0.7818181818181819
+external manifestations of purpose,0.5
+selection meant,0.5
+handbook,0.22183098591549297
+construction,2.2504918032786887
+role of an administrator,0.5
+haryana,2.935064935064935
+industrial court functioning,0.5
+literal meaning of the legislative language,0.5
+jurisprudential interpretation,1.5
+standing committee for further consideration,0.5
+appointment on a judicial post,0.5
+value,1.7137907830478438
+air,2.0589664272145285
+presiding,1.3214285714285714
+hans,0.5170833333333335
+reply,1.0337305560040906
+- and - strained construction,0.0
+non - residential building in the city,0.0
+object of the act,1.5555555555555556
+avenue of promotion,0.5
+gujarat,3.2753623188405796
+act deals,1.2666666666666666
+such fetter,0.6666666666666666
+legislature,2.818553268765133
+rk jain v union,0.5
+india v peerless co manuscmanusc,0.5
+recourse,0.9157232704402517
+settled,1.0502626429086415
+societies,1.7085137085137085
+opinion that the appointment,0.5
+twelve members of the industrial court,1.0
+additional reasons,0.8
+gazette,0.9578231292517008
+argument,0.9504580388560493
+words that the legislature,0.5
+exceptions,0.6478185993111366
+corporation,3.6427750743444176
+industrial judge,0.5
+necessary for the high court,0.5
+rule for appointment,0.5
+judges,2.0931496919173616
+further trite,0.75
+paper,1.8076689487632511
+members of the service tribunal,0.5
+counsel on behalf,3.3636363636363638
+leave petitions,1.6296296296296295
+hand,2.0299623418254717
+unintended indefiniteness,0.5
+court of justice,0.9090909090909091
+question stands,0.6666666666666666
+norm,1.1955826794536473
+high court for consultation,0.5
+statutes,0.9659824046920822
+busines,2.8488759960122034
+express provision,1.15
+appellant,14.387096774193548
+more labour judges,0.5
+gujarat kishan mazdoor panchayat,1.0
+only question,0.5172413793103449
+decision to the legal organ,0.5
+that court,0.7384615384615386
+public,2.923239095873367
+eventuality,0.5864197530864198
+knowledge of industrial matters,3.0
+representation,1.2338308457711442
+due discharge of the constitution duty,0.5
+possible meanings of a legal norm,0.5
+narrow interpretation,0.6666666666666666
+appointment to the post,2.0
+vacant since the retirement of shri dv,0.5
+nomination under clause,0.5
+central,2.61875
+administrative member,0.5
+approval of the rules,0.5
+vacant,1.8672727272727272
+set of facts,0.6857142857142857
+court to the government,0.5
+court for consultation,0.5
+gujarat public service commission,0.5
+state of up,2.0784313725490198
+year of practice,0.0
+possibility,0.7613466503601033
+direct recruitment,4.0
+nomination,4.422077922077922
+judge of the industrial court belong,0.0
+advancement,0.6169491525423729
+statute law,1.0
+situation,1.1254754682459434
+legislative language,0.5
+attention,0.8724846605528799
+attempt by a court,0.5
+administrative,1.85302734375
+administrative powers of control,0.5
+industrial court,20.714285714285715
+concrete case,1.0
+rank,0.6723585912486659
+well - known rule of interpretation,0.0
+case of state,1.4375
+appointment afresh,1.0
+disputes,2.3049883690876194

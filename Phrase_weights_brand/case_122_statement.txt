@@ -1,0 +1,1482 @@
+amenity of life,0.0
+cripple,0.2696078431372549
+high court of punjab,1.2380952380952381
+ayyappankadu,0.5
+record that the appellant,0.75
+legal heirs,3.1666666666666665
+scarman,0.5
+more amount,0.6666666666666666
+insurance company,1.4965986394557822
+tribunal in appropriate case,0.6666666666666666
+matter of conjectures,0.5
+eye,0.9466574319441098
+union,2.0981927710843373
+earlier award,1.5
+cause,1.8431210321626654
+way,1.7812722068664852
+bingham,0.13636363636363638
+court of punjab,1.2380952380952381
+use of motor vehicles,0.6666666666666666
+award of damages,0.3333333333333333
+lord denning,1.2
+enhanced claim,0.5
+court dealt,1.7857142857142858
+future with certainty,0.5
+future eventuality,0.0
+aforesaid,2.592896174863388
+conventional sum lay,0.5
+appropriate investments,0.5
+fatal accident,0.3333333333333333
+following guidelines,0.8333333333333334
+just,2.383088103070756
+important part,0.32432432432432434
+non-pecuniary losses,0.0
+haryana in devki nandan bangur,0.5
+abdul,1.5086206896551726
+other specific parts of the body,0.5
+assessment of those imponderables,0.5
+stage,1.1298537871524448
+indian transport insurance co manu  scmanu  sc,0.0
+special damage,1.5
+wide discretion,0.8333333333333334
+evidence on record justifies,0.5
+subject,2.4420366233344897
+decision of the bombay high court,1.0
+tort-feasors,0.0
+order,5.472481489660944
+edn,0.4833395383469844
+application for claim,0.6666666666666666
+eventualities,0.5
+healthy,0.5241935483870968
+babu,1.1979166666666667
+such claim petition,0.5
+islington,0.9000000000000001
+high court in mulla md,0.5
+pleading,1.1270125223613594
+claimant from exploitation,0.0
+copy,0.8620926631522174
+compensation to a victim,0.5
+parties,1.8210828547990157
+orissa,2.3125
+civil procedure,5.448275862068965
+right ankle,0.2777777777777778
+los of limbs,0.0
+such claims,0.5161290322580645
+available to the owner,0.6666666666666666
+permissible under the act,1.0
+other limitation,0.3333333333333333
+condition,2.259476395625584
+substitution of real fact,0.5
+such claim petition under karnataka motor vehicles rules,0.5
+first part,1.236842105263158
+similar earlier years,0.5
+understood that mv,0.5
+america,0.9205946994182289
+mv act,3.0
+burns,0.5440677966101696
+expense from the interest,0.0
+present case,1.5611814345991561
+context,0.9269383697813122
+sons ltd,1.0
+limitation,2.4984479402325457
+requisite additional issue  issue,0.0
+fault,0.8125244007183572
+earning,0.9429329794293299
+large part,0.2456140350877193
+thirty day from the date,0.0
+para,2.300239586747483
+further sum of rs,0.8
+arrangement,0.7318181818181818
+other injured person,1.0
+permanent wrist injury,0.0
+powers,1.876345371920593
+empower,0.9420289855072463
+mrs,0.4085714285714286
+today,0.6330563683773655
+respondents to the application,0.5
+oriental,0.5137362637362637
+other specific parts,0.5
+victim of unscrupulous persons,0.0
+vii,1.26552423069836
+fetter,0.625
+similar earlier year,0.5
+country,1.2903191103863751
+los of hand,0.0
+withdrawal,1.2055933484504913
+deposit,2.1724508050089444
+general damages,2.5
+insuperable complexity of the problem,0.0
+actions,3.633288043478261
+opportunity,0.946186440677966
+consequence of the accident,0.5
+damage to any property,2.5
+higher amount of compensation,1.0
+second part,2.0913461538461537
+loan,2.299059561128527
+unscrupulous persons,1.3333333333333333
+tribunal under sub-section,0.0
+good conscience,0.38095238095238093
+bone,0.6534106600386633
+many case,0.5186751233262861
+merit,1.2419290263876248
+mclean,0.2268041237113402
+limb,0.509338061465721
+karnataka motor vehicles rule,1.0
+thirty day,1.4871794871794872
+loss of earnings,0.5
+conscience,0.7416879795396419
+wreck,0.48305084745762705
+general damage for personal injuries,0.0
+learned judge,3.3692307692307693
+awards for pain,0.5
+vehicle,2.973111766564837
+other consideration,0.7083333333333334
+anr,1.1271033322299457
+claimants,1.8627450980392155
+learned counsel for the appellant mrs,0.5
+compensatory damages,1.0
+bar for the claims,0.5
+prasad,1.1407089151450054
+sui generi,0.6666666666666666
+temporary broken arm,0.5
+wrist injuries,0.5
+such amount,1.2380952380952381
+classified injury,0.0
+bangalore,1.2
+huge withdrawal,0.5
+modification,0.9714977645305514
+copy thereof,1.6666666666666667
+mr melvin,0.5
+doubt,1.3646267723102583
+bar,1.4720990391722097
+lords,0.8620729190552625
+claim application,0.5
+susceptibility to exploitation,0.5
+report,1.7768151696835826
+principle,1.9620890732001848
+express permission,0.3333333333333333
+factor,1.2878742338904643
+same cause,1.0
+loss of hand,0.5
+- pecuniary damages of loss,0.0
+reasonable on the basis of evidence,0.5
+j sangani v pragjibhai mohanlal luvana,0.5
+kiran,0.6461538461538461
+fault claim cases,1.0
+division bench,3.965217391304348
+date,6.195616975795285
+reference,2.1755848210276256
+grave disfigurement fall,0.5
+respondent,4.757894736842104
+multiple injuries with grave disfigurement fall,0.5
+appellate stage,0.8
+works,1.7935487434410384
+view of the case,0.6666666666666666
+by reference to the relevant provisions,0.5
+satyanarayana,1.0
+amendment of the pleadings,0.5
+decision in sheikhupura transport co ltd,0.5
+appropriate investment,0.5
+special damage in the shape,0.0
+general damagescompensation,0.5
+increase,1.3270102600811262
+view of the matter,1.7142857142857142
+amounts,0.9789856139834046
+investment,3.057915057915058
+kemp s tables,0.0
+expectation,0.8103813559322035
+inflation factor,0.5
+prejudice to the insurance company,0.5
+dates of accident,0.5
+embargo,0.5606312292358805
+high,5.367119186841496
+payment,2.059553716565686
+same within thirty days from the date,0.5
+agriculturist,1.5
+such comparisons,0.3333333333333333
+same treatment,0.4
+equity,1.3214285714285714
+classification,2.196286472148541
+v state of haryana,1.3103448275862069
+defendant,3.7706855791962175
+civil court,3.706666666666667
+conventional sum,1.0
+amputation of leg,0.5
+complexities,0.375
+victims of unscrupulous persons,0.5
+expense of the victim,0.0
+insurance,1.7782738095238095
+eminent lawyer,0.6666666666666666
+sui generis,0.6666666666666666
+hereinafter,0.7670609645131939
+within thirty day from the date,0.0
+earnings,1.1904761904761905
+exces,0.9881465517241379
+award,3.104213525266157
+case of illiterate claimants,0.5
+comprise,0.85
+pace with the times,0.5
+case of compensation,0.5
+complete incapacity,0.5
+loans,0.7388888888888888
+manuormanuor,1.0
+category deals,0.6666666666666666
+privilege of knowledge,0.5
+evidence,3.6676405172088815
+datum,0.0
+real issue between the parties,0.5
+substitution,0.5932203389830508
+fair compensation,2.3333333333333335
+expenses for such treatment,0.5
+hope,0.6530575035063113
+accident by motor vehicle,0.5
+minor injury,0.0
+relevancy of date,0.5
+total works,0.5
+multiple injury,0.0
+non - pecuniary damage of loss,0.0
+same accident,0.6666666666666666
+subject to the relaxation,0.5
+stratum of society,0.0
+for the purpose,1.8600737100737101
+same within thirty day from the date,0.0
+proper compensation,0.5
+time limit,0.9444444444444444
+therefore,2.960332350576253
+opposite party,2.3333333333333335
+rule,5.04
+periodical medical expenses,1.0
+type of limb,0.5
+few fact,0.46296296296296297
+proceedings,1.7670925223666287
+mohammed,0.6057692307692307
+date of accident,0.5
+other persons,0.6111111111111112
+mj rao,0.5
+airguj,0.8
+duty towards the victims,0.5
+partial wrecks,0.5
+respondents,2.6341263330598856
+true that lump-sum compensation,0.0
+report of accidents,0.5
+costs,0.8167395522604189
+total wreck,0.5
+comparable award,0.5
+function of the tribunal  court,0.0
+third category,0.6666666666666666
+unscrupulous person,1.3333333333333333
+agricultural implements,0.5
+record justifies,0.5
+collection,1.0907127429805616
+particular,1.5248953455371081
+susceptibility,0.4444444444444444
+manuphmanuph,1.0
+withdrawal in the hope,0.0
+power,3.8165227690948367
+interest on the amount,1.4
+munkman pp,0.5
+expectation of life,1.5
+thirty day of receipt,0.0
+mulla,0.7179487179487178
+such damages,0.5
+court  tribunal,0.0
+vehicles,1.4161490683229814
+position,1.549133168619177
+one,4.845669314438648
+other injured persons,0.6666666666666666
+guess,0.5930754051306585
+petition,5.3436539306104525
+guidelines,1.540251572327044
+showing,0.781949531949532
+insurer,8.041666666666664
+consideration,1.9110153789142115
+expense,1.4186440677966103
+further action,0.33333333333333337
+different elements,0.5
+kemp s table,0.0
+poor agriculturist,1.0
+time payment,1.5
+clause,3.526455026455027
+courts tribunal,1.0
+arrangements,0.6399535423925667
+insurance company with the trial court,0.5
+kisan,0.75
+expense for medical treatment,0.0
+on negligence,0.6666666666666666
+kerala state road transport corporation,0.5
+working,1.1479822756765312
+total cripple,0.5
+elements in an award,0.5
+provisions,3.8929824561403508
+fault claim case,1.0
+manuscmanusc,7.940520446096654
+heirs,1.7930440771349863
+purchase of artificial leg,0.5
+proved circumstances of a particular case,0.5
+date of the minor attaining majority,0.5
+damages for loss,1.0
+living,1.0859950859950862
+such fdr,0.5
+- for loss of earnings,0.0
+injury with grave disfigurement fall,0.0
+such elements,0.75
+more amounts under heads,0.5
+movable,1.6134453781512603
+classified injuries,0.5
+strength,1.1679328901551123
+interest of justice,1.2
+amount of compensation,3.375
+that claimant,2.0
+possession,2.808810857389056
+mhmanu,1.4
+relaxation,0.8571428571428572
+lacs as compensation,0.5
+category comprises of cases,0.5
+requirement,1.2416133333333332
+suggestion,1.2425592585991803
+different element,0.5
+future medical expense,2.5
+same cause of action,1.0
+insanity,1.0344827586206897
+truck,1.0360124699896083
+injustice to other side,0.5
+deal,2.1942302694273583
+general,1.7536558414534391
+cpc,1.0529279279279278
+case of windows,0.5
+motor vehicle,2.852852852852853
+relevant evidence,1.0
+nature,1.4149926876444778
+injustice,1.1882716049382718
+recording of information,0.6666666666666666
+party to state,0.5
+finalisation of the compensation proceedings,0.5
+in p satyanarayana v i babu rajendra prasad,0.5
+change of cause,0.5
+urmila j sangani v pragjibhai mohanlal luvana,0.5
+aforesaid condition,0.8
+labouring man,0.5
+action,3.127292663476874
+enjoyment of life,1.0
+question of compensation,1.0
+alternative,0.841508109794136
+trivandrum v susamma thoma,0.5
+losses,0.9434840425531913
+cost of future nursing,0.5
+capacity,1.7421691881525676
+complexity,0.29310344827586204
+compensation in excess,1.3333333333333333
+greater bombay,1.5
+responsibility,0.8659259259259259
+certain certificates,0.5
+personality,0.8909774436090225
+comparable awards,0.5
+los,1.8125523261338943
+inter,3.683850287482992
+lump-sum compensation,0.0
+application by the appellant,0.5
+nursing,2.2727272727272725
+court,12.24425115501509
+agreement,3.450434632433366
+date of application,0.8571428571428571
+person,4.291511329454258
+compensation-,0.0
+medical certificate,1.0
+stratum,0.0
+claim petition,2.2222222222222223
+nothing,0.8658723322806009
+inconsistent cause of action,0.5
+age,4.526374474274117
+number,1.4802651440973922
+decision,2.9514937765898557
+non - pecuniary damages,0.0
+claim,2.817264601856604
+ankle,0.2692307692307692
+personal injuries,0.6666666666666666
+house,2.0021735292386764
+right leg,0.4444444444444445
+cases--,0.0
+year,2.8349484769759212
+courts in england,1.0
+suffering,1.0058873002523128
+occupation disease,0.5
+judgment,3.288216560509554
+hire,0.7466666666666667
+claims,1.1941982272360998
+case of semi - literate persons,0.0
+medical expense,1.8666666666666665
+tribunal court consider,0.5
+injury,1.7199352451433856
+loss,2.0689655172413794
+act,12.870263922028107
+charle,0.3307766059443912
+injured boy,0.5
+clas,2.1196191893660425
+tissues,0.25
+insuperable complexities of the problem,0.5
+level,1.1533169827122092
+agent,1.406335913378167
+loss of amenities,2.5
+labouring,0.5
+huge withdrawals,0.5
+section,9.287987283173626
+to such claim petition under karnataka motor vehicles rules,0.5
+such medical treatment,0.5
+- pecuniary damages,0.0
+dates,2.6187832912811886
+medical expenses,1.8666666666666665
+corrosion,0.2142857142857143
+to such claim,1.0
+accidents,0.8385135135135136
+v union of india,2.381818181818182
+advance,1.2070333024745414
+regard,2.723310344827586
+lac to the appellant,0.5
+knowledge,1.1120671641791045
+expenses,1.2727272727272727
+direction,1.8495050210098996
+money,1.6567889044524557
+award additional compensation,0.5
+facts,1.4696673624372698
+damages  compensation,0.0
+municipal,2.4099173553719004
+hl england,0.5
+claimants liberty,0.5
+different elements in an award,0.5
+specific part,0.6666666666666666
+nandan,0.7333333333333334
+writing,1.1746753246753248
+generis,2.8
+carbide,0.5
+issue between the parties,0.6666666666666666
+p satyanarayana v i babu rajendra prasad,0.5
+muljibhai ajarambhai harijan v,0.5
+in union carbide corporation,1.3333333333333333
+other considerations,0.7272727272727272
+cost,1.2954397451466992
+kerala in valiyakathodi,0.5
+further guideline,0.5
+sub,7.816899313759727
+provision of motor vehicles act,0.0
+company,5.864471879286695
+amenities,0.8974358974358975
+sheikhupura,1.0
+non-pecuniary loss,0.0
+prospective expenses,0.5
+case of brain injuries,0.0
+future eventualities,0.5
+general damage,2.5
+appropriate case,1.4074074074074074
+mulla md,0.5
+excess,0.9860601614086574
+inquiry,1.3527272727272728
+matter,2.8088923076923082
+owner of the property,1.1428571428571428
+same loss,0.3333333333333333
+question of enhanced claim,0.5
+indian,1.2604961505560306
+liability,2.532836248924577
+enjoyment,0.631578947368421
+fetters on the power,0.5
+annuity,0.3333333333333333
+category deal,0.6666666666666666
+application for compensation,3.5
+discretion of the court,0.7333333333333334
+- term basis,0.0
+decision of bombay high court,0.6666666666666666
+procedure,2.552771605064117
+past inflation,0.5
+future nursing,0.5
+enhancement,0.5810526315789474
+polouse,0.0
+enhancement of claim,0.5
+amputation,0.7500000000000001
+guideline,1.5641711229946524
+provision,5.439002243350069
+support,0.8630946786249609
+wrecks,0.30000000000000004
+similar injuries,0.5
+expense for such treatment,0.0
+death of appellant,0.5
+business,2.8512056385864457
+belli,0.5380952380952382
+importance,0.8632871064467765
+tribunal in the larger interest,0.5
+owner,2.9502416709822197
+sheikhupura transport co ltd,1.0
+arm etc,0.30000000000000004
+such cases,0.7390180878552971
+abdul wahib v abdul rahim,0.5
+feasor,1.6666666666666667
+demand,1.5671679197994988
+immovable property,1.75
+viii,0.7209469153515065
+fourth category deals with minor injuries,0.5
+victims,0.9
+diseases,0.731016731016731
+harijan,1.0
+representatives,0.8874021711688966
+times,0.8987140267391797
+thirty days,1.4871794871794872
+aforesaid decision,1.15625
+pace with inflation,1.0
+fractures,0.5555555555555556
+such case,0.7332761578044598
+tribunalcourt,1.5
+discretion in the tribunal,0.5
+category of general damages,0.0
+regard to the corrosion,0.5
+issues,1.1246716508385532
+conjecture,0.5714285714285714
+request,1.1474439594584596
+per,7.977753416636086
+additional issues,0.5
+- for loss of enjoyment,0.0
+amenity,0.75
+shah,1.9074421513445903
+approval,1.4085456739300164
+amount of damages,1.0
+same treatment in case,0.5
+lump sum payment,0.6666666666666666
+semi-literate persons,0.0
+agreements,1.0784313725490198
+leg consequent,0.5
+bench of the high court,1.8
+account expenditure,0.5
+claimant belongs,0.5
+clear by reference to the relevant provisions,0.5
+negligence,1.3017543859649123
+generi,1.05019305019305
+principles,1.3198511166253102
+injury case,1.5
+account increase,0.5
+wrist injury,0.0
+loss of expectation,1.5
+under the act,1.8977072310405645
+police station,1.40045766590389
+unjustifiable from the evidence,0.5
+estimate expenses,0.5
+insuperable complexities,0.5
+need,1.1097650269586634
+statutory responsibility of the court,0.5
+such proceedings,1.0
+motor vehicles act,2.8461538461538463
+artificial leg,2.5
+monetary los,1.0
+temptation,0.5
+deprivation,0.75
+brain,0.9135997195934104
+fall,1.158018118245391
+further guideline to the effect,0.5
+camden,0.6923076923076922
+los of leg,0.0
+proviso,2.112
+thomas,0.47182521087160256
+change,1.2214862766571903
+multiple injury with grave disfigurement fall,0.0
+head,1.5827778446537666
+cases,1.9728229418951067
+division,1.7657319129617017
+ormanu,0.5555555555555556
+injury cases if further treatment,0.5
+full bench of the high court,1.3333333333333333
+sheikhupura transport co ltd v,0.5
+walker s case,0.0
+such other considerations,0.5
+municipal corporation,1.3439153439153437
+patnaik,0.8333333333333334
+court of karnataka,1.826086956521739
+other side,0.5701657458563535
+award additional compensation of rs,0.5
+guess - work,0.0
+choo,0.983913353763486
+reform,0.6780894886363636
+luvana,0.5
+high court of karnataka,1.826086956521739
+windows,0.11880764476561759
+limits,0.8405888207868406
+such treatment,0.5882352941176471
+parts,0.6609660823170732
+comparable cases,0.5
+india,2.7684068260703585
+record if tribunal court consider,0.5
+injury cases,1.5
+claimant,2.3438596491228068
+higher compensation,1.5
+exploitation,0.6222222222222222
+survives,0.5185185185185185
+withdrawals in the hope,0.5
+rupee,2.2291666666666665
+such comparison,0.3333333333333333
+walker,0.3470919324577861
+earlier year,0.7999999999999999
+value - based price,0.0
+soft tissue,0.5
+whole,0.951414768806073
+action for negligence,0.5
+thoma,0.47259914972919453
+blindness,0.45283018867924535
+total work,0.6666666666666666
+feasors,1.3333333333333333
+amendment to the claim petition,1.5
+melvin,0.2142857142857143
+insurance co ltd,2.076923076923077
+value of the rupee,0.5
+due to the accident,0.5
+guideline to the effect,0.5
+medical evidence,1.2820512820512822
+authors,0.4505968169761273
+element,0.7062328407033122
+ramamoorthi,0.5
+statutory responsibility,0.5
+much of the award,0.5
+specific part of the body,0.0
+sure that the courtstribunal,0.5
+installment,1.9047619047619049
+insuperable complexity,0.0
+duty,3.2272215973003378
+denning,0.6278538812785389
+illiteracy,0.5
+basis of the evidence,1.3
+lim poh choo case,0.5
+fourth category deals,0.5
+pecuniary los,2.0
+court in union carbide corporation v union,0.6666666666666666
+contingency,0.4924242424242425
+officer incharge,1.0
+discretion,1.2998211091234348
+devki,0.3333333333333333
+due importance,0.6666666666666666
+point,2.9165043546008516
+considerations,0.7860235003092146
+same defendant for personal injury,0.5
+temporary broken arm with the loss,0.5
+court in sheikhupura transport co ltd  v,0.0
+monthly income,1.3333333333333333
+area health authority,1.0
+such summary procedure,0.5
+specific provision,1.1363636363636365
+partial wreek  cases,0.0
+court under the provisions,0.5
+collection of cases,0.5
+general manager,0.9625000000000001
+such amendment,0.7333333333333334
+- towards the loss of amenities,0.0
+earlier award in order,0.5
+additional compensation,2.2
+principle of assessment,0.5
+category,1.9351744779266717
+reveal,0.9261660079051384
+legal heir,3.1538461538461537
+medical treatment,1.1428571428571428
+fixed deposit receipt,1.6666666666666667
+further award,0.5
+union carbide corporation,1.25
+passing,0.8851858023662723
+guidelines--,0.0
+margin of error,0.30000000000000004
+udesing,0.5
+court in muljibhai ajarambhai harijan v,0.5
+agricultural implement,0.5
+restriction that compensation,0.5
+literate persons,1.3333333333333333
+unethical agreement,0.5
+paras,0.7450980392156863
+heir,2.4782705005515444
+comparison with some earlier award,0.5
+authority,2.4352627108360636
+death,2.361592909460208
+bangur,0.5
+urmila,0.5
+john,0.49851778149329673
+lacs,1.6941699604743086
+particular case,0.4358974358974359
+legal representative,3.727272727272727
+such proceeding,1.0
+large part of the compensation amount,0.5
+officer incharge of the police station,0.5
+damages for personal injuries,0.5
+applicable to such claim petition under karnataka motor vehicles rules,0.5
+limbs,0.5
+relevant provision,1.5737704918032787
+more amount under heads,0.0
+counsel for the appellant,1.9621212121212122
+background,0.6800452488687784
+time of hearing,1.0
+valid comparison,0.30000000000000004
+- for injury,0.0
+iii,1.5614499719992534
+worth on negligence,0.5
+prejudice,0.880907124598545
+finalisation,1.5
+amounts of compensation,0.6666666666666666
+valiyakathodi,0.5
+material irregularity,1.5
+kerala,4.135593220338983
+case of a fatal accident,0.5
+state,6.817996007300392
+proved circumstance,0.6666666666666666
+note,1.3654108484234107
+damage for personal injuries,0.0
+boy,1.0245410384202889
+karnataka motor vehicles rate,0.5
+loss today,0.5
+olr,0.19485294117647056
+airsc,1.6909090909090911
+reveals,0.670995670995671
+man,6.972395052694935
+part--,0.0
+settled rule of law,0.5
+house of lords,0.684331797235023
+foot,0.7144861347422464
+mohan,1.5416666666666667
+per annum,2.25
+number of imponderables,0.5
+safety,1.5344583560152423
+estimate on the basis,0.5
+categories,0.8800000000000001
+koya,1.0
+persons  compensation,0.0
+justifies,0.4227005870841487
+of the award,2.45
+implement,1.6775952431314485
+comparison,0.7333333333333333
+such other consideration,0.6666666666666666
+persons,2.5993381990166555
+to the accident,0.6666666666666666
+prospective expense,0.5
+orissa high court,1.0
+thirty days of receipt,0.6666666666666666
+rickshaw,1.0
+thirty days from the date,1.2
+mind,1.1559066143122394
+chitradurga,1.0
+municipal corporation of greater bombay,1.2
+minor,1.0277735341745853
+conjectures,0.4166666666666667
+particular of the claim,0.0
+munkman,2.0
+interest,2.74353772015385
+production,2.1071428571428577
+consonance,1.5
+personal injury cases if further treatment,0.5
+estimate expense,0.5
+further treatment,0.4
+behalf,1.9888053603529987
+full bench,5.0
+imponderable,1.25
+minors,0.30352303523035234
+labouring man for the loss,0.5
+consolatory damages,1.0
+mfa,0.4705882352941176
+that order,0.71055381400209
+case of amputation,0.5
+thus--,0.0
+to such claims,0.6666666666666666
+relevant provisions,1.5
+to such proceeding,0.75
+appropriate cases,1.2
+oriental insurance co ltd,1.2
+leg consequent to an accident,0.5
+permission,1.1531211886018407
+major injuries in the same limb,0.5
+appeal,3.4125488033856883
+several imponderable,0.5
+area,2.675167256985439
+category deal with minor injuries,0.0
+gues,0.6092169191197485
+duty towards the victim,0.5
+certain certificate,0.5
+courts  tribunal in the country,0.0
+alia,0.9479866480753792
+case of severe injury,0.0
+that the courts  tribunal,0.0
+proviso to sub - section,0.0
+next friend,1.0
+rajendra,1.6428571428571428
+sub-section,0.0
+particular losses,0.5
+permanent wrist injuries,0.5
+completion,1.1868131868131868
+main heads,0.5
+loss of enjoyment,0.5
+claims tribunal,2.75
+northern,1.178115208483972
+purchases,0.7075471698113207
+broken arm,0.30000000000000004
+certificates,0.7105263157894737
+real issue,0.3833333333333333
+such damage,0.3333333333333333
+disfigurement fall,0.5
+completion of such report,0.5
+fracture,0.6111111111111112
+circumstance,1.429931390219372
+civil,2.126558634963905
+gain,2.812245309642126
+part of the amount,1.0
+difficulty,0.656910569105691
+nearest,0.5176470588235295
+apmanu,0.9629629629629629
+glr,0.21818181818181817
+brain damage,0.3333333333333333
+multiple fracture,0.5
+class,2.1508512849922936
+rahim,0.39375
+such claim,1.0222222222222221
+enhanced compensation for the medical treatment,0.5
+cases of severe injury,0.5
+basi,2.0752712086391383
+- with interest at the rate,0.0
+compensatory damage,1.0
+more amounts,0.5
+days,1.6721350893491447
+non - pecuniary damages of loss,0.0
+koya v ayyappankadu ramamoorthi mohan,0.5
+high court in muljibhai ajarambhai harijan v,0.5
+occupation diseases,0.5
+accident with a truck,0.5
+sure that the courtstribunals,0.5
+basis,1.953226441078104
+anxiety,0.49259259259259264
+permanent disability,0.6666666666666666
+gangaram,0.5
+directions,1.5134125183504605
+courts  tribunal,0.0
+nationalised bank,2.4444444444444446
+compensation from the evidence,0.5
+learned counsel for the insurance company,0.5
+gjmanu,1.0833333333333333
+hence,1.1440732910500353
+officer,3.1197242647058823
+airsc in the matter,0.6666666666666666
+amendment,2.2486412346818434
+tort,0.6201505500868558
+amenities of life,1.0
+function,1.6326372491145218
+appropriate that the tribunal,0.5
+record if tribunal court considers,0.5
+northern indian transport insurance co manuscmanusc,0.5
+illiterate claimant,0.5
+price,2.8302710227712162
+medical certificates,0.5
+imponderables,1.3333333333333333
+term,3.6255105640901575
+lac,2.403150042398463
+particular conventional sum,0.5
+category comprises,0.5
+amendment of the claim petition,0.5
+view,2.441100058469462
+ignorance,0.649062049062049
+wreek,0.5
+vide,4.454025282767798
+side,3.88845645915565
+majority,1.3427634276342764
+pleadings,1.3125
+use,5.06801278974993
+awardable in the proved circumstances of a particular case,0.5
+decision on the subject,0.0
+lord,1.6027618015615013
+strata of society,0.5
+result,1.3356630184144715
+deposit in a nearest,0.5
+pecuniary loss,2.0
+data,0.9744599232788209
+record,2.5393414390845273
+information,1.1320502836800534
+division bench of the high court,1.6825396825396826
+relevant decisions,0.6666666666666666
+consolatory damage,1.0
+friend,0.7079130846815137
+accident,1.7464867454487383
+quarter of a century,0.6666666666666666
+awards,1.4828431372549018
+to such proceedings,0.75
+table,1.2846582247782705
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+gobel,0.3333333333333333
+evidence on record,2.7906976744186047
+safety of the amount,0.5
+of the amount,1.0638297872340425
+los of enjoyment,0.0
+medical expenses of the victim,0.5
+proved circumstances,0.6666666666666666
+particulars,0.9472222222222222
+los of sight,0.0
+special damages in the shape,0.5
+following guideline,0.8333333333333334
+opportunity to the parties,1.0
+medical expense of the victim,0.0
+advance on the fixed deposit,0.5
+tune,0.5874773139745917
+years,2.5395804110508022
+value of the pound,0.5
+party,2.2250894654439723
+same to such claims,0.5
+justice,2.292557084574302
+same los,0.3333333333333333
+withdrawals,1.0666666666666667
+relevancy,1.1111111111111112
+income,2.734813573523251
+v state,2.4603773584905664
+society,2.1182859399684046
+feed,0.8324538258575199
+mohanlal,0.8333333333333334
+existence,0.731202675709574
+level of general damages,0.5
+damages in the shape,0.5
+manukemanuke,1.0
+hearing,0.9644508209787979
+bank,9.40770083102493
+particular loss,0.5
+same defendant,0.5
+from the evidence,1.4400000000000002
+on the basi of evidence,0.0
+day,1.550999710228919
+question,2.980312372067635
+emergency,2.635026737967914
+- for purchase of artificial leg,0.0
+scmanu,7.940520446096654
+uniform,0.5681818181818182
+beneficiary,1.8333333333333333
+amount,3.179688593072295
+record despite the fact,0.5
+practice,1.7660110149488593
+- pecuniary losses,0.0
+major injury,0.0
+other showing,0.3333333333333333
+few facts,0.4761904761904762
+united,0.7052854122621566
+such eventuality,0.8
+vest,2.5867992501903814
+deposit receipt,1.5
+sufferings,0.5294117647058824
+v union,1.5773809523809523
+contention that the tribunal,0.5
+kemp,0.8125
+case of minors,0.5
+similar injury,0.0
+defendant for personal injury,0.5
+permit,1.2568972835314092
+earlier years,0.4571428571428572
+property,2.9368986630013745
+law,3.538923411654744
+observation,0.7625074854374218
+los of amenities,0.0
+head of damages,0.5
+similar contention,0.9
+treatment,1.1351020408163266
+plaintiff,2.177926421404682
+specific parts of the body,0.5
+personal injury case,1.5
+semi,0.48290238678090586
+- pecuniary loss,0.0
+- pecuniary damage,0.0
+that appellant,1.3529411764705883
+installments,1.9444444444444444
+grant,1.7314487632508835
+assessment,2.647276084949215
+pain,0.6559880239520958
+claimant belong,0.5
+claimant till the survives,0.5
+certificate,2.732600732600732
+application,2.3322596088086445
+rates,0.9535092413452435
+case order,0.6666666666666666
+muljibhai,0.5
+manuapmanuap,1.4444444444444444
+privilege,2.436023622047244
+pound,0.9699722227854259
+that damages,0.5
+strata,0.2528735632183908
+withdrawal in case,0.5
+cent,2.4795666588956498
+claimants from exploitation,0.5
+loss of leg,0.5
+ltd,2.382356477306883
+lord scarman,0.5
+motor,1.832417821954835
+chakravarty,2.0
+reasonable estimate,0.5
+passing of further award,0.5
+fdr,1.2083333333333333
+period,1.9480170842427122
+comparison with injuries,0.5
+several imponderables,0.5
+motor claims cases,0.5
+compensation proceedings,0.5
+decisions on the subject,0.8
+implements,0.3286384976525822
+guide,1.417236993519472
+phmanu,1.0
+interim award,3.5
+poh,0.8395061728395062
+account increase in the cost,0.5
+partial wreek,0.5
+award for pain,0.0
+restriction that tribunal  court,0.0
+lump,0.5384615384615385
+clas of injury,0.0
+supra,2.246342614440774
+wit,7.927883367146261
+that the courts  tribunals,0.0
+bombay high court,2.4642857142857144
+additional issue  issue,0.0
+which compensation,0.75
+special damages,1.5
+comparisons,0.2446043165467626
+india manuscmanusc,1.8333333333333333
+periodical medical expense,1.0
+personal injury,1.6666666666666667
+police,2.9749362629783356
+injury on right foot,0.5
+police officer,1.0366379310344829
+such award,1.25
+consolatory,1.5
+guardian,3.176470588235294
+case to case,0.9090909090909091
+set,2.3027452395971277
+reason,2.6381270903010035
+deals,1.3395407335280751
+operation,1.0959893294085181
+illiterate claimants,0.5
+life,1.3352928273744242
+index,0.5730288668677295
+category comprise,0.5
+amount on long term,0.5
+acj,0.4822222222222222
+- towards the los of amenities,0.0
+certain cases,0.5333333333333333
+claim petition under karnataka motor vehicles rules,0.5
+appropriate that the tribunals,0.5
+difficulty for sub-classification,0.0
+tribunal court considers,0.5
+receipt,1.5471923536439667
+specified amount,0.5
+v kisan gangaram hire,0.5
+sub-classification,0.0
+judge,2.9012627415183325
+dollar,0.2877379371403276
+copy thereof to the concerned insurer,0.5
+brain injuries,0.5
+lilaben udesing gobel v,0.5
+specific parts,0.5
+occupation,1.1158072696534236
+expenses for medical treatment,0.5
+different element in an award,0.0
+to the owner,0.9523809523809523
+author,2.9909112471968258
+observation of parke b,0.0
+livelihood,1.3777777777777778
+currency,0.9166666666666669
+category deals with minor injuries,0.5
+personal injury cases,1.5
+general damages for personal injuries,0.5
+no doubt,0.8331331503088538
+circumstances,1.3944461370073231
+lawyer,0.6086956521739131
+high court,7.7477477477477485
+compensation proceeding,0.5
+courts  tribunals,0.0
+jurisdiction,2.9539571926331507
+personality change,1.0
+tribunal  court,0.0
+trial,3.7979448350459712
+observations of parke b,0.5
+manu,7.078142071124147
+employer,2.639728353140917
+damages to any property,0.6666666666666666
+responsibility of the court,0.5
+application of law,1.0
+attendance,0.5024271844660194
+margin,1.4244114002478314
+damage in the shape,0.0
+orissa high court in mulla md,0.5
+relevant decisions on the subject,0.5
+sort of operation,0.3333333333333333
+health,0.8632619439868204
+ingenious suggestion,0.5
+tribunal,5.07183212267958
+sum,2.554898897856461
+amputation of a hand,0.5
+compensation,3.7916666666666665
+the pecuniary loss,1.0
+current level,0.2857142857142857
+current level of general damages,0.5
+relevant decision,0.6666666666666666
+fixed,1.372604994038723
+report of the accidents,0.5
+that the amount,0.9585253456221199
+injuries with grave disfigurement fall,0.5
+element in an award,0.0
+england,0.9336071184120466
+courts,2.1216528162511543
+restriction,1.0123456790123457
+cases in which investment,0.5
+kemanu,1.0
+sight,0.6194871794871795
+legal representatives,4.111111111111111
+regard to the age,0.75
+fair guess-work,0.0
+certainty,0.8630136986301371
+amendment of claim petition,0.5
+possession of the claimant,0.5
+code,2.880559796437659
+beneficiaries,0.8333333333333334
+- term basi,0.0
+investments,1.7287581699346406
+lim poh choo v camden,1.5
+quantum of damages,2.6666666666666665
+reasons,1.3749054007567938
+such accident,0.30000000000000004
+which case,0.5512489233419466
+problem,0.6764352120789936
+future loss,0.5
+arm,0.9325525916287142
+employment,1.5239770785161355
+evidence on the additional issues,0.5
+huge withdrawal in the hope,0.0
+fetters,0.5
+road,1.0764686576960945
+ors,2.8612718198296623
+disfigurement,0.5
+part,5.294464509893076
+bombay,2.3134020618556703
+that the tribunals,0.75
+partial wreck,0.5
+aspect,1.2449448189023034
+lim,2.1791365531630995
+decisions,1.3888475974580996
+disease,0.6741573033707865
+fixed deposit,2.3333333333333335
+karnataka motor vehicles rules,1.0
+case in which investment,0.0
+unethical agreements,0.5
+multiple fractures,0.5
+trivandrum v susamma thomas,0.5
+other person,0.9635036496350365
+minor injuries,0.5
+manugjmanugj,1.0833333333333333
+determination,1.5980374665477253
+concerned insurer,0.5
+such classification,1.125
+wide discretion in the tribunal,0.5
+other specific part of the body,0.0
+settled rule,0.8571428571428571
+india insurance co,1.6
+code of civil procedure,5.5636363636363635
+useful guide,0.5
+paralysis,0.5555555555555556
+particular monetary loss,0.5
+parke,0.5412698412698412
+future earnings,1.6666666666666667
+effect,2.184583388478191
+second contention,0.6666666666666666
+minor attaining majority,0.5
+deposits,0.8739495798319328
+quarter,0.7884753275536145
+which investment,0.5
+disability,0.621301775147929
+category comprise of cases,0.0
+injured person,1.9090909090909092
+wrist,1.317117117117117
+parke b,0.5
+charles,0.3440366972477064
+soft tissues,0.5
+that award,1.2222222222222223
+reasonable view,0.4444444444444444
+injuries in the same limb,0.5
+consequence,0.8726692512593296
+representative,1.0617102796119673
+islington area health authority,1.0
+court in england,0.6666666666666666
+claim amount,0.6666666666666666
+pace,0.7438834429971801
+time payment of compensation,0.5
+estimate,1.0964912280701755
+motor vehicle accident,1.5
+complete incapacity for work,0.5
+mr pk,1.25
+permit in certain cases,0.5
+issue,2.766776251628934
+ajarambhai,0.5
+irregularity,2.0
+value of existence,0.5
+basi of fair guess - work,0.0
+cricket,0.6666666666666666
+tables,0.6402116402116402
+steeper fall,0.5
+motor claims case,0.5
+broken arm with the loss,0.5
+damage for loss,0.0
+loss of limbs,0.5
+safety of the compensation,0.5
+incapacity for work,0.5
+smaller injury,0.0
+grounds,0.9540208829455945
+bullock cart,1.3333333333333333
+trivandrum,1.3333333333333333
+conventional  figure,0.0
+cases of brain injuries,0.5
+- pecuniary damage of loss,0.0
+ground,1.4186722903211633
+such opportunity,0.8571428571428571
+damage,1.8281814532316336
+comparable case,0.5
+same limb,0.5
+inquiry under section,1.0
+liberty,0.7860465116279071
+conventional  figures,0.0
+figures,1.023593964334705
+leg,5.574082991234883
+incharge,1.0250000000000001
+paralysi,0.5555555555555556
+bones,0.4339622641509434
+traumatic amputation of leg,0.5
+heads,0.7896459995907509
+compensation for deprivation,0.5
+justify,0.6856026108075288
+determination of the question,0.8571428571428571
+claimed amount,0.6666666666666666
+summary procedure,1.0
+rao,0.9220020325203252
+suri,0.750382262996942
+los of earnings,0.0
+traumatic amputation,0.5
+mvc,0.27999999999999997
+employer s liability,0.0
+karnataka motor vehicles rates,0.5
+recording,1.3265454545454545
+complexities of the problem,0.5
+expression,1.7424391201885312
+that lump - sum compensation,0.0
+withdrawal of such amount,0.5
+production of certain certificates,0.5
+station,1.2515681586858238
+expenses of the victim,0.5
+the pecuniary los,1.0
+sangani,0.5
+transport,1.8361522198731504
+that the tribunal,2.3
+same time,0.6913511801045461
+annum,2.25
+work,2.8478559811646353
+los of future earnings,0.0
+non - pecuniary damage,0.0
+judgment unsound,0.5
+reasonable view of the case,0.5
+huge withdrawals in the hope,0.5
+punjab,1.0438169425511197
+fiscal background,0.5
+bullock,0.09271523178807947
+major injury in the same limb,0.0
+islington area,1.5
+part of the compensation amount,0.5
+union carbide corporation s case,0.0
+right foot,0.23333333333333334
+court dealt with similar contention,0.5
+brain injury,1.0
+pragjibhai,0.5
+reference to the relevant provisions,0.5
+that damage,0.30000000000000004
+relevant decision on the subject,0.0
+additional issue,1.5
+final award,1.05
+sons,2.7457346002031446
+regard to the first part,0.5
+time of passing,1.1428571428571428
+class of injury,0.5
+elements,0.676937441643324
+future medical expenses,2.5
+century,0.6548536209553157
+injury in the same limb,0.0
+tribunal in exceptional circumstances,0.5
+basis of evidence,1.125
+blindnes,0.45283018867924535
+major injuries,0.5
+manumhmanumh,1.4
+fair estimate,0.6666666666666666
+long term,0.5946428571428571
+chapter,1.3867471532446152
+vests,0.7007818052594171
+sort,0.7327002541370012
+corporation of greater bombay,1.2
+fix compensation,0.5
+aforesaid decision of the bombay high court,0.5
+loss of future earnings,1.0
+account,2.5754891049671977
+such report,1.0
+purchase,3.239871541501976
+incapacity,0.8888888888888888
+such classifications,0.5
+prayer,0.6969296987087519
+purpose,2.519170317925504
+trial court,3.854545454545455
+karnataka,3.8596491228070176
+compensation amount,1.75
+time,2.4764180952862667
+partial wreek  case,0.0
+identical loss today,0.5
+union carbide corporation v union,0.75
+way that comparable case,0.5
+sum of rs,2.125
+compensation for pain,0.5
+real fact,0.2857142857142857
+within thirty days from the date,1.2
+future los,0.5
+provisions of motor vehicles act,0.6666666666666666
+limit,2.3804570428443834
+empowers,0.8708708708708708
+broad classification,0.5
+purpose of the order,0.5
+prohibition,1.9087256027554533
+proved circumstance of a particular case,0.0
+conventional figures,1.0
+shape,0.4645522388059702
+case of literate persons,0.5
+type,0.8102172691515265
+counsel,2.2246780703440323
+other important part,0.5
+modification of rules,0.5
+great relevancy,0.5
+rules,3.130914366958792
+categories of general damages,0.5
+tune of rs,1.4285714285714286
+second category,0.5000000000000001
+loss of sight,0.5
+main head,0.5
+exceptional circumstance,1.8
+basis of fair guess - work,0.0
+further sum,0.8571428571428571
+injury to a victim,0.5
+smaller injuries,0.5
+eyes,0.4774823657080847
+expenses from the interest,0.5
+way that comparable cases,0.5
+son,4.595622484812135
+particular monetary los,0.5
+victim,1.204831365285174
+- for medical treatment,0.0
+monetary loss,1.0
+ruse,0.48571428571428565
+case,7.332269420884958
+error,1.059158294766151
+susamma,0.5
+example,0.5893965031020868
+healthy authority,0.5
+respondent to the application,0.0
+third head of damages,0.5
+injuries,2.4130008710801394
+mankind,0.4131455399061033
+future,0.9664487618116651
+burn,0.7334842304248335
+contention,1.666391070690368
+wahib,0.5
+inter alia,1.3280423280423281
+greater,0.592310772927513
+larger interest,1.0
+severe injury,0.5
+bench,2.5793391667754992
+airker,0.6666666666666666
+los of expectation,0.0
+guess work,0.4444444444444444
+office,3.5913445886237847
+nature of injury,0.6666666666666666
+enhanced compensation,2.0
+leave,1.0147842365477848
+entire body,0.5
+other specific part,0.5
+long-term basis,0.0
+quantum,0.8922235363690124
+body,1.336775463480009
+higher amount,0.7619047619047619
+notice,2.3300025999395686
+literate persons  compensation,0.0
+future earning,1.4000000000000001
+particulars of the claim,0.5
+figure,1.2881717501815544
+basi of evidence,0.0
+tissue,0.328125
+damages,1.7104072398190044
+necessary for the purpose,1.5
+amount under heads,0.0
+fresh award,1.0
+such element,0.75
+interest at the rate,2.3
+tribunals,2.527472527472528
+devki nandan bangur,0.5
+comprises,0.5714285714285714
+change of artificial leg,0.5
+haryana,2.935064935064935
+survive,0.5735785953177257
+fdr without the express permission,0.5
+long-term basi,0.0
+fourth category deal,0.5
+opposite parties,0.6666666666666666
+cart,0.7334963325183375
+sure that the amount,1.0
+just  compensation,0.0
+value,1.7137907830478438
+amounts under heads,0.5
+semi-literate person,0.0
+fetter on the power,1.0
+gujarat,3.2753623188405796
+conventional figure,1.0
+compensation by installments,0.5
+walker v john mclean,0.5
+classifications,0.5
+treatment in case,0.5
+licence,3.10964429776311
+corporation,3.6427750743444176
+window,0.4261536005109372
+condition that the bank,1.0
+third party,1.053291536050157
+applicable to such proceedings,0.5
+judges,2.0931496919173616
+on the basis of evidence,1.125
+severe brain injury,0.5
+clear in union carbide corporation,0.5
+hand,2.0299623418254717
+many cases,0.5184774575018478
+busines,2.8488759960122034
+courts tribunals,1.0
+agent duly,0.5
+literate person,1.3333333333333333
+appellant,14.387096774193548
+cause of action,2.1470588235294117
+inflation,0.7720588235294118
+expenditure,2.804307692307692
+only question,0.5172413793103449
+dollars,0.21756487025948104
+manager,1.7133044010756409
+civil court under the provisions,0.5
+injured persons,1.8888888888888888
+note on the fixed deposit receipt,0.5
+inconsistent cause,0.5
+eventuality,0.5864197530864198
+door,0.9196631033365728
+fourth category deal with minor injuries,0.0
+previous award,0.5
+regard to the second part,0.5
+motor vehicles,2.5142857142857147
+gujarat in dr,0.5
+reasonable estimate on the basis,0.5
+rate,3.088725136774248
+complexity of the problem,0.0
+sum lay,0.5
+tort-feasor,0.0
+consonance with the equity,0.5
+third head,0.6666666666666666
+judgment of the gujarat,0.5
+annuity office,0.5
+appellant mrs,0.5
+exceptional circumstances,1.8
+question of claim,0.5
+lilaben,0.5
+observations,0.7454584147497534
+basi of the evidence,0.0
+record justify,0.5
+more compensation,1.0
+date of the comparison,0.5
+multiple injuries,1.5
+doors,0.6724815724815726

@@ -1,0 +1,170 @@
+view in bangalore water supply,0.5
+chaturvedi,0.6666666666666666
+cost,1.2954397451466992
+scmanu,7.940520446096654
+research institute,0.6502463054187192
+medical science,0.20454545454545453
+writ,2.8882378560889794
+institute,0.9140980436760691
+valuable material service,0.5
+order in favour,1.6666666666666667
+viz,0.7732570026579433
+valuable material services,0.5
+labour court,8.363636363636363
+vii,1.26552423069836
+other decisions viz,0.5
+high,5.367119186841496
+the aiim,1.5
+certain other decisions viz,0.5
+v union,1.5773809523809523
+reason,2.6381270903010035
+court,12.24425115501509
+institutes,0.6052631578947368
+hence,1.1440732910500353
+hospitals,0.363677536231884
+the aiims,1.5
+union,2.0981927710843373
+sciences,0.6228274967574579
+training,2.5456213222568365
+workman,2.3486111111111114
+writ petition,6.24223602484472
+petition,5.3436539306104525
+ors,2.8612718198296623
+consideration,1.9110153789142115
+sewage,0.7500000000000001
+merit in the appeal,1.0833333333333333
+division,1.7657319129617017
+matter,2.8088923076923082
+hospital,1.3942768854411434
+backwages,0.6666666666666666
+training centres,0.3333333333333333
+material services,0.5
+v aim,0.5
+constitution bench,4.27536231884058
+daily wage,2.5
+air,2.0589664272145285
+board,2.401414435268602
+decisions,1.3888475974580996
+view,2.441100058469462
+sewage board v a rajappa,1.0
+decision,2.9514937765898557
+said,4.745510632356149
+aims,1.1816143115385926
+dispute in the matter,0.5
+industrial tribunal,6.3
+merit,1.2419290263876248
+bangalore water supply,1.0
+effect that hospital,0.5
+appeal,3.4125488033856883
+hereinafter,0.7670609645131939
+authority,2.4352627108360636
+facts of the case,1.161764705882353
+manuscmanusc,7.940520446096654
+material,1.4148767018946966
+material service,0.5
+division bench of the high court,1.6825396825396826
+daily wages,2.0
+counsel,2.2246780703440323
+industrial dispute in the matter,0.5
+court in certain other decisions viz,0.5
+termination,1.6799615488397193
+backwage,0.6666666666666666
+llj-,0.0
+award,3.104213525266157
+water supply,0.6944444444444444
+material services to the community,0.5
+india,2.7684068260703585
+respondent - raj singh,0.0
+training centre,0.3333333333333333
+authorities,1.266131845134287
+fact of the case,0.0
+judgment,3.288216560509554
+industrial,5.673304955913652
+driver in the aiims,0.5
+research,1.351044147915173
+decision of the constitution bench,1.2727272727272727
+appellant - all india institute,0.0
+services,1.6850241065659326
+research institutes,0.22727272727272727
+fact,3.6284951019474962
+order,5.472481489660944
+aiims,1.8333333333333333
+industrial disputes act,4.1875
+learned counsel,3.703333333333333
+act,12.870263922028107
+community,1.3158036677454152
+brief,0.540112172829248
+v aims,0.5
+aiim,1.1
+purview of section,1.75
+appellant - all india institute of medical sciences,0.0
+industrial dispute,7.611111111111111
+medical,1.633306645316253
+iii,1.5614499719992534
+centre,1.3584842944989197
+dispute,2.402137592137592
+centres,0.7857142857142857
+appellant,14.387096774193548
+effect,2.184583388478191
+impugned order,2.265957446808511
+issues in favour,0.5
+bangalore,1.2
+wage,1.5814065510597304
+writ petition before the high court,1.0
+matter in question,1.0
+high court,7.7477477477477485
+detail,0.9737454684220567
+parties,1.8210828547990157
+case,7.332269420884958
+lnind,1.5
+supply,2.0557395143487858
+section,9.287987283173626
+science,0.6879334257975034
+scc,1.941872465904902
+dr vp,0.5
+aim,2.7822546950944274
+court in bangalore water supply,0.6666666666666666
+question,2.980312372067635
+manu,7.078142071124147
+fact of this case,0.0
+constitution bench judgment,1.5384615384615385
+constitution,3.204842342342342
+party,2.2250894654439723
+water,0.9741079360379036
+-ii-llj-,0.0
+service without backwages,0.5
+valuable material services to the community,0.5
+details,0.9406426856198188
+disputes act,4.1875
+singh,3.7791111111111113
+valuable material service to the community,0.0
+issues,1.1246716508385532
+driver,0.8230211045255637
+service,4.257395095954566
+v union of india,2.381818181818182
+tribunal,5.07183212267958
+favour,1.653145208700764
+division bench,3.965217391304348
+constitution bench judgment of this court,0.75
+raj,1.3364194424876723
+service without backwage,0.5
+supra,2.246342614440774
+raj singh,1.8333333333333333
+chandra,0.7012987012987013
+bench,2.5793391667754992
+wages,1.2315068493150687
+issue in favour,0.75
+facts,1.4696673624372698
+-i-llj- to the effect that hospitals,0.0
+respondent,4.757894736842104
+issue,2.766776251628934
+medical sciences,0.3333333333333333
+effect that hospitals,0.5
+labour,2.5372960372960374
+costs,0.8167395522604189
+purview,1.0864197530864197
+matter as the issue,0.5
+rajappa,1.0
+material service to the community,0.0
+facts of this case,1.1923076923076923
+disputes,2.3049883690876194

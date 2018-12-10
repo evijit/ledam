@@ -1,0 +1,1093 @@
+incarceration after the expiry,0.5
+court in hussainara khatoon,0.6666666666666666
+pre,6.408342692122574
+backdrop,0.5833333333333334
+procrastination,0.25
+such trial,1.0
+government,3.5583785424010483
+imprisonment for a term,1.5
+convention on human rights,0.8
+director,1.3549769585253457
+other involved persons,0.5
+original suspension,0.5
+legal ground norms,0.5
+north,0.8632276384287743
+code,2.880559796437659
+heinous crimes,0.42857142857142855
+inextricable tenet of common law jurisprudence,0.0
+expiry,2.2888888888888888
+private lands in respect,0.5
+amendment right,0.2327586206896552
+shri abdul sayoom,0.5
+nolle persequi,0.5
+elaborate reasoning,0.5
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+question of prejudicial treatment,0.5
+occasions,0.7723557692307693
+in the circumstances,1.3584905660377358
+sanction for prosecution,1.75
+inextricable tenets of common law jurisprudence,0.5
+new proviso,0.5
+tribunal s view,0.0
+viz,0.7732570026579433
+revision,1.6299226441631505
+employee,6.280487804878048
+filing,1.1274190041313328
+reasons,1.3749054007567938
+abeyance stands,0.5
+reasoned order,0.9090909090909091
+terms,2.390350840909655
+matters,1.4810665618448637
+following word,0.6763636363636363
+inter,3.683850287482992
+renewal thereof,0.6666666666666666
+preservation,0.7312500000000001
+short duration,0.37037037037037035
+interest,2.74353772015385
+workload,0.8571428571428571
+court,12.24425115501509
+ignominy,0.6666666666666666
+ravi yashwant bhoir v district collector,0.5
+declaration,2.152560083594566
+which nocs,0.5
+consequent incarceration,0.5
+quintessence,0.4
+union,2.0981927710843373
+parliament,2.6571235781762095
+suspension order,2.0
+abeyance stand,0.5
+relief to the appellant,0.8
+salutary requirement,0.6666666666666666
+either party in good faith,0.5
+defence land,1.0
+objection,1.68120480131216
+administrative tribunal,3.8
+person,4.291511329454258
+delinquent officer  employee,0.0
+direct that the currency of a suspension order,0.5
+propositions,0.5238095238095238
+proviso to section,3.3181818181818183
+on the record,1.0000000000000002
+part,5.294464509893076
+use of nolle persequi,0.5
+litigation,1.4968553459119498
+in the circumstance,1.3584905660377358
+nothing,0.8658723322806009
+office-notes,0.0
+pronouncement,0.8197343453510436
+assumption of prejudice,0.5
+klapfer v state,0.5
+account of death,0.5
+ewell,0.6764260474507824
+shoulders,0.39215686274509803
+retirement,10.167032967032968
+reasonable procedure implicit,0.6666666666666666
+technical assistant,0.3333333333333333
+plea of denial,0.5
+series,0.4722257940079723
+number,1.4802651440973922
+shri,2.0759135877246115
+district,1.5506763074237984
+european,0.42142857142857143
+decision,2.9514937765898557
+inquiries,0.6559633027522935
+factual matrix,1.173913043478261
+other circumstances,0.6000000000000001
+possible prejudice,0.75
+prosecutions,0.6623376623376622
+consecutive periods,0.5
+situations,0.7435282837967402
+test,2.5329834591340266
+departmentaldisciplinary inquiries,0.5
+with delay,1.25
+staff,1.3233972834416785
+tenets of common law jurisprudence,0.5
+shoulder of the prosecution,0.0
+transfer,1.9975047057658015
+chargesheet,2.625
+appeal,3.4125488033856883
+determination,1.5980374665477253
+obligation,1.1071428571428574
+collector,1.8095238095238093
+office - note,0.0
+temporary in nature,0.5
+transfer thereof,0.5
+land,6.337534028705619
+third extension,0.5
+denial,0.8338926174496643
+abdul,1.5086206896551726
+correspondence,0.8633776091081593
+day with effect,0.0
+month,1.3454861111111112
+year,2.8349484769759212
+stage,1.1298537871524448
+alia,0.9479866480753792
+constitution bench in antulay,1.0
+parte,0.7168042010502624
+factors in mind,0.5
+obligations,0.9121212121212122
+j in us v,0.5
+judgment,3.288216560509554
+nature of offence,1.25
+such proceedings in high court,0.6666666666666666
+civil right,0.4844036697247707
+deserves mention,0.5
+weeks from today,1.2
+executive government,1.0
+decision-,0.0
+prevailing period,1.5
+guilt,1.1140207075064712
+sdo,0.45256916996047425
+constitutional guarantee,0.7999999999999999
+order,5.472481489660944
+doubt that speedy trial,0.6666666666666666
+delays,1.1
+memorandum of charges,3.0
+peace,1.1022222222222222
+duration,0.6373626373626373
+relevant factor,0.8663594470046083
+officer  employee,0.0
+effectuates,0.8333333333333334
+fortiori in departmental inquiries,0.5
+smt,0.7459757206267715
+right of speedy trial,1.0
+magna carta,1.0000000000000002
+that power,0.6764705882352942
+ingredients,0.7539893617021276
+guarantee,2.2562167724232554
+explanation,1.4510159010600707
+attendant circumstances,0.6666666666666666
+abeyance,0.6666666666666666
+legal expectation,0.5
+idea,0.5945499587118084
+period of suspension,1.0
+reasonable procedure implicit in article,0.6666666666666666
+above terms,0.9375
+relevant fact,0.9393939393939393
+effect,2.184583388478191
+antulay,7.0
+previous constitution benches,0.5
+abdul rehman antulay v rs,0.5
+noor,0.48979591836734687
+priority basis,1.0
+pendency,1.0084033613445378
+following proposition,0.75
+manner,1.4494591333432125
+finality,1.1746031746031746
+following pronouncement,0.5
+inordinate time for the inquisition,0.5
+stage of a criminal trial,0.5
+unconstitutional deprivation of rights,0.5
+unexplained delay in the conclusion,0.5
+balancing,0.875
+faith,0.6832428364066448
+commencement if the matter,0.5
+section,9.287987283173626
+contrary to the interests of justice,0.5
+supreme court of the united states,0.5
+memorandum of charges  chargesheet,0.0
+sixth amendment,3.7142857142857144
+incident,1.8609485257918057
+condition,2.259476395625584
+judgments,1.2355646397547266
+long period,0.6161971830985916
+court in terms,1.4
+reliance on this decision,0.5
+same pedestal,0.5
+consequence,0.8726692512593296
+private land in respect,0.0
+hussainara,1.6666666666666667
+america,0.9205946994182289
+quintessence of the proviso,0.5
+mala fide,1.75
+in the circumstance of the case,0.0
+misdemeanour,0.6666666666666666
+circumstance,1.429931390219372
+noor mohd,0.5
+present case,1.5611814345991561
+extract,0.7823518379594899
+universal,0.6125487415809996
+law jurisprudence,0.75
+investigation,1.6673076923076922
+regard,2.723310344827586
+reddy,0.7218614718614719
+abdul rehman antulay v r,0.5
+restricted view,0.5
+with delays,0.5
+context,0.9269383697813122
+promotion,2.946428571428571
+trial begin,0.5
+goyal manuscmanusc,0.5
+stage of investigation,1.0
+following words,0.6763636363636363
+knowledge,1.1120671641791045
+proces,1.627944583238701
+direction,1.8495050210098996
+prejudice,0.880907124598545
+judicial determination,1.0
+rights,1.6349541930937281
+perusal,0.750733137829912
+concerned officer,1.8571428571428572
+personal contact,0.5
+chandigarh,1.52
+high court entertains,0.6666666666666666
+sound,0.8535719072510389
+criminal prosecution,1.35
+union of india,3.1324503311258276
+action of the respondents,0.75
+facts,1.4696673624372698
+scorn,0.16164383561643836
+success,1.087615328288992
+making,1.409351874023649
+following propositions,0.6666666666666666
+series of judgments,0.5
+thereof,1.7897727272727273
+currency of a suspension order,0.5
+presumptive proof of prejudice,0.5
+unduly,0.7727272727272727
+violation of right,0.6666666666666666
+basi,2.0752712086391383
+justification,0.6859587020648967
+such other appropriate order,0.6666666666666666
+imposition,1.4444444444444444
+sixth,1.9999999999999996
+commence with delay,0.5
+principle of human dignity,0.5
+to judicial review,0.8
+such outer time - limit,0.0
+days,1.6721350893491447
+appellant on ravi yashwant bhoir v district collector,0.5
+home,0.9826663267907214
+shri vijay kumar,0.5
+private land,0.3636363636363636
+view of the stand,0.5
+expedition,0.4
+lie,2.828767123287671
+today,0.6330563683773655
+imposition of a limit,0.5
+plus point,0.5
+records,0.9879294336118848
+physical transfer thereof,0.5
+detention of an accused person,0.5
+cost,1.2954397451466992
+facts of the present case,1.24
+orders,1.4936359300077826
+acre,1.6948939682084037
+conviction,2.248165832071736
+basis,1.953226441078104
+anxiety,0.49259259259259264
+pendency of the inquiry,0.5
+mere non - asking,0.0
+true that the proviso to section,0.5
+procedure implicit,0.6666666666666666
+directions,1.5134125183504605
+court on numerous occasions,0.5
+attacks,0.65565749235474
+unconstitutional deprivation,0.5
+sub,7.816899313759727
+course,1.6545957498716626
+evident that reasons,0.5
+prior case law,0.5
+relevance,0.6870535714285714
+kaur,0.5
+criminal trial,0.8333333333333334
+that reason,0.5025536261491317
+magistrate,3.522077922077922
+charge,2.7679815308681284
+great detail,0.41481481481481486
+scorn of society,0.5
+grounds,0.9540208829455945
+guarantee of speedy trial,0.5
+fact that a speedy trial,0.5
+second extension,0.5
+concerned person to any department,0.5
+freedom,1.9254884143571103
+crime,1.6636528028933093
+hence,1.1440732910500353
+officer,3.1197242647058823
+amendment,2.2486412346818434
+defence estates,0.5
+towards delay,0.6666666666666666
+disappearance of evidence,1.3333333333333333
+charges,2.061307113938693
+ground,1.4186722903211633
+america guarantee,0.5
+success before the cat,0.5
+ability,2.0097418327420304
+white,0.5645371577574967
+succour of the appellant,0.5
+local conditions,0.45000000000000007
+essential part,0.673076923076923
+arguments,0.7212211466865226
+numerous occasion,0.3333333333333333
+possible in the circumstances,0.5
+reasons for the passing,0.5
+cbi,3.9568421052631577
+impugned judgment,2.0927152317880795
+insinuations,0.3333333333333333
+inquiry,1.3527272727272728
+liberty,0.7860465116279071
+large portion,0.2647058823529412
+matter,2.8088923076923082
+relation,1.397320207820618
+proof,1.0648141580366008
+impugned direction,1.5714285714285714
+concept,0.9402138540213855
+culmination,0.5555555555555556
+relevant factors,0.8608695652173913
+essential ingredient,0.8769230769230769
+scrutiny,0.912987012987013
+restraint,0.539491298527443
+article,4.378806157159795
+division bench in raghubir singh v state,0.5
+relief on that account,0.6666666666666666
+stay,0.7804272356384462
+prosecution in klapfer v state,0.5
+criminal,3.301971081989414
+hearing within a reasonable time,0.5
+term,3.6255105640901575
+long delayed trial,0.5
+workload of the court,0.6666666666666666
+european convention,0.5555555555555556
+spite,0.8919640378414163
+view,2.441100058469462
+fixed time,0.4
+rationale,0.6017094017094018
+case law,0.5357142857142857
+appropriate order,1.565217391304348
+orderly expedition,0.5
+ingredient,1.2242798353909468
+relief,1.4748116760828625
+america guarantees,0.5
+investigation of the cbi,0.5
+radhakishan,0.5
+writ petition before the delhi,0.6666666666666666
+use,5.06801278974993
+fact of incarceration,0.5
+trial within a fixed time,0.6666666666666666
+fundamental right under article,1.625
+departmentaldisciplinary proceedings,0.5
+disciplinary proceedings,1.5
+hussainara khatoon,1.6666666666666667
+v home secretary,0.8
+assistant,1.6732837055417698
+witness,5.333906623599983
+united states of america guarantees,0.5
+united state,0.5525959367945824
+expeditious trial,1.25
+result,1.3356630184144715
+criminal prosecution in klapfer v state,0.5
+delay,1.9544910179640715
+carolina,0.19545454545454544
+availability,0.6313043478260868
+persecution,0.3838383838383838
+bihar,4.587301587301587
+record,2.5393414390845273
+union of india v dipak mali manuscmanusc,0.5
+other appropriate order,0.6666666666666666
+general defence estates,0.5
+procedure,2.552771605064117
+public hearing within a reasonable time,0.5
+albeit,0.4451612903225806
+first question,0.5
+excruciation,0.5
+defence,1.3606588776096535
+subject land,0.5
+everyone,0.6963340891912321
+right to the protection,0.5
+november,0.7203359669727383
+various litigation,0.5
+secretary,0.9217877094972067
+guideline,1.5641711229946524
+office - notes,0.0
+kartar,1.25
+support,0.8630946786249609
+wall,0.8333770549143058
+parameter,0.7630669107179174
+mere fact,0.6
+incorrect nocs,0.5
+vikramajit sen,0.8
+solicitor,1.7073170731707317
+respect,2.6704963235294117
+effectuate,1.1818181818181819
+state of america guarantees,0.0
+outer time - limit in spite,0.0
+suspension orders in cases,0.5
+fact,3.6284951019474962
+departmental inquiries,0.5
+estate,1.9402985074626868
+learned counsel,3.703333333333333
+raigad,2.25
+ldc,1.5616810482582293
+sukhendar,0.5
+second sub article,0.5
+departmentaldisciplinary proceeding,0.5
+bihar manuscmanusc,1.9655172413793103
+shoulders of the prosecution,0.6666666666666666
+department,1.9858367499068206
+interests,1.0562317935913441
+lies,1.1651128135567317
+station,1.2515681586858238
+reasoning,0.6478937381404174
+view of the above discussion,0.6666666666666666
+acres of land,1.857142857142857
+criminal procedure,6.406779661016949
+view of the following pronouncement,0.5
+mere fact that an application  petition,0.0
+consistent with delays,0.5
+first time,0.7741935483870968
+that-,0.0
+kumar,2.028839704896043
+demand,1.5671679197994988
+admitted facts,0.8888888888888888
+presumption,1.06
+same time,0.6913511801045461
+stand,1.8422769621739425
+norms,1.1693121693121695
+personal freedom,0.3466666666666666
+speedy,1.5434042553191487
+solicitor general,1.7368421052631577
+conclusion of the high court,0.8888888888888888
+in article,1.519228804902962
+other word,0.758838674565131
+sen,4.021152898608279
+senior counsel for the appellant,1.7142857142857142
+system,1.1230229504341178
+that a person,0.625
+responsible for the delay,0.75
+ignominy of insinuations,0.5
+mali,0.7189715246906163
+protracted periods of suspension,0.5
+additional,1.4256530253244384
+doubt,1.3646267723102583
+mohd,1.75
+fortiori suspension,0.5
+tenet of common law jurisprudence,0.0
+nature of the offence,1.0
+mere speed,0.5
+punjab manuscmanusc,1.625
+years,2.5395804110508022
+exercise,1.9400726466785694
+making of the office - notes,0.0
+report,1.7768151696835826
+punjab,1.0438169425511197
+time - limit,0.0
+high court entertain,0.75
+protection,1.1604395604395603
+factor in mind,0.0
+handling,1.5728328865058085
+code of criminal procedure,6.120689655172414
+pendency of the proceedings,0.8333333333333334
+trial begins,0.5
+principle,1.9620890732001848
+paragraphs,0.9552238805970149
+punjab v chaman,0.5
+circle,1.211299866386715
+party,2.2250894654439723
+necessary that a person,0.6666666666666666
+review,1.3564101463582128
+criminal investigation,0.5714285714285714
+subordinate staff of sdos  technical officer,0.0
+delhi,2.6089285714285717
+contact,0.771807140228193
+india v dipak mali manuscmanusc,0.5
+judicial scrutiny,1.375
+proposition,0.6371087928464977
+factor,1.2878742338904643
+legal ground norm,0.5
+large portion of the land,0.5
+present at every stage of a criminal trial,0.5
+commencement,1.2037037037037035
+justice,2.292557084574302
+raghubir,1.625
+reason for the passing,0.0
+lapse,0.9238095238095239
+days with effect,2.3333333333333335
+state of bihar,2.5918367346938775
+revenue,1.486701237872198
+lands,1.3404179836160743
+punitive in nature,0.5
+interest of the government,0.5
+sophist,0.2292682926829268
+punishable with death,1.25
+persequi,0.5
+inspection,0.8496732026143791
+suspension of the appellant,0.5
+other offence,1.3076923076923077
+v state,2.4603773584905664
+barker,0.15
+to the interest of justice,0.0
+proceedings on the grounds,0.5
+offices,0.6871508379888269
+division bench,3.965217391304348
+date,6.195616975795285
+relevant files,0.38095238095238093
+fides,0.6470588235294118
+european convention on human rights,0.8
+liberty by imprisonment,0.5
+september,0.8548484848484849
+appellant after the expiry,0.5
+consequence if a person,0.5
+society,2.1182859399684046
+person to any department,0.5
+stages,0.7858851674641147
+offence,4.401610644257703
+in nature,0.7593052109181141
+hearing,0.9644508209787979
+respondent,4.757894736842104
+directive,0.621951219512195
+state of punjab v chaman,0.5
+subordinate staff,0.6666666666666666
+goyal,0.296875
+day,1.550999710228919
+denial of right,1.1111111111111112
+estates,0.9166666666666666
+question,2.980312372067635
+extension,0.7526908023483366
+time limits,0.9722222222222222
+frivolous proceedings,0.5
+benches,1.1746031746031744
+vocation,0.9547945205479451
+yashwant,0.6666666666666666
+protracted periods,0.5
+original records,0.6666666666666666
+in the circumstances of the case,1.0
+mala,0.727137439393212
+government s power,0.0
+rehman,1.1666666666666667
+such outer limit,0.6666666666666666
+acre of land,0.0
+approach,1.001908852302553
+scmanu,7.940520446096654
+word,2.065873981084096
+writ,2.8882378560889794
+central vigilance commission,1.0
+such proceedings,1.0
+extensions,0.2712765957446809
+months,1.1938163721148947
+known defence,0.5
+other words,0.7578482137053969
+parameter wall,0.5
+only course,0.75
+protracted period of suspension,0.0
+grave,0.5757518081461743
+appellant in the central administrative tribunal,0.5
+united,0.7052854122621566
+accused person,4.565217391304348
+notes,0.6013642564802183
+long delay,0.7500000000000001
+supreme court,1.4278957326045825
+barke,0.48611111111111116
+defence estate,1.0
+expectation,0.8103813559322035
+court in state,1.5909090909090908
+accompaniment,0.6666666666666666
+obligation of the state,0.8
+practical approach,0.5
+court at the behest,0.5
+acres,1.8522588522588521
+us v,0.5281006904990821
+high,5.367119186841496
+unexplained delay,1.0
+support from the observations,0.6666666666666666
+fair,1.333141121131062
+deprivation,0.75
+indiscretion,0.2
+natural justice,2.6666666666666665
+account,2.5754891049671977
+right to a speedy,1.6666666666666667
+trial begins with the actual restraint,0.5
+gupta,0.7610062893081762
+file,1.3720673638585223
+vide letter,2.142857142857143
+pedestal,0.5
+force,1.6009408121948314
+human right,1.1211406518010292
+several relevant factors,1.0
+states,1.5120646995827023
+proviso,2.112
+parameter wall of the air force station,0.5
+commence,1.2515644555694618
+interference,0.5733527484528578
+general defence estate,0.5
+law,3.538923411654744
+non-availability of witnesses,0.0
+fast rules,1.0
+outer limit,2.0
+subject to judicial review,0.6666666666666666
+formulation of charges,0.5
+assumption,0.47735650342285413
+observation,0.7625074854374218
+preservation of human dignity,0.5
+appropriate orders,1.2666666666666666
+whatever reason,0.463768115942029
+time,2.4764180952862667
+cases,1.9728229418951067
+central government,3.0380952380952384
+division,1.7657319129617017
+treatment,1.1351020408163266
+arbitrary interference,0.6666666666666666
+tenet,0.8018867924528303
+succour,0.5
+issuance,1.05379513633014
+criminal offence,1.0666666666666667
+nocs,1.0
+fast rule,0.5798816568047337
+matrix,0.46733812949640285
+constitution bench,4.27536231884058
+unduly long period of time,0.5
+inspection of the records,0.5
+non-availability,0.0
+exceptional nature,1.0
+duty of the court,1.55
+powell,0.22033898305084745
+- availability,0.0
+case in hand,2.1
+raghubir singh v state,0.5
+klapfer,0.5
+lapse of time,1.1
+complaint,2.734525785235724
+speedy trial,11.5
+arise,1.1675508399646328
+files,0.30946919393134537
+relevant file,0.38095238095238093
+procedure implicit in article,0.6666666666666666
+limit,2.3804570428443834
+executive,1.3789130780232004
+portion of the land,0.8
+drawing,0.648159645232816
+case of grave,0.75
+criminal prosecutions,0.6666666666666666
+trial from the point,0.5
+chargesheet within a time,0.5
+cat,5.965184298874564
+right,3.07483248288682
+fourth extension,1.0
+stays,0.3209876543209877
+prosecution,4.619407894736842
+time for the inquisition,0.5
+constitution bench of this court,1.2647058823529411
+application  petition,0.0
+result of a long delayed trial,0.5
+nayak manuscmanusc,0.5
+torment,0.27999999999999997
+contemplation of a departmental inquiry,0.5
+usa,0.9416563489832968
+offences,1.6681887366818873
+learned senior counsel,3.4615384615384617
+chargeschargesheet,1.5
+exception,1.1036946087733006
+imprisonment,1.4344262295081966
+ground norms,0.5
+raigad manuscmanusc,0.5
+public interest,2.380434782608696
+common law jurisprudence,0.6666666666666666
+counsel,2.2246780703440323
+tactics,0.4837209302325581
+application,2.3322596088086445
+tactic,0.5601325757575758
+limits,0.8405888207868406
+charge memo,1.0
+delay in the conclusion,0.5
+imprisonment for life,1.7142857142857142
+india,2.7684068260703585
+commission,4.703619179345321
+witnesses,3.359210526315789
+rules,3.130914366958792
+involved persons,0.5
+alse general,0.0
+renewal,1.090909090909091
+jurisprudence,1.088888888888889
+indefinite,0.5740259740259741
+selective suspension,0.5
+such matter,0.645933014354067
+partial relief to the appellant,0.5
+ravi,0.8149008572737387
+defence lands,1.0
+gupta v union,0.8
+nolle,0.5
+perspective,0.5639060811474604
+mistake,0.6870879120879121
+contemplation,0.6753246753246753
+issuance of the nocs,0.5
+formulation,2.2418478260869565
+numerous occasions,0.3333333333333333
+sub article,0.6666666666666666
+mention,1.6248742837095076
+attack,1.0505713076597545
+accompaniment to retirement,0.5
+evidence,3.6676405172088815
+document,1.401100265092073
+worry,0.3052749719416386
+substitution,0.5932203389830508
+frivolous proceeding,0.5
+n radhakishan manuscmanusc,0.5
+noc,1.910971782627438
+diligence,0.9876543209876543
+conditions,1.9988092071092867
+decision of this court,2.3260869565217392
+involved person,0.5
+legal expectation of expedition,0.5
+interest of the prosecution,0.5
+united states,0.5498850574712644
+reliance,1.400763358778626
+shri noor mohd,0.5
+fact that an application  petition,0.0
+crimes,0.7056429734129138
+derision,0.2777777777777778
+carta,0.9259259259259259
+quick trial,0.6666666666666666
+vigilance,0.75
+detail,0.9737454684220567
+sdos,0.11917701863354037
+circumstance of the case,0.5
+postponement,0.75
+fourth suspension,0.5
+case,7.332269420884958
+period,1.9480170842427122
+actual restraint,0.5
+right to a speedy trial,2.0
+continued suspension in any manner,0.5
+court entertain,1.0833333333333333
+scc,1.941872465904902
+offence till,0.5
+challenge to these extensions,0.5
+expiry of the similar period,0.5
+vijay,0.404040404040404
+right under article,1.8
+constitution,3.204842342342342
+letter,2.707240080105903
+vikramajit,0.8
+such matters,0.672514619883041
+kartar singh v state of punjab manuscmanusc,1.0
+authority possessing,1.0
+factors,0.9829522460542292
+sixth amendment to the constitution,0.5
+fide,0.8955057484612704
+further period,1.2
+convention,0.8756516211061666
+ex parte representation,0.5
+amendment to the constitution,0.2962962962962963
+similar vein the sixth amendment to the constitution,0.5
+singh,3.7791111111111113
+previous constitution bench,0.5
+equitable in the circumstances of the case,0.6666666666666666
+furthermore,0.9849537037037037
+insinuation,0.30000000000000004
+magna,0.5818181818181818
+amendment right to a speedy trial,0.5
+land in respect,0.6666666666666666
+service,4.257395095954566
+undue delay,1.0
+portion,1.0756311179804223
+time limit,0.9444444444444444
+periods,0.8597883597883598
+judiciary,1.5942028985507246
+contention,1.666391070690368
+shoulder,0.665948275862069
+v state of ap,1.0
+central administrative tribunal,1.8333333333333333
+inter alia,1.3280423280423281
+criminal charge,0.4615384615384615
+rule,5.04
+proceedings,1.7670925223666287
+favour,1.653145208700764
+available on the record,0.75
+directive of the central vigilance commission,0.5
+order of stay,0.875
+reckoning,0.7000000000000001
+jammu,4.705882352941177
+impugned directions,1.0
+constitution bench in abdul rehman antulay v rs,0.5
+disciplinary inquiries,0.5
+commission of the offence till,0.5
+speed,1.9085752419085753
+staff of sdos  technical officer,0.0
+substitution of a judicial determination,1.0
+revenue records as defence lands,0.5
+duty,3.2272215973003378
+bench,2.5793391667754992
+amarjit kaur,0.5
+human dignity,0.5714285714285714
+violation,1.2087401208740118
+other involved person,0.5
+to the court,0.6363636363636364
+deprivation of rights,0.6666666666666666
+office,3.5913445886237847
+revenue records as defence land,0.5
+detention,1.326530612244898
+respondents,2.6341263330598856
+implicit in article,1.0
+leave,1.0147842365477848
+liberty guaranteed,0.8
+costs,0.8167395522604189
+for the delay,0.6000000000000001
+disappearance,0.75
+reliance of learned senior counsel,0.5
+essential part of the fundamental right,1.25
+court decision,0.2142857142857143
+extension of suspension,0.5
+delay from the time,0.5
+burden,0.9853978671041838
+guarantee of right,1.0
+point,2.9165043546008516
+vein,0.3161094224924012
+process,1.6274942048088725
+behest,0.6666666666666666
+avoidable delay from the time,0.5
+khatoon,1.9
+local condition,0.45000000000000007
+remand,1.08843537414966
+india manuscmanusc,1.8333333333333333
+above term,0.9375
+such rule,0.6095238095238095
+inextricable tenets,0.5
+avail,1.1343021914648213
+power,3.8165227690948367
+privacy,0.9812310030395137
+lands in respect,0.5
+public hearing,0.5249999999999999
+such outer time - limit in spite,0.0
+prosecution become persecution,0.5
+sentence,2.3896654193264366
+concerns,0.9134645423305218
+avail since the salutary requirement,0.5
+priority,0.7086614173228346
+order of suspension,2.0
+inextricable tenet,0.5
+chandigarh bench,1.0
+lal,1.6786163249382287
+disturbance,0.5303030303030303
+office-note,0.0
+arrest,1.391895003453834
+essential ingredients,1.0
+week from today,0.75
+proof that the proceeding,0.5
+case whether the right,0.6666666666666666
+reason,2.6381270903010035
+sixth amendment right,0.5
+declaration of human rights,0.6666666666666666
+amarjit,0.6666666666666666
+suspension of an employee,0.5
+revenue record,0.8333333333333334
+mere non - asking for a speedy trial,0.0
+constitution benches,1.0
+life,1.3352928273744242
+that account,0.5555555555555556
+one,4.845669314438648
+writ petition,6.24223602484472
+petition,5.3436539306104525
+direction of the central vigilance commission,0.5
+guidelines,1.540251572327044
+which date,0.7407407407407408
+succes,1.0899488286934886
+vigilance commission,1.0
+haryana,2.935064935064935
+expense,1.4186440677966103
+human,1.0063526196524266
+ground norm,0.5
+sukhendar reddy,0.5
+suspension order in cases,0.0
+paragraph,1.2930197483150305
+proceedings in high court,0.6666666666666666
+writ court,1.4285714285714286
+memorandum,1.2142857142857144
+departmental proceedings,2.5714285714285716
+law against such interference,0.5
+words,1.6384367086179112
+extant suspension order,0.5
+that the proviso to section,0.8
+plea,1.4430487701432178
+filing of the appeal,0.75
+documents,1.142515923566879
+passing,0.8851858023662723
+prejudicial treatment,0.5
+relevance of demand rule,0.5
+original record,0.6666666666666666
+honour,0.8173913043478261
+air,2.0589664272145285
+pedantic one,0.5
+j in barke,0.5
+appellant s suspension,0.0
+expiry of the fourth extension,0.5
+reply,1.0337305560040906
+united state of america guarantees,0.0
+first time for a further period,0.5
+proceeding,2.1298245614035087
+indeterminate period,0.5
+additional solicitor general,2.5
+report of the cbi,0.5
+superior court,0.7222222222222222
+omnipresent postponement,0.5
+demand  rule,0.0
+such interference,0.5
+court entertains,0.8
+case of complaint,0.6666666666666666
+kashmir circle,0.5
+family,1.856281506375408
+challenge,1.2204566274399267
+continued suspension,0.5
+departmental proceeding,2.625
+authority,2.4352627108360636
+death,2.361592909460208
+manuscmanusc,7.940520446096654
+departmentaldisciplinary inquiry,0.0
+relation to an incident,0.5
+other circumstance,0.6600000000000001
+pre-conviction detention,0.0
+substance,0.8230581678857541
+fortiori,0.6666666666666666
+particular case,0.4358974358974359
+such proceeding,1.0
+above discussion,0.9333333333333333
+incorrect noc,0.5
+prolonged investigation,0.5
+argument,0.9504580388560493
+interests of justice,1.2
+suspension orders,0.5
+partial relief,0.5
+impairment,0.25
+systemic delay,1.0
+dipak,1.0
+concept of speedy trial,0.5
+conclusion,1.3883437407077015
+with death,0.6282051282051282
+weeks,0.8109161793372318
+sdostechnical officer,0.5
+supervision,2.825
+innocence,0.8135593220338982
+reasonable time,0.7142857142857143
+impairment of the ability,0.5
+systemic delays,1.0
+advantage,1.1441364159430905
+states of america guarantees,0.5
+mala fides,1.3333333333333333
+counsel for the appellant,1.9621212121212122
+background,0.6800452488687784
+proof of prejudice,0.5
+currency,0.9166666666666669
+air force station,0.4444444444444444
+circumstances of the case,1.3373493975903614
+interest of justice,1.2
+ambala,1.4
+fact of the present case,0.6666666666666666
+hand,2.0299623418254717
+public trial,0.30000000000000004
+kartar singh v state,1.0
+evident that reason,0.5
+appellant before the expiry,0.5
+implicit,0.6112637362637362
+iii,1.5614499719992534
+norm,1.1955826794536473
+several relevant factor,1.0
+suspension,1.9622093023255813
+occasion,0.7946745562130177
+no doubt,0.8331331503088538
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+sayoom,0.5
+either party,1.55
+third extension of the appellant,0.5
+presumptive proof,0.5
+departmental,1.9682539682539684
+power of the magistrate,0.5
+human rights,0.9865951742627346
+priority basi,1.0
+week,0.8253498691546249
+supreme,1.443815331010453
+sixth amendment right to a speedy trial,0.5
+vein the sixth amendment to the constitution,0.5
+disciplinary inquiry,0.5
+tenure,2.0160000000000005
+requirement,1.2416133333333332
+which noc,0.5
+incarceration,0.6461538461538461
+cantt,0.3466666666666666
+suspended person,1.0
+high court,7.7477477477477485
+revenue records,0.8
+deo,2.0342135354743927
+foul of article,0.8
+that investigation,0.5
+iniquity,0.13559322033898305
+open to the court,0.9
+learned counsel for the appellant,1.7884615384615385
+memo,1.4242074188165834
+sanction,2.0167207792207793
+state,6.817996007300392
+factors--balancing,0.0
+court of the united states,0.5
+inordinate time,0.5
+technical,1.1097902097902097
+similar period,0.5
+note,1.3654108484234107
+civil rights,0.4915514592933947
+dignity,0.5529953917050692
+representation,1.2338308457711442
+non - asking for a speedy trial,0.0
+trial,3.7979448350459712
+inquisition,0.23076923076923073
+judicial review,2.64
+manu,7.078142071124147
+trial begin with the actual restraint,0.0
+period of remand,0.5
+general,1.7536558414534391
+concern,2.0544958000579303
+central,2.61875
+part of the fundamental right,1.25
+good faith,0.8046647230320698
+reputation,0.7215189873417721
+chaman,1.0
+backdrop of the admitted facts,0.5
+time for a further period,0.5
+man,6.972395052694935
+presumption of innocence,1.1111111111111112
+nature,1.4149926876444778
+discussion,0.7445831166579996
+foul,0.34772182254196643
+unduly long period,0.5
+departmental inquiry,1.0
+fundamental right,2.9790209790209787
+admitted fact,1.3076923076923077
+tribunal,5.07183212267958
+demand rule,1.0
+constitutional guarantee of speedy trial,0.5
+heinous crime,0.6818181818181818
+reasonable period,1.4285714285714286
+expectation of expedition,0.5
+extension of the suspension,0.5
+situation,1.1254754682459434
+private lands,0.5
+extension of the appellant,0.5
+unduly long incarceration,0.5
+time bound manner,1.0
+concerned person,0.5
+observations,0.7454584147497534
+consecutive period,0.5
+nayak,0.7407407407407408
+universal declaration,0.6000000000000001
+attention,0.8724846605528799
+attendant circumstance,0.6666666666666666
+social interest,0.75
+administrative,1.85302734375
+action,3.127292663476874
+non - asking,0.0
+that reasons,0.4444444444444444
+defence estate officer,0.5
+bhoir,0.5
+senior counsel,2.2857142857142856
+time - limit for trial,0.0
+kashmir,2.6608187134502925
+- availability of witnesses,0.0
+outer time - limit,0.0
+tenets,0.7777777777777778
+protracted period,0.5
+disciplinary proceeding,1.6428571428571428
+persons,2.5993381990166555
+avoidable delay,0.75
+universal declaration of human rights,0.6666666666666666
+same idea,0.3555555555555555
+succes before the cat,0.0
+high court decision,0.5
+to the interests of justice,0.5

@@ -1,0 +1,310 @@
+october,0.9478375701551667
+ramana,0.8104575163398693
+opportunities,0.5793650793650793
+senior,1.989753211141579
+alteration,1.2619047619047619
+deposition,1.534
+question relate,0.30000000000000004
+council,1.464939453675021
+denial of bail,0.6666666666666666
+other name,0.4310344827586207
+today,0.6330563683773655
+submits,2.1733333333333333
+witnesses in the charge-sheet,0.0
+orders,1.4936359300077826
+opportunities to the prosecution,0.5
+honble,2.4444444444444446
+appeals,1.7060218112849692
+girish malik as vital witness,0.5
+further application,0.6666666666666666
+months,1.1938163721148947
+framing,1.0965593784683685
+scam in the state,0.5
+needful within the time,0.5
+frame,1.023976722714937
+manvendra,2.0
+statement,2.5393160135035964
+central bureau of investigation,1.0769230769230769
+single witness,1.0
+accused person,4.565217391304348
+girish malik prosecution witnesses,0.5
+that the completion of trial,0.5
+completion of the period,0.5
+filing,1.1274190041313328
+sections,1.640495469442838
+name,1.8996570753072433
+further with the recording of the evidence,0.5
+examination,2.4920345926263088
+charge,2.7679815308681284
+bail bond,0.9090909090909091
+witnesses against the accused person,0.5
+high,5.367119186841496
+bureau of investigation,0.5647058823529412
+under section,5.374517374517374
+cases in question relate,0.5
+accused persons in rc,0.5
+large that the completion of trial,0.5
+case in question relate,0.0
+progress,1.075925925925926
+reason,2.6381270903010035
+court,12.24425115501509
+default on the part,0.6666666666666666
+custody,1.4166666666666667
+state council,2.8
+charges,2.061307113938693
+malik as vital witnesses,0.5
+enlargement,0.6060606060606061
+other case,0.6654088050314465
+ground,1.4186722903211633
+nv ramana,0.8
+bond,0.7394882659713169
+time frame,0.5263157894736842
+prayer,0.6969296987087519
+person,4.291511329454258
+depositions of the vital witnesses,0.5
+opportunity,0.946186440677966
+asg,1.333279948750801
+different cases,1.0
+trial court,3.854545454545455
+way,1.7812722068664852
+several others,0.41379310344827586
+behalf,1.9888053603529987
+bail,2.0427807486631013
+consideration,1.9110153789142115
+vital witness,2.3333333333333335
+whatever reason,0.463768115942029
+common ground that the appellant,0.5
+gopal,1.1610169491525424
+modification alteration,0.6666666666666666
+part,5.294464509893076
+matter,2.8088923076923082
+fault of the prosecution,0.5
+cases,1.9728229418951067
+time,2.4764180952862667
+opportunity to the prosecution,0.5
+malik as vital witness,0.5
+common ground,0.5454545454545454
+punishable under sections,1.6153846153846154
+eou-iv,0.0
+plea,1.4430487701432178
+grant of bail,1.3333333333333333
+prayer for bail,1.5
+called vital witness,1.0
+direct release,0.5
+prayer for grant,0.6666666666666666
+behalf of the appellant,1.4878048780487805
+true that this court,0.75
+appellant on bail,1.5
+number,1.4802651440973922
+others,0.9074667328904616
+view,2.441100058469462
+witnesses in this case,0.75
+malik prosecution witnesses,0.5
+above background,0.8
+girish malik,5.0
+strike at the bar,0.5
+girish malik pw,0.5
+dr am singhvi,1.3333333333333333
+above background that the appellant,0.5
+grant,1.7314487632508835
+prevention,0.6124072110286319
+star,0.8866002844950213
+instructions,1.8111673678956002
+ministers,0.7142857142857143
+witnesses against the accused persons,0.5
+ground that the appellant,1.0
+addition,1.5588539142412572
+appeal,3.4125488033856883
+depositions,1.0
+witness,5.333906623599983
+important witnesses,0.6666666666666666
+such condition,0.6407322654462243
+sufficient opportunities to the prosecution,0.5
+prosecution,4.619407894736842
+star witness,1.0
+further application that any accused person,0.5
+delay,1.9544910179640715
+sheet,1.1667364016736401
+fact that the appellant,1.05
+judge,2.9012627415183325
+girish,2.0
+appellant by default,0.5
+other names to the list,0.5
+that the pendency of the application,0.5
+denial,0.8338926174496643
+enlargement of the appellant,0.5
+offences,1.6681887366818873
+single witnes,1.0
+corruption,0.9432672590567327
+counsel,2.2246780703440323
+other names,0.30000000000000004
+month,1.3454861111111112
+sufficient opportunities,0.5
+year,2.8349484769759212
+application,2.3322596088086445
+support,0.8630946786249609
+that the number of witnesses,0.5
+release,0.9830403257846643
+witnesses,3.359210526315789
+mr kv,0.5
+name to the list,0.0
+plea for bail,0.6666666666666666
+other witnes,0.7222222222222222
+other name to the list,0.0
+final opportunity,0.5
+strike,0.6155419222903886
+anxious consideration,0.875
+charge-sheet,0.0
+subject to the condition that the trial court,0.5
+fact,3.6284951019474962
+order,5.472481489660944
+names,1.766440410418311
+several other,0.6252100840336134
+vital witnesses,2.5
+background,0.6800452488687784
+pendency of the application,0.6666666666666666
+learned counsel,3.703333333333333
+act,12.870263922028107
+accused person in rc,0.0
+recording,1.3265454545454545
+important witness,0.75
+direction from this court,0.6666666666666666
+adjournment,2.4166666666666665
+scam,2.498422712933754
+mr singh,1.6
+such conditions as the court,0.6666666666666666
+other bench,0.5714285714285714
+subramaniam,0.8333333333333334
+months from the date,1.3333333333333333
+learned counsel for the parties,1.263157894736842
+under sections,2.1931818181818183
+explanation,1.4510159010600707
+honble js,0.5
+sufficient opportunity,0.8
+application for modification alteration,0.5
+gopal subramaniam,0.5
+dispute,2.402137592137592
+disposal,1.1180555555555556
+present for examination before the trial court,0.5
+submission,1.0913871684001404
+evidence,3.6676405172088815
+release of the appellant,0.5
+appellant,14.387096774193548
+accused persons,7.048780487804878
+corruption act,1.75
+circumstances,1.3944461370073231
+deposition of the vital witnesses,0.0
+other witnesses,0.7
+attributable to the appellant,0.5
+conditions,1.9988092071092867
+completion,1.1868131868131868
+witnes,5.333906623599983
+pendency,1.0084033613445378
+crl,0.6431123461691147
+list,4.014941314095513
+that direction,0.44117647058823534
+incarceration,0.6461538461538461
+examination of the witnesses,1.2
+consideration to the submission,0.75
+mr singh today,0.5
+modification,0.9714977645305514
+high court,7.7477477477477485
+manvendra chadha,1.5
+viswanathan,1.0
+names to the list,0.5
+maninder,0.8
+parties,1.8210828547990157
+state,6.817996007300392
+case,7.332269420884958
+period,1.9480170842427122
+bail bonds,0.9
+bar,1.4720990391722097
+clear that the pendency of the application,0.5
+other witness,0.7222222222222222
+years,2.5395804110508022
+recording of the evidence,1.0
+section,9.287987283173626
+charge - sheet,0.0
+girish malik within a period,0.5
+trial,3.7979448350459712
+that this court,1.3653846153846154
+needful,0.5625
+amit chandha,0.5
+question,2.980312372067635
+bureau,0.5022321428571429
+few year,0.5598715890850722
+completion of trial,0.6666666666666666
+chadha,1.25
+submit,2.197409354703731
+central,2.61875
+examination before the trial court,0.5
+mr maninder,0.8
+party,2.2250894654439723
+khehar,1.0
+girish malik prosecution witness,0.5
+condition,2.259476395625584
+condition that the trial court,0.5
+conditions as the court,0.6666666666666666
+filing of the charge - sheet,0.0
+few years,0.5598715890850722
+different case,1.0
+singh,3.7791111111111113
+progress at the trial,0.5
+to the appellant,2.239669421487603
+dates,2.6187832912811886
+minister in the state council,0.5
+such witness,0.7000000000000001
+instruction,1.8197943962910703
+circumstance,1.429931390219372
+anxious consideration to the submission,0.5
+framing of charges,1.0
+for examination before the trial court,0.5
+appellant herein,2.046153846153846
+evident that the number of witnesses,0.5
+witness in this case,0.5
+that fact situation,0.5
+progres,1.075925925925926
+investigation,1.6673076923076922
+sufficient opportunity to the prosecution,0.0
+malik,1.088888888888889
+number of witnesses,1.222222222222222
+eou,0.8444329630586411
+such witnesses,0.6000000000000001
+list of witnesses,0.75
+appellant under rc,0.5
+short adjournment,0.5
+appellant in that fact situation,0.5
+nrhm,0.5
+date,6.195616975795285
+situation,1.1254754682459434
+direction,1.8495050210098996
+delay in completion,0.5
+amit,1.2369463632669646
+bench,2.5793391667754992
+honble j,1.3333333333333333
+application that any accused person,0.5
+fault,0.8125244007183572
+such conditions,0.6545454545454545
+offence,4.401610644257703
+mr singh that pendency,0.5
+month from the date,1.2222222222222223
+fit,2.7848485899724365
+malik prosecution witness,0.5
+senior counsel,2.2857142857142856
+witness in the charge-sheet,0.0
+chandha,1.0
+minister,1.218958818958819
+prevention of corruption act,1.8
+direct release of the appellant,0.5
+called vital witnesses,1.0
+central bureau,0.5384615384615384
+leave,1.0147842365477848
+singhvi,2.5833333333333335
+default,0.7094574436346588
+persons,2.5993381990166555
+progres at the trial,0.0
+slp,1.291953447628582
+star witnes,1.0
+girish malik as vital witnesses,0.5
+malik pw,0.5
+bonds,0.670673076923077

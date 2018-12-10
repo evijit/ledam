@@ -1,0 +1,741 @@
+courts,2.1216528162511543
+clear from the facts,0.5
+order of the high court,1.296875
+findings,1.049571253572887
+court in the case,1.3333333333333333
+penal code with regard,0.5
+compromise,1.6862573099415208
+imprisonment for a term,1.5
+tablet by mistake,0.0
+natural witness,1.0
+regard to the facts,1.1
+relevant provisions of section,0.5
+code,2.880559796437659
+whoever,1.482116788321168
+undergone by the appellants in custody,0.5
+ramesh kumar v state,0.5
+amreli mahila vikas gruh,1.0
+occasions,0.7723557692307693
+in-law,0.0
+other hand,0.6931925622439332
+in-laws before the babra police station,0.0
+read with section,2.3513513513513513
+present inside the house at the time,0.5
+panchanama of the scene,0.5
+mark,2.700508607198748
+viz,0.7732570026579433
+paternal relatives,0.5
+sections,1.640495469442838
+track court,5.857142857142857
+panchanama,0.6666666666666666
+wilful conduct,1.25
+failure,0.7827962142086977
+social worker at amreli mahila vikas gruh,0.5
+cogent evidence in this regard,0.5
+independent evidence  witness,0.0
+court,12.24425115501509
+appellant no,3.689655172413793
+buses,0.5089005235602094
+declaration,2.152560083594566
+basis of the rival legal contentions,0.5
+outsider,0.3276836158192091
+suicide,3.2060041407867494
+bhola turha v state,0.5
+year of marriage,0.0
+person,4.291511329454258
+bail,2.0427807486631013
+way,1.7812722068664852
+evaluation of evidence,0.3333333333333333
+behalf,1.9888053603529987
+final moment,0.30000000000000004
+call,1.5442351461768689
+part,5.294464509893076
+uncle,1.19187675070028
+such demand,1.0
+relative of the husband,0.8
+legal contention,2.230769230769231
+vika,0.7259259259259259
+nothing,0.8658723322806009
+concurrent finding of fact,1.4
+sentence for the offence,0.6666666666666666
+punishable under sections,1.6153846153846154
+from the fact,0.6375
+light of the above,1.0
+rigorous imprisonment with a fine,1.0
+paternal relative,0.5
+present appeal,1.3424657534246576
+aspect,1.2449448189023034
+servants of the house,0.5
+age,4.526374474274117
+other medicine,0.5
+number,1.4802651440973922
+chhattisgarh manuscmanusc,0.5
+indian penal code for offences,0.5
+sessions,1.3405714285714285
+hemantika,1.0
+relevant provisions,1.5
+decision,2.9514937765898557
+deposition of pw- paternal uncle,0.0
+hands,1.1725490196078434
+several day,0.23863636363636362
+aforesaid,2.592896174863388
+house,2.0021735292386764
+v gopala gowda,1.1538461538461537
+independent witnes,1.2121212121212122
+empty bus,0.5
+appeal,3.4125488033856883
+several other independent witness,0.5
+court of judicature,1.4210526315789473
+babra court,0.5
+evaluation,0.7358156028368795
+poisonous tablets,0.5
+harassment,1.5747368421052634
+ms hemantika wahi,1.0
+read,2.2147281730888695
+aforementioned offence,1.0
+following questions,0.5185185185185185
+result of an accident,0.3333333333333333
+month,1.3454861111111112
+year,2.8349484769759212
+abetment,1.7142857142857142
+wherein,1.0724137931034483
+hospital for examination,0.5
+rival legal contention,1.75
+judgment,3.288216560509554
+settlement before the court,0.5
+punishable under section,3.081081081081081
+sister - in - law of the deceased praying,0.0
+appellants in custody,0.5
+critical condition,0.5
+father,1.4298716229162676
+sentence of the appellants,0.5
+fast,0.9771388985105647
+subject,2.4420366233344897
+guilt,1.1140207075064712
+order,5.472481489660944
+circumstantial evidence,1.9000000000000001
+injury,1.7199352451433856
+act,12.870263922028107
+cogent,0.6469565217391305
+family members,1.2631578947368423
+mother-in-law,0.0
+smt,0.7459757206267715
+circumstance of the present case,0.0
+uncle about the harassment,0.5
+evidence of prosecution witnesses,0.6666666666666666
+amounts to suppression,0.5
+ingredients,0.7539893617021276
+explanation,1.4510159010600707
+such harassment,0.75
+several occasion,0.5
+only evidence,0.4
+parameters,0.8168253968253969
+accused persons,7.048780487804878
+appellants that the guilt,0.5
+following question,0.5
+conviction of the appellant,1.8235294117647058
+names in the final moments,0.5
+matrimonial home on several times,0.5
+best possible evidence,0.5
+indian penal code of the present appellants,0.5
+period of sentences,0.5
+manner,1.4494591333432125
+kodinar police station,0.5
+mother,1.5057341472881893
+member,2.649111111111111
+parties,1.8210828547990157
+matrimonial home by way,0.5
+gohil,0.75
+kodinar with a minor daughter,0.5
+home by way,0.5
+camp una,0.5
+deceased praying,0.5
+conclusive evidence,0.5955882352941176
+paternal uncle,1.0
+section,9.287987283173626
+kanta,1.0
+herein,2.825259515570934
+wahi,0.5555555555555556
+ahmedabad,2.55
+indian penal code with regard,0.5
+bhola,2.0
+version,1.0500313479623824
+incident,1.8609485257918057
+servant,2.030552291421857
+fir,2.85390975582079
+neighbour,0.8760330578512397
+condition,2.259476395625584
+cogent evidence,0.75
+material evidence,1.2
+place,2.333104345208554
+circumstance,1.429931390219372
+finding,1.8129183657767178
+years of rigorous imprisonment,0.5
+danger,0.8066378066378066
+mean,2.390645692553228
+present case,1.5611814345991561
+learned counsel for the appellants,1.7142857142857142
+evidence  witness,0.0
+investigation,1.6673076923076922
+judicature,1.4210526315789473
+amreli nari surakhsha gruh,0.5
+regard,2.723310344827586
+incidence,0.6737804878048781
+age of the appellants ie,0.5
+perusal,0.750733137829912
+rajkot central prison,0.5
+turha,0.5
+case for interference,0.75
+regards,0.9072861236185019
+facts,1.4696673624372698
+issue,2.766776251628934
+in-law before the babra police station,0.0
+constitute different offence,0.5
+cruelty at the hands,0.5
+back,1.1362801178713813
+basi,2.0752712086391383
+in-law in a joint family,0.0
+guilty of the above,0.5
+legal evidence on record,0.5
+days,1.6721350893491447
+fine,1.3204039558531748
+home,0.9826663267907214
+exchange,1.09516494769951
+unlawful demand for any property,0.75
+women,1.162387410705042
+session,2.2400874351067563
+conviction,2.248165832071736
+year of rigorous imprisonment,0.0
+basis,1.953226441078104
+abetment on the part,0.5
+holding,1.2555282555282552
+husband as part,0.5
+case of ramesh kumar v state,0.5
+fits,2.9735176548967357
+maintenance,0.8632111808077473
+various legal grounds,0.6666666666666666
+gruh,0.9074074074074076
+relative of husband,0.75
+criminal appeal,2.5675675675675675
+evidence in this regard,0.4
+irrefutable conclusion,0.5
+case against the appellants,1.0
+reason that the deceased kept,0.5
+constitute different offences,0.5
+magistrate,3.522077922077922
+charge,2.7679815308681284
+demand for any property,0.75
+grounds,0.9540208829455945
+name in the final moments,0.0
+matrimonial house,1.3333333333333333
+central prison,0.5
+statement of the witnesses,1.25
+witness hirakumar kanabhai gohil,0.5
+cruelty,2.9099099099099095
+marriage,1.8031648351648353
+several occasions,0.5
+ground,1.4186722903211633
+complaints,0.9978858350951374
+dowry prohibition act,2.2
+child,3.0202810640613067
+hereunder,1.4457142857142857
+impugned judgment,2.0927152317880795
+afore,2.233039388594944
+matter,2.8088923076923082
+hospital,1.3942768854411434
+vicinity,0.5866666666666667
+moment,0.5294822018215465
+present matter,0.9090909090909091
+executive magistrate,1.7142857142857142
+provision of section,1.4827586206896552
+criminal,3.301971081989414
+term,3.6255105640901575
+guilt of appellants,0.5
+street,3.189100817438692
+years of age,1.10099573257468
+penal,1.8829173709853835
+appellants,7.701086956521739
+spite,0.8919640378414163
+view,2.441100058469462
+indian,1.2604961505560306
+involvement,1.020685900925422
+case of the prosecution,2.3043478260869565
+lead,1.2638604161606346
+ingredient,1.2242798353909468
+doctor,1.4782608695652173
+interested witnesses,0.875
+wife,1.4518086408500224
+penal code,2.710144927536232
+agrawal,0.8888888888888888
+kodinar police station against the appellant,0.5
+brief facts of the case,1.0
+limb,0.509338061465721
+above observations,1.0714285714285714
+cruelty aspect,0.5
+witness,5.333906623599983
+rival legal contentions,1.75
+mother - in - law,0.0
+result,1.3356630184144715
+light of the decision,1.0
+bihar,4.587301587301587
+other material evidence,0.5
+record,2.5393414390845273
+material,1.4148767018946966
+information,1.1320502836800534
+minor daughter,1.2
+kept,0.7731204700116618
+laws,1.4186274337269533
+statements of the witnesses,0.6666666666666666
+polouse,0.0
+servant of the house,0.0
+friend,0.7079130846815137
+provision,5.439002243350069
+neighbours about the deceased sitting,0.5
+gravity,0.3746556473829201
+appellants against the impugned judgment,0.5
+parameter,0.7630669107179174
+accident,1.7464867454487383
+provisions of section,2.762376237623762
+exh,0.8311914194608175
+live in the same vicinity,0.5
+conviction on the charge,1.0
+trial court by several other independent witnesses,0.5
+fare,1.2296887159533072
+fact,3.6284951019474962
+in-laws in a joint family,0.0
+learned counsel,3.703333333333333
+pw- paternal uncle,0.0
+offence under the provision,0.5
+case of bhola turha v state,0.5
+evidence on record,2.7906976744186047
+torture,0.6886137118695258
+bihar manuscmanusc,1.9655172413793103
+matrimonial home,2.1666666666666665
+deposition of the above,0.5
+view of the above observations,0.5
+pursuant to the impugned judgment,0.5
+other independent witness,1.3333333333333333
+legal evidence,0.30000000000000004
+station,1.2515681586858238
+natural witnesses,0.5
+kanta stri vikas gruh at rajkot,0.5
+husband,1.6418918918918919
+hour,1.1326135248230613
+truthful version as regard,0.5
+concurrent finding,1.625
+kumar,2.028839704896043
+demand,1.5671679197994988
+presumption,1.06
+gopala,1.4736842105263157
+appeal of the appellants,0.6666666666666666
+witnes,5.333906623599983
+hours from the incident,0.5
+legal grounds,0.4
+to the above,0.5836782968657599
+undisputed fact,0.6857142857142857
+conclusive evidence in the light,0.5
+extent,1.410108024691358
+times,0.8987140267391797
+refuge,0.27906976744186046
+doubt,1.3646267723102583
+commission of the offence,1.5333333333333334
+brief facts,1.0
+light,0.8816192372754331
+kodinar,1.5
+ashram,1.1666666666666667
+years,2.5395804110508022
+sentence to the period,1.0
+babra,1.0
+empty buses,0.5
+party,2.2250894654439723
+independent witnesses,0.9090909090909091
+ravibhai dodia,0.5
+settlement,1.6881394467601363
+poison by mistake,0.5
+circumstances of the present case,1.0714285714285714
+suppression,1.1538461538461537
+outsiders,0.24444444444444444
+criminal proceedings,2.6818181818181817
+sessions case,1.0
+first determine,0.6666666666666666
+servants,1.1313131313131313
+bala,1.0097608274078862
+grave injury,1.0
+abovementioned witnesses,0.5
+appellant for the aforesaid offences,0.0
+learned counsel on behalf,1.625
+evidence  witnesses,0.0
+family member,1.0924657534246576
+ramesh,1.5798816568047334
+above observation,0.6530612244897959
+testimony,1.4407553107789142
+maintenance application,0.5
+deceased sitting,0.5
+sister,1.0774703557312253
+nari surakhsha gruh,0.5
+interested witness,0.8888888888888888
+offence,4.401610644257703
+respondent,4.757894736842104
+beginning,0.8322990543735226
+physical injury,0.2857142857142857
+amreli,1.5
+further investigation,1.6363636363636362
+occasion after the compromise,0.0
+appellants ie,1.1666666666666667
+deceased,4.535714285714286
+default,0.7094574436346588
+appellant in custody,0.0
+day,1.550999710228919
+pleas,0.6851599700282798
+several times,0.6095679012345678
+question,2.980312372067635
+ravibhai,0.5
+present appellant,1.3333333333333333
+perusal of the findings,0.5
+fast track court,5.857142857142857
+independent evidence  witnesses,0.0
+sentence for the aforesaid offence,0.5
+dying declaration,8.5
+testimony at exh,1.0
+month for the offences,0.0
+deposition,1.534
+neighbours,0.5338983050847458
+police station,1.40045766590389
+friends,0.44078947368421045
+scmanu,7.940520446096654
+amounts,0.9789856139834046
+provisions under section,0.6666666666666666
+months,1.1938163721148947
+amount,3.179688593072295
+several other independent witnesses,0.5
+statement,2.5393160135035964
+accused person,4.565217391304348
+ingredient under sections,0.0
+commission of the suicide,0.5
+amount of rs,1.5806451612903225
+name,1.8996570753072433
+epileptic fits,0.5
+poisonous tablet by mistake,0.0
+vikas,1.0208333333333333
+trial court at exh,0.5
+compromise between herself,0.5
+legal ground,0.2727272727272727
+high,5.367119186841496
+few hour,0.3833333333333333
+members,1.9437616522164103
+brother,1.4566585956416465
+account,2.5754891049671977
+unfortunate incidence,0.5
+truthful version as regards,0.5
+custody,1.4166666666666667
+brief fact,1.0
+property,2.9368986630013745
+appellants for the aforesaid offences,0.5
+enlargement,0.6060606060606061
+case against the appellant,1.1666666666666667
+savitaben,0.6666666666666666
+interference,0.5733527484528578
+death in the light,0.5
+purpose,2.519170317925504
+help,0.7217940266720754
+praying,0.5957446808510637
+law,3.538923411654744
+consecutive day,1.0
+trial court,3.854545454545455
+appellate court,3.1458333333333335
+present case against the appellant,0.5
+rajkot,2.0
+nos,1.2635492554198444
+observation,0.7625074854374218
+nari,0.7946696696696696
+time,2.4764180952862667
+stri,3.7691210822988466
+treatment,1.1351020408163266
+allegation,1.834319526627219
+account of failure,0.8333333333333334
+imprisonment with a fine,1.0
+to the impugned judgment,0.8
+purpose of this section,1.0
+penal code of the present appellants,0.5
+behalf of the parties,1.1764705882352942
+evidence of the witnesses,1.0
+connection with any other criminal case,0.5
+laws  home,0.0
+complaint,2.734525785235724
+several occasion after the compromise,0.0
+back home,0.25757575757575757
+hours,1.1644152367043934
+quarrel,0.8181818181818182
+limit,2.3804570428443834
+executive,1.3789130780232004
+dodia,0.3333333333333333
+fine of rs,1.6
+depositions,1.0
+babra police station,0.5
+hereinafter,0.7670609645131939
+prosecution,4.619407894736842
+in-laws,0.0
+facts of the case,1.161764705882353
+matrimonial dispute,1.0
+brief fact of the case,0.0
+prohibition,1.9087256027554533
+offences,1.6681887366818873
+connection,1.050640279394645
+occasions after the compromise,0.5
+exception,1.1036946087733006
+imprisonment,1.4344262295081966
+ingredients under sections,0.5
+evidence of the prosecution witnesses,0.5
+indian evidence act,1.3125
+version as regards,0.5
+note of the fact,1.4705882352941178
+application,2.3322596088086445
+ipc,2.785166240409207
+limits,0.8405888207868406
+counsel,2.2246780703440323
+danger to life,1.0
+simple imprisonment,1.3
+commission,4.703619179345321
+mahila,4.5
+witnesses,3.359210526315789
+hirakumar,0.5
+unlawful demand,0.5
+deposition of the witness hirakumar kanabhai gohil,0.5
+few hours,0.3833333333333333
+names,1.766440410418311
+maternal uncle,2.4285714285714284
+mistake,0.6870879120879121
+rigorous imprisonment,1.9230769230769231
+aforesaid offences,0.5
+house at the time,1.0
+joint family,1.1428571428571428
+relevant provision of section,0.0
+prosecution viz,0.5
+submissions,0.5235745614035088
+mental,2.7818434682524456
+son,4.595622484812135
+return,1.5755725190839696
+dispute,2.402137592137592
+submission,1.0913871684001404
+various legal ground,0.6666666666666666
+evidence,3.6676405172088815
+provision under section,0.6666666666666666
+afore - mentioned offences,0.0
+poisonous tablets by mistake,0.5
+decision of this court,2.3260869565217392
+valuable security,4.0
+reliance,1.400763358778626
+same to the above,0.5
+judgment for the conviction,0.5
+abetment of suicide,1.4
+relatives,0.8460264900662252
+reliance upon the decision,1.0
+circumstance of the case,0.5
+veracity,0.6470588235294118
+case,7.332269420884958
+- for the bus fare,0.0
+period,1.9480170842427122
+sister - in - law,0.0
+finding on fact,0.5
+number of complaints,0.4444444444444444
+scc,1.941872465904902
+sarla,2.3333333333333335
+deposition of witnesses,0.5
+incriminating material evidence,0.5
+ground that the witnesses,0.6666666666666666
+in-laws place,0.0
+conviction for the offence,0.6666666666666666
+charge against the appellant,0.8
+injuries,2.4130008710801394
+physical cruelty,0.6666666666666666
+statements,1.110873440285205
+burn,0.7334842304248335
+gondal,1.0
+contention,1.666391070690368
+in-laws place at kodinar,0.0
+proceedings,1.7670925223666287
+appellant nos,1.375
+prosecution witness,2.2
+several occasions after the compromise,0.5
+ahmedabad in criminal appeal,0.5
+vishwanath agrawal v,0.5
+several time,0.6102941176470589
+learned trial court,2.5
+harassment of the woman,0.75
+evidence in the light,0.5
+deposition of the relatives,0.5
+years of marriage,1.2
+veraval,0.5
+prosecution witnesses,2.0526315789473686
+leave,1.0147842365477848
+spouse,1.0202546296296295
+superintendent,1.2698412698412698
+finding of conviction,0.6666666666666666
+poison,1.089678510998308
+contrary to the legal evidence on record,0.5
+jail superintendent,1.0
+court of gujarat,2.3076923076923075
+sentences,1.0513157894736844
+high court of gujarat,2.3076923076923075
+point,2.9165043546008516
+body,1.336775463480009
+sitting,1.1033984092552422
+aforesaid offence,1.0
+odd places,0.5
+case before the amreli mahila vikas gruh,0.5
+high court of judicature,1.4210526315789473
+medicines,0.851063829787234
+refuge at kanta stri vikas gruh,0.5
+woman,1.316528681253696
+police,2.9749362629783356
+sentence,2.3896654193264366
+abovementioned witness,0.5
+sentence for offence,0.6666666666666666
+examination,2.4920345926263088
+evidence act,3.8666666666666667
+dying,1.3815695769833358
+bus fare,0.5
+under section,5.374517374517374
+objective parameter,0.5
+same vicinity,0.5
+reason,2.6381270903010035
+poisonous tablet,1.5
+bus,2.020565168811983
+odd place,0.5
+medicine,0.6969887076537014
+life,1.3352928273744242
+scene,0.7999999999999999
+finding of fact,1.7083333333333333
+gondal bala ashram,1.0
+consecutive days,1.0
+charge against the appellants,0.6666666666666666
+independent witness,1.2121212121212122
+consideration,1.9110153789142115
+paragraph,1.2930197483150305
+reasonable doubt,0.8638838475499093
+jail,0.7548476454293629
+of husband,0.4800000000000001
+plea,1.4430487701432178
+concurrent finding on fact,0.5
+tablets,0.1694915254237288
+issue that the above,0.5
+help on the day,0.5
+legal contentions,2.230769230769231
+such woman,1.25
+chhattisgarh,1.75
+places,0.8371884824384251
+relative,1.0564311594202898
+care,0.8846948234137723
+present appellants,1.1
+other criminal case,0.6666666666666666
+gujarat at ahmedabad,1.0
+order of conviction,1.3
+antecedent,1.1666666666666667
+high court for the offence,0.5
+mahila vikas gruh,1.5
+inside the house at the time,0.5
+gujarat,3.2753623188405796
+afore - mentioned offence,0.0
+camp,1.917373271889401
+family,1.856281506375408
+exchanges,0.5333333333333333
+reasonable statement,0.2222222222222222
+death,2.361592909460208
+provisions,3.8929824561403508
+record by the prosecution viz,0.5
+tablet,0.5416666666666666
+appeal before the high court,1.1875
+conduct,1.5998023165163158
+appellants - the mother - in - law,0.0
+dowry,5.666666666666667
+amount to suppression,0.0
+examination of the body,0.5
+aforementioned offences,1.0
+fact of the case,0.0
+moments,0.3300970873786408
+conclusion,1.3883437407077015
+final moments,0.30000000000000004
+relevant provision,1.5737704918032787
+security,1.5014864864864865
+surakhsha,0.5
+truthful version,0.5
+pursuant,0.7227692307692308
+ground that the witness,0.75
+questions,0.9979150871872632
+subjects,0.9254185692541858
+indian penal code,5.264705882352941
+circumstances of the case,1.3373493975903614
+hour from the incident,0.0
+deceased kept,0.5
+marks,1.4136144754122284
+year of age,0.0
+social worker,0.3157894736842105
+hand,2.0299623418254717
+under sections,2.1931818181818183
+court for the offence,1.0
+contentions,0.9641025641025641
+means,1.3868295182781003
+enlargement on bail,1.0
+occasion,0.7946745562130177
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+penal code for offences,0.5
+aforesaid extent,0.75
+orphanage,0.18181818181818182
+home on several times,0.5
+paternal uncle about the harassment,0.5
+several days,0.23863636363636362
+veracity of the testimony,0.5
+high court,7.7477477477477485
+complainant,4.538461538461538
+same holding,0.6666666666666666
+otla,0.9827586206896551
+gravity of the situation,0.75
+daughter,1.0364906832298135
+gowda,1.2142857142857142
+tablets by mistake,0.5
+state,6.817996007300392
+basi of the rival legal contentions,0.0
+epileptic fit,1.0
+to the legal evidence on record,0.5
+of the above,0.6818663036902602
+note,1.3654108484234107
+-mother-in-law,0.0
+trial,3.7979448350459712
+pw-,0.0
+icr,0.6718006751572809
+same evidence,0.75
+manu,7.078142071124147
+version as regard,0.5
+track,1.311279069767442
+central,2.61875
+criminal case,1.4464285714285714
+worker at amreli mahila vikas gruh,0.5
+sarla vishwanath agrawal manuscmanusc,0.5
+una,3.7601627757549796
+objective parameters,0.5
+other medicines,0.5
+nature,1.4149926876444778
+involvement of the appellants,0.5
+health,0.8632619439868204
+compromise in spite,0.5
+kodinar police station against the appellants,0.5
+neighbour about the deceased sitting,0.0
+situation,1.1254754682459434
+observations,0.7454584147497534
+commission of suicide,2.0
+from the facts,0.6000000000000001
+criminal proceeding,2.9166666666666665
+fit,2.7848485899724365
+prison,1.4542975696502667
+father - in - law,0.0
+other independent witnesses,1.0
+respondent that the trial court,0.5
+present case against the appellants,0.5
+kanta stri vikas gruh,1.0
+vishwanath,1.4285714285714286
+persons,2.5993381990166555
+kanabhai,0.5
+worker,1.9239190944516609
+respondent - state,0.0
+months for the offences,0.5

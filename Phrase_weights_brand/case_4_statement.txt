@@ -1,0 +1,345 @@
+committee,2.546237803603864
+government,3.5583785424010483
+raid,0.6079447322970638
+director,1.3549769585253457
+code,2.880559796437659
+learned additional solicitor general that the responses,0.5
+children,1.3787369914853358
+week after receipt,0.0
+various states,0.5
+following direction,1.0
+instance,0.9469803370786518
+- state trafficking of young children,0.0
+pass,2.510543963686946
+court,12.24425115501509
+employment,1.5239770785161355
+union,2.0981927710843373
+forces,0.9192073170731707
+person,4.291511329454258
+gross violation,0.4083333333333333
+guideline for the persons,0.0
+cross,2.0778316690442225
+analysi,0.6883471219855659
+monitoring of circuses,0.5
+age,4.526374474274117
+number,1.4802651440973922
+commission for protection,0.75
+forcible confinement,0.5
+forces in the borders,0.5
+available within a period,0.5
+aforesaid,2.592896174863388
+other person,0.9635036496350365
+force in the borders,0.0
+harassment,1.5747368421052634
+month,1.3454861111111112
+year,2.8349484769759212
+fit in the facts,0.5
+such other order,0.6666666666666666
+appropriate guideline,0.5
+order,5.472481489660944
+various state,0.6172839506172839
+act,12.870263922028107
+weeks after receipt,0.5
+circu,1.5829163891458877
+writ order,3.0
+analysis,0.6606741573033708
+appropriate if the following directions,0.5
+enforcement,0.7354220499569336
+state government,3.027142857142857
+young child,0.30630630630630623
+home affair,1.1428571428571428
+other violation of law,0.5
+manner,1.4494591333432125
+parties,1.8210828547990157
+appropriate writ,2.125
+justice issue,0.5
+section,9.287987283173626
+compendium,0.75
+children in circuses,0.5
+meeting,1.5978547625659538
+writ of mandamus,2.642857142857143
+january,0.8699641577060931
+use in some other cases,0.5
+protection of children,1.25
+circumstance,1.429931390219372
+officers,2.442124212421242
+gross violation of all fundamental rights,0.5
+appropriate writ order,2.2
+regard,2.723310344827586
+aforesaid meeting with specific regard,0.5
+direction,1.8495050210098996
+child in circuses,0.0
+rights,1.6349541930937281
+concerned officer,1.8571428571428572
+fundamental rights,2.1587301587301586
+circus by cbi,0.0
+special forces,0.3333333333333333
+advisories into the local language,0.5
+facts,1.4696673624372698
+issue,2.766776251628934
+other issues with the issue,0.5
+package,0.8176589460593814
+form,2.4865961263718424
+if the following directions,0.5
+home,0.9826663267907214
+local language,0.5
+child abuse,0.2007042253521127
+today,0.6330563683773655
+activities of the circuses,0.5
+petitioner,4.524972253052164
+form of child labour,0.5
+orders as this honble court,0.5
+women,1.162387410705042
+offences under the indian penal code,1.0
+orders,1.4936359300077826
+directions,1.5134125183504605
+appropriate authority,1.222222222222222
+ministry of women,4.75
+honble court,2.4444444444444446
+borders,0.24107142857142858
+other writ order,0.5
+needles,0.5447697312104091
+officer,3.1197242647058823
+other case,0.6654088050314465
+territory,1.3688226421790437
+border,0.40498938428874737
+child,3.0202810640613067
+cros,1.8137948361162648
+cbi,3.9568421052631577
+liberty,0.7860465116279071
+ministry of home affairs,1.1428571428571428
+available by the ministry of women,0.5
+cognizable offence under the indian penal code,0.0
+machinery,0.9071637426900585
+applications,1.0021816198527407
+aforesaid meeting,0.6666666666666666
+follow,2.3424056287548947
+penal,1.8829173709853835
+view,2.441100058469462
+activities,1.57291280148423
+confinement,0.37499999999999994
+opinion,1.4960606342789635
+relief,1.4748116760828625
+other appropriate writ order,2.25
+use,5.06801278974993
+mandamus,3.0
+penal code,2.710144927536232
+child right,0.6000000000000001
+simultaneous raids,0.5
+issues with the issue,0.5
+other violation,0.5
+activity,1.3846153846153848
+ministry of labour,1.0
+secretary,0.9217877094972067
+guideline,1.5641711229946524
+provision,5.439002243350069
+solicitor,1.7073170731707317
+forcible confinements,0.5
+large number,1.0979284369114877
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+juvenile justice issues,0.5
+- state trafficking,0.0
+harassments,0.5
+learned counsel for the parties,1.263157894736842
+offence under the indian penal code,0.0
+instance of child labour,0.5
+set of guidelines,0.3333333333333333
+states  union territories,0.0
+victims,0.9
+intra-state trafficking,0.0
+bondage,0.30769230769230765
+other manner,0.7222222222222222
+meeting with specific regard,0.5
+additional,1.4256530253244384
+above directions,0.9
+years,2.5395804110508022
+appropriate court of law,0.5
+report,1.7768151696835826
+concerned officers,1.2
+protection,1.1604395604395603
+cognizable offences,1.6666666666666667
+regular sexual harassment,0.5
+party,2.2250894654439723
+provisions of the juvenile justice,0.75
+constant monitoring of circuses,0.5
+other order,0.6545454545454545
+issues,1.1246716508385532
+activity of the circuses,0.0
+justice,2.292557084574302
+other issue with the issue,0.0
+by the ministry of women,1.3333333333333333
+specific instance,0.2857142857142857
+juvenile justice issue,0.5
+special force in the borders,0.0
+child trafficking,0.5
+learned additional solicitor general that the response,0.5
+advisories,1.3333333333333333
+guidelines for the persons,0.5
+offence,4.401610644257703
+employment  engagement of children,0.0
+law enforcement machinery,0.5
+respondent,4.757894736842104
+if the following direction,0.5
+for use by the concerned officers,0.5
+writ,2.8882378560889794
+necessary follow-up action,0.0
+honble,2.4444444444444446
+abuse,0.6372486093281985
+months,1.1938163721148947
+circus,2.333333333333333
+specific regard,0.5
+juvenile,6.343915343915343
+young children,0.30952380952380953
+event,1.4310854436179261
+force,1.6009408121948314
+states,1.5120646995827023
+instance of use,0.5
+prayer,0.6969296987087519
+aware of any instance of use,0.5
+law,3.538923411654744
+intra-state trafficking of young children,0.0
+issue with regard,0.5555555555555556
+time,2.4764180952862667
+cases,1.9728229418951067
+circus with a time bound rehabilitation package,0.0
+central government,3.0380952380952384
+mandamu,3.0
+trafficking,0.75
+cognizable offences under the indian penal code,0.5
+responses,0.6831831831831832
+above direction,1.0
+within a period,1.5733333333333333
+affairs,0.8608695652173913
+cognizable offence,3.75
+right,3.07483248288682
+state governments,1.3345864661654134
+sexual harassments,0.5
+years in any form,0.5
+offences,1.6681887366818873
+employment of child labour,0.5
+child welfare committee,0.6666666666666666
+counsel,2.2246780703440323
+application,2.3322596088086445
+india,2.7684068260703585
+authorities,1.266131845134287
+commission,4.703619179345321
+other appropriate writ,2.25
+child rights,1.0
+sexual harassment,0.5
+large number of officers,0.75
+union territories,3.111111111111111
+exploitation,0.6222222222222222
+advisory,0.4615384615384616
+states  union territory,0.0
+child welfare committee under the juvenile justice,0.5
+circuses by cbi,0.5
+regular sexual harassments,0.5
+victim,1.204831365285174
+engagement,0.38345864661654133
+advisory into the local language,0.0
+circumstance of the case,0.5
+case,7.332269420884958
+follow - up action,0.0
+period,1.9480170842427122
+monitoring,2.5
+detailed report on the issues,0.5
+affair,0.8341728395061728
+violation of law,1.1666666666666667
+governments,1.020200276243094
+court of law,0.673963133640553
+circuses with a time bound rehabilitation package,0.5
+appropriate guideline for the persons,0.0
+rehabilitation,4.416666666666667
+juvenile justice,2.1904761904761902
+report on the issues,0.5
+violation,1.2087401208740118
+other cases,0.6446886446886447
+respondents,2.6341263330598856
+home affairs,1.1428571428571428
+specific instance of child labour,0.5
+union territory,3.066666666666667
+regard to the exploitation,0.5
+available for use by the concerned officers,0.5
+national commission,4.818181818181818
+woman,1.316528681253696
+time bound rehabilitation package,0.5
+child labour,2.3333333333333335
+of any instance of use,0.5
+translation,0.4666095890410959
+child development,2.9333333333333336
+view of the orders,0.75
+week from today,0.75
+set,2.3027452395971277
+- statesunion territories,0.0
+writ petition,6.24223602484472
+petition,5.3436539306104525
+learned additional solicitor general,2.6
+guidelines,1.540251572327044
+response,0.7112676056338028
+needless,0.6410068426197458
+employment  engagement,0.0
+appropriate guidelines,0.5
+government of india,4.94
+fund,2.9945256868353374
+authority in the event,0.6666666666666666
+territories,1.012
+raids,0.3232323232323232
+care,0.8846948234137723
+receipt,1.5471923536439667
+year in any form,0.0
+pas,2.68416862749163
+confinements,0.5
+ministry,1.6350210970464136
+authority,2.4352627108360636
+provisions,3.8929824561403508
+human trafficking,0.6666666666666666
+development,2.3145884270578647
+violation of all fundamental rights,0.5
+simultaneous raid,0.5
+use by the concerned officers,0.5
+detailed report,0.42857142857142855
+weeks,0.8109161793372318
+other issue,0.4939759036144578
+special forces in the borders,0.5
+compendium of advisories,1.5
+appropriate if the following direction,0.5
+pursuant,0.7227692307692308
+circuses,4.0
+abuses,0.5590062111801243
+indian penal code,5.264705882352941
+circumstances of the case,1.3373493975903614
+following directions,1.0
+justice issues,0.5
+national,1.5126860273884035
+clear set of guidelines,0.5
+iii,1.5614499719992534
+constant monitoring,0.5
+appropriate court,0.8333333333333334
+circumstances,1.3944461370073231
+week,0.8253498691546249
+special force,0.3333333333333333
+welfare,1.3226788432267886
+cross border trafficking,0.5
+clear set,0.5
+state,6.817996007300392
+appropriate authority in the event,0.5
+general,1.7536558414534391
+central,2.61875
+language,0.8555828468744352
+appropriate guidelines for the persons,0.5
+prompt action,1.0
+juvenile justice act,1.75
+that meeting,0.2727272727272727
+fundamental right,2.9790209790209787
+compensation,3.7916666666666665
+- statesunion territory,0.0
+number of officers,0.8
+action,3.127292663476874
+other issues,0.5
+fit,2.7848485899724365
+provision of the juvenile justice,0.0
+labour,2.5372960372960374
+persons,2.5993381990166555
+national commission for protection,0.75
+issue with the issue,0.0

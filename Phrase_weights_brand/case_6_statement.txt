@@ -1,0 +1,1368 @@
+otherwise of the appellant,0.6666666666666666
+christians,1.6142315543890347
+government,3.5583785424010483
+interest of the child,2.3333333333333335
+recognition of the principle,0.5
+amicus curiae,1.6666666666666667
+custodian,0.6233766233766234
+guardianship applications,0.5
+union,2.0981927710843373
+facilities,0.9130594727161252
+custody order,0.5
+way,1.7812722068664852
+systems,0.3927792585413133
+apprehensions of mr  luthra,0.0
+other individual,0.38571428571428573
+wrangles,0.4444444444444444
+custody of a child,1.0
+south africa,0.35911602209944754
+facility,1.2989690721649485
+scenario,0.4835164835164836
+parents in actuality,0.5
+right in respect,0.5
+accession,0.30000000000000004
+district,1.5506763074237984
+contrary,1.027917657672435
+right of the mother,0.0
+putative fathers,0.5
+aforesaid,2.592896174863388
+legal conundrums,0.5
+biological parents,0.5
+sole factor,0.75
+fact that the appellant,1.05
+to a specific direction of this court,0.5
+provisions of the act,2.6056338028169015
+knowledge of a situation,0.5
+ward,2.4967109028473318
+parens patriae jurisdiction,0.5
+duty of the state,1.0
+context of section,0.8571428571428571
+due weight,1.7142857142857142
+order,5.472481489660944
+width,0.5151515151515151
+variety,0.5229534147444596
+civil union,0.5
+standards,1.312168199737188
+pleading,1.1270125223613594
+right from birth,0.5
+wards competent,0.5
+apply to a situation,0.0
+necessary party,0.75
+birth of the child,0.5
+mother,1.5057341472881893
+which guardian,0.5
+parental responsibility agreement,0.5
+total apathy,0.5
+parties,1.8210828547990157
+civil procedure,5.448275862068965
+equal position,0.5
+such protection,0.8
+neglect,0.6777777777777777
+guardianship wrangles,0.5
+parent  unwed mother apply,0.0
+condition,2.259476395625584
+before a guardian,1.0
+guardianship rights with regard,0.5
+parent of the child,0.0
+present case,1.5611814345991561
+universal,0.6125487415809996
+specific direction,0.5555555555555556
+apprehensions,0.75
+context,0.9269383697813122
+joey,0.2647058823529412
+proces,1.627944583238701
+exclusive care,0.5
+hapless child,0.5
+full parental responsibilities,0.5
+court in certain cases nothing,0.0
+cardinal necessity that religion,0.5
+arrangement,0.7318181818181818
+making,1.409351874023649
+extraction,0.5028571428571429
+parents,1.8852093189324288
+powers,1.876345371920593
+custody of a child born,0.5
+laxmi kant pandey v union,0.5
+basic concern,0.3333333333333333
+today,0.6330563683773655
+guardianship rights,1.5
+manner as the court,0.5
+origination,0.2564102564102564
+reality,0.6251091491219559
+requisite step,0.75
+charge,2.7679815308681284
+ailment,0.7
+pays damages in terms,0.5
+consistent with the procedural rules of national law,0.5
+present convention,0.3333333333333333
+illegitimate child by virtue,0.0
+country,1.2903191103863751
+deposit,2.1724508050089444
+legal nodu of seminal significance,0.0
+responsible man,0.6666666666666666
+financial responsibility for the child,1.0
+salient provision,0.5
+githa hariharan v reserve bank,0.5
+child,3.0202810640613067
+fore,7.06241367403315
+actions,3.633288043478261
+biological mother,0.5
+opportunity,0.946186440677966
+misplaced assumption,0.5
+procedural rules of national law,0.5
+impugned judgment,2.0927152317880795
+seisin,0.75
+child s upbringing,0.0
+care of children act,0.5
+natural guardians of illegitimate children,0.5
+parties  religion,0.0
+provision of section,1.4827586206896552
+legal guardians,1.5
+directive principles,1.2222222222222223
+applications,1.0021816198527407
+statutory declaration,0.6666666666666666
+identity of the father,0.5
+wellbeing,0.75
+enigma,0.17857142857142858
+conflict,1.314561353483509
+custodian of the interests,0.5
+bodies,0.8969063256135499
+recognition,1.4333333333333333
+recovery,3.9892473118279574
+hearing-,0.0
+judge bench,2.8472222222222223
+difference in nomenclature,0.5
+maturity of the child,0.5
+legal nodus,0.5
+express terms,0.8333333333333334
+appropriate measure,1.0
+child s life,0.0
+court of the philippines,0.5
+responsibility in accordance,0.5
+removal,0.7204301075268817
+imperative that the right of the mother,0.0
+paramount consideration,1.0
+child at any time,0.5
+duties,1.477142857142857
+reserve,1.8336147492356134
+express term,0.8571428571428571
+personal differences,0.5
+provisions with respect,0.6666666666666666
+sen,4.021152898608279
+parent  unwed mother applies for the issuance,0.0
+applicability,1.0928961748633879
+doubt,1.3646267723102583
+pertinent,0.6447368421052632
+affidavit,2.2996987951807224
+protection,1.1604395604395603
+exclusive custody of the parents,0.5
+principle,1.9620890732001848
+newspaper,1.4133350781914544
+factor,1.2878742338904643
+child cease,0.5
+development of the child,1.0
+notice of guardianship applications,0.5
+biological mother of a child,0.5
+suitability,0.8181818181818181
+date,6.195616975795285
+father s right,0.0
+reference,2.1755848210276256
+understanding,0.8257450331125827
+condition of living,0.0
+court order,0.4077457069784436
+provision of the convention,0.0
+indifference,0.375
+in view of the child,0.5
+nodus of seminal significance,0.5
+interest of a child,0.0
+best interests,1.3333333333333333
+supreme court,1.4278957326045825
+expectation,0.8103813559322035
+other spouse,1.3333333333333333
+child s welfare,0.0
+of the fact,0.9194706545605603
+interest in the welfare,0.5
+preponderant position,0.5
+high,5.367119186841496
+guardian of the infant,0.5
+event,1.4310854436179261
+settled legal position that the welfare,0.5
+human right,1.1211406518010292
+significance to section,0.5
+pandey,1.875
+other insurance policy,0.0
+ireland,0.19911504424778761
+hariharan,0.5
+right of the child,1.0
+application under section,2.8076923076923075
+allegation,1.834319526627219
+guardian of illegitimate children,0.0
+complexities,0.375
+other countries,0.4596774193548387
+child by virtue,0.0
+rights of the child,1.0
+insurance,1.7782738095238095
+towards expenses in connection,0.5
+life - partnership,0.0
+analysi of the law,0.0
+paternity over the child,0.5
+single parent  unwed mother applies for the issuance,0.0
+affairs,0.8608695652173913
+other statutes,0.75
+light of the tenets,0.5
+other reason,0.704191616766467
+christian unwed mothers in india,0.5
+case of illegitimate children,0.5
+illegitimate infant,0.5
+regardles,0.598404255319149
+mr luthra,0.5
+competent supervision,0.5
+nay,0.730225988700565
+new,0.9418497626301229
+review determine,0.5
+nucleus,0.1627906976744186
+relatives,0.8460264900662252
+wards,1.1401835683904185
+personal difference,0.5
+parental custody,0.5
+other individuals,0.2727272727272727
+high court of delhi,1.4761904761904763
+parents of the child,0.5
+kingdom,0.6954545454545455
+purposes,1.4391216613438835
+furthermore,0.9849537037037037
+pays damage in terms,0.0
+service,4.257395095954566
+general by way of a publication,0.5
+unaddressed constitutional expectation,0.5
+addres of the father,0.0
+end,6.1484001628618765
+unquestionable recognition,0.5
+exclusive custody,0.6666666666666666
+rule,5.04
+citizen suffers,0.5
+proceedings,1.7670925223666287
+identity,0.8835164835164835
+welfare of a minor,0.5
+joey d brione,0.5
+other persons,0.6111111111111112
+guardianship act,1.5
+children s act,0.0
+laxmi,1.25
+basis of all pertinent,0.5
+surname,0.2727272727272727
+common law jurisdictions,0.5
+sole parental authority,0.5
+capacities,0.6222222222222222
+maternity,0.32142857142857145
+hmg,0.2
+attempt,0.7943782192788815
+process,1.6274942048088725
+admission,1.5389848246991107
+constituent,1.4054054054054055
+purpose of the present convention,0.0
+her parents,0.9285714285714286
+maturity,0.6666666666666666
+time of the child,1.5
+particular,1.5248953455371081
+legal obligations,0.4444444444444444
+domicile of origin,0.5
+status,1.14824388424026
+power,3.8165227690948367
+woman,1.316528681253696
+due consideration,1.1111111111111112
+informed consent to the adoption,0.5
+court for appointment,0.6666666666666666
+legal systems,0.4571428571428572
+position,1.549133168619177
+permanent life - partnership,0.0
+one,4.845669314438648
+petition,5.3436539306104525
+natural parent,0.6000000000000001
+financial responsibility,0.6666666666666666
+indian succession act,5.25
+consideration,1.9110153789142115
+expense,1.4186440677966103
+personal detail,0.3333333333333333
+paragraph,1.2930197483150305
+social complications,0.5
+states parties,1.6363636363636365
+custody conflict,0.5
+attainment,0.3
+arrangements,0.6399535423925667
+legal guardian,2.0
+own fundamental right,0.5
+high court under this act,0.5
+apply,1.5478801169590641
+patrae,0.5
+participation in the litigation,0.5
+applicable law,0.6666666666666666
+life time of the father,0.5
+hindu,2.3637826961770623
+different statutes within india,0.5
+andor,0.8398466033601169
+family,1.856281506375408
+legal obligation,0.6000000000000001
+provisions,3.8929824561403508
+guardianship of infants act,0.5
+living,1.0859950859950862
+preferential claims,0.5
+view of child,0.0
+guardianship  adoption certificate from the court,0.0
+adoption of a child,0.5
+christian faith,0.25
+separation,0.7297830374753452
+quintessence of the act,0.5
+administrative authority,1.25
+unfit,1.0555555555555556
+precedence over the future,0.5
+direction of this court,1.0
+national,1.5126860273884035
+conformity,0.71875
+cardinal necessity,0.5
+possession,2.808810857389056
+responsibility of the state,0.42857142857142855
+supreme,1.443815331010453
+indebtednes,0.5
+best effort,0.4307692307692308
+requirement,1.2416133333333332
+subservient thereto,0.5
+intendment,1.4375
+own view,0.41481481481481486
+female,0.5543071161048689
+conspicuous part of the court - house,0.0
+legal recognition,0.3333333333333333
+competent authorities,1.6363636363636365
+welfare of the child,1.6
+action,3.127292663476874
+fit,2.7848485899724365
+perception,0.43055555555555564
+removal of any guardian,0.5
+ordains-,0.0
+notice of the applicant,0.5
+responsible for the child,0.5
+illegitimate child to the mother,0.0
+capacity,1.7421691881525676
+complexity,0.29310344827586204
+father refuse,0.5
+hearing thereof,0.5
+perceived right of parents,0.0
+duty of the father,0.5
+putative father in connection,0.5
+provisions of this act,2.4722222222222223
+that section,1.1768292682926829
+publication,1.3442779291553135
+responsibility,0.8659259259259259
+part of the court - house,0.0
+area of safety,0.0
+sections,1.640495469442838
+rights in respect,1.3333333333333333
+matters,1.4810665618448637
+perceived rights,0.5
+context of adoption,0.5
+appellant s request,0.0
+joey d briones,0.5
+inter,3.683850287482992
+insurance policy,2.6666666666666665
+variety of jurisdictions felt,0.5
+interested parties,0.6086956521739131
+putative father of the child,1.0
+administrative proceeding,0.5
+court,12.24425115501509
+githa,0.5
+declaration,2.152560083594566
+agreement,3.450434632433366
+wrangle,0.2619047619047619
+objection,1.68120480131216
+person,4.291511329454258
+conspectus,0.525
+brooding reality,0.5
+nothing,0.8658723322806009
+petition for appointment,0.5
+mariners,0.2695035460992907
+portals,0.4
+precedence,0.5911330049261083
+regular basi,0.9
+age,4.526374474274117
+number,1.4802651440973922
+pays damages,0.5
+social welfare institutions,0.5
+decision,2.9514937765898557
+christian unwed mother in india,0.0
+recovery of maintenance,0.5
+power of the court,1.2142857142857142
+competent authority,2.7142857142857144
+guardian of the child,1.0
+evince,0.603448275862069
+claim,2.817264601856604
+laxmi kant pandey,2.0
+house,2.0021735292386764
+problems,0.7376119010005265
+court - house,0.0
+petition under section,1.5
+interpretation,1.518366298484459
+court direction,0.5
+year,2.8349484769759212
+stigma,0.3333333333333333
+judgment,3.288216560509554
+claims,1.1941982272360998
+secure,1.511250781304257
+minor before a guardian,0.5
+act,12.870263922028107
+analysis,0.6606741573033708
+parents of a child,0.5
+legal forums,0.5
+counterpart,0.8125
+different legal systems across the globe,0.5
+mother of the child,0.5
+guardianship,5.555555555555556
+finality,1.1746031746031746
+kant,0.8185328185328185
+law in new zealand,0.5
+concerned child,1.0
+legal interests,0.3333333333333333
+faith,0.6832428364066448
+section,9.287987283173626
+herein,2.825259515570934
+possession of the person,0.5
+interpretation of section,1.5
+standard,1.4669008088548319
+imperative for an unwed mother,0.5
+necessary in a particular case,0.5
+way of a publication,0.5
+unwed mother,1.6666666666666667
+mother in all cases,0.5
+other appropriate arrangement,0.5
+peril,0.5499181669394435
+regard,2.723310344827586
+refusal,0.813597918022121
+eminence,0.40909090909090906
+dimensions,0.695364238410596
+lack of involvement,0.5
+knowledge,1.1120671641791045
+expenses,1.2727272727272727
+direction,1.8495050210098996
+rights,1.6349541930937281
+regular basis,0.9
+mohammedan law,1.0
+accordance with the act,0.8
+counterparts,0.7641509433962265
+form,2.4865961263718424
+concerned child ceases,0.5
+that regard,0.5944055944055944
+assumption in the law,0.5
+offspring of marriage,0.5
+lack,0.6349809734425119
+subject to any rules,0.6666666666666666
+women,1.162387410705042
+ball,0.9419367100636702
+face of the express terms,0.5
+common law jurisdiction,0.5
+sub,7.816899313759727
+natural mother of the child,0.5
+biological parent,0.5
+eighteen year,0.45000000000000007
+appropriate measures,1.0
+hmg act,0.5
+residence of the minor,0.5
+single parent  unwed mother apply,0.0
+matter,2.8088923076923082
+relation,1.397320207820618
+court under this act,0.5
+courts of law,0.875
+primary responsibility,0.6000000000000001
+intendment of the act,0.75
+perceived right,0.5
+indian,1.2604961505560306
+involvement,1.020685900925422
+jurisdictions,0.48571428571428565
+child from the parents,0.5
+adults,0.33009708737864074
+significance,0.6059966216216216
+family nucleu,0.5
+birth,1.5969847398418826
+procedural origination present,0.5
+law jurisdiction,1.0
+procedure,2.552771605064117
+petitions,1.3930830039525692
+implicit in the notion,0.5
+child s birth certificate,0.0
+provision,5.439002243350069
+apathy,0.43636363636363634
+family code of the philippines,0.5
+common responsibility for the upbringing,0.0
+pernicious repercussions,0.5
+vir arjun,0.5
+savings,0.3564356435643565
+thereto,1.0358342665173572
+duly,1.13589803737587
+guardian of the property,0.5
+guardianship  adoption certificate,0.0
+adoptive parents,0.3333333333333333
+light,0.8816192372754331
+review,1.3564101463582128
+procedural origination presents,0.5
+delhi,2.6089285714285717
+for the care,0.3333333333333333
+marriage behind the back,0.5
+request,1.1474439594584596
+christian,1.3142435364657585
+nationality,0.47826086956521746
+natural guardian,1.5
+for an unwed mother,0.5
+wedlock,0.543956043956044
+unwed parent,0.5
+purpose of section,1.3888888888888888
+agreements,1.0784313725490198
+curial fiat,0.5
+adoption,0.6852035749751738
+towards expense in connection,0.0
+principles,1.3198511166253102
+feature,0.6446262956901254
+maricel,0.5
+word  after,0.0
+cases nothing,0.0
+need,1.1097650269586634
+globe,0.5521885521885522
+abuse,0.6372486093281985
+animosity,0.4666666666666667
+concomitant,0.5555555555555556
+total apathy of the father,0.5
+religion,3.489119987394627
+international agreement,0.3434343434343434
+mariner,0.2048417132216015
+briones,0.5
+single parent  unwed mother apply for the issuance,0.0
+wards act,2.0
+troubled sea,0.5
+custody,1.4166666666666667
+guardians,4.645161290322581
+dismissal,1.614076246334311
+interested party,0.0
+assumption,0.47735650342285413
+brione,0.5
+cases,1.9728229418951067
+ms malhotra,1.0
+name of the child,0.5
+pernicious repercussion,0.5
+tenet,0.8018867924528303
+logical corollary to the appellant succeeding,0.5
+adoptive parent,0.3333333333333333
+adult,0.7479674796747968
+notice of the application,0.5
+legislative bodies,2.2
+offspring,0.8250000000000001
+child ceases,0.5
+conformity with this code,0.5
+sidharth,0.6666666666666666
+united kingdom,0.7304347826086955
+abilities,0.9050576752440107
+due weight in accordance,0.5
+guardianship application,2.0
+connection,1.050640279394645
+facility of reference,1.0
+india,2.7684068260703585
+natural parent in the consequent guardianship  custody proceedings,0.0
+necessary constituent for the wellbeing,0.5
+perspective,0.5639060811474604
+other statute,1.1428571428571428
+malhotra,1.625
+origin,1.2344828910849253
+that the rights of the mother,0.5
+child born,1.0666666666666667
+court of wards,1.75
+fathers,0.806060606060606
+nodus,0.5
+child custody laws,0.5
+guardianship  custody proceeding,0.0
+son s father evince,0.0
+scc,1.941872465904902
+edition,0.9664589349951868
+vikramajit,0.8
+convention,0.8756516211061666
+step in this direction,0.0
+appellant s appeal,0.0
+special order,0.8333333333333334
+single mother,0.2
+portion,1.0756311179804223
+towards expenses,0.5
+address,0.7129538279400157
+uninvolved parent,0.5
+informed consent,0.6000000000000001
+gainsaying,0.5555555555555556
+her parent,0.9027777777777779
+womb,0.23655913978494622
+duty,3.2272215973003378
+philippine,0.4166666666666667
+guardianship of a child,0.5
+procedural rules,0.6666666666666666
+to the child,0.9090909090909091
+expediency,0.5
+spouse,1.0202546296296295
+infant,0.4715127701375246
+point,2.9165043546008516
+direct contact,0.2857142857142857
+physical andor,0.5
+jurisdictional,1.2500000000000002
+steps,1.169318181818182
+specific provision,1.1363636363636365
+corollary to the appellant succeeding,0.5
+supp,1.7223856594132256
+counselling,1.011904761904762
+legislative body,1.35
+views,0.6965871413779037
+administrative proceedings,0.5
+towards expense,0.5
+accordance with applicable law,1.0
+related right,0.5
+ensure,1.1491817650496783
+sea,1.6312447855066885
+present family,0.5
+infants act,0.5
+child to the mother,0.0
+conception,0.49506726457399103
+authority,2.4352627108360636
+provision with respect,0.5
+particular case,0.4358974358974359
+development,2.3145884270578647
+social stigma,0.5
+face,0.7281253260594137
+mindful of the fact,0.5
+partner,4.163434903047091
+counsel for the appellant,1.9621212121212122
+gw act,0.5
+zealand,0.2760942760942761
+unchartered troubled seas,0.5
+first appeal,1.112781954887218
+minority,0.8717948717948719
+task,0.5643819334389858
+implicit,0.6112637362637362
+iii,1.5614499719992534
+mother over the father,1.0
+parent  unwed mother applies,0.0
+obligation,1.1071428571428574
+enigmas,0.5
+chattel,0.40909090909090906
+consequent guardianship  custody proceedings,0.0
+private social welfare institution,0.5
+children to the mother,0.5
+eighteen years,0.45000000000000007
+troubled seas,0.5
+whereabout,0.3508771929824561
+state,6.817996007300392
+statute,2.5765859456247218
+person-,0.0
+whereabout of the father,0.0
+controversy,0.8593204191806921
+illegitimate children to the mother,0.5
+collector for the service,0.5
+welfare of the hapless child,0.5
+good faith,0.8046647230320698
+spouses,0.7563025210084034
+man,6.972395052694935
+application for a fixed deposit,0.5
+best interests of the child,2.3333333333333335
+basi of all pertinent,0.0
+other country,0.25
+different legal forum,0.5
+concerned child cease,0.5
+safety,1.5344583560152423
+only relevant factor,0.75
+reasonable period,1.4285714285714286
+fiat,0.4805194805194805
+customary law,1.25
+uninvolved father,0.5
+primacy to the mother,0.5
+intention of the act,0.5
+instrument,1.493863846866317
+senior counsel,2.2857142857142856
+thought,0.7081151153746436
+persons,2.5993381990166555
+universal declaration of human rights,0.6666666666666666
+to the child s best interests,0.0
+involved parent,1.0
+pre,6.408342692122574
+common responsibilities,0.5
+corollary,0.5
+right of the parents,0.0
+view of the child,0.5
+children,1.3787369914853358
+appropriate arrangement,0.6666666666666666
+mohammedan law accords the custody,0.5
+problems for the child,0.5
+secular nation,0.5
+minor,1.0277735341745853
+meaning,1.8612727545949643
+appellant as the guardian,0.5
+pays damage,0.5
+interest,2.74353772015385
+weight in accordance,0.5
+appellant s fundamental right,0.0
+physical custody from the time,0.5
+actual charge,0.5
+quintessence,0.4
+futility,0.6285714285714286
+curial curatorship,0.5
+custody issue,0.5
+behalf,1.9888053603529987
+such agreement,1.0666666666666667
+applicable to the child,0.5
+permanence,0.3333333333333333
+deserve extraction,0.5
+differences,0.653125
+jurisdiction across the globe,0.0
+dimension,0.7919420837267862
+rights of the mother,1.0
+different legal systems,0.5
+custody petition,0.5
+to state,0.7092760180995474
+appeal,3.4125488033856883
+guardianship rights over the child,0.5
+sole caregiver,1.0
+needless controversy,0.5
+area,2.675167256985439
+indebtedness,0.5
+preferential claim of the mother,0.0
+child from social stigma,0.5
+alia,0.9479866480753792
+mother of the minor,0.5
+succession act,4.0
+caregiver,0.6666666666666666
+paren patrae jurisdiction,0.5
+infants,0.21428571428571427
+sub-section,0.0
+natural parents in the consequent guardianship  custody proceedings,0.0
+reason of ailment,0.5
+mandatory in the child s interest,0.0
+citizen,1.261748909029876
+best interest of the child,1.3333333333333333
+admission of children,0.5
+manner,1.4494591333432125
+law in india,0.8
+claim of the mother,0.0
+laxmi kant pandey v union of india manuscmanusc,0.5
+paren,1.0552805648457821
+succession,2.0923076923076924
+common responsibilities for the upbringing,0.5
+for the welfare of the child,1.0
+hindu counterpart,0.5
+actuality,0.38513513513513514
+protection of children,1.25
+circumstance,1.429931390219372
+civil,2.126558634963905
+views of child,0.5
+specific provision with respect,0.0
+jurisdictions across the globe,0.5
+perusal,0.750733137829912
+responsible for the care,0.5
+basi,2.0752712086391383
+parental authority,1.0
+comprehensive significance to section,0.5
+objections,1.2025072324011572
+for the child s development,0.0
+lawfulness,0.45000000000000007
+new zealand,0.2775881683731513
+part of the property,1.0
+individual,1.1485140562248994
+contact with the child,0.5
+child custody law,0.5
+basis,1.953226441078104
+onerous duties,0.5
+father of the minor,0.5
+settled legal position,0.875
+other instrument,0.7200000000000001
+married female,0.5
+pace with time,0.5
+irrespective,0.7304347826086957
+preferential claim,0.6666666666666666
+passport,0.8224299065420562
+with the procedural rules of national law,0.5
+attainment of majority,0.5
+appropriate arrangements,0.5
+parental responsibility agreement with the mother,0.5
+githa hariharan v reserve bank of india manuscmanusc,0.5
+legal forum,0.5
+term,3.6255105640901575
+view,2.441100058469462
+case law,0.5357142857142857
+requirements,0.7375979875979877
+relief,1.4748116760828625
+majority,1.3427634276342764
+domicile,0.23076923076923073
+guardianship right,1.5
+view of an uninvolved father,0.0
+countries,0.72236958443855
+vir,1.433587660539908
+information,1.1320502836800534
+biological parents of a child,0.5
+basi of such counselling,0.0
+appellant s application,0.0
+repercussions,0.3461538461538461
+world,0.7808471033398942
+vikramajit sen,0.8
+provisions of section,2.762376237623762
+legislation,3.2032032032032034
+fact,3.6284951019474962
+whereabouts,0.3508771929824561
+learned counsel,3.703333333333333
+steps in this direction,0.6666666666666666
+interests,1.0562317935913441
+basis of such counselling,0.5
+child s father,0.0
+particulars,0.9472222222222222
+natural parents,0.6000000000000001
+rights of the parents,1.0
+purposes of the present convention,0.5
+senior counsel for the appellant,1.7142857142857142
+civil code,0.7619047619047619
+tenet of christian law,0.0
+necessity,0.7072538860103627
+nay duty of the father,0.5
+responsibility for the upbringing,0.5
+salient provisions,0.5
+years,2.5395804110508022
+exercise,1.9400726466785694
+supreme court of the philippines,0.5
+actual charge of the affairs,0.5
+appeal of the appellant,0.8888888888888888
+party,2.2250894654439723
+contact,0.771807140228193
+interpretation of the act,0.6666666666666666
+maricel p miguel et al,0.5
+sight of the fact,0.5714285714285714
+forum,1.9016754850088184
+such manner as the court,0.5
+nay duty,0.5
+necessary for the best interests of the child,0.5
+consents,1.0
+responsibility over the child,0.5
+society,2.1182859399684046
+existence,0.731202675709574
+bank,9.40770083102493
+hearing,0.9644508209787979
+such concession,0.75
+father for any other reason,0.5
+apprehension of mr  luthra,0.0
+day,1.550999710228919
+question,2.980312372067635
+unwed mother in india,0.0
+responsibilities,1.1746031746031744
+guardianship  custody proceedings,0.0
+parents in the consequent guardianship  custody proceedings,0.0
+inability of the father,0.5
+custody of the parents,0.5
+parental responsibilities,0.5
+scmanu,7.940520446096654
+imperative that the rights of the mother,0.5
+step,0.8867024753460084
+width of welfare,0.5
+stead,0.7368888987675176
+united,0.7052854122621566
+parent in actuality,0.0
+inflexible procedural requirement,0.5
+mother in a permanent life - partnership,0.0
+property,2.9368986630013745
+parent of a child,0.0
+states,1.5120646995827023
+law,3.538923411654744
+appointing,1.2952380952380953
+dismissal order,1.0
+observation,0.7625074854374218
+ms indu malhotra,1.0
+best interest,1.6516129032258065
+parens,1.3333333333333333
+daily newspaper,0.4761904761904762
+property of the minor,0.5
+severe social complication,0.5
+legal system across the globe,0.0
+interests of a child,0.5
+relations,1.2666042780748663
+related rights,0.5
+nodu of seminal significance,0.0
+otherwise,1.2549820889894419
+usa,0.9416563489832968
+certificate,2.732600732600732
+which guardians,0.5
+sole parental authority of the mother,0.5
+application,2.3322596088086445
+uniform civil code,0.6666666666666666
+procedure by which guardians,0.5
+authorities,1.266131845134287
+perusal of the pleading,0.5
+parent in the consequent guardianship  custody proceedings,0.0
+different statutes,0.8
+for the child,0.9428571428571428
+illegitimate children,2.5
+insurance policies,0.2857142857142857
+intention,1.7585585585585588
+procedural rule,0.6666666666666666
+notion,0.9071080318193483
+particulars of the father,1.0
+such manner,1.0909090909090908
+detail,0.9737454684220567
+detail of the form,0.0
+to the child s best interest,0.0
+period,1.9480170842427122
+difference,0.8774847235514982
+guardianship wrangle,0.5
+institutions,2.2839413875598087
+consequent,0.9615838143114256
+letter,2.707240080105903
+claims of the mother,0.5
+efforts,0.7431827431827432
+conspectu,0.5
+seminal significance,0.5
+birth of every citizen,0.5
+nodu,0.3333333333333333
+custody orders,0.5
+procedural requirement,0.8333333333333334
+applies to a situation,0.5
+requisite steps,0.75
+procedural requirement of notice,0.5
+appellant succeeding,0.5
+maintenance of the child,1.0
+analysis of the law,0.5
+jurisdictional court,0.8
+problem for the child,0.0
+partnership,4.92929292929293
+prosaic procedural origination presents,0.5
+applicant,0.7861822513400833
+illegitimate children by virtue,0.5
+applicability of section,1.3888888888888888
+responsibility agreement,0.5
+legal systems across the globe,0.5
+india manuscmanusc,1.8333333333333333
+factor for consideration,0.5
+guardianship right over the child,0.0
+unconcerned father,0.5
+best efforts,0.4307692307692308
+superintendence of a court,1.0
+daily,1.1759042772658508
+guardian,3.176470588235294
+father in connection,0.5
+reason,2.6381270903010035
+social complication,0.5
+consequent guardianship  custody proceeding,0.0
+life,1.3352928273744242
+upbringing,0.6666666666666666
+primary concomitants,0.5
+own views,0.3508771929824561
+human,1.0063526196524266
+mother of an illegitimate infant,0.5
+legal nodu,0.5
+inflexible procedural requirement of notice,0.5
+that the right of the mother,0.0
+others,0.9074667328904616
+situate,0.8771266540642723
+relative,1.0564311594202898
+right to the mother,0.0
+care,0.8846948234137723
+common perception,0.30000000000000004
+judge,2.9012627415183325
+nation,3.034318722392117
+mariners in unchartered troubled seas,0.5
+common responsibility,0.0
+order under this section,1.0
+conspicuous part,0.6666666666666666
+indication that the welfare,0.5
+family code,0.5
+viable family nucleu,0.5
+delhi edition,0.5
+conclusion,1.3883437407077015
+financial capacities,0.5
+supervision,2.825
+mother s intent,0.0
+legal system,0.42857142857142855
+legislative intent,1.3823529411764706
+law of the land,0.4888888888888889
+assistance,0.8623872906826965
+full parental responsibility,0.5
+illegitimate child,3.5
+hindu minority,1.5
+procedural rule of national law,0.0
+notice as aforesaid,0.5
+natural guardian of illegitimate children,0.0
+hindu counterparts,0.5
+necessary constituent,0.5
+notice to the public,0.6666666666666666
+circumstances,1.3944461370073231
+unwed mothers,0.3333333333333333
+welfare,1.3226788432267886
+complications,0.48780487804878053
+in the notion,0.6666666666666666
+high court,7.7477477477477485
+national daily,0.5
+harm,1.2124444444444444
+infant son,0.2727272727272727
+jurisdiction,2.9539571926331507
+intent,1.8427075724373023
+unchartered troubled sea,0.5
+preference,1.0460251046025104
+manu,7.078142071124147
+concern,2.0544958000579303
+arjun,2.259259259259259
+provision of the act,0.8888888888888888
+other insurance policies,0.5
+parental authority of the mother,0.5
+track,1.311279069767442
+constituent for the wellbeing,0.5
+rule of national law,0.0
+tenets of christian law,0.5
+primary concomitant,0.5
+notice of the petition,0.5
+exercise in futility,0.5
+welfare of a child,0.5
+health,0.8632619439868204
+necessary to state,0.6666666666666666
+fundamental right,2.9790209790209787
+publicity,1.0266666666666668
+parental responsibility,2.5
+measure,1.1941357983816498
+universal declaration,0.6000000000000001
+views of the child,0.5
+contact with both parents,0.5
+indication,0.6940825616072829
+personal relation,0.2727272727272727
+courts,2.1216528162511543
+personal details,0.3333333333333333
+specific provisions,0.8571428571428571
+sight,0.6194871794871795
+parent  unwed mother apply for the issuance,0.0
+code,2.880559796437659
+orders if the best interest,0.5
+possible doubt,0.2857142857142857
+administrative authorities,1.4
+different legal system across the globe,0.0
+residence,0.7568831168831168
+terms,2.390350840909655
+behalf of the state,1.5263157894736843
+problem,0.6764352120789936
+first appeal of the appellant,0.5
+christian in india,0.0
+trite,0.7407407407407407
+christian unwed mothers,0.5
+part,5.294464509893076
+procedure on admission,0.5
+litigation,1.4968553459119498
+authority of a parent,0.5
+analysi,0.6883471219855659
+africa,0.33826247689463956
+repercussion,0.3692307692307692
+such counselling,0.5
+same issue,0.4632352941176471
+permissible in view of the child,0.5
+fixed deposit,2.3333333333333335
+whereabouts of the father,0.5
+other person,0.9635036496350365
+situations,0.7435282837967402
+indu,4.994030923704244
+staff,1.3233972834416785
+areas,1.6237236125072747
+welfare of the minor child,0.5
+determination,1.5980374665477253
+issue at hand,0.4
+collector,1.8095238095238093
+appropriate body,0.5
+preferential claims of the mother,0.5
+land,6.337534028705619
+nomenclature,0.8076923076923077
+reproduced- article,0.0
+system of adoption,0.5
+national law,0.34420289855072467
+obligations,0.9121212121212122
+code of civil procedure,5.5636363636363635
+responsibilities for the upbringing,0.5
+father,1.4298716229162676
+certain cases nothing,0.0
+services,1.6850241065659326
+different legal system,0.5
+addres,0.7140043587773987
+private social welfare institutions,0.5
+comprehensive significance,0.5
+child s development,0.0
+present article,0.5
+contrary to the child s best interests,0.0
+inability,0.7162534435261708
+appointment,3.1380281690140843
+superintendence,2.1538461538461537
+state government,3.027142857142857
+effect,2.184583388478191
+father evince,0.5
+seisin of the appeal,0.5
+mariner in unchartered troubled seas,0.0
+guardian of the person,1.5
+conundrum,0.5454545454545454
+unmarried father,1.0
+derelict,0.8250000000000001
+representative,1.0617102796119673
+unwed mothers in india,0.5
+rights to the mother,0.5
+life time,0.4
+place,2.333104345208554
+mother of a child,1.5
+natural guardians,1.0
+pace,0.7438834429971801
+direct contact with both parents,0.5
+issuance of a birth certificate,1.0
+paternity,1.9047619047619049
+christian unwed mother,0.5
+mental incapacity,0.5
+general context,0.30000000000000004
+conditions of living,0.5
+in the child s interest,0.0
+pursuant to a specific direction of this court,0.5
+issue,2.766776251628934
+affidavit to this effect,0.5
+back,1.1362801178713813
+birth certificate,2.444444444444444
+primary responsibility for the upbringing,0.5
+mandatory,0.9610983981693365
+curatorship,0.5
+weight,0.7538461538461538
+unwed parents,0.5
+orders,1.4936359300077826
+in a particular case,0.8333333333333334
+statutes within india,0.5
+maintenance,0.8632111808077473
+partner with the father,0.5
+passport for a minor child,0.5
+irrespective of the lawfulness,0.5
+constitutional expectation,0.5
+special notice of the applicant,0.5
+different child custody law,0.5
+marriage,1.8031648351648353
+ground,1.4186722903211633
+applies,0.9353049100122315
+damage,1.8281814532316336
+ability,2.0097418327420304
+issuance of the birth certificate,0.5
+for the best interests of the child,0.5
+concession,1.3748597081930416
+absence of a necessary party,0.5
+views of an uninvolved father,0.5
+accession to international agreements,0.5
+identity of the mother,0.5
+culmination,0.5555555555555556
+mischief,0.5934065934065934
+for the best interest of the child,0.0
+article,4.378806157159795
+south,0.8254159150130287
+neglect of the child,0.5
+recognition in the convention,0.5
+law jurisdictions,0.5
+conception of the child,0.5
+opinion,1.4960606342789635
+paren patrae jurisdiction in custody,0.5
+apply in terms,0.0
+perceived rights of parents,0.5
+limine,1.3636363636363635
+unquestionable recognition in the convention,0.5
+laws,1.4186274337269533
+determine,1.677171017033897
+natural mother,0.5
+child s interest,0.0
+november,0.7203359669727383
+begetter,0.5
+family nucleus,0.5
+respect,2.6704963235294117
+onerous duty,0.5
+recording,1.3265454545454545
+birth certificate for a child born,0.5
+responsibility for the child,1.0
+particular of the father,0.0
+such agreements,0.3333333333333333
+reasoning,0.6478937381404174
+different legal forums,0.5
+husband,1.6418918918918919
+system,1.1230229504341178
+interests of the child,2.3333333333333335
+principle that the maternity,0.5
+child s best interest,0.0
+regardless,0.599680170575693
+hindi by the word,0.5
+virtue,0.9167557066537153
+details,0.9406426856198188
+severe social complications,0.5
+miguel,0.3333333333333333
+seas,0.6671824230233637
+hindi,0.2882352941176471
+consent,1.224924012158055
+provision of this act,0.75
+single parent  unwed mother applies,0.0
+mamta,0.75
+directive,0.621951219512195
+institution,2.7327010745685443
+accordance,1.4069045211613462
+guardian of the person-,0.0
+children act,0.675
+procedures,0.6129675045984059
+guardian court,3.0
+father of the child,1.6666666666666667
+conclusion of such agreements,0.5
+making of other appropriate arrangements,0.5
+primary consideration,0.75
+word,2.065873981084096
+chapter,1.3867471532446152
+further information,0.9714285714285715
+apprehension,0.9319526627218935
+parent,0.9965655833245622
+resides,0.6
+court in order,1.0
+custody of the mother,0.5
+judge bench of this court,1.6486486486486487
+will,1.9263907124198036
+name,1.8996570753072433
+by way of a publication,0.5
+account,2.5754891049671977
+purposes of section,1.3076923076923077
+incapacity,0.8888888888888888
+saving,0.46787213432353897
+orders if the best interests,0.5
+purpose,2.519170317925504
+mr sidharth,0.6666666666666666
+time,2.4764180952862667
+rbi,5.4770790724470695
+christian law,0.5
+children by virtue,0.5
+necessary for the child s development,0.0
+issuance,1.05379513633014
+reality as the father,0.5
+areas of safety,0.5
+address of the father,0.5
+only relevant factor for appointing,0.5
+law accords the custody,0.5
+opinion of the court,1.75
+sole factor for consideration,0.5
+age of eighteen years,0.5
+general context of adoption,0.5
+state party,0.2424242424242424
+guardians of illegitimate children,0.5
+portion of the land,0.8
+parental responsibility over the child,0.5
+complication,0.49090909090909085
+right,3.07483248288682
+mothers,0.45365853658536587
+absence,1.092363454568179
+apathy of the father,0.5
+social welfare institution,0.5
+counsel,2.2246780703440323
+minor child,1.25
+sole guardian,1.0
+responsibility agreement with the mother,0.5
+policy,3.250773332247955
+requirement of any notice,0.5
+interest of the minor,0.5
+court of delhi,1.4761904761904763
+interpretation of the law,0.28571428571428575
+rules,3.130914366958792
+related right to the mother,0.0
+son,4.595622484812135
+custody from the time,0.5
+mention,1.6248742837095076
+disadvantage,0.9298245614035088
+states party,0.0
+conditions,1.9988092071092867
+nucleu,0.1627906976744186
+case,7.332269420884958
+misplaced assumption in the law,0.5
+pre-eminence,0.0
+holistic understanding,0.5
+competence,3.09375
+today s society,0.0
+affair,0.8341728395061728
+consent to the adoption,0.5
+future,0.9664487618116651
+concomitants,0.5
+court of law,0.673963133640553
+reliable information,0.28571428571428575
+inter alia,1.3280423280423281
+child s best interests,0.0
+legal conundrum,0.5
+directive principle,1.2727272727272727
+specific provisions with respect,0.5
+policies,0.5962145110410095
+absence of laxmi kant pandey,0.5
+with the procedural rule of national law,0.0
+legal nodus of seminal significance,0.5
+portal,0.1837651122625216
+child s place,0.0
+bench,2.5793391667754992
+rules of national law,0.5
+putative father,2.5
+leave,1.0147842365477848
+nominee,0.9666666666666667
+lawfulnes,0.45000000000000007
+administrative measures,0.6666666666666666
+opinion of court,0.5
+guardianship petition,1.0
+body,1.336775463480009
+imprimatur to an attempt,0.5
+necessity that religion,0.5
+guardianship right with regard,0.0
+notice,2.3300025999395686
+philippines,0.4166666666666667
+privacy,0.9812310030395137
+participation,1.138392857142857
+logical corollary,0.8571428571428571
+damages,1.7104072398190044
+priority,0.7086614173228346
+inconvenience,0.47368421052631576
+forums,1.5972222222222223
+effort,0.7536036036036036
+imprimatur,0.75
+judicial review determine,0.5
+declaration of human rights,0.6666666666666666
+curiae,1.6875
+different statute,0.8333333333333334
+such separation,0.5
+envelope,0.30624999999999997
+individuals,0.7198633479746219
+viable family nucleus,0.5
+christians in india,1.0
+court notice,1.368421052631579
+biological parent of a child,0.0
+time in the future,0.25925925925925924
+brooding reality as the father,0.5
+international agreements,0.25862068965517243
+citizen suffer,0.5
+third party,1.053291536050157
+provisions of the convention,1.0
+name of the father,0.6666666666666666
+legal interest,0.4444444444444444
+fact that the guardian court,0.5
+other appropriate arrangements,0.5
+school,1.2666111192798444
+details of the form,0.5
+related rights to the mother,0.5
+hand,2.0299623418254717
+such determination,1.2
+existence of a uniform civil code,0.5
+reside,1.537359522122102
+statutes,0.9659824046920822
+appellant,14.387096774193548
+human rights,0.9865951742627346
+administrative measure,0.6666666666666666
+financial capacity,1.0
+natural father,0.5
+physical custody,0.5
+public,2.923239095873367
+primacy,0.5
+prosaic procedural origination present,0.5
+essential for the welfare of the child,0.5
+connection with the begetter,0.5
+applies in terms,0.6666666666666666
+special notice,0.5
+conundrums,0.3333333333333333
+situation,1.1254754682459434
+specific direction of this court,0.5
+charge of the affairs,0.5
+observations,0.7454584147497534
+courts below,2.1463414634146343
+luthra,1.0
+personal relations,0.2727272727272727
+measures,1.126498218334953
+tenets,0.7777777777777778
+jurisdictions felt,0.5
+day for the hearing thereof,0.5
+parental custody of a child born,0.5
+different child custody laws,0.5

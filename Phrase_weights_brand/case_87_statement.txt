@@ -1,0 +1,180 @@
+production capacity,0.5
+capacity,1.7421691881525676
+industrial units,2.2
+government,3.5583785424010483
+process,1.6274942048088725
+units,5.004460400348129
+to the new industrial unit,0.5
+applicable to the new industrial units,0.5
+benefit,2.604810195438474
+exemption,1.7371031746031744
+relevant date,2.8
+c s clarifications,0.0
+increase,1.3270102600811262
+carbon,0.8105263157894738
+benefit of the aforesaid notice,0.5
+notice,2.3300025999395686
+noticing,0.6600378787878788
+aforesaid basis,1.25
+basis,1.953226441078104
+north,0.8632276384287743
+appeals,1.7060218112849692
+whereby benefit of exemption,0.5
+expansion,1.2191011235955056
+tri-del,0.0
+eastern state,0.45000000000000007
+custom,1.8742070505069293
+viz,0.7732570026579433
+talk of undertaken,0.0
+terms,2.390350840909655
+elt,0.9685135464974371
+industrial unit,2.8
+customs,1.9344608879492597
+payment,2.059553716565686
+cestat,0.806451612903226
+board of excise,1.1666666666666667
+clarification,1.0567698846387372
+production,2.1071428571428577
+aforesaid conclusion,1.1818181818181819
+ground,1.4186722903211633
+agreement,3.450434632433366
+notification,3.0112746633260263
+states,1.5120646995827023
+th day,0.781456953642384
+del,2.939294714549935
+same on the ground that the installation,0.5
+place before the cutoff date,0.5
+factory,1.1501182033096926
+ambiguity in the language,0.6666666666666666
+purpose,2.519170317925504
+way,1.7812722068664852
+behalf,1.9888053603529987
+tri,6.691276658457437
+-- wherea in the present case,0.0
+aforesaid notice,0.5
+consideration,1.9110153789142115
+-- whereas in the present case,0.0
+commercial production apply,0.0
+ground that the installation,0.5
+c s clarification,0.0
+manufacturing of formalim,0.5
+commercial production,1.6666666666666667
+substantial expansion,1.6666666666666667
+increase in installed capacity,0.5
+machinery,0.9071637426900585
+commissioner,2.271608643457383
+clause,3.526455026455027
+term,3.6255105640901575
+appellants,7.701086956521739
+undertaken,1.152542372881356
+board,2.401414435268602
+view,2.441100058469462
+menthol,0.5
+factory in north eastern states,0.0
+aforesaid,2.592896174863388
+factories in north eastern states,0.5
+merit,1.2419290263876248
+whereas,0.7770612954644255
+production applies,0.5
+appellants  unit,0.0
+th day of december,1.5
+appeal before the cestat,0.6666666666666666
+appeal,3.4125488033856883
+unit,2.176678509944691
+customs clarification letter,0.5
+eastern,0.43291404612159334
+authority,2.4352627108360636
+interpretation,1.518366298484459
+aforesaid basi,1.25
+careful consideration,0.9285714285714286
+excise duty,5.818181818181818
+percent,0.7207207207207208
+north eastern state,0.6666666666666666
+talks of undertaken,0.5
+circular,2.0360934182590236
+dioxide,0.1896551724137931
+formalim,0.5
+india,2.7684068260703585
+ambiguity,0.7008985879332478
+conclusion,1.3883437407077015
+agreement with the aforesaid interpretation,0.5
+cutoff,1.3240418118466901
+carbon dioxide,0.1956521739130435
+date in terms,0.5
+that clause,1.5
+commercial production  whereas,0.0
+order,5.472481489660944
+following kind,0.5
+central excise duty,0.75
+-- in the process,0.0
+notification conditions,0.5
+new,0.9418497626301229
+whereby benefit,0.5
+payment of central excise duty,0.5
+commercial production applies,0.5
+talk,0.6790085679314566
+department,1.9858367499068206
+talks,1.1657559198542804
+to the new industrial units,0.5
+mention,1.6248742837095076
+eastern states,0.6666666666666666
+december,0.9629002463054187
+central board of excise,1.0
+appellant,14.387096774193548
+mentions,0.5922498554077502
+conditions,1.9988092071092867
+installation,0.5759005145797599
+central board,1.5833333333333333
+excise,4.429175475687103
+installed capacity,0.6666666666666666
+assam,1.06
+wherea,0.8062806257067471
+state,6.817996007300392
+case,7.332269420884958
+-- wherea,0.0
+notification condition,0.5
+-- whereas,0.0
+clarifications,0.6111111111111112
+relevant date in terms,0.5
+rate,3.088725136774248
+new unit,0.3333333333333333
+central,2.61875
+letter,2.707240080105903
+language,0.8555828468744352
+condition,2.259476395625584
+date of commencement,1.3
+merit in this appeal,0.9285714285714286
+production apply,0.5
+undertaking,2.8508771929824563
+on the ground that the installation,0.5
+place,2.333104345208554
+commencement,1.2037037037037035
+capacity of the unit,1.6666666666666667
+government of assam undertaking,0.5
+factories,1.1428571428571428
+language of clause,0.6666666666666666
+day of december,1.5
+commercial production  wherea,0.0
+present case,1.5611814345991561
+north eastern states,0.5
+tribunal,5.07183212267958
+kind,0.9236881920088026
+new industrial unit,1.3333333333333333
+date,6.195616975795285
+proces,1.627944583238701
+manufacturing,1.07831715210356
+language of the para,0.5
+cbe,0.19399538106235564
+substantial expansion by way,0.5
+new units,0.5
+duty,3.2272215973003378
+cutoff date,2.0
+aforesaid interpretation,0.5
+assam undertaking,0.5
+new industrial units,1.5
+para,2.300239586747483
+following kind of units,0.5
+expansion by way,0.5
+basi,2.0752712086391383
+day,1.550999710228919
+notifications,1.9743589743589745

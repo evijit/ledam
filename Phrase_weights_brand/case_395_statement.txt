@@ -1,0 +1,2425 @@
+apprehension of bias,1.0
+interest reipublicae,1.0
+government,3.5583785424010483
+court in judicial proceedings,0.5
+alleged offence,1.8333333333333333
+disciplinary committee,0.5
+signature,1.1400966183574879
+amicus curiae,1.6666666666666667
+time of the hearing,0.4444444444444444
+earlier judgments  orders,0.0
+significance arise,0.5
+public mischief,0.8
+such curative petition on the ground,0.0
+union,2.0981927710843373
+king s bench,0.0
+strong reasons,0.75
+number of transactions,0.4444444444444444
+cause,1.8431210321626654
+way,1.7812722068664852
+systems,0.3927792585413133
+indispensable adjunct to all other powers,0.5
+indicate that this court,0.5
+lawyers  ed,0.0
+to those powers,0.6666666666666666
+regard to the fulfillment,0.5
+share,2.560794932990637
+authorities in india,0.75
+fitzleet estates,0.5
+court as nullity,0.5
+contrary,1.027917657672435
+question of construction,0.8
+naresh shridhar mirajkarvs,0.5
+court in harbans,1.0
+amenable to correction by issuance,0.5
+correctnes,0.8404159132007234
+than the principle of finality,0.5
+high prerogative writ,0.5
+for the enforcement,0.8
+public officer,1.0
+weapon,1.0217176079034398
+israel,0.11667117482643585
+breach,1.3366228070175439
+scr,2.483838975311538
+possible views,0.5
+provisions of the act,2.6056338028169015
+certiorari,1.8333333333333333
+ward,2.4967109028473318
+conferment,1.0909090909090908
+stage,1.1298537871524448
+judges in the keshav mills co ltd,0.5
+law courts,0.75
+curative petition on the ground,0.0
+plenary power of the supreme court,0.0
+limited,1.3713554955535188
+court sawant,0.5
+extraordinary situation,0.6666666666666666
+subject,2.4420366233344897
+order,5.472481489660944
+creature,0.4845338524767467
+width,0.5151515151515151
+more than doubt,0.6666666666666666
+such curative petition,0.5
+smt,0.7459757206267715
+comparison with the great mischief,0.5
+high court in exercise,1.0714285714285714
+bahadur,1.0
+babu,1.1979166666666667
+ingredients,0.7539893617021276
+aaron,0.15664160401002505
+inflexible in administrative law,0.5
+majority opinion,1.1666666666666667
+party to the litigation,0.5
+shridhar mirajkarvs,0.5
+mukharji,2.6666666666666665
+conceptual import,0.5
+petitioner in these writ petitions,0.0
+proper apprehension by the court,0.5
+urges,0.2804878048780488
+member,2.649111111111111
+public duty,1.625
+thereby,0.8226831482645437
+northern india caterers,0.5
+court by clauses,0.5
+parties,1.8210828547990157
+lane decision,0.5
+provision of order xl rule,0.5
+prerogative,0.84
+cassell,0.2777777777777778
+version,1.0500313479623824
+senior judges,1.0
+lack of jurisdiction,1.1428571428571428
+condition,2.259476395625584
+appellate,2.561224489795918
+that certainty,1.5
+speech,1.9520676691729324
+vogue in india,0.5
+litigant,1.2698412698412698
+america,0.9205946994182289
+high prerogative writs,0.5
+experience-guided choice,0.0
+relevant statutory limitation on the jurisdiction,0.5
+record of an inferior court,0.5
+mistakes,0.49709302325581395
+international,1.4453445246925631
+lordships,1.9166666666666667
+context,0.9269383697813122
+judgment for refund,0.5
+subsequent event,1.25
+proces,1.627944583238701
+limitation,2.4984479402325457
+changing society,0.6666666666666666
+view that the court,0.6666666666666666
+career,0.5387620192307693
+same position,0.5
+fault,0.8125244007183572
+earlier judgment,1.8
+making,1.409351874023649
+lord wilber force,0.5
+powers,1.876345371920593
+due to a judge,0.5
+same principle,0.7309941520467836
+judgment of raja prithwi,0.5
+broad issue,0.25
+broome,0.30000000000000004
+compulsion of judicial conscience,0.5
+certainty of law,0.5
+earlier judgments  orders of this court,0.0
+final judicial verdict,0.6666666666666666
+scheme,3.415949119373777
+president,2.1267129228100607
+technicalities,1.0
+events,0.6160483175150993
+territory of india,2.5
+charge,2.7679815308681284
+high courts,2.676470588235294
+right miscarriage of justice,0.5
+country,1.2903191103863751
+raja prithwi,2.0
+in theory,0.36176470588235293
+growth of law tends,0.5
+stare decisis,2.0
+case by the house,0.5
+inherent powers,2.8
+that judgment,0.8444444444444444
+mind that certainty,0.5
+final judgment,1.7575757575757576
+transaction,5.884921444603142
+opportunity,0.946186440677966
+view of law,1.0
+request to the chief justice,1.2
+punishment under section,1.3333333333333333
+justice on reconsideration,0.5
+heresy,0.1890243902439024
+applications,1.0021816198527407
+events after the final judicial verdict,0.6666666666666666
+links with a party,0.5
+spite,0.8919640378414163
+naresh shridhar mirajkar,1.0
+post,2.344803646492219
+appropriate order,1.565217391304348
+which numerous case,0.5
+supervisory jurisdiction,1.1428571428571428
+appellant before the high court pursuant,0.5
+perceptible limitation,0.5
+more than doubts,0.5
+bodies,0.8969063256135499
+merit,1.2419290263876248
+dis,5.502574596707549
+judges of this court,1.4782608695652173
+local limits,1.4444444444444444
+inherent in the court,0.6666666666666666
+paramount importance,0.5833333333333334
+unsuccessful in review petitions,0.5
+sweep,0.9338152247571719
+exists in most countries,0.5
+bhushan,4.9375
+ingredients of rule,0.5
+bengal,1.9299191374663072
+exemplary costs on the petitioner,0.5
+body of persons,1.0
+s nagaraj s case,0.0
+curative petitions on the ground,0.5
+miscarriage of justice,2.642857142857143
+apex court,1.375
+conscience,0.7416879795396419
+attorney,1.9875
+inherent power,3.0
+precedent value,0.5
+suffice,0.5886850152905199
+than the power of review,0.5
+other documents,0.619047619047619
+fitzleet estate,0.5
+reviewing,0.6600000000000001
+petition under the inherent power,0.5
+learned judge,3.3692307692307693
+habeas corpus,1.4
+anr,1.1271033322299457
+learned counsel for the parties,1.263157894736842
+logic,1.091578947368421
+lies,1.1651128135567317
+special,1.7363344051446945
+footing,0.6555183946488294
+conclusive nature of the precedent,0.5
+december,0.9629002463054187
+case of the indian aluminium co ltd,1.0
+floodgate,1.0000000000000002
+babu singh,1.0
+superior courts,1.1666666666666667
+abstract inherent jurisdiction,0.5
+modification,0.9714977645305514
+court by appropriate proceedings,1.3333333333333333
+new principle from life,0.0
+ipc in afzal,0.5
+overruling of the view,0.5
+courts in india,1.4285714285714286
+to the writ jurisdiction of this court,0.5
+bench in the same court,0.5
+doubt,1.3646267723102583
+violation of the principle,2.0
+bar,1.4720990391722097
+characteristic,0.6366782006920415
+lords,0.8620729190552625
+gross abuse,1.0
+principle,1.9620890732001848
+superior court to an inferior court,0.5
+that source,0.3589743589743589
+declaration of law,1.1818181818181819
+dismissal of review petition,0.5
+scope for an apprehension,0.5
+ends,1.0190933803699291
+ranganath misra,1.5
+instance of an aggrieved person,0.6666666666666666
+former decision of this house,0.0
+factor,1.2878742338904643
+final on dismissal of a review petition,0.5
+raghubir,1.625
+abuse of the process,1.3
+unanimous approach,0.5
+stare decisi,2.0
+that various benches of this court,0.5
+which numerous cases,0.5
+limited vs the london county council  lr,0.0
+date,6.195616975795285
+uttar pradesh,2.8
+reference,2.1755848210276256
+exists,0.6541319337244006
+administration of justice,1.1092436974789917
+ranganath,1.75
+supreme court in the aforementioned clauses,0.5
+benches,1.1746031746031744
+life imprisonment,1.2083333333333333
+different types of jurisdictions,0.5
+plenary powers,0.75
+approach,1.001908852302553
+mr shanti,9.666666666666666
+view of the matter,1.7142857142857142
+close of the hearing,0.5
+such decision,1.5294117647058822
+gwyer,1.0
+indictment for trial,0.0
+highest court in england,0.5
+supreme court,1.4278957326045825
+new versions,0.25
+arguments of mr  shanti,0.0
+co-ordinate courts,0.0
+precedents,0.6333333333333333
+aslam,0.5
+contrary to law,1.3846153846153846
+procedural writ,0.5
+narrow sense,0.42857142857142855
+high,5.367119186841496
+appeal to the house,0.5
+result of that punishment,0.5
+mohdaslam,0.5
+event,1.4310854436179261
+ordinarythey,0.5
+state for clarification,0.5
+supreme court of united states,1.0
+old decision,0.5
+subordinate to the larger benches of this court,0.5
+ut sit finis lithium,0.5
+english,0.9836154262307752
+mr shanti bhushan,9.666666666666666
+different bench,1.0
+argument of mr  shanti,0.0
+secase,0.4
+oral order,0.6666666666666666
+other countries,0.4596774193548387
+declaration of the practice statement,0.5
+same bench unless the same judges,0.5
+holmes,0.689655172413793
+duty of the court,1.55
+continuity,0.5565476190476191
+authority in that regard,0.5
+vs state of bihar manuscmanusc,0.5
+corrective power,1.5
+common law courts,0.5
+justice between the parties,1.75
+supreme court rule,1.8333333333333333
+superior courts of justice,0.5
+dismissal of the petitioner,0.5
+scope of the curative nature,0.5
+court in the country,1.0
+perceptible limitations,0.5
+certiorari whichever,0.6666666666666666
+similar appeals,0.5
+highest court of the land,0.6666666666666666
+affairs,0.8608695652173913
+judge in the keshav mills co ltd,0.0
+state of karnataka,1.9259259259259258
+to the public interest if case,0.5
+such that i,0.5185185185185185
+statutes with a view,0.5
+question whether a writ,0.5
+consideration to the question,0.6666666666666666
+senior counsel in regard,0.5
+final order of this court,1.0
+march,1.0644238856181665
+equal footing,0.45000000000000007
+senior-most judges,0.0
+practice as an advocate,0.5
+gross injustice,0.75
+experience,1.0353951355971713
+ipc,2.785166240409207
+exces,0.9881465517241379
+judgments  order of high courts,0.0
+own mistake,0.3333333333333333
+members that a revision,0.5
+individual litigant,0.5
+order xlvii rules,0.5
+learned judge in the case,0.0
+law to new urges,0.5
+own motion,0.4444444444444445
+judicial order of the high court,0.5
+well - settled principle that the technicalities,0.0
+condition of the society,0.0
+committee of the house,0.5
+constitutional law,0.5
+council in venkata narasimha appa row,0.5
+mistake,0.6870879120879121
+permissible ground,0.5
+new,0.9418497626301229
+writ to another judge,0.5
+new principle,0.5555555555555556
+violation of natural justice,0.5
+judgments  orders of high courts,0.0
+clt,0.30607966457023056
+correction of final orders,0.5
+essential ingredients of rule,0.5
+that inherent powers of the court,0.5
+choudhry,1.0
+document,1.401100265092073
+court in the aforementioned clauses,0.5
+hope,0.6530575035063113
+exceptional in that ai,0.5
+king,2.506727795123197
+right of the petitioners,0.6666666666666666
+wards,1.1401835683904185
+curative petition,4.0
+state of maharashtra,2.5434782608695654
+mirajkar,1.0
+emphasi,0.9191619047619048
+event of the bench,0.5
+other writ petition,1.125
+immunity company,1.0
+tax payer,0.5714285714285714
+royal courts of common law,0.5
+certiorari under article,1.5
+types,0.6765151515151515
+factors,0.9829522460542292
+judgment of the federal court,1.3333333333333333
+shift,0.6473508552357112
+singh,3.7791111111111113
+wrong,1.2933182103578877
+chile,0.16428571428571428
+kingdom,0.6954545454545455
+service,4.257395095954566
+application to individual cases,0.5
+therefore,2.960332350576253
+end,6.1484001628618765
+subject - matter,0.0
+majority in the seven - judge bench,0.0
+rule,5.04
+stipendiary,0.5
+relevant statutory limitation,0.5
+human fallibility,0.5
+proceedings,1.7670925223666287
+favour,1.653145208700764
+state of gujarat manuscmanusc,1.05
+bench of the supreme court,1.3333333333333333
+english jurisprudence,0.5
+review petition as a matter,0.5
+chartered high court,0.5
+validity of the order,0.75
+vogue,0.5898617511520737
+factors like the doctrine,0.5
+privy council in venkata narasimha appa row,0.5
+chandra,0.7012987012987013
+chand,1.4868766404199476
+cause perpetuation of irremediable injustice,0.5
+from the ground,0.25
+deprivation of fundamental rights,0.5
+competent court convicting,0.5
+costs,0.8167395522604189
+ingenuity,0.5
+false statements at different stages,0.5
+case of frivolous application,0.5
+whatever name,0.8333333333333334
+privy,1.2571428571428573
+indictments,0.5
+governance by perceptible limitations,0.5
+attempt,0.7943782192788815
+process,1.6274942048088725
+hardship upon individual litigants,0.5
+privy council,2.15
+extraordinary situation in the larger interests,0.5
+to judicial conscience,0.6666666666666666
+power,3.8165227690948367
+composition,1.4736842105263157
+powers on this court,0.5
+remedial injustice,0.5
+significance arises,0.5
+that various bench,0.5
+judicial procedural writs like writ,0.5
+lloyds,0.4
+examination,2.4920345926263088
+order of this court,2.125
+opportunity under inherent powers,0.5
+re-examination of a final judgment,0.0
+essential ingredients,1.0
+earlier judgment of the constitution bench,0.5
+other powers,0.75
+that the earlier decision,0.5
+creature of the constitution,1.25
+ltdsupra,0.5
+debito,1.75
+disciplinary,1.4712643678160922
+lords of appeal,0.5
+supreme court bar association,2.3333333333333335
+legal systems,0.4571428571428572
+clarification,1.0567698846387372
+earlier decision,1.5454545454545454
+condemned prisoner,1.0
+lall choudhury s case,0.0
+absolute justice,0.5
+position,1.549133168619177
+sweep of the power,0.5
+one,4.845669314438648
+law formulating principle,0.5
+petition,5.3436539306104525
+impaired unless this practice,0.5
+remedy,1.3214024835646458
+guidelines,1.540251572327044
+proper apprehension,0.5
+transactions,6.503443526170798
+shridhar mirajkarv,0.5
+consideration,1.9110153789142115
+mill,1.0891891891891892
+lord hoffmann,1.0
+appeal no,2.288135593220339
+to correction by issuance,0.5
+s nagaraj,1.0
+jurisdiction over the earlier decision,0.5
+indicate,1.1663542642924085
+to the public interest if cases,0.5
+common ground,0.5454545454545454
+residual source,0.5
+freedom of speech,2.2937062937062933
+commissioner,2.271608643457383
+clause,3.526455026455027
+court under the scheme,0.6666666666666666
+fairness to the learned counsel,0.5
+alternatives,0.46963562753036436
+false statements,0.4
+unanimou on the point that an order,0.0
+judicial procedural writ,0.5
+patent lack of jurisdiction,0.5
+limitations,0.8120300751879699
+lloyd,0.2888888888888889
+superior court,0.7222222222222222
+possible view,0.5
+misconduct,1.2976744186046512
+position with regard,0.4
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+scope of the power,1.1666666666666667
+point that an order,0.5
+question whether the impugned order,0.5
+appellant in the court,0.5
+in review petitions,0.5
+such curative petitions on the ground,0.5
+characteristics of the writs,0.5
+swami,1.168421052631579
+lis,3.299683526578166
+point of jurisdiction,0.5
+enable,0.8960337456100166
+member of the house,0.0
+consols,0.5
+special leave,1.903225806451613
+read with article,1.3636363636363635
+obstruction,0.47058823529411764
+high courts in india,1.0
+review of a judgment,0.6666666666666666
+that floodgate,1.0
+stream,1.0738555922605002
+choudhary,1.6666666666666667
+justice on the facts,0.5
+performance,1.4794327394994442
+correction by issuance,0.5
+number of cases,0.5
+judgment hidayatullah,0.5
+court of parliament,0.5
+clemency,0.4
+court so that floodgates,0.5
+interest of justice,1.2
+motion,1.9249311294765838
+majority of the learned judges,0.5
+residual source of power,0.5
+singhv,2.4615384615384617
+own judgments under article,0.5
+bain,0.22105263157894736
+occasion,0.7946745562130177
+certainty of the law,1.0
+high court pursuant,0.6666666666666666
+carrier,0.4186046511627907
+triveniben s case,0.0
+supreme,1.443815331010453
+large number of transactions,0.6666666666666666
+significance arise for consideration,0.0
+harban,1.0
+requirement,1.2416133333333332
+special judge,2.375
+highest court,1.1
+departure from rigid adherence,0.5
+discretionary power,1.4
+local limit,1.4444444444444444
+situation in the larger interests,0.5
+to those power,0.6666666666666666
+party through no fault,1.0
+authorities under article,1.0
+to the larger benches of this court,0.5
+general,1.7536558414534391
+nagaraj,1.5
+era,4.5714514802649
+cpc,1.0529279279279278
+judgments under article,0.5
+that fact,0.45616438356164385
+question before a constitution bench,1.0
+judgments  order of this court,0.0
+course to the limitation,0.5
+see,2.8180360783074034
+nature,1.4149926876444778
+injustice,1.1882716049382718
+new par consol,0.5
+registry,0.510662177328844
+former decisions,0.5
+chartered high courts in india,0.5
+english law,1.1616161616161615
+individual case,0.6000000000000001
+courts of justice,0.5333333333333333
+iiappeal,0.5
+re-hearing,0.0
+precedent,0.8982341399607586
+petitioners,3.536507936507937
+supplementary powers,0.5
+high court as subordination,0.5
+states of america,0.43421052631578955
+alternative,0.841508109794136
+fini,1.5027229532163744
+directs,0.5811764705882353
+united state of america,0.0
+secretary of state,0.8125
+writ to a different bench,0.5
+power of the high court,1.625
+fallibility,0.17857142857142858
+earlier judgments  order,0.0
+perusal of the article,0.5
+order of the high court,1.296875
+co-ordinate court,0.0
+capacity,1.7421691881525676
+jurisdiction of a high court,1.0
+reemployed for the control,0.5
+insofar,0.9295774647887324
+note of the complaint,0.5
+director,1.3549769585253457
+greater bombay,1.5
+own mistakes,0.3333333333333333
+capacity as an advocate,0.5
+mills,1.026315789473684
+curative petition under inherent power,0.5
+publication,1.3442779291553135
+guideline in regard,0.0
+matters,1.4810665618448637
+party to the case,1.3333333333333333
+instance,0.9469803370786518
+inter,3.683850287482992
+bygone age,0.5
+ultimate court of appeal,0.5
+common law,0.64
+judges in s nagaraj,0.5
+court,12.24425115501509
+that punishment,0.75
+links,0.4514285714285714
+declaration,2.152560083594566
+judge of the high court,1.75
+disciplinary committees,0.5
+jone,0.2803792569659443
+parliament,2.6571235781762095
+agreement,3.450434632433366
+accordance with the view,1.0
+earlier final judgment of this court,0.5
+bench unless the same judge,0.5
+high court of bombay,2.176470588235294
+objection,1.68120480131216
+high court issue,1.0
+person,4.291511329454258
+earlier judgments  order of this court,0.0
+law lords,0.5
+alleged offences,2.0
+other misconduct,0.6666666666666666
+immunity,0.44999999999999996
+correctness,0.8404159132007234
+such writ,0.8
+enforcement of the rights,1.5
+nothing,0.8658723322806009
+charges against the appellant,0.75
+courthistorically,0.5
+singhvs,0.5
+unusual unanimous approach,0.5
+age,4.526374474274117
+rajunder narain rai,0.5
+different stage,0.6060606060606061
+number,1.4802651440973922
+exemplary cost on the petitioner,0.0
+courts within the territory,1.0
+decision,2.9514937765898557
+review petition on the ground,0.5
+prerogative writs in english law,0.5
+hands,1.1725490196078434
+court in naresh shridhar mirajkarvs,0.5
+litigants,1.5555555555555556
+five - judge bench as a nullity,0.0
+on dismissal of a review petition,0.5
+claim,2.817264601856604
+next step,0.5
+dissenting opinion,1.25
+house,2.0021735292386764
+jagannatha shetty,0.5
+frequent exercise,0.5
+larger benches of this court,0.5
+final courts,0.5
+indian high court,0.5
+years from the date,1.8518518518518519
+independent basis,0.6666666666666666
+judgment  order,0.0
+notice of this court,1.0
+interpretation,1.518366298484459
+denial,0.8338926174496643
+state of uttar pradesh,1.6470588235294117
+year,2.8349484769759212
+frequent exercise by this court,0.5
+court bar association,1.6666666666666667
+order xl,3.0
+truth of the holmesian aphorism,0.5
+judgment,3.288216560509554
+order xl rule,3.5
+law court,0.8
+claims,1.1941982272360998
+- most judge,0.0
+extent of power,0.6666666666666666
+other authorities under article,1.0
+ex debito justitiae ranganath misra,0.5
+khodaydistillery,0.0
+decision of the constitution bench,1.2727272727272727
+remedies,0.6206451612903225
+than doubts,0.5
+subordination,0.8
+nine-learned judges,0.0
+co ltd v broome,0.5
+act,12.870263922028107
+judicial proceeding,1.3333333333333333
+different type,0.382089552238806
+analysis,0.6606741573033708
+antulayvs,0.5
+maganlal chhaganlal s case,0.0
+antulay,7.0
+tramways,1.0
+favour of the tax payer,0.6666666666666666
+judges of the highest court,0.5
+finality,1.1746031746031746
+shridhar,1.0
+faith,0.6832428364066448
+supreme court of the united states,0.5
+section,9.287987283173626
+old ones,0.26
+mirajkarvs,0.5
+correct law,0.9230769230769231
+prejudice to the powers,1.0
+other body of persons,0.6666666666666666
+water,0.9741079360379036
+west bengal,3.3333333333333335
+constitutional scheme,1.6363636363636365
+chartered high court in india,0.0
+directs that all authority,0.0
+officers,2.442124212421242
+united state in ohio power company,0.0
+considerable significance arises,0.5
+present in the king s court,0.0
+apprehension by the court,0.5
+advance,1.2070333024745414
+lord reid,0.8333333333333334
+govind,0.7333333333333335
+regard,2.723310344827586
+permissible as the benches of the supreme court,0.5
+right miscarriage,0.5
+regard to reconsideration,0.5
+promotion,2.946428571428571
+ultimate objective,0.6666666666666666
+direction,1.8495050210098996
+rights,1.6349541930937281
+principle of disqualification,0.5
+supplementary power,0.5
+federal court,1.2030075187969924
+truth,0.9590230664857531
+fundamental rights,2.1587301587301586
+discretionary writ,0.5
+indictment,0.48780487804878053
+guidelines in regard,0.6666666666666666
+facts,1.4696673624372698
+municipal,2.4099173553719004
+rules of procedure,1.5555555555555556
+- most judges,0.0
+summons,0.9764492753623188
+anisminic,0.6666666666666666
+speaking for the constitution bench,1.0
+petition under inherent power,0.5
+julius,0.46153846153846145
+wide powers,0.48
+guise,0.6130414088529271
+that regard,0.5944055944055944
+chancery,1.0
+lack,0.6349809734425119
+further contention,1.0769230769230769
+home,0.9826663267907214
+senior,1.989753211141579
+powers on the supreme court,0.5
+latter,0.7109238669791096
+better view,0.2777777777777778
+records,0.9879294336118848
+cost,1.2954397451466992
+decision of the house,0.5
+judicial conscience,1.1428571428571428
+contempt,1.5446913580246913
+hoystead,0.5
+member of the court,0.0
+authority of that judgment,0.5
+infringement,1.152439024390244
+powers like the power,0.5
+course,1.6545957498716626
+principles from life,0.5
+interest if case,0.5
+company,5.864471879286695
+fair opportunity,0.6000000000000001
+exemplary costs,0.5
+pradesh,4.365853658536586
+disposal of review petitions,0.5
+freedom,1.9254884143571103
+decision upon a question,0.5
+errant,0.4848484848484848
+constitution read,0.7000000000000001
+court so that floodgate,0.5
+jurisdiction under article,1.2857142857142858
+arguments,0.7212211466865226
+hereunder,1.4457142857142857
+nominated officespost,0.5
+re-adjustment,0.0
+west,1.1420057009587976
+basi of jurisdiction,0.0
+final court in favour,0.0
+least in theory,0.3333333333333333
+excess,0.9860601614086574
+to the bench at any stage,0.5
+field,1.5820968371729793
+matter,2.8088923076923082
+judgment of the supreme court,1.0
+essential ingredient,0.8769230769230769
+party to the appeal,0.5
+curative petitions,0.5
+gross abuse of the process,1.0
+dispenser of absolute justice,0.5
+considerable significance arise,0.5
+final orders,0.8333333333333334
+fairnes to the learned counsel,0.0
+members of the house,0.4444444444444444
+violation of principles,0.6666666666666666
+bijai govind singh,0.5
+ultimate tribunal,0.5
+indian,1.2604961505560306
+aid,5.498621453008654
+jurisdictions,0.48571428571428565
+significance,0.6059966216216216
+ingredient,1.2242798353909468
+further power,0.75
+nine-learned judge,0.0
+ahlwat,2.0
+prerogative writs,2.0
+mandamus,3.0
+gross miscarriage,2.0
+indispensable foundation,0.5
+mere restatement of the provisions,0.5
+by the supreme court under clause,1.0
+court of india,1.4285714285714286
+witness,5.333906623599983
+discretionary jurisdiction,1.25
+other courts,0.75
+theory,0.43014388218941363
+khanna,1.2
+procedure,2.552771605064117
+public interest that a final judgment,0.5
+state of america,0.0
+petitions,1.3930830039525692
+dismissal of a review petition,0.5
+oppressive to judicial conscience,0.5
+guideline,1.5641711229946524
+provision,5.439002243350069
+link,0.6814600840336135
+support,0.8630946786249609
+holmesian aphorism,0.5
+advocates,0.6153846153846153
+authority under article,0.5
+prerogative writ in english law,0.0
+same question,0.5357142857142857
+earlier decision on the ground,0.0
+importance,0.8632871064467765
+large number,1.0979284369114877
+estate,1.9402985074626868
+tradition,0.4745794745794746
+bihar manuscmanusc,1.9655172413793103
+appropriate directions,1.0
+individual cases,0.30000000000000004
+limited ground,1.4285714285714286
+gujarat manuscmanusc,1.1
+final court in the country,0.5
+power on this court,0.0
+court in india,1.0
+convicts,0.45000000000000007
+object,1.4940119760479043
+kumar,2.028839704896043
+confusion if the law,0.5
+court after the petition,0.5
+validity of the reasoning,0.5
+of rare cases,1.5714285714285714
+judgement,0.36589698046181174
+extent,1.410108024691358
+provisions of order xlvii,0.5
+expression of the petitioners,0.5
+interest if cases,0.5
+curative petition under the inherent power,0.5
+unsatisfactory decision,0.5
+course in the guise,0.5
+such case,0.7332761578044598
+court under article,2.032258064516129
+former decision,0.5
+final courts in favour,0.5
+social services,0.5
+court in the earlier case,0.6666666666666666
+income-tax bombay north manuscmanusc,0.0
+india caterer,0.5
+review,1.3564101463582128
+courts in the country,0.75
+davy,0.0
+issues,1.1246716508385532
+order on the ground,0.6666666666666666
+shetty,10.166666666666666
+request,1.1474439594584596
+cloud,0.3701492537313433
+amnesty,0.23863636363636362
+jones vs secretary,0.5
+commissioner of income-tax bombay north manuscmanusc,0.0
+shah,1.9074421513445903
+better way,0.3376623376623376
+social,1.161734693877551
+bia,1.0685644390081173
+from the restraint of jurisdiction,0.5
+supreme court as nullity,0.5
+par consol,0.5
+foundation,0.770509435807177
+majority opinion of the ultimate tribunal,0.5
+stages,0.7858851674641147
+firm opinion,1.0
+lall choudhury,0.5
+errant advocate,0.5
+ahlwat s case,0.0
+aid of the supreme court,0.5
+lawyers,0.5820642978003383
+regard to the writ jurisdiction,0.5
+earlier view by the house,0.5
+principles,1.3198511166253102
+following practice statement,0.5
+final court on questions,0.5
+floodgates to similar appeals,0.5
+council,1.464939453675021
+quo warranto,2.3333333333333335
+maintainability of the writ petition,0.8333333333333334
+social service,0.5
+cherry,0.43609022556390986
+settled position in law,0.5
+that inherent power of the court,0.0
+writ,2.8882378560889794
+wide powers on this court,0.5
+need,1.1097650269586634
+party by the highest court,0.0
+abuse,0.6372486093281985
+actual bias,0.5
+senior-most judge,0.0
+sua sponge,0.5
+justice in any cause,0.5
+recent years,0.40754716981132083
+calcutta manuscmanusc,0.8333333333333334
+pinochet,1.0
+concurring opinion,0.8
+benches of this court,1.0
+other body,0.5142857142857143
+various provision,1.5789473684210527
+deprivation,0.75
+many transactions,0.6666666666666666
+vs the london county council  lr,0.0
+judges of the constitution bench,0.6666666666666666
+characteristic of the writs,0.0
+further jurisdiction,1.0
+dismissal,1.614076246334311
+london county council  lr,0.0
+state in ohio power company,0.0
+certification,2.7598566308243724
+thomas,0.47182521087160256
+assumption,0.47735650342285413
+head,1.5827778446537666
+cases,1.9728229418951067
+erroneous assumption,0.8
+inadequate ground,0.5
+following cases,0.4761904761904762
+original,1.332190013153732
+other supreme tribunal,0.5
+only alternatives,0.3333333333333333
+united kingdom,0.7304347826086955
+justice to the parties,0.8333333333333334
+municipal corporation,1.3439153439153437
+authority for the proposition,1.0
+only jurisdiction,0.6666666666666666
+court of common law,0.0
+spite of the width,0.5
+statutory provision,1.1638418079096045
+connection,1.050640279394645
+civil appeal no,2.1403508771929824
+learned senior counsel,3.4615384615384617
+conclusion that execution,0.5
+inherent powers after dismissal,0.5
+type of writs,0.0
+limits,0.8405888207868406
+same position as the court,0.5
+ends of justice,1.45
+india,2.7684068260703585
+pashokan,0.5
+collateral proceeding on the view,0.5
+evident from the decision of the constitution bench,0.5
+bengal immunity company,1.0
+street tramways company,0.5
+other forum,0.5333333333333333
+validity of a final judgment  order,0.0
+venture,0.9918552036199095
+footing in the matter,0.5
+policy of certainty,0.5
+supreme tribunal,0.5
+pre - constitutional era,0.0
+jones,0.2735294117647059
+association,1.2099052684061826
+other bench,0.5714285714285714
+source of power,0.8333333333333334
+supplscc,0.5
+governance,0.84
+view that the constitution,0.75
+event after the final judicial verdict,0.0
+from the case,0.45000000000000007
+special leave petition,2.013333333333333
+consequences,0.6659897713598075
+pp-,0.0
+reliance on dicta,0.5
+decision of this court,2.3260869565217392
+new views,0.20833333333333334
+re-consideration of a judgment,0.0
+doubtful issues,0.5
+own cause,0.4444444444444444
+court of wards,1.75
+prisoner,0.8223844282238443
+reliance,1.400763358778626
+litium,0.5
+aluminium,0.7222222222222222
+mr ranjit kumar,1.1428571428571428
+thoma,0.47259914972919453
+statutory limitation on the jurisdiction,0.5
+confusion,0.5114622057001239
+proces of court,0.0
+interest that a final judgment,0.5
+unanimous on the point that an order,0.5
+vcmishra,0.5
+bains,0.5
+registrar,1.8341346153846154
+chartered high courts,0.5
+scc,1.941872465904902
+powers of the supreme court,1.0
+lord edmund-davies,0.0
+open to this court in exercise,0.5
+that various bench of this court,0.0
+writ petitions,2.984848484848485
+different type of jurisdictions,0.0
+review petition,2.72
+decision in other cases,0.0
+new par consols,0.5
+judiciary,1.5942028985507246
+element,0.7062328407033122
+inferior courtstribunals,0.5
+individual litigants,0.5
+decisions of an inferior court,0.5
+gainsaying,0.5555555555555556
+decision making proces,1.0793650793650793
+decision on the dispute,0.5
+end of justice,0.5
+court of the land,0.6666666666666666
+application to the facts,0.8888888888888888
+different from the grounds,0.5
+injustice in an earlier order,0.5
+supreme tribunal in this country,0.5
+restatement of the provisions,0.5
+duty,3.2272215973003378
+application for review,1.2222222222222223
+supreme court of india manuscmanusc,0.5
+taxation lr,0.5
+inherent power of this court,1.0
+quo,1.4641201465860294
+circulation,0.5371900826446281
+court issue,0.7000000000000001
+relief against a final judgment  order,0.0
+ratio in the earlier judgment,0.5
+from the grounds,0.5
+bachawat,0.6666666666666666
+final judgmentorder,2.0
+point,2.9165043546008516
+ex debito justitiae,2.0
+court on the ground,0.9166666666666666
+strict observance,0.75
+decision on the ground,1.0
+insofar as the present writ petitions,0.5
+decision of an inferior court,0.5
+decisions in other cases,0.5
+promotion of a cause,0.5
+court in re,1.2549019607843137
+sentence,2.3896654193264366
+courts of common law,0.5
+own decision,0.5333333333333333
+specific provision,1.1363636363636365
+case of ramdeo chauhan,0.0
+hoffmann,0.6666666666666666
+authority in india,0.5
+appellant s attempt,0.0
+material fact,1.4615384615384615
+fundamental rights of the petitioners,1.2
+reconsideration of a final judgment,0.5
+correctnes of such opinion,0.0
+ssm,2.2050420168067224
+oza,1.048494983277592
+views,0.6965871413779037
+writ petition,6.24223602484472
+category,1.9351744779266717
+order of the supreme court,1.0
+second review petition as a matter,0.5
+well - settled principle,0.0
+writ in the nature,0.8
+fairnes,0.5708245243128964
+regard to the apprehended consequences,0.5
+of the rare cases,1.5
+subsequent cases,0.8
+that inherent powers,0.5
+practice direction,0.6666666666666666
+sua,1.143961465479492
+other power,0.5892857142857143
+of criminal contempt,0.5
+challenge,1.2204566274399267
+keshav mills co ltd,1.0
+aid of a jurisdiction,0.5
+authority,2.4352627108360636
+inasmuch as the supreme court,0.5
+death,2.361592909460208
+wilber,2.3333333333333335
+merits in a lis,0.5
+valuable weapon in the hands,0.5
+discretionary writs,0.5
+significance arises for consideration,0.5
+juliu,0.46153846153846145
+court of india manu  scmanu  sc,0.0
+particular case,0.4358974358974359
+order of this house,0.5
+vs state,4.5
+face,0.7281253260594137
+high prerogative writs like writ,0.5
+ratio,5.027061939235792
+weeks,0.8109161793372318
+- matter,0.0
+inexpedient,0.6666666666666666
+that article,0.9347826086956522
+j speaking for the constitution bench,1.0
+secases,0.3333333333333333
+khodaydistilleries,0.5
+order xlvii,2.0
+certification by a senior advocate,0.5
+observance of the due process,0.5
+correctness of the view,0.8333333333333334
+background,0.6800452488687784
+county council  lr,0.0
+subject of course to the limitation,0.5
+further power on the supreme court,0.0
+lily,0.4166666666666667
+iii,1.5614499719992534
+challenge in a petition,0.5
+superior court in judicial proceedings,0.5
+earlier order of this court mukharji,0.5
+jurisdiction of this court,2.3333333333333335
+prejudice,0.880907124598545
+week,0.8253498691546249
+uttar,2.188679245283019
+judgments of this court,1.4666666666666666
+power of the supreme court,0.6666666666666666
+other authorities,1.8923076923076925
+indian aluminium co ltd,1.0
+same judges,1.0
+instant,1.131578947368421
+pathak,1.8571428571428572
+fulfillment,1.1805006587615283
+constitution read with order xl rule,1.0
+state,6.817996007300392
+statute,2.5765859456247218
+united states in ohio power company,0.5
+note,1.3654108484234107
+strong reason,0.8
+matter on the ground,0.5
+inadequate grounds,0.5
+death sentence of the petitioner,0.5
+floodgate to similar appeals,0.0
+house in the hope,0.5
+high court to another high court,0.5
+june,0.9339080459770116
+types of jurisdictions,0.5
+part iii,1.6764705882352942
+airsc,1.6909090909090911
+county court,0.5
+man,6.972395052694935
+bench unless the same judges,0.5
+other country,0.25
+discussion,0.7445831166579996
+house of lords,0.684331797235023
+such power,0.8907563025210085
+plenary power,1.2857142857142858
+sahai,1.5714285714285714
+erroneous decision,0.5
+fresh litigation,0.5
+categories,0.8800000000000001
+unfair procedure,1.5
+caterers,0.5
+instability,0.23529411764705882
+to the larger bench of this court,0.0
+fashion,0.5711297071129708
+serious set,0.5
+comparison,0.7333333333333333
+source,0.840137091365362
+senior counsel,2.2857142857142856
+persons,2.5993381990166555
+high court under the scheme,0.5
+fair amount of unanimity,0.5
+legal wrong,1.75
+mandate embodiedin clause,0.5
+pre,6.408342692122574
+wider footing,0.5
+adherence,0.6737967914438503
+king in parliament,0.5
+north,0.8632276384287743
+exist,1.4287788628534008
+limitation sarising,0.5
+validity,1.521010638297872
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+counsel in regard,0.6666666666666666
+unanimity,0.5
+bench at any stage,0.5
+ingredient of rule,0.0
+municipal corporation of greater bombay,1.2
+violation of principle,1.0
+naresh,1.8333333333333333
+court of bombay,2.176470588235294
+appeal under article,1.3333333333333333
+predecessors,0.5151515151515151
+inherent jurisdiction of this court,1.0
+upshot of the discussion,0.5
+prejudicial to the public interest if cases,0.5
+aforementioned category,0.0
+jurisdiction on the supreme court,0.6666666666666666
+interest,2.74353772015385
+order of the constitution bench,1.0
+director of a charity,1.0
+agreement with the view,0.875
+other authority,1.0666666666666667
+principle that a judge,0.5
+outcome,0.6303030303030303
+propositions,0.5238095238095238
+public officers,0.8333333333333334
+behalf,1.9888053603529987
+proper administration of justice,0.75
+gross violation,0.4083333333333333
+bylaw,0.2424242424242424
+hudson,0.4411764705882353
+ranganathan,1.0
+species of the review power,0.5
+subsequent events,1.25
+many person,1.0
+recent year,0.509090909090909
+act of parliament,1.0
+wide power on this court,0.0
+correctnes of the view,0.0
+that order,0.71055381400209
+re - adjustment of legal norms,0.0
+warrant of arrest,0.6666666666666666
+that various benches,0.5
+articles,1.4349688743466387
+amplitude,0.9523809523809523
+assam manuscmanusc,1.1666666666666667
+embodiedin,0.5
+ansen,0.20555555555555555
+uncertainty,0.8402948402948404
+review petitions,1.5
+certiorari to the supreme court,0.5
+india caterers,0.5
+merit in a lis,0.0
+appeal,3.4125488033856883
+complete justice,1.7777777777777777
+adjunct to all other powers,0.5
+legal result,0.5
+on the view that the writ petition,0.5
+complementary to those powers,0.6666666666666666
+contempt of the high court,0.5
+alia,0.9479866480753792
+circumstances in order,0.5
+inordinate delay,1.6666666666666667
+original side,1.8333333333333333
+extra - legal proposition,0.0
+pandian,0.5
+question of law,3.057142857142857
+writ petition in the supreme court,0.5
+appeal cases,1.0
+exemplary cost,0.5
+free from the restraint of jurisdiction,0.5
+may,3.683418028199994
+jurisdiction of the common law courts,0.5
+endeavour,0.5318181818181819
+writ to this court,0.0
+supraon,0.5
+court under articles,0.8333333333333334
+party to the lis,1.4
+present writ petitions,1.25
+due proces,0.6064690026954178
+violation of articles,0.6666666666666666
+justitiae,2.3333333333333335
+attention to order xlvii,0.5
+following question,0.5
+miscarriage,1.015625
+oliver,0.39325842696629215
+manner,1.4494591333432125
+northern,1.178115208483972
+court in favour,0.8571428571428571
+view that a final judgmentorder,0.5
+royal court,0.30000000000000004
+appropriate bench,0.8
+court of united states,1.0
+other court,0.7500000000000001
+raghubir singh,1.7142857142857142
+that the court,0.7622222222222222
+union of india manuscmanusc,1.847457627118644
+tramway,1.0
+objective,0.5021775147928994
+remedy for enforcement,0.5
+barak,0.30357142857142855
+parties by the highest court,0.5
+element of certainty,0.5
+tax,3.549237288135593
+lord edmund-davy,0.0
+different types,0.3781818181818182
+power company,0.3846153846153846
+committees,1.1
+collateral proceeding,1.25
+floodgates,0.8
+reemployed,2.0
+circumstance,1.429931390219372
+regulation,4.3783195107648485
+order xl of the supreme court rules,0.5
+narrower than the power of review,0.5
+australia,0.45934330410864704
+connection with the subject-matter,0.0
+principle in the following cases,0.5
+narasimha,0.9583333333333334
+case of keshav mills co ltd,0.5
+misra,0.4807692307692307
+party in the case,0.6666666666666666
+grate,0.6619318181818182
+parliament by law,3.75
+sarising,0.3333333333333333
+house with all appearance,0.5
+perusal,0.750733137829912
+principle of stare decisis,1.5
+violation of any fundamental rights,0.5
+new principles,0.75
+union of india,3.1324503311258276
+punishment of simple imprisonment,0.5
+dawson,0.2641509433962264
+adjunct,1.0
+basi,2.0752712086391383
+mind that the principles,0.5
+leave petition,2.013333333333333
+such opinion,0.30000000000000004
+administrative law,1.1428571428571428
+dhavan,2.6
+consideration of this court,1.0714285714285714
+dismissal of special leave petition,1.0
+various statutes,1.0
+lie,2.828767123287671
+lordship,1.0416666666666667
+conjoined appeals,0.5
+seven - judge bench,0.0
+doctrine,0.7455954017243533
+power on the supreme court,0.0
+basis,1.953226441078104
+final judgment of this court,2.0
+valuable weapon,0.5
+directions,1.5134125183504605
+criminal appeal no,2.15625
+courts  tribunal,0.0
+sponge,0.2727272727272727
+power of review,1.6
+magistrate,3.522077922077922
+earlier view,0.3333333333333333
+bijai,1.0
+former decisions of this house,0.5
+independent of the statutes with a view,0.5
+court of last resort,1.0
+law tends,0.5
+recalling,0.6355555555555555
+officer,3.1197242647058823
+hence,1.1440732910500353
+charges,2.061307113938693
+due to unfair procedure,0.5
+records for examination,0.5
+other case,0.6654088050314465
+territory,1.3688226421790437
+subsequent occasion,0.5
+that reasonable certainty in the law,0.5
+judgment under the inherent power,0.5
+resort,0.7319355397678043
+remedy of review,1.0
+enables,0.5299145299145299
+wide amplitude,1.0
+head of the state,0.6666666666666666
+high court for review,0.6666666666666666
+supreme court of india,1.2857142857142858
+criminal,3.301971081989414
+street,3.189100817438692
+averment that the ground,0.5
+view,2.441100058469462
+previous decision,1.2857142857142858
+requirements,0.7375979875979877
+appellate jurisdiction over the earlier decision,0.5
+side,3.88845645915565
+relief,1.4748116760828625
+majority,1.3427634276342764
+other supreme tribunal in this country,0.5
+london street tramways company,0.5
+lord,1.6027618015615013
+countries,0.72236958443855
+appropriate for the enforcement,1.0
+result,1.3356630184144715
+many transaction,0.6666666666666666
+signatures,0.9850746268656717
+record,2.5393414390845273
+chancery lane decision,0.5
+indispensable adjunct,0.5
+supreme court bar association s case,0.0
+questions of law,1.3333333333333333
+united states of america,0.452054794520548
+new version,0.30769230769230765
+discretionary powers,0.5
+technicality,0.0
+commissioner of taxation lr,0.5
+regard to the effect,0.8
+learned counsel article,0.5
+judge of this court,1.1428571428571428
+ramdeo,1.0
+secretary,0.9217877094972067
+earlier order of this court sawant,0.5
+averment,1.7
+same judge,1.0
+bow,0.7198912858841515
+new view,0.2142857142857143
+earlier final judgment,0.5
+such curative petitions,0.5
+premises,1.290983606557377
+fact,3.6284951019474962
+taxes,1.49645390070922
+learned counsel,3.703333333333333
+open court,1.3333333333333333
+correction of a final judgment,0.5
+exclusive jurisdiction,1.5151515151515154
+provisions of article,1.263157894736842
+interests,1.0562317935913441
+prerogative writs like writ,0.5
+chief,1.9429638234317954
+overruling,0.5
+five - judge bench,0.0
+that inherent power,0.5
+lall choudhary,1.0
+different from the cases,0.5
+apprehended consequences,0.5
+that behalf,1.3548387096774193
+impugned order,2.265957446808511
+judgment of the court,1.1666666666666667
+validity of that order,0.5
+witnes,5.333906623599983
+earlier judgments,1.2
+india caterers  case,0.0
+palpable injustice after dismissal,0.5
+same bench,1.2
+gross miscarriage of justice,2.0
+year from the date,1.5
+only alternative,0.42857142857142855
+mohd,1.75
+years,2.5395804110508022
+binding precedent,1.9166666666666667
+other learned counsel,1.2
+exercise,1.9400726466785694
+party,2.2250894654439723
+similar appeal,0.5
+new extra-legal proposition,0.0
+proposition,0.6371087928464977
+justice,2.292557084574302
+to anyone,0.4107142857142857
+therein,1.5503424657534246
+councils,0.6666666666666666
+questions of construction,0.6666666666666666
+unanimous that the court,0.5
+forum,1.9016754850088184
+frivolous application,0.5
+manifest illegality,1.5
+income,2.734813573523251
+ray,0.8140506967693749
+offices,0.6871508379888269
+decree,3.732408834103749
+gardiner,0.30000000000000004
+great mischief,0.5
+rai,2.517873434808919
+throughout the territory of india,0.8
+administration,1.061072796934866
+judgment under article,0.0
+society,2.1182859399684046
+to law,0.6557377049180327
+existence,0.731202675709574
+irremediable injustice,0.5
+gurbachan singh,3.25
+judge s decision,0.0
+offence,4.401610644257703
+bank,9.40770083102493
+hearing,0.9644508209787979
+supervisory jurisdiction over inferior courts  tribunals,0.0
+indictments for trial,0.5
+view of the specific provision,0.5
+afzal,1.0
+declaration that the disciplinary committees,0.5
+inspector,1.2705882352941176
+ohio power company,1.0
+review power,1.0
+day,1.550999710228919
+judgment in re vcmishra,0.5
+estates,0.9166666666666666
+question,2.980312372067635
+court with appropriate review petition,0.5
+choice,0.6825955124317767
+import,1.5850112386464603
+execution,1.3041894353369763
+correctness of such opinion,0.5
+treatise,0.46172839506172836
+case of gross miscarriage,0.5
+aller,0.5563318777292576
+criminal contempt,0.4444444444444444
+scmanu,7.940520446096654
+shanti,2.764705882352941
+london,0.48471615720524014
+step,0.8867024753460084
+amount,3.179688593072295
+majority that the order,0.5
+manifest injustice,0.8
+practice,1.7660110149488593
+statement,2.5393160135035964
+dissent from a previous view,0.5
+united,0.7052854122621566
+constitution to any other bench,0.5
+reid,0.2704354469060351
+court mukharji,0.5
+such jurisdiction,0.6666666666666666
+law lord,0.6666666666666666
+natural justice,2.6666666666666665
+force,1.6009408121948314
+states,1.5120646995827023
+order of this court sawant,0.5
+balance,0.9863636363636363
+law,3.538923411654744
+senior judge,1.3333333333333333
+field for a number,0.5
+new principles from life,0.5
+law in the country,0.5
+issue with regard,0.5555555555555556
+recalling of the order,0.5
+federal court of india,0.5
+petitioners in these writ petitions,0.5
+appropriate orders,1.2666666666666666
+view that a judicial order,0.5
+larger bench of this court,0.8333333333333334
+application of the government,0.5
+dismissal of the review petition,1.3333333333333333
+approach of the court,0.6666666666666666
+motion etc,1.0
+seven - judge bench of this court,0.0
+indian high courts,0.5
+same matter,0.5
+charities,0.7692307692307692
+lrs,0.46643518518518523
+important than the principle of finality,0.5
+power of this court,3.5
+order under challenge,1.2
+par,7.011805363704756
+prisoner for infringement,0.6666666666666666
+curiam opinion,0.5
+refund,2.670692431561997
+close,1.2054851361898455
+row,1.5184371759826563
+amount of unanimity,0.5
+complaint,2.734525785235724
+rarest of the rare cases,1.5
+present practice,0.5
+technicalities of law,0.5
+rarest,2.0
+public interest if cases,0.5
+death sentence,2.911764705882353
+appellate jurisdiction under articles,0.5
+same bench unless the same judge,0.5
+constitution bench of this court,1.2647058823529411
+constitutional right,0.7608695652173912
+judgments in exercise,0.5
+law tend,0.5
+members of the court,0.5
+offences,1.6681887366818873
+conferment of further jurisdiction,0.5
+principle of finality,2.5
+imprisonment,1.4344262295081966
+cloud of uncertainty,0.5
+court in exercise,1.28
+application,2.3322596088086445
+haryana manuscmanusc,1.1333333333333333
+authorities,1.266131845134287
+typical case,0.5
+in review petition,1.0
+lords on the ground,0.5
+advocate from practice,1.0
+harbans,1.0
+illegality,0.8076923076923077
+metropolitan stipendiary magistrate,0.5
+judicial proceedings,1.8571428571428572
+order for costs,0.6666666666666666
+hearing by a bench,0.5
+conclusive nature,0.6666666666666666
+aluminium co ltd  vs the commissioner,0.0
+abuse of process,1.0
+courts in favour,0.5
+caterer,0.5
+publication of the statement,0.5
+court to another high court,0.5
+writs to this court,0.5
+ltd,2.382356477306883
+same principle in the following cases,0.5
+attack,1.0505713076597545
+submission,1.0913871684001404
+available by reason,0.5
+productive of public mischief,0.5
+contrary to the provisions of the act,1.0
+opinion that this court,0.8
+moo,0.5109648160339404
+to a person,0.5962732919254659
+re vcmishra,0.5
+subsequent events after the final judicial verdict,0.6666666666666666
+powers after dismissal,0.5
+of the only alternatives,0.5
+principle in regard,0.5
+antulayv,0.5
+period,1.9480170842427122
+ramdeo chauhan,1.0
+ut sit finis litium,0.5
+final judgment  order,0.0
+court bar association s case,0.0
+powers of the high court,0.6666666666666666
+maganlal chhaganlal,1.0
+re-consideration of the final judgment,0.0
+constitution,3.204842342342342
+specified period,0.7142857142857143
+aaron barak,0.5
+most country,0.0
+payer,0.7565011820330969
+above requirements,0.3333333333333333
+guide,1.417236993519472
+violation of the principles,1.8333333333333333
+in the king s court,0.0
+introduction of new extra - legal propositions,0.0
+of rare case,1.5714285714285714
+argument on the point,0.5
+canada,1.073648007590133
+to a judge,1.05
+licence for a specified period,0.5
+cauvery water,1.0
+breach of the fundamental right,0.5
+venkata narasimha appa row,0.5
+aforementioned categories,0.6666666666666666
+practice statement,2.5
+supra,2.246342614440774
+royal court of common law,0.0
+aforementioned claus,0.75
+hardship,0.7236842105263158
+other cases,0.6446886446886447
+inherent power after dismissal,0.0
+upshot,0.2647058823529412
+decision making process,1.0793650793650793
+present writ petition,1.2857142857142858
+maharashtra,2.9076923076923076
+vinay chandra mishramanuscmanusc,0.5
+interest in the outcome,0.30000000000000004
+injustice after dismissal,0.5
+october,0.9478375701551667
+inherent jurisdiction,2.0
+writs,5.2
+man for the regulation,0.5
+correction,0.7676767676767677
+bench in the high court,0.5
+settled position,0.8333333333333334
+allahabad,2.3404255319148937
+judicial order,1.3333333333333333
+other writ petitions,0.6666666666666666
+india manuscmanusc,1.8333333333333333
+considerable significance arises for consideration,0.5
+own judgments,0.3333333333333333
+ohio,0.35751793802862064
+further application,0.6666666666666666
+in administrative law,0.6666666666666666
+exist in most countries,0.0
+particular result,1.0
+earlier order,1.625
+merits,0.968421052631579
+premise,1.2347417840375587
+senator,0.17428924598269468
+holme,0.6488549618320612
+aforementioned ground,0.6666666666666666
+concept of bygone age,0.5
+same high court,1.3333333333333333
+rights of the petitioners,1.3333333333333333
+federal,1.031040987823701
+prithwi,2.0
+ground that a judgment,0.5
+nature of supplementary powers,0.5
+dis - cernable shift in the approach,0.0
+bench of this court,1.8271604938271604
+case of manifest illegality,0.5
+process of court,0.75
+arrest,1.391895003453834
+original jurisdiction,1.4166666666666667
+nature of writ jurisdiction,0.5
+set,2.3027452395971277
+reason,2.6381270903010035
+order of prohibition,0.5
+operation,1.0959893294085181
+restraint of jurisdiction,0.5
+kkvenugopal,0.5
+remedies for enforcement,0.5
+house in this regard,0.5
+life,1.3352928273744242
+law uncertain,0.5
+appropriate direction,1.25
+either article,0.6666666666666666
+justice in a cause,0.5
+order xlvii of the cpc,0.5
+salutary maxim,0.5
+writ petition to a constitution bench,0.5
+common law tradition,0.5
+rai bahadur sukhraj rai,0.5
+subsequent circumstance,0.5
+re-consideration of the final judgments,0.0
+common carrier,0.25
+hidayatullah,1.0
+lane,0.40304440070550346
+further powers on the supreme court,0.5
+decisi,3.027445988388693
+bench in england,0.5
+characteristics,0.6133333333333333
+others,0.9074667328904616
+as the benches of the supreme court,0.5
+anil,1.1751552795031055
+order of this court mukharji,0.5
+proceeding,2.1298245614035087
+judgments  orders of this court,0.0
+directs that all authorities,0.5
+uncertainty for no one,0.5
+in comparison with the great mischief,0.5
+metropolitan,1.3088642659279779
+earlier order of this house,0.5
+independent basi,0.6666666666666666
+attention to various provisions,0.6666666666666666
+judge,2.9012627415183325
+procedural writs like writ,0.5
+j speaking,1.2941176470588236
+state for social services,1.0
+davies,0.4444444444444444
+growth,0.7269455690508322
+supreme court under article,1.2
+maganlal,1.0
+position as the court,0.5
+dead,0.8845609936055091
+conclusion,1.3883437407077015
+exclusive jurisdiction of the common law courts,0.5
+to this court in exercise,0.5
+false statement at different stages,0.0
+fundamental right of the petitioners,0.6666666666666666
+legal proposition,0.9333333333333332
+warrant,0.611066164387025
+questions,0.9979150871872632
+legal system,0.42857142857142855
+writ jurisdiction of this court,0.5
+stare,0.7752380952380952
+above requirement,0.5
+prejudicial to anyone,0.5
+perpetuation,0.25
+brief,0.540112172829248
+constitution read with section,0.6666666666666666
+law of the land,0.4888888888888889
+complaining,0.4691358024691358
+role as trustee,0.5
+contentions,0.9641025641025641
+averment that the grounds,0.5
+sense,0.8606303395157362
+opinion that the typical case,0.5
+common carriers,0.30000000000000004
+mr kkvenugopal,0.5
+decision of this house,0.0
+anxious consideration to the question,0.5
+open to the bench at any stage,0.5
+circumstances,1.3944461370073231
+senator pinochet,0.5
+lawyer,0.6086956521739131
+judgment of the house,0.5
+high court,7.7477477477477485
+assam,1.06
+courts  tribunals,0.0
+urge,0.9051704842199507
+new urge,0.5
+of the rare case,1.3333333333333333
+court of the united states,0.5
+objection in regard,0.75
+jurisdiction,2.9539571926331507
+conditions of the society,0.5
+link with a party,0.0
+regard to the highest court,0.5
+as the bench of the supreme court,0.0
+trial,3.7979448350459712
+manu,7.078142071124147
+concern,2.0544958000579303
+to unfair procedure,0.5
+provision of the act,0.8888888888888888
+denial of certiorari,0.5
+rare case,1.4074074074074074
+quadri,0.25
+summon,1.0346907993966816
+role,1.0562959821210092
+legal norms,0.6666666666666666
+antulay manuscmanusc,0.5
+judge in s nagaraj,0.0
+rule of stare decisis,0.6666666666666666
+msahlwat,0.5
+declaration that the disciplinary committee,0.5
+fundamental right,2.9790209790209787
+tribunal,5.07183212267958
+new urges,0.5
+injustice in a case,0.5
+reconsideration of an order,0.5
+species,0.6307692307692307
+court rule,0.9285714285714286
+exdebi,0.5
+issuance of a writ,1.0
+in that ai,0.5
+necessary whenever,0.3333333333333333
+court by various statutes,0.6666666666666666
+views that the chancery lane decision,0.5
+statutory limitation,0.8
+learned judges,3.4864864864864864
+northern india caterers  case,0.0
+exercisable by the supreme court under clause,1.0
+stone,0.7736063708759955
+england,0.9336071184120466
+available to a person,0.8
+apex,0.8555555555555555
+from the cases,0.6666666666666666
+courts,2.1216528162511543
+active role,0.2857142857142857
+committee,2.546237803603864
+carriers,0.2160493827160494
+judgment inter party,0.0
+bench of a high court issue,0.5
+certainty,0.8630136986301371
+most countries,0.2777777777777778
+nominated officesposts,0.5
+mind that the principle,0.5
+people,1.2855544825097243
+different stages,0.6060606060606061
+revision,1.6299226441631505
+reasons,1.3749054007567938
+edmund,0.234375
+statements at different stages,0.5
+decisions of this court,1.8225806451612903
+problem,0.6764352120789936
+cauvery,1.0
+petitioner that any modification,0.5
+insofar as the present writ petition,0.5
+supreme court under clause,1.0
+larger benches,0.5
+same view,0.7272727272727272
+scope for bias,1.0
+aforementioned clauses,0.5
+ors,2.8612718198296623
+inferior courts,2.5
+nullity,1.8235294117647058
+part,5.294464509893076
+view that the writ petition,0.6666666666666666
+aforementioned order of the constitution bench,0.5
+litigation,1.4968553459119498
+finality of the decision,1.0
+numerous cases,0.6666666666666666
+keshav,1.4444444444444444
+analysi,0.6883471219855659
+court on the basis,1.0666666666666667
+bombay,2.3134020618556703
+rule of law,0.5359801488833746
+view that the earlier order,0.5
+correctness of the judgment,1.1111111111111112
+judge of the constitution bench,0.0
+judgment of house,0.5
+aspect,1.2449448189023034
+speaking,0.6506672453075838
+decisions,1.3888475974580996
+judgments  order,0.0
+constant endeavour,0.5
+situations,0.7435282837967402
+doubts,0.6666666666666666
+divan,0.21875
+vsunion of india,0.5
+prohibition etc,0.5
+subsequent circumstances,0.5
+sukhraj,0.6666666666666666
+bar councils,1.3333333333333333
+land,6.337534028705619
+dispenser,0.30000000000000004
+writ petition under article,1.2
+read,2.2147281730888695
+rajiv,1.2
+court for review,0.6666666666666666
+appearance of bias,1.0
+income-tax,0.0
+substantive writ,0.5
+parte,0.7168042010502624
+equal footing in the matter,0.5
+lithium,0.1857142857142857
+litigant public,0.6666666666666666
+instances,0.5974025974025974
+statute with a view,0.5
+almighty,0.23863636363636362
+northern india caterer,0.5
+weapon in the hands,0.5
+house in circumstances,0.5
+anxious consideration,0.875
+services,1.6850241065659326
+journalists,0.25225225225225223
+court of record,1.5
+fortiori to superior courts,0.5
+common law court,0.6666666666666666
+lord shaw,0.75
+courtarticle,0.6666666666666666
+stipendiary magistrate,0.5
+basis of jurisdiction,0.6666666666666666
+recourse to any other forum,0.5
+decision under article,0.5
+enforcement,0.7354220499569336
+earlier case,1.1428571428571428
+law empower,0.5
+that ai,0.45161290322580644
+historical background,0.30000000000000004
+jurisdiction under articles,0.8333333333333334
+effect,2.184583388478191
+that floodgates,1.0
+proceedings in the cases,0.5
+by reason,1.0738636363636362
+introduction,0.6363636363636365
+larger bench of the supreme court,0.5
+substantive writs,0.5
+legal norm,1.6666666666666667
+analysis of the ratio,0.5
+state of haryana,1.7608695652173914
+state of haryana manuscmanusc,1.1428571428571428
+go - by,0.0
+nature of the precedent,0.5
+independent basi of jurisdiction,0.0
+question of reviewing,0.5
+raja,1.214662447257384
+king s court,0.0
+judgment on the ground,0.6666666666666666
+subsequent event after the final judicial verdict,0.0
+of the only alternative,0.5
+appropriate review petition,0.5
+petition for hearing,0.5
+proper administration,0.8
+following case,0.4761904761904762
+judgments,1.2355646397547266
+rarest of rare cases,1.5714285714285714
+consequence,0.8726692512593296
+lord gardiner,0.5
+drrajiv dhavan,0.5
+place,2.333104345208554
+court in england,0.6666666666666666
+guilty of criminal contempt,0.5
+appeal case,1.0
+wide discretionary power,0.6666666666666666
+supreme court by appropriate proceedings,1.0
+cases of ramdeo chauhan,0.5
+law of the case,0.5
+earlier decisions,1.24
+composition of the bench,0.5
+matter of course,0.7482993197278911
+krishna,1.2505446623093683
+public interest if case,0.5
+control,2.148867902684286
+issue,2.766776251628934
+extra - legal propositions,0.0
+consistency,0.7974537037037037
+as the supreme court,0.3333333333333333
+of article,2.1149999999999998
+actual bia,0.5
+new extra-legal propositions,0.0
+ones,1.1255220584705485
+type of jurisdictions,0.0
+re - adjustment,0.0
+petitioner,4.524972253052164
+judgment of this court,2.1029411764705883
+orders,1.4936359300077826
+appropriate procedure,0.6666666666666666
+question of power,0.5
+maintainability,1.0256410256410258
+order of the apex court,0.5
+judgment of united states,0.5
+england till the following practice statement,0.5
+performance of a public duty,0.6666666666666666
+ex parte pinochet grate,1.5
+inspector of taxes,0.6666666666666666
+state like india,0.5
+time adherence to the principle,0.5
+grounds,0.9540208829455945
+different benches,0.75
+powers of review,0.5
+direct,3.0063324325138336
+mishramanu,0.5
+casesupra,0.5
+ground,1.4186722903211633
+court convicting,1.0
+fair amount,0.3333333333333333
+anisminic s broader sense,0.0
+read with order xl rule,2.0
+court of claims,1.0
+afore,2.233039388594944
+in the court,0.6627218934911243
+judgment in exercise,0.0
+concept,0.9402138540213855
+civil law,0.4347826086956522
+mischief,0.5934065934065934
+article,4.378806157159795
+restraint,0.539491298527443
+old view,0.30000000000000004
+injustice in the process,0.5
+restatement,0.3529411764705882
+well - settled principle that the technicality,0.0
+final court,1.5
+benches of the supreme court,0.5
+msahlwat s case,0.0
+courtscertiorari,0.5
+opinion,1.4960606342789635
+speaking for the federal court,0.5
+enforceable throughout the territory of india,0.5
+aforementioned order,0.8333333333333334
+natarajan,0.8804347826086957
+royal courts,0.5
+lord in r v,0.0
+re-consideration,0.0
+calcutta,1.6022727272727273
+further application for review,0.5
+vinay,0.546218487394958
+public law,1.2777777777777777
+amenable to the writ jurisdiction of this court,0.5
+inferior court,3.0
+united state,0.5525959367945824
+provision of article,0.6666666666666666
+complaining of the gross abuse,0.5
+delay,1.9544910179640715
+course of the trial,0.8333333333333334
+bihar,4.587301587301587
+scope,0.8412698412698413
+certainty in law,0.5
+complete justice between the parties,1.6666666666666667
+circumstance in order,0.0
+ranjit,2.7142857142857144
+judgment with discussion,0.5
+november,0.7203359669727383
+gurbachan,3.25
+disqualification,4.761904761904762
+bar council,2.5
+source of jurisdiction,0.5
+fitzleet,0.5
+judicial procedural writs,0.5
+such order,1.056910569105691
+injustice to any party,0.5
+pinochet grate,2.0
+fcr,0.719758064516129
+court to an inferior court,0.5
+sarkar,0.8571428571428571
+decisions of this house,0.5
+court under clause,1.0
+expression,1.7424391201885312
+other high court,1.3333333333333333
+judicial verdict,1.0
+departure,0.6451612903225807
+various provisions,1.5789473684210527
+clauses,1.5486111111111112
+reasoning,0.6478937381404174
+violative,2.2972972972972974
+mirajkarv,0.5
+wide power,0.5303030303030303
+same time,0.6913511801045461
+exercise of power,0.7513227513227514
+record for examination,0.0
+norms,1.1693121693121695
+antulay s case,0.0
+that ground,0.6190476190476191
+final order,1.1466666666666667
+social context,0.30000000000000004
+permissible as the bench of the supreme court,0.0
+suppl,1.7520745539046882
+work,2.8478559811646353
+system,1.1230229504341178
+obstruction of the stream,0.5
+dicta,1.0501242750621373
+re-hearing of the case,0.0
+final verdict,0.38095238095238093
+part iii of the constitution,2.125
+many people,0.3721871049304678
+pecuniary interest in the outcome,0.5
+justice in these rarest,0.5
+virtue,0.9167557066537153
+earlier precedent,0.5
+re-examination,0.0
+due procedure,0.8
+question before the court,0.875
+posts,2.6556317082632876
+spain,0.21666666666666667
+second petition for hearing,0.5
+convicting,0.9795918367346939
+sentence of death,1.5428571428571431
+own judgment under article,0.0
+conjoined appeal,0.5
+state of assam manuscmanusc,1.1666666666666667
+following question of constitutional law,0.5
+same court,0.5
+same position as the courts,0.5
+read with rule,1.1818181818181819
+petition under articles,0.75
+writ under article,1.25
+aggrieved person,1.7
+case of ex parte pinochet grate,0.5
+inferior courtstribunal,0.5
+broader sense,0.5
+constitutional rights,0.5502645502645503
+sawant,3.0
+public authority,1.4444444444444444
+principle from life,0.0
+chief justice,4.684210526315789
+adjustment,0.6982649174777825
+exercise of inherent power,0.5
+essential ingredient of rule,0.0
+accordance,1.4069045211613462
+legal,1.6383168326773236
+constitutional mandate embodiedin clause,0.5
+case by majority,0.6666666666666666
+verdict,0.6880952380952381
+to the provisions of the act,1.0625
+ground of interest,0.5
+power after dismissal,0.0
+courts of last resort,0.5
+lall,1.330827067669173
+rare cases,1.2592592592592593
+bench of nine - learned judges,0.0
+parties in the case,0.6666666666666666
+correctnes of the judgment,0.0
+cause perpetuation,0.5
+corporation of greater bombay,1.2
+appeals,1.7060218112849692
+apprehension,0.9319526627218935
+february,0.8575630252100839
+appropriate proceeding,1.1
+compulsion,0.6274509803921569
+writ of certiorari,2.2
+jurisdiction of the learned judge,0.5
+name,1.8996570753072433
+writs under article,0.5
+material facts,1.1818181818181819
+court on questions,0.75
+relief in cases,0.5
+practice direction in that behalf,0.5
+members,1.9437616522164103
+finis,1.056622353520433
+need for re - adjustment,0.0
+indian aluminium co ltd  vs the commissioner,0.0
+dispensing,0.5142857142857143
+larger interests,0.75
+aluminium co ltd,1.0
+considerable significance arise for consideration,0.0
+objects,0.7297830374753452
+purpose,2.519170317925504
+karnataka,3.8596491228070176
+consol,0.9477108433734939
+debate,0.6231884057971016
+such writs,0.5
+study,1.4280920541907696
+supreme court by clauses,0.5
+confidence in the litigant public,0.5
+time,2.4764180952862667
+mandamu,3.0
+second petition,0.75
+false statement,0.7386363636363635
+jagannatha,0.5
+journalist,0.2971698113207547
+issuance,1.05379513633014
+constitution bench,4.27536231884058
+house in subsequent cases,0.5
+suprain,0.6666666666666666
+that reasonable certainty,0.5
+application under article,1.2
+review of an order,0.5
+validity of a judgment,0.5
+supreme court rules,2.75
+limit,2.3804570428443834
+habeas corpu,1.4
+death sentence to life imprisonment,0.5
+final judgment between the parties,0.5
+right,3.07483248288682
+court pursuant,1.0
+judgments  orders,0.0
+prohibition,1.9087256027554533
+choudhury,0.6666666666666666
+common,1.4619971980191346
+life of the law,0.5
+writ to another high court,1.0
+mandate,0.8783810859547183
+collateral attack,0.5
+force of the constitution,1.25
+public interest,2.380434782608696
+absence,1.092363454568179
+type,0.8102172691515265
+counsel,2.2246780703440323
+policy,3.250773332247955
+predecessor,0.9857142857142858
+appa,0.9569809069212409
+simple imprisonment,1.3
+appearance,0.531740614334471
+rules,3.130914366958792
+jurisprudence,1.088888888888889
+appropriate proceedings,1.1428571428571428
+maxim,0.9230402066486973
+writ to the supreme court,0.5
+exceptional circumstance,1.8
+further powers,0.5
+last resort,0.5760000000000001
+lord on the ground,0.5
+notice of the proceedings,0.5
+aphorism,0.38095238095238093
+charity,1.0400943396226414
+valid order,0.5
+consideration of the curative petition,0.5
+lall choudhry etc,0.5
+superior court of justice,0.0
+independent basis of jurisdiction,0.6666666666666666
+dispute,2.402137592137592
+law tradition,0.5
+litigations,1.1818181818181819
+disposal,1.1180555555555556
+courthe,0.4444444444444444
+plenary powers of the supreme court,0.5
+conditions,1.9988092071092867
+united states,0.5498850574712644
+three - judge bench,0.0
+limitation sarising by reference,0.5
+old unsatisfactory decision,0.5
+fresh litigations,0.5
+lloyds bank,0.5
+case,7.332269420884958
+various statute,1.0
+than doubt,0.6666666666666666
+error,1.059158294766151
+position as the courts,0.5
+such decisions,1.1428571428571428
+dis - cernable shift,0.0
+writs in the nature,1.3333333333333333
+legal ingenuity,0.5
+affair,0.8341728395061728
+punishment,1.6266937669376693
+lords in r v,0.5
+public authorities,0.5714285714285714
+ambit,1.0862754267009587
+ordinate,1.2442006833303363
+same effect,0.875
+statements,1.110873440285205
+decisions on the ground,0.5
+warranto,1.5555555555555556
+shaw,0.4895104895104895
+contention,1.666391070690368
+rajunder,0.5
+judgment of court,0.75
+background of that act,0.5
+inter alia,1.3280423280423281
+advocate,1.0791341991341994
+wide discretionary powers,0.5
+greater,0.592310772927513
+writ of motion etc,0.5
+jurisdiction over inferior courts  tribunals,0.0
+venkatachaliah,1.25
+larger interest,1.0
+appellate jurisdiction,2.769230769230769
+bad of the only alternatives,0.5
+trial in spain,0.5
+affected party,0.5
+bench,2.5793391667754992
+violation,1.2087401208740118
+violative of article,2.1379310344827585
+office,3.5913445886237847
+curative nature,0.5
+position to the parties,0.5
+leave,1.0147842365477848
+question of jurisdiction,1.2592592592592593
+place on the faith,0.5
+r v,2.0798015775736514
+other document,0.6172839506172839
+complete justice in any cause,0.5
+body,1.336775463480009
+xlvii,2.0
+court as subordination,0.5
+exercise by this court,0.5
+cord,3.5077864362279643
+rule of procedure,1.0
+order of the court,0.8888888888888888
+own decisions,0.5333333333333333
+notice,2.3300025999395686
+trustee,1.466666666666667
+shridhar mirajkar,1.0
+order xlvii rule,1.5
+costs on the petitioner,0.5
+patent,1.3540828816226613
+aforementioned grounds,0.5
+patent lack,0.5
+instant case,2.0631578947368423
+curiae,1.6875
+taxation,1.2112499999999997
+final judgments,0.3333333333333333
+court rules,2.0
+abortive on the view that the writ petition,0.5
+concern of this court,1.0
+writ jurisdiction,1.2142857142857142
+pecuniary interest,0.5
+stage that the petition,0.5
+apprehended consequence,0.5
+tribunals,2.527472527472528
+judgment between the parties,0.5
+opinion on this aspect,0.5
+analysi of the ratio,0.0
+judge of the highest court,0.0
+finality of the decisions,0.5
+of public mischief,0.5
+construction,2.2504918032786887
+haryana,2.935064935064935
+previous view,0.5
+seven,1.3534497230149405
+barrier,0.2905405405405405
+parties to the lis,0.6666666666666666
+better view of the matter,0.5
+courtarticles,0.5
+par consols,0.5
+value,1.7137907830478438
+documents,1.142515923566879
+other high courts,1.0
+gross violation of natural justice,0.5
+triveniben,1.0
+wendell,0.5172413793103449
+ultimate court,0.5
+smaller bench,1.0
+rigid adherence,0.5
+on the point that an order,0.5
+to the provision of the act,0.0
+opposite conclusion,0.6666666666666666
+versions,0.34412698412698406
+gujarat,3.2753623188405796
+true that the earlier decision,0.5
+recourse,0.9157232704402517
+prerogative writ,2.0
+judgment inter parties,0.5
+technicality of law,0.0
+observance,0.6967741935483871
+palpable injustice,1.5
+reipublicae,1.0
+fortiori,0.6666666666666666
+finality of a judgment,0.5
+decisis,2.0
+petition for clemency,0.5
+licence,3.10964429776311
+argument,0.9504580388560493
+bias,1.390116377129364
+corporation,3.6427750743444176
+reconsideration,1.0846153846153848
+plenary jurisdiction,0.5
+grateno,0.5
+types of writs,0.5
+cost on the petitioner,0.0
+social order,0.35555555555555557
+lord of appeal,0.0
+high court in india,0.0
+statement at different stages,0.0
+time adherence,0.5
+narain,0.4978662873399715
+mere restatement,0.5
+judges,2.0931496919173616
+old one,0.336996336996337
+due process,0.6064690026954178
+law formulating principles,0.5
+second review petition,0.5
+concern of the court,0.6666666666666666
+learned judges in the case,0.6666666666666666
+larger bench,2.0606060606060606
+from the decision of the constitution bench,0.5
+final decision,0.4958677685950412
+other application,0.47368421052631576
+hand,2.0299623418254717
+provision of order xlvii,0.0
+court of justice,0.9090909090909091
+procedural writs,0.5
+norm,1.1955826794536473
+statutes,0.9659824046920822
+appellant,14.387096774193548
+earlier decisions on the ground,0.5
+power of re - consideration,0.0
+confidence,0.5942028985507247
+legal propositions,1.5
+vsunion,0.5
+incarceration,0.6461538461538461
+that court,0.7384615384615386
+precedent of the highest court,0.5
+public,2.923239095873367
+county,0.5539772727272727
+practice statement  note,0.0
+collateral,0.9212121212121213
+active role as trustee,0.5
+other authority under article,0.5
+continuity in the interpretation,0.5
+ambit of state,0.5
+chhaganlal,1.0
+chauhan,1.75
+rate,3.088725136774248
+that i,2.6949902522585876
+subsequent case,0.8333333333333334
+julius stone,1.0
+states in ohio power company,0.5
+court of appeal,0.6133333333333334
+emphasis,0.8024289099526066
+doubtful issue,0.5
+curiam,3.2
+trial from day,0.5
+venkata,1.1884057971014492
+existence of permissible ground,0.5
+barriers,0.3541666666666667
+impugned order of the high court,0.8333333333333334
+exceptional circumstances,1.8
+fairness,0.5844155844155844
+article of the constitution,2.2134387351778657
+dissent,0.7027777777777778
+situation,1.1254754682459434
+numerous case,0.6666666666666666
+own judgment,1.2000000000000002
+nayak,0.7407407407407408
+attention,0.8724846605528799
+precursor,0.24000000000000005
+lall choudhary s case,0.0
+naresh shridhar mirajkarv,0.5
+administrative,1.85302734375
+senior advocate,1.6153846153846154
+small in comparison with the great mischief,0.5
+bow street,0.5
+convict,3.1901719901719896
+speech of lord reid,0.5
+disputes,2.3049883690876194

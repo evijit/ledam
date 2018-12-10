@@ -1,0 +1,309 @@
+seriousnes of the offence,0.0
+fine,1.3204039558531748
+pre,6.408342692122574
+lokayukta,3.1666666666666665
+sentences,1.0513157894736844
+bangalore in criminal appeal,0.5
+police authority,1.0
+offence under section,2.6
+entire evidence,1.2307692307692308
+panch witness,1.1666666666666667
+- examination,0.0
+deputy registrar,2.7142857142857144
+conviction,2.248165832071736
+code,2.880559796437659
+panch,6.911111111111111
+amount,3.179688593072295
+common practice,0.3636363636363636
+practice,1.7660110149488593
+statement,2.5393160135035964
+phenolphthalein powder,0.6666666666666666
+read with section,2.3513513513513513
+directions,1.5134125183504605
+sanction for prosecution,1.75
+police,2.9749362629783356
+sentence,2.3896654193264366
+material witness,0.9047619047619048
+notes,0.6013642564802183
+arguments of the parties,0.75
+employee,6.280487804878048
+criminal appeal,2.5675675675675675
+shadow witnes,0.6666666666666666
+saturday,0.8641975308641976
+pw- agreed,0.0
+charge sheet,2.0526315789473686
+examination,2.4920345926263088
+multiple meetings,0.5
+alleged incident,1.08
+charge,2.7679815308681284
+seriousnes,0.5777777777777777
+advanced age,0.45000000000000007
+inter,3.683850287482992
+enmity,0.4377104377104377
+grounds,0.9540208829455945
+part of the sentence,0.45000000000000007
+high,5.367119186841496
+payment,2.059553716565686
+reason,2.6381270903010035
+crime,1.6636528028933093
+court,12.24425115501509
+instant case,2.0631578947368423
+custody within a period,0.5
+material witnesses,0.9600000000000002
+custody,1.4166666666666667
+fatal to the prosecution s case,0.0
+order of the trial court,1.0
+brief fact,1.0
+illegal gratification from pw-,0.0
+charges,2.061307113938693
+saturdays,0.4
+certain material witnesses,0.5
+ground,1.4186722903211633
+- as bribe,0.0
+argument of the parties,0.0
+non - examination,0.0
+directions that both sentences,0.5
+source of the prior enmity,0.5
+arguments,0.7212211466865226
+interference,0.5733527484528578
+testimonies of the prosecution witnesses,0.5
+objects,0.7297830374753452
+trial court,3.854545454545455
+bail,2.0427807486631013
+seriousness of the offence,0.8
+karnataka,3.8596491228070176
+impugned judgment,2.0927152317880795
+powder,0.4918300653594772
+pant,0.9369488536155202
+consideration,1.9110153789142115
+fact that the amount,0.6666666666666666
+part,5.294464509893076
+concerned university,0.5
+time,2.4764180952862667
+division,1.7657319129617017
+reasonable doubt,0.8638838475499093
+sides,0.6706755273269035
+further submits that the appellant,0.5
+devoid,0.5094339622641509
+submits that the appellant,0.6666666666666666
+trap team,0.6666666666666666
+appellant s office,0.0
+devoid of any merit,0.875
+issuance,1.05379513633014
+police authorities,0.5714285714285714
+criminal,3.301971081989414
+documents,1.142515923566879
+spl cc,0.5
+tainted currency note,1.5
+team,0.7272900763358778
+age,4.526374474274117
+appellant s contention,0.0
+gratification,0.64
+tainted note,0.5
+assistant in the office,0.6666666666666666
+opinion,1.4960606342789635
+order of conviction,1.3
+side,3.88845645915565
+aforesaid,2.592896174863388
+of any merit,0.875
+complaint,2.734525785235724
+merit,1.2419290263876248
+bribe,0.95
+court of karnataka,1.826086956521739
+testimony of the prosecution witnesses,0.0
+complaint before the deputy superintendent,0.5
+pre-trap proceeding,0.0
+common practice among the employees,0.5
+brief facts of the case,1.0
+prevention,0.6124072110286319
+appeal,3.4125488033856883
+assistant,1.6732837055417698
+witness,5.333906623599983
+to prior enmity,0.5
+prosecution,4.619407894736842
+contra,3.550142721217888
+authority,2.4352627108360636
+judge,2.9012627415183325
+facts of the case,1.161764705882353
+sheet,1.1667364016736401
+brief fact of the case,0.0
+appellant s statement,0.0
+guilty of the offences,1.0
+material,1.4148767018946966
+procedure,2.552771605064117
+jurisdictional police authority,0.0
+vide judgment,1.2142857142857142
+read,2.2147281730888695
+date of the alleged incident,1.0
+offences,1.6681887366818873
+high court of karnataka,1.826086956521739
+record,2.5393414390845273
+certificate,2.732600732600732
+imprisonment,1.4344262295081966
+polouse,0.0
+november,0.7203359669727383
+pws,1.5484615384615386
+counsel,2.2246780703440323
+ms uma herself,0.5
+month,1.3454861111111112
+corruption,0.9432672590567327
+pant pocket,0.5
+year,2.8349484769759212
+argument,0.9504580388560493
+alia,0.9479866480753792
+city,2.544592792669584
+tainted notes,0.5
+counsel for the appellant submits,0.75
+junior assistant in the office,0.5
+simple imprisonment,1.3
+lis,3.299683526578166
+authorities,1.266131845134287
+learned counsel for parties,0.5
+third party,1.053291536050157
+superintendent of the department,1.5
+fact of the case,0.0
+witnesses,3.359210526315789
+judgment,3.288216560509554
+city division,0.5
+material objects,0.5333333333333333
+panch witnes,1.1666666666666667
+guilt,1.1140207075064712
+certain material witness,0.5
+meetings,0.7029804727646454
+fact,3.6284951019474962
+order,5.472481489660944
+false complaint,1.75
+learned counsel,3.703333333333333
+trustworthy witness,0.5
+of the offences,1.4545454545454546
+act,12.870263922028107
+provisional certificate,1.5
+currency,0.9166666666666669
+multiple meeting,0.5
+evidence on record,2.7906976744186047
+appeal on the grounds,0.6666666666666666
+appellant submits,0.75
+shadow witness,0.6666666666666666
+department,1.9858367499068206
+seriousness,0.5777777777777777
+deputy,1.1595268542199488
+case as crime,0.5
+deputy superintendent,0.8
+material object,0.44871794871794873
+prosecution s case,0.0
+phenolphthalein,0.6666666666666666
+special,1.7363344051446945
+contentions,0.9641025641025641
+material on record,1.40625
+criminal procedure,6.406779661016949
+tainted currency notes,1.5
+return,1.5755725190839696
+superintendent for the issuance,0.5
+object,1.4940119760479043
+evidence,3.6676405172088815
+document,1.401100265092073
+sufficient evidence,0.6944444444444444
+testimonies,1.105263157894737
+corruption act,1.75
+due to prior enmity,0.5
+appellant,14.387096774193548
+shadow,0.7127882599580714
+directions that both sentence,0.5
+pocket,0.5186074429771909
+witnes,5.333906623599983
+appellant submit,1.0
+currency with phenolphthalein powder,0.5
+bangalore,1.2
+special judge,2.375
+currency notes,2.0
+spl,0.9213738571781567
+uma soumya,0.5
+high court,7.7477477477477485
+complainant,4.538461538461538
+junior assistant,1.0
+official favour,0.5
+entire evidence on record,1.1666666666666667
+parties,1.8210828547990157
+learned counsel for the appellant,1.7884615384615385
+sanction,2.0167207792207793
+state,6.817996007300392
+doubt,1.3646267723102583
+case,7.332269420884958
+illegal gratification,1.2
+period,1.9480170842427122
+light,0.8816192372754331
+brief facts,1.0
+note,1.3654108484234107
+registrar,1.8341346153846154
+prior enmity,1.0
+section,9.287987283173626
+trial,3.7979448350459712
+pw-,0.0
+pre-trap proceedings,0.0
+code of criminal procedure,6.120689655172414
+of the offence,2.760869565217391
+meeting,1.5978547625659538
+appellant for the issue,0.5
+incident,1.8609485257918057
+question of sentence,1.6666666666666667
+party,2.2250894654439723
+good ground,0.49382716049382713
+appellant for offences,1.0
+summon,1.0346907993966816
+soumya,0.5
+appellant s contentions,0.0
+fide,0.8955057484612704
+uma,2.0128233907091384
+further submits,1.1818181818181819
+appellant s advanced age,0.0
+to the prosecution s case,0.0
+pant pocket by pw-,0.0
+university at the time,0.5
+therefore,2.960332350576253
+chemical examination,0.6666666666666666
+signal,0.32046178343949044
+trap,1.232142857142857
+contention,1.666391070690368
+investigation,1.6673076923076922
+inter alia,1.3280423280423281
+appellant s case,0.0
+favour,1.653145208700764
+proceedings,1.7670925223666287
+testimony,1.4407553107789142
+light of the aforesaid,1.0
+date,6.195616975795285
+sufficient evidence on record,0.6666666666666666
+sum,2.554898897856461
+direction,1.8495050210098996
+junior,0.9861207494795279
+gratification from pw-,0.0
+prosecution witness,2.2
+currency note,2.0
+trustworthy witnesses,0.5
+holiday,0.5518018018018018
+guilt beyond reasonable doubt,0.6666666666666666
+source,0.840137091365362
+offence,4.401610644257703
+criminal appeal on the grounds,0.5
+pw- s signal,0.0
+facts,1.4696673624372698
+jurisdictional police authorities,0.6666666666666666
+issue,2.766776251628934
+office,3.5913445886237847
+respondent,4.757894736842104
+summons,0.9764492753623188
+order of sanction,2.75
+university,3.75675614961249
+prevention of corruption act,1.8
+prosecution witnesses,2.0526315789473686
+office on the date,0.5
+superintendent,1.2698412698412698
+- for the offence under section,0.0
+employees,4.611008798854102
+practice among the employees,0.5
+day,1.550999710228919
+previous incident,1.0
+further submit,2.0689655172413794
+office on saturdays,0.5
+question,2.980312372067635
+respondent - state,0.0

@@ -1,0 +1,872 @@
+entire purpose,0.5
+mishra,0.3173076923076923
+capacity,1.7421691881525676
+j refer,0.8
+committee,2.546237803603864
+government,3.5583785424010483
+raid,0.6079447322970638
+sight,0.6194871794871795
+volume in that behalf,0.0
+such act,0.7419047619047618
+code,2.880559796437659
+jeep,0.711111111111111
+accused,10.856353591160222
+motive behind the act,0.5
+das,1.508694082231246
+bhappa,0.5
+sanction for prosecution,1.75
+custom,1.8742070505069293
+sure test,0.5
+revision,1.6299226441631505
+necessity for sanction,0.5
+available if the act,0.5
+question of sanction,0.5
+terms,2.390350840909655
+behalf of the state,1.5263157894736843
+meaning,1.8612727545949643
+character of the person,0.5
+instance,0.9469803370786518
+state of hp,1.0
+bombay manuscmanusc,1.1666666666666667
+femanu,1.25
+previous sanction,1.8
+patients,0.47297297297297297
+j in baijnath v state,0.5
+judicial magistrate,2.7857142857142856
+failure,0.7827962142086977
+emperor,0.625
+progress,1.075925925925926
+court,12.24425115501509
+procedure applies,0.5
+dr am gupta,2.5
+further evidence,0.8421052631578948
+adequate protection to public servants,0.5
+madras,2.836734693877551
+colour of office,0.5
+evident that the entrustment andor dominion,0.5
+mrs  runiabai to district hospital,0.0
+person,4.291511329454258
+exces of the duty,0.0
+ors,2.8612718198296623
+matajog dubey v hc bhari manuscmanusc,0.5
+allegations,1.8333333333333335
+way,1.7812722068664852
+behalf,1.9888053603529987
+cause,1.8431210321626654
+illegal activity,0.2937853107344633
+purported exercise of official duty,0.5
+part,5.294464509893076
+view of the circumstances,0.5
+impugned orders,1.2352941176470589
+dereliction,1.5
+sine qua non for the applicability,0.5
+hori ram s case,0.0
+bombay,2.3134020618556703
+smith,0.803612937504151
+range,0.8144965675057209
+series,0.4722257940079723
+aspect,1.2449448189023034
+servant within the scope,0.5
+district,1.5506763074237984
+shreekantiah,0.5
+sessions,1.3405714285714285
+judicial committee,0.39473684210526316
+character,0.9325990965842764
+decision,2.9514937765898557
+accused appellant for discharge,0.5
+competent authority,2.7142857142857144
+health centre,1.0
+other way,0.4775413711583924
+vehicle to the patient,0.5
+claim,2.817264601856604
+whole sery,0.0
+test,2.5329834591340266
+chargesheet,2.625
+extremes,0.4864864864864865
+sine qua non,1.0
+hori ram,1.5
+appeal,3.4125488033856883
+purported discharge,0.6666666666666666
+good,2.6154941054299674
+protective cover,0.3333333333333333
+district raigad,0.5
+scr,2.483838975311538
+motive,0.8973573343546533
+complete control,0.4444444444444444
+interpretation,1.518366298484459
+sessions judge,2.9545454545454546
+police report,0.5555555555555556
+emperor manufemanufe,1.0
+approval in the later case,0.5
+committee of the privy council,0.5
+favour of the public servant,0.5
+stage,1.1298537871524448
+nath,1.2024818815807465
+which applicability of section,1.0
+abetment,1.7142857142857142
+servant in service,0.5
+that the omission,0.5
+disposal of the goods,0.5
+court of chhatisgarh,0.5
+wherein,1.0724137931034483
+first instance,0.8333333333333334
+offence under the act,0.5
+later stage,0.7083333333333334
+volumes in that behalf,0.5
+release,0.9830403257846643
+official act,2.5
+judgment,3.288216560509554
+decided case,1.0
+order,5.472481489660944
+act,12.870263922028107
+qua,2.4497935676369567
+meads,0.3333333333333333
+facts of the instant case,0.8333333333333334
+pursuance,1.543859649122807
+hori,3.0376913060130217
+gill,0.6233439706024563
+clas,2.1196191893660425
+purpose of the raid,0.5
+qua non for the applicability,0.5
+earlier case,1.1428571428571428
+need of sanction,0.5
+surendra,0.5714285714285714
+tests,1.9146311374290645
+dubey,7.166666666666667
+state of madhya,1.7142857142857142
+sarjoo prasad v the king-emperor manufemanufe,0.0
+state government,3.027142857142857
+offender,1.3711405166981725
+first sight,0.2777777777777778
+effect,2.184583388478191
+vexatious criminal proceeding,0.5
+smiths,1.3316929133858268
+baijnath,7.0
+ganesh chandra jew manuscmanusc,0.5
+manner,1.4494591333432125
+go - by,0.0
+unconnected with the official duty,1.0
+public duty,1.625
+orissa,2.3125
+public servant in service,0.5
+later case,0.6666666666666666
+purports,0.7455621301775147
+faith,0.6832428364066448
+purporting,1.2857142857142858
+section,9.287987283173626
+public servant of the protection,0.5
+several elements,0.5
+official duty for protection,0.5
+official duty therefore implies,0.5
+neglect,0.6777777777777777
+meeting,1.5978547625659538
+objective,0.5021775147928994
+none,0.8181718550217885
+servant,2.030552291421857
+madhya,2.9183673469387754
+application for discharge,0.6666666666666666
+shop,1.5065156686317096
+use of the expression,1.0
+judgments,1.2355646397547266
+official monthly meeting at raigad,0.5
+sarjoo,0.5
+discharge of official duty,5.5
+evidence before quashing,0.5
+place,2.333104345208554
+official duty implies,1.0
+circumstance,1.429931390219372
+finding,1.8129183657767178
+course of the progress,0.5
+shreekantiah ramayya munipalli,0.5
+words  any offence,0.0
+connection with the act,0.5
+present case,1.5611814345991561
+public servants,1.7000000000000002
+following term,1.6170212765957446
+refusal,0.813597918022121
+regard,2.723310344827586
+police officer in discharge,0.5
+madras manuscmanusc,0.8571428571428571
+ground of requirement,0.5
+responsible public servants against the institution,0.5
+protection to public servants,0.5
+neglect on the part,0.6666666666666666
+exces,0.9881465517241379
+apparent from the facts of the instant case,0.5
+class,2.1508512849922936
+consideration before this court,1.0833333333333333
+last paragraph,0.3333333333333333
+perusal,0.750733137829912
+federal court,1.2030075187969924
+length,0.6297872340425531
+control,2.148867902684286
+facts,1.4696673624372698
+scope of the protection,0.5
+prosecution without sanction,0.5
+vexatious criminal proceedings,0.5
+saha v ms,1.0
+fire,1.1391892447477696
+ramayya,0.5
+violence,1.524896265560166
+discharge,1.305219638242894
+public servant in the criminal proceeding,0.5
+manner with the discharge,1.0
+much as the act,1.0
+gold - smiths,0.0
+b saha v m,1.0
+question of prejudice,0.6666666666666666
+accused appellant,2.8
+days,1.6721350893491447
+home,0.9826663267907214
+adequate protection,0.6666666666666666
+operation of runiabai,0.5
+code of criminal procedure applies,0.5
+lie,2.828767123287671
+mrs,0.4085714285714286
+monthly meeting at raigad,0.5
+session,2.2400874351067563
+need for sanction,0.5
+trespass,1.6722222222222223
+existence of such duty,0.5
+course of duty,0.5
+orders,1.4936359300077826
+conviction,2.248165832071736
+omission in discharge,1.5
+cover to every act,0.5
+that protection under section,0.5
+dsp manuscmanusc,0.5
+gill case,1.0
+understood,0.8127711496746204
+court in shreekantiah ramayya munipalli,0.5
+duty of the public servant,0.5
+course,1.6545957498716626
+magistrate,3.522077922077922
+charge,2.7679815308681284
+pal,1.6504163634893685
+reasonable connection with discharge,1.0
+government jeep,0.6666666666666666
+pradesh,4.365853658536586
+quality of the act,1.5
+court in b saha v ms,0.5
+case of this type,0.0
+budhikota,0.5
+officer,3.1197242647058823
+discharge of the official duty,1.0
+licensed gold-smiths,0.0
+charges,2.061307113938693
+light on a police,0.5
+offence seldom,0.5
+ground,1.4186722903211633
+later parts,0.5
+entrustment,2.0
+judicial committee of the privy council,0.5
+transaction,5.884921444603142
+criminal proceedings for offences,0.5
+surendra nath rai manuscmanusc,0.5
+west,1.1420057009587976
+trial proceed on the merits,0.0
+vide order,1.7058823529411764
+official duties without reasonable cause,0.5
+inquiry,1.3527272727272728
+excess,0.9860601614086574
+wide interpretation,1.2
+responsible public servant,0.5
+matter,2.8088923076923082
+relation,1.397320207820618
+in-charge of the primary health centre,0.0
+jewellery shop,0.5
+concept,0.9402138540213855
+hospital,1.3942768854411434
+upon the offender,0.5
+case sanction,1.0
+range of the official duties,0.5
+first clas,0.78125
+prima facie,1.0185185185185184
+provision of section,1.4827586206896552
+which offence,0.6666666666666666
+term,3.6255105640901575
+v mp,0.38095238095238093
+behalf of the appellant,1.4878048780487805
+criminal,3.301971081989414
+dacoity,4.8
+appellants,7.701086956521739
+penal,1.8829173709853835
+from the facts of the instant case,0.5
+view,2.441100058469462
+activities,1.57291280148423
+post,2.344803646492219
+allegation against the appellant,0.6666666666666666
+appellant ak,0.6666666666666666
+requirements,0.7375979875979877
+bilaspur,1.2
+opinion,1.4960606342789635
+court in matajog dubey v hc  bhari manu  scmanu  sc,0.0
+dominion,1.7127659574468086
+act in course,0.5
+careful perusal,0.8
+use,5.06801278974993
+penal code,2.710144927536232
+merit,1.2419290263876248
+court in matajog dobey v hc  bhari manu  scmanu  sc,0.0
+decision in albert west meads,0.5
+volume,0.5619176554909612
+act in discharge,1.0
+logical conclusion,0.43636363636363634
+trial proceed,1.2
+mrs  runiabai,0.0
+colour of the office,0.5
+sanction from the state government,0.5
+volumes,0.4660194174757282
+material,1.4148767018946966
+procedure,2.552771605064117
+offences under the act,1.25
+activity,1.3846153846153848
+vehicle in question,0.5333333333333333
+information,1.1320502836800534
+aklu,0.6666666666666666
+scope,0.8412698412698413
+district headquarters,1.2
+surgery in a government hospital,0.5
+polouse,0.0
+defence,1.3606588776096535
+p arulswami v state,0.5
+provision,5.439002243350069
+support,0.8630946786249609
+control of the prosecution,0.5
+quashing,0.9915966386554622
+reasonable connection,3.0
+first class,0.78125
+protection to a public servant,0.5
+patthalgaon,1.0
+provisions of section,2.762376237623762
+first,1.9006367208168047
+same case,0.4571428571428572
+fcr,0.719758064516129
+effect of section,1.1
+chargesheet under section,0.5
+saha,0.7196261682242991
+fact,3.6284951019474962
+perusal of the later parts,0.5
+learned counsel,3.703333333333333
+reference to the nature,0.6666666666666666
+raigad,2.25
+charge under section,3.8181818181818183
+expression,1.7424391201885312
+vehicle,2.973111766564837
+connection between the act,2.0
+meaning of the  official act,0.0
+duties,1.477142857142857
+lies,1.1651128135567317
+duty therefore imply,0.0
+official character,0.5
+sulaiman,1.25
+reasoning,0.6478937381404174
+footing,0.6555183946488294
+centre,1.3584842944989197
+criminal procedure,6.406779661016949
+lieutenant,0.6190476190476191
+discussion in these words,0.5
+instance at the earliest stage,0.5
+prasad,1.1407089151450054
+district hospital,2.0
+stage of the proceedings,1.4285714285714286
+that behalf,1.3548387096774193
+impugned order,2.265957446808511
+omissions,0.6971428571428571
+government vehicle,0.5
+certain limit,0.38095238095238093
+that ground,0.6190476190476191
+responsible public servants,0.5
+aforesaid discussion,1.0
+day of federal court,0.0
+extent,1.410108024691358
+necessity,0.7072538860103627
+public office,0.8095238095238095
+applicability,1.0928961748633879
+prima facie impression,0.5
+whole series of acts,0.5
+doubt,1.3646267723102583
+fanciful claim,0.30000000000000004
+official nature,0.5
+nature of the offence,1.0
+light,0.8816192372754331
+bar,1.4720990391722097
+official vehicle to the patient,0.5
+official duty therefore implies that the act,0.5
+primary health centre,2.0
+patthalgaon hospital,0.5
+public servant,4.65
+exercise,1.9400726466785694
+report,1.7768151696835826
+code of criminal procedure,6.120689655172414
+protection,1.1604395604395603
+judicial,2.8688059701492543
+public servant in course,1.0
+gold,1.6014084507042254
+principle,1.9620890732001848
+party,2.2250894654439723
+imply,0.5714042449674633
+virtue,0.9167557066537153
+bhappa singh v ram,0.5
+anything,0.9132309941520469
+clear that the omission,0.5
+proposition,0.6371087928464977
+duties without reasonable cause,0.5
+to the appellant,2.239669421487603
+later part,0.75
+arun,0.9503105590062112
+therein,1.5503424657534246
+air pp,0.5
+criminal proceedings,2.6818181818181817
+district headquarter,1.1666666666666667
+cloak,0.49090909090909085
+ambulance,0.5864197530864198
+progres,1.075925925925926
+servants,1.1313131313131313
+grant of protection,0.5
+headquarters,0.5345622119815667
+colour,0.48673194267063996
+matajog,1.5
+approval,1.4085456739300164
+fact of the instant case,0.0
+sarjoo prasad,0.5
+protection of section,1.0
+kalimuthu,0.5
+such relation to the duty,0.5
+support for this view,0.5
+start,0.86071856465668
+rai,2.517873434808919
+discharge of an official duty,0.5
+reference,2.1755848210276256
+stage on the materials,0.5
+parcel,3.0625
+applicability to any act,0.5
+existence,0.731202675709574
+sheetla,0.5
+first instance at the earliest stage,0.5
+manorama,0.5
+offence,4.401610644257703
+presence,0.9604834261070158
+universal rule,0.6666666666666666
+matajog dobey v hc bhari manuscmanusc,1.0
+sadhna,0.5
+institution,2.7327010745685443
+elements,0.676937441643324
+rejection of prayer,0.5
+accordance,1.4069045211613462
+day,1.550999710228919
+negligence,1.3017543859649123
+government hospital,0.8888888888888888
+servant of the protection,0.5
+dharamjaigarh,1.0
+question,2.980312372067635
+j refers,0.5
+import,1.5850112386464603
+approach to the import,1.0
+pradesh v sheetla sahai,0.5
+execution,1.3041894353369763
+official duty  imply,0.0
+general prima facie impression,0.5
+council,1.464939453675021
+complete control of the prosecution,0.5
+requirement of the situation,0.0
+saha v m,1.0
+belief,1.0362637362637361
+ramaswami,1.3333333333333333
+exercise of official duty,0.5
+physical part,0.5
+approach,1.001908852302553
+as the act,0.6115618661257607
+scmanu,7.940520446096654
+terms at p,0.6666666666666666
+word,2.065873981084096
+view of the matter,1.7142857142857142
+official meeting,0.5
+right approach,0.6666666666666666
+need,1.1097650269586634
+stage of the proceeding,1.5714285714285714
+little room,0.3333333333333333
+first information report,1.9565217391304348
+j observes,0.5
+only difference,0.4085106382978723
+customs,1.9344608879492597
+charges under section,1.5
+high,5.367119186841496
+following terms,1.5957446808510638
+official to which applicability of section,1.0
+needs,0.6897483569699066
+exces of the needs,0.0
+crown,0.4166666666666667
+answerable for a charge of dereliction,0.5
+gupta,0.7610062893081762
+course of the performance,0.5
+event,1.4310854436179261
+little room for doubt,0.5
+to district hospital,2.0
+sure test in this regard,0.5
+force,1.6009408121948314
+that the entrustment andor dominion,1.0
+duty imply,0.0
+official duty therefore imply,0.0
+go - by to section,0.0
+such acts,0.5714285714285714
+sankaran moitra v sadhna,0.5
+question of grant,0.75
+patient from primary health centre,0.5
+in-charge,0.0
+prayer,0.6969296987087519
+duty therefore implies that the act,0.5
+garg,1.542056074766355
+same officer,0.5
+patient mrs  runiabai to district hospital,0.0
+learned,3.406323898681099
+purpose,2.519170317925504
+law,3.538923411654744
+proceeds,1.083011583011583
+king - emperor manu  femanu  fe,0.0
+thomas,0.47182521087160256
+to which offence,0.5
+gold - smith,0.0
+cases,1.9728229418951067
+treatment,1.1351020408163266
+bar under section,0.8
+present,1.9747480780089475
+official character of the person,0.5
+rejection,0.7335907335907336
+with the official duty,1.5
+term at p,0.0
+allegation,1.834319526627219
+several element,0.5
+x x x x,0.72
+discharge of the duty,0.5
+state of maharashtra v dr budhikota subbarao manuscmanusc,0.5
+aklu ram,1.0
+state of orissa,2.25
+only point,0.39285714285714285
+crown manufemanufe,0.5
+duty implies,1.0
+licensed gold-smiths in the chaubara,0.0
+content,1.5450574489970066
+due to which offence,0.5
+post mortem,1.4
+gill case manuprmanupr,1.0
+complaint,2.734525785235724
+das manuscmanusc,1.125
+official monthly meeting,0.5
+non,1.3417336444559675
+complaint case,1.0
+reasonable cause,0.5
+grant,1.7314487632508835
+limit,2.3804570428443834
+k kalimuthu v state by dsp manuscmanusc,0.5
+gupta manuscmanusc,1.0
+same transaction,1.8095238095238095
+relevant words,0.3333333333333333
+prosecution,4.619407894736842
+earliest stage,0.3333333333333333
+policy of the legislature,0.5
+that extent,0.8888888888888888
+otherwise,1.2549820889894419
+careful perusal of the later parts,0.5
+prohibition,1.9087256027554533
+sine,2.6412144879875763
+omission in course,0.5
+wide construction,1.0
+question whether sanction,0.5
+offences,1.6681887366818873
+connection,1.050640279394645
+negligence on behalf,0.5
+in the discharge,2.5
+officer for official act,0.5
+single act,0.33
+excess of the duty,0.75
+type,0.8102172691515265
+application,2.3322596088086445
+objectionable act,0.5
+limits,0.8405888207868406
+servant acting,0.6666666666666666
+policy,3.250773332247955
+counsel,2.2246780703440323
+parts,0.6609660823170732
+official in nature,0.5
+official  act,0.0
+conclusive finding,0.5
+authorities,1.266131845134287
+commission,4.703619179345321
+restricted manner,0.5
+scope of the official duty,1.0
+trespas,1.6722222222222223
+mistaken belief,0.2857142857142857
+j in the same case,0.5
+state of bombay manu  scmanu  sc,0.0
+prosecution evidence,1.2
+answer to this question,0.43956043956043955
+from the fact of the instant case,0.0
+reasonable connection between the act,2.0
+chhatisgarh,0.6666666666666666
+acquittal,2.2714285714285714
+prmanu,1.1333333333333333
+protective cover to every act,0.5
+purported exercise,0.75
+duty implies that an act,0.5
+intention,1.7585585585585588
+ltd,2.382356477306883
+relevant word,0.3333333333333333
+execution of duty,0.5
+arun mishra,0.6666666666666666
+disposal,1.1180555555555556
+evidence,3.6676405172088815
+jewellery,1.5
+albert west mead,0.5
+patient to district hospital,1.0
+king,2.506727795123197
+judicial inquiry,0.5
+official jeep,0.5
+finding about the falsity,0.5
+dictionary,0.7964252553389043
+official capacity,2.75
+varadachariar,1.0
+dr am garg,0.5
+thoma,0.47259914972919453
+servant in discharge,1.5
+necessary for the discharge of the duty,0.5
+part of an official,1.5
+case,7.332269420884958
+difference,0.8774847235514982
+customs party,1.0
+reasoning in gill case manu  prmanu  pr,0.0
+emphasi,0.9191619047619048
+scc,1.941872465904902
+albert west meads,0.5
+word  offence,0.0
+right approach to the import,1.0
+room for doubt,0.6666666666666666
+official duty  implies,0.0
+duty for protection,0.5
+ram,2.11096203538064
+hector,0.2857142857142857
+nature of the provision,1.0
+cases of this type,0.5
+charge of dereliction,0.5
+dsp,0.39223057644110276
+singh,3.7791111111111113
+quality,1.3318577075098814
+information report,2.0
+service,4.257395095954566
+falsity,0.42857142857142855
+protection under section,1.0
+element,0.7062328407033122
+prosecution case,4.258064516129032
+kochar,0.6666666666666666
+public servant in discharge,1.5
+series of acts,0.8
+rule,5.04
+concept of section,0.5
+sufficient ground,1.6363636363636365
+b saha v ms,1.0
+connection with discharge,1.0
+requirements of the situation,0.5
+official duty imply,0.0
+for the discharge of the duty,0.5
+proceedings,1.7670925223666287
+favour,1.653145208700764
+bhari,2.0
+public servants against the institution,0.5
+court of judicial magistrate,0.6666666666666666
+r manuprmanupr,0.8571428571428571
+chandra,0.7012987012987013
+duty,3.2272215973003378
+otherwise of the complaint,0.5
+if the act,0.7428571428571429
+sankaran,0.5
+parcel of the same transaction,0.5
+subbarao,0.3333333333333333
+hori ram singh,0.5
+albert,0.23179271708683472
+part in the abetment,0.5
+office,3.5913445886237847
+wider sense,1.1428571428571428
+leave,1.0147842365477848
+maharashtra,2.9076923076923076
+clear that the concept of section,0.5
+implies,0.5243199999999999
+high court of chhatisgarh,0.5
+gold - smiths in the chaubara,0.0
+act in question,1.1666666666666667
+applicability of section,1.3888888888888888
+privy,1.2571428571428573
+point,2.9165043546008516
+goods,4.7578125
+servants purport,0.5
+privy council,2.15
+licensed gold-smith in the chaubara,0.0
+jha,0.5810012437810946
+jew,0.37337239583333337
+pal singh,2.3157894736842106
+such rule,0.6095238095238095
+surgery,0.648582995951417
+ganesh,1.9230769230769231
+activities in the course,0.5
+further evidence before quashing,0.5
+offence for the prosecution,0.5
+procedure apply,0.5
+merits,0.968421052631579
+test in this regard,0.5
+sentence,2.3896654193264366
+police,2.9749362629783356
+such relation,0.5
+either event,0.4
+materials,1.1534090909090908
+scc pp,1.0
+that the concept of section,0.5
+federal,1.031040987823701
+lieutenant hector thomas huntley v,0.5
+examination,2.4920345926263088
+police officer,1.0366379310344829
+duty therefore implies,0.5
+official duty implies that an act,0.5
+criminal procedure apply,0.0
+omission,1.1856094505101127
+supp,1.7223856594132256
+official vehicle,1.5
+reason,2.6381270903010035
+instant case,2.0631578947368423
+operation,1.0959893294085181
+part of an official duty,1.0
+manorama tiwari,0.5
+ia pp,0.5
+conclusive finding about the falsity,0.5
+public duties,0.8333333333333334
+patient,1.4067744260269741
+criminal activities in the course,0.5
+petition,5.3436539306104525
+such proposition,0.5
+monthly official meeting,0.5
+activity in the course,0.0
+part of duty,0.6666666666666666
+monthly meeting,0.3333333333333333
+construction,2.2504918032786887
+consideration,1.9110153789142115
+paragraph,1.2930197483150305
+relation to the duty,0.6666666666666666
+acting,1.159475440547977
+words,1.6384367086179112
+mead,0.2232704402515723
+available to the appellant,0.875
+public servant acting,0.5
+munipalli,0.5
+p arulswami v state of madras manuscmanusc,0.5
+manuprmanupr,1.1333333333333333
+facie,1.0476190476190477
+criminal procedure applies,0.5
+for a charge of dereliction,0.5
+same footing,1.0
+air,2.0589664272145285
+places,0.8371884824384251
+ram case manufemanufe,0.5
+public servant within the scope,0.5
+acts,1.9133929521984454
+proceeding,2.1298245614035087
+maharashtra v dr budhikota subbarao manuscmanusc,0.5
+meaning of the relevant words,0.5
+tiwari,1.0909090909090908
+understood in the earlier case,0.5
+such duty,1.7142857142857142
+sanction in accordance,0.5
+official meeting at the district headquarters,0.5
+legislature,2.818553268765133
+j observe,1.2
+umbrella,0.5185185185185185
+authority,2.4352627108360636
+judge,2.9012627415183325
+that protection,0.6666666666666666
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+capacity as a public servant,1.0
+substance,0.8230581678857541
+entrustment andor dominion,1.5
+something in the nature,0.5
+conclusion,1.3883437407077015
+qua non,1.0
+course of the prosecution evidence,0.5
+huntley,0.5
+scope of operation,0.5
+room,0.6950710108604846
+performance,1.4794327394994442
+page,1.011907905159212
+indian penal code,5.264705882352941
+maintainable without sanction from the state government,0.5
+trial proceeds,0.5
+official duty of the public servant,0.5
+hand,2.0299623418254717
+proceed,2.930994380987473
+public servants purport,0.5
+sense,0.8606303395157362
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+servant in course,1.0
+madra,2.836734693877551
+licensed gold-smith,0.0
+court in sankaran moitra v sadhna,0.5
+prejudice,0.880907124598545
+primary,0.7116013071895426
+protection of this section,0.5
+days of federal court,0.5
+criminal activity in the course,0.0
+servant in the criminal proceeding,0.5
+excess of the needs,0.5
+official duty,20.0
+requirement,1.2416133333333332
+moitra,0.5
+high court,7.7477477477477485
+virtue of the office,0.6666666666666666
+such in the discharge,0.6666666666666666
+sanction,2.0167207792207793
+state,6.817996007300392
+vexatious criminal proceedings for offences,0.5
+answer,0.9554305705177771
+official,2.6854955160358718
+criminal activities,0.5714285714285714
+which applicability,1.0
+trial,3.7979448350459712
+monthly official meeting at the district headquarters,0.5
+manu,7.078142071124147
+runiabai,1.5
+decided cases,0.8571428571428571
+impression,0.6037621359223301
+certain limits,0.30000000000000004
+language,0.8555828468744352
+good faith,0.8046647230320698
+course of the same transaction,1.6666666666666667
+k kalimuthu v state,0.5
+emphasis,0.8024289099526066
+purport,1.3465627214741318
+official duties,2.5
+gold - smith in the chaubara,0.0
+patient mrs  runiabai,0.0
+chaubara,1.0
+arulswami,0.5
+nature,1.4149926876444778
+performance of the official duty,1.0
+cover,2.502726787041524
+criminal activity,0.0
+discussion,0.7445831166579996
+health,0.8632619439868204
+sahai,1.5714285714285714
+trial proceeds on the merits,0.5
+objective of the section,0.5
+extreme,0.9372862029646524
+baijnath v state,0.5
+sum,2.554898897856461
+dobey,1.0
+situation,1.1254754682459434
+hence prosecution,0.5
+criminal proceeding,2.9166666666666665
+something,0.5915378827342709
+institution of the complaint case,0.5
+whole series,0.2727272727272727
+dependent upon the offender,0.5
+court in regard,1.4285714285714286
+view of the aforesaid discussion,0.6666666666666666
+mortem,1.402116402116402
+in-charge of patthalgaon hospital,0.0

@@ -1,0 +1,64 @@
+alse general,0.0
+solicitor,1.7073170731707317
+general,1.7536558414534391
+january,0.8699641577060931
+senior,1.989753211141579
+council,1.464939453675021
+pinky anand,1.2
+consortium,0.4516129032258064
+counsel for the medical council,0.6666666666666666
+india list,1.5
+instant interlocutory applications,0.5
+anand,1.15
+sharma,0.9516994633273703
+juncture,0.8717948717948718
+vivek,1.3968253968253967
+order,5.472481489660944
+state list,10.857142857142858
+gaurav,1.3333333333333333
+state of kerala,2.861111111111111
+applications,1.0021816198527407
+applicant consortium,1.0
+to the applicant consortium,1.0
+court s order,0.0
+viz,0.7732570026579433
+students from state list,1.5
+medical,1.633306645316253
+reasons,1.3749054007567938
+additional solicitor general,2.5
+open to the applicant consortium,0.5
+regard,2.723310344827586
+difficulty,0.656910569105691
+limited liberty,0.5
+alse general for the union,0.0
+interlocutory,1.96
+additional solicitor general for the union,0.75
+george,0.6472834067547724
+reason,2.6381270903010035
+student,1.2777711454664835
+interlocutory applications,1.0833333333333333
+mr vivek,1.0
+pinky,0.6
+solicitor general,1.7368421052631577
+court,12.24425115501509
+list,4.014941314095513
+available to the applicant consortium,0.5
+kerala,4.135593220338983
+mr mt,0.5
+students,1.1355891528677706
+union,2.0981927710843373
+senior counsel,2.2857142857142856
+interlocutory application,1.7333333333333334
+additional,1.4256530253244384
+state,6.817996007300392
+counsel,2.2246780703440323
+case,7.332269420884958
+application,2.3322596088086445
+applicant,0.7861822513400833
+student from state list,0.0
+instant interlocutory application,0.5
+medical council,4.375
+tankha,0.6000000000000001
+india,2.7684068260703585
+solicitor general for the union,0.8
+liberty,0.7860465116279071

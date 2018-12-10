@@ -1,0 +1,325 @@
+police help from the jagatsinghpur police station,0.5
+sale of the truck,0.5
+further orders on tuesday,0.5
+certain further direction in the matter,0.0
+tuesday,0.31262939958592134
+order of the high court,1.296875
+contract,6.227349970404598
+petitioner,4.524972253052164
+orders,1.4936359300077826
+notice,2.3300025999395686
+proper,2.7623036581024407
+writ,2.8882378560889794
+orissa state,0.75
+step,0.8867024753460084
+contempt,1.5446913580246913
+amount,3.179688593072295
+february,0.8575630252100839
+contempt petition,2.0714285714285716
+such decision,1.5294117647058822
+rs-,0.0
+power,3.8165227690948367
+such decision as deemed fit,0.5
+shri navkishore bhutan for a sum,0.5
+directions,1.5134125183504605
+reliefs,1.308641975308642
+bhutan,0.6000000000000001
+police,2.9749362629783356
+court s order,0.0
+waiving,1.2
+amount of rs,1.5806451612903225
+sections,1.640495469442838
+contractual matter,0.5
+order of this court,2.125
+interim order,2.9166666666666665
+following direction,1.0
+petitioner pursuant to the order,0.5
+high,5.367119186841496
+power under sections,0.5
+realizable,0.5
+failure,0.7827962142086977
+interest,2.74353772015385
+corporation act,2.5
+appellant,14.387096774193548
+shri shambu prasad singh advocate,0.5
+defaulted amount,0.5
+court,12.24425115501509
+notice for auction,0.5
+officer,3.1197242647058823
+owner of the seized vehicle,0.5
+ojc,0.515625
+vehicles,1.4161490683229814
+position,1.549133168619177
+orders on tuesday,0.5
+realizable in accordance with law,0.5
+tomorrow,0.4386503067484662
+agreement,3.450434632433366
+further order,0.8253968253968255
+direction of the high court,1.1666666666666667
+writ petition,6.24223602484472
+petition,5.3436539306104525
+person,4.291511329454258
+jurisdiction under article,1.2857142857142858
+corporation by tomorrow,0.5
+show,1.5002130552117363
+dues,1.2780386019822638
+further directions in the matter,0.5
+probability,0.45294117647058824
+cause,1.8431210321626654
+law,3.538923411654744
+help,0.7217940266720754
+necessary in the facts,0.6666666666666666
+obligations between the parties,0.5
+balance,0.9863636363636363
+corporation to hand,0.5
+further action,0.33333333333333337
+time,2.4764180952862667
+further direction,1.2380952380952381
+field,1.5820968371729793
+navkishore,0.5
+matter,2.8088923076923082
+factual position,1.3333333333333333
+writ petitioner,4.482758620689655
+year in the meantime,0.0
+loan,2.299059561128527
+financial,2.2822547614171618
+new truck,0.5
+meantime,0.5833333333333334
+article,4.378806157159795
+stay,0.7804272356384462
+opposite parties,0.6666666666666666
+price,2.8302710227712162
+auction,4.7739938080495365
+consequential reliefs,0.6666666666666666
+years in the meantime,0.3333333333333333
+order waiving,0.5
+ownership,1.1522633744855968
+shri shambu prasad singh advocate for the appellant,0.5
+contractual obligation,0.66
+criminal misc,1.25
+appellants,7.701086956521739
+sum of rs,2.125
+number,1.4802651440973922
+purchaser,2.017857142857143
+shri,2.0759135877246115
+from the auction purchaser,1.0
+purchaser in the auction,0.5
+certain amount,0.4375
+decision,2.9514937765898557
+appropriate order,1.565217391304348
+month after the petitioner complies,0.5
+stands,0.7032366540563262
+show cause,3.193548387096774
+proceeding,2.1298245614035087
+naba,0.6875
+relief,1.4748116760828625
+fresh contract,2.0
+vehicle from the possession,0.5
+installments,1.9444444444444444
+contract between the parties,1.1111111111111112
+patnaik,0.8333333333333334
+submission because the sale,0.5
+plain reading,1.173913043478261
+transfer,1.9975047057658015
+original criminal misc,0.5
+entire amount,1.3333333333333333
+appeal,3.4125488033856883
+contractual obligations between the parties,0.5
+shambu,0.2727272727272727
+challenge,1.2204566274399267
+registration number,0.6666666666666666
+police help,0.8
+delay,1.9544910179640715
+misc,0.7132772338860931
+interest till date whereupon,0.5
+scope,0.8412698412698413
+connection,1.050640279394645
+polouse,0.0
+representation before the corporation,0.5
+further directions,0.9090909090909091
+kishore,0.6823529411764706
+counsel,2.2246780703440323
+month,1.3454861111111112
+year,2.8349484769759212
+defaulted amount of rs,0.5
+application,2.3322596088086445
+fresh loan,0.6666666666666666
+corporation,3.6427750743444176
+obligation between the parties,0.0
+scope of the writ petition,1.0
+obligations,0.9121212121212122
+quashing,0.9915966386554622
+service of notice,1.2222222222222223
+reading,0.9004509191814082
+party no,4.0
+proper direction,0.3333333333333333
+shri navkishore bhutan,0.5
+agreement for realization,0.5
+plain reading of the impugned order,0.5
+petitioner pursuant,0.5
+petitioner complies,0.5
+other consequential relief,0.5
+financial corporation,3.5
+fit case,1.1578947368421053
+realization,0.6944444444444444
+fact,3.6284951019474962
+order,5.472481489660944
+further order on tuesday,0.0
+formality,0.5833333333333334
+owner,2.9502416709822197
+learned counsel,3.703333333333333
+registration,2.231365215068127
+compliance with the interim order,0.5
+act,12.870263922028107
+necessary formality,0.0
+challenge in this appeal,0.8333333333333334
+circumstances of the case,1.3373493975903614
+such direction,1.375
+formalities,0.5
+following directions,1.0
+waiving of the interest till date whereupon,0.5
+interest of justice,1.2
+interest till date etc,0.5
+vehicle,2.973111766564837
+jagatsinghpur,0.5
+high court by the order,0.5
+hand,2.0299623418254717
+person in the court,0.5
+station,1.2515681586858238
+orders of the high court,1.1
+further direction in the matter,0.0
+certain further directions in the matter,0.5
+rupee,2.2291666666666665
+dispute,2.402137592137592
+court by the order,1.0
+possession,2.808810857389056
+no doubt,0.8331331503088538
+balance loan amount in accordance,0.5
+fresh application before the corporation,0.5
+ownership of the vehicle,0.5
+prasad,1.1407089151450054
+circumstances,1.3944461370073231
+obligation,1.1071428571428574
+wide power,0.5303030303030303
+auction sale,3.375
+order of the seizure,0.5
+stand,1.8422769621739425
+impugned order,2.265957446808511
+special leave petition,2.013333333333333
+high court for an interim order,0.5
+petitioner in person,0.5
+due,1.6178286949129652
+fresh contract between the parties,0.5
+court that the corporation,0.5
+extraordinary jurisdiction,0.875
+to the lapse,0.6666666666666666
+such directions,1.3333333333333333
+shri patnaik,0.5
+order read,0.75
+in the facts,0.9398907103825137
+due to the lapse,0.5
+jagatsinghpur police station,0.5
+high court,7.7477477477477485
+certain further directions,0.5
+compliance,1.0029799914857385
+circumstance of the case,0.5
+parties,1.8210828547990157
+orissa,2.3125
+seized vehicle,1.0
+state,6.817996007300392
+owner of the vehicle,0.45000000000000007
+case,7.332269420884958
+amount from the auction purchaser,0.5
+further orders,0.7777777777777778
+rs- per month,0.0
+jurisdiction,2.9539571926331507
+truck,1.0360124699896083
+years,2.5395804110508022
+nature of the dispute,0.8571428571428571
+consequential relief,1.0
+section,9.287987283173626
+representation,1.2338308457711442
+appropriate representation,0.5
+fact of this case,0.0
+january,0.8699641577060931
+constitution,3.204842342342342
+party,2.2250894654439723
+interest in the matter,0.6666666666666666
+quashing of the notice,0.5
+certain amount from the auction purchaser,0.5
+certain further direction,0.5
+contractual obligations,0.5052631578947369
+balance amount,1.1428571428571428
+extraordinary jurisdiction under article,0.6666666666666666
+reading of the impugned order,0.5
+singh,3.7791111111111113
+balance amount from the petitioner,0.5
+opposite party no,0.5
+place,2.333104345208554
+justice,2.292557084574302
+vehicle into auction sale,0.5
+circumstance,1.429931390219372
+officers,2.442124212421242
+balance loan amount,0.5
+order reads,0.6666666666666666
+portion,1.0756311179804223
+lapse,0.9238095238095239
+service,4.257395095954566
+nature,1.4149926876444778
+therefore,2.960332350576253
+present case,1.5611814345991561
+learned counsel for the appellants,1.7142857142857142
+confirmation,2.098684210526316
+ory,2.7582385437085803
+court for an interim order,0.5
+auction purchaser,8.4
+opposite party,2.3333333333333335
+decision as deemed fit,0.5
+appellant herein,2.046153846153846
+order on tuesday,0.0
+petitioner comply,0.0
+order waiving of the interest till date etc,0.5
+appropriate representation before the corporation,0.5
+in the fact,0.7692307692307693
+advocate,1.0791341991341994
+deemed fit,0.8333333333333334
+possession of the vehicle,2.0
+loan to the writ petitioner,0.5
+further action for transfer,0.5
+seizure,0.6583598956824108
+same from the auction purchaser,0.6666666666666666
+stay of confirmation,0.5
+date,6.195616975795285
+sum,2.554898897856461
+direction,1.8495050210098996
+jurisdiction of the court,1.1666666666666667
+writ petitioner before the high court,0.6666666666666666
+money,1.6567889044524557
+installment,1.9047619047619049
+action for transfer,0.5
+contractual obligation between the parties,0.0
+fresh application,1.3333333333333333
+rupees,2.311111111111111
+month s time,0.0
+application before the corporation,0.5
+further step,0.75
+accordance with law,1.0046948356807512
+facts,1.4696673624372698
+action,3.127292663476874
+directions of the high court,1.0
+respondent,4.757894736842104
+necessary formalities,0.5
+leave,1.0147842365477848
+relevant portion,0.6486486486486488
+other consequential reliefs,0.5
+fresh loan to the writ petitioner,0.5
+accordance,1.4069045211613462
+submission,1.0913871684001404
+sale,3.3662581620085734
+thousand,0.625287081339713
+slp,1.291953447628582
+interim order of this court,0.6666666666666666
+leave petition,2.013333333333333
+question,2.980312372067635
+facts of this case,1.1923076923076923
+financial corporation act,1.25

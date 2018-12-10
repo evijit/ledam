@@ -1,0 +1,108 @@
+accused appellant,2.8
+order of the high court,1.296875
+as the learned state counsel,0.5
+similar charge,0.4444444444444444
+session,2.2400874351067563
+code,2.880559796437659
+aforesaid fact,0.9230769230769231
+read with section,2.3513513513513513
+seriousnes of the charges,0.0
+sections,1.640495469442838
+terms,2.390350840909655
+sontakke,0.1111111111111111
+charge,2.7679815308681284
+seriousnes,0.5777777777777777
+high,5.367119186841496
+account,2.5754891049671977
+court,12.24425115501509
+custody,1.4166666666666667
+other facts,0.45000000000000007
+charges,2.061307113938693
+other case,0.6654088050314465
+bail,2.0427807486631013
+certain other facts,0.5
+cases,1.9728229418951067
+liberty,0.7860465116279071
+appropriate conditions,1.0
+light of the above,1.0
+lady,0.6819258089976322
+term,3.6255105640901575
+learned public prosecutor,0.5
+harish,0.40211640211640215
+penal,1.8829173709853835
+first date,0.5
+view,2.441100058469462
+sessions,1.3405714285714285
+activities,1.57291280148423
+other fact,0.5079365079365079
+penal code,2.710144927536232
+prevention,0.6124072110286319
+angela,0.25
+aforesaid facts,0.8571428571428571
+appeal,3.4125488033856883
+witness,5.333906623599983
+similar charges,0.6666666666666666
+ats,1.3852420220494717
+activity,1.3846153846153848
+read,2.2147281730888695
+connection with sessions case,0.5
+connection,1.050640279394645
+accused appellant under sections,0.5
+counsel,2.2246780703440323
+year,2.8349484769759212
+april,0.8928235149629509
+that the learned trial court,1.25
+witnesses,3.359210526315789
+learned state counsel,0.6666666666666666
+appellant angela harish sontakke,0.5
+unlawful activities,2.0
+fact,3.6284951019474962
+order,5.472481489660944
+learned counsel,3.703333333333333
+act,12.870263922028107
+may,3.683418028199994
+indian penal code,5.264705882352941
+other facts like the period,0.5
+learned counsel for the parties,1.263157894736842
+seriousness,0.5777777777777777
+likely period,0.5
+appellant,14.387096774193548
+conditions,1.9988092071092867
+kalachowki,0.5
+high court,7.7477477477477485
+inasmuch as the learned state counsel,0.5
+public,2.923239095873367
+for trial,0.8126984126984127
+parties,1.8210828547990157
+state,6.817996007300392
+case,7.332269420884958
+period,1.9480170842427122
+light,0.8816192372754331
+seriousness of the charges,0.5
+present order,0.6666666666666666
+years,2.5395804110508022
+certain other fact,0.5
+section,9.287987283173626
+trial,3.7979448350459712
+clear that the learned trial court,0.5
+view that the accused appellant,0.5
+party,2.2250894654439723
+condition,2.259476395625584
+sessions case,1.0
+custody since april,0.5
+regard,2.723310344827586
+unlawful activity,0.0
+bail in terms,1.0
+date,6.195616975795285
+appropriate condition,1.0
+bail by the learned trial court,0.5
+prosecutor,1.1917989417989419
+learned trial court,2.5
+harish sontakke,0.5
+angela harish sontakke,0.5
+certain other facts like the period,0.5
+facts,1.4696673624372698
+other cases,0.6446886446886447
+available for trial,0.5
+leave,1.0147842365477848
+mumbai,1.8484848484848484

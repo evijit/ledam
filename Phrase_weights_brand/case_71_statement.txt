@@ -1,0 +1,44 @@
+matter,2.8088923076923082
+memorandum,1.2142857142857144
+thanks,0.3647830474268416
+party,2.2250894654439723
+compromise,1.6862573099415208
+joseph,0.4502673796791444
+terms of the memorandum,0.5
+cost,1.2954397451466992
+disputes on partition,0.5
+part of the decree,1.2
+term,3.6255105640901575
+representative,1.0617102796119673
+learned counsel,3.703333333333333
+settlement,1.6881394467601363
+thank to the cooperation,0.0
+amicable settlement,1.5
+partition,0.8877551020408164
+learned counsel for the parties,1.263157894736842
+memorandum of compromise,1.0
+thanks to the cooperation,0.75
+thank,0.8803466333008944
+terms,2.390350840909655
+dispute,2.402137592137592
+term of the memorandum,0.0
+cooperation,0.8318725099601593
+decree,3.732408834103749
+appeal,3.4125488033856883
+dispute on partition,0.0
+kurian,0.9655172413793104
+pendency,1.0084033613445378
+court,12.24425115501509
+parties  legal representative,0.0
+representatives,0.8874021711688966
+issue,2.766776251628934
+kurian joseph,0.9655172413793104
+parties,1.8210828547990157
+parties  legal representatives,0.0
+leave,1.0147842365477848
+counsel,2.2246780703440323
+pendency of the matter,0.6666666666666666
+costs,0.8167395522604189
+slp,1.291953447628582
+part,5.294464509893076
+disputes,2.3049883690876194

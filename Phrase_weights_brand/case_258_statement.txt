@@ -1,0 +1,1641 @@
+mishra,0.3173076923076923
+government,3.5583785424010483
+inappropriate for a state government,0.5
+new benefit,3.5
+apparent from the memorandum,0.5
+absence of the doctrine,0.5
+pension rules,7.25
+constitutional goal,1.0
+subrata sen,0.5
+dey,0.8643216080402009
+state after retirement,0.5
+x x x,0.6470588235294118
+establishment,0.9899216125419933
+protection of the laws,1.0
+counting,1.8366107576633892
+payable to the appellants,1.0
+reasonable relations,0.5
+pension at the time,1.3333333333333333
+union,2.0981927710843373
+rise,1.6238941915958565
+service of the employees,0.6666666666666666
+way,1.7812722068664852
+same manner,0.6079182630906769
+calculation,0.8853448275862068
+ex-servicemen,0.0
+pre- retiree,0.0
+view of articles,0.75
+retiral benefits on account,0.5
+state government on temporary basis,0.5
+declaration of equality,0.6666666666666666
+same manner as the employee,0.5
+state policy,0.7619047619047619
+share,2.560794932990637
+retirement,10.167032967032968
+case of pensionary benefits,0.5
+present appeal,1.3424657534246576
+months from today,1.0
+mdu,0.6060606060606061
+aforesaid,2.592896174863388
+test,2.5329834591340266
+employees of maharshi dayanand university,0.5
+eligibility criterion,0.6666666666666666
+cut-off date,0.0
+v union of india manuscmanusc,1.8275862068965518
+assistant in kurukshetra university,0.5
+advice,0.7581699346405227
+division stare,0.5
+conferment,1.0909090909090908
+month,1.3454861111111112
+division stares into face,0.5
+matter of commutation,0.5
+haryana chandigarh,1.3333333333333333
+pension under pension scheme,0.5
+willingness to depositadjustment,0.5
+fixation,1.1141025641025641
+subject,2.4420366233344897
+pay commission,5.222222222222222
+period of service,1.5
+same set of rules,0.5
+question whether earlier retiree,0.5
+order,5.472481489660944
+from the date,1.806146572104019
+marginal difference in the case,0.5
+state action,2.625
+full-fledged university,0.0
+hey - day of life,0.0
+marginal difference,0.5
+equal protection,1.1885714285714284
+induction,1.5217391304347827
+loyal service,0.5
+copy,0.8620926631522174
+employee of the bank,0.6666666666666666
+member,2.649111111111111
+option,1.002339493011135
+-- since the appellant,0.0
+- fledged university,0.0
+parties,1.8210828547990157
+pursuant to recommendation,0.5
+allowance,2.1019607843137256
+economic security in the fall,0.5
+to persons,0.6190476190476191
+contrary view,0.7464114832535885
+servant,2.030552291421857
+condition,2.259476395625584
+first part,1.236842105263158
+goals for which pension,0.6666666666666666
+labour on the basis,0.5
+pensionary benefit,3.6666666666666665
+discernible basis,0.5
+present case,1.5611814345991561
+temporary on completion,0.5
+bracket,0.4677419354838709
+same class of pensioners,1.5
+pension scheme of kurukshetra university,0.5
+aforesaid employee,0.5
+discriminatory portion of the scheme,0.5
+justifiable criterion for the state government,0.0
+next day,0.6306081754735793
+proces,1.627944583238701
+other university,0.3333333333333333
+limitation,2.4984479402325457
+provisions of md,0.5
+chandigarh,1.52
+economic security by way,0.5
+admissible benefits,0.5
+optimum return,0.5
+inequality in the society,0.6666666666666666
+para,2.300239586747483
+to the same clas of pensioners,0.0
+fundamental rule,0.8
+state of rajasthan,1.9090909090909092
+stipulation,1.6507936507936507
+from the memorandum,0.75
+employee of punjab,0.0
+new class,0.4
+today,0.6330563683773655
+retiral benefits,1.7142857142857142
+earlier retiree,1.5
+permanent  temporary posts,0.0
+socio-economic justice,0.0
+dhingra v union,0.5
+scheme,3.415949119373777
+equal number,0.2692307692307692
+labour under the scheme,0.5
+relevance,0.6870535714285714
+vii,1.26552423069836
+territory of india,2.5
+discernible basi,0.5
+new clas,0.4
+retirement benefit,1.5714285714285714
+rational relation to the object sought,1.0
+impugned judgment,2.0927152317880795
+mentioning that the employees,0.5
+term of para,0.0
+pension scheme of the university,0.0
+-- as the cut-off date with effect,0.0
+different rank,0.5
+legislative action,0.6000000000000001
+provident fund,2.4615384615384617
+directive principles,1.2222222222222223
+post,2.344803646492219
+such date,1.1818181818181819
+merit,1.2419290263876248
+recognition,1.4333333333333333
+aforesaid method,0.5
+disparity of pension,0.5
+to the employees of the university,1.0
+case of employees,1.0
+unequal treatment in the matter,0.5
+dated -- read with the pension fund rules,0.0
+basis of this new benefit project,0.5
+month from today,0.8333333333333334
+senility,0.5
+haryana state,1.0
+university rohtak,5.5
+nexus to the objects,1.0
+beware,0.2436974789915966
+periodical,0.6330935251798561
+higher education commissioner,2.0
+anr,1.1271033322299457
+deputy,1.1595268542199488
+subsequent judgment,1.0
+reserve,1.8336147492356134
+footing,0.6555183946488294
+detail in the aforesaid case,0.5
+centre,1.3584842944989197
+same clas,0.8974358974358975
+marwaha v union,0.5
+first time,0.7741935483870968
+bowl,0.22340425531914893
+provision of md,0.0
+continuous service,0.8
+class within a clas,0.5
+subrata,0.6666666666666666
+sen,4.021152898608279
+dhingra,0.6666666666666666
+treatment in the matter,0.6666666666666666
+admission to pension fund,0.5
+observation in nakara case manu  scmanu  sc,0.0
+applicability,1.0928961748633879
+liberalised pension rules,0.5
+universitykurukshetra university deserve,0.5
+manner as the employee,0.5
+affidavit,2.2996987951807224
+lpa,0.9672836569649268
+characteristic,0.6366782006920415
+aforesaid d,1.3653846153846154
+eligible for the benefit from the date,0.5
+next question,0.6190476190476191
+protection,1.1604395604395603
+principle,1.9620890732001848
+behalf of the union,1.4285714285714286
+eligible for pension,8.666666666666666
+government servants,1.7
+haryana at chandigarh,0.875
+appellant in punjab,0.0
+aforesaid university,0.0
+commencement,1.2037037037037035
+equality,1.5627329192546584
+case of a new scheme,0.5
+lieu of contributory provident fund,0.5
+servants,1.1313131313131313
+aided post,0.5
+present appeals,1.625
+alongwith interest,1.0
+division bench,3.965217391304348
+date,6.195616975795285
+respect to the service,0.5
+same pay bracket,0.5
+afresh,0.6891891891891891
+respondent,4.757894736842104
+relation to the object,1.0
+govt,0.7017766497461929
+such case of dr jahan singh,0.5
+reason for this division,0.5
+as central government  state,0.0
+benefit of fixation,0.5
+services of the punjab,0.5
+new formula of computation,0.6666666666666666
+post- retiree,0.0
+break,0.8632505016206206
+other words,0.7578482137053969
+august,0.977116704805492
+singh dahiya,1.0
+pension scheme,11.2
+expectation,0.8103813559322035
+rajasthan,3.9215686274509802
+constitution on the basis,0.5
+past,0.9553167330358714
+high,5.367119186841496
+payment,2.059553716565686
+following terms,1.5957446808510638
+upward revision,2.5
+dated -- read,0.0
+more pension,0.6666666666666666
+event,1.4310854436179261
+prospective amendment,0.5
+question of classification,1.0
+war injury pension to pre- retirees,0.0
+-- under the scheme,0.0
+behalf of the appellants,1.46875
+line,1.6884436630262616
+question of grant,0.75
+classification,2.196286472148541
+months  salary,0.0
+sps,1.2446633825944171
+retirement age,1.8
+rejection,0.7335907335907336
+fixation of cut-off date,0.0
+humane formula,0.5
+matter of retirement,0.5
+willingnes to depositadjustment,0.0
+india reserve bank,0.6666666666666666
+clear that arrears,0.5
+same class,0.8974358974358975
+prowes,0.3434343434343434
+time of subsequent amendment,0.6666666666666666
+unequal treatment,0.6984126984126984
+executive,1.3789130780232004
+contribution,0.8348513902205177
+artificial division stare,0.5
+criterion,0.7104166666666666
+hereinafter,0.7670609645131939
+dayanand university,3.5
+march,1.0644238856181665
+aforesaid requirement of the memorandum,0.5
+liabilities,1.0606060606060608
+pensioners with a view,0.5
+commission,4.703619179345321
+relation to the object sought,1.0
+subsequent to that date,1.0
+certain categories,0.6666666666666666
+jurisdiction after a period,0.5
+pensioner for the purpose,0.0
+ex-serviceman,0.0
+arun mishra,0.6666666666666666
+hey - day,0.0
+benefit of the revision,0.0
+vice,3.766984711894892
+same rules,0.37037037037037035
+govtautonomou,0.5
+autonomous,0.8
+respondent university,0.5
+social security,0.23469387755102045
+operative from the date,0.5
+punjab v justice ss dewan,0.5
+ram,2.11096203538064
+punjab university,14.0
+clas of pensioners,0.0
+singh,3.7791111111111113
+purposes,1.4391216613438835
+arrear,1.4666666666666666
+quality,1.3318577075098814
+service,4.257395095954566
+therefore,2.960332350576253
+finance department,2.0
+end,6.1484001628618765
+subject - matter,0.0
+whole gamut,0.5
+rule,5.04
+provision to this effect,0.5
+reasonable relation to the object,0.5
+average emoluments,1.3333333333333333
+goal of security,0.6666666666666666
+respondents,2.6341263330598856
+financial implication,0.8
+court in the aforesaid decision,0.8
+costs,0.8167395522604189
+pension provision from the date,0.5
+persons of the same class,0.5
+service for grant,1.3333333333333333
+stipend,0.3333333333333333
+process,1.6274942048088725
+higher,1.7172937941551014
+admission,1.5389848246991107
+regional centre,1.0
+to the employee of the university,0.0
+break in md,0.5
+cut - off date,0.0
+status,1.14824388424026
+by the appellants towards contributory provident fund,0.5
+project,4.265889006716154
+present controversy,1.3333333333333333
+schemes,1.1961722488038278
+pension rules of the university,0.5
+own order,0.75
+clarification,1.0567698846387372
+position,1.549133168619177
+one,4.845669314438648
+petition,5.3436539306104525
+test of article,0.8571428571428571
+ceiling,3.0180995475113117
+sunder singh dahiya,0.5
+deferred portion of the compensation,0.5
+consideration,1.9110153789142115
+government of india,4.94
+steno,0.5454545454545454
+fund,2.9945256868353374
+words,1.6384367086179112
+combined effect of staff,0.5
+benefits on account,0.5
+commissioner,2.271608643457383
+clause,3.526455026455027
+detre,0.4444444444444444
+directive principle of state policy,0.0
+deputy registrar in august,0.5
+parcel of that goal,0.5
+purpose of pension,8.5
+ex - servicemen like the respondent,0.0
+ministry,1.6350210970464136
+case of rl,0.5
+for the benefit from the date,1.0
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+homogeneous class,0.6666666666666666
+vice - chancellor,0.0
+payable to officers,0.5
+substance,0.8230581678857541
+lower ceiling,0.5
+basi of a particular date,0.0
+new formula,0.6666666666666666
+old age,0.6349206349206349
+relation with the employer,0.0
+lecturer,0.44999999999999996
+further delve,0.5
+fundamental rule in a manner,0.0
+regular employment,0.6666666666666666
+gratia,2.3586206896551722
+governmentautonomous body,0.5
+pensionary benefits,3.5555555555555554
+such service,0.6666666666666666
+pursuant,0.7227692307692308
+universitykurukshetra university as qualifying service,2.0
+typist,0.28571428571428575
+marwaha,1.0
+kurukshetra university,18.5
+services for the purpose,0.6666666666666666
+ratio in ds,0.5
+same rule,0.4861111111111111
+spirit,0.6048586885080135
+other officer,0.9047619047619048
+naveen,0.75
+requirement,1.2416133333333332
+pension as a retirement benefit,0.6666666666666666
+pension from march,0.5
+certain categories of employees,0.5
+temporary statu,0.6666666666666666
+state of rajasthan v,2.2857142857142856
+retiral benefit on account,0.0
+than the amount,1.3333333333333333
+self,1.6847516412733803
+other officers,0.6666666666666666
+goals,0.5553451178451179
+socio,0.5934684684684685
+principle in krishena kumar case,0.5
+inequality,0.48
+impermissible in view of articles,0.5
+nature,1.4149926876444778
+rationalisation of the scheme,0.5
+service of corporation,0.0
+things,0.6162490788504054
+vain,0.358695652173913
+university v dr jahan,0.5
+new retiral benefits,1.0
+central governmentstate,0.5
+eligible for pension at the time,1.0
+court in inder pal yadav manu  scmanu  sc,0.0
+set of employees,1.0
+something,0.5915378827342709
+action,3.127292663476874
+artificial date,0.5
+krishena case manuscmanusc,0.5
+open,1.0501084098353093
+stand of the respondents,0.75
+to officers,1.1428571428571428
+decision in the aforesaid case,0.5
+university by the appellants,0.5
+notifications,1.9743589743589745
+thing,1.1131787570209408
+last revision of emoluments,0.5
+capacity,1.7421691881525676
+director,1.3549769585253457
+number of years,0.5818965517241379
+circumstanced employees,0.5
+mental prowess,0.5
+pension scheme with effect,0.5
+fundamental rules in a manner,0.5
+krishena,2.0
+to the government servant,0.6666666666666666
+benefit between similar set,0.5
+boota,0.28205128205128205
+day of invalidity,0.0
+on the basis of the scheme,0.5
+arbitrary action,0.8333333333333334
+retd,0.3787878787878788
+central govtstate,0.5
+court,12.24425115501509
+benefit by virtue,0.0
+declaration,2.152560083594566
+high court after rejection,0.5
+to any principle,0.5
+kasturi,2.25
+case of upward revision,1.0
+person,4.291511329454258
+that service,0.5217391304347826
+casual labour under the scheme,0.5
+contributory,0.987012987012987
+vains,0.3333333333333333
+same capacity,0.5
+formation,1.1075979991753988
+line of decisions,0.8
+which pension,0.6666666666666666
+nothing,0.8658723322806009
+nakara case,3.3333333333333335
+regular permanenttemporary posts,0.5
+terms of para,1.0
+subsequent notification,1.125
+age,4.526374474274117
+permanent  temporary post,0.0
+number,1.4802651440973922
+counter to the whole gamut,0.5
+decision,2.9514937765898557
+similar case,0.41666666666666663
+restrictive interpretation,0.75
+allocationabsorption,0.5
+past services,1.6666666666666667
+contra,3.550142721217888
+which period,0.8333333333333334
+interpretation,1.518366298484459
+denial,0.8338926174496643
+account of division,0.5
+year,2.8349484769759212
+day under para,0.0
+sound reasoning,0.6666666666666666
+judgment,3.288216560509554
+date for admission,1.75
+benefit project,0.5
+decision of the constitution bench,1.2727272727272727
+past pensioner,1.0
+injury,1.7199352451433856
+intelligible differentia,1.75
+fall of life,1.0
+clas,2.1196191893660425
+court in krishena case manu  scmanu  sc,0.0
+admissible benefit under pension scheme,0.0
+-- since open line,0.0
+particular date,0.9000000000000001
+due to old age,0.5
+manner as the employees,0.5
+organisations,0.6688963210702342
+on completion,0.888888888888889
+rule of average emoluments,0.5
+same undertaking  corporation,0.0
+other employees,1.0303030303030303
+panickar,0.5
+pre- retirees,0.0
+respect to the counting,1.0
+distinction between liberalisation,0.5
+inflationary trends,0.5
+months  average,0.0
+officers,2.442124212421242
+finding,1.8129183657767178
+v union of india,2.381818181818182
+cradle,0.31746031746031744
+temporary in character,0.6666666666666666
+regard,2.723310344827586
+clas of persons,0.0
+case of the appellants,0.9230769230769231
+ratio of the decision,1.0714285714285714
+raison,0.3333333333333333
+willingness,0.7818181818181819
+different classes,0.4166666666666667
+direction,1.8495050210098996
+rights,1.6349541930937281
+pahuja,0.5
+person equality before the law,0.6666666666666666
+measurement,0.9433811802232855
+facts,1.4696673624372698
+temporary on the basis of the scheme,0.5
+person of the same class,0.0
+additional benefit to these pensioners,0.5
+relevant portion,0.6486486486486488
+stares,0.2777777777777778
+available to all persons of the same class,0.5
+receipt of the cpf amount,0.5
+court in inder pal yadav,1.0
+benefit,2.604810195438474
+cost,1.2954397451466992
+payment in recognition,0.5
+relations to the object,0.5
+for a state government,0.5
+sub,7.816899313759727
+haryana government,1.0
+kurukshetra,22.5
+pensionary benefits to ex - servicemen,0.0
+half of the service,0.5
+matter of exercise,0.8
+ex - serviceman,0.0
+new class of persons,0.5
+continuous fall,0.5
+hereunder,1.4457142857142857
+matter,2.8088923076923082
+relation,1.397320207820618
+state govt,1.2857142857142858
+various subsequent judgments,0.5
+justifiable criterion,0.0
+casual labour,6.5
+contention of mr  gupta,0.0
+temporary status,0.6666666666666666
+discrimination in the matter,0.75
+court in ds,2.0
+rationale,0.6017094017094018
+liability,2.532836248924577
+complete go - by,0.0
+significance,0.6059966216216216
+other autonomous body etc,0.5
+principle of republicanism,0.0
+aforesaid ds,0.5
+government employee,0.7142857142857143
+as the state government,1.2307692307692308
+benefit with arrears,0.0
+applicable to the employees of the university,1.0
+inflationary trend,0.5
+own costs,0.9090909090909091
+commodities,1.6200000000000003
+less than the amount,2.0
+provision,5.439002243350069
+circular,2.0360934182590236
+portion of the scheme,0.5
+maximum,0.8925619834710745
+benefit to these pensioners,0.5
+criteria,1.3561764705882353
+division stare into face,0.0
+differential,0.9207207207207209
+savings,0.3564356435643565
+department,1.9858367499068206
+enhanced pension,0.6666666666666666
+different ranks,0.5
+maharshi dayanand university,3.5
+past pensioners because the emoluments,0.5
+object,1.4940119760479043
+kumar,2.028839704896043
+constitution bench decision of this court,1.4444444444444444
+kannaiah,0.5
+extent,1.410108024691358
+aforesaid decision,1.15625
+set of rules,0.5743243243243242
+light,0.8816192372754331
+regards service,0.5
+such case,0.7332761578044598
+such employees,1.4
+last revision,0.5
+conferment of new benefit,0.5
+trends,0.39999999999999997
+regional centre of kurukshetra university,2.0
+own employees,0.6666666666666666
+entire realm,0.6666666666666666
+past service of the employees,0.0
+employee in these institutions,0.0
+privileges,2.142857142857143
+past pensioners because the emolument,0.5
+future pensioner,0.5
+kjs,0.2222222222222222
+approval,1.4085456739300164
+lump sum payment,0.6666666666666666
+parcel,3.0625
+court in subsequent decisions,0.5
+vide memorandum,0.5
+pension rule of the university,0.0
+crucial date,0.6666666666666666
+john vallamattom,0.5
+employees,4.611008798854102
+principles,1.3198511166253102
+temporary basis,0.75
+court in nakara case,1.5
+inder pal yadav manuscmanusc,0.5
+writ,2.8882378560889794
+university from punjab universitykurukshetra university,0.5
+member of the same class,0.0
+months,1.1938163721148947
+bedrock,0.4266666666666667
+grave,0.5757518081461743
+prowess,0.3440860215053763
+mode,0.8201666928762384
+equal treatment,0.8695652173913044
+employees of punjab university,1.0
+services in some other university,0.5
+v ratan behari dey manuscmanusc,1.0
+corpus,0.525
+fall,1.158018118245391
+ram parshad,0.5
+gupta,0.7610062893081762
+division stares,0.5
+equals,0.5806451612903226
+punjab universitykurukshetra university,9.5
+learned,3.406323898681099
+retiral benefits of the employees,0.5
+sd- deputy director,0.0
+pension amount,0.5
+mental prowes,0.5
+change,1.2214862766571903
+justifiable criteria for the state government,0.5
+reasonable manner,0.7714285714285716
+delve into the question,0.5
+cases,1.9728229418951067
+commutation,1.2
+division,1.7657319129617017
+benefit of amendment,0.5
+private secretary to vice-chancellor,0.0
+above judgment,1.8461538461538463
+day in md,0.5
+x x x x,0.72
+case of pensioners,1.0
+raison detre,0.6666666666666666
+goal for which pension,0.0
+retrospective effect,4.368421052631579
+countable for the purpose of pensionary benefits,0.5
+decision in ds,3.0
+statutory in character,0.6666666666666666
+benefit in question,0.5
+ser,3.9891665252902255
+assurance,0.9418901660280969
+to all person of the same class,0.0
+care of the grievance,0.5
+maharshi,3.5
+differential treatment,0.6666666666666666
+employee in any state govt,0.5
+india,2.7684068260703585
+principles of state policy,1.3333333333333333
+additional benefit,1.3333333333333333
+respondents on a decision,0.5
+rohtak in kurukshetra university,0.5
+whatever principle,0.5
+trend,0.48390519985850716
+exclusion,1.276390008058018
+useful service,0.75
+acceptance,1.4762112614578786
+unemployment,0.45098039215686275
+submissions,0.5235745614035088
+steno-typist in punjab university,0.0
+rupee,2.2291666666666665
+return,1.5755725190839696
+case on merits,0.5
+special leave petition,2.013333333333333
+only compensation for loyal service,0.5
+right of government servants,0.0
+class of the benefit,0.5
+decision of this court,2.3260869565217392
+treatment to equals,0.5
+purpose of pension subject,1.0
+root to the ratio,0.0
+years of service,2.8000000000000003
+reliance,1.400763358778626
+discriminatory portion,0.5
+sd-,0.0
+pension benefit,2.5
+pension fund,4.25
+service  foreign service towards pension,0.0
+benefits with effect,1.0
+social security in old age,0.5
+registrar,1.8341346153846154
+scc,1.941872465904902
+ex - services league case manu  scmanu  sc,0.0
+retrospectivity,1.2
+instruction,1.8197943962910703
+service of md,0.5
+that arrears,0.5
+portion,1.0756311179804223
+essential commodity,0.5
+rules in a manner,0.5
+such as central governmentstate,0.5
+such as central govtstate,0.5
+lecturer in kurukshetra university,0.5
+rajasthan v,1.8181818181818181
+new benefit project,0.5
+active year,0.4
+benefit on account,0.0
+such service for pensionary benefits,0.5
+casual labour by employees,0.5
+applicable to the government servants,0.5
+respect of maharshi dayanand university,0.5
+such set of employees,0.5
+finding of the tribunal,0.8571428571428571
+such employee,2.0
+absorption,0.928888888888889
+writ application on the ground,0.5
+very nature of things,0.75
+effect from a particular date,1.0
+such legislation,0.6666666666666666
+sentence,2.3896654193264366
+cut - off date with effect,0.0
+serviceman,1.5555555555555556
+constitution bench decision,2.8125
+found at scc p,0.5
+employee of kurukshetra university,0.0
+respect of service,0.5
+subsequent judgments of this court,0.6666666666666666
+supp,1.7223856594132256
+pension fund rule,5.75
+earlier retiree at the time,0.0
+such amendment,0.7333333333333334
+labour for the first time,0.5
+writ petition,6.24223602484472
+samiti manuscmanusc,1.3333333333333333
+category,1.9351744779266717
+temporary basi,0.75
+internal gratuity,0.5
+appellants in kurukshetra university  punjab university,0.0
+deferred portion,0.5
+previous serviceforeign service towards pension,0.5
+fillip,0.6666666666666666
+clas of the benefit,0.0
+change of employer,1.0
+basis of which certain incorporation,0.5
+cpf in respect,0.5
+writ application,1.2857142857142858
+sunder,0.5685776805251641
+inasmuch as the pension rule,0.5
+fall in the same category,0.5
+chancellor,0.37142857142857144
+yudhvir,0.5
+eligible for benefit of such amendment,0.5
+pensionary benefit to ex - servicemen,0.0
+depositadjustment,0.5
+authority,2.4352627108360636
+only compensation,0.5
+john,0.49851778149329673
+benefit of temporary status,0.5
+minimum qualifying service,1.0
+cut-off date for such induction,0.0
+inder pal yadav,1.5
+prem kumar,1.0
+face,0.7281253260594137
+pension fund with respect,0.5
+ratio,5.027061939235792
+- matter,0.0
+v state of j,1.0
+deputy director colleges-i,0.0
+third,1.0303422515142742
+reasonable relations to the object,0.5
+goal,0.5651601830663616
+for pension,7.444444444444445
+arbitrary fortuitous circumstance,0.5
+equal number of years,0.5
+year of age,0.0
+university contribution,0.5
+virtue of the subsequent notifications,0.5
+basi of which certain incorporation,0.0
+court after rejection,0.5
+iii,1.5614499719992534
+retiral benefit with effect,0.0
+dhan,1.3418323249783926
+fortuitous circumstance,1.0
+xxiii,0.46296296296296297
+fulfillment,1.1805006587615283
+state,6.817996007300392
+war,2.5190277765957907
+regulations,3.7157723577235777
+classes,1.212856534695615
+next day in md,0.5
+case of md,0.6666666666666666
+civil rights,0.4915514592933947
+controversy,0.8593204191806921
+that arrear,0.5
+inder,1.1516605980359704
+parshad,1.0
+appellant in kurukshetra university  punjab university,0.0
+to all persons of the same class,0.5
+deputy director,0.6428571428571429
+counter,1.0576470084371923
+accord,2.1409462447350256
+raison detre for pension,0.5
+payable to a government employee,0.5
+discussion,0.7445831166579996
+govtautonomous,0.5
+corpus fund,0.5
+nature of the change,0.5
+per annum,2.25
+buttar v union,0.5
+categories,0.8800000000000001
+kind,0.9236881920088026
+formula of computation,0.6666666666666666
+to the government servants,0.5
+as the pension rule,0.5
+certain category,0.0
+state of punjab,1.6956521739130435
+measure of socio - economic justice,0.0
+labour,2.5372960372960374
+persons,2.5993381990166555
+nexus,0.8586538461538462
+past services of the employees,0.5
+pension provision,0.5
+implementation,1.2465707594513213
+persuasive reason,0.5
+contention of the state,0.5
+- unp,0.0
+constitution of india,3.0095238095238095
+ceiling of rs,1.0
+viz,0.7732570026579433
+salary,1.6193181818181817
+spirit of the constitution,0.6666666666666666
+state of punjab v justice ss dewan,0.5
+whereas appellant,0.5
+interest,2.74353772015385
+previous service for computation,0.5
+case of new retiral benefits,0.5
+as central govtstate,0.5
+consonance,1.5
+payment of pension,2.25
+same manner as the employees,0.5
+behalf,1.9888053603529987
+old lower ceiling,0.5
+due on computation,0.5
+only condition,0.4444444444444444
+secretary to vice - chancellor,0.0
+class of persons,0.9333333333333332
+basic principle of republicanism,0.0
+rohtak,3.75
+articles,1.4349688743466387
+other requirement of the pension rules,0.5
+steno-typist,0.0
+dr jahan singh,1.0
+scc p,1.0158730158730158
+service as project,0.5
+essential consideration,1.0
+appeal,3.4125488033856883
+prem kumar naveen,0.5
+requirement of the pension scheme,0.0
+discriminatory treatment,1.0
+violence to the provisions,0.5
+case in order,0.8333333333333334
+on the basi of the scheme,0.0
+arbitrariness,0.9047619047619048
+lieu,0.5964912280701754
+third pay commission,0.5
+establishment as full-fledged university,0.0
+-- on that date,0.0
+to old age,0.3333333333333333
+subject to fulfillment of the conditions,0.5
+benefit of liberalised pension scheme,0.5
+university pension scheme,0.5
+incorporation,1.238095238095238
+question of law,3.057142857142857
+employee of the university,0.0
+for benefit of such amendment,0.5
+assurance in the directive principles,0.6666666666666666
+specified date,1.8571428571428572
+intention of the authorities,0.5
+subsequent,1.2971213655431795
+less fortunate in the society,0.6666666666666666
+slab,0.4226190476190476
+service for pensionary benefits,1.0
+pensionable service,19.0
+average,0.9365131578947369
+basic principles of republicanism,0.6666666666666666
+person in similar circumstances,0.0
+nakara,4.285714285714286
+similar set,0.8
+view of the decision,1.0
+completion,1.1868131868131868
+qualifying service,7.8
+manner,1.4494591333432125
+pension schemes of the university,0.5
+in the hey - day of life,0.0
+guarantee of article,0.6666666666666666
+union of india manuscmanusc,1.847457627118644
+rational relation,1.0
+such class,0.8717948717948718
+college,2.1498947162234954
+pattern,0.6151546391752578
+scheme for payment,0.5
+ratan,1.5384615384615383
+circumstance,1.429931390219372
+regulation,4.3783195107648485
+humane formula for computation,0.5
+yadav,1.8571428571428574
+dispute that the appellant,0.6666666666666666
+difficulty,0.656910569105691
+temporary service,1.0
+hat,8.8837995457963
+class,2.1508512849922936
+union of india,3.1324503311258276
+respect of these employees,1.0
+regards,0.9072861236185019
+war injury pension,1.0
+employee of punjab university,0.0
+violence,1.524896265560166
+basi,2.0752712086391383
+benefits,2.0896027049873203
+leave petition,2.013333333333333
+aided private college,0.6666666666666666
+economic inequality in the society,0.6666666666666666
+best in the hey-day of life,0.0
+other requirement,0.6666666666666667
+days,1.6721350893491447
+liberalised pension rule,0.5
+mr gupta,2.5
+individual,1.1485140562248994
+root,0.44430482003410826
+pay bracket,0.5
+different class,0.5
+doctrine,0.7455954017243533
+pensioner with a view,0.0
+chapter xxiii-a,0.0
+basis,1.953226441078104
+other requirements,0.6666666666666666
+raghubar dayal commission,0.5
+directions,1.5134125183504605
+roots to the ratio,0.5
+behari,1.625
+state bank,7.0
+state bank of india,6.4
+universitykurukshetra university on retirement,0.5
+dhan raj,0.5
+pal,1.6504163634893685
+implication,0.6615776081424936
+v sps,0.5
+furtherance,1.758139534883721
+nakara case manuscmanusc,2.0
+hence,1.1440732910500353
+officer,3.1197242647058823
+amendment,2.2486412346818434
+that date,0.9333333333333333
+furtherance of the goals,0.6666666666666666
+territory,1.3688226421790437
+refund from the amount,0.5
+practical raison detre,0.5
+economic inequality,0.4444444444444444
+fulfillment of the conditions,3.0
+various subsequent judgment of this court,0.0
+nakara manuscmanusc,1.0
+open line,1.0
+price,2.8302710227712162
+exclusion of period,0.6666666666666666
+active years,0.6666666666666666
+discriminatory treatment to equals,0.5
+on computation,0.3333333333333333
+socialist state,1.0
+term,3.6255105640901575
+basic principles,0.36
+appellants,7.701086956521739
+years of age,1.10099573257468
+observations in nakara case manu  scmanu  sc,0.0
+view,2.441100058469462
+sachdeva,1.6666666666666667
+requirements,0.7375979875979877
+rights for all purposes,0.6666666666666666
+reliance on a constitution bench decision,0.6666666666666666
+-- result,0.0
+ministry of defence,1.1111111111111112
+haryana government for counting,0.5
+dispute in this case,0.75
+th pay commission,3.5
+appellants towards contributory provident fund,0.5
+assistant,1.6732837055417698
+result,1.3356630184144715
+legitimate expectation,1.5714285714285714
+pay,3.828326695859537
+clerk,1.0416666666666667
+push to the policy,0.6666666666666666
+defence,1.3606588776096535
+guarantee of equal protection,0.4
+division bench of the high court,1.6825396825396826
+own cost,0.9166666666666666
+service in the punjab university,0.5
+secretary,0.9217877094972067
+liberalised pension scheme,3.0
+in view of articles,0.5
+to ceiling of rs,0.5
+same capacity in md,0.5
+legislation,3.2032032032032034
+stated allowance,0.5
+case of liberalisation,0.5
+maximum age - limit,0.0
+fact,3.6284951019474962
+adjustment of the pension amount,0.5
+surrender of rights,0.5
+learned counsel,3.703333333333333
+unrelated to any principle,0.5
+upward revision permit,0.5
+combined effect,0.8
+such direction,1.375
+benefit of pension,2.0
+self - contained proposal,0.0
+denial of the benefit,0.6666666666666666
+pension benefits,2.0
+services of corporation,0.5
+hour,1.1326135248230613
+impugned order,2.265957446808511
+other word,0.758838674565131
+principle of state policy,0.0
+to recommendation,0.75
+assn,0.46153846153846145
+held,3.3171122162354454
+civil rights for all purposes,0.6666666666666666
+that restriction,0.5
+years,2.5395804110508022
+exercise,1.9400726466785694
+rajasthan service rules,4.0
+party,2.2250894654439723
+fundamental rules,0.75
+dayanand,2.25
+benefits to ex - servicemen,0.0
+qualities,0.5296167247386759
+available to the same class of pensioners,0.5
+arun,0.9503105590062112
+buttar,0.5
+justice,2.292557084574302
+grievance,1.032529659395331
+krishena kumar case manuscmanusc,0.5
+mentioning that the employee,0.5
+v sp,0.48750000000000004
+efficient service,0.5
+previous service,3.0
+penury,0.5
+v state,2.4603773584905664
+future pensioners,0.5
+society,2.1182859399684046
+service in some other university,0.0
+bank,9.40770083102493
+broader significance,0.5
+category of cases,1.0
+day,1.550999710228919
+question,2.980312372067635
+ahmadi,0.2742857142857143
+republicanism,0.6666666666666666
+benefits by virtue,0.5
+surrender,1.2518092105263157
+cpf,1.1428571428571428
+year of service,1.4
+scmanu,7.940520446096654
+step,0.8867024753460084
+amount,3.179688593072295
+aforesaid provision,1.6333333333333333
+centre of kurukshetra university,2.0
+private secretary,0.5
+object sought,1.8
+service for pension,2.0
+difference in the case,0.5
+to a government employee,0.5
+v union,1.5773809523809523
+new concept,0.25
+counting of service,1.5
+force,1.6009408121948314
+notification,3.0112746633260263
+new formula of pension,0.5
+decision in state,1.0
+countable for the purpose of pension,1.0
+suit,2.485274378207659
+computation of average emoluments,0.5
+law,3.538923411654744
+observation,0.7625074854374218
+govtstate,0.5
+retiral benefit of the employees,0.0
+dewan,1.0476190476190477
+treatment,1.1351020408163266
+persuasive reason for this division,0.5
+ex - servicemen like the respondents,0.0
+own employee,0.6666666666666666
+requirement of the memorandum,1.0
+class of pensioners,1.5
+refund,2.670692431561997
+relations,1.2666042780748663
+second requirement,0.6666666666666666
+grant,1.7314487632508835
+service in punjab university  kurukshetra university,0.0
+service on march,0.5
+dispute that the appellants,0.6666666666666666
+punjab universitykurukshetra universitymd,2.0
+benefits of the employees,0.75
+requirement of the pension rules,0.5
+new retiral benefit,2.5
+application,2.3322596088086445
+inasmuch as the pension rules,0.5
+authorities,1.266131845134287
+case of an employee,1.0
+privilege,2.436023622047244
+abovesaid circular,0.5
+pensioners for the purpose,0.5
+respondent on a decision,0.0
+govtautonomous body,0.5
+university  autonomous body against aided post,0.0
+kurukshetra universitypunjab university,0.5
+floor,2.088735201031532
+push,0.5204178537511871
+intention,1.7585585585585588
+found,1.6807856907714254
+submission,1.0913871684001404
+autonomous body etc,0.5
+to the same class of pensioners,0.5
+to person,0.75
+regard to that service,0.5
+detail,0.9737454684220567
+same university,1.0
+difference,0.8774847235514982
+period,1.9480170842427122
+earlier confirmation in bank service,0.5
+for pension at the time,1.0
+security by way,0.5
+v prem raj manuscmanusc,0.5
+institutions,2.2839413875598087
+step - up principle,0.0
+constitution,3.204842342342342
+letter,2.707240080105903
+benefit of para,0.5
+principles of republicanism,0.6666666666666666
+undertaking,2.8508771929824563
+view of the clarification,0.5
+benefit under pension scheme,0.0
+prem,1.757457603819093
+artificial division stare into face,0.0
+corpu,0.525
+universities,1.8989361702127658
+unp,0.747535305089262
+lump,0.5384615384615385
+recommendation,2.6589497459062676
+date of retirement,1.3333333333333333
+relevant pension scheme,0.6666666666666666
+supra,2.246342614440774
+such set,1.0
+pensioned ex - service personnel,0.0
+second requirement of the memorandum,0.5
+various subsequent judgments of this court,0.5
+retirees,1.6666666666666667
+india manuscmanusc,1.8333333333333333
+ministry s letter,0.0
+merits,0.968421052631579
+same rank,0.5
+pensioner,4.5
+time of the creation,0.3333333333333333
+private,1.3048022500781278
+gratuity,2.9
+pension to a pensioner,0.5
+college-i,0.0
+past pensioners,1.0
+personnel,0.9491259524876736
+continuous fall in the rupee value,0.5
+fulfilment of the conditions,0.5
+service of the punjab,0.0
+set,2.3027452395971277
+reason,2.6381270903010035
+v jl,0.2857142857142857
+-- hence,0.0
+life,1.3352928273744242
+other requirement of the pension scheme,0.0
+artificial division stares,0.5
+rata,0.917829457364341
+karamchari,1.0
+criterion for the state government,0.0
+bank service,1.0
+characteristics,0.6133333333333333
+others,0.9074667328904616
+cut,3.1207863829787237
+care,0.8846948234137723
+receipt,1.5471923536439667
+relevant judgment,0.75
+welfare state,0.7792207792207791
+university  punjab university,0.0
+question whether earlier retirees,0.5
+emoluments,2.0
+confidence that pension,0.5
+socialist goal of security,0.6666666666666666
+vice-chancellor,0.0
+person equality,0.6666666666666666
+earlier confirmation,0.5
+slab system,0.30000000000000004
+aforesaid universities,0.5
+separate self - contained proposal,0.0
+umbrella,0.5185185185185185
+higher pension,1.0
+past service,3.3333333333333335
+way of upward revision,0.5
+ranks,0.6451612903225806
+hours  difference,0.0
+- day of life,0.0
+counting of previous serviceforeign service towards pension,0.5
+security,1.5014864864864865
+indian ex-services league case manuscmanusc,0.0
+reasonable relation,0.6666666666666666
+livelihood,1.3777777777777778
+rule in a manner,0.0
+v kg,0.6666666666666666
+stare,0.7752380952380952
+periodical payment,0.5
+jahan,4.6
+counter - affidavit,0.0
+government  state,0.0
+aforesaid provisions,1.25
+arrears,2.3209876543209877
+socialist goal,0.6666666666666666
+part of article,0.8333333333333334
+circumstances,1.3944461370073231
+welfare,1.3226788432267886
+autonomou,0.8
+high court,7.7477477477477485
+learned counsel for the appellant,1.7884615384615385
+civil right for all purposes,0.0
+eligibility criteria,2.375
+appellants in punjab,1.5
+-- results in such employees,0.0
+jurisdiction,2.9539571926331507
+raghubar,0.5
+manu,7.078142071124147
+retired,2.035934566908018
+employer,2.639728353140917
+practical raison detre for pension,0.5
+rise in prices,0.5
+admissible benefits under pension scheme,0.5
+prior to -- results in such employees,0.0
+tribunal,5.07183212267958
+computation,1.3021653543307086
+qualifying,3.05
+undertaking  corporation,0.0
+right for all purposes,0.0
+benefit of such amendment,0.5
+sum,2.554898897856461
+compensation,3.7916666666666665
+india service,1.0
+raj,1.3364194424876723
+measure,1.1941357983816498
+pension fund rules,5.75
+manual,0.7839771101573677
+following effect,1.3846153846153846
+such class of the benefit,0.5
+university,3.75675614961249
+realm,0.5917241379310344
+new scheme,1.1111111111111112
+unequal,0.7222222222222222
+restriction,1.0123456790123457
+arbitrary division,0.5
+prices,0.9771470160116448
+clerk in kurukshetra university,0.5
+that criterion of date,0.5
+state of wb,1.2
+to that date,1.5
+revision,1.6299226441631505
+subject to ceiling of rs,0.5
+employee,6.280487804878048
+terms,2.390350840909655
+education,2.1892608326253185
+capacity in md,0.5
+available to casual labour,0.5
+employment,1.5239770785161355
+-- subject to the restriction,0.0
+words of limitation,0.6666666666666666
+creation,0.5716118684843625
+ors,2.8612718198296623
+-- result in such employees,0.0
+consideration of past service,0.5
+part,5.294464509893076
+further delve into the question,0.5
+date for commencement,0.5
+gamut,0.6666666666666666
+decision in the case,1.0476190476190477
+decisions,1.3888475974580996
+similar cases,0.37037037037037035
+character,0.9325990965842764
+bedrock of equality,0.5
+justifiable criteria,0.5
+such clas of the benefit,0.0
+subsequent decision,1.1428571428571428
+mentioning,0.6167832167832168
+staff,1.3233972834416785
+distinction,0.7312167973690868
+instructions,1.8111673678956002
+benefit to ex - servicemen,0.0
+such classification,1.125
+formula,1.9020570115902682
+different rule,0.22727272727272727
+emolument,2.5555555555555554
+cpf scheme,1.0
+formula of pension,0.5
+conferment of the benefit,0.5
+benefit to persons,0.5
+circumstanced employee,0.5
+casual labour for the first time,0.5
+enforcement of the revised scheme,0.5
+civil right,0.4844036697247707
+prashad,0.75
+such clas,0.8717948717948718
+services,1.6850241065659326
+inability,0.7162534435261708
+pensionable services,1.0
+members of the same class,0.5
+guarantee,2.2562167724232554
+enforcement,0.7354220499569336
+benefits of the revision,0.5
+state government,3.027142857142857
+effect,2.184583388478191
+introduction,0.6363636363636365
+such directions,1.3333333333333333
+pension rule,7.375
+go - by,0.0
+disability,0.621301775147929
+subject - matter of the legislation,0.0
+judgments,1.2355646397547266
+long period,0.6161971830985916
+karamchari hitkari,1.0
+university  kurukshetra university,0.0
+care of the inflationary trends,0.5
+pension schemes,0.5
+benefit under the pension scheme,0.5
+contributory provident fund,2.0
+better footing,0.75
+confirmation,2.098684210526316
+following term,1.6170212765957446
+subsequent judgment of this court,0.5
+services of md,0.5
+relevant judgments,0.5
+equal protection of the laws,1.0
+new clas of persons,0.0
+- day,0.0
+certain incorporation,0.5
+arbitrarines,0.9047619047619048
+to casual labour,0.5
+-- subject,0.0
+of article,2.1149999999999998
+gratia payment,2.142857142857143
+liberalised pension scheme in chapter xxiii - a,0.0
+essential commodities,2.0
+method,0.9027027027027026
+state bank of india v l kannaiah,0.5
+rk tuteja,1.0
+petitioner,4.524972253052164
+deputy registrar,2.7142857142857144
+requirements of the pension scheme,0.5
+directive principles of state policy,1.3333333333333333
+subsequent amendment,1.875
+revision of emoluments,0.5
+aforesaid case,1.3529411764705883
+relations with the employer,1.0
+tuteja,1.0
+benefit of counting,1.5
+disparity,0.2857142857142857
+ground,1.4186722903211633
+purpose of retiral benefits,0.5
+retirement from md,1.5
+liberty,0.7860465116279071
+same clas of pensioners,0.0
+concept,0.9402138540213855
+mischief,0.5934065934065934
+same cadre,1.5
+article,4.378806157159795
+benefits under pension scheme,0.5
+pension subject,1.0
+opinion,1.4960606342789635
+class within a class,0.5
+justifiable differentia,0.5
+education commissioner,2.0
+word of limitation,0.0
+date with effect,1.0
+-- results,0.0
+complain,3.5365362948656043
+laws,1.4186274337269533
+hitkari,1.0
+benefit from the date,1.0
+certain category of employees,0.0
+retiral benefit,2.142857142857143
+days of invalidity,0.5
+respect,2.6704963235294117
+such order,1.056910569105691
+confirmation in bank service,0.5
+- matter of the legislation,0.0
+intelligible criterion,0.6666666666666666
+reasoning,0.6478937381404174
+traumatic effect,0.5
+violative,2.2972972972972974
+basis of the scheme,0.5
+that criterion,0.3333333333333333
+unequals,1.0
+annum,2.25
+basic principle,0.41958041958041953
+stand,1.8422769621739425
+kumar v union,1.0
+same set,0.6136363636363635
+applicability of pension scheme,0.5
+system,1.1230229504341178
+court in union,1.1764705882352942
+aforesaid discussion,1.0
+university  kurukshetra university  md,0.0
+proposal,1.8145800316957208
+more to persons,0.5
+approval of the state govt,0.5
+discrimination,0.8429118773946361
+punjab,1.0438169425511197
+benefits of pension,1.0
+virtue,0.9167557066537153
+such induction,0.5
+posts,2.6556317082632876
+constitution of corpus fund,0.5
+to the appellant,2.239669421487603
+pension,11.516129032258064
+employer s contribution,0.0
+liberalisation,1.3333333333333333
+admissible benefit,0.5
+allocation,0.5581395348837209
+average emolument,2.3333333333333335
+complain of discrimination,0.5
+colleges,1.9166666666666667
+university as qualifying service,4.0
+employees of punjab,1.0
+adjustment,0.6982649174777825
+directive,0.621951219512195
+v boota singh,0.6666666666666666
+institution,2.7327010745685443
+casual labour on the basis,0.5
+cadre,2.7892948173322005
+servicemen,1.1874999999999998
+purpose of pensionary benefits,0.5
+fall in the rupee value,0.5
+decision of the court,1.1666666666666667
+basi of the scheme,0.0
+rational principle,2.3333333333333335
+regular permanenttemporary post,0.5
+word,2.065873981084096
+similar circumstances,0.5454545454545454
+india v l kannaiah,0.5
+chapter,1.3867471532446152
+invalidity,2.4
+appeals,1.7060218112849692
+rajasthan service rule,4.0
+employees in these institutions,0.5
+toward,1.0255939365170768
+provident,2.6923076923076925
+university  autonomous body,0.0
+members,1.9437616522164103
+account,2.5754891049671977
+employees of kurukshetra university,0.5
+subsequent decisions,1.3333333333333333
+saving,0.46787213432353897
+vide letter,2.142857142857143
+persons in similar circumstances,0.5
+commodity,1.4505494505494503
+objects,0.7297830374753452
+purpose,2.519170317925504
+time,2.4764180952862667
+league,0.6538487304883768
+mode of calculation,0.5
+subsequent judgments,0.6666666666666666
+issuance,1.05379513633014
+constitution bench,4.27536231884058
+eligibility,1.1788856304985336
+begging bowl,0.5
+to officer,1.125
+hours,1.1644152367043934
+service for the purpose,4.0
+limit,2.3804570428443834
+very nature,0.5121951219512195
+right,3.07483248288682
+that extent,0.8888888888888888
+previous service for grant,0.5
+various subsequent judgment,0.5
+aforesaid requirement,0.6666666666666666
+that restriction of benefit,0.5
+absence,1.092363454568179
+counsel,2.2246780703440323
+aforesaid employees,0.5
+policy,3.250773332247955
+new liberalised pension scheme,0.5
+rules,3.130914366958792
+to the appellants,1.9166666666666667
+different rules,0.22727272727272727
+universitykurukshetra university,9.5
+date of confirmation,0.75
+vallamattom,0.5
+cpf amount,0.5
+way of impugned order,0.5
+dispute,2.402137592137592
+crucial date for admission,0.5
+that pension,2.4
+days under para,0.5
+results,0.6487493619193466
+conditions,1.9988092071092867
+whereas appellants,0.5
+subsequent notifications,0.6666666666666666
+moreover,0.7807228915662651
+services of the employees,1.6
+universitykurukshetra universitymd,2.0
+case of dr  jahan singh,0.0
+case,7.332269420884958
+error,1.059158294766151
+date of issuance,1.0
+formula for computation,0.5
+services in punjab university  kurukshetra university,0.0
+dahiya,1.25
+implementation of pension scheme,0.5
+labour by employees,0.5
+inasmuch as the state government,0.5
+categories of employees,1.4
+force in the contention,1.0
+contention,1.666391070690368
+benefits with arrears,0.5
+revision permit,0.5
+retiree,1.5000000000000002
+government of india service,0.5
+directive principle,1.2727272727272727
+same category,0.375
+employee of maharshi dayanand university,0.0
+pensioners,5.75
+effective from the date,1.4
+bench,2.5793391667754992
+violative of article,2.1379310344827585
+leave,1.0147842365477848
+light of the formula,0.5
+benefit of the employees,1.0
+sevanivatra karamchari hitkari,1.0
+date decision,0.5
+dayal,0.9047619047619048
+university on allocationabsorption,0.5
+body,1.336775463480009
+economic security,1.0
+date of stipulation,1.0
+decision of the high court,1.24
+saini,2.1666666666666665
+irrationality,0.4347826086956522
+employer s share,0.0
+earlier retirees at the time,0.5
+government of haryana,1.6666666666666667
+gratuitydcrg,0.5
+instant case,2.0631578947368423
+rationalisation,0.3333333333333333
+criteria for the state government,0.5
+willingnes,0.7818181818181819
+less fortunate,0.5
+earlier retirees,1.5
+haryana,2.935064935064935
+security in old age,1.0
+pension by the md,0.5
+basis of a particular date,0.5
+first part of article,0.75
+universitykurukshetra university into md,0.5
+memorandum,1.2142857142857144
+artificial division stares into face,0.5
+homogeneous clas,0.6666666666666666
+necessary action,1.0
+value,1.7137907830478438
+benefit thereof,0.8
+first requirement,0.5
+differentia,1.1614241272035948
+benefit of the pension scheme,0.5
+benefit with effect,0.5
+v kasturi v,0.6666666666666666
+managing,1.4126463700234193
+roots,0.4743589743589744
+payable by the appellants towards contributory provident fund,0.5
+organisation,1.4034090909090908
+argument,0.9504580388560493
+revised scheme,1.5
+post- retirees,0.0
+corporation,3.6427750743444176
+sevanivatra,1.0
+radhakrishna,5.5
+casual,0.8181818181818181
+that present md,0.5
+other requirements of the pension scheme,0.5
+category of employees,0.75
+joining punjab,0.5
+view of the instructions,0.5
+new liberalised pension scheme in chapter xxiii - a,0.0
+rights of government servants,0.5
+which certain incorporation,0.5
+samiti,2.6666666666666665
+that reasonable classification,0.5
+equal,1.322635135135135
+time of retirement,1.4
+dcrg,0.25
+appellant,14.387096774193548
+purpose of induction,0.5
+confidence,0.5942028985507247
+rupee value,0.5
+retiral benefits with effect,0.5
+pen-ser,0.0
+government servant,3.466666666666667
+provident scheme,0.5
+age - limit,0.0
+other employee,1.05
+memo,1.4242074188165834
+in character,0.6640316205533597
+representation,1.2338308457711442
+minimum service,0.6666666666666666
+view of rule,1.6666666666666667
+central,2.61875
+clear that arrear,0.5
+similar circumstance,0.5454545454545454
+benefit from the date decision,0.5
+fulfilment,0.5833333333333333
+ex - servicemen,0.0
+krishena kumar case,1.0
+employees of the university,1.5
+pre-,0.0
+finance,1.9582470669427192
+situation,1.1254754682459434
+university without any break,0.5
+as the pension rules,0.5
+service for computation,0.5
+observations,0.7454584147497534
+view of aforesaid discussion,0.5
+security in the fall,0.5
+recommendation of the third pay commission,0.5
+rank,0.6723585912486659
+basi of this new benefit project,0.0

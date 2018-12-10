@@ -1,0 +1,255 @@
+relevant paragraphs,0.9
+that view of the matter,1.553191489361702
+candidate,6.356675392670156
+petitioner that shyam singh belongs,0.5
+application for revivification,0.5
+election of member,0.6666666666666666
+petitioner,4.524972253052164
+fact that the first respondent herein,0.5
+cost,1.2954397451466992
+judgment of the high court,1.721311475409836
+notice,2.3300025999395686
+following ground,1.0
+code,2.880559796437659
+first respondent herein,1.5
+panchayat,10.0
+bahelia,0.5
+february,0.8575630252100839
+assembly,2.613006617038875
+aforesaid election petition,0.6666666666666666
+statement,2.5393160135035964
+vote,4.2642709347614405
+reliefs,1.308641975308642
+revivification,0.5
+people,1.2855544825097243
+legislative,2.4237377279102383
+caste,3.66454871293581
+member of the backward caste,0.5
+tehsildar,2.4
+agaria caste,0.5
+relevant paragraph,1.0
+material facts,1.1818181818181819
+zila panchayat,1.0
+inter,3.683850287482992
+favour of the respondent,2.0434782608695654
+counting,1.8366107576633892
+grounds,0.9540208829455945
+aforementioned paragraphs,0.5
+high,5.367119186841496
+members,1.9437616522164103
+brother,1.4566585956416465
+members of the legislative assembly,1.0
+shyam singh belong,0.5
+withdrawal,1.2055933484504913
+sic,1.1611481056257176
+reason,2.6381270903010035
+court,12.24425115501509
+material fact,1.4615384615384615
+pleading as regard,0.6666666666666666
+officer,3.1197242647058823
+first respondent,4.575757575757576
+result of counting,0.5
+sole question,1.0
+ground,1.4186722903211633
+notification,3.0112746633260263
+shyam singh belongs,0.5
+petition,5.3436539306104525
+person,4.291511329454258
+rani kumari,1.0
+notices,0.5487269534679544
+showing,0.781949531949532
+virendra singh,0.5
+way,1.7812722068664852
+behalf,1.9888053603529987
+merit in the appeal,1.0833333333333333
+matter,2.8088923076923082
+paragraph,1.2930197483150305
+member of the scheduled caste,1.0
+following grounds,1.0
+fact that the appellant herein,0.75
+available to the appellant,0.875
+plea,1.4430487701432178
+laxman singh,1.2
+documents,1.142515923566879
+aforementioned paragraph,0.5
+behalf of the appellant,1.4878048780487805
+devi,1.2339221178171305
+aforesaid reason,1.1176470588235294
+respondent rani kumari,0.5
+view,2.441100058469462
+appellant in effect,0.5
+electorate,0.35000000000000003
+content,1.5450574489970066
+representation of people,1.5555555555555556
+malafide,0.8571428571428571
+acceptance of the nomination papers,0.6666666666666666
+malafide intention,0.6666666666666666
+daughter of the respondent rani kumari,0.5
+electorates,0.5
+majority,1.3427634276342764
+aforesaid,2.592896174863388
+relief,1.4748116760828625
+verification,0.9934640522875817
+scheduled caste,3.875
+bare perusal of the documents,0.5
+merit,1.2419290263876248
+election from the seat,0.5
+kumari,4.764705882352941
+seat,2.8245469748060423
+date of poll,0.6666666666666666
+transfer,1.9975047057658015
+backward caste,1.5
+appeal,3.4125488033856883
+election petition on the ground,0.5
+result,1.3356630184144715
+agaria,1.2857142857142858
+constituency,3.7333333333333334
+election,6.758005637447438
+material,1.4148767018946966
+procedure,2.552771605064117
+certificate,2.732600732600732
+laxman singh against the respondent,0.5
+last date,1.9285714285714286
+substance,0.8230581678857541
+threshold,0.4166666666666667
+ward,2.4967109028473318
+pleading as regards,0.5
+counsel,2.2246780703440323
+cast,2.23102127865833
+application,2.3322596088086445
+people act,1.455168475157053
+nomination of the respondent,0.6666666666666666
+averment,1.7
+commission,4.703619179345321
+rani,0.7496886674968867
+code of civil procedure,5.5636363636363635
+majority of valid votes,1.5
+shree,0.75
+casts,0.5168582375478927
+brother of shyam singh,0.5
+judgment,3.288216560509554
+averments,1.76
+member of the legislative assembly,0.75
+virendra,0.8
+improper acceptance of the nomination papers,0.5
+fact,3.6284951019474962
+order,5.472481489660944
+improper verification of the material facts,0.5
+learned counsel,3.703333333333333
+paper,1.8076689487632511
+election commission,6.083333333333333
+caste as aheria,0.5
+act,12.870263922028107
+application under order,1.3636363636363635
+acceptance,1.4762112614578786
+transfer certificate to the rani kumari,0.5
+intention,1.7585585585585588
+iii,1.5614499719992534
+other ground,0.8333333333333333
+requisite fact,0.5
+poll,1.8799933862433862
+pleading,1.1270125223613594
+khandelwal,18.0
+laxman,1.0266666666666668
+election of respondent,1.25
+evidence,3.6676405172088815
+shyam singh,1.0
+document,1.401100265092073
+appellant,14.387096774193548
+requisite material fact,0.5
+effect,2.184583388478191
+respondent herein void,0.5
+candidates,3.508445945945946
+mathura,1.0
+verification of the material facts,0.5
+election of the respondent herein void,0.5
+counsel for the parties,1.263157894736842
+requisite material facts,0.5
+girl,0.3769911504424779
+govardhan,0.5
+requirement,1.2416133333333332
+high court,7.7477477477477485
+member,2.649111111111111
+void on the following grounds,0.5
+last date for withdrawal,0.5
+petitioner that shyam singh belong,0.5
+zila,0.525
+parties,1.8210828547990157
+daughter,1.0364906832298135
+state,6.817996007300392
+case,7.332269420884958
+conclusive evidence,0.5955882352941176
+representation of people act,1.625
+member of legislative assembly,0.8333333333333334
+affidavit,2.2996987951807224
+civil procedure,5.448275862068965
+valid votes,1.75
+section,9.287987283173626
+shyam,2.0
+high court in the election petition,0.5
+herein,2.825259515570934
+representation,1.2338308457711442
+caste of the respondent,1.0
+election petition,23.75
+papers,1.0564063453325199
+date for withdrawal,0.6666666666666666
+paragraphs,0.9552238805970149
+requirement of section,1.5
+college,2.1498947162234954
+relevant paragraphs to this effect,0.5
+party,2.2250894654439723
+perusal of the documents,0.5
+january,0.8699641577060931
+chameli,0.6666666666666666
+respondent herein,1.8936170212765957
+date of notification,1.125
+caste as scheduled caste,0.5
+void,1.2208700269947337
+paragraph to this effect,0.0
+appeal under section,3.1176470588235294
+singh,3.7791111111111113
+respondent-no,0.0
+furthermore,0.9849537037037037
+caste certificate,4.25
+shree chameli devi khandelwal girls,0.5
+to the appellant,2.239669421487603
+statements,1.110873440285205
+the act,5.708327371273712
+affidavit in the aforesaid election petition,0.5
+civil,2.126558634963905
+reserved constituency,1.6
+girls,0.24066390041493776
+votes,3.9696793002915447
+state of up,2.0784313725490198
+appellant herein,2.046153846153846
+relevant paragraph to this effect,0.0
+bare perusal,1.25
+aheria,1.5
+regard,2.723310344827586
+rule,5.04
+material fact that the first respondent herein,0.5
+favour,1.653145208700764
+paragraphs to this effect,0.5
+nomination,4.422077922077922
+freud,0.2
+date,6.195616975795285
+improper acceptance,0.6666666666666666
+improper verification,0.5
+perusal,0.750733137829912
+member of scheduled caste,1.75
+transfer certificate,0.5
+regards,0.9072861236185019
+facts,1.4696673624372698
+respondent,4.757894736842104
+legal advise,1.0
+advise,0.7368609865470852
+contents,0.66519564577817
+schedule,2.9453067257945307
+court in the election petition,0.5
+nomination papers,4.5
+legislative assembly,4.473684210526316
+valid vote,1.75
+costs,0.8167395522604189
+shree chameli devi khandelwal girl,0.5
+nomination paper,9.875
+question,2.980312372067635

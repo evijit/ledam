@@ -1,0 +1,1072 @@
+courts,2.1216528162511543
+order of the high court,1.296875
+similar circular to this effect,0.5
+impalements,0.5
+division bench of two - judges,0.0
+findings,1.049571253572887
+following paragraph,0.4571428571428572
+court in the case,1.3333333333333333
+jit,0.608346394984326
+government,3.5583785424010483
+respectful agreement,0.8571428571428571
+defence of executive necessity,0.5
+inter se rights of the temporary doctors,0.5
+uttar pradesh regulation,0.5
+non-availability of doctors,0.0
+disposal of this case,0.6666666666666666
+order that such decision,0.5
+brought before this court,0.75
+division benches,1.5
+certainty,0.8630136986301371
+vacancy,1.0666666666666667
+practice in india,0.5
+class of doctors,1.0
+mind,1.1559066143122394
+mattulal,0.5
+name of certain selectees,0.0
+mills,1.026315789473684
+correctness of the decision,1.125
+publication,1.3442779291553135
+above - referred case that the petitioners,0.0
+constitution bench of the court,0.6666666666666666
+bench of larger strength,0.6666666666666666
+doctors,2.018642703862661
+issue unlike the case,0.5
+subsequent regularization,0.5
+batch,1.2940630797773658
+kesavananda bharati v state of kerala,0.5
+executive necessity,0.5
+division bench of three - judges,0.0
+reasons,1.3749054007567938
+different division bench,1.0
+petitioner on the basis,0.5
+terms,2.390350840909655
+consistency promotes confidence,0.5
+decisions of this court,1.8225806451612903
+jit ram shiv kumar v state of haryana,0.5
+-judges bench,0.0
+bench for final disposal,0.5
+considerable length of time,0.6666666666666666
+inter,3.683850287482992
+entire court,0.5
+counting,1.8366107576633892
+authority devolves,0.5
+certain judicial pronouncement,1.0
+retired doctor,0.5
+opinion on these questions,0.5
+exigencies of judicial need,0.5
+judgment of the -judge bench,0.0
+of the decisions of this court,0.75
+enunciation,0.5210526315789474
+finding of the high court,1.6363636363636365
+court,12.24425115501509
+bench in ia,0.5
+judge bench in dr mathur,1.5
+declaration,2.152560083594566
+john martin,0.2857142857142857
+ad hoc basis,1.0
+such petition,0.5714285714285714
+decision of a division bench,0.5
+union,2.0981927710843373
+agreement,3.450434632433366
+subsequent order,1.1428571428571428
+same point,0.6
+such authority devolf by convention,0.0
+person,4.291511329454258
+ors,2.8612718198296623
+claim of the petitioners,1.5
+to the writ petitioner,1.2222222222222223
+later bench,0.5
+way,1.7812722068664852
+correctness,0.8404159132007234
+behalf,1.9888053603529987
+respondent in these writ petitions,0.0
+part,5.294464509893076
+conclusion that the petitioner,1.0
+v pramod chandra patnaik,0.6666666666666666
+following judgments,0.75
+writ petitioner,4.482758620689655
+pronouncement,0.8197343453510436
+judicial decision,1.4
+initial appointment,3.5
+nehru,0.42857142857142855
+correctness of the judgment,1.1111111111111112
+right of the temporary doctors,0.5
+following judgment of this court,0.0
+other respondents in these writ petitions,0.5
+number,1.4802651440973922
+district,1.5506763074237984
+decisions,1.3888475974580996
+observations in the judgment,0.75
+character,0.9325990965842764
+decision,2.9514937765898557
+similar number of judges,0.5
+earlier than the selectee doctors,0.5
+necessary that all person,0.5
+inter se seniority between the doctors,0.5
+shiv,0.6530206677265501
+bharati,0.6666666666666666
+claim,2.817264601856604
+view of the -judge bench,0.0
+judgment of the bench,0.8888888888888888
+other respondents,0.8888888888888888
+correctnes,0.8404159132007234
+appeal,3.4125488033856883
+indira,0.6666666666666666
+installments between the year,0.5
+pms-ii,0.0
+bhut,0.5555555555555556
+contra,3.550142721217888
+eligibility of the writ petitioners,0.5
+five-judges,0.0
+psc,1.8715393133997786
+tribunal held that those doctor,0.5
+writ petition under article,1.2
+earlier division bench,0.75
+v state of west bengal,1.4
+conflict with the judgment,0.5
+selectees,1.0
+h c mathur,1.5
+detriment of that class,0.5
+month,1.3454861111111112
+year,2.8349484769759212
+nath,1.2024818815807465
+above proceedings,0.5
+view of fact,0.75
+stage,1.1298537871524448
+certainty in the law,0.75
+se rights of the petitioners,0.5
+motilal padampat sugar mills,0.6666666666666666
+beg,0.7217296943142032
+intervention application,0.6666666666666666
+judgment,3.288216560509554
+appointments of temporary doctors,0.5
+service tribunal in regard,0.5
+findings of the high court,1.0
+authority devolves by convention,0.5
+godfrey,0.22727272727272727
+india as a general rule,0.5
+division bench of a smaller number,1.0
+subject,2.4420366233344897
+furtherance of this enunciation,0.5
+question of law,3.057142857142857
+philip,0.3053435114503817
+prescription in the matter,0.5
+consistency promotes confidence in the system,0.5
+services,1.6850241065659326
+order,5.472481489660944
+mage,0.9709220820331931
+declaration of law operating,0.5
+same number of judges,0.5
+repetition of the discussion,0.5
+installment between the year,0.0
+writ petitions for consideration,0.5
+learned judges for reconsideration,0.6666666666666666
+medical officers,1.5
+dr h c mathur,1.5
+decades,0.5510204081632653
+pursuant to the above publication,0.5
+posts within the purview,1.0
+clas,2.1196191893660425
+appointment,3.1380281690140843
+vacancy in the pms,0.0
+medical,1.633306645316253
+promulgation,0.5714285714285714
+three-judges,0.0
+motilal,0.8333333333333334
+way of w p,0.5
+set of judgments,0.0
+number of judges,3.0
+state government,3.027142857142857
+india by several generations,0.5
+effect,2.184583388478191
+of the decision of this court,0.9375
+pendency,1.0084033613445378
+case of dr  h c mathur,0.0
+service tribunal,1.0
+list,4.014941314095513
+les by a bench of lesser strength,0.0
+convenience,0.6501259072729966
+manner,1.4494591333432125
+padampat,0.6666666666666666
+future cases,0.75
+parties,1.8210828547990157
+system in india,1.0
+claim of the writ petitioners,0.5
+discus,0.949630121294522
+supreme court of the united states,0.5
+necessary qualification,1.0
+raghubir singh,1.7142857142857142
+period towards seniority,0.5
+correct law,0.9230769230769231
+above writ petitions,1.0
+judicial discipline,1.0
+mr d,1.3774916943521593
+west bengal,3.3333333333333335
+condition,2.259476395625584
+order on the impalement intervention applications,0.0
+godfrey philip,0.5
+judgments,1.2355646397547266
+such selections,0.5
+ad hoc appointee,0.5
+tribunal by way of w p,0.5
+selectee,5.0
+v sehgal,0.5
+civil misc,0.8571428571428571
+non - selectee,0.0
+circumstance,1.429931390219372
+officers,2.442124212421242
+agreement with the enunciation,0.5
+lesser number,0.5
+finding,1.8129183657767178
+regulation,4.3783195107648485
+hors,0.5646224859874711
+matter to a bench,0.8
+circulars,1.1515151515151516
+following term,1.6170212765957446
+service in accordance,0.75
+subsequent judgment of this court,0.5
+mattulal v radhe lal,0.5
+regard,2.723310344827586
+following paragraph of that judgment,0.5
+refusal,0.813597918022121
+issue in regard,0.6666666666666666
+context,0.9269383697813122
+that application of rule,0.5
+promotion,2.946428571428571
+different division benches,1.0
+knowledge,1.1120671641791045
+correct declaration,0.5
+class,2.1508512849922936
+proces,1.627944583238701
+paramount importance that the law,0.5
+generations,0.84375
+contemporary status,0.5
+advertisements,0.5450733752620546
+several generations,0.26666666666666666
+rights,1.6349541930937281
+perusal,0.750733137829912
+respondents in these writ petitions,0.5
+direction,1.8495050210098996
+decade,0.5014409221902018
+body of judgment,0.5
+full court,6.333333333333333
+ganapati sitaram balvalkar v waman shripad mage,0.5
+length,0.6297872340425531
+recommendations,2.1638655462184877
+union of india,3.1324503311258276
+fault,0.8125244007183572
+whereby,0.6100917431192661
+facts,1.4696673624372698
+judges for final disposal,0.5
+earlier judgment,1.8
+issue,2.766776251628934
+accordance with law,1.0046948356807512
+certain selectee,1.0
+meanwhile,0.5323868677905944
+consistency,0.7974537037037037
+philips,0.11498257839721254
+daily newspapers,0.4
+conclusion that the earlier judgment,0.6666666666666666
+purview,1.0864197530864197
+other connected matters,0.75
+basi,2.0752712086391383
+se rights,0.4988662131519274
+case of union,1.25
+leave petition,2.013333333333333
+uttar pradesh regulation of ad hoc appointments,0.5
+benefits,2.0896027049873203
+parties to the limited extent,0.5
+fact that the regularization rule,0.5
+right of temporary doctors,0.5
+which view,0.4761904761904762
+practice of the later bench,0.5
+similar circular,0.5
+subject of course,0.8888888888888888
+prescription,0.812549019607843
+order of state,0.5
+effect of the law,0.3333333333333333
+expedition,0.4
+benefit,2.604810195438474
+petitioner,4.524972253052164
+records,0.9879294336118848
+other considerations,0.7272727272727272
+ad hoc basi,1.0
+judgment of this court,2.1029411764705883
+judgment of the high court,1.721311475409836
+doctrine,0.7455954017243533
+orders,1.4936359300077826
+basis,1.953226441078104
+india v raghubir singh,1.0
+other benefit,1.7575757575757576
+officers in accordance,0.6666666666666666
+devolves,0.5
+directions,1.5134125183504605
+course,1.6545957498716626
+advertisement,1.5480769230769234
+pradip chandra parija,0.6666666666666666
+conflict between the judgment,1.3333333333333333
+applicants,0.6960950764006791
+v dr m j siddiqui,0.5
+that reason,0.5025536261491317
+of the recent case on the point,0.0
+substantive vacancies,1.0
+number of applications,0.5555555555555556
+such authority devolves,0.5
+dispute between the temporary doctors,0.5
+medical officers in accordance,0.5
+necessary for the disposal of this case,0.5
+ad hoc appointment,2.0
+conflict between the views,0.5
+appointment for the purpose,0.5
+above - referred case that the petitioner,0.0
+pradesh,4.365853658536586
+furtherance,1.758139534883721
+from the above,0.649867374005305
+operating,0.5978283786632933
+date of counting,0.5
+hence,1.1440732910500353
+most of the decisions of this court,0.5
+officer,3.1197242647058823
+-judge bench in ca,0.0
+that judgment,0.8444444444444444
+permanency,0.6666666666666666
+letters,2.0877496159754223
+selection list of the commission,0.5
+west,1.1420057009587976
+tribunal held,1.0
+further discus,0.4266666666666667
+that all person,0.8333333333333334
+regularization,4.0
+effect of judgments,0.6666666666666666
+estoppel,2.736842105263158
+matter,2.8088923076923082
+acharya maharajshri narandraprasadji anandprasadji maharaj v state,0.5
+relation,1.397320207820618
+propriety,0.5551020408163265
+respectful agreement with the enunciation,0.5
+divisions,0.6527093596059114
+article,4.378806157159795
+retired doctors,0.5
+vacancy in consultation,0.0
+notice to the affected parties,0.5
+parija,1.5
+state service tribunal,0.5
+court in slp,1.25
+term,3.6255105640901575
+judgments of the -judge bench,0.0
+medical service,0.4307692307692308
+infirmity in the judgment,0.75
+applications,1.0021816198527407
+lesser number of judges,0.5
+view,2.441100058469462
+such view,0.3401360544217687
+subsequent orders of the -judge bench,0.0
+regularization of ad hoc appointments,0.5
+post,2.344803646492219
+conflict with the larger bench judgment,0.5
+case on the point,0.0
+se rights of the temporary doctors,0.5
+significance,0.6059966216216216
+regular appointment,2.8
+doctor,1.4782608695652173
+vacancies,7.473684210526316
+similar relief,1.0
+conflict,1.314561353483509
+consequential service benefit,1.0
+relief,1.4748116760828625
+opinion,1.4960606342789635
+substantive vacancy,0.0
+careful perusal,0.8
+officer in accordance,0.5
+merit,1.2419290263876248
+temporary appointee,0.5
+by a bench of lesser strength,0.5
+india v,1.4146341463414633
+respondents - applicant,0.0
+judges of this court,1.4782608695652173
+volume,0.5619176554909612
+judicial decisions,1.0
+well,1.4966552780778166
+division bench of five - judges,0.0
+future case,0.8
+paramount importance,0.5833333333333334
+ganapati,0.5
+tribunal on those petitions,0.5
+w p,1.0687762613595648
+discuss,0.9480477152727984
+pendency of these petitions,0.5
+core,0.43168575654387237
+united state,0.5525959367945824
+direction from the court,0.0
+high court of allahabad,1.0
+kesavananda,0.5
+availability,0.6313043478260868
+writ petition for consideration,0.0
+bengal,1.9299191374663072
+record,2.5393414390845273
+other benefits,1.9500000000000002
+temporary appointees,0.5
+petitions,1.3930830039525692
+questions of law,1.3333333333333333
+district headquarters,1.2
+appointees,0.6857142857142857
+defence,1.3606588776096535
+further discuss,0.4266666666666667
+clas of doctors,0.0
+jit ram shiv kumar v state,0.5
+correct declaration of law,0.5
+order of the tribunal,2.0
+judge bench,2.8472222222222223
+original appointment,0.5
+otherwise of the views,0.5
+judge of this court,1.1428571428571428
+circular,2.0360934182590236
+orders of the -judge bench,0.0
+mere fact,0.6
+behalf of the writ petitioners,0.5
+basis of these findings,0.6666666666666666
+conclusions,0.8522069292833413
+selections,0.6289308176100629
+court in the latter judgment,0.5
+batch of sl,0.5
+inter se rights of the petitioners,0.5
+stand of the temporary doctors,0.5
+orders on the impalement intervention applications,0.5
+recruitment,5.333333333333333
+- etc,0.0
+importance,0.8632871064467765
+saha,0.7196261682242991
+large number,1.0979284369114877
+fact,3.6284951019474962
+service towards seniority,0.5
+exigency of judicial need,0.0
+point of law,1.0
+large number of cases,0.875
+appointment letters,1.0
+learned counsel,3.703333333333333
+learned judge,3.3692307692307693
+to the advertisement,1.2
+binding principle in future cases,0.5
+such view of the -judge bench,0.0
+earlier than the selectee doctor,0.5
+other consideration,0.7083333333333334
+anr,1.1271033322299457
+subsequent judgment,1.0
+two-judge,0.0
+chief,1.9429638234317954
+reasoning,0.6478937381404174
+hegde,1.1333333333333333
+sugar,5.734610417563496
+law that all ad hoc appointments,0.5
+kumar,2.028839704896043
+law that all ad hoc appointment,0.5
+nath mate v state,0.5
+thereto,1.0358342665173572
+following order,0.5647058823529412
+constitution bench of thirteen - judges,0.0
+stand,1.8422769621739425
+counter to an earlier judgment,0.6666666666666666
+judges by the following order,0.5
+provincial medical service,0.5
+same bench,1.2
+repeated affirmation,0.5
+work,2.8478559811646353
+perusal of the above judgments,0.5
+less by a bench of lesser strength,0.5
+judgment of a larger bench,0.5
+system,1.1230229504341178
+extent,1.410108024691358
+necessity,0.7072538860103627
+larger number,0.5
+haradhan saha v state,0.5
+points,0.7095682483711788
+bench judgment,2.0
+conflict between the judgments,1.0
+held,3.3171122162354454
+n santosh hegde,0.8888888888888888
+doubt,1.3646267723102583
+santosh,1.3333333333333333
+judicial pronouncement,2.0
+brief facts,1.0
+division benches of this court,0.5
+other respondent,0.9166666666666666
+such conflict,0.4444444444444444
+years,2.5395804110508022
+consequential service benefits,1.0
+public service commission,3.7857142857142856
+l r,2.565218456695056
+appointment of temporary doctors,0.0
+reasoned order,0.9090909090909091
+service from the date,1.0
+-judge bench of this court,0.0
+desirable practice,0.5
+principle,1.9620890732001848
+party,2.2250894654439723
+similar petitions,0.6666666666666666
+virtue,0.9167557066537153
+newspaper,1.4133350781914544
+binding principle,0.6666666666666666
+declaration of law,1.1818181818181819
+regard to the inactionrefusal,0.5
+appointment in the pms cadre,1.0
+regularization under rule,0.5
+court in dr  mathur,0.0
+haradhan,0.5
+that application,0.5142857142857143
+court by the state,0.6666666666666666
+posts,2.6556317082632876
+initial appointment for the purpose,0.5
+accordance with rule,1.3333333333333333
+subsequent order of the -judge bench,0.0
+justice,2.292557084574302
+maharaj,0.8
+raghubir,1.625
+following judgments of this court,0.5
+right to seniority,0.5
+need for consistency,0.5
+district headquarter,1.1666666666666667
+judgment in raghubir singh,0.0
+petitioners on the basis,0.5
+point whether the doctrine,0.5
+recent judgment,1.0
+service commission,5.142857142857143
+to the above publication,0.5
+headquarters,0.5345622119815667
+enunciation of legal principles,0.5
+seniority,7.989473684210527
+v state,2.4603773584905664
+such reference,0.6666666666666666
+selectee at this stage,0.0
+division bench,3.965217391304348
+date,6.195616975795285
+such selection,0.75
+reference,2.1755848210276256
+administration,1.061072796934866
+impalementsintervention,0.5
+to non - availability of doctors,0.0
+existence,0.731202675709574
+sitaram,1.5
+chief justice,4.684210526315789
+hearing,0.9644508209787979
+smaller number of judges,1.5
+awc,0.3659340659340659
+union of india v,1.375
+respondent,4.757894736842104
+court in the above,1.2
+few of the recent cases on the point,0.5
+maharajshri,0.5
+accordance,1.4069045211613462
+adjudication on the rights,0.5
+regard to the volume,0.5
+length of time,0.5634146341463415
+cadre,2.7892948173322005
+century,0.6548536209553157
+applicable to the writ petitioners,0.5
+basi of these findings,0.0
+question,2.980312372067635
+principles,1.3198511166253102
+benches,1.1746031746031744
+inaction of the government,0.5
+haradhan saha v state of west bengal,0.5
+inter se seniority,6.666666666666667
+that view of the matter,1.553191489361702
+temporary basis,0.75
+certain selectees,0.5
+service benefits,1.6
+learned judge of this court,0.5
+gandhi,0.9090909090909092
+appointment letter,1.3333333333333333
+year of service,1.4
+attention of the court,1.0
+scmanu,7.940520446096654
+claim tribunal,0.5
+writ,2.8882378560889794
+correctnes of the judgment,0.0
+appeals,1.7060218112849692
+need,1.1097650269586634
+two-judges,0.0
+matter of fact,0.6230936819172114
+months,1.1938163721148947
+principle of the doctrine,0.0
+practice,1.7660110149488593
+such decision,1.5294117647058822
+appeal before this court,0.9166666666666666
+statement,2.5393160135035964
+coordinate bench,1.4
+united,0.7052854122621566
+-judge,0.0
+judge bench of this court,1.6486486486486487
+supreme court,1.4278957326045825
+view of this court,1.0
+final disposal,1.5
+-judge bench,0.0
+precedents,0.6333333333333333
+-judge bench decision of this court,0.0
+name,1.8996570753072433
+five-judge,0.0
+detriment,0.5446808510638297
+high,5.367119186841496
+judicial consistency promotes confidence in the system,0.5
+law operating,0.6666666666666666
+correctnes of the decision,0.0
+following terms,1.5957446808510638
+regard to any petition,0.5
+appointments,1.2888888888888888
+course of hearing,1.0476190476190477
+judgments in raghubir singh,0.5
+recent cases,0.5
+brief fact,1.0
+ideal condition,0.3333333333333333
+generation,1.2037318473488687
+certain selectee doctors,0.5
+necessary in india as a general rule,0.5
+states,1.5120646995827023
+impalement,1.0
+purpose,2.519170317925504
+note of the hierarchical character,0.5
+se right,0.5821917808219178
+law,3.538923411654744
+proper course,0.6666666666666666
+legal principle,0.8142857142857144
+clear from the above,0.875
+four-judges,0.0
+nos,1.2635492554198444
+observation,0.7625074854374218
+for the disposal of this case,0.5
+time,2.4764180952862667
+cases,1.9728229418951067
+larger bench for final disposal,0.5
+division,1.7657319129617017
+subsequent judgments,0.6666666666666666
+pursuant to the advertisements,0.5
+above judgment,1.8461538461538463
+several generation,0.26666666666666666
+affirmation,0.5653021442495126
+balvalkar,0.5
+constitution bench,4.27536231884058
+daily newspaper,0.4761904761904762
+non-availability,0.0
+continuity,0.5565476190476191
+above proceeding,0.5
+above - referred case,0.0
+- availability,0.0
+eligibility,1.1788856304985336
+similar number,0.5
+consequent action,0.5
+necessary qualification for regular appointment,0.5
+that clas,0.6944444444444444
+division bench of four - judges,0.0
+respondents - applicants,0.0
+promissory estoppel,2.8333333333333335
+judge by the following order,0.0
+decision of a bench,1.0
+radhe,1.8333333333333333
+installments,1.9444444444444444
+certain judicial pronouncements,1.0
+patnaik,0.8333333333333334
+service benefit,1.6
+discipline,0.5608974358974359
+dr mathur because that judgment,0.5
+right,3.07483248288682
+above context,0.8333333333333334
+indira nehru gandhi v raj narain,0.5
+lesser strength,1.0
+points of law,0.6666666666666666
+narandraprasadji,0.5
+that extent,0.8888888888888888
+dr mathur s case,0.0
+misc,0.7132772338860931
+otherwise,1.2549820889894419
+medical officer in accordance,0.0
+pronouncements,0.7435344827586207
+order of the -judge bench,0.0
+services of these temporary doctors,0.5
+exigencies,0.8
+mandate,0.8783810859547183
+pradesh regulation of ad hoc appointments,0.5
+counsel,2.2246780703440323
+application,2.3322596088086445
+impalement intervention applications,0.5
+such authority devolf,0.0
+india,2.7684068260703585
+commission,4.703619179345321
+hierarchical character,0.5
+tribunal held that those doctors,0.5
+inter se right,1.0
+rules,3.130914366958792
+such authority devolves by convention,0.5
+four-judge,0.0
+initial appointment in the pms,1.0
+court in parija,0.5
+pms,0.6619217081850534
+following judgment,0.8
+ad hoc appointees,0.5
+se right of the temporary doctors,0.0
+vacancies in the pms,0.5
+names,1.766440410418311
+selection list,1.2
+permanent vacancy,0.0
+limited extent,0.8
+pramod,1.4848484848484846
+selectee doctors,3.5
+need for doctors,0.5
+shripad,0.5
+desirable practice of the later bench,0.5
+promotions,0.8666666666666667
+medical services,0.4800000000000001
+judgments of the bench,0.5
+writ petitioners,3.75
+reference to a bench,0.5
+ltd,2.382356477306883
+dispute,2.402137592137592
+disposal,1.1180555555555556
+importance in the administration,0.5
+benefit of the judgment,1.0
+other respondent in these writ petitions,0.0
+special leave petition,2.013333333333333
+decision of this court,2.3260869565217392
+temporary doctors,9.5
+references,0.4925861062463515
+padampat sugar mill,0.6666666666666666
+united states,0.5498850574712644
+matters before the tribunal,0.5
+years of service,2.8000000000000003
+reliance,1.400763358778626
+recent judgment of -judge bench,0.0
+three - judge bench,0.0
+whole,0.951414768806073
+inaction,0.6031746031746033
+recent cases on the point,0.5
+case,7.332269420884958
+promotion in accordance,0.0
+period,1.9480170842427122
+to the non - selectee,0.0
+exigency,0.6000000000000001
+repetition,0.47619047619047616
+appointment in the pms,1.0
+party to the limited extent,0.0
+padampat sugar mills,0.6666666666666666
+batch of writ petitions,1.1428571428571428
+large number of applications,1.0
+appointment letters to the petitioners,0.5
+scc,1.941872465904902
+appointment of certain selectee doctors,0.5
+authority devolf,0.0
+different division benches of this court,0.5
+emphasi,0.9191619047619048
+certainty in the development,0.5
+other connected matter,0.75
+constitution,3.204842342342342
+letter,2.707240080105903
+adjudication,1.5392156862745099
+statutory prescription in the matter,0.5
+sets of judgments,0.5
+ram,2.11096203538064
+coordinate,0.75
+regularization rules,3.0
+specific term,0.5714285714285714
+writ petitions,2.984848484848485
+service of these temporary doctors,0.0
+- selectee,0.0
+view dissimilar,0.5
+convention,0.8756516211061666
+of the recent cases on the point,0.5
+above judgments,1.0
+appointee,0.6578947368421053
+sehgal,0.75
+years of service towards seniority,0.5
+singh,3.7791111111111113
+basis of the judgment,1.4285714285714286
+conclusion that the petitioners,1.0
+service,4.257395095954566
+pronouncement of a division bench,0.5
+acharya,2.1666666666666665
+disposal before a bench,0.5
+utmost importance in the administration,0.5
+contention,1.666391070690368
+opposite party,2.3333333333333335
+qualification for regular appointment,0.5
+due to non-availability of doctors,0.0
+rule,5.04
+brought,1.0064948877575621
+proceedings,1.7670925223666287
+regularization by virtue,0.5
+connected matters,1.1666666666666667
+above publication,0.5
+recommendation,2.6589497459062676
+mate,1.870026349421733
+installment,1.9047619047619049
+supra,2.246342614440774
+medical officer,1.090909090909091
+nature of clarification,0.6666666666666666
+chandra,0.7012987012987013
+affected party,0.5
+bench,2.5793391667754992
+impalement intervention application,0.5
+pradip,1.0
+inconsistent decision,0.5
+civil appeal,2.2413793103448274
+utmost importance,0.6666666666666666
+hor,3.0958179864706046
+same bench in ia,0.5
+different view,0.5378151260504201
+respondents,2.6341263330598856
+leave,1.0147842365477848
+authority devolf by convention,0.0
+selectees at this stage,0.5
+judges in motilal padampat sugar mills,0.5
+appointment letter to those selectee doctors,0.0
+applicant,0.7861822513400833
+respondent in this special leave petition,0.5
+slp,1.291953447628582
+point of view,0.5886392009987514
+disputes,2.3049883690876194
+allahabad high court,1.7037037037037037
+permanent vacancy in consultation,0.0
+kesavananda bharati v state,0.5
+point,2.9165043546008516
+body,1.336775463480009
+process,1.6274942048088725
+year of service towards seniority,0.0
+thirteen-judges,0.0
+convenience that the court,0.5
+considerations,0.7860235003092146
+allahabad,2.3404255319148937
+by the high court,3.246696035242291
+recent case on the point,0.0
+notice,2.3300025999395686
+provincial medical services,0.5
+status,1.14824388424026
+fact that the regularization rules,0.5
+connected matter,1.1428571428571428
+hoc,0.8814236714464876
+claim of the temporary doctors,1.0
+matter before the tribunal,0.0
+martin,0.2842420212765957
+merits,0.968421052631579
+months of this decision,0.5
+that class,0.6944444444444444
+pronouncement of law,1.0
+pronouncement of a law,0.5
+position in regard,0.75
+judicial pronouncements,1.8333333333333333
+necessary that all persons,0.5
+different division bench of this court,0.0
+subsequent judgments of this court,0.6666666666666666
+temporary doctor,9.5
+earlier court orders,0.5
+sets,2.026616266944734
+month of this decision,0.0
+lal,1.6786163249382287
+recent case,0.6666666666666666
+intervention applications,0.5
+supp,1.7223856594132256
+basic question,0.39285714285714285
+consultation,1.1724137931034484
+set,2.3027452395971277
+reason,2.6381270903010035
+clarification,1.0567698846387372
+pradesh regulation,0.5
+position,1.549133168619177
+fact that the judgment,0.5
+contemporary statu,0.5
+matters,1.4810665618448637
+views,0.6965871413779037
+petition,5.3436539306104525
+writ petition,6.24223602484472
+acceptable to the state government,0.5
+letter of appointment,1.0
+junior to the non-selectee,0.0
+temporary basi,0.75
+separate writ petitions,0.6666666666666666
+consultation with the state,0.75
+intervention,0.6975694444444444
+same number,0.47619047619047616
+haryana,2.935064935064935
+consideration,1.9110153789142115
+directions from the court,0.5
+contention of the selectee doctors,0.5
+mill,1.0891891891891892
+paragraph,1.2930197483150305
+civil appeals,1.24
+larger number of judges,0.5
+judgment in dr  mathur,0.0
+latter judgment,0.6666666666666666
+opposite parties,0.6666666666666666
+different division benches that the rule,0.5
+direct that these petitions,0.5
+statutory prescription,0.75
+vacancies in consultation,0.5
+subsequent cases,0.8
+bench of lesser strength,1.0
+inter se right of the temporary doctors,0.0
+certain selectee doctor,0.5
+inapplicable by the high court,0.5
+others,0.9074667328904616
+nath mate v state of west bengal,0.5
+learned judge for reconsideration,0.0
+godfrey philips,0.5
+three-judge,0.0
+mathur,0.7916666666666666
+above writ petition,1.4
+-judge bench in dr  mathur,0.0
+to the advertisements,0.5
+benefit of the whole,0.5
+anandprasadji,0.5
+consistency in judicial decisions,0.5
+independent of the judgment of -judge bench,0.0
+gujarat,3.2753623188405796
+superior court,0.7222222222222222
+importance that the law,0.5
+judgment wherein,0.8
+three - judge bench of this court,0.0
+authority,2.4352627108360636
+judge,2.9012627415183325
+case to a larger bench,0.5
+manuscmanusc,7.940520446096654
+newspapers,0.854368932038835
+in india as a general rule,0.5
+john,0.49851778149329673
+- availability of doctors,0.0
+se right of the petitioners,0.0
+selection,2.2651528696585017
+possibility of inconsistent decisions,0.5
+development,2.3145884270578647
+fault with the reference,0.5
+seniority of temporary doctors,0.5
+repeated affirmation over a century,0.5
+argument,0.9504580388560493
+reconsideration,1.0846153846153848
+question of inter se seniority,0.5
+core issue,0.5714285714285714
+conclusion,1.3883437407077015
+inter se rights,1.0
+relative thereto,0.5
+reasoned order though brief,0.5
+seniority from the date,3.0
+affected parties,1.0
+common knowledge,0.45112781954887216
+nature of the case,1.0
+subsequent orders,0.6666666666666666
+narain,0.4978662873399715
+legal principles,0.6000000000000001
+judges,2.0931496919173616
+division bench in relation,0.5
+siddiqui,1.0
+number of cases,0.5
+interruption,0.4
+pursuant,0.7227692307692308
+questions,0.9979150871872632
+smaller number,0.9000000000000001
+judicial system in india,0.5
+strength,1.1679328901551123
+part of the state government,0.6666666666666666
+brief,0.540112172829248
+larger bench,2.0606060606060606
+division bench of this court,1.4545454545454546
+promotions in accordance,0.5
+regular appointments,0.6666666666666666
+division benches that the rule,0.5
+pms cadre,1.0
+court of allahabad,1.0
+inaction  refusal,0.0
+qualification,2.1521739130434785
+circumstances,1.3944461370073231
+names of certain selectees,0.5
+original appointments,0.5
+to the writ petitioners,0.8
+uttar,2.188679245283019
+basi of the judgment,0.0
+that all persons,0.8333333333333334
+confidence,0.5942028985507247
+-judge bench decision,0.0
+thirteen-judge,0.0
+judgments of this court,1.4666666666666666
+supreme,1.443815331010453
+pathak,1.8571428571428572
+inconsistent decisions,0.5
+kerala,4.135593220338983
+judge in motilal padampat sugar mills,0.0
+high court,7.7477477477477485
+seniority of the temporary doctors,1.5
+public,2.923239095873367
+regularization under the rules,0.5
+permanent vacancies in consultation,0.5
+state,6.817996007300392
+judge for final disposal,0.0
+court of the united states,0.5
+ad hoc appointments,2.0
+decision in these writ petitions,0.6666666666666666
+note,1.3654108484234107
+permanent vacancies,0.5
+preference,1.0460251046025104
+such argument,0.40909090909090906
+batch of civil appeals,0.6666666666666666
+manu,7.078142071124147
+considerable length,0.5714285714285714
+initial appointments,0.5
+infirmity,1.3095238095238095
+inter se right of the petitioners,0.0
+devolf,0.0
+careful perusal of the above judgments,0.5
+subsequent case,0.8333333333333334
+separate writ petition,0.6666666666666666
+regularization rule,3.0
+appointment under the rules,0.5
+statement of the law,0.6666666666666666
+to the state government,1.9655172413793103
+principles of the doctrine,0.5
+circular to this effect,0.5
+direct that these petition,0.5
+v raghubir singh,1.4
+initial appointment in the pms cadre,1.0
+counter,1.0576470084371923
+observation in the judgment,0.5
+larger strength,0.6666666666666666
+existence of conflict,0.5
+behalf of the respondents,1.3235294117647058
+emphasis,0.8024289099526066
+selectee doctor,3.5
+acharya maharajshri narandraprasadji anandprasadji maharaj v state of gujarat,0.5
+cases on the point,0.6666666666666666
+state of up,2.0784313725490198
+judicial system,0.8333333333333333
+nature,1.4149926876444778
+earlier court order,0.5
+discussion,0.7445831166579996
+continuity in service,0.5
+waman,1.0
+judicial need,0.5
+larger bench judgment,0.5
+motilal padampat sugar mill,0.6666666666666666
+statutory mandate,0.6666666666666666
+tribunal,5.07183212267958
+judgment of -judge bench,0.0
+possibility,0.7613466503601033
+petitioners,3.536507936507937
+situation,1.1254754682459434
+junior,0.9861207494795279
+raj,1.3364194424876723
+specific terms,1.0
+similar petition,0.6666666666666666
+observations,0.7454584147497534
+precedent,0.8982341399607586
+attention,0.8724846605528799
+action,3.127292663476874
+appointment letter to the petitioners,0.0
+-judges,0.0
+senior counsel,2.2857142857142856
+l rs,0.30630630630630623
+dr mathur,6.5
+learned judges of this court,1.2
+effect of such conflict,0.5
+judicial consistency promotes confidence,0.5
+learned judges,3.4864864864864864
+such other consideration,0.6666666666666666
+persons,2.5993381990166555
+appointment letters to those selectee doctors,0.5
+general rule,0.6352941176470589
+case of state,1.4375
+respondent - state,0.0
+provincial,1.2844444444444443

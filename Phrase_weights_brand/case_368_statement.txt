@@ -1,0 +1,61 @@
+further proceeding,1.0
+weeks,0.8109161793372318
+issue notice,1.0952380952380953
+meantime,0.5833333333333334
+weeks from today,1.2
+of the dues,1.375
+condition,2.259476395625584
+stay,0.7804272356384462
+comply,0.802068302068302
+today,0.6330563683773655
+clear that dismissal of the writ petition,0.5
+instalment,1.375
+joseph,0.4502673796791444
+auction,4.7739938080495365
+admission,1.5389848246991107
+order,5.472481489660944
+petitioner,4.524972253052164
+notice,2.3300025999395686
+term,3.6255105640901575
+above order,1.7857142857142858
+writ,2.8882378560889794
+settlement,1.6881394467601363
+further proceedings,1.0
+auction of the property,0.6666666666666666
+first instalment,1.5
+time settlement,0.5
+post,2.344803646492219
+instalments,0.75
+therefore,2.960332350576253
+comply with the conditions,1.125
+terms,2.390350840909655
+proceedings,1.7670925223666287
+week,0.8253498691546249
+following order,0.5647058823529412
+week from today,0.75
+kurian,0.9655172413793104
+reference to the court,0.5
+conditions,1.9988092071092867
+due,1.6178286949129652
+court,12.24425115501509
+reference,2.1755848210276256
+stay of further proceedings,0.6666666666666666
+that dismissal of the writ petition,0.5
+bank,9.40770083102493
+issue,2.766776251628934
+property,2.9368986630013745
+dismissal,1.614076246334311
+kurian joseph,0.9655172413793104
+way of the petitioner,0.5
+petition,5.3436539306104525
+further reference to the court,0.5
+writ petition,6.24223602484472
+case,7.332269420884958
+order writ petition,0.5
+dues,1.2780386019822638
+petitioner on a condition,0.5
+balance,0.9863636363636363
+dismissal of the writ petition,0.75
+way,1.7812722068664852
+further reference,0.3333333333333333
+time,2.4764180952862667

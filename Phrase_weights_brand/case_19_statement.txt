@@ -1,0 +1,727 @@
+courts,2.1216528162511543
+court judges,3.6666666666666665
+cadre strength,1.0
+tribes,1.6409945421467553
+government,3.5583785424010483
+to the rule in force,0.0
+mr nagesxhwar rao,0.5
+bcb group,0.5
+efficiency,0.8919469928644241
+vacancy,1.0666666666666667
+suggested appointment,0.5
+children,1.3787369914853358
+specific procedure,0.30000000000000004
+castes,3.7222222222222223
+constitution of india,3.0095238095238095
+sts,1.5353140664394884
+mark,2.700508607198748
+viz,0.7732570026579433
+principles of carry forward,0.5
+vacancy in the cadre,0.0
+proposal for sanction,0.5
+hyderabad,2.5833333333333335
+roster points,3.5
+family courts judge,1.0
+high court of andhra pradesh,1.5
+prescribes,0.6387096774193549
+mahila court judges,1.0
+posts of judges,1.0
+court,12.24425115501509
+special rule for ap,0.0
+recruit from the bar,0.0
+k public service commission,0.5
+creation,0.5716118684843625
+aspects,1.0997620069447154
+proper consideration of the matter,0.5
+matter hereby sanction in relaxation,0.5
+union,2.0981927710843373
+consonance,1.5
+creation of ex-cadre posts,0.0
+rules for ap,1.8
+person,4.291511329454258
+way,1.7812722068664852
+additional post of district,0.0
+that service,0.5217391304347826
+part,5.294464509893076
+suitability test from the point,0.5
+mittal,1.6666666666666667
+view that the spl,0.5
+keshav,1.4444444444444444
+post for backward class group,1.0
+laj,0.5564516129032258
+rule of recruitment,0.0
+to rule,0.8500000000000001
+view of the above views,0.5
+aspect,1.2449448189023034
+number,1.4802651440973922
+high court considers,0.5
+district,1.5506763074237984
+notice in a meeting,0.5
+sessions,1.3405714285714285
+family courts,7.333333333333333
+decision,2.9514937765898557
+candidates as district judges,0.5
+direct recruits,1.8571428571428572
+munna roy v union,0.5
+mahila court judge,1.0
+to the rules in force,0.5
+vacancies in respect,0.5
+category of district,0.5
+such requirement,0.5
+rules for the ap,0.5
+test,2.5329834591340266
+subsequent advertisement,0.5
+transfer,1.9975047057658015
+high court that the candidates,0.5
+st candidates,0.6666666666666666
+ex - cadre post,0.0
+carry forward,0.8333333333333334
+judicial service as district judges,0.5
+posts of district,5.0
+peculiar fact of those cases,0.0
+chief minister,1.5714285714285714
+read,2.2147281730888695
+view of merit,0.5
+sessions judge,2.9545454545454546
+careful consideration,0.9285714285714286
+qualified candidates,2.25
+mahial,0.5
+nageshwar rao,1.3333333333333333
+promote,1.4742554265522463
+separate posts of judges,0.5
+backward class,3.8461538461538463
+rule in force,0.5
+request of mr  nageshwar rao,0.0
+limited,1.3713554955535188
+legality of recruitment,1.0
+merit subject,0.5
+oral interviews,1.0
+such lower mark,0.5
+recruits,2.0714285714285716
+subject,2.4420366233344897
+candidate of sc,0.0
+order,5.472481489660944
+doubtful whether the basic rule of recruitment,0.0
+act,12.870263922028107
+image,0.4193995659512901
+governor,1.1316137566137567
+pursuance,1.543859649122807
+clas,2.1196191893660425
+appointment,3.1380281690140843
+rule of reservation,1.0
+family court in the state,0.0
+doubtful whether the basic rules of recruitment,0.5
+candidates as district judge,0.5
+availability of women,0.5
+offences against women,0.5
+higher judicial service,5.375
+special rule,1.3333333333333333
+legal impediments in the way,0.5
+lady district judge,1.0
+eventual absorption,0.5
+state government,3.027142857142857
+candidates,3.508445945945946
+legal practice,0.5333333333333333
+ii under the ap,0.5
+spl,0.9213738571781567
+non availability of women,0.5
+munna,0.3935766423357665
+additional post in go,0.0
+no right,0.6454703832752613
+tirupathi,0.6666666666666666
+high court that the candidate,0.5
+lower marks,0.5
+grade,2.004840489566613
+meeting,1.5978547625659538
+other post,0.5
+ocs,0.6480861244019139
+qualified candidates of sc,0.5
+proper consideration,0.3333333333333333
+separate post,0.3636363636363636
+long period,0.6161971830985916
+posts for women,0.5
+judiciary if the candidates,0.5
+scheduled castes,2.7777777777777777
+officers,2.442124212421242
+judge of the family courts,0.0
+officers in the cadre,0.5
+full court meeting,1.75
+promotes,0.5128205128205129
+higher judicial service as district judges,0.5
+v union of india,2.381818181818182
+separate posts,0.6666666666666666
+basis of the high court,0.6666666666666666
+regard,2.723310344827586
+difficulty,0.656910569105691
+mahila court in ex-cadre posts,0.0
+vacancies for women,0.5
+impediments,0.42857142857142855
+class,2.1508512849922936
+basi of the high court,0.0
+direction,1.8495050210098996
+roy,0.802892290355902
+full court,6.333333333333333
+roster,2.670037926675094
+prescribe,1.5663430420711975
+fault,0.8125244007183572
+judicial service in pursuance,0.5
+percent reservation,0.5
+minimum marks for ocs,0.5
+facts,1.4696673624372698
+proviso to article,1.5
+candidate for appointment,0.0
+direct recruit from the bar,0.0
+other sub group,0.5
+minister,1.218958818958819
+family court judges,2.0
+relevant portion,0.6486486486486488
+july,0.9742727723122656
+officer at hyderabad,0.5
+basi,2.0752712086391383
+required consideration in the light,0.5
+powers,1.876345371920593
+advertisement for the recruitment,0.5
+reservation for women,2.5
+ruling,0.5854935847080388
+direct recruitment become,0.5
+method,0.9027027027027026
+candidate,6.356675392670156
+ii against the future vacancy,0.0
+applications for appointment,0.5
+petitioner,4.524972253052164
+women,1.162387410705042
+cost,1.2954397451466992
+session,2.2400874351067563
+family court judge,2.0
+additional posts,4.333333333333333
+district judges in the andhra pradesh state,0.5
+appropriate procedure,0.6666666666666666
+basis,1.953226441078104
+subordinate service rule,1.3333333333333333
+percent reservation in favour,0.5
+directions,1.5134125183504605
+minimum mark,2.0
+mahila court in the state,0.0
+sub,7.816899313759727
+caste,3.66454871293581
+advertisement,1.5480769230769234
+view that this court,0.6666666666666666
+proportion,1.3026315789473686
+general administration,0.75
+ex-cadre posts as family court,0.0
+minimum marks,1.6666666666666667
+narinder mohan manuscmanusc,0.5
+for this court,1.25
+candidates for appointment,1.25
+recruitment become,0.5
+peculiar facts,0.9473684210526315
+certain aspect,0.6666666666666666
+ex-cadre posts of judges,0.0
+relaxation of rule,1.0
+such lower marks,0.5
+caste candidate,0.6666666666666666
+court in keshav chandra joshi v union,0.5
+groups,0.9065945998117897
+pradesh,4.365853658536586
+to non availability of women judicial officers in the cadre,0.5
+visakhapatnam,2.1666666666666665
+mahial court,0.5
+officer,3.1197242647058823
+contrary to rules,0.5
+marriage,1.8031648351648353
+family court judges into the cadre,0.5
+direct recruit,4.266666666666667
+cadre of district,3.25
+child,3.0202810640613067
+de-reserving such vacancies,0.0
+additional posts of district,0.5
+inviting application,1.3636363636363635
+further direction,1.2380952380952381
+mark for ocs,0.0
+matter,2.8088923076923082
+of the total number,0.5185185185185186
+meantime,0.5833333333333334
+article,4.378806157159795
+court that the candidates,0.5
+opened competition candidate,0.5
+candidates for oral interviews,0.5
+mahila courts in ex-cadre posts,0.0
+applications,1.0021816198527407
+class group b,1.0
+spite,0.8919640378414163
+view,2.441100058469462
+goms,3.0
+post,2.344803646492219
+that service by provisional appointment,0.5
+conductive to the efficiency in service,0.5
+opinion,1.4960606342789635
+vacancies,7.473684210526316
+scheduled caste,3.875
+vacancies with oc,0.5
+merit,1.2419290263876248
+andhra,4.830188679245283
+d candidate,4.411547911547912
+basic rules of recruitment,0.5
+post for the scheduled tribe,0.5
+pradesh state,1.5
+other categories,1.4285714285714286
+family court act,0.5
+st candidate,0.9090909090909091
+undertaking before this court,0.6666666666666666
+suggested appointments,0.5
+scs,0.6990393936723363
+availability,0.6313043478260868
+rao,0.9220020325203252
+backward,1.866666666666667
+for scs,0.425
+procedure,2.552771605064117
+information,1.1320502836800534
+bcb,0.1655701754385965
+petitions,1.3930830039525692
+higher judicial service in pursuance,0.5
+state government for appointment,1.3333333333333333
+november,0.7203359669727383
+formidable legal impediment in the way,0.0
+family court at secunderabad,0.5
+provision,5.439002243350069
+posts in go,0.5
+judges of the family courts,0.5
+provision in the special rules,0.5
+other category,0.4444444444444444
+scheduled tribes,2.823529411764706
+respect,2.6704963235294117
+separate post of judges,0.0
+recruitment,5.333333333333333
+state government appoints person,0.5
+fact,3.6284951019474962
+subordinate service rules,1.3333333333333333
+family courts in the state,0.5
+sanctioned posts,1.8
+post in go,0.0
+that institution,0.8333333333333334
+department,1.9858367499068206
+chief,1.9429638234317954
+special,1.7363344051446945
+service as family court,0.5
+vacancy in respect,0.0
+reservations,1.8229166666666667
+family court judge into the cadre,0.0
+total number,0.8813725490196079
+required consideration,0.6666666666666666
+women candidate by direct recruitment,0.0
+enough women judge,0.5
+purpose of this writ petition,0.0
+formidable legal impediments,0.5
+ex - cadre posts,0.0
+recruitment of women candidates,1.0
+available for open competition,0.75
+gos,0.366120218579235
+extent,1.410108024691358
+points,0.7095682483711788
+state of andhra pradesh,3.625
+proposal,1.8145800316957208
+appointments to the posts,0.6666666666666666
+light,0.8816192372754331
+bar,1.4720990391722097
+candidate of other sub groups,0.0
+direct recruitment quota,0.6666666666666666
+query no,3.0
+exercise,1.9400726466785694
+new prescribes,0.5
+backward classes,2.8
+judicial,2.8688059701492543
+higher judicial service as district judge,0.5
+principle,1.9620890732001848
+quota,2.2173531989482913
+in order,1.0314452731304171
+undertakings,5.083333333333333
+for open competition,0.75
+fact of those cases,0.0
+sanctioned post,3.0
+posts,2.6556317082632876
+whether the basic rule of recruitment,0.0
+period of time,0.5706521739130435
+family courts in the cadre,0.5
+justice,2.292557084574302
+women candidate on provisional selection,0.0
+candidates from the open category,0.5
+request,1.1474439594584596
+case of munna roy v union,0.5
+state government appoints persons,0.5
+pursuant to this advertisement,0.5
+nagesxhwar,0.5
+post of district,1.0
+seniority,7.989473684210527
+application for appointment,0.0
+suitability,0.8181818181818181
+date,6.195616975795285
+law that no right,0.5
+women candidates,5.0
+family court,8.285714285714286
+such selection,0.75
+september,0.8548484848484849
+administration,1.061072796934866
+matter hereby sanction,0.5
+reference,2.1755848210276256
+notice of the high court,1.0
+difficulties,0.570873786407767
+offence,4.401610644257703
+chief justice,4.684210526315789
+vijayawada,1.0
+roster point,3.4
+high court consider,1.0
+women candidate,5.0
+women judges,0.5
+service by provisional appointment,1.0
+subordinate,1.43
+scheduled,2.329545454545454
+institution,2.7327010745685443
+court consider,1.375
+lawyers,0.5820642978003383
+cadre,2.7892948173322005
+special rule for the ap,0.0
+question,2.980312372067635
+principles,1.3198511166253102
+district judges,4.75
+to this memorandum,0.5
+future vacancy,0.0
+scmanu,7.940520446096654
+mahila courts,5.0
+writ,2.8882378560889794
+subject to the rule of reservation,1.0
+supreme court in keshav chandra joshi v union,0.5
+officer in the cadre,0.5
+practice,1.7660110149488593
+additional post,3.5
+long period of time,0.4129032258064516
+supreme court,1.4278957326045825
+name,1.8996570753072433
+higher judicial service for eventual absorption,0.5
+high,5.367119186841496
+judicial officers in the cadre,0.5
+permanent posts,0.5
+v union,1.5773809523809523
+appointments,1.2888888888888888
+other sub groups,0.5
+future vacancies,1.6666666666666667
+man family courts,0.5
+force,1.6009408121948314
+above views,0.6000000000000001
+notification,3.0112746633260263
+basic rules,0.5
+recommendation through the letter,0.5
+proviso,2.112
+purpose,2.519170317925504
+law,3.538923411654744
+judicial officers,9.083333333333334
+time,2.4764180952862667
+cases,1.9728229418951067
+principle of carry forward,0.0
+group,1.691932599016908
+ex-cadre posts,0.0
+sessions judges,4.5
+family court judge under the family courts act,0.0
+provisional appointment,1.0
+memorandum reads,0.5
+rule for the ap,0.0
+court that the candidate,0.5
+st for the purpose,0.8333333333333334
+competition,0.9867647058823531
+ser,3.9891665252902255
+reservation for scheduled tribes,0.0
+addition,1.5588539142412572
+right,3.07483248288682
+recruit,5.268177028451001
+exercise of powers,0.6493506493506495
+special rules for the ap,0.5
+legal impediment in the way,0.0
+march,1.0644238856181665
+vacancy with oc,0.0
+offences,1.6681887366818873
+purposes of this writ petition,0.5
+percent,0.7207207207207208
+available in order,1.0
+application,2.3322596088086445
+rules in force,1.2
+policy,3.250773332247955
+india,2.7684068260703585
+nageshwar,1.2857142857142858
+commission,4.703619179345321
+mahila,4.5
+rules,3.130914366958792
+limited recruitment,1.0
+grade ii in addition,0.5
+ex-cadre post of judges,0.0
+grade ii,6.0
+due to non availability of women judicial officers in the cadre,0.5
+vacancies int,0.5
+kurnool,1.25
+sub - group,0.0
+names,1.766440410418311
+lady district judges to the family courts,0.5
+additional posts in go,0.5
+court of andhra pradesh,1.5
+lower mark,0.5
+furnish further information,0.5
+extent of reservation,1.0
+further view,1.0
+governor of the state,1.0
+andhra pradesh,4.857142857142857
+office memorandum,1.0
+decision of the full court,1.3333333333333333
+secunderabad,0.75
+posts for the scheduled castes,0.5
+vacancy of backward class group,0.5
+mahila courts in the state,0.5
+to rules,0.43636363636363634
+judicial officer,10.714285714285714
+variava,1.0
+sub group,1.0
+inviting application for the posts,0.0
+women lawyers,0.5
+view that the vacancy,0.0
+advertisement inviting applications from women candidates,0.5
+permanent post,0.6666666666666666
+peculiar fact,1.0476190476190477
+case,7.332269420884958
+period,1.9480170842427122
+registrar,1.8341346153846154
+scc,1.941872465904902
+whether the basic rules of recruitment,0.5
+backward class group b,1.0
+reservation policy,1.0
+backward class group,4.0
+method of appointment,0.5
+interviews,0.3765432098765432
+constitution,3.204842342342342
+post for backward class group b,0.5
+letter,2.707240080105903
+dept,0.5600087844515208
+candidates to the state government,1.0
+proportion between the recruits,0.5
+peculiar facts of those cases,0.5
+court considers,0.875
+purposes,1.4391216613438835
+till date,1.2352941176470589
+undertaking,2.8508771929824563
+basic rule of recruitment,0.0
+service,4.257395095954566
+portion,1.0756311179804223
+further view that the spl,0.5
+judiciary,1.5942028985507246
+open category,2.0
+mahila court,6.0
+joshi,0.9259259259259259
+advertisement inviting application,0.5
+rule,5.04
+light of the above views,0.5
+advertisement inviting application from women candidates,0.0
+favour,1.653145208700764
+judiciary if the candidate,0.5
+view that the vacancies,1.0
+keshav chandra joshi v union,0.5
+recruits from the bar,0.5
+recommendation,2.6589497459062676
+candidate from the open category,0.0
+non availability,0.5
+posts in the cadre,0.75
+enough women judges,0.5
+judicial service,7.3076923076923075
+duty,3.2272215973003378
+chandra,0.7012987012987013
+interview,1.56113727542299
+service rules,2.95
+warangal in the go,0.5
+district judge in the andhra pradesh state,0.0
+office,3.5913445886237847
+recruitment quota,0.6666666666666666
+legality,0.6845938375350139
+special rules,1.5555555555555556
+andhra pradesh state,1.5555555555555556
+rule under the spl,0.5
+opened competition candidates,0.5
+costs,0.8167395522604189
+ii against the future vacancies,0.5
+recommendation of the high court,0.6666666666666666
+man family court,0.5
+legal impediments,0.5
+lady district judges,1.0
+posts of district judges,2.0
+october,0.9478375701551667
+tribe,2.294908466819222
+point,2.9165043546008516
+higher,1.7172937941551014
+absorption,0.928888888888889
+women candidates on provisional selection,0.5
+appointment as district,1.0
+judicial service as district judge,0.5
+selection as district judge,0.5
+notice,2.3300025999395686
+bcs,0.7296058661778184
+india manuscmanusc,1.8333333333333333
+district judge,2.1684981684981683
+reference to the date,1.0
+duty in the category,0.5
+filling,0.664718772826881
+power,3.8165227690948367
+woman,1.316528681253696
+full,1.5412997100815056
+family courts judges,1.0
+above view,0.6428571428571429
+examination,2.4920345926263088
+advertisement inviting applications,0.5
+judicial service for eventual absorption,0.5
+scf,0.16994503905120045
+reservation,2.6876587100050786
+j scf,0.5
+clarification,1.0567698846387372
+efficiency in service,0.5
+contrary to the rules in force,0.5
+pursuant to this memorandum,0.5
+receipt of the information,1.0
+appointment of the women candidates,0.5
+mr nageshwar rao,1.25
+views,0.6965871413779037
+petition,5.3436539306104525
+category,1.9351744779266717
+writ petition,6.24223602484472
+offences against woman,0.0
+judges of family courts,2.0
+query,0.7205882352941175
+consideration,1.9110153789142115
+availability of vacancies,1.0
+qualified candidate of sc,0.0
+opinion that the selection,0.5
+scheduled tribe,3.764705882352941
+vacancies in the cadre,1.0
+memorandum,1.2142857142857144
+lady,0.6819258089976322
+post for women,0.0
+ear,6.682790584013304
+consideration of the matter,1.0
+new prescribe,0.5
+grade-ii,0.0
+women judge,0.5
+reply,1.0337305560040906
+candidates of other sub groups,0.5
+c andor d,0.5
+receipt,1.5471923536439667
+government after careful consideration,0.5
+lady district judge to the family courts,0.0
+no right to the appointment,0.5
+marks for ocs,0.5
+rules of recruitment,0.5
+vacancy for women,0.5
+possible for this court,0.75
+consideration whether the candidates,0.5
+provisional selection,1.0
+special rules for ap,1.5
+sts for the purpose,0.75
+family court in the cadre,0.0
+basic rule,0.4
+family court judges under the family courts act,0.5
+mittal v union of india,0.5
+candidate in spite,0.5
+family,1.856281506375408
+applications for the post,1.0
+mittal v union,0.5
+judge,2.9012627415183325
+manuscmanusc,7.940520446096654
+representations,0.5384615384615384
+inviting,0.90282131661442
+reservations for scheduled tribes,0.5
+person from the panel,0.5
+selection,2.2651528696585017
+oral interview,1.0
+undertakings before this court,0.5
+direct recruits from the bar,0.5
+minimum mark for ocs,0.0
+selection as district judges,0.5
+candidate for oral interviews,0.0
+post for the scheduled castes,0.0
+to this advertisement,0.5
+formidable legal impediments in the way,0.5
+service rule,3.1
+panel,1.3733381243262668
+women lawyer,0.5
+women candidates by direct recruitment,0.5
+judges,2.0931496919173616
+gom,1.3298969072164948
+pursuant,0.7227692307692308
+strength,1.1679328901551123
+marks,1.4136144754122284
+impediment,0.5668016194331984
+rule in the ap,0.5
+de-reserving such vacancy,0.0
+candidates of sc,0.5
+post in the cadre,1.5
+post of district judges,0.5
+court judge,1.9615384615384615
+direct recruitment of women candidates,0.5
+relaxation,0.8571428571428572
+filling of sc,0.5
+qualified candidate,1.5600000000000003
+unfortunate part,0.5
+lawyer,0.6086956521739131
+welfare,1.3226788432267886
+application for the post,0.0
+supreme,1.443815331010453
+open competition,1.2
+view of the rulings,0.5
+warangal,2.5
+requirement,1.2416133333333332
+suitability test,0.75
+high court,7.7477477477477485
+judicial officer in the cadre,0.0
+welfare of the children,0.30000000000000004
+public,2.923239095873367
+bcb groups,0.5
+state,6.817996007300392
+sanction,2.0167207792207793
+queries,0.7428571428571429
+classes,1.212856534695615
+representation,1.2338308457711442
+appointment to the post,2.0
+manu,7.078142071124147
+view of rule,1.6666666666666667
+general,1.7536558414534391
+appointment to the posts,0.8
+narinder,0.5
+inviting applications,1.4
+rulings,0.5416666666666667
+facts of those cases,0.5
+vacant,1.8672727272727272
+judge of family courts,0.0
+scale,2.0845464725643894
+category of candidates,0.5
+seniority of a person,0.6666666666666666
+airsc,1.6909090909090911
+family courts judges into the higher judicial service,0.5
+man,6.972395052694935
+rule for ap,0.5
+family courts act,1.6666666666666667
+post of judges,0.0
+certain aspects,0.6666666666666666
+ex-cadre post,0.0
+class group,2.6666666666666665
+such power,0.8907563025210085
+mohan,1.5416666666666667
+illjsc,3.25531914893617
+court meeting,1.75
+bca,0.345830639948287
+consideration whether the candidate,0.5
+categories,0.8800000000000001
+direct recruitment,4.0
+sub groups,0.5
+petitioners,3.536507936507937
+legal impediment,0.6666666666666666
+gomsno,0.5
+merit subject to the rule,0.5
+memorandum read,0.5
+inviting applications for the posts,0.5
+candidate to the state government,0.0
+case of rs,0.5
+family courts judge into the higher judicial service,0.0
+persons,2.5993381990166555
+formidable legal impediment,0.5
+that institution of marriage,0.5

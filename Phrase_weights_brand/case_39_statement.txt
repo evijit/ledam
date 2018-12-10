@@ -1,0 +1,537 @@
+bhunja,0.5
+backdrop,0.5833333333333334
+contraband article,1.0
+similarity,0.5698051948051948
+that regard to the police officials,0.5
+appellant megh singh,1.0
+haryana high court by the impugned judgment,0.5
+shows,0.8030554811042616
+west bengal v anil kumar bhunja,0.5
+code,2.880559796437659
+accused,10.856353591160222
+mind,1.1559066143122394
+application  telegram,0.0
+compas,0.41211484593837533
+sections,1.640495469442838
+terms of section,1.98
+terms,2.390350840909655
+twenty-five bag,0.0
+meaning,1.8612727545949643
+respondent-sic,0.0
+arm,0.9325525916287142
+ruqa exhibit pe,0.5
+court,12.24425115501509
+village dharamgarh,0.5
+aspects,1.0997620069447154
+contraband,1.4857142857142858
+road,1.0764686576960945
+brick,0.45530726256983245
+in law,1.1088664421997756
+single judge,4.011627906976744
+person,4.291511329454258
+ors,2.8612718198296623
+show,1.5002130552117363
+substances,0.7777777777777778
+meanings,0.4901960784313726
+brick kiln,0.5
+mean awarenes,0.5
+entire aspect,0.6666666666666666
+different contexts,0.3333333333333333
+twenty-five bags,0.0
+labourer,1.25
+scenario,0.4835164835164836
+present appeal,1.3424657534246576
+aspect,1.2449448189023034
+kalema,0.5
+clear that the search,0.5
+police party,1.75
+decision,2.9514937765898557
+contrary,1.027917657672435
+articles,1.4349688743466387
+legal affairs,0.8
+physical possession,1.4166666666666667
+psychotropic substances act,0.8
+record establishes that the applicationtelegram,0.5
+situations,0.7435282837967402
+sample,1.7733348061416105
+sine qua non,1.0
+- megh singh,0.0
+appeal,3.4125488033856883
+other co - accused person,0.0
+search,1.156007562422583
+fifty samples,0.5
+santa singh,1.0
+word  conscious,0.0
+village,1.8429856945085372
+only factor,0.2777777777777778
+personal search of the applicant,0.5
+different footing,1.0
+with seal  bs,0.0
+exhibit,0.8875432525951558
+default condition,0.4
+year,2.8349484769759212
+ruqa,0.6666666666666666
+judgment,3.288216560509554
+custody without awarenes,0.5
+flexibility,0.5538461538461538
+himachal,2.5833333333333335
+arrest of megh singh,0.5
+legal affair,0.8
+order,5.472481489660944
+police official,1.5750000000000002
+labourer of the truck,0.0
+own facts,1.125
+act,12.870263922028107
+qua,2.4497935676369567
+background of sections,0.6666666666666666
+factual scenario of the present case,0.6666666666666666
+that power,0.6764705882352942
+sullivan,0.2110091743119266
+such possession,1.0
+compas of controversy,0.0
+drown,0.24489795918367344
+accused persons,7.048780487804878
+reference to the factual backdrop,0.5
+different context,0.5538461538461539
+kacha road towards,0.5
+mother,1.5057341472881893
+section,9.287987283173626
+same with seal bs,0.5
+criminal cases,0.9904761904761905
+of the drain,0.6666666666666666
+fir,2.85390975582079
+condition,2.259476395625584
+such article,1.0833333333333333
+santa,0.39720558882235535
+factual backdrop,0.75
+single judge of the punjab,0.5
+factual background,1.0
+doubt by the constitution bench,0.5
+seal,1.5645371577574967
+present case,1.5611814345991561
+unfolded during trial by the prosecution,0.5
+chemical examination,0.6666666666666666
+to all situation in the context,0.0
+mean awareness,0.5
+investigation,1.6673076923076922
+regard,2.723310344827586
+context,0.9269383697813122
+knowledge,1.1120671641791045
+bachan singh,2.875
+atop gunny bags,0.5
+sho,3.354516605502135
+benefit of doubt,1.8
+labourers of the truck,0.5
+short of the drain,0.5
+record establish,0.6666666666666666
+control,2.148867902684286
+peculiar factual aspect,0.5
+police officials,2.5714285714285716
+facts,1.4696673624372698
+fire,1.1391892447477696
+gurbax singh v state,0.5
+possession illicit,0.5
+basi,2.0752712086391383
+circumstantial flexibility,0.8
+gunwantlal v the state,0.5
+- compliance,0.0
+that regard,0.5944055944055944
+nature of such possession,0.5
+consciou in the logical background of sections,0.0
+fine,1.3204039558531748
+home,0.9826663267907214
+samples,1.552941176470588
+benefit,2.604810195438474
+non-compliance,0.0
+weight,0.7538461538461538
+awarenes,0.4649122807017544
+conviction,2.248165832071736
+basis,1.953226441078104
+possession of illicit articles,0.5
+gunwantlal,0.5
+arijit pasayat,0.9230769230769231
+fifty sample,0.5
+charge,2.7679815308681284
+bags of poppy husk,1.0
+particular fact,1.5
+pradesh,4.365853658536586
+ground that the evidence,0.5
+sine qua non for conviction,0.5
+world of difference,0.5333333333333333
+person in the truck,0.0
+non-compliance of section,0.0
+ground,1.4186722903211633
+narcotic drugs,1.1666666666666667
+significant detail,0.6666666666666666
+accusations against appellant megh singh,0.5
+several persons,0.787878787878788
+west,1.1420057009587976
+impugned judgment,2.0927152317880795
+factual scenario,1.0
+different background,0.25
+word  conscious  mean awarenes,0.0
+relation,1.397320207820618
+article,4.378806157159795
+accused - appellant innocent,0.0
+- compliance with requirements,0.0
+criminal,3.301971081989414
+term,3.6255105640901575
+atop gunny bag,0.5
+exhibit pe,1.0
+single significant detail,0.6666666666666666
+bengal v anil kumar bhunja,0.5
+chapter iv,1.4444444444444444
+requirements,0.7375979875979877
+vide,4.454025282767798
+tin,5.507817896624884
+psychotropic,0.8
+illicit articles,0.5
+control over the article,0.5
+use,5.06801278974993
+recognition,1.4333333333333333
+awareness,0.4649122807017544
+recovery,3.9892473118279574
+santa singh son,0.5
+witness,5.333906623599983
+kgs,0.5636363636363636
+officials,1.3691666666666666
+contexts,0.23728813559322035
+bengal,1.9299191374663072
+record,2.5393414390845273
+procedure,2.552771605064117
+material,1.4148767018946966
+dharamgarh,1.0
+polouse,0.0
+world,0.7808471033398942
+caithnes,0.5
+precise definition,0.5
+peculiar factual aspects,0.5
+poppy husk,3.3333333333333335
+conclusions,0.8522069292833413
+to all situations in the context,0.5
+same case,0.4571428571428572
+premises,1.290983606557377
+fact,3.6284951019474962
+several person in the truck,0.0
+learned counsel,3.703333333333333
+co-accused persons,0.0
+expression,1.7424391201885312
+evidence on record,2.7906976744186047
+pasayat,1.0
+seal c,0.4444444444444444
+vehicle,2.973111766564837
+state of mind,1.1111111111111112
+anr,1.1271033322299457
+logic,1.091578947368421
+patrol duty,0.5
+station,1.2515681586858238
+footing,0.6555183946488294
+with seal  b,0.0
+criminal procedure,6.406779661016949
+kumar,2.028839704896043
+presumption,1.06
+stand,1.8422769621739425
+drug,5.000164190132173
+seal bs,0.5
+that the search,1.25
+road towards,0.5
+avtar singh,1.3333333333333333
+judge of the punjab,0.5
+doubt,1.3646267723102583
+essence,0.5974025974025974
+subject to that power,0.5
+years,2.5395804110508022
+arijit,0.9230769230769231
+si chanan singh,0.5
+colours,0.2589928057553956
+report,1.7768151696835826
+application of logic,0.5
+code of criminal procedure,6.120689655172414
+punjab,1.0438169425511197
+health v,0.3333333333333333
+requirement of section,1.5
+colours in different contexts,0.5
+own home,0.25
+party,2.2250894654439723
+gurbax singh v state of haryana manuscmanusc,0.5
+definition,1.6460425937698666
+colour in different contexts,0.0
+backbone,0.22093023255813954
+punjab v baldev singh manuscmanusc,0.5
+requisite mental element,0.5
+possession of such articles,0.5
+factor,1.2878742338904643
+counsel for the respondent-,0.0
+qua non for conviction,0.5
+name of the persons,0.0
+remembrancer of legal affairs,0.75
+baldev singh,2.3333333333333335
+different colours in different contexts,0.5
+gms,0.4063926940639269
+colour,0.48673194267063996
+remembrancer,0.75
+v state,2.4603773584905664
+different fact,1.1428571428571428
+seal cs,0.6666666666666666
+date,6.195616975795285
+- compliance of section,0.0
+gunny bag,3.25
+mithu singh,0.5
+accusation,0.9540526587506452
+reference,2.1755848210276256
+search of the applicant,0.5
+offence,4.401610644257703
+accusations,0.8941176470588235
+word  possession,0.0
+bare reading,0.9285714285714286
+patrol,0.3387096774193548
+presumption of conscious possession,0.5
+default,0.7094574436346588
+question,2.980312372067635
+mithu,0.25
+own fact,0.5761904761904763
+substance in this appeal,0.5
+v state of punjab,1.4848484848484849
+different colours,0.5
+applicable to all situations in the context,0.5
+police station,1.40045766590389
+basi of ruqa exhibit pe,0.0
+road toward,0.5
+compass,0.4085714285714286
+scmanu,7.940520446096654
+word,2.065873981084096
+appellant-megh singh,0.0
+search of premises,0.5
+chapter,1.3867471532446152
+avtar,1.4
+santa singh son of bachan singh,0.5
+case in question,0.6666666666666666
+poppy,2.2222222222222223
+accused person,4.565217391304348
+name,1.8996570753072433
+gurbax,0.5
+high,5.367119186841496
+respondent-,0.0
+v earl,0.5
+v state of himachal,1.0
+event,1.4310854436179261
+custody,1.4166666666666667
+telegram,0.48039215686274506
+property,2.9368986630013745
+dismissal,1.614076246334311
+in-charge,0.0
+primary stand,0.5
+v earl of caithness,0.5
+law,3.538923411654744
+trial court,3.854545454545455
+cases,1.9728229418951067
+accused-appellant megh singh,0.0
+legal right,0.6571428571428573
+megh,1.0
+constitution bench,4.27536231884058
+logical background of sections,0.5
+conviction under section,1.5
+term of section,0.5
+pillu singh,0.5
+non,1.3417336444559675
+affairs,0.8608695652173913
+reading of section,1.3043478260869565
+legality thereof,0.75
+fine of rs,1.6
+right,3.07483248288682
+available in law,0.8
+prosecution,4.619407894736842
+facts of the case,1.161764705882353
+several person,0.6446280991735537
+statutory recognition,0.75
+conscious in the logical background of sections,0.5
+spot,0.778096903096903
+connection,1.050640279394645
+gunny,2.1666666666666665
+sentence before the high court,0.5
+counsel,2.2246780703440323
+application,2.3322596088086445
+haryana manuscmanusc,1.1333333333333333
+drain,0.841025641025641
+personal search,2.0
+different colour,0.5
+labourers,1.1666666666666667
+language of section,1.125
+witnesses,3.359210526315789
+reading,0.9004509191814082
+different colour in different contexts,0.0
+basis of ruqa exhibit pe,0.5
+pradesh manuscmanusc,1.5714285714285714
+accused-appellant that the possession,0.0
+names,1.766440410418311
+lakh with default condition,0.5
+such articles,0.5
+son,4.595622484812135
+evidence,3.6676405172088815
+kiln,0.2857142857142857
+possibility of the accused persons,0.5
+vide report exhibit pk,0.5
+haryana high court,2.1538461538461537
+situation in the context,0.0
+mental element,0.5
+custody without awareness,0.5
+possession aspect,0.5
+substances act,0.8333333333333334
+detail,0.9737454684220567
+compliance,1.0029799914857385
+backbone of adjudication,0.5
+case,7.332269420884958
+difference,0.8774847235514982
+case of personal search,0.5
+weight of bags,0.5
+drugs,2.4423997055576008
+in the logical background of sections,0.5
+affair,0.8341728395061728
+constitution,3.204842342342342
+adjudication,1.5392156862745099
+legal right to possession,0.5
+several persons in the truck,0.5
+co - accused person,0.0
+singh,3.7791111111111113
+madan lal,0.75
+baldev singh s case,0.0
+different meaning,0.48387096774193555
+polymorphous term,0.5
+therefore,2.960332350576253
+element,0.7062328407033122
+contention,1.666391070690368
+other co - accused persons,0.0
+bare reading of section,0.8
+expression  possession,0.0
+report exhibit pk,0.5
+supra,2.246342614440774
+duty,3.2272215973003378
+bench,2.5793391667754992
+kalema tumba v state,0.5
+possession of contraband articles,0.5
+statutory recognition of this position,0.5
+narcotic drug,1.3333333333333333
+husk,1.5079365079365081
+different factual background,0.5
+legality,0.6845938375350139
+maharashtra,2.9076923076923076
+superintendent,1.2698412698412698
+applicant,0.7861822513400833
+possession vide recovery memo exhibit pc,0.5
+baldev,1.8333333333333333
+backgrounds,0.32258064516129037
+notice,2.3300025999395686
+persons in the truck,0.5
+interesting case,0.2777777777777778
+ample evidence,0.2727272727272727
+power,3.8165227690948367
+police,2.9749362629783356
+sentence,2.3896654193264366
+premise,1.2347417840375587
+further ri,0.8
+village dharamgarh in connection,0.5
+examination,2.4920345926263088
+lal,1.6786163249382287
+arrest,1.391895003453834
+lakh,1.3647388059701493
+such bag,0.3333333333333333
+position,1.549133168619177
+vehicles,1.4161490683229814
+one,4.845669314438648
+response,0.7112676056338028
+bags,2.023668639053254
+haryana,2.935064935064935
+consideration,1.9110153789142115
+essence of accusations,0.5
+illicit article,0.5
+chanan,0.37499999999999994
+police station dharamgarh,0.5
+compass of controversy,0.5
+earlier date,0.6000000000000001
+fire arm,1.2
+several peculiar factual aspects,0.5
+plea,1.4430487701432178
+madan,3.9047619047619047
+decision in avtar singh,0.5
+consideration of several peculiar factual aspects,0.5
+relation to a person,0.5
+anil,1.1751552795031055
+chapter iv of the act,0.6666666666666666
+different backgrounds,0.2857142857142857
+co - accused persons,0.0
+judge,2.9012627415183325
+manuscmanusc,7.940520446096654
+right to possession,0.6666666666666666
+sunam,0.2857142857142857
+substance,0.8230581678857541
+word  consciou,0.0
+bag of poppy husk,0.0
+situations in the context,0.5
+conclusion,1.3883437407077015
+fact of the case,0.0
+scenario of the present case,0.6666666666666666
+qua non,1.0
+word  conscious  mean awareness,0.0
+megh singh,2.0
+bachan,2.875
+background,0.6800452488687784
+assistance,0.8623872906826965
+names of the persons,0.8
+special knowledge,3.5
+recovery memo exhibit pc,0.5
+statutes,0.9659824046920822
+possession,2.808810857389056
+appellant,14.387096774193548
+recognition of this position,0.5
+tumba,0.5
+conscious possession,4.5
+requirement,1.2416133333333332
+non-compliance with requirements,0.0
+pillu,1.0
+position in terms,0.5
+high court,7.7477477477477485
+seal b,0.6000000000000001
+memo,1.4242074188165834
+state,6.817996007300392
+statute,2.5765859456247218
+requirements of section,1.5833333333333333
+truck,1.0360124699896083
+deliberate,0.8170731707317074
+official,2.6854955160358718
+note,1.3654108484234107
+state of punjab v baldev singh manu  scmanu  sc,0.0
+trial,3.7979448350459712
+controversy,0.8593204191806921
+pw-,0.0
+record establishes,0.6666666666666666
+manu,7.078142071124147
+kalema tumba v state of maharashtra,0.5
+narcotic,0.7792207792207791
+bag,1.1303125392243003
+kacha road toward,0.5
+language,0.8555828468744352
+criminal case,1.4464285714285714
+co-accused person,0.0
+single,1.6221488419098207
+plea of conscious possession,0.5
+earl,1.7775307797537616
+see,2.8180360783074034
+resemblance,0.3283582089552239
+case property,1.0
+in-charge of police station dharamgarh,0.0
+nature,1.4149926876444778
+logical background,0.3333333333333333
+health,0.8632619439868204
+different meanings,0.47368421052631576
+possibility,0.7613466503601033
+several peculiar factual aspect,0.5
+close similarity,0.6666666666666666
+situation,1.1254754682459434
+sho of police station,0.5
+caithness,0.5
+contraband articles,1.0
+container,0.5
+gunny bags,3.0
+persons,2.5993381990166555
+pronounced in criminal cases,0.5
+trial by the prosecution,0.5

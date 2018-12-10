@@ -1,0 +1,429 @@
+courts,2.1216528162511543
+- examination,0.0
+ran singh,2.526315789473684
+code,2.880559796437659
+high court of punjab,1.2380952380952381
+read with section,2.3513513513513513
+mark,2.700508607198748
+naresh,1.8333333333333333
+sections,1.640495469442838
+eye witnes,1.4333333333333333
+savitri,1.25
+lady member,0.5
+arm,0.9325525916287142
+circumstance of each case,0.0
+statement of the complainant anand singh pw,0.5
+court,12.24425115501509
+improbabilities in the version,0.5
+improbability in the version,0.0
+beating,0.6615720524017467
+eye,0.9466574319441098
+penal code against family members,0.5
+dependent upon the facts,0.5
+person,4.291511329454258
+outcome,0.6303030303030303
+various part,0.48533333333333334
+ors,2.8612718198296623
+inference,1.006741573033708
+behalf,1.9888053603529987
+first information report as such adverse inference deserve,0.5
+court of punjab,1.2380952380952381
+part,5.294464509893076
+complaint under sections,0.6666666666666666
+eye on the women - folk,0.0
+version of anand singh - pw,0.0
+which partap,0.5
+assailant,0.5333333333333333
+number,1.4802651440973922
+of reliance,0.6666666666666666
+hands,1.1725490196078434
+ocular version that the aforesaid persons,0.5
+aforesaid witness,1.3333333333333333
+house,2.0021735292386764
+appeal,3.4125488033856883
+search,1.156007562422583
+inflicted injury on the hands,0.0
+weapon,1.0217176079034398
+motive,0.8973573343546533
+read,2.2147281730888695
+first information report as such adverse inference deserves,0.5
+villagers,1.6111111111111112
+village,1.8429856945085372
+partap son of anand singh pw,0.5
+month,1.3454861111111112
+year,2.8349484769759212
+alia,0.9479866480753792
+statement of eye-witness anand singh-pw,0.0
+judgment,3.288216560509554
+father,1.4298716229162676
+devoid of merit,1.0
+guilt,1.1140207075064712
+ablaze,0.3157894736842105
+order,5.472481489660944
+injury,1.7199352451433856
+family members,1.2631578947368423
+blow,1.6904715887127946
+contusions in the form,0.5
+lady members,0.5
+roop chand with a lathi,0.5
+inflicted injury,0.5
+dr naresh dahiya-pw,0.0
+chance witnes,0.8333333333333334
+accused persons,7.048780487804878
+fire to the house,0.6000000000000001
+partap,3.5
+present at the place of occurrence,0.5
+anand singh pw,2.5
+state of haryana,1.7608695652173914
+member,2.649111111111111
+hour after death,0.0
+section,9.287987283173626
+version,1.0500313479623824
+incident,1.8609485257918057
+fir,2.85390975582079
+water,0.9741079360379036
+periphery of doubt,0.5
+place,2.333104345208554
+circumstance,1.429931390219372
+finding,1.8129183657767178
+towards akhara,1.0
+injury nos,0.5
+injury with weapons,0.0
+learned counsel for the appellants,1.7142857142857142
+investigation,1.6673076923076922
+benefit of doubt,1.8
+indian penal code against family members,0.5
+occurrence,2.1343873517786562
+chandigarh,1.52
+anil alias,1.5
+facts,1.4696673624372698
+best evidence,0.9272727272727272
+injury no,1.0
+fire,1.1391892447477696
+certain circumstance,0.37714285714285717
+aforesaid persons,0.8
+back,1.1362801178713813
+penal code against family member,0.5
+irregularity,2.0
+form,2.4865961263718424
+periphery,0.2647058823529412
+accused appellant,2.8
+partap at the hands,0.5
+fine,1.3204039558531748
+benefit,2.604810195438474
+drawing of an adverse inference,0.5
+women,1.162387410705042
+conviction,2.248165832071736
+- examination of the aforesaid witnesses,0.0
+marks on the front chest,0.5
+adverse inference deserves,0.5
+facts of each case,1.0
+which report,0.5714285714285714
+same day,0.8830188679245283
+certain circumstances,0.37714285714285717
+at the place of occurrence,0.75
+fire on the same day,0.5
+reading of the entire statement,0.5
+truthful witness,0.5
+- edged weapon,0.0
+ground,1.4186722903211633
+ran,4.5009618508419384
+hours after death,0.5
+person of the deceased partap,0.5
+field,1.5820968371729793
+hospital,1.3942768854411434
+lathi mark on the back,0.5
+complainant anand singh pw,0.5
+anand singh,4.666666666666667
+behalf of the appellant,1.4878048780487805
+apparent from statement of eye-witness anand singh-pw,0.0
+appellants,7.701086956521739
+penal,1.8829173709853835
+several lathi blows,0.5
+chest,0.7395639311931632
+opinion,1.4960606342789635
+fact of each case,0.0
+side,3.88845645915565
+wife,1.4518086408500224
+penal code,2.710144927536232
+merit,1.2419290263876248
+chest of partap,0.5
+witness,5.333906623599983
+delay,1.9544910179640715
+record,2.5393414390845273
+information,1.1320502836800534
+grave irregularity,0.5
+version that the aforesaid person,0.5
+defence,1.3606588776096535
+sharp-edged weapon,0.0
+beating by accused sushil,0.5
+right hand,0.6034482758620688
+respect,2.6704963235294117
+full appreciation,0.5
+first,1.9006367208168047
+version of the father,0.5
+haryana  manuscmanusc,0.0
+large number,1.0979284369114877
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+inherent improbabilities,0.6666666666666666
+roop chand,2.3333333333333335
+simple imprisonment for a period,0.8
+jagdish,1.2222222222222223
+anr,1.1271033322299457
+fair trial in the instant case,0.5
+eye witnes to the incident,0.0
+hour,1.1326135248230613
+object,1.4940119760479043
+weapons,1.1105810008481765
+other witnesses,0.7
+appellants under section,1.0
+bawa,0.7407407407407407
+witnes,5.333906623599983
+version after full appreciation,0.5
+accused appellants,3.0
+wife of accused roop chand,1.0
+evil eye,1.0
+doubt,1.3646267723102583
+enmity with accused persons,0.5
+other witness,0.7222222222222222
+jaggo,0.6666666666666666
+report,1.7768151696835826
+punjab,1.0438169425511197
+arms,1.2384993436918101
+villager,1.1733333333333333
+non-examination,0.0
+singh pw,10.125
+haryana at chandigarh,0.875
+pinda with a sword,0.5
+fair trial,2.388888888888889
+inflicted injuries on the hands,0.5
+contusion,0.5
+sushil with sword,0.5
+number of injuries,0.6000000000000001
+son of anand singh pw,0.5
+sword,0.71484375
+family member,1.0924657534246576
+ramesh,1.5798816568047334
+eye witness,1.4333333333333333
+savitri wife,1.0
+injury at the place,0.0
+fields,0.9241650294695481
+ablaze for which report,0.5
+circumstances of each case,1.0833333333333333
+default,0.7094574436346588
+lathi blows,1.75
+day,1.550999710228919
+v jaggo,0.6666666666666666
+question,2.980312372067635
+inflicted injuries,2.75
+information report as such adverse inference deserve,0.5
+life imprisonment,1.2083333333333333
+veterinary hospital,0.5
+inherent improbability,0.0
+scmanu,7.940520446096654
+appeals,1.7060218112849692
+months,1.1938163721148947
+aforesaid person,0.8
+accused-appellant,0.0
+statement,2.5393160135035964
+death on the spot,0.5
+modesty,0.25
+accused person,4.565217391304348
+swords,0.41463414634146334
+place of occurrence,2.6153846153846154
+name,1.8996570753072433
+toward,1.0255939365170768
+first information report,1.9565217391304348
+akhara,1.5
+accused-appellants,0.0
+high,5.367119186841496
+members,1.9437616522164103
+blow of sword,0.0
+sushil,2.0
+evil eye on the lady members,0.5
+injuries at the place,0.5
+for which report,0.5
+learned,3.406323898681099
+eye-witness anand singh-pw,0.0
+inherent improbability in the version,0.0
+interference,0.5733527484528578
+help,0.7217940266720754
+law,3.538923411654744
+trial court,3.854545454545455
+alias bawa,1.5
+nos,1.2635492554198444
+head,1.5827778446537666
+version of anand singh pw,1.0
+allegation,1.834319526627219
+such adverse inference deserves,0.5
+blows of sword,0.5
+left,0.7928189606775855
+actual assailant,0.5
+object like lathi,0.5
+injury with the help,0.0
+case of bahal singh,0.5
+complaint,2.734525785235724
+accused appellants against the judgment,0.5
+trial in the instant case,0.6666666666666666
+hours,1.1644152367043934
+murder,1.4968553459119496
+drawing,0.648159645232816
+fine of rs,1.6
+deceased partap,4.5
+appellant under section,1.4375
+prosecution,4.619407894736842
+version that the aforesaid persons,0.5
+spot,0.778096903096903
+order of sentence,1.0
+imprisonment,1.4344262295081966
+counsel,2.2246780703440323
+parts,0.6609660823170732
+lesson,0.4693877551020409
+simple imprisonment,1.3
+stomach,0.3278443113772455
+witnesses,3.359210526315789
+non-examination of the aforesaid witnesses,0.0
+mark on the front chest,0.0
+reading,0.9004509191814082
+that partap,1.0
+lathi,5.0
+evil eye on the women - folk,0.0
+information report as such adverse inference deserves,0.5
+lathi blow on the person,0.0
+blunt object,1.0
+son,4.595622484812135
+lathi marks,0.5
+accused roop chand,1.0
+from statement of eye - witness anand singh - pw,0.0
+evidence,3.6676405172088815
+blunt object like lathi,0.5
+front chest,0.5
+eye witness to the incident,0.5
+to which partap,0.5
+reliance,1.400763358778626
+adverse inference against the prosecution,0.6666666666666666
+truthful witnes,0.5
+contusion in the form,0.5
+case,7.332269420884958
+period,1.9480170842427122
+injuries with the help,0.5
+lathi blows on the person,0.5
+pinda,0.5121951219512195
+dahiya,1.25
+due to which partap,0.5
+bahal singh,1.0
+singh,3.7791111111111113
+injuries,2.4130008710801394
+information report,2.0
+medical evidence,1.2820512820512822
+folk,0.4504643962848297
+contusions,0.5
+supra,2.246342614440774
+eye on the lady members,0.5
+blows,1.1295731707317074
+chand,1.4868766404199476
+worthy of reliance,0.5
+reliance on bahal singh v state,0.5
+ocular evidence,1.0
+lathis,3.0
+imprisonment for a period,1.375
+finding that the deceased partap,0.5
+body,1.336775463480009
+left of the face,0.5
+chance witness,0.8333333333333334
+bahal singh v state,0.5
+place in the same night,0.5
+woman,1.316528681253696
+anil alia,1.5
+sentence,2.3896654193264366
+modesty of monika,1.0
+examination,2.4920345926263088
+enmity,0.4377104377104377
+adverse inference,3.0833333333333335
+instant case,2.0631578947368423
+medical evidence of dr  naresh dahiya - pw,0.0
+lakhmi,1.25
+life,1.3352928273744242
+large number of injuries,0.5
+improbability,0.6000000000000001
+anil alias bawa,1.5
+of merit,2.5714285714285716
+haryana,2.935064935064935
+consideration,1.9110153789142115
+devoid,0.5094339622641509
+bruise,0.28030303030303033
+multiple bruises,0.5
+aforesaid witnesses,1.3333333333333333
+lady,0.6819258089976322
+air,2.0589664272145285
+others,0.9074667328904616
+last person,0.4444444444444444
+defence evidence,0.6666666666666666
+such adverse inference deserve,0.5
+anil,1.1751552795031055
+ocular version,1.0
+lathi mark on the front chest,0.0
+upon the facts,1.0
+alias jagdish,0.6666666666666666
+lakhmi chand,1.5
+family,1.856281506375408
+deceased partap on various parts,0.5
+improbabilities,0.6666666666666666
+death,2.361592909460208
+manuscmanusc,7.940520446096654
+outcome of the murder,0.5
+women - folk,0.0
+inference against the prosecution,0.6666666666666666
+face,0.7281253260594137
+lathi blow,1.75
+respect to which report,0.5
+anand,1.15
+sandeep,0.6666666666666666
+right side,0.30651340996168586
+evidence of dr  naresh dahiya - pw,0.0
+adverse inference deserve,0.5
+indian penal code,5.264705882352941
+entire statement,0.6666666666666666
+marks,1.4136144754122284
+hand,2.0299623418254717
+same night,0.6000000000000001
+appreciation,0.7282229965156793
+sword on the person,0.5
+various parts,0.4656084656084656
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+accused sushil,1.0
+confidence,0.5942028985507247
+deceased partap at the hands,0.5
+instant,1.131578947368421
+anand singh-pw,0.0
+high court,7.7477477477477485
+complainant,4.538461538461538
+state,6.817996007300392
+indian penal code against family member,0.5
+chance,0.7937084625609215
+trial,3.7979448350459712
+savitri wife of accused roop chand,1.0
+bruises,0.3333333333333333
+multiple bruise,0.5
+manu,7.078142071124147
+interference in the appeals,0.5
+towards akhara in search,1.0
+inherent improbabilities in the version,0.5
+waist,0.4482758620689655
+state of up,2.0784313725490198
+upon the fact,1.0
+ocular version that the aforesaid person,0.5
+bahal,1.6666666666666667
+injuries with weapons,0.5
+several lathi blow,0.5
+night,0.8690610404251893
+lathi marks on the front chest,0.5
+alias,0.7720588235294116
+partap on various parts,0.5
+lathi mark,1.0
+partap son,0.5
+roop,1.2727272727272727
+persons,2.5993381990166555
+monika,1.0

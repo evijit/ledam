@@ -1,0 +1,902 @@
+successive firs,1.0
+void ab-initio,0.0
+findings,1.049571253572887
+court in the case,1.3333333333333333
+respect of an offence,1.0
+raid,0.6079447322970638
+polouse in the first fir,0.0
+case of rama,0.8
+relevant provisions of code,0.5
+code,2.880559796437659
+alleged offence,1.8333333333333333
+awadesh,1.5
+offence for which chargesheet,0.0
+constitution of india,3.0095238095238095
+kishanganj police station,1.5
+more case,0.30000000000000004
+statutory power,1.3846153846153846
+fir in substance,0.5
+revision,1.6299226441631505
+settled principle of law,1.0
+basis of entry,1.5
+filing,1.1274190041313328
+sections,1.640495469442838
+reasons,1.3749054007567938
+terms,2.390350840909655
+meaning,1.8612727545949643
+information to the police,0.6666666666666666
+respect of the case,0.6666666666666666
+akhilesh kumar jha,1.5
+mr akhilesh kumar pandey,0.5
+second fir in respect,1.0
+judicial magistrate,2.7857142857142856
+relevant provision of code,0.0
+court,12.24425115501509
+c muniappan,1.0
+course of investigation,2.2
+declaration,2.152560083594566
+consequence test,0.5
+further evidence,0.8421052631578948
+judge of the high court,1.75
+rise,1.6238941915958565
+same occurrence,2.5
+awadesh kumar jha so,0.5
+in law,1.1088664421997756
+single judge,4.011627906976744
+receipt of information,0.4444444444444444
+following conclusion,0.7200000000000001
+person,4.291511329454258
+alleged offences,2.0
+bail,2.0427807486631013
+way,1.7812722068664852
+correctness,0.8404159132007234
+c muniappan v state of tn,0.5
+learned cjm,5.0
+allegations,1.8333333333333335
+provision of code,0.0
+applications for grant,0.75
+part,5.294464509893076
+behalf,1.9888053603529987
+information in regard,1.25
+different room,0.3333333333333333
+legal contention,2.230769230769231
+ramendra,1.0
+relevant para of the abovesaid case,0.0
+impugned orders,1.2352941176470589
+cross,2.0778316690442225
+pronouncement,0.8197343453510436
+learned cjm in the case,0.5
+connection with the offences,0.5
+punishable under sections,1.6153846153846154
+learned judicial magistrate of first class,3.0
+import of sub - section,0.0
+rival contention,1.1111111111111112
+tulsiram prajapati,1.0
+fir against the appellants,0.5
+flesh trade,0.5
+aspect,1.2449448189023034
+shri,2.0759135877246115
+district,1.5506763074237984
+decisions,1.3888475974580996
+sessions,1.3405714285714285
+fir deals,1.0
+relevant provisions,1.5
+decision,2.9514937765898557
+arvind,1.3749999999999998
+following subsequent decisions of this court,0.5
+offences under the first fir,1.0
+articles,1.4349688743466387
+gravamen of the charges,0.5
+v state of bihar manu  scmanu  sc,0.0
+other person,0.9635036496350365
+reason that the offence,0.5
+permission,1.1531211886018407
+settled principle,1.0810810810810811
+claim,2.817264601856604
+course of same transaction,0.5
+judgment of the bench,0.8888888888888888
+different offences,1.0
+test,2.5329834591340266
+house,2.0021735292386764
+case of fresh investigation,0.5
+v gopala gowda,1.1538461538461537
+rama,0.9438942891859052
+light area,0.5
+correctnes,0.8404159132007234
+chargesheet,2.625
+appeal,3.4125488033856883
+contra,3.550142721217888
+court of judicature,1.4210526315789473
+report under sub-section,0.0
+reports to the magistrate,1.0
+fact situation,1.3333333333333333
+provision of the code,0.5
+mukhiya,0.6666666666666666
+read,2.2147281730888695
+non-reportable judgment,0.0
+more offence,0.5
+sessions judge,2.9545454545454546
+police report,0.5555555555555556
+cognizance of the alleged offences,1.0
+to the fact,0.8902887139107611
+area,2.675167256985439
+expansive power,0.5
+learned single judge,3.4935064935064934
+year,2.8349484769759212
+circumstances of this case,1.1363636363636365
+appellants for the alleged offences,1.0
+rival legal contention,1.75
+judgment,3.288216560509554
+appellant for the offences,0.0
+power of investigation,1.0
+part of same transaction,1.5
+investigation officer,2.0
+bail application,1.6666666666666667
+father,1.4298716229162676
+devoid of merit,1.0
+case for exercise,0.75
+power under section,1.7142857142857142
+order,5.472481489660944
+addres,0.7140043587773987
+act,12.870263922028107
+sub-section,0.0
+new india assurance company,1.4
+which pursuant,0.5
+part of the first fir,0.5
+person for the offences,0.0
+fact situation in the instant case,0.5
+initio,1.5584425036390104
+investigation by the police,0.5
+clas,2.1196191893660425
+first fir deals with offences,0.5
+commission of a cognizable offence,2.3333333333333335
+respect of the offences,0.75
+citizen,1.261748909029876
+patna vide order,0.5
+patna,2.3421052631578947
+completion,1.1868131868131868
+crl,0.6431123461691147
+various provisions of the code,0.6666666666666666
+ranipatti p,0.5
+scheme of code,1.0
+murder of sohrabuddin,0.5
+traffic,1.1556250000000001
+information in respect,1.3333333333333333
+parties,1.8210828547990157
+sonma,0.21666666666666667
+double jeopardy,0.23529411764705885
+opinion under section,1.5
+evident from sub-section,0.0
+objectionable position,0.5
+section,9.287987283173626
+document for the purpose,0.6666666666666666
+more further report,2.0
+expansive power of the police,0.5
+gravamen,0.75
+incident,1.8609485257918057
+fir,2.85390975582079
+ab initio,1.2
+surveyor,1.3968253968253967
+institution of the second fir,0.5
+consequence,0.8726692512593296
+raval,0.5454545454545454
+fir deal with the offences,0.0
+ramanand,1.3333333333333333
+fir deal with offences,0.0
+high court in the impugned order,0.75
+circumstance,1.429931390219372
+finding,1.8129183657767178
+same with a direction to the trial court,0.5
+relevant paras,1.5
+present case,1.5611814345991561
+bare perusal,1.25
+learned counsel for the appellants,1.7142857142857142
+ajit prasad,1.0
+investigation,1.6673076923076922
+judicature,1.4210526315789473
+first fir deal with offences,0.0
+regard,2.723310344827586
+correct names,0.3333333333333333
+cognizance of the offences,1.0
+form of the part,0.5
+minor girl rubana khatun,0.5
+potential witnes to the earlier conspiracy,0.0
+course of the raid,0.5
+ranipatti ps,0.5
+class,2.1508512849922936
+agency,1.8968779259354924
+direction,1.8495050210098996
+perusal,0.750733137829912
+rights,1.6349541930937281
+occurrence,2.1343873517786562
+view that the alleged offences,0.5
+raid in the house,0.5
+fundamental rights,2.1587301587301586
+sweeping power of investigation,0.5
+truth,0.9590230664857531
+first order,0.22727272727272727
+substance of the allegations,0.5
+upkar singh v,0.5
+whereby,0.6100917431192661
+facts,1.4696673624372698
+gram,1.0492542925178592
+issue,2.766776251628934
+para,2.300239586747483
+reading of sub - section,0.0
+correct name,0.3589743589743589
+discharge,1.305219638242894
+of article,2.1149999999999998
+purview,1.0864197530864197
+basi,2.0752712086391383
+form,2.4865961263718424
+rooms,0.5689655172413793
+same cognizable offence,1.5
+perusal of second fir,0.5
+sub divisional police officer,0.5
+relevant to the facts,0.5
+impermissibility,0.3333333333333333
+lordship,1.0416666666666667
+- reportable judgment,0.0
+entry of the first information report,1.5
+session,2.2400874351067563
+judgment of this court,2.1029411764705883
+orders,1.4936359300077826
+relevant para,0.9857142857142858
+telephonic information,0.5
+basis,1.953226441078104
+panchayat,10.0
+final report under section,1.0
+scheme,3.415949119373777
+investigating agency in respect,0.5
+fir in the event,0.5
+father s name,0.0
+sub,7.816899313759727
+course,1.6545957498716626
+case of abuse,0.6666666666666666
+criminal appeal,2.5675675675675675
+case against the appellants,1.0
+more offences,0.5
+magistrate,3.522077922077922
+more report,0.30000000000000004
+charge,2.7679815308681284
+company,5.864471879286695
+leave of the court,3.0
+offences for which chargesheet,0.5
+grounds,0.9540208829455945
+clauses act,2.857142857142857
+law on the issue,0.5
+cognizance,1.728
+furtherance,1.758139534883721
+hence,1.1440732910500353
+officer,3.1197242647058823
+further report,2.5
+charges,2.061307113938693
+ground,1.4186722903211633
+that judgment,0.8444444444444444
+citizens,1.0493208639501226
+purview of sections,0.75
+to the fact situation,1.3
+potential witnes,0.5
+responsible for wrong information,0.5
+hereunder,1.4457142857142857
+first fir deal,0.5
+transaction,5.884921444603142
+second fir against the appellant,0.5
+cros,1.8137948361162648
+impugned judgment,2.0927152317880795
+fir in respect,1.0
+vide order,1.7058823529411764
+merit vide order,0.5
+incidents  occurrences,0.0
+matter,2.8088923076923082
+relation,1.397320207820618
+distinct incidentsoccurrences,0.5
+meantime,0.5833333333333334
+article,4.378806157159795
+learned asg,1.5
+stay,0.7804272356384462
+first clas,0.78125
+madhepura,0.5
+proposition of law,1.0
+police authorities,0.5714285714285714
+criminal,3.301971081989414
+which offence,0.6666666666666666
+term,3.6255105640901575
+revision petitions before the additional sessions judge,0.5
+for wrong information,0.5
+applications,1.0021816198527407
+appellants,7.701086956521739
+penal,1.8829173709853835
+second fir arise,0.5
+view,2.441100058469462
+of merit vide order,0.5
+pronouncements,0.7435344827586207
+first fir,6.086956521739131
+reports,1.0202012199952466
+cross - case,0.0
+confinement,0.37499999999999994
+requirements,0.7375979875979877
+opinion,1.4960606342789635
+vide,4.454025282767798
+station house diary,0.5
+verification,0.9934640522875817
+penal code,2.710144927536232
+awadesh kumar jha,1.5
+merit,1.2419290263876248
+more offences for which chargesheet,0.5
+either investigation,0.5
+brief facts of the case,1.0
+following subsequent decision of this court,0.0
+witness,5.333906623599983
+rival legal contentions,1.75
+khatun,0.6666666666666666
+bihar,4.587301587301587
+record,2.5393414390845273
+procedure,2.552771605064117
+material,1.4148767018946966
+information,1.1320502836800534
+petitions,1.3930830039525692
+antony v state of kerala manuscmanusc,0.5
+polouse,0.0
+provision,5.439002243350069
+second fir deals,0.5
+second fir in the event,0.5
+quashing,0.9915966386554622
+first class,0.78125
+merit in the application,0.6666666666666666
+sohrabuddin,1.0
+first information with regard,0.5
+commission of cognizable offence,0.5
+respect,2.6704963235294117
+respect of the same incident,0.5
+second fir arises,0.5
+fact,3.6284951019474962
+need for the institution,0.5
+learned counsel,3.703333333333333
+registration,2.231365215068127
+strong reliance,1.606060606060606
+fir arise,0.5
+potential witness to the earlier conspiracy,0.5
+subsequent information,1.5
+chaudhary v state of bihar manuscmanusc,0.6666666666666666
+bihar manuscmanusc,1.9655172413793103
+various provisions,1.5789473684210527
+anr,1.1271033322299457
+clauses,1.5486111111111112
+mr  justice,0.0
+chief,1.9429638234317954
+station,1.2515681586858238
+reasoning,0.6478937381404174
+ramananda,0.5
+material on record,1.40625
+criminal procedure,6.406779661016949
+chirra shivraj v state,0.5
+consequence of the offence,0.5
+violative,2.2972972972972974
+citizen under articles,0.0
+application for grant,1.5454545454545454
+kumar,2.028839704896043
+development officer,1.2
+prasad,1.1407089151450054
+gopala,1.4736842105263157
+impugned order,2.265957446808511
+transaction with the alleged offences,0.5
+diary,0.986533041027247
+witnes,5.333906623599983
+sdpo,0.2333333333333333
+sweeping power,0.5
+institution of second fir,1.0
+other word,0.758838674565131
+girl,0.3769911504424779
+second fir deal,0.5
+upon filing,0.6666666666666666
+satisfies,0.5175983436853001
+more cognizable offences,2.0
+rise to a cognizable offence,0.5
+additional,1.4256530253244384
+judicial pronouncement,2.0
+brief facts,1.0
+couple,0.613079287515763
+light,0.8816192372754331
+documentary,0.6730769230769231
+kumarkhand,0.5
+view that the alleged offence,0.5
+years,2.5395804110508022
+firs,1.9289870729834366
+exercise,1.9400726466785694
+chirra,0.30000000000000004
+bureau,0.5022321428571429
+report,1.7768151696835826
+code of criminal procedure,6.120689655172414
+judicial,2.8688059701492543
+principle,1.9620890732001848
+requirement of section,1.5
+rudreshwar,0.5
+paragraphs,0.9552238805970149
+party,2.2250894654439723
+counter - case,0.0
+v central bureau of investigation,0.5
+declaration of law,1.1818181818181819
+proposition,0.6371087928464977
+v central bureau,0.5
+justice,2.292557084574302
+couples in objectionable position,0.5
+therein,1.5503424657534246
+criminal proceedings,2.6818181818181817
+request,1.1474439594584596
+late ramanand,1.5
+reason that the offences,0.5
+xx xx,0.5957446808510638
+balance between the fundamental rights,0.5
+subsequent judicial pronouncement,0.5
+portion of this judgment,0.5
+shah,1.9074421513445903
+v state,2.4603773584905664
+learned counsel on behalf,1.625
+investigation under sub-section,0.0
+view that the offence,0.6666666666666666
+second fir against the appellants,0.5
+potential witness,0.5
+bare perusal of second fir,0.5
+information with regard,1.0
+forms,0.8089941394570028
+impermissible in law,1.2222222222222223
+amitbhai,2.0
+offence,4.401610644257703
+chief justice,4.684210526315789
+respondent,4.757894736842104
+second fir in substance,0.5
+which chargesheet,0.5
+institution,2.7327010745685443
+second fir on the ground,0.5
+further investigation,1.6363636363636362
+fresh investigation on receipt,1.5
+inspector,1.2705882352941176
+offence in respect,0.5
+divisional,1.6233766233766234
+judicial magistrate of first class,3.5
+distinct offence,0.8
+question,2.980312372067635
+same offence,0.6666666666666666
+principles,1.3198511166253102
+aspect of the case,1.4
+import,1.5850112386464603
+girl rubana khatun,0.5
+same transaction with the first fir,0.5
+which offences,0.5
+police station,1.40045766590389
+revision petition vide order,0.5
+scmanu,7.940520446096654
+word,2.065873981084096
+v state of gujarat,1.2424242424242424
+further information,0.9714285714285715
+honble,2.4444444444444446
+permissible in law,1.35
+matter of fact,0.6230936819172114
+need,1.1097650269586634
+other words,0.7578482137053969
+abuse,0.6372486093281985
+claim of the learned asg,0.5
+actual addres,0.5
+revision petitions,0.8
+course of such raid,0.5
+immoral traffic,0.5
+name,1.8996570753072433
+case of amitbhai anilchandra shah,2.0
+first information report,1.9565217391304348
+decision of the learned judicial magistrate,0.5
+reinvestigation,1.0
+code on the basis,0.75
+more reports,0.3333333333333333
+entry,4.707210447678601
+prakash,1.8933333333333333
+various provision,1.5789473684210527
+high,5.367119186841496
+help of tulsiram prajapati,0.5
+following subsequent decision,0.5
+void ab-initio in law,0.0
+narang,0.4
+addres during the course,0.0
+light area of khagaria,0.5
+event,1.4310854436179261
+para of the abovesaid case,0.0
+consequent upon filing,0.5
+investigation on receipt,1.5
+brief fact,1.0
+by this court,3.113861386138614
+phulwari,0.5
+pandey,1.875
+inapplicable to the fact situation,0.5
+case on the first fir,0.5
+case against the appellant,1.1666666666666667
+dismissal,1.614076246334311
+interference,0.5733527484528578
+asg,1.333279948750801
+purpose,2.519170317925504
+help,0.7217940266720754
+balance,0.9863636363636363
+law,3.538923411654744
+trial court,3.854545454545455
+from the offences under the first fir,0.5
+district purnea,0.5
+violation of article,1.2666666666666666
+same by this court,0.5
+time,2.4764180952862667
+aforesaid proposition,0.875
+khalifa,0.5
+application under section,2.8076923076923075
+khagaria,0.6666666666666666
+same fact,0.9375
+revision petition before the additional sessions judge,0.0
+allegation,1.834319526627219
+singh v,1.59375
+different rooms,0.5
+chaudhary,1.4615384615384615
+fir on the ground,0.6666666666666666
+late ramendra prasad,1.0
+akhilesh,2.5
+fir against the appellant,0.5
+red light area,0.5
+satisfy,0.9014141008925886
+actual address,0.5
+behalf of the parties,1.1764705882352942
+gram panchayat sonma,0.5
+inspector of police,2.3076923076923075
+court in the impugned order,0.8
+applicable to the fact situation in the instant case,0.5
+c muniappan v state,0.5
+first fir deals,0.5
+red light area of khagaria,0.5
+complaint,2.734525785235724
+single judge of the high court,1.588235294117647
+whereas,0.7770612954644255
+non,1.3417336444559675
+murder,1.4968553459119496
+wrong information to the investigation officer,1.0
+development officer at new india assurance company,0.5
+grant,1.7314487632508835
+purnea district,0.5
+assurance,0.9418901660280969
+second fir,10.8
+same transaction,1.8095238095238095
+complaint of shri,0.5
+cognizable offence,3.75
+right,3.07483248288682
+address during the course,1.0
+hereinafter,0.7670609645131939
+misc,0.7132772338860931
+facts of the case,1.161764705882353
+brief fact of the case,0.0
+submission of the police report,0.5
+first information,2.130434782608696
+offences,1.6681887366818873
+connection,1.050640279394645
+exception,1.1036946087733006
+fir deals with the offences,0.5
+sisa khalifa,0.5
+reads,0.8722657304887929
+court in exercise,1.28
+anilchandra,2.0
+application,2.3322596088086445
+counsel,2.2246780703440323
+discharge of the offences,0.5
+india,2.7684068260703585
+distinct from the offences under the first fir,0.5
+kishanganj after a perusal,0.5
+purnia,0.5
+authorities,1.266131845134287
+controversy that sub - section,0.0
+continuation of the earlier investigation,1.0
+persons for the offences,0.5
+commission,4.703619179345321
+reading,0.9004509191814082
+kerala manuscmanusc,1.0952380952380953
+second fir deals with the offences,0.5
+respect of which pursuant,0.5
+direction to the trial court,0.5
+sdpo phulwari sharif,0.5
+police in the first fir,0.5
+to the facts,0.7253086419753086
+names,1.766440410418311
+kishanganj,6.5
+question of further investigation,0.5
+new,0.9418497626301229
+view that the offences,0.5
+information to the investigation officer,1.0
+provisions of the code,1.6470588235294117
+reliance upon paras,0.5
+that real name,0.5
+reportable,0.7272727272727273
+submissions,0.5235745614035088
+officer - in - charge of a police station,0.0
+important aspect of the case,1.0
+akbarpur,0.5
+fir in the station house diary,0.5
+cjm,1.0451388888888888
+chirra shivraj v state of ap,0.5
+ltd,2.382356477306883
+conspiracy,8.939203354297694
+submission,1.0913871684001404
+evidence,3.6676405172088815
+document,1.401100265092073
+important aspect,0.5454545454545454
+fir before the additional sessions judge,0.5
+decision of this court,2.3260869565217392
+following subsequent decisions,0.5
+reliance,1.400763358778626
+registration of fresh fir,0.5
+case,7.332269420884958
+emphasi,0.9191619047619048
+dubious document,0.5
+scc,1.941872465904902
+kaladhar,0.5
+order of cognizance,1.0
+arvind kumar singh,1.0
+second fir with the leave,0.5
+furtherance of the first fir,0.5
+consequent,0.9615838143114256
+gravaman,0.0
+criminal revision petition,1.0
+constitution,3.204842342342342
+final report,1.3426573426573427
+singh,3.7791111111111113
+same incident,0.6666666666666666
+subsequent information in respect,1.5
+devoid of merit vide order,0.5
+information report,2.0
+kishanganj in relation,0.5
+portion,1.0756311179804223
+therefore,2.960332350576253
+antony,0.7500000000000001
+further investigation with the permission,0.5
+ramendra prasad,1.0
+rubana,0.5
+case of amitbhai anilchandra shah case,0.5
+ravish kumar,0.6666666666666666
+address,0.7129538279400157
+abovesaid case,0.5
+respondent - state sought,0.0
+contention,1.666391070690368
+general assurance company,0.5
+witness to the earlier conspiracy,0.5
+forwarding,0.6428571428571429
+additional sessions judge,1.7647058823529411
+more cognizable offence,2.0
+proceedings,1.7670925223666287
+identity,0.8835164835164835
+learned sessions judge,2.5
+offence  event,0.0
+appellate jurisdiction,2.769230769230769
+supra,2.246342614440774
+antony v state,0.5
+personal information,0.5161290322580645
+bench,2.5793391667754992
+other persons,0.6111111111111112
+wrong information,1.8000000000000003
+violation,1.2087401208740118
+basis of the evidence,1.3
+violative of article,2.1379310344827585
+transaction with the first fir,0.5
+various ground,1.0555555555555556
+district madhepura,0.5
+leave,1.0147842365477848
+different offence,1.0
+learned additional sessions judge,1.3
+part of the second fir arises,0.5
+important fact,0.5684754521963824
+registration of second fir,1.5
+bail applications,1.5
+party of police authorities,0.5
+investigating agency,2.0625
+shivraj,0.5
+couple in objectionable position,0.0
+case in the first fir,0.5
+power of the police,0.5
+investigation of the case,1.375
+prajapati,1.0
+police authority,1.0
+rival contentions,1.0
+scheme of the provisions,1.3333333333333333
+to the fact situation in the instant case,0.5
+ramananda prasad,0.5
+jha,0.5810012437810946
+chief judicial magistrate,2.230769230769231
+ranipatti,0.5
+late,2.9930933606465375
+high court of judicature,1.4210526315789473
+principle of double jeopardy,0.5
+power,3.8165227690948367
+incidents,0.8645320197044336
+incidents  occurrence,0.0
+merits,0.968421052631579
+officer in respect,0.75
+police,2.9749362629783356
+gravaman of the charges,0.0
+scc pp,1.0
+india assurance company,1.4
+judicial pronouncements,1.8333333333333333
+police officer,1.0366379310344829
+fir arises,0.5
+with a direction to the trial court,0.5
+ved,3.681687917308886
+paras of the abovesaid case,0.5
+investigation with the permission,0.5
+under section,5.374517374517374
+learned judicial magistrate,3.0
+branch purnia,0.5
+same offence  event,0.0
+reason,2.6381270903010035
+instant case,2.0631578947368423
+distinct offences,0.6666666666666666
+deals,1.3395407335280751
+subsequent judicial pronouncements,0.5
+circumstance of this case,0.0
+basi of entry,0.0
+ajit,1.4213709677419357
+from the offence under the first fir,0.0
+position,1.549133168619177
+immoral,0.3524096385542169
+continuation,0.5723370429252783
+strong reliance upon paras,0.5
+petition,5.3436539306104525
+assurance company,0.75
+first fir before the additional sessions judge,0.5
+of merit,2.5714285714285716
+kaladhar jha r  o gram akbarpur,0.0
+witnes to the earlier conspiracy,0.0
+second fir deal with the offences,0.0
+more offence for which chargesheet,0.0
+paragraph,1.2930197483150305
+babubhai,0.6666666666666666
+devoid,0.5094339622641509
+words,1.6384367086179112
+order of dismissal,3.6153846153846154
+successive fir,1.0
+possession of further information,2.0
+ravish,0.6666666666666666
+investigator of all branches,0.5
+court of sessions,1.0
+clause,3.526455026455027
+legal contentions,2.230769230769231
+more further reports,2.0
+confinement of a minor girl rubana khatun,0.5
+others,0.9074667328904616
+statutory power of investigation,0.5
+purnea against the first order,0.5
+receipt,1.5471923536439667
+aforesaid proposition of law,0.5
+appeal with request,0.5
+investigating officer during the course,0.5
+patna in crl,0.5
+couples,0.6355932203389829
+mr rudreshwar singh,0.5
+trade,1.8307706424423558
+first information in regard,1.5
+plain reading,1.173913043478261
+gujarat,3.2753623188405796
+patna for quashing,0.5
+time of investigation,0.5
+prevention,0.6124072110286319
+mr raval,0.6666666666666666
+complaint of arvind kumar singh,0.5
+offence under sections,0.8
+wrong information to the police,0.5
+recourse,0.9157232704402517
+completion of the investigation,0.6666666666666666
+paras,0.7450980392156863
+various provision of the code,0.0
+authority,2.4352627108360636
+judge,2.9012627415183325
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+appellant for the alleged offences,0.0
+other person for the offences,0.0
+substance,0.8230581678857541
+chaudhary v state,0.75
+case at hand,1.0617283950617284
+tenable in law,1.6666666666666667
+development,2.3145884270578647
+report under section,1.75
+late ramananda prasad,0.5
+above discussion,0.9333333333333333
+exceptions,0.6478185993111366
+occupation,1.1158072696534236
+dubious document for the purpose,0.5
+other persons for the offences,0.5
+same transaction with the alleged offences,0.5
+conclusion,1.3883437407077015
+fact of the case,0.0
+ratio,5.027061939235792
+branches,0.5167464114832535
+fresh fir,1.6666666666666667
+appellants for the offences,1.0
+gopala gowda,1.1538461538461537
+provisions of code,0.75
+relevant provision,1.5737704918032787
+honble mr justice,1.5833333333333333
+fresh investigation,4.0
+fit case,1.1578947368421053
+room,0.6950710108604846
+pursuant,0.7227692307692308
+warrant,0.611066164387025
+offence under the first fir,0.0
+completion of investigation,1.3
+impermissibility of registration,0.5
+plain reading of sub - section,0.0
+indian penal code,5.264705882352941
+discharge from the offences,0.5
+muniappan,1.0
+assistance,0.8623872906826965
+magistrate of first class,3.5
+upkar,0.6666666666666666
+occupation in the bail applications,0.5
+hand,2.0299623418254717
+general clauses act,2.857142857142857
+untenable in law,1.4
+under sections,2.1931818181818183
+branch,2.8500288406075756
+sharif,0.40909090909090906
+occurrences,0.25
+jeopardy,0.3231292517006803
+contentions,0.9641025641025641
+possession,2.808810857389056
+such raid,0.5
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+fir deal,1.0
+earlier conspiracy,0.5
+report to the magistrate,1.5
+investigation in the first fir,0.5
+various grounds,1.0555555555555556
+citizens under articles,0.75
+tulsiram,1.0
+requirement,1.2416133333333332
+kerala,4.135593220338983
+earlier investigation,1.5
+high court,7.7477477477477485
+gowda,1.2142857142857142
+wherea,0.8062806257067471
+further reports,2.0
+flesh,0.425
+state,6.817996007300392
+principle of law,1.1538461538461537
+requirements of section,1.5833333333333333
+jurisdiction,2.9539571926331507
+such further investigation,0.5
+trial,3.7979448350459712
+deal,2.1942302694273583
+controversy,0.8593204191806921
+officer in charge,1.4000000000000001
+which strong reliance,1.0
+officer - in - charge,0.0
+manu,7.078142071124147
+general,1.7536558414534391
+purnea,4.0
+central,2.61875
+relevant paras of the abovesaid case,0.5
+fir with the leave,0.5
+investigating officer,3.2580645161290325
+revision petition,2.6363636363636362
+counter,1.0576470084371923
+course of the same transaction,1.6666666666666667
+from sub - section,0.0
+amitbhai anilchandra shah case,0.5
+emphasis,0.8024289099526066
+single,1.6221488419098207
+investigation officer on the ground,0.5
+discussion,0.7445831166579996
+offences in respect,0.5
+fundamental right,2.9790209790209787
+amitbhai anilchandra shah,2.0
+situation,1.1254754682459434
+criminal proceeding,2.9166666666666665
+basi of the evidence,0.0
+fir deals with offences,0.5
+late kaladhar jha ro gram akbarpur,0.5
+investigator,0.22807017543859645
+sisa,0.32
+forwarding of further report,0.5
+kumar singh,1.2727272727272727
+persons,2.5993381990166555
+fit case for exercise,0.6666666666666666
+distinct incidentsoccurrence,0.5

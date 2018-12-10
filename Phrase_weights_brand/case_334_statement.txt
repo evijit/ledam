@@ -1,0 +1,351 @@
+service tax,0.8333333333333334
+insofar,0.9295774647887324
+prices,0.9771470160116448
+places in the country,0.5
+dealerswitnesses,0.5
+mind,1.1559066143122394
+ply-wood,0.0
+tekriwal,0.5
+custom,1.8742070505069293
+viz,0.7732570026579433
+reasons,1.3749054007567938
+truthfulnes,0.6000000000000001
+factory premises in south andamans,0.5
+court,12.24425115501509
+declaration,2.152560083594566
+which sales,0.6666666666666666
+buyers,1.0235690235690234
+wood,0.4294193744768282
+price at which sales,0.5
+show,1.5002130552117363
+cause,1.8431210321626654
+correctness,0.8404159132007234
+laxmidas,1.0
+nullity,1.8235294117647058
+tribunal with the directions,0.5
+ply-woods,0.0
+cross,2.0778316690442225
+bombay,2.3134020618556703
+dealer,2.712825585229146
+basis of the impugned order,0.5
+depots,2.142857142857143
+same over a period of time,0.5
+present appeal,1.3424657534246576
+sales to depots,0.5
+number,1.4802651440973922
+subject matter,1.2537313432835822
+decision,2.9514937765898557
+aforesaid,2.592896174863388
+dealers,1.3270142180094788
+correctnes,0.8404159132007234
+appeal,3.4125488033856883
+flaw,0.4131455399061033
+good,2.6154941054299674
+opportunity of cross - examination,0.0
+gues,0.6092169191197485
+excise duty,5.818181818181818
+justifications,0.25471698113207547
+price for the purposes,0.5
+judgment,3.288216560509554
+time to time,1.0211267605633803
+various dealer,0.3333333333333333
+order,5.472481489660944
+head office,4.457142857142857
+act,12.870263922028107
+buyer,1.8515283842794759
+central excise rule,1.4444444444444444
+transportation cost,0.5
+different place,0.34239130434782605
+ex-factory,0.0
+dealerswitness at the price,0.0
+list,4.014941314095513
+panchmati,0.5
+sales,2.89512876202296
+delivery,1.3054726368159204
+order nullity,0.5
+section,9.287987283173626
+ex - factory price,0.0
+appellate,2.561224489795918
+judgments,1.2355646397547266
+appeal on merits,0.8333333333333334
+matter of cross - examination,0.0
+tax,3.549237288135593
+related products,0.21875
+place,2.333104345208554
+other dealer,0.3111111111111111
+following manner,0.5555555555555556
+adjudicating,1.8636363636363635
+investigation,1.6673076923076922
+commissioners orders,0.5
+direction,1.8495050210098996
+aforesaid show cause notice,0.75
+perusal,0.750733137829912
+extraction,0.5028571428571429
+andamans,2.5
+other places,0.5
+basi,2.0752712086391383
+justification,0.6859587020648967
+earlier occasion,1.0
+serious flaw,0.5
+statement of the aforesaid,0.5
+ex - factory sale price,0.0
+cost,1.2954397451466992
+orders,1.4936359300077826
+basis,1.953226441078104
+depots of the assessee,1.0
+directions,1.5134125183504605
+factory premises,1.6666666666666667
+factory premise,1.6666666666666667
+support of this proposition,0.8
+grounds,0.9540208829455945
+central excise rules,1.4444444444444444
+- assessee,0.0
+country,1.2903191103863751
+factory premise in south andamans,0.0
+further appeal,1.1666666666666667
+value for the purpose,1.0
+ground,1.4186722903211633
+such opportunity,0.8571428571428571
+normal ex - factory sale price,0.0
+opportunity,0.946186440677966
+cros,1.8137948361162648
+matter,2.8088923076923082
+south,0.8254159150130287
+subject matter of cross - examination,0.0
+number of judgments,0.8
+price,2.8302710227712162
+most of the sales,0.3333333333333333
+provision of section,1.4827586206896552
+violation of principles,0.6666666666666666
+portion of the products,0.5
+price by virtue,0.5
+view,2.441100058469462
+plea of no cross - examination,0.0
+opinion,1.4960606342789635
+bamboo,0.30000000000000004
+case since the examination,0.5
+remarks,0.4772727272727273
+sri sreeram tekriwal,0.5
+merit,1.2419290263876248
+calcutta,1.6022727272727273
+examine,1.6547910566941708
+witness,5.333906623599983
+appellant - assessee,0.0
+material,1.4148767018946966
+defence,1.3606588776096535
+central excise act,2.4285714285714284
+provision,5.439002243350069
+support,0.8630946786249609
+numerous depots,0.5
+provisions of section,2.762376237623762
+perusal of the order,1.0
+premises,1.290983606557377
+fact,3.6284951019474962
+witness by the adjudicating authority,0.0
+major portion,0.45000000000000007
+assessee,15.925925925925926
+note of the plea,0.5
+department,1.9858367499068206
+woods,0.299512987012987
+mr kavin,0.5
+only basis,0.5
+dealerswitnesses at the price,0.5
+appeal against the aforesaid order,0.5
+kumar,2.028839704896043
+demand,1.5671679197994988
+impugned order,2.265957446808511
+brothers,0.9570135746606334
+ex - factory sale,0.0
+work,2.8478559811646353
+extent,1.410108024691358
+santosh,1.3333333333333333
+defences,1.1904761904761905
+different places,0.33749999999999997
+principle,1.9620890732001848
+adjudicating authority,2.5
+virtue,0.9167557066537153
+excise rules,1.4444444444444444
+mind that the order,0.5
+sri,1.1524741891017525
+opportunity to the assessee,0.6666666666666666
+proposition,0.6371087928464977
+period of time,0.5706521739130435
+laxmida,1.0
+justice,2.292557084574302
+truthfulness,0.6000000000000001
+correctness of the statements,1.0
+cross-examination,0.0
+of the sales,0.4800000000000001
+revenue,1.486701237872198
+per,7.977753416636086
+testimony,1.4407553107789142
+factory at south andamans,1.0
+depot,1.0119047619047619
+respondent,4.757894736842104
+place of factory,0.5
+sale,3.3662581620085734
+various defencesjustifications,0.5
+principles,1.3198511166253102
+dealerswitness,0.5
+manner-,0.0
+assessee that the normal ex - factory sale price,0.0
+other place,0.4742268041237113
+statement,2.5393160135035964
+price for the purpose,1.0
+numerous depot,0.5
+customs,1.9344608879492597
+delivery basi in comparison,0.0
+brother,1.4566585956416465
+natural justice,2.6666666666666665
+place in the country,0.0
+price of the goods,0.75
+aforesaid plea,0.5
+that rejection,0.5
+related product,0.21875
+factory,1.1501182033096926
+insofar as the plea,0.5
+normal price by virtue,0.5
+defences  justification,0.0
+purpose,2.519170317925504
+head,1.5827778446537666
+time,2.4764180952862667
+same ground,0.4800000000000001
+demand in the show cause notice,0.5
+defences  justifications,0.0
+rejection,0.7335907335907336
+statement of those witnesses,0.0
+laxmidas brother,0.5
+other dealers,0.2857142857142857
+mahendra,0.3333333333333333
+right,3.07483248288682
+hereinafter,0.7670609645131939
+transportation,0.4525862068965517
+appeal of the assessee,1.1666666666666667
+correctnes of the statements,0.0
+levy,3.3133874239350907
+ex - factory prices,0.0
+percent,0.7207207207207208
+counsel,2.2246780703440323
+certain buyers,0.5
+witnesses,3.359210526315789
+rules,3.130914366958792
+andaman,2.5
+truthfulnes of the statements,0.0
+flat,2.2950575421290584
+sri mahendra laxmidas panchmati,0.5
+ex-factory prices,0.0
+lot of price difference,0.5
+levy of excise duty,2.2
+price difference,0.2777777777777778
+cent,2.4795666588956498
+statements of those witnesses,0.5
+submissions,0.5235745614035088
+submission,1.0913871684001404
+mr k,0.8732876712328766
+excise,4.429175475687103
+basi of the impugned order,0.0
+case,7.332269420884958
+difference,0.8774847235514982
+period,1.9480170842427122
+sreeram,1.0
+normal price,2.3333333333333335
+various dealers,0.3333333333333333
+different place in the country,0.0
+cross - examination,0.0
+declaration under  rule,0.0
+purposes,1.4391216613438835
+partner of ms,1.0
+statements,1.110873440285205
+service,4.257395095954566
+portion,1.0756311179804223
+rule,5.04
+south andaman,2.5
+decision of the tribunal,1.5454545454545454
+proceedings,1.7670925223666287
+favour,1.653145208700764
+duty,3.2272215973003378
+violation,1.2087401208740118
+civil appeal,2.2413793103448274
+guess work,0.4444444444444444
+office,3.5913445886237847
+depot of the assessee,0.0
+costs,0.8167395522604189
+over a period of time,0.6000000000000001
+truthfulness of the statements,0.5
+various defencesjustification,0.5
+excise rule,1.4444444444444444
+goods,4.7578125
+commissioners order,0.75
+notice,2.3300025999395686
+south andamans,2.5
+merits,0.968421052631579
+premise,1.2347417840375587
+ex-factory price,0.0
+examination,2.4920345926263088
+that basis,0.6886956521739132
+elt,0.9685135464974371
+that rejection of this plea,0.5
+reason,2.6381270903010035
+factory at bamboo,0.5
+witnesses by the adjudicating authority,0.5
+guess,0.5930754051306585
+sale to depots,0.0
+appellant case,0.5
+consideration,1.9110153789142115
+radhakrishnan,6.4
+plea,1.4430487701432178
+commissioner,2.271608643457383
+value,1.7137907830478438
+customer from the depots,0.0
+customer,1.993717277486911
+places,0.8371884824384251
+remark,0.5091064757160647
+others,0.9074667328904616
+that basi,0.6481481481481481
+reply,1.0337305560040906
+major portion of the products,0.5
+sreeram santosh kumar,0.5
+court in civil appeal,1.1111111111111112
+laxmidas brothers,0.5
+of the sale,1.7320261437908497
+certain buyer,0.5
+authority,2.4352627108360636
+provisions,3.8929824561403508
+delivery basis,1.0
+aforesaid order,1.2857142857142858
+material with the department,0.5
+gulati,3.8684625652226665
+price list,0.9074074074074076
+appellant case since the examination,0.5
+delivery basis in comparison,0.5
+partner,4.163434903047091
+products,1.6079404466501241
+ex-factory at south andamans,0.0
+show cause notice,2.9565217391304346
+only basi,0.4
+occasion,0.7946745562130177
+possession,2.808810857389056
+excise act,2.2941176470588234
+appellant,14.387096774193548
+respondent - revenue,0.0
+product,2.242984858429713
+note,1.3654108484234107
+subject matter of the cross - examination,0.0
+central,2.61875
+which sale,0.75
+delivery basi,1.0
+price list of the assessee,0.5
+kavin,0.5
+matter of the cross - examination,0.0
+appellate tribunal,4.2105263157894735
+tribunal,5.07183212267958
+commissioners,1.5384615384615383
+are-,0.0
+comparison,0.7333333333333333
+customers from the depots,0.5
+action,3.127292663476874
+senior counsel,2.2857142857142856
+plea in the following manner,0.5
+customers,1.646655231560892
+favour of the assessee,1.7142857142857142
+different places in the country,0.5

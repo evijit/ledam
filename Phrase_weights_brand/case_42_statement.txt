@@ -1,0 +1,381 @@
+aid of the statutory presumption,0.5
+misconduct by a public servant,0.6666666666666666
+mohiuddin,0.5
+evening,0.5274557657107993
+servant obtains,2.0
+read with section,2.3513513513513513
+ram krishan,0.5
+sections,1.640495469442838
+position of statutory presumption,0.5
+meaning,1.8612727545949643
+writer,0.9196082055072999
+instance,0.9469803370786518
+solicit payment of a bribe,0.5
+circumstance of each case,0.0
+sub-clause,0.0
+interest,2.74353772015385
+court,12.24425115501509
+meaning of word,0.6000000000000001
+- in default,0.0
+initiative vest,0.5
+oclock,0.2614678899082569
+person,4.291511329454258
+way,1.7812722068664852
+behalf,1.9888053603529987
+advantage without any public interest,1.3333333333333333
+part,5.294464509893076
+requisite for an offence,0.5
+office as the public servant,0.5
+proof o,0.9188861985472155
+cross,2.0778316690442225
+app,13.318287960869865
+court dealt,1.7857142857142858
+punishable under sections,1.6153846153846154
+respect of offences,0.75
+police chowki,0.5
+decision,2.9514937765898557
+regard to the conviction,1.0
+aforesaid,2.592896174863388
+other person,0.9635036496350365
+advantage by either corrupt,0.5
+public servant obtain,2.0
+shorter,0.5389718076285241
+appeal,3.4125488033856883
+points of demand,0.5
+behalf of appellant,1.0909090909090908
+default of payment,1.1111111111111112
+scr,2.483838975311538
+motive,0.8973573343546533
+read,2.2147281730888695
+money in the handkerchief,0.5
+servant obtain,2.0
+month,1.3454861111111112
+year,2.8349484769759212
+counsel mr,1.9230769230769231
+judgment,3.288216560509554
+punishable under section,3.081081081081081
+senior counsel mr,1.75
+court dealt with section,1.0
+acceptance of the bribe,0.5
+handkerchief,0.30000000000000004
+order,5.472481489660944
+act,12.870263922028107
+sub-section,0.0
+effort on the part,0.5454545454545454
+towards toilet,0.5
+ingredients,0.7539893617021276
+clas,2.1196191893660425
+idea,0.5945499587118084
+effect,2.184583388478191
+court dealt with similar clause,0.5
+manner,1.4494591333432125
+toilet,0.39308176100628933
+mere acceptance,0.75
+departure in the language,0.5
+oxford,0.4874746106973595
+apparent that the trial court,0.5
+section,9.287987283173626
+ahmedabad,2.55
+much stress,0.37037037037037035
+prosecution version on demand,0.5
+version,1.0500313479623824
+january,0.8699641577060931
+servant,2.030552291421857
+relevant part,0.8979591836734694
+mere acceptance of money,0.5
+krishan,1.2
+circumstance,1.429931390219372
+civil,2.126558634963905
+present case,1.5611814345991561
+mean,2.390645692553228
+regard,2.723310344827586
+idea of acceptance,0.5
+reward,0.8099433606041535
+context,0.9269383697813122
+evidence of panch,0.5
+class,2.1508512849922936
+money from the complaint,0.5
+money,1.6567889044524557
+advantage by corrupt,0.5
+story,0.755772533184814
+facts,1.4696673624372698
+issue,2.766776251628934
+similar provisions under the prevention,0.5
+days,1.6721350893491447
+fine,1.3204039558531748
+criminal misconduct by a public servant,0.6666666666666666
+court with regard,0.8571428571428571
+hence with regard,0.5
+petitioner,4.524972253052164
+conviction,2.248165832071736
+on the bag,0.3333333333333333
+sub,7.816899313759727
+criminal appeal,2.5675675675675675
+damodaran nair v govt,0.5
+element of effort,0.5
+overlapping of offences,0.5
+initiative vests in the person,0.5
+hence,1.1440732910500353
+that judgment,0.8444444444444444
+cros,1.8137948361162648
+impugned judgment,2.0927152317880795
+person under section,0.8
+matter,2.8088923076923082
+proof,1.0648141580366008
+stress,0.5011072445428663
+state of delhi,0.6666666666666666
+criminal,3.301971081989414
+view,2.441100058469462
+aid,5.498621453008654
+obtainment,1.0
+ingredient,1.2242798353909468
+bribe,0.95
+valuable thing of pecuniary advantage,0.5
+background of aforesaid,0.5
+witness,5.333906623599983
+prosecution version,2.7142857142857144
+result,1.3356630184144715
+that the trial court,1.2941176470588236
+record,2.5393414390845273
+polouse,0.0
+relevant part of the evidence,1.0
+provision,5.439002243350069
+city,2.544592792669584
+obtains,1.0825396825396827
+pecuniary advantage,8.25
+pwwe,0.3333333333333333
+stres,0.5060879263872107
+respect,2.6704963235294117
+provision under the prevention,0.0
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+learned counsel for the petitioner,1.3214285714285714
+departure,0.6451612903225807
+evidence on record,2.7906976744186047
+anr,1.1271033322299457
+offence of criminal misconduct,1.0
+special,1.7363344051446945
+that part of the judgment,0.8
+position as a public servant obtains,1.0
+which much stress,0.5
+primary requisite,0.5
+demand,1.5671679197994988
+main ingredient,0.6666666666666666
+presumption,1.06
+following order,0.5647058823529412
+impugned order,2.265957446808511
+witnes,5.333906623599983
+chowki,1.2857142857142858
+points,0.7095682483711788
+doubt,1.3646267723102583
+advantage by way,0.5
+public servant,4.65
+prosecution party,0.5
+party,2.2250894654439723
+miscellaneous day for final hearing,0.5
+delhi,2.6089285714285717
+irrespective of motive,0.5
+petitioner under section,1.2
+evidence of pw pandaya,0.5
+cross-examination,0.0
+request,1.1474439594584596
+either corrupt,0.5
+shailesh devshankar panda,0.5
+shah,1.9074421513445903
+v state,2.4603773584905664
+means obtain,0.6666666666666666
+means obtains,0.6666666666666666
+damodaran,0.5
+offence,4.401610644257703
+hearing,0.9644508209787979
+govt,0.7017766497461929
+learned app,1.0
+circumstances of each case,1.0833333333333333
+overlapping,0.48275862068965525
+affirmation from the complainant,0.5
+default,0.7094574436346588
+receiver,1.266211604095563
+day,1.550999710228919
+available for the offence,0.5
+obtain for any person,0.0
+admission hearing,0.5
+scmanu,7.940520446096654
+word,2.065873981084096
+view of the matter,1.7142857142857142
+vests,0.7007818052594171
+step,0.8867024753460084
+panch,6.911111111111111
+months,1.1938163721148947
+amount,3.179688593072295
+proof that the public servant,0.5
+statement,2.5393160135035964
+that part,0.9543770509156346
+case of obtainment,0.5
+similar provisions,1.0
+vest,2.5867992501903814
+high,5.367119186841496
+payment,2.059553716565686
+criminal misconduct,1.6666666666666667
+clas of cases,0.0
+primary requisite for an offence,0.5
+trial court,3.854545454545455
+civil court,3.706666666666667
+obtains for any person,1.0
+time,2.4764180952862667
+cases,1.9728229418951067
+affirmation,0.5653021442495126
+conviction under section,1.5
+provisions under the prevention,0.5
+complaint,2.734525785235724
+fine of rs,1.6
+appellant under section,1.4375
+class of cases,0.5
+hereinafter,0.7670609645131939
+legal position,0.7659574468085106
+prosecution,4.619407894736842
+pecuniary advantage by corrupt,0.5
+offences,1.6681887366818873
+devshankar panda,0.5
+imprisonment,1.4344262295081966
+pw pandaya,0.5
+public interest,2.380434782608696
+ipc,2.785166240409207
+counsel,2.2246780703440323
+india,2.7684068260703585
+position as public servant,2.0
+rigorous imprisonment,1.9230769230769231
+acceptance,1.4762112614578786
+appellant for the offence,1.0
+dictionary meaning,1.5
+evidence,3.6676405172088815
+corruption act,1.75
+threat,1.0459885867740852
+coercion,1.0153846153846156
+obtain,1.239941067834243
+point of demand,0.0
+dictionary meaning of word,0.5
+dictionary,0.7964252553389043
+ingredient of sub - clause,0.0
+case,7.332269420884958
+requisite,0.7788359788359789
+pandaya,0.75
+much stres,0.37037037037037035
+pecuniary advantage by either corrupt,0.5
+ram,2.11096203538064
+valuable thing,2.857142857142857
+illegal mean,1.6666666666666667
+evidence of pw,4.88
+prosecution case,4.258064516129032
+element,0.7062328407033122
+similar provision,1.25
+contention,1.666391070690368
+favour,1.653145208700764
+that context,0.6351606805293006
+office,3.5913445886237847
+prevention of corruption act,1.8
+leave,1.0147842365477848
+maharashtra,2.9076923076923076
+conviction of the petitioner,1.0
+court of gujarat,2.3076923076923075
+demanded money,0.6666666666666666
+high court of gujarat,2.3076923076923075
+point,2.9165043546008516
+disfavour,0.6666666666666666
+offence under section,2.6
+bribe by threat,0.5
+admission,1.5389848246991107
+position as a public servant,2.0
+notice,2.3300025999395686
+which much stres,0.5
+india manuscmanusc,1.8333333333333333
+ahmedabad by judgment,0.5
+police,2.9749362629783356
+steps,1.169318181818182
+result of request,0.5
+high court with regard,0.75
+nair,0.5064935064935066
+examination,2.4920345926263088
+acceptance of money,0.5
+under section,5.374517374517374
+effort,0.7536036036036036
+for the offence,2.3055555555555554
+initiative vests,0.5
+position,1.549133168619177
+thing of pecuniary advantage,0.5
+petition,5.3436539306104525
+devshankar,0.5
+pecuniary advantage by way,0.5
+consideration,1.9110153789142115
+statutory presumption,1.0
+part of the evidence,1.3333333333333333
+words,1.6384367086179112
+clause,3.526455026455027
+prosecution case on main ingredients,0.5
+final hearing,1.0
+gratification,0.64
+main ingredients,0.6666666666666666
+time of admission hearing,0.5
+initiative,0.3346007604562738
+act unlike an offence,0.5
+gujarat,3.2753623188405796
+panda,0.7986406117247238
+misconduct,1.2976744186046512
+prevention,0.6124072110286319
+legislature,2.818553268765133
+judge,2.9012627415183325
+provisions,3.8929824561403508
+corruption,0.9432672590567327
+that complainant,0.8333333333333334
+similar clause,0.5
+conclusion,1.3883437407077015
+face,0.7281253260594137
+illegal means obtains,0.6666666666666666
+such thing,0.5289085545722715
+advantage,1.1441364159430905
+anand,1.15
+background,0.6800452488687784
+shailesh,0.28571428571428575
+non- miscellaneous day for final hearing,0.0
+under sections,2.1931818181818183
+position as a public servant obtain,1.0
+amount by corrupt,0.5
+iii,1.5614499719992534
+sense,0.8606303395157362
+contentions,0.9641025641025641
+means,1.3868295182781003
+no doubt,0.8331331503088538
+other evidence,1.0434782608695652
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+pocket,0.5186074429771909
+of motive,0.6000000000000001
+non- miscellaneous day,0.0
+special judge,2.375
+public servant obtains,2.0
+high court,7.7477477477477485
+complainant,4.538461538461538
+miscellaneous day,0.75
+corrupt,1.428343949044586
+state,6.817996007300392
+illegal gratification,1.2
+trial,3.7979448350459712
+manu,7.078142071124147
+bag,1.1303125392243003
+similar provision under the prevention,0.0
+language,0.8555828468744352
+order appellant,0.6666666666666666
+man,6.972395052694935
+office as a public servant,1.0
+v state of maharashtra manuscmanusc,1.3125
+maharashtra manuscmanusc,1.3529411764705883
+amount from the complainant,1.0
+acceptance of the amount,0.5
+something,0.5915378827342709
+illegal means,1.6666666666666667
+illegal means obtain,0.6666666666666666
+initiative vest in the person,0.0
+solicit payment,0.5
+pecuniary advantage without any public interest,1.3333333333333333
+same on the bag,0.5
+thing,1.1131787570209408
+part of the receiver,1.0

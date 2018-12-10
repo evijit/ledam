@@ -1,0 +1,309 @@
+till after result,0.5
+counting agent,1.3333333333333333
+votes-,0.0
+pre,6.408342692122574
+results of the election,0.6666666666666666
+necessary till,0.5
+declaration of the result,0.8333333333333334
+candidate,6.356675392670156
+point,2.9165043546008516
+government,3.5583785424010483
+count,2.7493281810130092
+to the tribunal,3.0714285714285716
+compilation,0.36904761904761907
+result sheets,1.0
+open to the tribunal,0.6666666666666666
+cost,1.2954397451466992
+sub - divisional officer rule,0.0
+other point,0.4927536231884058
+scmanu,7.940520446096654
+view of the matter,1.7142857142857142
+on merits,1.9830508474576272
+writ,2.8882378560889794
+basis,1.953226441078104
+avam gram swaraj adhiniyam,0.5
+panchayat,10.0
+appeals,1.7060218112849692
+completion thereof,1.0
+panch,6.911111111111111
+step,0.8867024753460084
+decision of the high court,1.24
+february,0.8575630252100839
+power,3.8165227690948367
+first apply,0.0
+on merit,1.9852941176470589
+provisions of the mp,0.6666666666666666
+recounting of votes,1.0
+booth,0.39603960396039606
+vote,4.2642709347614405
+merits,0.968421052631579
+prohibition,1.9087256027554533
+election officer,2.2
+same on merits,0.5
+sub,7.816899313759727
+adhiniyam,7.6
+essential pre condition,0.5
+reasons,1.3749054007567938
+correctness of the ratio,1.0
+toto,0.6391347099311702
+sub-divisional officer,0.0
+zila panchayat,1.0
+arithmetical mistakes,0.5
+declaration of results,1.0
+officer on receipt,0.5
+agents,0.7901234567901235
+counting,1.8366107576633892
+grounds,0.9540208829455945
+high,5.367119186841496
+order of the sub - divisional officer,0.0
+station of the concerned constituency,0.5
+consultation,1.1724137931034484
+reservation,2.6876587100050786
+sub-rule,0.0
+candidate under sub - rule,0.0
+reason,2.6381270903010035
+court,12.24425115501509
+officer,3.1197242647058823
+ram rati s case,0.0
+declaration,2.152560083594566
+file,1.3720673638585223
+amendment,2.2486412346818434
+result of the election,4.0
+basis of ram rati,0.5
+case of smt,0.5
+ground,1.4186722903211633
+second recount,0.5
+member of janpad panchayat,1.0
+necessary after such recount,0.5
+such recount,1.5
+ex - parte order,0.0
+petition,5.3436539306104525
+writ petition,6.24223602484472
+writ petition in the high court,0.9166666666666666
+candidate contesting,1.25
+ors,2.8612718198296623
+remedy,1.3214024835646458
+other points,0.5
+state government in consultation,0.5
+purpose,2.519170317925504
+officer for recount,1.5
+cause,1.8431210321626654
+correctness,0.8404159132007234
+panchayat raj,0.6666666666666666
+impugned judgment,2.0927152317880795
+ram rati,3.0
+opportunity,0.946186440677966
+sarpanch,6.5
+part,5.294464509893076
+result sheet,3.0
+polling,0.6666666666666666
+largest number,0.6000000000000001
+matter,2.8088923076923082
+state election commission,0.5
+necessary till after result,0.5
+available to the appellant,0.875
+election petition before the sub - divisional officer,0.0
+obvious error,0.6666666666666666
+plea,1.4430487701432178
+roll,1.7278932172102048
+electoral roll,19.8
+devi,1.2339221178171305
+briefly,0.5805159028299525
+number,1.4802651440973922
+recount of votes-,0.0
+elections,2.0254335260115606
+view,2.441100058469462
+after such recount,0.5
+further empowers,0.5
+decision,2.9514937765898557
+arithmetical mistake,0.5
+post,2.344803646492219
+receipt,1.5471923536439667
+result sheets in form,0.5
+candidate contesting for a seat,0.5
+merit,1.2419290263876248
+election agent,2.1666666666666665
+judges of this court,1.4782608695652173
+seat,2.8245469748060423
+janpad panchayat,1.0
+correctnes,0.8404159132007234
+appeal,3.4125488033856883
+election for the post,0.5
+ground that the appellant,1.0
+preparation,1.299145299145299
+empowers,0.8708708708708708
+right,3.07483248288682
+total member of votes,0.5
+hereinafter,0.7670609645131939
+act empowers,0.875
+aggrieved party,1.25
+result,1.3356630184144715
+authority,2.4352627108360636
+judge,2.9012627415183325
+sheet,1.1667364016736401
+provisions,3.8929824561403508
+scr,2.483838975311538
+manuscmanusc,7.940520446096654
+first applies,0.5
+view of section,1.5
+constituency,3.7333333333333334
+election,6.758005637447438
+prohibition in the act,0.5
+conduct,1.5998023165163158
+march,1.0644238856181665
+read,2.2147281730888695
+only remedy,1.6
+officer for compilation,0.5
+favour of respondent,1.3333333333333333
+certificate,2.732600732600732
+announcement,2.2524167561761548
+absence,1.092363454568179
+such other officers,0.5
+stage,1.1298537871524448
+application,2.3322596088086445
+judge bench,2.8472222222222223
+basi of ram rati,0.0
+provision,5.439002243350069
+sub - divisional officer,0.0
+parts,0.6609660823170732
+judge of this court,1.1428571428571428
+at the completion thereof,0.5
+recount,2.3684210526315788
+parte,0.7168042010502624
+certificate showing,1.6666666666666667
+commission,4.703619179345321
+rules,3.130914366958792
+ratio,5.027061939235792
+judgment,3.288216560509554
+application for a recount,0.5
+ballot,1.184
+respect,2.6704963235294117
+counting of the votes,1.6666666666666667
+ballot paper,4.75
+member of votes,0.5
+services,1.6850241065659326
+judges,2.0931496919173616
+fact,3.6284951019474962
+order,5.472481489660944
+mistake,0.6870879120879121
+tat,8.678210839404874
+paper,1.8076689487632511
+part of parts,0.5
+act,12.870263922028107
+smt,0.7459757206267715
+provision of the mp,0.0
+swaraj,1.8333333333333333
+completion of the counting,0.5
+saroj,1.6
+station,1.2515681586858238
+hold,2.206214081425894
+return,1.5755725190839696
+pre condition,0.6666666666666666
+evidence,3.6676405172088815
+member of zila panchayat,0.6666666666666666
+results,0.6487493619193466
+total number,0.8813725490196079
+state government,3.027142857142857
+appellant,14.387096774193548
+other officer,0.9047619047619048
+candidates,3.508445945945946
+mistake by order,0.5
+only remedy of an aggrieved party,0.5
+rules for preparation,0.5
+completion,1.1868131868131868
+agent,1.406335913378167
+result sheet in form,0.0
+decision of this court,2.3260869565217392
+total member,0.6666666666666666
+separates,0.23584905660377356
+variava,1.0
+manner,1.4494591333432125
+writ petition before the high court,1.0
+ballot papers,4.5
+extent,1.410108024691358
+points,0.7095682483711788
+high court,7.7477477477477485
+rule for preparation,0.0
+member,2.649111111111111
+zila,0.525
+parties,1.8210828547990157
+state,6.817996007300392
+largest number of votes,0.5
+result sheet to the extent,0.5
+case,7.332269420884958
+recounting of the votes,1.0
+error,1.059158294766151
+writ petition to the file,0.5
+rati v saroj devi,0.5
+correctnes of the ratio,0.0
+result sheets under sub-rule,0.0
+favour of the appellant,1.4838709677419355
+section,9.287987283173626
+sheets,0.4754285714285714
+election petition,23.75
+papers,1.0564063453325199
+application for recount,1.0
+manu,7.078142071124147
+recounting,2.019230769230769
+principle,1.9620890732001848
+january,0.8699641577060931
+electoral rolls,4.333333333333333
+party,2.2250894654439723
+other officers,0.6666666666666666
+ram,2.11096203538064
+gram panchayat,4.0
+act empower,0.875
+condition,2.259476395625584
+concerned constituency,0.5
+rati,5.694744010016578
+reservation about the principle,0.5
+rolls,1.3464566929133857
+purposes,1.4391216613438835
+to the appellant,2.239669421487603
+number of votes,2.2857142857142856
+officers,2.442124212421242
+total number of votes,1.0
+mistakes,0.49709302325581395
+service,4.257395095954566
+indore,1.6
+votes,3.9696793002915447
+separate,0.9139088681237671
+present case,1.5611814345991561
+rule,5.04
+subsequent part,0.5
+avam,0.4571428571428572
+tribunal,5.07183212267958
+reads,0.8722657304887929
+favour,1.653145208700764
+election petition under section,1.0
+janpad,1.0
+recounting of ballot papers,0.5
+such other officer,3.0
+raj,1.3364194424876723
+bundle,0.43708609271523174
+result sheet under sub-rule,0.0
+reasonable opportunity,1.5714285714285714
+bench,2.5793391667754992
+that respondent,1.6666666666666667
+facts,1.4696673624372698
+gram,1.0492542925178592
+subsequent part of parts,0.5
+respondent,4.757894736842104
+further empower,0.5
+tabulation,0.38095238095238093
+election agents,0.5
+leave,1.0147842365477848
+accordance,1.4069045211613462
+divisional,1.6233766233766234
+costs,0.8167395522604189
+basi,2.0752712086391383
+form,2.4865961263718424
+returning,1.8741418764302058
+bundles,0.25
+such officer,1.3076923076923077
+writing,1.1746753246753248
+question,2.980312372067635
+ringnodiya,0.5
+case of a gram panchayat,0.5
+present at the completion thereof,0.5
+empower,0.9420289855072463

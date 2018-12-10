@@ -1,0 +1,928 @@
+courts,2.1216528162511543
+court in the case,1.3333333333333333
+test identification,5.857142857142857
+senior counsel dr tn,0.5
+years at the time,0.6666666666666666
+corroboration,1.5714285714285714
+certainty,0.8630136986301371
+code,2.880559796437659
+airsc that the provisions,0.5
+children,1.3787369914853358
+child claim,0.5
+above reasons,1.0
+day of the incident ie,0.6666666666666666
+signature,1.1400966183574879
+great doubt on the evidence,0.5
+demeanour of the child,1.0
+reasons,1.3749054007567938
+residence,0.7568831168831168
+dear one,0.3333333333333333
+sections,1.640495469442838
+funeral etc,0.5
+radhey,1.2727272727272727
+magistrate ist clas,0.5
+few domestic articles,0.5
+radheyshyam,0.8
+judicial magistrate,2.7857142857142856
+wrong in the dock identification by the witness,0.5
+knowledge of the incident,0.6666666666666666
+same village murawall,1.0
+interest,2.74353772015385
+testimony of alleged child,0.5
+court,12.24425115501509
+mother munni devi,0.5
+articles of title value,0.5
+eye,0.9466574319441098
+agreement,3.450434632433366
+person,4.291511329454258
+ors,2.8612718198296623
+handcuffed,0.25
+short crpc,0.5
+great doubt on the genuineness,0.5
+sort of extraneous influence,0.5
+part,5.294464509893076
+uncle,1.19187675070028
+extra judicial confession,2.6666666666666665
+exp,3.534657952408237
+residence in village alampur,0.5
+cross,2.0778316690442225
+japal,0.5
+relevant part of the reasoning,0.5
+nothing,0.8658723322806009
+such custody,0.5
+stage by someone,0.0
+verdict of the trial court,1.0
+assailant,0.5333333333333333
+judicial confession on an assurance,0.5
+age,4.526374474274117
+co - accused pooran singh,0.0
+magistrate as pw-,0.0
+district,1.5506763074237984
+shri,2.0759135877246115
+arvind,1.3749999999999998
+tenor,0.48571428571428577
+force in the submissions,0.5
+articles,1.4349688743466387
+pieces,0.6062837506136476
+evidence of the child witness suffers,0.5
+other circumstances,0.6000000000000001
+deceased mother munni devi,0.5
+police under section,0.75
+witness of the police,0.0
+alleged child,0.5555555555555556
+other person,0.9635036496350365
+corroborative evidence to the eye - witness account,0.0
+test,2.5329834591340266
+house,2.0021735292386764
+appeal,3.4125488033856883
+record of confession,0.5
+resident of the same village murawall,0.0
+pooran,4.0
+motive,0.8973573343546533
+above reason,1.0
+scr,2.483838975311538
+co-accused pooran singh,0.0
+tender age,0.3333333333333333
+area,2.675167256985439
+such serious omissions,0.5
+village,1.8429856945085372
+infirmity in the evidence,1.6666666666666667
+stage,1.1298537871524448
+year,2.8349484769759212
+handcuffed in police custody,0.5
+dead bodies,0.6521739130434784
+child as a competent witness,0.5
+elder of the house,0.0
+child eye - witness arvind kumar,0.0
+person that child witness arvind,0.5
+psychology,0.19901315789473684
+piece,0.8682170542635659
+judgment,3.288216560509554
+writing by accused pooran singh,0.5
+indian penal code  for short ipc,0.0
+lad,0.7557037191374102
+overheard by the witnesses,0.5
+degree methods,0.5
+father,1.4298716229162676
+sole testimony of the child witness,1.0
+guilt,1.1140207075064712
+acces to the chabutara,0.0
+residents,0.8191605554688717
+order,5.472481489660944
+pw- convince,0.0
+court of madhya,1.1875
+shivappa,0.6666666666666666
+strong suspicion,0.5
+act,12.870263922028107
+arrest memo,1.3333333333333333
+confession on an assurance,0.5
+fact that the father,0.6666666666666666
+dead inside the house with burns,0.5
+great doubt,1.0
+belonging,1.234539624370133
+talks,1.1657559198542804
+clas,2.1196191893660425
+much consistency in the deposition,0.5
+explanation,1.4510159010600707
+co - accused laxman singh,0.0
+reliable evidence,0.8333333333333334
+hue,0.28897415185783526
+solitary testimony,0.5
+arvind kumar,3.5
+accused persons,7.048780487804878
+omission of the prosecution,0.5
+religious book vishram sagar,0.5
+other possibility of the children,0.5
+elder,0.42891732964372187
+deceased munni devi,2.0
+completion,1.1868131868131868
+agent,1.406335913378167
+further surprising,0.5
+court as pw-,0.0
+morning,0.6560766182298546
+rest,3.3424534062537377
+specific questions,0.2571428571428572
+mother,1.5057341472881893
+karnataka manuscmanusc,1.3636363636363635
+manner,1.4494591333432125
+short of apprehended torture,0.5
+parties,1.8210828547990157
+window towards the chabutara,0.5
+names of accused person,0.5
+oral evidence,1.3333333333333333
+section,9.287987283173626
+time for reflection,0.5
+corroborative evidence,2.0
+gwalior,1.9
+version,1.0500313479623824
+testimony of the child witness,1.0
+interest in the trial,0.5
+incident,1.8609485257918057
+first precaution that a judicial magistrate,0.5
+madhya,2.9183673469387754
+busy with funeral etc,0.5
+neighbour,0.8760330578512397
+relevant part,0.8979591836734694
+everybody,0.39999999999999997
+younger brother,0.7727272727272727
+time of incident,1.4
+agyaram,4.5
+reflection,0.34380165289256204
+other possibility,0.24390243902439027
+place,2.333104345208554
+circumstance,1.429931390219372
+sufficient time,0.6666666666666666
+civil,2.126558634963905
+burns,0.5440677966101696
+other corroborative evidence,1.0
+bare perusal,1.25
+minor discrepancies,0.6666666666666666
+title value,0.5
+investigation,1.6673076923076922
+regard,2.723310344827586
+criminals,0.4238013698630137
+proper perspective,0.6000000000000001
+part of the reasoning,0.3333333333333333
+discrepancy,0.6097560975609757
+daboh,1.0
+dock,0.5271565495207667
+genuineness,0.8142857142857144
+sole testimony of the above eye - witness,0.0
+knowledge,1.1120671641791045
+next day,0.6306081754735793
+state of madhya pradesh,1.7142857142857142
+agency,1.8968779259354924
+incident ie,1.0
+class,2.1508512849922936
+direction,1.8495050210098996
+perusal,0.750733137829912
+occurrence,2.1343873517786562
+ist,4.8667817164179095
+spot in the early morning,0.5
+degree,0.6705786026200874
+such minor discrepancies,0.5
+plan of murder,0.5
+that evidence,0.7794871794871795
+great importance by the trial judge,0.5
+absolute consistency,0.5
+in village murawall,0.5
+corroboration from other evidence,0.5
+para,2.300239586747483
+evidence of the judicial magistrate,0.5
+next door neighbour of deceased mata prasad,0.5
+making,1.409351874023649
+extraction,0.5028571428571429
+elders,0.2215909090909091
+valuable,1.0968703427719821
+consistency,0.7974537037037037
+investigating,1.5794836956521738
+enquiries,0.5986394557823128
+fire,1.1391892447477696
+child witnes,15.5
+material particulars,1.0
+form,2.4865961263718424
+book  vishram sagar,0.0
+which provisions,0.6666666666666666
+writing,1.1746753246753248
+examination in the court,0.5
+eye-witness account of child witness,0.0
+ones,1.1255220584705485
+necessary for the prosecution,1.0
+diary statement,1.3333333333333333
+method,0.9027027027027026
+alleged recovery,0.75
+fine,1.3204039558531748
+criminal court rule,0.5
+witness by the prosecution,0.5
+dacoity vihavaran kshetra  adhiniyam,0.0
+sole child eye-witness arvind kumar,0.0
+latter,0.7109238669791096
+judgment of the high court,1.721311475409836
+conviction,2.248165832071736
+next day of the incident ie,0.5
+impugned judgment of conviction,0.6666666666666666
+house with burns,0.5
+cuffed,0.5526315789473684
+confession,13.094594594594593
+suspicion,0.690982776089159
+mata,1.746031746031746
+fact of deceased munni devi,0.5
+directions,1.5134125183504605
+singh v state of punjab,1.2352941176470589
+date of incident,1.3
+enquiry from the child,0.0
+course,1.6545957498716626
+japal singh v state of punjab,0.5
+sultan,0.9080746409837475
+adhiniyam,7.6
+further surprising that radhey shayam,0.5
+judgment of conviction,1.0
+magistrate,3.522077922077922
+charge,2.7679815308681284
+material particular,1.2222222222222223
+pradesh,4.365853658536586
+crime,1.6636528028933093
+officer,3.1197242647058823
+case evidence,0.5
+ground,1.4186722903211633
+shayam,1.0
+child,3.0202810640613067
+demeanour,1.0
+eye - witness account,0.0
+access to the chabutara,0.5
+direct evidence,1.8409090909090908
+next door neighbour,0.5
+cros,1.8137948361162648
+impugned judgment,2.0927152317880795
+japal singh v state,0.5
+liberty,0.7860465116279071
+munni,3.5
+maternal uncle of the child,1.0
+matter,2.8088923076923082
+spectacles,1.0
+police custody,2.0
+statement of arvind kumar,0.5
+article,4.378806157159795
+prosecution as witnes,0.5
+forcible extraction,0.5
+news,0.8405125851029581
+child arvind kumar,0.5
+criminal,3.301971081989414
+sagar,3.6666666666666665
+evidence of recoveries,1.0
+dacoity,4.8
+dharmadhikari,0.8
+years of age,1.10099573257468
+penal,1.8829173709853835
+appellants,7.701086956521739
+police through police station daboh,0.5
+view,2.441100058469462
+artificial evidence,0.5
+pw- convinces,0.0
+involvement,1.020685900925422
+post,2.344803646492219
+case of the prosecution,2.3043478260869565
+competent witness,0.5
+child of deceased munni devi,0.5
+opinion,1.4960606342789635
+mere presence,0.5333333333333333
+cries,0.32142857142857134
+evidence of the child witness,2.0
+deceased grandfather mata prasad,0.5
+test identification parade,5.285714285714286
+penal code,2.710144927536232
+bodies,0.8969063256135499
+identification,2.0914158305462656
+defence on the point,0.5
+scope for doubt,0.5
+recovery,3.9892473118279574
+opinion that the child witness,0.5
+witness,5.333906623599983
+police case,1.25
+result,1.3356630184144715
+apprehended torture,0.5
+delay,1.9544910179640715
+striking features,0.5
+v singhara singh,0.5
+course of the trial,0.8333333333333334
+record,2.5393414390845273
+procedure,2.552771605064117
+religious book,0.38095238095238093
+information,1.1320502836800534
+own uncle,0.3333333333333333
+scope,0.8412698412698413
+defence,1.3606588776096535
+such circumstances,0.5729166666666666
+polouse,0.0
+opening of a door,0.5
+few domestic articles as a corroborative evidence,0.5
+burnt,0.6588785046728972
+provision,5.439002243350069
+pressure,0.6730769230769231
+eldest child of deceased munni devi,0.5
+name of accused person,0.0
+support,0.8630946786249609
+valuables,0.2391304347826087
+elders of the house,0.5
+few questions,0.25
+detail about the incident,0.0
+such serious omission,0.5
+conclusions,0.8522069292833413
+with funeral etc,0.5
+extraction of confession,0.5
+early age,0.3333333333333333
+such shaky testimony,0.5
+sleep,0.9329153605015674
+custody in order,0.5
+importance,0.8632871064467765
+fact,3.6284951019474962
+convincing reasons,0.5
+such circumstance,0.5723905723905723
+learned counsel,3.703333333333333
+house of deceased mata prasad,1.5
+court room,0.8888888888888888
+evidence on record,2.7906976744186047
+torture,0.6886137118695258
+recovery of a bottle,0.5
+judicial magistrate as pw-,0.0
+tutoring,0.7500000000000001
+station,1.2515681586858238
+special,1.7363344051446945
+reasoning,0.6478937381404174
+hook of the door,0.5
+child eye-witness arvind kumar,0.0
+village murawall,1.5
+vishram,0.5
+husband,1.6418918918918919
+influence,0.7049608355091384
+child in the court,0.5
+dayaram,1.0
+evidence to the eye - witness account,0.0
+kumar,2.028839704896043
+particulars,0.9472222222222222
+prasad,1.1407089151450054
+deposition of pw,1.0
+demand,1.5671679197994988
+witnesses of the police,0.5
+high court in paragraph,1.0
+omissions,0.6971428571428571
+father dayaram,0.5
+age of child,0.2857142857142857
+witnes,5.333906623599983
+agreement with the trial judge,0.5
+shaky testimony,0.5
+younger brothers,2.0
+brothers,0.9570135746606334
+sultan singh,2.0
+features,0.6184582743988685
+test identification parade after the child witness,0.5
+judicial confession,5.2
+necessity,0.7072538860103627
+understanding of the child,0.5
+panchhi,0.5
+in the prosecution,1.5454545454545454
+doubt,1.3646267723102583
+essence,0.5974025974025974
+many striking feature,0.5
+genuinenes,0.8142857142857144
+years,2.5395804110508022
+sole testimony,2.0
+presence of the children,1.0
+punjab,1.0438169425511197
+protection,1.1604395604395603
+pressure from police,0.5
+judicial,2.8688059701492543
+paragraphs,0.9552238805970149
+party,2.2250894654439723
+year at the time,0.0
+residents of the same village murawall,0.5
+district bhind,1.0
+competent witnes,0.5
+payment of fine,1.2857142857142858
+such precaution,0.5
+details,0.9406426856198188
+interested in the prosecution,0.5
+inside the house with burns,0.5
+enquiry,2.145762711864407
+reliable identification,0.5
+for the prosecution,0.9285714285714286
+absolute consistency in deposition,0.5
+third degree method,0.5
+few domestic article,0.5
+high court of madhya,1.1875
+necessity for the prosecution,0.5
+cross-examination,0.0
+lapse,0.9238095238095239
+few question,0.25
+discrepancies,0.9195402298850575
+bare perusal of the deposition,0.5
+village murawali,0.5
+v state,2.4603773584905664
+absence of any test identification parade,0.5
+accused bhagwan singh,4.5
+testimony,1.4407553107789142
+child witness arvind kumar,3.5
+convincing reason,0.6666666666666666
+corroborative piece,1.0
+date,6.195616975795285
+absence of other reliable evidence,0.5
+first precaution,0.5
+understanding,0.8257450331125827
+stages,0.7858851674641147
+offence,4.401610644257703
+presence,0.9604834261070158
+hearing,0.9644508209787979
+neck,0.6142330723169047
+respondent,4.757894736842104
+due to omission of the prosecution,0.5
+news of the incident,0.5
+accordance,1.4069045211613462
+dock identification by the witness,0.5
+default,0.7094574436346588
+day,1.550999710228919
+unknown criminals,0.5
+father of the child,1.6666666666666667
+serious omission,0.5
+question,2.980312372067635
+verdict,0.6880952380952381
+small child,0.375
+feature,0.6446262956901254
+house of the parties,0.5
+counsel dr  tn,0.0
+dock identification,2.0
+deposition,1.534
+officer claims,0.5
+tehsil,2.0
+uncle agyaram,1.0
+scmanu,7.940520446096654
+regard to the judicial confession,0.5
+dear ones,0.5
+lapse in the prosecution evidence,0.5
+corroborative piece of evidence,0.75
+sort,0.7327002541370012
+village ie,0.5
+recoveries,2.0
+february,0.8575630252100839
+assailants,0.9650349650349649
+statement,2.5393160135035964
+neighbourhood,0.8400000000000001
+accused person,4.565217391304348
+co-accused under arrest memo,0.0
+kalka,0.6666666666666666
+same village,0.5333333333333333
+striking feature,1.0
+name,1.8996570753072433
+rajasthan,3.9215686274509802
+court in paragraph,1.2307692307692308
+resident,1.6560361185631094
+pieces of evidence,0.5333333333333333
+present on the spot,0.5
+high,5.367119186841496
+payment,2.059553716565686
+police investigation,0.5714285714285714
+case evidence of child witness,0.5
+brother,1.4566585956416465
+uncle of the child,1.0
+first person,0.5
+sic,1.1611481056257176
+account,2.5754891049671977
+assam v mafizuddin,0.5
+custody,1.4166666666666667
+domestic articles,1.0
+force,1.6009408121948314
+door neighbour,0.3333333333333333
+statement of the child witness,0.5
+suit,2.485274378207659
+identification in the court,0.6666666666666666
+judicial magistrate ist clas,0.5
+funeral,0.5185185185185185
+purpose,2.519170317925504
+directions of the court,1.3333333333333333
+help,0.7217940266720754
+karnataka,3.8596491228070176
+law,3.538923411654744
+trial court,3.854545454545455
+degree method,0.5
+civil court,3.706666666666667
+time,2.4764180952862667
+completion of the plan,0.6666666666666666
+piece of evidence,0.8181818181818181
+treatment,1.1351020408163266
+plaintiff,2.177926421404682
+child witness,15.5
+identification parade,6.125
+child witness suffer,0.5
+father radheshyam,1.0
+such weak evidence,0.5
+learned counsel for the respondent,1.507936507936508
+shankarla,0.6666666666666666
+adequate corroboration from other evidence,0.5
+such shaky testimony of a child witness,0.5
+plan,2.0162821688398056
+that agyaram,0.5
+immaturity of understanding,0.5
+mata prasad,6.5
+other reliable evidence,0.5
+pradesh bench,0.5
+false evidence,0.6666666666666666
+post mortem,1.4
+such judicial confession,0.5
+vital lapse,0.5
+consistency in deposition,0.5
+state that the oral evidence,0.5
+striking feature of the case,0.5
+murder,1.4968553459119496
+village murawali in district bhind,0.5
+care of the dead bodies,1.0
+crilj,5.333333333333333
+assurance,0.9418901660280969
+fine of rs,1.6
+access,1.61231677279827
+omission on the part,0.8
+mother munni devi in the house,0.5
+prosecution,4.619407894736842
+maternal uncle agyaram,1.0
+alleged conspiracy,1.6
+child as a competent witnes,0.5
+spot,0.778096903096903
+such evidence,0.9649122807017544
+offences,1.6681887366818873
+other reason,0.704191616766467
+accordance with the requirement,1.6666666666666667
+child witnes in the court,0.0
+faces,0.7325689494886891
+imprisonment,1.4344262295081966
+hand cuffed,1.0
+above eye - witnes,0.0
+radheshyam,1.75
+note of the fact,1.4705882352941178
+ipc,2.785166240409207
+counsel,2.2246780703440323
+absence,1.092363454568179
+no doubt,0.8331331503088538
+civil dispute,0.7619047619047619
+pooran singh,7.5
+something about the incident,0.5
+commission,4.703619179345321
+murawall,2.0
+known persons,1.0
+child agyaram,0.5
+witnesses,3.359210526315789
+rules,3.130914366958792
+trial under section,0.6666666666666666
+radheshyam with the news,0.5
+above eye - witness,0.0
+eye - witness account of the child witness,0.0
+perusal of the deposition,0.5
+procedure code,1.3157894736842106
+answers,0.3387502861066606
+small children,0.375
+unknown criminal,0.5
+names,1.766440410418311
+maternal uncle,2.4285714285714284
+perspective,0.5639060811474604
+examination under section,1.0
+confession before the court,0.5
+civil suit,0.7413793103448276
+important omission,0.5
+acces,1.6146156832298137
+such minor discrepancy,0.0
+chabutara,1.0
+outset,0.5899159663865546
+prosecution evidence,1.2
+house at the time,1.0
+talk,0.6790085679314566
+known person,0.9000000000000001
+mere presence of the children,0.5
+acquittal,2.2714285714285714
+submissions,0.5235745614035088
+father radhey shayam,0.5
+son,4.595622484812135
+proper opinion about the nature,0.5
+tehsil lahar,0.5
+mention,1.6248742837095076
+conspiracy,8.939203354297694
+shri dk,0.6666666666666666
+dispute,2.402137592137592
+main evidence,0.5
+palliwal,0.5
+submission,1.0913871684001404
+laxman,1.0266666666666668
+evidence,3.6676405172088815
+accused pooran singh,7.0
+due to the fact that the father,0.5
+details about the incident,0.5
+eye-witness arvind kumar,0.0
+mother by face,0.5
+uncle of the child agyaram,0.5
+precaution that a judicial magistrate,0.5
+appellants in the crime,1.0
+domestic article,1.0
+solitary testimony of alleged child,0.5
+feature of the case,0.75
+vital lapse in the prosecution evidence,0.5
+name of the assailants,0.0
+alleged involvement,0.75
+witnes by the prosecution,0.0
+state of assam v mafizuddin,0.5
+detail,0.9737454684220567
+certain articles,1.0
+father s village alampur,0.0
+case,7.332269420884958
+period,1.9480170842427122
+enquiries from the child,0.5
+sufficient time for reflection,0.5
+father s village,0.0
+shivappa v state of karnataka manuscmanusc,0.5
+assurance to the case,0.5
+child witness suffers,0.5
+many striking features,0.5
+cry,0.24336661035171248
+other direct evidence,0.5
+murawali,1.0
+statement of the child,1.0
+bhagwan singh living,0.5
+appropriate stage,0.5142857142857143
+mother at alampur,0.5
+neighbourhood of deceased mata prasad,0.5
+tender,1.2253313696612664
+cross - examination,0.0
+bhagwan singh living in the neighbourhood,0.5
+evidence of child,0.6
+singh,3.7791111111111113
+immaturity,0.25
+version of the child,0.5
+burn,0.7334842304248335
+verdict of acquittal,1.6
+agyaram as a witnes,1.0
+certainty as a reliable identification,0.5
+trial judge,2.6666666666666665
+statement under section,2.1
+confessional statement,17.5
+asleep at the time of incident,0.5
+criminal procedure code,1.4
+rule,5.04
+airsc that the provision,0.5
+direction of the court,0.8333333333333334
+to the fact that the father,0.5
+mouth,0.2782462057335582
+crpc,2.2424242424242427
+testimony of the above eye - witness,0.0
+opinion that the child witnes,0.5
+prosecution as witness,0.5
+mental pressure,0.5
+shivappa v state,0.5
+magistrate ist class,0.5
+prosecution witness,2.2
+learned trial court,2.5
+bench,2.5793391667754992
+other persons,0.6111111111111112
+recovery of certain articles,0.5
+reproduction,0.5098814229249011
+child witness arvind,4.0
+door of the house,0.6666666666666666
+different view,0.5378151260504201
+which provision,0.8571428571428571
+parade,2.090909090909091
+pry,0.20904436860068257
+delay in the arrest,0.5
+area to which provisions,0.5
+mention of recovery,0.5
+adequate corroboration,0.5
+investigating agency,2.0625
+importance by the trial judge,1.0
+serious omissions,0.5
+undergoing sentence,1.0
+kshetra,15.666666666666666
+precaution,1.4516129032258067
+body,1.336775463480009
+point,2.9165043546008516
+witness in the case,0.6666666666666666
+attempt,0.7943782192788815
+statement to the police,1.0
+singh v state,1.75
+short ipc,0.8333333333333334
+child psychology,0.5
+proper opinion,0.5
+coaching,0.4313725490196078
+lahar,1.0
+particular,1.5248953455371081
+assailants before the police,0.5
+nana,0.6095238095238096
+bhagwan,1.5555555555555556
+at the time of incident,1.5
+kamlesh,0.5
+husband of deceased munni devi,1.0
+prosecution that the eldest child,0.5
+police,2.9749362629783356
+sentence,2.3896654193264366
+explanation in the record,0.5
+injunction,2.1512605042016806
+same village ie,0.5
+doubt on the genuineness,0.5
+crime by unknown criminals,0.5
+bhagwan singh,12.6
+certain article,1.0
+examination,2.4920345926263088
+mere dock identification,0.5
+polouse under section,0.0
+child witness in the court,0.5
+title,1.74290600761189
+omission,1.1856094505101127
+arrest,1.391895003453834
+spectacle,0.45454545454545453
+false confession,0.6666666666666666
+dacoity vihavaran kshetra,1.0
+reason,2.6381270903010035
+opinion about the nature,0.5
+extraneous influence,0.5
+grandfather mata prasad,1.5
+court rules,2.0
+eye-witness account,0.0
+life,1.3352928273744242
+consistency in the deposition,0.5
+pooran singh to the judicial magistrate,0.5
+one,4.845669314438648
+eldest child,1.0
+evidence of a child witness,0.5
+scene,0.7999999999999999
+motive of the crime,0.5
+deenanath,0.5
+free agent,0.2142857142857143
+approver,6.0
+demeanour of the child witness,0.5
+village alampur,1.5
+stages by someone,0.5
+consideration,1.9110153789142115
+daughter munni devi,1.0
+occurrence of the incident,0.5
+paragraph,1.2930197483150305
+jail,0.7548476454293629
+memorandum,1.2142857142857144
+part of the evidence,1.3333333333333333
+other reasons,0.5932203389830508
+child claims,0.5
+laxman singh,1.2
+value,1.7137907830478438
+vihavaran,1.0
+devi,1.2339221178171305
+prosecution agency,0.5
+hook,0.4377104377104377
+assailant before the police,0.0
+custody of accused pooran singh,0.5
+magistrate in deposition,0.5
+care,0.8846948234137723
+other criminal case,0.6666666666666666
+officer claim,0.5
+shaky testimony of a child witness,0.5
+easy pry,0.5
+v state of rajasthan,1.12
+midnight,0.5747899159663866
+much consistency,0.5
+making of the confession,0.5
+specific question,0.5
+paras,0.7450980392156863
+judicial magistrate ist class,0.5
+judge,2.9012627415183325
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+opening,0.7180555555555556
+conduct,1.5998023165163158
+other circumstance,0.6600000000000001
+possibility of the children,0.5
+radhey shayam,1.0
+matter of common knowledge,0.75
+co - accused pooran singh by the court,0.0
+such custody in order,0.5
+sleeping,0.9473684210526315
+grandfather,0.6653465346534652
+window,0.4261536005109372
+conclusion,1.3883437407077015
+early morning,0.3636363636363636
+face,0.7281253260594137
+third degree methods,0.5
+common knowledge,0.45112781954887216
+criminal procedure code  for short crpc,0.0
+madhya pradesh,2.9583333333333335
+learned trial court in proper perspective,0.5
+room,0.6950710108604846
+great importance,0.6666666666666666
+questions,0.9979150871872632
+witnes in the case,0.0
+sleeping by the witnesses,0.5
+indian penal code,5.264705882352941
+support in material particulars,0.5
+maternal uncle of the child agyaram,0.5
+gwalior by impugned judgment,0.5
+year of age,0.0
+involvement of the accused persons,0.6666666666666666
+other in village murawall,0.5
+hand,2.0299623418254717
+appreciation,0.7282229965156793
+hold,2.206214081425894
+domestic articles as a corroborative evidence,0.5
+appellant in the crime,3.3333333333333335
+methods,0.6227758007117437
+confessional statement of co - accused pooran singh,0.0
+possession,2.808810857389056
+year in default,0.5
+evidence in the circumstances,0.5
+doubt on the evidence,0.5
+custody of police,0.5
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+job,0.6733466933867737
+bottle,0.5339207048458149
+father of children,0.5
+forcible extraction of confession,0.5
+other evidence,1.0434782608695652
+names of the assailants,1.0
+confidence,0.5942028985507247
+alampur,2.0
+door neighbour of deceased mata prasad,0.5
+special judge,2.375
+requirement,1.2416133333333332
+minor discrepancy,0.0
+high court,7.7477477477477485
+assam,1.06
+adversary,0.25
+daughter,1.0364906832298135
+memo,1.4242074188165834
+penal code  for short  ipc,0.0
+state,6.817996007300392
+answer,0.9554305705177771
+note,1.3654108484234107
+door,0.9196631033365728
+trial,3.7979448350459712
+pw-,0.0
+serious infirmity,0.75
+mafizuddin,0.5
+prior,1.1843036382221124
+manu,7.078142071124147
+statement of co - accused pooran singh,0.0
+prosecution witness as an approver,1.0
+infirmity,1.3095238095238095
+to omission of the prosecution,0.5
+weak evidence,0.2692307692307692
+criminal case,1.4464285714285714
+singhara,0.25
+own view,0.41481481481481486
+appreciation of the evidence,1.0
+munni devi,3.5
+dead body,1.192156862745098
+agyaram as a witness,1.0
+airsc,1.6909090909090911
+see,2.8180360783074034
+testimony of sole child eye - witness arvind kumar,0.0
+deceased mother munni devi in the house,0.5
+state of up,2.0784313725490198
+nature,1.4149926876444778
+on the spot,0.6982922201138521
+view of the testimony,0.5
+corroborative pieces,0.5
+article of title value,0.0
+father mata prasad,2.0
+possibility,0.7613466503601033
+utmost,0.59375
+ahmed,1.008695652173913
+situation,1.1254754682459434
+night,0.8690610404251893
+procedure code  for short crpc,0.0
+court rule,0.9285714285714286
+attention,0.8724846605528799
+book,0.7435955668604651
+something,0.5915378827342709
+source,0.840137091365362
+corroborative pieces of evidence,0.5
+police station daboh,0.5
+prosecution witnes,2.2
+possibility of commission,0.5
+evidence of alleged recovery,0.5
+criminal court rules,0.5
+mortem,1.402116402116402
+prasad with the help,0.5
+persons,2.5993381990166555
+deceased mata prasad,4.0
+bhind by judgment,0.5
+evidence of child witness,1.0
+bhind,1.5

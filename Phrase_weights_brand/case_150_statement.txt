@@ -1,0 +1,383 @@
+enactment,1.439950980392157
+talaq  thrice,0.0
+findings,1.049571253572887
+maintenance in view,0.5
+aforesaid order of the prescribed authority,0.5
+code,2.880559796437659
+power under article,1.28
+validity,1.521010638297872
+basis of materials,0.75
+terms,2.390350840909655
+matters,1.4810665618448637
+today in crl,0.5
+as that finding,0.5
+necessary for the court,1.0
+court,12.24425115501509
+nisa,0.9817629179331308
+eye,0.9466574319441098
+union,2.0981927710843373
+interference by the court,1.0
+single judge,4.011627906976744
+dr dhawan,2.0
+correctness,0.8404159132007234
+divorced muslim woman,0.5
+lucknow bench,0.6666666666666666
+imposition of ceiling,7.666666666666667
+danial latifi,1.0
+consideration before the constitution bench,0.5
+definition of the  family,0.0
+divorce in the eye,0.5
+case of danial latifi,0.5
+decision,2.9514937765898557
+holding of the tenure holder,0.5
+hands,1.1725490196078434
+competent authority,2.7142857142857144
+relevant material,1.0
+correctnes,0.8404159132007234
+appeal,3.4125488033856883
+condition precedent,1.7058823529411764
+determination,1.5980374665477253
+land,6.337534028705619
+arises in an appropriate case,0.5
+provisions of the act,2.6056338028169015
+certiorari,1.8333333333333333
+same arise,0.5
+year,2.8349484769759212
+piece,0.8682170542635659
+judgment,3.288216560509554
+larger issue,0.6000000000000001
+averments,1.76
+due weight,1.7142857142857142
+order,5.472481489660944
+subsequent,1.2971213655431795
+act,12.870263922028107
+smt,0.7459757206267715
+that power,0.6764705882352942
+than married daughters,0.6666666666666666
+ceiling surplu,1.0
+materials on the basis,0.6666666666666666
+parameters,0.8168253968253969
+correctnes of the finding,0.0
+second contention,0.6666666666666666
+ceiling surplus,1.0
+crl,0.6431123461691147
+member,2.649111111111111
+name of khatoon nisa,0.5
+parties,1.8210828547990157
+surplu,3.9375
+section,9.287987283173626
+counterblast to criminal appeals,0.5
+preferred appeals under section,0.5
+appellate,2.561224489795918
+condition,2.259476395625584
+divorce attempt,0.5
+larger issue about the constitutionality,0.5
+finding,1.8129183657767178
+order of an inferior tribunal,0.6666666666666666
+arise in an appropriate case,0.0
+parameter for exercise,0.0
+ceiling law,0.5
+rights,1.6349541930937281
+union of india,3.1324503311258276
+ultimate determination,0.5
+issue,2.766776251628934
+basi,2.0752712086391383
+imposition,1.4444444444444444
+today,0.6330563683773655
+weight,0.7538461538461538
+women,1.162387410705042
+muslim,0.8700225394440272
+orders,1.4936359300077826
+basis,1.953226441078104
+holding,1.2555282555282552
+maintenance,0.8632111808077473
+evidence under consideration,0.5
+criminal appeal,2.5675675675675675
+force of the up,0.5
+status of the parties,1.5
+stand that the land,0.5
+magistrate,3.522077922077922
+maintenance in favour,1.5
+same arises,0.5
+purpose of the provisions,0.6666666666666666
+rigour,1.0
+officer,3.1197242647058823
+aforesaid conclusion,1.1818181818181819
+ground,1.4186722903211633
+appropriate case,1.4074074074074074
+than married daughter,0.6666666666666666
+validity of a divorce,0.5
+similar stand,0.6666666666666666
+arises,0.8292682926829268
+talaq,2.0
+matter,2.8088923076923082
+relation,1.397320207820618
+article,4.378806157159795
+hand of the tenure holder,0.5
+bearing,0.7901184156798694
+criminal,3.301971081989414
+submission of dr  dhawan,0.0
+provision of section,1.4827586206896552
+term,3.6255105640901575
+applications,1.0021816198527407
+appellants,7.701086956521739
+questions for consideration,0.6666666666666666
+view,2.441100058469462
+that finding,0.6666666666666666
+opinion in the writ petition,0.5
+opinion,1.4960606342789635
+supervisory jurisdiction,1.1428571428571428
+same family,0.4444444444444444
+relief,1.4748116760828625
+for the court,0.5893719806763285
+wife,1.4518086408500224
+separated wife,0.5
+findings of the magistrate,0.5
+danial,0.47368421052631576
+record,2.5393414390845273
+procedure,2.552771605064117
+rahmatullah,1.0
+material,1.4148767018946966
+minor daughter,1.2
+thrice,1.05
+first submission of dr  dhawan,0.0
+husband as the case,0.5
+provision,5.439002243350069
+averment,1.7
+magistrate under the act,0.5
+jurisdiction under section,1.75
+parameter,0.7630669107179174
+conclusions,0.8522069292833413
+provisions of section,2.762376237623762
+fact,3.6284951019474962
+divorce between the tenure holder,0.5
+learned judge of the high court,1.25
+learned judge,3.3692307692307693
+expression,1.7424391201885312
+error of law,1.0
+anr,1.1271033322299457
+reasonable one,0.5384615384615384
+ceiling act in the matter,0.5
+grant of certificate,1.0
+other than married daughters,0.6666666666666666
+criminal procedure,6.406779661016949
+husband,1.6418918918918919
+development officer,1.2
+error apparent on the face,1.0
+stand,1.8422769621739425
+conclusion of the high court,0.8888888888888888
+correctnes of the conclusion,0.0
+correctness of the finding,1.4285714285714286
+times,0.8987140267391797
+relation to a tenure holder,0.5
+court under article,2.032258064516129
+exercise,1.9400726466785694
+code of criminal procedure,6.120689655172414
+protection,1.1604395604395603
+party,2.2250894654439723
+jurisdiction of the magistrate,0.6666666666666666
+definition,1.6460425937698666
+wife of rahmatullah,0.5
+preferred appeal under section,0.0
+the act,5.708327371273712
+male,0.6492753623188406
+latifi,1.0
+finding of the magistrate,0.5
+validity of the provisions,1.6666666666666667
+appellate authority,2.2
+ceiling surplu in the hand,0.0
+sons,2.7457346002031446
+surplus land,15.25
+rigour of the provisions,0.0
+subsequent to the enactment of the muslim women,0.5
+preferred appeals,0.8888888888888888
+question,2.980312372067635
+appropriate relief,1.0
+attempts,0.43171440431714403
+that view of the matter,1.553191489361702
+member of the same family,0.0
+word,2.065873981084096
+writ,2.8882378560889794
+appeals,1.7060218112849692
+prayer of the writ petition,0.5
+family register,1.5
+writ of certiorari,2.2
+name,1.8996570753072433
+aforesaid conclusion of the high court,0.5
+piece of material,0.5
+high,5.367119186841496
+members,1.9437616522164103
+force,1.6009408121948314
+prayer,0.6969296987087519
+determination of the surplus land,0.6666666666666666
+pradhan,0.75
+interference,0.5733527484528578
+purpose,2.519170317925504
+ceiling land,0.5
+law,3.538923411654744
+nos,1.2635492554198444
+minor sons,0.6666666666666666
+divorce under the muslim law,0.5
+time,2.4764180952862667
+due weight to the family register,0.5
+inasmuch as that finding,0.5
+mr qamaruddin,0.5
+minor son,0.75
+tenure holder,4.5
+issuance,1.05379513633014
+dhawan,1.6666666666666667
+constitution bench,4.27536231884058
+case in hand,2.1
+such talaq,0.5
+arise,1.1675508399646328
+determination of the ceiling land,0.5
+grant,1.7314487632508835
+right,3.07483248288682
+hereinafter,0.7670609645131939
+certificate,2.732600732600732
+error apparent,1.1
+counsel,2.2246780703440323
+application,2.3322596088086445
+constitution bench decision in danial latifi,0.5
+india,2.7684068260703585
+validity of the act,1.2
+rigours of the provisions,0.5
+divorce between the parties,0.5
+admissible piece of material,0.5
+judge of the allahabad high court,0.6666666666666666
+minor daughters,0.6666666666666666
+issue on the question,0.6666666666666666
+land holdings act,1.0
+son,4.595622484812135
+legality of a divorce,0.5
+dispute,2.402137592137592
+submission,1.0913871684001404
+evidence,3.6676405172088815
+ultimate conclusion,1.2857142857142858
+document,1.401100265092073
+second contention of dr  dhawan,0.0
+ultimate determination of the ceiling land,0.5
+power of supervisory jurisdiction,0.5
+inadmissible evidence,1.0
+prescribed authority,7.571428571428571
+eye of law,1.0
+case,7.332269420884958
+error,1.059158294766151
+hand of the surplus holder,0.5
+divorced muslim women,0.5
+surplus holder,0.5
+constitution,3.204842342342342
+qamaruddin,0.5
+muslim law,0.6666666666666666
+to the enactment of the muslim women,0.5
+contention,1.666391070690368
+basi of materials,0.0
+favour,1.653145208700764
+lucknow,3.4545454545454546
+supra,2.246342614440774
+bench,2.5793391667754992
+divorced woman,0.5
+holdings,2.0217391304347827
+legality,0.6845938375350139
+subterfuge,1.8333333333333333
+muslim woman,0.2857142857142857
+other document,0.6172839506172839
+allahabad high court,1.7037037037037037
+law since the judgment,0.5
+attempt,0.7943782192788815
+sitting,1.1033984092552422
+order of the magistrate,0.5
+khatoon,1.9
+married daughters,1.6
+considerations,0.7860235003092146
+allahabad,2.3404255319148937
+members of the same family,0.5
+conclusion of the prescribed authority,1.5
+counterblast,0.6666666666666666
+relevant materials,1.1428571428571428
+status,1.14824388424026
+power,3.8165227690948367
+woman,1.316528681253696
+constitution bench decision,2.8125
+materials,1.1534090909090908
+constitutionality,0.7965517241379311
+inadmissible evidence under consideration,0.5
+position,1.549133168619177
+appellate authority under the act,0.6666666666666666
+other than married daughter,0.6666666666666666
+one,4.845669314438648
+irrelevant materials,0.5
+writ petition,6.24223602484472
+petition,5.3436539306104525
+ceiling,3.0180995475113117
+surplus,3.9375
+high court under article,1.0
+material on the basis,0.5
+consideration,1.9110153789142115
+divorce attempts,0.5
+single judge of the allahabad high court,0.6666666666666666
+conclusion that such  talaq,0.0
+preferred appeal,1.105263157894737
+parameters for exercise,1.3333333333333333
+holder,1.8472993827160495
+divorce,1.2616822429906542
+hands of the tenure holder,0.5
+issue about the constitutionality,0.5
+khatoon nisa,1.0
+enactment of the muslim women,0.5
+family,1.856281506375408
+orders of the magistrate,0.5
+authority,2.4352627108360636
+judge,2.9012627415183325
+larger issue on the question,0.5
+provisions,3.8929824561403508
+irrelevant material,0.4444444444444444
+daughters,1.1785714285714286
+rigours,0.8
+development,2.3145884270578647
+aforesaid order,1.2857142857142858
+conclusion,1.3883437407077015
+face,0.7281253260594137
+muslim man,0.3333333333333333
+contention of dr  dhawan,0.0
+ceiling surplus in the hand,0.5
+muslim women,0.631578947368421
+reasonable one on the materials,0.5
+questions,0.9979150871872632
+register,1.2311946902654867
+protection of rights,1.0
+law of the land,0.4888888888888889
+first submission,0.6666666666666666
+hand,2.0299623418254717
+maintenance under section,0.6666666666666666
+admissible piece,0.5
+appellant,14.387096774193548
+tenure,2.0160000000000005
+high court,7.7477477477477485
+married daughter,1.1111111111111112
+muslim male,0.5
+daughter,1.0364906832298135
+jurisdiction,2.9539571926331507
+one on the materials,0.5
+provision of the act,0.8888888888888888
+conclusions if the inferior tribunal,0.5
+ceiling surplus tenure holder,0.5
+order of the prescribed authority,1.0
+correctness of the conclusion,0.5
+man,6.972395052694935
+same arises in an appropriate case,0.5
+authority under the act,1.0
+ceiling act,1.0
+certificate against the judgment,0.5
+tribunal,5.07183212267958
+question for consideration,1.125
+precedent,0.8982341399607586
+criminal appeals,2.0
+word  talaq,0.0
+inferior tribunal,1.25
+issuance of a writ,1.0
+same arise in an appropriate case,0.0
+wpc,0.6088154269972452
+senior counsel,2.2857142857142856
+rural development officer,1.3333333333333333
+weight to the family register,0.5

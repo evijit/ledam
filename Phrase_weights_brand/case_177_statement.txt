@@ -1,0 +1,308 @@
+heavier punishment,0.5
+above decisions,0.8
+increment with cumulative effect,0.0
+senior,1.989753211141579
+- off situation,0.0
+higher,1.7172937941551014
+show cause notice for enhancement,0.5
+weeks from the date,1.1428571428571428
+petitioner,4.524972253052164
+cost,1.2954397451466992
+session,2.2400874351067563
+allahabad,2.3404255319148937
+word,2.065873981084096
+annual increments of the appellant,0.5
+similar circumstances,0.5454545454545454
+notice,2.3300025999395686
+scmanu,7.940520446096654
+writ,2.8882378560889794
+basis,1.953226441078104
+senior division,2.1
+direction that the action,0.5
+appeals,1.7060218112849692
+court on the ground,0.9166666666666666
+maximum penalty of dismissal,0.5
+scope of judicial review,1.0
+increment of the appellant,0.0
+stoppage,0.8333333333333334
+power,3.8165227690948367
+issue of a notice,0.75
+directions,1.5134125183504605
+above decision,1.1818181818181819
+full,1.5412997100815056
+direct enhancement,1.0
+that part,0.9543770509156346
+following passage,0.6942148760330578
+issuance of a show cause notice,0.5
+employee,6.280487804878048
+decisions of this court,1.8225806451612903
+substitution of the punishment,0.5
+following word,0.6763636363636363
+disciplinary authority on the appellant,0.0
+irrespective,0.7304347826086957
+worse - off position,0.0
+judgment of the division bench,1.8125
+peculiar facts,0.9473684210526315
+appellant in a worse - off position,0.0
+redress,1.2
+worse position,0.5
+case before the division bench,0.5
+high,5.367119186841496
+direction,1.8495050210098996
+direct enhancement of punishment,1.0
+gravity of the misconduct,0.6666666666666666
+pradesh,4.365853658536586
+palpable error,0.5
+ramesh chander singh,1.0
+withdrawn,0.7887667887667889
+court,12.24425115501509
+crime,1.6636528028933093
+instant case,2.0631578947368423
+position,1.549133168619177
+union,2.0981927710843373
+ground,1.4186722903211633
+hesitation,0.5405405405405406
+dismissal,1.614076246334311
+direction of the high court,1.1666666666666667
+writ petition,6.24223602484472
+petition,5.3436539306104525
+ors,2.8612718198296623
+cumulative effect,1.5555555555555556
+separate writ petitions,0.6666666666666666
+show,1.5002130552117363
+purpose,2.519170317925504
+cause,1.8431210321626654
+question whether the high court,1.3333333333333333
+behalf,1.9888053603529987
+similar punishment,0.6666666666666666
+irrespective of the crimeoffence,0.5
+review application,1.5
+observation,0.7625074854374218
+consideration,1.9110153789142115
+part,5.294464509893076
+civil judge,3.2142857142857144
+finding of the guilt,0.5
+further direction,1.2380952380952381
+division,1.7657319129617017
+matter,2.8088923076923082
+week from the date,0.6666666666666666
+writ petitioner,4.482758620689655
+words,1.6384367086179112
+article,4.378806157159795
+penalty,1.5165226929932814
+which direction,0.40909090909090906
+issuance,1.05379513633014
+court s direction,0.0
+writ petitions before the high court,0.6666666666666666
+similar question,0.44117647058823534
+present appeal,1.3424657534246576
+major punishment,0.5
+district,1.5506763074237984
+appellant for award,0.5
+view of the observations,0.6666666666666666
+reduction,0.8411214953271028
+sessions,1.3405714285714285
+maximum punishment of dismissal,0.5
+decisions,1.3888475974580996
+decision,2.9514937765898557
+to the high court,2.066666666666667
+increments with cumulative effect,0.6666666666666666
+pradeep kumar v union,0.5
+view,2.441100058469462
+following passages from the judgment,0.5
+pradeep kumar s case,0.0
+pradeep kumar,3.4
+order of punishment,1.5
+such power to direct enhancement,0.5
+academic in view of the fact,0.5
+initiated proceedings against the appellant,0.5
+misconduct,1.2976744186046512
+appeal,3.4125488033856883
+respondent authority pursuant,0.5
+notice of enhancement,0.5
+finding of guilt,1.0
+denial of increments,0.5
+legal position,0.7659574468085106
+result,1.3356630184144715
+annual increments,0.5
+high court of allahabad,1.0
+pay,3.828326695859537
+fact that the appellant,1.05
+manuscmanusc,7.940520446096654
+judge,2.9012627415183325
+authority,2.4352627108360636
+writ petition under article,1.2
+authorities on the appellant,0.5
+denial,0.8338926174496643
+punishment of dismissal,1.0
+scope,0.8412698412698413
+petitions,1.3930830039525692
+enquiry report,1.8
+sessions judge,2.9545454545454546
+division bench of the high court,1.6825396825396826
+disciplinary authority,3.6666666666666665
+punishment of reduction,0.5
+enhancement,0.5810526315789474
+aside,1.2654996720980676
+disciplinary authorities on the appellant,0.5
+counsel,2.2246780703440323
+own cost,0.9166666666666666
+application,2.3322596088086445
+annual increment of the appellant,0.0
+punishment of stoppage,1.0
+award,3.104213525266157
+support,0.8630946786249609
+gravity,0.3746556473829201
+india,2.7684068260703585
+additional district,1.9583333333333333
+authorities,1.266131845134287
+increments,1.75
+judgment,3.288216560509554
+weeks,0.8109161793372318
+authority on the appellant,0.0
+matter to the disciplinary authority,0.5
+guilt,1.1140207075064712
+fact,3.6284951019474962
+order,5.472481489660944
+pursuant,0.7227692307692308
+next below,0.6666666666666666
+removal,0.7204301075268817
+appellant in the present appeal,0.5
+resolution,1.771256437663978
+learned counsel,3.703333333333333
+view of the fact,0.8707482993197279
+sessions judge in the uttar pradesh,0.5
+circumstances of the case,1.3373493975903614
+- off position,0.0
+mr singh,1.6
+anr,1.1271033322299457
+separate writ petition before the high court,0.0
+submissions,0.5235745614035088
+further direction that the action,0.5
+show cause notice,2.9565217391304346
+court of allahabad,1.0
+in view of the fact,0.8707482993197279
+submission,1.0913871684001404
+higher judicial service,5.375
+separate writ petitions before the high court,0.5
+kumar,2.028839704896043
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+substitution,0.5932203389830508
+following passage from the judgment,0.75
+week,0.8253498691546249
+effect,2.184583388478191
+uttar,2.188679245283019
+own costs,0.9090909090909091
+decision of this court,2.3260869565217392
+removal from service,1.4
+passage,0.6514737598849748
+reliance,1.400763358778626
+writ petition before the high court,1.0
+high court,7.7477477477477485
+setting,0.7533735285673271
+redress against the punishment,0.5
+circumstance of the case,0.5
+parties,1.8210828547990157
+learned counsel for the appellant,1.7884615384615385
+peculiar fact,1.0476190476190477
+case,7.332269420884958
+jurisdiction,2.9539571926331507
+disciplinary enquiry,0.5
+error,1.059158294766151
+light,0.8816192372754331
+powers of the high court,0.6666666666666666
+report,1.7768151696835826
+passages,0.44010416666666663
+scc,1.941872465904902
+judicial review,2.64
+judicial,2.8688059701492543
+worse - off situation,0.0
+manu,7.078142071124147
+disciplinary action,0.9750000000000001
+maximum penalty,0.5
+chander,1.8095238095238095
+constitution,3.204842342342342
+penalty of dismissal,1.0
+party,2.2250894654439723
+review,1.3564101463582128
+separate writ petition,0.6666666666666666
+punishment,1.6266937669376693
+writ petitions,2.984848484848485
+mr dk,0.5
+initiated proceeding,0.75
+singh,3.7791111111111113
+behalf of the respondents,1.3235294117647058
+same effect,0.875
+beside,0.6316646316646316
+enquiry,2.145762711864407
+circumstance,1.429931390219372
+decision in ramesh chander singh,0.5
+added feature,0.2857142857142857
+finding,1.8129183657767178
+service,4.257395095954566
+increments of the appellant,0.5
+similar circumstance,0.5454545454545454
+thereupon,1.4857142857142858
+regard apposite,0.5
+disciplinary authorities,0.5
+basis of the high court,0.6666666666666666
+such power,0.8907563025210085
+respondent authority pursuant to the directions,0.5
+enhancement of punishment,1.0
+redres,1.1730769230769231
+annual increment,0.6666666666666666
+besides,0.6364883401920438
+apposite,0.7111111111111111
+aggrieved,1.2479674796747968
+regard,2.723310344827586
+aside of that part,0.5
+proceedings,1.7670925223666287
+show cause notice to the appellant,1.3333333333333333
+following words,0.6763636363636363
+initiated proceedings,0.75
+division bench,3.965217391304348
+high court s directions,0.0
+date,6.195616975795285
+situation,1.1254754682459434
+ramesh,1.5798816568047334
+basi of the high court,0.0
+consideration before this court,1.0833333333333333
+to the notice,0.9047619047619048
+court s directions,0.0
+open to the high court,1.1666666666666667
+observations,0.7454584147497534
+supra,2.246342614440774
+power to direct enhancement,0.5
+uttar pradesh,2.8
+increment,1.4721485411140585
+bench,2.5793391667754992
+judicial service,7.3076923076923075
+high court s direction,0.0
+pursuant to the notice,0.8
+full court,6.333333333333333
+action,3.127292663476874
+offence,4.401610644257703
+facts,1.4696673624372698
+same judgment,0.875
+issue of show cause notice,0.5
+respondent,4.757894736842104
+following passages,0.43636363636363634
+pradeep,3.5
+directions of the high court,1.0
+respondents,2.6341263330598856
+light of the above decisions,0.5
+issue,2.766776251628934
+pradeep kumar v union of india,0.5
+leave,1.0147842365477848
+part of the order,0.6461538461538462
+costs,0.8167395522604189
+employees,4.611008798854102
+crime  offence,0.0
+basi,2.0752712086391383
+power of the high court,1.625
+powers,1.876345371920593
+rank,0.6723585912486659
+maximum punishment,0.5
+question,2.980312372067635
+feature,0.6446262956901254

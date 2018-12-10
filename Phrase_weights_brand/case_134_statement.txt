@@ -1,0 +1,1429 @@
+high level committee,3.25
+extracts,0.48128342245989303
+government,3.5583785424010483
+exclusive authority in regard,0.5
+legislative competence thereof,0.5
+act deal with the same subject matter,0.5
+state level planning,0.5
+priorities,0.5062893081761006
+establishment,0.9899216125419933
+examination reform,0.5
+board of intermediate education act,0.5
+states that every university,0.5
+legislative competence of parliament,1.75
+itc,2.016928143924638
+more applicant,0.5
+union,2.0981927710843373
+full bench of andhra,0.5
+state act in conformity,0.5
+following conclusion,0.7200000000000001
+grants,1.9239877769289533
+impinge,0.5
+way,1.7812722068664852
+systems,0.3927792585413133
+entrance,0.7155844155844157
+- entities,0.0
+duty of the constitutional courts,0.5
+new post,0.41666666666666663
+case of the institutes,0.5
+accreditation functions section,0.5
+light of the judgment,0.8
+act deal,1.736842105263158
+test,2.5329834591340266
+provision of entries,0.0
+correctnes,0.8404159132007234
+competence of parliament,4.25
+terms state that each entry,0.5
+duty of the commissionerate,1.0
+scr,2.483838975311538
+enforcement of the provisions,0.6666666666666666
+mysore,4.733333333333333
+life of the country,0.5
+standard in institutions,0.0
+determination of excellence,0.5
+circumstances of this case,1.1363636363636365
+piece,0.8682170542635659
+subject,2.4420366233344897
+education institutions,0.75
+academic planning,0.5
+academic activities,0.5
+order,5.472481489660944
+programme,1.5640149666503986
+recommendation of the committee,0.0
+fuller discussion on the matter,0.5
+leakage,0.21794871794871795
+standards,1.312168199737188
+standard of technical institutions,0.0
+indian state,0.75
+parameters,0.8168253968253969
+copy,0.8620926631522174
+organise work study programme,0.5
+provisions of the commissionerate act,1.0
+member,2.649111111111111
+prior approval,0.787878787878788
+same vice,0.5
+functioning,0.9337944664031622
+x x section,0.0
+detriment of the interest,0.5
+disgust,0.23595505617977527
+osmania university,3.3333333333333335
+meeting,1.5978547625659538
+condition,2.259476395625584
+educational institutions,1.2480000000000002
+void,1.2208700269947337
+subject to the provisions of entries,4.0
+terms of the recommendations,0.6666666666666666
+newspaper with disgust,0.0
+extract,0.7823518379594899
+remedial action of higher education,1.0
+such disparity,0.0
+same on the ground that the applicant,0.5
+performance appraisal system,0.6666666666666666
+earlier judgment,1.8
+financial management,0.5
+various levels,0.6666666666666666
+powers,1.876345371920593
+admission criterion,0.0
+action of higher education,1.0
+scheme,3.415949119373777
+mr reddy,1.0
+question papers leakage,0.5
+entrance test for university admission,0.5
+medical education,0.9714285714285713
+other bodies under the act,0.5
+vii,1.26552423069836
+list iii,9.615384615384615
+iii deal with broader subject,0.0
+country,1.2903191103863751
+two - judge bench inter alia on the ground,0.0
+to the central law,0.6666666666666666
+higher education in the state,4.666666666666667
+pradesh high court,2.409090909090909
+progress of implementation,1.5
+education institutions as deemed universities,0.5
+starting,0.7114114917915775
+impugned judgment,2.0927152317880795
+central act,5.416666666666667
+nadu private colleges,0.5
+legislative action,0.6000000000000001
+deemed university,0.0
+non-entity,0.0
+provision of the commissionerate act,0.0
+guideline of the government,0.0
+harmonisation,0.5
+post,2.344803646492219
+standards for courses,0.5
+more applicants than the available situations seat,0.5
+power to the commissionerate,0.5
+conflict,1.314561353483509
+furtherance of the recommendations,0.6666666666666666
+bodies,0.8969063256135499
+recognition,1.4333333333333333
+andhra,4.830188679245283
+determination of standards inter alia,0.5
+comparative study of the provisions,0.6666666666666666
+co-operation,0.0
+bengal,1.9299191374663072
+sweeping provision,0.5
+staff qualifications,0.5
+function of the council,0.0
+situations seat,1.0
+general duty,0.5
+high education through councils,0.5
+state authorities,1.5714285714285714
+institution for higher education,0.0
+law relating,1.3870967741935485
+parameter,0.7630669107179174
+fuller discussion,0.5
+common feature in some other states,0.5
+non-entities,0.0
+copy of the annual report,0.5
+removal,0.7204301075268817
+list iii of the vii schedule,0.5
+constitutional,1.945673076923077
+duties,1.477142857142857
+anr,1.1271033322299457
+various body,0.0
+ultra vires,1.8484848484848484
+bare comparison of the provisions,0.6666666666666666
+present form,0.5681818181818181
+effective enforcement of the provisions,0.5
+modification,0.9714977645305514
+copy thereof,1.6666666666666667
+qualifications,1.0714285714285714
+doubt,1.3646267723102583
+upon the court,0.9090909090909091
+bar,1.4720990391722097
+teachers,2.506794564348521
+academic function,0.5
+report,1.7768151696835826
+principle,1.9620890732001848
+newspaper,1.4133350781914544
+anything,0.9132309941520469
+de-recognition of the institution,0.0
+seventh,2.451612903225806
+list i of vii schedule,0.5
+inspection,0.8496732026143791
+division bench,3.965217391304348
+same subject matter,1.3333333333333333
+higher educational institution,0.5
+centers,0.5012531328320802
+fields,0.9241650294695481
+respondent,4.757894736842104
+schedule,2.9453067257945307
+iii deals,0.8333333333333334
+technical institution,2.5
+tribunal bar association,0.6666666666666666
+such defects in the higher education,0.5
+proper legislation,0.6666666666666666
+other bodies,0.5714285714285714
+impact,1.0957789249924081
+co-ordination,0.0
+honble,2.4444444444444446
+provisions of the impugned act,0.6666666666666666
+doubt whatsoever,1.1428571428571428
+provisions of university grants commission act,0.5
+union list,7.5
+piece of legislation,1.3
+education of teachers,0.5
+detriment,0.5446808510638297
+conflict in legislative competence,0.5
+high,5.367119186841496
+effective machinery for planning,0.5
+following terms,1.5957446808510638
+to the recommendation of the committee,0.0
+event,1.4310854436179261
+human right,1.1211406518010292
+courses of study,0.6666666666666666
+such disparities,0.5
+situation of this nature,0.8
+public service,1.9112903225806455
+engineering,1.3567493112947657
+university teachers,3.0
+provision on the autonomy,0.5
+intra vire,1.25
+regard to the changes,0.5
+parameters of the constitutional scheme,0.5
+valid piece,1.1666666666666667
+technical college,0.6666666666666666
+cases on the subject,0.5
+arise,1.1675508399646328
+ground of lack,0.75
+affairs,0.8608695652173913
+other thing,0.48636363636363644
+technical education institution,0.5
+criterion,0.7104166666666666
+hereinafter,0.7670609645131939
+tamil,3.111111111111111
+osmania university teachers association,3.0
+reforms,0.6547619047619048
+such standards,0.5714285714285714
+bench of andhra,0.75
+commission,4.703619179345321
+proper co - ordination,0.0
+provisions of entries,4.0
+indian council,1.0
+sinha,0.8166351606805294
+viith schedule,3.5
+valid compelling reasons,0.5
+council in order,0.0
+gap,0.5109023703753942
+vice,3.766984711894892
+accountability,0.5990990990990992
+above objective,0.6666666666666666
+comparison of the central act,0.5
+shoulder of the incumbent,0.0
+training of labour,1.0
+evaluation on the basis,0.5
+pursuant whereto,1.0
+such time,0.8480725623582767
+accountability of the technical institutions,0.5
+emphasi,0.9191619047619048
+perspectives,0.2435897435897436
+devastating provision,0.5
+inconsistent with the provisions of arms act,0.5
+want of legislative competence,1.0
+progres of implementation,0.0
+types,0.6765151515151515
+repugnant to the central legislation,0.5
+nadu,1.4166666666666665
+commissionerate act deal with the same subject matter,0.5
+ground that the applicant,0.6666666666666666
+colleges in the state,3.0
+service,4.257395095954566
+rule,5.04
+concerted action,0.4
+higher educational institutions,0.5
+costs,0.8167395522604189
+of new posts,0.6666666666666666
+extent of conflict,0.5
+higher,1.7172937941551014
+admission,1.5389848246991107
+effect encroaches upon legislation,0.5
+constitutional forms,0.5
+institutions for higher education,3.5
+power,3.8165227690948367
+woman,1.316528681253696
+doctrine of pith,0.6666666666666666
+teaching,0.9333333333333333
+subba rao,2.0
+to the recommendation,2.0
+therein in the following terms,0.5
+more applicants than the available situations seats,0.5
+state level programmes,0.5
+examination,2.4920345926263088
+present entry,0.5
+pursuant to the recommendations of the committee,0.5
+coming,0.8953304313415116
+statutory bodies,1.6
+dissemination,0.3401360544217687
+position,1.549133168619177
+following circumstances,0.875
+academic functions,0.5
+petition,5.3436539306104525
+concurrent list,4.375
+guidelines,1.540251572327044
+consideration,1.9110153789142115
+standards of teaching,0.5
+government of india,4.94
+in the instant case,2.0224719101123596
+coordination of such standards,0.6666666666666666
+discussion on the matter,0.5
+board of accreditation,0.5
+clause,3.526455026455027
+pradesh education act,0.5
+gaps,0.5703703703703704
+such development programme,0.5
+hindu,2.3637826961770623
+working,1.1479822756765312
+mind that the purpose,0.5
+functions of the council,3.0
+andor,0.8398466033601169
+comparison of the provisions,0.8
+starting of new higher educational institutions,0.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+point of time,0.7999999999999999
+tamil nadu,3.176470588235294
+vice - chancellors,0.0
+approval of the commissionerate,0.5
+vice - chancellor,0.0
+substance,0.8230581678857541
+rmd,0.5840707964601769
+other state,1.851851851851852
+above discussion,0.9333333333333333
+respective legislative field,0.5
+aided private college to another such college,0.5
+legislative assembly of the state,1.0
+performance,1.4794327394994442
+national education policy of the government,0.5
+pursuant,0.7227692307692308
+ugc,5.01605504587156
+developmental programmes of universities,0.5
+academic activity of various institutions,0.0
+national,1.5126860273884035
+result of the constitution,0.5
+ordination,1.7311827956989247
+conformity,0.71875
+means,1.3868295182781003
+continuation of such affiliation,0.5
+requirement,1.2416133333333332
+suggestion,1.2425592585991803
+derogation thereof,0.6666666666666666
+impugned act,4.181818181818182
+related establishments,1.0
+vire,1.2466124661246614
+deal,2.1942302694273583
+technical training of labour,1.0
+amendment act,3.6511627906976742
+university degrees,0.5
+regard to the observations,0.75
+new courses,0.5
+see,2.8180360783074034
+nature,1.4149926876444778
+things,0.6162490788504054
+andhra pradesh state council of higher education act,1.3333333333333333
+higher education,4.792792792792794
+planning,1.4283088235294117
+affiliation of technical colleges,0.5
+colourable piece,0.5
+petitioners,3.536507936507937
+conflict with the central legislation,0.5
+affairs of the higher education,0.5
+commission on receipt,0.5
+law relating to universities,0.5
+action,3.127292663476874
+result whereof the university,0.0
+isolated future,0.5
+legislative assembly,4.473684210526316
+university teachers association,3.0
+welfare assocn,0.5
+copy of the report,1.0
+viith,3.5
+thing,1.1131787570209408
+consideration in naga people,0.5
+ugc act for that purpose,0.5
+enactment,1.439950980392157
+new higher educational institution,0.5
+certain of new posts,0.5
+clause i of article,0.5
+technical education institutions as deemed university,0.0
+director,1.3549769585253457
+research institute,0.6502463054187192
+responsibility,0.8659259259259259
+study of the provisions,0.6666666666666666
+sections,1.640495469442838
+matters,1.4810665618448637
+teacher,3.0760180995475115
+instance,0.9469803370786518
+inter,3.683850287482992
+technical education,1.1666666666666667
+conduction,0.3333333333333333
+sufficient safeguards,0.75
+manner deals with the subject matter,0.5
+court,12.24425115501509
+mechanisms,0.39316239316239315
+declaration,2.152560083594566
+overall control over the state council,0.5
+parliament,2.6571235781762095
+training,2.5456213222568365
+union legislation,0.5
+person,4.291511329454258
+correctness,0.8404159132007234
+continuance of affiliation,0.5
+entries,2.110809342748506
+university grants commission act,1.5
+perspective plan for development,0.0
+cji,0.3619047619047619
+institution of higher education,0.0
+technical institution in accordance,0.5
+defect in the higher education,0.0
+number,1.4802651440973922
+within the parameters of the constitutional scheme,0.5
+subject matter,1.2537313432835822
+decision,2.9514937765898557
+professional education,0.5
+admission criteria,0.5
+part ii,1.4746543778801842
+changes,0.8318262938726949
+subordinate legislation,1.5
+such councils,1.0
+of the provisions,2.3793103448275863
+movement of human rights,0.5
+number of universities,0.6666666666666666
+year,2.8349484769759212
+consolidated programmes in the sphere,1.5
+assembly of the state,0.6666666666666666
+new educational institution,0.5
+education policy in the year,0.5
+judgment,3.288216560509554
+university examinations,0.5
+act,12.870263922028107
+respective legislative fields,0.5
+relevant extracts,0.8
+academic programme,0.5
+safeguards,0.5785123966942148
+level,1.1533169827122092
+legislative competence,7.153846153846154
+the commissionerate act,6.5
+technical institutions in accordance,0.5
+continuance,1.5151515151515154
+section,9.287987283173626
+guidelines of the government,0.5
+thereunder,1.2794117647058825
+entrance test,1.5
+mr d,1.3774916943521593
+west bengal,3.3333333333333335
+constitutional scheme,1.6363636363636365
+legislative field,3.1666666666666665
+such development programmes,0.5
+seventh schedule,6.733333333333333
+standard,1.4669008088548319
+disparities,1.0
+functions,1.326241134751773
+remedial action,1.75
+impugned judgment that the council,0.5
+provisions of all indian council,0.5
+regard,2.723310344827586
+promotion,2.946428571428571
+such developmental programme,1.0
+india read,1.0
+knowledge,1.1120671641791045
+rights,1.6349541930937281
+fundamental rights,2.1587301587301586
+facts,1.4696673624372698
+state council of higher education,2.6666666666666665
+form,2.4865961263718424
+constitutional parameter,0.5
+standards in institutions,4.0
+lack,0.6349809734425119
+location of new colleges,0.5
+such council,1.0
+determination of standards,3.0
+development programme,0.8
+high education,0.3333333333333333
+department of education,0.2857142857142857
+women,1.162387410705042
+cost,1.2954397451466992
+additional resources,0.30000000000000004
+viith schedule to the constitution,0.5
+suitable performance appraisal systems,0.5
+academic activities of various institutions,0.5
+certain design,0.5
+course,1.6545957498716626
+deficiency,0.5102880658436214
+high power committee,1.0
+various level,0.6666666666666666
+term of the recommendations,0.0
+way in conflict,0.5
+pradesh,4.365853658536586
+council act,1.3333333333333333
+guidelines for admission,0.5
+provision of university grants commission act,0.0
+consolidated programme in the sphere,0.0
+provision of all indian council,0.0
+state council,2.8
+mass,0.49419584798420113
+activity of the universities,0.0
+consolidated programmes,1.5
+union list of the seventh schedule,0.6666666666666666
+activities during the previous year,1.0
+conditions for grant,1.2
+west,1.1420057009587976
+field,1.5820968371729793
+matter,2.8088923076923082
+want of constitutional power,0.5
+constitutional courts,2.0
+indian,1.2604961505560306
+aid,5.498621453008654
+activities,1.57291280148423
+shri goswami,0.5
+new technical institutions,0.5
+determine standards,0.5
+mr reddy on state,0.5
+disturbed area,0.5
+core,0.43168575654387237
+provisions of arms act,0.5
+material,1.4148767018946966
+feature in some other states,0.5
+activity,1.3846153846153848
+- entity,0.0
+petitions,1.3930830039525692
+such circumstances,0.5729166666666666
+hereinbefore,2.159090909090909
+programmes,2.1464646464646466
+guideline,1.5641711229946524
+provision,5.439002243350069
+resources centers for curriculum materials,0.5
+institution at various levels,0.0
+criteria,1.3561764705882353
+large number,1.0979284369114877
+-- as a result of the constitution,0.0
+imperative upon the courts,0.5
+following circumstance,0.875
+bihar manuscmanusc,1.9655172413793103
+programme of action,0.5
+department,1.9858367499068206
+available situations seat,0.5
+thereto,1.0358342665173572
+law panel,0.5
+provisions of the university act,1.0
+determine standards in institutions,0.5
+viii,0.7209469153515065
+technical education institutions as deemed universities,0.5
+extent,1.410108024691358
+development programmes,1.5
+education policy,1.5
+light,0.8816192372754331
+naga people,0.5
+parliamentary,1.8068812430632628
+confers power on the commissionerate,0.5
+shoulders of the incumbent,0.5
+copies,0.5369304682962884
+standard for courses,0.0
+manner deal with the subject matter,0.0
+whereof,1.2790697674418605
+arms,1.2384993436918101
+request,1.1474439594584596
+terms of the national education policy,0.5
+new college,0.30000000000000004
+approval,1.4085456739300164
+inspection investigation v ab,0.5
+new posts,0.4444444444444444
+credibility,0.6069651741293531
+same power,0.6018518518518517
+ultra vire,1.8484848484848484
+institutions at various levels,0.5
+co-ordinate,0.0
+want,0.9034484256025601
+loopholes,0.5303030303030303
+functions-,0.0
+advisory function,0.5
+principles,1.3198511166253102
+fact that the commission,1.25
+standard of education,1.0
+feature,0.6446262956901254
+ugc in respect of determination,1.0
+own andor,0.5
+osmania university teachers,3.0
+council,1.464939453675021
+impugned enactment,1.75
+high education through council,0.5
+writ,2.8882378560889794
+need,1.1097650269586634
+assembly,2.613006617038875
+more applicants,0.5
+such defect,0.6666666666666666
+entity,1.342435251377007
+other body,0.5142857142857143
+fees,0.9865534324133051
+hindu women s rights,0.0
+university education,0.5
+studies,1.1615103532277709
+super,1.7473819518075788
+ugc from time,2.5
+provision of the main part,0.0
+additional resource for higher education,0.0
+occurrence of such disparities,0.5
+view of give effect,0.5
+large number of universities,0.5
+change,1.2214862766571903
+intermediate education act,0.6666666666666666
+cases,1.9728229418951067
+academic life,1.0
+division,1.7657319129617017
+educational institution,1.6904176904176904
+state law,0.7279411764705882
+mal etc,0.3333333333333333
+laws under article,0.6666666666666666
+x x iii,0.0
+independent body,0.75
+discipline,0.5608974358974359
+greater role,0.5
+university grants commission in respect,0.5
+reform,0.6780894886363636
+mass copying in the university examinations,0.5
+constitutional form,0.5
+india,2.7684068260703585
+regard to the fact,1.5862068965517242
+scientific,1.3318685917555975
+design,1.6729193584375017
+higher medical education,0.5
+perspective,0.5639060811474604
+copying,0.2326388888888889
+association,1.2099052684061826
+new educational institutions,0.5
+acceptance,1.4762112614578786
+programme in the sphere,0.0
+determine standard in institutions,0.0
+request of the central government,0.5
+full account,0.30000000000000004
+decision of this court,2.3260869565217392
+central field,1.6666666666666667
+valid piece of legislation,1.0
+institutions in accordance,0.5
+naga,1.0600995179598818
+reliance,1.400763358778626
+students,1.1355891528677706
+provisions of sections,1.44
+iii deal,0.8571428571428571
+consolidated programme,1.5
+scc,1.941872465904902
+enactment within the purview,0.5
+within the parameter of the constitutional scheme,0.0
+performance appraisal systems,0.5
+mysore manuscmanusc,0.6666666666666666
+writ petitions,2.984848484848485
+development programme of universities,0.0
+constitutional court,1.5555555555555556
+own suggestion,0.5
+subject to the rules,0.6666666666666666
+center,0.9521598338119387
+duty,3.2272215973003378
+recommendations of the committee,1.0
+important role,0.4166666666666667
+uncertain terms state that each entry,0.5
+university examination,0.5
+resources,0.9331054687500001
+competence of the parliament,6.0
+act in question,1.1666666666666667
+college in the state,0.0
+point,2.9165043546008516
+national education policy,1.5
+provisions of the main part,0.5
+shall,3.6283780276816606
+location,0.8935109449248265
+submission of mr d,1.0
+provision of the university act,0.0
+statutory body,1.0
+legislatures,1.5314285714285718
+life on a high standard,0.5
+case on the subject,0.5
+vice - chancellors  committee,0.0
+mass copying,0.5
+effective machinery for promotion,0.5
+continuation,0.5723370429252783
+writ petition,6.24223602484472
+term of the national education policy,0.0
+v state of mp,1.15
+such form,0.6285714285714287
+incumbent,0.5797101449275363
+similar question,0.44117647058823534
+same within the parameter of the constitutional scheme,0.0
+acts,1.9133929521984454
+resource for higher education,0.0
+filing of the writ petition,0.8
+relevant extract,0.8571428571428571
+round,1.6469623212681128
+chancellor,0.37142857142857144
+search for new knowledge,0.5
+director of inspection investigation v ab,0.5
+furtherance thereof,1.2
+challenge,1.2204566274399267
+authority,2.4352627108360636
+reason by the impugned judgment,0.5
+pattern for a concerted action,0.5
+development,2.3145884270578647
+higher education act,2.0
+question as regard,1.105263157894737
+vis-a-vis implementation,0.0
+constitutional validity of the legislation,0.5
+research,1.351044147915173
+same premise,1.0
+academic activity,0.0
+central legislation,4.6
+technical colleges,1.0
+task,0.5643819334389858
+university grants commission in no uncertain terms,0.5
+v state of bihar manuscmanusc,1.8076923076923077
+iii,1.5614499719992534
+obligation,1.1071428571428574
+that situation,0.7674418604651163
+effect encroach,0.5
+plain,3.198322602206429
+legislations,3.3529411764705883
+arp,1.3099649474211317
+state,6.817996007300392
+technical education institutions,0.5
+democracy,1.3769338959212376
+statute,2.5765859456247218
+itc ltd v,1.0
+technical,1.1097902097902097
+state of tamil nadu,1.8421052631578947
+srivastava,0.8333333333333334
+commissionerate act deal,0.5
+programmer,0.1507321274763135
+other related establishment,1.0
+guideline for admission,0.0
+pursuant thereto,1.0769230769230769
+entire act,0.8571428571428572
+airsc,1.6909090909090911
+private college,1.5
+judicial system,0.8333333333333333
+discussion,0.7445831166579996
+new technical institution,0.5
+validity of the commissionerate act,0.5
+andor at the instance,0.5
+pursuant to the recommendations,1.0
+comparison,0.7333333333333333
+entities,0.5395256916996047
+newspapers with disgust,0.5
+academic planning among the various bodies,0.5
+labour,2.5372960372960374
+same within the parameters of the constitutional scheme,0.5
+autonomy to technical institutions,0.5
+such defect in the higher education,0.0
+regard to the parliamentary act,0.5
+implementation,1.2465707594513213
+chamabraugwalla,0.5
+intermediate education,1.6666666666666667
+such standard,0.5714285714285714
+validity,1.521010638297872
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+other body under the act,0.0
+affair of the higher education,0.0
+politic,0.9858689682228325
+meaning,1.8612727545949643
+division bench of the andhra,1.6666666666666667
+femanu,1.25
+fee,1.560669497024209
+interest,2.74353772015385
+university admission,0.5
+state act deal,0.5
+behalf,1.9888053603529987
+full bench,5.0
+applicants than the available situations seats,0.5
+valid compelling reason,0.5
+shoulders,0.39215686274509803
+examinations,1.173913043478261
+scope for interaction,1.0
+education in the state,5.0
+permission,1.1531211886018407
+curriculum materials,0.5
+wide legislative field,0.5
+defects,0.6712564543889845
+appeal,3.4125488033856883
+challenge to the validity,1.25
+accordance with the guidelines,2.6666666666666665
+evaluation,0.7358156028368795
+area,2.675167256985439
+conflict between the university grants commission act,0.5
+coordination of higher education,1.0
+alia,0.9479866480753792
+court in osmania university teachers association,2.5
+provision of arms act,0.0
+of new post,0.6666666666666666
+exercise on the part,0.5
+perspectives of higher education,0.5
+developmental programme of universities,0.0
+similar act,0.5333333333333333
+list,4.014941314095513
+above objectives,0.6666666666666666
+manner,1.4494591333432125
+autonomy of the universities,0.5
+such college,0.5
+gohil,0.75
+planning among the various bodies,0.5
+national education policy in the year,0.5
+union of india manuscmanusc,1.847457627118644
+tuition fee,0.5
+objective,0.5021775147928994
+college,2.1498947162234954
+january,0.8699641577060931
+pattern,0.6151546391752578
+act in details,0.5
+burden of proof,0.7378917378917379
+list i entry,1.3333333333333333
+coordination of state level programmes,0.5
+circumstance,1.429931390219372
+regulation,4.3783195107648485
+mean,2.390645692553228
+other fee,0.26666666666666666
+perspective of higher education,0.0
+education through councils,0.5
+investigation,1.6673076923076922
+entrench thereupon,0.5
+occurrence,2.1343873517786562
+primal question,0.8571428571428571
+degree,0.6705786026200874
+recommendations,2.1638655462184877
+union of india,3.1324503311258276
+regards,0.9072861236185019
+staff pattern,0.6666666666666666
+thereof,1.7897727272727273
+general duty of the council,0.5
+purview,1.0864197530864197
+basi,2.0752712086391383
+with the provisions of arms act,0.5
+resources center,0.4444444444444444
+aided private college,0.6666666666666666
+technical training,1.0
+doctrine,0.7455954017243533
+basis,1.953226441078104
+subject to the guidelines,0.5
+absence of any valid compelling reasons,0.5
+legislative,2.4237377279102383
+facts of each case,1.0
+view that the impugned enactment,0.5
+implementation by the council,0.5
+aid of the parliamentary act,0.5
+great detail,0.41481481481481486
+advisory functions,0.5
+v ranjit p gohil,0.5
+courses of studies,0.6666666666666666
+osmania university teachers  association,0.0
+state act,6.7
+legislature of the states,0.0
+effect encroaches,0.5
+furtherance,1.758139534883721
+institutes,0.6052631578947368
+amendment,2.2486412346818434
+defect,1.4259259259259258
+ugc act,2.5
+function,1.6326372491145218
+arises,0.8292682926829268
+proof,1.0648141580366008
+responsibility to the nation,0.5
+available situations seats,0.5
+conformity with the norms,0.5
+ugc at the instance,0.5
+legislative fields,1.2
+term,3.6255105640901575
+vires,2.388888888888889
+establishments,0.52
+view,2.441100058469462
+intra vires,1.25
+requirements,0.7375979875979877
+fact of each case,0.0
+modifications,1.0069444444444444
+arises for consideration,1.0
+result,1.3356630184144715
+educational,1.1138712241653417
+teacher of a university,0.5
+mas,0.9088561393243791
+on the ground that the applicant,0.6666666666666666
+condition for grant,0.5
+terms state,1.0
+private colleges,0.6666666666666666
+legislation,3.2032032032032034
+high standard,0.6984126984126984
+fact,3.6284951019474962
+such circumstance,0.5723905723905723
+learned counsel,3.703333333333333
+other fees,0.5
+constitutional validity,2.6875
+state level,0.9259259259259259
+uniform pattern,0.5
+commission in respect,1.0
+market committee,7.800000000000001
+new knowledge,0.3333333333333333
+regard to the provisions,1.1176470588235294
+presumption,1.06
+that behalf,1.3548387096774193
+appraisal,0.9818181818181818
+exercise,1.9400726466785694
+furtherance whereof,1.0
+naga person,0.0
+curricula,0.3684210526315789
+hindu woman,0.0
+judicial,2.8688059701492543
+operation of the central act,0.5
+respondent herein,1.8936170212765957
+therein,1.5503424657534246
+exercise of the power,1.525
+councils,0.6666666666666666
+women s right,0.0
+applicable in the instant case,0.8571428571428571
+education act,1.4444444444444444
+v state,2.4603773584905664
+forth by the university grants commission,0.5
+forms,0.8089941394570028
+de-recognition,0.0
+osmania,4.0
+uncertain terms state,1.0
+question,2.980312372067635
+levels,0.8861538461538463
+to the recommendations,1.4444444444444444
+pradesh commissionerate of higher education act,0.5
+scmanu,7.940520446096654
+devastating provision on the autonomy,0.5
+uniform,0.5681818181818182
+super power,0.2857142857142857
+institute,0.9140980436760691
+in case of technical colleges,0.5
+various bodies,0.6666666666666666
+entry,4.707210447678601
+cooperation,0.8318725099601593
+defects in the higher education,0.5
+resources centers,0.5
+agricultural,3.5005050505050503
+case of technical colleges,0.5
+force,1.6009408121948314
+uniform pattern for a concerted action,0.5
+property,2.9368986630013745
+states,1.5120646995827023
+law,3.538923411654744
+observation,0.7625074854374218
+upper hand,0.4
+the contention,1.2542986425339366
+body under the act,0.0
+plan,2.0162821688398056
+board,2.401414435268602
+resource,0.8416706827309237
+own andor at the instance,0.5
+state level planning for coordination,0.5
+grant,1.7314487632508835
+assessment,2.647276084949215
+subject to the letter s acceptance,0.0
+matter in great details,0.5
+engineering colleges,1.3333333333333333
+subba,0.6964285714285714
+perspective to higher education,0.5
+programme of universities,0.0
+harmonisation with a view,0.5
+council in respect,0.5
+authorities,1.266131845134287
+many of the provisions,0.5
+reading,0.9004509191814082
+repugnant to the law,0.5
+academic life of the country,0.5
+needed transformation,0.5
+own suggestions,0.5
+act for that purpose,0.5
+university grants commission from time,1.0
+university teachers  association,0.0
+examination reforms,0.5
+intention,1.7585585585585588
+ltd,2.382356477306883
+submission,1.0913871684001404
+main part,0.5384615384615384
+petitioners in the earlier writ petition,0.5
+national board,0.2222222222222222
+detail,0.9737454684220567
+developmental,1.2
+central law,1.5
+institutions,2.2839413875598087
+constitution,3.204842342342342
+letter,2.707240080105903
+fallout,0.40909090909090906
+v chanan,0.6666666666666666
+effective machinery,1.0
+governments,1.020200276243094
+power committee in regard,0.5
+standard of teaching,0.0
+compelling reason,0.5333333333333333
+universities,1.8989361702127658
+recommendation,2.6589497459062676
+high standard in the universities,0.5
+supra,2.246342614440774
+examination in the universities,0.5
+standards of technical institutions,0.5
+tuition,0.23809523809523808
+commissionerate act,6.5
+terms of entry,3.0
+maharashtra,2.9076923076923076
+applicant,0.7861822513400833
+academic programmes,0.5
+new course,2.0
+burden,0.9853978671041838
+core question,0.6
+india manuscmanusc,1.8333333333333333
+management,1.6732611752395274
+premise,1.2347417840375587
+private,1.3048022500781278
+seats,4.349544072948328
+criterion for admission,0.0
+reason,2.6381270903010035
+operation,1.0959893294085181
+life,1.3352928273744242
+prior approval of the commissionerate,0.5
+sufficient safeguard,0.8571428571428571
+university degree,0.5
+human,1.0063526196524266
+facie,1.0476190476190477
+others,0.9074667328904616
+upper hand over the ugc act,0.5
+receipt,1.5471923536439667
+respect of determination,2.0
+state of west bengal,1.6857142857142857
+organise work study programmes,0.5
+functions of the commissionerate,0.5
+student,1.2777711454664835
+hindu women s right,0.0
+judge,2.9012627415183325
+nation,3.034318722392117
+conjoint reading,1.1333333333333333
+state councils,0.5
+list i,12.920712694877505
+effective enforcement,0.5
+duty to place,0.5
+center under entry,1.0
+course of studies,0.5
+safeguard,0.6623074687590815
+conclusion,1.3883437407077015
+arms act in the disturbed areas,0.5
+r chitralekha v state of mysore manuscmanusc,0.5
+commissionerate act in details,0.5
+hindu women,0.5
+panel,1.3733381243262668
+legislatures of the states,0.5
+state legislatures,1.9547511312217196
+various institutions,0.3333333333333333
+no doubt,0.8331331503088538
+deficiencies,0.5185185185185185
+qualification,2.1521739130434785
+circumstances,1.3944461370073231
+osmania university teacher,3.0
+welfare,1.3226788432267886
+vices,1.5418348602384544
+high court,7.7477477477477485
+sweeping provisions,0.5
+shri krishna gyanoday sugar ltd,0.5
+jurisdiction,2.9539571926331507
+same vices,0.5
+state legislature,4.444444444444445
+pradesh high court in writ petition,0.5
+repugnant to the central law,0.6666666666666666
+technical institutions,2.25
+term of entry,0.0
+manu,7.078142071124147
+organise,0.5
+role,1.0562959821210092
+needed transformation in the academic life,0.5
+accreditation,0.5
+broader subject,0.5
+list ii,18.844444444444445
+fundamental right,2.9790209790209787
+tribunal,5.07183212267958
+assocn,0.3333333333333333
+act with the provisions,0.6666666666666666
+programmes in the sphere,1.5
+applicants than the available situations seat,0.5
+university teacher,3.0
+full effect,1.2222222222222223
+university,3.75675614961249
+technical education act,0.5
+noticed hereinbefore the state act,0.5
+curriculum material,0.5
+goswami,0.75
+courts,2.1216528162511543
+manner deal,0.5
+india vests parliament,0.5
+of the provision,2.533333333333333
+commissionerate,11.0
+committee,2.546237803603864
+restriction,1.0123456790123457
+principal duty,0.0
+expression  coordination,0.0
+chitralekha,0.5
+vii schedule,3.0
+sphere,0.622245268343272
+people,1.2855544825097243
+reasons,1.3749054007567938
+filing,1.1274190041313328
+terms,2.390350840909655
+education,2.1892608326253185
+arm,0.9325525916287142
+task before this court,0.5
+progress,1.075925925925926
+clause i,1.5564516129032258
+state level programme,0.5
+such defects,0.5
+intermediate,0.7534722222222223
+madras,2.836734693877551
+state act deals,0.5
+subject to the central act,0.5
+ors,2.8612718198296623
+provision of the impugned act,0.0
+part,5.294464509893076
+resources center for curriculum materials,0.0
+removal of disparities,0.5
+ways,1.3640952708404963
+activities of various institutions,0.5
+other related establishments,1.0
+correctness of the judgment,1.1111111111111112
+bare comparison,0.75
+constitutional parameters,0.5
+shri,2.0759135877246115
+decisions,1.3888475974580996
+bodies under the act,0.5
+inasmuch,0.8571428571428571
+situations,0.7435282837967402
+machinery for promotion,0.5
+unenforceable in case of technical colleges,0.5
+seat,2.8245469748060423
+staff,1.3233972834416785
+areas,1.6237236125072747
+plan of development,0.5
+whereto,0.5294117647058824
+determination,1.5980374665477253
+search,1.156007562422583
+further requirement,0.3333333333333333
+to the law,0.5097560975609756
+various norms,0.5
+function of the commissionerate,0.0
+grants in respect,0.5
+forth,0.7104532839962997
+purview of the union government,0.5
+statute with a view,0.5
+validity of the legislation,0.6666666666666666
+upon the courts,0.6666666666666666
+transformation,0.25
+conductions,0.5
+two - judge bench inter alia,0.0
+pradesh state council,2.0
+loophole,0.5133333333333334
+enforcement,0.7354220499569336
+state government,3.027142857142857
+effect,2.184583388478191
+courses,1.0904013961605583
+national board of accreditation,0.5
+comment,0.5887096774193549
+state of haryana,1.7608695652173914
+with the provision of arms act,0.0
+university act,2.5
+irrespective of the standard of education,0.5
+asstt,1.4
+r chitralekha v state,0.5
+duty of the council,0.5
+mal,1.7084330383670323
+to the central legislation,0.5
+place,2.333104345208554
+university for grant,0.5
+effect encroach upon legislation,0.0
+following term,1.6170212765957446
+letter s acceptance,0.0
+reddy,0.7218614718614719
+uncertain terms,0.7555555555555555
+krishna,1.2505446623093683
+control,2.148867902684286
+madras university act,0.5
+interaction,0.43870967741935485
+affiliation,1.517948717948718
+universities grants commission,0.5
+result of a report,0.5
+chamabraugwalla v the union,0.5
+education institutions as deemed university,0.0
+various institution,0.3333333333333333
+scope of legislative action,0.5
+petitioner,4.524972253052164
+aid of the ugc act,0.5
+maintenance,0.8632111808077473
+perspective plans,1.0
+applicants,0.6960950764006791
+pith,1.4249999999999998
+uncertain term,0.7555555555555555
+disparity,0.2857142857142857
+central authority,0.5714285714285714
+ground,1.4186722903211633
+high standards,0.2777777777777778
+great details,0.75
+article,4.378806157159795
+market,5.294198044198044
+hand over the ugc act,0.5
+machinery,0.9071637426900585
+overall priorities,1.0
+pradesh high court by a judgment,0.6666666666666666
+principal duties,0.6666666666666666
+part ii of the constitution,0.5
+state councils of higher education,0.5
+concurrent,0.970164609053498
+standards inter alia,0.5
+engineering college,0.5982905982905984
+suggestions,0.7508630609896433
+women s rights,0.0
+such affiliation,0.6666666666666666
+confers power,1.0
+perspective plans for development,1.0
+course of study,12.0
+rao,0.9220020325203252
+shanthi etc,0.5
+bihar,4.587301587301587
+scope,0.8412698412698413
+laws,1.4186274337269533
+degrees,0.5327868852459017
+activity of various institutions,0.0
+ranjit,2.7142857142857144
+turn,1.6310093128618173
+university grants commission,8.5
+same powers,1.0
+comparative study,0.3555555555555555
+respect,2.6704963235294117
+commission in january,0.5
+criteria for admission,0.6666666666666666
+expression,1.7424391201885312
+power committee,1.0
+control over the state council,0.5
+common feature,0.7999999999999999
+station,1.2515681586858238
+dr preeti srivastava,0.5
+same meaning,1.0476190476190477
+sugar,5.734610417563496
+norms,1.1693121693121695
+stand,1.8422769621739425
+work,2.8478559811646353
+system,1.1230229504341178
+state of andhra pradesh,3.625
+activities of the universities,0.5
+ramakrishna,0.45454545454545453
+such of the provisions,0.6666666666666666
+function in accordance,0.5
+court in osmania university teachers,2.5
+papers,1.0564063453325199
+additional resource,0.2857142857142857
+details,0.9406426856198188
+standard of institutions,0.0
+posts,2.6556317082632876
+councils of higher education,1.5
+derogation,1.0952380952380951
+progres,1.075925925925926
+excellence,0.6521739130434783
+education through council,0.5
+colleges,1.9166666666666667
+developmental programmes,1.5
+institution,2.7327010745685443
+accordance,1.4069045211613462
+council of higher education,3.0
+other states,1.3494318181818181
+institutions of higher education,2.0
+coordination of educational institutions,1.0
+annual report,1.0909090909090908
+government in the field,0.5
+related establishment,1.0
+word,2.065873981084096
+ugc in respect,1.0
+correctnes of the judgment,0.0
+overall control,0.5
+appeals,1.7060218112849692
+state legislation,7.875
+objectives,0.698051948051948
+behalf of the respondent,1.453125
+v state of andhra pradesh,1.2
+suitable performance appraisal system,0.5
+new higher educational institutions,0.5
+list i of the vii schedule,1.5
+programmers,0.20707070707070707
+account,2.5754891049671977
+purpose,2.519170317925504
+help,0.7217940266720754
+that purpose,0.609375
+institution in accordance,0.5
+study,1.4280920541907696
+time,2.4764180952862667
+andhra pradesh state council,2.0
+central government,3.0380952380952384
+standards of institutions,0.5
+extent that the state legislation,0.5
+act inter alia,0.8888888888888888
+constitution bench,4.27536231884058
+resources for higher education,0.5
+requisite legislative competence,1.3333333333333333
+additional resources for higher education,0.5
+constitution of india vests parliament,0.5
+colourable piece of legislation,0.5
+development programmes of universities,1.0
+right,3.07483248288682
+developmental programme,1.3333333333333333
+that extent,0.8888888888888888
+to the recommendations of the committee,0.5
+state governments,1.3345864661654134
+absence,1.092363454568179
+pradesh state council of higher education act,1.3333333333333333
+type,0.8102172691515265
+counsel,2.2246780703440323
+necessary fallout,0.6666666666666666
+function of the councils,0.0
+policy,3.250773332247955
+disturbed areas,0.5
+situations seats,1.0
+plans,2.01766620176662
+union government,1.8333333333333333
+rules,3.130914366958792
+mechanism,0.7337579617834395
+law under article,0.0
+coordination,1.9090909090909092
+earlier writ petition,0.8333333333333334
+maintenance of standards,2.0
+compelling reasons,0.5555555555555556
+authority in regard,0.5
+iii deals with broader subject,0.5
+andhra pradesh,4.857142857142857
+dispute,2.402137592137592
+industry,8.208106219426973
+programmes of universities,2.0
+conditions,1.9988092071092867
+functions of the state council,0.5
+case,7.332269420884958
+education institution,0.75
+error,1.059158294766151
+competence,3.09375
+state authority,1.0
+question of standard,0.5
+affair,0.8341728395061728
+impact of the entry,0.5
+curriculum,0.646551724137931
+ordinate,1.2442006833303363
+petitioner in the earlier writ petition,0.0
+solemn obligation,0.5
+manifest error,1.6666666666666667
+future,0.9664487618116651
+help of the law panel,0.5
+give effect,0.7333333333333333
+new colleges,0.5
+contention,1.666391070690368
+shoulder,0.665948275862069
+thin air,0.3636363636363636
+inter alia,1.3280423280423281
+decision ex facie,0.5
+function of the state council,0.0
+view that the high court,1.0
+autonomy,0.6610169491525425
+comments,0.5982500911410864
+gyanoday,0.5
+mean evaluation,0.5
+bench,2.5793391667754992
+exclusive authority,0.5
+preeti,0.5
+determine standard,0.5
+various norm,0.5
+high power committee in regard,0.5
+competence thereof,0.5
+body,1.336775463480009
+list iii of vii schedule,0.5
+notice,2.3300025999395686
+standard in the universities,0.5
+express intention,0.6666666666666666
+materials,1.1534090909090908
+constitutionality,0.7965517241379311
+sheer number,0.3333333333333333
+shanthi,0.5
+priority,0.7086614173228346
+grant scholarship,0.5
+chancellors,0.3333333333333333
+co - ordination,0.0
+instant case,2.0631578947368423
+impinge on standards,0.5
+circumstance of this case,0.0
+grant in respect,0.0
+haryana,2.935064935064935
+chanan,0.37499999999999994
+overall priority,0.0
+education policy of the government,0.5
+further of the view that the high court,0.5
+notice of the fact,0.8
+air,2.0589664272145285
+government of andhra pradesh,1.6153846153846154
+exclusive power,3.7142857142857144
+regard to article,1.0
+conjoint,1.1875
+constitutional power,0.8333333333333333
+parliamentary legislation,4.4
+legislature,2.818553268765133
+newspapers,0.854368932038835
+similar acts,0.6666666666666666
+perspective plan,1.3333333333333333
+nadu private college,0.5
+manner deals,0.5
+such developmental programmes,1.0
+arise for consideration,1.2142857142857142
+parameter of the constitutional scheme,0.0
+machinery for planning,0.5
+produce,1.7202617328519856
+paper,1.8076689487632511
+movement,0.8351097178683385
+scholarship,0.2134146341463415
+hand,2.0299623418254717
+light of the decisions,0.6666666666666666
+consideration to the fact,0.6666666666666666
+norm,1.1955826794536473
+honble cji,0.5
+madra,2.836734693877551
+human rights,0.9865951742627346
+advisory body,0.3333333333333333
+parliament under entry,6.333333333333333
+previous year,1.384404924760602
+constitution of india read,1.0
+public,2.923239095873367
+station government,0.5
+the contention of shri goswami,0.5
+level committee,3.4
+staff qualification,0.5
+central,2.61875
+co-ordination of educational institutions,0.0
+property act manufemanufe,0.5
+deemed universities,0.5
+emphasis,0.8024289099526066
+provision of sections,0.0
+state of up,2.0784313725490198
+functions of the councils,0.5
+broad manner,0.6666666666666666
+situation,1.1254754682459434
+result whereof the universities,0.5
+observations,0.7454584147497534
+other things,0.4197737746124843
+pradesh commissionerate,0.5
+arms act,1.4545454545454544
+adhiyaman,0.5
+activity during the previous year,0.0
+parliamentary act,2.25

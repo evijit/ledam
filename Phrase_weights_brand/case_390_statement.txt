@@ -1,0 +1,1321 @@
+courts,2.1216528162511543
+special fact of each case,0.0
+deceased persons,1.0
+general social pressure,0.5
+significant discretion,0.6666666666666666
+corollary,0.5
+such situations,0.5142857142857143
+criminal justice deal with complex human problems,0.0
+deaths,0.43177752480078063
+stairs screaming in fear,0.5
+weightage to the mitigating circumstances,1.0
+sight,0.6194871794871795
+sentiment,0.5557228915662651
+injured witness,2.8181818181818183
+aforestated offence,0.5
+corroboration,1.5714285714285714
+code,2.880559796437659
+sinister planning,0.5
+lives,0.6840821832520494
+nature of the assaults,0.5
+sources,0.8884345343723477
+ipc exist,0.6666666666666666
+mind,1.1559066143122394
+evidence of relatives,0.5
+other hand,0.6931925622439332
+amicus curiae,1.6666666666666667
+apparent injustice,0.5
+noise from the roof,0.5
+horrendous feature of the crime,0.0
+indicator,0.7086466165413534
+thorough thrashing,0.5
+that section,1.1768292682926829
+bride,0.30909090909090914
+sentence in each case,0.6666666666666666
+personality,0.8909774436090225
+rameshwar v state of rajasthan,0.5
+reasons,1.3749054007567938
+sections,1.640495469442838
+terms,2.390350840909655
+human problem,0.4
+los,1.8125523261338943
+problem,0.6764352120789936
+instance,0.9469803370786518
+extreme penalty of death need,0.6666666666666666
+betrayal,0.35526315789473684
+successive legislative changes,0.5
+inter,3.683850287482992
+assassin,0.4620689655172413
+interestednes of the witnesses,0.0
+fact that the evidence,0.8
+bachan singh s case,0.0
+holder of the judicial power center,0.0
+failure,0.7827962142086977
+principal,1.3412499999999998
+civilized societies,1.0
+court,12.24425115501509
+horrendous feature,0.5
+vital importance,0.75
+that punishment,0.75
+criminology,0.18181818181818182
+conviction at a trial,0.75
+individual predilection,0.5
+fact of relationship,0.5
+madras,2.836734693877551
+eye,0.9466574319441098
+parliament,2.6571235781762095
+act xxvi,1.0
+prominent role,0.5
+impression of impulsive act,0.0
+person,4.291511329454258
+outcome,0.6303030303030303
+special reasons,2.0
+ors,2.8612718198296623
+propositions,0.5238095238095238
+allegations,1.8333333333333335
+way,1.7812722068664852
+astrological imponderable in an imperfect,0.0
+cause,1.8431210321626654
+part,5.294464509893076
+desert,0.5281007751937985
+other members,0.59375
+imponderable,1.25
+imponderable in an imperfect,0.0
+cross,2.0778316690442225
+normal sentences,0.5
+observed-,0.0
+punishable under sections,1.6153846153846154
+mechanical rejection,0.5
+rule of law,0.5359801488833746
+from the fact,0.6375
+evidence show,0.5333333333333333
+personal cause,0.5
+cause for enmity,0.5
+personal cause for enmity,0.5
+assailant,0.5333333333333333
+provision in the code,1.0
+- days,0.0
+scenario,0.4835164835164836
+deliberations,0.625
+age,4.526374474274117
+practical consequence,0.3333333333333333
+number,1.4802651440973922
+decisions,1.3888475974580996
+sessions,1.3405714285714285
+character,0.9325990965842764
+decision,2.9514937765898557
+contrary,1.027917657672435
+trust,1.8699167074963252
+partisan witness,0.5
+other circumstances,0.6000000000000001
+positive indicators,0.5
+desert as the basis,0.5
+sentences of death,1.0
+correctional need of the perpetrator,0.0
+situations,0.7435282837967402
+conviction for offence,1.5
+vadivelu thevar,0.6666666666666666
+house,2.0021735292386764
+spring from sources,0.0
+changes,0.8318262938726949
+test,2.5329834591340266
+appeal,3.4125488033856883
+problems,0.7376119010005265
+following guidelines,0.8333333333333334
+save,0.579674406424581
+determination,1.5980374665477253
+weapon,1.0217176079034398
+public figure,0.5
+sheet,1.1667364016736401
+land,6.337534028705619
+scr,2.483838975311538
+motive,0.8973573343546533
+penalty of imprisonment,0.5
+rehabilitation of offenders,0.5
+errant notion,0.5
+villagers,1.6111111111111112
+unnecessary detail,0.6666666666666666
+serious dispute,1.0
+following questions,0.5185185185185185
+month,1.3454861111111112
+maximum weightage to the mitigating circumstances,1.0
+year,2.8349484769759212
+serious disputes,0.5
+examination of the injured witnesses,0.5
+alia,0.9479866480753792
+code that the juridical decisions,0.5
+create cases of apparent injustice,0.5
+state of the victim,0.5
+to many criminal case,0.5
+piece,0.8682170542635659
+judgment,3.288216560509554
+death sentence arises,1.0
+feature in the judicial process,0.0
+punishable under section,3.081081081081081
+context of section,0.8571428571428571
+rameshwar v state,0.5
+father,1.4298716229162676
+guilt,1.1140207075064712
+charge-sheet,0.0
+relatives of the deceased persons,0.5
+order,5.472481489660944
+cool deliberation,1.75
+injury,1.7199352451433856
+own facts,1.125
+circumstance in the light,0.0
+loss,2.0689655172413794
+foremost objects,0.5
+act,12.870263922028107
+instigation,0.5
+community,1.3158036677454152
+blow,1.6904715887127946
+motherland,0.45000000000000007
+foremost object of the administration,0.0
+judicial notice,0.3333333333333333
+trend against the extreme,0.5
+decades,0.5510204081632653
+altogether inadequate punishment,0.6666666666666666
+- blooded murder,0.0
+hired assassin,0.6666666666666666
+from the nature of injuries,0.5
+life through law,0.5
+legal policy,1.1111111111111112
+passing of the death sentence,0.5
+ingredients,0.7539893617021276
+maximum weightage,1.0
+guarantee,2.2562167724232554
+explanation,1.4510159010600707
+legal policy on life,0.5
+state of punjab manu  scmanu  sc,0.0
+machhi,1.5
+enacts,0.8
+cold-blooded murder for gains,0.0
+determination of the lis,0.75
+credibility of a witness,0.5
+special reason,2.2857142857142856
+offender,1.3711405166981725
+effect,2.184583388478191
+citizen,1.261748909029876
+following question,0.5
+death need,0.4
+completion,1.1868131868131868
+likewise,0.6
+morning,0.6560766182298546
+quarrel between pw-,0.0
+equal severity,0.5
+manner,1.4494591333432125
+mother,1.5057341472881893
+fact that the injury,0.0
+member,2.649111111111111
+special facts of each case,0.6666666666666666
+traffic,1.1556250000000001
+correctional needs,0.5
+positive indicators against death sentence,0.5
+parties,1.8210828547990157
+option,1.002339493011135
+suraj mal,4.0
+pursuit,0.4088114754098361
+surprise,0.45203969128996696
+personal reasons,0.7777777777777778
+spite of incisive cross-examination,0.0
+human beings,0.6097152428810719
+valuable life,0.0
+section,9.287987283173626
+bad habits,0.23684210526315788
+judicial power center,0.75
+criminal cases,0.9904761904761905
+father suraj mal,0.5
+bachan singh s cases,0.0
+version,1.0500313479623824
+ruthlessness,0.5
+members of a family,1.25
+meannes,0.45000000000000007
+case in which death sentence,0.5
+january,0.8699641577060931
+condition,2.259476395625584
+rarest of rare cases,1.5714285714285714
+personal opinion as regards desirability,0.75
+judgments,1.2355646397547266
+compulsions,0.2962962962962963
+significant expression,0.5
+noise,1.6221441124780316
+consequence,0.8726692512593296
+real assailant,0.5
+mal,1.7084330383670323
+unknown in civilized societies,0.5
+court - yard after assaults,0.0
+non application,1.0
+criminological thought,0.5
+judicial considerations,0.5
+infidelity,0.3333333333333333
+diverse human being,0.5
+circumstance,1.429931390219372
+finding,1.8129183657767178
+indication,0.6940825616072829
+old code,1.3333333333333333
+more subtle considerations,0.6666666666666666
+non application of mind,1.0
+innocent,0.9135903746240086
+gain,2.812245309642126
+law adheres,0.6666666666666666
+present case,1.5611814345991561
+justice deals with complex human problems,0.5
+confirmation,2.098684210526316
+mitigating circumstances before the option,1.0
+investigation,1.6673076923076922
+habit,0.6266447368421052
+extreme indignation,1.0
+regard,2.723310344827586
+malik,1.088888888888889
+reward,0.8099433606041535
+madras manuscmanusc,0.8571428571428571
+context,0.9269383697813122
+outcome of cool deliberations,0.75
+many enemy,0.0
+manbhari to the ground,0.5
+punishment of the innocent,0.5
+xxvi,0.5333333333333333
+bachan singh,2.875
+ingredients of the offence,1.5
+helpless woman,0.75
+proces,1.627944583238701
+relevant circumstances,1.2
+liberty of a citizen,0.8
+money,1.6567889044524557
+deceased-jai bhagwan,0.0
+discretion to the judge,0.6666666666666666
+strong influence,0.30000000000000004
+occurrence,2.1343873517786562
+computer,1.3866140537259068
+decade,0.5014409221902018
+truth,0.9590230664857531
+imponderables in an imperfect,0.5
+multiple murder,0.6000000000000001
+- day,0.0
+antecedents,1.7777777777777777
+deterrent creed,0.5
+lehna,0.5
+facts,1.4696673624372698
+that evidence,0.7794871794871795
+genesi,0.3588516746411483
+alse generalization,0.0
+aforestated offences,0.5
+non - explanation of injuries,0.0
+judgment of the courts,0.6666666666666666
+cultivation,0.8571428571428571
+careful approach,0.3333333333333333
+vulnerability,0.37037037037037035
+regard to the nature,1.0
+fire,1.1391892447477696
+case of extreme culpability,0.0
+sans,1.2041049030786772
+alse general rule,0.0
+gains,2.5197995467213867
+basi,2.0752712086391383
+recent times,1.2
+baljit singh,2.0
+men,12.280652027254101
+tractability,0.5
+beings,0.5577464788732395
+dalip singh,1.0
+thrashing,0.2692307692307692
+same principle,0.7309941520467836
+imposition,1.4444444444444444
+serious disputes among the members,0.5
+lack,0.6349809734425119
+other question,0.6025778732545649
+days,1.6721350893491447
+informed man ie,0.5
+object of the administration,0.0
+singh manuscmanusc,1.2424242424242424
+ingredients of that section,0.5
+culprits,2.0
+retributive ruthlessness,0.5
+total depravity,0.75
+penalty of death need,0.6666666666666666
+convict hovers between life,0.5
+benefit,2.604810195438474
+rarest of the rare category,0.5
+women,1.162387410705042
+other considerations,0.7272727272727272
+man ie,0.5
+guilty of offence,0.8571428571428571
+punishment in excess,0.5
+circumstances-,0.0
+session,2.2400874351067563
+acre,1.6948939682084037
+conviction,2.248165832071736
+practical consequences,0.3333333333333333
+basis,1.953226441078104
+death sentence in terms,0.5
+criminal conduct,0.7500000000000001
+suspicion,0.690982776089159
+arijit pasayat,0.9230769230769231
+relevant circumstance,1.2
+time in useless pursuits,0.5
+normal penalty of imprisonment,0.5
+above decision,1.1818181818181819
+facts of each case,1.0
+course,1.6545957498716626
+caste,3.66454871293581
+proportion,1.3026315789473686
+crimes with equal severity,0.5
+short old code,0.5
+to many criminal cases,0.5
+false implication,0.6666666666666666
+alternative sentence of death,0.0
+other than death,0.5
+policy on life,0.5
+credential,0.2590909090909091
+charge,2.7679815308681284
+criticism,0.5566549632939675
+proportionality,1.0476190476190477
+which vadivelu thevar,0.5
+sweeping generalization,0.23529411764705882
+constant quarrel,0.5
+brutal nature,0.5
+antecedents of the offender,0.5
+ediga,0.5
+rare category,0.5
+country,1.2903191103863751
+vishal,0.17796610169491528
+ingredient of the offence,2.2
+implication,0.6615776081424936
+dispute among the members,0.0
+livelihood on account,0.5
+pradesh,4.365853658536586
+fact that the injuries,0.5
+application of mind,2.0
+crime,1.6636528028933093
+amendment,2.2486412346818434
+- jai bhagwan,0.0
+serious crime with equal severity,0.0
+ground,1.4186722903211633
+purpose of cultivation,0.5
+criminal justice deals with complex human problems,0.5
+horrendous features,0.5
+mechanical rejection of such evidence,0.5
+inmate,0.5170940170940173
+child,3.0202810640613067
+much evidence,0.23749999999999996
+credentials,0.21768707482993196
+benefit of life imprisonment,0.5
+particular sentence,0.5
+masalti,3.6666666666666665
+arguments,0.7212211466865226
+opportunity,0.946186440677966
+hostility,0.4743589743589744
+reasons for whichever,0.5
+cros,1.8137948361162648
+factual scenario,1.0
+measure of toleration,0.5
+excess,0.9860601614086574
+liberty,0.7860465116279071
+predilection,0.3333333333333333
+matter,2.8088923076923082
+relation,1.397320207820618
+mind of the members,0.0
+thevar,0.39473684210526316
+uttar pradesh manuscmanusc,1.2222222222222223
+interestedness of the witnesses,0.5
+complex human problems,0.5
+other question of vital importance,0.5
+normal punishment,1.0
+serious in nature,0.6666666666666666
+special case,0.8181818181818183
+criminal,3.301971081989414
+provision of section,1.4827586206896552
+imponderables,1.3333333333333333
+actual culprits,0.5
+term,3.6255105640901575
+spite of errant notions,0.5
+state of madras manu  scmanu  sc,0.0
+penal,1.8829173709853835
+spite,0.8919640378414163
+unimpeached evidence,0.5
+view,2.441100058469462
+liability,2.532836248924577
+other general social pressures,0.5
+suspect,1.0878953771289537
+to the principle of proportionality,0.6666666666666666
+helpless state of the victim,0.5
+opinion,1.4960606342789635
+fact of each case,0.0
+interestedness,0.5
+ingredient,1.2242798353909468
+for the court,0.5893719806763285
+majority,1.3427634276342764
+wife,1.4518086408500224
+scheduled caste,3.875
+interested witnesses,0.875
+relation to these factors,0.5
+use,5.06801278974993
+penal code,2.710144927536232
+andhra,4.830188679245283
+guli chand,0.5
+appreciation for the assistance,0.6666666666666666
+evidence that - day,0.0
+mere non-explanation,0.0
+frequent quarrels,0.5
+anamma,0.5
+perpetrator,0.7090909090909091
+resistance,0.41131105398457585
+close relative,0.6666666666666666
+proportion to the crime,0.5
+sake,0.5262975778546712
+witness,5.333906623599983
+steel,1.615214878638226
+prosecution version,2.7142857142857144
+discretion of the court,0.7333333333333334
+effect that no interference,0.5
+result,1.3356630184144715
+ancestral land,0.5
+justice deals,0.5
+of the rare category,0.5
+theory,0.43014388218941363
+roof,1.2680659823298095
+relationship,1.1804123711340206
+as the compel,0.5
+cool deliberations,0.75
+wazir,1.0
+procedure,2.552771605064117
+material,1.4148767018946966
+fact of each individual case,0.0
+opinion as regards desirability,0.75
+there something,0.5
+polouse,0.0
+drunkard,0.3508771929824561
+code by act xxvi,0.5
+quarrels,0.6000000000000001
+guideline,1.5641711229946524
+pressure,0.6730769230769231
+learned judges of the high court,0.6666666666666666
+personal reason,0.7777777777777778
+support,0.8630946786249609
+gravity,0.3746556473829201
+due regard,1.0666666666666667
+statute book at the same time,0.5
+provision,5.439002243350069
+conscience,0.7416879795396419
+member of a family,0.0
+old code by act xxvi,0.5
+affect prosecution version,0.5
+mere fact,0.6
+ingredient of that section,0.0
+hapless,0.5
+mood,0.3275862068965517
+premediation,0.5
+provisions of section,2.762376237623762
+special cases,0.375
+v state of punjab manuscmanusc,1.5217391304347827
+deceased person,0.8888888888888888
+rajasthan manuscmanusc,1.0555555555555556
+partisan,0.6095238095238095
+indicators against death sentence,0.5
+clemency of penal justice,0.5
+large number,1.0979284369114877
+fact,3.6284951019474962
+mitigating circumstance before the option,0.0
+- night suraj mal,0.0
+importance,0.8632871064467765
+learned counsel,3.703333333333333
+learned judge of the high court,1.25
+genesi of dispute,0.0
+learned judge,3.3692307692307693
+following circumstance,0.875
+cold-blooded murder,0.0
+expression,1.7424391201885312
+swing towards life imprisonment,0.5
+departure,0.6451612903225807
+large number of persons,1.4545454545454546
+pasayat,1.0
+rare  case in which death sentence,0.0
+create case of apparent injustice,0.0
+saroj,1.6
+other consideration,0.7083333333333334
+such cases,0.7390180878552971
+pressures,0.3333333333333333
+light of these successive legislative changes,0.5
+younger brother dariya singh,0.5
+station,1.2515681586858238
+acres of land,1.857142857142857
+feature of the crime,0.0
+men hangs,0.5
+than death,0.2692307692307692
+punjab v jagir singh,0.5
+rethinking,0.25
+criminal procedure,6.406779661016949
+influence,0.7049608355091384
+genesis of dispute,0.5
+object,1.4940119760479043
+creed,0.42105263157894735
+- blooded murder for gains,0.0
+weapons,1.1105810008481765
+same time,0.6913511801045461
+witnes,5.333906623599983
+court in ediga anamma v state,0.5
+following guideline,0.8333333333333334
+rejection of such evidence,0.5
+punishment for murder,1.0
+of rare cases,1.5714285714285714
+system,1.1230229504341178
+features,0.6184582743988685
+support of the appeal,0.8888888888888888
+extent,1.410108024691358
+sole ground,1.0
+times,0.8987140267391797
+practice sentences,0.5
+new provision in the code,0.5
+uncommon about the crime,1.0
+positive indicator,0.5
+essence,0.5974025974025974
+physical opinion,0.5
+light,0.8816192372754331
+bar,1.4720990391722097
+punjab manuscmanusc,1.625
+guilty of the aforestated offences,0.5
+years,2.5395804110508022
+arijit,0.9230769230769231
+such case,0.7332761578044598
+useless pursuit,0.5
+desirability,0.9750000000000001
+report,1.7768151696835826
+punjab,1.0438169425511197
+code of criminal procedure,6.120689655172414
+into the crime,0.6666666666666666
+lesser penalty,0.5
+dalip,1.0
+principle,1.9620890732001848
+rate in the arguments,0.5
+party,2.2250894654439723
+which surprise,0.3333333333333333
+question of sentence,1.6666666666666667
+judicial commutation,0.5
+anything,0.9132309941520469
+ipc prescribes death,0.5
+villager,1.1733333333333333
+swing,0.2708333333333333
+meanness,0.45000000000000007
+normal sentence,0.5
+independent witnesses,0.9090909090909091
+trends,0.39999999999999997
+gravest case of extreme culpability,0.0
+wife manbhari,0.5
+proposition,0.6371087928464977
+details,0.9406426856198188
+factor,1.2878742338904643
+single grave infraction,0.5
+guilty,0.8902873124841086
+offender suffers,0.5
+such that death sentence,0.75
+justice,2.292557084574302
+stairs screaming,0.5
+personal opinion,0.375
+sentence of death,1.5428571428571431
+heart,0.8127090301003345
+deliberation,0.7366666666666667
+notions,0.49253731343283585
+non - explanation,0.0
+death sentence arise,1.0
+personality of the offender,1.0
+suraj,0.6545454545454545
+picture of acceptance,0.5
+punishable with death,1.25
+vivian,0.16666666666666666
+masalti v the state,0.6666666666666666
+undulating society,0.5
+significant shift in the legislative policy,0.5
+evidence indicate,0.5238095238095238
+horrendous features of the crime,0.5
+rameshwar,1.3333333333333333
+question of death sentence,0.5
+v state,2.4603773584905664
+machhi singh,1.5
+attention to cultivation,0.5
+testimony,1.4407553107789142
+which villager,0.5
+credibility,0.6069651741293531
+sons,2.7457346002031446
+culprit,1.4285714285714286
+accusation,0.9540526587506452
+foundation,0.770509435807177
+wifely infidelity,0.5
+ediga anamma v state,0.5
+reference,2.1755848210276256
+compel,0.8247813411078718
+society,2.1182859399684046
+administration,1.061072796934866
+sister,1.0774703557312253
+interested witness,0.8888888888888888
+inmate of the house,0.0
+duty upon the court,0.5
+generalization,0.2990654205607476
+offence,4.401610644257703
+grotesque,0.4358974358974359
+sister-in-law,0.0
+hearing,0.9644508209787979
+reaction,0.30045523520485584
+presence,0.9604834261070158
+nephew,0.9848484848484848
+accusations,0.8941176470588235
+neck,0.6142330723169047
+in nature,0.7593052109181141
+bad habit,0.234375
+crime with equal severity,0.0
+next morning,0.5
+daughter-in-law,0.0
+many criminal case,0.5
+cut,3.1207863829787237
+adequate hearing,0.5
+day,1.550999710228919
+circumstance of the  crime,0.0
+question,2.980312372067635
+court - yard,0.0
+new trend,0.5
+infraction,0.6349206349206349
+feature,0.6446262956901254
+mental condition,0.8
+own fact,0.5761904761904763
+life imprisonment,1.2083333333333333
+special facts,0.5555555555555556
+rare cases,1.2592592592592593
+postmortem,1.2142857142857142
+police station,1.40045766590389
+infatuation,0.42857142857142855
+gravest cases,0.6666666666666666
+acre of land,0.0
+approach,1.001908852302553
+impact,1.0957789249924081
+scmanu,7.940520446096654
+convict hovers,0.5
+impressions of impulsive act,0.5
+displeasure,0.5185185185185185
+diverse human beings,0.5
+real culprit,0.5
+need,1.1097650269586634
+criminal justice,0.78698224852071
+months,1.1938163721148947
+fate,0.5961046626008263
+practice,1.7660110149488593
+august,0.977116704805492
+penal compulsions insufficient,0.5
+compulsion,0.6274509803921569
+assailants,0.9650349650349649
+grave,0.5757518081461743
+unnecessary details,0.6666666666666666
+accused person,4.565217391304348
+general rule of prudence,0.5
+circumstances of the  crime,0.0
+name,1.8996570753072433
+aforesaid propositions,0.75
+toward,1.0255939365170768
+rajasthan,3.9215686274509802
+life imprisonment as the penalty,0.5
+criminal justice deal,0.5
+probation on conviction,0.5
+innocent person,0.7439353099730458
+high,5.367119186841496
+acres,1.8522588522588521
+toleration,0.13157894736842105
+sure guarantee of truth,0.5
+members,1.9437616522164103
+needs,0.6897483569699066
+woman on account,0.75
+significant discretion to the judge,0.6666666666666666
+brother,1.4566585956416465
+account,2.5754891049671977
+features in the judicial process,0.5
+karam,2.190981432360743
+assault,1.0656614201609997
+bachan singh v state of punjab manuscmanusc,0.75
+force,1.6009408121948314
+influence in the determination,0.5
+view of the unimpeached evidence,0.5
+reason for whichever,0.0
+conscience of the community,0.75
+correct,1.3001213281100739
+decision in state,1.0
+in civilized societies,0.5
+power center,0.375
+objects,0.7297830374753452
+special fact,0.5555555555555556
+interference,0.5733527484528578
+purpose,2.519170317925504
+balance,0.9863636363636363
+conviction for an offence,0.5
+judgments of the courts,0.5
+law,3.538923411654744
+change,1.2214862766571903
+trial court,3.854545454545455
+head,1.5827778446537666
+which villagers,0.5
+observation,0.7625074854374218
+aforesaid proposition,0.875
+time,2.4764180952862667
+commutation,1.2
+cases,1.9728229418951067
+legislative changes,0.75
+rule of prudence,1.125
+suspicion of wifely infidelity,0.5
+rejection,0.7335907335907336
+complex human problem,0.5
+matter with due regard,0.5
+serious dispute among the members,0.0
+amendment of section,2.3
+guarantee of truth,0.5
+allegation,1.834319526627219
+global view,0.75
+real suspicion,0.5
+circumstance of the  offender,0.0
+culpability,1.1428571428571428
+real assailants,0.5
+judicial consideration,1.0
+fast rule,0.5798816568047337
+alternative option,0.5
+real suspicion of wifely infidelity,0.5
+foremost object,0.5
+reformation,0.30107526881720426
+actual culprit,1.0
+questionable credentials,0.5
+desert as the basi,0.5
+common to many criminal cases,0.5
+evident from the fact,0.8
+new trends,0.5
+circumstances in the light,0.75
+vadivelu,0.4444444444444444
+answers to the questions,0.45000000000000007
+electric light,0.3333333333333333
+significant shift,0.5
+need of the perpetrator,0.0
+inmates of the house,0.75
+question of imposition,0.6666666666666666
+murder,1.4968553459119496
+rarest,2.0
+quarrel,0.8181818181818182
+crilj,5.333333333333333
+answer to the questions,0.5
+peculiar background,0.5
+death sentence,2.911764705882353
+astrological imponderables,0.5
+hereinafter,0.7670609645131939
+legal position,0.7659574468085106
+prosecution,4.619407894736842
+traffic results,0.5
+holders of the judicial power center,0.75
+deterrent,0.4375
+otherwise,1.2549820889894419
+normal penalty,0.5
+many enemies,0.5
+reform,0.6780894886363636
+spot,0.778096903096903
+such evidence,0.9649122807017544
+offences,1.6681887366818873
+fear,0.8662375822023226
+sound judicial considerations,0.5
+exception,1.1036946087733006
+frequent quarrel,0.5
+imprisonment,1.4344262295081966
+deterrence,0.25
+severity,0.5
+prosecution version san,0.5
+ipc,2.785166240409207
+case of death sentence,0.5
+application,2.3322596088086445
+counsel,2.2246780703440323
+exces,0.9881465517241379
+absence,1.092363454568179
+policy,3.250773332247955
+april,0.8928235149629509
+award,3.104213525266157
+statute book,1.0
+imprisonment for life,1.7142857142857142
+principle of proportionality,1.0
+jai bhagwan,2.3333333333333335
+witnesses,3.359210526315789
+indignation of the community,1.0
+temple,3.095996786718436
+imperfect,0.3647058823529412
+full weightage,1.0
+pradesh manuscmanusc,1.5714285714285714
+correctional needs of the perpetrator,0.5
+rule that the normal punishment,0.5
+injured witnesses,2.5
+roof of the house,1.0
+procedure code,1.3157894736842106
+answers,0.3387502861066606
+of the aforestated offence,0.5
+evidence that - days,0.0
+criminal law adhere,0.6666666666666666
+alternative sentences,0.5
+judicial proces,1.125
+trend,0.48390519985850716
+eye-witness,0.0
+appropriate sentence,0.6666666666666666
+law adhere,0.6666666666666666
+acceptance,1.4762112614578786
+seriou in nature,0.0
+presence of pws,0.75
+men hang,0.5
+general to the principle of proportionality,0.6666666666666666
+son,4.595622484812135
+award of punishment,0.8
+favour of the offender,1.0
+dispute,2.402137592137592
+indian law,1.0
+submission,1.0913871684001404
+evidence,3.6676405172088815
+deceased jai bhagwan,1.5
+results,0.6487493619193466
+lesser punishment,0.75
+consequences,0.6659897713598075
+which death sentence,0.5
+counsel for the state,1.3043478260869565
+notion,0.9071080318193483
+enemies,0.28104575163398693
+victim,1.204831365285174
+alternative sentences of death,0.5
+stairs,0.4567901234567901
+depravity,0.8333333333333334
+undesirable practical consequences,0.5
+crimes,0.7056429734129138
+enemy,0.0
+contemporary criminological thought,0.5
+detail,0.9737454684220567
+relatives,0.8460264900662252
+other member,0.6470588235294118
+helpless state,0.5
+circumstance of the case,0.5
+irrevocable penalty,0.5
+serious crime,0.5333333333333333
+alternative sentence,0.5
+case,7.332269420884958
+particular caste,1.0
+circumstances of the  offender,0.0
+judicial computer,0.5
+injury on accused person,0.0
+lack of any sinister planning,0.5
+gandasa,0.5
+cases of extreme culpability,0.6666666666666666
+murder by hired assassin,0.5
+mid-night suraj mal,0.0
+frequency of the quarrels,0.5
+factors,0.9829522460542292
+relative of the deceased persons,0.0
+punishment,1.6266937669376693
+legal exception,0.5
+shift,0.6473508552357112
+cross - examination,0.0
+correctional need,0.5
+legislature of the new trends,0.5
+singh,3.7791111111111113
+same effect,0.875
+injuries,2.4130008710801394
+mankind,0.4131455399061033
+springs,0.37719298245614036
+of offence,1.561904761904762
+convict hover,0.5
+create case,0.5
+outcome of cool deliberation,1.5
+evidence of pws,2.6363636363636362
+reactions,0.2206703910614525
+significant fact,0.5454545454545454
+question of vital importance,0.5
+sentence of imprisonment,1.6923076923076923
+resentment,0.3508771929824561
+acceptance of the fact,0.5
+contention,1.666391070690368
+nature of injuries,0.8
+reasons for the sentence,0.5
+about the crime,1.0
+machhi singh s case,0.0
+rule,5.04
+of rare case,1.5714285714285714
+criminal procedure code,1.4
+proportion between crime,1.0
+inter alia,1.3280423280423281
+rehabilitation,4.416666666666667
+center,0.9521598338119387
+criminal law adheres,0.6666666666666666
+person of bad habits,0.5
+frequency,0.40502793296089384
+minds,0.6597481343283582
+favour,1.653145208700764
+features of the crime,0.5
+extreme penalty,2.5
+evidence of any diabolic planning,0.5
+learned sessions judge,2.5
+mere deterrence,0.5
+dominating position,1.25
+medical evidence indicate,0.5
+such as the compel,0.5
+in civilized society,0.0
+supra,2.246342614440774
+moral character,0.25
+duty,3.2272215973003378
+bench,2.5793391667754992
+serious crimes with equal severity,0.5
+blows,1.1295731707317074
+evidence that the deceased jai bhagwan,0.5
+innocent child,0.375
+chand,1.4868766404199476
+mr vishal malik,0.5
+life inadequate,1.0
+physical opinion of the majority,0.5
+prudence,0.9558823529411765
+genesis,0.3599817268158977
+manbhari,1.5
+circulation,0.5371900826446281
+civilized society,0.5714285714285714
+possible on the evidence of relatives,0.5
+evident from the nature of injuries,0.5
+victim of murder,0.75
+death penalty,1.784848484848485
+important than the principal,0.5
+such general rule,0.5
+discretion,1.2998211091234348
+shift in the legislative policy,0.5
+infirm person,0.6666666666666666
+social wrath,0.75
+failure of justice,1.7142857142857142
+analyse evidence,0.5
+antecedent of the offender,0.0
+human problems,0.30000000000000004
+sentences,1.0513157894736844
+juridical decisions,0.5
+process,1.6274942048088725
+gravest cases of extreme culpability,0.6666666666666666
+mere non-explanation of injuries,0.0
+trespasser,4.0
+short ipc,0.8333333333333334
+considerations,0.7860235003092146
+astrological imponderable,0.5
+circumstances of the crime,3.0
+notice,2.3300025999395686
+create cases,0.5
+spring,0.58073694693413
+such rule,0.6095238095238095
+legislative change,0.5
+evidence shows,0.45000000000000007
+course for betrayal,0.6666666666666666
+retributive ruthlessnes,0.5
+extraordinary feature,0.5
+bhagwan,1.5555555555555556
+astrological imponderables in an imperfect,0.5
+screening of the material,0.75
+that death sentence,0.8
+woman,1.316528681253696
+way of the test,0.5
+power,3.8165227690948367
+serious crimes,0.3636363636363636
+code that the juridical decision,0.5
+figure,1.2881717501815544
+sentence,2.3896654193264366
+police,2.9749362629783356
+appropriate one,0.37037037037037035
+adequate sentence,0.5
+bose,0.5178571428571428
+more subtle consideration,0.6666666666666666
+departure from the principle,0.5
+examination,2.4920345926263088
+minds of the members,0.5
+balance - sheet,0.0
+guli,1.4318181818181817
+bench of this court,1.8271604938271604
+enmity,0.4377104377104377
+objects of the administration,0.5
+under section,5.374517374517374
+than a penalty of greatest severity,0.5
+such situation,0.5538461538461539
+brother dariya singh,0.5
+punishment without guilt,0.5
+reason,2.6381270903010035
+deals,1.3395407335280751
+curiae,1.6875
+punishment under the ipc,0.5
+regards desirability,0.75
+position,1.549133168619177
+life,1.3352928273744242
+murder of a member,0.75
+following circumstances,0.875
+sure guarantee,0.5
+yard,1.5829315332690455
+one,4.845669314438648
+assaults,0.5511111111111111
+recent time,1.2
+category,1.9351744779266717
+practice sentence,0.5
+strong influence in the determination,0.5
+ruthlessnes,0.5
+guidelines,1.540251572327044
+independent witness,1.2121212121212122
+habits,0.2982456140350877
+haryana,2.935064935064935
+consideration,1.9110153789142115
+human,1.0063526196524266
+gravity of the offence,1.0
+baljit,2.0
+disputes among the members,0.5
+former rule,0.3333333333333333
+new provision,1.1666666666666667
+extraordinary features in the judicial process,0.5
+penalty,1.5165226929932814
+convict hover between life,0.0
+court - room after adequate hearing,0.0
+plea,1.4430487701432178
+passing,0.8851858023662723
+cruel,1.9887836490528417
+impulsive act,0.3333333333333333
+fallacy,0.24878048780487805
+others,0.9074667328904616
+last person,0.4444444444444444
+vivian bose j,0.5
+minority community etc,0.75
+reply,1.0337305560040906
+question of gravity,0.5
+holder,1.8472993827160495
+relative,1.0564311594202898
+alse general social pressures,0.0
+many criminal cases,0.5
+own house,0.6666666666666666
+death penalty irrespective,0.75
+re- enacts,0.0
+circumstance of the crime,0.0
+criminal sentence,0.5
+uniformly drastic measures,0.5
+antecedent,1.1666666666666667
+impressions,0.25
+sterner sentence,0.5
+plea that such evidence,0.5
+fact that the witnesses,0.6666666666666666
+mandatory for the court,0.6666666666666666
+brutal nature of the assaults,0.5
+medical evidence indicates,0.5
+award of adequate sentence,0.5
+enact,2.909803921568627
+dalip singh s case,0.0
+successive legislative change,0.5
+partisan witnes,0.5
+eye-witnesses,0.0
+legislature,2.818553268765133
+of the aforestated offences,0.5
+former rule that the normal punishment,0.5
+family,1.856281506375408
+judge,2.9012627415183325
+offender suffer,0.5
+locality,0.7993421052631579
+manuscmanusc,7.940520446096654
+provisions,3.8929824561403508
+criminal justice deals,0.5
+death,2.361592909460208
+jagir,0.75
+conduct,1.5998023165163158
+pradesh manu  scmanu  sc,0.0
+other circumstance,0.6600000000000001
+gravest case,0.6666666666666666
+societies,1.7085137085137085
+substance,0.8230581678857541
+pws,1.5484615384615386
+such sentiment,0.4444444444444444
+extraordinary feature in the judicial process,0.0
+dowry,5.666666666666667
+argument,0.9504580388560493
+radical departure,0.6666666666666666
+court for confirmation,0.75
+undesirable practical consequence,0.5
+collective conscience of the community,0.75
+murderer,0.6486486486486487
+concern for the dignity,0.5
+lis,3.299683526578166
+allegations against an innocent person,0.5
+plea of false implication,0.5
+judicial approach,0.8333333333333334
+on the evidence of relatives,0.5
+fact that the witness,0.8
+with death,0.6282051282051282
+culpability of each kind,0.6666666666666666
+juridical decision,0.5
+grandsons,0.3333333333333333
+collective conscience,0.75
+significant fact that the evidence,0.5
+innocence,0.8135593220338982
+sound judicial consideration,0.5
+instrumentality,5.555555555555555
+foremost objects of the administration,0.5
+judicial process,1.125
+bachan,2.875
+overall global view,0.6666666666666666
+probation,2.8636363636363633
+court - room,0.0
+note of contemporary criminological thought,0.5
+judges,2.0931496919173616
+room,0.6950710108604846
+goal,0.5651601830663616
+site,0.9890725980575135
+regard to the relevant circumstances,0.6666666666666666
+evidence of partisan,0.5
+questions,0.9979150871872632
+ground that the witness,0.75
+questionable credential,0.5
+background,0.6800452488687784
+completion of investigation,1.3
+life postulates resistance,0.5
+livelihood,1.3777777777777778
+indian penal code,5.264705882352941
+clemency,0.4
+circumstances of the case,1.3373493975903614
+justice deal with complex human problems,0.0
+position of trust,0.75
+movement,0.8351097178683385
+incisive cross-examination,0.0
+assistance,0.8623872906826965
+general social pressures,0.5
+minority,0.8717948717948719
+uniformly drastic measure,0.5
+weightage,2.5
+less than a penalty of greatest severity,0.5
+hand,2.0299623418254717
+under sections,2.1931818181818183
+site of occurrence,0.5
+appreciation,0.7282229965156793
+more subtle consideration of culpability,0.0
+iii,1.5614499719992534
+inmates,0.531400966183575
+high court for confirmation,0.6666666666666666
+tendency,0.5150501672240803
+constant quarrel between pw-,0.0
+v state of rajasthan manuscmanusc,1.0625
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+madra,2.836734693877551
+ground that the witnes,0.75
+opinion of the majority,0.8
+uttar,2.188679245283019
+compulsions insufficient,0.5
+haples,0.5
+interestednes,0.5
+ad hoc mood,0.5
+state of nature,0.75
+more subtle considerations of culpability,0.6666666666666666
+bachan singh v state,0.75
+picture,0.6116621983914209
+requirement,1.2416133333333332
+number of persons,1.2592592592592593
+evidence of pw-,0.0
+screening,1.3125
+high court,7.7477477477477485
+such sentiment in the following circumstances,0.6666666666666666
+whichever,0.8426966292134831
+public,2.923239095873367
+pursuits,0.2777777777777778
+daughter,1.0364906832298135
+sentiment in the following circumstances,0.75
+stair,0.515267175572519
+mitigating circumstance,4.333333333333333
+state,6.817996007300392
+answer,0.9554305705177771
+statute,2.5765859456247218
+same suspect,0.5
+deprived,0.6657183499288764
+multiple murders,0.6000000000000001
+note,1.3654108484234107
+tractability of the offender,0.5
+prosecution version sans,0.5
+courtyard,0.22807017543859648
+greatest severity,0.5
+dignity,0.5529953917050692
+springs from sources,0.5
+deal,2.1942302694273583
+trial,3.7979448350459712
+pw-,0.0
+offenders,0.9550387596899225
+aggravating,1.2564102564102564
+save in the rarest,0.5
+heart of the law,0.5
+useless pursuits,0.5
+manu,7.078142071124147
+concern,2.0544958000579303
+holders,0.9411764705882353
+infirmity,1.3095238095238095
+rate,3.088725136774248
+impression,0.6037621359223301
+rare case,1.4074074074074074
+reason for the sentence,0.0
+criminal case,1.4464285714285714
+socio,0.5934684684684685
+needs of the perpetrator,0.5
+mere fact of relationship,0.5
+role,1.0562959821210092
+legislative policy,1.2
+dariya,0.5
+re- enact,0.0
+land of temple,0.5
+grave infraction,0.5
+extreme indignation of the community,1.0
+indicators,0.40322580645161293
+evidence indicates,0.5238095238095238
+man,6.972395052694935
+diabolic planning,0.5
+criminal into the crime,0.5
+which prosecution,0.5
+foundation of every criminal sentence,0.5
+valuable lives,0.5
+radical departure from the principle,0.5
+penal justice,0.5
+nature,1.4149926876444778
+principal of proportion,0.5
+bitter quarrel,0.5
+head of the culprit,0.5
+discussion,0.7445831166579996
+injustice,1.1882716049382718
+traffic result,0.5
+as enmity,0.5
+question whether the case,0.6666666666666666
+uniformly disproportionate punishment,0.5
+wrath,0.39722222222222225
+indignation,0.5454545454545454
+grandson,0.3333333333333333
+normal punishment for murder,1.0
+planning,1.4283088235294117
+jai,1.2346163917255824
+indication by the legislature,0.5
+extreme,0.9372862029646524
+kind,0.9236881920088026
+murders,0.6462585034013606
+serious nature,0.7999999999999999
+mitigating circumstances,4.333333333333333
+individual case,0.6000000000000001
+situation,1.1254754682459434
+human being,0.599078341013825
+night,0.8690610404251893
+measure,1.1941357983816498
+facts of each individual case,1.0
+observations,0.7454584147497534
+principle of criminal justice,0.5
+san,1.5298391598285395
+attention,0.8724846605528799
+book,0.7435955668604651
+something,0.5915378827342709
+source,0.840137091365362
+human life postulates resistance,0.5
+extraordinary features,0.5
+measures,1.126498218334953
+penalty of greatest severity,0.5
+vulnerability of prosecution version,0.5
+alternative,0.841508109794136
+injuries on accused person,0.5
+errant notions,0.5
+extreme culpability,0.6666666666666666
+sonepat,0.5
+thought,0.7081151153746436
+learned judges,3.4864864864864864
+grudge,0.375
+that reformation,0.5
+persons,2.5993381990166555
+general rule,0.6352941176470589
+definite swing towards life imprisonment,0.5
+justice deal,0.3333333333333333
+than the principal,0.5
+such as enmity,0.5
+convict,3.1901719901719896
+force in the plea,0.5
+disputes,2.3049883690876194

@@ -1,0 +1,610 @@
+enactment,1.439950980392157
+capacity,1.7421691881525676
+committee,2.546237803603864
+prices,0.9771470160116448
+types of customers,0.5
+implementation,1.2465707594513213
+efficiency,0.8919469928644241
+alternative calculation,1.0
+other relevant provisions of the act,0.5
+surcharge,1.8000000000000003
+financial year detail,0.5
+other hand,0.6931925622439332
+other manner as the commission considers,0.5
+provisions of this act,2.4722222222222223
+publication,1.3442779291553135
+commission in a format,0.5
+investments,1.7287581699346406
+reasons,1.3749054007567938
+sections,1.640495469442838
+electricity reforms,0.5
+terms,2.390350840909655
+matters,1.4810665618448637
+function of the commission,0.0
+tariff for the year,2.3333333333333335
+hyderabad,2.5833333333333335
+need for cross - subsidization,0.0
+high court of andhra pradesh,1.5
+interested parties,0.6086956521739131
+licensees  revenue,0.0
+interest,2.74353772015385
+court,12.24425115501509
+charges for the level,0.5
+policy decision unless the power,0.5
+categorisation,1.2
+aspects,1.0997620069447154
+in law,1.1088664421997756
+tariff proposal,1.5
+way,1.7812722068664852
+behalf,1.9888053603529987
+part,5.294464509893076
+systems,0.3927792585413133
+calculation,0.8853448275862068
+first blush,0.8571428571428571
+cross,2.0778316690442225
+day of receipt,0.0
+electricity to the industry,0.5
+lower than the cost of supply,0.5
+schedule of standard prices,0.5
+aspect,1.2449448189023034
+provisions of sub - section,0.0
+number,1.4802651440973922
+shri,2.0759135877246115
+provision of sub - section,0.0
+relevant provisions,1.5
+decision,2.9514937765898557
+per unit from the industry,0.5
+type of customers,0.0
+consultation with the commission,0.5
+total,1.183527325379098
+energy during any specified period,0.6666666666666666
+changes,0.8318262938726949
+retail,1.687234042553191
+areas,1.6237236125072747
+distinction,0.7312167973690868
+appeal,3.4125488033856883
+determination,1.5980374665477253
+contra,3.550142721217888
+holder of a supply licence,0.5
+formula,1.9020570115902682
+good,2.6154941054299674
+consumers in different areas,0.5
+day of the date,0.0
+interpretation,1.518366298484459
+read,2.2147281730888695
+area,2.675167256985439
+schedule to the electricity,1.0
+financial year in respect,0.5
+such other manner,1.0
+month,1.3454861111111112
+year,2.8349484769759212
+licensee s revenue,0.0
+case of amendment,0.5
+alia,0.9479866480753792
+appellants herein,1.4883720930232558
+investments performance of licence conditions,0.5
+tariff for the supply,0.0
+challenge to the tariff,0.5
+judgment,3.288216560509554
+fixation,1.1141025641025641
+bad in law,1.4285714285714286
+great length,0.3589743589743589
+accordance with the methodology,0.5
+services,1.6850241065659326
+order,5.472481489660944
+part of any tariff,0.6666666666666666
+systems in accordance,0.6666666666666666
+act,12.870263922028107
+sub-section,0.0
+may,3.683418028199994
+present dispute arise in connection,0.0
+present dispute arises,0.5
+other matter,0.7002457002457002
+contra-distinction to the use,0.0
+respect of the year,0.5
+explanation,1.4510159010600707
+tariff unless the amendment,0.5
+tariff notification,0.6666666666666666
+methodologies,0.509090909090909
+other consumers like domestic consumers,0.5
+parameters,0.8168253968253969
+condition of the relevant licence,0.0
+authority in exercise,0.5
+participation of private sector,0.5
+effect,2.184583388478191
+level,1.1533169827122092
+thereafter,1.3123461853978673
+pendency,1.0084033613445378
+passage,0.6514737598849748
+manner,1.4494591333432125
+format,1.0259899495813714
+licensees  revenues,0.0
+parties,1.8210828547990157
+more per unit from the industry,0.5
+dispute arise in connection,0.0
+section,9.287987283173626
+electricity reform,0.5
+sixth schedule to the electricity,1.0
+forecast,0.25
+depart,1.8507708856220868
+objective,0.5021775147928994
+january,0.8699641577060931
+tariff,11.052631578947368
+appellate,2.561224489795918
+condition,2.259476395625584
+interpretation of section,1.5
+preference to any consumer,1.25
+cost of supply,1.5
+standard,1.4669008088548319
+need for cross-subsidization,0.0
+place,2.333104345208554
+functions,1.326241134751773
+regulation,4.3783195107648485
+salient objects,0.5
+place during the financial year,0.5
+present case,1.5611814345991561
+learned counsel for the appellants,1.7142857142857142
+determination of the tariff,2.25
+effective relief,0.5
+regard,2.723310344827586
+case of the appellants,0.9230769230769231
+such publication,0.5
+tariffs,1.4
+consumers like domestic consumer,0.5
+financial year details,0.5
+contrary to the act,0.75
+infructuous because no effective relief,0.5
+length,0.6297872340425531
+issue,2.766776251628934
+such other manner as the commission consider,0.5
+reading of sub - section,0.0
+writing,1.1746753246753248
+sixth,1.9999999999999996
+days,1.6721350893491447
+determination of the commission,0.5
+private sector,0.3660714285714286
+cost,1.2954397451466992
+correct interpretation of section,0.75
+calculations,0.5769230769230769
+president,2.1267129228100607
+restructuring,0.40909090909090906
+economic use of the resources,0.5
+sub,7.816899313759727
+day from the date,0.0
+charge,2.7679815308681284
+normal fixation of tariff,0.5
+purpose of the provisions,0.6666666666666666
+pradesh,4.365853658536586
+economic efficiency,0.6666666666666666
+rationalisation of the generation,0.5
+other manner as the commission consider,0.5
+present dispute arise,0.5
+amendment,2.2486412346818434
+charges,2.061307113938693
+licensee,5.253333333333333
+ground,1.4186722903211633
+policy decision,1.6
+kirpal,1.3333333333333333
+jurisdiction under article,1.2857142857142858
+energy,2.532098416289593
+aforesaid reasons,1.1379310344827587
+revenue calculations,1.5
+supply of electricity avenues,0.5
+cros,1.8137948361162648
+bhusan,0.3333333333333333
+function,1.6326372491145218
+available to the public on request,0.5
+matter,2.8088923076923082
+conditions of the relevant licence,1.0
+annual exercise with regard,0.5
+standard prices,0.5
+article,4.378806157159795
+price,2.8302710227712162
+total revenue,0.5
+system in accordance,0.0
+term,3.6255105640901575
+hand under section,0.5
+aforesaid reason,1.1176470588235294
+applications,1.0021816198527407
+appellants,7.701086956521739
+on request,0.6745718050065876
+days of receipt,1.2
+view,2.441100058469462
+charge for the sale,0.0
+opinion,1.4960606342789635
+relief,1.4748116760828625
+such other manner as the commission considers,0.5
+use,5.06801278974993
+andhra,4.830188679245283
+amendment to a tariff,1.0
+unit,2.176678509944691
+licensees,3.3272727272727276
+careful reading of sub - section,0.0
+data,0.9744599232788209
+procedure,2.552771605064117
+information,1.1320502836800534
+activity,1.3846153846153848
+petitions,1.3930830039525692
+unit from the industry,0.5
+sixth schedule of the electricity,0.5
+relevant provisions of this act,0.6666666666666666
+various factor,0.8
+alternative calculation of the expected revenue,1.0
+subsidy,1.7142857142857142
+avenues,0.4444444444444444
+provision,5.439002243350069
+good performance,0.75
+departs from factors,0.5
+parameter,0.7630669107179174
+cross-subsidization,0.0
+competitive manner,0.5
+commission from time,1.25
+respect of any changes,0.6666666666666666
+respect,2.6704963235294117
+other relevant provisions,1.0
+restructuring of the electricity industry,0.5
+learned counsel,3.703333333333333
+normal fixation,0.5
+efficient,0.7287878787878789
+proper procedure,0.3333333333333333
+year detail,0.5
+conditions for the determination,0.6666666666666666
+tariffs for the supply,0.5
+learned counsel for the parties,1.263157894736842
+object,1.4940119760479043
+particulars,0.9472222222222222
+thereto,1.0358342665173572
+other consumer,0.3333333333333333
+consumer s total consumption,0.0
+energy during the specified period,0.5
+rating committee,1.3333333333333333
+exercise with regard,0.5
+relevant provisions of the act,0.9
+financial principles,1.0
+aggregate revenue from the charges,0.5
+system,1.1230229504341178
+modification,0.9714977645305514
+than the cost of supply,0.5
+other relevant provision of the act,0.0
+other manner,0.7222222222222222
+proposal,1.8145800316957208
+doubt,1.3646267723102583
+pradesh electricity reform,0.5
+to the terms,0.6900000000000001
+fuel surcharge formula,0.6666666666666666
+exercise,1.9400726466785694
+further particulars,0.6666666666666666
+principle,1.9620890732001848
+party,2.2250894654439723
+review,1.3564101463582128
+newspaper,1.4133350781914544
+anything,0.9132309941520469
+to the commission,2.52
+such further information,1.0
+details,0.9406426856198188
+issues,1.1246716508385532
+factor,1.2878742338904643
+financial principle,1.0
+electricity industry,1.5
+request,1.1474439594584596
+revenue,1.486701237872198
+consumer,4.596273291925465
+appellate authority,2.2
+tariff by regulations,0.0
+consumer in different areas,0.0
+licensee s tariff proposal,0.0
+division bench,3.965217391304348
+date,6.195616975795285
+tariff of a licensee,0.5
+regulatory commission,2.7
+provision of this act,0.75
+consumers,3.861290322580645
+rating,1.0815829528158296
+other relevant provision,1.0
+schedule,2.9453067257945307
+accordance,1.4069045211613462
+procedures,0.6129675045984059
+day,1.550999710228919
+fuel,0.996606536881586
+date for implementation,0.5
+assent,0.7090909090909091
+sale,3.3662581620085734
+revenue from the charges,1.0
+forecast supply,0.5
+matter with regard,0.5
+principles,1.3198511166253102
+time at which supply,0.5
+load,2.0086580086580086
+purposes of the act,1.0
+passage of time,0.4102564102564103
+year details,0.5
+full details,0.25
+matter of policy,1.0
+purposes of the provisions,0.5
+word,2.065873981084096
+shanti,2.764705882352941
+writ,2.8882378560889794
+further information,0.9714285714285715
+appeals,1.7060218112849692
+need,1.1097650269586634
+months,1.1938163721148947
+february,0.8575630252100839
+force with effect,1.0
+schedule of the electricity,0.5
+investment,3.057915057915058
+consumption of electricity,1.8
+shri shanti bhusan,0.5
+expected revenue,1.5
+objectives,0.698051948051948
+relevant licence,1.0
+judgment of the division bench,1.8125
+management of the electricity industry,0.5
+high,5.367119186841496
+such notice to the licensee,0.5
+electricity avenues,0.5
+economic use,0.5
+licensee s tariff proposals,0.0
+force,1.6009408121948314
+commission considers,2.0
+behalf of the appellants,1.46875
+generation,1.2037318473488687
+notification,3.0112746633260263
+consumers like domestic consumers,0.5
+number of writ petitions,0.5
+classification,2.196286472148541
+objects,0.7297830374753452
+interference,0.5733527484528578
+avenue,0.43846153846153846
+purpose,2.519170317925504
+interested party,0.0
+law,3.538923411654744
+change,1.2214862766571903
+domestic consumer,1.5
+similar tariff,0.5
+time,2.4764180952862667
+cases,1.9728229418951067
+division,1.7657319129617017
+charges for the sale,0.6666666666666666
+daily newspaper,0.4761904761904762
+other matters,0.8307692307692308
+alternative tariff,0.5
+resource,0.8416706827309237
+load factor,1.0
+doubt that sub - section,0.0
+circulation in the area,0.6666666666666666
+full detail,0.25
+subsidization,0.5
+correct interpretation,0.5000000000000001
+hereinafter,0.7670609645131939
+financial year,3.1666666666666665
+cross-subsidy,0.0
+such notice,1.7857142857142858
+reform,0.6780894886363636
+march,1.0644238856181665
+connection,1.050640279394645
+calculation of the expected revenue,1.0
+to the term,0.6274509803921569
+reads,0.8722657304887929
+type,0.8102172691515265
+counsel,2.2246780703440323
+application,2.3322596088086445
+reforms,0.6547619047619048
+unacceptable to the commission,0.5
+policy,3.250773332247955
+to the act,1.0675675675675675
+april,0.8928235149629509
+domestic consumers,1.5
+appeals with costs,0.5
+commission,4.703619179345321
+reading,0.9004509191814082
+read with sections,1.2
+new tariff,1.0
+consumer of electricity,1.5
+amendment to the tariff,0.5
+aggregate revenue from charges,0.5
+court of andhra pradesh,1.5
+advisory,0.4615384615384616
+supply licence,0.5
+sector,1.1724200913242009
+play,0.5464427772208388
+andhra pradesh,4.857142857142857
+total consumption,1.0
+advisory committee,0.2857142857142857
+holder of each licence,1.0
+dispute,2.402137592137592
+datum,0.0
+notification under section,3.7857142857142856
+industry,8.208106219426973
+interest of the consumers,1.6666666666666667
+conditions,1.9988092071092867
+differentiation,0.8615384615384616
+electricity avenue,0.5
+detail,0.9737454684220567
+use of the resources,0.75
+case,7.332269420884958
+sub-sections,0.0
+period,1.9480170842427122
+standard price,0.5
+supply,2.0557395143487858
+dispute arises in connection,0.5
+licensed area,0.5
+other interested parties,0.30000000000000004
+constitution,3.204842342342342
+specified period,0.7142857142857143
+year in respect,0.8
+factors,0.9829522460542292
+types,0.6765151515151515
+writ petitions,2.984848484848485
+date of implementation,1.0
+optimum investments performance,0.5
+purposes,1.4391216613438835
+future,0.9664487618116651
+section-,0.0
+service,4.257395095954566
+distribution,2.7289109919449284
+current year,0.26666666666666666
+contention,1.666391070690368
+term of any fuel surcharge formula,0.0
+inter alia,1.3280423280423281
+public on request,0.5
+date of this enactment,0.5
+information that the commission,0.5
+such tariff,2.0
+bench,2.5793391667754992
+which supply,0.6666666666666666
+assent of the president,1.1428571428571428
+incidental thereto,1.0
+circulation,0.5371900826446281
+careful reading,1.1538461538461537
+resources,0.9331054687500001
+costs,0.8167395522604189
+condition for the determination,0.0
+constitution of an electricity,0.5
+undue preference,2.0
+october,0.9478375701551667
+various contention,1.0
+fixation of tariff,5.666666666666667
+methodology,0.47297297297297297
+commission under sub - sections,0.0
+goods,4.7578125
+following parameter,0.6666666666666666
+notice,2.3300025999395686
+particular,1.5248953455371081
+such further information as the commission,1.0
+therewith,0.6394230769230769
+power,3.8165227690948367
+participation,1.138392857142857
+management,1.6732611752395274
+other interested party,0.0
+because no effective relief,0.5
+revenue from charges,1.6666666666666667
+expected revenue from charges,1.3333333333333333
+aspect of the cases,0.0
+relevant provision of this act,0.0
+other consumers like domestic consumer,0.5
+regulatory,1.7023809523809523
+consumption,2.4979360165118676
+further particular,0.6666666666666666
+aspects of the cases,0.5
+consultation,1.1724137931034484
+fixation of tariffs,0.5
+reason,2.6381270903010035
+rationalisation,0.3333333333333333
+court that the judicial review,0.5
+various contentions,1.0
+writ petition,6.24223602484472
+petition,5.3436539306104525
+category,1.9351744779266717
+sixth schedule,5.25
+consideration,1.9110153789142115
+terms of any fuel surcharge formula,0.6666666666666666
+days from the date,1.7352941176470589
+optimum investments performance of licence conditions,0.5
+departs,0.6666666666666666
+revenues,0.49523809523809526
+words,1.6384367086179112
+common ground,0.5454545454545454
+tariff proposals,1.0
+customer,1.993717277486911
+way incorrect,0.5
+calculation for that financial year,0.5
+holder,1.8472993827160495
+elaborate judgment,0.6666666666666666
+other consumers,0.5
+receipt,1.5471923536439667
+revenue calculation,1.5
+annual exercise,0.5
+classification of consumers,1.0
+licence condition,0.5
+investments performance,0.5
+challenge,1.2204566274399267
+contention of shri shanti bhusan,0.5
+authority,2.4352627108360636
+provisions,3.8929824561403508
+charges for electricity,0.5
+pursuant to the terms,1.0
+gazette,0.9578231292517008
+different areas,0.4
+development,2.3145884270578647
+licence,3.10964429776311
+state that the tariff,0.5
+dispute arise,1.2222222222222223
+efficiency in the supply,1.0
+commission considers that the licensee,0.5
+face,0.7281253260594137
+power factor,1.3333333333333333
+other relevant provisions of this act,0.5
+aggregate revenue,1.0
+relevant provision,1.5737704918032787
+performance,1.4794327394994442
+pursuant,0.7227692307692308
+tariffs by regulations,0.5
+aggregate,1.3988095238095237
+present dispute arises in connection,0.5
+wholesale,1.0564663023679417
+blush,0.2857142857142857
+hand,2.0299623418254717
+proposals,1.8872549019607843
+contentions,0.9641025641025641
+licensed activity,0.5
+sense,0.8606303395157362
+purpose of the act,1.7
+no doubt,0.8331331503088538
+appellant,14.387096774193548
+decision of the regulatory commission,0.5
+high court that the judicial review,0.5
+further information as the commission,1.0
+present cases,0.8571428571428571
+salient object,0.5
+transmission,1.1157457081545064
+commission consider,2.0
+various factors,0.8
+high court,7.7477477477477485
+determination under sub - section,0.0
+other relevant provision of this act,0.0
+appeal with costs,0.5
+public,2.923239095873367
+pradesh electricity reforms,0.5
+state,6.817996007300392
+regulations,3.7157723577235777
+jurisdiction,2.9539571926331507
+official,2.6854955160358718
+other hand under section,0.5
+preference,1.0460251046025104
+that financial year,0.5
+appellate authority in exercise,0.5
+judicial review,2.64
+undue preference to any consumer,1.25
+following parameters,0.6666666666666666
+licence conditions,0.5
+consideration that the supply,0.5
+elaborate judgment of the division bench,0.5
+pendency of these appeals,0.6666666666666666
+different area,0.4
+relevant provision of the act,0.0
+notice to the licensee,0.5
+to the public on request,0.5
+depart from factors,0.0
+contra-distinction,0.0
+charge for electricity,0.0
+calculation with regard,0.5
+dispute arises,1.2222222222222223
+charge for the level,0.0
+asset,3.0300107181136124
+official gazette,1.1282051282051282
+license,2.9365546218487393
+measure,1.1941357983816498
+functions of the commission,1.0
+electricity,4.4831223628691985
+fixation of the tariff,0.5
+consumer s load factor,0.0
+economic efficiency in the supply,1.0
+interest of the consumer,2.1666666666666665
+capacity of category,1.0
+measures,1.126498218334953
+days of the date,1.6
+use of the words,0.6666666666666666
+licensee s calculation,0.0
+assets,2.6879084967320264
+customers,1.646655231560892
+indication,0.6940825616072829

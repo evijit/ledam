@@ -1,0 +1,175 @@
+facet,0.8467741935483872
+qrs,0.10683760683760685
+other appeal,0.9090909090909091
+benefit,2.604810195438474
+reference court,4.090909090909091
+cost,1.2954397451466992
+view of the matter,1.7142857142857142
+acre,1.6948939682084037
+above term,0.9375
+appeals,1.7060218112849692
+batch of appeals,1.3125
+amount,3.179688593072295
+lacs per acre,2.5
+location,0.8935109449248265
+above decision,1.1818181818181819
+further dilation of individual facts,1.5
+batch,1.2940630797773658
+charan singh,1.7
+bamnoli,0.5
+terms,2.390350840909655
+court in suresh prasad,0.5
+notification for acquisition,0.5
+kumar sharma,1.6
+high,5.367119186841496
+slpc,2.727272727272727
+bharthal,0.5
+lacs per acre for land,2.0
+dilation,0.625
+court in civil appeal nos,0.75
+ashwani,8.75
+court,12.24425115501509
+interest,2.74353772015385
+v union,1.5773809523809523
+shashi,0.75
+officer,3.1197242647058823
+bijwasan,0.5
+needles,0.5447697312104091
+court in impulse india pvt,0.5
+acquisition,6.764044943820224
+union,2.0981927710843373
+notification,3.0112746633260263
+statutory benefit,1.125
+impulse,0.42156862745098045
+ors,2.8612718198296623
+statutory benefits,1.1428571428571428
+bar that the ruling,0.5
+nos,1.2635492554198444
+needless,0.6410068426197458
+statutory benefit under the act,0.0
+pochanpur,0.5
+consideration,1.9110153789142115
+charan,1.1111111111111112
+appeal no,2.288135593220339
+village bamnoli,0.5
+matter,2.8088923076923082
+land acquisition act,12.714285714285714
+term,3.6255105640901575
+lac,2.403150042398463
+appeal nos,1.6666666666666667
+block b,0.5
+appellants,7.701086956521739
+view,2.441100058469462
+relevant facets,1.5
+decision,2.9514937765898557
+arvind,1.3749999999999998
+mr govind goel,0.5
+location of the land,1.5
+masoodabad,0.5
+goel,0.5384615384615384
+facets,0.6363636363636364
+singular fact,1.5
+notifications for acquisition,1.5
+court in civil appeal,1.1111111111111112
+saharya,1.3333333333333333
+amitava,0.5
+quantification,1.0666666666666667
+appeal,3.4125488033856883
+statutory benefits under the act,1.5
+bar that the decision,0.5
+delay,1.9544910179640715
+land,6.337534028705619
+further dilation,1.5
+relevant facet,1.5
+individual facts,1.5
+village masoodabad,0.5
+civil appeal no,2.1403508771929824
+village,1.8429856945085372
+lacs,1.6941699604743086
+kishan,2.0000000000000004
+counsel,2.2246780703440323
+india pvt,1.8333333333333333
+india,2.7684068260703585
+prashad,0.75
+batch of other appeals,0.5
+heard,0.782882203033377
+sharma,0.9516994633273703
+civil appeal nos,1.5416666666666667
+fact,3.6284951019474962
+hari,1.1945070711211314
+act,12.870263922028107
+village bijwasan,0.5
+vishnu,0.7500000000000001
+term of the above decision,0.0
+benefit under the act,0.5
+quantification of the compensation,1.5
+anr,1.1271033322299457
+amount of compensation,3.375
+explanation,1.4510159010600707
+ashwani kumar,8.75
+ltd,2.382356477306883
+payable in terms of the above decision,1.5
+kumar,2.028839704896043
+prasad,1.1407089151450054
+circumstances,1.3944461370073231
+appellant,14.387096774193548
+above terms,0.9375
+r balasubramaniam,0.5
+balasubramaniam,0.5
+suresh,0.8250000000000001
+high court,7.7477477477477485
+rachna srivastava,0.5
+block,0.7881443298969073
+impulse india pvt,1.0
+mr arvind kumar sharma,0.5
+singular facts,1.5
+court in charan singh,0.6666666666666666
+bar,1.4720990391722097
+herein,2.825259515570934
+srivastava,0.8333333333333334
+rachna,1.0
+-charan singh,0.0
+amitava roy,0.5
+singh,3.7791111111111113
+issues,1.1246716508385532
+counsel for the appellants,1.7258064516129032
+in term of the above decision,0.0
+circumstance,1.429931390219372
+civil,2.126558634963905
+ms garima,0.5
+dilation of individual facts,1.5
+in terms of the above decision,1.5
+v union of india,2.381818181818182
+govind,0.7333333333333335
+counsel for the respondents,1.425531914893617
+land acquisition officer,1.9
+terms of the above decision,1.5
+kiran,0.6461538461538461
+individual fact,1.5
+prasad  hari kishan,0.0
+compensation,3.7916666666666665
+roy,0.802892290355902
+supra,2.246342614440774
+reference,2.1755848210276256
+suresh prasad,1.0
+union of india,3.1324503311258276
+benefits under the act,1.5
+civil appeal,2.2413793103448274
+facts,1.4696673624372698
+respondent,4.757894736842104
+issue,2.766776251628934
+respondents,2.6341263330598856
+pvt,0.8625817965496728
+acre for land,2.0
+appellants ie,1.1666666666666667
+costs,0.8167395522604189
+block a,0.4081632653061224
+garima,0.5
+benefits,2.0896027049873203
+slp,1.291953447628582
+notifications,1.9743589743589745
+other appeals,0.8571428571428571
+consideration of the explanation,1.3333333333333333
+verdict,0.6880952380952381
+shashi kiran,0.5
+ruling,0.5854935847080388

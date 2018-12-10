@@ -1,0 +1,517 @@
+residential homes,0.6666666666666666
+deaths,0.43177752480078063
+code,2.880559796437659
+evening,0.5274557657107993
+mind,1.1559066143122394
+read with section,2.3513513513513513
+people,1.2855544825097243
+establishment,0.9899216125419933
+sections,1.640495469442838
+died of a suicidal death,0.5
+track court,5.857142857142857
+assassin,0.4620689655172413
+dowry menace,0.5
+baroda,1.3
+judicial magistrate,2.7857142857142856
+court,12.24425115501509
+case of balwant singh,0.5
+jaynarayan,0.5
+union,2.0981927710843373
+suicide,3.2060041407867494
+year of marriage,0.0
+person,4.291511329454258
+ors,2.8612718198296623
+pso,0.6550500903268188
+foundational fact,1.0
+criminal complaint,1.7
+punishable under sections,1.6153846153846154
+dinesh v state,0.5
+existence of cruelty,0.5
+victim to cruelty,0.5
+present appeal,1.3424657534246576
+aspect,1.2449448189023034
+district,1.5506763074237984
+sessions,1.3405714285714285
+iqbal singh,0.75
+conclusion of guilty mind,0.5
+dhanjibhai karia,2.5
+hands,1.1725490196078434
+kishori lal v state,0.5
+house,2.0021735292386764
+appeal,3.4125488033856883
+weapon,1.0217176079034398
+years from the date,1.8518518518518519
+innocent man,0.5555555555555556
+harassment,1.5747368421052634
+morbi on report,0.5
+read,2.2147281730888695
+sessions judge,2.9545454545454546
+matru v state,0.5
+exhibit,0.8875432525951558
+indirect acts,0.5
+year,2.8349484769759212
+abetment,1.7142857142857142
+matru,0.5
+inquest panchnama,0.5
+prosecution hand,0.5
+several times in the past,0.2857142857142857
+accidental death,0.3513513513513513
+morbi,1.7142857142857144
+judgment,3.288216560509554
+himachal,2.5833333333333335
+father,1.4298716229162676
+fast,0.9771388985105647
+guilt,1.1140207075064712
+sharma,0.9516994633273703
+firm conclusion,0.25
+order,5.472481489660944
+deceased died of a suicidal death,0.5
+arrest warrant,0.23076923076923073
+act,12.870263922028107
+statement of several witnesses,0.0
+duty at the relevant time,0.5
+certain foundational facts,1.0
+case of kishori lal v state,0.5
+kishori,1.75
+clas,2.1196191893660425
+essential ingredient of section,0.5
+died,0.9275196022183975
+dinesh,3.230769230769231
+times in the past,0.2647058823529412
+resultant order of conviction,0.5
+pinaki chandra ghose,1.3333333333333333
+relevant point,0.8333333333333334
+shield,0.38831360946745563
+morbi city police station,1.0
+post-mortem examination,0.0
+section,9.287987283173626
+herein,2.825259515570934
+different story,0.25609756097560976
+counsels,1.2333333333333334
+none,0.8181718550217885
+version,1.0500313479623824
+incident,1.8609485257918057
+legal terrorism,0.5
+documentary evidence,0.6825
+condition,2.259476395625584
+case of alleged abetment,0.0
+right from the date of marriage ie,0.5
+preliminary investigation,0.5
+counsel for the appellants,1.7258064516129032
+place,2.333104345208554
+circumstance,1.429931390219372
+guilty mind,0.6666666666666666
+personal knowledge of the witness,0.5
+present case,1.5611814345991561
+learned counsel for the appellants,1.7142857142857142
+nearest relatives,0.5
+investigation,1.6673076923076922
+regard,2.723310344827586
+act of incitement,0.0
+case of the appellants,0.9230769230769231
+punjab v,0.9285714285714286
+firm hand,0.5
+dowry death,3.888888888888889
+knowledge,1.1120671641791045
+class,2.1508512849922936
+to frequent mental torture,0.5
+condition of sections,0.0
+telephonic message,1.0
+length,0.6297872340425531
+story,0.755772533184814
+facts,1.4696673624372698
+house at the relevant point,0.5
+investigating,1.5794836956521738
+basi,2.0752712086391383
+kantilal,2.0
+nearest relative,1.0
+days,1.6721350893491447
+home,0.9826663267907214
+date of marriage ie,0.5
+in the house at the relevant point,0.5
+suicidal death,1.0
+root,0.44430482003410826
+session,2.2400874351067563
+conviction,2.248165832071736
+basis,1.953226441078104
+personal knowledge,1.5
+something fishy behind the death,0.5
+court in the present matter,0.6666666666666666
+same day,0.8830188679245283
+criminal appeal,2.5675675675675675
+magistrate,3.522077922077922
+basi of presumption,0.0
+pinaki,1.2857142857142858
+ingredient of section,0.5
+something fishy,0.5
+penal code read with section,2.625
+pradesh,4.365853658536586
+crime,1.6636528028933093
+officer,3.1197242647058823
+cruelty,2.9099099099099095
+marriage,1.8031648351648353
+direct evidence,1.8409090909090908
+m srinivasulu v state,0.5
+impugned judgment,2.0927152317880795
+matter,2.8088923076923082
+proof,1.0648141580366008
+present matter,0.9090909090909091
+meantime,0.5833333333333334
+essential ingredient,0.8769230769230769
+menace,0.78
+criminal,3.301971081989414
+appellants,7.701086956521739
+penal,1.8829173709853835
+indian,1.2604961505560306
+post,2.344803646492219
+case of the prosecution,2.3043478260869565
+subject to frequent mental torture,0.5
+ingredient,1.2242798353909468
+inquest,2.0454545454545454
+side,3.88845645915565
+interested witnesses,0.875
+wife,1.4518086408500224
+penal code,2.710144927536232
+other aspect,0.6921768707482993
+witness,5.333906623599983
+sessions court,2.230769230769231
+indian penal code read with section,2.625
+frequent mental torture,0.5
+record,2.5393414390845273
+procedure,2.552771605064117
+laws,1.4186274337269533
+wife with cruelty,0.5
+such circumstances,0.5729166666666666
+polouse,0.0
+friend,0.7079130846815137
+object of section,1.0
+provision,5.439002243350069
+link,0.6814600840336135
+city,2.544592792669584
+support,0.8630946786249609
+mere fact,0.6
+grave crime,0.3333333333333333
+other aspect of the case,0.5
+sakatar,0.5
+hrs on the same day,0.5
+criteria,1.3561764705882353
+fact,3.6284951019474962
+v state of haryana manuscmanusc,1.1666666666666667
+such circumstance,0.5723905723905723
+learned counsel,3.703333333333333
+registration,2.231365215068127
+torture,0.6886137118695258
+duties,1.477142857142857
+such cases,0.7390180878552971
+station,1.2515681586858238
+criminal procedure,6.406779661016949
+husband,1.6418918918918919
+hour,1.1326135248230613
+object,1.4940119760479043
+kumar,2.028839704896043
+demand,1.5671679197994988
+other witnesses,0.7
+presumption,1.06
+position of the dead body,0.5
+due to the insufficient dowry,0.5
+witnes,5.333906623599983
+crime under section,0.5
+girl,0.3769911504424779
+year from the date,1.5
+times,0.8987140267391797
+applicability,1.0928961748633879
+photographs,0.8524590163934426
+documentary,0.6730769230769231
+other witness,0.7222222222222222
+reasonable apprehension,1.6
+years,2.5395804110508022
+photograph of the dead body,0.0
+such case,0.7332761578044598
+sushil kumar sharma v union,0.5
+greedy person,0.0
+report,1.7768151696835826
+punjab,1.0438169425511197
+code of criminal procedure,6.120689655172414
+entry in the station register,0.5
+gopi,0.2962962962962963
+judicial,2.8688059701492543
+srivastav,1.0666666666666667
+foundational facts,1.0
+presumption arises,0.75
+deceased died,1.75
+direct evidence in such cases,0.5
+kantilal dhanjibhai karia of district rajkot,0.5
+sessions case,1.0
+appellants  conduct,0.0
+case of matru v state,0.5
+morbi in sessions case,0.5
+demand for dowry,2.5
+establishment of guilt,0.5
+rameshwar,1.3333333333333333
+v state,2.4603773584905664
+wedlock,0.543956043956044
+date,6.195616975795285
+foundation,0.770509435807177
+knowledge of the witness,0.5
+sister,1.0774703557312253
+relevant entry in the station register,0.5
+existence,0.731202675709574
+interested witness,0.8888888888888888
+offence,4.401610644257703
+basing,0.46341463414634143
+bank,9.40770083102493
+concerned judicial magistrate,0.5
+inspector,1.2705882352941176
+residential home,0.6666666666666666
+dispute though the evidence,0.5
+station register,0.5
+day,1.550999710228919
+several times,0.6095679012345678
+aspect of the case,1.4
+court that the evidence,0.5
+truptiben,2.0
+several witnesses,0.37333333333333335
+daughter truptiben,0.5
+friends,0.44078947368421045
+scmanu,7.940520446096654
+apprehension,0.9319526627218935
+yaadi to the pso,0.5
+statement,2.5393160135035964
+grave,0.5757518081461743
+place within a period,0.5
+past,0.9553167330358714
+entry,4.707210447678601
+certain criterion,0.0
+duties in the bank,0.5
+high,5.367119186841496
+court of the district,0.6666666666666666
+sushil,2.0
+v state of himachal,1.0
+regard to the applicability,0.6666666666666666
+event,1.4310854436179261
+case of sakatar singh,0.5
+firm conclusion of guilty mind,0.5
+certain criteria,0.6666666666666666
+unleashing,0.5
+penal code read,2.75
+proof of cruelty,0.5
+learned counsels,1.3846153846153846
+law,3.538923411654744
+trial court,3.854545454545455
+nos,1.2635492554198444
+rajkot,2.0
+indirect act,0.5
+time,2.4764180952862667
+cases,1.9728229418951067
+less dowry,0.5
+sides,0.6706755273269035
+cases of alleged abetment,0.5
+unfortunate event,0.2727272727272727
+ghose,1.25
+baroda at rajkot,0.5
+homes,0.6853146853146853
+conditions of sections,0.5
+dowry demand,1.1666666666666667
+complaint,2.734525785235724
+hours,1.1644152367043934
+yaadi,0.5
+police inspector mr jaynarayan,0.5
+high court that the evidence,0.5
+other side,0.5701657458563535
+criterion,0.7104166666666666
+prosecution,4.619407894736842
+support from the evidence,1.0
+case of dowry death,0.6666666666666666
+such evidence,0.9649122807017544
+offences,1.6681887366818873
+elder sister,1.0
+concrete proof of cruelty,0.5
+indian evidence act,1.3125
+alleged abetment,0.5
+counsel,2.2246780703440323
+haryana manuscmanusc,1.1333333333333333
+criminal complaint with regard,0.5
+district rajkot,0.5
+india,2.7684068260703585
+commission,4.703619179345321
+witnesses,3.359210526315789
+pradesh manuscmanusc,1.5714285714285714
+criteria with regard,0.5
+joint family,1.1428571428571428
+version of the witnesses,1.0
+greedy people,0.30000000000000004
+karia,0.6
+evening hours,0.5
+return,1.5755725190839696
+photographs of the dead body,0.6666666666666666
+dispute,2.402137592137592
+evidence,3.6676405172088815
+ultimate conclusion,1.2857142857142858
+conditions,1.9988092071092867
+to the insufficient dowry,0.5
+victim,1.204831365285174
+mere fact that the husband,0.5
+thanu,0.2631578947368421
+direct link,0.2857142857142857
+crimes,0.7056429734129138
+addl,1.303854875283447
+relatives,0.8460264900662252
+fan,0.44988971896122376
+circumstance of the case,0.5
+in-laws appellant nos,0.0
+case,7.332269420884958
+panchnama,0.75
+regard to the position,0.5
+period,1.9480170842427122
+several witness,0.37333333333333335
+hr on the same day,0.0
+scc,1.941872465904902
+city police station,1.0
+scene of the offence,0.5
+ram,2.11096203538064
+thanu ram v state,0.5
+appeal under section,3.1176470588235294
+singh,3.7791111111111113
+statements,1.110873440285205
+marriage between truptiben,0.5
+incitement,0.25
+several time,0.6102941176470589
+complaint with regard,0.6666666666666666
+duty,3.2272215973003378
+chandra,0.7012987012987013
+years of marriage,1.2
+iqbal,0.5
+case of state,1.4375
+leave,1.0147842365477848
+court of gujarat,2.3076923076923075
+high court of gujarat,2.3076923076923075
+apprehension of the crime,0.5
+point,2.9165043546008516
+body,1.336775463480009
+criterion with regard,0.0
+registration of the complaint,0.5
+india manuscmanusc,1.8333333333333333
+certain criteria with regard,0.5
+evidence in such cases,0.5
+cross-examined at length by the other side,0.0
+privacy,0.9812310030395137
+prosecution hands,0.5
+woman,1.316528681253696
+husband appellant,0.5
+menace of dowry deaths,0.6666666666666666
+police,2.9749362629783356
+sentence,2.3896654193264366
+second criterion,0.5
+examination,2.4920345926263088
+evidence act,3.8666666666666667
+high court in the present matter,0.5
+dowry deaths,1.0
+lal,1.6786163249382287
+under section,5.374517374517374
+arrest,1.391895003453834
+srinivasulu,0.5
+impugned common judgment,1.0
+case of dinesh v state,0.5
+reason,2.6381270903010035
+position,1.549133168619177
+presumption arise,0.75
+scene,0.7999999999999999
+indirect acts of incitement,0.5
+haryana,2.935064935064935
+message,0.9435911954136882
+sakatar singh,0.5
+time in the past,0.0
+acts of incitement,0.5
+incident as an accidental death,0.5
+unfortunate death,0.6666666666666666
+acts,1.9133929521984454
+relative,1.0564311594202898
+evening hour,0.5
+several time in the past,0.0
+guilt of the appellants,0.6666666666666666
+order of conviction,1.3
+photograph,1.2280701754385965
+versions,0.34412698412698406
+statements of several witnesses,0.5
+gujarat,3.2753623188405796
+certain criterion with regard,0.0
+legislature,2.818553268765133
+family,1.856281506375408
+case of sushil kumar sharma v union,0.5
+judge,2.9012627415183325
+death,2.361592909460208
+manuscmanusc,7.940520446096654
+asi,2.9557996793834067
+appeal before the high court,1.1875
+conduct,1.5998023165163158
+court that a presumption,0.5
+mental torture,0.6666666666666666
+insufficient dowry,0.5
+dhanjibhai,2.5
+dowry,5.666666666666667
+grandfather,0.6653465346534652
+conclusion,1.3883437407077015
+length by the other side,0.5
+cases of dowry death,0.5
+special leave,1.903225806451613
+present in the house at the relevant point,0.5
+hrs,0.8909952606635071
+such relative,1.0
+counsel for the appellant,1.9621212121212122
+indian penal code read,2.75
+warrant,0.611066164387025
+relevant time,1.008
+register,1.2311946902654867
+resultant order,0.5
+indian penal code,5.264705882352941
+circumstances of the case,1.3373493975903614
+legislative intent,1.3823529411764706
+aforesaid judgment,1.4583333333333333
+hand,2.0299623418254717
+under sections,2.1931818181818183
+reasonable apprehension of the crime,0.5
+balwant singh,1.5
+indirect act of incitement,0.0
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+exhibits,0.4733727810650888
+daughter till,0.5
+root of dowry menace,0.5
+privacy of residential homes,0.5
+towards morbi,0.5
+high court,7.7477477477477485
+complainant,4.538461538461538
+fact that none,0.4444444444444444
+officer under section,0.8333333333333334
+daughter,1.0364906832298135
+learned counsel for the appellant,1.7884615384615385
+state,6.817996007300392
+intent,1.8427075724373023
+trial,3.7979448350459712
+pw-,0.0
+concrete proof,0.28571428571428575
+assassin s weapon,0.0
+manu,7.078142071124147
+track,1.311279069767442
+case of thanu ram v state,0.5
+case of m srinivasulu v state,0.5
+june,0.9339080459770116
+duty in the bank,0.0
+scale,2.0845464725643894
+dead body,1.192156862745098
+applicability of sections,1.0
+man,6.972395052694935
+relevant entry,0.6666666666666666
+certain foundational fact,1.0
+fact that the husband,0.5
+terrorism,4.0220994475138125
+first criterion,0.5
+in-laws appellant no,0.0
+such suicide,1.0
+balwant,1.3636363636363635
+basis of presumption,0.5
+commission of suicide,2.0
+something,0.5915378827342709
+kantilal dhanjibhai karia,2.5
+mortem,1.402116402116402
+marriage ie,0.5
