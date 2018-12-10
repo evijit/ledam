@@ -1,0 +1,1222 @@
+from the table,0.5
+senior counsel for the respondent,1.4666666666666666
+restriction,1.0123456790123457
+government,3.5583785424010483
+width of the larger particles,0.0
+national capital region,0.6666666666666666
+deaths,0.43177752480078063
+certainty,0.8630136986301371
+code,2.880559796437659
+licensed premises,2.6666666666666665
+lives,0.6840821832520494
+children,1.3787369914853358
+occasions,0.7723557692307693
+- times on diwali,0.0
+air pollution problem,0.5
+particulate matter,0.3214285714285714
+notice that person,0.0
+banning of fireworks,0.5
+constitution of india,3.0095238095238095
+confer on the central government,0.0
+reliefs,1.308641975308642
+indicator,0.7086466165413534
+people,1.2855544825097243
+risks,1.0984615384615384
+mark,2.700508607198748
+irreversible damage,0.3333333333333333
+duties in part,0.5
+same way,0.4284124629080119
+delhi s air,0.0
+extreme nuisance,0.5
+terms,2.390350840909655
+effects of fireworks,1.0
+los,1.8125523261338943
+problem,0.6764352120789936
+fundamental duties,0.8333333333333334
+adverse health effect of these hazardous levels,0.0
+inter,3.683850287482992
+multiple adverse effect,0.5
+education,2.1892608326253185
+purity,0.8724489795918368
+interest,2.74353772015385
+aqi in delhi,0.5
+diwali period show,0.5
+court,12.24425115501509
+manufacturers,1.1404255319148935
+clean air,0.2692307692307692
+future generation,0.6724137931034483
+firework on the ambient air,0.0
+person in india die,0.0
+vehicle exhausts,0.5
+eye,0.9466574319441098
+rise,1.6238941915958565
+explosives,1.0064935064935066
+mechanism of the law,0.5
+depository,0.2692307692307692
+union,2.0981927710843373
+denizen of the city,0.0
+people s lungs,0.0
+vast majority,0.4747474747474747
+objection,1.68120480131216
+as wood,0.5
+person,4.291511329454258
+vellore citizens,1.0
+bursting,0.5172413793103449
+in the market,2.55
+numerous accidents,0.5
+way,1.7812722068664852
+aqi considers,0.5
+crackers,1.0476190476190477
+- time,0.0
+part,5.294464509893076
+systems,0.3927792585413133
+worst over diwali weekend,0.5
+procession,0.35
+environment,4.8219106957424716
+risks of autism,0.5
+- objection certificate,0.0
+purification,0.48484848484848486
+coal,0.78125
+precautionary principle,2.6666666666666665
+ways,1.3640952708404963
+allergies,0.23333333333333334
+criminal offences,1.6
+- times,0.0
+loss of vision,0.5
+oil,0.6595019659239842
+particles,0.9801980198019802
+supplier of fireworks,0.0
+bronchitis etc,0.5
+health of citizens,0.5
+fume,0.24489795918367344
+range,0.8144965675057209
+last few weeks,0.25609756097560976
+sufficient grounds,0.5
+age,4.526374474274117
+number,1.4802651440973922
+magnesium,0.24890653775322286
+district,1.5506763074237984
+decisions,1.3888475974580996
+reasonablenes,1.0588235294117647
+disease,0.6741573033707865
+indicator of air quality,0.0
+decision,2.9514937765898557
+dangerous forms,0.5
+proportion in the ncr,0.0
+chittaranjan,0.5
+counsel for the respondent,1.5822784810126582
+record levels,0.5
+diwali weekend,0.5
+scientific certainty,0.6666666666666666
+total,1.183527325379098
+arthriti,0.2068965517241379
+citizens against the commercial interest,0.5
+allergy,0.0
+onset of winter,0.5
+severe air pollution,0.5
+claim,2.817264601856604
+order of the licensing authority,0.5
+nascent study,0.0
+test,2.5329834591340266
+licenses as permit sale,0.5
+reliefs against the use,0.5
+essential components of the freedom,0.5
+to state,0.7092760180995474
+life of the citizens,1.0
+marriage processions,0.5
+immense harm to the peace,0.5
+few weeks,0.24866310160427807
+adult-onset disease,0.0
+cancellation,1.677272727272727
+good,2.6154941054299674
+post to the address,0.5
+emergent relief,0.5
+air purification system,0.5
+first time that this court,0.5
+refers,0.6484772632457239
+exhaust,0.5762544802867384
+shut,0.48400556328233657
+use of fireworks,1.0
+area,2.675167256985439
+provisions of the act,2.6056338028169015
+expert,2.5786336542870245
+most victim,0.3333333333333333
+cases--i,0.0
+operations,1.1793611793611793
+month,1.3454861111111112
+year,2.8349484769759212
+micron,0.1857142857142857
+stage,1.1298537871524448
+resident of ncr,0.0
+release,0.9830403257846643
+citizen under article,0.0
+claims,1.1941982272360998
+barium,0.30000000000000004
+health like premature death,0.5
+manufacture,3.7256425233644856
+pages,0.4777568922305764
+press information bureau,0.5
+effect of these extreme levels,0.0
+hindustan times,0.75
+residents,0.8191605554688717
+order,5.472481489660944
+addres,0.7140043587773987
+width,0.5151515151515151
+loss,2.0689655172413794
+adult-onset diseases like multiple sclerosis,0.0
+peace,1.1022222222222222
+act,12.870263922028107
+air pollution,2.615384615384615
+ailing,0.6903676694013977
+constitutional balance,0.5
+inability,0.7162534435261708
+other dangerous form,0.5
+needles to state,0.0
+to education,0.7142857142857143
+pollution,3.0000000000000004
+spare,0.8627450980392156
+datum on this front,0.0
+injurious to health,0.6666666666666666
+such as wood,0.5
+standards,1.312168199737188
+average,0.9365131578947369
+average pm,1.5
+hazardous level of air pollution,0.0
+other health,0.5
+parameters,0.8168253968253969
+air quality during the diwali period shows,0.5
+counterpart,0.8125
+state government,3.027142857142857
+global megacities,0.5
+harm to the peace,0.5
+effect,2.184583388478191
+citizen,1.261748909029876
+ambient air,1.3333333333333333
+effects of these extreme levels,0.5
+ambient air thick,0.5
+level,1.1533169827122092
+concentrations of pm,0.5
+if--,0.0
+ill effects,0.5714285714285714
+key indicators,0.5
+serious invasion of the freedoms,0.5
+lungs,0.4222222222222223
+nuisance,1.2280701754385965
+morning,0.6560766182298546
+unsupervised bursting,0.5
+capital region  see mc,0.0
+immense harm,1.0
+rest,3.3424534062537377
+pres,3.886376551409615
+manner,1.4494591333432125
+population,1.8313253012048192
+member,2.649111111111111
+continuance,1.5151515151515154
+winter,0.4263322884012539
+set of parameters,0.5
+multiple adverse effect of air pollution,0.0
+commercial interests,0.5
+york time,0.4622641509433962
+unsupervised bursting of fireworks,0.5
+flora,2.454545454545454
+emergency of unseen proportions,0.5
+section,9.287987283173626
+jamat manuscmanusc,0.5
+makhija,0.6666666666666666
+severe standard,0.5
+mask,0.5229202037351443
+ear of people,0.0
+half micron,0.5
+same kind of noise,0.5
+key indicator,0.5
+palpitation,0.5555555555555556
+condition,2.259476395625584
+world s highest death rate,0.0
+noise,1.6221441124780316
+key indicators of respiratory health,0.5
+consequence,0.8726692512593296
+ministry of environment,6.0
+standard,1.4669008088548319
+fauna,4.222222222222222
+substantial damage,0.3333333333333333
+place,2.333104345208554
+circumstance,1.429931390219372
+hair,1.2685815066767447
+certain occasion,0.5
+same kind of air,0.5
+constraints,0.43956043956043955
+danger,0.8066378066378066
+mean,2.390645692553228
+accidents,0.8385135135135136
+adverse effects,0.6000000000000001
+many accidents,0.5
+force till,0.8
+global megacity,0.0
+regard,2.723310344827586
+particles of various elements,0.5
+lack of scientific certainty,0.5
+air purification systems in the wake,0.5
+atmospheric environment,0.25
+direction,1.8495050210098996
+firecrackers,0.5
+generations,0.84375
+extreme air pollution in the national capital region,0.5
+such license,0.6666666666666666
+rights,1.6349541930937281
+string,0.38028169014084506
+dangerous form of firecrackers,0.0
+air pollution level,0.5
+major source,0.4444444444444444
+fuels,0.328125
+noxious particle,0.5
+invasion of the freedoms,0.5
+control,2.148867902684286
+crop,1.0811273746496417
+components,0.5652173913043478
+york,0.5931109896118097
+such strings,0.5
+issue,2.766776251628934
+adverse effects of these extreme levels,0.5
+fire,1.1391892447477696
+peaks,0.49440559440559434
+concentration of pm,0.0
+thereof,1.7897727272727273
+airborne,0.2142857142857143
+counterparts,0.7641509433962265
+form,2.4865961263718424
+unhealthy effect of fireworks,0.0
+lung function to palpitation,0.5
+writing,1.1746753246753248
+deafness,0.5
+wish for the event,0.0
+adverse effect of air pollution,0.0
+lack,0.6349809734425119
+banning,0.5696202531645569
+needless to state,1.0
+days,1.6721350893491447
+hereinafter aqi,0.5
+expres,2.3455332782538525
+comprehensive set of parameters,0.5
+high as the day after diwali,0.5
+severe concern,0.5
+widths of the larger particles,0.5
+revocation of a licence,0.5
+petitioner,4.524972253052164
+cost,1.2954397451466992
+extreme effect,1.0
+degradation,0.4666666666666666
+ambient,0.9285714285714286
+orders,1.4936359300077826
+children in delhi,0.5
+tables,0.6402116402116402
+notice that people,0.3333333333333333
+availability of such fireworks,0.5
+lawful possession,0.38095238095238093
+pollution level,0.5555555555555556
+particulate,0.25
+holding,1.2555282555282552
+of the highest levels,0.5
+explosive,2.4255319148936167
+multiplicity,0.4
+neighborhood,0.28522336769759454
+forum v union,0.75
+directions,1.5134125183504605
+jamat,0.6666666666666666
+mirzapur,1.6666666666666667
+sub,7.816899313759727
+for rest,0.6578073089700998
+course,1.6545957498716626
+further steps toward,0.5
+commercial constraint of the manufacturers,0.0
+proportion,1.3026315789473686
+tranquility,0.7259259259259259
+kolkata,0.8333333333333334
+significant impact,0.5
+stock for sale,0.0
+behaviour,0.5142857142857143
+various element,0.4444444444444444
+that an opportunity,0.5
+magistrate,3.522077922077922
+health depository,0.5
+human health like premature deaths,0.5
+ailment,0.7
+lung damage,0.3333333333333333
+grounds,0.9540208829455945
+available in the market in the ncr till,0.5
+interests of the vast majority,0.5
+freedom,1.9254884143571103
+blood,1.1739965841161402
+fireworks in the ncr,1.0
+needles,0.5447697312104091
+licensed premise,2.6666666666666665
+thousands,0.42748091603053434
+world health organization reveals,0.5
+towards the rights,0.3333333333333333
+premature death,0.3333333333333333
+such violation,0.75
+licensee,5.253333333333333
+marriage,1.8031648351648353
+heart ailments,0.5
+ground,1.4186722903211633
+such opportunity,0.8571428571428571
+citizens,1.0493208639501226
+territory,1.3688226421790437
+damage,1.8281814532316336
+child,3.0202810640613067
+several such strings,0.5
+concoction,0.30000000000000004
+dense population,0.5
+sclerosi,0.2222222222222222
+opportunity,0.946186440677966
+commercial constraint,0.5
+size,0.4932317346481398
+central government considers,0.5
+function,1.6326372491145218
+gradation,0.690909090909091
+bond,0.7394882659713169
+serious invasion,0.5
+air quality standard,1.3333333333333333
+lung,0.6965517241379311
+fine particle of various elements,0.0
+many accident,0.5
+matter,2.8088923076923082
+use of fire crackers,1.0
+relation,1.397320207820618
+several such string,0.5
+essential components,0.75
+data on this front,0.5
+south,0.8254159150130287
+explosive rules,0.5
+bronchiti,0.3333333333333333
+such firework,0.5
+festival - marriage season in delhi,0.0
+dangerous form,0.5
+article,4.378806157159795
+cracker,0.8421052631578947
+ncr till,0.5
+worse during diwali,0.5
+prima facie,1.0185185185185184
+power stations,1.6666666666666667
+impact on people,0.5
+term,3.6255105640901575
+supplier,0.5907692307692307
+criminal,3.301971081989414
+harm to the lives,0.5
+years of age,1.10099573257468
+relief in relation,0.0
+citizen by part iii,0.0
+such licence,2.0
+serious opposition to the impact,0.5
+indian,1.2604961505560306
+view,2.441100058469462
+rise in mortality rates,0.5
+activities,1.57291280148423
+post,2.344803646492219
+reports,1.0202012199952466
+significance,0.6059966216216216
+opinion,1.4960606342789635
+bursting of fireworks,0.5
+deadly concoction of fumes,0.5
+relief,1.4748116760828625
+majority,1.3427634276342764
+malba,0.30000000000000004
+vital interest,0.6666666666666666
+constitutes,0.7703081232492996
+use,5.06801278974993
+wishes,0.8214849921011059
+cancellation of licence,0.5
+components of the freedom,0.5
+landmark,0.34821428571428575
+volume,0.5619176554909612
+premature deaths,0.3333333333333333
+firecracker,0.5
+issues like allergy,0.0
+well,1.4966552780778166
+- time on diwali,0.0
+sundaram,0.33333333333333337
+levels of air pollution,1.0
+interim directions,1.5
+unregulated manufacture,0.5
+ban,7.153551834566307
+contention of the petitioners,1.0
+test scores,0.5
+availability,0.6313043478260868
+strings,0.18320610687022898
+primary contention,0.5
+record,2.5393414390845273
+procedure,2.552771605064117
+data,0.9744599232788209
+activity,1.3846153846153848
+material,1.4148767018946966
+construction activities,1.1428571428571428
+protective mask,0.5
+unseen proportions,0.5
+information,1.1320502836800534
+month to this court,0.0
+ass,5.094236564606935
+november,0.7203359669727383
+india die,0.5
+asthma,0.18032786885245902
+damage to life,0.6666666666666666
+heart ailment,0.3333333333333333
+world,0.7808471033398942
+forests,1.8333333333333333
+guideline,1.5641711229946524
+pressure,0.6730769230769231
+city,2.544592792669584
+celebration,0.33944954128440363
+festival,0.4962406015037594
+provision,5.439002243350069
+unhealthy effects of fireworks,0.5
+parameter,0.7630669107179174
+accident,1.7464867454487383
+transport of fireworks,0.5
+interim direction,1.5
+court in vellore citizens,0.5
+respect,2.6704963235294117
+fine particles of various elements,0.5
+business,2.8512056385864457
+table,1.2846582247782705
+term of the air quality index,0.0
+premises,1.290983606557377
+contravention,2.586206896551724
+york times,0.4622641509433962
+concentration,0.3779527559055118
+press release,1.387755102040816
+express,2.3455332782538525
+member of the bench,0.5
+over diwali weekend,0.5
+garbage,0.2320574162679426
+health effect of these hazardous levels,0.0
+firework in the ncr,0.0
+rival claim,1.2
+most victims,0.3333333333333333
+citizens under article,1.0
+constitute,1.4530536624098458
+further order of this court,0.0
+vehicle,2.973111766564837
+emergent reliefs in relation,0.5
+principle of inter - generational equity,0.0
+duties,1.477142857142857
+interests,1.0562317935913441
+holder of the licence,2.0
+levels of these pollutants,0.5
+station,1.2515681586858238
+transport,1.8361522198731504
+in the market in the ncr till,0.5
+criminal procedure,6.406779661016949
+cnci,0.5
+hour,1.1326135248230613
+first time,0.7741935483870968
+multiple adverse effects,0.5
+air pollution in the national capital region,0.5
+stand,1.8422769621739425
+plight,0.38918918918918927
+exhausts,0.2727272727272727
+viii,0.7209469153515065
+comprehensive set,0.5
+pollutants,0.5
+rival claims,1.0
+megacities with dense populations,0.5
+various elements,0.4444444444444444
+work,2.8478559811646353
+kureshi,0.5
+right to life,1.2373737373737372
+victims,0.9
+system,1.1230229504341178
+diseases,0.731016731016731
+among global megacities with dense populations,0.5
+diwali night,0.5
+acute air pollution,0.5
+firework,7.428571428571429
+times,0.8987140267391797
+steps towards,0.6666666666666666
+cancer,0.31851179673321234
+los of vision,0.0
+mute flora,0.5
+doubt,1.3646267723102583
+effect of this hazardous air,0.0
+bar,1.4720990391722097
+such case,0.7332761578044598
+years,2.5395804110508022
+bureau,0.5022321428571429
+copper,0.1984126984126984
+essential component of the freedom,0.0
+orders of this court,1.4545454545454546
+safe limits,1.0
+report,1.7768151696835826
+highest level,0.2619047619047619
+breath in india,0.5
+restrictions,0.7241671372106155
+principle,1.9620890732001848
+human health like premature death,0.5
+licence--,0.0
+droplets,0.25
+other operation,0.38095238095238093
+diwali in this way,0.5
+health effects of these hazardous levels,0.5
+moti,1.2773469714499763
+crop burning,0.5
+anything,0.9132309941520469
+health effect of the pollution category wise,0.0
+delhi,2.6089285714285717
+issues,1.1246716508385532
+bronchitis,0.3333333333333333
+factor,1.2878742338904643
+other dangerous forms,0.5
+fumes,0.24193548387096778
+unavailable in the market,0.5
+chronic respiratory diseases,0.5
+various experts,0.5
+mehta,2.3529411764705888
+therein,1.5503424657534246
+vital interest of the vast majority,0.0
+grievance,1.032529659395331
+heart,0.8127090301003345
+air purification system in the wake,0.0
+widths,0.22972972972972971
+to life,0.9949317738791423
+steps toward,0.37037037037037035
+forum,1.9016754850088184
+lifestyle,0.32
+total banning of fireworks,0.5
+populations,0.2537313432835821
+colour,0.48673194267063996
+air quality index,1.0
+future generations,0.4642857142857143
+kolkata - based chittaranjan national cancer institute,0.0
+immediate commercial constraints of the manufacturers,0.5
+consequence of burning,0.5
+health effects,0.4285714285714286
+date,6.195616975795285
+proportions,0.5
+peace for good behaviour,0.5
+such licenses,1.0
+forms,0.8089941394570028
+mark on many days,0.5
+highest death rate,0.5
+respiratory disease,0.6666666666666666
+suppliers of fireworks,0.5
+schools,0.700507614213198
+unhealthy effects,0.5
+offence,4.401610644257703
+adverse health effects,0.3333333333333333
+respondent,4.757894736842104
+senior counsel for the petitioners,0.5
+deleterious towards the right,0.5
+annual average,0.5
+elements,0.676937441643324
+fundamental duty,0.5
+accordance,1.4069045211613462
+safe limit,1.0
+harmful effect,0.8571428571428571
+key indicator of respiratory health,0.0
+thousand,0.625287081339713
+towards the right,0.30000000000000004
+many days,0.2857142857142857
+fuel,0.996606536881586
+day,1.550999710228919
+emergency,2.635026737967914
+question,2.980312372067635
+evident from the table,0.5
+people in india die,0.5
+almost - still winter air,0.0
+such air without any mean,0.5
+indicator of respiratory health,0.0
+hazardous levels of air pollution,0.5
+levels,0.8861538461538463
+considerable increase in the region,0.5
+numerous accident,0.5
+citizens by part iii,0.5
+need of the future generation,0.0
+impact,1.0957789249924081
+level of these pollutants,0.0
+adverse effect,0.5555555555555556
+increase,1.3270102600811262
+scmanu,7.940520446096654
+ears of people,0.5
+chapter,1.3867471532446152
+apprehension,0.9319526627218935
+step,0.8867024753460084
+need,1.1097650269586634
+months,1.1938163721148947
+february,0.8575630252100839
+institute,0.9140980436760691
+licensing authority as an interim measure,0.5
+noise pollution,2.2222222222222223
+clean air for the citizens,0.5
+respiratory diseases,1.0
+refer,3.840717772752903
+noxious particles,0.5
+busines,2.8488759960122034
+worst among global megacities with dense populations,0.5
+toward,1.0255939365170768
+mehta v union,1.3333333333333333
+harmful effects of this hazardous air,0.5
+asses,3.6469028181356946
+adverse health effects of these hazardous levels,0.5
+air quality standards,1.3333333333333333
+mortality rate,0.3333333333333333
+fine particles,0.3333333333333333
+resident,1.6560361185631094
+press,2.0449126984126984
+scores,0.26041666666666663
+further steps towards,0.5
+such air,0.3333333333333333
+kind of air,0.25
+studies,1.1615103532277709
+deprivation,0.75
+needs,0.6897483569699066
+such licenses as permit sale,0.5
+duty in part,0.0
+sub-rule,0.0
+masks,0.5714285714285715
+fall,1.158018118245391
+total banning,0.5
+event,1.4310854436179261
+free trade,0.36
+good wishes,0.5
+level of air pollution,0.0
+force,1.6009408121948314
+fireworks on the ambient air,1.0
+air pollution across the capital,0.5
+environmental emergency of unseen proportions,0.5
+other dangerous forms of firecrackers,0.5
+generation,1.2037318473488687
+new york time,0.4591836734693877
+property,2.9368986630013745
+equity,1.3214285714285714
+permit,1.2568972835314092
+states,1.5120646995827023
+study of the data,0.5
+indicators of air quality,0.5
+severe concerns,0.5
+onset,0.44230769230769224
+interest of the security,0.5
+air pollution levels,0.5
+extreme effects,1.0
+ambient air quality during the diwali period shows,0.5
+aqi,1.171206225680934
+time that this court,0.5
+balance,0.9863636363636363
+law,3.538923411654744
+glitter,0.3333333333333333
+commercial constraints of the manufacturers,0.5
+dangerous forms of firecrackers,0.5
+study,1.4280920541907696
+ill effect,0.6666666666666666
+time,2.4764180952862667
+situation of air quality,0.5
+fine particle,0.3333333333333333
+central government,3.0380952380952384
+cases,1.9728229418951067
+threats,0.5798319327731093
+stations,1.3948692152917506
+invisibility,0.22727272727272727
+death rate,0.25
+ncr,1.1121523117154521
+values,0.4464678178963893
+issuance,1.05379513633014
+report by the central pollution control board,0.5
+mr kk,1.1111111111111112
+droplet in the air,0.0
+criminal offence,1.0666666666666667
+epilepsy,0.18333333333333332
+actual pm,0.5
+air without any means,0.5
+less in width,0.5
+adult,0.7479674796747968
+fireworks,7.142857142857143
+component of the freedom,0.0
+board,2.401414435268602
+significant impact on people,0.5
+air quality standard in early november,0.0
+megacity,0.0
+dense smog,0.5
+grave air quality situation in ncr,0.5
+opposition,0.7717250324254215
+good wish,0.3333333333333333
+agricultural waste,0.5
+injuriou to health,0.0
+further orders of this court,0.5
+guiding factor,0.8
+harmful effect of this hazardous air,0.0
+limit,2.3804570428443834
+mortality,0.20833333333333334
+latest report by the central pollution control board,0.5
+source of noise,0.5
+addition,1.5588539142412572
+right,3.07483248288682
+indian express,1.1428571428571428
+hereinafter,0.7670609645131939
+construction activity,1.3333333333333333
+serious problem to the inability,0.5
+wish,0.5561873255453323
+order of the central government,0.75
+environmental degradation,0.4444444444444444
+confer,1.1904670382471652
+air without any mean,0.5
+human health,0.8888888888888888
+certificate,2.732600732600732
+licensing authority,3.6
+fundamental duties in part,0.5
+offences,1.6681887366818873
+festival - marriage season,0.0
+confers on the central government,0.5
+public interest,2.380434782608696
+temporary deafnes,0.5
+effects of this hazardous air,0.5
+levels in south delhi,0.5
+type,0.8102172691515265
+limits,0.8405888207868406
+counsel,2.2246780703440323
+no doubt,0.8331331503088538
+harmful effects,0.8571428571428571
+rates,0.9535092413452435
+imminent danger to the public,0.5
+percent,0.7207207207207208
+proportions in the ncr,0.5
+india,2.7684068260703585
+market in the ncr till,0.5
+earth,1.8779670889762632
+due to unregulated manufacture,0.5
+atmospheric,0.19047619047619047
+rules,3.130914366958792
+confers,0.9700996677740863
+new york times,0.4591836734693877
+renewal,1.090909090909091
+fire cracker,1.3333333333333333
+constraint,0.38964401294498385
+breath,0.43582089552238806
+near invisibility,0.5
+health impact,0.4444444444444444
+other operations,0.2857142857142857
+cpcb report,1.0
+essential component,0.8333333333333334
+mechanism,0.7337579617834395
+air quality in ncr,0.5
+immediate commercial constraint of the manufacturers,0.0
+counsel for the petitioners,1.2666666666666666
+landmark study,0.3333333333333333
+credit,2.9526050420168066
+megacity with dense populations,0.0
+vellore,1.0
+half microns,0.5
+new,0.9418497626301229
+sclerosis,0.2222222222222222
+right for the lawful possession,0.5
+cpcb,0.9285714285714285
+forum v union of india manuscmanusc,0.75
+global health depository,0.5
+contravention of the act,0.6666666666666666
+denizens,0.08823529411764705
+dense populations,0.5
+to health,0.504950495049505
+good behaviour,0.5
+grave concerns-may,0.0
+healthy environment,0.4444444444444444
+risk,1.2477718360071302
+eyes,0.4774823657080847
+increase in the region,0.5
+primary contention of the petitioners,0.5
+vision,6.1797909407665506
+air pollution level across the region,0.0
+hazardous levels,1.0
+temporary deafness,0.5
+diwali period shows,0.5
+global megacities with dense populations,0.5
+deadly concoction,0.5
+droplet,0.2142857142857143
+rights that the resident,0.5
+vellore citizen,1.0
+free trade in fireworks,0.5
+datum,0.0
+peak,0.7635011280315849
+droplets in the air,0.5
+prevention of harmful crop burning,0.5
+infirm,0.8163265306122449
+threat,1.0459885867740852
+following table,0.30000000000000004
+denizen,0.10833333333333334
+conditions,1.9988092071092867
+extreme air pollution during this time,0.5
+protective masks,0.5
+victim,1.204831365285174
+indoor,0.673076923076923
+indicators of respiratory health,0.5
+ambient air thick with noxious particles,0.5
+deprivation of a range,0.5
+manufacturer,1.7352281226626773
+revocation,0.8727272727272727
+record level,0.5
+adverse health effect,0.3333333333333333
+licenses,0.8542857142857143
+effects,0.944781359719119
+region,2.372542065649998
+months to this court,0.5
+gujarat v mirzapur moti kureshi,0.5
+further orders,0.7777777777777778
+period,1.9480170842427122
+vital interests,0.5
+monitoring,2.5
+delhi s pollution level,0.0
+case,7.332269420884958
+state in terms,1.0
+grim situation of air quality,0.5
+air pollution during this time,0.5
+scc,1.941872465904902
+interim relief,1.9166666666666667
+chronic respiratory disease,0.5
+ears,2.380046985957606
+venugopal,2.7142857142857144
+early november,0.3333333333333333
+few week,0.24866310160427807
+risk of autism,0.0
+air thick with noxious particles,0.5
+constitution,3.204842342342342
+arthritis,0.2068965517241379
+same date,0.6153846153846154
+lung function,0.5
+tender,1.2253313696612664
+grim situation,0.5
+citizens against the commercial interests,0.5
+vital interests of the vast majority,0.5
+delhi s pollution levels,0.0
+same kind,0.6075949367088607
+plight of the thousands,0.5
+major source of noise,0.5
+wedding,0.1971830985915493
+quality,1.3318577075098814
+other dangerous form of firecrackers,0.0
+right to education,0.5
+air during diwali,0.5
+therefore,2.960332350576253
+human hair,0.5
+element,0.7062328407033122
+increase in respiratory diseases,0.5
+contention,1.666391070690368
+address,0.7129538279400157
+rule,5.04
+sufficient ground,1.6363636363636365
+level in delhi,0.0
+global megacity with dense populations,0.0
+favour,1.653145208700764
+reasonableness of restrictions,0.5
+among global megacity with dense populations,0.0
+suspension of a licence,0.5
+relief in respect,1.0
+hindustan time,0.75
+dumping,12.0
+particle,1.0047846889952152
+source,0.840137091365362
+serious problem,0.37142857142857144
+level in south delhi,0.0
+duty,3.2272215973003378
+bench,2.5793391667754992
+violation,1.2087401208740118
+commercial constraints,0.5
+latest report,0.30000000000000004
+immediate commercial constraint,0.5
+severe noise pollution,0.5
+joy,0.7852539404553414
+fundamental duty in part,0.0
+emergent relief in relation,0.0
+harmful effect of fireworks,0.0
+hazardous air,0.5
+costs,0.8167395522604189
+to unregulated manufacture,0.5
+emergent reliefs,0.5
+substantial damage to life,0.5
+air pollution levels across the region,0.5
+wedding season,0.5
+period show,0.5
+october,0.9478375701551667
+larger particle,0.5
+multiple sclerosis,0.30000000000000004
+unseen proportion,0.5
+air quality situation,0.5
+people s lung,0.0
+gradation of aqi,0.5
+health effect,0.4347826086956522
+of the highest level,0.5
+air quality situation in ncr,0.5
+capital region,1.0
+court in a number,0.8
+strontium,0.5
+waste,0.9238578680203045
+explosives act,1.0
+favour of citizens,0.5
+government considers,0.6000000000000001
+health effects of the pollution category wise,0.5
+notice,2.3300025999395686
+india manuscmanusc,1.8333333333333333
+air quality,3.25
+such fireworks,0.5
+global,0.4779411764705882
+explosive rule,0.5
+power,3.8165227690948367
+miniscule section of the population,0.5
+many day,0.2857142857142857
+concerns - may,0.0
+dangerous,0.5813731114935934
+steps,1.169318181818182
+premise,1.2347417840375587
+opposition to the impact,0.5
+materials,1.1534090909090908
+trade in fireworks,0.5
+concerns,0.9134645423305218
+thirty times,0.5
+order of this court,2.125
+microns,0.20833333333333334
+vibha,1.4
+deepawali,0.5
+order of suspension,2.0
+reasonablenes of restrictions,0.0
+season,0.5076762037683182
+inconvenience,0.47368421052631576
+permit sale,0.5
+interest of the vast majority,0.0
+various expert,0.5
+stocks for sale,0.5
+invasion,0.6166666666666667
+percent of the school children,0.5
+manufacture of fireworks,0.5
+terms of the air quality index,0.5
+mortality rates,0.5
+commercial interest,0.2777777777777778
+set,2.3027452395971277
+reason,2.6381270903010035
+operation,1.0959893294085181
+suspension of trade,0.5
+world health organization reveal,0.5
+lakh,1.3647388059701493
+marriage procession,0.5
+quality of air,1.0
+particle of various elements,0.0
+life,1.3352928273744242
+sale,3.3662581620085734
+index,0.5730288668677295
+weekend,0.21828908554572274
+one,4.845669314438648
+territory of ncr,0.5
+unhealthy effect,0.5
+report on the harmful effects,0.5
+further order,0.8253968253968255
+category,1.9351744779266717
+immense harm to the lives,0.5
+in the world,0.7139423076923076
+near invisibility of this type,0.5
+effect from the date,1.5384615384615385
+processions,0.4
+air quality in the ncr,0.5
+school child,0.3333333333333333
+construction,2.2504918032786887
+needless,0.6410068426197458
+fall in air quality,0.5
+government of india,4.94
+power station,1.0153846153846153
+inter-generational equity,0.0
+ailments,0.37037037037037035
+air quality standards in early november,0.5
+airborne particles,0.18749999999999997
+datta,0.5625
+during diwali,1.0
+front,0.8400299386969539
+facie,1.0476190476190477
+value,1.7137907830478438
+fairnes,0.5708245243128964
+ear,6.682790584013304
+air quality index in the ncr,0.5
+continuance of this manner,0.5
+air,2.0589664272145285
+effect of fireworks,0.0
+period shows,0.5
+adverse effects of air pollution,0.5
+rights that the residents,0.5
+holder,1.8472993827160495
+problem to the inability,0.5
+test score,0.5
+diabetes,0.11842105263157894
+harmful effects of fireworks,0.5
+adult-onset diseases,0.0
+section of the population,0.3333333333333333
+hindu,2.3637826961770623
+healthy life,0.6666666666666666
+trade,1.8307706424423558
+india s air quality,0.0
+ill,3.0852652247989245
+hour average,0.6666666666666666
+gujarat,3.2753623188405796
+prevention,0.6124072110286319
+diwali,6.0
+dangerou,0.5813731114935934
+les in width,0.0
+following tables,0.5
+ministry,1.6350210970464136
+authority,2.4352627108360636
+death,2.361592909460208
+reasonableness,1.0588235294117647
+manuscmanusc,7.940520446096654
+provisions,3.8929824561403508
+aqi consider,0.5
+district magistrate,3.5
+licensing,1.5485564304461943
+extreme levels,0.5
+serious opposition,0.5
+air for the citizens,0.5
+state of gujarat v mirzapur moti kureshi,0.5
+last few week,0.25609756097560976
+indoors,0.30000000000000004
+that government,0.635593220338983
+grave air quality situation,0.5
+imminent danger,0.2857142857142857
+extreme air pollution,1.0
+licence,3.10964429776311
+pollution levels,0.5555555555555556
+wake,0.47528517110266155
+size range,0.30000000000000004
+standstill,0.3333333333333333
+fire crackers,1.3333333333333333
+vehicle exhaust,0.5
+adverse effect of these extreme levels,0.0
+issuance of interim directions,0.5
+weeks,0.8109161793372318
+fauna in ncr,0.5
+mr ca,0.375
+addition to the above,0.8333333333333334
+impact of fireworks,1.0
+considerable increase,0.5
+storage,0.9779323578795875
+smog,0.46153846153846145
+concoction of fumes,0.5
+air thick,0.5
+security,1.5014864864864865
+deafnes,0.5
+autism,0.5
+lakh of crackers,0.5
+experts,2.4829710144927537
+page,1.011907905159212
+lung cancer,0.22727272727272727
+deleterious towards the rights,0.5
+pollution control board,1.6
+school,1.2666111192798444
+south delhi,1.5
+school children,0.3333333333333333
+year of age,0.0
+national,1.5126860273884035
+such string,0.5
+wood,0.4294193744768282
+component,0.6292906178489701
+respiratory health,0.5
+organization,1.1323094113464371
+almost - still winter air in delhi,0.0
+levels in delhi,0.5
+iii,1.5614499719992534
+contentions,0.9641025641025641
+suppliers,0.49180327868852464
+hindustan,1.85
+means,1.3868295182781003
+suspension,1.9622093023255813
+occasion,0.7946745562130177
+possession,2.808810857389056
+harmful crop burning,0.5
+dangerous festival,0.5
+clear that an opportunity,0.5
+score,0.45496296296296296
+hazardous level,1.0
+circumstances,1.3944461370073231
+global health depository of the world health organization reveals,0.5
+certain occasions,0.5
+week,0.8253498691546249
+child in delhi,0.0
+welfare,1.3226788432267886
+good wishes for the event,0.5
+kind of noise,0.5
+environmental emergency,0.5
+burning of fuels,0.5
+health depository of the world health organization reveals,0.5
+environmental purity,0.5
+ms vibha datta makhija,0.6666666666666666
+harm,1.2124444444444444
+barats,0.5
+public,2.923239095873367
+worst in the world,0.5
+state,6.817996007300392
+residents of ncr,1.0
+multiplicity of reports,0.5
+barat,0.6666666666666666
+heating,1.9741131351869605
+nascent studies,0.5
+forest,2.292817679558011
+kassab,0.5
+needs of the future generation,0.5
+concentrations,0.25
+ambient air quality,0.5
+manu,7.078142071124147
+concern,2.0544958000579303
+press release of the press information bureau,0.5
+provision of the act,0.8888888888888888
+rate,3.088725136774248
+airborne particle,0.18749999999999997
+central,2.61875
+burning,0.5957259953161592
+highest levels,0.30000000000000004
+issues like allergies,0.5
+market,5.294198044198044
+scale,2.0845464725643894
+children s iq,0.0
+part iii,1.6764705882352942
+day after diwali,1.5
+indicators,0.40322580645161293
+interim measure,3.0
+see,2.8180360783074034
+stocks,0.5357142857142857
+chapter viii,1.0
+denizens of the city,0.5
+potassium,0.21875
+danger to the public,0.5
+retail within the territory of ncr,0.5
+air purification systems,0.5
+health,0.8632619439868204
+thirty time,0.5
+reliefs in relation,0.5
+such air without any means,0.5
+as the day after diwali,0.5
+health like premature deaths,0.5
+categories,0.8800000000000001
+state government in accordance,0.5
+kind,0.9236881920088026
+fairness,0.5844155844155844
+license,2.9365546218487393
+immediate commercial constraints,0.5
+question at this stage,0.5
+extreme level,0.5
+petitioners,3.536507936507937
+central pollution control board,1.0
+night,0.8690610404251893
+situation,1.1254754682459434
+wishes for the event,0.5
+measure,1.1941357983816498
+interim relief in respect,0.5
+government consider,0.6000000000000001
+something,0.5915378827342709
+notice that the severe air pollution,0.5
+burning of garbage,0.5
+pollution category wise,0.5
+stock,1.0778270324523251
+licence under this rule,0.5
+measures,1.126498218334953
+senior counsel,2.2857142857142856
+multiple adverse effects of air pollution,0.5
+good wish for the event,0.0
+capital,1.0983272274832379
+freedoms,0.6401515151515151
+central government consider,0.5
+necessary for rest,0.5
+miniscule section,0.5
+pollutant,0.5681818181818181
+virtual standstill,0.5
+chapter viii of the code,0.5
+larger particles,0.5
+megacities,0.5
+festival  marriage season,0.0

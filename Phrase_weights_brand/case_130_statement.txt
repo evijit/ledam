@@ -1,0 +1,629 @@
+municipal corporation of the city,0.5
+service conditions of a state employee,0.5
+simple reason that service conditions,0.5
+government,3.5583785424010483
+to the party,0.8148148148148148
+correctness of the impugned order,0.5
+trained forest rangers,1.0
+sfs training course,1.0
+director,1.3549769585253457
+reliance on the judgments,0.6666666666666666
+petitioner no,2.5714285714285716
+view of peculiar facts,0.5
+sfs diploma,0.5
+constitution of india,3.0095238095238095
+high court in favour,0.75
+mills,1.026315789473684
+reliefs,1.308641975308642
+compas,0.41211484593837533
+action on the part,0.6862745098039216
+settled principle of law,1.0
+employee,6.280487804878048
+sent by the director,0.5
+terms,2.390350840909655
+sir,1.1712841173013164
+inter,3.683850287482992
+education,2.1892608326253185
+court,12.24425115501509
+corporation of the city,0.6666666666666666
+declaration,2.152560083594566
+p rules of hpfs-ii,0.0
+union,2.0981927710843373
+training,2.5456213222568365
+administrative tribunal,3.8
+person,4.291511329454258
+ors,2.8612718198296623
+convocation,0.5
+eligible for admission,0.5
+way,1.7812722068664852
+correctness,0.8404159132007234
+collector of bombay v,0.5
+actionrule,0.5
+part,5.294464509893076
+p rule of hpfs-ii,0.0
+respondents  favour,0.0
+state employees,1.5
+bombay,2.3134020618556703
+range,0.8144965675057209
+applicable to the parties,0.5
+discernible from the letter,0.5
+decisions,1.3888475974580996
+subject matter,1.2537313432835822
+hpfs-ii from the date,0.0
+decision,2.9514937765898557
+petitioners for appointments,0.5
+direct recruits,1.8571428571428572
+india forest research institute,0.0
+settled principle,1.0810810810810811
+claim,2.817264601856604
+parties before the high court,1.0
+transfer,1.9975047057658015
+correctnes,0.8404159132007234
+to state,0.7092760180995474
+distinction,0.7312167973690868
+appeal,3.4125488033856883
+collector,1.8095238095238093
+contra,3.550142721217888
+dehradum,0.5
+judgment  order,0.0
+assam-meghalaya,0.0
+sfs college burnihat,0.5
+writ petition under article,1.2
+other qualifications,0.5
+admission in the state,1.5
+different colleges,0.5
+state of uttar pradesh,1.6470588235294117
+learned counsel for the respondents,1.394736842105263
+such relief,1.125
+relevant facts,0.7692307692307692
+service rights,0.5
+year,2.8349484769759212
+stage,1.1298537871524448
+statesu,1.1428571428571428
+burnihat,0.5
+forest education,2.0
+contents of the letters,0.5
+judgment,3.288216560509554
+fixation,1.1141025641025641
+recruits,2.0714285714285716
+respondents  writ petition,0.0
+himachal,2.5833333333333335
+forest service colleges,1.5
+-appeal,0.0
+case of respondents,0.0
+promotion rules for the himachal,0.5
+services,1.6850241065659326
+order,5.472481489660944
+relief of the nature,0.5
+surya narain yadav,0.5
+state against the impugned judgment  order,0.0
+certain difficulties in the cases,0.5
+statutory service rule,0.5
+clas,2.1196191893660425
+appointment,3.1380281690140843
+forest department in himachal pradesh,0.5
+evidence that the state,0.5
+enforcement,0.7354220499569336
+motilal,0.8333333333333334
+affected state employees,0.5
+dehradun,2.0000000000000004
+relevant fact,0.9393939393939393
+effect,2.184583388478191
+citizen,1.261748909029876
+view of the decision,1.0
+copy,0.8620926631522174
+conditions of the service,0.5
+likewise,0.6
+wage,1.5814065510597304
+padampat,0.6666666666666666
+perusal of the letter,0.6666666666666666
+parties,1.8210828547990157
+court in favour,0.8571428571428571
+provision on the issue,0.5
+promotion rules,1.0
+necessary qualification,1.0
+meeting,1.5978547625659538
+none,0.8181718550217885
+college,2.1498947162234954
+for admission,1.7254901960784315
+condition,2.259476395625584
+judgments,1.2355646397547266
+enforceable right,1.4
+respondent for grant,0.0
+sought for the following reliefs,0.6666666666666666
+dates,2.6187832912811886
+place,2.333104345208554
+civil,2.126558634963905
+pradesh administrative tribunal,0.75
+officers,2.442124212421242
+high court in the writ petitions,0.5
+yadav,1.8571428571428574
+difficulty,0.656910569105691
+punjab v,0.9285714285714286
+promotion,2.946428571428571
+relief in question,0.5
+impediments,0.42857142857142855
+class,2.1508512849922936
+government of india forest research institute,0.0
+agency,1.8968779259354924
+perusal,0.750733137829912
+rights,1.6349541930937281
+union of india,3.1324503311258276
+promise,2.0067372473532243
+state employee,1.3333333333333333
+facts,1.4696673624372698
+municipal,2.4099173553719004
+issue,2.766776251628934
+contents,0.66519564577817
+forest department,3.25
+july,0.9742727723122656
+following declaration,0.5
+service law,0.75
+basi,2.0752712086391383
+appropriate amendment in the r,0.5
+benefits,2.0896027049873203
+benefit to the respondents,0.5
+v anglo afghan agency,0.0
+fixation of seniority,0.8333333333333334
+rangers course with honours,0.5
+method,0.9027027027027026
+service condition,2.272727272727273
+difficulty in the cases,0.0
+perusal of the record,1.0
+rights of the parties,1.1764705882352942
+benefit,2.604810195438474
+petitioner,4.524972253052164
+cost,1.2954397451466992
+impugned judgmentorder,2.0
+orders,1.4936359300077826
+common judgment,1.3636363636363635
+basis,1.953226441078104
+merits in this appeal,0.6666666666666666
+p rule,0.6666666666666666
+certain difficulties,0.5
+hpfs,1.5000000000000002
+affected state employee,0.5
+necessary steps,0.7279411764705882
+sub,7.816899313759727
+course,1.6545957498716626
+leave of this court,0.5
+p rules,0.8571428571428571
+peculiar facts,0.9473684210526315
+shimla,2.6666666666666665
+forest services class ii,0.5
+pradesh,4.365853658536586
+diploma against direct quota,0.5
+hence,1.1440732910500353
+needles,0.5447697312104091
+officer,3.1197242647058823
+writ petitions under article,0.875
+amendment,2.2486412346818434
+sfs training course from sfs college dehradum,0.5
+adequate evidence,0.3333333333333333
+ground,1.4186722903211633
+direct recruit,4.266666666666667
+letters,2.0877496159754223
+estoppel,2.736842105263158
+field,1.5820968371729793
+matter,2.8088923076923082
+relation,1.397320207820618
+such promise,1.0
+meantime,0.5833333333333334
+ranger,0.6404494382022471
+article,4.378806157159795
+legitimate rights,0.2692307692307692
+conservator of forests,0.5
+part of the state,0.8021390374331551
+term,3.6255105640901575
+shimla in oa,0.5
+appeal nos,1.6666666666666667
+appellants,7.701086956521739
+appeal as none,0.5
+view,2.441100058469462
+afghan,0.2222222222222222
+abhay,1.0
+sfs college dehradum,0.5
+requirements,0.7375979875979877
+ready reference,0.5
+opinion,1.4960606342789635
+to any action on the part,0.5
+relief,1.4748116760828625
+specific benefit,0.5
+merit,1.2419290263876248
+condition of the service,0.5
+assistant,1.6732837055417698
+light of the decision,1.0
+council of forestry research,0.5
+independent of the controversy,0.5
+forest service,6.5
+bihar,4.587301587301587
+record,2.5393414390845273
+information,1.1320502836800534
+simple reason,0.646551724137931
+petitions,1.3930830039525692
+qualification for promotion etc,0.5
+order of the tribunal,2.0
+year of the state,1.0
+forests,1.8333333333333333
+secretary,0.9217877094972067
+provision,5.439002243350069
+city,2.544592792669584
+express terms,0.8333333333333334
+shimla in civil writ petition nos,0.5
+different college,0.5
+such issue,0.5263157894736842
+recruitment,5.333333333333333
+civil appeal nos,1.5416666666666667
+fact,3.6284951019474962
+nestle,0.3333333333333333
+learned counsel,3.703333333333333
+nature of promise,0.5
+department,1.9858367499068206
+anr,1.1271033322299457
+learned counsel for the parties,1.263157894736842
+contents of the letter,1.3333333333333333
+following relief,1.1818181818181819
+chief,1.9429638234317954
+requirement of the rules,0.0
+service matter,0.5
+december,0.9629002463054187
+schedule to the rules,2.0
+express term,0.8571428571428571
+sugar,5.734610417563496
+cases of respondents,0.5
+person against the state,0.5
+aforementioned reliefs,1.0
+stage of the proceedings,1.4285714285714286
+impugned order,2.265957446808511
+contemporary direct recruits,0.5
+appellant - state,0.0
+content of the letter,0.0
+learned counsel for the appellant - state,0.0
+reason that service condition,0.5
+qualifications,1.0714285714285714
+director of forest education,2.0
+light,0.8816192372754331
+forest rangers,2.5
+favour on the strength,1.0
+grant of such relief,0.5
+enforceable right of the nature,0.5
+punjab,1.0438169425511197
+principle,1.9620890732001848
+quota,2.2173531989482913
+party,2.2250894654439723
+sought,1.1658793604651163
+delhi,2.6089285714285717
+trained forest ranger,1.0
+civil writ petition no,2.2857142857142856
+force in the submission,0.8
+ground that a case,0.5
+amended rules,1.6666666666666667
+lapse,0.9238095238095239
+statutory service rules,0.5
+forestry with all consequential benefits,0.5
+seniority,7.989473684210527
+approval,1.4085456739300164
+division bench,3.965217391304348
+date,6.195616975795285
+service conditions,2.1818181818181817
+uttar pradesh,2.8
+reference,2.1755848210276256
+difficulties,0.570873786407767
+case of the respondents,1.4285714285714286
+statutory rule,2.45
+colleges,1.9166666666666667
+respondent,4.757894736842104
+schedule,2.9453067257945307
+appropriate amendment,0.6000000000000001
+employees,4.611008798854102
+day,1.550999710228919
+writ petition nos,1.125
+question,2.980312372067635
+sfs training course at sfs college burnihat,0.5
+council,1.464939453675021
+compass,0.4085714285714286
+learned tribunal,2.4
+scmanu,7.940520446096654
+writ,2.8882378560889794
+right of the parties,0.0
+step,0.8867024753460084
+appeals,1.7060218112849692
+hereinbelow,1.0
+institute,0.9140980436760691
+hpf,0.8796296296296297
+first place,0.48711943793911006
+promotion rule for the himachal,0.0
+bombay v,1.0555555555555556
+respondents for grant,0.5
+actionrules,0.5
+- state,0.0
+forest departments,0.5
+high,5.367119186841496
+appointments,1.2888888888888888
+forest services course,1.0
+due dates,1.25
+event,1.4310854436179261
+such reliefs,0.6666666666666666
+enforcement on the plea,0.5
+force,1.6009408121948314
+ranger course with honours,0.5
+contemporary direct recruit,0.5
+light of the statutory service rules,0.5
+learned,3.406323898681099
+states,1.5120646995827023
+legitimate right,1.0476190476190477
+padampat sugar mills co ltd,0.5
+law,3.538923411654744
+nos,1.2635492554198444
+locus,0.6133333333333334
+hpfs-ii from due dates,0.0
+time,2.4764180952862667
+cases,1.9728229418951067
+division,1.7657319129617017
+respondent - employees,0.0
+from the letter,1.2
+reliefs in question,0.5
+such person,0.9634888438133874
+board,2.401414435268602
+pradesh forest service,0.5
+case in hand,2.1
+service-ii with effect,0.0
+requirements of the rules,0.5
+content,1.5450574489970066
+merits at the appropriate stage,0.5
+aforementioned relief,1.0
+promissory estoppel,2.8333333333333335
+locu,0.5823659840876484
+petitioner from the due dates,0.0
+orders of the learned tribunal,0.5
+sapre,0.4
+similar action,0.4444444444444444
+nature of the promise,0.5
+municipal corporation,1.3439153439153437
+method of recruitment,1.0
+grant,1.7314487632508835
+matter of the cases,0.5
+general field inter,0.5
+state of punjab v,0.9230769230769231
+rule in relation,0.0
+right,3.07483248288682
+case of promissory estoppel,2.5
+recruit,5.268177028451001
+statutory rules,1.875
+facts of the case,1.161764705882353
+kirpekar,1.0
+civil appeal no,2.1403508771929824
+fold,0.5699140401146132
+blame,0.5112154407929056
+himachal pradesh,2.5
+absence,1.092363454568179
+counsel,2.2246780703440323
+consequential benefits,1.5
+assistant conservator,0.5
+cases of promissory estoppel,0.5
+april,0.8928235149629509
+service-ii,0.0
+india,2.7684068260703585
+chief conservator,0.5
+rules,3.130914366958792
+forest service college,1.5
+india ltd,1.8076923076923077
+hpfs-ii,0.0
+conservator of forest,1.0
+anglo,0.26666666666666666
+court of himachal pradesh,0.75
+coimbatoretamil,0.5
+forest research institute,2.5
+new,0.9418497626301229
+assistant conservator of forest,0.5
+none of these decisions,0.5
+favour of the respondents,1.4
+two-fold submissions,0.0
+diploma course,1.75
+wide publicity,0.5555555555555556
+to the case in hand,1.5
+submissions,0.5235745614035088
+ltd,2.382356477306883
+training course at sfs college burnihat,0.5
+submission,1.0913871684001404
+evidence,3.6676405172088815
+amendment in the rules,0.5
+plea of promissory estoppel,2.0
+conditions,1.9988092071092867
+reliance,1.400763358778626
+opinion on any such issue,0.5
+sd-,0.0
+to the parties,0.6967741935483872
+peculiar fact,1.0476190476190477
+case,7.332269420884958
+reason that service conditions,0.5
+error,1.059158294766151
+certain difficulty,0.0
+scc,1.941872465904902
+merit at the appropriate stage,0.0
+favour of information,0.5
+state authority,1.0
+consequent,0.9615838143114256
+constitution,3.204842342342342
+letter,2.707240080105903
+selection for diploma course,0.5
+appropriate stage,0.5142857142857143
+writ petitions,2.984848484848485
+nadu,1.4166666666666665
+agencies,0.9094581337642103
+service,4.257395095954566
+way of the parties,0.5
+rule,5.04
+correctnes of the impugned order,0.0
+service by the respondents,0.5
+proceedings,1.7670925223666287
+favour,1.653145208700764
+restoration of the order,0.5
+meghalaya,2.25
+distinction between the facts,0.5
+strength of these letters,0.5
+bench,2.5793391667754992
+wages,1.2315068493150687
+respondent - employee,0.0
+service rules,2.95
+due date,2.111111111111111
+honours,0.5
+surya,0.36666666666666664
+respondents,2.6341263330598856
+leave,1.0147842365477848
+legality,0.6845938375350139
+costs,0.8167395522604189
+petitioner for appointments,0.0
+restoration,0.8498168498168498
+chief conservator of forests,0.5
+right of the nature,0.5
+two-fold submission,0.0
+v anglo afghan agencies,0.5
+admission,1.5389848246991107
+field inter,0.30000000000000004
+notice,2.3300025999395686
+amended rule,2.111111111111111
+manohar,1.1
+certain difficulty in the cases,0.0
+merits,0.968421052631579
+declaration in favour,1.0
+steps,1.169318181818182
+such lapse,1.0
+following declaration in favour,0.5
+forestry,0.56
+such situation,0.5538461538461539
+forestry at the state,0.5
+forestry research,0.5
+state against the common judgment,0.5
+set,2.3027452395971277
+reason,2.6381270903010035
+position,1.549133168619177
+due to any action on the part,0.5
+whereas column,0.5
+high court of himachal pradesh,0.75
+writ petition,6.24223602484472
+petition,5.3436539306104525
+needless,0.6410068426197458
+petitioner nos,1.0
+consideration,1.9110153789142115
+mill,1.0891891891891892
+government of india,4.94
+appeal no,2.288135593220339
+adequate evidence that the state,0.5
+consequent upon the declaration,0.5
+statutory,2.0326923076923076
+plea,1.4430487701432178
+force in this submission,0.75
+conservator,1.2000000000000002
+honour,0.8173913043478261
+certain letter,0.4444444444444444
+air,2.0589664272145285
+departments,0.9019607843137255
+range officers,0.5
+additional qualification,0.5
+content of the letters,0.0
+sfs diploma against direct quota,0.5
+service right,0.5
+cases of the respondents,1.0
+appellants in civil appeal nos,0.5
+upon the declaration,0.5
+narrow compass,0.8571428571428571
+court in the writ petitions,0.5
+respondents  writ petitions,0.0
+column,0.8759124087591239
+approval to the fact,0.5
+authority,2.4352627108360636
+difficulties in the cases,0.5
+rules in relation,0.6666666666666666
+other qualification,0.5
+manuscmanusc,7.940520446096654
+civil writ petition nos,0.5
+tamil nadu,3.176470588235294
+selection,2.2651528696585017
+consequential benefit,1.5
+impugned judgment  order,0.0
+v bihar state electricity board,0.5
+forest service course,2.5
+consideration in these appeals,0.9
+corporation,3.6427750743444176
+certain letters,0.5
+abhay manohar sapre,0.6666666666666666
+respondent for such lapse,0.0
+fact of the case,0.0
+service rule,3.1
+research,1.351044147915173
+petitioners from the due dates,0.5
+narain,0.4978662873399715
+principle of promissory estoppel,0.6666666666666666
+promotion etc,1.0
+ranger course,0.5
+to the impugned judgment  order,0.0
+strength,1.1679328901551123
+appellant in civil appeal nos,0.5
+party before the high court,0.0
+right to the respondents,0.5
+impediment,0.5668016194331984
+simple reason that service condition,0.5
+forest ranger,2.5
+diploma,1.8056603773584907
+hand,2.0299623418254717
+learned counsel for the appellant-state,0.0
+necessary step,0.7017543859649122
+iii,1.5614499719992534
+qualification,2.1521739130434785
+appellant,14.387096774193548
+uttar,2.188679245283019
+service condition of a state employee,0.0
+requirement,1.2416133333333332
+respondents  claim,0.0
+respondents for such lapse,0.5
+high court,7.7477477477477485
+reliance on any evidence,0.5
+assam,1.06
+state,6.817996007300392
+applicable to the case in hand,0.75
+rangers course,0.5
+promotion rule,1.0
+burmihat,0.5
+forest,2.292817679558011
+controversy,0.8593204191806921
+direct quota,0.3333333333333333
+second place,0.20833333333333334
+manu,7.078142071124147
+bumihat,0.5
+writ petition no,2.7777777777777777
+sent,3.0628620770573307
+narrow compas,0.8571428571428571
+state from time,0.6666666666666666
+judgmentorder,2.5
+training course,0.5833333333333334
+amendment in the r,1.0
+merit in this appeal,0.9285714285714286
+college to the secretary,0.5
+subject matter of the cases,0.5
+training course from sfs college dehradum,0.5
+acf,0.21985815602836878
+sfs,0.8351063829787234
+nature,1.4149926876444778
+discussion,0.7445831166579996
+necessary to state,0.6666666666666666
+independent to the impugned judgmentorder,0.5
+tribunal,5.07183212267958
+publicity,1.0266666666666668
+necessary qualifications,0.6666666666666666
+range officer,0.5
+petitioners,3.536507936507937
+situation,1.1254754682459434
+-appeals,0.0
+electricity,4.4831223628691985
+set of employees,1.0
+administrative,1.85302734375
+action,3.127292663476874
+rangers,0.6954022988505746
+alternative,0.841508109794136
+following reliefs,1.2
+honour to state,0.5
+necessary qualification for promotion etc,0.5
+order of the learned tribunal,1.0
+state to the respondents,0.5
+coimbatore,2.8

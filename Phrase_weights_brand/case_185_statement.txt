@@ -1,0 +1,1445 @@
+backdrop,0.5833333333333334
+government,3.5583785424010483
+framing,1.0965593784683685
+right of the applicant,0.5
+nazre,0.5
+establishment,0.9899216125419933
+hand relates to the grave offence,0.5
+wade,0.4001288659793814
+accused ie,1.0
+redress,1.2
+course of investigation,2.2
+inferior tribunals,0.5
+public mischief,0.8
+real accused persons,0.5
+sufficient reasons,1.25
+great cases,1.0
+eye,0.9466574319441098
+poulson,0.3333333333333333
+few exceptions,0.2647058823529412
+cause,1.8431210321626654
+way,1.7812722068664852
+systems,0.3927792585413133
+legal standing,0.30000000000000004
+lord denning,1.2
+to every citizen,0.6666666666666666
+serious view,0.6666666666666666
+grave offence,0.5
+punishable under sections,1.6153846153846154
+family members in connection,0.5
+share,2.560794932990637
+ramakant rai v madan rai,1.0
+district,1.5506763074237984
+meddlesome interloper,0.5
+statement of various witnesses,0.0
+new problems of unredressed grievance,0.5
+conscience of the high court,1.0
+aforesaid,2.592896174863388
+arbitrary jurisdiction on the court,0.5
+other respondents,0.8888888888888888
+chargesheet,2.625
+exceptions by way,0.5
+subject to some government supervision,0.5
+weapon,1.0217176079034398
+otherwise of the allegations,0.6666666666666666
+appeals under article,1.3333333333333333
+villagers,1.6111111111111112
+certiorari,1.8333333333333333
+stage,1.1298537871524448
+enforcement of the law,0.4444444444444444
+appellants herein,1.4883720930232558
+wherein,1.0724137931034483
+conclusion that his  their defence,0.0
+rival legal contention,1.75
+duty of the state,1.0
+subject to the prerequisite condition,0.5
+leave of the high court,1.0
+appellate tribunals under specific statutes,2.0
+order,5.472481489660944
+prerequisite,0.8039867109634551
+edn,0.4833395383469844
+personal links with government,0.5
+family members,1.2631578947368423
+far-reaching consequence,0.0
+high court in exercise,1.0714285714285714
+public connotation,0.5
+purview of section,1.75
+parameters,0.8168253968253969
+important facts,0.2777777777777778
+mother,1.5057341472881893
+member,2.649111111111111
+option,1.002339493011135
+parties,1.8210828547990157
+occasional abuse the commission,0.5
+condition,2.259476395625584
+appellate,2.561224489795918
+litigant,1.2698412698412698
+aforementioned case law that the court,0.5
+assertion,0.5478622435144175
+international,1.4453445246925631
+relevant paras,1.5
+learned counsel for the appellants,1.7142857142857142
+order of learned cjm,0.5
+accused - persons after a perusal,0.0
+standi,1.284595524956971
+cognizance of the offences,1.0
+proces,1.627944583238701
+limitation,2.4984479402325457
+private person,0.6000000000000001
+appeals against acquittal,0.6666666666666666
+para,2.300239586747483
+powers,1.876345371920593
+bystanders,0.38095238095238093
+tension of a further examination,0.5
+relevant para,0.9857142857142858
+suspicion,0.690982776089159
+ashish,1.0294117647058822
+relevance,0.6870535714285714
+other interested person,0.5
+deposition under section,0.5
+criminal trial,0.8333333333333334
+nagpur,6.5625
+machinery of the state,0.6666666666666666
+charge,2.7679815308681284
+justice-oriented approach,0.0
+fetter,0.625
+country,1.2903191103863751
+acquittal at the instance,1.5
+jurisdiction of the high court,1.2222222222222223
+analysis of the case,0.5
+separate opinion,0.8
+shivam,0.4444444444444444
+factual basi,0.4
+law commission,2.4166666666666665
+hand relate,0.5
+inherent powers,2.8
+fir in this case,0.5
+impugned judgment,2.0927152317880795
+indubitable ie,0.5
+statement of mukhtar,0.5
+scrutiny,0.912987012987013
+similar note,0.2777777777777778
+petty case,0.5
+accessible to every citizen,0.5
+protest petition,2.25
+reliance upon the decisions,0.8
+case of the prosecution,2.3043478260869565
+fortiori since an adverse verdict,0.5
+co-villager,0.0
+conflict,1.314561353483509
+well-established practice of this court,0.0
+many case,0.5186751233262861
+merit,1.2419290263876248
+reliance upon the constitution bench decision,0.5
+dagger,0.28571428571428575
+rosera,2.0
+miscarriage of justice,2.642857142857143
+parameter,0.7630669107179174
+conscience,0.7416879795396419
+attorney,1.9875
+jurisdiction on the court,1.0
+inherent power,3.0
+links with government,0.5
+individual citizen,0.2692307692307692
+strict vigilance,0.5
+anr,1.1271033322299457
+actual trial,0.5
+baker v carr,0.5
+cases of manifest injustice,0.5
+personal rights,0.30000000000000004
+gambia,0.3333333333333333
+anxious thought to this matter,0.5
+formulae,0.24561403508771928
+pollutants,0.5
+specific provision in the code,0.5
+case as the accused - person,0.0
+doubt,1.3646267723102583
+brief facts,1.0
+bar,1.4720990391722097
+retention,1.1818181818181819
+statement before the police,0.8
+report,1.7768151696835826
+code of criminal procedure,6.120689655172414
+principle,1.9620890732001848
+bureaucratic officials,0.5
+ends,1.0190933803699291
+instance of an aggrieved person,0.6666666666666666
+interested private party,0.0
+factor,1.2878742338904643
+confidence in the administration,0.5
+commencement,1.2037037037037035
+mehta,2.3529411764705888
+far-reaching consequences,0.0
+abuse of the process,1.3
+that right arises at either end,0.5
+nose,0.37738951695786227
+principles of law,1.0714285714285714
+continuance of the proceedings,0.6666666666666666
+that particular case,0.4444444444444444
+mr neeraj shekhar,0.5
+actual basis of the accusations,1.0
+pierra,0.5
+learned addl,1.1428571428571428
+accusations,0.8941176470588235
+respondent,4.757894736842104
+govt,0.7017766497461929
+indifference,0.375
+court under section,1.8888888888888888
+singhia police station,0.5
+haryana v bhajan,0.5
+approach,1.001908852302553
+certain important fact,0.6666666666666666
+other words,0.7578482137053969
+interest suits,0.5
+problem of unredressed grievance,0.0
+supreme court,1.4278957326045825
+process of the court,1.5
+singhia,3.5
+circumspection,1.1428571428571428
+high,5.367119186841496
+vendetta,0.25
+certain case,0.5333333333333333
+notary,0.4800000000000001
+english,0.9836154262307752
+nos,1.2635492554198444
+other times politicisation,0.5
+case of private parties,0.5
+allegation,1.834319526627219
+other countries,0.4596774193548387
+matrix,0.46733812949640285
+hereinabove,1.911764705882353
+uncontroverted allegations,0.6666666666666666
+traditional view of  locus standi,0.0
+restrictive attitude toward,0.5
+various relevant provisions,0.5
+unique case as the accused - person,0.0
+such criminal proceedings in exercise,0.5
+undesirability,0.5
+accused - person,0.0
+exception,1.1036946087733006
+reforms,0.6547619047619048
+commission,4.703619179345321
+attitude,0.4886970172684459
+aforesaid view that the appellate power,0.5
+aforementioned case law,0.5
+filing of the charge sheet,0.5
+meticulous analysi,0.5
+names,1.766440410418311
+acces,1.6146156832298137
+provisions of the code,1.6470588235294117
+acquittal,2.2714285714285714
+cjm,1.0451388888888888
+evidence,3.6676405172088815
+document,1.401100265092073
+addl,1.303854875283447
+v nagpur district security guard board,0.5
+mukhtar  munna,0.0
+sole repository for initiation,0.5
+societal pollutant,0.5
+non - cognizable offence,0.0
+emphasi,0.9191619047619048
+by the appellants on the ground,0.5
+bonafide connection with the matter,0.5
+chadha,1.25
+relevant provisions of the code,0.6666666666666666
+various relevant provision,0.5
+factors,0.9829522460542292
+fide,0.8955057484612704
+singh,3.7791111111111113
+wrong,1.2933182103578877
+high court under section,1.5333333333333334
+quality,1.3318577075098814
+information report,2.0
+therefore,2.960332350576253
+end,6.1484001628618765
+rule,5.04
+aggrieved,1.2479674796747968
+conflicts,0.7758081334723669
+proceedings,1.7670925223666287
+sole repository,0.5
+prosecution witness,2.2
+record reveal,1.0
+famous case of baker v carr,0.5
+navdega,0.5
+respondents,2.6341263330598856
+efficacious redres for the grievance,0.0
+following step,0.42857142857142855
+ramakant rai,2.0
+appropriate finding that the case,0.5
+subordinate court,2.5
+process,1.6274942048088725
+behest,0.6666666666666666
+power,3.8165227690948367
+concept of person,0.5
+well-established practice,0.0
+charge sheet,2.0526315789473686
+examination,2.4920345926263088
+inflexible guideline,0.75
+discussion paper,1.0
+shankar,0.84
+ordinary appellate power,2.0
+one,4.845669314438648
+petition,5.3436539306104525
+other accused-persons,0.0
+guidelines,1.540251572327044
+chadha v asha kumari,0.5
+jurisdiction of the courts,0.6666666666666666
+consideration,1.9110153789142115
+paragraph,1.2930197483150305
+fund,2.9945256868353374
+words,1.6384367086179112
+legal contentions,2.230769230769231
+many case about the competence,0.0
+proceedings in certain cases,0.5
+neeraj,0.375
+further consideration,0.45454545454545453
+working,1.1479822756765312
+superior court,0.7222222222222222
+family,1.856281506375408
+behest of the real accused persons,0.5
+standing,1.224042586942808
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+statement of prosecution witnesses,0.5
+legal standing with a public connotation,0.5
+substance,0.8230581678857541
+khalid gulab,0.5
+proces of the court,0.0
+dabholkar case,1.0
+material of sterling,0.5
+lis,3.299683526578166
+fact of the case,0.0
+extraordinary power,0.5714285714285714
+special leave,1.903225806451613
+prerequisite condition,0.5
+verma,0.8524475524475524
+efficacious redress for the grievance,0.5
+case proceed to trial,0.0
+motion,1.9249311294765838
+under sections,2.1931818181818183
+esher singh,1.5
+exalted level of the supreme court,0.5
+score,0.45496296296296296
+mhmanu,1.4
+co-villagers,0.0
+supreme,1.443815331010453
+abuse the commission,0.5
+populari,0.6588235294117647
+allegation in the first information report,0.0
+redres for the grievance,0.0
+official,2.6854955160358718
+connotation of the expression,0.6666666666666666
+general,1.7536558414534391
+halim  mangnu,0.0
+face value,1.053191489361702
+link with government,0.0
+injustice,1.1882716049382718
+respondent no,5.395833333333333
+basis of the accusations,1.0
+things,0.6162490788504054
+inhibits anyone,2.0
+collusion,1.8000000000000003
+english law,1.1616161616161615
+confer on anyone,0.0
+inferior tribunal,1.25
+criminal proceeding,2.9166666666666665
+action,3.127292663476874
+efficacious redres,0.5
+pollutant,0.5681818181818181
+thing,1.1131787570209408
+singhia police case,0.5
+relevance to the question,1.5
+order of the high court,1.296875
+that the appellant,2.212121212121212
+capacity,1.7421691881525676
+inherent powers under section,0.5
+government funds,0.37037037037037035
+police officers,0.8421610169491526
+case proceeds,0.5
+rama kant verma s case,0.0
+importance in the interests,0.5
+sections,1.640495469442838
+matters,1.4810665618448637
+law reforms commission,1.0
+connection with matter,0.5
+instance,0.9469803370786518
+adverse verdict,0.6666666666666666
+stage before the commencement,0.0
+bystander,0.3636363636363636
+court,12.24425115501509
+notable case,0.3333333333333333
+links,0.4514285714285714
+interested person,0.5
+learned cjm in ps case,0.5
+following categories,0.5714285714285714
+american supreme court,0.6666666666666666
+person,4.291511329454258
+farukh,0.6666666666666666
+allegations,1.8333333333333335
+uncle,1.19187675070028
+legal contention,2.230769230769231
+criminal appeal by special leave,0.6666666666666666
+miscellaneous petition,0.8333333333333334
+complaint ie,0.5
+provision in the code,1.0
+series,0.4722257940079723
+public official,0.2692307692307692
+funds,3.352010547132498
+cognizance of the offence,2.375
+societal pollutants,0.5
+decision,2.9514937765898557
+meddlesome bystander,0.5
+restrictive interpretation,0.75
+standing before the court,0.5
+bhajan,1.2
+house,2.0021735292386764
+rama,0.9438942891859052
+problems,0.7376119010005265
+contra,3.550142721217888
+with the matter under consideration,0.5
+sheet,1.1667364016736401
+fact situation,1.3333333333333333
+interpretation,1.518366298484459
+judgment,3.288216560509554
+public resort to court,0.5
+with the victim,0.4444444444444444
+touching government,0.5
+appellants on the ground,0.75
+injury,1.7199352451433856
+act,12.870263922028107
+personal link with government,0.0
+personal vendettas,0.3333333333333333
+analysis,0.6606741573033708
+tension,0.7566601314727253
+concerned act,1.0
+herein for the offences,0.5
+level,1.1533169827122092
+other material,0.6175438596491228
+crl,0.6431123461691147
+court in a series,0.5
+other decisions,1.0666666666666667
+continuance,1.5151515151515154
+that the appellants,1.6734693877551021
+kant,0.8185328185328185
+set of tutored witnesses,0.5
+either end,0.2777777777777778
+section,9.287987283173626
+herein,2.825259515570934
+fir,2.85390975582079
+incident,1.8609485257918057
+noise,1.6221441124780316
+short the code,1.0
+officers,2.442124212421242
+finding,1.8129183657767178
+stamp,0.871914299021891
+refusal,0.813597918022121
+regard,2.723310344827586
+prima facie case,1.625
+direction,1.8495050210098996
+agency,1.8968779259354924
+rights,1.6349541930937281
+extreme cases of manifest injustice,0.5
+indictment,0.48780487804878053
+accordance with law,1.0046948356807512
+anxious thought,0.75
+facts,1.4696673624372698
+american,0.42786842786842794
+vintage,0.3333333333333333
+extreme case,0.345679012345679
+democratic situation,0.5
+rigid formulae,0.5
+judicial conscience,1.1428571428571428
+abu quaiyum,0.5
+course,1.6545957498716626
+acces to courts,0.0
+criminal appeal,2.5675675675675675
+narrow limits,0.5
+connection with the matter,1.0
+political ramification,0.5
+cognizance,1.728
+ulterior motive,0.38095238095238093
+cognizance order,3.5
+hereunder,1.4457142857142857
+australian law reforms commission,0.5
+vide order,1.7058823529411764
+i standing,0.25
+field,1.5820968371729793
+matter,2.8088923076923082
+wider connotation of the expression,0.5
+esher singh s case,0.0
+local police in collusion,0.5
+practice of this court,1.5
+involvement,1.020685900925422
+jurisdictions,0.48571428571428565
+actual basi of the accusations,0.0
+wife,1.4518086408500224
+lord shawcros,0.5
+strangers,0.4800000000000001
+witness,5.333906623599983
+myriad kinds,0.5
+material,1.4148767018946966
+procedure,2.552771605064117
+meticulous analysis,0.5
+polouse,0.0
+aspect of the public interest,0.0
+scrutiny of the documents,0.5
+indifference of bureaucratic officials,0.5
+guideline,1.5641711229946524
+provision,5.439002243350069
+link,0.6814600840336135
+support,0.8630946786249609
+v pierra sarr njie,0.5
+importance,0.8632871064467765
+unique case as the accused - persons,0.0
+point of law,1.0
+general importance in the interests,0.5
+caution,1.0777000777000778
+criminal procedure,6.406779661016949
+such exercise,0.8571428571428571
+demand,1.5671679197994988
+thereto,1.0358342665173572
+of rare cases,1.5714285714285714
+that right arises,0.5
+extent,1.410108024691358
+times,0.8987140267391797
+light,0.8816192372754331
+other respondent,0.9166666666666666
+court under article,2.032258064516129
+further in accordance with law,0.5
+weapon in personal vendettas,0.5
+magistrate court,0.6666666666666666
+constitution bench judgment,1.5384615384615385
+injury to life,0.5
+arms,1.2384993436918101
+that the strictest vigilance over abuse,0.5
+stranger to the matter,0.0
+absence of an independent prosecution authority,0.5
+delhi,2.6089285714285717
+shawcros,0.5
+penal code against mukhtar,0.5
+sada,1.1652616896112562
+factual assertions,0.3333333333333333
+issues,1.1246716508385532
+stages before the commencement,0.5
+criminal proceedings,2.6818181818181817
+powers under section,1.1
+hussain,1.8
+court s duty,0.0
+clear from the aforementioned case law that the court,0.5
+case proceed,0.6666666666666666
+statement on a stamp paper,0.5
+indubitable facts,0.5
+prof,2.2490686024537303
+stages,0.7858851674641147
+learned counsel that the appellants,1.0
+family member in connection,0.0
+principles,1.3198511166253102
+following category of cases,0.0
+alse-general of the gambia,0.0
+repository for initiation,0.5
+need,1.1097650269586634
+appellate power,5.571428571428571
+abuse,0.6372486093281985
+actual basis,0.6000000000000001
+lal manuscmanusc,0.9
+tutored witness,0.6666666666666666
+developed legal systems,0.5
+xx xx xx,0.9333333333333332
+inherent power under section,1.3333333333333333
+cases,1.9728229418951067
+prosecute,1.1142045454545455
+tutored witnesses,0.6666666666666666
+shawcross,0.5
+petty cases,0.5
+raju,0.782312925170068
+rajiv thapar v madan lal kapoor manuscmanusc,0.5
+chase,3.074910439501762
+locu,0.5823659840876484
+public interest suits,0.5
+standing with a public connotation,0.5
+access,1.61231677279827
+prosecution,4.619407894736842
+ashish chadha v asha kumari,0.5
+personal right of the applicant,0.0
+reform,0.6780894886363636
+connection,1.050640279394645
+narrow limit,0.5
+limits,0.8405888207868406
+ends of justice,1.45
+india,2.7684068260703585
+perspective,0.5639060811474604
+other decision of this court,0.0
+stamp paper,1.3333333333333333
+consequences,0.6659897713598075
+decision of this court,2.3260869565217392
+hira,0.11594202898550723
+prosecute in the magistrate court,0.5
+eye witness to the incident,0.5
+reliance,1.400763358778626
+merits of the case,1.3846153846153846
+hand relate to the grave offence,0.0
+reliance upon the decision,1.0
+veracity,0.6470588235294118
+level of the supreme court,0.5
+accused - persons,0.0
+personal links,0.5
+prudent person,1.2
+scc,1.941872465904902
+motion on information,0.5
+view that the appellate power,0.5
+cry,0.24336661035171248
+hira sada,0.5
+mere busybody,0.5
+element,0.7062328407033122
+prosecutions  complainant,0.0
+development of the criminal law,0.5
+redres,1.1730769230769231
+end of justice,0.5
+duty,3.2272215973003378
+denning,0.6278538812785389
+actio,3.1398740338134274
+sadhanantham v,0.5
+point,2.9165043546008516
+khatoon,1.9
+chief judicial magistrate,2.230769230769231
+safique,0.5
+steps,1.169318181818182
+frequent petty cases,0.5
+constitution bench decision,2.8125
+reliance upon the constitution bench judgment,0.5
+various relevant provisions of the code,0.5
+specific provision,1.1363636363636365
+lal,1.6786163249382287
+under section,5.374517374517374
+supp,1.7223856594132256
+category,1.9351744779266717
+purview of ordinary law,2.0
+succes,1.0899488286934886
+veracity of a prayer,0.5
+state as a prosecutor,0.5
+prima - facie case against the respondent nos,0.0
+inflexible guidelines,0.75
+popularis,0.5
+rule with regard,0.5
+appellate tribunals,3.0
+appeal to the high court,2.25
+merit of the case,0.0
+conception,0.49506726457399103
+paras,0.7450980392156863
+statements of various witnesses,0.5
+exalted level,0.5
+authority,2.4352627108360636
+death,2.361592909460208
+strictest vigilance,0.5
+reject,1.132748538011696
+attitude toward,0.25
+visa,0.900229267135742
+proper scrutiny of the documents,0.5
+development,2.3145884270578647
+dowry,5.666666666666667
+local polouse,0.0
+ramakant,2.3333333333333335
+face,0.7281253260594137
+that article,0.9347826086956522
+exhaustive list of myriad kinds,0.5
+relevant provision,1.5737704918032787
+facie case,1.75
+page,1.011907905159212
+order of acquittal,2.0
+interested persons,0.75
+police officer without an order,0.5
+few exceptions by way,0.5
+informant - husband,0.0
+irretrievable injury to life,0.5
+jurisdiction of this court,2.3333333333333335
+functionary,0.5714285714285714
+various grounds,1.0555555555555556
+instant,1.131578947368421
+success rate,0.22727272727272727
+sadhanantham s case,0.0
+ramification,0.3870967741935484
+frequent petty case,0.5
+complainant,4.538461538461538
+sadhanantham,1.5
+functionaries,1.3333333333333333
+tribute to the justice system,0.5
+daughter,1.0364906832298135
+state,6.817996007300392
+statute,2.5765859456247218
+note,1.3654108484234107
+competence of a private party,1.5
+pw-,0.0
+dabholkar,1.0
+same parameter,0.2777777777777778
+informant,2.935483870967742
+other decision,1.1818181818181819
+private citizen,0.3616071428571428
+behalf of the respondents,1.3235294117647058
+dead body,1.192156862745098
+other country,0.25
+tribute,0.6866141732283464
+discussion,0.7445831166579996
+such power,0.8907563025210085
+mohan,1.5416666666666667
+plenary power,1.2857142857142858
+categories,0.8800000000000001
+kind,0.9236881920088026
+individual citizens,0.30000000000000004
+careful reading of the material,0.5
+personal grudge,0.5
+confers on anyone,2.0
+view of the whole matter,0.5
+thought,0.7081151153746436
+persons,2.5993381990166555
+general rule,0.6352941176470589
+therefrom,0.673076923076923
+various relevant provision of the code,0.0
+attention towards the criminal trial,0.5
+learned counsel that the instant case,0.5
+eye witnesses to the incident,0.6666666666666666
+concise oxford,0.2567567567567568
+unique set of facts,0.5
+hwr,0.3246268656716418
+constitution of india,3.0095238095238095
+prof hwr,0.5
+appeal under article,1.3333333333333333
+order of a magistrate,1.0
+meaning,1.8612727545949643
+circumstance that the code,1.5
+interest,2.74353772015385
+restrictive attitude towards,0.5
+attitude towards,0.25
+aspects,1.0997620069447154
+sufficient reason,1.9
+esher,0.5345622119815667
+behalf,1.9888053603529987
+informant - mukhtar,0.0
+many cases about the competence,0.5
+many witnesses,0.6666666666666666
+redress for the grievance,0.5
+prosecutions  complainant s case,0.0
+smith,0.803612937504151
+efficacious redress,0.5
+court in ramakant rai v madan rai,0.5
+psr,0.5221729490022173
+relevant provisions,1.5
+factual matrix,1.173913043478261
+public resort,0.5
+flood of appeals,1.5
+v gopala gowda,1.1538461538461537
+appeal,3.4125488033856883
+vengeance,0.21951219512195122
+court of judicature,1.4210526315789473
+provision of the code,0.5
+motive,0.8973573343546533
+other materials,0.5079365079365079
+village,1.8429856945085372
+further examination,1.0
+alia,0.9479866480753792
+incident manjoor alam father,0.5
+vendettas,0.3333333333333333
+personal link,0.5
+aforesaid fact situation,0.5
+criminal law,0.7859649122807018
+mukhtar husband,1.5
+basi of material,0.0
+demands of justice,1.5
+various witness,0.75
+citizen,1.261748909029876
+noor,0.48979591836734687
+miscarriage,1.015625
+list,4.014941314095513
+element of the actio popularis,0.5
+manner,1.4494591333432125
+certain parameters,0.6666666666666666
+munna,0.3935766423357665
+case about the competence,0.0
+way of illustration wherein,0.5
+circumstance,1.429931390219372
+finding that the case,0.5
+traditional view,0.4444444444444444
+australia,0.45934330410864704
+investigation,1.6673076923076922
+judicature,1.4210526315789473
+thakur,1.6
+interloper,0.3333333333333333
+genuineness,0.8142857142857144
+perusal,0.750733137829912
+rai v madan rai,1.0
+sound,0.8535719072510389
+success,1.087615328288992
+matter in the courts,0.5
+purview,1.0864197530864197
+basi,2.0752712086391383
+extreme cases,0.26666666666666666
+individual,1.1485140562248994
+jhothi,0.5
+light of the material,0.5
+bihar in singhia police case,0.5
+conviction,2.248165832071736
+basis,1.953226441078104
+anxiety,0.49259259259259264
+substance in the doubt,1.5
+halim for the murder,0.5
+special leave of the high court,0.5
+note of caution,0.8333333333333334
+general administration,0.75
+magistrate,3.522077922077922
+caprice,0.36363636363636365
+analysi of the case,0.0
+other decisions of this court,0.8571428571428571
+same parameters,0.3333333333333333
+mukhtar with arms,0.5
+officer,3.1197242647058823
+charges,2.061307113938693
+local police,1.2307692307692306
+citizens,1.0493208639501226
+interest suit,0.5
+appellant on the ground,0.8
+same informant,0.5
+resort,0.7319355397678043
+clear that the appellants,0.6666666666666666
+ramakant verma v state of up,0.5
+factual assertion,0.3333333333333333
+possible apprehension,0.5
+strong feeling,0.26666666666666666
+prosecution authority,0.5
+factual basi of the accusations,0.0
+because public resort to court,0.5
+proposition of law,1.0
+criminal,3.301971081989414
+proper scrutiny,0.5
+cjm by the police,0.5
+term,3.6255105640901575
+appellants,7.701086956521739
+view,2.441100058469462
+court of chief judicial magistrate,0.5
+case law,0.5357142857142857
+rai v madan,1.0
+ordinary law,1.25
+penal code,2.710144927536232
+vigilance over abuse,0.5
+brief facts of the case,1.0
+lord,1.6027618015615013
+polouse in collusion,0.0
+countries,0.72236958443855
+officials,1.3691666666666666
+famous case,0.5
+record,2.5393414390845273
+information,1.1320502836800534
+justice system,0.4166666666666667
+defence,1.3606588776096535
+factual basis,0.4
+indian penal code against mukhtar,0.5
+telephone,1.1502185415228894
+record reveals that the learned cjm,0.5
+ambiguity,0.7008985879332478
+strong feeling that the matter,0.5
+alarm,0.4005722460658083
+initiation,0.6820512820512821
+due care,0.7777777777777778
+light of decision,0.6666666666666666
+political ramifications,0.5
+strict rule,0.75
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+ramakant rai s case,0.0
+irretrievable injury,1.3333333333333333
+case as the accused - persons,0.0
+interests,1.0562317935913441
+appeals against judgment,3.0
+chief,1.9429638234317954
+government supervision,0.3333333333333333
+whim,0.5072463768115941
+feeling that the matter,0.5
+exception by way,0.0
+prima - facie case against the respondent no,0.0
+impugned order,2.265957446808511
+demands,0.7474201474201474
+incident manjoor,0.5
+diary,0.986533041027247
+other word,0.758838674565131
+necessity,0.7072538860103627
+necessary for article,0.5
+english dictionary,1.0
+alam,0.7025641025641025
+exercise,1.9400726466785694
+desirability,0.9750000000000001
+professional litigant,0.5
+judicial,2.8688059701492543
+myriad kind,0.5
+party,2.2250894654439723
+case to this court,0.5
+villager,1.1733333333333333
+mangnu,1.0
+attorney-general of the gambia,0.0
+proposition,0.6371087928464977
+justice,2.292557084574302
+therein,1.5503424657534246
+exercise of the power,1.525
+grievance,1.032529659395331
+v state,2.4603773584905664
+personal rights of the applicant,0.5
+kapoor,1.5
+meticulous analysis of the case,0.5
+eye witness,1.4333333333333333
+rai,2.517873434808919
+culprit,1.4285714285714286
+accusation,0.9540526587506452
+administration,1.061072796934866
+whole matter,0.6666666666666666
+society,2.1182859399684046
+offence,4.401610644257703
+bank,9.40770083102493
+hdfc,0.30000000000000004
+question,2.980312372067635
+actual basi,0.6000000000000001
+import,1.5850112386464603
+mala,0.727137439393212
+supplementary charge sheet,0.5
+scmanu,7.940520446096654
+step,0.8867024753460084
+manifest injustice,0.8
+practice,1.7660110149488593
+statement,2.5393160135035964
+accused person,4.565217391304348
+proper development,0.5
+important aspect that the case,0.5
+first information report,1.9565217391304348
+husband-mukhtar,0.0
+- facie case against the respondent nos,0.0
+brief fact,1.0
+states,1.5120646995827023
+suit,2.485274378207659
+singh v state of ap,0.5
+appellate court,3.1458333333333335
+law,3.538923411654744
+personal right,0.45000000000000007
+wider connotation,0.5
+dupatta,0.5
+treatment,1.1351020408163266
+following category,0.0
+board,2.401414435268602
+behalf of the parties,1.1764705882352942
+power of this court,3.5
+halim,1.0000000000000002
+times politicisation of higher functionaries,0.5
+term  locus standi,0.0
+complaint,2.734525785235724
+non,1.3417336444559675
+rarest,2.0
+cognizable offence,3.75
+arunanchalam manuscmanusc,0.5
+short the constitution,1.0
+constitution bench of this court,1.2647058823529411
+facts of the case,1.161764705882353
+confer,1.1904670382471652
+otherwise,1.2549820889894419
+tamanna,1.0
+case law that the court,0.5
+spot,0.778096903096903
+offences,1.6681887366818873
+court in exercise,1.28
+rai s case,0.0
+authorities,1.266131845134287
+reading,0.9004509191814082
+confers,0.9700996677740863
+that right arise,0.5
+interested private parties,2.0
+abuse of process,1.0
+ltd,2.382356477306883
+important aspect,0.5454545454545454
+kinds,0.5807291666666666
+factual matrix of each case,0.5
+dictionary,0.7964252553389043
+reliability,0.6606110652353426
+flood of litigation,0.5
+constitution,3.204842342342342
+private party,1.9444444444444444
+mercy of the state,0.5
+notary public,0.5
+strictnes,0.6666666666666666
+of rare case,1.5714285714285714
+precious court time,0.5
+asha,0.4089285714285715
+noon,0.9860557768924303
+sufficient ground,1.6363636363636365
+mouth,0.2782462057335582
+view that the appellant,0.8
+developed legal system,0.5
+abu,0.9893465909090908
+supra,2.246342614440774
+suits,1.0993657505285412
+hussain for offences,0.5
+various ground,1.0555555555555556
+careful reading,1.1538461538461537
+prosecution witnesses,2.0526315789473686
+applicant,0.7861822513400833
+following steps,0.42857142857142855
+active participation of the accused-persons,0.0
+inherent jurisdiction,2.0
+xiv,1.676245210727969
+singh v state,1.75
+thapar,1.3333333333333333
+merits,0.968421052631579
+police,2.9749362629783356
+illustration,0.6900000000000001
+judicial conscience of the high court,1.0
+prosecution  complainant,0.0
+police officer,1.0366379310344829
+criminal action,0.5714285714285714
+tamanna khatoon,1.0
+light of law,0.5
+latin term,0.5
+set,2.3027452395971277
+reason,2.6381270903010035
+accused - mukhtar,0.0
+express legal bar,0.5
+life,1.3352928273744242
+government fund,0.2867647058823529
+mukhtar,7.5
+stranger,0.5863636363636363
+extreme case of manifest injustice,0.0
+meddlesome bystanders,0.5
+ramakant verma,1.0
+certain cases,0.5333333333333333
+court of a criminal charge,0.5
+appellate courts,1.6666666666666667
+many societal pollutant,0.5
+others,0.9074667328904616
+the code,2.330678407044227
+relative,1.0564311594202898
+care,0.8846948234137723
+certain parameter,0.6666666666666666
+machinery of justice,0.5
+few exception,0.2647058823529412
+proceeding,2.1298245614035087
+connotation,1.018181818181818
+kumari,4.764705882352941
+- cognizable offence,0.0
+criminal jurisdiction,0.6666666666666666
+aggrieved party,1.25
+judge,2.9012627415183325
+matrimonial life,0.5
+ground that a private party,1.5
+competent court of a criminal charge,0.5
+arbitrary jurisdiction,1.0
+state of haryana v bhajan,0.5
+conclusion,1.3883437407077015
+court s jurisdiction,0.0
+narrow conception of locus standi,0.5
+specific statute,2.0
+supervision,2.825
+protest petition before the learned cjm,0.5
+security,1.5014864864864865
+ramifications,0.3879310344827586
+many societal pollutants,0.5
+material indication of the policy,0.5
+case of baker v carr,0.5
+exercisable outside the purview of ordinary law,1.5
+conception of locus standi,0.5
+contentions,0.9641025641025641
+serious miscarriage,1.5
+clear that the appellant,0.75
+hand relates,0.5
+mala fide andor,0.5
+high court,7.7477477477477485
+demand of justice,0.0
+jurisdiction,2.9539571926331507
+substantial justice,1.4
+trial,3.7979448350459712
+resort to court,0.6666666666666666
+manu,7.078142071124147
+concern,2.0544958000579303
+rare case,1.4074074074074074
+hasan,0.7912087912087912
+on the basi,1.5969428221212776
+present time,0.3418803418803419
+cognizance under sections,0.5
+unique case,0.3333333333333333
+acquittal by the high court,6.0
+narrow conception,0.5
+tribunal,5.07183212267958
+english system,0.3333333333333333
+allegation in the fir,0.3333333333333333
+locus standi,2.909090909090909
+grudge,0.375
+indication,0.6940825616072829
+england,0.9336071184120466
+courts,2.1216528162511543
+court in the case,1.3333333333333333
+relevant provision of the code,0.0
+backdrop of the interpretation,0.5
+serious view of the whole matter,0.5
+jhothi sada,0.5
+code,2.880559796437659
+uncle md,0.5
+read with section,2.3513513513513513
+cases about the competence,0.5
+noor hasan,0.5
+reasons,1.3749054007567938
+filing,1.1274190041313328
+quashment,0.6666666666666666
+decisions of this court,1.8225806451612903
+problem,0.6764352120789936
+shankar mehta v thakur raghuraj singh,0.5
+case proceeds to trial,0.5
+judicial magistrate,2.7857142857142856
+arm,0.9325525916287142
+inherent jurisdiction under section,0.6666666666666666
+fetters,0.5
+limited right,1.0
+same view,0.7272727272727272
+bonafide connection,1.5
+ors,2.8612718198296623
+criminal proceedings in exercise,0.5
+specific statutes,2.0
+patna whereby,0.5
+learned cjm,5.0
+part,5.294464509893076
+many witness,0.6666666666666666
+thought to this matter,0.5
+rights of the applicant,0.5
+which private individuals,0.5
+litigation,1.4968553459119498
+private complaint,0.5
+analysi,0.6883471219855659
+part of the establishment,0.3333333333333333
+pachydermic indifference of bureaucratic officials,0.5
+aspect,1.2449448189023034
+aforesaid view,0.9230769230769231
+decisions,1.3888475974580996
+pistol,1.0449735449735449
+general meaning,0.3333333333333333
+exhaustive list,0.6666666666666666
+proper development of the criminal law,0.5
+determination,1.5980374665477253
+impeccable quality,1.0
+times politicisation,0.5
+read,2.2147281730888695
+reluctance,0.5454545454545454
+such criminal proceedings,1.0
+rajiv,1.2
+wrong direction,0.2777777777777778
+wife-tamanna khatoon,0.0
+outside the purview of ordinary law,2.0
+father,1.4298716229162676
+power under section,1.7142857142857142
+mercy of the government,0.5
+slightest doubt,1.3333333333333333
+wife s condition,0.0
+enforcement,0.7354220499569336
+matrix of each case,0.5
+other interested persons,0.5
+material indication,0.5
+hue,0.28897415185783526
+case by the local police,0.5
+strict rule with regard,0.5
+accused persons,7.048780487804878
+effect,2.184583388478191
+patna,2.3421052631578947
+politicisation,0.5
+case of manifest injustice,0.0
+house with pistol,0.5
+appellate tribunal under specific statutes,0.0
+uncontroverted allegation,0.6666666666666666
+oxford,0.4874746106973595
+repository,0.4791666666666667
+following categories of cases,0.5
+jurisdiction in which private individuals,0.0
+none,0.8181718550217885
+lord shawcross,0.5
+judgments,1.2355646397547266
+rarest of rare cases,1.5714285714285714
+access to courts,2.3333333333333335
+consequence,0.8726692512593296
+place,2.333104345208554
+following manner,0.5555555555555556
+law jurisprudence,0.75
+matter of course,0.7482993197278911
+veracity of the allegations,0.5
+foregoing paragraph,1.4
+criminal prosecution,1.35
+issue,2.766776251628934
+by the appellant on the ground,0.0
+stage of framing,1.2
+baker,0.1639344262295082
+success rate of prosecution,0.5
+correct perspective,0.5
+such exercise of power,0.5
+criminal miscellaneous petition,0.6666666666666666
+improbable on the basis,0.5
+allegations in the first information report,0.6666666666666666
+hasim,0.8571428571428571
+private individuals,0.6111111111111112
+grounds,0.9540208829455945
+problems of unredressed grievance,0.5
+ground,1.4186722903211633
+local polouse in collusion,0.0
+aforesaid reasons,1.1379310344827587
+maintainable by the appellants on the ground,0.5
+the constitution,2.878735388250949
+liberty,0.7860465116279071
+tribunal under specific statutes,0.0
+public interest suit,0.5
+concept,0.9402138540213855
+mischief,0.5934065934065934
+article,4.378806157159795
+factual basis of the accusations,0.5
+other times politicisation of higher functionaries,0.5
+machinery,0.9071637426900585
+aforesaid reason,1.1176470588235294
+penal,1.8829173709853835
+actio popularis,0.5
+durga,1.3333333333333333
+opinion,1.4960606342789635
+sterling,0.38666666666666666
+mohan lal v ajit singh,1.5
+complaint to the police,0.6666666666666666
+rosera by the police,0.5
+court time,0.75
+rival legal contentions,1.75
+participation of the accused - persons,0.0
+bihar,4.587301587301587
+instance of a private party,3.0
+actio populari,0.5
+jurisdiction under section,1.75
+respect,2.6704963235294117
+indubitable fact,0.5
+charge under section,3.8181818181818183
+expression,1.7424391201885312
+station,1.2515681586858238
+concise,0.5777777777777778
+husband,1.6418918918918919
+on the basis,1.5928240570546286
+exercise of power,0.7513227513227514
+gopala,1.4736842105263157
+system,1.1230229504341178
+new problem,0.5238095238095238
+rama kant verma,0.5
+constitution against a judgment,1.5
+mercy,0.46153846153846145
+genuinenes,0.8142857142857144
+private individual,0.6111111111111112
+eye witnesses,3.1
+court in jk,0.5
+paragraphs,0.9552238805970149
+police in collusion,0.5
+their defence,1.0
+enquiry,2.145762711864407
+wider meaning,1.4666666666666668
+shankar mehta v raghuraj singh,1.0
+liberalisation,1.3333333333333333
+independent prosecution authority,0.5
+manjoor,0.5
+aggrieved person,1.7
+family member,1.0924657534246576
+view of  locus standi,0.0
+higher functionary,0.0
+public authority,1.4444444444444444
+jurisdictions in which private individuals,0.5
+shekhar,1.0
+matter under consideration,0.5
+institution,2.7327010745685443
+ramakant rai v madan,1.0
+accordance,1.4069045211613462
+person from the society,0.5
+verdict,0.6880952380952381
+appropriate finding,0.5
+person before a magistrate,0.5
+deposition,1.534
+rare cases,1.2592592592592593
+manumhmanumh,1.4
+word,2.065873981084096
+appeal by special leave,1.04
+chapter,1.3867471532446152
+apprehension,0.9319526627218935
+appeals,1.7060218112849692
+support of the aforesaid,0.8
+appeal before this court,0.9166666666666666
+precise,0.7624375624375624
+learned counsel that the father,0.5
+name,1.8996570753072433
+competent court,1.380952380952381
+sarr,0.2435897435897436
+members,1.9437616522164103
+high court at the instance,2.3333333333333335
+great case,1.0
+informant - mukhtar in the case,0.0
+appeal for the reason,0.5
+prayer,0.6969296987087519
+prima - facie case,0.0
+interference,0.5733527484528578
+trial court,3.854545454545455
+locus,0.6133333333333334
+few exception by way,0.0
+time,2.4764180952862667
+accused - person after a perusal,0.0
+quaiyum,0.5
+constitution bench,4.27536231884058
+dowry demand,1.1666666666666667
+right of a citizen,0.6666666666666666
+foregoing paragraphs,0.75
+guard,1.1435613062230436
+protest,1.349300087489064
+murder,1.4968553459119496
+such criminal proceeding,1.0
+limit,2.3804570428443834
+assertions,0.5040091638029782
+prosecution against the accused person,0.5
+right,3.07483248288682
+- facie case,0.0
+misc,0.7132772338860931
+brief fact of the case,0.0
+abstain,0.625
+common law jurisprudence,0.6666666666666666
+public interest,2.380434782608696
+absence,1.092363454568179
+counsel,2.2246780703440323
+real accused person,0.5
+policy,3.250773332247955
+chapter xiv,0.5
+witnesses,3.359210526315789
+list of myriad kinds,0.5
+jurisprudence,1.088888888888889
+mission,3.4937549830705037
+serious miscarriage of justice,1.5
+busybody,0.5
+aspect that the case,0.5
+tribunals under specific statutes,2.0
+case of psr,1.0
+private parties,1.4444444444444444
+reasonable person,0.47058823529411764
+victim,1.204831365285174
+that right arise at either end,0.0
+vigilance,0.75
+case,7.332269420884958
+competence,3.09375
+ramakant verma v state,0.5
+wide import,2.0
+true that the strictest vigilance over abuse,0.5
+allegations in the fir,1.25
+general importance,0.75
+spectrum,0.48506571087216255
+public authorities,0.5714285714285714
+basis of material,1.1666666666666667
+unique set,0.3333333333333333
+statements,1.110873440285205
+for article,0.3970588235294118
+from the aforementioned case law that the court,0.5
+contention,1.666391070690368
+which private individual,0.5
+criminal charge,0.4615384615384615
+acquittal by the high court at the instance,3.0
+court in bhajan lal,1.0
+view that the high court,1.0
+other accused-person,0.0
+appellate jurisdiction,2.769230769230769
+bench,2.5793391667754992
+appeals against judgments,3.0
+- facie case against the respondent no,0.0
+leave,1.0147842365477848
+limited right of appeal,1.0
+state by the high court,0.5
+important fact,0.5684754521963824
+body,1.336775463480009
+investigation by police officers,0.6666666666666666
+order of the court,0.8888888888888888
+notice,2.3300025999395686
+bonafide connection with the cause,1.0
+high court of judicature,1.4210526315789473
+decision of the high court,1.24
+participation,1.138392857142857
+flood,0.7676190476190476
+rosera under section,0.5
+unredressed grievance,0.5
+materials,1.1534090909090908
+strictest vigilance over abuse,0.5
+connection with the cause,1.0
+bureaucratic official,0.5
+view that the appellants,0.75
+raghuraj,1.5
+instant case,2.0631578947368423
+ajit,1.4213709677419357
+khalid,0.4476744186046512
+unconnected with the matter under consideration,0.5
+tribunals,2.527472527472528
+initiation of the prosecution,0.5
+personal grievance,1.0
+haryana,2.935064935064935
+higher functionaries,0.5
+appeal with a view,0.5
+individuals,0.7198633479746219
+entirety,0.6814814814814815
+pachydermic indifference,0.5
+reading of the material,0.5
+record reveals,0.6666666666666666
+certain important facts,0.5
+learned counsel that the appellant,1.0
+madan,3.9047619047619047
+private person before a magistrate,0.5
+value,1.7137907830478438
+documents,1.142515923566879
+illustration wherein,0.5
+misplaced because public resort to court,0.5
+exercise of the extraordinary power,0.5
+cordial matrimonial life,0.5
+respondent nos,2.5185185185185186
+bhajan lal,1.3333333333333333
+gulab,0.8
+personal vendetta,0.2777777777777778
+fortiori,0.6666666666666666
+commission of any offence,1.0
+argument,0.9504580388560493
+exceptions,0.6478185993111366
+argument for retention,0.5
+third party,1.053291536050157
+various witnesses,0.75
+judges,2.0931496919173616
+acquittal with special leave of the high court,0.5
+feeling,0.4897158322056835
+aspects of the public interest,0.5
+paper,1.8076689487632511
+indian penal code,5.264705882352941
+hand,2.0299623418254717
+statutes,0.9659824046920822
+many cases,0.5184774575018478
+new problem of unredressed grievance,0.0
+justice of the lis,0.5
+njie,0.5
+appellant,14.387096774193548
+cause of action,2.1470588235294117
+effect that the power,0.5
+confidence,0.5942028985507247
+notice of the court,0.875
+right of appeal,3.3333333333333335
+strangers to the matter,0.5
+arunanchalam,0.5
+carr,1.5219491555304818
+gowda,1.2142857142857142
+new problems,0.5294117647058824
+public,2.923239095873367
+answer,0.9554305705177771
+principle of law,1.1538461538461537
+general desirability,0.5
+court at the instance,2.4
+focal point,0.37037037037037035
+precise with the victim,0.5
+rate,3.088725136774248
+bank ltd,1.3333333333333333
+meticulous analysi of the case,0.0
+set of facts,0.6857142857142857
+cri,3.2953286063682445
+basi of the accusations,0.0
+emphasis,0.8024289099526066
+active participation,0.42857142857142855
+strictness,0.6666666666666666
+appellate tribunal,4.2105263157894735
+international v state,0.5
+watergate,0.23214285714285715
+possibility,0.7613466503601033
+situation,1.1254754682459434
+prosecutor,1.1917989417989419
+attention,0.8724846605528799
+arms act,1.4545454545454544
+interference of this court,0.8

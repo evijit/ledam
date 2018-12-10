@@ -1,0 +1,495 @@
+kerala submits,0.5
+other competent authority,1.3333333333333333
+committee,2.546237803603864
+van,2.4777781089781805
+deaths,0.43177752480078063
+implementation,1.2465707594513213
+bites,0.5800000000000001
+state of kerala,2.861111111111111
+other hand,0.6931925622439332
+certain directions,1.0
+responsibility,0.8659259259259259
+establishment,0.9899216125419933
+matters,1.4810665618448637
+problem,0.6764352120789936
+submission of mr naphade,0.5
+rules to the board,0.6666666666666666
+shelter,0.8820998278829605
+progress,1.075925925925926
+obstacle,0.49180327868852464
+expense of sterilisation  immunisation,0.0
+court,12.24425115501509
+population of stray dogs,0.6666666666666666
+dog van,1.0
+breadwinner,0.5
+union,2.0981927710843373
+appropriate implementation,0.6666666666666666
+miserable conditions,0.6666666666666666
+objection,1.68120480131216
+carcass,0.3508771929824561
+catchers,0.25588235294117645
+animal birth control programme,1.0
+part,5.294464509893076
+litigation,1.4968553459119498
+animal kennelsshelter,0.6666666666666666
+stray,1.211340206185567
+bombay,2.3134020618556703
+infrastructure,1.1264822134387351
+juncture,0.8717948717948718
+ndmc,0.5714285714285714
+innovative method,0.6666666666666666
+healthy existence of the human beings,0.5
+number,1.4802651440973922
+gopal subramanium,1.1666666666666667
+funds,3.352010547132498
+deal with the functions,0.0
+competent authority,2.7142857142857144
+that safety,0.4444444444444444
+aforesaid,2.592896174863388
+rakesh,1.4
+dave,0.5541026479241583
+submission of mr,1.4074074074074074
+in the matter,0.9353448275862069
+kerala submit,0.5
+to stray dog,0.6666666666666666
+sterilization of dogs,0.6666666666666666
+month,1.3454861111111112
+suffering,1.0058873002523128
+obligations,0.9121212121212122
+limited,1.3713554955535188
+miserable conditions of the families,0.5
+municipal council,1.2222222222222223
+sharma,0.9516994633273703
+order,5.472481489660944
+shelters,0.5384615384615384
+programme,1.5640149666503986
+act,12.870263922028107
+aforesaid rule,1.0769230769230769
+trained dog catcher,0.6666666666666666
+capture,0.3657407407407408
+pursuance,1.543859649122807
+standing counsel,1.1111111111111112
+ramp,1.1730205278592374
+parameters,0.8168253968253969
+authority of the union territories,0.0
+copy,0.8620926631522174
+counsel for the parties,1.263157894736842
+trained dog catchers,0.6666666666666666
+quarter,0.7884753275536145
+population,1.8313253012048192
+parties,1.8210828547990157
+orissa,2.3125
+rakesh kumar,0.6666666666666666
+human beings,0.6097152428810719
+same in letter,0.6666666666666666
+section,9.287987283173626
+repair of shelter,0.6666666666666666
+condition,2.259476395625584
+place,2.333104345208554
+driver,0.8230211045255637
+functions,1.326241134751773
+circumstance,1.429931390219372
+international,1.4453445246925631
+certain direction,0.5555555555555556
+authorities of the union territories,1.3333333333333333
+sterilisationimmunisation,1.0
+regard,2.723310344827586
+security of the human beings,0.6666666666666666
+narasimha,0.9583333333333334
+expenses,1.2727272727272727
+direction,1.8495050210098996
+compassion to animals,0.5
+deals with the functions,1.0
+secretary of the states,0.0
+control,2.148867902684286
+regards,0.9072861236185019
+facts,1.4696673624372698
+municipal,2.4099173553719004
+accordance with the act,0.8
+secretaries of the states,0.6666666666666666
+the board,2.8555448253661675
+local bodies,1.4444444444444444
+ms liz mathew,0.5
+report as regards,0.75
+local body,0.5
+july,0.9742727723122656
+basi,2.0752712086391383
+mumbai,1.8484848484848484
+international airport,0.7142857142857143
+beings,0.5577464788732395
+leave petition,2.013333333333333
+lack,0.6349809734425119
+method,0.9027027027027026
+days,1.6721350893491447
+families,3.0833333333333335
+unnecessary pain,2.0
+local authority,3.933333333333333
+infrastructures,0.75
+ramps,0.30107526881720426
+let,2.597170100952156
+today,0.6330563683773655
+individual,1.1485140562248994
+orders,1.4936359300077826
+copies of the writ petition,0.6666666666666666
+basis,1.953226441078104
+destructionremoval,0.6666666666666666
+directions,1.5134125183504605
+ambulance - cum - clinical van,0.0
+course,1.6545957498716626
+number of sterilisation  immunisation,0.0
+real problem,0.25
+private individuals,0.6111111111111112
+organizations,0.4779116465863454
+local authority for disposal,0.5
+needles,0.5447697312104091
+cruelty,2.9099099099099095
+many death,0.3589743589743589
+territory,1.3688226421790437
+chief secretaries of the states,0.6666666666666666
+pounds,0.4311594202898551
+justifiable reason,0.9
+function,1.6326372491145218
+gopal,1.1610169491525424
+liberty,0.7860465116279071
+field,1.5820968371729793
+matter,2.8088923076923082
+south,0.8254159150130287
+counts today,0.6666666666666666
+administrator,1.0441081081081083
+stress,0.5011072445428663
+kind of infrastructures,0.6666666666666666
+street,3.189100817438692
+suggestions after the module,0.6666666666666666
+view,2.441100058469462
+aid,5.498621453008654
+rule to the board,0.0
+side,3.88845645915565
+suggestions,0.7508630609896433
+kennel,0.3409090909090909
+bodies,0.8969063256135499
+birth,1.5969847398418826
+destructionremoval of the stray dogs,0.6666666666666666
+that safety of the human beings,0.6666666666666666
+ramps for the capture,0.6666666666666666
+airport,1.1578231292517007
+number of dogs vans,0.5
+data,0.9744599232788209
+procedure,2.552771605064117
+statutory obligation,1.1538461538461537
+petitions,1.3930830039525692
+mr naphade,1.0
+local authorities,1.1875
+november,0.7203359669727383
+secretary,0.9217877094972067
+provision,5.439002243350069
+for-,0.0
+apathy,0.43636363636363634
+parameter,0.7630669107179174
+local bodies with regard,0.6666666666666666
+solicitor,1.7073170731707317
+naphade,1.5
+stres,0.5060879263872107
+heard,0.782882203033377
+mobile center,0.5
+fact,3.6284951019474962
+vans,0.5173004453579994
+removal,0.7204301075268817
+sufficient number,0.5
+learned counsel,3.703333333333333
+state of kerala submits,0.5
+counsel for the applicant,1.0
+mr shekhar,1.0
+obligation of the board,0.6666666666666666
+learned counsel for the parties,1.263157894736842
+chief,1.9429638234317954
+authority-,0.0
+kumar,2.028839704896043
+thereto,1.0358342665173572
+animal welfare organization,2.25
+solicitor general,1.7368421052631577
+work,2.8478559811646353
+interlocutory application,1.7333333333333334
+additional,1.4256530253244384
+affidavit,2.2996987951807224
+private individual,0.6111111111111112
+ms anjali sharma,1.3333333333333333
+rule for appropriate implementation,0.0
+report,1.7768151696835826
+needful,0.5625
+protection,1.1604395604395603
+stray dogs,3.3333333333333335
+copies,0.5369304682962884
+party,2.2250894654439723
+in letter,0.711111111111111
+anything,0.9132309941520469
+authority for disposal,0.5
+delhi,2.6089285714285717
+aforesaid rules,1.0
+animal birth control,6.2
+incinerator,0.3333333333333333
+bird,2.202185792349727
+parameters of the act,1.0
+bite,0.9658025372311085
+the act,5.708327371273712
+ambulance,0.5864197530864198
+progres,1.075925925925926
+regard to implementation,0.6666666666666666
+mathew,0.9170812603648425
+compassion,0.5714285714285715
+street dogs with the participation,0.5
+regard from any quarter,0.6666666666666666
+animal kennelsshelters,0.6666666666666666
+catcher,0.23275862068965517
+existence,0.731202675709574
+shekhar,1.0
+subramanium,1.6666666666666667
+hearing,0.9644508209787979
+many deaths,0.3589743589743589
+mr ps,0.8
+accordance,1.4069045211613462
+dogs,3.8716356107660457
+associations,0.8492647058823529
+day,1.550999710228919
+spirit of the previous order,0.6666666666666666
+reply in course,0.5
+count,2.7493281810130092
+rules for appropriate implementation,0.6666666666666666
+dog,3.520249221183801
+council,1.464939453675021
+existence of the human beings,0.5
+writ,2.8882378560889794
+step,0.8867024753460084
+statutory obligations,0.8333333333333334
+kind of laxity,0.6666666666666666
+course of hearing,1.0476190476190477
+senior counsel that the board,0.5
+module by the board,0.6666666666666666
+learned,3.406323898681099
+states,1.5120646995827023
+dushyant a,1.75
+threat to life,0.4444444444444444
+purpose,2.519170317925504
+law,3.538923411654744
+kennels,0.75
+suggestion after the module,0.0
+circumstance in entirety,0.0
+time,2.4764180952862667
+sides,0.6706755273269035
+present,1.9747480780089475
+datum of the dog bites,0.0
+module,1.0122699386503067
+mr biju,1.6666666666666667
+time for the submission,0.6666666666666666
+mr p,0.8393365893365893
+dogs vans,0.5
+state of orissa,2.25
+board,2.401414435268602
+monitoring committee,5.25
+resource,0.8416706827309237
+authority of union territories,0.6666666666666666
+administrator of the union territories,0.6666666666666666
+mobile center for sterilization,0.5
+competent authority of the union territories,0.0
+responses,0.6831831831831832
+municipal corporation,1.3439153439153437
+liz,1.01848699196739
+carcasses,0.4
+transportation,0.4525862068965517
+pain,0.6559880239520958
+due to stray dogs,0.6666666666666666
+local body with regard,0.0
+march,1.0644238856181665
+copy of the writ petition,0.0
+counsel,2.2246780703440323
+application,2.3322596088086445
+needful in the matter,0.6666666666666666
+death of the breadwinner,0.5
+india,2.7684068260703585
+duty of the board,0.5
+extreme in nature,0.6666666666666666
+authorities,1.266131845134287
+that the board,1.037037037037037
+rules,3.130914366958792
+alse general,0.0
+dog bite,2.4
+pound,0.9699722227854259
+expenses of sterilisation  immunisation,0.0
+union territories,3.111111111111111
+counts,2.151344841429145
+immunisation,1.6666666666666667
+new,0.9418497626301229
+association,1.2099052684061826
+chief secretaries,0.8
+special leave petitions,1.6296296296296295
+submissions,0.5235745614035088
+incinerators,0.37037037037037035
+secretary of health,0.3333333333333333
+dogs pound,0.5
+disposal,1.1180555555555556
+submission,1.0913871684001404
+datum,0.0
+interlocutory,1.96
+special leave petition,2.013333333333333
+threat,1.0459885867740852
+earlier orders,1.0
+conditions,1.9988092071092867
+anjali sharma,1.3333333333333333
+receipt of the report,0.8333333333333334
+street dog with the participation,0.0
+monitoring,2.5
+emphasi,0.9191619047619048
+suffering to animals,1.3333333333333333
+healthy existence,0.5
+example,0.5893965031020868
+copy of the module,0.6666666666666666
+dial,0.6679813953488373
+transportation of street dogs,0.6666666666666666
+chief secretary,1.6923076923076923
+letter,2.707240080105903
+cum,1.9825519589997616
+implementation of the act,1.0
+last occasion,0.6666666666666666
+delhi international airport,0.6666666666666666
+same in the report,0.6666666666666666
+assistance of animal welfare organization,0.5
+rule,5.04
+center,0.9521598338119387
+report as regard,0.75
+miserable condition,0.6666666666666666
+duty,3.2272215973003378
+laxity,0.5
+obstructions,0.4571428571428572
+board by the states,0.6666666666666666
+leave,1.0147842365477848
+subterfuge,1.8333333333333333
+weeks time,0.6666666666666666
+resources,0.9331054687500001
+applicant,0.7861822513400833
+kind of obstacle,0.6666666666666666
+obligations of the local authority-,0.0
+data of the dog bites,0.6666666666666666
+biju,1.3333333333333333
+dogs pounds,0.5
+protection of animals,0.6666666666666666
+body,1.336775463480009
+union territory,3.066666666666667
+dushyant,2.111111111111111
+registry of this court,1.0
+participation,1.138392857142857
+earlier order,1.625
+dog bites,1.2
+steps,1.169318181818182
+private,1.3048022500781278
+competent authority of union territories,0.6666666666666666
+co-operate,0.0
+communication,1.013409067330636
+reason,2.6381270903010035
+deals,1.3395407335280751
+life,1.3352928273744242
+writ petition,6.24223602484472
+petition,5.3436539306104525
+center for sterilization,0.5
+response,0.7112676056338028
+needless,0.6410068426197458
+expense,1.4186440677966103
+mr vk,1.0
+animal welfare organizations,1.3333333333333333
+individuals,0.7198633479746219
+entirety,0.6814814814814815
+destruction,0.7660818713450293
+fund,2.9945256868353374
+territories,1.012
+front,0.8400299386969539
+sterilisation,1.3333333333333333
+clause,3.526455026455027
+chief secretary of the states,0.0
+prevention of cruelty,1.0
+animal,3.672202634997217
+reply,1.0337305560040906
+acts,1.9133929521984454
+receipt,1.5471923536439667
+additional solicitor general,2.5
+stray dog,2.3333333333333335
+expedient,1.1041666666666667
+conditions of the families,0.5
+to stray dogs,0.6666666666666666
+dog population,1.6666666666666667
+prevention,0.6124072110286319
+family,1.856281506375408
+competent authorities of the union territories,1.3333333333333333
+authority,2.4352627108360636
+standing,1.224042586942808
+locality,0.7993421052631579
+provisions,3.8929824561403508
+death,2.361592909460208
+obligation of the local authority-,0.0
+condition of the families,0.0
+counsel that the board,0.5
+bmc,0.2992750649705922
+parameter of the act,0.0
+affidavits,1.954022988505747
+corporation,3.6427750743444176
+weeks,0.8109161793372318
+street dog,3.0
+obstruction,0.47058823529411764
+security,1.5014864864864865
+south delhi,1.5
+other competent authorities,0.75
+animals,1.4863203806502776
+movement,0.8351097178683385
+assistance,0.8623872906826965
+impediment,0.5668016194331984
+leave petitions,1.6296296296296295
+hand,2.0299623418254717
+organization,1.1323094113464371
+previous order,1.222222222222222
+occasion,0.7946745562130177
+spirit,0.6048586885080135
+obligation,1.1071428571428574
+circumstances,1.3944461370073231
+week,0.8253498691546249
+circumstances in entirety,0.6666666666666666
+secretaries,0.75
+welfare,1.3226788432267886
+animals act,0.8
+suggestion,1.2425592585991803
+anjali,1.5
+kerala,4.135593220338983
+ramp for the capture,0.0
+dushyant a dave,1.75
+lack of funds,0.345679012345679
+new delhi,1.744186046511628
+miserable condition of the families,0.0
+state,6.817996007300392
+body with regard,0.0
+street dogs,2.0
+note,1.3654108484234107
+birds,2.4972222222222227
+certain communication,0.6666666666666666
+local authority-,0.0
+deal,2.1942302694273583
+establishment of a sufficient number,0.5
+general,1.7536558414534391
+rate,3.088725136774248
+bodies with regard,0.6666666666666666
+sure that the board,0.5
+emphasis,0.8024289099526066
+same as a part,0.6666666666666666
+note of the submissions,0.6666666666666666
+nature,1.4149926876444778
+number of sterilization,0.6666666666666666
+health,0.8632619439868204
+as a part,0.7681159420289855
+in the report,0.7563025210084034
+safety,1.5344583560152423
+registry,0.510662177328844
+kind,0.9236881920088026
+repair,1.1641083521444697
+sterilization,1.2222222222222223
+competent authorities,1.6363636363636365
+human being,0.599078341013825
+copy of the order,1.2142857142857142
+animal welfare board,4.75
+wpc,0.6088154269972452
+senior counsel,2.2857142857142856
+dogs van,0.5

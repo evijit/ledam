@@ -1,0 +1,334 @@
+opinion that the cestat decision,0.5
+cenvat,4.0
+service tax,0.8333333333333334
+restriction,1.0123456790123457
+dutiable product under chapter,0.0
+technology,1.0922599740512486
+such restriction in rule,0.5
+government,3.5583785424010483
+excise rule,1.4444444444444444
+same final product,1.0
+sulphur,0.3333333333333333
+special importance act,1.3333333333333333
+goods,4.7578125
+cost,1.2954397451466992
+exemption,1.7371031746031744
+chapter,1.3867471532446152
+basis,1.953226441078104
+dutiable products under chapter,0.5
+appeals,1.7060218112849692
+dutiable final products,0.5
+august,0.977116704805492
+restriction in rule,0.5
+power,3.8165227690948367
+good of special importance,0.0
+other hand,0.6931925622439332
+relation to the manufacture,2.0
+exct,2.2
+certain good,0.75
+intermediate product  clinker,0.0
+sub,7.816899313759727
+thereon,0.877037037037037
+viz,0.7732570026579433
+relevance,0.6870535714285714
+that clinker,0.5
+as the proviso,0.5
+industrial growth centre,1.0
+materials,1.1534090909090908
+excise tariff act,2.0
+custom,1.8742070505069293
+issue,2.766776251628934
+customs,1.9344608879492597
+central excise rules,1.4444444444444444
+certain circumstances,0.37714285714285717
+payment,2.059553716565686
+cestat,0.806451612903226
+cenvat credit rules,3.0
+pradesh,4.365853658536586
+interest,2.74353772015385
+outcome of this case,0.5
+additional duties of excise,1.0
+reason,2.6381270903010035
+trade zone,0.6666666666666666
+instant case,2.0631578947368423
+table as column,0.5
+notification apply,0.5
+factory as a final product,0.5
+appellant therefore,0.9
+table mentions of goods,0.5
+nil rate of duty,0.75
+manner,1.4494591333432125
+production,2.1071428571428577
+such restriction,0.5142857142857143
+that appellants,1.0
+applies,0.9353049100122315
+notification,3.0112746633260263
+interpretation of exemption notification,0.5
+proviso,2.112
+outcome,0.6303030303030303
+factory,1.1501182033096926
+first schedule to the central excise tariff act,1.0
+behalf,1.9888053603529987
+different products,0.4
+input,1.4506694855532065
+stage in the production,0.5
+consideration,1.9110153789142115
+part,5.294464509893076
+capital goods,1.0
+cases,1.9728229418951067
+time,2.4764180952862667
+central government,3.0380952380952384
+matter,2.8088923076923082
+product under chapter,0.0
+relation,1.397320207820618
+exemption notification,2.7142857142857144
+table mentions,0.5
+nothing,0.8658723322806009
+rate of duty,4.0
+requirement of rule,0.6666666666666666
+electronic hardware technology part,0.5
+aforesaid factory,0.5
+from payment of duty,1.0
+short cestat,0.6666666666666666
+material  input,0.0
+clause,3.526455026455027
+exception of certain goods,0.5
+duty as a final product,0.5
+virtue of this proviso,0.5
+clinker,8.0
+appellants,7.701086956521739
+whole of the duty,1.0
+view,2.441100058469462
+exemption in respect,0.6666666666666666
+payment of excise duty,1.0
+decision,2.9514937765898557
+unit in an electronic hardware technology part,0.5
+contrary,1.027917657672435
+different final products,0.5
+apply,1.5478801169590641
+exempt from payment of duty,0.5
+opinion,1.4960606342789635
+in the public interest,2.6
+leviable thereon,1.6
+capital good,1.0
+aforesaid,2.592896174863388
+that appellant,1.3529411764705883
+trade,1.8307706424423558
+plain reading of clause,0.5
+intermediary stage in the production,0.5
+plain reading,1.173913043478261
+cenvat credit,4.0
+exempt from the whole of the duty,0.5
+table mention of goods,0.0
+totality,0.6293706293706293
+appeal,3.4125488033856883
+column,0.8759124087591239
+unit,2.176678509944691
+hereinafter,0.7670609645131939
+sake,0.5262975778546712
+good,2.6154941054299674
+opening,0.7180555555555556
+material,1.4148767018946966
+interpretation,1.518366298484459
+respect of clinker,1.5
+unit in a free trade zone,0.6666666666666666
+additional duty of excise,1.6666666666666667
+table hereto annexed,0.5
+exception,1.1036946087733006
+growth,0.7269455690508322
+relation to manufacture,0.5
+certain circumstances as mentioned therein,0.5
+public interest,2.380434782608696
+excise duty,5.818181818181818
+himachal pradesh,2.5
+central excise act,2.4285714285714284
+factory upon payment,0.5
+stage,1.1298537871524448
+nil rate,1.0
+respect of the intermediate product clinker,0.5
+percent,0.7207207207207208
+reading of clause,0.75
+hardware,0.2680764359270885
+rules,3.130914366958792
+reading,0.9004509191814082
+goods of special importance,0.6666666666666666
+input for production,0.5
+respect,2.6704963235294117
+in respect of the intermediate product  clinker,0.0
+special importance,0.8333333333333334
+salt,0.7390776699029126
+industrial,5.673304955913652
+himachal,2.5833333333333335
+table,1.2846582247782705
+per clause,1.4285714285714286
+manufacture,3.7256425233644856
+manufacturing of cement,0.5
+zone,1.373358348968105
+credit,2.9526050420168066
+importance,0.8632871064467765
+fact,3.6284951019474962
+order,5.472481489660944
+products,1.6079404466501241
+act,12.870263922028107
+sub-section,0.0
+product  clinker,0.0
+than those goods,0.5
+cestat that the  same final product,0.0
+central excise rule,1.4444444444444444
+schedules to the central excise tariff act,0.5
+under certain circumstances as mentioned therein,0.5
+payment of duty,3.142857142857143
+dutiability of the intermediary product clinker,0.5
+assessee,15.925925925925926
+to nil rate of duty,0.5
+cenvat credit rule,3.0
+duties,1.477142857142857
+manufacturer of cement,0.6666666666666666
+hand,2.0299623418254717
+different product,0.4
+intermediary stage,1.0
+mention,1.6248742837095076
+iii,1.5614499719992534
+centre,1.3584842944989197
+cement,1.4690278222983977
+special,1.7363344051446945
+hereto,1.1302083333333333
+payable in respect of the intermediate product clinker,0.5
+note of the facts,0.5
+manufacturer manufactures,0.5
+dispute,2.402137592137592
+excise act,2.2941176470588234
+same time,0.6913511801045461
+obligation,1.1071428571428574
+circumstances,1.3944461370073231
+clay,0.22409909909909909
+free,1.314221290725194
+electronic,0.8187364493520899
+dutiable,3.4
+additional duty,5.142857142857143
+mentions,0.5922498554077502
+export,2.527777777777778
+appellant,14.387096774193548
+exercise of the powers,1.4545454545454546
+manufacturer,1.7352281226626773
+excise,4.429175475687103
+opening part,0.4444444444444444
+product,2.242984858429713
+aforesaid discussion,1.0
+central excise tariff act,2.0
+available in respect of clinker,1.0
+th august,1.2210274790919953
+exemption to all capital goods,0.5
+extent,1.410108024691358
+convenience,0.6501259072729966
+whole,0.951414768806073
+unit in a software technology part,0.5
+requirement,1.2416133333333332
+certain goods,0.75
+relevant portion of notification,0.5
+extent of  obligation,0.0
+case,7.332269420884958
+answer,0.9554305705177771
+applicable under certain circumstances as mentioned therein,0.5
+same product,0.6000000000000001
+in respect of  clinker,0.0
+final products,5.666666666666667
+note,1.3654108484234107
+necessary in the public interest,1.5
+section,9.287987283173626
+exercise,1.9400726466785694
+factory of the appellant,0.5
+sake of convenience,1.1
+utilised within the factory in the manufacture,0.5
+question,2.980312372067635
+that product,0.3529411764705882
+manu,7.078142071124147
+dutiable final product,1.0
+other than those good,0.5
+rate,3.088725136774248
+central,2.61875
+item,1.3319648896447913
+virtue,0.9167557066537153
+excise rules,1.4444444444444444
+appellate,2.561224489795918
+tariff,11.052631578947368
+exempt final product,0.5
+such clinker,0.5
+chargeable to nil rate of duty,0.5
+tax,3.549237288135593
+factory in the manufacture,0.5
+cestat decision,0.5
+opening part of the notification,0.5
+duty of excise,2.7142857142857144
+software,0.2394229435427937
+dutiable products,0.5
+duties of excise,2.6
+same manufacturer,0.3333333333333333
+undertaking,2.8508771929824563
+answer to the question,0.6837606837606838
+circumstances as mentioned therein,0.5
+appellant  assessee,0.0
+schedule to the central excise tariff act,1.4
+circumstance,1.429931390219372
+from the whole of the duty,1.0
+table mention,0.5
+factory of production,2.0
+portion,1.0756311179804223
+dutiability,0.5
+service,4.257395095954566
+notification applies,0.5
+present case,1.5611814345991561
+mentioned therein,1.1111111111111112
+dutiable product,0.5
+discussion,0.7445831166579996
+schedules,0.5171957671957672
+portion of notification,0.5
+manuexct,3.6666666666666665
+raw material  input,0.0
+appellate tribunal,4.2105263157894735
+software technology part,0.5
+rule,5.04
+hardware technology part,0.5
+exempt final products,0.5
+hundred percent export,0.5
+tribunal,5.07183212267958
+different final product,0.5
+order of the cestat,0.5
+-central excise,0.0
+situation,1.1254754682459434
+manufacturing,1.07831715210356
+cenvat credit in respect,0.5
+in respect of clinker,1.5
+products under chapter,0.5
+final product,4.5
+manufacturer manufacture,0.5
+duty,3.2272215973003378
+free trade zone,0.6666666666666666
+intermediary product  clinker,0.0
+additional duties,2.444444444444444
+manufacture of  cement,0.0
+other than those goods,0.5
+first schedule,2.7142857142857144
+civil appeal,2.2413793103448274
+issue in these cases,0.5
+facts,1.4696673624372698
+inasmuch as the proviso,0.5
+requirement of clause,0.6666666666666666
+lime,0.3451557093425606
+respondent,4.757894736842104
+importance act,1.3333333333333333
+alternative,0.841508109794136
+leviable,3.05
+capital,1.0983272274832379
+certain circumstance,0.37714285714285717
+than those good,0.5
+schedule,2.9453067257945307
+view of the aforesaid discussion,0.6666666666666666
+relevant portion,0.6486486486486488
+costs,0.8167395522604189
+inputs,1.796036333608588
+basi,2.0752712086391383
+respect of those goods,0.5
+powers,1.876345371920593
+relevance of this rule,0.5
+stone,0.7736063708759955

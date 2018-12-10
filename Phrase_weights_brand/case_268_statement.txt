@@ -1,0 +1,988 @@
+available to a person,0.8
+courts,2.1216528162511543
+same to the matriculates,0.5
+unless the judgment,0.6666666666666666
+facet,0.8467741935483872
+government,3.5583785424010483
+allowances,1.642105263157895
+similarity,0.5698051948051948
+pay commission of the state,0.5
+technology,1.0922599740512486
+concurrent finding that these respondent,0.5
+writ petition in calcutta high court,0.0
+director,1.3549769585253457
+judge in the contempt petition,0.5
+facets of the right,0.5
+court for comparison,0.5
+performance of job,0.5
+deprive others,0.3333333333333333
+view contrary,0.5
+v ramdeo yadav,0.5
+validity,1.521010638297872
+mind,1.1559066143122394
+polytechnic apart,0.5
+contempt petition,2.0714285714285716
+other hand,0.6931925622439332
+diploma holder operator - cum - mechanic,0.0
+pay - scale,0.0
+suggestive of the fact that the duties,0.5
+constitution of india,3.0095238095238095
+promotions in intermediary grades,0.5
+responsibility,0.8659259259259259
+state of maharashtra v digambar manuscmanusc,1.0
+writ petitioners in the appeal,0.5
+employee,6.280487804878048
+filing,1.1274190041313328
+reasons,1.3749054007567938
+revision,1.6299226441631505
+terms,2.390350840909655
+matters,1.4810665618448637
+inter,3.683850287482992
+final,1.720660749506903
+matriculates,1.5
+thereto by a court,0.5
+pass,2.510543963686946
+substantive rights of a litigant,0.6666666666666666
+interest,2.74353772015385
+court,12.24425115501509
+qualitative difference,0.6857142857142857
+employment,1.5239770785161355
+skill,1.0107260726072607
+state of jammu,3.3636363636363638
+chn,1.1778167154792734
+union,2.0981927710843373
+training,2.5456213222568365
+chand ghosh,1.5
+technical post,0.3333333333333333
+facilities,0.9130594727161252
+single judge,4.011627906976744
+noticed hereinbefore,1.6785714285714286
+subject to any order,0.75
+person,4.291511329454258
+ors,2.8612718198296623
+same duties,1.3333333333333333
+cause,1.8431210321626654
+way,1.7812722068664852
+behalf,1.9888053603529987
+other facility in addition,0.0
+different person,0.5384615384615384
+part,5.294464509893076
+relevant consideration,1.2
+appointment in the post,0.5
+court in debdas kumar,1.0
+equitable jurisdiction under article,0.5
+writ petitioner,4.482758620689655
+nothing,0.8658723322806009
+promotion in intermediary grades,0.0
+rule of law,0.5359801488833746
+grievance before appropriate courts,0.0
+reason of statutory rules,0.5
+facility,1.2989690721649485
+ghosh,4.888888888888889
+for the appellant,2.0108108108108107
+judge in ignorance,0.5
+polytechnic,0.47280334728033474
+similar job,0.30000000000000004
+age,4.526374474274117
+engine,3.0237666907586878
+shri,2.0759135877246115
+similar relief holding,0.5
+higher scale,2.25
+non-filing,0.0
+decision,2.9514937765898557
+contrary,1.027917657672435
+higher post,1.0
+finding that these respondents,0.5
+articles,1.4349688743466387
+other person,0.9635036496350365
+other facilities,0.6666666666666666
+claim,2.817264601856604
+test,2.5329834591340266
+staff,1.3233972834416785
+appeal,3.4125488033856883
+complete justice,1.7777777777777777
+determination,1.5980374665477253
+manuwbmanuwb,1.1818181818181819
+such classification,1.125
+diploma holder,2.5
+fact that the writ petitioner,0.5
+kashmir v,0.6666666666666666
+scr,2.483838975311538
+nomenclature,0.8076923076923077
+triloki nath khosa,0.5
+interpretation,1.518366298484459
+posts of sub - assistant engineer,0.0
+read,2.2147281730888695
+writ petitions in calcutta high court,0.5
+rights of a litigant,0.6666666666666666
+v state of west bengal,1.4
+petitioners in the instant proceeding,0.5
+benefit of the notification,2.6666666666666665
+same duty,0.0
+--with higher initial start,0.0
+stage,1.1298537871524448
+year,2.8349484769759212
+nath,1.2024818815807465
+alia,0.9479866480753792
+parte,0.7168042010502624
+mohanty manuscmanusc,0.5
+wherein,1.0724137931034483
+such material,0.5714285714285714
+judgment,3.288216560509554
+operators-cum-mechanic in the irrigation department,0.0
+contention of the appellants,1.1666666666666667
+averments,1.76
+pay commission,5.222222222222222
+respondent in the agriculture department,0.0
+order,5.472481489660944
+possess diploma in engineering,0.5
+itis,0.5921337166408018
+educational qualification stands,0.5
+- filing of an appeal,0.0
+earlier judgment in nemai chand ghosh,0.5
+babu,1.1979166666666667
+clas,2.1196191893660425
+appointment,3.1380281690140843
+that similar scale,0.5
+operators - cum - mechanics,0.0
+substantive right of a litigant,0.0
+following pay - scales,0.0
+easy installment,0.5
+case of debdas,0.5
+diploma holders,0.5
+equal protection,1.1885714285714284
+state government,3.027142857142857
+rider,0.4313304721030043
+promotional post for any categories,0.5
+division bench from the judgment,0.5
+justice in any case,0.5
+effect,2.184583388478191
+relevant considerations,1.0
+equal pay for equal work,2.8
+nemai chand ghose,1.0
+pendency,1.0084033613445378
+syal,0.15990990990990991
+neither necessary averments in the writ petition,0.5
+such procedure,0.8888888888888888
+wherea for the posts,0.0
+such easy installment,0.5
+junior assistant,1.0
+plea of delay,0.5
+finality,1.1746031746031746
+allowance,2.1019607843137256
+ntc,0.8767664404139313
+orissa,2.3125
+bengal service,0.5
+from the averment,1.0
+neither necessary averment in the writ petition,0.0
+science,0.6879334257975034
+scale of rs,1.3333333333333333
+grade,2.004840489566613
+other employees,1.0303030303030303
+asstt,1.4
+judicial discipline,1.0
+january,0.8699641577060931
+single judge in ignorance,0.5
+west bengal,3.3333333333333335
+relief to the respondent,1.0
+amended notification,0.5
+graduates,1.5555555555555556
+lower time scale,0.5
+same relief as others,0.5
+operators-cum-mechanic in the lower time scale,0.0
+litigant,1.2698412698412698
+other department,0.45000000000000007
+judgment of debdas kumar,0.5
+factual background,1.0
+neither necessary averments,0.5
+functions,1.326241134751773
+entitlement to the nomenclature,0.5
+circumstance,1.429931390219372
+finding,1.8129183657767178
+ltd employees union,0.5
+pay scale for the post,0.5
+kamal nath,1.0
+present case,1.5611814345991561
+other facilities in addition,0.5
+yadav,1.8571428571428574
+regard,2.723310344827586
+difficulty,0.656910569105691
+matriculate,2.5
+pay - scale for the post,0.0
+promotion,2.946428571428571
+entitlement,0.6176470588235294
+absence of any appeal,0.5
+equal protection of law,1.5
+shri bb,0.6666666666666666
+reason of the impugned judgment,1.0
+such qualification,0.6666666666666666
+class,2.1508512849922936
+roy,0.802892290355902
+iti,6.98090400256754
+view contrary to the view,0.5
+direction,1.8495050210098996
+rights,1.6349541930937281
+equality before law,2.0
+degree,0.6705786026200874
+dispute that some person,0.5
+sub-asstt,0.0
+union of india,3.1324503311258276
+regards,0.9072861236185019
+consideration by this court,0.75
+maharashtra v digambar,1.0
+promotional post,2.1666666666666665
+issue,2.766776251628934
+- university,0.0
+whereby,0.6100917431192661
+para,2.300239586747483
+earlier judgment,1.8
+question as regard difference,0.5
+benefit of age relaxation,0.5
+different persons in different organizations,0.6666666666666666
+of article,2.1149999999999998
+following pay - scale,0.0
+basi,2.0752712086391383
+benefits,2.0896027049873203
+powers,1.876345371920593
+same relief,1.0
+assistants,0.4722222222222222
+same principle,0.7309941520467836
+claim equality,0.6666666666666666
+disadvantage as a clas,0.5
+method,0.9027027027027026
+digambar,1.0
+grades,0.6978609625668449
+court bar assn,0.6666666666666666
+benefit,2.604810195438474
+modification of ropa rules,0.5
+pay on the ground,0.5
+petitioner,4.524972253052164
+cost,1.2954397451466992
+case of nazimuddin,1.0
+judgment of this court,2.1029411764705883
+doctrine,0.7455954017243533
+orders,1.4936359300077826
+interpretation of law,0.6666666666666666
+inherent difficulties,0.6666666666666666
+basis,1.953226441078104
+regard difference,0.5
+educational qualifications,1.0
+contempt,1.5446913580246913
+earlier binding precedent,1.0
+separate clas,1.0
+- relying on the doctrine,0.0
+society v union of india,0.75
+direct recruitment post,1.5
+court as a safe criterion,0.5
+holding,1.2555282555282552
+requisite technical qualification,0.5
+directions,1.5134125183504605
+qualitative difference as regards reliability,0.6666666666666666
+sub,7.816899313759727
+course,1.6545957498716626
+maharashtra v digambar manuscmanusc,1.0
+easy installments,0.5
+substantive law applicable to the case,0.6666666666666666
+nature of duties,1.25
+state bank,7.0
+irrespective,0.7304347826086957
+minimum qualification,0.6666666666666666
+appellant - university,0.0
+registered society v union,0.75
+orders under article,0.5
+contention of the appellant,1.1851851851851851
+degree in engineering,0.2857142857142857
+registered society v union of india,0.75
+designation,1.5000000000000002
+doubtful,0.8571428571428571
+implication,0.6615776081424936
+organizations,0.4779116465863454
+that difference,0.2692307692307692
+to the respondents on the ground,0.5
+of the fact that the duty,0.0
+from the averments,1.0
+qualification of school,0.5
+fmat,0.25
+university of agriculture,0.5
+ground,1.4186722903211633
+jurisdiction under article,1.2857142857142858
+higher scale of pay,1.75
+technical school,0.3333333333333333
+chairman-cum-managing director,0.0
+function,1.6326372491145218
+west,1.1420057009587976
+impugned judgment,2.0927152317880795
+dispute that such qualification,0.5
+v ntc,0.5
+matriculate with a certificate,0.0
+whereas in cr,0.5
+matter,2.8088923076923082
+same order,0.46753246753246747
+regard to the aforementioned notification,0.5
+other comparable employee,0.5
+article,4.378806157159795
+mere volume,0.6666666666666666
+engineer,3.318922187370092
+trade of internal composition engine,0.5
+different persons,0.6666666666666666
+part of the state,0.8021390374331551
+higher initial start,1.0
+term,3.6255105640901575
+behalf of the appellant,1.4878048780487805
+appellants,7.701086956521739
+latch,0.4607594936708861
+agriculture department,0.3333333333333333
+ignorance,0.649062049062049
+view,2.441100058469462
+makers,0.8582995951417005
+post,2.344803646492219
+similar relief,1.0
+opinion,1.4960606342789635
+mechanics,1.1636363636363634
+relief,1.4748116760828625
+nature of the work,0.5
+benefit in terms,2.0
+regards reliability,0.6666666666666666
+merit,1.2419290263876248
+parity,0.6888020833333334
+tarun,0.4444444444444444
+judges of this court,1.4782608695652173
+volume,0.5619176554909612
+calcutta,1.6022727272727273
+respondents in the agriculture department,0.5
+principle of  equal pay,0.0
+v manoj,0.5
+assistant,1.6732837055417698
+fact that the duty,0.0
+that an order,1.173913043478261
+same cadre post,0.5
+single judge of the calcutta,1.0
+delay,1.9544910179640715
+pay,3.828326695859537
+equality clause,0.8
+bengal,1.9299191374663072
+appropriate courts,0.5
+bihar,4.587301587301587
+record,2.5393414390845273
+status of sub - assistant engineers,0.0
+procedure,2.552771605064117
+material,1.4148767018946966
+amount by such easy installments,0.5
+merit of the matter,0.75
+petitions,1.3930830039525692
+division bench of the high court,1.6825396825396826
+turn,1.6310093128618173
+november,0.7203359669727383
+hereinbefore,2.159090909090909
+ground of delay,1.375
+judge of this court,1.1428571428571428
+operators-cum-mechanics,0.0
+provision,5.439002243350069
+ramdeo,1.0
+relief on the ground,0.5
+averment,1.7
+whereunder,1.25
+diploma in engineering,3.0
+categories of employment,0.5
+first,1.9006367208168047
+debdas,4.5
+recruitment,5.333333333333333
+contravention,2.586206896551724
+fact,3.6284951019474962
+intermediary promotions in intermediary grades,0.5
+textiles corporation ltd,0.5
+question of violation,0.8
+comparable employee,0.6666666666666666
+learned counsel,3.703333333333333
+educational qualification stand,0.5
+pay scale of rs,0.5
+such direction,1.375
+rational basi,0.46296296296296297
+department,1.9858367499068206
+same organization,0.6666666666666666
+duties,1.477142857142857
+anr,1.1271033322299457
+petitioner in the instant proceeding,0.0
+other relevant considerations,0.75
+valid classification,0.6666666666666666
+state of west bengal v debdas kumar,0.5
+aforementioned notification,0.75
+same to the respondents on the ground,0.5
+court by article,0.75
+december,0.9629002463054187
+higher pay - scale,0.0
+training institute,1.25
+kumar,2.028839704896043
+concurrent finding,1.625
+thereto,1.0358342665173572
+substantive law applicable,0.6666666666666666
+suppl,1.7520745539046882
+engineering from any government polytechnic,0.5
+parity in pay scales,0.5
+other word,0.758838674565131
+intermediary grade,0.5
+intermediary promotion,0.5
+clear that no detail,0.5
+modification,0.9714977645305514
+benefits of the notification,0.5
+work,2.8478559811646353
+assn,0.46153846153846145
+different pay scales,0.5
+mr bhaskar gupta,0.6666666666666666
+qualifications,1.0714285714285714
+disadvantage as a class,0.5
+applicability,1.0928961748633879
+incuriam,3.25
+bar,1.4720990391722097
+pay for equal work,2.8
+binding precedent,1.9166666666666667
+public service commission,3.7857142857142856
+revision of pay,1.6666666666666667
+exercise,1.9400726466785694
+of the fact that the duties,0.5
+report,1.7768151696835826
+punjab,1.0438169425511197
+same relief as the minimum qualification,0.5
+protection,1.1604395604395603
+division amongst the operators - cum - mechanic,0.0
+principle,1.9620890732001848
+party,2.2250894654439723
+facilities in addition,0.5
+review,1.3564101463582128
+amended notifications,0.5
+substantive rights,1.5
+west bengal v debdas kumar,0.5
+pass in certificate course,0.5
+details,0.9406426856198188
+posts,2.6556317082632876
+that no detail,0.5
+equal pay,3.4
+- filing,0.0
+justice,2.292557084574302
+mehta,2.3529411764705888
+diploma holder engineer,1.5
+grievance,1.032529659395331
+equality,1.5627329192546584
+state of bihar,2.5918367346938775
+other comparable employees,0.5
+intermediary grades,0.5
+ropa rules,1.0
+irrespective of an educational qualification,0.5
+division amongst the operators - cum - mechanics,0.0
+grievances before appropriate courts,0.5
+service commission,5.142857142857143
+chairman,1.3592677345537758
+posts of sub - assistant engineers,0.0
+writ petitions by the appellants,0.5
+v state,2.4603773584905664
+operator-cum-mechanics,0.0
+other diploma holder engineer,0.5
+employee in the state,0.0
+same relief as other,0.5
+subject to the order,0.6666666666666666
+division bench,3.965217391304348
+start,0.86071856465668
+constitutional rights,0.5502645502645503
+date,6.195616975795285
+khosa,1.0
+mechanic,1.026394767218161
+validity of classification,0.5
+rational basis,0.46296296296296297
+post for any categories,0.5
+society,2.1182859399684046
+to law,0.6557377049180327
+above benefits,0.5
+difficulties,0.570873786407767
+case of the respondents,1.4285714285714286
+statutory rule,2.45
+nothing on record,1.5
+in nature,0.7593052109181141
+kamal,0.8250000000000001
+beginning,0.8322990543735226
+respondent,4.757894736842104
+petitioner in cr,0.0
+bank,9.40770083102493
+facility in addition,0.0
+employees,4.611008798854102
+cadre,2.7892948173322005
+question,2.980312372067635
+with effect from the same date,0.5
+volume of work,0.8
+appropriate relief,1.0
+single judge in the contempt petition,0.5
+responsibilities,1.1746031746031744
+latches,0.631578947368421
+own merits,0.427927927927928
+tarun kumar roy,0.5
+respondents herein,1.8333333333333333
+relief as others,0.5
+internal composition engine,0.5
+textile,0.6172839506172839
+parity in pay-scales,0.0
+high court for comparison,0.5
+impact,1.0957789249924081
+scmanu,7.940520446096654
+different pay scale,0.5
+similar circumstances,0.5454545454545454
+society v union,0.75
+irrigation department,1.4
+writ,2.8882378560889794
+word,2.065873981084096
+thing,1.1131787570209408
+amount,3.179688593072295
+other words,0.7578482137053969
+august,0.977116704805492
+division bench of the calcutta,1.2
+irrigation,1.6666666666666665
+institute,0.9140980436760691
+holder of a higher educational qualification,0.0
+relief to the other persons,0.5
+government of west bengal,1.0
+sub - assistant engineers,0.0
+protection of law,1.0
+violation of a statutory provision,0.5
+--with higher initial start at rs,0.0
+instant proceeding,1.0
+pass in school,1.0
+court in state,1.5909090909090908
+contrary to law,1.3846153846153846
+maker,1.0485537190082643
+relief to the respondents,0.6666666666666666
+krishnamani state,0.5
+different educational qualification stand,0.5
+neither necessary averment,0.5
+high,5.367119186841496
+graduate,2.968643655809431
+gross delay,0.6666666666666666
+engineering degree,0.5
+ample jurisdiction,0.75
+inherent difficulty,0.0
+applicability of the doctrine,0.6666666666666666
+appointments,1.2888888888888888
+substantive provision,0.8888888888888888
+wherea in cr,0.0
+case of this nature,1.1818181818181819
+event,1.4310854436179261
+gupta,0.7610062893081762
+complete justice in any case,0.5
+nature of work,1.1666666666666667
+such easy installments,0.5
+force,1.6009408121948314
+fact that the duties,0.5
+that similar scale of pay,0.5
+enough for the appellants,0.5
+operator,4.496320824135393
+time scale,1.1
+deprive other,0.3333333333333333
+notification,3.0112746633260263
+equity,1.3214285714285714
+learned,3.406323898681099
+states,1.5120646995827023
+classification,2.196286472148541
+post of sub - assistant engineer,0.0
+purpose,2.519170317925504
+law,3.538923411654744
+dispute that some persons,0.5
+common cause,2.5396825396825395
+engineering,1.3567493112947657
+observation,0.7625074854374218
+purpose of grant,0.875
+time,2.4764180952862667
+safe criterion,0.5
+pas in diploma course,0.0
+to the matriculates,0.5
+division,1.7657319129617017
+cases,1.9728229418951067
+rajesh syal manuscmanusc,0.5
+group,1.691932599016908
+pendency before the division bench,0.5
+operator-cum-mechanic,0.0
+operators-cum-mechanic,0.0
+initial start at rs,1.0
+operator - cum - mechanic,0.0
+difference in pay,0.5
+to the respondent on the ground,0.0
+persons in different organizations,0.6666666666666666
+certificate course,0.5
+ghose,1.25
+pay - scale of rs,0.0
+educational qualification,2.625
+relief holding,0.5
+par,7.011805363704756
+violative of articles,1.5454545454545454
+aforementioned situation,1.4545454545454546
+judge of the calcutta,1.0
+junior assistants,0.5
+respondent on the ground,0.5
+installments,1.9444444444444444
+relief as other,0.5
+pay scale thereof for the reason,0.5
+whereas,0.7770612954644255
+non,1.3417336444559675
+method of recruitment,1.0
+discipline,0.5608974358974359
+grant,1.7314487632508835
+executive,1.3789130780232004
+material relating,0.3333333333333333
+addition,1.5588539142412572
+criterion,0.7104166666666666
+right,3.07483248288682
+overseer,0.3333333333333333
+hereinafter,0.7670609645131939
+mere graduates,0.5
+statutory rules,1.875
+constitutional right,0.7608695652173912
+diploma holder operator - cum - mechanics,0.0
+law applicable to the case,0.6666666666666666
+statutory provision,1.1638418079096045
+pass in diploma course,0.5
+common,1.4619971980191346
+learned senior counsel,3.4615384615384617
+triloki,1.6666666666666667
+certificate,2.732600732600732
+diploma holder engineers,1.5
+registered,1.141896938013443
+such operator-cum-mechanics,0.0
+public interest,2.380434782608696
+experience,1.0353951355971713
+possess diploma,0.5
+court in exercise,1.28
+higher pay - scale of rs,0.0
+application,2.3322596088086445
+substantive right,1.9166666666666667
+counsel,2.2246780703440323
+implications,0.5223021582733813
+absence,1.092363454568179
+april,0.8928235149629509
+stage of rs,1.0
+india,2.7684068260703585
+ganesh babu,0.5
+authorities,1.266131845134287
+bhaskar,1.9673202614379082
+commission,4.703619179345321
+regard to the fact,1.5862068965517242
+rules,3.130914366958792
+facet of the right,1.0
+post of sub-assistant engineer,0.0
+industrial,5.673304955913652
+anomaly,0.47812499999999997
+first writ petition,0.5
+for the appellants,1.8658536585365855
+mere graduate,0.5
+view of the fact,0.8707482993197279
+- at the stage of rs,0.0
+debda,4.5
+earlier writ petition,0.8333333333333334
+promotions,0.8666666666666667
+petitioners in cr,1.0
+national textiles corporation ltd,0.5
+diploma course,1.75
+sinha,0.8166351606805294
+submissions,0.5235745614035088
+pay scales,4.0
+writ petitioners,3.75
+benefits in terms,0.75
+ltd,2.382356477306883
+dispute,2.402137592137592
+pay scale thereof,0.5
+submission,1.0913871684001404
+higher initial start at rs,1.0
+disadvantage,0.9298245614035088
+that no details,0.5
+higher educational qualification,0.5
+v jasmer singh,0.6666666666666666
+scale of pay,3.2
+final examination,3.3333333333333335
+effect from the same date,0.5
+v mr,0.5555555555555556
+to a person,0.5962732919254659
+service commission whereas no such procedure,0.5
+sub - assistant engineer,0.0
+detail,0.9737454684220567
+clear from the averments,0.5
+provision of law,0.9090909090909091
+other diploma holder engineers,0.5
+case,7.332269420884958
+difference,0.8774847235514982
+court for equal pay,0.5
+error,1.059158294766151
+above benefit,0.5
+emphasi,0.9191619047619048
+scc,1.941872465904902
+reliability,0.6606110652353426
+trite that this court,0.5
+aforementioned directions,0.5
+post for the operators - cum - mechanics,0.0
+constitution,3.204842342342342
+same date,0.6153846153846154
+cum,1.9825519589997616
+ground that a contention,0.5
+- with higher initial start at rs,0.0
+writ petitions,2.984848484848485
+mohanty,1.0
+writ petition by the appellants,0.0
+singh,3.7791111111111113
+manifest error,1.6666666666666667
+furthermore,0.9849537037037037
+writ petitioner in the appeal,0.0
+mehta v,1.4285714285714286
+mr krishnamani,1.6666666666666667
+different organizations,0.6666666666666666
+other departments,0.5
+service,4.257395095954566
+test relief overseers,0.5
+contention,1.666391070690368
+inter alia,1.3280423280423281
+rule,5.04
+proceedings,1.7670925223666287
+holders of a higher educational qualification,0.5
+wbab,0.5
+same category,0.375
+force in this contention,1.0
+jammu,4.705882352941177
+sub-assistant engineers,0.0
+contentions of the appellant,0.6666666666666666
+installment,1.9047619047619049
+iiilljsc,1.1666666666666667
+supra,2.246342614440774
+duty,3.2272215973003378
+bench,2.5793391667754992
+other persons,0.6111111111111112
+violation,1.2087401208740118
+cause under consideration,0.6666666666666666
+bengal v debdas kumar,0.5
+chand,1.4868766404199476
+respondents,2.6341263330598856
+comparable employees,0.6666666666666666
+employees in other departments,0.5
+maharashtra,2.9076923076923076
+concurrent finding that these respondents,0.5
+grievances,0.9324324324324326
+equitable jurisdiction,0.5
+costs,0.8167395522604189
+own merit,0.5128205128205129
+pay-scale,0.0
+fact that the writ petitioners,0.5
+october,0.9478375701551667
+promotional post for the operators - cum - mechanics,0.0
+test relief overseer,0.5
+attempt,0.7943782192788815
+different person in different organizations,0.0
+order of the court,0.8888888888888888
+considerations,0.7860235003092146
+to the matriculate,0.5
+debdas kumar,4.5
+initial start,1.3333333333333333
+curative in nature,0.6666666666666666
+status,1.14824388424026
+hoc,0.8814236714464876
+power,3.8165227690948367
+ganesh,1.9230769230769231
+composition,1.4736842105263157
+earlier order,1.625
+merits,0.968421052631579
+mere volume of work,0.6666666666666666
+matriculates with a certificate,0.5
+rule maker,0.5
+recruitment post,1.5
+examination,2.4920345926263088
+nemai,0.8187772925764193
+judgment of the earlier writ petition,0.5
+earlier proceedings,0.8
+reason,2.6381270903010035
+engineers,1.7887874837027378
+- with effect from the same date,0.0
+right of a litigant,0.0
+instant case,2.0631578947368423
+scales,2.753521126760564
+holder of diploma,0.0
+krishnamani states,0.5
+different educational qualification stands,0.5
+decision in state bank,0.5
+determination by this court,0.5
+nazimuddin,1.5
+writ petition,6.24223602484472
+petition,5.3436539306104525
+category,1.9351744779266717
+manoj,0.32142857142857145
+graduate in science,0.0
+relief as the minimum qualification,0.5
+absence of such material,0.5
+bengal inter alia,0.5
+haryana,2.935064935064935
+consideration,1.9110153789142115
+rajesh,0.32098765432098764
+earlier proceeding,0.8333333333333334
+irrigation department of the state,0.5
+reasonable differentia,0.5
+words,1.6384367086179112
+other relevant consideration,0.8
+plea,1.4430487701432178
+clause,3.526455026455027
+departments,0.9019607843137255
+differentia,1.1614241272035948
+others,0.9074667328904616
+intermediary promotion in intermediary grades,0.0
+industrial training institute,0.5
+holder,1.8472993827160495
+krishnamani,2.0
+textiles,0.42857142857142855
+state of west bengal,1.6857142857142857
+west bengal service,0.5
+cases of the respondents,1.0
+proceeding,2.1298245614035087
+calcutta high court,2.0588235294117645
+category of employment,0.0
+round,1.6469623212681128
+equal work,2.8
+trade,1.8307706424423558
+facets,0.6363636363636364
+pas,2.68416862749163
+operators - cum - mechanic,0.0
+managing,1.4126463700234193
+application of principle,1.0
+intermediary promotions,0.5
+authority,2.4352627108360636
+judge,2.9012627415183325
+absence of material relating,0.5
+operator - cum - mechanics,0.0
+manuscmanusc,7.940520446096654
+claim equality with the holders,0.5
+-- with effect,0.0
+technical posts,0.5
+pay-scales,0.0
+contravention of the statutory rules,0.5
+whereas for the posts,0.5
+corporation,3.6427750743444176
+jasmer,0.6666666666666666
+government polytechnic,0.5
+composition engine,0.5
+other employee in other departments,0.0
+graduates in science,1.5
+read with article,1.3636363636363635
+pas in certificate course,0.0
+category of employees,0.75
+age relaxation,0.6666666666666666
+separate class,1.0
+finding that these respondent,0.5
+attained finality,1.7777777777777777
+judges,2.0931496919173616
+application for contempt,0.5
+aforementioned direction,0.5
+performance,1.4794327394994442
+grant of scale,0.5
+background,0.6800452488687784
+iilljsc,2.1666666666666665
+equitable consideration,0.8333333333333334
+equity jurisdiction,0.6666666666666666
+school,1.2666111192798444
+supreme court bar assn,0.5
+first pay commission,0.5
+larger public interest,1.125
+impugned judgment insofar,0.8
+operators-cum-mechanics in the lower time scale,0.0
+technical qualification,0.6666666666666666
+national,1.5126860273884035
+diploma,1.8056603773584907
+hand,2.0299623418254717
+person in different organizations,0.0
+organization,1.1323094113464371
+diploma from a polytechnic apart,0.5
+contentions,0.9641025641025641
+sub-assistant engineer,0.0
+equal,1.322635135135135
+cadre post,2.25
+relief to a party,0.6666666666666666
+job,0.6733466933867737
+qualification,2.1521739130434785
+appropriate court,0.8333333333333334
+circumstances,1.3944461370073231
+appellant,14.387096774193548
+relaxation,0.8571428571428572
+nemai chand ghosh,1.5
+court s attention,0.0
+supreme,1.443815331010453
+contempt proceeding,1.0
+instant,1.131578947368421
+doctrine of equal pay,2.0
+high court,7.7477477477477485
+other employee,1.05
+public,2.923239095873367
+wherea,0.8062806257067471
+degree of skill,0.5
+consideration that the order,0.5
+substantive provision of law,0.5
+state,6.817996007300392
+post of sub - assistant engineers,0.0
+different organization,0.6666666666666666
+learned counsel for the appellant,1.7884615384615385
+jurisdiction,2.9539571926331507
+ad-hoc appointment,0.0
+technical,1.1097902097902097
+- relying,0.0
+operators,4.504559270516717
+pay scale,3.875
+wbmanu,1.1818181818181819
+non-filing of an appeal,0.0
+judicial review,2.64
+manu,7.078142071124147
+holders,0.9411764705882353
+ad-hoc appointments,0.0
+same attained finality,0.5
+doubtful that an order,0.5
+appeal against the earlier order,0.5
+possible unless the judgment,0.5
+such operator-cum-mechanic,0.0
+scale,2.0845464725643894
+behalf of the respondents,1.3235294117647058
+emphasis,0.8024289099526066
+category of service,0.5
+single,1.6221488419098207
+airsc,1.6909090909090911
+similar writ petition,0.8
+other facility,0.0
+employees in the state,0.5
+similar circumstance,0.5454545454545454
+nature,1.4149926876444778
+court to the respondents,0.5
+overseers,0.3333333333333333
+illjsc,3.25531914893617
+power of judicial review,1.6666666666666667
+equivalent,0.7908277404921701
+ropa,1.2045317433579088
+pas in school,0.0
+categories,0.8800000000000001
+rule makers,0.5
+impact on the other employees,0.5
+direct recruitment,4.0
+crno,0.26666666666666666
+holders of diploma,1.5
+clear that no details,0.5
+petitioners,3.536507936507937
+ahmed,1.008695652173913
+agriculture,1.6135593220338982
+situation,1.1254754682459434
+junior,0.9861207494795279
+precedent,0.8982341399607586
+employee in other departments,0.0
+law applicable,0.49999999999999994
+attention,0.8724846605528799
+other employees in other departments,0.5
+comparison,0.7333333333333333
+state of punjab,1.6956521739130435
+source,0.840137091365362
+first pay commission of the state,0.5
+university,3.75675614961249
+senior counsel,2.2857142857142856
+difference as regards reliability,0.6666666666666666
+kashmir,2.6608187134502925
+public service commission whereas no such procedure,0.5
+west bengal inter alia,0.5
+ropa rule,1.0
+of articles,0.5798319327731094
+persons,2.5993381990166555
+respondents on the ground,0.5
+notifications,1.9743589743589745
+order under article,0.75
+source of recruitment,0.6666666666666666
+different educational qualification,1.0

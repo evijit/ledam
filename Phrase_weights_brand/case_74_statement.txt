@@ -1,0 +1,636 @@
+basis of the above material,0.5
+government,3.5583785424010483
+active part,0.4472049689440994
+panch witness,1.1666666666666667
+corroboration,1.5714285714285714
+das,1.508694082231246
+mind,1.1559066143122394
+read with section,2.3513513513513513
+murder case,1.0
+reasons,1.3749054007567938
+sections,1.640495469442838
+instance,0.9469803370786518
+shot with a single barrel gun,0.5
+at that time,0.8578375749716323
+failure,0.7827962142086977
+arm,0.9325525916287142
+court,12.24425115501509
+independent conclusion,0.5
+apparent conflict,0.6000000000000001
+conclusion that the view,0.5
+necessary diary entries,0.5
+eye,0.9466574319441098
+hour after sunrise,0.5
+person,4.291511329454258
+ors,2.8612718198296623
+forthwith,0.625
+way,1.7812722068664852
+eye - witnesses,0.0
+entries,2.110809342748506
+call,1.5442351461768689
+part,5.294464509893076
+acquittal by the trial court,0.5
+oral evidence of pws,1.0
+countrymade pistol,1.5
+recovery of the gun,0.5
+punishable under sections,1.6153846153846154
+family of the appellant,0.5
+range,0.8144965675057209
+incident in question,1.3
+speaking,0.6506672453075838
+front of the witnesses,0.5
+number,1.4802651440973922
+sessions,1.3405714285714285
+contrary,1.027917657672435
+pieces,0.6062837506136476
+conclusion in regard,0.6666666666666666
+tripura that the appellant,0.5
+conclusion that the evidence,1.0
+version of the eye - witnesses,0.0
+hands,1.1725490196078434
+rohtak,3.75
+pistol,1.0449735449735449
+house,2.0021735292386764
+transfer,1.9975047057658015
+young girl,0.2222222222222222
+that no reasonable person,0.6666666666666666
+pellet,0.7857142857142857
+appeal,3.4125488033856883
+search,1.156007562422583
+a- shot,0.0
+post mortem examination,1.0
+weapon,1.0217176079034398
+motive,0.8973573343546533
+young girls,0.2142857142857143
+read,2.2147281730888695
+reserve police force,0.5
+sessions judge,2.9545454545454546
+village,1.8429856945085372
+default ri,0.5
+firearm,0.5510907003444316
+month,1.3454861111111112
+year,2.8349484769759212
+stage,1.1298537871524448
+forth,0.7104532839962997
+alia,0.9479866480753792
+forth by the prosecution,0.6666666666666666
+police complaint on the next day ie,0.5
+piece,0.8682170542635659
+judgment,3.288216560509554
+special advantage,0.6666666666666666
+available at that time,0.5
+kaidalwar,0.5
+punishable under section,3.081081081081081
+that background,0.75
+sufficient suspicion,0.5
+date of the incident,0.8571428571428571
+available for identification,0.5
+residents,0.8191605554688717
+recovery evidence,0.6666666666666666
+order,5.472481489660944
+injury,1.7199352451433856
+entire family,0.6857142857142857
+act,12.870263922028107
+ground that pw-,0.0
+close to the victim,0.5
+special reason,2.2857142857142856
+doubt in regard,0.6666666666666666
+eye - witnesses pws,0.0
+considerable time,0.5555555555555556
+accused persons,7.048780487804878
+eye - witnesses show,0.0
+reserve police force at jammu,0.5
+close range,0.6984126984126984
+crl,0.6431123461691147
+ramchandra,1.4
+manner,1.4494591333432125
+member,2.649111111111111
+parties,1.8210828547990157
+government photographer,0.5
+bore gun,3.0
+oral evidence,1.3333333333333333
+corroboration for pws,0.5
+conclusive evidence,0.5955882352941176
+section,9.287987283173626
+general evidence,0.5
+herein,2.825259515570934
+of the offence,2.760869565217391
+version,1.0500313479623824
+hostile witnes,0.6666666666666666
+incident,1.8609485257918057
+madhya,2.9183673469387754
+instance of the appellant,1.6
+appellate,2.561224489795918
+kms,0.7913793103448276
+regard to the appellant,1.0
+evidence of these witnesses,1.3333333333333333
+nullah,1.5
+to the victim,0.8697674418604651
+place,2.333104345208554
+finding,1.8129183657767178
+appellant herein,2.046153846153846
+body for post mortem examination,0.5
+investigation,1.6673076923076922
+regard,2.723310344827586
+witnes for this recovery,0.0
+relevant for the purpose,1.0
+trigger,0.4911734164070613
+agency,1.8968779259354924
+proces,1.627944583238701
+revolver,0.1405895691609977
+benefit of doubt,1.8
+occurrence,2.1343873517786562
+western,0.9170906914097575
+chandigarh,1.52
+facts,1.4696673624372698
+deceased hari om,3.5
+fire,1.1391892447477696
+such that no reasonable person,0.5
+contents,0.66519564577817
+meanwhile,0.5323868677905944
+punjab v balraj singh alias chhajju manuscmanusc,0.5
+basi,2.0752712086391383
+that version,0.3333333333333333
+apparent conflict in the evidence,0.5
+facts of this case,1.1923076923076923
+western corner,0.5
+further case of the prosecution,1.6666666666666667
+hari om with pw- raj bala,0.0
+days,1.6721350893491447
+matter of routine,0.5
+alleged recovery,0.75
+fine,1.3204039558531748
+benefit,2.604810195438474
+raj bala,0.5
+posting,0.6671576453623115
+crime in question,0.75
+records,0.9879294336118848
+session,2.2400874351067563
+judgment of the high court,1.721311475409836
+orders,1.4936359300077826
+unusual for a person,0.5
+conviction,2.248165832071736
+basis,1.953226441078104
+range while the appellant shot,0.5
+suspicion,0.690982776089159
+a- in the dispute,0.0
+prosecution in regard,0.75
+date of incident,1.3
+course,1.6545957498716626
+hiding,0.9172932330827068
+diary entry,0.6666666666666666
+charge,2.7679815308681284
+wasudeo,0.5
+order of transfer,1.0
+point blank range by the appellant,0.5
+court on re - appreciation,0.0
+pradesh,4.365853658536586
+actual time,0.4444444444444444
+blood,1.1739965841161402
+crime,1.6636528028933093
+officer,3.1197242647058823
+part in a crime,0.5
+charges,2.061307113938693
+court in number,0.6666666666666666
+ground,1.4186722903211633
+other case,0.6654088050314465
+appellant shot,2.0
+recovery of the weapon,1.0
+same in regard to the present appellant,0.5
+further case,0.9523809523809524
+girl to a police station,0.0
+point blank range,0.30000000000000004
+matter,2.8088923076923082
+different conclusion,0.40384615384615385
+countrymade,1.5
+next part,0.25
+chhajju,0.5
+south,0.8254159150130287
+leg,5.574082991234883
+central reserve police force,0.5
+orders of transfer,0.5
+appellants,7.701086956521739
+view,2.441100058469462
+chest,0.7395639311931632
+barrel gun,1.0
+post,2.344803646492219
+case of the prosecution,2.3043478260869565
+opinion,1.4960606342789635
+inquest,2.0454545454545454
+conflict,1.314561353483509
+side,3.88845645915565
+punishable,1.237037037037037
+merit,1.2419290263876248
+identification,2.0914158305462656
+resident of gochi village,0.0
+hari om,4.5
+recovery,3.9892473118279574
+witness,5.333906623599983
+sessions court,2.230769230769231
+contradictions,0.2981029810298103
+default to further undergo ri,0.6666666666666666
+call of nature,0.5
+record,2.5393414390845273
+material,1.4148767018946966
+defence,1.3606588776096535
+polouse,0.0
+deceased hari om with pw- raj bala,0.0
+stomach content,0.5
+pw- gayatri on that day,0.0
+day ie,0.6000000000000001
+such close range,0.5
+male member,1.0
+fact,3.6284951019474962
+barrel gun at the instance,0.5
+learned counsel,3.703333333333333
+inherent improbabilities,0.6666666666666666
+of an offence,1.5263157894736843
+same set of evidence,0.5
+learned counsel for the parties,1.263157894736842
+chief,1.9429638234317954
+station,1.2515681586858238
+reserve,1.8336147492356134
+high court on re - appreciation,0.0
+material on record,1.40625
+recovery of a  bore gun,0.0
+hegde,1.1333333333333333
+for identification,0.5925925925925926
+hour,1.1326135248230613
+kumar,2.028839704896043
+evidence after considerable time,0.5
+diary,0.986533041027247
+witnes,5.333906623599983
+same set,0.6136363636363635
+pw- s evidence,0.0
+evidences,0.5483870967741935
+other word,0.758838674565131
+girl,0.3769911504424779
+close range while the appellant shot,0.5
+earlier murder case,0.5
+south western corner of the chabutra,0.5
+extent,1.410108024691358
+eye - witnesses shows,0.0
+young girls to a police station,0.5
+photographs,0.8524590163934426
+n santosh hegde,0.8888888888888888
+doubt,1.3646267723102583
+santosh,1.3333333333333333
+corner,0.7011583011583012
+photograph of the dead body,0.0
+report,1.7768151696835826
+punjab,1.0438169425511197
+months on that count,0.5
+background of the fact,0.5333333333333333
+fact of this case,0.0
+party,2.2250894654439723
+hostile witness,0.6666666666666666
+am at the police station,0.5
+arms,1.2384993436918101
+scene of the occurrence,0.5
+permanent residents of the village,0.5
+haryana at chandigarh,0.875
+few days,0.7211538461538461
+photographer,0.6521739130434784
+regard to the incident,1.0
+kumar pandey v state,0.5
+lapse,0.9238095238095239
+reverse,0.8343698175787728
+surviving,0.583030303030303
+appellant shot with a single barrel gun,0.5
+bala,1.0097608274078862
+complaint in question,0.5
+balraj,0.75
+date,6.195616975795285
+sister,1.0774703557312253
+mohanlal,0.8333333333333334
+maharashtra v wasudeo,0.5
+offence,4.401610644257703
+police complaint,0.5
+court in the above,1.2
+possible reverse,0.5
+case against the accused persons,0.5
+deceased,4.535714285714286
+default,0.7094574436346588
+thigh,0.4431818181818182
+day,1.550999710228919
+crpf,1.3333333333333333
+witness for this recovery,0.5
+evidence of the prosecution,0.6666666666666666
+actual time of occurrence,0.5
+question,2.980312372067635
+present appellant,1.3333333333333333
+count,2.7493281810130092
+timing,0.7671232876712328
+police station,1.40045766590389
+inherent improbability,0.0
+scmanu,7.940520446096654
+word,2.065873981084096
+appeals,1.7060218112849692
+chance witnesses,0.75
+matter of fact,0.6230936819172114
+need,1.1097650269586634
+months,1.1938163721148947
+other words,0.7578482137053969
+panch,6.911111111111111
+only case,0.38095238095238093
+appeal from the judgment,0.6666666666666666
+statement,2.5393160135035964
+accused person,4.565217391304348
+pradesh manusc,1.5454545454545454
+kaidalwar manuscmanusc,0.5
+resident,1.6560361185631094
+pieces of evidence,0.5333333333333333
+entry,4.707210447678601
+high,5.367119186841496
+members,1.9437616522164103
+brother,1.4566585956416465
+eye - witnesses pw,0.0
+meal,0.5078883495145632
+custody,1.4166666666666667
+reliance on this recovery,0.5
+force,1.6009408121948314
+sister at the village,0.5
+pandey,1.875
+set of evidence,0.5
+appellate court,3.1458333333333335
+purpose,2.519170317925504
+law,3.538923411654744
+trial court,3.854545454545455
+plea of alibi,1.0
+dass,0.8333333333333334
+year with a fine,0.5
+time,2.4764180952862667
+cases,1.9728229418951067
+high court in appeal,0.8333333333333334
+sides,0.6706755273269035
+piece of evidence,0.8181818181818181
+same fact,0.9375
+whether a recovery,0.5
+guilty of an offence,0.5
+hargovind,0.6666666666666666
+gun,1.1509321528900995
+kanwar,2.4
+pw- raj bala,0.0
+briefly,0.5805159028299525
+place of posting,0.5
+gayatri on that day,0.5
+firearms,0.4620637329286798
+lapse of time,1.1
+content,1.5450574489970066
+pw- gayatri,0.0
+failure of the prosecution,0.5
+state appeal,1.0
+complaint,2.734525785235724
+regard to the same fact,0.5
+murder,1.4968553459119496
+conflict in the evidence,0.5
+fine of rs,1.6
+regard to the present appellant,0.5
+prosecution,4.619407894736842
+a- kanwar singh,0.0
+spot,0.778096903096903
+march,1.0644238856181665
+offences,1.6681887366818873
+imprisonment,1.4344262295081966
+leg of the victim indicating,0.5
+statement of witnesses,1.1428571428571428
+ipc,2.785166240409207
+note of the fact,1.4705882352941178
+counsel,2.2246780703440323
+gochi,1.0
+absence,1.092363454568179
+girls to a police station,0.5
+brother of the appellant herein,0.5
+imprisonment for life,1.7142857142857142
+permanent resident of the village,0.0
+place of the incident,2.0
+stomach,0.3278443113772455
+witnesses,3.359210526315789
+gochi village,0.5
+panch witnes,1.1666666666666667
+permanent residents,0.37499999999999994
+counts,2.151344841429145
+mistake,0.6870879120879121
+gayatri,0.6666666666666666
+hari,1.1945070711211314
+eye-witness,0.0
+bore,0.8008163265306122
+prosecution evidence,1.2
+house of a-,0.0
+acceptable in regard,0.5
+risk,1.2477718360071302
+acquittal,2.2714285714285714
+panch witness for this recovery,0.5
+re-appreciation of the evidence,0.0
+intention,1.7585585585585588
+attack,1.0505713076597545
+photographs of the dead body,0.6666666666666666
+dispute,2.402137592137592
+- in default to further undergo ri,0.0
+evidence,3.6676405172088815
+kanwar singh a-,0.0
+reasonable person,0.47058823529411764
+conclusive evidence in the absence,0.5
+lot of blood,0.5
+victim,1.204831365285174
+reliance,1.400763358778626
+next part of the evidence,0.5
+permanent residents of gochi village,0.5
+state of punjab v balraj singh alias chhajju manuscmanusc,0.5
+court in this regard,1.3333333333333333
+eye - witness,0.0
+veracity,0.6470588235294118
+pm report,0.5
+case,7.332269420884958
+difference,0.8774847235514982
+appellant in this appeal,0.6666666666666666
+error,1.059158294766151
+scc,1.941872465904902
+for the purpose,1.8600737100737101
+case against the accused person,0.5
+chabutra near the house,0.5
+ram,2.11096203538064
+regard to the time,1.0
+month on that count,0.0
+singh,3.7791111111111113
+injuries,2.4130008710801394
+conclusion that the appellant,0.8571428571428571
+left thigh,0.6666666666666666
+statements,1.110873440285205
+evidence of pws,2.6363636363636362
+girls,0.24066390041493776
+therefore,2.960332350576253
+motive of a-,0.0
+prosecution case,4.258064516129032
+south western corner,0.5
+last meal,0.6666666666666666
+evidence from the stomach contents,0.5
+contradiction,0.609271523178808
+proceedings,1.7670925223666287
+unusual conduct,0.5
+favour,1.653145208700764
+minds,0.6597481343283582
+identity,0.8835164835164835
+jammu,4.705882352941177
+basi of the above material,0.0
+learned sessions judge,2.5
+considerable difference,0.5
+duty,3.2272215973003378
+pellets,0.4444444444444444
+gun shot injury,0.0
+hands while the appellant shot,0.5
+permanent resident of gochi village,0.0
+ground for the appellant,0.5
+court in appeal,0.875
+maharashtra,2.9076923076923076
+evidence in favour,0.30000000000000004
+fight,1.0237585694076679
+that conclusion,0.4108108108108109
+investigating agency,2.0625
+manner of speaking,0.5
+diary entries,0.5
+sentences,1.0513157894736844
+point,2.9165043546008516
+body,1.336775463480009
+process,1.6274942048088725
+chance witness,0.8333333333333334
+appellant because the prosecution,0.5
+re-appreciation,0.0
+mohanlal hargovind dass v ram narain,0.5
+merits,0.968421052631579
+police,2.9749362629783356
+sentence,2.3896654193264366
+time of the incident,1.1
+examination,2.4920345926263088
+enmity,0.4377104377104377
+identities,0.22580645161290322
+under section,5.374517374517374
+permanent resident,0.38888888888888895
+coming,0.8953304313415116
+set,2.3027452395971277
+reason,2.6381270903010035
+alibi,0.7615384615384616
+instant case,2.0631578947368423
+basi of the ratio,0.0
+basis of the ratio,1.0
+policeman,0.24390243902439027
+conclusion that the prosecution,1.0
+life,1.3352928273744242
+actual manner,0.5
+scene,0.7999999999999999
+evidence in the absence,0.5
+views,0.6965871413779037
+improbability,0.6000000000000001
+dispute in regard,1.0
+alleged recovery of the weapon,0.5
+haryana,2.935064935064935
+part of the evidence,1.3333333333333333
+words,1.6384367086179112
+in regard,1.3843478260869566
+front,0.8400299386969539
+plea,1.4430487701432178
+earlier search of the house,0.5
+for a person,0.43243243243243246
+others,0.9074667328904616
+sensible person,0.6666666666666666
+place of transfer,0.5
+tripura,4.833333333333333
+photograph,1.2280701754385965
+duty in tripura,0.5
+bore gun from a close range,0.5
+next day ie,0.4444444444444444
+chabutra,4.333333333333333
+above material,0.30000000000000004
+eye-witnesses,0.0
+family,1.856281506375408
+time of occurrence,1.375
+judge,2.9012627415183325
+improbabilities,0.6666666666666666
+male members,0.6666666666666666
+appeal before the high court,1.1875
+conduct,1.5998023165163158
+either perverse,1.0
+sister en route,0.5
+gun shot injuries,1.0
+pws,1.5484615384615386
+stomach contents,0.5
+fact that this appellant,0.5
+resident of the village,3.0
+doubtful whether a recovery,0.5
+further undergo ri,1.0
+conclusion,1.3883437407077015
+shot,1.5276221441634974
+ratio,5.027061939235792
+earlier search,0.3333333333333333
+kumar pandey v state of madhya,0.5
+advantage,1.1441364159430905
+narain,0.4978662873399715
+state appeal against the acquittal,0.5
+sentence of ri,0.5
+pursuant,0.7227692307692308
+background,0.6800452488687784
+barrel,0.501453488372093
+order of acquittal,2.0
+state of maharashtra v wasudeo,0.5
+single barrel gun,1.0
+need for these accused persons,0.5
+assistance,0.8623872906826965
+hand,2.0299623418254717
+under sections,2.1931818181818183
+appreciation,0.7282229965156793
+necessary diary entry,0.0
+routine,0.5687714145863925
+other evidence,1.0434782608695652
+month of march,0.6666666666666666
+appellant,14.387096774193548
+veracity of the recovery,0.5
+few day,0.7211538461538461
+case on the merits,0.5
+instant,1.131578947368421
+panch witnes for this recovery,0.0
+a- in the meanwhile,0.0
+single barrel,1.5
+evidence of pw-,0.0
+conclusion that the oral evidence,0.5
+high court,7.7477477477477485
+in regard to the present appellant,0.5
+complainant,4.538461538461538
+central reserve police force at jammu,0.5
+dispute between kanwar singh a-,0.0
+state,6.817996007300392
+single barrel gun at the instance,0.5
+chance,0.7937084625609215
+own case,0.5
+note,1.3654108484234107
+young girl to a police station,0.0
+trial,3.7979448350459712
+finding of the trial court,1.0
+pw-,0.0
+sunrise,0.18382352941176472
+manu,7.078142071124147
+high court in this regard,1.1666666666666667
+central,2.61875
+acceptable evidence,0.5
+guilty of the offence,1.3571428571428572
+dead body,1.192156862745098
+see,2.8180360783074034
+nature,1.4149926876444778
+western corner of the chabutra,0.5
+a- in a fight,0.0
+special report,1.1666666666666667
+residents of gochi village,0.5
+possibility,0.7613466503601033
+situation,1.1254754682459434
+route,1.1635049683830172
+night,0.8690610404251893
+finding of the sessions court,0.5
+raj,1.3364194424876723
+post mortem report,0.5
+alias,0.7720588235294116
+residents of the village,0.4444444444444444
+arms act,1.4545454545454544
+victim indicating,0.5
+learned sessions judge that the prosecution,0.5
+evidence of these eye - witnesses,0.0
+mortem,1.402116402116402
+persons,2.5993381990166555

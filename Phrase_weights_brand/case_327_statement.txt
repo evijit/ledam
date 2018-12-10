@@ -1,0 +1,664 @@
+courts,2.1216528162511543
+findings,1.049571253572887
+month after the occurrence,0.0
+second body,0.5
+injured witness,2.8181818181818183
+corroboration,1.5714285714285714
+river side,0.25
+code,2.880559796437659
+arrival,0.6270833333333333
+river bega,0.5
+third son of the informant,0.5
+read with section,2.3513513513513513
+regard to the killing,0.5
+people,1.2855544825097243
+sentence of life imprisonment,1.25
+filing,1.1274190041313328
+sections,1.640495469442838
+reasons,1.3749054007567938
+terms,2.390350840909655
+instance,0.9469803370786518
+complainant - md,0.0
+year to the period,0.5
+capital offence,0.75
+judicial magistrate,2.7857142857142856
+part of the depositions,0.0
+oath,0.9395348837209302
+court,12.24425115501509
+offence of murder,1.0
+sahar banu,0.5
+bank of bega river,0.5
+hesitation,0.5405405405405406
+person,4.291511329454258
+banu,0.5454545454545455
+way,1.7812722068664852
+correctness,0.8404159132007234
+behalf,1.9888053603529987
+part,5.294464509893076
+killing of the unfortunate boys,0.5
+mr ankoletar gurudatta,0.5
+assailant in that part,0.0
+as the fact that the appellants,0.5
+cross,2.0778316690442225
+lesser sentence,0.5
+penal code before this court,0.5
+arrival of the police,0.75
+punishable under sections,1.6153846153846154
+police that some unknown person,0.5
+assailant,0.5333333333333333
+amicus,1.0740740740740742
+respective convictions,0.5
+present appeal,1.3424657534246576
+sessions,1.3405714285714285
+serious doubts about the correctness,0.5
+omission of the names,1.0
+contrary,1.027917657672435
+articles,1.4349688743466387
+house of the complainant - md,0.0
+total,1.183527325379098
+conviction for offence,1.5
+abdul karim-pw,0.0
+house,2.0021735292386764
+doubts,0.6666666666666666
+serious doubt about the correctness,0.0
+correctnes,0.8404159132007234
+appeal,3.4125488033856883
+ankoletar,0.5
+person for offences,0.0
+other offences,1.3333333333333333
+weapon,1.0217176079034398
+sheet,1.1667364016736401
+fact that the appellant,1.05
+sahar,0.5714285714285714
+read,2.2147281730888695
+abdul,1.5086206896551726
+home stead of the complainant,1.0
+sessions judge,2.9545454545454546
+area,2.675167256985439
+village,1.8429856945085372
+ali s version,0.0
+years with a fine,0.6666666666666666
+month,1.3454861111111112
+year,2.8349484769759212
+alia,0.9479866480753792
+dead bodies,0.6521739130434784
+appellants herein,1.4883720930232558
+fact that no independent corroboration,0.5
+first instance,0.8333333333333334
+inordinate delay,1.6666666666666667
+amicus on behalf,0.5
+punishable under section,3.081081081081081
+vital omission from the fir,0.5
+banes,0.7619047619047619
+father,1.4298716229162676
+other convicts,0.5
+indian penal code with the dismissal,0.5
+order,5.472481489660944
+injury,1.7199352451433856
+young boys of the informant,0.5
+solitary deposition,0.5
+act,12.870263922028107
+qua,2.4497935676369567
+help of the people,0.5
+embankment,0.3333333333333333
+sarafat ali,3.5
+inquest of the second dead body,0.5
+handcart,0.5
+explanation,1.4510159010600707
+ordinary course,1.0769230769230769
+version before the trial court,0.5
+idea,0.5945499587118084
+accused persons,7.048780487804878
+appellants benefit of doubt,0.5
+above terms,0.9375
+deposition of md,0.5
+copy,0.8620926631522174
+return to the village,0.5
+counsel for the parties,1.263157894736842
+dao,0.822857142857143
+conviction of the appellant,1.8235294117647058
+husain,0.6666666666666666
+first information report to the jurisdictional court,0.5
+mother,1.5057341472881893
+bodies on a handcart,0.5
+parties,1.8210828547990157
+young boy of the informant,0.0
+fact that the appellants,0.8571428571428571
+witness under section,0.75
+sworn testimony,0.8
+section,9.287987283173626
+abates,0.6000000000000001
+abdul hussain,3.5
+from the order,1.2727272727272727
+default sentence,1.5
+version,1.0500313479623824
+incident,1.8609485257918057
+fir,2.85390975582079
+ropes,0.37738853503184716
+inquest of the dead body,0.5
+condition,2.259476395625584
+relevant part,0.8979591836734694
+above circumstances,0.875
+doubts about the correctness,0.5
+indian penal code before this court,0.5
+first part,1.236842105263158
+that explanation,0.5142857142857143
+judicial magistrate of the area,0.5
+that part of the case,0.5
+hand information,0.25
+counsel for the appellants,1.7258064516129032
+paddy - stock,0.0
+place,2.333104345208554
+circumstance,1.429931390219372
+finding,1.8129183657767178
+present case,1.5611814345991561
+appellants-md,0.0
+significant circumstance,0.6666666666666666
+investigation,1.6673076923076922
+only witnes to the incident,0.0
+regard,2.723310344827586
+discrepancy,0.6097560975609757
+boy of the informant,0.0
+police by the informant,0.5
+bane,0.46816943274708944
+lesser offence,1.0
+household article,0.5
+bullocks,0.3333333333333333
+occurrence,2.1343873517786562
+father-the first informant,0.0
+length,0.6297872340425531
+story,0.755772533184814
+second part of the incident,0.5
+conviction for offences,0.5
+common order,2.111111111111111
+regard to the nature,1.0
+manour ali,0.5
+fire,1.1391892447477696
+july,0.9742727723122656
+nur alias nurul islam,1.0
+mazibur,1.0
+rajab,5.0
+household,0.23333333333333334
+besides a pair of bullocks,0.5
+conviction of the appellants,2.0
+days,1.6721350893491447
+abdul hussain about the incident,0.5
+fine,1.3204039558531748
+home,0.9826663267907214
+culprits,2.0
+identification as the dead body,0.5
+benefit,2.604810195438474
+gurudatta,0.5
+abate,1.6307692307692307
+session,2.2400874351067563
+orders,1.4936359300077826
+conviction,2.248165832071736
+only witness,0.5
+first informant - md,0.0
+larger group,0.2692307692307692
+suspicion,0.690982776089159
+doubt upon the veracity,0.5
+for lesser offence,0.5
+trial before the court,1.0
+sub,7.816899313759727
+course,1.6545957498716626
+criminal appeal,2.5675675675675675
+actual killing of the unfortunate boys,0.5
+gauhati high court,1.2
+magistrate,3.522077922077922
+charge,2.7679815308681284
+embankment across the river,0.5
+pair of bullocks,0.5
+dispatch,0.9738805970149254
+precise reasons,0.5
+lesser sentence for other offences,0.0
+officer,3.1197242647058823
+- edged weapon,0.0
+charges,2.061307113938693
+dead body of a youth,0.5
+case of appellant - md,0.0
+inmate,0.5170940170940173
+damage,1.8281814532316336
+further case,0.9523809523809524
+sharped - edged weapon,0.0
+cros,1.8137948361162648
+material omissions,0.5
+- md,0.0
+second part,2.0913461538461537
+village in an injured condition,0.5
+matter,2.8088923076923082
+moment,0.5294822018215465
+mischief,0.5934065934065934
+article,4.378806157159795
+date of the occurrence,0.6666666666666666
+inasmuch as the fact that the appellants,0.5
+third son,0.5
+term,3.6255105640901575
+criminal,3.301971081989414
+unknown persons,1.0476190476190477
+deadly weapon,0.8307692307692307
+mafuza khatun,0.5
+boys,0.8607594936708862
+appellants,7.701086956521739
+penal,1.8829173709853835
+mangaldoi,0.5
+view,2.441100058469462
+opinion,1.4960606342789635
+doctor,1.4782608695652173
+inquest,2.0454545454545454
+conflict,1.314561353483509
+side,3.88845645915565
+wife,1.4518086408500224
+penal code,2.710144927536232
+punishable,1.237037037037037
+bodies,0.8969063256135499
+identification,2.0914158305462656
+only material difference between the cases,0.5
+assistant,1.6732837055417698
+witness,5.333906623599983
+result,1.3356630184144715
+gauhati,1.2
+delay,1.9544910179640715
+khatun,0.6666666666666666
+record,2.5393414390845273
+procedure,2.552771605064117
+young boy,0.3333333333333333
+material,1.4148767018946966
+information,1.1320502836800534
+polouse,0.0
+part of a larger group,0.5
+sharp-edged weapon,0.0
+miscreant,0.6000000000000001
+bega river,2.5
+relevant part of the depositions,0.0
+penal code with the dismissal,0.5
+manour,0.5
+support,0.8630946786249609
+wall,0.8333770549143058
+prosecution s case md,0.0
+only witness to the incident,0.5
+first,1.9006367208168047
+statement of the informant,0.6666666666666666
+breaking of the walls,0.5
+fact,3.6284951019474962
+qua md,0.5
+learned counsel,3.703333333333333
+river under a tree,0.5
+absconder,0.6666666666666666
+musstt,1.0
+evidence on record,2.7906976744186047
+sharp - edged weapon,0.0
+such explanation,0.6666666666666666
+walls,1.0032840722495895
+paschim,0.5
+islam,0.914674361088211
+learned counsel for the parties,1.263157894736842
+chief,1.9429638234317954
+criminal procedure,6.406779661016949
+only material difference,0.5
+months after the occurrence,0.5
+convicts,0.45000000000000007
+bega,0.5842150414641121
+sons of the complainant,1.0
+weapons,1.1105810008481765
+paddy - stocks,0.0
+clutch of the appellants,0.0
+boys of the informant,0.5
+stand,1.8422769621739425
+omissions,0.6971428571428571
+padoghat,0.5
+witnes,5.333906623599983
+clutch,0.18552875695732843
+ali so abdul hussain,1.0
+brothers,0.9570135746606334
+first body,0.5
+extent,1.410108024691358
+doubt,1.3646267723102583
+witness to the police,0.5
+youth,0.4385150812064965
+years,2.5395804110508022
+bridge over river bega,0.5
+charge - sheet,0.0
+report,1.7768151696835826
+code of criminal procedure,6.120689655172414
+conviction of appellants - md,0.0
+judicial,2.8688059701492543
+party,2.2250894654439723
+bullock,0.09271523178807947
+mafuza,0.5
+act if the names,0.5
+breaking,0.8768149882903983
+spear etc,0.5
+rope,2.506422634539501
+amicu,0.8950617283950617
+death of md,0.5
+therein,1.5503424657534246
+cross-examination,0.0
+fire stand,0.5
+nurul,1.0
+hussain,1.8
+material part of the version,0.0
+killing,0.5793901156677181
+months after the incident,0.5
+other offence,1.3076923076923077
+present appeals,1.625
+testimony,1.4407553107789142
+unfortunate boy,0.5
+date,6.195616975795285
+credibility,0.6069651741293531
+sons,2.7457346002031446
+culprit,1.4285714285714286
+september,0.8548484848484849
+inmate of the house,0.0
+offence,4.401610644257703
+presence,0.9604834261070158
+death of the deceased - md,0.0
+material part,1.1666666666666667
+distinct part,0.3333333333333333
+assistant sub-inspector,0.0
+bank,9.40770083102493
+relevant parts,0.3333333333333333
+respective conviction,0.5
+appellants in criminal appeals,0.5
+inspector,1.2705882352941176
+default,0.7094574436346588
+material omission,1.0
+injured - md,0.0
+day,1.550999710228919
+as the fact that the appellant,0.5
+doubt about the correctness,0.5
+material parts of the version,0.5
+prosecution s further case,0.0
+serious doubts,0.4761904761904762
+witnes under section,0.0
+life imprisonment,1.2083333333333333
+serious doubt,0.5
+deposition,1.534
+rehman,1.1666666666666667
+karim,2.571428571428571
+appeals,1.7060218112849692
+matter of fact,0.6230936819172114
+brother by the appellants,0.0
+months,1.1938163721148947
+independent corroboration,0.3333333333333333
+assailants,0.9650349650349649
+statement,2.5393160135035964
+only witnes,0.5
+accused person on a suspicion,0.0
+neighbourhood,0.8400000000000001
+stead,0.7368888987675176
+accused person,4.565217391304348
+reliable hence unsafe,0.5
+that part,0.9543770509156346
+appellants-md sarafat ali,0.0
+young boys,0.25
+place of occurrence,2.6153846153846154
+name,1.8996570753072433
+first information report,1.9565217391304348
+case md,0.5
+banes ali so,1.0
+parts of the version,0.5
+nature of the contradiction,0.5
+high,5.367119186841496
+distinct parts,0.3333333333333333
+brother,1.4566585956416465
+persons for offences,0.5
+body to the guard,0.5
+assault,1.0656614201609997
+guilty of murder,0.5
+abdul hussain by the appellants,0.5
+simple injury,0.6666666666666666
+statement of md,0.5
+dismissal,1.614076246334311
+learned,3.406323898681099
+part of the incident,1.5
+offence of mischief,0.5
+evident,0.6350943396226416
+part of the version,0.0
+interference,0.5733527484528578
+help,0.7217940266720754
+trial court,3.854545454545455
+foremost,0.47024673439767783
+head,1.5827778446537666
+fire stands,0.5
+material omissions in the statement,0.5
+year with a fine,0.5
+first part of the incident,0.5
+cases,1.9728229418951067
+majibur rehman,0.5
+group,1.691932599016908
+neither md,0.5
+depositions of md,0.5
+prosecution for the inordinate delay,0.5
+injured condition,1.6
+information report to the jurisdictional court,0.5
+wheat,2.2425249169435215
+relevant parts of the depositions,0.5
+appellant-md,0.0
+stands,0.7032366540563262
+inasmuch as the fact that the appellant,0.5
+same besides a pair of bullocks,0.5
+lesser offences,0.5
+sentences of imprisonment,0.5
+polouse by the informant,0.0
+paschim padoghat,0.5
+guard,1.1435613062230436
+above circumstance,0.875
+wife of md,0.5
+inmates of the house,0.75
+murder,1.4968553459119496
+material conflict,0.5
+dispatch of the copy,0.5
+addition,1.5588539142412572
+filing of a charge - sheet,0.0
+depositions,1.0
+prosecution,4.619407894736842
+help of rope,0.5
+appellants benefit,0.5
+son of the complainant-md,0.0
+offences,1.6681887366818873
+imprisonment,1.4344262295081966
+river,1.243409567587255
+darrang,0.30000000000000004
+counsel,2.2246780703440323
+information that a dead body,0.5
+deceased boy,0.5
+parts,0.6609660823170732
+white paper,0.4444444444444444
+sons of the complainant-md,0.0
+imprisonment for life,1.7142857142857142
+commission,4.703619179345321
+witnesses,3.359210526315789
+witnes to the police,0.0
+lathi,5.0
+bridge over bega river,1.5
+actual killing,0.30000000000000004
+injured witnes,2.8181818181818183
+credit,2.9526050420168066
+names,1.766440410418311
+panbari,0.5
+rigorous imprisonment,1.9230769230769231
+majibur,0.5
+son,4.595622484812135
+deceased boys,0.5
+return,1.5755725190839696
+credit of mr  ankoletar gurudatta,0.0
+evidence,3.6676405172088815
+injured brother,1.0
+clutches of the appellants,0.5
+ali s presence,0.0
+evident from the order,0.6666666666666666
+addl,1.303854875283447
+veracity,0.6470588235294118
+case,7.332269420884958
+difference,0.8774847235514982
+sharped,1.3333333333333333
+paddy,1.5
+period,1.9480170842427122
+sheets,0.4754285714285714
+accused persons on a suspicion,0.5
+son of the complainant,0.0
+joynal,1.0
+banes ali,3.0
+tree,2.5601868779199677
+conviction for the offence,0.6666666666666666
+cross - examination,0.0
+lesser sentences for other offences,0.5
+assault on the village,0.5
+same incident,0.6666666666666666
+police that some unknown persons,0.5
+appellants in the present cases,0.5
+information report,2.0
+sentence of imprisonment,1.6923076923076923
+prosecution case,4.258064516129032
+abdul karim,9.0
+jainal abedin,2.0
+jainal,2.0
+guilty for lesser offences,0.5
+clutches,0.2763157894736842
+omission from the fir,0.5
+material omission in the statement,0.0
+contradiction,0.609271523178808
+absconders,0.6666666666666666
+jurisdictional court,0.8
+- edged weapons,0.0
+first body to the guard,0.5
+brothers by the appellants,0.5
+sarafat,3.5
+appellants from the first information report,0.5
+river in the neighbourhood,0.5
+khaden,0.5
+october,0.9478375701551667
+imprisonment for a period,1.375
+somebody,0.5581624605678233
+sentences,1.0513157894736844
+body,1.336775463480009
+dead bodies on a handcart,0.5
+abedin,2.3333333333333335
+first informant,3.0
+above term,0.9375
+chief judicial magistrate,2.230769230769231
+conviction of appellant - md,0.0
+khaden ali,0.5
+material parts,0.5
+appellants in those appeals,1.0
+police,2.9749362629783356
+sentence,2.3896654193264366
+son of the informant,0.6666666666666666
+joynal abedin,1.0
+examination,2.4920345926263088
+omission,1.1856094505101127
+version of the prosecution,0.75
+under section,5.374517374517374
+appellant in those appeals,0.0
+reason,2.6381270903010035
+dead body on a handcart,0.0
+amicu on behalf,0.0
+life,1.3352928273744242
+father-md,0.0
+bega river in the neighbourhood,0.5
+one,4.845669314438648
+chief judicial magistrate of the area,0.5
+help of a dao,0.5
+statement of the complainant,0.8
+hence unsafe,0.5
+witnes to incident,0.0
+informant - md,0.0
+discrepancy in the statement,0.5
+act if the name,0.5
+others,0.9074667328904616
+arrival in the village,0.5
+copy of the first information report,1.0
+only explanation,0.2857142857142857
+receipt,1.5471923536439667
+order of conviction,1.3
+abdul husain,0.5
+unknown person,1.0476190476190477
+precise reason,0.5
+deadly weapons,0.9
+receipt of this information,0.3333333333333333
+convictions,0.6026785714285713
+judge,2.9012627415183325
+death,2.361592909460208
+sentences for other offences,0.75
+first part of the story,0.5
+incised injury,0.5
+sworn testimony before the court,0.5
+body of a youth,0.5
+sub - inspector,0.0
+lesser sentences,0.5
+jong etc,0.5
+jong,0.16666666666666666
+unfortunate boys,0.5
+second dead body,0.5
+panbari op,0.5
+appellant in criminal appeals,0.5
+miscreants,0.6000000000000001
+paper,1.8076689487632511
+indian penal code,5.264705882352941
+conviction for a capital offence,0.5
+assailants in that part,0.5
+rahman,1.1666666666666667
+hand,2.0299623418254717
+house of abdul hussain,0.5
+under sections,2.1931818181818183
+inmates,0.531400966183575
+credibility of the prosecution case,0.6666666666666666
+serious doubt upon the veracity,0.5
+rajab ali,7.0
+circumstances,1.3944461370073231
+appellant,14.387096774193548
+loot,0.7692307692307692
+deceased - md,0.0
+assault on the home stead,0.5
+mazibur rahman,1.0
+present cases,0.8571428571428571
+witness to incident,0.5
+home stead,1.5
+high court,7.7477477477477485
+complainant,4.538461538461538
+karim - pw,0.0
+month after the incident,0.0
+part of the story,0.30000000000000004
+case of md,0.6666666666666666
+trial,3.7979448350459712
+body on a handcart,0.0
+appellant in the present cases,0.0
+considerable length,0.5714285714285714
+appellant from the first information report,0.0
+damage to the house,0.5
+boy,1.0245410384202889
+bridge,1.1911260881774781
+other convict,0.5
+burning,0.5957259953161592
+burning of the home stead,0.5
+informant,2.935483870967742
+looting of the wheat,0.5
+clue,0.31653404067197166
+dead body,1.192156862745098
+man,6.972395052694935
+important circumstance,0.6666666666666666
+stocks,0.5357142857142857
+nature,1.4149926876444778
+spear,0.6444444444444445
+vital omission,0.5
+for lesser offences,0.5
+commission of the offences,0.5
+household articles,0.5
+pair,1.0418990145901763
+serious nature,0.7999999999999999
+criminal appeals,2.0
+alias,0.7720588235294116
+sharp-edged weapons,0.0
+of murder,0.9236111111111112
+stock,1.0778270324523251
+solitary deposition of md,0.5
+sentence for other offences,0.0
+capital,1.0983272274832379
+house of the complainant,1.5
+ali,3.7617236801781915
+parts of the depositions,0.5
+nur,1.4511627906976743
+persons,2.5993381990166555
+looting,0.5217391304347826
+convict,3.1901719901719896

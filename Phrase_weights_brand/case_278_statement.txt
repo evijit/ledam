@@ -1,0 +1,602 @@
+courts,2.1216528162511543
+tehsil office,0.5
+medical practice,0.27956989247311825
+loan of rs,2.8
+panchayatdars for the recovery,0.5
+court in the case,1.3333333333333333
+above charges,0.5
+great suspicion,0.30000000000000004
+charges while the appeal,0.5
+mind,1.1559066143122394
+inability of the io,0.5
+regard to a-,0.0
+read with section,2.3513513513513513
+signature,1.1400966183574879
+bunch,0.4852374839537869
+people,1.2855544825097243
+respondent - state,0.0
+reasons,1.3749054007567938
+sections,1.640495469442838
+teacher,3.0760180995475115
+nilkanth pw-,0.0
+instance,0.9469803370786518
+argument of learned counsel,1.4285714285714286
+witness to the recoveries,0.5
+original panchayatdar,0.5
+ms rachna gupta,0.5
+bharosa,0.5
+court,12.24425115501509
+mere fact that pw-,0.0
+course of investigation,2.2
+polouse to various places,0.0
+police to various places,0.5
+eye,0.9466574319441098
+watch,1.1344537815126052
+person,4.291511329454258
+mani kumar thapa,1.0
+at the recovery unless person,0.0
+forthwith,0.625
+way,1.7812722068664852
+behalf,1.9888053603529987
+part,5.294464509893076
+houses,1.0821764442454098
+many independent witnesses,0.6666666666666666
+distance,0.7353606433777331
+stab,1.5172976844115538
+day after the date,1.5
+envelope to which pws,0.5
+number,1.4802651440973922
+money to the sister,0.5
+decisions,1.3888475974580996
+sessions,1.3405714285714285
+decision,2.9514937765898557
+many earlier case,0.5
+fact that pw-,0.0
+articles,1.4349688743466387
+panchayatdar for recovery,0.0
+shops,1.9350785340314138
+change in packaging,0.5
+part of the prosecution evidence,0.5
+house,2.0021735292386764
+learned counsel for the respondent-state,0.0
+sikkim,11.0
+appeal,3.4125488033856883
+responsible for the murder,0.5
+appellant by the high court,0.5
+evidentiary value,1.0
+search,1.156007562422583
+contra,3.550142721217888
+scr,2.483838975311538
+motive,0.8973573343546533
+many other shops,0.5
+read,2.2147281730888695
+area,2.675167256985439
+villagers,1.6111111111111112
+village,1.8429856945085372
+year,2.8349484769759212
+alia,0.9479866480753792
+as panchayatdar for the recovery,0.0
+judgment,3.288216560509554
+punishable under section,3.081081081081081
+father,1.4298716229162676
+baiju,0.5
+stock recovery witness for the police,0.5
+guilt,1.1140207075064712
+date of the incident,0.8571428571428571
+for disposal of the appeal,0.5
+dammakheri,0.5
+circumstantial evidence,1.9000000000000001
+injury,1.7199352451433856
+school-days,0.0
+rajendra,1.6428571428571428
+act,12.870263922028107
+laduna,0.5
+inability,0.7162534435261708
+serious error in the background,0.5
+instance of a-,0.0
+babu,1.1979166666666667
+explanation,1.4510159010600707
+foundation of the prosecution case,0.5
+wrist watch,3.111111111111111
+serious infirmity in the recovery,0.5
+earlier case,1.1428571428571428
+other shops,0.5
+only evidence,0.4
+various witness,0.75
+sentence under sections,0.5
+accused persons,7.048780487804878
+which part,0.44563279857397503
+dinesh,3.230769230769231
+sealed article in the absence,0.0
+rajendra singh jhala,0.5
+allege,1.355963628974906
+manner,1.4494591333432125
+original panchayatdars,0.5
+parties,1.8210828547990157
+ri for a period,0.5
+wrist,1.317117117117117
+section,9.287987283173626
+permissible under section,0.8
+makhija,0.6666666666666666
+laduna lake,0.5
+of the offence,2.760869565217391
+rachna,1.0
+incident,1.8609485257918057
+madhya,2.9183673469387754
+shop,1.5065156686317096
+kms,0.7913793103448276
+ayurved ratna,0.5
+younger brother,0.7727272727272727
+nilkanth,0.5
+place,2.333104345208554
+circumstance,1.429931390219372
+pw- states,0.0
+substantial part,0.6000000000000001
+present case,1.5611814345991561
+appellant herein,2.046153846153846
+investigation,1.6673076923076922
+regard,2.723310344827586
+lot of doubt,0.2857142857142857
+singh jhala,0.5
+many earlier cases,0.5
+panchayatdar for the recovery,0.5
+substantial part of the prosecution case,0.5
+high court of madhya pradesh,1.1875
+many independent witness,0.6666666666666666
+genuineness,0.8142857142857144
+sho,3.354516605502135
+money,1.6567889044524557
+signatures of pws,0.5
+story,0.755772533184814
+- meters,0.0
+facts,1.4696673624372698
+such doubtful recovery,0.0
+present at the recovery unless people,0.5
+part thereof under some red stones,0.5
+keeping,0.7917143948071784
+genuineness of the recoveries,0.5
+facts of this case,1.1923076923076923
+days,1.6721350893491447
+alleged recovery,0.75
+prosecution through various witnesses,0.5
+msc,0.5323804288070368
+baiju alias bharosa v state,0.5
+session,2.2400874351067563
+judgment of this court,2.1029411764705883
+judgment of the high court,1.721311475409836
+conviction,2.248165832071736
+force in this argument,0.5
+mani kumar thapa v state of sikkim manuscmanusc,0.5
+suspicion,0.690982776089159
+reality,0.6251091491219559
+pan,3.813853292090146
+former teacher,0.5
+sikkim manuscmanusc,0.6666666666666666
+prosecution in regard,0.75
+specific stand,0.2142857142857143
+baiju alias bharosa v state of madhya,0.5
+course,1.6545957498716626
+witnes to the recoveries,0.0
+same day,0.8830188679245283
+tehsildar,2.4
+support of this proposition,0.8
+charge,2.7679815308681284
+company,5.864471879286695
+above evidence,0.5
+sufficient force in this argument,0.5
+doubtful,0.8571428571428571
+pradesh,4.365853658536586
+red stones,0.3333333333333333
+crime,1.6636528028933093
+recovery of the wrist watch,1.5
+officer,3.1197242647058823
+thousands,0.42748091603053434
+jain,1.673202614379085
+charges,2.061307113938693
+doubtful recovery,0.0
+key-bunch inside the pocket of the pant,0.0
+other case,0.6654088050314465
+assistance to the prosecution case,0.5
+pw- dinesh shukla,0.0
+transaction,5.884921444603142
+bank account,1.875
+police station in question,0.5
+stock recovery witnes,0.5
+babudas,0.5
+loan,2.299059561128527
+good friends,0.25
+shukla,1.0
+article,4.378806157159795
+prosecution s act,0.0
+wall of the temple,0.5
+motive for the murder,0.6666666666666666
+babuda,0.5
+person by name gowardhan,0.5
+behalf of the appellant,1.4878048780487805
+sealed article,0.5
+dinesh shukla,1.0
+genuinenes of the recoveries,0.0
+chest,0.7395639311931632
+post,2.344803646492219
+case of the prosecution,2.3043478260869565
+circumstance against the appellant,0.6666666666666666
+doctor,1.4782608695652173
+opinion,1.4960606342789635
+place for recovery,1.0
+sister of a-,0.0
+watch in question,1.0
+denomination,2.776098901098901
+sealed articles in the absence,0.5
+rupee notes,0.5
+key,0.5648701829704589
+merit,1.2419290263876248
+a- by the high court,0.0
+punishable,1.237037037037037
+pw- state,0.0
+various place,0.3466666666666666
+recovery,3.9892473118279574
+witness,5.333906623599983
+above evidence that the trial court,0.5
+body in the lake,0.5
+signatures,0.9850746268656717
+record,2.5393414390845273
+material,1.4148767018946966
+false alibi,1.5
+polouse,0.0
+receipt of rs,0.5
+witness for recovery,1.0
+turn,1.6310093128618173
+ratna,0.6678571428571428
+friend,0.7079130846815137
+link,0.6814600840336135
+support,0.8630946786249609
+wall,0.8333770549143058
+mere fact,0.6
+factum,1.125
+such doubtful recoveries,0.5
+wrist-watch,0.0
+large number,1.0979284369114877
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+large number of cases,0.875
+mani,0.9311182500912955
+charge under section,3.8181818181818183
+evidence on record,2.7906976744186047
+classmate,0.1857142857142857
+station,1.2515681586858238
+reasoning,0.6478937381404174
+material on record,1.40625
+hegde,1.1333333333333333
+object,1.4940119760479043
+kumar,2.028839704896043
+thereto,1.0358342665173572
+admittedly stock witness,0.5
+presumption,1.06
+- bunch inside the pocket of the pant,0.0
+stand,1.8422769621739425
+accused justifies,0.5
+sitamau,0.5
+witnes,5.333906623599983
+court during the trial,0.6666666666666666
+recovery unless people,0.5
+work,2.8478559811646353
+polouse in the presence,0.0
+name gowardhan,0.5
+n santosh hegde,0.8888888888888888
+doubt,1.3646267723102583
+santosh,1.3333333333333333
+brief facts,1.0
+genuinenes,0.8142857142857144
+corner,0.7011583011583012
+vibha datta makhija,0.6666666666666666
+years,2.5395804110508022
+wrist watch in question,0.5
+report,1.7768151696835826
+jabalpur,2.357142857142857
+fact of this case,0.0
+days after the date,0.5
+party,2.2250894654439723
+newspaper,1.4133350781914544
+villager,1.1733333333333333
+independent witnesses,0.9090909090909091
+proposition,0.6371087928464977
+shop of pw-,0.0
+part thereof,1.6333333333333333
+indore,1.6
+damp area,0.5
+suspicion in regard,0.5
+learned counsel for the respondent - state,0.0
+stock recovery witnes for the police,0.0
+date,6.195616975795285
+recovery unless person,0.0
+village chowkidar,0.6666666666666666
+foundation,0.770509435807177
+sister,1.0774703557312253
+admittedly stock witness like pw-,0.0
+offence,4.401610644257703
+presence,0.9604834261070158
+prosecution through the evidence,1.0
+bank,9.40770083102493
+respondent in regard,0.5
+unexplained possession,0.5
+respondent,4.757894736842104
+disposal of the appeal,1.25
+day,1.550999710228919
+thousand,0.625287081339713
+mandsaur,1.5
+question,2.980312372067635
+which pws,0.6666666666666666
+serious doubt,0.5
+appeal of a-,0.0
+police station,1.40045766590389
+pan shop,1.0
+tehsil,2.0
+friends,0.44078947368421045
+argument that the recoveries,0.5
+scmanu,7.940520446096654
+recoveries,2.0
+amount,3.179688593072295
+practice,1.7660110149488593
+statement,2.5393160135035964
+doubt that this appellant,0.5
+case of circumstantial evidence,1.0
+accused person,4.565217391304348
+notes,0.6013642564802183
+name,1.8996570753072433
+high,5.367119186841496
+various places,0.3466666666666666
+lake,0.6155717761557178
+brother,1.4566585956416465
+account,2.5754891049671977
+serious error,0.6172839506172839
+necessary for disposal of the appeal,0.5
+conversation,0.8755391250770179
+gupta,0.7610062893081762
+custody,1.4166666666666667
+sole circumstance against the appellant,0.5
+force,1.6009408121948314
+brief fact,1.0
+witnes for recovery,0.0
+lone of rs,0.5
+link in the chain,0.4
+property,2.9368986630013745
+which part of the prosecution evidence,0.5
+states,1.5120646995827023
+objects,0.7297830374753452
+purpose,2.519170317925504
+balance,0.9863636363636363
+law,3.538923411654744
+trial court,3.854545454545455
+stock recovery witness,0.5
+change,1.2214862766571903
+plea of alibi,1.0
+time,2.4764180952862667
+cases,1.9728229418951067
+further ri for a period,0.5
+same watch,0.5
+serious doubt about the recovery,0.5
+fort,0.9094787781234361
+sum of rs,2.125
+post mortem,1.4
+counsel for the respondent-state,0.0
+murder,1.4968553459119496
+support of this contention,1.125
+alleged recoveries,0.5
+gathering,0.6346153846153846
+prosecution through various witness,0.5
+argument that the recovery,0.0
+court of madhya pradesh,1.1875
+prosecution,4.619407894736842
+other shop,0.25
+pw- as a panchayatdar for the recovery,0.0
+offences,1.6681887366818873
+panchayatdar,3.0
+imprisonment,1.4344262295081966
+damp area under a rock,0.5
+absence,1.092363454568179
+ipc,2.785166240409207
+counsel,2.2246780703440323
+infirmity in the recovery,0.5
+bank manager,0.75
+stock witness,1.3333333333333333
+earth,1.8779670889762632
+witnesses,3.359210526315789
+temple,3.095996786718436
+pradesh manuscmanusc,1.5714285714285714
+false alibi in a case,0.5
+pocket of the pant,0.5
+chowkidar,1.4
+knife,0.6624203821656051
+prosecution evidence,1.2
+panchayatdars,2.5
+rupee,2.2291666666666665
+disposal,1.1180555555555556
+evidence,3.6676405172088815
+reasonable person,0.47058823529411764
+opinion that the prosecution,0.75
+meters,0.9235886065154357
+packaging,0.29710144927536225
+story of recovery,0.5
+eye of law,1.0
+case,7.332269420884958
+period,1.9480170842427122
+error,1.059158294766151
+prudent person,1.2
+above charge,0.5
+regard a-,0.0
+clothes,0.43778538812785384
+classmates,0.2692307692307692
+clothe,0.44423076923076926
+lowed,1.6606181284859385
+pm on that day,0.6666666666666666
+singh,3.7791111111111113
+injuries,2.4130008710801394
+doubt about the recovery,0.5
+statements,1.110873440285205
+own evidence,0.5
+sentence of imprisonment,1.6923076923076923
+prosecution case,4.258064516129032
+contention,1.666391070690368
+factum of opening,0.5
+frantic search,0.5
+explanation in regard,0.5
+contradiction,0.609271523178808
+seizure,0.6583598956824108
+sealed articles,0.5
+sufficient force,0.6666666666666666
+learned sessions judge,2.5
+supra,2.246342614440774
+bench,2.5793391667754992
+properties,1.7286779414438989
+office,3.5913445886237847
+part of the prosecution case,1.5
+appeal of gowardhan,0.5
+sole circumstance,1.0
+bench at indore,0.5
+thapa,0.9523809523809524
+body,1.336775463480009
+years under section,0.8333333333333334
+behest,0.6666666666666666
+stock witnes,1.3333333333333333
+suspicion in the alleged recoveries,0.5
+large gathering,0.4444444444444444
+red stone,0.3333333333333333
+police,2.9749362629783356
+sentence,2.3896654193264366
+panchayatdars for recovery,0.5
+further ri,0.8
+school-day,0.0
+such recovery,0.5
+jhala,0.5
+vibha,1.4
+evidence act,3.8666666666666667
+monetary transaction,0.5
+lal,1.6786163249382287
+- meter,0.0
+under section,5.374517374517374
+effort,0.7536036036036036
+reason,2.6381270903010035
+alibi,0.7615384615384616
+life,1.3352928273744242
+resealing,0.6666666666666666
+one,4.845669314438648
+stones,1.0303030303030303
+evidence in the court,0.6666666666666666
+which date,0.7407407407407408
+independent witness,1.2121212121212122
+pant,0.9369488536155202
+year under section,0.6666666666666666
+pond near the lake,0.5
+envelope,0.30624999999999997
+meter,1.3483165377704869
+presumption under section,1.2222222222222223
+reasonable doubt,0.8638838475499093
+allege recovery,0.5
+sole link,0.5
+datta,0.5625
+thousands of people,0.3466666666666666
+opening of the packet,1.0
+plea,1.4430487701432178
+value,1.7137907830478438
+naib tehsildar,2.6666666666666665
+places,0.8371884824384251
+in the eye of law,1.0
+receipt,1.5471923536439667
+recovery of knife,1.0
+regard to this monetary transaction,0.5
+packet,0.8112798264642083
+reasonable doubt that this appellant,0.5
+great suspicion in the alleged recoveries,0.5
+good friend,0.25
+doubtful recoveries,0.5
+judge,2.9012627415183325
+opening,0.7180555555555556
+abhai kumar in a lake,0.5
+fried nilkanth pw-,0.0
+instance case,0.75
+police station sitamau,0.5
+admittedly stock witnes,0.5
+ayurved,0.3333333333333333
+pws,1.5484615384615386
+rock,0.40214127170648917
+factum of recovery,0.5
+argument,0.9504580388560493
+behalf of the prosecution,0.75
+various witnesses,0.75
+madhya pradesh,2.9583333333333335
+earlier cases,0.8
+number of cases,0.5
+chain,0.6855611957134798
+background,0.6800452488687784
+many other shop,0.5
+as panchayatdars for the recovery,0.5
+school,1.2666111192798444
+currency,0.9166666666666669
+assistance,0.8623872906826965
+which distance,0.4444444444444444
+unexplained possession of properties,0.5
+alibi in a case,0.5
+safe custody,1.0
+possession,2.808810857389056
+counsel fort,0.5
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+week,0.8253498691546249
+prudent man,0.5
+pocket,0.5186074429771909
+available as panchayatdars for the recovery,0.5
+parties for resealing,0.5
+manager,1.7133044010756409
+rupee note,0.5
+accused justify,0.0
+currency notes,2.0
+evidence of pw-,0.0
+high court,7.7477477477477485
+at the recovery unless people,0.5
+lone,0.7239149114047514
+learned counsel for the appellant,1.7884615384615385
+for the murder,0.5714285714285714
+state,6.817996007300392
+note,1.3654108484234107
+party for resealing,0.0
+abhai kumar,2.0
+trial,3.7979448350459712
+pw-,0.0
+serious infirmity,0.75
+naib tehsildar in the tehsil office,0.5
+manu,7.078142071124147
+infirmity,1.3095238095238095
+rate,3.088725136774248
+guilty of the offence,1.3571428571428572
+pond,4.523117799047727
+pursuant thereto,1.0769230769230769
+possession of properties,0.5
+dead body,1.192156862745098
+available as panchayatdar for the recovery,0.0
+father babu lal jain,0.5
+facto,1.3296269284712483
+man,6.972395052694935
+bad in the eye of law,0.6666666666666666
+mind since no prudent man,0.5
+police in the presence,0.5
+mani kumar thapa v state,0.5
+vain,0.358695652173913
+reason whatsoever,0.44871794871794873
+naib,2.6666666666666665
+watch in the newspaper,0.5
+signature of pws,0.0
+sum,2.554898897856461
+currency note,2.0
+alias,0.7720588235294116
+error in the background,0.5
+stock,1.0778270324523251
+thousand of people,0.0
+earth in a corner,0.5
+gowardhan,1.5
+a- while the balance,0.0
+court in regard,1.4285714285714286
+mortem,1.402116402116402
+persons,2.5993381990166555
+investigating officer,3.2580645161290325
+stone,0.7736063708759955
+abhai,0.8666666666666667

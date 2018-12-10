@@ -1,0 +1,760 @@
+committee,2.546237803603864
+forfeiture,0.8593750000000001
+government,3.5583785424010483
+sentiment,0.5557228915662651
+action under the army act,0.5
+director,1.3549769585253457
+concerned government officials,0.5
+code,2.880559796437659
+due verification of antecedents,0.5
+advocate practicing before this court,0.5
+names of army personnel,0.5
+detail of any orders,0.0
+further status report,0.6666666666666666
+stated arms license scandal,0.5
+major,1.2322145202480845
+constitution of india,3.0095238095238095
+antecedent of the applicant,0.0
+people,1.2855544825097243
+appropriate action against the concerned army personnel,0.5
+sections,1.640495469442838
+service pattern,0.5
+terms,2.390350840909655
+matters,1.4810665618448637
+relevant record,1.1111111111111112
+strict guidelines,0.5
+instance,0.9469803370786518
+criminal  disciplinary proceedings,0.0
+jco,0.23310023310023306
+bringing,0.6589371980676328
+detail of criminal cases,0.0
+firm procedure,0.5
+arm,0.9325525916287142
+respective authority,0.0
+progress,1.075925925925926
+interest,2.74353772015385
+allotment committee,0.5
+court,12.24425115501509
+lower ranks,0.5
+guideline in the matter,0.0
+that report,0.39
+armed license by the concerned officialsdistrict magistrate,0.0
+eye,0.9466574319441098
+arms license,1.0
+union,2.0981927710843373
+counsel for the concerned respondent,0.5
+illegal sale,0.6666666666666666
+person,4.291511329454258
+newspaper report,0.5384615384615384
+allegations,1.8333333333333335
+way,1.7812722068664852
+spite of the gravity,0.5
+behalf,1.9888053603529987
+local limits of the district magistrate,0.5
+status of disciplinary proceedings,0.5
+formation,1.1075979991753988
+affidavit of director,0.5
+first blush,0.8571428571428571
+nothing,0.8658723322806009
+lenient approach,0.5
+dealer,2.712825585229146
+time in the present proceedings,0.5
+total eye wash  at the same time,0.0
+such prohibited weapon,0.5
+status of action,0.5
+district,1.5506763074237984
+particular sriganganagar district,0.5
+competent authority,2.7142857142857144
+probe,0.2508532423208191
+nsp,2.819942615487828
+dealers,1.3270142180094788
+comprehensive affidavit,0.5
+chart,1.0666850372003307
+advocate practicing,0.5
+instructions,1.8111673678956002
+collector,1.8095238095238093
+appropriate authorities  court,0.0
+numerous army personnel,0.5
+newspaper reports,0.6000000000000001
+weapon,1.0217176079034398
+breach,1.3366228070175439
+sheet,1.1667364016736401
+read with -b indian penal code,0.0
+months time,0.5714285714285714
+writ petition under article,1.2
+person with criminal records,0.0
+ias officer,3.1666666666666665
+read,2.2147281730888695
+reprimand  reprimand,0.0
+enquiry report,1.8
+south western command,0.5
+year service,0.3333333333333333
+further directions,0.9090909090909091
+relevant facts,0.7692307692307692
+for the ministry of defence,0.5
+month,1.3454861111111112
+year,2.8349484769759212
+additional affidavit,1.3333333333333333
+supervision of the competent authority,0.5
+various criminal case,0.5
+further probe,0.6666666666666666
+seriousness of the allegations,0.5
+status reports,0.3846153846153846
+administrative action,1.25
+time to time,1.0211267605633803
+relevant information about the action,0.5
+pages,0.4777568922305764
+sharma,0.9516994633273703
+services,1.6850241065659326
+order,5.472481489660944
+addres,0.7140043587773987
+act,12.870263922028107
+unraveling,0.5
+various arms dealer,0.5
+criminal record,0.23809523809523808
+scandal,0.8800000000000001
+anti-social elements,0.0
+home ministry,1.3333333333333333
+defence services regulations without any exception,0.5
+state government,3.027142857142857
+relevant fact,0.9393939393939393
+command,0.6880551024107304
+appreciation for the initiative,0.5
+home affair,1.1428571428571428
+manner,1.4494591333432125
+member,2.649111111111111
+ammunition,0.33439490445859876
+officers in the state,1.0
+sriganganagar in a sealed cover,0.5
+section,9.287987283173626
+further direction to the state,0.0
+major op,0.26666666666666666
+government against officer,0.5
+lower rank to the higher ranks,0.0
+criminal cases,0.9904761904761905
+thereunder,1.2794117647058825
+fir,2.85390975582079
+deposited weapons,0.5
+pattern,0.6151546391752578
+armed licenses,0.5
+licensing authority for non,0.5
+bringing to the fore,0.5
+nsp weapons,0.5
+place,2.333104345208554
+appropriate action,0.5625
+independent enquiries,0.5
+civil,2.126558634963905
+officers,2.442124212421242
+circumstance,1.429931390219372
+army personnel,5.333333333333333
+department in that behalf,0.5
+regulation,4.3783195107648485
+suspected licences,0.5
+investigation,1.6673076923076922
+enquiry report of the collector,0.5
+regard,2.723310344827586
+context,0.9269383697813122
+officers  army personnel,0.0
+promotion,2.946428571428571
+appropriate authority of the state government,0.5
+stated arms license scandal in the district,0.5
+agency,1.8968779259354924
+extant regulation,0.6666666666666666
+regard to action,0.5
+direction,1.8495050210098996
+sriganganagar,3.0
+arms dealers,0.3333333333333333
+western,0.9170906914097575
+concerned officer,1.8571428571428572
+seriousnes of the allegations,0.0
+accordance with law,1.0046948356807512
+prohibited weapon,0.75
+antecedents,1.7777777777777777
+union of india,3.1324503311258276
+regards,0.9072861236185019
+facts,1.4696673624372698
+officer in the state,0.0
+eye wash,0.5
+action against the concerned officers,0.5
+issue,2.766776251628934
+concerned authority of the state,0.5
+respective cases,0.75
+erring person,0.6666666666666666
+enquiries,0.5986394557823128
+july,0.9742727723122656
+state of rajasthan,1.9090909090909092
+irregularity,2.0
+basi,2.0752712086391383
+form,2.4865961263718424
+grant arms license,0.5
+single weapon,0.5
+specific grievance,0.5
+fine,1.3204039558531748
+home,0.9826663267907214
+signal regiment,0.5
+verification through the home ministry,0.5
+comprehensive status report,0.5
+various cases,0.75
+report of the additional district collector,0.5
+records,0.9879294336118848
+officer - in - command,0.0
+cost,1.2954397451466992
+suspected licence,0.5
+petitioner,4.524972253052164
+other punishment,0.5
+orders,1.4936359300077826
+punishment of severe reprimandreprimand,0.5
+appendix-a mention,0.0
+basis,1.953226441078104
+court vide order,0.8333333333333334
+ias,0.95302321313882
+arms licenses without due verification,0.5
+member of the rajasthan,0.0
+directions,1.5134125183504605
+appropriate authority,1.222222222222222
+ras,1.858691033705582
+respective authorities from time,0.5
+summary of disciplinary action,0.5
+terrorists,0.9428571428571431
+magistrate,3.522077922077922
+status of criminal proceedings  disciplinary proceedings,0.0
+charge,2.7679815308681284
+government of rajasthan,0.6666666666666666
+sale of a single weapon,0.5
+authority of the state government,0.5
+country,1.2903191103863751
+latest position,0.5
+strict guideline,0.5
+furtherance,1.758139534883721
+addressee  applicant,0.0
+punishment to the concerned army personnel,0.5
+officer,3.1197242647058823
+additional affidavit of director,0.5
+ground,1.4186722903211633
+defence services regulation,0.5
+border,0.40498938428874737
+fore,7.06241367403315
+limit of the district magistrate,0.0
+action against the concerned army personnel,0.5
+cbi,3.9568421052631577
+guidelines in the matter,0.5
+latest status,1.0
+report of the officer in-charge,0.0
+excess,0.9860601614086574
+relevant rule,1.1875
+further direction,1.2380952380952381
+ministry of home affairs,1.1428571428571428
+adjutant,0.30000000000000004
+matter,2.8088923076923082
+at the first blush on a deeper scrutiny,0.5
+various criminaldisciplinary proceeding,0.5
+article,4.378806157159795
+scrutiny,0.912987012987013
+status report about the charge sheet,0.5
+south,0.8254159150130287
+ordinance,1.176
+irregularities,1.2263736263736265
+government against officers,0.5
+affidavit that the scrutiny,0.5
+term,3.6255105640901575
+registration of fir,0.5
+applications,1.0021816198527407
+sanction against the concerned government officials,0.5
+follow,2.3424056287548947
+lower rank,0.6666666666666666
+penal,1.8829173709853835
+spite,0.8919640378414163
+sanction against the concerned government official,0.5
+prescribed norm,0.75
+view,2.441100058469462
+involvement,1.020685900925422
+reports,1.0202012199952466
+armed licenses by the concerned officialsdistrict magistrate,0.5
+vide,4.454025282767798
+- social elements,0.0
+majority,1.3427634276342764
+license by the concerned officials  district magistrate,0.0
+verification,0.9934640522875817
+cancel,1.914116652578191
+doubt that the appropriate authority  court,0.0
+-b indian penal code,0.0
+government officials,0.38235294117647056
+ministry of defence,1.1111111111111112
+identification,2.0914158305462656
+case prosecution sanction,0.5
+local limits,1.4444444444444444
+disciplinary proceedings,1.5
+above observations,1.0714285714285714
+licences,0.95
+officials,1.3691666666666666
+licenses by the concerned officials  district magistrate,0.0
+context of punishment,0.5
+record,2.5393414390845273
+procedure,2.552771605064117
+anti-social element,0.0
+material,1.4148767018946966
+information,1.1320502836800534
+petition with observation,0.5
+original addressee  applicant,0.0
+defence,1.3606588776096535
+polouse,0.0
+twelve officer,0.5
+state authorities,1.5714285714285714
+awarded same punishment,0.5
+secretary,0.9217877094972067
+guideline,1.5641711229946524
+provision,5.439002243350069
+gravity,0.3746556473829201
+effective order,0.75
+directions to the state,1.0
+respect,2.6704963235294117
+record kept,0.5
+first,1.9006367208168047
+chief secretary of the state,1.0
+fact,3.6284951019474962
+border state,0.6666666666666666
+registration,2.231365215068127
+respective authority from time,0.0
+department,1.9858367499068206
+seriousness,0.5777777777777777
+chief,1.9429638234317954
+station,1.2515681586858238
+appendix-a mentions,0.0
+special,1.7363344051446945
+central government against officers,0.5
+majority of cases,0.4571428571428572
+affidavit of additional superintendent,0.5
+respondent in particular state authorities,0.0
+proceedings  disciplinary proceedings,0.0
+weapons,1.1105810008481765
+same time,0.6913511801045461
+that behalf,1.3548387096774193
+norms,1.1693121693121695
+such prohibited weapons,0.5
+direction against the union,0.5
+details of any orders,0.5
+proposal,1.8145800316957208
+doubt,1.3646267723102583
+most case,0.48484848484848486
+affidavit,2.2996987951807224
+bureau,0.5022321428571429
+report,1.7768151696835826
+concerned officers,1.2
+concerned government official,0.5
+punjab,1.0438169425511197
+jabalpur,2.357142857142857
+rank to the higher ranks,0.0
+disciplinary action,0.9750000000000001
+particular person,0.6349206349206349
+authorized officer,0.8
+newspaper,1.4133350781914544
+concerned authority,1.0
+arms,1.2384993436918101
+delhi,2.6089285714285717
+basis of report,0.5
+authority of the states,0.5
+details,0.9406426856198188
+further directions to the state,0.5
+government officer,0.3333333333333333
+name of army personnel,0.0
+independent enquiry,0.5
+further status reports,0.5
+enquiry,2.145762711864407
+grievance,1.032529659395331
+criminal proceedings,2.6818181818181817
+lower ranks to the higher ranks,0.5
+case of retired officers,0.0
+present proceedings,1.1666666666666667
+progres,1.075925925925926
+deeper scrutiny,1.0
+latest status report about the charge sheet,0.5
+appropriate authority  court,0.0
+further hearing,0.6666666666666666
+suitable action,1.5
+reprimand,0.5263157894736842
+officials  district magistrate,0.0
+newspaper report in the state,0.0
+retired officers,1.2
+direction to the state,0.8333333333333334
+above observation,0.6530612244897959
+eye wash  at the same time,0.0
+misconduct  criminal offence,0.0
+police station about the antecedents,0.5
+sensitive issue,0.3333333333333333
+concerned respondent,0.8
+administration,1.061072796934866
+depot,1.0119047619047619
+offence,4.401610644257703
+hearing,0.9644508209787979
+respective authorities,0.5
+respondent,4.757894736842104
+insufficient measure,0.5
+elements,0.676937441643324
+accordance,1.4069045211613462
+arms licenses,1.0
+due verification through the home ministry,0.5
+verification  identification in violation,0.0
+sale,3.3662581620085734
+sealed cover,1.6666666666666667
+breach of relevant rules,0.5
+arms dealer,0.2777777777777778
+present proceeding,1.125
+other cases forfeiture,0.5
+regiment,0.25862068965517243
+direction to the home ministry,0.5
+agency like cbi,0.6666666666666666
+police station,1.40045766590389
+sale of such prohibited weapons,0.5
+approach,1.001908852302553
+displeasure,0.5185185185185185
+army officials,0.30000000000000004
+writ,2.8882378560889794
+need,1.1097650269586634
+months,1.1938163721148947
+february,0.8575630252100839
+army official,0.30000000000000004
+august,0.977116704805492
+severe displeasure,1.0
+way of disciplinary action,0.5
+recordable,1.3333333333333333
+progress about the criminal cases,0.5
+appendix,0.8502415458937198
+various arms dealers,0.5
+name,1.8996570753072433
+rajasthan,3.9215686274509802
+cases of retired officers,0.5
+appendix-c to the affidavit,0.0
+members,1.9437616522164103
+needs,0.6897483569699066
+account,2.5754891049671977
+prohibited weapons,0.75
+case of action,0.5
+logical end,0.7142857142857143
+ordinance depot,0.5
+such report,1.0
+court from time,0.8333333333333334
+inertia,0.375
+states,1.5120646995827023
+prayer,0.6969296987087519
+purpose,2.519170317925504
+law,3.538923411654744
+action against any particular person,0.5
+observation,0.7625074854374218
+verification of antecedents,0.5
+time,2.4764180952862667
+cases,1.9728229418951067
+central government,3.0380952380952384
+ranks to the higher ranks,0.5
+allegation,1.834319526627219
+cases by the central bureau,0.5
+issuance,1.05379513633014
+details about the action,0.5
+provision of the arms act,0.0
+persons with criminal records,0.5
+relevant rules,1.1428571428571428
+latest status of criminal proceedingsdisciplinary proceedings,0.5
+nearest police station,0.5
+officers of the state,0.5000000000000001
+cases forfeiture,0.5
+retired officer,1.6
+civil administration,0.6666666666666666
+particular state authorities,0.5
+first information reportscases,0.5
+petition with costs,0.5
+authorization,0.8252525252525252
+khanwilkar,0.6666666666666666
+additional district collector,0.5
+administrative service,5.777777777777778
+extant regulations,0.6666666666666666
+whereas,0.7770612954644255
+non,1.3417336444559675
+affairs,0.8608695652173913
+limit,2.3804570428443834
+assurance,0.9418901660280969
+sriganganagar district,0.5
+authority  court,0.0
+general officer-in-command,0.0
+ias officer in the state,0.0
+authority from time,0.0
+original record kept,0.5
+prosecution,4.619407894736842
+public interest petition,0.5
+status of those proceedings,0.5
+march,1.0644238856181665
+army personnel through central ordinance depot,0.5
+shape,0.4645522388059702
+licensing authority,3.6
+offences,1.6681887366818873
+exception,1.1036946087733006
+counsel,2.2246780703440323
+which necessary action,0.5
+application,2.3322596088086445
+limits,0.8405888207868406
+exces,0.9881465517241379
+information reports  case,0.0
+progress of those cases,0.5
+antecedents of the applicant,1.6666666666666667
+respective case,0.75
+april,0.8928235149629509
+india,2.7684068260703585
+ias officers in the state,0.5
+twenty,0.7332834704562453
+various cases by the central bureau,0.5
+authorities,1.266131845134287
+right earnest,0.75
+administrative services,0.3333333333333333
+rules,3.130914366958792
+summary,0.8025241675617614
+authority of the state,1.3333333333333333
+illegality,0.8076923076923077
+mechanism,0.7337579617834395
+accord with the provisions,0.5
+names,1.766440410418311
+provisions of the arms act,2.3333333333333335
+new,0.9418497626301229
+army act,0.75
+particular army personnel,0.5
+bore,0.8008163265306122
+connivance,0.9523809523809524
+conspiracy,8.939203354297694
+criminal proceedingsdisciplinary proceedings,0.5
+submission,1.0913871684001404
+various criminaldisciplinary proceedings,0.5
+central government against officer,0.5
+record in the form,0.6666666666666666
+detail about the action,0.0
+non service pattern,0.5
+detail,0.9737454684220567
+licenses,0.8542857142857143
+weapon in violation,0.5
+case,7.332269420884958
+status report,1.1358024691358024
+chart appendix-d,0.0
+information about the action,0.5
+state authority,1.0
+affair,0.8341728395061728
+chief secretary,1.6923076923076923
+constitution,3.204842342342342
+officer of the state,0.6666666666666666
+criminal  disciplinary proceeding,0.0
+punishment,1.6266937669376693
+collector in the preliminary enquiry report,0.5
+deposited weapon,0.5
+instruction,1.8197943962910703
+central ordinance depot,0.5
+service,4.257395095954566
+element,0.7062328407033122
+preliminary enquiry report,0.5
+end,6.1484001628618765
+signal,0.32046178343949044
+contention,1.666391070690368
+year service for the purpose,0.5
+address,0.7129538279400157
+rule,5.04
+various criminal cases,0.5
+advocate,1.0791341991341994
+criminal proceedingsdisciplinary proceeding,0.5
+proceedings,1.7670925223666287
+weapons in the shape,0.5
+jammu,4.705882352941177
+mechanism for sale,0.5
+violation,1.2087401208740118
+government official,0.38114754098360654
+western command,0.5
+nsp weapon,1.0
+criminal records,0.23333333333333334
+general submission,0.5
+competent,1.3701267639320736
+respondents,2.6341263330598856
+licensing authority in respect,0.5
+home affairs,1.1428571428571428
+superintendent,1.2698412698412698
+interest issue,0.5
+summary of administrative action,0.5
+applicant,0.7861822513400833
+costs,0.8167395522604189
+subsequent affidavit,0.5
+interest petition,0.5
+inertia in the progress,0.5
+instance of registration,0.5
+action  punishment,0.0
+notice,2.3300025999395686
+strict scrutiny,0.6666666666666666
+action against the concerned officer,0.5
+status,1.14824388424026
+members of the rajasthan,0.6666666666666666
+progres about the criminal cases,0.0
+illegal selling,0.5
+army order,0.5
+police,2.9749362629783356
+specific information,0.35294117647058826
+information about the progress,0.5
+further prayed,0.5
+charge sheet,2.0526315789473686
+public interest issue,0.5
+verification  identification,0.0
+jabalpur on the basis,0.5
+prohibitednsp bore-weapon,0.0
+details of criminal cases,0.5
+affidavit of the chief secretary,0.6666666666666666
+criminal action,0.5714285714285714
+seriousnes,0.5777777777777777
+progres of those cases,0.0
+armed license,0.5
+authorities  court,0.0
+personnel,0.9491259524876736
+unraveling of the irregularities,0.5
+higher ranks,0.5
+special army order,0.5
+position,1.549133168619177
+cod,2.9952292991861333
+writ petition,6.24223602484472
+petition,5.3436539306104525
+additional superintendent,0.6666666666666666
+further prayed that the ministry,0.5
+active connivance between various arms dealers,0.5
+guidelines,1.540251572327044
+response,0.7112676056338028
+army,1.2797619047619049
+haryana,2.935064935064935
+government of india,4.94
+concerned officials  district magistrate,0.0
+total eye wash,0.5
+attractive at the first blush on a deeper scrutiny,0.5
+criminal background,0.6666666666666666
+prohibitednsp bore-weapons,0.0
+necessary action,1.0
+due verification,2.0
+plea,1.4430487701432178
+erring persons,0.6666666666666666
+view of the magnitude,0.5
+air,2.0589664272145285
+case by the central bureau,0.0
+twelve officers,0.5
+ammunition in excess,0.5
+status of the investigation,0.5
+latest status report,1.0
+term of this order,0.0
+antecedent,1.1666666666666667
+initiative,0.3346007604562738
+concerned army personnel,1.5
+prescribed norms,0.75
+misconduct,1.2976744186046512
+illegalities,0.875
+ias officers,1.8
+furtherance of this direction,0.5
+district collector,0.75
+- social element,0.0
+first blush on a deeper scrutiny,0.5
+ministry,1.6350210970464136
+authority,2.4352627108360636
+provisions,3.8929824561403508
+terms of this order,0.6666666666666666
+district magistrate,3.5
+licensing,1.5485564304461943
+ranks,0.6451612903225806
+particular state authority,0.0
+rajasthan in violation,0.5
+licence,3.10964429776311
+argument,0.9504580388560493
+affidavits,1.954022988505747
+misconduct  criminal offences,0.0
+enquiry report of the additional district collector,0.5
+new delhi,1.744186046511628
+supervision,2.825
+inadequacy,0.7777777777777778
+addressee,0.30000000000000004
+appropriate for the ministry of defence,0.5
+concerned department,0.75
+basi of report,0.0
+probe in this public interest petition,0.5
+page,1.011907905159212
+background,0.6800452488687784
+higher rank,0.6666666666666666
+terrorist,1.7795337192927558
+blush,0.2857142857142857
+various case by the central bureau,0.0
+appreciation,0.7282229965156793
+officer in - charge,0.0
+proposals,1.8872549019607843
+relevant information,0.5833333333333334
+respondents in particular state authorities,0.5
+norm,1.1955826794536473
+active connivance,0.6666666666666666
+disciplinary actionpunishment,0.5
+no doubt,0.8331331503088538
+independent agency,0.75
+allotment,4.111111111111112
+circumstances,1.3944461370073231
+wash,0.3773230088495575
+bore weapon,1.0
+district of jammu,0.5
+relevant information about the progress,0.5
+way of criminal proceedings,0.5
+latest statu,1.0
+border state of india,0.5
+air formation,0.5
+dispose,0.9912909836065574
+public,2.923239095873367
+wherea,0.8062806257067471
+sanction,2.0167207792207793
+state,6.817996007300392
+due verificationidentification in violation,0.5
+appropriate,1.442180528709907
+regulations,3.7157723577235777
+illegal sale of such prohibited weapons,0.5
+proceedings  disciplinary proceeding,0.0
+first information reportscase,0.5
+official,2.6854955160358718
+local limit,1.4444444444444444
+trial,3.7979448350459712
+periodical instructions,0.5
+time during the further hearing,0.5
+bore weapons,1.0
+connivance between various arms dealers,0.5
+general,1.7536558414534391
+concerned police station about the antecedents,0.5
+central,2.61875
+concerned police station,0.8
+report of the collector,0.5
+dissatisfaction,0.5185185185185186
+criminal case,1.4464285714285714
+information reports  cases,0.0
+defence services regulations,0.5
+accord,2.1409462447350256
+periodical instruction,0.5
+authorities from time,0.5
+rajasthan in spite,0.5
+cover,2.502726787041524
+independent agency like cbi,0.5
+selling,1.3588512150609935
+army authorities,0.5
+due verificationidentification,0.5
+license,2.9365546218487393
+matter in right earnest,0.5
+army authority,0.0
+weapon in the shape,0.0
+grant arms license for non,0.5
+measure,1.1941357983816498
+earnest,0.4038461538461538
+magnitude,0.4999999999999999
+further affidavit,1.0
+observations,0.7454584147497534
+criminal proceeding,2.9166666666666665
+administrative,1.85302734375
+action,3.127292663476874
+appendix-a mention about the action,0.0
+limits of the district magistrate,0.5
+newspaper reports in the state,0.5
+arms act,1.4545454545454544
+various case,0.8
+appendix-a mentions about the action,0.0
+central bureau,0.5384615384615384
+disciplinary proceeding,1.6428571428571428
+persons,2.5993381990166555
+rank,0.6723585912486659
+most cases,0.48484848484848486
+disciplinary action under the army act,0.5
+severe reprimandreprimand,0.5
+proper affidavit,0.5
+local limit of the district magistrate,0.0

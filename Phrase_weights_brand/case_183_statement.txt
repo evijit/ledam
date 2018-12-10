@@ -1,0 +1,1072 @@
+findings,1.049571253572887
+cci,1.184864593781344
+raid,0.6079447322970638
+wrongful act of detention repeats,0.5
+reiteration,1.1666666666666667
+director,1.3549769585253457
+order in the writ petition shri panigrahi,0.5
+department at patna,0.5
+evening,0.5274557657107993
+effect of illegal detention,0.5
+certain incriminatory article,0.5
+force in the stand,0.5
+power under article,1.28
+sources,0.8884345343723477
+expiry,2.2888888888888888
+validity,1.521010638297872
+das,1.508694082231246
+ancillary powers,1.0
+official of the cbi,0.0
+incriminatory article,0.5
+gadgil,1.6666666666666667
+read with section,2.3513513513513513
+house of shri ashok kumar,0.5
+indicator,0.7086466165413534
+bunch,0.4852374839537869
+human rights act,0.5454545454545454
+investments,1.7287581699346406
+central coalfield hospital at ranchi,0.5
+keys of lockers,0.5
+substance in the complaint,0.5
+court in paramjit kaur v state,0.5
+reasons,1.3749054007567938
+residence,0.7568831168831168
+considerable force,0.5
+sections,1.640495469442838
+terms,2.390350840909655
+shri ranjan pandey at patna,0.5
+interim order,2.9166666666666665
+following word,0.6763636363636363
+matters,1.4810665618448637
+inter,3.683850287482992
+act of detention repeats,0.5
+nothing incriminating,0.4444444444444444
+short answer to this view point,0.5
+protection of human rights,1.75
+learned member of nhrc,0.5
+notice officers,0.5
+nursing,2.2727272727272725
+interest,2.74353772015385
+court,12.24425115501509
+other remedies,0.4
+ranjan,0.5
+silence,0.44280442804428044
+relative in the aftermath,0.0
+action of the cbi,0.5
+aspects,1.0997620069447154
+contradiction in terms,0.28571428571428575
+rise,1.6238941915958565
+fetters,0.5
+possession of assets,0.75
+transfer petition,2.0
+periods of limitation,2.0
+close relations,0.3333333333333333
+show cause notices,1.2
+objection,1.68120480131216
+person,4.291511329454258
+sinha as review petition,0.5
+income tax act,1.8571428571428572
+probability,0.45294117647058824
+bail,2.0427807486631013
+enquiring,0.6000000000000001
+constitutional power under article,0.75
+entries,2.110809342748506
+holi,0.874209046168268
+factum of complainant,0.5
+cause,1.8431210321626654
+part,5.294464509893076
+rise to violation,0.5
+writ petitioner,4.482758620689655
+coal,0.78125
+advert,0.9668151969981237
+nothing,0.8658723322806009
+houses,1.0821764442454098
+contractor at patna,0.0
+officers  own showing,0.0
+bombay,2.3134020618556703
+complaint from mr  ak,0.0
+available to the commission,0.5
+interim orders,1.5238095238095237
+view point,0.39473684210526316
+basis of probabilities,0.5
+aspect,1.2449448189023034
+in the absence of new material,0.5
+inappropriate,0.5973451327433629
+shri,2.0759135877246115
+embargo against the commission,0.5
+disease,0.6741573033707865
+preparednes,0.40384615384615385
+section heading,0.5
+relevant comment,0.5
+occasions,0.7723557692307693
+illegal detention of the complainant shri ak,0.5
+decision,2.9514937765898557
+shri ak,1.6666666666666667
+bus from patna,0.5
+complaints with regard,0.6666666666666666
+articles,1.4349688743466387
+competent authority,2.7142857142857144
+cause of action till redressal,0.5
+- doers,0.0
+uncertainty,0.8402948402948404
+situations,0.7435282837967402
+entire issue in the interest,0.5
+test,2.5329834591340266
+jurisdictional limitation,0.5
+house,2.0021735292386764
+transfer,1.9975047057658015
+decision on merits,0.8333333333333334
+heading to the section,0.5
+searches,1.0588235294117647
+appeal,3.4125488033856883
+that the direction,1.0
+similar issues,0.4444444444444444
+search,1.156007562422583
+outskirt of ranchi,0.0
+certain situation,0.5
+question whether section,0.6666666666666666
+certain statutory fetter,0.5
+sheet,1.1667364016736401
+breach,1.3366228070175439
+learned member,2.0
+first day ie,0.5
+humanitarian considerations,0.3333333333333333
+writ petition under article,1.2
+harassment,1.5747368421052634
+income - tax officer,0.0
+vide uttam das,0.5
+read,2.2147281730888695
+denial,0.8338926174496643
+interpretation,1.518366298484459
+provisions of the act,2.6056338028169015
+cbi that this complaint,0.5
+expert,2.5786336542870245
+settled rule,0.8571428571428571
+month,1.3454861111111112
+learned single judge,3.4935064935064934
+complaint in regard,0.5
+year,2.8349484769759212
+confine of jurisdiction,0.0
+alia,0.9479866480753792
+search of the houses,0.0
+action till redressal,0.5
+early morning hour,0.5
+source of income,0.8333333333333334
+judgment,3.288216560509554
+concerned official of the cbi,0.0
+criminal law,0.7859649122807018
+father,1.4298716229162676
+anxious consideration,0.875
+subject,2.4420366233344897
+averments,1.76
+private nursing home,0.5
+uttam,0.5
+remedies,0.6206451612903225
+order,5.472481489660944
+creature,0.4845338524767467
+telecom,1.3831041257367385
+recovery of certain incriminatory articles,0.0
+breach of obligation,0.5
+subsequent,1.2971213655431795
+act,12.870263922028107
+concluding,0.624
+family members,1.2631578947368423
+custody of the cbi officers,0.5
+appeal as the appeal,0.6666666666666666
+certain condition,0.6018518518518517
+humanitarian consideration,0.3333333333333333
+commission to the director,0.5
+explanation,1.4510159010600707
+false case,1.0
+jurisdiction in respect,1.125
+supreme court in the discharge,0.5
+preparedness,0.40384615384615385
+conclusion that the complainant,0.5
+cognizance of the complaint,1.0
+tests,1.9146311374290645
+parameters,0.8168253968253969
+unless due reparation,1.0
+considerable force in the stand,0.5
+effect,2.184583388478191
+custody for a fortnight,0.5
+detention repeat,0.5
+human rights pursuant,0.5
+extraordinary circumstances,1.3333333333333333
+plenary powers in derogation,0.5
+nhrc s order,0.0
+patna,2.3421052631578947
+completion,1.1868131868131868
+incriminating material,0.8
+deputy sp,0.5
+passage,0.6514737598849748
+morning,0.6560766182298546
+officials without authority,0.5
+manner,1.4494591333432125
+comment,0.5887096774193549
+nature of recommendation,0.5
+order of nhrg,0.5
+member,2.649111111111111
+case like illegal detention,0.5
+sri sinha,0.5
+appropriate disciplinary action for the misconduct,0.5
+punjabmanu,0.5
+flight,0.5019305019305019
+section,9.287987283173626
+reddi,0.5454545454545454
+money for treatment,0.5
+transfer petitions,2.0
+vide uttam da,0.5
+due reparation,1.0
+official of cbi,0.0
+cbi office,6.333333333333333
+offence under prevention,0.0
+version,1.0500313479623824
+none,0.8181718550217885
+hearing to the officials,0.5
+condition,2.259476395625584
+other official,0.2631578947368421
+fortnight,0.5000000000000001
+tax,3.549237288135593
+uncertainty in the time schedule,0.5
+complainant shri ak,1.0
+statutory fetter,0.5
+enquiry in the matter,0.5
+order in question,1.0
+power in derogation,0.0
+place,2.333104345208554
+functions,1.326241134751773
+sgpcmanu,0.5
+circumstance,1.429931390219372
+civil,2.126558634963905
+officers,2.442124212421242
+finding,1.8129183657767178
+commission in the following words,0.5
+trains,1.1111111111111112
+regulation,4.3783195107648485
+mean,2.390645692553228
+plea of the officials,0.5
+fresh decision,0.8
+investigation,1.6673076923076922
+regard,2.723310344827586
+coal india guest house,0.5
+close relatives,0.4444444444444444
+important function,0.45000000000000007
+statutory limitations,0.6666666666666666
+aftermath,0.5
+subject to certain conditions,0.8
+following words,0.6763636363636363
+next day,0.6306081754735793
+agency,1.8968779259354924
+to the expression,2.0
+limitation,2.4984479402325457
+confines of jurisdiction,0.5
+money,1.6567889044524557
+certain statutory fetters,0.5
+rights,1.6349541930937281
+direction,1.8495050210098996
+clear that the order in question,0.5
+truth,0.9590230664857531
+career,0.5387620192307693
+conditions for the exercise,0.5
+observation that the question,0.5
+accordance with law,1.0046948356807512
+such record,1.625
+facts,1.4696673624372698
+guest,0.38823529411764707
+year period,0.3333333333333333
+nhrc proceeds,0.5
+issue,2.766776251628934
+above explanation,0.5
+ostensible ground,0.5
+making,1.409351874023649
+closed complaint,0.5
+admission of lpa,0.5
+discharge,1.305219638242894
+brief reference,0.5000000000000001
+of article,2.1149999999999998
+back,1.1362801178713813
+basi,2.0752712086391383
+powers,1.876345371920593
+objections,1.2025072324011572
+prima,0.9758788156000698
+antagonistic attitude,0.5
+detention of the complainant shri ak,0.5
+issue in the interest,0.5
+days,1.6721350893491447
+actual custody of the cbi officers,0.5
+adjudication in the lpawrit petitions,0.5
+expedition,0.4
+harsh treatment,0.3333333333333333
+over-ruled by the commission,0.0
+petitioner,4.524972253052164
+cost,1.2954397451466992
+orders,1.4936359300077826
+illegal act,1.6666666666666667
+basis,1.953226441078104
+violation of human rights pursuant,0.5
+directions,1.5134125183504605
+shri n jha,1.0
+shri panigrahi,1.0
+own showing,0.5
+morning hour,0.5
+course,1.6545957498716626
+events,0.6160483175150993
+kaur,0.5
+offences under prevention,0.5
+power of review,1.6
+irrespective,0.7304347826086957
+magistrate,3.522077922077922
+charge,2.7679815308681284
+actual custody of cbi officers,0.5
+fetter,0.625
+unlimited jurisdiction,0.5
+provision in the act,0.8
+case diaries,0.5
+cognizance,1.728
+basis of averments,0.5
+procedure regulation,0.5
+factual account,0.5
+hence,1.1440732910500353
+writ petition shri panigrahi,0.5
+to the admission of lpa,0.5
+officer,3.1197242647058823
+diaries,0.6201550387596899
+writ petitions under article,0.875
+violation immune,0.5
+absence of new material,0.5
+ground,1.4186722903211633
+major surgery,0.3333333333333333
+bearing on the power,0.5
+complaints,0.9978858350951374
+actions,3.633288043478261
+hereunder,1.4457142857142857
+opportunity,0.946186440677966
+other officials,0.2857142857142857
+cbi,3.9568421052631577
+function,1.6326372491145218
+alleged unauthorized detention,0.5
+relative of the complainant,0.0
+note to the section,0.5
+adequate opportunity,0.6666666666666666
+field,1.5820968371729793
+bhinka,0.5
+regard to those writ petitioners,0.5
+relation,1.397320207820618
+condition for the exercise,0.5
+hospital,1.3942768854411434
+concept,0.9402138540213855
+ranchi bench,0.5
+ss gadgil v lal,0.5
+notice officer,0.5
+matter,2.8088923076923082
+article,4.378806157159795
+fetters on jurisdiction,0.5
+bearing,0.7901184156798694
+detention during the period,0.5
+court of special judge,0.8
+close relatives of the complainant,0.5
+term,3.6255105640901575
+result of alleged unauthorized detention,0.5
+applications,1.0021816198527407
+analogou to the expression,0.0
+at a particular point of time,0.5
+none in the impugned order,0.5
+view,2.441100058469462
+aid,5.498621453008654
+chest,0.7395639311931632
+lpa  writ petitions,0.0
+vide,4.454025282767798
+doctor,1.4782608695652173
+nursing home,3.0
+policy custody,0.5
+other important objection that the commission,0.5
+police personnel,1.6666666666666667
+proper medical attention,0.5
+request of the io,0.5
+key,0.5648701829704589
+merit,1.2419290263876248
+constant surveillance,1.0
+same interim order,0.5
+better protection of human rights,0.5
+disciplinary proceedings,1.5
+consideration of the report,1.25
+close relative,0.6666666666666666
+ambiguity in the interpretation,0.5
+replies,0.608695652173913
+witness,5.333906623599983
+time limit prescribed,1.0
+recovery,3.9892473118279574
+actual custody,1.0
+result,1.3356630184144715
+slps,1.6363636363636365
+officials,1.3691666666666666
+answer to this view point,0.5
+theory,0.43014388218941363
+wrongful act,0.2368421052631579
+officials of the cbi,0.5
+ranchi in the early morning hours,0.5
+record,2.5393414390845273
+procedure,2.552771605064117
+material,1.4148767018946966
+information,1.1320502836800534
+contractors,2.2093023255813953
+request of the complainant,0.5
+petitions,1.3930830039525692
+speaking order,1.3
+polouse,0.0
+second occasion,0.5
+train,1.7989372868013647
+festival,0.4962406015037594
+provision,5.439002243350069
+jurisdiction of the commission,1.0
+support,0.8630946786249609
+averment,1.7
+ambiguity,0.7008985879332478
+violation of human rights,1.1111111111111112
+parameter,0.7630669107179174
+certain facts,1.125
+time schedule,1.1428571428571428
+day ie,0.6000000000000001
+factum,1.125
+respect,2.6704963235294117
+disease of cancer,0.5
+human rights violation,0.23529411764705882
+fact,3.6284951019474962
+violations of human rights,0.2727272727272727
+of human rights violation,0.30000000000000004
+paramjit kaur v state,0.5
+point of law,1.0
+hospital after certain tests,0.5
+rights pursuant,0.5
+learned judge,3.3692307692307693
+expression,1.7424391201885312
+complaint for this long silence,0.5
+detention repeats,0.5
+torture,0.6886137118695258
+marginal heading,1.0
+important objection that the commission,0.5
+department,1.9858367499068206
+duties,1.477142857142857
+deputy,1.1595268542199488
+medical aid,0.6153846153846153
+special,1.7363344051446945
+arrest  detention,0.0
+hour,1.1326135248230613
+object,1.4940119760479043
+kumar,2.028839704896043
+same time,0.6913511801045461
+certain fact,0.7222222222222222
+reparation,1.2696793002915452
+shri pk,1.0
+stand,1.8422769621739425
+impugned order,2.265957446808511
+diary,0.986533041027247
+factual aspect,1.0714285714285714
+basi of averments,0.0
+coal india guest house at patna,0.5
+law for the time,1.945945945945946
+dead letter,0.75
+year before the making,0.5
+certain tests,0.6666666666666666
+points,0.7095682483711788
+year from the date,1.5
+important objection,0.5
+cancer,0.31851179673321234
+interrogation,0.5945945945945946
+doubt,1.3646267723102583
+medical attendance to the complainant,0.5
+light,0.8816192372754331
+bar,1.4720990391722097
+lpa,0.9672836569649268
+writ petition to the file,0.5
+years,2.5395804110508022
+act of unauthorized detention,0.5
+exercise,1.9400726466785694
+ancillary power,1.0
+report,1.7768151696835826
+papers,1.0564063453325199
+protection,1.1604395604395603
+mr ak,0.75
+disciplinary action,0.9750000000000001
+review,1.3564101463582128
+virtue,0.9167557066537153
+cbi officer,3.3333333333333335
+ends,1.0190933803699291
+concluding passage,0.5
+any matter after expiry,0.5
+observation in the concluding passage,0.5
+presence of witnesses,0.5
+legal objection,0.5
+sri,1.1524741891017525
+case of section,0.6666666666666666
+to the commission,2.52
+proposition,0.6371087928464977
+writ petitions  lpa,0.0
+rights violation,0.2929292929292929
+issues,1.1246716508385532
+enquiry,2.145762711864407
+justice,2.292557084574302
+coalfield hospital,0.5
+key of lockers,0.0
+grievance,1.032529659395331
+lapse,0.9238095238095239
+request,1.1474439594584596
+writ applications,0.6666666666666666
+derogation,1.0952380952380951
+wrong doer,0.6666666666666666
+certain conditions,0.606060606060606
+procedural regulations,0.5
+proceeds on an incorrect premise,0.5
+chairman,1.3592677345537758
+aggrieved person,1.7
+- doer,0.0
+wrong-doers,0.0
+income,2.734813573523251
+important document,0.6666666666666666
+panigarhi,0.5
+morning hours,0.5
+certain paper,1.0
+family member,1.0924657534246576
+division bench,3.965217391304348
+date,6.195616975795285
+surveillance,0.3333333333333333
+reference,2.1755848210276256
+effect on the service career,0.5
+offence,4.401610644257703
+presence,0.9604834261070158
+ill-treated by the cbi officers,0.0
+hearing,0.9644508209787979
+coalfield hospital at ranchi,0.5
+extraneous reasons on account,0.5
+in nature,0.7593052109181141
+matter after the expiry,1.0
+shri bn,1.0
+schedule,2.9453067257945307
+shri nc dhoundial,1.0
+accordance,1.4069045211613462
+inspector,1.2705882352941176
+cbi officials,5.0
+further enquiry,0.75
+undoubted effect on the service career,0.5
+day,1.550999710228919
+prosecution of shri sinha,0.5
+question,2.980312372067635
+absence of such record,0.5
+plenary powers,0.75
+scmanu,7.940520446096654
+word,2.065873981084096
+view of the matter,1.7142857142857142
+central coalfield hospital,0.5
+writ,2.8882378560889794
+redressal of the grievance,1.0
+step,0.8867024753460084
+file with expedition,0.5
+recoveries,2.0
+amount,3.179688593072295
+night of march,0.5
+service career,0.6666666666666666
+investment,3.057915057915058
+statutory fetters,0.5
+telecom department,0.5
+tata,0.7061403508771931
+unlawful detention during the period,0.5
+supreme court,1.4278957326045825
+final disposal,1.5
+handicap,0.6111111111111112
+toward,1.0255939365170768
+cbi officers,2.6666666666666665
+heading,2.130249543517955
+entry,4.707210447678601
+same in the absence of new material,0.5
+report from the director,0.5
+embargo,0.5606312292358805
+high,5.367119186841496
+bishwanath singh,0.5
+members,1.9437616522164103
+learned chairman,1.5
+account,2.5754891049671977
+other cbi official,0.5
+unique expert body,0.5
+basi of probabilities,0.0
+event,1.4310854436179261
+custody,1.4166666666666667
+file,1.3720673638585223
+force,1.6009408121948314
+human right,1.1211406518010292
+rights act,0.6857142857142858
+pandey,1.875
+prayer,0.6969296987087519
+interference,0.5733527484528578
+purpose,2.519170317925504
+law,3.538923411654744
+proceeds,1.083011583011583
+subsequent to the admission of lpa,0.5
+civil court,3.706666666666667
+direction to the jail superintendent,0.5
+handicaps,0.4444444444444444
+nos,1.2635492554198444
+observation,0.7625074854374218
+charan,1.1111111111111112
+assumption,0.47735650342285413
+close relative of the complainant,0.0
+time,2.4764180952862667
+lapse of a certain period,0.5
+cases,1.9728229418951067
+division,1.7657319129617017
+searches of the houses,0.5
+treatment,1.1351020408163266
+entry in the case diary,0.0
+recoveries of certain incriminatory articles,0.5
+bar under section,0.8
+concerned officials of the cbi,0.5
+certain papers,1.0
+allegation,1.834319526627219
+concerned official,0.75
+issuance,1.05379513633014
+brief case,3.0
+contractors at patna,0.5
+stand of cbi officials,0.5
+case of illegal detention,0.5
+day on the basis,0.6666666666666666
+certain amount,0.4375
+doers,0.23076923076923073
+stands,0.7032366540563262
+commission of offensive act,0.5
+version of the cbi officials,1.0
+complaint,2.734525785235724
+relations,1.2666042780748663
+procedure regulations,0.5
+hours,1.1644152367043934
+assessment,2.647276084949215
+limit,2.3804570428443834
+aforesaid period,1.0
+crilj,5.333333333333333
+complainant ak,0.5
+paramjit,0.6666666666666666
+right,3.07483248288682
+entries in the case diary,0.5
+prosecution,4.619407894736842
+hereinafter,0.7670609645131939
+points of law,0.6666666666666666
+pain,0.6559880239520958
+confines,0.47619047619047616
+contractor,4.09297052154195
+march,1.0644238856181665
+offences,1.6681887366818873
+certain period,0.875
+relatives of the complainant,0.5
+own ticket,0.5
+mandate,0.8783810859547183
+ticket,4.323630136986301
+certain situations,0.5
+subject to jurisdiction of the commission,0.5
+absence,1.092363454568179
+shri ashok kumar,0.6666666666666666
+application,2.3322596088086445
+medical attendance,0.5
+entire issue,0.6666666666666666
+policy,3.250773332247955
+office at ranchi,1.0
+india,2.7684068260703585
+ranchi,1.3768278965129357
+commission,4.703619179345321
+witnesses,3.359210526315789
+disputed issue,0.6666666666666666
+attitude,0.4886970172684459
+probabilities,0.34782608695652173
+attention of the nhrc,0.5
+late night,0.2692307692307692
+redressal,2.7333333333333334
+marginal note,1.0
+petitioner in wp,1.0
+close relation,0.375
+disciplinary action for the misconduct,0.5
+amount of discretion,0.75
+truth in the allegation,0.5
+bunch of transfer petitions,0.5
+completion of the searches,0.5
+legal question,0.5
+sinha,0.8166351606805294
+wrong unless due reparation,0.5
+writ petitioners,3.75
+dispute,2.402137592137592
+disposal,1.1180555555555556
+evidence,3.6676405172088815
+document,1.401100265092073
+corruption act,1.75
+officer of cbi,0.0
+field of criminal law,0.6666666666666666
+conditions,1.9988092071092867
+ground of transfer,0.5
+interference after a long lapse,0.5
+more brief case with important documents,0.5
+memorial,0.20752269779507132
+coalfield,1.0
+moreover,0.7807228915662651
+receipt of the report,0.8333333333333334
+extraneous reason,0.6666666666666666
+other commission,1.0
+relatives,0.8460264900662252
+debatable questions,0.5
+observation that the high court,0.5
+case,7.332269420884958
+creature of statute,0.8571428571428571
+period,1.9480170842427122
+incorrect premise,0.5
+complainant by the cbi officials,0.5
+unauthorized detention,1.5
+p venkatarama reddi,0.8333333333333334
+journey,0.5833333333333334
+service in the instant case,0.5
+bhinka v charan singh manuscmanusc,0.5
+protection of human rights act,1.5
+other important objection,0.5
+constitution,3.204842342342342
+letter,2.707240080105903
+adjudication,1.5392156862745099
+violation immune from the remedy,0.5
+writ petitions,2.984848484848485
+dsp,0.39223057644110276
+singh,3.7791111111111113
+legal objections,0.5
+wrong,1.2933182103578877
+review petition,2.72
+view of the regulation,0.5
+writ petition by an order,0.5
+comanuscmanusc,0.5
+substance in this objection,0.5
+service,4.257395095954566
+periods,0.8597883597883598
+shri narayan jha,0.5
+end,6.1484001628618765
+contention,1.666391070690368
+issue from the point,0.5
+wrong-doer,0.0
+debatable question,0.5
+torture by the cbi officials,0.5
+rule,5.04
+nc dhoundial,2.0
+noon,0.9860557768924303
+inter alia,1.3280423280423281
+crpc,2.2424242424242427
+contradiction,0.609271523178808
+proceedings,1.7670925223666287
+light of this judgment,1.0
+settled rule of interpretation,0.75
+appropriate recommendation,0.5
+recommendation,2.6589497459062676
+similar issue,0.5333333333333333
+caption,0.7346938775510204
+brief case with important documents,0.5
+complaint with regard,0.6666666666666666
+other cbi officials,0.5
+duty,3.2272215973003378
+conclusion that the commission,0.6666666666666666
+bench,2.5793391667754992
+violation,1.2087401208740118
+basis of the evidence,1.3
+violative of article,2.1379310344827585
+enquiry in the face,0.5
+competent,1.3701267639320736
+bishwanath,1.6666666666666667
+quo,1.4641201465860294
+detention,1.326530612244898
+proceed on an incorrect premise,0.0
+panigrahi,1.5
+personal hearing,0.9523809523809524
+office,3.5913445886237847
+incidental,1.0217391304347827
+chest pain,0.5
+superintendent,1.2698412698412698
+prevention of corruption act,1.8
+costs,0.8167395522604189
+grievances,0.9324324324324326
+shri ranjan pandey,0.5
+petitioner from ranchi,0.5
+slp,1.291953447628582
+discretion,1.2998211091234348
+particular point,0.2647058823529412
+investigating agency,2.0625
+attendance to the complainant,0.5
+jail superintendent,1.0
+status-quo with respect to the appellant,0.0
+cwjc,0.9444444444444444
+point,2.9165043546008516
+body,1.336775463480009
+ashok,0.4374740340673037
+admission,1.5389848246991107
+mere lapse,0.5
+ranchi with a prayer,1.0
+considerations,0.7860235003092146
+jha,0.5810012437810946
+remand,1.08843537414966
+law during the period,0.5
+short nhrc,0.5
+notice,2.3300025999395686
+that hospital,0.3636363636363636
+affected person,1.1
+surgery,0.648582995951417
+disposal of lpa,0.5
+status,1.14824388424026
+nhrg,0.5
+offensive act,0.6666666666666666
+power,3.8165227690948367
+doer,0.5684210526315789
+earlier order,1.625
+merits,0.968421052631579
+police,2.9749362629783356
+fetter upon the power,0.6666666666666666
+steps,1.169318181818182
+premise,1.2347417840375587
+appropriate disciplinary action,0.6666666666666666
+officer of the telecom department,0.5
+new material,0.4
+enquiry into the complaint,0.5
+national human rights commission,1.0
+reference to the stand,0.5
+locker,0.2327586206896552
+sgpcmanuscmanusc,0.5
+charge sheet,2.0526315789473686
+related writ petitions  lpa,0.0
+father-in-law,0.0
+extraordinary circumstance,1.3333333333333333
+any matter after the expiry,0.5
+writ petitions to the file,0.5
+passive conduct,0.5
+personnel,0.9491259524876736
+lal,1.6786163249382287
+arrest,1.391895003453834
+mandate of section,1.0833333333333333
+pass-book,0.0
+reason,2.6381270903010035
+instant case,2.0631578947368423
+legal questions,0.5
+day after the charge sheet,0.5
+bus,2.020565168811983
+contractor s house,0.0
+position,1.549133168619177
+life,1.3352928273744242
+dispute that the complainant,0.5
+occasion,0.7946745562130177
+evidence to the writ petitioner,0.5
+writ petition,6.24223602484472
+petition,5.3436539306104525
+category,1.9351744779266717
+search of the house,0.6666666666666666
+remedy,1.3214024835646458
+notices,0.5487269534679544
+early morning hours,0.5
+showing,0.781949531949532
+order of nhrc,0.5
+undoubted effect,0.5
+long lapse,1.0
+better protection,0.5
+consideration,1.9110153789142115
+human,1.0063526196524266
+act violative of human rights,0.5
+antagonistic attitude of the sp,0.5
+jail,0.7548476454293629
+observations of this court,1.0
+violations,0.7048092868988391
+procedural in nature,1.5
+words,1.6384367086179112
+earlier date,0.6000000000000001
+facie case of illegal detention,0.5
+that the order in question,0.6666666666666666
+particular point of time,0.5
+plea,1.4430487701432178
+issuance of notice,1.4
+directions of this court,1.5555555555555556
+custody of cbi officers,0.5
+documents,1.142515923566879
+sinha during the aforesaid period,0.5
+certain amount of discretion,0.6666666666666666
+air,2.0589664272145285
+mere lapse of a certain period,0.5
+respect to the appellant,0.5
+raids,0.3232323232323232
+reply,1.0337305560040906
+redressal on account,0.5
+a further order,0.5
+relative,1.0564311594202898
+receipt,1.5471923536439667
+writ application,1.2857142857142858
+outskirt,0.34782608695652173
+discharge from cci hospital,0.5
+medical attention,0.40384615384615385
+reasons on account,0.5
+confine,0.7331810394060537
+proceeding,2.1298245614035087
+initiative,0.3346007604562738
+limitations,0.8120300751879699
+expedient,1.1041666666666667
+procedural regulation,0.5
+misconduct,1.2976744186046512
+prevention,0.6124072110286319
+extraneous reasons,0.6666666666666666
+constitutional power,0.8333333333333333
+case diary,1.1111111111111112
+family,1.856281506375408
+such other action,0.5
+state commission,7.066666666666668
+residential house,0.5
+powers in derogation,0.5
+ranchi on account,0.5
+analogous to the expression,0.5
+authority,2.4352627108360636
+judge,2.9012627415183325
+provisions,3.8929824561403508
+point of time,0.7999999999999999
+certain incriminatory articles,0.5
+enquire,0.6933333333333334
+clear that the direction,0.5
+conduct,1.5998023165163158
+plenary power in derogation,0.0
+substance,0.8230581678857541
+important documents,0.6666666666666666
+chairman of nhrc,1.0
+night on the ostensible ground,0.5
+corruption,0.9432672590567327
+brief reference to the stand,0.5
+further interrogation,0.5
+receipt of replies,0.5
+nhrc on this disputed issue,0.5
+period of limitation,3.3181818181818183
+personal hearing to the officials,0.5
+cci hospital,2.5
+conclusion,1.3883437407077015
+face,0.7281253260594137
+ecg,0.35714285714285715
+complete at a particular point of time,0.5
+other action,0.37037037037037035
+sources of income,0.8
+cbi to the sp,0.5
+guilty of human rights violation,0.5
+aggrieved persons,0.6666666666666666
+facie case,1.75
+unlawful detention,0.6666666666666666
+fact of the illegal detention,0.5
+questions,0.9979150871872632
+paper,1.8076689487632511
+attitude of the sp,0.5
+direction of this court,1.0
+officers of cbi,0.5
+police personnel in the hospital,0.5
+legislative intent,1.3823529411764706
+jharkhand,0.9
+national,1.5126860273884035
+order of status - quo,0.0
+ranjan pandey,1.0
+wrong action,0.5
+proceed,2.930994380987473
+show cause notice,2.9565217391304346
+accordance with the procedure,0.875
+more brief case,0.5
+marginal heading to the section,0.5
+means,1.3868295182781003
+residential house of shri ashok kumar,0.5
+pass-books,0.0
+contentions,0.9641025641025641
+possession,2.808810857389056
+violation of human right,1.2222222222222223
+no doubt,0.8331331503088538
+factual aspects,0.9166666666666666
+cause of action,2.1470588235294117
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+provisional bail,1.0
+obligation,1.1071428571428574
+court with a prayer,0.5
+human rights,0.9865951742627346
+tps,0.30103903397921933
+supreme,1.443815331010453
+functionary,0.5714285714285714
+cbi office at ranchi,0.5
+remedy if the commission,0.5
+special judge,2.375
+brief cases,1.5
+punjabmanuscmanusc,0.5
+virtue of section,1.2857142857142858
+high court,7.7477477477477485
+view of the commission,0.75
+complainant,4.538461538461538
+sanction,2.0167207792207793
+state,6.817996007300392
+answer,0.9554305705177771
+regulations,3.7157723577235777
+statute,2.5765859456247218
+jurisdiction,2.9539571926331507
+official,2.6854955160358718
+note,1.3654108484234107
+intent,1.8427075724373023
+bu from patna,0.0
+jurisdictional bar,0.5
+act violative,0.5
+wrong actions,0.5
+manu,7.078142071124147
+provision of the act,0.8888888888888888
+central,2.61875
+impression,0.6037621359223301
+marginal note to the section,0.5
+language,0.8555828468744352
+section in terms,0.75
+expert body,4.5
+narayan,0.8111111111111111
+single,1.6221488419098207
+attendance,0.5024271844660194
+learned chairman of nhrc,1.0
+airsc,1.6909090909090911
+lpa  writ petition,0.0
+concerned officials,0.75
+human rights commission,1.0
+nature,1.4149926876444778
+long silence,0.5
+incriminatory articles,0.5
+discussion,0.7445831166579996
+illegal detention,4.5
+such power,0.8907563025210085
+nhrc,3.6
+certain test,0.6666666666666666
+plenary power,1.2857142857142858
+reason on account,0.0
+outskirts,0.34782608695652173
+outskirts of ranchi,0.5
+irrespective of the validity,0.6666666666666666
+observation of this court,0.6666666666666666
+asset,3.0300107181136124
+cbi official,5.0
+denial of proper medical attention,0.5
+fetter on jurisdiction,0.0
+status-quo,0.0
+court in the discharge,0.75
+shri sinha,1.0
+tata memorial cancer hospital,0.5
+petitioners,3.536507936507937
+extraneous reason on account,0.0
+lockers,0.2692307692307692
+night,0.8690610404251893
+situation,1.1254754682459434
+relatives in the aftermath,0.5
+dhoundial,2.5
+observations,0.7454584147497534
+short answer,0.2647058823529412
+petition before nhrc,0.5
+basi of the evidence,0.0
+immune,0.24575163398692812
+attention,0.8724846605528799
+subjudice,1.0
+book,0.7435955668604651
+action,3.127292663476874
+venkatarama,1.6666666666666667
+books,0.8894824707846412
+source,0.840137091365362
+wpc,0.6088154269972452
+other remedy,0.8
+statutory limitation,0.8
+nhrc proceed,0.5
+disciplinary proceeding,1.6428571428571428
+officials of cbi,1.0
+persons,2.5993381990166555
+assets,2.6879084967320264
+keys,0.5060606060606061
+second objection,0.5

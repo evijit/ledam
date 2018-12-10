@@ -1,0 +1,729 @@
+gazetted,2.3333333333333335
+pre,6.408342692122574
+ex - serviceman desires,0.0
+government,3.5583785424010483
+lead case,0.5
+insofar,0.9295774647887324
+director,1.3549769585253457
+manupatra information solutions pvt,0.75
+number of years,0.5818965517241379
+code,2.880559796437659
+counting of war service,1.0
+word  civil pension,0.0
+pension after retirement,0.5
+fin,3.6571014748741497
+employee,6.280487804878048
+terms,2.390350840909655
+teacher,3.0760180995475115
+talks of conditions,0.5
+inter,3.683850287482992
+counting,1.8366107576633892
+retirement benefit from military service,0.0
+education,2.1892608326253185
+interest,2.74353772015385
+court,12.24425115501509
+third paper,0.5
+charge in respect,0.6666666666666666
+order of the governor,1.6666666666666667
+drivers in the police department,0.5
+consonance,1.5
+union,2.0981927710843373
+context of benefits,0.5
+forces,0.9192073170731707
+in law,1.1088664421997756
+payment of pension,2.25
+single judge,4.011627906976744
+objection,1.68120480131216
+inapplicable to the case on hand,0.5
+person,4.291511329454258
+normal rules in appendix iiib,0.5
+show,1.5002130552117363
+normal rules,0.6666666666666666
+way,1.7812722068664852
+cause,1.8431210321626654
+armed force,0.7105263157894737
+first proviso,1.6666666666666667
+part,5.294464509893076
+increment by order,0.0
+higher pay scale,1.0
+terminal,1.5077825670498082
+eligibility to higher grade,0.5
+ex-servicemen,0.0
+calculation,0.8853448275862068
+civil appeal  slp,0.0
+convenient disposal,0.6666666666666666
+respondent - state civil service,0.0
+juncture,0.8717948717948718
+years of military service,0.5
+share,2.560794932990637
+respondent-state as non-gazetted officer,0.0
+retirement,10.167032967032968
+require,2.543951253628673
+conscious use of word,0.5
+aspect,1.2449448189023034
+age,4.526374474274117
+number,1.4802651440973922
+shri,2.0759135877246115
+purpose of convenient disposal,0.5
+submission of the parties,0.0
+non-pensionable under military rules,0.0
+specific incorporation,0.6666666666666666
+than war service in the armed forces,0.5
+decision,2.9514937765898557
+other stage,0.6666666666666666
+case of retirement,0.0
+aforesaid,2.592896174863388
+benefit of a higher grade,0.5
+aspect of the matter,1.4642857142857142
+civil service for ex - servicemen,0.0
+higher grade pay scale,1.5
+defects,0.6712564543889845
+george,0.6472834067547724
+gazetted officers,3.0
+appeal,3.4125488033856883
+pensionable,12.8
+solutions,1.721700444883836
+aforesaid grant,1.0
+absence of condition,0.5
+contra,3.550142721217888
+accordance with the guidelines,2.6666666666666665
+pension to a civil servant,0.5
+refers,0.6484772632457239
+talk of conditions,0.0
+interpretation,1.518366298484459
+read,2.2147281730888695
+educational officer,0.5
+grades of pay,0.5
+stage,1.1298537871524448
+year,2.8349484769759212
+alia,0.9479866480753792
+second paper,0.5
+order in the go,0.0
+extra - ordinary pension rules,0.0
+pensionary charges in respect,0.5
+spite of expression,0.5
+grade pay scale,1.5
+- ordinary pension rule,0.0
+judgment,3.288216560509554
+bad in law,1.4285714285714286
+consideration by the court,0.6666666666666666
+incorporation,1.238095238095238
+services,1.6850241065659326
+grade in the civil service,0.5
+order,5.472481489660944
+edn,0.4833395383469844
+governor,1.1316137566137567
+clear that rule,0.5
+-  slp,0.0
+talks,1.1657559198542804
+civil servant,0.6
+grant of higher grade pay,1.5
+fact of the lead case,0.0
+such ex-serviceman,0.0
+service for the grant,2.0
+to the case on hand,0.75
+state government,3.027142857142857
+effect,2.184583388478191
+higher pay,1.2
+completion,1.1868131868131868
+qualifying service,7.8
+date of receipt,1.5416666666666667
+use of word,0.5
+quarter,0.7884753275536145
+baburaj,0.5
+- gazetted officers,0.0
+that warmilitary service,0.5
+parties,1.8210828547990157
+kerala account code,0.5
+military service for higher grade,0.0
+writ appeal,2.2142857142857144
+rules in the audit objection,0.5
+grade,2.004840489566613
+such benefit,1.5714285714285714
+thereunder,1.2794117647058825
+refers to a situation,0.5
+servant,2.030552291421857
+impugned order therein,0.5
+condition,2.259476395625584
+judgments,1.2355646397547266
+cases of retirement,0.6666666666666666
+rule apply,0.0
+same terms,0.8
+higher grade pay scales,0.5
+receipt of any military pension,0.5
+part iii of the rules,0.6666666666666666
+counsel for the appellants,1.7258064516129032
+driver,0.8230211045255637
+pensionary benefit,3.6666666666666665
+civil,2.126558634963905
+officers,2.442124212421242
+general in the police head quarter,0.5
+joint secretary,1.2857142857142858
+application as qualification,0.5
+count for pension,0.5
+calculation of higher grade,0.5
+aforesaid grant of higher grade pay,0.5
+circulars,1.1515151515151516
+lrnosb-,0.0
+other than war service in the armed forces,0.5
+context,0.9269383697813122
+promotion,2.946428571428571
+entitlement,0.6176470588235294
+terminal benefits,1.4285714285714286
+direction,1.8495050210098996
+mutati,0.551470588235294
+aforesaid show cause notice,0.75
+money,1.6567889044524557
+discharge from the military service,0.5
+reason behind inclusion,0.5
+increment,1.4721485411140585
+that rule,0.851258581235698
+facts,1.4696673624372698
+mutandis,1.25
+whereby,0.6100917431192661
+issue,2.766776251628934
+defence department,1.5
+higher grade,12.0
+different part,0.4915966386554622
+discharge,1.305219638242894
+sainik,1.6666666666666667
+service share basis in accordance,0.5
+basi,2.0752712086391383
+benefits,2.0896027049873203
+stipulation,1.6507936507936507
+leave petition,2.013333333333333
+police head quarter,0.5
+mutatis mutandis to ex-servicemen,0.0
+granting,0.8863960113960115
+benefit of higher grade,2.0
+gazetted officer,2.2
+year in the state,0.0
+same term,0.7936507936507936
+grades,0.6978609625668449
+benefit for civil pension,0.5
+benefit,2.604810195438474
+effect that the military service,1.0
+retiral benefits,1.7142857142857142
+grade pay scales,0.5
+desire,0.6008255933952529
+orders,1.4936359300077826
+basis,1.953226441078104
+in the police head quarter,0.5
+directions,1.5134125183504605
+domains,0.2361111111111111
+grant of pension,2.3333333333333335
+conditions under both require,0.5
+course,1.6545957498716626
+applicants,0.6960950764006791
+shri giri,0.5
+such ex-servicemen,0.0
+charge,2.7679815308681284
+clear that condition under both require,0.0
+civil service,2.722222222222222
+mutandi,1.25
+trivandrum,1.3333333333333333
+officer,3.1197242647058823
+refer to a situation,0.0
+charges,2.061307113938693
+ex - serviceman,0.0
+defect,1.4259259259259258
+computation of pension,1.2
+retirement benefit,1.5714285714285714
+part-iii,0.0
+conditions for grant,1.2
+part of service - pension,0.0
+opportunity,0.946186440677966
+higher grade in the civil service,0.5
+insofar as the pension,0.5
+impugned judgment,2.0927152317880795
+field,1.5820968371729793
+matter,2.8088923076923082
+monetary benefit,1.8888888888888888
+intention of the respondent - state,0.0
+retirement benefits,1.6
+to the ex - serviceman,0.0
+service share basis,0.5
+term,3.6255105640901575
+service for higher grade,0.5
+grant of higher grade pay scales,0.5
+appellants,7.701086956521739
+spite,0.8919640378414163
+view,2.441100058469462
+goms,3.0
+appropriate order,1.565217391304348
+lead,1.2638604161606346
+opportunity to the appellants,0.5
+civil pension,10.0
+government order,2.138888888888889
+that department,0.5
+part-iii of the rules,0.0
+use,5.06801278974993
+further clarification,0.6666666666666666
+benefits from military service,1.5
+amount to the defence department,0.5
+directors,1.6666666666666667
+quantification,1.0666666666666667
+assistant,1.6732837055417698
+m george,0.23195876288659795
+iiib,1.0
+result,1.3356630184144715
+educational,1.1138712241653417
+orderp,0.3571428571428572
+pay,3.828326695859537
+information,1.1320502836800534
+inclusion,0.9738480697384807
+military rule,0.5
+- ordinary pension rules,0.0
+petitions,1.3930830039525692
+defence,1.3606588776096535
+polouse,0.0
+november,0.7203359669727383
+quantification of the pensionary benefits,0.5
+secretary,0.9217877094972067
+guideline,1.5641711229946524
+provision,5.439002243350069
+appendix iiib,0.5
+circular,2.0360934182590236
+entry grade,1.0
+condition for grant,0.5
+purpose of civil pension,0.5
+appellants - herein,0.0
+bina,0.7997245838821697
+benefit of the higher grade,1.0
+retiral benefit,2.142857142857143
+respect,2.6704963235294117
+letter read as third paper,0.5
+regional deputy director,0.5
+pensionary charge,0.5
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+learned judge,3.3692307692307693
+expression,1.7424391201885312
+madhavan,3.0
+benefit of pension,2.0
+department,1.9858367499068206
+deputy,1.1595268542199488
+simple interest,1.8333333333333333
+special,1.7363344051446945
+violation of the rules,0.3333333333333333
+military rules,0.5
+annum,2.25
+impugned order,2.265957446808511
+life-long retirement benefit,0.0
+mindful of the nature,0.5
+certain defect,0.4444444444444444
+necessity,0.7072538860103627
+proposal,1.8145800316957208
+applicability,1.0928961748633879
+teachers,2.506794564348521
+years,2.5395804110508022
+re - employed ex - serviceman,0.0
+domains of principles,0.5
+aforesaid aspect,1.0
+pensionary charge in respect,0.0
+re-employed in civil service,0.0
+military pension,1.0
+principle,1.9620890732001848
+pay to a re-employed ex-serviceman,0.0
+party,2.2250894654439723
+appellant in the civil service,0.0
+review,1.3564101463582128
+virtue,0.9167557066537153
+eligibility condition for grant,0.0
+reply to the aforesaid show cause notice,0.5
+manupatra,0.75
+respondent - state to the effect,0.0
+issues,1.1246716508385532
+therein,1.5503424657534246
+pension,11.516129032258064
+request,1.1474439594584596
+for the higher grade of pay,0.5
+service of such ex - servicemen,0.0
+service-pension,0.0
+information solutions pvt,0.75
+condition for such benefit,0.0
+count for higher grade,0.5
+subsequent government order,0.5
+part iii of the kerala service rules,0.5
+military service of the appellants,0.5
+kerala service rule,0.5
+division bench,3.965217391304348
+date,6.195616975795285
+re-employed ex-servicemen,0.0
+rule in appendix iiib,0.0
+reference,2.1755848210276256
+government letter,0.6666666666666666
+terms of rule,1.8333333333333333
+normal rule in appendix iiib,0.0
+ms madhavan,0.5
+fields,0.9241650294695481
+respondent,4.757894736842104
+respondent - state from time,0.0
+breaks,0.21761658031088085
+general education,0.3333333333333333
+grade pay with effect,0.5
+conditions for such benefit,0.5
+accordance,1.4069045211613462
+servicemen,1.1874999999999998
+for grant of higher grade pay scales,0.5
+principles,1.3198511166253102
+which count,1.3333333333333333
+aforesaid grant of higher grade,1.0
+count,2.7493281810130092
+armed forces,0.7981220657276997
+mutatis mutandi to ex-servicemen,0.0
+age of superannuation,3.5833333333333335
+head quarter,0.6666666666666666
+deputy directors,0.5
+virtue of rule,0.6666666666666666
+facts in baburaj,0.5
+service share basi in accordance,0.0
+year of service,1.4
+computing,1.5671875
+word,2.065873981084096
+grant of pensionary benefits,0.6666666666666666
+domain,0.6316883116883117
+writ,2.8882378560889794
+break,0.8632505016206206
+appeals,1.7060218112849692
+need,1.1097650269586634
+such compliance,0.5
+to the ex - servicemen,0.0
+amount,3.179688593072295
+military service of such ex - servicemen,0.0
+absence of any stipulation,0.5
+service under the state,0.0
+appendix,0.8502415458937198
+mutatis mutandi,1.25
+refer,3.840717772752903
+service for ex - servicemen,0.0
+military service as a pre - condition,0.0
+audit,2.6089743589743595
+entry,4.707210447678601
+government of kerala abstract public services-higher grade,0.0
+high,5.367119186841496
+payment,2.059553716565686
+conditions for reckoning,0.5
+principles under rule,0.5
+grade to non - gazetted officers,0.0
+account,2.5754891049671977
+higher grade pay,3.0
+retiral benefit from military service,0.0
+force,1.6009408121948314
+ex - serviceman desire,0.0
+kerala abstract public services-higher grade,0.0
+qualifying service for the grant,1.5
+proposal in detail,0.5
+proviso,2.112
+senior counsel for the appellants,1.375
+purpose,2.519170317925504
+law,3.538923411654744
+nos,1.2635492554198444
+head,1.5827778446537666
+observation,0.7625074854374218
+non-gazetted officers,0.0
+appropriate orders,1.2666666666666666
+time,2.4764180952862667
+cases,1.9728229418951067
+division,1.7657319129617017
+higher grades of pay,0.5
+break between military service,0.0
+driver in the police department,0.0
+educational officers,0.5
+solution,1.96476833976834
+normal rule,0.8
+kerala service rules,0.5
+learned judges of the division bench,0.6666666666666666
+grant of the higher grade pay scale,0.5
+applicable to the ex-servicemen,0.0
+principle that no person,0.5
+board,2.401414435268602
+eligibility,1.1788856304985336
+grant of higher pay scale,0.5
+eligibility conditions for grant,0.5
+military services,0.6666666666666666
+eligibility conditions,0.8
+eligible for the higher grade of pay,0.5
+refund,2.670692431561997
+counsel for the respondent-state,0.0
+non,1.3417336444559675
+service share basi,0.5
+grant,1.7314487632508835
+giri,1.9047619047619047
+accordance with the government decision,0.5
+letter read,0.6000000000000001
+extended thereunder,0.5
+mutatis,1.25
+confer,1.1904670382471652
+joint,1.0091324200913243
+stage of civil service,0.5
+appellants by way,0.75
+life-long retirement benefits,0.0
+assistant educational officer,0.5
+audit objection,0.6666666666666666
+benefit of life-long retirement benefits,0.0
+absence,1.092363454568179
+counsel,2.2246780703440323
+application,2.3322596088086445
+increments by order,0.5
+april,0.8928235149629509
+parts,0.6609660823170732
+india,2.7684068260703585
+shri v giri,0.6666666666666666
+fact in baburaj,0.0
+condition for reckoning,0.0
+grant of an appropriate higher grade,0.5
+increments,1.75
+iv of the kerala account code,0.5
+rules,3.130914366958792
+confers,0.9700996677740863
+reading,0.9004509191814082
+civilian service,0.5
+grade pay,2.3333333333333335
+regional deputy directors,0.5
+eligible for grant of higher grade pay scales,0.5
+normal course,0.8666666666666667
+talk,0.6790085679314566
+sb-,0.0
+ex-serviceman,0.0
+special leave petitions,1.6296296296296295
+submissions,0.5235745614035088
+required number,0.8333333333333334
+application for granting,0.6666666666666666
+mention,1.6248742837095076
+intention,1.7585585585585588
+ltd,2.382356477306883
+return,1.5755725190839696
+disposal,1.1180555555555556
+submission,1.0913871684001404
+military,2.757292522596549
+special leave petition,2.013333333333333
+drivers,0.27757032611401544
+mentions,0.5922498554077502
+respect of non-gazetted officers,0.0
+case of ex-servicemen,0.0
+appropriate higher grade,0.5
+conditions,1.9988092071092867
+civil services,2.272727272727273
+years of service,2.8000000000000003
+which count for pension,0.5
+pension on retirement,1.0
+domain of principles,0.0
+services under the state,0.6666666666666666
+detail,0.9737454684220567
+compliance,1.0029799914857385
+other than war service,1.0
+desires,0.5601415094339622
+return of bonus,0.5
+case,7.332269420884958
+period,1.9480170842427122
+emphasi,0.9191619047619048
+rule applies,0.5333333333333333
+own request,0.6666666666666666
+letter,2.707240080105903
+rival submissions of the parties,0.6666666666666666
+- pensionable under military rules,0.0
+retirement from civil services,0.5
+ambit,1.0862754267009587
+review petition,2.72
+superannuation,4.684210526315789
+grades of higher pay,0.5
+service,4.257395095954566
+therefore,2.960332350576253
+end,6.1484001628618765
+past military service,0.5
+state pension,0.5
+inter alia,1.3280423280423281
+rule,5.04
+conscious use,0.5
+term of rule,0.0
+eligibility condition,0.8
+reckoning,0.7000000000000001
+view of the order,0.6352941176470589
+appellant by way,0.6666666666666666
+service as a pre - condition,0.0
+armed,1.3980232677854423
+appeal  slp,0.0
+bench,2.5793391667754992
+violation,1.2087401208740118
+civil appeal,2.2413793103448274
+condition under both require,0.0
+pvt,0.8625817965496728
+-- by order of the governor,0.0
+leave,1.0147842365477848
+appeal before the division bench,0.9285714285714286
+rival submission,1.0454545454545454
+applicant,0.7861822513400833
+retirement benefits from military service,1.0
+words  civil pension,0.0
+slp,1.291953447628582
+refund of retirement benefits,0.5
+charges in respect,1.0
+eligible for the grant of higher grade,0.5
+civil pension under rule,0.5
+service for grant,1.3333333333333333
+higher grade pay with effect,0.5
+respondent - state civil services,0.0
+rival submissions,1.0454545454545454
+learned judge of the division bench,0.0
+retiral benefits from military service,0.5
+notice,2.3300025999395686
+mentions that military service,0.5
+- gazetted officer,0.0
+abstract,0.6571428571428571
+bonu,1.0294117647058825
+military service for the grant,0.5
+police,2.9749362629783356
+serviceman,1.5555555555555556
+grade of higher pay,0.0
+non - gazetted officer,0.0
+payable to a civil servant,0.5
+higher grade to non-gazetted officers,0.0
+case on hand,1.2941176470588236
+intention of the state government,0.5
+gratuity,2.9
+rule postulates,0.5
+omission,1.1856094505101127
+sense that the benefit,0.5
+to a civil servant,1.0
+reason,2.6381270903010035
+benefit from military service,0.0
+operation,1.0959893294085181
+clarification,1.0567698846387372
+for the grant of higher grade,2.0
+monetary benefits,1.7142857142857142
+scales,2.753521126760564
+conjoint reading of rule,0.5
+vol,1.8556860549079708
+appellants in the civil service,0.5
+life,1.3352928273744242
+respondent-state as non-gazetted officers,0.0
+past military service of the appellants,0.5
+one,4.845669314438648
+writ petition,6.24223602484472
+petition,5.3436539306104525
+second proviso,2.5
+guidelines,1.540251572327044
+consideration,1.9110153789142115
+government of india,4.94
+clear that conditions under both require,0.5
+rival submission of the parties,0.0
+writ court,1.4285714285714286
+words,1.6384367086179112
+other stage of civil service,0.5
+principle under rule,0.0
+war service in the armed forces,0.5
+that conditions under both require,0.5
+reply,1.0337305560040906
+rule postulate,0.5
+receipt,1.5471923536439667
+certain defects,0.6666666666666666
+state service,1.1666666666666667
+civil pension after retirement,0.5
+rules in appendix iiib,0.5
+promotion in the normal course,0.5
+conjoint,1.1875
+judge,2.9012627415183325
+conjoint reading,1.1333333333333333
+extra,0.9339653808803949
+only intention,0.3333333333333333
+government decision,1.6666666666666667
+above discussion,0.9333333333333333
+pre - condition,0.0
+different fields,0.6349206349206349
+pension under rule,2.0
+re-employed ex-serviceman,0.0
+respondent-state,0.0
+lis,3.299683526578166
+pre - condition for grant,0.0
+condition for refund,0.5
+aforesaid aspect of the matter,0.5
+service of an employee,1.0
+stipulation for compliance,0.5
+war service,3.0
+year of military service,0.0
+judges,2.0931496919173616
+gom,1.3298969072164948
+pensionary benefits,3.5555555555555554
+paper,1.8076689487632511
+ordinary,0.8637815068958488
+breaks between military service,0.5
+that condition under both require,0.0
+parts of service - pension,0.0
+refund of the retirement benefits,0.5
+mutatis mutandis,1.25
+rule in the audit objection,0.0
+military service,10.0
+years in the state,0.5
+hand,2.0299623418254717
+leave petitions,1.6296296296296295
+period of military service,1.0
+show cause notice,2.9565217391304346
+iii,1.5614499719992534
+sense,0.8606303395157362
+implicit,0.6112637362637362
+stipulations,1.0476190476190477
+higher grades,0.5
+bonus,1.023809523809524
+relevant government order,1.0
+qualification,2.1521739130434785
+appellant,14.387096774193548
+regional,2.357638888888889
+than war service,1.0
+notice of the court,0.875
+suggestion,1.2425592585991803
+kerala,4.135593220338983
+high court,7.7477477477477485
+different parts of service-pension,0.0
+different field,0.6857142857142857
+public,2.923239095873367
+state,6.817996007300392
+war,2.5190277765957907
+facts of the lead case,0.5
+higher grade of pay,7.5
+grant of higher grade,9.0
+police department,0.339622641509434
+pay scale,3.875
+matter by way,0.6666666666666666
+date of refund,0.6666666666666666
+non-gazetted officer,0.0
+submit,2.197409354703731
+general,1.7536558414534391
+grade of pay,7.5
+retirement from the military services,0.5
+deputy director,0.6428571428571429
+first paper,0.3333333333333333
+absence of any specific incorporation,0.5
+non - gazetted officers,0.0
+scale,2.0845464725643894
+emphasis,0.8024289099526066
+single,1.6221488419098207
+part iii,1.6764705882352942
+rajya,1.0
+submissions of the parties,0.75
+nature,1.4149926876444778
+discussion,0.7445831166579996
+ex - servicemen,0.0
+per annum,2.25
+accountant,1.8627450980392157
+computation,1.3021653543307086
+department s letter,0.0
+rule postulates that an employee,0.5
+qualifying,3.05
+entitlement of the benefits,0.5
+situation,1.1254754682459434
+assistant educational officers,0.5
+observations,0.7454584147497534
+terminal benefit,1.4285714285714286
+first higher grade,0.5
+different part of service-pension,0.0
+different parts,0.5034965034965034
+senior counsel,2.2857142857142856
+ms bina madhavan,0.5
+extra - ordinary pension rule,0.0
+learned judges,3.4864864864864864
+explicit,0.6240369799691833
+read-,0.0
+pensionary charges,0.5
+of the nature,0.7586206896551724
+respondent - state,0.0

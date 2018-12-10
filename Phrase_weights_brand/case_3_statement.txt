@@ -1,0 +1,154 @@
+import,1.5850112386464603
+burden,0.9853978671041838
+government,3.5583785424010483
+conditions for fulfilment,0.5
+benefit of the exemption,0.75
+benefit,2.604810195438474
+insofar,0.9295774647887324
+exemption,1.7371031746031744
+petitioner,4.524972253052164
+scmanu,7.940520446096654
+judgment of this court,2.1029411764705883
+basis,1.953226441078104
+particular,1.5248953455371081
+need,1.1097650269586634
+avail,1.1343021914648213
+statement,2.5393160135035964
+importers,0.7
+directions,1.5134125183504605
+advertisement,1.5480769230769234
+indigent patients,1.5
+hospital in question,0.5
+bench of this court,1.8271604938271604
+elt,0.9685135464974371
+patients,0.47297297297297297
+payment,2.059553716565686
+v union,1.5773809523809523
+reason,2.6381270903010035
+court,12.24425115501509
+appropriate condition for fulfilment,0.0
+event,1.4310854436179261
+further verification,0.5
+patient,1.4067744260269741
+union,2.0981927710843373
+unnecessary burden,0.5
+notification,3.0112746633260263
+full particular,1.2
+petition,5.3436539306104525
+exemptions,0.5625
+ors,2.8612718198296623
+guidelines,1.540251572327044
+purpose,2.519170317925504
+behalf,1.9888053603529987
+observation,0.7625074854374218
+expense,1.4186440677966103
+mediwell,2.5
+indigent patient,2.0
+matter,2.8088923076923082
+newspaper that the total number,0.5
+hospital,1.3942768854411434
+exemption notification,2.7142857142857144
+comply,0.802068302068302
+appropriate conditions,1.0
+addresses,0.5962962962962963
+unnecessary burden upon the petitioner,0.5
+full satisfaction,0.5
+full particulars,1.2
+number,1.4802651440973922
+dispute to the full satisfaction,0.5
+view,2.441100058469462
+fulfilment of such conditions,0.5
+decision,2.9514937765898557
+care,0.8846948234137723
+competent authority,2.7142857142857144
+larger,0.7736473880597015
+local newspaper,0.3589743589743589
+such object,0.6600000000000001
+aforesaid,2.592896174863388
+verification,0.9934640522875817
+comply with the conditions,1.125
+such condition,0.6407322654462243
+authority,2.4352627108360636
+manuscmanusc,7.940520446096654
+judgment for the purpose,0.6666666666666666
+monthly advertisement,0.5
+monthly basis,0.42857142857142855
+march,1.0644238856181665
+condition for fulfilment,0.0
+guideline,1.5641711229946524
+satisfaction,0.6639095671353735
+india,2.7684068260703585
+judgment,3.288216560509554
+dgh,0.3020833333333333
+fact,3.6284951019474962
+order,5.472481489660944
+burden upon the petitioner,0.5
+respondent authority,0.6666666666666666
+larger bench,2.0606060606060606
+-customs,0.0
+local newspaper that the total number,0.5
+court in mediwell,1.0
+ltd,2.382356477306883
+dispute,2.402137592137592
+importer,1.3636363636363638
+object,1.4940119760479043
+total number,0.8813725490196079
+particulars,0.9472222222222222
+circumstances,1.3944461370073231
+expenditure,2.804307692307692
+huge expenditure,0.5
+view of the decision,1.0
+monthly basi,0.42857142857142855
+conditions,1.9988092071092867
+mediwell hospital,0.5
+that condition,0.606060606060606
+advertisement in a newspaper,0.5
+such indigent patient,0.5
+prerogative of the government,0.5
+detail,0.9737454684220567
+payment of import duty,0.5
+reason of an order,0.8
+dghs,0.2142857142857143
+case,7.332269420884958
+prerogative,0.84
+burden of the expenses,0.5
+that conditions,0.5142857142857143
+manu,7.078142071124147
+accordance with exemption notification,0.5
+newspaper,1.4133350781914544
+condition,2.259476395625584
+appropriate conditions for fulfilment,0.5
+health care pvt,0.5
+details,0.9406426856198188
+order of reference,5.625
+circumstance,1.429931390219372
+with full particulars,0.5
+fulfilment,0.5833333333333333
+v union of india,2.381818181818182
+address,0.7129538279400157
+health,0.8632619439868204
+import duty,1.2857142857142858
+advertisement on monthly basis,0.5
+bench in mediwell hospital,0.5
+detail of the indigent patients,0.0
+expenses,1.2727272727272727
+details of the indigent patients,0.5
+appropriate condition,1.0
+direction,1.8495050210098996
+observations,0.7454584147497534
+supra,2.246342614440774
+reference,2.1755848210276256
+bench,2.5793391667754992
+further condition,0.5
+duty,3.2272215973003378
+such conditions,0.6545454545454545
+para,2.300239586747483
+respondent,4.757894736842104
+pvt,0.8625817965496728
+mediwell s case,0.0
+condition to avail,0.5
+accordance,1.4069045211613462
+-custom,0.0
+basi,2.0752712086391383
+behalf of the petitioner,1.6666666666666667
+question,2.980312372067635

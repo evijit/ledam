@@ -1,0 +1,155 @@
+execution,1.3041894353369763
+today,0.6330563683773655
+regard to all relevant factors,0.6666666666666666
+cost,1.2954397451466992
+notice,2.3300025999395686
+code,2.880559796437659
+basis,1.953226441078104
+months,1.1938163721148947
+amount,3.179688593072295
+merits,0.968421052631579
+publication,1.3442779291553135
+course,1.6545957498716626
+filing,1.1274190041313328
+ex - parte decree subject of the terms,0.0
+terms,2.390350840909655
+high,5.367119186841496
+- with the trial court,0.0
+week from today,0.75
+shivaraj v patil,0.75
+interest,2.74353772015385
+realization of the amount,0.5
+deposit,2.1724508050089444
+court,12.24425115501509
+ex - parte decree subject,0.0
+bank guarantee,10.428571428571429
+ground,1.4186722903211633
+basis of newspaper publication,0.5
+petition,5.3436539306104525
+suit,2.485274378207659
+defendant,3.7706855791962175
+trial court,3.854545454545455
+suit summon,1.0
+behalf,1.9888053603529987
+other respects,0.45714285714285713
+plaintiff,2.177926421404682
+order ix rule,0.5
+only grievance,0.75
+relevant factors,0.8608695652173913
+respondents submission,0.5
+term,3.6255105640901575
+suit claim within a period,0.5
+money decree,1.25
+appellants,7.701086956521739
+sum of rs,2.125
+view,2.441100058469462
+patil,0.85
+trial of the suit,0.6666666666666666
+behalf of the respondents submission,0.5
+miscellaneous appeal before the high court,0.5
+merit,1.2419290263876248
+claim,2.817264601856604
+decretal amount,2.3333333333333335
+undisturbed in all other respects,0.5
+appeal,3.4125488033856883
+- service,0.0
+recovery,3.9892473118279574
+such condition,0.6407322654462243
+ex parte decree,1.6666666666666667
+defendants in the suit,0.4
+procedure,2.552771605064117
+absence of the defendants,0.5
+appeal before the high court,1.1875
+absence,1.092363454568179
+counsel,2.2246780703440323
+month,1.3454861111111112
+- in the trial court within a period,0.0
+petition under order ix rule,0.5
+parte,0.7168042010502624
+code of civil procedure,5.5636363636363635
+defendants,2.3554376657824934
+judgment,3.288216560509554
+weeks,0.8109161793372318
+judgment - debtor,0.0
+respect,2.6704963235294117
+weeks from today,1.2
+subject,2.4420366233344897
+security,1.5014864864864865
+realization,0.6944444444444444
+fact,3.6284951019474962
+order,5.472481489660944
+non-service,0.0
+learned counsel,3.703333333333333
+further sum,0.8571428571428571
+relevant factor,0.8663594470046083
+circumstances of the case,1.3373493975903614
+guarantee,2.2562167724232554
+iii,1.5614499719992534
+accordance with the final order,0.5
+no doubt,0.8331331503088538
+suit summons,1.0
+submission,1.0913871684001404
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+week,0.8253498691546249
+annum,2.25
+impugned order,2.265957446808511
+conditions,1.9988092071092867
+final order,1.1466666666666667
+defendant in the suit,0.6666666666666666
+in the facts,0.9398907103825137
+portion thereof,0.875
+high court,7.7477477477477485
+circumstance of the case,0.5
+debtor,2.4615384615384617
+case,7.332269420884958
+suit claim,0.8888888888888888
+period,1.9480170842427122
+civil procedure,5.448275862068965
+unreasonable in the facts,0.5
+trial,3.7979448350459712
+future interest,1.0
+recovery of rs,0.6666666666666666
+newspaper publication,1.0
+newspaper,1.4133350781914544
+condition,2.259476395625584
+factors,0.9829522460542292
+shivaraj,0.75
+summon,1.0346907993966816
+basi of newspaper publication,0.0
+factor,1.2878742338904643
+ground of non - service,0.0
+circumstance,1.429931390219372
+civil,2.126558634963905
+grievance,1.032529659395331
+portion,1.0756311179804223
+service,4.257395095954566
+learned counsel for the appellants,1.7142857142857142
+trial court within a period,0.5
+regard,2.723310344827586
+rule,5.04
+per annum,2.25
+in the fact,0.7692307692307693
+respects,0.5585139318885449
+decree,3.732408834103749
+service of summons,1.25
+date,6.195616975795285
+sum,2.554898897856461
+money,1.6567889044524557
+miscellaneous appeal,1.3333333333333333
+only grievance of the appellants,0.5
+such conditions,0.6545454545454545
+facts,1.4696673624372698
+bank,9.40770083102493
+respondent,4.757894736842104
+further sum of rs,0.8
+summons,0.9764492753623188
+respondents,2.6341263330598856
+leave,1.0147842365477848
+date of filing,1.0588235294117647
+other respect,0.46052631578947373
+accordance,1.4069045211613462
+costs,0.8167395522604189
+parte decree,2.0
+basi,2.0752712086391383
+day,1.550999710228919

@@ -1,0 +1,453 @@
+commissioner of police,1.9090909090909092
+m paul anthony v bharat gold mines,0.5
+gurjit,0.5
+director,1.3549769585253457
+code,2.880559796437659
+high court of punjab,1.2380952380952381
+other hand,0.6931925622439332
+read with section,2.3513513513513513
+revision,1.6299226441631505
+employee,6.280487804878048
+reasons,1.3749054007567938
+sections,1.640495469442838
+decisions of this court,1.8225806451612903
+employee on the basis,0.5
+similar set of facts,0.5
+case of the appellant,1.1714285714285715
+proceedings in a criminal case,0.5
+bahadur singh,0.6666666666666666
+evident that the prosecution witness,0.5
+court,12.24425115501509
+questions of fact,1.3846153846153846
+husband sukhdev singh  sukha,0.0
+by a criminal court,1.6666666666666667
+assistant sub inspector,0.6666666666666666
+union,2.0981927710843373
+person,4.291511329454258
+ors,2.8612718198296623
+punjab police rules,0.6666666666666666
+such acquittal,0.6666666666666666
+probability,0.45294117647058824
+way,1.7812722068664852
+acquitted vide order,0.5
+behalf,1.9888053603529987
+court of punjab,1.2380952380952381
+acquittal of the appellant,0.6666666666666666
+punishable under sections,1.6153846153846154
+account of the pendency,0.6666666666666666
+rest of the cases,0.5
+respect of offences,0.75
+crucial witnesses,0.5
+district,1.5506763074237984
+decisions,1.3888475974580996
+decision,2.9514937765898557
+mines,0.8906554185593769
+charge upon the evidence,0.5
+baljinder,0.6666666666666666
+question of fact,1.45
+appeal,3.4125488033856883
+sheet,1.1667364016736401
+read,2.2147281730888695
+acquittal on merit,0.0
+charge subject,0.6666666666666666
+judgment,3.288216560509554
+nature of offence,1.25
+complicated questions of fact,0.6666666666666666
+question of law,3.057142857142857
+guilt,1.1140207075064712
+order,5.472481489660944
+witnesses on the ground,0.5
+act,12.870263922028107
+baljinder pal kaur,0.5
+circumstance of the present case,0.0
+deputy inspector general,1.25
+bahadur,1.0
+certain condition,0.6018518518518517
+sukhdev,3.7142857142857144
+judicial acquittal,0.5
+bihari,2.2
+tank,0.6540938362465502
+similar set,0.8
+copy,0.8620926631522174
+pendency,1.0084033613445378
+paper on record,0.0
+rest,3.3424534062537377
+parties,1.8210828547990157
+no right,0.6454703832752613
+that the prosecution witnesses,0.5
+section,9.287987283173626
+criminal cases,0.9904761904761905
+condition,2.259476395625584
+standard,1.4669008088548319
+revision before inspector general,0.5
+america,0.9205946994182289
+view of the facts,1.0
+judgment that an offence,0.5
+with the charge before the court,0.5
+circumstance,1.429931390219372
+civil,2.126558634963905
+finding,1.8129183657767178
+proceedings till the conclusion,0.5
+present case,1.5611814345991561
+investigation,1.6673076923076922
+proof in a departmental proceeding,0.5
+regard,2.723310344827586
+special court,5.7
+vigilance bureau,0.5
+service rule for reinstatement,0.0
+charge in the criminal case,0.5
+crucial witness on the ground,0.0
+m paul anthony,1.5
+benefit of doubt,1.8
+chandigarh,1.52
+union of india,3.1324503311258276
+same charge subject to certain conditions,0.5
+facts,1.4696673624372698
+service vide order,0.5
+success,1.087615328288992
+unconnected with the charge before the court,0.5
+meanwhile,0.5323868677905944
+basi,2.0752712086391383
+that the respondent,2.046153846153846
+benefit,2.604810195438474
+of the crucial witness on the ground,0.0
+cost,1.2954397451466992
+paul,1.032984782793505
+basis,1.953226441078104
+suspicion,0.690982776089159
+that the prosecution witness,0.5
+annexure p-,0.0
+sub,7.816899313759727
+different charge upon the evidence,0.5
+inspector general,0.6666666666666666
+kaur,0.5
+technical reasons,0.5
+criminal trial,0.8333333333333334
+charge,2.7679815308681284
+service rules for reinstatement,0.5
+pal,1.6504163634893685
+grounds,0.9540208829455945
+witness on the ground,0.0
+s samuthiram manuscmanusc,0.5
+officer,3.1197242647058823
+ground,1.4186722903211633
+opportunity,0.946186440677966
+vide order,1.7058823529411764
+proof,1.0648141580366008
+technical grounds,1.1111111111111112
+criminal,3.301971081989414
+behalf of the appellant,1.4878048780487805
+lac,2.403150042398463
+same charge,0.6666666666666666
+penal,1.8829173709853835
+view,2.441100058469462
+capt,0.946062938023911
+appellant baljinder pal kaur,0.5
+vide,4.454025282767798
+opinion,1.4960606342789635
+preponderance,0.6222222222222222
+wife,1.4518086408500224
+penal code,2.710144927536232
+merit,1.2419290263876248
+papers on record,1.0
+initiation of departmental enquiry,0.5
+sind,0.3859717868338558
+disciplinary proceedings,1.5
+brief facts of the case,1.0
+assistant,1.6732837055417698
+witness,5.333906623599983
+united state,0.5525959367945824
+onu,0.7016248153618907
+charge before the court,0.5
+record,2.5393414390845273
+material,1.4148767018946966
+guilty of charge,1.3333333333333333
+acquittal because witnesses,0.5
+punjab police rule,0.6666666666666666
+state of america,0.0
+nature of a charge,0.5
+defence,1.3606588776096535
+questions of law,1.3333333333333333
+united states of america,0.452054794520548
+polouse,0.0
+guilt in a criminal court,0.5
+provision,5.439002243350069
+due regard,1.0666666666666667
+quashing,0.9915966386554622
+few of the other witnesses,0.5
+initiation,0.6820512820512821
+respect,2.6704963235294117
+first,1.9006367208168047
+punjab police,2.75
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+finding that the appellant,0.8571428571428571
+department,1.9858367499068206
+anr,1.1271033322299457
+deputy,1.1595268542199488
+learned counsel for the parties,1.263157894736842
+special,1.7363344051446945
+view of the above discussion,0.6666666666666666
+husband,1.6418918918918919
+other witnesses,0.7
+such acquittals,0.5
+technical ground,0.7936507936507936
+evident that the prosecution witnesses,0.5
+superintendent of police,2.1153846153846154
+admissible under rule,0.5
+complicated question of fact,1.0
+appeal fail,0.875
+mercy,0.46153846153846145
+many of the crucial witnesses on the ground,0.5
+doubt,1.3646267723102583
+brief facts,1.0
+bar,1.4720990391722097
+other witness,0.7222222222222222
+charge - sheet,0.0
+bureau,0.5022321428571429
+report,1.7768151696835826
+punjab,1.0438169425511197
+papers,1.0564063453325199
+gold,1.6014084507042254
+principle,1.9620890732001848
+party,2.2250894654439723
+delhi,2.6089285714285717
+factor,1.2878742338904643
+circumstances of the present case,1.0714285714285714
+enquiry,2.145762711864407
+departmental appeal,0.5
+certain conditions,0.606060606060606
+v state,2.4603773584905664
+date,6.195616975795285
+administration,1.061072796934866
+quashing of dismissal,0.5
+of the other witness,0.5
+offence,4.401610644257703
+bank,9.40770083102493
+hearing,0.9644508209787979
+respondent,4.757894736842104
+jasbir singh v punjab,0.5
+inspector,1.2705882352941176
+dismissal from service,2.0
+acquittals on merit,0.5
+question,2.980312372067635
+principles,1.3198511166253102
+fact that the departmental proceedings,0.5
+scmanu,7.940520446096654
+v state of gujarat,1.2424242424242424
+writ,2.8882378560889794
+step,0.8867024753460084
+statement,2.5393160135035964
+grave nature,0.6666666666666666
+charge subject to certain conditions,0.5
+united,0.7052854122621566
+way of disciplinary proceeding,0.5
+first information report,1.9565217391304348
+high,5.367119186841496
+account,2.5754891049671977
+brief fact,1.0
+dismissal,1.614076246334311
+states,1.5120646995827023
+relevant in the present case,0.6666666666666666
+investigation charge sheet,0.8571428571428571
+help,0.7217940266720754
+law,3.538923411654744
+trial court,3.854545454545455
+cases,1.9728229418951067
+acquittals,0.5
+from rule,1.0
+opinion of the court,1.75
+same charge subject,0.5
+service on the basis,0.6666666666666666
+appeal fails,0.8571428571428571
+right,3.07483248288682
+prosecution,4.619407894736842
+tamil,3.111111111111111
+facts of the case,1.161764705882353
+brief fact of the case,0.0
+complicated question,3.25
+of charge,1.1199999999999999
+mine,2.2136866773770394
+offences,1.6681887366818873
+information,1.1320502836800534
+of the crucial witnesses on the ground,0.5
+additional evidence,2.25
+statement of witnesses,1.1428571428571428
+counsel,2.2246780703440323
+absence,1.092363454568179
+fact that the departmental proceeding,0.5
+law that the strict burden,0.5
+india,2.7684068260703585
+delinquent employee,0.5
+witnesses,3.359210526315789
+rules,3.130914366958792
+alse general,0.0
+probabilities,0.34782608695652173
+gurjit singh son,0.5
+illegality,0.8076923076923077
+evident from rule,0.6666666666666666
+new,0.9418497626301229
+illegality in the order,0.8
+appellant before the director general,0.5
+acquittal,2.2714285714285714
+anthony,0.3750985027580772
+son,4.595622484812135
+strict burden,0.5
+ltd,2.382356477306883
+disposal,1.1180555555555556
+evidence,3.6676405172088815
+corruption act,1.75
+district ludhiana,0.5
+decision of this court,2.3260869565217392
+conditions,1.9988092071092867
+complicated questions,2.6666666666666665
+united states,0.5498850574712644
+reliance,1.400763358778626
+vigilance,0.75
+admissible,0.8380681818181818
+case,7.332269420884958
+deputy inspector general of police,1.25
+annexure,2.7560975609756095
+scc,1.941872465904902
+early date,0.5714285714285714
+little help,0.2631578947368421
+sukha,1.0
+preponderance of probabilities,1.0
+opportunity of hearing,1.25
+bharat,0.9142857142857144
+factors,0.9829522460542292
+punishment,1.6266937669376693
+nadu,1.4166666666666665
+true that the respondent,0.75
+singh,3.7791111111111113
+statements,1.110873440285205
+information report,2.0
+service,4.257395095954566
+mehar,0.2380952380952381
+end,6.1484001628618765
+criminal charge,0.4615384615384615
+rule,5.04
+of the other witnesses,0.5
+proceedings,1.7670925223666287
+prosecution witness,2.2
+different charge,1.0
+gurjit singh son of bahadur singh,0.5
+supra,2.246342614440774
+service rules,2.95
+prevention of corruption act,1.8
+prosecution witnesses,2.0526315789473686
+superintendent,1.2698412698412698
+costs,0.8167395522604189
+criminal court,2.888888888888889
+departmental proceedings till the conclusion,0.5
+samuthiram,0.5
+proceedings on a different charge,0.5
+burden,0.9853978671041838
+appellant from service,0.6666666666666666
+of the charge,1.1111111111111112
+mercy petition,0.5
+absence of any provision,1.1428571428571428
+crucial witness,0.5
+enquiry officer,1.75
+police,2.9749362629783356
+steps,1.169318181818182
+departmental proceedings on a different charge,0.5
+case on hand,1.2941176470588236
+police officer,1.0366379310344829
+lal,1.6786163249382287
+under section,5.374517374517374
+set,2.3027452395971277
+reason,2.6381270903010035
+instant case,2.0631578947368423
+standard of proof,1.0
+under rule,1.4716981132075473
+help to the appellant,0.5
+writ petition,6.24223602484472
+petition,5.3436539306104525
+remedy,1.3214024835646458
+v bihari lal sidhana manuscmanusc,0.6666666666666666
+succes,1.0899488286934886
+jasbir,2.4
+pant,0.9369488536155202
+haryana,2.935064935064935
+m paul anthony v bharat gold mine,0.5
+paragraph,1.2930197483150305
+reasonable doubt,0.8638838475499093
+departmental proceedings,2.5714285714285716
+order of dismissal,3.6153846153846154
+commissioner,2.271608643457383
+civil writ petition,2.2222222222222223
+honour,0.8173913043478261
+reinstatement since the tamil,0.5
+guilty of the charge,0.6666666666666666
+others,0.9074667328904616
+statements of witnesses,0.75
+jalandhar,1.0
+crucial witnesses on the ground,0.5
+proceeding,2.1298245614035087
+director general,0.9000000000000001
+sidhana,0.6666666666666666
+guilty by a criminal court,0.5
+gujarat,3.2753623188405796
+prevention,0.6124072110286319
+little help to the appellant,0.5
+nadu service rule,0.5
+departmental proceeding,2.625
+authority,2.4352627108360636
+judge,2.9012627415183325
+manuscmanusc,7.940520446096654
+punishment of dismissal,1.0
+departmental enquiry,3.0
+reinstatement,3.0
+lacs,1.6941699604743086
+isolation,0.45714285714285713
+corruption,0.9432672590567327
+above discussion,0.9333333333333333
+conclusion,1.3883437407077015
+fact of the case,0.0
+service rule,3.1
+assistant sub inspector with punjab police,0.5
+nature of the case,1.0
+questions,0.9979150871872632
+paper,1.8076689487632511
+indian penal code,5.264705882352941
+that suspicion,0.6666666666666666
+hand,2.0299623418254717
+under sections,2.1931818181818183
+prafulla,0.8333333333333334
+iii,1.5614499719992534
+appellant,14.387096774193548
+punjab polouse,0.0
+circumstances,1.3944461370073231
+onus,0.8162100456621004
+opinion that the above,0.5
+requirement,1.2416133333333332
+nadu service rules,0.5
+high court,7.7477477477477485
+complainant,4.538461538461538
+v mehar singh manuscmanusc,0.5
+learned counsel for the appellant,1.7884615384615385
+new delhi,1.744186046511628
+state,6.817996007300392
+complicated question of law,1.0
+trial,3.7979448350459712
+manu,7.078142071124147
+general,1.7536558414534391
+ludhiana,3.25
+complicated questions of law,0.6666666666666666
+criminal case,1.4464285714285714
+set of facts,0.6857142857142857
+prafulla c pant,0.8
+nature,1.4149926876444778
+discussion,0.7445831166579996
+acquittal because witness,0.5
+proof beyond all reasonable doubt,0.5
+jasbir singh,2.4
+copy of the order,1.2142857142857142
+guilt beyond reasonable doubt,0.6666666666666666
+action,3.127292663476874
+in the present case,1.3486005089058526
+states of america,0.43421052631578955
+technical reason,0.2692307692307692
+united state of america,0.0
+disciplinary proceeding,1.6428571428571428

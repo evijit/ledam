@@ -1,0 +1,246 @@
+guwahati,1.75
+quantum,0.8922235363690124
+enactment,1.439950980392157
+courts,2.1216528162511543
+revision under section,0.8
+correct errors,0.5
+cost,1.2954397451466992
+open to high court,0.5
+writ,2.8882378560889794
+code,2.880559796437659
+to the aggrieved person,0.6666666666666666
+district judge,2.1684981684981683
+constitution by the insurer,0.5
+power under article,1.28
+power,3.8165227690948367
+constitution of india,3.0095238095238095
+motor vehicles act,2.8461538461538463
+merits,0.968421052631579
+injunction,2.1512605042016806
+premise,1.2347417840375587
+illustration,0.6900000000000001
+permissible to a high court on a petition,0.5
+revision,1.6299226441631505
+reasons,1.3749054007567938
+filing,1.1274190041313328
+that reason,0.5025536261491317
+high courts,2.676470588235294
+company,5.864471879286695
+grounds,0.9540208829455945
+high,5.367119186841496
+patent,1.3540828816226613
+under section,5.374517374517374
+permissible under the law,0.5
+reason,2.6381270903010035
+court,12.24425115501509
+order under appeal,1.0
+high courts under article,0.6666666666666666
+insurance company,1.4965986394557822
+to a high court on a petition,0.5
+vehicles,1.4161490683229814
+position,1.549133168619177
+ground,1.4186722903211633
+letters,2.0877496159754223
+dismissal,1.614076246334311
+supervisory power under article,0.5
+to the insurer against an award,0.5
+petition,5.3436539306104525
+objection,1.68120480131216
+high court under article,1.0
+suit,2.485274378207659
+person,4.291511329454258
+remedy,1.3214024835646458
+patent appeal,3.5833333333333335
+appellate court,3.1458333333333335
+writ petition,6.24223602484472
+trial court,3.854545454545455
+way,1.7812722068664852
+under the law,0.46495726495726497
+law,3.538923411654744
+insurer,8.041666666666664
+aforesaid reasons,1.1379310344827587
+correct error of law,0.0
+division,1.7657319129617017
+matter,2.8088923076923082
+claim petition,2.2222222222222223
+insurer against an award,0.5
+dismissal on that ground,0.5
+grounds of challenge,0.875
+errors,0.6042698360294927
+appeal on limited grounds,0.5
+high court on a petition,0.5
+article,4.378806157159795
+challenge deserves,0.6666666666666666
+correct errors of law,0.5
+plea,1.4430487701432178
+tribunal purport,0.5
+limited grounds,1.5
+aforesaid reason,1.1176470588235294
+present appeal,1.3424657534246576
+appellant s son,0.0
+sum of rs,2.125
+insurance,1.7782738095238095
+revision petition before the high court,0.8
+others,0.9074667328904616
+view,2.441100058469462
+district,1.5506763074237984
+open to an insurer,2.0
+mere wrong decision,0.5
+decision,2.9514937765898557
+less of an error of law,0.5
+articles,1.4349688743466387
+supervisory jurisdiction,1.1428571428571428
+counsel for the respondent,1.5822784810126582
+correct error,0.5
+tribunal on merits,0.6666666666666666
+appeal to the high court,2.25
+claim petition before the motor accidents,1.0
+permission,1.1531211886018407
+merit,1.2419290263876248
+claim,2.817264601856604
+court on a petition,0.5
+les of an error of law,0.0
+appeal against refusal,0.5
+legislature,2.818553268765133
+appeal,3.4125488033856883
+petition under article,1.6388888888888888
+right,3.07483248288682
+hereinafter,0.7670609645131939
+legal position,0.7659574468085106
+the tribunal,2.376543209876543
+inferior court,3.0
+remedy by way,1.0
+challenge,1.2204566274399267
+judge,2.9012627415183325
+motor accident,2.0
+writ petition under article,1.2
+procedure,2.552771605064117
+available under section,1.0
+record,2.5393414390845273
+appeal before the high court,1.1875
+order under challenge deserves,0.6666666666666666
+division bench of the high court,1.6825396825396826
+available to the insurer against an award,0.5
+error apparent,1.1
+counsel,2.2246780703440323
+guwahati high court,2.0
+month,1.3454861111111112
+learned single judge,3.4935064935064934
+jurisdiction of high court,0.75
+year,2.8349484769759212
+patent appeal before the division bench,0.8571428571428571
+award,3.104213525266157
+nicolletta,0.5
+india,2.7684068260703585
+temporary injunction,4.333333333333333
+accident,1.7464867454487383
+parameter,0.7630669107179174
+ground of challenge,0.6666666666666666
+motor accidents,1.6
+code of civil procedure,5.5636363636363635
+face,0.7281253260594137
+available to the aggrieved person,0.5
+judgment,3.288216560509554
+of an error of law,0.6666666666666666
+claim on the ground,1.0
+claims,1.1941982272360998
+state enactment,1.3333333333333333
+courts under article,0.6666666666666666
+claimant,2.3438596491228068
+fact,3.6284951019474962
+order,5.472481489660944
+view of the fact,0.8707482993197279
+learned counsel,3.703333333333333
+civil suit,0.7413793103448276
+act,12.870263922028107
+national,1.5126860273884035
+vehicle,2.973111766564837
+error of law,1.0
+limited ground,1.4285714285714286
+son,4.595622484812135
+ltd,2.382356477306883
+parameters,0.8168253968253969
+submission,1.0913871684001404
+filing of a petition,0.5
+evidence,3.6676405172088815
+appellant,14.387096774193548
+error apparent on the face,1.0
+special leave petition,2.013333333333333
+claim on merit,1.0
+motor,1.832417821954835
+to an insurer,2.3333333333333335
+right of appeal,3.3333333333333335
+that ground,0.6190476190476191
+appeal against the award,1.6666666666666667
+open to the insurer,1.25
+product,2.242984858429713
+supervisory power,0.5
+high court,7.7477477477477485
+constitution on the premise,0.5
+state,6.817996007300392
+case,7.332269420884958
+statute,2.5765859456247218
+jurisdiction,2.9539571926331507
+errors of law,1.0
+state legislature,4.444444444444445
+error,1.059158294766151
+such case,0.7332761578044598
+years,2.5395804110508022
+civil procedure,5.448275862068965
+court under article,2.032258064516129
+section,9.287987283173626
+- per month,0.0
+trial,3.7979448350459712
+herein,2.825259515570934
+matter of an illustration,0.5
+constitution,3.204842342342342
+writ petition under articles,0.5
+reason that a mere wrong decision,0.5
+letter,2.707240080105903
+appellate,2.561224489795918
+insurance co ltd,2.076923076923077
+anything,0.9132309941520469
+cpc,1.0529279279279278
+revision petition,2.6363636363636362
+merit in the submission,0.8
+collusion between the claimant,2.3333333333333335
+single,1.6221488419098207
+to the insurer,2.1666666666666665
+statutory right,1.2
+revision before the high court,1.0
+the act,5.708327371273712
+civil,2.126558634963905
+accidents,0.8385135135135136
+appellant herein,2.046153846153846
+- as compensation,0.0
+refusal,0.813597918022121
+learned single judge of the high court,1.2758620689655173
+aggrieved,1.2479674796747968
+aggrieved person,1.7
+tribunal,5.07183212267958
+collusion,1.8000000000000003
+wrong decision,0.75
+quantum of compensation,3.0
+to high court,0.6666666666666666
+division bench,3.965217391304348
+way of special leave petition,0.8571428571428571
+situation,1.1254754682459434
+rohtagi,1.2222222222222223
+sum,2.554898897856461
+challenge deserve,0.75
+compensation,3.7916666666666665
+motor vehicle accident,1.5
+khare,1.0
+bench,2.5793391667754992
+chandigarh,1.52
+judgment of a district judge,0.5
+tribunal purports,0.5
+trial court in a civil suit,0.5
+respondent,4.757894736842104
+compensation from rs,0.75
+leave,1.0147842365477848
+costs,0.8167395522604189
+national insurance co ltd,1.375
+writ petition on merits,0.5
+leave petition,2.013333333333333
+product of the statute,0.6666666666666666

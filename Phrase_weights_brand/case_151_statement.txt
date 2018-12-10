@@ -1,0 +1,5741 @@
+amenity of life,0.0
+conflicting claims,0.5
+progres on various works,0.0
+treatment program,0.5384615384615384
+same result in discrimination,0.0
+himalaya,3.6666666666666665
+additional land,1.6
+various works,0.8888888888888888
+human population because tehri dam area,0.5
+occasions,0.7723557692307693
+botanical survey of india,1.0
+other relevant factor in this regard,0.0
+pass,2.510543963686946
+large scale erosion of river bank,0.5
+international law,0.3288888888888889
+creatures,0.4020618556701031
+element of growth,0.5
+chain effects on catchment area,0.5
+learned counsel shri kirit rawal,0.5
+life of coming generations,0.5
+undeniable that execution of river valley projects,0.5
+financial assistance,2.7777777777777777
+cause,1.8431210321626654
+way,1.7812722068664852
+severe seismic parameter,0.5
+rights activists,0.3157894736842105
+technocrat,0.5
+court dealt,1.7857142857142858
+share,2.560794932990637
+comprehensive study,0.6666666666666666
+proof in environmental cases,0.5
+district,1.5506763074237984
+holy place,0.6000000000000001
+admission that the time schedule,0.5
+greater responsibilities,0.30000000000000004
+draining,1.1313131313131315
+silent,0.5133230565954636
+test,2.5329834591340266
+measures  actions,0.0
+fish from the river,0.5
+health impacts,0.5
+scientific conclusion,0.2777777777777778
+resettlement colonies at bhaniawala,0.5
+purposes of catchment area treatment,0.5
+experts on safety aspects,0.5
+lighting,0.42990654205607476
+fisheries,1.5
+right to citizens,0.0
+various reports,0.6666666666666666
+stage,1.1298537871524448
+hrc after due deliberation,0.5
+present position,0.6666666666666666
+construction of coffer dam,0.5
+word pan passu,0.5
+lock,0.6127820822424298
+activist,0.4822834645669291
+order,5.472481489660944
+settlement at a particular center,0.5
+clear that the rehabilitation condition in this case,0.0
+satisfaction of the department,0.5
+guideline before a project,0.0
+crores,6.931034482758621
+variety,0.5229534147444596
+bodies on the maintenance,0.5
+ingredients,0.7539893617021276
+standards,1.312168199737188
+pleading,1.1270125223613594
+proven fact that lot,0.5
+zoological,0.6666666666666666
+tests,1.9146311374290645
+on the environment,0.8974358974358975
+rehabilitation benefits,1.0
+pendency,1.0084033613445378
+respondents act in accordance,0.5
+sec discussion on the topic,0.5
+possible earthquake,0.5
+venture company of the government,0.5
+botanical garden,1.0
+general agreement,0.5714285714285714
+area coverage,0.5
+shop,1.5065156686317096
+dimensional test,1.0
+integral component for development,0.5
+inseparable ingredient,0.5
+inter - ministerial committee,0.0
+mistakes,0.49709302325581395
+completion of rehabilitation,0.5
+kamal nath,1.0
+simulated dam break analysi,1.5
+context,0.9269383697813122
+international commission on large dams guidelines,0.5
+opinion of earthquake engineer professor jai krishna,0.5
+only cash,1.5
+sustainable development,6.666666666666667
+which clearance,1.0
+former president,0.3333333333333333
+lapses at certain stages,0.5
+sustainable development principle,0.5
+fauna survey,0.5
+hospitalmedical facilities,0.5
+shortage of potable water,0.5
+high damping,0.5
+environment clearance,3.5
+degradation of ecology,0.5
+sarva ian hitay,0.5
+holding,1.2555282555282552
+ecological upgradation with the construction,0.5
+minimum possible disturbance,0.5
+canal,1.375
+lakh hectare of land,0.0
+roads,0.5501567398119123
+country,1.2903191103863751
+such taw,0.5
+further work,0.375
+cost of rs,0.8888888888888888
+affected land owner families,0.5
+permissible area for judicial interference,0.0
+acquisition,6.764044943820224
+conscious to the inherent danger,0.5
+human settlement,0.5
+basis of these communications,0.5
+yokohama strategy,0.5
+tehri bandh virodhi sangh samiti,0.5
+catchment area treatment obligations,0.0
+peri passu with the engineering,0.5
+non-linear analysis of dam,0.0
+bearing,0.7901184156798694
+economic costs,0.5
+uttaranchal state,0.5
+acknowledgment of this principle,0.5
+appropriate order,1.565217391304348
+cost estimates,0.2619047619047619
+safety to the department,0.5
+contention of safety,0.0
+urban water shortage,0.5
+bodies,0.8969063256135499
+hrc recommendation,1.0
+required studies,0.5
+seismic,6.000000000000001
+cleavage,0.75
+geographical area,0.2142857142857143
+letter of the secretary,0.5
+alteration  reduction,0.0
+basic data,0.5
+effect of water quality,0.5
+final condition,0.3333333333333333
+parameter,0.7630669107179174
+guidelines before a project,0.5
+total dissatisfaction,1.0
+appropriate measure,1.0
+project for construction,1.0
+additional living,0.5
+protection of flora,0.5
+citizen of the country,0.5
+main conditions that the ministry,0.5
+small dam,0.5
+artificial breeding work,0.5
+further improvements,0.5
+framework,0.5828468792096991
+chairmanship,1.0666666666666667
+affidavit,2.2996987951807224
+thereunder contemplate imposition of conditions,0.5
+orders of this court,1.4545454545454546
+rim of the reservoir,1.5
+estimates committee,0.5
+meaning of the latin word pan passu,0.5
+basic environmental issues,0.5
+formulation of environmental action plans,0.0
+cell,1.2725925925925925
+important temples,0.5
+possible occurrence,0.5
+month to the expert committee,0.0
+human rights activists,0.303030303030303
+sarva,0.3
+repute,0.5217391304347826
+catchment area,9.0
+uttar pradesh,2.8
+reference,2.1755848210276256
+pari passu with the construction,0.5
+understanding,0.8257450331125827
+plan for command area development,0.5
+forest land,2.0
+pay to the head,0.5
+future strict monitoring of the fulfillment,0.5
+downstream,1.1111111111111112
+works,1.7935487434410384
+garhwal,4.333333333333333
+payment on subsidised terms,0.5
+forest clearance,2.0
+social proces,0.5
+alteration,1.2619047619047619
+rehabilitation of affected families,0.6666666666666666
+wild animal,1.7105263157894737
+weighty concept,0.5
+approach,1.001908852302553
+increase,1.3270102600811262
+developmental activities,2.0
+norm of market value,0.5
+to the dam construction,0.5
+other words,0.7578482137053969
+august,0.977116704805492
+weed,0.29357798165137616
+such decision,1.5294117647058822
+progress on various works,0.5
+significatory,0.5
+thdc with the central water commission,0.5
+past,0.9553167330358714
+local representatives,0.5
+frastructual project,0.5
+altitude,0.3764705882352941
+construction work of the dam,0.5
+goodwill,3.4320000000000004
+line,1.6884436630262616
+equity,1.3214285714285714
+reduction in diseases,0.5
+further proposals,0.5
+commence,1.2515644555694618
+livelihood in the rehabilitated locations,0.5
+protest on the location,0.0
+independent expert,0.4
+stations,1.3948692152917506
+solution,1.96476833976834
+sqm,1.1513353115727003
+credible earthquake,2.0
+rehabilitation aspects,3.5
+fact that reservoir,0.5
+nominal cost,0.3333333333333333
+part of the agreement,0.75
+developments,0.5581395348837209
+principle of administrative law,0.0
+result of public agitation,0.5
+water need,0.3333333333333333
+certain rehabilitation,0.5
+hereinafter,0.7670609645131939
+further progress,0.6666666666666666
+march,1.0644238856181665
+projected benefits,0.5
+action plan pan - pas with the implementation,0.0
+environmental clearance to the project,1.0
+impoundment commences,0.5
+maximum credible earthquake during the economic performance life,0.5
+remedial measures,0.8
+dissenting note,0.5
+integral part of human right,0.5
+status of the progress,0.5
+environment protection rules,0.5
+realization,0.6944444444444444
+names,1.766440410418311
+completion of the project,0.6666666666666666
+statutory basis by a notification,0.5
+sangarsh,1.5
+large blocks,0.5
+foreseeable period of time,0.5
+catchment area under densification,0.0
+james,0.3839686098654708
+cusec,0.6666666666666666
+vice,3.766984711894892
+ameliorative measure,0.5
+land allotment,0.5
+rehabilitation aspects of the project,1.0
+welcome gesture that the clearance,0.5
+areas in the bhagirathi catchment,0.5
+staff college,2.0
+viewpoints of the experts,0.5
+own decided parameter,0.5
+right under article,1.8
+agricultural land to farmers,0.5
+that various recommendation,0.5
+the figure,0.8311688311688311
+purposes,1.4391216613438835
+quality,1.3318577075098814
+facilities of hospitals,0.5
+dam in tehri garhwal,0.5
+obligation for the court,0.5
+most marginal farmer,0.5
+public interest litigation,9.714285714285714
+minutest details,0.5
+proceedings,1.7670925223666287
+scientific matters,0.5
+venture company,1.0
+striking,0.7631578947368421
+respect of the affected families,0.5
+goodwill grant,0.5
+required study,0.0
+respondents,2.6341263330598856
+social conflict between different social groups,0.0
+rupture to the himalayan environment,0.5
+stand that -d non - linear analysi,0.0
+possible disturbance,0.5
+cut - off date,0.0
+landslip,0.5
+status,1.14824388424026
+other dam project,0.5
+power,3.8165227690948367
+environmental action plans,1.5
+wisdom,0.47641637300081324
+few other,0.40972222222222227
+due consideration,1.1111111111111112
+endeavors,0.3333333333333333
+work on project,0.5
+rehabilitation center at the cost,0.0
+authorities of india,0.6666666666666666
+other people,0.4590163934426229
+order of the government,0.6666666666666666
+annual action plans,0.5
+clarification,1.0567698846387372
+spread,1.1958927148800567
+several further improvements in the rehabilitation package,0.5
+petition,5.3436539306104525
+guidelines,1.540251572327044
+consideration,1.9110153789142115
+inter-generational equity,0.0
+conditional environment clearance,0.5
+ecology,1.4482758620689657
+expert in relevant branches,0.0
+construction of the dam,1.3333333333333333
+words,1.6384367086179112
+monsoon,0.2619047619047619
+phase,1.4803405572755417
+relevant portion of the environmental clearance certificate,0.5
+vital for life,0.5
+selection of the experts,0.5
+conning,0.5
+council for enviro - legal action,0.0
+manuscmanusc,7.940520446096654
+impact assessment,4.5
+living,1.0859950859950862
+affidavits,1.954022988505747
+ex - gratia amount equivalent,0.0
+rehabilitation measures,0.6666666666666666
+consideration of this decision,0.5
+site,0.9890725980575135
+good intention,0.2647058823529412
+national,1.5126860273884035
+translocated wild plants,0.5
+bhagirathi river valley authority,1.0
+construction of the project,2.0
+purpose of the act,1.7
+means,1.3868295182781003
+clay,0.22409909909909909
+administrative staff college of india,2.0
+optimum satisfaction,0.5
+dam fads,0.5
+stability of the dam,0.5
+main issue,0.3333333333333333
+kirit,0.6666666666666666
+events in the course,0.5
+vector breeding,1.0
+official,2.6854955160358718
+india wherein,0.5
+place in the interregnum,0.5
+submit,2.197409354703731
+language,0.8555828468744352
+uttranchal regions in the vicinity,0.5
+other dam projects,0.5
+erosion clas,1.5
+nature,1.4149926876444778
+ministry of agriculture,1.5
+anti - pollution laws,0.0
+management activities,1.0
+ecological impacts,0.5
+from various affidavit,0.5
+environmental act,2.0
+jai,1.2346163917255824
+cash grants for purchase,0.5
+petitioners,3.536507936507937
+various agency,0.0
+coverage,0.4867549668874172
+result of non - application,0.0
+other relevant factor,0.8333333333333334
+natural eco-system,0.0
+salutation of reservoir,0.5
+hyderbad in march,0.5
+dependant,1.0549450549450547
+findings,1.049571253572887
+prone area in the valley,0.5
+director,1.3549769585253457
+uncompleted dam,0.5
+simple construction activities,0.5
+clearance within the stipulated time frame,0.5
+major,1.2322145202480845
+sections,1.640495469442838
+environment management plans,0.5
+narration of various events,0.5
+inter,3.683850287482992
+court in narmada bachao andolan,1.5
+densification,0.5
+retd,0.3787878787878788
+new life,0.22580645161290322
+lac hectares,1.0
+legal provisions,0.875
+plans for tehri dam project,0.5
+censu,0.530701754385965
+arrange,0.8028673835125448
+disaster management exercises,0.5
+of this particular fact,0.5
+phase ii programme,0.5
+objection,1.68120480131216
+vellore citizens,1.0
+urban total,0.5
+formation,1.1075979991753988
+certain lapses at certain stages,0.5
+action plans,6.666666666666667
+himalayan valley near tehri,0.5
+symbiotic balance between the rights,0.5
+precedence,0.5911330049261083
+ha-,0.0
+series,0.4722257940079723
+trapezium matter,0.5
+shortage,0.75
+conditional clearance,7.5
+adverse up-stream impacts,0.0
+development strategy,1.0
+mines,0.8906554185593769
+claim,2.817264601856604
+land owners,1.0
+consequent direction by this court,0.0
+natural resources of people,0.5
+problems,0.7376119010005265
+to urban house  land owner family,0.0
+decisions on the implementation,0.5
+rs crores,7.565217391304348
+second phase,0.2857142857142857
+detailed dynamic analysis,0.5
+as the safety of the dam,0.5
+project after a thorough assessment,0.5
+passu with the construction,2.0
+dharmadhikari j,0.8
+flexibility,0.5538461538461538
+pages,0.4777568922305764
+rs- per sqm,0.0
+water resource,0.6000000000000001
+devastation,0.26
+evaluation of these aspects,0.5
+certain condition,0.6018518518518517
+deposition in river,0.5
+displaced family,1.0
+analysis,0.6606741573033708
+due to impoundment of reservoir,0.5
+clas,2.1196191893660425
+street lighting,0.6666666666666666
+certain grievances,0.6666666666666666
+greenbelt development,0.5
+translocated wild plant,0.5
+ill effects,0.5714285714285714
+landless person,1.0
+flow into the river,0.5
+reports of the high level committee,0.5
+close monitoring,0.3333333333333333
+penultimate stage of the proceedings,0.5
+several aspect,0.5
+various condition,2.0
+big dam,1.0
+conditions in the environmental clearance certificate,0.5
+proven fact,0.5
+- fulfillment of the condition of environmental clearance,0.0
+concerned ministries of the central government,0.5
+necessary direction,1.3333333333333333
+officers,2.442124212421242
+danger,0.8066378066378066
+council for enviro - legal action v union,0.0
+regard,2.723310344827586
+uttranchal regions,0.5
+additional family member of those families,0.0
+minister s note,0.0
+clear by the government,0.5
+iti,6.98090400256754
+fundamental rights,2.1587301587301586
+resources of people,0.5
+conditions that the ministry,0.5
+relevant portion,0.6486486486486488
+los of quality,0.0
+desire,0.6008255933952529
+concessional terms,0.3333333333333333
+available to the department for assessment,0.5
+other benefit,1.7575757575757576
+renowned expert,0.5
+claim of technocrats,0.0
+sub,7.816899313759727
+amenities,0.8974358974358975
+balanced approach,0.3492063492063492
+particular fact,1.5
+freedom,1.9254884143571103
+application of mind,2.0
+thousands,0.42748091603053434
+case of polluting,0.5
+agricultural wage,0.5
+local conditions,0.45000000000000007
+appropriate case,1.4074074074074074
+hereunder,1.4457142857142857
+dignified living,0.5
+hectare of non-forest area,0.0
+hanumantha rao committee,1.5
+relation,1.397320207820618
+maximum discharge,0.5
+submit that various actions,0.5
+dharmadhikari,0.8
+other such cases,0.5
+prior rehabilitation,0.5
+area treatment obligations,0.0
+prematured silt in other aspects,0.5
+ingredient,1.2242798353909468
+government order,2.138888888888889
+ex-gratia of rs,0.0
+detailed consideration of this decision,0.5
+comprehensive environmental plan for effective implementation,0.5
+decision on matters,0.5
+government officials,0.38235294117647056
+finding upon those grievances,0.0
+man living in the hills,0.5
+various event,0.3333333333333333
+unit,2.176678509944691
+procedure,2.552771605064117
+such circumstances,0.5729166666666666
+gaur to the committee,0.5
+planner,0.18181818181818182
+hydel power generation,0.5
+as the same result in discrimination,0.0
+advocates,0.6153846153846153
+conclusions,0.8522069292833413
+up - stream impact,0.0
+maximum,0.8925619834710745
+likely earthquake,0.5
+impacts on aquatic eco - system,0.0
+reduced levels of t,0.5
+large number,1.0979284369114877
+weighty concepts like inter - generational equity,0.0
+stabs,0.2727272727272727
+national committee on seismic design parameters,0.5
+resettlement problems,0.5
+such cases,0.7390180878552971
+current rate,0.30000000000000004
+acres of land,1.857142857142857
+complete satisfaction of the department,0.5
+such conditions in different parts,0.5
+acceptable as the same results in discrimination,0.5
+right to life,1.2373737373737372
+extent,1.410108024691358
+upstream,2.0
+social groups,0.2608695652173913
+source of livelihood,0.5
+aim,2.7822546950944274
+adverse impacts,0.5
+different departments,1.5
+second round of legal action,0.5
+valley of himalayas,1.0
+implication of the case,0.0
+creditor,5.357142857142858
+prof,2.2490686024537303
+case of the respondents,1.4285714285714286
+decade of natural disaster reduction,0.5
+agreements,1.0784313725490198
+fundamental duty,0.5
+safety aspects as a matter,0.5
+big project,0.3333333333333333
+employees,4.611008798854102
+overall environment management plans,0.5
+feature,0.6446262956901254
+council,1.464939453675021
+to the project,3.333333333333333
+at lower rate of pre- cost ie,0.0
+financial provisions,0.5
+seismic setting,0.5
+several difficulties,0.6666666666666666
+writ,2.8882378560889794
+power under the act,0.8
+need,1.1097650269586634
+safest man - made structure in earthquake prone zones,0.0
+sukhai,0.5
+months,1.1938163721148947
+irrigation,1.6666666666666665
+latest rehabilitation policy,0.5
+petitioners in public interest,0.5
+integral role,0.5
+waters,0.4344919786096257
+consultation with the likely affected population,0.5
+non-linear analysi,0.0
+rio,3.196810626129108
+test upon the opinion,0.0
+that these decisions,0.6666666666666666
+conditional clearance to the project,1.0
+other under the provisions,0.0
+light of the orders,0.5
+treatment of an additional catchment area,0.5
+set-up water quality monitoring station,0.0
+strict monitoring of the impact,0.5
+change,1.2214862766571903
+head,1.5827778446537666
+specific aspect,0.2857142857142857
+lapses,0.5761316872427984
+detailed discussion on the various issues,0.5
+flaws of the dam,0.5
+conflict over rights,0.0
+following principle,0.6
+maximum possible earthquake,0.5
+bhagirathi,7.5
+thdc action plan,0.5
+professor,0.46462882096069874
+uttranchal region in the vicinity,0.0
+malafides,0.5
+to development,0.9473684210526315
+dehradun district,0.5
+pendency of this petition,1.0
+general maintenance of water quality,0.5
+several report of the committees,0.0
+channels,0.6552631578947369
+that the expenditure,0.6666666666666666
+view of the expert committee,0.5
+pari-passu,0.0
+cat plan,1.5
+appropriate remedial measure,0.5
+results in wide spread displacement,0.5
+affected villages,0.5
+formality,0.5833333333333334
+surveys  studies,0.0
+unemployment,0.45098039215686275
+well - settled principles,0.0
+hrc recommendations,0.5
+economic problems,0.6666666666666666
+los of non forest land,0.0
+decision of this court,2.3260869565217392
+world bank,0.3333333333333333
+careful analysi,0.5
+diversion tunnels,4.0
+current stage,0.5
+network,0.7548833632401949
+submergence area,1.0
+specific aspects,0.2857142857142857
+utmost respect,0.6666666666666666
+silt in other aspects,0.5
+clay core rock fill dam,0.5
+periods,0.8597883597883598
+besides,0.6364883401920438
+dam break analysi,2.5
+water quality maintenance,2.0
+submergence,3.5
+planners,0.16666666666666666
+water level,1.5
+informed of progress on various works,0.5
+full reservoir spread,0.5
+taws,0.3333333333333333
+case of sardar sarovar project,1.0
+res judicata,1.3846153846153846
+natureecology,0.5
+coordination committee,1.5
+post - impoundment period,0.0
+point,2.9165043546008516
+big way,0.2727272727272727
+outcome of the studies,0.5
+strict observance,0.75
+location,0.8935109449248265
+migrant fish,0.5
+environmental impact assessment of development project,1.0
+steps,1.169318181818182
+further precaution,0.5
+status report on the progress,0.5
+enforcement of the laws,0.5
+successive earthquakes,1.0
+sangh,1.5151515151515154
+communication,1.013409067330636
+benefit from the storage,0.0
+tehri garhwal,0.5
+corporation of union,0.5
+maximum vertical acceleration,0.5
+detailed surveys  study,0.0
+threat of series,0.0
+nobel prize winner,0.5
+earthquake prone region,1.0
+pan passu,2.0
+integral element,1.0
+finance assistance,0.5
+categorical statement,1.0
+team of experts,1.0
+necessary amenities,0.5
+traditional occupations,0.5
+holder,1.8472993827160495
+earthquake analysis procedure for dams,0.5
+filing of the writ petition,0.8
+sunder,0.5685776805251641
+displaced people,0.5
+s rajendra babu,1.4444444444444444
+precautionary measure,0.3333333333333333
+round,1.6469623212681128
+chancellor,0.37142857142857144
+related impact on aquatic eco-system,0.0
+adverse impact on environment,3.5
+findings upon those grievances,0.5
+which person,0.6666666666666666
+pathri,0.5
+mistakes in resettlement,0.5
+disaster management plan in case,0.5
+ratio,5.027061939235792
+- passu conditions,0.0
+present norm,0.5
+storage,0.9779323578795875
+third,1.0303422515142742
+page,1.011907905159212
+medium erodability category actions,0.5
+conditional,1.157090909090909
+project authority,1.5
+eco - system,0.0
+issuance of a notification,0.8
+pari,1.2907375643224699
+obligation,1.1071428571428574
+expert committees,2.0
+court dealt with the safety concerns,0.5
+green signal,0.4444444444444444
+alternative fuels,0.16666666666666666
+additional family member of the landless agricultural labourers,0.0
+different reasons,0.6944444444444444
+ramification,0.3870967741935484
+equal proportion,0.5
+human population,1.0
+block,0.7881443298969073
+ha completion of cat,0.5
+hydro,0.6192893401015229
+environmental aspect,1.0
+hazard at the site,0.5
+pan passu with the engineering works,0.5
+counter,1.0576470084371923
+contention that the unmarried sons,0.5
+- progres,0.0
+big way for big projects,0.5
+discussion,0.7445831166579996
+illjsc,3.25531914893617
+indian engineers,0.5
+precautionary approach,0.5
+passu compliance,0.5
+understandings,0.3508771929824561
+book,0.7435955668604651
+comparison,0.7333333333333333
+overall factor of safety,0.5
+persons,2.5993381990166555
+amongst others,0.6666666666666666
+industries,2.162068965517242
+petitioner that the conditions,0.5
+detail of the urban rehabilitation package,0.0
+displaced families activity,0.0
+implementation,1.2465707594513213
+committee on safety,0.5
+mind,1.1559066143122394
+hazard,0.9680851063829786
+status of implementation,2.0
+earthquake susceptibility of the dam,0.5
+categorisation,1.2
+rehabilitation directorate,1.0
+recommendations of hrc,0.5
+other authority,1.0666666666666667
+progress of the work,1.75
+environmental condition,0.5
+behalf,1.9888053603529987
+sardar sarovar project,3.5
+clearance posses,0.5
+question of catchment area treatment,1.0
+law on this aspect,0.6666666666666666
+surroundings,0.48275862068965525
+protest from the people,0.5
+sine qua non,1.0
+venture company of government,0.5
+adherence of sustainable development principle,0.5
+stream environment impact,0.5
+flash,0.2798812175204157
+which section of experts,0.5
+arbitrariness,0.9047619047619048
+project of such dimension,0.5
+effective measure,0.5
+nath,1.2024818815807465
+disastrous as the implementation,0.5
+word of the eac,0.0
+thrust of the argument,0.75
+fish,0.7708108108108108
+time to time,1.0211267605633803
+steering,0.47529069767441856
+subsequent,1.2971213655431795
+upgradation with the construction,0.5
+fertility,0.19607843137254902
+preparedness,0.40384615384615385
+completion,1.1868131868131868
+narmada bachao andolan s case,0.0
+main conditions,0.5
+river valley authority,1.0
+shop keepers of old tehri town,0.5
+such social conflicts,1.0
+estimation of seismic hazard,0.5
+decision in ap,0.5
+element of sustainable development,0.0
+barren shell,0.5
+taw,0.5675877520537715
+large scale erosion,0.5
+brother s rajendra babu j,0.5
+pattern,0.6151546391752578
+environmental clearance subject,0.5
+steps like environmental impact assessment,0.5
+several further improvement in the rehabilitation package,0.0
+burden of proof,0.7378917378917379
+peri passu,0.5
+results in discrimination,0.5
+difficulty,0.656910569105691
+submit that the environmental plans,0.5
+residential land,0.5
+three-dimensional studies,0.0
+action plan pan - pass,0.0
+length,0.6297872340425531
+zoological survey,1.0
+minister,1.218958818958819
+objections,1.2025072324011572
+extra precautionary measure,0.5
+due to safety aspect,0.5
+fears,0.31978319783197834
+government at different stages,0.5
+degradation,0.4666666666666666
+flat slopes,0.5
+acre,1.6948939682084037
+public funds with the aim,0.5
+large extent,0.6818181818181818
+potion,0.30000000000000004
+snow bound,0.5
+water-,0.0
+necessary directions,1.4
+eco-system,0.0
+environmentalist,0.9565217391304348
+landless agricultural labourer,1.0
+built-up flats,0.0
+hence,1.1440732910500353
+formulation of action plan,2.5
+effect of grant,0.5
+citizens,1.0493208639501226
+amenities of life,1.0
+policy decision,1.6
+fulfillment of the conditions,3.0
+proof,1.0648141580366008
+vicinity,0.5866666666666667
+first beneficiary,0.0
+different agencies,0.30000000000000004
+failure on the part,0.8888888888888888
+goals of environmental protection act,0.5
+existingshops,0.5
+requirements,0.7375979875979877
+environment action plans,0.5
+basic feature,1.0
+own language,0.29885057471264365
+extent of land,0.6666666666666666
+hrc report points out the scantiness,0.5
+lieu thereof,1.6
+opinion of professor jai krishna,0.5
+pay,3.828326695859537
+reference in the hrc report,0.5
+spread displacement,0.5
+same result,0.4
+detailed action plans,0.5
+joint venture company of government,0.5
+firm foundation,0.30000000000000004
+aquarium,0.30000000000000004
+environmental plans,1.0
+earthquake,5.161764705882352
+in that decision that the questions,0.5
+on behalf of the respondents,1.3235294117647058
+technical formality,0.0
+condition on which environmental clearance,0.5
+uttaranchal,3.7142857142857144
+other word,0.758838674565131
+act to the secretary,0.5
+fundamental right of the people,0.0
+print for the management,0.0
+in - depth review,0.0
+necessity,0.7072538860103627
+care of the safety aspects,0.5
+risk from earthquake,0.5
+appraisal,0.9818181818181818
+submerged,1.4814814814814816
+behalf of the corporation,1.3333333333333333
+exercise,1.9400726466785694
+directions by this court,0.5
+submit that various action,0.5
+concerned authority,1.0
+spillway,0.5
+ministry of water resources,0.5
+context of creditors,0.5
+affected villager,0.5
+resettlement,1.157142857142857
+compensation for acquisition,0.8
+nobel,0.20238095238095238
+conflict over natural resources,0.0
+environmental appraisal committee of move,0.5
+pari passu with the engineering,2.0
+tehri haydel development corporation,0.5
+district level into the plan,0.5
+united  nation conference,0.0
+rural affected families cash compensation,0.5
+attention by welfare state,0.5
+forest department near the reservoir,0.5
+conservation,0.7109375
+larger areas,0.5
+tehri dam site,0.5
+maintenance of water quality,1.0
+cleavage between technological experts,0.5
+positive side,0.3333333333333333
+pans,0.9211229946524065
+shopkeepers,1.0
+hearing,0.9644508209787979
+international declaration,0.5
+land to farmers,0.5
+better lifestyle after displacement,0.5
+himalayan environment,1.0
+remains,0.6909272183449652
+certain vital suggestion,0.5
+same results,0.25641025641025644
+cultivable command,0.5
+living standard,0.6666666666666666
+inter-departmental authorities,0.0
+practice,1.7660110149488593
+happiness,0.3496621621621622
+necessity of close monitoring,0.5
+extent of compliance,0.5
+environmental aspects of tehri dam,0.5
+obstructionist,0.5
+conclusion that tehri dam project,0.5
+needs,0.6897483569699066
+in - depth review of the project,0.0
+result in discrimination,0.5
+works in the region,0.5
+rural areas,0.5454545454545454
+electric,4.0323098663926
+major unmarried sons,1.0
+notification,3.0112746633260263
+guarantee of fundamental human rights,0.5
+against the worst earthquake scenario of the area,0.5
+teams,0.3047619047619048
+expert bodies,1.6666666666666667
+certain camps,0.5
+which issues of safety,0.5
+bhagirathi basin management authority on a statutory basis,0.5
+board,2.401414435268602
+resource,0.8416706827309237
+such project,0.3333333333333333
+malafide,0.8571428571428571
+safest man - made structures in earthquake prone zones,0.0
+grant,1.7314487632508835
+assessment,2.647276084949215
+family members of the landless agricultural labourers,0.5
+detailed consideration,0.6666666666666666
+exercise of powers,0.6493506493506495
+certificate,2.732600732600732
+resource of people,0.0
+river,1.243409567587255
+metha v union,0.5
+grant of house construction allowance,0.5
+authorities,1.266131845134287
+power shortage,0.5
+development as freedom,0.5
+redressal,2.7333333333333334
+conditions of environmental clearance,1.0
+various detail,0.3333333333333333
+rights of oustees,0.5
+valley near tehri,0.5
+house  land owner families,0.0
+large quantity,0.6666666666666666
+formulation,2.2418478260869565
+responsibility of the state administration,0.5
+closing,0.8636363636363636
+equal qualify,0.5
+condition of the clearance,0.0
+upgradation,1.3333333333333333
+conference,0.9284899820817724
+equal quality,0.3333333333333333
+government for resettlement,0.5
+rural land owner family,0.5
+independent expert in the field,0.5
+technological experts,0.5
+none of the benefits,0.5
+analogy,0.4080145719489981
+development of common area,0.5
+undertaking,2.8508771929824563
+impoundment,11.0
+tehri hydro development corporation,1.3333333333333333
+construction of dam,2.5
+main condition,0.5
+condition in the environmental clearance certificate,0.0
+supra,2.246342614440774
+rehabilitation of the people,0.5
+hardship,0.7236842105263158
+famines,0.5
+allied aspects,0.5
+authority after due consideration,0.0
+anti-progres,0.0
+enviro-legal action v union,0.0
+fertilizers,0.6666666666666666
+status of dam project,0.5
+madhu,2.3
+related activities,0.38095238095238093
+conservation measure,1.0
+motto,0.12686567164179105
+state with all sincerity,0.5
+eac in the ministry,0.5
+recommendation to the government,0.0
+quarters,0.5426195426195426
+than any village in the country,0.5
+tehri town,8.5
+lives on those natural resources,0.5
+merits,0.968421052631579
+deduction,6.463320463320464
+land to every family,0.5
+uttranchal region,0.5
+diversion tunnels on the right bank,0.5
+condition of environmental clearance,0.5
+alibi,0.7615384615384616
+views thereof,0.5
+survey,0.9775055679287304
+mandatory after the project,0.5
+farmers,2.9
+social process,0.5
+pari passu compliance of the conditions,0.5
+intervention,0.6975694444444444
+decision bearing in mind,0.5
+related impact,0.5
+various recommendations,1.0
+three-dimensional study,0.0
+gesture,0.27672955974842767
+past to the resettlement colonies,0.5
+dam construction,1.5
+action plan to set-up water quality monitoring stations,0.0
+recommendations of the hrc,1.0
+displaced person,1.0
+man - made structures,0.0
+seismic hazard,1.0
+cost of tehri project,0.5
+receipt,1.5471923536439667
+himalayas,2.3333333333333335
+winner,0.24778761061946902
+component of article,0.6666666666666666
+specific assessment of seismicity,0.5
+work on tehri,0.5
+weaker sections of the society,0.8
+environment fixes at the time,0.5
+discharge remain,0.5
+part of garhwal,0.5
+ganesh wood product,0.5
+loss of land fertility,0.5
+safeguard,0.6623074687590815
+nation conference,1.0
+more people,0.24504950495049502
+concerned ministry of the central government,0.0
+degraded forest,0.5
+conclusion,1.3883437407077015
+committee of experts,0.5
+qua non,1.0
+supervision,2.825
+growth of gnp,0.5
+living down - stream,0.0
+impact area,0.5
+environmental rule,0.5
+prior to closing of diversion tunnels,1.0
+no doubt,0.8331331503088538
+recommendation subject to the condition,0.5
+secretaries,0.75
+further safety tests,0.5
+upper ganga basin,0.5
+high court,7.7477477477477485
+ln addition,0.5
+preference,1.0460251046025104
+technical opinion of the experts,0.5
+other pre-impoundment study,0.0
+reservoir filling,0.5
+consequent directions,0.5
+- fulfilment of conditions,0.0
+health,0.8632619439868204
+fundamental right,2.9790209790209787
+detailed deliberation,0.6666666666666666
+family member of those families,0.0
+provision of environment protection act,0.0
+time bound manner,1.0
+electricity,4.4831223628691985
+non-engineering activity,0.0
+university,3.75675614961249
+resettled families,1.0
+additional catchment area,0.5
+rehabilitation works,0.5
+shop - keeper,0.0
+portion of the dam,0.5
+evaluation of the performance,0.5
+edge of scientific analysis,0.5
+land in the region,0.5
+court in the case,1.3333333333333333
+tehri power project,0.5
+sections of the society,1.4444444444444444
+emergent needs,0.5
+expert opinion,0.6666666666666666
+health standard,0.5
+people,1.2855544825097243
+fad,0.4393939393939394
+risks,1.0984615384615384
+cash in lieu thereof,1.5
+step of decision making,0.5
+employee,6.280487804878048
+foreign expert,2.5
+problem,0.6764352120789936
+investigation for the purpose,0.5
+progress,1.075925925925926
+damping,0.30000000000000004
+government of uttar pradesh,2.0
+whole project,0.4444444444444444
+ors,2.8612718198296623
+forest department as a part,0.5
+v state of bihar,1.8918918918918919
+direction under the act,0.5
+win,1.4581467115222557
+safety test,0.2857142857142857
+shri,2.0759135877246115
+mahaseer fish,1.5
+disease,0.6741573033707865
+engineering work,3.7142857142857144
+detail of the compliance,0.0
+rights under the constitution,1.0
+annexure vi,0.5
+against the strongest earthquake in the region,0.5
+rights of the people,0.6349206349206349
+detailed annual action plans,0.5
+total land,1.0
+possible with the help of execution,0.5
+petition in public interest,0.0
+consequential supplementary measure,0.5
+cadp,0.7647058823529411
+to the union ministry of power,0.5
+rate of pre- cost ie,0.0
+quick implementation,0.5
+court that the report,0.5
+tehri dam reservoir,0.5
+forth,0.7104532839962997
+abandonment of the project,0.6666666666666666
+effective check,0.5
+ane,1.2636563124398124
+integral component,0.75
+admissible to urban houseland owner families,0.5
+type of project,0.6666666666666666
+suffering by displacement,0.5
+dehradun,2.0000000000000004
+various documents,0.8666666666666667
+thdc to the government,0.5
+huge cost,0.3333333333333333
+state government,3.027142857142857
+such progress,0.5
+rehabilitation condition in this case,0.0
+effect,2.184583388478191
+different context,0.5538461538461539
+case to the high court,0.5
+wage,1.5814065510597304
+pre-disaster preparation,0.0
+survival on natural resources,0.5
+on environment,4.609756097560976
+rise from glaciers,0.5
+that implementation of plans,0.5
+science,0.6879334257975034
+yojana assargrasth shakhar ane sangharsh samiti v state of gujarat manuscmanusc,0.5
+improvements,0.5399449035812672
+rural family,0.0
+erstwhile ussr,0.6666666666666666
+famine,0.3333333333333333
+erodability classification,2.5
+environmental balance,1.0
+chander pal at pages,0.5
+forest department in the catchment,0.5
+earthquake in the region,0.5
+purpose of rehabilitation,0.5
+pace,0.7438834429971801
+creatures in the region,0.5
+large dam project,0.5
+seismic hazard at the site,0.5
+krishna,1.2505446623093683
+effective control,0.2727272727272727
+canal waters,0.5
+decisions on matters,1.4
+fuels,0.328125
+enviro,4.826892109500805
+sud,1.0001217285453439
+pan-pass with the construction,0.0
+various facility,0.0
+several further improvement,0.5
+earlier occasion,1.0
+constitutional resolve,0.5
+studies on flora,0.5
+international law as law,0.5
+non-application,0.0
+way of abundant caution,2.0
+petitioner,4.524972253052164
+requisite resource,0.5
+department of ocean development,0.5
+huge dimensions,0.5
+emergence of salinity,0.5
+-d non-linear analysi,0.0
+comprehensive environmental plans as a component,0.5
+progress of engineering work,0.5
+neighborhood,0.28522336769759454
+catena of cases,0.8333333333333334
+turnkey basi,1.0
+similar reason,0.45000000000000007
+acceleo gram,0.5
+sardar sarovar,4.0
+large river dam project,0.5
+commensurate gains,0.5
+mind to the safety,0.5
+decision of the government,5.0
+immediate relief,0.6666666666666666
+landles,2.0
+relevance to the facts,0.5
+resettlement problem of the oustees,0.0
+ground,1.4186722903211633
+concerned expert bodies,0.5
+damage,1.8281814532316336
+structure at the old tehru town,0.0
+ability,2.0097418327420304
+compensatory afforestation,1.0
+bsi,1.6761044350306908
+urban shop - keepers,0.0
+various aspects,0.5333333333333333
+remote,0.4199252801992528
+remedial measure,0.8
+fill material,1.0
+chand v union of india,0.6666666666666666
+monitoring mechanism,1.5
+rehabilitation provision,0.5
+further improvement,0.5
+rim of reservoir,0.5
+corrective action,0.3333333333333333
+alternative fuel,0.125
+powers under the act,0.8
+precautionary principle in rio declaration,0.5
+improvement,2.157706093189964
+reports,1.0202012199952466
+house construction assistance for old tehri land owners,0.5
+colonies,2.8600000000000003
+environmental upgradation,0.5
+canals,0.3333333333333333
+development principle,0.5
+project from various details,0.5
+bihar,4.587301587301587
+inclusion,0.9738480697384807
+november,0.7203359669727383
+certain species,0.30000000000000004
+additional family members of the landless agricultural labourers,0.5
+main gainer,0.5
+geological,0.7058823529411765
+mature wisdom of the government,0.5
+recipient,0.7549019607843138
+respect,2.6704963235294117
+structural flaw of the dam,0.0
+decision on the hrc recommendations,0.0
+component for development,0.5
+text books,0.5714285714285714
+monitoring of such taws,0.5
+station,1.2515681586858238
+ganga basin,0.5
+lifestyle after displacement,0.5
+man - made structure,0.0
+standard of resettled families,0.5
+stand,1.8422769621739425
+full potential,0.2777777777777778
+families son,0.5
+pleas like res judicata,0.5
+other on the environment,0.5
+seismic design parameter,1.0
+above directions,0.9
+displacing project,1.0
+opinions,0.735248687055916
+necessary amenities of life,0.5
+details,0.9406426856198188
+environmental protection act,1.0
+conclusion of group,0.0
+rural area,0.5333333333333333
+down-stream population,0.0
+dam projects,3.0
+penultimate stage,0.5
+that reclamation plan,0.5
+half hectare of land,0.5
+water fishery,0.0
+man - made structure in earthquake prone zones,0.0
+cut-off-date,0.0
+colleges,1.9166666666666667
+further safety test,0.5
+proper step,0.6666666666666666
+opinion of the experts,1.5
+expert group,2.0
+raiwala,0.5
+representative of ngos,0.0
+disasters,0.35714285714285715
+which life,0.3333333333333333
+as safety of the dam,0.5
+assessment by a team,0.5
+priority of the state,0.0
+word,2.065873981084096
+long term,0.5946428571428571
+radressal,0.5
+irrigation department,1.4
+forum v union of india,0.75
+alpine blanks,0.5
+dynamic properties,0.5
+related works,1.0
+silent valley,0.5
+work in the region,0.0
+life in himalayas,0.5
+monsoons,0.5
+rural displaced families activity,0.0
+members,1.9437616522164103
+appraisal committee,2.0
+casualty,0.5
+which objection,0.6666666666666666
+saving,0.46787213432353897
+rehabilitation provisions,0.5
+assistance for this project,0.5
+command area development plan,1.5
+purpose,2.519170317925504
+ministry of the central government,0.0
+constructions for dam,0.5
+study,1.4280920541907696
+stream impact,1.5
+from other dam projects in plains,0.5
+monitor,1.2120681021532298
+simpliciter,0.3333333333333333
+due to the dam construction,0.5
+big projects,0.5
+shifting,0.5253424657534247
+execution pari-passu,0.0
+scientific analysis,0.2857142857142857
+stream cities,0.5
+domestic law,0.5
+contractor,4.09297052154195
+mine,2.2136866773770394
+department of power,1.0
+planning commission,0.75
+rio declaration of environment,0.5
+other land holders,0.5
+public interest,2.380434782608696
+more richter scale,0.5
+pari-passu condition,0.0
+area ie,0.4444444444444444
+environmental appraisal committee,2.0
+rules,3.130914366958792
+strict vigil,0.6666666666666666
+dependant for survival on natural resources,0.5
+compensation  age progress phase-,0.0
+old tehri town,2.0
+international end,0.5
+coordination,1.9090909090909092
+which action,0.5
+resettlement problem,0.5
+play,0.5464427772208388
+andhra pradesh,4.857142857142857
+disposal,1.1180555555555556
+advantaged group,0.5
+large dam,5.5
+department of mines,2.0
+conditions,1.9988092071092867
+technical body of the government,0.5
+mentioned hereunder,0.6666666666666666
+follow - up action,0.0
+non-consideration of material,0.0
+rs crore,7.833333333333333
+several disease,0.5
+latest affidavit,0.5
+base,0.8959264091163237
+narmada bachao andolan v union of india,0.6666666666666666
+lease,1.2000155472636815
+negative aspects,0.3333333333333333
+water-logging,0.0
+reference to the fact,0.75
+court by tehri bandh virodhi sangh samiti,0.5
+project work,1.3333333333333333
+expert dr vk,0.5
+governmental authority,0.0
+such areas,0.45000000000000007
+for want of necessary competent expertise,0.5
+respective state,1.5
+slopes,0.5
+hectare of forest area,0.0
+facts in detail,0.75
+interval,0.3623188405797102
+advocate,1.0791341991341994
+united nation,0.7
+haydel,0.5
+directive principle,1.2727272727272727
+geophysical,0.2
+large,1.222939218972131
+soviet expert,1.0
+evaluation of the environmental impact,0.5
+union ministry of power,0.5
+earthquake prone zone in the valleys,0.5
+worst scenario,0.5
+- per person,0.0
+main purpose of catchment area treatment,0.0
+precaution,1.4516129032258067
+capabilities,0.444015444015444
+certain conditions for clearance,0.5
+rise in water level,0.5
+necessary that the condition,0.6666666666666666
+agricultural field,0.6666666666666666
+foreign expert dr  n brune,0.0
+irrationality,0.4347826086956522
+unexpected eventuality of any dam failure,0.5
+conning generations,0.5
+disturbance,0.5303030303030303
+symbol of national development,0.5
+local representative,0.30000000000000004
+narmada,1.7333333333333334
+ocean development,0.5
+villages down stream,0.5
+forest to the secretary ministry,0.5
+weighty concepts,0.5
+issuance of the notification,0.8333333333333334
+other obligation for the court,0.5
+good intentions,0.26666666666666666
+fundamental right of oustees,0.0
+respondents act,0.6666666666666666
+directions to the respondents,1.0
+type dams,0.5
+subsequent developments,1.0
+plants,0.49906191369605996
+tests upon the opinion,0.5
+qualify,2.266500622665007
+camp,1.917373271889401
+requirement of law,1.25
+legislature,2.818553268765133
+canal water,0.3333333333333333
+micro-climatic change,0.0
+seeds,12.077922077922077
+dam,2.482607688744789
+observance,0.6967741935483871
+urban,1.1793683610180365
+argument,0.9504580388560493
+corporation,3.6427750743444176
+tribal,2.6666666666666665
+total catchment area,0.5
+additional study,0.0
+narration,0.8571428571428572
+fauna study,0.0
+such tests unless malafides,0.5
+shaft spillway,0.5
+feeling,0.4897158322056835
+products,1.6079404466501241
+change in fisheries,0.0
+school,1.2666111192798444
+decision that the questions,0.5
+animals,1.4863203806502776
+diversion tunnel,4.0
+aspects of planning,0.5
+further recommendation,0.5
+hand,2.0299623418254717
+part-land,0.0
+various conditions,2.0
+expenditure,2.804307692307692
+regional,2.357638888888889
+human rights,0.9865951742627346
+threats of series,0.5
+bar chart,0.25
+hitay,0.5
+forest in a time bound manner,0.0
+financial assistance for this project,0.5
+management in the untoward occurrence,0.5
+life style of the persons,0.5
+action plan for consideration,0.0
+ex-gratia payment of rs,0.0
+number of families,0.5
+rehabilitation centers at the cost,0.5
+constitutional democracy,0.6666666666666666
+challenge to safety aspects,0.5
+holders,0.9411764705882353
+clarifications,0.6111111111111112
+environmental conditions,0.5
+areas of  high,0.0
+resource for further development,0.0
+other creatures in the region,0.5
+issue target date status,0.0
+breadth of the dam,0.5
+fortnight during the period,0.5
+initial impoundment in the reservoir,0.5
+seismic vulnerability of the entire himalayan region,0.5
+rouble,0.45462794918330307
+hills,1.2985074626865671
+urgent need,0.5
+environmental appraisal committal,0.5
+to impoundment of reservoir,0.5
+such as safety of the dam,0.5
+part of phase ii programme,0.5
+oustees of tehri dam project,0.5
+further impoundment,0.5
+high level committee,3.25
+tehri land owner,0.5
+norm for compensation,0.5
+irreversible los,0.5
+comprehensive appraisal,0.5
+stringent action,0.5
+deprived section,1.3333333333333333
+sources,0.8884345343723477
+report of flora,0.5
+density,1.530612244897959
+priorities,0.5062893081761006
+co-chairmanship of the cmd,0.0
+related developmental activity,0.0
+flood fighting,0.5
+reduced level,1.0
+preventive measure,0.25
+facilities,0.9130594727161252
+imperative demand of modern times,0.5
+thorough environment impact assessment,0.5
+two-dimensional test,0.0
+rehabilitation center,1.5
+rio declaration,1.5
+emergent need before the issue,0.0
+scenario,0.4835164835164836
+unmarried daughters,2.0
+river deforestation,0.5
+needs before the issue,0.5
+sign,1.8302826558145708
+scr,2.483838975311538
+turnkey basis,1.0
+adequate financial provisions,0.5
+advice,0.7581699346405227
+randmp,0.5
+of non - fulfillment of the conditions,0.0
+impact on the fauna,0.5
+basis of expert,0.5
+duty of the state,1.0
+standard of living,0.37037037037037035
+socio - economic study of the measures,0.0
+cultivation in submerged land,0.5
+commissioning,3.222222222222222
+joint venture company of the government,0.5
+debates,0.6160714285714286
+eventualities,0.5
+officer under the overall supervision,0.0
+stream environment impacts,0.5
+thdc for implementation,0.5
+- progress,0.0
+corresponding expenditure,0.5
+seismicity,2.3333333333333335
+key exercises,0.5
+state government proposes,0.5
+group of experts,1.0
+pari passu compliance,0.5
+government of up,6.0
+catchment,12.333333333333334
+catena,0.5013888888888888
+professor jai krishna,1.5
+pres,3.886376551409615
+option,1.002339493011135
+member,2.649111111111111
+allowance,2.1019607843137256
+exact word,0.3555555555555555
+drinking,0.6887755102040816
+oustees of koteshwar dam,0.5
+old,2.3604324583711596
+necessary amenity,0.0
+provisions for irrigation,0.5
+meeting,1.5978547625659538
+reclamation,0.5
+pari passu clause,0.5
+breeding,0.8437499999999999
+condition,2.259476395625584
+relevant part,0.8979591836734694
+further precautions,0.5
+same terms,0.8
+symbol,0.8892215568862275
+fauna,4.222222222222222
+land of equal qualify,0.5
+schedule iii,2.6666666666666665
+oral submission on both sides,0.0
+high erodability area,1.0
+international,1.4453445246925631
+dams guidelines,0.5
+micro watersheds,0.5
+unlikely event,0.5
+flow of silt,0.5
+man living,0.26666666666666666
+dam on river tehri,0.5
+right stage,0.5
+site of the project,0.5
+prior attention,1.0
+existingshop,0.5
+vulnerability,0.37037037037037035
+seismic parameter,0.5
+international decade of natural disaster reduction,0.5
+entire catchment,1.5
+downstream water,0.5
+many epidemics,0.5
+inception of the project,1.0
+passu with the engineering,3.0
+river bank,0.5
+scheme,3.415949119373777
+project of such huge dimensions,0.5
+- passu,0.0
+environmental related developmental activities,0.5
+other structures at the old tehru town,0.5
+recipient of such aid,0.5
+balco employees,1.25
+relevance,0.6870535714285714
+financial assistance on a turnkey basis,0.5
+metha,0.45454545454545453
+reqd,0.2692307692307692
+four,0.9420030538019202
+-one,0.0
+goal of environmental protection act,0.0
+colleges in rural areas,0.5
+spread of a disaster,0.5
+separate opinion,0.8
+several occasions,0.5
+complaints,0.9978858350951374
+wild animals,1.2352941176470589
+present nature,0.5
+loan,2.299059561128527
+members from central water commission,0.5
+guideline for resettlement,0.0
+matter of abundant caution,2.0
+international repute,0.5
+post,2.344803646492219
+affected villagers,0.5
+statutory requirement,1.2857142857142858
+environmental,4.334707903780068
+weaker section of the society,0.0
+merit,1.2419290263876248
+design of the dam,1.5
+experts in consultation,0.3333333333333333
+wide spread displacement,0.5
+compensatory,1.7142857142857142
+other land holder,0.5
+eligibility for allotment,0.5
+other respondents act in accordance,0.5
+uses,1.4908719787871272
+to development encompasses,0.5
+indian planners,0.5
+detail of the rehabilitation,0.0
+preventive measures,0.25
+oustees,9.5
+time schedule,1.1428571428571428
+various conditions at the project site,0.5
+absence of these surroundings,0.5
+points of non-compliance,0.0
+ian,1.2104039325501617
+duties,1.477142857142857
+government decides,0.2777777777777778
+high level committee under the chairmanship,0.5
+worst earthquake scenario,0.5
+- renewable resources,0.0
+shopkeepers of old tehri town,0.5
+sacrifice,0.6684782608695652
+-d non-linear analysis,0.0
+sine qua non for the maintenance,0.5
+inter-departmental authority,0.0
+for tribal,0.75
+dam project,11.333333333333334
+simultaneous progress,0.5
+such test upon the opinion,0.0
+more families,0.5
+land in lieu thereof,0.5
+such area,0.47619047619047616
+holy places like rishikesh,0.5
+less benefit,0.30000000000000004
+indian teams,0.5
+bird,2.202185792349727
+mehta,2.3529411764705888
+seismic safety,1.0
+impact on environment,3.5
+certain conditions,0.606060606060606
+increase in the amount,1.0
+that result,0.3862068965517242
+coming generations,1.0
+networks,0.2975206611570248
+living by the side,0.5
+larger area,0.5
+large track,0.5
+shopkeeper,0.9000000000000001
+difference of opinion,0.5833333333333334
+schedule,2.9453067257945307
+that various recommendation of hanumantha rao committee,0.0
+breadth,0.375
+technological effort,0.5
+conditions of the clearance,0.5
+safest man - made structures,0.0
+the issue of development,0.5
+impact,1.0957789249924081
+break,0.8632505016206206
+matter of fact,0.6230936819172114
+environmental clearance in july,0.5
+high,5.367119186841496
+environment clearance within the stipulated time - frame,0.0
+glacier,0.2962962962962963
+demand of the people,0.0
+event,1.4310854436179261
+communications,0.7330779054916986
+opinion of learned brother,1.0
+additional director,1.25
+side by side,0.52
+question before this court,0.6666666666666666
+environmental concerns,0.5
+nos,1.2635492554198444
+paid,1.760659070240197
+large quantity of static water,0.0
+social group,0.2608695652173913
+rehabilitation of these much-affected people,0.0
+toy,0.4096989966555184
+- pollution laws,0.0
+area for judicial interference,0.0
+present position of progress,0.5
+necessary fact,0.75
+only point,0.39285714285714285
+under the constitution,0.8421052631578948
+department of environment,1.5
+urban rehabilitation package,0.5
+study of the flora,0.5
+present design,0.5
+protests,0.6376811594202898
+various safeguard measures,1.5
+blue print,0.5
+leaks,0.24528301886792456
+party to the united nation conference,0.5
+absence of environmental action plans,0.5
+exception,1.1036946087733006
+experience,1.0353951355971713
+other relevant factors in this regard,0.5
+temple,3.095996786718436
+attitude,0.4886970172684459
+meaning in the background,0.5
+various type,0.5
+concept of  sustainable development,0.0
+welcome gesture,0.5
+intentions for general common benefit,0.5
+progres of construction,0.0
+most marginal farmers,0.5
+document,1.401100265092073
+uttarkashi,1.5
+threat,1.0459885867740852
+reservoirs,0.3333333333333333
+earthquake analysis procedure,0.5
+section of experts,0.5
+fulfillment of political theory,0.5
+effects,0.944781359719119
+simulated,0.9375
+rehabilitation aspect,4.5
+dissatisfaction on failure,0.5
+sites,0.37916666666666665
+entire rehabilitation task,0.5
+environment fix at the time,0.0
+till date,1.2352941176470589
+protection of  life,0.0
+drinking water,0.6666666666666666
+aquatic eco-system,0.0
+regard to major sons,0.5
+balance families of tehri dam,0.5
+regard to the house construction assistance,0.5
+geological survey of india,1.0
+displacing projects,1.0
+conflicts,0.7758081334723669
+favour,1.653145208700764
+darn,0.4755244755244755
+matter if all relevant considerations,0.5
+part of the cat programme,0.5
+high erodability classification pari-passu with the construction,0.0
+chand,1.4868766404199476
+next expert group,0.5
+creditors,3.1333333333333337
+costs,0.8167395522604189
+annexure iv,0.5
+safeguards in the works,0.5
+attempt,0.7943782192788815
+forte,0.2302631578947368
+process,1.6274942048088725
+development encompass,0.5
+part of the un declaration,0.5
+classic work,0.38095238095238093
+appropriate steps like environmental impact assessment,0.5
+bhilangana rivers,0.5
+tehri bandh virodhi sangarsh samiti,1.5
+full application,0.6666666666666666
+contamination,0.2222222222222222
+earlier decision,1.5454545454545454
+- forest land,0.0
+shop keeper of old tehri town,0.0
+public agitation,1.0
+fund,2.9945256868353374
+design parameters,0.6666666666666666
+construction of large dams,1.5
+coming generation,0.6666666666666666
+dimensional,1.1120689655172413
+massive incursions into natural eco-system,0.0
+comprehensive environmental plans,0.5
+erodability category action,0.5
+lines,1.770523318937438
+strenuous effort,0.6666666666666666
+family,1.856281506375408
+power shortages,0.5
+status of rural rehabilitation sno,0.0
+year on the prescribed date,0.0
+matter on the availability,0.5
+resolve,1.0780327868852457
+holy places down stream,0.5
+large quantities,0.25806451612903225
+passu condition of clearance,0.5
+irreversible loss,0.5
+hectares of forest area,0.5
+which india,1.1666666666666667
+related work in the region,0.0
+ohan,1.1983276157804459
+stream,1.0738555922605002
+performance,1.4794327394994442
+electricity in the area,0.5
+state government with the help,0.5
+number of cases,0.5
+proposal for acquisition,0.5
+experts,2.4829710144927537
+chain,0.6855611957134798
+clearance subject to pari-passu conditions,0.0
+dam in lalpur,0.5
+strength,1.1679328901551123
+other contention that the unmarried son,0.5
+independent mechanism,0.5
+such as the safety of the dam,0.5
+submission on both sides,0.0
+various ministries,0.5
+cash,1.4775207900207898
+possession,2.808810857389056
+forest conditional clearances,0.5
+concurrence to the report,0.5
+incursions into natural eco - system,0.0
+requirement,1.2416133333333332
+lives of the people,0.6000000000000001
+design parameter,0.6666666666666666
+ladder,0.41304347826086957
+viewpoint of the experts,0.0
+sqmt,0.5555555555555556
+further fund,0.4
+structural flaws,0.3333333333333333
+monitoring of the impact,0.5
+alteration  reduction in quantity,0.0
+market value,2.125
+seed,16.41235059760956
+goals,0.5553451178451179
+expert body,4.5
+socio,0.5934684684684685
+further study,0.0
+impoundment commence,0.5
+rehabilitation conditions,0.5
+words of the eac,0.5
+others under the provisions,1.5
+tehri development corporation,1.0
+area in the valley,0.5
+initial impoundment,0.5
+non forest land,0.5
+water spread of reservoir,0.5
+packages,0.18080357142857145
+river valley dam project,0.5
+house construction assistance,1.5
+pari passu with the engineering works,2.0
+such discrimination,0.5454545454545454
+appraisal committee of move,0.5
+oustee of tehri dam project,0.0
+- linear analysis,0.0
+project of construction,0.5
+bequeath to the future,0.5
+tehri dam,19.0
+point of non-compliance,0.0
+such recommendation,1.0
+preparation of comprehensive action plans,0.5
+half hectare,2.6666666666666665
+matters,1.4810665618448637
+policy-making proces,0.0
+los,1.8125523261338943
+natural resources,1.2833333333333334
+act need,0.875
+integral element of sustainable development,0.0
+court,12.24425115501509
+hectare in addition,0.0
+left over surplus land,0.5
+wood,0.4294193744768282
+economic betterment,0.5
+annual cycle,0.5
+obstructions in the progress,0.5
+correctness,0.8404159132007234
+infringement of the laws,0.5
+part of policy-making process,0.0
+stab,1.5172976844115538
+plethora,0.41904761904761906
+different stage,0.6060606060606061
+dam projects in plains,0.5
+preparednes,0.40384615384615385
+decision,2.9514937765898557
+rehabilitation condition,0.5
+changes,0.8318262938726949
+house,2.0021735292386764
+fauna surveys,0.5
+polluter,0.30000000000000004
+acceptable as the same result in discrimination,0.0
+prevention of soil erosion,0.5
+bhagirathi basin therefore,0.5
+suffering,1.0058873002523128
+such recommendations,0.5
+hire,0.7466666666666667
+state administration,1.0
+himachal,2.5833333333333335
+unaffected part of the village,0.5
+preamble,0.34324942791762014
+diversion,1.3846153846153844
+lakh hectare,0.5
+priorities of the state,0.6666666666666666
+pollution,3.0000000000000004
+natural surroundings,0.5
+balance between environmental protection,0.5
+- forest area,0.0
+- engineering activities,0.0
+safeguards,0.5785123966942148
+line of cases,0.6666666666666666
+minimum,1.388221153846154
+hill,0.7652592613209386
+setting,0.7533735285673271
+either side,0.45192307692307687
+engineering works of the project,0.5
+additional members,0.5
+overall environment management plan,0.5
+developmental projects,0.5
+section,9.287987283173626
+strategy,0.5837837837837838
+good intentions for general common benefit,0.5
+price of national development,0.5
+displacement of people,1.5
+note of the director,0.5
+thereunder,1.2794117647058825
+plans for the treatment,0.5
+ministry of environment,6.0
+standard,1.4669008088548319
+finding,1.8129183657767178
+hectares in addition,0.5
+sardar,1.5789473684210527
+dimensions,0.695364238410596
+direction,1.8495050210098996
+sensing,0.28205128205128205
+string,0.38028169014084506
+disaster management framework,0.5
+inter-ministerial meeting,0.0
+non-linear analysis of the dam,0.0
+position of progress,0.5
+earthquake scenario,0.5
+discharge,1.305219638242894
+justification,0.6859587020648967
+clearance subject to the following conditions,0.5
+further proposal,0.5
+estimation,0.2777777777777778
+tehri area,0.5
+home,0.9826663267907214
+benefit,2.604810195438474
+re-active approach,0.0
+non-compliance,0.0
+cost,1.2954397451466992
+agency in the country,0.5
+ministry of environment vide,0.5
+further works,0.5
+various condition at the project site,0.0
+financial constraint,0.4444444444444444
+concern of the state,0.6666666666666666
+populated town,0.30000000000000004
+environmental damage,0.2857142857142857
+present petition,1.5
+good intention for general common benefit,0.0
+alternative employment,1.5
+matter,2.8088923076923082
+submit that the environmental plan,0.5
+reservoir spread,1.0
+public fund with the aim,0.0
+aid,5.498621453008654
+appraisal of the seismic safety,0.5
+decision in the sardar sarovar project,0.5
+appraisal committal,0.5
+book  environmental solution,0.0
+formulations of environmental action plans,0.5
+recent high dam,0.5
+mandatory for tribals,0.5
+recommendation of hrc,0.0
+statutory basis,1.0
+misery from large number,0.5
+safety concerns,0.3333333333333333
+examine,1.6547910566941708
+application center,0.5
+hectare,4.083333333333333
+than economic well,0.5
+petitions,1.3930830039525692
+expert body within the ministry,1.0
+vital suggestions,0.5
+same exception,0.5
+guideline,1.5641711229946524
+city,2.544592792669584
+support,0.8630946786249609
+recommendations to the government,1.0
+therein that the move,0.5
+inter - ministerial committee of secretaries,0.0
+catchment area treatment obligations of tehri hydro development corporation,0.0
+measures  action,0.0
+abundant caution,2.5
+additional member,1.0
+viewpoint,0.5409326424870466
+great local distress,0.5
+annexure v,1.0
+land of this country,0.5
+hardships,0.42857142857142855
+certain specy,0.0
+prize,1.6874999999999998
+object,1.4940119760479043
+demand,1.5671679197994988
+stage of the proceedings,1.4285714285714286
+such of those persons,0.5
+bhimtal,0.5
+diseases,0.731016731016731
+rock fill dam,1.0
+examination of the record,0.5
+least displacing project,0.5
+by the government,1.5909090909090908
+light,0.8816192372754331
+ha completion,0.5
+completion of project,0.5
+ousting,0.8333333333333334
+review,1.3564101463582128
+dam site,2.0
+definition,1.6460425937698666
+- climatic changes,0.0
+basi of expert,0.0
+amenity,0.75
+project region,0.5
+bhumbla,0.5
+approval,1.4085456739300164
+strict adherence of sustainable development,0.5
+benefit from the river,0.0
+want,0.9034484256025601
+ecological impact of big dams,0.0
+certain studies,0.5
+rural rehabilitation center at the cost,0.0
+tests unless malafides,0.5
+several times,0.6095679012345678
+protests on the location,0.5
+environment protection rule,0.5
+decisiondirections,0.5
+obligation of the government,0.0
+koteshwar dam  gramin total,0.0
+due to the dam,1.0
+ouster,0.7407407407407407
+ocean,0.4364640883977901
+large dams guidelines,0.5
+environment costs,0.5
+booklet,0.12837837837837837
+acres,1.8522588522588521
+inter-departmental committee,0.0
+pari - passu implementation of environment,0.0
+dams guideline,0.5
+different reason,0.6666666666666666
+exact words of the eac,0.5
+available for rehabilitation,0.5
+greatest number,0.5
+ancestral habitat,0.5
+reappraisal,1.0
+petitioners in this case,0.5
+conditions for environmental clearance,1.0
+cases,1.9728229418951067
+division,1.7657319129617017
+group,1.691932599016908
+passu with the engineering works,3.0
+subsequent to the filing,0.5
+independent mechanism through a forum,0.5
+indicating,0.5749235474006116
+court in sardar sarovar project,0.5
+unanimous conclusion,1.5
+environment vis-a-vis,0.0
+above direction,1.0
+halt,0.9613294982422499
+unmarried son,1.3333333333333333
+environment protection act,4.666666666666667
+likelihood,0.4933333333333333
+integral part of  life,0.0
+water quality monitoring stations,1.5
+source of living,0.5
+commitment,0.382608695652174
+water shortage,0.5
+environmental clearance certificate,1.0
+acceptance,1.4762112614578786
+water quality,7.5
+body on the maintenance,0.0
+fulfillment of those conditions,0.5
+several species,0.5
+project by the ministry,0.5
+international commission,0.5
+flaws,0.3161512027491409
+present design of the dam,0.5
+implementation of the project,3.0
+status report,1.1358024691358024
+report of the expert committees,0.5
+immense destruction of property,0.5
+successive earthquake in short intervals,0.0
+such matters,0.672514619883041
+same reason,0.4496969696969697
+computational capabilities,0.5
+distribution,2.7289109919449284
+set forth,0.47430830039525695
+garden,0.48275862068965514
+- consideration of material,0.0
+clearance certificate,2.0
+question of safety,0.5
+resettled family,0.0
+respects,0.5585139318885449
+technical opinion,1.0
+pari-passu implementation,0.0
+potential,0.7759544352337449
+dmp,0.4980406342316271
+technical reports,0.23076923076923073
+degraded catchment of all categories,0.5
+further step,0.75
+resources-effective use,0.0
+interest subsidy on loan,0.5
+fundamental human rights,0.3333333333333333
+erosion,1.6527777777777777
+as the implementation,0.5
+rehabilitation by june,0.5
+detailed evaluation,0.3333333333333333
+to acquisition for public purpose,0.5
+displacement,2.482758620689655
+acres in area,0.5
+rs-,0.0
+phase with the construction,0.5
+establishment of degree,0.5
+earlier portion,0.5
+soviet experts,1.0
+engineers,1.7887874837027378
+annual action plan,0.5
+maximum discharge in the river,0.5
+much - affected person,0.0
+recommendation of the remote sensing applications center,0.0
+category,1.9351744779266717
+separate families sons,0.5
+dam brake analysi,0.5
+richter,1.6
+aspect of safety,0.0
+plea,1.4430487701432178
+report of the high level committee,0.0
+concerned ministries,0.5
+conditional environmental clearance,0.5
+stages with regard,0.6666666666666666
+petitioner in public interest,0.0
+intermediate college in rural areas,0.0
+likely devastation,0.5
+life of the people,2.5
+past with regard,0.5
+extra,0.9339653808803949
+united nation conference,1.0
+garden in an area,0.5
+similar rehabilitation package,0.5
+prematured silt,0.5
+factual survey,0.5
+research,1.351044147915173
+university of roorkee,2.0
+quality of reservoir water,0.5
+conclusion that tehri project,0.5
+recommendatory,0.5
+land for land,0.5
+minimum of rs,0.6666666666666666
+various facilities,0.5
+indian engineer,0.5
+clearance,4.090225563909774
+role in this exercise,0.5
+vital suggestion in the hrc report,0.0
+instant,1.131578947368421
+re - appraisal of project,0.0
+text,0.869556447376715
+daughter,1.0364906832298135
+pari-passu with the construction,0.0
+democracy,1.3769338959212376
+short intervals,0.5
+controversy,0.8593204191806921
+high erodability,4.5
+large dams,3.5
+possession of any part,0.6666666666666666
+lease basis,0.5
+status of the urban rehabilitation programme,0.5
+dpower that a meeting,0.5
+foreign expert professor james,0.5
+behalf of the respondents,1.3235294117647058
+suitable direction,1.1428571428571428
+improved environmental safeguard,0.5
+hydro development corporation ltd,0.6666666666666666
+incursions,0.6666666666666666
+categories,0.8800000000000001
+assistance on a turnkey basis,0.5
+environmental case,0.5
+places down stream,0.5
+human being,0.599078341013825
+such studies,0.3333333333333333
+proportion to the engineering work,0.5
+books,0.8894824707846412
+eco,4.353494672442681
+general direction,0.3636363636363636
+such tests,1.1111111111111112
+enforceable under the provisions of environment,0.5
+controversy in this case,1.0
+technical formalities,0.5
+fundamental,1.8473025048169558
+former group,0.5
+weaker sections,1.125
+pafs,0.3333333333333333
+correctnes of the scientific conclusions,0.0
+committee of secretaries,2.5
+necessary for the court,1.0
+case of karjan,1.0
+principal,1.3412499999999998
+multifarious engineering,0.5
+requirement of the provisions,0.8
+settlement colonies,1.6666666666666667
+environment,4.8219106957424716
+financial constraints,0.4444444444444444
+such dams,0.5
+natural surrounding,0.5
+aspect of displacement,0.5
+government through different agencies,0.5
+danger to the upstream,0.5
+moef,0.2857142857142857
+impoundment of reservoir,1.0
+earthquake engineer prof jai krishna,0.5
+appropriate cases,1.2
+environment activists,0.5
+erodability to the thdc,0.5
+water fisheries,0.5
+high erodability classification pari-passu,0.0
+evaluation,0.7358156028368795
+recommendation of the hrc,0.0
+identical condition,0.5
+environmental implication,0.6666666666666666
+safety aspect,11.0
+alia,0.9479866480753792
+more person,1.2000000000000002
+execution of river valley projects,0.5
+certain camp,0.5
+intention for general common benefit,0.0
+part of human right,0.5
+may,3.683418028199994
+sarva ian sukhai,0.5
+image,0.4193995659512901
+nodal agency,1.0
+for aquatic life,0.5
+idea,0.5945499587118084
+counter affidavit,1.96
+list,4.014941314095513
+manner,1.4494591333432125
+certain parameters,0.6666666666666666
+anti-progress because the petitioner,0.0
+massive incursion into natural eco-system,0.0
+affirmative obligation on the part,0.5
+account by the government,0.5
+january,0.8699641577060931
+service of this notice,0.5
+to the tehri project,1.0
+plan for protectionpropagation,0.0
+colony construction,0.5
+which people,0.36250000000000004
+investigation,1.6673076923076922
+developmental endeavors,0.5
+geological survey,0.5
+class,2.1508512849922936
+first beneficiary of any project,0.0
+occurrence,2.1343873517786562
+monetary compensation for acquisition,0.5
+adequate financial provision,0.5
+affirmative obligation,0.6666666666666666
+several aspects,0.5
+environment of the entire region,1.0
+same term,0.7936507936507936
+exact word of the eac,0.0
+material about the extent,0.5
+different location,0.2777777777777778
+that implementation,1.0
+note of caution,0.8333333333333334
+persons of the tehri project,0.5
+pal,1.6504163634893685
+fertilizer,1.0
+further studies on flora,0.5
+check on the progress,0.5
+implication,0.6615776081424936
+officer,3.1197242647058823
+hospitals,0.363677536231884
+strict compliance of the directions,0.5
+destruction of property,0.6666666666666666
+meticulous care,0.6666666666666666
+scale of the ecological intervention,0.5
+rule on environmental impact assessment,0.0
+balance family,0.0
+alpine blank,0.5
+type dam,0.5
+growth of weeds,0.5
+environmental clearance within the stipulated time frame,0.5
+lac,2.403150042398463
+pari - passu implementation,0.0
+pollution control board v prof mv,0.5
+obstruction in the progress,0.0
+emergent needs before the issue,0.5
+pleadings,1.3125
+mean time,0.7777777777777778
+identification,2.0914158305462656
+valleys,0.4888888888888889
+data,0.9744599232788209
+ministries of the central government,0.5
+quantity of discharge remains,0.5
+subsidy,1.7142857142857142
+forests,1.8333333333333333
+world,0.7808471033398942
+seismi city,0.5
+first beneficiaries of any project,0.5
+botanical garden in an area,0.5
+legislation,3.2032032032032034
+tests unless malafide,0.5
+committee on environment,0.5
+such circumstance,0.5723905723905723
+major portion,0.45000000000000007
+erodability classification pari - passu with the construction,0.0
+karjan,1.0
+implementation by the state,0.5
+consequent directions by this court,0.5
+old tehri land owner,0.5
+credible,0.8229961832061068
+state corporation viz,0.5
+proper plan,0.5
+improvement in the environment,0.5
+such clearance possess,0.5
+logging,0.7924528301886794
+respondents in this case,0.5
+party,2.2250894654439723
+villager,1.1733333333333333
+of expenditure,1.7777777777777777
+natural adverse consequence,0.5
+therein,1.5503424657534246
+hrc s recommendation,0.0
+construction of a large dam,0.5
+society,2.1182859399684046
+existence,0.731202675709574
+required application,1.0
+reduced level of both t,0.5
+high claim,0.5
+co-chairmanship,0.0
+technical report,0.21052631578947367
+progres of the construction,0.0
+years on the prescribed date,0.5
+detailed annual action plan,0.5
+basi of these communications,0.0
+question,2.980312372067635
+v state of up,1.7027027027027026
+responsibilities,1.1746031746031744
+execution,1.3041894353369763
+deprived section of the society,0.0
+levels,0.8861538461538463
+environmental clearance,11.0
+matter of policy,1.0
+land holder,0.5
+chairmanship of district magistrate,0.5
+beneficiary,1.8333333333333333
+institute,0.9140980436760691
+statement,2.5393160135035964
+social impact,1.0
+amount of rs,1.5806451612903225
+massive damages,0.3333333333333333
+capability,0.417910447761194
+acceptance of hrc report,0.5
+other such case,0.3333333333333333
+pathari,0.5
+v union,1.5773809523809523
+stream environment impacts of the large dams,0.5
+high seismicity,0.5
+dam project in plains,0.0
+observation,0.7625074854374218
+appropriate orders,1.2666666666666666
+related disease,0.6666666666666666
+aspects of tehri dam,0.5
+prohibitive action,1.0
+big dams,0.5
+wisdom of the government,0.5
+plan,2.0162821688398056
+sundarlal bahuguna,0.5
+main controversy in this case,0.5
+track of forest lands,0.5
+-  aspects,0.0
+degraded area of high,0.0
+non,1.3417336444559675
+study report by bsi,0.0
+creature in the region,0.0
+dam design,1.5
+coffer dam,0.5
+river valley projects,1.5
+implementation of various conditions,1.0
+alterations,1.0714285714285714
+spot,0.778096903096903
+conclusion that such tests,0.5
+ground for diseases,0.5
+fear,0.8662375822023226
+salinastation,1.0
+application,2.3322596088086445
+law as law,0.5
+regard to the cases,0.5
+water supply,0.6944444444444444
+central government in terms,0.5
+related diseases,0.6666666666666666
+preventiveameliorative measures,0.5
+constraint,0.38964401294498385
+want of non-fulfillment,0.0
+re-active approach after the striking,0.0
+estimates,0.7197382769901853
+vellore,1.0
+normal course,0.8666666666666667
+multifold,0.5
+intention,1.7585585585585588
+richter scale,3.5
+draining catchment,0.5
+ltd,2.382356477306883
+several developments,0.5
+concerned ministry,0.0
+submission,1.0913871684001404
+several important temple,0.5
+greenbelt,0.24889867841409688
+pathari block,0.5
+the figures,0.5087719298245613
+scientific matter,0.5
+afforestation,1.0
+detail,0.9737454684220567
+water bird,0.5
+which action under the act,0.5
+fact in detail,0.0
+provision for irrigation,0.0
+environmental issue,2.0
+principle in rio declaration,0.5
+letter,2.707240080105903
+diversion tunnel on the left bank,0.0
+recommendation of expert committee,0.0
+aspect of disaster prevention,0.0
+regions in the vicinity,0.5
+cash compensation of land,0.5
+rehabilitated locations,0.5
+bean,0.4512820512820513
+several further improvements,0.5
+unmarried sons,1.3333333333333333
+states of up,0.5
+erodability area,1.0
+trauma,0.34591194968553457
+academy,0.5777777777777778
+erodability classification pari - passu,0.0
+minimum wane,0.5
+strict vigil on fulfillment,0.5
+several time,0.6102941176470589
+artificial reservoir,0.5
+adverse consequence,0.4444444444444444
+obstructions,0.4571428571428572
+thdc action plan for consideration,0.0
+official of the rehabilitation department,0.0
+amongst other,0.6521739130434783
+injurious effect,0.5
+correctness of the scientific conclusions,0.5
+rights activist,0.3157894736842105
+major unmarried daughters,1.0
+preference of the oustees,0.5
+filling,0.664718772826881
+safeguards against ill effects,0.5
+management,1.6732611752395274
+national development,0.6666666666666666
+equal under the law,0.5
+hydel,1.0
+rehabilitation centers,1.0
+tehri project,8.0
+next recommendation in respect,0.5
+dams,1.8194986072423398
+directorate,0.5555555555555556
+vectors,0.40909090909090906
+facility of hospitals,0.0
+moe decide,0.5
+mc mehta v union of india,1.4
+places,0.8371884824384251
+others,0.9074667328904616
+house construction allowance,0.5
+flash floods,0.5
+technical committee,0.25
+reassessment of the task,0.5
+ill,3.0852652247989245
+pas,2.68416862749163
+affected families from rehabilitation,0.5
+village in the country,0.5
+non-forest area,0.0
+nation,3.034318722392117
+sustenance,0.4
+earthquake prone zone,1.5
+more dam projects,0.5
+same reasons,0.4137931034482759
+status of the follow - up action,0.0
+monetary compensation,0.6666666666666666
+expert in science,0.0
+project in the year,1.0
+area treatment obligations of tehri hydro development corporation,0.0
+other landless person,0.5
+ecological upgradation,0.5
+preparation of environmental action plans,0.5
+present water level,0.5
+assistance,0.8623872906826965
+rehabilitation policy,2.5
+direction in various types,0.0
+stream impacts on environment,0.5
+branch,2.8500288406075756
+function of the court,0.75
+contentions,0.9641025641025641
+unaffected part,0.5
+supplementary measures,0.5
+uttaranchal government,0.5
+foreign expert james,0.5
+keepers,0.8999999999999999
+welfare,1.3226788432267886
+regard flora,0.5
+house owner families of tehri town,0.5
+ntt,0.5123134940154124
+los of land fertility,0.0
+contentions of safety,0.5
+ministry of welfare,0.5
+adverse up-stream impact,0.0
+various work,0.9523809523809524
+affected family from rehabilitation,0.0
+pan-pas with the construction,0.0
+present norm of market value,0.5
+bachao,1.5
+manu,7.078142071124147
+term  pari passu,0.0
+scale,2.0845464725643894
+government through different agency,0.0
+dam works,0.5
+equivalent,0.7908277404921701
+gaur,0.9130434782608695
+sum,2.554898897856461
+compensation,3.7916666666666665
+measure,1.1941357983816498
+area in the bhagirathi catchment,0.0
+resettlement problems of the oustees,0.5
+stream etc,0.5
+other issues,0.5
+infrastructural project,0.6666666666666666
+such social conflict,1.0
+further improvements in the rehabilitation package,0.5
+tehri land owners,0.5
+emergence,0.21111111111111114
+eligible family member,0.5
+pap,1.6952892723107666
+district level,1.75
+affected families cash compensation,0.5
+beneficiaries,0.8333333333333334
+reasons,1.3749054007567938
+filing,1.1274190041313328
+terms,2.390350840909655
+preservation,0.7312500000000001
+- linear analysis of the dam,0.0
+sub-station,0.0
+catchment area of the tehri project,0.5
+fabric,0.8546739984289081
+road,1.0764686576960945
+separate plans,0.5
+such computer,0.5
+vital suggestions in the hrc report,0.5
+high strength,0.5
+petitions in public interest,0.6666666666666666
+total area,0.84
+depth,0.5894308943089431
+aspect,1.2449448189023034
+such tests upon the opinion,0.5
+character,0.9325990965842764
+separate families,1.0
+plots at a nominal cost,0.5
+indian council for enviro-legal action v union,0.0
+right activist,0.5
+garhwal shri sunder lal bahuguna,0.5
+visit,1.0818161214776763
+disaster,2.6068181818181824
+writ petition under article,1.2
+status quo,0.7246376811594204
+age for such classification,0.5
+satisfaction,0.6639095671353735
+detail on the project,0.0
+obligations,0.9121212121212122
+water resources,1.0
+earthquake scenario of the area,0.5
+directions in various types,0.5
+settlements,0.6790123456790124
+other age,0.6222222222222222
+environmental cases,0.5
+relevant factor,0.8663594470046083
+formalities,0.5
+quantity of static water,0.0
+brake,0.15850815850815853
+flow,0.7030075187969925
+command,0.6880551024107304
+irrigation committee,0.5
+coordinates between different departments,0.5
+erodability,5.0
+fertile land,0.30000000000000004
+land owner family,0.5
+down-stream near dehradun city,0.0
+details of the land,0.5
+social impact with huge cost,0.5
+protocol,0.27840481565086533
+fortnight,0.5000000000000001
+consequence,0.8726692512593296
+necessary background,0.3333333333333333
+chain effect,0.5
+disaster india,0.5
+constraints,0.43956043956043955
+that results,0.3555555555555555
+plan for the treatment,0.0
+basi by a notification,0.0
+matters of policy,0.3333333333333333
+irrigated land,7.666666666666667
+other structure,0.5333333333333333
+main purposes of catchment area treatment,0.5
+task to the department,0.5
+satellite,0.2579310344827586
+management plans,2.0
+package,0.8176589460593814
+social conflicts,1.5
+identification of agricultural landless labourers,0.5
+related activity,0.0
+ex-gratia,0.0
+fundamental issues,0.4444444444444444
+full reservoir level,0.5
+grounds,0.9540208829455945
+spot studies of the impact,0.5
+clear that the expenditure,0.5
+tehri hydel development corporation,1.0
+further progress of the work,0.5
+necessary amenity of life,0.0
+member from central water commission,0.0
+energy,2.532098416289593
+two - dimensional study,0.0
+system in place,0.3333333333333333
+to the filing,1.1
+experts in science,0.5
+river valley project,1.5
+basin management authority,2.5
+river projects for dams,0.5
+other stabs,0.5
+fauna of project region,0.5
+relevant factors,0.8608695652173913
+article,4.378806157159795
+proper check,0.5
+prescribed time schedule,0.5
+experts in relevant branches,0.5
+foreseeable period,0.5
+environmental plans as a component,0.5
+place of residence compensation equivalent,0.5
+consequence of the implementation,0.0
+project works,1.5
+suggestions,0.7508630609896433
+peasants,0.25
+resources-effective use of non-renewable resources,0.0
+status of the coverage,0.5
+hyderbad,1.0
+propagation,0.3409090909090909
+scarcity,1.0
+conditional clearance of the project,0.5
+laws,1.4186274337269533
+degrees,0.5327868852459017
+several report,0.4
+check on the fulfillment,0.5
+ecological impacts of big dams,0.5
+fauna thdc,0.0
+valley with water spread,0.5
+which shook garhwal region,0.5
+large track of forest lands,0.5
+diversion tunnel on the right bank,0.0
+valley on himalayas,0.5
+various body on the maintenance,0.0
+scale erosion of river bank,0.5
+yojana,1.0
+keeper,0.7040816326530613
+increase families since last survey,0.5
+same viz,0.5
+massive damage,0.30000000000000004
+species of wild animals,0.5
+same time,0.6913511801045461
+oustee of koteshwar dam,0.0
+permissible area,0.75
+norms,1.1693121693121695
+final order,1.1466666666666667
+-d non-linear analysi of the dam,0.0
+grant of rs,0.5
+suppl,1.7520745539046882
+identical conditions,0.5
+work,2.8478559811646353
+system,1.1230229504341178
+final version of the dmp,0.5
+points,0.7095682483711788
+discrimination,0.8429118773946361
+proportion to the construction work,0.5
+earthquake engineer professor jai krishna,0.5
+inherent danger,0.6666666666666666
+breeding work,0.5
+feeling that contractors,0.5
+settlement,1.6881394467601363
+beside,0.6316646316646316
+un declaration,0.5
+certain study,0.0
+string of affidavits,0.5
+lands,1.3404179836160743
+non-forest land in the districts,0.0
+broader issue,0.5
+satellite image,0.25
+irreversible loss of quality,0.5
+family member,1.0924657534246576
+payment of ex-gratia amount,0.0
+september,0.8548484848484849
+realities,0.4081632653061224
+chance of vector breeding,0.0
+vegetation,0.2692307692307692
+directive,0.621951219512195
+consequences of the implementation,0.5
+edge,1.0883781551448468
+disaster need,0.5
+accordance,1.4069045211613462
+detailed discussion,0.5823529411764706
+view that the last committee,0.5
+separate house to house survey,0.5
+necessary measures,0.38095238095238093
+to construction,1.4
+condition on which clearance,0.0
+bhagirathi basin,3.5
+basis of detailed annual action plans,0.5
+february,0.8575630252100839
+principle of burden,0.5
+benefits from the storage,0.5
+vary high,0.5
+months of the impoundment,0.5
+consideration by indian planners,0.5
+water quality of reservoir,0.5
+cold,0.9388726207906296
+name,1.8996570753072433
+mehta v union,1.3333333333333333
+certain stage,0.3333333333333333
+further study on flora,0.0
+such issues,0.5263157894736842
+prof jai krishna,1.5
+after the project,1.0
+account,2.5754891049671977
+safety aspects in tehri bandh virodhi sangarsh samiti,0.5
+help,0.7217940266720754
+further impoundment of the dam,0.5
+ill effect,0.6666666666666666
+fauna studies,0.5
+environment action plan for consideration,0.0
+issuance,1.05379513633014
+silt,0.47058823529411764
+direct responsibility,0.5
+present status,1.75
+malaria,0.07627118644067797
+mef,0.5697528278173439
+sum of rs,2.125
+various bodies on the maintenance,0.5
+other downstream water,0.5
+further development,0.75
+salutation,0.6000000000000001
+concern in this regard,0.5
+to the department for assessment,0.5
+left,0.7928189606775855
+bhagirathi catchment,0.5
+interim report,1.2
+great threat to the safety,0.5
+separate reply,0.5
+developmental programme,1.3333333333333333
+environmental degradation,0.4444444444444444
+other landless persons,0.5
+type,0.8102172691515265
+public representatives,0.5
+policy,3.250773332247955
+seismic parameters,0.5
+flat,2.2950575421290584
+conclusions of group,0.5
+power generation etc,0.5
+serious aspect of displacement,0.5
+risk,1.2477718360071302
+son,4.595622484812135
+vellore citizen,1.0
+results,0.6487493619193466
+bhagirathi basin management authority,2.5
+industry,8.208106219426973
+massive incursions,0.5
+commission on large dams guidelines,0.5
+rawal,1.1022827041264267
+interest litigation,10.571428571428571
+areas of garhwal,0.5
+unexpected eventuality,0.5
+mitigation,0.75
+inhabitant,0.4840336134453781
+action plans for consideration,1.0
+tehri,32.666666666666664
+central government decide,0.5
+lalitpur,0.5
+necessity of further test,0.5
+effective check on the progress,0.5
+means of subsistence,0.3333333333333333
+research center,0.2198142414860681
+affair,0.8341728395061728
+local distres,0.5
+scientific uncertainty,0.5
+serious consequences,0.42857142857142855
+technicalexpert body,0.5
+spectrum,0.48506571087216255
+acquiescence of sustainable development,0.5
+shopkeeper of old tehri town,0.0
+safety against earthquake,0.5
+many times,0.413279132791328
+strict compliance,1.4444444444444444
+people s fundamental right,0.0
+rehabilitation activities,0.5
+inter alia,1.3280423280423281
+plant,1.381330685203575
+policies,0.5962145110410095
+learned brother s,2.0
+conceptual framework of human right,0.5
+form of houses,0.5
+inseparable ingredients,0.5
+closure,1.2826249067859805
+feasible for want of necessary competent expertise,0.5
+quantitative estimation of seismic hazard,0.5
+displaced family under the package,0.5
+distres,0.39716312056737585
+notice,2.3300025999395686
+implementation of large river dam projects,0.5
+better position,0.84
+participation,1.138392857142857
+figure,1.2881717501815544
+flood,0.7676190476190476
+salinastation in the command area,0.5
+materials,1.1534090909090908
+pari passu condition,1.5
+look in depth,0.5
+priority,0.7086614173228346
+coordination committee under the chairmanship,0.5
+ecological intervention,0.5
+status of compliance,1.0
+framework of human right,0.5
+reports of the committees,1.0
+such works,0.4
+constant technological effort,0.5
+vulnerability of the entire himalayan region,0.5
+progress of work,1.0
+careful examination,1.0
+destruction,0.7660818713450293
+environmental protection,0.6984126984126984
+technological expert,0.5
+documents,1.142515923566879
+foreign expert professor jame,0.5
+team,0.7272900763358778
+lower rate of pre- cost ie,0.0
+reply,1.0337305560040906
+right to environment,1.0
+up-stream,0.0
+gujarat,3.2753623188405796
+supplementary measure,0.5
+area authorities,0.5
+various affidavits,0.75
+chances,0.4692737430167598
+acre in area,0.0
+utmost concern of the state,0.5
+environmental jurisprudence,1.0
+breeding of vectors,0.5
+duty of the courts,0.75
+specific aspects of safety,0.5
+nayudu,0.6666666666666666
+aspects of safety,0.5
+conclusion that the tehri dam project,0.5
+environment vis-a-vi,0.0
+land owner families,1.0
+resources for further development,0.5
+management plan,6.0
+river ganga,0.5
+fund without any precedence,0.5
+event of an uncontrolled release,0.5
+gramin,0.2608695652173913
+action plan pan - pas,0.0
+from the discharge,0.5
+actual acceleo gram of the gazli earthquake,0.5
+less benefits,0.30000000000000004
+availability of the funds,0.5
+safe from the point of view,0.5
+new delhi,1.744186046511628
+answer,0.9554305705177771
+main purposes,0.30000000000000004
+separate plan for the treatment,0.0
+major married son,1.5
+various text books,0.5
+rate,3.088725136774248
+eac s recommendation,0.0
+rehabilitation conditions in this case,0.5
+related developmental activities,0.5
+emphasis,0.8024289099526066
+preventiveameliorative measure,0.5
+erstwhile state,1.25
+state of up,2.0784313725490198
+soil,0.6428571428571429
+fulfilment,0.5833333333333333
+large extent forest tracks,0.5
+certain vital suggestions,0.5
+- consideration,0.0
+monitors,0.3639639639639639
+mind by the government,0.5
+part of the village,0.3333333333333333
+irrigation committee of erstwhile state,0.5
+catchment area treatment obligation,0.0
+loss of properties,0.5
+bequeath,2.476190476190476
+aforesaid expert committee,0.5
+right under the constitution,1.0
+limit of rs,1.0
+respective states,1.375
+responsibility of treatment,0.5
+reference at this stage,0.5
+los of properties,0.0
+soviet,0.5513245033112583
+remote sensing applications center,0.5
+government,3.5583785424010483
+canal networks,0.5
+discussion on the various issues,0.5
+lives,0.6840821832520494
+degrees of severity,0.5
+such family,0.5
+frame,1.023976722714937
+tehri town of the new state,0.5
+irreversible los of quality,0.0
+ousting of thousands,0.5
+clearance to the tehri dam project,0.5
+severe scale,0.5
+grants,1.9239877769289533
+purpose of catchment area treatment,0.0
+thrust,0.4345864661654135
+family members of those families,0.5
+potentials,0.7843137254901961
+moral duty,0.5
+details of the rehabilitation,0.5
+relevant consideration,1.2
+uttarkashi area,0.5
+mere right to economic betterment,0.5
+non-renewable resources,0.0
+developmental endeavor,0.5
+houses,1.0821764442454098
+effective orders,0.5
+authorities in india,0.75
+agricultural labourer,1.25
+citizens of the country,0.5
+competent expertise,0.5
+trust,1.8699167074963252
+contrary,1.027917657672435
+several proposal,0.5
+different agency,0.0
+districts,0.8210526315789474
+face ouster,0.5
+correctnes,0.8404159132007234
+flash flood,0.5
+acquired land shell,0.5
+beneficiaries of any project,0.5
+several difficulty,0.0
+cusecs,0.5
+villagers,1.6111111111111112
+performance against the maximum credible earthquake,1.0
+assumption that the impact,0.5
+additional affidavit,1.3333333333333333
+environmental concern,0.6666666666666666
+roubles,0.2436974789915966
+cash grants,0.5
+cat programme,1.5
+family members,1.2631578947368423
+geographical areas,0.5
+many time,0.4133064516129032
+surveys,0.4605263157894736
+government decide,0.5121951219512195
+affected village,1.0
+care of such deprived sections,0.5
+garhwal town in the state,0.5
+intervene,0.6112909025530385
+situation before rehabilitation,0.5
+expert committee for environment impact assessment,0.5
+adverse impact on the fauna,0.5
+entire degraded catchment,1.0
+stipulated time frame,0.5
+options,0.4805219364599092
+version,1.0500313479623824
+expertise,0.7351351351351351
+inhabitants,0.4835164835164836
+accordance with the provisions,1.9523809523809523
+oral submissions,0.5
+gnp,0.22121212121212125
+adverse effects,0.6000000000000001
+present case,1.5611814345991561
+protectionpropagation,0.5
+extract,0.7823518379594899
+amartya,0.5
+physical links,0.5
+non-renewable resource,0.0
+same to the union ministry of power,0.5
+major sons,1.0
+mere revisit to the earlier decision,0.5
+making,1.409351874023649
+imposition,1.4444444444444444
+poor villagers,0.5
+powers,1.876345371920593
+in the context of this case,0.5
+broader issues,0.5
+non-compliance of other legal provisions,0.0
+technological efforts,0.5
+landless labourers,0.5
+experts as a matter,1.0
+economic cost,0.5
+president,2.1267129228100607
+mere formality,0.75
+irrelevant consideration,0.8
+cash option,0.5
+large magnitude earthquake,0.5
+court that the reports,0.5
+voters  list,0.0
+projected benefits from the dam,0.5
+disaster management ran,0.5
+villages,0.7433206106870229
+forests for rehabilitation,0.5
+actions,3.633288043478261
+opportunity,0.946186440677966
+polluting,0.9264705882352942
+that reclamation plans,0.5
+living standards,0.3333333333333333
+environmentecology,0.5
+state government propose,0.5
+opinion with conclusions,0.5
+- linear test,0.0
+relation to the protection,0.5
+degraded area,2.0
+modification of the plan,0.5
+general directions,0.6666666666666666
+alternative land of equal qualify,0.5
+andhra,4.830188679245283
+various agencies,0.6666666666666666
+mistake in resettlement,0.0
+other aspect,0.6921768707482993
+shortages,0.8888888888888888
+aspect of tehri dam,0.0
+other benefits,1.9500000000000002
+contractors,2.2093023255813953
+respondent - corporation,0.0
+distress,0.39716312056737585
+effective order,0.75
+environment conditions,0.5
+rural rehabilitation,2.5
+physical link,0.5
+government of india wherein,0.5
+handing,1.0706896551724139
+present status of the coverage,0.5
+various body,0.0
+anti - pollution law,0.0
+december,0.9629002463054187
+study reports,0.5
+separate reply on affidavit,0.5
+improvement of electricity lines,0.5
+living standards of displaced persons,0.5
+continuance of the project,0.5
+sen,4.021152898608279
+member of the environmental appraisal committee,0.0
+condition for environmental clearance,0.0
+prof jaikrishna,0.5
+indian council for enviro-legal action,0.0
+irrigation department of the government,0.5
+bar,1.4720990391722097
+detailed action plan,0.5
+report,1.7768151696835826
+which reference at this stage,0.5
+everything,0.6255060728744939
+indian team,0.5
+usefulnes,0.208955223880597
+wood products,0.5
+disaster management plans,1.0
+factor,1.2878742338904643
+different social groups,0.5
+natural resources for further development,0.5
+lifestyle,0.32
+opinion of prof  jaikrishna,0.0
+permissible areas for judicial interference,0.5
+high flexibility,0.5
+division bench,3.965217391304348
+execution of the project,1.25
+non-linear analysi of the dam,0.0
+date,6.195616975795285
+basic management authority,0.5
+dpspaf,0.5
+confluence of the bhagirathi,0.5
+gainers,0.3333333333333333
+authority of the project,0.0
+fundamental right under the constitution,0.5
+which water,0.6666666666666666
+whole spectrum,0.3333333333333333
+full application of mind,1.0
+environmentalists,0.9333333333333333
+of those person,0.5000000000000001
+gazli earthquake,0.5
+activists,0.37999999999999995
+expert professor james,0.5
+brother,1.4566585956416465
+development of the area,0.75
+power ministry,0.5
+inertia,0.375
+sustainable development of the area,0.5
+variety of issues,0.25
+care of the adverse impact,0.5
+constructions,0.6758620689655173
+simple construction activity,0.0
+implications of the case,0.5
+threats,0.5798319327731093
+completion programme,0.5
+state of uttranchal claim,0.5
+blue prints,0.5
+down-stream,0.0
+construction of house,0.45000000000000007
+homes,0.6853146853146853
+-  aspect,0.0
+threat to the safety,0.5
+recommendation subject,0.5
+expert of international repute,0.5
+several diseases,0.5
+environmental clearances,0.5
+bahuguna,1.6666666666666667
+several important temples,0.5
+successor,1.2925170068027212
+thdc,3.118279569892473
+month of submergence,0.0
+ex-gratia payment,0.0
+holy river ganga,0.5
+ladders for migrant fish,0.5
+nuclear establishment,0.5
+shakhar,0.5
+concerned expert body,0.0
+area from which water,0.5
+subsequent development,0.6857142857142857
+such matter,0.645933014354067
+mistake,0.6870879120879121
+large dam projects,0.5
+new,0.9418497626301229
+proper application,0.8
+magnitude earthquake,0.5
+officers under the overall supervision,0.5
+such study,0.0
+plains,0.4750642673521851
+pre - impoundment study,0.0
+construction of tehri,0.5
+slope,0.48148148148148157
+local people,0.5714285714285714
+administrative staff college,2.0
+similar projects,0.6666666666666666
+constitutional obligation,1.375
+such adverse impact,0.5
+annexure,2.7560975609756095
+at pp,0.5714285714285714
+major portion of the dam,0.5
+such taws,0.5
+various recommendation,1.0
+factors,0.9829522460542292
+diversion tunnels tt,3.0
+ministry of science,1.0
+discussions,0.6699766355140188
+commitment to the conditions thereof,0.5
+lack of land,0.5
+policy obligations,0.5
+environmental aspects,1.0
+agencies,0.9094581337642103
+pari passu,5.666666666666667
+major married sons,1.0
+end,6.1484001628618765
+landhouse owner oustee,0.5
+clearance certificate that the conditions,0.5
+rule,5.04
+increase families,0.5
+work of project,0.5
+foreign experts,1.0
+government official,0.38114754098360654
+such conditions,0.6545454545454545
+erosion classification,0.5
+properties,1.7286779414438989
+basis by a notification,0.5
+-m altitude,0.0
+land for cultivation,0.6666666666666666
+betterment,1.4
+social conflict,1.5
+admission,1.5389848246991107
+local condition,0.45000000000000007
+affected person,1.1
+permissible under the constitution,0.6666666666666666
+central water commission,2.0
+performance life,0.5
+issues of safety,0.5
+examination,2.4920345926263088
+design of the tehri dam,1.0
+print,1.119131334022751
+rehabilitation accept the following principles,0.5
+proces of decision,0.0
+other structures,0.5
+process of decision,0.5
+alleviation of water scarcity,0.5
+in that decision that the question,0.5
+cash grant for purchase,0.0
+further improvement in the rehabilitation package,0.0
+counter-affidavits,0.0
+wholesome development,0.5
+commissioner,2.271608643457383
+dynamic property,0.0
+shops except affected families,0.5
+departments,0.9019607843137255
+to the value,0.7222222222222222
+animal,3.672202634997217
+proper execution,0.3333333333333333
+duty on the part,1.0
+resettlement colony,0.0
+images,0.1745169082125604
+action pans,0.5
+rehabilitation work,1.0
+consequential supplementary measures,0.5
+resettlement colonies,1.3333333333333333
+applicable to the oustees of koteshwar dam,0.5
+thdc for tehri project,0.5
+deforestation,0.2692307692307692
+provisions,3.8929824561403508
+thereunder contemplate imposition,0.5
+other aspects,0.5798816568047337
+blank,0.7343999999999999
+separate house,0.5
+that the condition of pari - passu implementation,0.0
+marginal farmer,1.0
+comprehensive action plans,1.0
+occasion,0.7946745562130177
+main gainers,0.5
+stability,0.546218487394958
+multifold improvement in the environment,0.5
+that various recommendations of hanumantha rao committee,0.5
+suggestion,1.2425592585991803
+plot at a nominal cost,0.0
+under the provisions of environment,1.0
+local distress,0.5
+human rights activist,0.303030303030303
+bhagirathi valley,0.5
+main controversy,0.8
+habitats,0.30000000000000004
+grievance redressal,1.5
+structure of the dam,0.5
+colony,0.5172413793103449
+more option,0.2857142857142857
+entire region,0.5384615384615384
+asset,3.0300107181136124
+planning,1.4283088235294117
+understanding in the field,0.0
+koteshwar dam,3.0
+agricultural landless labourer,0.5
+comprehensive action plan,1.0
+different parts,0.5034965034965034
+fit,2.7848485899724365
+safety concern,0.30000000000000004
+as the same results in discrimination,0.5
+other such group,0.2692307692307692
+only role,0.5
+forest area,1.0
+basic datum,0.0
+part of the new state,0.5
+other contention,0.9166666666666666
+koteshwar dams,0.5
+which reference,1.3333333333333333
+plots,0.8001672240802675
+married son,3.0
+protection of environment vis - a - vis,0.0
+samata,0.5
+locations,0.46341463414634143
+particular center,0.5
+forest lands,1.0
+reduced level of t,0.0
+plan for greenbelt development,0.5
+project by the corporation,0.5
+which issues,0.5
+power project,1.1666666666666667
+hyderabad,2.5833333333333335
+natural resource of people,0.0
+impact of tehri project,0.5
+enviro-legal action,0.0
+madhu kishore,0.5
+declaration,2.152560083594566
+agreement,3.450434632433366
+channel,0.6285928143712575
+allegations,1.8333333333333335
+affected rural families,1.0
+national research center,0.3333333333333333
+number,1.4802651440973922
+fund with the aim,0.0
+effect on ecology,0.5
+present water spread,0.5
+serious danger,0.5
+total,1.183527325379098
+issues of great importance,0.5
+chart,1.0666850372003307
+leak,0.28743961352657005
+tehri bandh virodhi sangarsh samiti v state,0.5
+present state of affairs,0.5
+irrigation facility,0.0
+land on pattas,1.0
+flood in the year,0.0
+year,2.8349484769759212
+actual implementation,0.30000000000000004
+specific examination,0.30000000000000004
+fulfillment of conditions,1.0
+mitigative steps,1.0
+intervention application,0.6666666666666666
+judgment,3.288216560509554
+rehabilitation plan,1.5
+stages of rescue,0.5
+lakh hectares,0.5
+good in everything,0.5
+re - appraisal,0.0
+river project,0.5
+complex nature,0.3333333333333333
+cases like samata v state,0.5
+several occasion,0.5
+governmental authorities in india,0.5
+due to acquisition for public purpose,0.5
+stream environment impact of the large dams,0.0
+unanimous conclusion that the tehri dam project,0.5
+high erodability classification,2.5
+sangharsh,0.5
+experts by way,0.5
+organisations,0.6688963210702342
+major unmarried daughter,1.0
+clearance to the project,4.5
+corresponding burden of proof,0.5
+clearance of the tehri project,0.5
+such aid,0.5
+water,0.9741079360379036
+dam area,1.5
+water commission,2.0
+food shortage,0.5
+advance,1.2070333024745414
+temporary in character,0.6666666666666666
+environment vide,0.5
+engineering work of the project,0.0
+agency,1.8968779259354924
+mechanism through a forum,0.5
+item,1.3319648896447913
+basic environmental issue,0.5
+vigil on fulfillment,0.5
+facts,1.4696673624372698
+concessional term,0.3333333333333333
+ministerial,1.1111111111111112
+disaster prevention,0.5
+cusec of water,0.0
+catchment area in tehri town,0.5
+pilgrim center,0.5
+- compliance,0.0
+clearance to a project,0.5
+non-linear analysi of dam,0.0
+failure of tehri hydel development corporation,0.5
+aspect of planning,0.0
+other legal provisions,0.5
+hereto as annexure iv,0.5
+pan,3.813853292090146
+infringement,1.152439024390244
+acquiescence,0.6666666666666666
+course,1.6545957498716626
+whole himalayan environment,0.5
+proportion,1.3026315789473686
+closing of diversion tunnels,1.0
+common property resources,1.0
+attachment,2.45045045045045
+court in mc,0.5
+matters of complex nature,0.5
+public trust doctrine,0.5
+round of legal action,0.5
+fauna in the post-impoundment period,0.0
+blocks,1.2418032786885247
+such social conflict between different social groups,0.0
+field,1.5820968371729793
+eventuality of any dam failure,0.5
+laid roads,0.5
+vedic prayer,0.5
+topic,1.2072463768115942
+read with clause,0.8
+above directions of this court,0.6666666666666666
+result of non - fulfillment,0.0
+follow,2.3424056287548947
+activities,1.57291280148423
+biodiversity,0.2
+dam work,0.5
+common benefit,0.5
+extent of damage,1.3333333333333333
+emergency situation,0.25
+reassessment,3.733333333333333
+well,1.4966552780778166
+to environment,0.875
+core,0.43168575654387237
+narmada bachao andolan v union,0.6666666666666666
+natural resource,1.3
+material,1.4148767018946966
+activity,1.3846153846153848
+down stream environment impact,0.5
+micro-climatic changes,0.0
+college in rural areas,0.0
+strongest earthquake in the region,0.5
+expert by way,0.0
+project with loan,0.5
+landslips,0.5
+water spread,1.5
+importance,0.8632871064467765
+altitude area,0.5
+owner,2.9502416709822197
+engineering works,3.142857142857143
+grievance redressal cell,1.0
+development in the united nations,0.5
+area development,4.0
+large scale,0.5413533834586466
+gujarat manuscmanusc,1.1
+caution,1.0777000777000778
+potential health impact,0.5
+hectare of land,0.5
+research center on cold water fisheries,0.5
+amount of house construction assistance,0.5
+representatives,0.8874021711688966
+aforesaid decision,1.15625
+construction of a large darn,0.5
+such case,0.7332761578044598
+various ministry,0.0
+event in the course,0.0
+community facility,0.0
+jame,0.3847438752783965
+experts viz,0.5
+delhi,2.6089285714285717
+issues,1.1246716508385532
+environmental safeguard measures,0.5
+to the inherent danger,0.5
+principal secretary  irrigation,0.0
+spreading,0.6423357664233577
+fundamental rights of oustees,0.5
+foundation,0.770509435807177
+schools,0.700507614213198
+environmental impact assessment,3.0
+high altitude area,0.5
+dam section for the tehri project,0.5
+new tehri town,1.5
+details on the project,0.5
+adoption,0.6852035749751738
+entire degraded catchment of all categories,0.5
+specific issue,0.45000000000000007
+andolan,1.6666666666666667
+house owner family,0.0
+appropriate steps,0.8
+bunt,0.3827160493827161
+international agreement,0.3434343434343434
+river tehri,0.5
+social science,0.6060606060606061
+purpose that the environmental act,0.5
+effective grievance redressal cell,0.5
+lake,0.6155717761557178
+studies,1.1615103532277709
+finances,0.680952380952381
+file,1.3720673638585223
+generation,1.2037318473488687
+brune,0.4135135135135135
+next recommendation,0.5
+conditions of clearance,2.0
+land acquisition act,12.714285714285714
+emergent need,0.5
+collection of data,0.5
+complete satisfaction,0.5
+earthquake engineering,1.5
+magnitude of damages,0.5
+person of the region,0.0
+lower rate,1.2727272727272727
+consciou of this particular fact,0.0
+status of the work,0.5
+farmer,2.606382978723404
+alternative land,2.5
+severity,0.5
+great threat,0.30000000000000004
+- passu condition,0.0
+-sq km,0.0
+parts,0.6609660823170732
+india,2.7684068260703585
+projected benefit,0.5
+plantation,1.8823529411764706
+venture,0.9918552036199095
+design,1.6729193584375017
+roorkee university,0.5
+perspective,0.5639060811474604
+association,1.2099052684061826
+following principles,0.6
+project at the current stage,0.5
+commensurate safeguard in the works,0.0
+submissions,0.5235745614035088
+stage with regard,0.0
+phase-,0.0
+degraded areas,2.0
+stream impact on environment,0.0
+consequences,0.6659897713598075
+food,1.1292356927710843
+subject to availability during the low reservoir level periods,0.5
+expert professor jame,0.5
+regard to environmental concerns,0.5
+to urban house  land owner families,0.0
+whole,0.951414768806073
+conditions thereof,0.6666666666666666
+rishikesh,2.5
+region,2.372542065649998
+fifth,0.9689957652752572
+urban houseland owner family,0.0
+scc,1.941872465904902
+of the recommendation,1.0952380952380953
+- renewable resource,0.0
+social costs,1.0
+cmd,0.5785837651122625
+specialised organisations,0.5
+basin management authority on a statutory basis,0.5
+present status of dam project,0.5
+such clearance posses,0.5
+allied aspect,0.5
+sign of doubt,0.5
+many epidemic,0.5
+tenants at the old tehri town,0.5
+element,0.7062328407033122
+epidemic,0.22641509433962267
+ilies,2.9285290628706995
+signal,0.32046178343949044
+authorities after due consideration,0.5
+cwc,0.4233128834355829
+style of life,0.5
+duty,3.2272215973003378
+non-fulfillment of the conditions,0.0
+quo,1.4641201465860294
+opportunity of participation,0.5
+grievances,0.9324324324324326
+finishes,0.26
+- application,0.0
+improved environmental safeguards,0.5
+unmarried daughter,2.0
+clearances,0.8241758241758241
+prime minister for an in-depth review,0.0
+human right activist,0.5
+constant technological efforts,0.5
+possibility of such tests,0.5
+considerations,0.7860235003092146
+ganesh,1.9230769230769231
+current quantity,0.5
+contention that the unmarried son,0.5
+years in the construction,0.5
+various project,0.3333333333333333
+lal,1.6786163249382287
+authority in india,0.5
+supp,1.7223856594132256
+rural population,0.6666666666666666
+favour of the project,0.5
+above - discussed aspects,0.0
+flat at lower rate of pre- cost ie,0.0
+views,0.6965871413779037
+writ petition,6.24223602484472
+earthquake engineer,3.5
+court in case,0.8
+preparations,1.1818181818181817
+house survey,0.5
+shell,0.39773721715214405
+plans for protectionpropagation,0.5
+traditional occupation,0.5
+report points,0.5
+expert james,0.5
+various safeguard measure,1.5
+old tehru town,0.5
+adverse impact,2.4
+chain effects,0.5
+further construction,0.6666666666666666
+fun,3.182328383856186
+plea of scientific uncertainty,0.5
+prevention,0.6124072110286319
+water for irrigation,0.6666666666666666
+landless labourer,0.5
+conception,0.49506726457399103
+challenge,1.2204566274399267
+hanumantha,2.5
+daughters,1.1785714285714286
+selection,2.2651528696585017
+rock,0.40214127170648917
+incursion,0.6666666666666666
+social prospective,0.5
+decision on the implementation,0.0
+blue print for the management,0.0
+landless agricultural labourers,1.0
+background,0.6800452488687784
+modern time,0.42857142857142855
+consideration of the study report,0.5
+legal action,0.665024630541872
+same to the facts,0.6666666666666666
+task,0.5643819334389858
+iii,1.5614499719992534
+further developments,0.5
+work of resettlement,0.5
+new settlement colonies,0.5
+major unmarried son,1.0
+other authorities,1.8923076923076925
+signatory,1.5333333333333332
+non-linear analysis,0.0
+fulfillment,1.1805006587615283
+commensurate safeguards in the works,0.5
+state of uttranchal,2.0
+renowned expert of international repute,0.5
+note,1.3654108484234107
+counter-affidavit,0.0
+bridge,1.1911260881774781
+earthquakes in short intervals,0.5
+june,0.9339080459770116
+lapse at certain stages,0.0
+river dam project,0.5
+concerned authorities after due consideration,0.5
+legal justification,0.5
+fuel wood plantation,0.5
+airsc,1.6909090909090911
+turnkey,2.3333333333333335
+man,6.972395052694935
+forest for rehabilitation,0.0
+political theory,0.4444444444444444
+further progres of the work,0.0
+due to construction,1.0
+annual cycles,0.5
+socio - economic study,0.0
+specific aspect of safety,0.0
+general common benefit,0.5
+- passu with the construction,0.0
+ganga,3.0857142857142863
+source,0.840137091365362
+- linear analysi of the dam,0.0
+ecologists,0.2857142857142857
+quantities,0.6883333333333334
+necessary corrective action,0.6666666666666666
+use of natural resources,0.5
+right to development encompasses,0.5
+pre,6.408342692122574
+government subject to certain conditions,0.5
+effects of disaster,0.5
+study on flora,0.0
+north,0.8632276384287743
+protection of environment,2.0
+program,1.5555704998879176
+geophysical research institute,0.5
+- passu implementation,0.0
+water scarcity,0.5
+survey of india,3.0
+failure,0.7827962142086977
+certain stages,0.3333333333333333
+fads,0.30000000000000004
+production,2.1071428571428577
+non-consideration,0.0
+additional safeguard,0.5
+various actions,0.5
+environmental implications,0.6666666666666666
+mature wisdom,0.3333333333333333
+oral submission,0.6666666666666666
+precautionary principle,2.6666666666666665
+cases to the high court,1.0
+good of greatest number,0.5
+place of alternative land,0.5
+government in terms,0.6666666666666666
+moe decides,0.5
+wane,0.1657303370786517
+precautions,0.35714285714285715
+uncertainty,0.8402948402948404
+revisit to the earlier decision,0.5
+certain opinion,0.6666666666666666
+way of various text books,0.5
+current rates,0.5
+further examination,1.0
+various details,0.3333333333333333
+probable location,0.5
+ecological destruction,0.5
+conditions in different parts,0.5
+anti-progress,0.0
+foreign expert jame,0.5
+rural,1.961287078934138
+progres of work,0.0
+people s fundamental rights,0.0
+los of forests,0.0
+places like rishikesh,0.5
+rajendra,1.6428571428571428
+tracks,0.3505434782608695
+soviet union,0.2027027027027027
+hereto,1.1302083333333333
+thdc action plans,0.5
+following conditions,0.6000000000000001
+relevant considerations,1.0
+citizen,1.261748909029876
+court s intervention,0.0
+catchment areas,1.0
+costs benefit,0.5
+dpspafs,0.5
+national research center on cold water fisheries,0.5
+college,2.1498947162234954
+gardens,0.44999999999999996
+kms,0.7913793103448276
+further studies,0.5
+first of the counter affidavits,0.5
+gain,2.812245309642126
+mean,2.390645692553228
+clearance subject,1.0
+passu condition,2.5
+assessment of seismicity,0.5
+better than any village in the country,0.5
+cat in the entire degraded catchment,0.5
+affected land owner family,0.0
+degree,0.6705786026200874
+recommendations,2.1638655462184877
+union of india,3.1324503311258276
+bhumbla committee,0.5
+responsibility for the entire rehabilitation task,0.5
+regards,0.9072861236185019
+from the point of view,0.6086956521739131
+agitation,0.6666666666666666
+flaw of the dam,0.0
+down stream environment impacts of the large dams,0.5
+basi,2.0752712086391383
+benefits,2.0896027049873203
+rehabilitation benefit,1.0
+certain condition for clearance,0.0
+public funds,0.6666666666666666
+conditions for clearance,1.5
+necessary that the conditions,0.6666666666666666
+last committee,0.5
+basis,1.953226441078104
+comprehensive study of the potential health impacts,0.5
+directions,1.5134125183504605
+new environment,0.6000000000000001
+various text book,0.5
+human right activist of garhwal shri sunder lal bahuguna,0.5
+landless persons,1.0
+testing,1.029039991282554
+lexical meaning,0.5
+crore,4.747474747474747
+ha balance area,1.0
+several species of wild animals,0.5
+gate,1.2076436561705193
+function,1.6326372491145218
+seismicity of the region,0.5
+necessary exercise,0.8333333333333334
+hospital,1.3942768854411434
+impoundment of the dam,0.5
+question on several occasions,0.5
+clearance of the project,1.5
+price,2.8302710227712162
+responsibility on the state,0.5
+time of filing,1.1666666666666667
+urban water shortages,0.5
+aspect of mineral contamination etc,0.0
+street,3.189100817438692
+comprehensive environmental plan,1.0
+view,2.441100058469462
+endeavor,0.40993788819875776
+construction of the engineering works,0.5
+relief,1.4748116760828625
+lac hectare,1.0
+use,5.06801278974993
+consideration in such cases,0.5
+portion of the environmental clearance certificate,0.5
+officials,1.3691666666666666
+statutory laws ie,0.5
+record,2.5393414390845273
+information,1.1320502836800534
+construction activities,1.1428571428571428
+land owner,1.1666666666666667
+style,0.6284633359296762
+secretary,0.9217877094972067
+jhansi,0.75
+natural resources - base,0.0
+hydro electric project on the ground,0.5
+such issue,0.5263157894736842
+learned counsel,3.703333333333333
+decisions on the hrc recommendations,0.5
+goup,0.3333333333333333
+voters  lists,0.0
+deprived sections of the society,1.0
+other information,0.4722222222222222
+demands,0.7474201474201474
+large darn,0.5
+grant of clearance,1.5
+decisiondirection,0.5
+direct draining,3.0
+affected,1.4106380708493387
+down stream environment impact of the large dams,0.0
+the rio declaration on environment,0.5
+years,2.5395804110508022
+- compliance of other legal provisions,0.0
+several development,0.3333333333333333
+bandh,1.1666666666666667
+relevant branch,0.5
+result in wide spread displacement,0.0
+dps  paps,0.0
+hydro project institute,1.0
+simultaneous progres,0.5
+respondent herein,1.8936170212765957
+total dissatisfaction on the compliance,1.0
+considerable work,0.5
+grievance,1.032529659395331
+to life,0.9949317738791423
+above direction of this court,0.0
+forum,1.9016754850088184
+principles of administrative law,1.0
+uniform stand that -d non-linear analysi,0.0
+vector,0.5583333333333333
+chander pal,0.5
+conflicts over rights,0.5
+short interval,0.3333333333333333
+jai krishna,3.0
+start,0.86071856465668
+rockfill,0.5
+spot studies,0.5
+damage lock,0.5
+difficulties,0.570873786407767
+reaction,0.30045523520485584
+bank,9.40770083102493
+optimum satisfaction of the oustees,0.5
+ussr,0.9230769230769229
+question of resettlement,0.5
+uttranchal,2.6666666666666665
+environmental issue target date status,0.0
+pleas,0.6851599700282798
+reversible damage lock,0.5
+day,1.550999710228919
+professor jai,1.5
+emergency,2.635026737967914
+jaikrishna,0.6666666666666666
+expert committee,3.3333333333333335
+report of the committees,0.0
+concepts,0.6911669890393295
+permissible areas,0.75
+scmanu,7.940520446096654
+such projects,0.5
+amount,3.179688593072295
+major son,1.0
+ecological impact,0.5
+incursion into natural eco - system,0.0
+likelihood of several diseases,0.5
+peoples,0.6156921539230384
+man - made structures in earthquake prone zones,0.0
+regional office,0.4
+elements of sustainable development,0.5
+states,1.5120646995827023
+law,3.538923411654744
+balance,0.9863636363636363
+court on safety aspects,0.5
+reservoir level periods,1.5
+work of rehabilitation,1.0
+sides,0.6706755273269035
+obligation on the part,0.8888888888888888
+work of the project,1.0
+care of all eventualities,0.5
+ussr government,0.5
+implementation of conditions,1.0
+multimillion,0.25
+resettlement colony at bhaniawala,0.0
+future strict monitoring,0.5
+vice-chancellor of the university,0.0
+complaint,2.734525785235724
+path,1.307090626221047
+low reservoir level periods,1.5
+issue target date statu,0.0
+cat,5.965184298874564
+voter,2.7989417989417995
+resources - base,0.0
+issue of safety,0.0
+fundamental human right,0.32142857142857145
+high dam on river tehri,0.5
+advances,0.6333333333333333
+implications,0.5223021582733813
+report points out the scantiness,0.5
+usefulness,0.208955223880597
+which life of coming generations,0.5
+laid road,0.5
+to the facts,0.7253086419753086
+result of the dam project,0.5
+floods,0.9000000000000001
+careful examination of the information,1.0
+secretary ministry,2.5555555555555554
+malaria spreading,0.5
+fail - safe structure,0.0
+construction work,2.4000000000000004
+thdc in association,0.5
+under the provision of environment,0.0
+happines,0.3496621621621622
+tehri dam area,0.5
+part of domestic law ie,0.5
+difference,0.8774847235514982
+period,1.9480170842427122
+factor of safety,0.5
+expenditure of rs,1.0
+efforts,0.7431827431827432
+economic problem,0.6666666666666666
+trust doctrine,0.5
+detailed surveys  studies,0.0
+rural families,1.5
+basic,0.8868621503201887
+safety aspect of the dam,1.0
+recommendation,2.6589497459062676
+other dam project in plains,0.0
+glaciers,0.2142857142857143
+serious consequence,0.42857142857142855
+decided parameter,0.5
+aim of pre - disaster preparations,0.0
+great danger,0.2857142857142857
+terms as set forth,0.5
+october,0.9478375701551667
+burden,0.9853978671041838
+land fertility,0.5
+item-wise comment,0.0
+separate opinion with conclusions,0.5
+various events,0.3333333333333333
+months of submergence,0.5
+prints for the management,0.5
+developmental project,0.5
+non-fulfillment of the condition of environmental clearance,0.0
+tunnel,2.327586206896552
+costs benefits,0.5
+reason,2.6381270903010035
+multifold improvement,0.5
+life,1.3352928273744242
+governmental authority in india,0.0
+land from any person,0.5
+garhwal region,1.5
+demand for further examination,0.5
+under the law,0.46495726495726497
+simulated dam break analysis,1.5
+region in the vicinity,0.0
+large inertia,0.5
+non-forest land,0.0
+environment management plan,0.5
+cut,3.1207863829787237
+care,0.8846948234137723
+greatest good of greatest number,0.5
+last survey,0.5
+great local distres,0.5
+details of the urban rehabilitation package,0.5
+indian planner,0.5
+quake,5.346869712351946
+growth,0.7269455690508322
+mcef,0.25
+displacement etc,0.5
+occupation,1.1158072696534236
+safeguard measures,2.0
+control of the commissioner,0.5
+water downstream,1.0
+expert dr  n brune,0.0
+passu compliance of the conditions,0.5
+right activist of garhwal shri sunder lal bahuguna,0.5
+action plan pan - pass with the implementation,0.0
+ramifications,0.3879310344827586
+questions,0.9979150871872632
+livelihood,1.3777777777777778
+pollution control board,1.6
+mc mehta v union,1.4
+reply on affidavit,0.5
+stream impacts,1.5
+richter scale with the probable location,0.5
+that results in progress,0.5
+satellite images,0.2647058823529412
+circumstances,1.3944461370073231
+ecology balance,0.5
+concepts like inter - generational equity,0.0
+catchment area treatment,6.5
+babu j,1.1111111111111112
+environmental management plan,0.5
+successor to the erstwhile state,0.5
+project by the move,0.5
+matter by way,0.6666666666666666
+direction to the respondents,0.5
+concern,2.0544958000579303
+track,1.311279069767442
+present status of rural rehabilitation sno,0.0
+prime,1.273548387096774
+down stream environment impacts,0.5
+construction of bridges,0.5
+environment action plan,0.5
+large dams guideline,0.5
+koteshwar darn,0.5
+matter of fulfillment,0.5
+reappraisal of work,0.5
+modern times,0.45000000000000007
+bursts,0.13311688311688313
+central pollution control board,1.0
+treatment of these areas,0.5
+species,0.6307692307692307
+reservoir level,2.0
+such deprived sections,0.5
+misnomer,0.2608695652173913
+assets,2.6879084967320264
+worst earthquake scenario of the area,0.5
+socio - economic survey of the project,0.0
+erodability category actions,0.5
+agricultural landless labourers,0.5
+following aspect,1.0
+vedic time,0.6666666666666666
+respondent in this writ petition,0.0
+decision bearing,0.5
+full submerged,0.5
+condition of pari - passu implementation,0.0
+- passu with the implementation of engineering works,0.0
+trapezium,0.5
+employment,1.5239770785161355
+proper check on the fulfillment,0.5
+reservoir,5.375
+life on earth,0.25
+part,5.294464509893076
+analysi,0.6883471219855659
+labourer,1.25
+due deliberation,0.75
+demands of the people,0.5
+more family,0.0
+scientific matter of complex nature,0.0
+problems of water logging,0.5
+command area,6.5
+factual reality,0.0
+other person,0.9635036496350365
+rise to chain reaction,0.5
+passu,10.333333333333334
+such progres,0.5
+safety point of view,0.5
+staff,1.3233972834416785
+areas,1.6237236125072747
+vertical acceleration,0.5
+high dam,1.5
+integral elements,0.5
+vegetation in the catchment area,0.5
+pan passu clause of conditional clearance,0.5
+following condition,0.65
+least displacing projects,0.5
+which issue of safety,0.0
+scale erosion,0.5
+unabated from the discharge,0.5
+roorkee,2.5
+public purpose,2.076923076923077
+important in the context of this case,0.5
+condition of clearance,1.5
+other creature,0.5
+eac,1.9307409802982176
+type dams as chosen,0.5
+pari-passu with the implementation of engineering works,0.0
+conflicts over natural resources,0.5
+such dimension,0.3333333333333333
+other agency,0.2857142857142857
+weeds,0.26666666666666666
+conceptual framework,0.5
+settlement colony,0.0
+quarter,0.7884753275536145
+comment,0.5887096774193549
+population,1.8313253012048192
+residence compensation equivalent,0.5
+central government decides,0.5
+balco,0.15053763440860216
+ministry of health,1.0
+environmental issue target date statu,0.0
+consequent direction,0.5
+none,0.8181718550217885
+quality of life,0.25
+loss of non forest land,0.5
+greatest good,0.5
+rural rehabilitation centers at the cost,0.5
+proces by government,0.0
+various issue,0.45000000000000007
+place,2.333104345208554
+- engineering activity,0.0
+environment activist,0.5
+estimate,1.0964912280701755
+imperative demand,0.5
+generations,0.84375
+habitat,0.8217391304347825
+other stab,0.5
+western,0.9170906914097575
+computer,1.3866140537259068
+decade,0.5014409221902018
+control,2.148867902684286
+issue,2.766776251628934
+acquisition for public purpose,0.5
+to construction of coffer dam,0.5
+large extent forest track,0.5
+lieu of land allotment,0.5
+method,0.9027027027027026
+weaker section,1.2222222222222223
+status report of fulfillment,0.5
+discussions with experts,0.5
+river valley dam projects,0.5
+orders,1.4936359300077826
+comfort,0.5696202531645569
+suitable directions,1.1666666666666667
+maintenance,0.8632111808077473
+petitioner in this case,0.0
+- pollution law,0.0
+scientific conclusions,0.2857142857142857
+agricultural land,1.6666666666666667
+submerged land on pattas,0.5
+prime minister s note,0.0
+implementing agency,3.6666666666666665
+tribals,2.6666666666666665
+target for the area,0.5
+other pre-impoundment studies,0.0
+month of the impoundment,0.0
+quantity,0.9457720588235292
+study on the impact,0.5
+quantities of static water,0.5
+safety of any project,0.5
+figures,1.023593964334705
+structures at the old tehru town,0.5
+floods in the year,0.5
+environmental impact,1.8000000000000003
+market,5.294198044198044
+such test,1.1428571428571428
+opinion,1.4960606342789635
+progress of the construction,0.5
+married son of the rural land owner family,0.5
+petition under article,1.6388888888888888
+two - dimensional studies sufficient for the safety,0.0
+right to health,0.6666666666666666
+contention of the petitioners,1.0
+rao,0.9220020325203252
+specific assessment,0.5
+dissatisfaction on the compliance,1.0
+house to house survey,0.5
+turn,1.6310093128618173
+advice of central water commission,0.5
+expert in consultation,0.0
+president of international academy,0.5
+development corporation,2.0
+command area development,5.0
+subsidised terms,0.5
+such tests unless malafide,0.5
+successive earthquake,1.0
+guidelines for resettlement,0.5
+region of similar high seismicity,0.0
+recording,1.3265454545454545
+non-fulfilment of conditions,0.0
+obligations of the government,0.5
+highest seismicity,0.5
+hydro electric project,0.5
+environmental clearance subject to the following conditions,0.5
+which remedial,0.5
+features,0.6184582743988685
+town,1.9746537396121884
+behalf of union,0.6666666666666666
+allotment of agricultural land,0.5
+important temple,0.5
+non-engineering activities,0.0
+various report,0.6666666666666666
+formulation of action plans,2.0
+conclusion of the eac,0.5
+tehru town,0.5
+head of department,0.5
+dba,0.7186242960579243
+populated towns,0.5
+consent,1.224924012158055
+sons,2.7457346002031446
+- climatic change,0.0
+ecological balance,1.25
+total catchment area of the tehri project,0.5
+institution,2.7327010745685443
+additional studies,0.5
+area of garhwal,0.0
+deposition,1.534
+garhwal town,1.0
+pre- cost ie,0.0
+impact assessment of development project,1.0
+technical group,0.30000000000000004
+changes in the conditions,0.5
+biological environment,0.5
+rivers,0.42291220556745185
+verbatim extracted hereunder,0.5
+expenditure of rs crores,1.0
+technical datum,0.0
+consideration after full application,0.5
+affected ilies,0.0
+country on the path,0.5
+rehabilitation policies,0.5
+major potion,0.5
+late in the day,0.4
+obstructionists,0.5
+garhwal town of tehri,0.5
+confluence as the holy river ganga,0.5
+gates,0.5610887096774193
+prayer,0.6969296987087519
+interference,0.5733527484528578
+debate,0.6231884057971016
+completion of these conditions,0.5
+disaster management,11.0
+central government,3.0380952380952384
+affidavit of the ministry,0.5
+way of life,0.5
+such person,0.9634888438133874
+reduction,0.8411214953271028
+important issue,0.6349206349206349
+conditions at the project site,0.5
+right,3.07483248288682
+construction activity,1.3333333333333333
+condition in different parts,0.0
+sine,2.6412144879875763
+harmful for aquatic life,0.5
+common,1.4619971980191346
+commissioning of the project,1.0
+displacing,0.9000000000000001
+alleviation,0.5
+clean environment,1.0
+dehradun city,1.0
+plans,2.01766620176662
+fishery,1.0
+jurisprudence,1.088888888888889
+health impact,0.4444444444444444
+ily,1.903708703939009
+integral part,1.3397435897435899
+serious aspect,0.5
+uniform stand that -d non-linear analysis,0.0
+moe,0.9041420118343194
+opinion on the project,0.0
+scantiness,0.5
+ecological disaster india,0.5
+from various affidavits,0.5
+prof c h hanumantha rao,0.5
+mention,1.6248742837095076
+office memorandum,1.0
+common area,0.4
+impact of big dams,0.0
+account of scarcity,0.5
+safeguards against ill effect,0.5
+receipt of the report,0.8333333333333334
+irrigation facilities,1.5
+reports of the experts,0.6666666666666666
+degree of severity,0.0
+person of the tehri project,0.0
+flats,2.4583333333333335
+claims of technocrats,0.5
+subsistence,0.25
+botanical gardens,0.5
+supply,2.0557395143487858
+dps  pap,0.0
+mega project,0.5
+change of environment,0.3333333333333333
+mineral,0.9876543209876543
+mahaseer,2.0
+population because tehri dam area,0.5
+that these decision,0.6666666666666666
+protection act,1.1700000000000002
+consultation with the local representatives,0.5
+version of the dmp,0.5
+environment department,0.6666666666666666
+surrounding,0.8164736164736164
+diversion channels,0.5
+viewpoints,0.5
+understandings in the field,0.5
+proper environmental impact,0.5
+urban population,0.6666666666666666
+bench,2.5793391667754992
+safety point,0.5
+temporary cultivation,1.0
+office,3.5913445886237847
+such families,0.5
+valley,2.1136363636363638
+other document,0.6172839506172839
+body,1.336775463480009
+completion of status,1.5
+coffer,0.5384615384615384
+environment policy,0.5
+other project,0.5217391304347826
+reservoir of the downstream dam,0.5
+salinity,1.0
+logical corollary,0.8571428571428571
+damages,1.7104072398190044
+clear on behalf of the respondents,0.5
+intermediate college,1.25
+effort,0.7536036036036036
+rim,3.3893821459982405
+progres of the work,0.0
+rights to citizens,0.5
+lakh,1.3647388059701493
+rehabilitation sno,0.0
+applicable to the tehri project,0.5
+construction,2.2504918032786887
+rehabilitation activity,0.0
+large quantities of static water,0.5
+people of the region,0.2857142857142857
+worst scenario of possible occurrence,0.5
+areas for judicial interference,0.5
+value,1.7137907830478438
+demand of modern times,0.5
+grievance radressal,0.5
+disposal of the government,0.5
+transfer of the matter,0.5
+opinion of learned brother s,0.5
+site of dam fads,0.5
+improvement in the health standard,0.5
+discharge remains,0.5
+pilgrim centers like haridwar,0.5
+report point out the scantiness,0.0
+such condition,0.6407322654462243
+resolve of the yokohama strategy,0.5
+bridges,0.4606060606060605
+undertaking of an infrastructural project,0.5
+extracted hereunder,2.25
+location of the dam,1.0
+aforesaid committee,0.6666666666666666
+downstream dam,0.5
+inadequacy of science,0.0
+rehabilitation of people,0.5
+great importance,0.6666666666666666
+own decided parameters,0.5
+jalasay,1.0
+samiti,2.6666666666666665
+natural,1.0153721682847896
+movement,0.8351097178683385
+realm of decision,0.5
+allotment,4.111111111111112
+confidence,0.5942028985507247
+notice of the court,0.875
+polluting industry,1.0
+additional family members,1.5
+agricultural fields,0.5
+last affidavit,1.0
+high erosion clas,1.5
+birds,2.4972222222222227
+in character,0.6640316205533597
+sustainable source of dignified living,0.5
+likely earthquakes,0.5
+different social group,0.5
+proper monitoring,0.3333333333333333
+central,2.61875
+certain lapse at certain stages,0.0
+dissatisfaction,0.5185185185185186
+sensing applications center,0.5
+earlier cat plan,0.5
+recommendations of expert committee,0.5
+pashulook,0.5
+progress of the rural rehabilitation,0.5
+himalayan region,0.5
+tunnels,2.34
+possibility,0.7613466503601033
+pre-,0.0
+situation,1.1254754682459434
+agriculture,1.6135593220338982
+environment degradation,0.5
+latin word pan passu,0.5
+attention,0.8724846605528799
+administrative,1.85302734375
+earthquake in short intervals,0.0
+acceleo,0.5
+state of uncertainty,0.5
+life of the area,0.5
+rehabilitated location,0.5
+onward submission,0.5
+earthquake susceptibility,0.5
+low  category,0.0
+equivalent to the value,0.5
+authority of india,2.0
+separate plan,0.5
+safety of the tehri dam,1.0
+establishment,0.9899216125419933
+government in every district,0.5
+above - discussed aspect,0.0
+massive incursion,0.5
+yokohama,0.2727272727272727
+son of the rural land owner family,0.5
+detailed dynamic analysi,0.5
+judicial interference,1.0
+resources-effective production,0.0
+zsi,0.7213114754098361
+to urban population,0.5
+part of treatment program,0.5
+rise,1.6238941915958565
+ladders,0.30000000000000004
+union,2.0981927710843373
+manuscmanusc by environmentalists,0.5
+of those persons,0.5000000000000001
+study of flora,0.5
+same manner,0.6079182630906769
+several reports,0.30000000000000004
+state of himachal pradesh v,0.6666666666666666
+impact with huge cost,0.5
+facility,1.2989690721649485
+notification under the land acquisition act,0.5
+other structure at the old tehru town,0.0
+decision making,0.9506172839506172
+present status in this regard,0.5
+signatory to international declarations,0.5
+aforesaid,2.592896174863388
+issue of great importance,0.0
+rehabilitation aspect of the project,0.0
+change in the conditions,0.0
+transfer,1.9975047057658015
+flow of water,1.0
+petitioner that the condition,0.5
+to the fact,0.8902887139107611
+expert,2.5786336542870245
+opinions on the project,0.5
+month,1.3454861111111112
+dam fad,0.5
+next objection,1.0
+subject,2.4420366233344897
+dam break analysis,2.5
+creature,0.4845338524767467
+programme,1.5640149666503986
+thorough assessment by a team,0.5
+environment of the region,0.5
+babu,1.1979166666666667
+environmental aspect of tehri dam,0.0
+such condition in different parts,0.0
+parameters,0.8168253968253969
+separate agencies,0.5
+scientific analysi,0.2857142857142857
+prime minister,2.0444743935309972
+new state,0.8571428571428572
+affected persons,1.1111111111111112
+- forest land in the districts,0.0
+voters,2.522727272727273
+such group,0.5185185185185185
+extent forest track,0.5
+several reports of the committees,0.5
+chander,1.8095238095238095
+nodal agency in the country,0.5
+most of the recommendations,0.5
+prior attention by welfare state,0.5
+command area treatment,0.5
+high dams,0.5
+haridwar,1.0
+impact on quality,0.5
+to the oustee of koteshwar dam,0.0
+set-up water quality monitoring stations,0.0
+counter affidavits,1.0
+proces,1.627944583238701
+right of the people,0.171875
+such work,0.7000000000000001
+structural flaws of the dam,0.5
+gram,1.0492542925178592
+cultivation,0.8571428571428571
+hearing of the case,1.0
+july,0.9742727723122656
+law ie,0.375
+himalayan,2.0
+part of fulfillment,0.5
+such dam,0.4444444444444444
+garhwal region to the project,0.5
+international academy,0.5
+watershed,0.6000000000000001
+condition at the project site,0.0
+reality,0.6251091491219559
+forum v union,0.75
+t tunnel,0.2777777777777778
+bhilangana,2.0
+events,0.6160483175150993
+two - dimensional study of the dam,0.0
+local inhabitants,1.0
+sqkm,0.46153846153846145
+earthquake prone zones,0.5
+revised cadp,0.5
+high courts,2.676470588235294
+certain aspect,0.6666666666666666
+water quality monitoring station,2.0
+discussion with experts,0.0
+affected ily,0.0
+shop keeper,0.5
+irrigation canals,0.3333333333333333
+the rio declaration,1.0
+j writ petition,0.5
+tenant,4.821212121212122
+hpi,0.22499999999999998
+legislative action,0.6000000000000001
+provision for street lighting,0.5
+engineer,3.318922187370092
+directive principles,1.2222222222222223
+applications,1.0021816198527407
+successive earthquakes in short intervals,0.5
+water logging,2.0
+reputed institution,0.5
+economic performance life,0.5
+dehradun districts,0.5
+conflict,1.314561353483509
+matter if all relevant consideration,0.5
+impoundment in the reservoir,1.5
+development of bhagirathi basin,1.0
+few others,0.3648648648648649
+such two-dimensional studies sufficient for the safety,0.0
+project on the environment,1.0
+two - dimensional studies sufficient,0.0
+submergence of the reservoir,0.5
+relevant factor in this regard,0.0
+interest subsidy,0.5
+hectares of land,3.0
+domestic law ie,0.5
+soil erosion,1.5
+necessary in the present case,0.5
+study report,0.6666666666666666
+other documents,0.619047619047619
+effect of disaster,0.0
+lac on handing,0.0
+due consideration after full application,0.5
+action plan,6.4
+declarations,0.9411764705882353
+built-up flat,0.0
+logic,1.091578947368421
+final impoundment,0.5
+dam safety,0.5
+report of the experts,0.6666666666666666
+modification,0.9714977645305514
+expert jame,0.5
+community facilities,0.6666666666666666
+doubt,1.3646267723102583
+moral duty of the state,0.5
+green signal for further works,0.5
+minister for an in - depth review,0.0
+adoption of appropriate measures,0.5
+detailed survey,0.5
+protection,1.1604395604395603
+clearance of the dam,0.5
+principle,1.9620890732001848
+himalayan valley,0.5
+behalf of the union,1.4285714285714286
+effectivenes,0.45185185185185184
+negative impact of the project,0.5
+rupture,0.25
+period of time,0.5706521739130435
+unlikely event of an uncontrolled release,0.5
+hrc report point,1.0
+blanks,0.2608695652173913
+intervals,0.2698412698412698
+executive order,0.4166666666666667
+absence of injurious effect,0.5
+high level,1.2790697674418605
+medium erodability category action,0.5
+area of  high,0.0
+provision of environment,0.0
+more than economic well,0.5
+guilty of non-fulfillment of the conditions,0.0
+centers,0.5012531328320802
+diversion channel,0.5
+fields,0.9241650294695481
+respondent,4.757894736842104
+kamal,0.8250000000000001
+motto from vedic times,0.5
+pre-disaster preparations,0.0
+such huge dimension,0.5
+intermediate colleges,0.5
+thousand,0.625287081339713
+state of affairs,0.9015151515151515
+exercises,0.4843962008141112
+blue prints for the management,0.5
+cofferdam,0.5
+dam to the optimum capacity,0.5
+cost of the project,1.4666666666666668
+paf,0.2607626076260763
+certain vital suggestions in the hrc report,0.5
+rural rehabilitation centers,0.5
+sense of confidence,0.6666666666666666
+coordinates,0.2061855670103093
+basin,0.8851239669421487
+other dam projects in plains,0.5
+full scientific certainty shell,0.5
+botanical survey,1.0
+the issue,1.052357456140351
+plethora of material,0.5
+payment,2.059553716565686
+sub-rule,0.0
+human right,1.1211406518010292
+officials of the rehabilitation department,0.5
+right of oustees,0.0
+high erosion class,1.5
+equal rate,0.5
+regions of similar high seismicity,0.5
+classification,2.196286472148541
+development encompasses,0.5
+engineering,1.3567493112947657
+land holders,0.75
+conscious of this particular fact,0.5
+allegation,1.834319526627219
+valley in the vicinity,0.5
+cold water fisheries,0.5
+potential health impacts,0.5
+effective implementation,0.6666666666666666
+plan for tehri dam project,0.0
+affairs,0.8608695652173913
+from other dam project in plains,0.0
+disaster management exercise,1.0
+moscow,0.48913043478260865
+discharge in the river,0.5
+clearance possess,0.5
+threshold,0.4166666666666667
+effective measures,0.5
+commensurate safeguard,0.5
+labourers,1.1666666666666667
+commission,4.703619179345321
+shook garhwal region,0.5
+river dam projects,0.5
+constitutional law,0.5
+implementation of the anti - pollution laws,0.0
+brief factual survey,0.5
+proper steps,0.6666666666666666
+zone,1.373358348968105
+reversible damage lock of full scientific certainty shell,0.5
+life sources,0.5
+large river dam projects,0.5
+arrange with the officials,0.5
+indian council,1.0
+healthy environment,0.4444444444444444
+adverse environmental implications,0.5
+down stream of the dam,0.5
+shop keepers,0.5
+datum,0.0
+important element,0.2857142857142857
+sin,4.490498652012043
+family unit,0.6666666666666667
+replacement,0.5521844660194175
+balco employee,1.25
+of the recommendations,0.8571428571428571
+installed capacity,0.6666666666666666
+more options,0.2857142857142857
+project at tehri,0.0
+abandonment,0.6984126984126985
+families sons,0.5
+emphasi,0.9191619047619048
+opinion of earthquake engineer prof  jai krishna,0.0
+rehabilitation programme,1.5
+prone area,1.0
+types,0.6765151515151515
+sub-watershed,0.0
+spot study,0.0
+service,4.257395095954566
+time limit,0.9444444444444444
+submerged land,1.0
+relevant factors in this regard,0.5
+government orders,1.2
+water flow,0.26666666666666666
+project construction work,0.5
+additional family members of those families,0.5
+sec discussion,0.5
+recommendations of the remote sensing applications center,0.5
+consultation with the government,1.0
+medium,0.7537688442211055
+big dam project,0.5
+completion of studies,1.0
+electricity line,0.5
+hrc,3.2659019812304484
+point of view,0.5886392009987514
+interregnum,0.8333333333333334
+property resource,1.0
+collection,1.0907127429805616
+payment of an ex-gratia amount equivalent,0.0
+susceptibility,0.4444444444444444
+safety aspects of the dam,1.0
+earlier settlement,1.0
+attachment area treatment programme,0.5
+that the conditions,0.7333333333333334
+various types,0.5
+further steps,0.6666666666666666
+concerns,0.9134645423305218
+project,4.265889006716154
+order of this court,2.125
+hospitalmedical facility,0.0
+other creature in the region,0.0
+specific examination of the record,0.5
+strict observance of sustainable development,0.5
+position,1.549133168619177
+mgwatt of electricity,0.5
+natural system,0.16666666666666666
+qua non for the maintenance,0.5
+government of india,4.94
+factual realities,0.5
+peasant,0.22727272727272727
+clause,3.526455026455027
+chain reaction,0.30000000000000004
+accordance with pari passu clause,0.5
+clause v,3.0
+respondent in this case,0.0
+stipulated time - frame,0.0
+replacement value,0.3333333333333333
+burst,0.36532258064516127
+eventuality from the dam,0.5
+various aspect,0.5333333333333333
+staff college of india,2.0
+restoration of degraded forests,0.5
+holy places,0.6666666666666666
+ministry,1.6350210970464136
+year in the construction,0.0
+environment condition,0.5
+study of the potential health impacts,0.5
+new place of alternative land,0.5
+pilgrim,3.162790697674419
+assistance of foreign experts,0.5
+other issue,0.4939759036144578
+application in the present case,0.5
+obstruction,0.47058823529411764
+gratia,2.3586206896551722
+oral submissions on both sides,0.5
+march of progress,0.5
+dam failure,0.5
+chand v union,0.6666666666666666
+legal requirement,1.0
+proposals,1.8872549019607843
+different department,1.3333333333333333
+body of the government,0.5
+improvement of peoples,0.5
+anti-progress because the petitioners,0.0
+rehabilitation package,2.3333333333333335
+lone,0.7239149114047514
+prohibitive action under the act,0.5
+- per sqm,0.0
+basi of detailed annual action plans,0.0
+status in this regard,0.5
+dignity,0.5529953917050692
+forest,2.292817679558011
+impoundment of the reservoir,2.0
+general,1.7536558414534391
+interest of the oustees,0.5
+rehabilitation measure,0.6666666666666666
+appropriate remedial measures,0.5
+balance between the rights,0.5
+earlier settlements,1.0
+secretary  irrigation,0.0
+behalf of the petitioners,1.8333333333333333
+magnitude,0.4999999999999999
+inadequacies of science,0.5
+action,3.127292663476874
+credible earthquake during the economic performance life,0.5
+other agencies,0.4444444444444445
+corporation with the aid,0.5
+source of dignified living,0.5
+alternative,0.841508109794136
+environment with the construction,0.5
+hire purchase scheme,0.5
+capacity,1.7421691881525676
+such situations,0.5142857142857143
+technology,1.0922599740512486
+developmental activity,0.0
+other hand,0.6931925622439332
+principle of  sustainable development,0.0
+construction for dam,0.0
+responsibility,0.8659259259259259
+pilgrim centers,0.5
+tehri dam project,9.0
+that resettlement work,0.5
+environment fix,0.5
+detail of the land,0.0
+shelter,0.8820998278829605
+consequential remedial action,0.5
+links,0.4514285714285714
+micro watershed,0.5
+that the tehri dam,1.5
+same results in discrimination,0.5
+person,4.291511329454258
+additional family member,1.5
+socio-economic studies,0.0
+description,0.8190476190476191
+scenario of possible occurrence,0.5
+necessary analogy,0.5
+part of  life,0.0
+age,4.526374474274117
+appropriate step,0.8
+status in the earlier portion,0.5
+funds,3.352010547132498
+environment for treatment,0.5
+shaft,0.34643734643734647
+food shortages,0.5
+general maintenance,0.5
+dissenting opinion,1.25
+significant alterations,0.5
+behalf of the government,1.0
+flaw,0.4131455399061033
+water shortages,0.5
+direction by this court,0.0
+corrective measuresactions,0.5
+lieu of the land,0.5
+area coverage under cat,0.5
+problem before the country,0.5
+conservation measures,1.0
+special attention,0.4
+danger lone,0.5
+kishore,0.6823529411764706
+to the oustees of koteshwar dam,0.5
+recommendation in respect,0.5
+which section,0.9333333333333333
+water birds,0.5
+disaster management activities,0.5
+claims,1.1941982272360998
+decision - making agency,0.0
+residential plot,3.3333333333333335
+loss,2.0689655172413794
+act,12.870263922028107
+rural rehabilitation sno,0.0
+necessary measure,0.6857142857142857
+report point,1.0
+environment under article,0.5
+safety tests,0.2857142857142857
+text book,0.5294117647058824
+level,1.1533169827122092
+process by government,0.5
+continuance,1.5151515151515154
+safeguard in the works,0.0
+-sq,0.0
+human beings,0.6097152428810719
+clear from various affidavits,0.5
+check,0.7221664994984955
+same terms as set forth,0.5
+performance against the maximum possible earthquake,0.5
+government in consultation,0.6666666666666666
+clearance certificate that the condition,0.5
+first phase with the construction,0.5
+pollution control board case,0.5
+remedial action,1.75
+minimum agricultural wage,0.5
+v union of india,2.381818181818182
+water quality monitoring station at appropriate time,0.5
+that the rehabilitation condition in this case,0.0
+rights,1.6349541930937281
+erosion class,1.5
+increase family since last survey,0.0
+t tunnels,0.2857142857142857
+scientific matters of complex nature,0.5
+different part,0.4915966386554622
+provision of the environment,0.0
+regard to flora,0.5
+form,2.4865961263718424
+lists,1.1177777777777778
+lack,0.6349809734425119
+ganesh wood products,0.5
+latter,0.7109238669791096
+national committee,0.37499999999999994
+satisfaction of the oustees,0.5
+care of the negative aspects,0.5
+- passu with progress,0.0
+epidemics,0.2857142857142857
+rehabilitation of the oustees,0.5
+command area plan,0.5
+proper stage,0.5
+affected families,7.333333333333333
+clearance from move,1.0
+appropriate measures,1.0
+company,5.864471879286695
+extent of directions,0.5
+impact of the project,2.0
+groups,0.9065945998117897
+pradesh,4.365853658536586
+- linear analysi of dam,0.0
+way of an abundant caution,0.5
+such huge dimensions,0.5
+representatives of ngos,0.5
+management authority,3.0
+changes in fisheries,0.5
+other on environment,0.5
+unanimous conclusion that tehri dam project,0.5
+look,0.7258645241210043
+timely actions,0.5
+necessary competent expertise,0.5
+ministry of power,3.0
+hazards,0.48571428571428577
+indian,1.2604961505560306
+pro-active attitude,0.0
+utmost concern,1.0
+camps,2.746815286624204
+extent forest tracks,0.5
+such groups,0.39
+theory,0.43014388218941363
+availability,0.6313043478260868
+separate submission,0.5
+notice under section,2.769230769230769
+requirements of law,0.75
+provision,5.439002243350069
+link,0.6814600840336135
+virodhi,2.0
+united nations,0.6
+optimum capacity,1.0
+joint venture company,1.0
+submissions on both sides,0.5
+-to,0.0
+such deprived section,0.5
+tenants,0.8391608391608391
+aquatic life,0.5
+such law,0.81203007518797
+overall factor,0.5
+department,1.9858367499068206
+erstwhile,1.4333333333333333
+context of present case,0.6666666666666666
+threat to down-stream population,0.0
+to the dam,0.5
+clearance for the tehri dam project,0.5
+human settlements,0.5
+local inhabitant,1.0
+owners,1.9409649385675758
+times,0.8987140267391797
+examination of the information,1.0
+order of clearance,0.5
+various facts,0.4800000000000001
+that execution of river valley projects,0.5
+commensurate safeguards,0.5
+scheme for grant,0.5
+further progres,0.6666666666666666
+lakh hectares of land,0.5
+sincerity,0.2647058823529412
+provisions of environment protection act,1.0
+uncontrolled release,0.5
+shop - keepers,0.0
+conclusion that such test,0.5
+seismic design parameters,1.0
+better lifestyle,0.5
+design of river valley projects,0.5
+other similar projects,0.5
+environment cost,0.5
+intentions,0.3846153846153846
+concurrence,0.7692307692307693
+additional families,0.5
+stages,0.7858851674641147
+strict adherence,0.6666666666666666
+undertaking of a decision,0.6666666666666666
+provisions of environment,1.0
+urban shop - keeper,0.0
+degraded areas of high,0.5
+principles,1.3198511166253102
+seismic vulnerability,0.5
+which issue,0.4
+main purpose,0.3888888888888889
+amount of cash,1.0
+projects at tehri,0.5
+census,0.5360623781676414
+lalpur,0.5
+clear that the rehabilitation conditions in this case,0.5
+seismic stability of the dam,0.5
+land from other land holders,0.5
+management activity,0.0
+learned,3.406323898681099
+catchment area treatment obligation of tehri hydro development corporation,0.0
+other relevant factors,0.8333333333333334
+assumption,0.47735650342285413
+due to construction of coffer dam,0.5
+strict monitoring,1.0
+dam brake analysis,0.5
+project construction,1.0
+hectares of non-forest area,0.0
+further funds,0.6666666666666666
+right bank,0.5
+compliance of the directions,0.8
+several specy,0.0
+corollary of article,0.5
+additional safeguards,0.5
+timely action,0.5
+extraneous consideration,1.2857142857142858
+development project,0.6666666666666666
+way for big projects,0.5
+present statu,1.75
+increase family,0.0
+relevant branches,0.5
+pari-passu with progress,0.0
+power simpliciter,0.5
+mean of subsistence,0.0
+monitoring mechanism for the tehri dam project,1.0
+outlet,0.4069767441860465
+reliance,1.400763358778626
+gainer,0.3333333333333333
+degraded catchment,1.0
+environmental action plan,1.5
+clothes,0.43778538812785384
+coordinate,0.75
+conditions on which clearance,1.0
+adherence of sustainable development,1.0
+portion,1.0756311179804223
+other creatures,0.5
+bhilangana river,0.5
+rescue,0.4424567680381634
+informed consent,0.6000000000000001
+department of earthquake engineering,1.0
+center,0.9521598338119387
+mere right,0.5
+projects,1.1885926573426573
+careful analysis,0.5
+earthquakes,0.8571428571428571
+occupations,0.2777777777777778
+intervenes,0.75
+pari-passu conditions,0.0
+humblest,0.5
+first phase,0.75
+substantial compliance,1.3333333333333333
+resources,0.9331054687500001
+certain grievance,0.6666666666666666
+evacuation,0.6666666666666666
+landless,2.0
+signal for further works,0.5
+soil conservation measure,1.0
+rural oustees,1.0
+cycles,1.05397951142632
+principle of sustainable development,1.0
+planning of tehri dam project,0.5
+shop except affected families,0.0
+such situation,0.5538461538461539
+town of the new state,0.5
+consultation,1.1724137931034484
+decent life,0.5
+environment impact assessment,1.0
+well - settled principle,0.0
+samata v state,0.5
+chances of vector breeding,0.5
+treatment of entire catchment,0.5
+treatment of catchment area,1.0
+water needs,0.5
+india with the construction,0.5
+appropriate time,0.6000000000000001
+m supp,0.34131736526946105
+line between the realm,0.5
+authority,2.4352627108360636
+down stream,3.0
+inception,0.5869565217391305
+many economic problem,0.5
+recommendatory body,0.5
+land for same reasons,0.5
+minutest detail,0.5
+closure of diversion tunnels tt,1.0
+lacs,1.6941699604743086
+development,2.3145884270578647
+linear,2.0952380952380953
+hardwar,0.4021146538906328
+face,0.7281253260594137
+clear that the condition of pari-passu implementation,0.0
+rehabilitation task,0.5
+sub-watersheds,0.0
+inadequacy,0.7777777777777778
+hectares,5.375
+department for assessment,0.5
+concerned department,0.75
+goal,0.5651601830663616
+study reports by bsi,0.5
+matter on several occasions,0.5
+disaster reduction,0.5
+other purpose,0.4895104895104894
+patta,1.7254901960784315
+fighting,0.36251504211793023
+for rehabilitation,1.5
+international declarations,0.5
+jeopardy,0.3231292517006803
+methods,0.6227758007117437
+job,0.6733466933867737
+departmental,1.9682539682539684
+intermediate colleges in rural areas,0.5
+other such groups,0.2692307692307692
+theoretical value,0.5
+commensurate gain,0.5
+uttar,2.188679245283019
+lexical meaning of the latin word pan passu,0.5
+plain,3.198322602206429
+related impacts,0.5
+first beneficiaries,0.5
+basic features,0.8888888888888888
+uttranchal claim,0.5
+guaranteed fundamental right,0.75
+state,6.817996007300392
+cash amount,0.4
+chance,0.7937084625609215
+progress of construction,0.5
+availability during the low reservoir level periods,0.5
+implementation by the uttaranchal state,0.5
+environmental measures,0.5
+area treatment,8.0
+well - informed decision,0.0
+social life,0.3333333333333333
+human rights commission,1.0
+small dams,0.5
+certain aspects,0.6666666666666666
+- passu implementation of environment,0.0
+dr vk,1.5
+safety,1.5344583560152423
+earlier decision of this court,1.1
+huge dimension,0.5
+repair,1.1641083521444697
+fill,1.573181854406673
+labour,2.5372960372960374
+many economic problems,0.5
+impact assessment agency,0.5
+corollary,0.5
+adherence,0.6737967914438503
+- fulfillment of the conditions,0.0
+constitution of india,3.0095238095238095
+viz,0.7732570026579433
+rehabilitation accept the following principle,0.5
+meaning,1.8612727545949643
+fundamental duties,0.8333333333333334
+conning generation,0.5
+prospective,0.7351351351351351
+interest,2.74353772015385
+nca,0.6524425749372083
+cycle,0.862020944741533
+aspects,1.0997620069447154
+hrc report point out the scantiness,0.0
+consideration of national committee,0.5
+outcome,0.6303030303030303
+safe against the strongest earthquake in the region,0.5
+local person,0.0
+recent high dams,0.5
+consciou to the inherent danger,0.0
+rural oustee,1.0
+rural rehabilitation center,1.0
+remain,1.0335567356972242
+national geophysical research institute,0.5
+- fulfillment,0.0
+last option,0.2777777777777778
+dimension,0.7919420837267862
+chosen,0.7709908475925189
+town tehri,0.5
+technical data,0.5294117647058824
+ngos,0.4411764705882353
+against the state,0.7714285714285716
+state of uttaranchal,1.8571428571428572
+affected population,1.5
+present petition under article,0.5
+appeal,3.4125488033856883
+such social conflicts between different social groups,0.5
+area,2.675167256985439
+present relief,0.5
+village,1.8429856945085372
+gesture that the clearance,0.5
+new habitats,0.5
+cash compensation,3.0
+lieu,0.5964912280701754
+release,0.9830403257846643
+acceleo gram of the gazli earthquake,0.5
+for life,0.8169601482854494
+cultivable,0.5
+integral role in this exercise,0.5
+sub-section,0.0
+feeling that contractor,0.5
+rehabilitation department,0.6666666666666666
+disaster management activity,0.0
+same to the ministry of environment,0.5
+sardar sarovar project s case,0.0
+watersheds,0.6000000000000001
+finding that the highest seismicity,0.5
+other obligation,0.5
+committees,1.1
+passu clause,1.0
+circumstance,1.429931390219372
+unanimous that the tehri dam,0.5
+cost estimate,0.3466666666666666
+arrange for alternative employment,0.5
+concerned authority after due consideration,0.0
+domination,0.2777777777777778
+expert opinion of earthquake engineer prof  jai krishna,0.0
+ngo,1.3464249903586578
+impacts of big dams,0.5
+reservoir level period,1.5
+benefits from the river,0.5
+right to development,3.3333333333333335
+problem of water logging,0.0
+to the ministry of environment,0.5
+forest department,3.25
+implementation of engineering works,0.5
+sec,11.935482993577615
+beings,0.5577464788732395
+house  land owner family,0.0
+administrative law,1.1428571428571428
+environmental plan,1.5
+life of the dam,1.0
+rajendra babu j,1.1111111111111112
+strongest earthquake,0.5
+doctrine,0.7455954017243533
+reservoir water,0.5
+horizontal acceleration,0.5
+structures,0.8929115853658537
+ex-gratia amount,0.0
+provisions of the environment,1.3333333333333333
+magistrate,3.522077922077922
+national policy,0.6000000000000001
+acceleration,0.34782608695652173
+misnomer to simple construction activities,0.5
+respondents in this writ petition,1.0
+right to economic betterment,0.5
+inadequacies,0.26666666666666666
+final version,0.25
+proper application of mind,0.75
+draw down level,0.5
+social cost,0.5714285714285714
+soil conservation measures,1.0
+urban houseland owner families,0.5
+impoundment on the flora,0.5
+institutional mechanism,0.5
+separate agency,0.0
+lease basi,0.5
+balance families,0.5
+policy-making process,0.0
+term,3.6255105640901575
+garhwal division,0.6666666666666666
+house owner families,0.5
+level committee under the chairmanship,0.5
+balance family of tehri dam,0.0
+other respondents act,0.5
+expert on safety aspects,0.0
+side,3.88845645915565
+acknowledgment,0.75
+fundamental right under article,1.625
+certain quarter,0.5
+sardar sarovar project case,0.5
+power generation,0.7407407407407407
+halt without any extraneous considerations,0.5
+policy obligation,0.5
+hrc s recommendations,0.0
+human suffering,0.2857142857142857
+result,1.3356630184144715
+public representative,0.5
+exact words,0.3589743589743589
+fact,3.6284951019474962
+b d sharma v union,0.5
+river project for dams,0.0
+mgwatt,0.5
+pre - impoundment studies,0.0
+studies as a matter,0.5
+agricultural labourers,1.0
+immense destruction,0.5
+sedimentation,0.5
+various affidavit,0.75
+bhilangana river in the neighborhood,0.0
+human life,0.5567901234567901
+safety aspects,7.0
+urban resettlement programme,0.5
+sno,0.5243373493975904
+only alternative,0.42857142857142855
+affected rural family,0.0
+tune,0.5874773139745917
+committal,0.8333333333333334
+stream city,0.0
+fill materials,0.5
+current quantity of discharge remains,0.5
+potable water,0.5
+separate submissions,0.5
+help of execution,0.5
+various action,0.5
+condition for clearance,0.0
+recent advance,0.3333333333333333
+much - affected people,0.0
+actual acceleo gram,0.5
+the act,5.708327371273712
+regard to certain aspects,0.5
+new place,0.3333333333333333
+resettlement programme,0.5
+other similar project,0.5
+finish,1.073183832415738
+v state,2.4603773584905664
+office of move,0.5
+forests in a time bound manner,0.5
+administration,1.061072796934866
+-d non-linear analysis of the dam,0.0
+detailed evaluation of these aspects,0.5
+pan passu clause,0.5
+non-fulfillment,0.0
+green,0.574679113185531
+fuel,0.996606536881586
+control of floods,0.5
+conflicting claim,0.5
+step,0.8867024753460084
+different from other dam projects in plains,0.5
+key exercise,0.5
+to development encompass,0.5
+impacts,1.9692307692307693
+social conflicts between different social groups,0.5
+united,0.7052854122621566
+various bodies,0.6666666666666666
+central government in consultation,0.5
+plot,1.9177369203731243
+lakes,0.349009900990099
+press,2.0449126984126984
+electricity lines,0.5
+important element of growth,0.5
+paps,0.2777777777777778
+impact on health,0.5
+life source,0.5
+significatory to international agreement,0.5
+force,1.6009408121948314
+property,2.9368986630013745
+regions,0.6360000000000001
+environment clearance of the project,0.5
+seismic stability,0.5
+seismologist,2.0
+clearance from the environment department,0.5
+purpose of investigating,0.6666666666666666
+treatment,1.1351020408163266
+present,1.9747480780089475
+urban rehabilitation programme,0.5
+assargrasth,0.5
+degraded forests,0.5
+tenant at the old tehri town,0.0
+- progress because the petitioners,0.0
+chamoli,0.5
+addition,1.5588539142412572
+human health,0.8888888888888888
+reservoir levels,0.5
+river projects,0.5
+action plan for preservation,0.5
+rates,0.9535092413452435
+learned brother,1.7692307692307692
+natural resource for further development,0.0
+entire himalayan region,0.5
+technical body,0.5
+safety of the dam,6.0
+down - stream,0.0
+to health,0.504950495049505
+rehabilitation policy booklet,0.5
+snow,0.32621951219512196
+new habitat,0.5
+cold water fishery,0.0
+intervener,0.6666666666666666
+computational capability,0.0
+left bank,0.5
+large block,0.5
+challenge to such law,0.5
+comprehensive appraisal of the seismic safety,0.5
+constitution,3.204842342342342
+context of this case,0.5
+project authorities,2.5
+preservation of ecology,0.5
+governments,1.020200276243094
+uniform stand,0.5
+care by the government,0.5
+assessment by move,1.0
+cities,0.538072382929044
+other legal provision,0.5
+separate family,0.5
+financial provision,0.5
+projected benefit from the dam,0.0
+pattas,1.0
+vital suggestion,0.5
+payment of this amount,0.6666666666666666
+environment action plans for consideration,0.5
+restoration,0.8498168498168498
+improvement of environment,0.5
+for tribals,0.75
+specialised organisation,0.5
+conditions on which environmental clearance,1.5
+india manuscmanusc,1.8333333333333333
+structural flaw,0.3333333333333333
+appropriate for the court,0.8
+fundamental issue,0.38095238095238093
+loss of quality,0.2777777777777778
+national human rights commission,1.0
+direct draining catchment,0.5
+treatment of the entire catchment,0.5
+sundarlal,0.5
+mitigative step,1.0
+move,1.0374532340456146
+prior environmental clearance,0.5
+operation,1.0959893294085181
+ministries,0.6060606060606061
+thorough assessment,1.0
+fail,1.3038982898019296
+human,1.0063526196524266
+related works in the region,0.5
+public fund,0.5526315789473685
+former president of international academy,0.5
+wood product,0.5
+corresponding burden,0.5
+as catchment area treatment,0.5
+environmentecology of this region,0.5
+safest man - made structure,0.0
+socio - economic survey,0.0
+certain parameter,0.6666666666666666
+welfare state,0.7792207792207791
+expedient,1.1041666666666667
+balco employees  union,0.0
+in everything,0.3333333333333333
+vice-chancellor,0.0
+report of the expert group,0.5
+cause to the spread,0.5
+present state,0.5
+house owner family of tehri town,0.0
+area authority,0.0
+district magistrate,3.5
+full reservoir levels,0.5
+various issues,0.45000000000000007
+maximum credible earthquake,2.0
+negative aspect,0.3333333333333333
+laws ie,0.3333333333333333
+affected family,0.0
+branches,0.5167464114832535
+up-stream population,0.0
+larger benefit,0.5
+that the rehabilitation conditions in this case,0.5
+concerned authorities,1.090909090909091
+quantitative estimation,0.5
+component,0.6292906178489701
+sense,0.8606303395157362
+government of uttaranchal,3.5
+pollution control board s case,0.0
+zoological survey of india,1.0
+government subject,0.75
+report of the environmental appraisal committal,0.5
+uniform throughout the length,0.5
+requisite resources,0.5
+ecological disaster,1.0
+impact on aquatic eco - system,0.0
+product,2.242984858429713
+haves,0.6434782608695652
+life style,0.6000000000000001
+wherea,0.8062806257067471
+- linear analysis of dam,0.0
+role,1.0562959821210092
+compliance of the conditions,2.0
+group under the chairmanship,0.5
+mind that environmental concern,0.5
+reduced levels,0.5
+socio - economic study of the families,0.0
+development of bhagirathi basin therefore,0.5
+severe earthquake,0.5
+in the present case,1.3486005089058526
+with the help of execution,0.5
+dpower,0.41600000000000004
+serious consequences of the implementation,0.5
+related work,0.6666666666666666
+property resources,1.0
+realm,0.5917241379310344
+aspects of disaster prevention,0.5
+forest conditional clearance,0.5
+courts,2.1216528162511543
+committee,2.546237803603864
+certainty,0.8630136986301371
+botanical,2.0
+statutory basi by a notification,0.0
+area treatment obligation,0.0
+landhouse owner oustees,0.5
+different stages,0.6060606060606061
+residence,0.7568831168831168
+details of the compliance,0.5
+similar reasons,0.4444444444444444
+- linear analysi,0.0
+that result in progress,0.0
+-one on the safety aspect,0.0
+rehabilitation plans,0.5
+impact on human health,0.5
+displaced,1.1666666666666667
+pattern of the well - settled principles,0.0
+severe scale of the ecological intervention,0.5
+spot study of the impact,0.0
+damage lock of full scientific certainty shell,0.5
+litigation,1.4968553459119498
+ways,1.3640952708404963
+environmental issues,1.5
+oustee,9.5
+decisions,1.3888475974580996
+environmental related developmental activity,0.0
+fundamental rights of the people,0.6666666666666666
+separate plans for the treatment,0.5
+shops,1.9350785340314138
+situations,0.7435282837967402
+power indicating,0.5
+certain quarters,0.5
+preparation,1.299145299145299
+such classification,1.125
+good,2.6154941054299674
+land,6.337534028705619
+cusecs of water,0.5
+read,2.2147281730888695
+section of the society,0.5
+thdc action plans for consideration,0.5
+intervention of the court,1.0
+members of the environmental appraisal committee,0.5
+koteshwar,3.5
+sharma,0.9516994633273703
+case of mahaseer fish,0.5
+aspects of mineral contamination etc,0.5
+ecologist,0.26666666666666666
+likely affected population,0.5
+qua,2.4497935676369567
+community,1.3158036677454152
+guarantee,2.2562167724232554
+river from generations,0.5
+enforcement,0.7354220499569336
+high erosion classification,0.5
+environmental measure,0.5
+significant alteration,0.5
+dam section,0.5
+site development work,0.5
+ameliorative measures,0.5
+flora,2.454545454545454
+facility for irrigation,0.5
+extraneous considerations,1.5
+administrative clearance to the project,0.5
+representative,1.0617102796119673
+low reservoir level period,1.5
+logical corollary of article,0.5
+hair,1.2685815066767447
+target,1.8734177215189871
+matter of complex nature,0.0
+prescribed date,0.5
+spreading of pollution,1.0
+remedial,1.02
+safety aspect in tehri bandh virodhi sangarsh samiti,0.0
+prime minister of india,1.25
+governmental authorities,0.5
+severe seismic parameters,0.5
+zones,0.7703703703703705
+that various recommendations,0.5
+arbitrarines,0.9047619047619048
+such two-dimensional studies sufficient,0.0
+increase in other stabs,0.5
+district hardwar,0.5
+investigating,1.5794836956521738
+natural disaster reduction,0.5
+gains,2.5197995467213867
+yojana assargrasth shakhar ane sangharsh samiti v state,0.5
+bhaniawala,0.5
+want of necessary competent expertise,0.5
+misery,0.5
+eac s recommendations,0.0
+union ministry,0.8
+area treatment obligation of tehri hydro development corporation,0.0
+families,3.0833333333333335
+tehru,0.5
+movement against the construction,0.5
+concerned departments,0.6666666666666666
+dependants,1.75
+prone region,1.0
+draw,1.2610192040721886
+nations,0.9375742619504617
+schedule iii of notification,0.5
+fundamental rights under the constitution,1.0
+closure of diversion tunnels,1.0
+liberty,0.7860465116279071
+effect of the project,0.5
+concept,0.9402138540213855
+formulations,5.833333333333333
+deprived sections,1.3333333333333333
+further test,0.4
+prints,1.6483516483516483
+stand that -d non - linear analysis,0.0
+human life of the area,0.5
+for the court,0.5893719806763285
+cumec,0.5
+that the condition,0.7384615384615386
+legal provision,0.6
+seismic safety of the tehri dam,0.5
+living standard of displaced persons,0.0
+schedule iii of the notification,1.0
+everyone,0.6963340891912321
+untoward occurrence,0.5
+present water spread of reservoir,0.5
+inter-ministerial review committee,0.0
+two - dimensional studies,0.0
+low  categories,0.0
+present status of the urban rehabilitation programme,0.5
+ministry of power indicating,0.5
+geological seismic setting,0.5
+himachal pradesh v,0.6666666666666666
+cash grant,0.5
+narmada bachao andolan,1.6666666666666667
+up - stream impacts,0.0
+married sons,2.0
+dam - reservoir system,0.0
+old tehri land owners,0.5
+irrigation canal,0.4444444444444444
+ground water,0.40909090909090906
+necessary facts,0.75
+subsidised term,0.5
+proposal,1.8145800316957208
+holy,0.7725848563968669
+due to the project,0.5
+diversion tunnels on the left bank,0.5
+beneficiary of any project,0.0
+non-linear test,0.0
+additional studies as a matter,0.5
+towns,0.6514285714285715
+lapse,0.9238095238095239
+deliberation,0.7366666666666667
+such as catchment area treatment,0.5
+progres,1.075925925925926
+execution pari-passu with the construction,0.0
+coordinate between different departments,0.0
+following aspects,1.0
+r policy,0.5990415335463258
+decided parameters,0.5
+direct responsibility for the entire rehabilitation task,0.5
+lacs on handing,0.5
+surplus land,15.25
+vigil,0.47142857142857153
+further developmental activity,0.0
+elements,0.676937441643324
+legal,1.6383168326773236
+new settlement colony,0.0
+separate families son,0.5
+regional office of move,0.5
+light of the opinions,0.5
+second round,0.38513513513513514
+acre of land,0.0
+further developmental activities,0.5
+adverse effect,0.5555555555555556
+catchment areas under densification,0.5
+unanimous conclusion that tehri project,0.5
+clause v of sub-section,0.0
+necessary exercises,0.5
+low,3.2873832565701946
+family member of the landless agricultural labourers,0.0
+effectiveness,0.45112781954887216
+specific condition,0.4
+various fact,0.49382716049382713
+safeguard measure,2.0
+recent advances,0.3333333333333333
+purchase,3.239871541501976
+goal of wholesome development,0.5
+economic well,0.6000000000000001
+area treatment of the catchment,0.5
+socio-economic study,0.0
+time,2.4764180952862667
+observance of sustainable development,0.5
+basis that the project,0.5
+marginal farmers,1.0
+project site,2.0
+funds with the aim,0.5
+committee on seismic design parameters,0.5
+eligibility,1.1788856304985336
+gazli,0.5
+certain lapses,0.5
+tehri for hydel power generation,0.5
+environment fixes,0.5
+cost ie,0.6666666666666666
+court in b d sharma v union,0.5
+surveys  study,0.0
+certain vital suggestion in the hrc report,0.0
+start of project construction,0.5
+protest,1.349300087489064
+whereas,0.7770612954644255
+confluence,1.5
+limit,2.3804570428443834
+state governments,1.3345864661654134
+symbiotic balance,0.5
+absence,1.092363454568179
+counsel,2.2246780703440323
+international attention,0.5
+overall supervision,0.6666666666666666
+earth,1.8779670889762632
+static water,0.5
+union government,1.8333333333333333
+common property resource,1.0
+mechanism,0.7337579617834395
+life on those natural resources,0.0
+environmental safeguard measure,0.5
+upto march,1.0
+water quality monitoring,2.5
+dispute,2.402137592137592
+related impacts on aquatic eco-system,0.0
+family at the latter,0.5
+item-wise comments,0.0
+stage of rescue,0.0
+scientific certainty shell,0.5
+need before the issue,0.0
+hrc report,4.0
+bhilangana rivers in the neighborhood,0.5
+dps,2.323943661971831
+compliance,1.0029799914857385
+detailed surveys,0.5
+case,7.332269420884958
+clear in that decision that the questions,0.5
+monitoring,2.5
+clothe,0.44423076923076926
+mineral contamination etc,0.5
+action under the act,1.0
+minister of india,1.2
+final report,1.3426573426573427
+environmental clearance for the tehri dam project,0.5
+future,0.9664487618116651
+mehta v,1.4285714285714286
+eligible family members,0.5
+contention,1.666391070690368
+nttdehradunrishikesh at pre- cost ie,0.0
+progres of the rural rehabilitation,0.0
+rehabilitation,4.416666666666667
+larger interest,1.0
+comments,0.5982500911410864
+which environmental clearance,2.0
+serious consequence of the implementation,0.0
+statutory basi,1.0
+chain effect on catchment area,0.0
+survival,0.8507625272331153
+enforceable against the state,0.5
+commences,1.0
+halt without any extraneous consideration,0.5
+place of rs,1.0
+similar high seismicity,0.5
+structure,1.568520357497517
+corrective measuresaction,0.5
+adverse environmental implication,0.5
+various document,0.9333333333333332
+instant case,2.0631578947368423
+progres of engineering work,0.0
+months to the expert committee,0.5
+memorandum,1.2142857142857144
+rules on environmental impact assessment,0.5
+true that these decision,0.5
+- progress because the petitioner,0.0
+hrc report points,0.5
+more dam project,0.5
+res,10.359704275735774
+canal network,0.5
+temples,3.807692307692307
+sustainable source,0.5
+disaster management plan of the state government,0.5
+clearance in july,0.5
+action pan,0.5
+comprehensive,0.7328125
+organisation,1.4034090909090908
+similar project,0.6666666666666666
+adverse environmental impact,0.5
+implementation of these aspects,0.5
+flat slope,0.5
+earthquake-prone,0.0
+certain lapse,0.5
+scantines,0.5
+shri bahuguna,0.5
+expert in the field,0.5
+construction of a dam,3.0
+poor villager,0.5
+displaced persons,1.1428571428571428
+safe against the worst earthquake scenario of the area,0.5
+norm,1.1955826794536473
+protest of ecologists,0.5
+judgment over such decision,0.5
+india to the effect,0.5
+integral elements of sustainable development,0.5
+true that these decisions,0.5
+public,2.923239095873367
+km below the dam site,0.5
+eventuality,0.5864197530864198
+administrative clearance,0.5
+right of living,0.5
+environmental plan for effective implementation,0.5
+revisit,0.5968992248062016
+negative impact,0.2857142857142857
+level committee,3.4
+other contention that the unmarried sons,0.5
+infringement of the anti - pollution laws,0.0
+authorities of the project,0.5
+other purposes,0.44999999999999996
+vedic times,0.6666666666666666
+decision that the question,0.5
+international decade,0.5
+sarovar,4.0
+several proposals,0.5
+additional family,1.5
+such adverse impact on environment,0.5
+technocrats,0.5
+available to urban population,0.5
+loss of forests,0.5
+cumecs,0.5
+disaster management plan,5.0
+finance,1.9582470669427192
+conservatism,0.25
+observations,0.7454584147497534
+two - dimensional studies of the dam,0.0
+measures,1.126498218334953
+environmental management plans,0.5
+greater responsibility,0.3333333333333333
+mere revisit,0.5

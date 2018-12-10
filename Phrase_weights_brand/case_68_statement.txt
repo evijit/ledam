@@ -1,0 +1,927 @@
+committee,2.546237803603864
+court in the case,1.3333333333333333
+government,3.5583785424010483
+sanjeeva,2.3333333333333335
+rejection of the nomination paper,1.0
+candidate at an election,2.0
+conceivable challenge of these provisions,0.5
+election of shri neelam sanjeeva reddy,0.5
+vacancy,1.0666666666666667
+certified copy of the entry,1.0
+validity of sections,1.0
+nomination papers of all candidates,0.5
+fifty electors as seconders,0.5
+validity,1.521010638297872
+proportional representation by means,0.5
+election commission by notification,0.5
+duties of the office,0.5
+constitution of india,3.0095238095238095
+presidential elections act,1.0
+people,1.2855544825097243
+tripathi,1.0
+same election,0.6666666666666666
+filing,1.1274190041313328
+sections,1.640495469442838
+reasons,1.3749054007567938
+candidate at a presidential election,0.0
+decisions of this court,1.8225806451612903
+matters,1.4810665618448637
+statement in the plaint,0.5
+neelam sanjeeva reddy s case,0.0
+counting,1.8366107576633892
+vice-presidential elections act,0.0
+failure,0.7827962142086977
+prescribes,0.6387096774193549
+oath,0.9395348837209302
+least ten electors as seconders,0.5
+requirement of the provisions,0.8
+court,12.24425115501509
+same similar grounds,0.5
+candidature,1.4444444444444444
+petitions as the points,0.5
+declaration,2.152560083594566
+candidacy,0.2727272727272727
+legislators,1.1666666666666667
+valid challenge to the validity,0.5
+parliament,2.6571235781762095
+notice of election,0.5
+objection,1.68120480131216
+person,4.291511329454258
+ors,2.8612718198296623
+rules of this court,1.0
+requirement in section,0.5
+cause,1.8431210321626654
+way,1.7812722068664852
+behalf,1.9888053603529987
+such frivolous election petition,0.5
+part,5.294464509893076
+candidate inasmuch as the nomination papers,0.5
+more elector,1.0
+elected members of the legislative assemblies,0.5
+nothing,0.8658723322806009
+houses,1.0821764442454098
+pronouncement,0.8197343453510436
+order xxiii,0.6666666666666666
+authoritative pronouncements,0.5
+other provisions,1.9
+secrecy,0.5503512880562061
+more than a contestant,0.5
+aspect,1.2449448189023034
+number,1.4802651440973922
+of india,3.699095022624434
+shri,2.0759135877246115
+decisions,1.3888475974580996
+constitutional validity of sections,0.6666666666666666
+conditions for the eligibility,0.5
+poll for the contest,0.5
+decision,2.9514937765898557
+last date of the withdrawal,0.5
+articles,1.4349688743466387
+member of an electoral college consisting,0.0
+part ii,1.4746543778801842
+aforesaid,2.592896174863388
+least fifty electors as seconders,0.5
+law by the highest court,0.5
+congressi,0.2245762711864407
+claim,2.817264601856604
+date of the withdrawal,0.5
+house,2.0021735292386764
+doubts,0.6666666666666666
+defects,0.6712564543889845
+such conduct,0.75
+challenge to the validity,1.25
+court of judicature,1.4210526315789473
+amendment by act,1.0
+assents,0.6666666666666666
+land,6.337534028705619
+scr,2.483838975311538
+election,6.758005637447438
+constituency,3.7333333333333334
+third time,0.2631578947368421
+abdul,1.5086206896551726
+provisions of the act,2.6056338028169015
+manner of voting,0.5
+case of presidential election,2.0
+high time that the petitioner,0.5
+careful consideration,0.9285714285714286
+valid challenge,0.5
+stage,1.1298537871524448
+year,2.8349484769759212
+- matter of section,0.0
+scrutiny of the nomination papers,0.5
+legislator,1.5511363636363635
+judgment,3.288216560509554
+transferable vote,1.3333333333333333
+high time,0.43636363636363634
+ballot,1.184
+detailed order,0.875
+claims,1.1941982272360998
+elected member of both houses,0.0
+matter of claim,0.5
+further in view of the consistent view,0.5
+twenty electors as seconder,0.5
+subject,2.4420366233344897
+national democratic alliance,0.5
+similar grounds,0.6666666666666666
+amount of costs,1.5
+services,1.6850241065659326
+order,5.472481489660944
+duty of the office,0.0
+subscribes,0.2857142857142857
+second limb,1.0
+twenty electors,1.0
+act,12.870263922028107
+programme,1.5640149666503986
+vice-presidential election rules,0.0
+elected members,1.6
+sub-section,0.0
+electors,3.4941176470588236
+elected members of both houses,0.5
+same defects as the earlier petition,0.5
+pursuance,1.543859649122807
+plaint,3.104295112903434
+ten electors as proposer,1.5
+violation of the act,0.75
+officer ground,0.5
+ten electors as seconders,1.5
+requisite number of electors,0.5
+number of proposers,0.5
+effect,2.184583388478191
+election programme,0.6666666666666666
+candidates,3.508445945945946
+copy,0.8620926631522174
+india in a cavalier,0.5
+completion,1.1868131868131868
+election of a returned candidate,1.0
+rule of this court,0.0
+third time in the election petition,0.5
+election of the president,2.0
+manner,1.4494591333432125
+mandatory requirement,1.4
+member,2.649111111111111
+parties,1.8210828547990157
+filing of nomination papers,0.5
+compliance with the provisions,0.8333333333333334
+illegal rejection,0.6666666666666666
+procedure in proceedings,0.5
+electoral college,1.3333333333333333
+section,9.287987283173626
+nomination paper for the same election,0.5
+herein,2.825259515570934
+least fifty electors as proposer,1.0
+college,2.1498947162234954
+abdul kalam,1.0
+condition,2.259476395625584
+judgments,1.2355646397547266
+fifty elector,1.5
+accordance with the provisions,1.9523809523809523
+void,1.2208700269947337
+nay nomination paper,0.5
+part iii of the rules,0.6666666666666666
+assertion,0.5478622435144175
+place,2.333104345208554
+twenty elector,1.0
+civil,2.126558634963905
+petitioner on the second limb,0.5
+fifty electors as proposers,1.0
+mean,2.390645692553228
+conduct on the part,0.7777777777777778
+zail,0.6666666666666666
+conceivable challenge,0.5
+judicature,1.4210526315789473
+standi,1.284595524956971
+regard,2.723310344827586
+reddy,0.7218614718614719
+allied party,0.0
+candidate in the electoral roll,1.0
+uncontested election,1.0
+earlier decisions,1.24
+other provisions of the act,1.0
+of the ground,0.5877551020408164
+proces,1.627944583238701
+direction,1.8495050210098996
+former president,0.3333333333333333
+bhan,1.4088145896656534
+case of vice - presidential election,0.0
+prescribe,1.5663430420711975
+vice-president-,0.0
+case of an election,0.6666666666666666
+regards,0.9072861236185019
+facts,1.4696673624372698
+earlier judgment,1.8
+officer on a day,0.5
+ten proposers,1.5
+services committee,0.2857142857142857
+own cases,0.26666666666666666
+subject to the provisions,2.4705882352941178
+july,0.9742727723122656
+of article,2.1149999999999998
+supreme court by any candidate,0.5
+form,2.4865961263718424
+least twenty electors,1.0
+powers,1.876345371920593
+leave petition,2.013333333333333
+objections,1.2025072324011572
+nomination paper,9.875
+that frivolous election petition,0.5
+such frivolous election petitions,0.5
+times by this court,0.5
+mithilesh kumar sinha v,0.5
+reddy charan lal sahu v,0.5
+par with a person,0.5
+candidate,6.356675392670156
+mandatory requirement of section,0.5
+benefit,2.604810195438474
+fifty electors as proposer,1.0
+petitioner,4.524972253052164
+records,0.9879294336118848
+cost,1.2954397451466992
+judgment of this court,2.1029411764705883
+desire,0.6008255933952529
+corner of that procedure,0.0
+earlier binding precedent,1.0
+returned candidate,7.846153846153846
+nomination paper complies,0.5
+president,2.1267129228100607
+acceptance of the nomination paper,1.0
+directions,1.5134125183504605
+nomination paper of all candidates,0.0
+infringement,1.152439024390244
+deposit amount,0.75
+sub,7.816899313759727
+lay,1.6417997860111886
+narayanan case,0.5
+vii,1.26552423069836
+narayanan s case,0.0
+least ten proposer,0.5
+narayanan,3.0
+assemblies,0.8571428571428571
+vice-president as the case,0.0
+declaration of results,1.0
+lakshmi,0.942857142857143
+grounds,0.9540208829455945
+legal services committee,0.5
+applies to the proceedings,0.5
+petition maintainable,0.5
+withdrawal,1.2055933484504913
+lakshmi sehgal,0.5
+deposit,2.1724508050089444
+hundreds,0.46310432569974547
+cost of rs,0.8888888888888888
+hence,1.1440732910500353
+same similar ground,0.5
+officer,3.1197242647058823
+amendment,2.2486412346818434
+charan lal sahu v kr,0.5
+ground,1.4186722903211633
+applies,0.9353049100122315
+defect,1.4259259259259258
+high court in the writ petition,0.75
+extraordinary gazette,0.5
+procedure in an election petition,0.5
+arises,0.8292682926829268
+dr apj,1.0
+oath of the office,0.5
+field,1.5820968371729793
+specify,0.5768476128188358
+matter,2.8088923076923082
+vice-presidential elections,0.0
+grounds that the petitioner,0.5
+scrutiny,0.912987012987013
+article,4.378806157159795
+ordinance,1.176
+provision of section,1.4827586206896552
+roll,1.7278932172102048
+validity of various provisions,0.5
+vires,2.388888888888889
+spite,0.8919640378414163
+intra vires,1.25
+elections,2.0254335260115606
+indian,1.2604961505560306
+improvement,2.157706093189964
+pronouncements,0.7435344827586207
+view,2.441100058469462
+giving,0.9925770841263798
+requirements,0.7375979875979877
+opinion,1.4960606342789635
+requirement of the statute,1.0
+conflict,1.314561353483509
+statutory requirement,1.2857142857142858
+majority,1.3427634276342764
+merit,1.2419290263876248
+ashok bhan,0.8
+office in new delhi,0.6666666666666666
+previous judgments of this court,0.5
+limb,0.509338061465721
+reason among the members,0.5
+assistant,1.6732837055417698
+seconder,9.0
+provision of article,0.6666666666666666
+result,1.3356630184144715
+court in charan lal sahu v fakruddin ali,0.5
+record,2.5393414390845273
+procedure,2.552771605064117
+petitions,1.3930830039525692
+division bench of the high court,1.6825396825396826
+members of an electoral college consisting,0.5
+elections act,1.0
+requirements of law,0.75
+vice-presidential election rule,0.0
+provision,5.439002243350069
+contest,1.1755967404629697
+secretary,0.9217877094972067
+high office,0.5
+prescribes that any person,0.5
+democratic,0.8235294117647058
+declaration that the result,0.5
+vice-presidential election act,0.0
+officer for presidential election,0.5
+provisions of section,2.762376237623762
+provision for scrutiny,0.0
+time that the petitioner,0.5
+electoral college consisting,0.5
+presidential of india,0.5
+fact,3.6284951019474962
+shri neelam sanjeeva reddy,0.5
+twenty electors as proposer,0.5
+several decisions,1.1
+nomination paper on the ground,0.6666666666666666
+requisite numbers of proposers,0.5
+provisions of article,1.263157894736842
+nomination paper comply with the statutory requirement,0.0
+expression,1.7424391201885312
+constitutional validity,2.6875
+sets of nomination papers,0.5
+judgment with the observation,0.5
+time that the petitioners,0.5
+several decision,1.1
+challenge of these provisions,0.5
+same defects,0.5
+such authority,1.3571428571428572
+various provisions,1.5789473684210527
+duties,1.477142857142857
+special,1.7363344051446945
+particular number,0.6666666666666666
+contention on the question,0.6666666666666666
+poll,1.8799933862433862
+manner of election,0.5
+election of respondent,1.25
+secretary general,0.40909090909090906
+kumar,2.028839704896043
+cmm,1.4373385012919897
+ultra vires,1.8484848484848484
+stand,1.8422769621739425
+completion of counting,0.5
+which cover,0.4210526315789474
+legislative assemblies,1.0
+that ground,0.6190476190476191
+duly,1.13589803737587
+various provision of the act,0.0
+suppl,1.7520745539046882
+earlier judgments,1.2
+other word,0.758838674565131
+several decisions of this court,0.8
+numbers of proposers,0.5
+provides,1.440346729708432
+validity of the nomination paper,1.0
+points,0.7095682483711788
+times,0.8987140267391797
+void for illegal rejection of the nomination paper,0.5
+proposer,2.75
+qualifications,1.0714285714285714
+earlier binding precedents,0.5
+such election,2.0
+doubt,1.3646267723102583
+apj,0.3846153846153846
+light,0.8816192372754331
+discrimination,0.8429118773946361
+corner,0.7011583011583012
+court under article,2.032258064516129
+exercise,1.9400726466785694
+national congres,2.0
+petition in spite,0.5
+secret ballot,0.26666666666666666
+election petition,23.75
+papers,1.0564063453325199
+nomination of a candidate,1.0
+principle,1.9620890732001848
+requirement of section,1.5
+certified copy,2.6923076923076925
+party,2.2250894654439723
+fifty electors as seconder,0.5
+purpose of article,1.0
+imply,0.5714042449674633
+candidate inasmuch,0.5
+order xxxix,1.5
+delhi,2.6089285714285717
+office of the president,1.1666666666666667
+defects as the earlier petition,0.5
+vice-president,0.0
+election of a president,1.5
+the act,5.708327371273712
+abuse of the process,1.3
+specifies that the supreme court,0.5
+least twenty electors as seconder,0.5
+validity of the provisions,1.6666666666666667
+judgments in the petitioner,0.5
+parliamentary constituency,1.6
+least ten electors,2.0
+division bench,3.965217391304348
+more electors,1.0
+date,6.195616975795285
+least ten proposers,0.5
+other provision,1.281045751633987
+ultra vire,1.8484848484848484
+the rules,2.1040892193308554
+court in the exercise,1.0
+existence,0.731202675709574
+rupees,2.311111111111111
+holiday,0.5518018018018018
+nomination paper complies with the statutory requirement,0.5
+public notice of election,0.5
+respondent,4.757894736842104
+want,0.9034484256025601
+main opposition party,0.5
+more of the grounds,1.0
+institution,2.7327010745685443
+judgment in the petitioner,0.0
+twenty electors as proposers,0.5
+accordance,1.4069045211613462
+deals with counting,0.5
+day,1.550999710228919
+contains provisions,1.0
+legal,1.6383168326773236
+assent,0.7090909090909091
+contains provision,1.0
+ten electors as proposers,1.5
+presentation of nomination papers,0.5
+charan lal sahu v giani zail singh,1.0
+question,2.980312372067635
+majority of votes,1.25
+claim of a contestant,0.5
+candidate at the election,1.0
+least fifty electors,1.5
+scmanu,7.940520446096654
+word,2.065873981084096
+amendments,1.2633895818048422
+writ,2.8882378560889794
+abuse,0.6372486093281985
+amount,3.179688593072295
+other words,0.7578482137053969
+president-,0.0
+assembly,2.613006617038875
+part ii of the act,1.0
+ten seconders from amongst hundreds,0.5
+statement,2.5393160135035964
+same similar ground of challenge,0.0
+requisite numbers,0.5
+supreme court,1.4278957326045825
+hundred,0.7581947743467933
+mode,0.8201666928762384
+peoples,0.6156921539230384
+precedents,0.6333333333333333
+which covers,0.3636363636363636
+plaints,0.9743849005729694
+sahu,1.2222222222222223
+rejection of a nomination paper,0.5
+petitioner s own case,0.0
+entry,4.707210447678601
+various provision,1.5789473684210527
+temptation,0.5
+high,5.367119186841496
+members,1.9437616522164103
+own nomination,0.5
+consistent view,0.6000000000000001
+least ten electors as seconder,0.5
+single transferable vote,0.6666666666666666
+value of earlier binding precedents,0.5
+force,1.6009408121948314
+notification,3.0112746633260263
+case of election,0.6666666666666666
+states,1.5120646995827023
+suit,2.485274378207659
+purpose,2.519170317925504
+directions of the court,1.3333333333333333
+law,3.538923411654744
+alliance,0.47252747252747246
+nos,1.2635492554198444
+locus,0.6133333333333334
+observation,0.7625074854374218
+charan,1.1111111111111112
+whatever reason,0.463768115942029
+time,2.4764180952862667
+cases,1.9728229418951067
+central government,3.0380952380952384
+division,1.7657319129617017
+allies,0.49285714285714294
+such authority in accordance,0.5
+rejection,0.7335907335907336
+nomination paper of a person,0.5
+intra vire,1.25
+ten subscribe,0.5
+issuance,1.05379513633014
+electoral roll,19.8
+rejection of the nomination papers,0.5
+transferable vote by secret ballot,0.5
+mandatory requirements of section,1.0
+eligibility,1.1788856304985336
+par,7.011805363704756
+opposition,0.7717250324254215
+violative of articles,1.5454545454545454
+acceptance of the nomination papers,0.6666666666666666
+earlier petition,0.5
+successful candidate,1.6666666666666667
+locu,0.5823659840876484
+xxxix,0.8571428571428571
+conflict between articles,0.5
+constitutional validity of various provisions,0.5
+supreme court rule,1.8333333333333333
+gazette of india,1.0
+supreme court rules,2.75
+provided prior,0.5
+arise,1.1675508399646328
+fact that petitioner,0.5
+question on the ground,0.5
+objection to the validity,0.0
+cost in the election petitions,0.0
+officer after the issuance,0.5
+fakruddin,1.0
+assertions,0.5040091638029782
+single transferable vote by secret ballot,0.5
+vote in favour,0.6666666666666666
+presidential elections,1.1428571428571428
+right,3.07483248288682
+twenty electors as seconders,0.5
+hereinafter,0.7670609645131939
+apply to the proceedings,0.75
+complies,0.4
+extraordinary gazette of india,0.5
+number of electors,1.0
+least ten elector,2.0
+connection,1.050640279394645
+deliver,1.4740656565656565
+same similar grounds of challenge,0.5
+college consisting,0.5
+than a contestant,0.5
+election of the returned candidates,0.6666666666666666
+application,2.3322596088086445
+returned candidates,1.5
+lesson,0.4693877551020409
+amongst hundreds,0.5
+india,2.7684068260703585
+corners of that procedure,0.5
+court of delhi,1.4761904761904763
+twenty,0.7332834704562453
+providing,1.0048086014533864
+commission,4.703619179345321
+fifty electors,1.5
+- in each case,0.0
+pursuance to the notification,0.5
+rules,3.130914366958792
+alse general,0.0
+neelam sanjeeva reddy,3.0
+frivolous election petitions,1.0
+nomination paper of the petitioner,1.5
+mandatory requirements,1.0
+electors as proposer,4.5
+seconders as provided prior,0.5
+provision of this part,1.5
+place in some book,0.5
+ground of failure,0.5
+identity of the candidate,0.5
+democratic alliance,0.5
+new,0.9418497626301229
+peoples act,0.6666666666666666
+mithilesh,1.0
+acceptance,1.4762112614578786
+specifies,0.47058823529411764
+elected member of the legislative assemblies,0.0
+view of the decisions,0.5
+sinha,0.8166351606805294
+existence of any vacancy,0.5
+nomination paper comply,0.0
+condition that a person,0.5
+required number,0.8333333333333334
+dispose of the petition,0.5
+rupee,2.2291666666666665
+dispute,2.402137592137592
+date for scrutiny,0.5
+contestant,0.8571428571428571
+congres,0.7158683610296513
+previous judgment,1.5
+submission,1.0913871684001404
+results,0.6487493619193466
+special leave petition,2.013333333333333
+vice,3.766984711894892
+ballot at the election,0.5
+ten seconder from amongst hundreds,0.0
+reasonable condition,0.75
+decision of this court,2.3260869565217392
+conditions,1.9988092071092867
+defects as the earlier petitions,0.5
+matter of regret,0.75
+illegal acceptance of the nomination paper,0.5
+provisions of sections,1.44
+ally,2.343864805290228
+court in the earlier decisions,0.5
+compliance,1.0029799914857385
+least twenty electors as proposer,0.5
+reasonable conditions,0.6666666666666666
+case,7.332269420884958
+presidential election,4.909090909090908
+want of proposers,0.5
+registrar,1.8341346153846154
+costs in the election petitions,0.5
+scc,1.941872465904902
+cwp,0.875
+several decision of this court,0.0
+representation by means,0.5
+nomination of the successful candidate,0.5
+the rule,2.2558441558441555
+constitution,3.204842342342342
+high court of delhi,1.4761904761904763
+merit in this contention,0.6666666666666666
+court in the writ petition,0.8333333333333334
+that procedure,2.0
+occasion for a person,0.5
+valid nomination,0.75
+writ petitions,2.984848484848485
+fakruddin ali,1.0
+sehgal,0.75
+singh,3.7791111111111113
+opposition party,0.3333333333333333
+captain,0.2109375
+ten electors as seconder,1.5
+numbers,0.8671061762664817
+special order,0.8333333333333334
+service,4.257395095954566
+nominated candidate,0.6666666666666666
+force in the contention,1.0
+election of a person,1.0
+subject - matter,0.0
+contention,1.666391070690368
+electors as proposers,4.5
+result of a careful consideration,0.5
+rule,5.04
+subscribe,0.814368206521739
+direction of the court,0.8333333333333334
+advocate,1.0791341991341994
+proceedings,1.7670925223666287
+favour,1.653145208700764
+uncontested elections,0.6666666666666666
+identity,0.8835164835164835
+date of the decision,0.4444444444444444
+benefit in the public notice,0.5
+supra,2.246342614440774
+duty,3.2272215973003378
+suits,1.0993657505285412
+bench,2.5793391667754992
+violation,1.2087401208740118
+electors as seconder,3.0
+infringement of the secrecy,0.5
+ten elector,3.0
+connection with the presidential election,0.5
+of the grounds,1.3333333333333333
+sub - section,0.0
+previous judgment of this court,0.5
+office,3.5913445886237847
+presidential,1.96011396011396
+field by petitioner,0.5
+notification under sub - section,0.0
+leave,1.0147842365477848
+consultation with the central government,0.5
+costs,0.8167395522604189
+implies,0.5243199999999999
+amongst hundred,0.5
+returning,1.8741418764302058
+special leave petition against the judgment,0.5
+neelam,3.0
+disputes,2.3049883690876194
+connection with the election,1.2
+apply to all persons,0.5
+least fifty electors as proposers,1.0
+point,2.9165043546008516
+least twenty electors as proposers,0.5
+petition stand,0.8571428571428571
+process,1.6274942048088725
+ashok,0.4374740340673037
+election of dr  apj,0.0
+hundred rupees,1.2
+authority in accordance,1.0
+notice,2.3300025999395686
+elector,5.148444444444444
+present election petition,1.0
+shall,3.6283780276816606
+high court of judicature,1.4210526315789473
+decision of the high court,1.24
+power,3.8165227690948367
+void by the supreme court,0.5
+ten electors,3.0
+vote,4.2642709347614405
+set of nomination papers,0.0
+charan lal sahu v fakruddin ali,0.5
+high time that the petitioners,0.5
+provide,3.0496848599534587
+care of the points,0.5
+that declaration,1.0
+filing of such frivolous election petitions,0.5
+sets,2.026616266944734
+conduct of president,0.5
+least twenty electors as seconders,0.5
+lal,1.6786163249382287
+ten subscribes,0.5
+original jurisdiction,1.4166666666666667
+consultation,1.1724137931034484
+president of india,1.8
+reason,2.6381270903010035
+set,2.3027452395971277
+provisions of this part,1.25
+deals,1.3395407335280751
+vice-presidential election,0.0
+earlier decision,1.5454545454545454
+court rules,2.0
+candidates at a presidential election,0.5
+public notice,0.7619047619047619
+writ petition,6.24223602484472
+petition,5.3436539306104525
+preliminary stage,1.0
+national congress,2.0
+effect of the provisions,0.6666666666666666
+consideration,1.9110153789142115
+candidate at such election,1.0
+that frivolous election petitions,0.5
+comply,0.802068302068302
+words,1.6384367086179112
+hundred rupee,1.2
+court by any candidate,0.5
+requirements of the statute,0.6666666666666666
+facie,1.0476190476190477
+value,1.7137907830478438
+pastime,0.2727272727272727
+clause,3.526455026455027
+previous judgments,1.0
+whatever reason among the members,0.5
+subject - matter of section,0.0
+same defect,0.3333333333333333
+objections to the validity,0.5
+care,0.8846948234137723
+respondent nos,2.5185185185185186
+apply,1.5478801169590641
+voting,1.409009009009009
+election as a candidate,0.6666666666666666
+reason of that declaration,0.5
+that office,0.6000000000000001
+proposers,5.333333333333333
+requisite number,1.1428571428571428
+requirement of law,1.25
+allied parties,0.5
+ten seconders,1.0
+least fifty electors as seconder,0.5
+challenge,1.2204566274399267
+validity of the procedure,0.5
+for want of proposers,0.5
+authority,2.4352627108360636
+same defects as the earlier petitions,0.5
+least ten electors as proposer,1.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+election petition to the authority,1.0
+conduct,1.5998023165163158
+substance,0.8230581678857541
+condition for the eligibility,0.0
+last date,1.9285714285714286
+principle of secrecy,0.5
+gazette,0.9578231292517008
+supreme court under article,1.2
+proportional representation,0.7619047619047619
+- matter,0.0
+attention of this court,1.0
+part vii,0.75
+part iii of section,0.5
+performance,1.4794327394994442
+delhi by a detailed order,0.5
+various provisions of the act,1.375
+paper,1.8076689487632511
+election commission,6.083333333333333
+illegal rejection of the nomination paper,0.5
+ten proposer,1.5
+prescribed form,2.375
+national,1.5126860273884035
+court in the earlier judgments,0.5
+incomplete for want of proposers,0.5
+illegal acceptance,0.5
+other provision of the act,0.6666666666666666
+iii,1.5614499719992534
+congress,0.7151067323481116
+means,1.3868295182781003
+seconders,8.0
+time by this court,0.0
+occasion,0.7946745562130177
+provisions for scrutiny,0.5
+public holiday,0.5
+qualification,2.1521739130434785
+cause of action,2.1470588235294117
+giani,0.3
+nominated candidate in accordance,0.5
+similar ground of challenge,0.0
+judgments of this court,1.4666666666666666
+supreme,1.443815331010453
+least twenty elector,1.0
+similar ground,0.6666666666666666
+requirement,1.2416133333333332
+instead,0.7400253004427578
+regret,0.5
+xxiii,0.46296296296296297
+highest court,1.1
+high court,7.7477477477477485
+kalam,0.6153846153846153
+time in the election petition,0.5
+nominations,1.5131578947368418
+dispose,0.9912909836065574
+conflict with article,0.5
+leave petition against the judgment,0.5
+sabha,2.814814814814815
+new delhi,1.744186046511628
+state,6.817996007300392
+vire,1.2466124661246614
+required number of proposers,0.5
+statute,2.5765859456247218
+deal with counting,0.0
+requirements of section,1.5833333333333333
+institution of suits,0.5
+own case,0.5
+jurisdiction,2.9539571926331507
+elected member,1.6
+nomination paper of petitioner,0.5
+officer shri rc,0.5
+requirement for a valid nomination,0.5
+representation,1.2338308457711442
+view of the consistent view,0.5
+deal,2.1942302694273583
+election to the office,0.5
+performance of the powers,0.5
+amendment act,3.6511627906976742
+lays,2.214214643518836
+general,1.7536558414534391
+provision of the act,0.8888888888888888
+manu,7.078142071124147
+central,2.61875
+part iii of the act,0.6666666666666666
+june,0.9339080459770116
+void if the nomination of a candidate,0.5
+candidate inasmuch as the nomination paper,0.5
+earlier petitions,0.5
+presentation,1.1205371248025278
+part iii,1.6764705882352942
+airsc,1.6909090909090911
+election petition after the presidential election,0.5
+rajya,1.0
+provision of sections,0.0
+court in kr,1.6
+votes,3.9696793002915447
+corners,0.5684754521963825
+cavalier,0.30769230769230765
+cover,2.502726787041524
+respondent no,5.395833333333333
+required locus standi,0.5
+frivolous election petition,1.0
+view of the authoritative pronouncements,0.5
+petitions as the point,0.5
+least ten electors as proposers,1.5
+ten seconder,1.0
+electors as seconders,3.0
+rajya sabha,0.8333333333333334
+requisite number of proposers,0.0
+authoritative pronouncement,0.8571428571428571
+nomination,4.422077922077922
+behalf of the petitioners,1.8333333333333333
+petitioners,3.536507936507937
+ahmed,1.008695652173913
+charan lal sahu v s,0.5
+sum,2.554898897856461
+precedent,0.8982341399607586
+office of president,0.8
+least fifty elector,1.5
+representation of peoples act,0.5
+court rule,0.9285714285714286
+locus standi,2.909090909090909
+observations,0.7454584147497534
+similar grounds of challenge,0.5
+court in the aforesaid,0.9166666666666666
+attention,0.8724846605528799
+book,0.7435955668604651
+action,3.127292663476874
+petitioner in charan lal sahu v kr,0.5
+covers,0.5669553630912725
+election petitions,3.2222222222222223
+nomination papers,4.5
+ali,3.7617236801781915
+lesson from the observations,0.5
+legislative assembly,4.473684210526316
+election commission for the purpose,0.5
+order xxxix of the rules,0.5
+persons,2.5993381990166555
+of articles,0.5798319327731094
+that office under the constitution,0.5
+particular number of electors,0.5
+petitioner s own cases,0.0

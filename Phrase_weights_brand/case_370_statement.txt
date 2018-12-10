@@ -1,0 +1,250 @@
+courts,2.1216528162511543
+quantum,0.8922235363690124
+increment with cumulative effect,0.0
+findings,1.049571253572887
+exactness,0.5
+delinquent person,0.5
+petitioner,4.524972253052164
+regard to all relevant factors,0.6666666666666666
+cost,1.2954397451466992
+above term,0.9375
+writ,2.8882378560889794
+framing,1.0965593784683685
+stoppage,0.8333333333333334
+validity,1.521010638297872
+enquiry officer,1.75
+merits,0.968421052631579
+establishment,0.9899216125419933
+reasons,1.3749054007567938
+nature of duties,1.25
+terms,2.390350840909655
+charge sheet,2.0526315789473686
+charge,2.7679815308681284
+high courts,2.676470588235294
+grounds,0.9540208829455945
+high,5.367119186841496
+railway,5.321428571428572
+pradesh,4.365853658536586
+reason,2.6381270903010035
+court,12.24425115501509
+hence,1.1440732910500353
+officer,3.1197242647058823
+disproportionate to the gravity of charges,0.5
+order of removal,1.0
+force,1.6009408121948314
+charges,2.061307113938693
+service with continuity,0.5
+ground,1.4186722903211633
+dismissal,1.614076246334311
+single judge,4.011627906976744
+writ petition,6.24223602484472
+petition,5.3436539306104525
+finding of fact,1.7083333333333333
+tribunals,2.527472527472528
+person,4.291511329454258
+appropriate case,1.4074074074074074
+cumulative effect,1.5555555555555556
+back wages,0.8333333333333334
+service on various grounds,0.5
+correctness,0.8404159132007234
+mukul,1.125
+observation,0.7625074854374218
+consideration,1.9110153789142115
+part,5.294464509893076
+cases,1.9728229418951067
+conclusion that the punishment,0.5
+past conduct,1.0
+division,1.7657319129617017
+matter,2.8088923076923082
+reason in order,0.0
+relation,1.397320207820618
+litigation,1.4968553459119498
+time,2.4764180952862667
+habitual offender,0.6666666666666666
+cases to the disciplinary authority,0.5
+dereliction,1.5
+relevant factors,0.8608695652173913
+penalty,1.5165226929932814
+serious in nature,0.6666666666666666
+reconsideration on the quantum,0.5
+shri mukul rohtagi,0.5
+member of railway protection force,0.5
+term,3.6255105640901575
+present appeal,1.3424657534246576
+of punishment,1.0212765957446808
+imposition of penalty,1.0
+appellants,7.701086956521739
+continuity,0.5565476190476191
+merits of the contentions,0.5
+shri,2.0759135877246115
+view,2.441100058469462
+improvement,2.157706093189964
+increments with cumulative effect,0.6666666666666666
+sensitivenes,0.5
+appropriate cases,1.2
+order of punishment,1.5
+counsel for the respondent,1.5822784810126582
+to dereliction of duties,1.0
+merit,1.2419290263876248
+andhra,4.830188679245283
+respondent from service,0.5
+facts that the respondent,0.5
+eligible for any back wages,0.5
+discipline,0.5608974358974359
+misconduct,1.2976744186046512
+correctnes,0.8404159132007234
+disciplinary proceedings,1.5
+matter in proper perspective,0.6666666666666666
+improvement in the conduct,1.0
+appeal,3.4125488033856883
+dereliction of duties,1.0
+quantum of punishment,1.6666666666666667
+contra,3.550142721217888
+authority,2.4352627108360636
+judge,2.9012627415183325
+sheet,1.1667364016736401
+railway protection force,1.0
+conduct,1.5998023165163158
+enquiry report,1.8
+division bench of the high court,1.6825396825396826
+disciplinary authority,3.6666666666666665
+november,0.7203359669727383
+relevant facts,0.7692307692307692
+counsel,2.2246780703440323
+learned single judge,3.4935064935064934
+year,2.8349484769759212
+light of the observations,0.9
+relation to the quantum,0.5
+punishment of stoppage,1.0
+due regard,1.0666666666666667
+gravity,0.3746556473829201
+reconsideration,1.0846153846153848
+due to dereliction of duties,1.0
+conclusion,1.3883437407077015
+increments,1.75
+rules,3.130914366958792
+solicitor,1.7073170731707317
+shri r,1.8148148148148149
+heard,0.782882203033377
+fact,3.6284951019474962
+order,5.472481489660944
+extreme punishment,0.5
+perspective,0.5639060811474604
+removal,0.7204301075268817
+learned counsel,3.703333333333333
+relevant factor,0.8663594470046083
+more chance,0.26
+charge sheet under rule,0.5
+additional solicitor,2.5454545454545454
+circumstances of the case,1.3373493975903614
+seriou in nature,0.0
+sensitiveness,0.5
+department,1.9858367499068206
+duties,1.477142857142857
+learned counsel for the parties,1.263157894736842
+submissions,0.5235745614035088
+contentions,0.9641025641025641
+hegde,1.1333333333333333
+submission,1.0913871684001404
+offender,1.3711405166981725
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+above terms,0.9375
+relevant fact,0.9393939393939393
+effect,2.184583388478191
+exactnes,0.5
+proper enquiry,0.5
+impugned order,2.265957446808511
+for any back wage,0.5
+penalty of removal,0.75
+nature of charges,1.0
+removal from service,1.4
+various grounds,1.0555555555555556
+counsel for the parties,1.263157894736842
+back wage,0.8333333333333334
+merit of the contentions,0.0
+wage,1.5814065510597304
+evident from the order,0.6666666666666666
+writ petition before the high court,1.0
+high court,7.7477477477477485
+member,2.649111111111111
+gravity of charges,0.5
+circumstance of the case,0.5
+parties,1.8210828547990157
+allowance,2.1019607843137256
+additional,1.4256530253244384
+case,7.332269420884958
+such punishment,0.6666666666666666
+light,0.8816192372754331
+writ appeal,2.2142857142857144
+revisional authority,1.1666666666666667
+chance,0.7937084625609215
+years,2.5395804110508022
+subsistence,0.25
+case to the disciplinary authority,0.0
+report,1.7768151696835826
+railway protection force rules,0.5
+i direct stoppage,0.5
+question,2.980312372067635
+protection,1.1604395604395603
+from the order,1.2727272727272727
+general,1.7536558414534391
+party,2.2250894654439723
+framing of the present charges,0.5
+good ground,0.49382716049382713
+punishment,1.6266937669376693
+factors,0.9829522460542292
+june,0.9339080459770116
+reasons in order,0.5
+single,1.6221488419098207
+factor,1.2878742338904643
+to the gravity of charges,0.5
+view that the punishment,0.5
+enquiry,2.145762711864407
+circumstance,1.429931390219372
+extreme punishment of removal,0.5
+finding,1.8129183657767178
+shri rs,0.6666666666666666
+service,4.257395095954566
+nature,1.4149926876444778
+therefore,2.960332350576253
+present case,1.5611814345991561
+punishment of removal,1.0
+contention,1.666391070690368
+railway protection force rule,0.5
+single judge before the division bench,0.5
+regard,2.723310344827586
+rule,5.04
+proper perspective,0.6000000000000001
+issue in regard,0.6666666666666666
+correctness of this order,0.5
+tribunal,5.07183212267958
+subsistence allowance,0.75
+proceedings,1.7670925223666287
+delinquent officer,1.5
+extreme,0.9372862029646524
+division bench,3.965217391304348
+department  establishment,0.0
+rohtagi,1.2222222222222223
+for any back wages,0.5
+observations,0.7454584147497534
+bench,2.5793391667754992
+increment,1.4721485411140585
+wages,1.2315068493150687
+duty,3.2272215973003378
+impugned order to this effect,0.5
+in nature,0.7593052109181141
+facts,1.4696673624372698
+concerned delinquent person,0.5
+respondent,4.757894736842104
+issue,2.766776251628934
+consideration of the facts,0.5
+correctnes of this order,0.0
+various ground,1.0555555555555556
+present charge,1.0
+disciplinary proceeding,1.6428571428571428
+dismissal from service,2.0
+costs,0.8167395522604189
+judge before the division bench,0.5
+imposition,1.4444444444444444
+present charges,1.0

@@ -1,0 +1,779 @@
+courts,2.1216528162511543
+conviction of the appellant - abdul waheed,0.0
+findings,1.049571253572887
+material lapses in the prosecution case,0.5
+fire on the complainant party,0.5
+deaths,0.43177752480078063
+injured witness,2.8181818181818183
+code,2.880559796437659
+order of status quo,2.0
+evening,0.5274557657107993
+cartridges,0.7719298245614036
+gun as a result,0.5
+hands of ishtiyaq,0.5
+contempt petition,2.0714285714285716
+mind,1.1559066143122394
+ka-,0.0
+constitution of india,3.0095238095238095
+convincing ground,0.5
+sentence of life imprisonment,1.25
+viz,0.7732570026579433
+munsif,1.0
+filing,1.1274190041313328
+sections,1.640495469442838
+undue sympathy,0.5
+shabir khan in the aforesaid suit,0.5
+inter,3.683850287482992
+bail bond,0.9090909090909091
+altercations,0.5
+wounds,1.0980392156862744
+fact that the evidence,0.8
+shabir,0.5
+senior counsel mr salman,0.5
+arm,0.9325525916287142
+close relations of the accused-appellant hence,0.0
+israr khan,3.0
+account of civil suit,0.5
+court,12.24425115501509
+unlawful assembly with common intention,0.5
+accused toward,0.5
+declaration,2.152560083594566
+pistols,0.5419354838709677
+course shows that the accused persons,0.5
+involvement of the appellant,0.8
+eye,0.9466574319441098
+ratnakar,0.75
+middle part,0.5
+higher footing,0.6666666666666666
+lathis in defence,0.5
+close relations,0.3333333333333333
+paces,0.32450542437779195
+person,4.291511329454258
+bail,2.0427807486631013
+way,1.7812722068664852
+correctness,0.8404159132007234
+suit in the court,0.75
+behalf,1.9888053603529987
+overt act,2.2777777777777777
+eye - witnesses,0.0
+conviction inter alia,0.5
+high court in criminal appeal,0.6666666666666666
+part,5.294464509893076
+mukhtiar,0.5
+accused abdul hai,1.5
+cross,2.0778316690442225
+way raise doubts,0.5
+distance,0.7353606433777331
+ninety years,0.5
+tandon,0.6233766233766233
+stab,1.5172976844115538
+rival contention,1.1111111111111112
+remain,1.0335567356972242
+assailant,0.5333333333333333
+ishtiyaq khan,0.5
+age,4.526374474274117
+number,1.4802651440973922
+dimension,0.7919420837267862
+district,1.5506763074237984
+abdul hai,3.0
+sessions,1.3405714285714285
+number of others,0.30000000000000004
+distant point,0.5
+post-mortem,0.0
+hands,1.1725490196078434
+aforesaid,2.592896174863388
+shaft,0.34643734643734647
+post-mortem on the body,0.0
+pistol,1.0449735449735449
+other person,0.9635036496350365
+house,2.0021735292386764
+doubts,0.6666666666666666
+gun shot,0.9818181818181818
+correctnes,0.8404159132007234
+pellet,0.7857142857142857
+appeal,3.4125488033856883
+lawful exercise,0.6666666666666666
+appellant abdul waheed under section,1.0
+way raise doubt about the prosecution case,0.0
+mukhtiyar,1.0
+contra,3.550142721217888
+weapon,1.0217176079034398
+sheet,1.1667364016736401
+motive,0.8973573343546533
+razzaq khan,3.0
+status quo,0.7246376811594204
+abdul,1.5086206896551726
+sessions judge,2.9545454545454546
+district hospital by sri vinai kumar,0.5
+hues,0.25925925925925924
+expert,2.5786336542870245
+year,2.8349484769759212
+shaft of humorous bone,0.5
+forth,0.7104532839962997
+alia,0.9479866480753792
+forth by the prosecution,0.6666666666666666
+relation of the accused - appellant hence,0.0
+code of civil procedure,5.5636363636363635
+judgment,3.288216560509554
+complainant-razzaq khan s brother abba,0.0
+banumathi,0.9
+licensed guns,0.5
+occurrence pws,0.6666666666666666
+guilt,1.1140207075064712
+order,5.472481489660944
+absence of the recovery,0.5
+injury,1.7199352451433856
+act,12.870263922028107
+qua,2.4497935676369567
+gun of appellant - abdul waheed,0.0
+blow,1.6904715887127946
+twelve shot from the wounds,0.0
+co-accused vakil khan,0.0
+ashfaq,2.5
+trivial in nature,0.5
+babu,1.1979166666666667
+ninety year,0.5
+appellant abdul waheed,3.0
+ordinary course,1.0769230769230769
+injunction order,1.0
+hue,0.28897415185783526
+fatehgarh,1.0
+conviction inter alia on the grounds,0.5
+accused persons,7.048780487804878
+accused beyond reasonable doubt,0.8
+material lapse in the prosecution case,0.0
+israr,6.5
+genesi of the occurrence,0.0
+copy,0.8620926631522174
+conviction of the appellant,1.8235294117647058
+construction on the panchayat ghar,0.5
+time of occurrence pws,0.6666666666666666
+rest,3.3424534062537377
+manner,1.4494591333432125
+gunshot wound of exit,0.5
+abbas khan from the place,0.5
+danda,0.3636363636363636
+parties,1.8210828547990157
+recorded concurrent finding,1.0
+part of the body,0.43636363636363634
+civil procedure,5.448275862068965
+police station kamalganj,0.5
+blood spot,0.5
+section,9.287987283173626
+strategy,0.5837837837837838
+conviction of the appellant abdul waheed,0.5
+due investigation charge sheet,0.5
+version,1.0500313479623824
+place near the chabutra,1.0
+incident,1.8609485257918057
+fir,2.85390975582079
+shafiq,6.5
+cogent evidence,0.75
+yasin,0.3333333333333333
+truth of the matter,0.38095238095238093
+sdm,0.6204081632653061
+mr salman,1.0
+place,2.333104345208554
+counsel mr  salman,0.0
+brother abbas,0.5
+civil,2.126558634963905
+fracture,0.6111111111111112
+finding,1.8129183657767178
+middle part of right upper arm,0.5
+human limb,0.6666666666666666
+investigation,1.6673076923076922
+homicide,0.18421052631578946
+regard,2.723310344827586
+exact location,0.38095238095238093
+brother abba,0.5
+senior counsel for appellant,0.5
+yaseen,0.5
+discrepancy,0.6097560975609757
+pace,0.7438834429971801
+- recovery,0.0
+hafeez khan,1.0
+altercation,1.75
+dimensions,0.695364238410596
+map,0.6139008979048886
+knowledge,1.1120671641791045
+strategy of the contempt case,0.5
+next day,0.6306081754735793
+incident ie,1.0
+haemorrhage,1.0
+shafiq khan,2.0
+impressed with this submission,0.5
+perusal,0.750733137829912
+occurrence,2.1343873517786562
+truth,0.9590230664857531
+to injury,0.2692307692307692
+opinion of ballistic expert,0.5
+fateful incident,0.5
+farrukhabad,1.0
+proper treatment,0.3333333333333333
+consideration of the evidence,0.6666666666666666
+genesi,0.3588516746411483
+pw -injured witness,0.0
+issue,2.766776251628934
+fire,1.1391892447477696
+abba,3.5411764705882356
+way raise doubts about the prosecution case,0.5
+blows with lathis,0.5
+evident that abdul waheed,0.5
+right upper arm,1.0
+-razzaq khan,0.0
+home,0.9826663267907214
+senior,1.989753211141579
+blunt weapon,1.3333333333333333
+weight,0.7538461538461538
+session,2.2400874351067563
+conviction,2.248165832071736
+court vide order,0.8333333333333334
+panchayat,10.0
+contempt,1.5446913580246913
+third gun,1.0
+next date,1.0
+to injuries,0.6000000000000001
+elbow with fracture,0.5
+munsif court vide order,0.5
+humorous bone,0.5
+course,1.6545957498716626
+sub,7.816899313759727
+criminal appeal,2.5675675675675675
+relevance,0.6870535714285714
+proper sentence,0.6666666666666666
+arteries,0.25
+charge,2.7679815308681284
+grounds,0.9540208829455945
+ii additional district,0.5
+blood,1.1739965841161402
+sadar,1.7142857142857142
+convincing grounds,0.5
+district hospital fatehgarh,1.0
+- israr khan,0.0
+crime,1.6636528028933093
+officer,3.1197242647058823
+private defence,1.4
+ground,1.4186722903211633
+solanki,0.75
+jurisdiction under article,1.2857142857142858
+multiple,0.6023468057366362
+cros,1.8137948361162648
+pw -dr gm,0.0
+hand in the commission,0.5
+west,1.1420057009587976
+impugned judgment,2.0927152317880795
+vinai,0.3333333333333333
+matter,2.8088923076923082
+relation,1.397320207820618
+proof,1.0648141580366008
+way raise doubt,0.5
+moment,0.5294822018215465
+hospital,1.3942768854411434
+article,4.378806157159795
+leg,5.574082991234883
+bisheshwar,0.5
+ashfaq khan,1.0
+post-mortem certificate,0.0
+w bone deep on the front,0.5
+criminal,3.301971081989414
+bones,0.4339622641509434
+vital part,0.6666666666666666
+ordinary person,0.3333333333333333
+behalf of the appellant,1.4878048780487805
+enmity against the deceased-abbas khan,0.0
+ext ka-,0.0
+fracture injury,0.0
+appellant - abdul waheed,0.0
+spite,0.8919640378414163
+voice,0.9012531328320803
+view,2.441100058469462
+aid,5.498621453008654
+involvement,1.020685900925422
+razzaq,3.0
+post,2.344803646492219
+case of the prosecution,2.3043478260869565
+bone,0.6534106600386633
+recorded concurrent findings,1.0
+vide,4.454025282767798
+opinion,1.4960606342789635
+unlawful assembly,3.625
+place at the chabutra,0.5
+defence version,1.3333333333333333
+side,3.88845645915565
+doctor,1.4782608695652173
+cries,0.32142857142857134
+hurt with a dangerous weapon,0.5
+whereupon babu,0.5
+concurrent findings,1.0
+complainant-razzaq khan s brother abbas,0.0
+shabbir khan,0.5
+well,1.4966552780778166
+limb,0.509338061465721
+recovery,3.9892473118279574
+witness,5.333906623599983
+dagger,0.28571428571428575
+prosecution version,2.7142857142857144
+result,1.3356630184144715
+injured man,0.3333333333333333
+record,2.5393414390845273
+procedure,2.552771605064117
+material,1.4148767018946966
+justice system,0.4166666666666667
+dr sabir hussain,0.5
+presence on the spot,1.25
+defence,1.3606588776096535
+fracture injuries,0.5
+complainant-razzaq khan,0.0
+polouse,0.0
+copy of the commissioner,0.5
+overt acts,1.125
+place between both parties,0.5
+- recovery of gun,0.0
+r banumathi,0.9
+contempt proceedings,0.8
+act of the appellant,1.0
+fact,3.6284951019474962
+unlawful act,2.625
+grievous hurt,0.5
+occurrence pw,0.8
+registration,2.231365215068127
+blood spot at the alleged place,0.5
+occurrence ie,0.5
+non-recovery of gun,0.0
+state of mind,1.1111111111111112
+action against the appellant abdul waheed,0.5
+dangerous weapon,0.2857142857142857
+station,1.2515681586858238
+septic peritonitis,0.5
+footing,0.6555183946488294
+khan,2.1073446327683616
+material on record,1.40625
+centre,1.3584842944989197
+patient in district hospital fatehgarh,0.5
+bisheshwar singh,0.5
+kumar,2.028839704896043
+concurrent finding,1.625
+weapons,1.1105810008481765
+other witnesses,0.7
+district hospital,2.0
+complaining of intestinal obstruction,0.5
+gunshot,2.5563380281690145
+witnes,5.333906623599983
+upper arm,0.5
+crime case,0.5
+altercation on account,0.5
+senior counsel for the appellant,1.7142857142857142
+system,1.1230229504341178
+aforesaid documents prosecution,0.5
+time of registration,0.6666666666666666
+miscellaneous case,0.75
+additional,1.4256530253244384
+doubt,1.3646267723102583
+mohd,1.75
+sri vinai kumar,0.5
+other witness,0.7222222222222222
+years,2.5395804110508022
+eye witnesses,3.1
+next date of the incident ie,0.5
+evidence of pw -injured witness,0.0
+exercise,1.9400726466785694
+w bone deep,0.5
+report,1.7768151696835826
+party,2.2250894654439723
+location of the arteries,0.5
+sri,1.1524741891017525
+perusal of post-mortem certificate,0.0
+aggressors,1.2941176470588236
+co-accused abdul hai,0.0
+course shows,0.5
+present in the house of pw,0.5
+justice,2.292557084574302
+blunt weapons,0.6666666666666666
+lapse,0.9238095238095239
+nose,0.37738951695786227
+hussain,1.8
+- abbas khan,0.0
+vital part of the body,0.6666666666666666
+court hearing,0.7200000000000001
+ishtiyaq,2.5
+ext,2.3165580391059217
+tip,1.1070088249429908
+testimony,1.4407553107789142
+simple injuries of blunt weapons,0.5
+date,6.195616975795285
+eye witness,1.4333333333333333
+primary health centre kamalganj,0.5
+credibility,0.6069651741293531
+intestinal obstruction,0.5
+chabutra of the house,0.5
+blow with lathis,0.0
+ballistic expert,1.0
+court order,0.4077457069784436
+relations of the accused - appellant hence,0.0
+offence,4.401610644257703
+presence,0.9604834261070158
+in nature,0.7593052109181141
+hearing,0.9644508209787979
+respondent,4.757894736842104
+shafiq khan hurling abus,0.5
+want,0.9034484256025601
+sabir,0.26666666666666666
+possibility of the crime,0.5
+health centre kamalganj,0.5
+inspector,1.2705882352941176
+chabutra of the well,1.0
+remains,0.6909272183449652
+lathi blows,1.75
+day,1.550999710228919
+verdict,0.6880952380952381
+bonds,0.670673076923077
+scene of occurrence,1.75
+life imprisonment,1.2083333333333333
+deceased-israr khan,0.0
+chabutra of abbas,1.5
+hurt,0.5079825834542816
+count,2.7493281810130092
+part ii ipc,0.5
+house over the site,0.5
+cry of the occurrence,0.0
+abuse,0.6372486093281985
+assembly,2.613006617038875
+statement,2.5393160135035964
+order xxxix rule,1.0
+public confidence,0.7200000000000001
+accused person,4.565217391304348
+gunshot injuries,2.1666666666666665
+culpable homicide,0.6666666666666666
+place of occurrence,2.6153846153846154
+human limbs,0.6666666666666666
+spite of lengthy cross-examination,0.0
+high,5.367119186841496
+court below recorded concurrent findings,0.0
+recovery of third gun,1.0
+brother,1.4566585956416465
+hearing date ie,0.5
+account,2.5754891049671977
+gupta,0.7610062893081762
+map in the aforesaid suit,0.5
+custody,1.4166666666666667
+opining,1.0
+simple injury,0.6666666666666666
+ballistic,0.45833333333333337
+abdul waheed under section,1.0
+ali daraj,1.0
+vakil khan,4.5
+more harm,0.2692307692307692
+suit,2.485274378207659
+investigation charge sheet,0.8571428571428571
+interference,0.5733527484528578
+trial court,3.854545454545455
+cries of the occurrence,0.5
+more harm to the criminal justice system,0.5
+time,2.4764180952862667
+application of abbas khan,0.5
+shabir khan,0.5
+treatment,1.1351020408163266
+contempt case,0.5
+house of abbas khan,1.0
+lapses,0.5761316872427984
+babu khan,0.6666666666666666
+artery,0.2692307692307692
+twelve shot,0.5
+side of right upper arm,0.5
+gun,1.1509321528900995
+hafeez,2.9615384615384612
+abdul waheed,7.5
+kamalganj,1.0
+accused - appellant hence,0.0
+guilty of the murder,0.3333333333333333
+verdict of conviction,0.75
+elbow,0.22580645161290322
+declaration of israr khan,0.5
+case in hand,2.1
+ipc read,1.5
+filing of contempt petition,0.5
+xxxix,0.8571428571428571
+right side of tip,0.5
+co-accused vakil,0.0
+complaint,2.734525785235724
+relations,1.2666042780748663
+non-recovery,0.0
+dr hd,1.0
+murder,1.4968553459119496
+deceased - abbas khan,0.0
+licensed gun,0.5
+right,3.07483248288682
+regard to the enmity,0.5
+prosecution,4.619407894736842
+material lapse,0.5
+want of proper treatment,0.5
+first aid,0.35294117647058826
+everted margins,0.5
+certificate,2.732600732600732
+spot,0.778096903096903
+dandas,0.6666666666666666
+harm to the criminal justice system,0.5
+inner side,0.5
+imprisonment,1.4344262295081966
+absence,1.092363454568179
+ipc,2.785166240409207
+counsel,2.2246780703440323
+application,2.3322596088086445
+civil dispute,0.7619047619047619
+that abdul waheed,0.5
+death on the side,0.0
+india,2.7684068260703585
+commission,4.703619179345321
+pw -injured witnes,0.0
+witnesses,3.359210526315789
+hand of ishtiyaq,0.0
+lathi,5.0
+injured witnes,2.8181818181818183
+close relation,0.375
+everted margin,0.5
+aggressor,1.2287234042553192
+counts,2.151344841429145
+shubrati,1.0
+accused towards,0.5
+civil suit,0.7413793103448276
+eye-witness,0.0
+rigorous imprisonment,1.9230769230769231
+knife,0.6624203821656051
+course shows that the accused person,0.5
+inner side of right upper arm,0.5
+accused vakil khan,1.5
+abbas khan,6.5
+lathi in lawful exercise,0.0
+lathi in defence,0.0
+intention,1.7585585585585588
+of the murder,0.4347826086956522
+dispute,2.402137592137592
+exact location of the place,0.5
+submission,1.0913871684001404
+evidence,3.6676405172088815
+document,1.401100265092073
+minor simple injuries of blunt weapons,0.5
+custody forthwith,1.0
+indoor patient,0.5
+public confidence in the efficacy,0.5
+sub inspector,1.7
+wordy altercation,0.5
+minor simple injury,0.0
+wordy altercation on account,0.5
+confidence in the efficacy,0.5
+intention of the appellant,0.5
+eye - witness,0.0
+case,7.332269420884958
+genesis of the occurrence,0.6666666666666666
+gunshot injury,0.0
+s tandon,0.5
+minor simple injuries,0.5
+cry,0.24336661035171248
+constitution,3.204842342342342
+aforesaid suit,1.0
+guns,2.3727359389895137
+cross - examination,0.0
+singh,3.7791111111111113
+injuries,2.4130008710801394
+lengthy cross-examination,0.0
+abrasion,0.5714285714285714
+injuries to the complainant party,0.5
+wound,1.4035549703752468
+grievous hurt with a dangerous weapon,0.5
+sub inspector of police,1.2
+prosecution case,4.258064516129032
+criminal justice system,0.4800000000000001
+contention,1.666391070690368
+house of pw,1.0
+rule,5.04
+defence ishtiyaq,0.5
+proceedings,1.7670925223666287
+correctnes of the impugned judgment,0.0
+shots,0.3196881091617934
+course of nature,0.8333333333333334
+indoor patient in district hospital fatehgarh,0.5
+duty,3.2272215973003378
+pellets,0.4444444444444444
+other persons,0.6111111111111112
+chabutra of shafiq khan,1.5
+prison at this distant point,0.5
+blows,1.1295731707317074
+peritonitis,0.5
+location of the place,0.5
+quo,1.4641201465860294
+evidence of pw -dr gm,0.0
+genesis,0.3599817268158977
+opining that the death,0.5
+fight,1.0237585694076679
+lathis,3.0
+allahabad high court,1.7037037037037037
+point,2.9165043546008516
+body,1.336775463480009
+rival contentions,1.0
+interference in exercise,0.6666666666666666
+khurshid,1.6666666666666667
+allahabad,2.3404255319148937
+shock,0.8456632653061225
+sympathy,0.7490636704119851
+date of the incident ie,0.5
+autopsy,0.35294117647058826
+status,1.14824388424026
+shabbir,1.0
+location,0.8935109449248265
+fact that no blood,0.5
+correctness of the impugned judgment,0.75
+common intention,8.5
+police,2.9749362629783356
+sentence,2.3896654193264366
+injunction,2.1512605042016806
+examination,2.4920345926263088
+precise location,0.5
+enmity,0.4377104377104377
+warning,0.7703501591632559
+version of the prosecution,0.75
+alleged place,0.5
+assembly with common intention,0.5
+autopsy on the body,0.5
+yasim,0.5
+side of tip,0.5
+life,1.3352928273744242
+patient,1.4067744260269741
+scene,0.7999999999999999
+right of private defence,1.4
+injured ashfaq khan,0.5
+ghar,0.695906432748538
+documents prosecution,0.5
+petition,5.3436539306104525
+bond,0.7394882659713169
+construction,2.2504918032786887
+exit,0.3766478342749529
+panchayat ghar,1.0
+consideration,1.9110153789142115
+reasonable doubt,0.8638838475499093
+cartridge,0.6926229508196721
+part of right upper arm,0.5
+appeal qua,1.0
+regard to the manner,0.5
+shafiq khan hurling abuses,0.5
+front,0.8400299386969539
+thirteen witness,0.6666666666666666
+commissioner,2.271608643457383
+value,1.7137907830478438
+documents,1.142515923566879
+others,0.9074667328904616
+acts,1.9133929521984454
+empty cartridge,1.0
+deceased abba,2.5
+complainant party,2.625
+fit state,2.75
+ipc read with section,1.25
+waheed,7.5
+treatment israr khan,0.5
+- ie,0.0
+courts below recorded concurrent findings,0.5
+yasim khan,0.5
+appellant-abdul waheed,0.0
+chabutra,4.333333333333333
+eye-witnesses,0.0
+motive of the accused person,0.5
+judge,2.9012627415183325
+death,2.361592909460208
+twelve shots from the wounds,0.5
+vide judgment,1.2142857142857142
+appeal before the high court,1.1875
+value to the evidence,0.5
+proof of motive,1.0
+deceased abbas,2.5
+minor simple injury of blunt weapons,0.0
+front of the house,1.0
+salman,0.46153846153846145
+pws,1.5484615384615386
+simple injury of blunt weapons,0.0
+course show,0.5
+shot,1.5276221441634974
+ordinary course of nature,0.8333333333333334
+with this submission,0.5
+lathi blow,1.75
+obstruction,0.47058823529411764
+thirteen witnesses,0.6666666666666666
+limbs,0.5
+ipc for the murder,0.5
+right side,0.30651340996168586
+result of injuries,0.5
+counsel for the appellant,1.9621212121212122
+site,0.9890725980575135
+lathis in lawful exercise,0.5
+abuses,0.5590062111801243
+complaining,0.4691358024691358
+hand,2.0299623418254717
+murder of abbas khan,2.0
+voice about the overt acts,0.5
+margins,0.3475609756097561
+iii,1.5614499719992534
+peritoniti,0.5
+contentions,0.9641025641025641
+unlawful act of the appellant,0.5
+appellant,14.387096774193548
+appeal before the allahabad high court,0.5
+pw- s house,0.0
+close relation of the accused-appellant hence,0.0
+confidence,0.5942028985507247
+counsel for appellant,1.0
+police station kamalganj under sections,0.5
+contempt proceeding,1.0
+primary,0.7116013071895426
+day before the hearing date ie,0.5
+evidence of pw-,0.0
+severs,0.26666666666666666
+high court,7.7477477477477485
+complainant,4.538461538461538
+third cartridge,0.5
+harm,1.2124444444444444
+material lapses,0.5
+simple injuries,1.25
+controversy between the parties,1.0
+state,6.817996007300392
+jurisdiction,2.9539571926331507
+bail bonds,0.9
+empty cartridges,1.0
+door,0.9196631033365728
+trial,3.7979448350459712
+controversy,0.8593204191806921
+pw-,0.0
+due to injuries,0.5
+yasin khan,0.5
+fit state of mind,2.75
+gunshot wound,1.302325581395349
+paces towards the west,0.5
+javed,0.7333333333333334
+margin,1.4244114002478314
+twelve shots,0.5
+man,6.972395052694935
+front of door,0.5
+injury to the complainant party,0.0
+septic peritoniti,0.5
+daraj,1.0
+nature,1.4149926876444778
+ipc for murder,0.5
+health,0.8632619439868204
+credibility of pws,0.5
+precise location of the arteries,0.5
+vakil,5.5
+dash,0.5814739688979039
+possibility,0.7613466503601033
+sever,1.0154728325415678
+action,3.127292663476874
+duty of every court,0.5
+in the house of pw,0.6666666666666666
+prison,1.4542975696502667
+efficacy,0.7863247863247863
+senior counsel,2.2857142857142856
+ali,3.7617236801781915
+abbas,5.931818181818182
+mortem,1.402116402116402
+deaths on the side,0.5
+persons,2.5993381990166555
+allahabad high court in criminal appeal,0.5
+stab with a knife,0.5
+death of the deceased abbas,0.5
+hai,1.1798184437381383

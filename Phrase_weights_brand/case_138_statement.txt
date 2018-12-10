@@ -1,0 +1,880 @@
+pre,6.408342692122574
+findings,1.049571253572887
+court in the case,1.3333333333333333
+government,3.5583785424010483
+insofar,0.9295774647887324
+sticks,1.4105263157894736
+corroboration,1.5714285714285714
+injury through which blood,0.5
+code,2.880559796437659
+north,0.8632276384287743
+specific role,1.0
+mind,1.1559066143122394
+other hand,0.6931925622439332
+lower portion,0.3333333333333333
+read with section,2.3513513513513513
+loophole in the prosecution story,0.0
+viz,0.7732570026579433
+reasons,1.3749054007567938
+sections,1.640495469442838
+examination of the deposition,0.5
+instance,0.9469803370786518
+veracity of prosecution case,0.5
+hyderabad,2.5833333333333335
+pm at village hatna,0.5
+pelting of stones,0.5
+court,12.24425115501509
+speaks,0.49714285714285716
+injuries on durgadas,0.5
+sando,0.23529411764705882
+aspects,1.0997620069447154
+eye,0.9466574319441098
+stick blow on the head,1.0
+other infirmities,0.5
+person,4.291511329454258
+ors,2.8612718198296623
+allegations,1.8333333333333335
+deep,1.222637125549747
+behalf,1.9888053603529987
+factions in the village,0.5
+formation,1.1075979991753988
+part,5.294464509893076
+aforesaid introductory remark,0.5
+uncle,1.19187675070028
+attention to the testimony,0.5
+cross,2.0778316690442225
+nothing,0.8658723322806009
+ocular testimonies,0.5
+punishable under sections,1.6153846153846154
+whatever injury,0.5
+stone by the accused persons,0.0
+genesi of the incident,0.0
+nothing of that sort,0.5
+incident in question,1.3
+aspect,1.2449448189023034
+number,1.4802651440973922
+district,1.5506763074237984
+sessions,1.3405714285714285
+contrary,1.027917657672435
+commission of the act,0.5
+hands,1.1725490196078434
+village hatna,1.0
+aforesaid,2.592896174863388
+stones on the house,0.5
+other person,0.9635036496350365
+ankle,0.2692307692307692
+house,2.0021735292386764
+safety of the inhabitants,0.5
+autopsy on the dead body,0.5
+appeal,3.4125488033856883
+front side of the head,0.5
+statement of these witnesses,0.5
+weapon,1.0217176079034398
+scr,2.483838975311538
+election,6.758005637447438
+other accused person,2.111111111111111
+read,2.2147281730888695
+village,1.8429856945085372
+month,1.3454861111111112
+stick,1.4994775339602924
+stage,1.1298537871524448
+to the record,0.611111111111111
+accidental death,0.3513513513513513
+appellant relating,0.5
+wherein,1.0724137931034483
+first instance,0.8333333333333334
+judgment,3.288216560509554
+job in this manner,0.5
+inwards,0.3333333333333333
+punishable under section,3.081081081081081
+only allegation,0.75
+father,1.4298716229162676
+residents,0.8191605554688717
+circumstantial in order,0.5
+order,5.472481489660944
+width,0.5151515151515151
+injury,1.7199352451433856
+act,12.870263922028107
+relevant portion thereof,0.5
+qua,2.4497935676369567
+fingers of both hands,0.5
+blow,1.6904715887127946
+individual intention,0.5
+loophole,0.5133333333333334
+father of the appellant herein,0.5
+ordinary course,1.0769230769230769
+- month,0.0
+lateral ankle of right eye,0.5
+lower portion of the eye,0.5
+testimonies,1.105263157894737
+accused persons,7.048780487804878
+thin injury,0.5
+disagreement,0.4758064516129033
+aid of section,1.5
+effect,2.184583388478191
+high court in support,0.6666666666666666
+candidates,3.508445945945946
+inward,0.44000000000000006
+old blue,0.5
+anything about respondent,0.5
+pendency,1.0084033613445378
+counsel for the parties,1.263157894736842
+nutshell,0.4695121951219512
+noor,0.48979591836734687
+various other infirmities in the prosecution story,0.5
+left side,0.9021164021164021
+more aspect,0.6666666666666666
+rest,3.3424534062537377
+manner,1.4494591333432125
+karnataka manuscmanusc,1.3636363636363635
+imposition of sentence,0.5
+member,2.649111111111111
+stones at the house,0.5
+parties,1.8210828547990157
+statement of dr,0.5
+button,0.5174581005586592
+hatna,2.0294117647058827
+supine,0.5
+improved version,0.5333333333333333
+which weapon,0.5
+pockets,0.18055555555555555
+section,9.287987283173626
+washim,1.0
+improvements,0.5399449035812672
+pandurang,0.5
+objective,0.5021775147928994
+none,0.8181718550217885
+version,1.0500313479623824
+son of the deceased shriram,0.5
+incident,1.8609485257918057
+left ear,0.7407407407407407
+inhabitants,0.4835164835164836
+evidence of these witnesses,1.3333333333333333
+head through which blood,0.5
+true that pws-,0.0
+place,2.333104345208554
+circumstance,1.429931390219372
+civil,2.126558634963905
+house of nagorao pawar,0.5
+finding,1.8129183657767178
+terrycot,0.6666666666666666
+hair,1.2685815066767447
+old sando banian,0.5
+pw- durgadas,0.0
+mean,2.390645692553228
+appellant herein,2.046153846153846
+black hair on the head,0.5
+cotton cloth,1.0
+investigation,1.6673076923076922
+peril,0.5499181669394435
+discrepancy,0.6097560975609757
+finger,2.27670349907919
+many blow,0.3333333333333333
+proces,1.627944583238701
+benefit of doubt,1.8
+nooruddin,0.5
+string,0.38028169014084506
+which shriram,1.0
+certain material discrepancy,0.0
+person of shriram,1.5
+length,0.6297872340425531
+that respondent,1.6666666666666667
+neem tree,0.5
+story,0.755772533184814
+genesi,0.3588516746411483
+gram,1.0492542925178592
+case of prosecution,1.0
+stood,1.0434207261599535
+finger of both hands,0.0
+thereof,1.7897727272727273
+investigating,1.5794836956521738
+relevant portion,0.6486486486486488
+injury on the body,0.0
+material prosecution witnesses,1.0
+basi,2.0752712086391383
+imposition,1.4444444444444444
+pre - arranged plan,0.0
+leave petition,2.013333333333333
+gram panchayat election,0.5
+postmortem report,2.3333333333333335
+injuries to the other persons,0.5
+authors of the injuries,0.5
+fray,0.3896103896103896
+basi of which respondent,0.0
+mind that pw-,0.0
+fine,1.3204039558531748
+kishor,0.8008658008658008
+candidate,6.356675392670156
+benefit,2.604810195438474
+suicidal death,1.0
+bhilsing,0.5
+individual,1.1485140562248994
+place of incident,1.1
+loopholes in the prosecution story,0.5
+session,2.2400874351067563
+cost,1.2954397451466992
+role of accused nos,0.5
+furtherance of the common objective,0.5
+conviction,2.248165832071736
+basis,1.953226441078104
+panchayat,10.0
+cross examination,1.7272727272727273
+dent,4.988589074020128
+various other person,0.6666666666666666
+course,1.6545957498716626
+few other persons,0.5
+faction in the village,0.0
+accused nos,2.875
+charge,2.7679815308681284
+due to which shriram,0.5
+bandage,0.46153846153846145
+grounds,0.9540208829455945
+durgada,3.0
+blood stains from place,1.0
+penal code read with section,2.625
+tailor,0.38513513513513514
+stone on the spot,0.0
+blood,1.1739965841161402
+crime,1.6636528028933093
+furtherance,1.758139534883721
+from the above,0.649867374005305
+officer,3.1197242647058823
+material witnesses,0.9600000000000002
+statement of pw-,0.0
+various other infirmity in the prosecution story,0.0
+charges,2.061307113938693
+banian,0.2
+stick from hand,0.5
+common object,1.8333333333333333
+that pws-,0.0
+ground,1.4186722903211633
+pendency of the appeal,1.4166666666666667
+act in prosecution,0.5
+that judgment,0.8444444444444444
+counts as the formation,0.5
+appropriate case,1.4074074074074074
+arguments,0.7212211466865226
+opportunity,0.946186440677966
+indian penal code with the aid,0.6666666666666666
+noor  nooruddin v state of karnataka manuscmanusc,0.0
+cros,1.8137948361162648
+several persons,0.787878787878788
+size,0.4932317346481398
+impugned judgment,2.0927152317880795
+main argument of the appellant,0.5
+pw- to pw-,0.0
+variance with the ocular testimonies,0.5
+various injuries on the body,0.5
+matter,2.8088923076923082
+hospital,1.3942768854411434
+gram panchayat elections,0.5
+such aspect,0.6666666666666666
+feet towards,0.5
+leg,5.574082991234883
+appeal of respondent,0.5
+member of an unlawful assembly,0.0
+criminal,3.301971081989414
+vital part,0.6666666666666666
+observation of the high court,0.6666666666666666
+pacha,0.2857142857142857
+deadly weapon,0.8307692307692307
+appellants,7.701086956521739
+penal,1.8829173709853835
+inquest report,5.25
+elections,2.0254335260115606
+view,2.441100058469462
+discussion in the impugned judgment,0.5
+old sando banian of cotton cloth,0.5
+aid,5.498621453008654
+involvement,1.020685900925422
+improvement,2.157706093189964
+by shriram,1.0
+body part,0.25862068965517243
+opinion,1.4960606342789635
+unlawful assembly,3.625
+vital body part,0.5
+inquest,2.0454545454545454
+side,3.88845645915565
+remarks,0.4772727272727273
+furtherance of the common intention,1.5
+tehsil manora,0.5
+whereas candidate,0.5
+penal code,2.710144927536232
+merit,1.2419290263876248
+that defence,0.75
+small black hair,0.5
+cloth,0.4712956659859314
+basis of which respondent,0.5
+liquor,3.6290322580645165
+witness,5.333906623599983
+clean acquittal,0.5
+prosecution version,2.7142857142857144
+result,1.3356630184144715
+version of these material prosecution witnesses,0.5
+sessions court,2.230769230769231
+indian penal code read with section,2.625
+uncle shriram,0.5
+manner of the assault,0.5
+record,2.5393414390845273
+procedure,2.552771605064117
+defence,1.3606588776096535
+polouse,0.0
+november,0.7203359669727383
+portion of the eye,0.5
+present appellant - baliram,0.0
+akola,12.666666666666666
+provision,5.439002243350069
+opinion that conviction,0.5
+hyderabad manuscmanusc,0.6666666666666666
+support,0.8630946786249609
+author of the injuries,0.5
+various other infirmities,0.5
+right hand,0.6034482758620688
+old payjama,0.5
+fingers,0.4465408805031446
+suffice,0.5886850152905199
+payjama of terrycot cloth,0.5
+respect,2.6704963235294117
+partisan,0.6095238095238095
+attribution,0.25
+sikri,1.0
+fact,3.6284951019474962
+aforesaid findings,0.5
+police during investigation,0.6666666666666666
+stony ground,0.5
+learned counsel,3.703333333333333
+opinion of the sessions court,0.5
+complicity of other accused persons,0.5
+political factions,0.5
+aforesaid finding,0.75
+charge under section,3.8181818181818183
+evidence on record,2.7906976744186047
+junghare,2.0
+injury on durgadas,0.0
+that effect,0.6458333333333334
+reasoning,0.6478937381404174
+caution,1.0777000777000778
+evidence of material prosecution witnesses,0.5
+manu  scmanu  sc,0.0
+criminal procedure,6.406779661016949
+black hair,0.2727272727272727
+influence,0.7049608355091384
+object,1.4940119760479043
+weapons,1.1105810008481765
+same time,0.6913511801045461
+nagorao,1.0
+human life,0.5567901234567901
+criminal act,1.0074074074074073
+sando banian,0.5
+witnes,5.333906623599983
+postmortem on the body,0.75
+shriram,11.0
+ulha,0.672
+to the above,0.5836782968657599
+court in support,0.8571428571428571
+am in the presence,0.5
+evidence of pw- ulhas,0.0
+death of shriram,2.0
+final arguments,0.6666666666666666
+complicity,1.0476190476190477
+applicability,1.0928961748633879
+additional,1.4256530253244384
+doubt,1.3646267723102583
+material discrepancy,0.0
+eye witnesses,3.1
+head toward,0.3333333333333333
+report,1.7768151696835826
+blood stain,1.25
+code of criminal procedure,6.120689655172414
+manora,1.3333333333333333
+general nature,0.5555555555555556
+party,2.2250894654439723
+same intention,0.5
+various offence,0.75
+vitthal mankute,0.5
+anything,0.9132309941520469
+in order,1.0314452731304171
+various loopholes in the prosecution story,0.5
+cotton bandage of the government hospital,0.5
+vital body parts,0.5
+prosecution that offence,0.5
+unlawful assembly with the common object,0.5
+appeal in the high court,1.0
+prosecution story,2.142857142857143
+proposition,0.6371087928464977
+neem,0.33749999999999997
+chavan,0.75
+respective candidate,0.75
+evidence except the evidence,0.5
+insistence,0.5
+such witness,0.7000000000000001
+panchayat election,1.0
+part thereof,1.6333333333333333
+penal code against the accused person,0.5
+nose,0.37738951695786227
+discrepancies,0.9195402298850575
+speak,0.7624080721158905
+blow on the head,3.3333333333333335
+pw- prakash,0.0
+incident by means,0.5
+such witnesses,0.6000000000000001
+respect of allegations,0.5
+fatal blow,0.6666666666666666
+assembly with the common object,0.5
+testimony,1.4407553107789142
+date,6.195616975795285
+eye witness,1.4333333333333333
+which respondent,0.8571428571428571
+short indian penal code,0.8
+nadi  waist,0.0
+aforesaid introductory remarks,0.5
+old payjama of terrycot cloth,0.5
+offence,4.401610644257703
+presence,0.9604834261070158
+coma,0.29039397963700747
+nothing on record,1.5
+respondent,4.757894736842104
+sitaram,1.5
+pw- ulhas,0.0
+loopholes,0.5303030303030303
+result of fall,0.5
+day,1.550999710228919
+injuries on the person,1.3333333333333333
+government hospital,0.8888888888888888
+question,2.980312372067635
+breadth,0.375
+present appellant,1.3333333333333333
+respective candidates,0.75
+ankle of right eye,0.5
+count,2.7493281810130092
+deposition,1.534
+observations of the high court,0.9
+other infirmities in the prosecution story,0.5
+postmortem,1.2142857142857142
+tehsil,2.0
+anything before the police,0.5
+scmanu,7.940520446096654
+inasmuch as findings,0.5
+inasmuch as finding,0.5
+doubt in the prosecution version,0.5
+sort,0.7327002541370012
+months,1.1938163721148947
+which blood,1.5
+nagorao pawar,1.0
+murder of shriram,0.5
+assembly,2.613006617038875
+injury on the person,0.0
+statement,2.5393160135035964
+political faction,0.5
+accused person,4.565217391304348
+lateral ankle,0.5
+injuries on the body,1.0
+mode,0.8201666928762384
+name,1.8996570753072433
+various injury on the body,0.0
+injury certificate,0.5
+resident,1.6560361185631094
+prakash,1.8933333333333333
+high,5.367119186841496
+indian penal code against the accused persons,0.5
+members,1.9437616522164103
+baliram junghare,2.0
+account,2.5754891049671977
+serious error,0.6172839506172839
+stone on the house,0.0
+fall,1.158018118245391
+assault,1.0656614201609997
+account of which shriram,0.5
+simple injury,0.6666666666666666
+- months,0.0
+accused khandusing,1.0
+variance,0.47368421052631576
+arguments of the learned counsel,0.8
+stone at the house,0.0
+learned,3.406323898681099
+contrary to the record,0.5
+toagu of left ear,0.0
+separate fatal blow,0.5
+penal code read,2.75
+imagination,0.5215909090909091
+law,3.538923411654744
+karnataka,3.8596491228070176
+that high court,0.8888888888888888
+province of section,0.5
+certain material discrepancies,0.5
+clear from the above,0.875
+head,1.5827778446537666
+trial court,3.854545454545455
+nos,1.2635492554198444
+observation,0.7625074854374218
+time,2.4764180952862667
+buttons,0.2745098039215686
+noor  nooruddin v state,0.0
+dr rathod,0.5
+durgadas,3.0
+credence to the evidence,0.5
+allegation,1.834319526627219
+furtherance of common intention,2.3333333333333335
+neem tree on ota,0.5
+culpability,1.1428571428571428
+view of the ocular evidence,0.5
+duryodhon,0.5
+left hand,0.5934065934065934
+ulhas,2.0
+toagus of left ear,0.5
+plan,2.0162821688398056
+influence of alcohol,0.5
+stretch of imagination,1.0833333333333333
+various offences,0.6666666666666666
+absence of any allegation,0.8333333333333334
+vasanta,0.6666666666666666
+district washim,0.5
+murder,1.4968553459119496
+legality thereof,0.75
+wound on left side,0.5
+fine of rs,1.6
+addition,1.5588539142412572
+so - called witnesses,0.0
+depositions,1.0
+unimpeachable evidence,0.6666666666666666
+prosecution,4.619407894736842
+observation to that effect,0.5
+ocular evidence,1.0
+several person,0.6446280991735537
+baliram chavan,0.5
+spot,0.778096903096903
+allegation against respondent,0.5
+such evidence,0.9649122807017544
+certificate,2.732600732600732
+offences,1.6681887366818873
+rioter,0.2142857142857143
+nadi,0.3446327683615819
+injury to the other persons,0.0
+imprisonment,1.4344262295081966
+injury on the head,0.5
+alcohol,2.6760563380281694
+general statement,0.38095238095238093
+absence,1.092363454568179
+counsel,2.2246780703440323
+note of the fact,1.4705882352941178
+few other person,0.5
+feet,0.5815085158150851
+state of hyderabad manu  scmanu  sc,0.0
+deceased ie,0.5
+parts,0.6609660823170732
+imprisonment for life,1.7142857142857142
+residents of village hatna,0.5
+commission,4.703619179345321
+rathod,1.0
+stomach,0.3278443113772455
+witnesses,3.359210526315789
+pant of cotton cloth,0.5
+main argument,0.5384615384615384
+stick blow on the person,2.0
+penal code against the accused persons,0.5
+greater care,0.5333333333333333
+rioters,0.23076923076923073
+material discrepancies,1.0
+pawar,2.6666666666666665
+counts,2.151344841429145
+names,1.766440410418311
+eye-witness,0.0
+blunt object,1.0
+influence of liquor,0.5
+head injury,1.2000000000000002
+floor,2.088735201031532
+head ie,0.5
+acquittal,2.2714285714285714
+eyes,0.4774823657080847
+son,4.595622484812135
+mention,1.6248742837095076
+means of sticks,1.0
+particular crime,0.8
+substantial improvement,1.0
+intention,1.7585585585585588
+pws-,0.0
+conviction of baliram,0.5
+infirmities,0.54
+evidence,3.6676405172088815
+special leave petition,2.013333333333333
+dr gulab nikam,1.0
+learned counsel for respondent,1.1666666666666667
+inhabitant,0.4840336134453781
+many blows,0.3333333333333333
+tree on ota,0.5
+pw--according khandusing,0.0
+veracity,0.6470588235294118
+members of unlawful assembly,1.0
+case,7.332269420884958
+meticulous examination of the deposition,0.5
+in the ordinary course,1.0769230769230769
+error,1.059158294766151
+rioting at the place,0.5
+more aspects,0.5
+scc,1.941872465904902
+shriram on the head ie,0.5
+speak of assault,0.0
+stains,0.6666666666666666
+small black hair on the head,0.5
+tree,2.5601868779199677
+blood stain from place,0.0
+vitthal,0.5
+penal code with the aid,0.6666666666666666
+for whatever injury,0.5
+injuries,2.4130008710801394
+absence of a pre - arranged plan,0.0
+statements,1.110873440285205
+wound,1.4035549703752468
+portion,1.0756311179804223
+medical evidence,1.2820512820512822
+prosecution case,4.258064516129032
+ground of the witnesses,0.5
+authors,0.4505968169761273
+faction,0.6891891891891891
+natural death,0.75
+pw--there khandusing,0.0
+stick from the hand,0.5
+mouth,0.2782462057335582
+disagreement with the proposition,0.5
+grievous injury,0.6666666666666666
+various loophole,0.5
+evidence of the so - called witnesses,0.0
+month of november,0.6666666666666666
+baliram for offences,0.5
+prosecution witness,2.2
+learned sessions judge,2.5
+various loopholes,0.5
+grievous injuries,1.0
+speaks of assault,0.5
+medical officer,1.090909090909091
+resident of village hatna,0.0
+other persons,0.6111111111111112
+reproduction,0.5098814229249011
+as finding,0.5714285714285714
+blows,1.1295731707317074
+whereas candidates,0.5
+body parts of the deceased ie,0.5
+mean of deadly weapons,0.0
+story of assault,0.5
+genesis,0.3599817268158977
+prosecution witnesses,2.0526315789473686
+leave,1.0147842365477848
+legality,0.6845938375350139
+fails,0.7341787106682944
+learned additional sessions judge,1.3
+maharashtra,2.9076923076923076
+costs,0.8167395522604189
+ocular testimony,0.6666666666666666
+civil hospital,1.2
+vital body parts of the deceased ie,0.5
+indian penal code against the accused person,0.5
+sufficient,1.0246250435995814
+stood by the reasoning,0.5
+insofar as khandusing,1.0
+applicability of section,1.3888888888888888
+inquest report of the dead body,0.6666666666666666
+contrary to the above,0.6666666666666666
+involvement of respondent,0.5
+baliram,5.333333333333333
+attempt,0.7943782192788815
+body,1.336775463480009
+process,1.6274942048088725
+material prosecution witness,1.0
+phc,0.3025751072961373
+notice,2.3300025999395686
+mean of sticks,0.0
+right eye,0.3157894736842105
+autopsy,0.35294117647058826
+-baliram assaulted shriram,0.0
+panchayat elections,1.0
+stones on the spot,0.5
+inch x  inch x  inch,0.0
+pralhad,0.5
+common intention,8.5
+police,2.9749362629783356
+sentence,2.3896654193264366
+material witness,0.9047619047619048
+khandusing,9.0
+nikam,1.0
+portion of the depositions,0.5
+minute,1.0433976833976835
+blue,0.5764676862358165
+formation of unlawful assembly,1.0
+aid of the provisions,0.5
+toagu,0.5
+examination,2.4920345926263088
+payjama,0.5
+irresistible opinion,0.5
+that basis,0.6886956521739132
+under section,5.374517374517374
+pachas,0.3333333333333333
+reason,2.6381270903010035
+shankar,0.84
+life,1.3352928273744242
+as evidence,0.560701754385965
+final argument,0.4444444444444444
+appellant - baliram,0.0
+stones,1.0303030303030303
+presence of the pachas,0.5
+stain,0.966479556037507
+first opportunity,0.4444444444444445
+which part thereof,0.5
+petition,5.3436539306104525
+other by shriram,0.5
+shriram with sticks,0.5
+janardhan,2.25
+defence in cross examination,0.5
+stick blow on the body,0.5
+insistence of the counsel,0.5
+various loophole in the prosecution story,0.0
+pant,0.9369488536155202
+various injuries,0.6666666666666666
+consideration,1.9110153789142115
+feet toward,0.5
+rioting,0.75
+fail,1.3038982898019296
+officer at phc,0.5
+paragraph,1.2930197483150305
+entirety,0.6814814814814815
+bhurasing,0.5
+front side,1.0
+front,0.8400299386969539
+ota,1.4041940789473684
+value,1.7137907830478438
+challan,0.3589743589743589
+ear,6.682790584013304
+pw- durgada,0.0
+accused no,11.466666666666667
+polouse during investigation,0.0
+that basi,0.6481481481481481
+remark,0.5091064757160647
+others,0.9074667328904616
+vital body part of the deceased ie,0.0
+injury on the vital part,0.5
+care,0.8846948234137723
+culpability of respondent,0.5
+serious dent,0.3333333333333333
+side of the head,1.0
+deadly weapons,0.9
+blow on the body,1.0
+gulab,0.8
+members of an unlawful assembly,1.0
+eye-witnesses,0.0
+relevant portion of the depositions,0.5
+to which shriram,0.5
+judge,2.9012627415183325
+death,2.361592909460208
+provisions,3.8929824561403508
+depositions that respondent,1.0
+province,0.7345491388044579
+front of the house,1.0
+other infirmity in the prosecution story,0.0
+factions,0.5833333333333334
+other accused persons,2.111111111111111
+author of head injury,0.5
+argument of the learned counsel,0.8
+toagus,0.5
+argument,0.9504580388560493
+inasmuch as evidence,0.5
+wake,0.47528517110266155
+conclusion,1.3883437407077015
+face,0.7281253260594137
+deceased shriram,2.5
+author,2.9909112471968258
+means of deadly weapons,1.0
+inch,0.9217334636689475
+member of unlawful assembly,0.5
+introductory remarks,0.5
+indian penal code read,2.75
+rest of the charges,0.5
+legs,1.4450867052023122
+approx,0.6081553398058253
+indian penal code,5.264705882352941
+hand,2.0299623418254717
+under sections,2.1931818181818183
+genesis of the incident,1.0
+session judge,1.3333333333333333
+terrycot cloth,0.5
+bleeding injury,0.5
+means,1.3868295182781003
+medical officer at phc,0.5
+pw- ulha,0.0
+job,0.6733466933867737
+alleged role,0.3333333333333333
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+sufficient in the ordinary course,0.75
+as findings,0.6666666666666666
+rival factions,0.3333333333333333
+obligation,1.1071428571428574
+pocket,0.5186074429771909
+credence,0.3670212765957446
+confidence,0.5942028985507247
+pelting,0.8888888888888888
+portion thereof,0.875
+high court,7.7477477477477485
+cotton,0.8571428571428571
+officer under section,0.8333333333333334
+homicidal death,0.5
+accused baliram junghare,1.5
+police statement,1.25
+holistic manner,0.5
+learned counsel for the appellant,1.7884615384615385
+state,6.817996007300392
+introductory remark,0.5
+simple injuries,1.25
+body part of the deceased ie,0.0
+such aspects,0.6666666666666666
+note,1.3654108484234107
+trial,3.7979448350459712
+complicity of the rest,0.5
+pw-,0.0
+manu,7.078142071124147
+court of session,1.25
+infirmity,1.3095238095238095
+stick blow,4.0
+incident in the wake,0.5
+sando banian of cotton cloth,0.5
+role,1.0562959821210092
+notice on the left side,0.5
+face value,1.053191489361702
+dead body,1.192156862745098
+body parts,0.2647058823529412
+head towards,0.5
+argument of the appellant,1.0
+blood stains,1.5
+liable for whatever injury,0.5
+man,6.972395052694935
+due to head injury,1.0
+waist,0.4482758620689655
+nature,1.4149926876444778
+safety of others,0.5
+hospital at manora,0.5
+discussion,0.7445831166579996
+qua respondent,1.0
+mankute,0.5
+foot,0.7144861347422464
+other infirmity,0.0
+safety,1.5344583560152423
+cotton bandage,0.5
+substantial improvements,1.0
+fatal assault,0.5
+various other persons,0.6666666666666666
+serious nature,0.7999999999999999
+observations,0.7454584147497534
+stretch,0.5192424242424243
+attention,0.8724846605528799
+irresistible opinion that conviction,0.5
+meticulous examination,0.5
+ultimate act,0.5
+stones by the accused persons,0.5
+that shriram,0.5
+common objective,1.0
+various other infirmity,0.0
+that sort,0.25
+persons,2.5993381990166555
+so - called witness,0.0
+therefrom,0.673076923076923
+rival faction,0.3333333333333333
+stone,0.7736063708759955
+various injury,0.0

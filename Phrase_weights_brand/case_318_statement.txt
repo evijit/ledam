@@ -1,0 +1,1034 @@
+courts,2.1216528162511543
+enactment,1.439950980392157
+duty on the same class,0.5
+extracts,0.48128342245989303
+various consideration,0.5
+restriction,1.0123456790123457
+to the party,0.8148148148148148
+government,3.5583785424010483
+committee,2.546237803603864
+alcoholic preparations,4.5
+findings,1.049571253572887
+financial proposal,0.5
+exemption,1.7371031746031744
+tariff rate in the finance bill,0.0
+speech of the finance minister,1.5
+appellant  party - in - person,0.0
+relation to a particular tariff,1.0
+hsn explanatory notes,1.0
+payment of appropriate duties,0.5
+constitution of india,3.0095238095238095
+reliefs,1.308641975308642
+governmental view,0.5
+action on the part,0.6862745098039216
+erroneous rate,0.5
+people,1.2855544825097243
+financial policy,0.5
+custom,1.8742070505069293
+revision,1.6299226441631505
+consignments of goods,0.5
+term  compound alcoholic preparations,0.0
+court of bombay,2.176470588235294
+matters,1.4810665618448637
+meaning,1.8612727545949643
+perverse interpretation,0.20454545454545453
+second respondents,1.6666666666666667
+inter,3.683850287482992
+delegates,0.21929824561403508
+case of the appellant,1.1714285714285715
+court with a voluminous record,0.5
+interest,2.74353772015385
+tariff rates in the finance bill,0.5
+on goods,1.4
+court,12.24425115501509
+skill,1.0107260726072607
+important proposals of the budget,1.0
+parliament for the years,0.5
+exclusion clause,0.6666666666666666
+relation to a particular tariff head,1.0
+union,2.0981927710843373
+parliament,2.6571235781762095
+order in each case,1.5
+high court of bombay,2.176470588235294
+utmost skill,0.5
+person,4.291511329454258
+view of the aforesaid,1.2580645161290323
+way,1.7812722068664852
+correctness,0.8404159132007234
+thrust,0.4345864661654135
+sandvik,0.08007518796992481
+manufacturing of beverages,1.5
+part,5.294464509893076
+description,0.8190476190476191
+dried grapes,1.0
+budget speech,0.6666666666666666
+which parliament,1.0
+error apparent on record,1.0
+aforesaid elaborate discussion,0.5
+nothing,0.8658723322806009
+various argument,0.3333333333333333
+contra submissions,0.5
+customs authority,0.5
+bombay,2.3134020618556703
+seagram manufacturing ltd v commissioner of customs,0.5
+prescribed rate,0.6666666666666666
+budget proposal,12.5
+look at the relevant provisions reveals,0.5
+effect to the budget proposal,3.0
+extensive arguments,0.5
+aspect,1.2449448189023034
+customs duty on items,0.5
+several contra submission,0.5
+various considerations,0.5
+open to the parties,0.75
+spirituous beverages of this heading,0.5
+consumable  alcoholic beverage,0.0
+decision,2.9514937765898557
+contrary,1.027917657672435
+whims,0.3448275862068965
+rate of customs duty,0.5
+in the public interest,2.6
+customs act,2.0588235294117645
+aforesaid,2.592896174863388
+proces of taxation,0.0
+of any merit,0.875
+professional,0.7317659631311781
+claim,2.817264601856604
+spirits,0.2801932367149758
+appellant claim,1.125
+certain duty,0.5
+reduction in effective rate,1.0
+sovereign power,1.2
+changes,0.8318262938726949
+term  compound alcoholic preparation,0.0
+correctnes,0.8404159132007234
+appeal,3.4125488033856883
+preparation,1.299145299145299
+views of the tribunal regarding classification,0.5
+bureaucrat,0.3906976744186047
+contra,3.550142721217888
+court of judicature,1.4210526315789473
+good,2.6154941054299674
+taxman,0.5
+nomenclature,0.8076923076923077
+interpretation,1.518366298484459
+point of interest,0.2692307692307692
+- in this court,0.0
+read,2.2147281730888695
+area,2.675167256985439
+discriminatory conduct,0.5
+day-to-day regulation,0.0
+amount of duty,1.375
+notification goods of any specified description,0.5
+special order in each case,1.5
+delegate,1.2330383480825957
+respondent officials,0.5
+intention of the government,0.5
+year,2.8349484769759212
+corrupt practice on the part,0.5
+consignments,1.0
+alia,0.9479866480753792
+wherein,1.0724137931034483
+beverages,4.906666666666666
+order for refund,0.5
+distilleries,3.2
+judgment,3.288216560509554
+claims,1.1941982272360998
+preceding paragraph,0.75
+notification good,0.5
+manufacture,3.7256425233644856
+subject,2.4420366233344897
+authority of law,1.7692307692307692
+brussel,0.18421052631578946
+peak rate of duty,0.5
+decision of the bombay high court,1.0
+lakhs,2.046511627906977
+order,5.472481489660944
+authoritative expression,1.0
+mohammed yasin v town area committee,0.5
+appellant of profits,0.5
+to goods,0.75
+act,12.870263922028107
+sub-section,0.0
+finance minster s speech,0.0
+view of the foregoing discussion,0.75
+foremost grievance,0.5
+rates of tax,0.5
+same hereunder,0.5
+clas,2.1196191893660425
+tru,3.148624934753965
+enactment by the parliament,0.0
+jalyan,0.5
+good on which duty,0.0
+statutory term  compound alcoholic preparation,0.0
+distinct document,0.5
+importer,1.3636363636363638
+discriminatory action,0.5
+view of the aforesaid elaborate discussion,0.5
+customs duty,2.142857142857143
+effect,2.184583388478191
+tariff head,3.0
+legislative material antecedent,0.5
+customs authorities,1.8333333333333333
+roller bearing,1.0
+that pursuant to the proposals,0.5
+budge,3.1144787644787644
+second grievance,0.5
+budget proposal before the parliament,0.0
+choksi tube co v union,0.5
+greater latitude,1.3333333333333333
+grapes,0.4
+roller bearings,1.0
+valorem,2.25
+parties,1.8210828547990157
+grounds of discrimination,0.5
+court in mohammed yasin v town area committee,0.5
+compound alcoholic preparation of a kind,0.5
+amenable to judicial review,0.5
+to the legislative mandate,0.5
+section,9.287987283173626
+to the approved budget proposals,1.0
+matter of taxation laws,0.0
+chief commissioner,1.25
+exempt,1.8056061157626502
+corrupt practice,3.5833333333333335
+writ of mandamus,2.642857142857143
+notification in respect,0.75
+respective submissions of the learned senior counsel,0.5
+tariff,11.052631578947368
+condition,2.259476395625584
+judgments,1.2355646397547266
+tariff entry,0.6666666666666666
+finance minister in parliament,1.0
+tax,3.549237288135593
+udyog,3.2
+sought for the following reliefs,0.6666666666666666
+speech,1.9520676691729324
+yasin,0.3333333333333333
+mala fide,1.75
+respective submission,0.8
+violation of the appellant,0.5
+place,2.333104345208554
+circumstance,1.429931390219372
+officers,2.442124212421242
+international,1.4453445246925631
+finding,1.8129183657767178
+for the year,1.6558441558441561
+regulation,4.3783195107648485
+appropriate forum,0.47647058823529415
+appellant herein,2.046153846153846
+extract,0.7823518379594899
+compound alcoholic preparations for the manufacture,0.5
+harmonized system of nomenclature,0.5
+impugned period,0.5
+judicature,1.4210526315789473
+that exclusion in peak rate covers,0.5
+finance bill,3.5
+regard,2.723310344827586
+kind of efforts,0.5
+import duty,1.2857142857142858
+ad valorem,1.5
+discrepancy,0.6097560975609757
+fault with the way,0.5
+time of provisional assessment,0.5
+opinion on the interest aspect,0.5
+knowledge,1.1120671641791045
+class,2.1508512849922936
+proces,1.627944583238701
+direction,1.8495050210098996
+limitation,2.4984479402325457
+alcoholic preparation of a kind,0.5
+preparation of a kind,0.5
+brussels,0.23076923076923073
+item,1.3319648896447913
+fault,0.8125244007183572
+length,0.6297872340425531
+union of india,3.1324503311258276
+facts,1.4696673624372698
+issue,2.766776251628934
+present facts,0.5
+minister,1.218958818958819
+case of union,1.25
+of article,2.1149999999999998
+material antecedent,0.5
+basi,2.0752712086391383
+appellant - importer,0.0
+distinct documents,0.5
+respondents  revenue,0.0
+grape,0.38961038961038963
+conclusion that the appeal,0.6666666666666666
+interest on the excess duty,0.5
+union ministry,0.8
+to judicial review,0.8
+further contention,1.0769230769230769
+expression of legislative,0.5
+ramana,0.8104575163398693
+home,0.9826663267907214
+senior,1.989753211141579
+hsn explanatory note,1.0
+respondent official,0.5
+cost,1.2954397451466992
+ball,0.9419367100636702
+orders,1.4936359300077826
+basis,1.953226441078104
+regard to this issue,0.4
+specified description,0.5
+that exclusion,0.6666666666666666
+cemanu,0.8
+duty on the appellant,0.5
+provisional assessment,2.0
+sub,7.816899313759727
+legislative,2.4237377279102383
+reduction in duty,0.5
+peak duty structure,0.5
+amount of tax,1.0
+concentrated extracts,0.5
+several notification,0.5
+flood gate,0.5
+unilateral decision of the parliament,0.5
+grounds,0.9540208829455945
+roller,0.7399143857828512
+slpc,2.727272727272727
+peak rate cover,0.5
+import duty on  cap,0.0
+reduction in effective rates,0.5
+board of excise,1.1666666666666667
+grievance of the appellant,1.0
+exception of alcoholic beverages,0.5
+flood gate for  corrupt practice,0.0
+hence,1.1440732910500353
+rate of tax,1.4
+officer,3.1197242647058823
+proposal of the budget,0.0
+ground,1.4186722903211633
+dried grape,1.0
+seagram,0.5
+del,2.939294714549935
+voluminous record,1.0
+arguments,0.7212211466865226
+hereunder,1.4457142857142857
+first schedule of the customs tariff act,0.6666666666666666
+ultimate law,0.5
+proposed rate,0.5
+tri,6.691276658457437
+irresistible conclusion,1.1428571428571428
+gate,1.2076436561705193
+impugned judgment,2.0927152317880795
+manufacture of various beverages,0.5
+senior counsel for respondents,1.5
+compound alcoholic preparations,4.5
+profits,4.935344827586206
+ambiguity in the speech,0.5
+contrary to article,0.5
+matter,2.8088923076923082
+relation,1.397320207820618
+to information act,0.6666666666666666
+other than alcoholic beverage,0.5
+notification for the financial year,0.0
+article,4.378806157159795
+scrutiny,0.912987012987013
+certain duty on the same class,0.5
+attitude of the authorities,0.6666666666666666
+bearing,0.7901184156798694
+look,0.7258645241210043
+changes in the rates,0.5
+bom,1.9699381078691425
+term,3.6255105640901575
+spirituous beverage,1.0
+tribunal regarding classification,0.5
+other spirituous beverages of this heading,0.5
+view,2.441100058469462
+proposals of the budget,1.0
+opinion,1.4960606342789635
+advalorem,1.0
+side,3.88845645915565
+relief,1.4748116760828625
+for the court,0.5893719806763285
+home consumption,0.75
+nugatory,1.0
+court in choksi tube co v union,0.5
+mandamus,3.0
+merit,1.2419290263876248
+india v jalyan udyog,0.5
+liquor,3.6290322580645165
+other categories,1.4285714285714286
+sandvik asia ltd v commissioner,0.5
+respondents under section,1.0
+unit,2.176678509944691
+core,0.43168575654387237
+officials,1.3691666666666666
+slps,1.6363636363636365
+exercise of the sovereign power,0.6666666666666666
+almonds,0.36363636363636365
+executive branch,0.22580645161290322
+data,0.9744599232788209
+record,2.5393414390845273
+material,1.4148767018946966
+information,1.1320502836800534
+peak rate,1.0
+bill of entry,0.5
+laws,1.4186274337269533
+to article,0.8581560283687941
+case like a seasoned professional,0.5
+ad valorem for the year,0.5
+litre,0.9499999999999998
+decision of the parliament,0.5
+commodities,1.6200000000000003
+- importer,0.0
+provision,5.439002243350069
+circular,2.0360934182590236
+support,0.8630946786249609
+ambiguity,0.7008985879332478
+other category,0.4444444444444444
+statutory term  compound alcoholic preparations,0.0
+fm speech,0.5
+tariff rate,3.25
+respect,2.6704963235294117
+limitation into this power,0.5
+baggage,0.8888888888888888
+such order,1.056910569105691
+legislation,3.2032032032032034
+business,2.8512056385864457
+several notifications,0.5
+bills of entry,1.5
+criteria,1.3561764705882353
+fact,3.6284951019474962
+claim of the appellant - importer,0.0
+error on the part,0.6666666666666666
+expression,1.7424391201885312
+exemption from duty,1.0
+rational basi,0.46296296296296297
+explanatory memorandum,1.0
+department,1.9858367499068206
+tru department in the customs tariff act,0.5
+duties,1.477142857142857
+anr,1.1271033322299457
+simple interest,1.8333333333333333
+irresistible conclusion that the appeal,0.5
+suitable notification,1.0
+excess amount,1.6666666666666667
+following relief,1.1818181818181819
+power to the central government ie,0.5
+matters of taxation laws,0.5
+chief,1.9429638234317954
+whim,0.5072463768115941
+high court by the impugned judgment,1.0
+same clas,0.8974358974358975
+violative,2.2972972972972974
+reliance on sandvik asia ltd v commissioner,0.5
+duty on a particular commodity,0.5
+contra submission,0.5
+object,1.4940119760479043
+central board of excise,1.0
+discrepancy between the budget proposals,0.5
+budge proposal,0.5
+customs tariff act,2.6666666666666665
+chapter tariff,0.5
+parliament wherein for the goods,0.5
+duly,1.13589803737587
+alcoholic beverage,4.0
+discriminatory action on the part,0.5
+system,1.1230229504341178
+explanatory,1.0
+town,1.9746537396121884
+compound alcoholic preparation for the manufacture,0.0
+unsatisfied with the order,0.5
+budget proposals,11.0
+legal force,0.3333333333333333
+second respondent under section,0.0
+proposal,1.8145800316957208
+submissions at length,0.5
+enactments,0.7301587301587302
+discrimination,0.8429118773946361
+effective rates,0.5
+particular tariff,2.5
+years,2.5395804110508022
+necessary in the public interest,1.5
+matter of taxation,0.5
+exercise,1.9400726466785694
+other spirituous beverage,1.0
+jabalpur,2.357142857142857
+several communication,0.5
+principle,1.9620890732001848
+paragraphs,0.9552238805970149
+party,2.2250894654439723
+manufacture of beverages,5.0
+review,1.3564101463582128
+concerned authority,1.0
+oversea,0.36458333333333337
+sought,1.1658793604651163
+tariff research unit,0.5
+delhi,2.6089285714285717
+trends,0.39999999999999997
+appropriate notification,0.75
+first principle,0.5714285714285714
+issues,1.1246716508385532
+respective finance bill,0.5
+respective submission of the learned senior counsel,0.0
+budget,1.9635270541082162
+the act,5.708327371273712
+grievance,1.032529659395331
+revenue,1.486701237872198
+forum,1.9016754850088184
+return of the excess amount,0.5
+income,2.734813573523251
+for the fy,1.0
+effective rate,1.0
+extensive argument,0.5
+right to information act,0.6666666666666666
+bill,1.134631348577466
+rational basis,0.46296296296296297
+government of india ie,0.5
+latitude to the legislative discretion,0.5
+bearings,0.5172413793103449
+government ie,0.4444444444444444
+rupees,2.311111111111111
+finance minster,0.5
+adjustment,0.6982649174777825
+discriminative,0.5
+respondent,4.757894736842104
+policy of the central government,0.5
+statutory heading,0.5
+notification in this case,0.5
+good for home consumption,0.0
+govt,0.7017766497461929
+schedule,2.9453067257945307
+harmonized,1.0
+whole thrust of the appellant,0.5
+spirituous beverage of this heading,0.0
+manucemanuce,1.3333333333333333
+day,1.550999710228919
+rate duty,1.0
+passed andor,0.5
+category of alcoholic beverages,0.5
+order for the payment,1.25
+import,1.5850112386464603
+excess amount of rs,1.0
+rate of duty duly,0.5
+council,1.464939453675021
+mala,0.727137439393212
+learned senior counsel for respondents,1.5
+notification in the official gazette,1.1875
+trends in the economy,0.5
+submits,2.1733333333333333
+scmanu,7.940520446096654
+writ,2.8882378560889794
+chapter,1.3867471532446152
+appeals,1.7060218112849692
+need,1.1097650269586634
+unreasonable restriction on the appellant,0.5
+amount,3.179688593072295
+practice,1.7660110149488593
+asia,1.43375
+effect to the budget proposals,2.0
+proposal of the finance minister,0.0
+judgment of the bombay high court,1.0
+brandy,0.25
+notes,0.6013642564802183
+respondent subject,0.6666666666666666
+amount of rs,1.5806451612903225
+thereon,0.877037037037037
+will,1.9263907124198036
+heading,2.130249543517955
+entry,4.707210447678601
+various beverages,0.5
+customs act in respect,0.5
+import duty on items,0.5
+speech of the fm,0.5
+relevant provisions reveals,0.6666666666666666
+high,5.367119186841496
+customs,1.9344608879492597
+payment,2.059553716565686
+needs,0.6897483569699066
+legislating,1.3846153846153846
+communications,0.7330779054916986
+force,1.6009408121948314
+commodity,1.4505494505494503
+appropriate notification under section,0.5
+property,2.9368986630013745
+notification,3.0112746633260263
+flood gates,0.5
+dismissal,1.614076246334311
+parliament wherein,0.5
+gates,0.5610887096774193
+tru department,1.0
+classification,2.196286472148541
+passenger baggage,2.0
+direction to the chief commissioner,1.0
+interference,0.5733527484528578
+preceding paragraphs about the reliefs,0.5
+imagination,0.5215909090909091
+law,3.538923411654744
+different products,0.4
+fact that the goods,0.5
+matter of first principle,0.6666666666666666
+proposals of the finance minister,1.0
+change,1.2214862766571903
+alcoholic preparation,5.5
+head,1.5827778446537666
+violation of article,1.2666666666666666
+nos,1.2635492554198444
+time,2.4764180952862667
+that pursuant,1.0
+central government,3.0380952380952384
+sides,0.6706755273269035
+permissible for the court,1.0
+mandamu,3.0
+respect of other categories,0.5
+erroneous tariff rate,1.0
+provisions reveal,0.6666666666666666
+allegation,1.834319526627219
+items,1.0672246220302377
+rate of duty,4.0
+devoid of any merit,0.875
+financial  budget proposal,0.0
+taxation laws,3.0
+exceptional nature,1.0
+reliance on a judgment,1.5
+budget proposals before the parliament,0.5
+board,2.401414435268602
+to good,0.38114754098360654
+particular rate of customs duty,0.5
+stretch of imagination,1.0833333333333333
+reduction,0.8411214953271028
+cap,1.6392142133228855
+applicable to goods,0.5
+assessments,2.571428571428571
+jeremy,0.20833333333333334
+leviable thereon,1.6
+refund,2.670692431561997
+same class,0.8974358974358975
+submission of the learned senior counsel,0.6666666666666666
+whereas,0.7770612954644255
+notifications for all other erroneous tariff rates,0.5
+assessment,2.647276084949215
+executive,1.3789130780232004
+support of this contention,1.125
+category of alcoholic beverage,1.0
+criterion,0.7104166666666666
+right,3.07483248288682
+bentham,0.5
+to property,0.6753246753246753
+fancies,0.5
+latitude,0.5215419501133788
+financial year,3.1666666666666665
+strenuous efforts,0.5
+facts of the case,1.161764705882353
+officer of respondent,0.0
+several communications,0.5
+excess duty,1.0
+change in the rates,0.0
+provisions reveals,0.6666666666666666
+statutory provision,1.1638418079096045
+ground of discrimination,0.5
+connection,1.050640279394645
+learned senior counsel,3.4615384615384617
+exception,1.1036946087733006
+expenditure for the financial year,0.5
+mandate,0.8783810859547183
+levy,3.3133874239350907
+public interest,2.380434782608696
+income tax,1.4126984126984128
+error apparent,1.1
+alcohol,2.6760563380281694
+counsel,2.2246780703440323
+core sixty,0.5
+thrust of the appellant,0.5
+party - in - person,0.0
+several contra submissions,0.5
+policy,3.250773332247955
+rates,0.9535092413452435
+court of delhi,1.4761904761904763
+recourse to the provisions,1.0
+india,2.7684068260703585
+authorities,1.266131845134287
+allegation of the appellant,0.5
+attitude,0.4886970172684459
+choksi,0.5
+india ie,0.5
+collective expression of legislative,0.5
+present fact,0.75
+consignment of goods,1.5
+minster,0.14027149321266968
+exceptional circumstance,1.8
+profit,3.0739182692307687
+budgetary changes,0.5
+duty  rs,0.0
+compound,0.9563190432755649
+circumstances of an exceptional nature,1.0
+new,0.9418497626301229
+appellant claims,1.0
+trend,0.48390519985850716
+exclusion,1.276390008058018
+overseas,0.36458333333333337
+source of power,0.8333333333333334
+import of goods,0.5
+important proposals,1.0
+latitude to the discretion,0.5
+submissions,0.5235745614035088
+adjustment of import-export trade,0.0
+intention,1.7585585585585588
+tube,0.6567164179104478
+rupee,2.2291666666666665
+ltd,2.382356477306883
+budget proposals during financial years,0.5
+return,1.5755725190839696
+dispute,2.402137592137592
+- per liter,0.0
+submission,1.0913871684001404
+document,1.401100265092073
+datum,0.0
+interest aspect,1.0
+notification under section,3.7857142857142856
+spirituous beverages,1.0
+peak,0.7635011280315849
+industry,8.208106219426973
+seagram manufacturing ltd v commissioner,0.5
+conditions,1.9988092071092867
+trend in the economy,0.0
+restriction on the appellant,0.5
+officers of respondent,0.5
+international regulation,0.5
+passenger,1.8365885416666665
+fancy,0.23333333333333334
+paramount,0.691358024691358
+reliance,1.400763358778626
+excise,4.429175475687103
+particular tariff head,1.5
+authorities  expression,0.0
+conclusion that the appeals,0.5
+impermissible for the court,0.5
+moreover,0.7807228915662651
+alcoholic beverages,3.142857142857143
+to the parties,0.6967741935483872
+whole,0.951414768806073
+writ petition before the high court,1.0
+hsn,0.5220883534136547
+contention of the importer,0.5
+case,7.332269420884958
+difference,0.8774847235514982
+period,1.9480170842427122
+error,1.059158294766151
+right to property,0.6666666666666666
+good of the appellant,0.0
+present facts of the case,0.5
+than alcoholic beverage,0.5
+submission of the appellant,0.875
+finance minister,2.0
+other erroneous tariff rate,0.5
+process of taxation,0.5
+different products from alcoholic beverage,0.5
+relevant provisions reveal,0.6666666666666666
+classification between the goods,0.5
+high court of delhi,1.4761904761904763
+constitution,3.204842342342342
+flood gates for  corrupt practice,0.0
+goods on which duty,1.3333333333333333
+second respondents under section,1.0
+notification good of any specified description,0.0
+thorough look,0.5
+prescribed rate of duty,0.5
+fide,0.8955057484612704
+review petition,2.72
+efforts,0.7431827431827432
+appellant before the high court,1.0
+wrong,1.2933182103578877
+whisky,0.5
+budgetary change,0.5
+- since collection of tax,0.0
+bombay high court in bussa,0.5
+relevant information from the concerned authorities,0.5
+special order,0.8333333333333334
+various beverage,0.5
+gin,2.086744722830307
+court of law,0.673963133640553
+whole thrust,0.5
+central government ie,0.5
+contention,1.666391070690368
+collective expression,0.6666666666666666
+inter alia,1.3280423280423281
+appellant for the reason,0.6666666666666666
+appreciation for the strenuous efforts,0.5
+counsel for the respondents,1.425531914893617
+fm in the parliament,0.5
+mohammed,0.6057692307692307
+immediate consumption,2.0
+different product from alcoholic beverage,0.0
+duty,3.2272215973003378
+various arguments,0.3333333333333333
+violation,1.2087401208740118
+scrutiny of the correctness,0.5
+such conditions,0.6545454545454545
+first schedule,2.7142857142857144
+violative of article,2.1379310344827585
+executives,0.5333333333333333
+goods for home consumption,0.5
+thorough look at the relevant provisions reveals,0.5
+duty  r,0.0
+pvt,0.8625817965496728
+properties,1.7286779414438989
+customs tariff,3.8333333333333335
+compound alcoholic preparation,5.5
+leave,1.0147842365477848
+bombay high court,2.4642857142857144
+respondents,2.6341263330598856
+rival submission,1.0454545454545454
+peak rate covers,0.5
+costs,0.8167395522604189
+concentrated extract,0.5
+slp,1.291953447628582
+relevant tariff entry,0.5
+submission at length,0.0
+discretion,1.2998211091234348
+quantum,0.8922235363690124
+particular commodity,0.5
+financial  budget proposals,0.0
+point,2.9165043546008516
+process,1.6274942048088725
+particular tariff heading,1.0
+collection,1.0907127429805616
+goods,4.7578125
+notification by the central government,0.5
+rival submissions,1.0454545454545454
+considerations,0.7860235003092146
+way of these appeals,0.6666666666666666
+tariff rates,2.75
+consignment,1.25
+greater latitude to the legislative discretion,0.5
+exempt from the payment,1.0
+high court of judicature,1.4210526315789473
+particular rate,0.9000000000000001
+with the order,0.6593406593406593
+power,3.8165227690948367
+structure,1.568520357497517
+respective submissions,0.8
+subject to such conditions,1.2
+submissions of the learned senior counsel,0.6666666666666666
+contrary to the approved budget proposals,1.0
+flood,0.7676190476190476
+information from the concerned authorities,0.5
+conclusion that the action,0.5
+notification for all other erroneous tariff rates,0.0
+consumption,2.4979360165118676
+elt,0.9685135464974371
+appropriate duty,0.6666666666666666
+preparations of a kind,3.5
+effort,0.7536036036036036
+communication,1.013409067330636
+import taximport duty without any authority,0.5
+almond,0.5
+circular in respect,0.5
+reason,2.6381270903010035
+operation,1.0959893294085181
+taxation,1.2112499999999997
+which duty,1.5
+lakh,1.3647388059701493
+erroneous tariff rates,1.0
+position,1.549133168619177
+interest at the rate,2.3
+one,4.845669314438648
+refuse,0.8000673803997903
+nv ramana,0.8
+views,0.6965871413779037
+petition,5.3436539306104525
+category,1.9351744779266717
+writ petition,6.24223602484472
+irresistible conclusion that the appeals,0.5
+financial years,2.75
+jeremy bentham,0.5
+alcohol beverage,1.5
+part of duty,0.6666666666666666
+financial proposals,0.5
+consideration,1.9110153789142115
+exemption from customs duty,1.0
+writ petition by the impugned judgment,0.5
+product from  alcoholic beverage,0.0
+preparations,1.1818181818181817
+paragraph,1.2930197483150305
+seasoned professional,0.3333333333333333
+second respondent,4.166666666666667
+devoid,0.5094339622641509
+memorandum,1.2142857142857144
+approved budget proposal,1.5
+liter,0.874049374049374
+respondent under section,0.6666666666666666
+alcoholic,3.7477477477477477
+schedule of the customs tariff act,0.6666666666666666
+commissioner,2.271608643457383
+value,1.7137907830478438
+clause,3.526455026455027
+documents,1.142515923566879
+legislative mandate,1.5
+unilateral decision,0.5
+bills,1.017857142857143
+air,2.0589664272145285
+distillery,9.4
+other goods,0.8
+erroneous rate of duty,0.5
+legislative discretion,0.5
+appropriate duties,0.5
+preceding paragraph about the reliefs,0.0
+imports,1.4732142857142858
+antecedent,1.1666666666666667
+budgetary proposals,1.5
+counsel for respondents,1.25
+pune,1.3423295454545454
+trade,1.8307706424423558
+legislature,2.818553268765133
+position under the finance act,0.5
+strenuous effort,0.6666666666666666
+recourse,0.9157232704402517
+such condition,0.6407322654462243
+ministry,1.6350210970464136
+foregoing discussion,0.8571428571428571
+authority,2.4352627108360636
+import-export trade,0.0
+manuscmanusc,7.940520446096654
+taxation law,3.0
+provisions,3.8929824561403508
+goods of the appellant,0.6666666666666666
+tariff heading,2.3333333333333335
+conduct,1.5998023165163158
+discrimination on the part,0.5
+gazette,0.9578231292517008
+cap of a kind,2.0
+fact that the good,0.5
+important proposal,1.0
+argument,0.9504580388560493
+exceptions,0.6478185993111366
+liquors,1.75
+other erroneous tariff rates,0.5
+conclusion,1.3883437407077015
+fact of the case,0.0
+custom tariff,0.5
+interference of the court,0.5
+special leave,1.903225806451613
+writ petition on the ground,0.75
+research,1.351044147915173
+concerned authorities,1.090909090909091
+court by the impugned judgment,1.0
+legislative material antecedent to the enactment,0.5
+alcohol beverages,1.0
+- in this connection,0.0
+products,1.6079404466501241
+warrant,0.611066164387025
+practice on the part,0.6666666666666666
+harmonized system,0.6666666666666666
+brief,0.540112172829248
+preceding paragraphs,0.6666666666666666
+approved budget proposals,1.5
+larger public interest,1.125
+unreasonable restriction,0.3555555555555555
+re issue,1.045500505561173
+payment of duty,3.142857142857143
+quantum of levy,0.5
+further contention of the appellant - importer,0.0
+enactments by the parliament,0.5
+different product,0.4
+appreciation,0.7282229965156793
+branch,2.8500288406075756
+proposals,1.8872549019607843
+relevant information,0.5833333333333334
+alcoholic preparations of a kind,3.5
+excess duty of rs,0.5
+other spirituous beverage of this heading,0.0
+clearance,4.090225563909774
+spirit,0.6048586885080135
+no doubt,0.8331331503088538
+busines,2.8488759960122034
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+than alcoholic beverages,0.5
+notification goods,0.5
+expenditure,2.804307692307692
+obvious inequality,0.5
+dismissal as no error apparent,0.5
+export,2.527777777777778
+import taximport duty,0.5
+proposal at sl,1.0
+present fact of the case,0.0
+central board,1.5833333333333333
+product,2.242984858429713
+high court,7.7477477477477485
+whichever,0.8426966292134831
+wherea,0.8062806257067471
+new delhi,1.744186046511628
+read with notifications,0.5
+budget proposal at sl,0.5
+economy,0.43614336193841496
+statute,2.5765859456247218
+official,2.6854955160358718
+bussa,0.16666666666666666
+expression in the legislation,0.5
+budgetary proposal,1.5
+system of nomenclature,0.5
+note,1.3654108484234107
+notifications under section,1.5
+respective finance bills,0.5
+budget proposal during financial years,0.0
+judicial review,2.64
+manu,7.078142071124147
+thorough consideration,0.5
+submit,2.197409354703731
+view of the tribunal regarding classification,0.0
+rate,3.088725136774248
+central,2.61875
+contention of the appellant - importer,0.0
+particular rate of duty,1.0
+other good,0.6178107606679035
+circumstance of an exceptional nature,0.0
+collection of tax,0.6666666666666666
+duty of rs,1.3333333333333333
+material antecedent to the enactment,0.5
+finance bills,0.5
+inequality,0.48
+revision before the high court,1.0
+parliament for the financial year,0.5
+beverage,4.0625
+other than alcoholic beverages,0.5
+nature,1.4149926876444778
+- with simple interest,0.0
+from the payment,1.0
+cover,2.502726787041524
+to the approved budget proposal,1.0
+- per litre,0.0
+discussion,0.7445831166579996
+assessable value,0.6666666666666666
+products from  alcoholic beverage,0.0
+power of judicial review,1.6666666666666667
+fundamental right,2.9790209790209787
+admitted fact,1.3076923076923077
+tribunal,5.07183212267958
+note of the difference,0.5
+categories,0.8800000000000001
+official gazette,1.1282051282051282
+exceptional circumstances,1.8
+kind,0.9236881920088026
+finance,1.9582470669427192
+information act,0.38095238095238093
+manufacturing,1.07831715210356
+parliament for financial years,1.0
+stretch,0.5192424242424243
+gist,2.3317211948790892
+union ministry of finance,0.5
+lakhs forty,0.5
+action,3.127292663476874
+source,0.840137091365362
+finance act,3.142857142857143
+financial policy of the central government,0.5
+senior counsel,2.2857142857142856
+important proposal of the budget,0.0
+customs co - operation council,0.0
+duty duly,0.5
+dispute before the appropriate forum,0.5
+following reliefs,1.2
+greater latitude to the discretion,0.5
+notifications for the financial year,1.0
+statutory term,1.0
+principle that the legislature,0.5
+industries,2.162068965517242
+notifications,1.9743589743589745
+senior counsel for the respondents,1.1428571428571428
+original order,1.125
+contrary to the legislative mandate,0.5
+other spirituous beverages,1.0

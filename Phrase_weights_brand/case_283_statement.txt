@@ -1,0 +1,635 @@
+issueless,0.6666666666666666
+hotel,0.8866352770735241
+deceased persons,1.0
+decomposed state,0.5
+code,2.880559796437659
+accused-appellant at the place of haribhau,0.0
+accused,10.856353591160222
+mind,1.1559066143122394
+formal witness,1.0
+people,1.2855544825097243
+court in trimukh marotiu kirkan v state,0.5
+rituals,0.7159090909090908
+improbable that somebody,0.5
+custom,1.8742070505069293
+above point in mind,0.0
+court of bombay,2.176470588235294
+sections,1.640495469442838
+terms,2.390350840909655
+eye witnes,1.4333333333333333
+following word,0.6763636363636363
+inter,3.683850287482992
+education,2.1892608326253185
+first cousins,0.3333333333333333
+failure,0.7827962142086977
+knowledge of the incident,0.6666666666666666
+shifts,0.5843478260869566
+respect to previous incidents,0.5
+court,12.24425115501509
+dead body of namrata,0.0
+daughter at the hp,0.0
+whole night,0.3333333333333333
+eye,0.9466574319441098
+rise,1.6238941915958565
+road,1.0764686576960945
+high court of bombay,2.176470588235294
+year of marriage,0.0
+person,4.291511329454258
+inference,1.006741573033708
+forthwith,0.625
+way,1.7812722068664852
+receipts,1.884057971014493
+post-mortem report,0.0
+latest judgment,0.5
+first cousin,0.25
+accused-appellant beyond doubt,0.0
+part,5.294464509893076
+many person,1.0
+incident of any physical cruelty,0.5
+nothing,0.8658723322806009
+oil,0.6595019659239842
+distance,0.7353606433777331
+bombay,2.3134020618556703
+wife at hp,0.5
+sessions,1.3405714285714285
+pieces,0.6062837506136476
+other circumstances,0.6000000000000001
+v state of bihar manu  scmanu  sc,0.0
+history,0.5728887807252372
+judgment of the bench,0.8888888888888888
+rented house in arer navargaon,0.5
+ring,3.703396266780767
+house,2.0021735292386764
+formal witnesses,0.6666666666666666
+sign,1.8302826558145708
+appeal,3.4125488033856883
+search,1.156007562422583
+visit,1.0818161214776763
+weapon,1.0217176079034398
+default of payment,1.1111111111111112
+land,6.337534028705619
+nominee in that account,0.5
+motive,0.8973573343546533
+criminal appeal arise,0.5
+sessions judge,2.9545454545454546
+village,1.8429856945085372
+happening of the incident,0.5
+sioni,0.8861091496015334
+dinner,1.1057692307692306
+month,1.3454861111111112
+year,2.8349484769759212
+stage,1.1298537871524448
+alia,0.9479866480753792
+dead bodies,0.6521739130434784
+happening,0.5143528183716076
+piece,0.8682170542635659
+judgment,3.288216560509554
+main point,0.3247863247863248
+reportable judgment,1.2
+place of haribhau,0.5
+only allegation,0.75
+father,1.4298716229162676
+namrata,3.0
+guilt,1.1140207075064712
+learned sessions,2.5
+order,5.472481489660944
+consistent story at all stages,0.5
+lakhs,2.046511627906977
+injury,1.7199352451433856
+mother of shubhangi,1.0
+initial burden,1.3333333333333333
+circumstantial evidence,1.9000000000000001
+act,12.870263922028107
+mysterious disappearance,0.5
+may,3.683418028199994
+report on the next morning,0.5
+visits,0.4754098360655738
+- minute,0.0
+proof of guilt,0.5
+explanation,1.4510159010600707
+same medical evidence,0.5
+consistent story,0.3333333333333333
+appeal arise from final order,0.0
+morning,0.6560766182298546
+pinaki chandra ghose,1.3333333333333333
+mother,1.5057341472881893
+allegation that husband,0.5
+bill for the fuel,0.5
+sentences for offence,0.5
+special knowledge of the incident,0.5
+fact that the relation,0.5
+accused alone,0.5
+non-explanation,0.0
+onus of proof,0.9333333333333332
+section,9.287987283173626
+d ed,0.696253255860549
+herein,2.825259515570934
+version,1.0500313479623824
+rightful claimant of that money,0.5
+incident,1.8609485257918057
+fir,2.85390975582079
+aunt,0.49450549450549447
+connectivity,0.3333333333333333
+- explanation,0.0
+judgments,1.2355646397547266
+burden of proof,0.7378917378917379
+khukhri,0.5
+fact that the relations,0.5
+place,2.333104345208554
+daughters on the road,0.5
+circumstance,1.429931390219372
+cogent explanation,0.5
+bodies of namrata,0.5
+appeal arise,0.9
+present case,1.5611814345991561
+appellant herein,2.046153846153846
+regard,2.723310344827586
+lakhs from shalinibai,0.5
+arer navargaon,1.5
+proof shifts,0.5
+lacking,0.44328358208955226
+following words,0.6763636363636363
+knowledge,1.1120671641791045
+next day,0.6306081754735793
+agency,1.8968779259354924
+first cousin from the side,0.0
+money,1.6567889044524557
+harivadan,0.5
+trial court s reasoning,0.0
+earning,0.9429329794293299
+story,0.755772533184814
+gas station,0.25
+facts,1.4696673624372698
+lodging,0.8205128205128205
+stood,1.0434207261599535
+arrangement,0.7318181818181818
+parents,1.8852093189324288
+minutes,1.1231216272312163
+justification,0.6859587020648967
+lack,0.6349809734425119
+days,1.6721350893491447
+ramana,0.8104575163398693
+fine,1.3204039558531748
+connection with any other case,1.0
+home,0.9826663267907214
+nika,0.48039215686274506
+bench in criminal appeal,0.5
+lordship,1.0416666666666667
+petrol pump,1.0
+session,2.2400874351067563
+doctrine,0.7455954017243533
+conviction,2.248165832071736
+onu of proof,0.0
+reality,0.6251091491219559
+nagpur bench,1.6666666666666667
+commission of crime,0.6666666666666666
+trimukh,0.5
+absence of any explanation,0.5
+course,1.6545957498716626
+criminal appeal,2.5675675675675675
+time gap between the death,0.5
+that money,0.614406779661017
+day s leave,0.0
+nagpur,6.5625
+agricultural land,1.6666666666666667
+company,5.864471879286695
+pinaki,1.2857142857142858
+crime,1.6636528028933093
+officer,3.1197242647058823
+cruelty,2.9099099099099095
+many other,0.42994241842610365
+daughters at hp gas agency,1.0
+respect to the shifting,0.5
+marriage,1.8031648351648353
+other case,0.6654088050314465
+shikshan,0.5
+janhavi,1.5
+haribhau,0.5
+name of shubhangi,0.5
+hostility,0.4743589743589744
+criminal appeal arises from final order,0.5
+bank account,1.875
+family of shubhangi,0.5
+relation,1.397320207820618
+proof,1.0648141580366008
+failure on the part,0.8888888888888888
+criminal,3.301971081989414
+term,3.6255105640901575
+marotiu,0.5
+nagpur bench in criminal appeal,0.5
+conclusive proof,0.9444444444444444
+penal,1.8829173709853835
+post,2.344803646492219
+family on the way,0.5
+presumption of guilt,0.5
+case of the prosecution,2.3043478260869565
+opinion,1.4960606342789635
+side,3.88845645915565
+body of namrata,0.0
+wife,1.4518086408500224
+accused - appellant,0.0
+responsible for commission of the crime,0.5
+due to admission,0.5
+penal code,2.710144927536232
+merit,1.2419290263876248
+bodies,0.8969063256135499
+mere non-explanation,0.0
+proceed from the sale,0.0
+recovery,3.9892473118279574
+witness,5.333906623599983
+appeal arises,0.9
+onu,0.7016248153618907
+delay,1.9544910179640715
+non-explanation of death,0.0
+theory,0.43014388218941363
+few points,0.25757575757575757
+job of  shikshan sevak,0.0
+bihar,4.587301587301587
+record,2.5393414390845273
+laws,1.4186274337269533
+defence,1.3606588776096535
+dwelling home,0.5
+polouse,0.0
+strong presumption,0.4444444444444444
+strong circumstance,0.5
+friend,0.7079130846815137
+festival,0.4962406015037594
+recovery of weapon,0.8
+previous incident of any physical cruelty,0.5
+support,0.8630946786249609
+patel,0.610909090909091
+point of consideration,0.5
+respect,2.6704963235294117
+deceased person,0.8888888888888888
+rajasthan manuscmanusc,1.0555555555555556
+suspicious circumstances,0.8
+daughter at hp gas agency,0.0
+appeal arises from final order,0.5
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+inconsistency,0.7857142857142857
+chaudhary v state of bihar manuscmanusc,0.6666666666666666
+sentence of the appellant,0.6666666666666666
+bihar manuscmanusc,1.9655172413793103
+matrimonial home,2.1666666666666665
+vehicle,2.973111766564837
+handing,1.0706896551724139
+mr  justice,0.0
+station,1.2515681586858238
+husband of shubhangi,0.5
+reasoning,0.6478937381404174
+gujarat manuscmanusc,1.1
+ghat,3.888888888888889
+december,0.9629002463054187
+husband,1.6418918918918919
+hour,1.1326135248230613
+demand,1.5671679197994988
+sufficient evidence,0.6944444444444444
+kanhaiya,0.8
+presumption,1.06
+demands,0.7474201474201474
+witnes,5.333906623599983
+final order,1.1466666666666667
+dead bodies of namrata,0.5
+points,0.7095682483711788
+doubt,1.3646267723102583
+light,0.8816192372754331
+years,2.5395804110508022
+report,1.7768151696835826
+report to the section,0.5
+rented house,0.5
+gadchiroli,0.5
+many people,0.3721871049304678
+gold,1.6014084507042254
+petrol,1.4375
+history of hostility,0.5
+hp gas agency,2.0
+body of shubhangi,0.5
+justice,2.292557084574302
+lacking in the case,0.0
+non - explanation,0.0
+shalinibai,1.0
+wadsa,2.5
+parents of shubhangi,1.0
+v state,2.4603773584905664
+gas,1.240010731232918
+eye witness,1.4333333333333333
+september,0.8548484848484849
+bill,1.134631348577466
+sister,1.0774703557312253
+stages,0.7858851674641147
+offence,4.401610644257703
+presence,0.9604834261070158
+bank,9.40770083102493
+lakh from shalinibai,0.0
+next morning,0.5
+default,0.7094574436346588
+day,1.550999710228919
+fuel,0.996606536881586
+sale,3.3662581620085734
+question,2.980312372067635
+daughter on the road,0.0
+question of burden,0.6666666666666666
+life imprisonment,1.2083333333333333
+explanation in this regard,0.5
+reportable judgment of the bench,0.75
+accused - appellant murdered shubhangi,0.0
+scmanu,7.940520446096654
+word,2.065873981084096
+sioni ghat,0.5
+honble,2.4444444444444446
+claimant of that money,0.5
+rightful claimant,1.0
+amount,3.179688593072295
+accused-appellant,0.0
+august,0.977116704805492
+statement,2.5393160135035964
+parent,0.9965655833245622
+gold chain,0.5
+vehicles in india,0.5
+name,1.8996570753072433
+rajasthan,3.9215686274509802
+nika ram v state of hp,0.5
+deceased wife,0.5
+pieces of evidence,0.5333333333333333
+customs,1.9344608879492597
+high,5.367119186841496
+shubhangi properly,0.5
+unexplained delay,1.0
+payment,2.059553716565686
+absence of any cogent explanation,0.5
+sic,1.1611481056257176
+meal,0.5078883495145632
+account,2.5754891049671977
+squint,0.3333333333333333
+motive that accused - appellant,0.0
+reasoning of the trial court,0.5
+- minutes,0.0
+dinner in normal course,0.5
+cousins from the side,0.5
+sevak,0.5
+law,3.538923411654744
+proceeds,1.083011583011583
+trial court,3.854545454545455
+foremost,0.47024673439767783
+study,1.4280920541907696
+person to person,0.2692307692307692
+harivadan babubhai patel v state,0.5
+time,2.4764180952862667
+for commission of the crime,0.5
+sides,0.6706755273269035
+piece of evidence,0.8181818181818181
+which pw-,0.0
+missing persons,0.2
+above point,0.5
+allegation,1.834319526627219
+nika ram v state,0.5
+chaudhary,1.4615384615384615
+deceased herein,0.5
+ghose,1.25
+initial burden of proof,0.5
+that amount,0.5714285714285714
+accused - appellant murdered shubhangi for that money,0.0
+evidence in support,0.8571428571428571
+story at all stages,0.5
+post mortem,1.4
+parent of shubhangi properly,0.0
+complaint,2.734525785235724
+relations,1.2666042780748663
+shifting,0.5253424657534247
+hours,1.1644152367043934
+such delay,1.0
+falsity in defence disliking,0.0
+murder,1.4968553459119496
+other thing,0.48636363636363644
+fine of rs,1.6
+addition,1.5588539142412572
+prosecution,4.619407894736842
+facts of the case,1.161764705882353
+spot,0.778096903096903
+offences,1.6681887366818873
+connection,1.050640279394645
+imprisonment,1.4344262295081966
+indian evidence act,1.3125
+absence,1.092363454568179
+river,1.243409567587255
+counsel,2.2246780703440323
+india,2.7684068260703585
+sister of pw-,0.0
+commission,4.703619179345321
+unusual delay,0.5
+witnesses,3.359210526315789
+attitude,0.4886970172684459
+father of shubhangi,0.5
+claimant,2.3438596491228068
+vainganga,0.5
+suspicious circumstance,0.8333333333333334
+bike,0.45481283422459895
+rigorous imprisonment,1.9230769230769231
+normal course,0.8666666666666667
+commission of the crime,0.8
+daughters at the hp,0.5
+gadchiroli for offences,0.5
+lackings in the case,0.5
+son,4.595622484812135
+cousin,0.24447513812154698
+evidence,3.6676405172088815
+gap,0.5109023703753942
+cousin from the side,0.0
+claimant of that amount,0.5
+merit in the trial court,0.5
+demand of this amount,0.0
+engagement,0.38345864661654133
+lal v state,0.8571428571428571
+relatives,0.8460264900662252
+last rituals,0.5
+case,7.332269420884958
+period,1.9480170842427122
+report to the police,0.75
+cordial relations,0.6666666666666666
+mere non-explanation on the part,0.0
+scc,1.941872465904902
+missing person,0.2
+clothes,0.43778538812785384
+navargaon,1.5
+last ritual,0.5
+ram,2.11096203538064
+clothe,0.44423076923076926
+parent of shubhangi,0.0
+cordial relation,0.6666666666666666
+shift,0.6473508552357112
+vehicle in india,0.0
+judgment in harivadan babubhai patel v state,0.5
+injuries,2.4130008710801394
+physical cruelty,0.6666666666666666
+medical evidence,1.2820512820512822
+to admission,1.0
+falsity,0.42857142857142855
+defence disliking,0.0
+last meal,0.6666666666666666
+inter alia,1.3280423280423281
+rule,5.04
+lal v state of rajasthan manuscmanusc,0.6666666666666666
+previous history of hostility,0.5
+criminal appeal arise from final order,0.0
+chandra,0.7012987012987013
+bench,2.5793391667754992
+pradip,1.0
+festivals,0.2962962962962963
+years of marriage,1.2
+leave,1.0147842365477848
+maharashtra,2.9076923076923076
+- explanation of death,0.0
+nominee,0.9666666666666667
+disappearance,0.75
+receipt for petrol,0.5
+demand of amount,0.5
+somebody,0.5581624605678233
+burden,0.9853978671041838
+sentences,1.0513157894736844
+point,2.9165043546008516
+body,1.336775463480009
+offence under section,2.6
+ashok,0.4374740340673037
+admission,1.5389848246991107
+first cousins from the side,0.5
+fact that the accused alone,0.5
+incidents,0.8645320197044336
+shubhangi,13.0
+police,2.9749362629783356
+sentence,2.3896654193264366
+entire case of the prosecution,0.75
+ram gulab,0.5
+minute,1.0433976833976835
+sentence for offence,0.6666666666666666
+statement without any inconsistency,0.5
+evidence act,3.8666666666666667
+kirkan,0.5
+enmity,0.4377104377104377
+lal,1.6786163249382287
+wife in the house,0.5
+shailinibai,0.5
+lakh,1.3647388059701493
+entire case,1.0
+vehicles,1.4161490683229814
+main point of consideration,0.5
+life,1.3352928273744242
+that account,0.5555555555555556
+marriage arrangement,0.5
+trimukh marotiu kirkan v state,0.5
+previous history,0.30000000000000004
+latest judgment on the point,0.5
+consideration,1.9110153789142115
+exact happening of the incident,0.5
+shikshan sevak,0.5
+babubhai,0.6666666666666666
+justified motive,0.5
+fateful day,0.5333333333333333
+words,1.6384367086179112
+nearby village,0.5
+proceeds from the sale,0.2857142857142857
+parents of shubhangi properly,0.5
+lady,0.6819258089976322
+oil etc,0.30000000000000004
+accused-appellant in school,0.0
+lackings,0.5
+bills,1.017857142857143
+previous incidents,0.5
+others,0.9074667328904616
+sioni ghat from the river vainganga,0.5
+relative,1.0564311594202898
+exact happening,0.5
+receipt,1.5471923536439667
+proof shift,1.0
+rightful claimant of that amount,0.5
+gm gold ring,0.5
+gujarat,3.2753623188405796
+ritual,0.7557251908396947
+gulab,0.8
+time gap,0.5
+that somebody,0.5098039215686274
+family,1.856281506375408
+heir,2.4782705005515444
+judge,2.9012627415183325
+death,2.361592909460208
+manuscmanusc,7.940520446096654
+happening of incidents,0.5
+conduct,1.5998023165163158
+daughters,1.1785714285714286
+other circumstance,0.6600000000000001
+wife shubhangi,0.5
+family at hp gas agency,0.5
+chaudhary v state,0.75
+pws,1.5484615384615386
+dowry,5.666666666666667
+above discussion,0.9333333333333333
+many others,0.375
+fuel from the petrol pump,0.5
+plausible story,0.5
+fact of the case,0.0
+face,0.7281253260594137
+non - explanation on the part,0.0
+death of shubhangi,0.5
+honble mr justice,1.5833333333333333
+site,0.9890725980575135
+alone,0.8326476835793606
+issueles,0.6666666666666666
+afterthought,0.46753246753246747
+chain,0.6855611957134798
+appellant in presence,0.5
+judgment on the point,0.5
+own story,0.30000000000000004
+pump,0.5740112994350282
+indian penal code,5.264705882352941
+school,1.2666111192798444
+few point,0.25641025641025644
+fuel in the bike,0.5
+towards guilt,0.5
+special knowledge,3.5
+proceed,2.930994380987473
+iii,1.5614499719992534
+job,0.6733466933867737
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+bank account of shailinibai,0.5
+onus,0.8162100456621004
+demands of this amount,0.5
+gas agency,2.0
+above points,0.5
+burden of proof shifts,0.5
+evidence of pw-,0.0
+high court,7.7477477477477485
+sign of shubhangi,0.5
+daughter,1.0364906832298135
+state,6.817996007300392
+trial,3.7979448350459712
+pw-,0.0
+learned session,2.5714285714285716
+death of the daughters,0.5
+manu,7.078142071124147
+death of the deceased persons,1.0
+boy,1.0245410384202889
+arer,0.9794050343249426
+dead body,1.192156862745098
+cousins,0.3466666666666666
+shubhangi s mother,0.0
+same state,0.44117647058823534
+above points in mind,0.5
+things,0.6162490788504054
+discussion,0.7445831166579996
+lack of justified motive,0.5
+criminal appeal arises,0.5
+place in the dwelling home,0.5
+court over a period,0.6666666666666666
+night,0.8690610404251893
+river vainganga,0.5
+gm gold chain,0.5
+other things,0.4197737746124843
+something,0.5915378827342709
+colleague,0.8874841972187105
+demand of dowry,1.2
+mortem,1.402116402116402
+persons,2.5993381990166555
+previous incident,1.0
+aunt of shubhangi,0.5
+thing,1.1131787570209408

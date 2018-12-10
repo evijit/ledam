@@ -1,0 +1,710 @@
+necessary adjunct,0.5
+forfeiture,0.8593750000000001
+long-drawn arguments,0.0
+settled principles,1.0
+exemption,1.7371031746031744
+liability for any penalty,0.5
+fist schedule of the additional duties act,0.5
+amended provisions of sub - section,0.0
+expiry,2.2888888888888888
+central excise,4.925925925925926
+good of special importance,0.0
+constitution of india,3.0095238095238095
+unamended one,0.5
+mills,1.026315789473684
+that section,1.1768292682926829
+manudemanude,1.1666666666666667
+settled principle of law,1.0
+terms,2.390350840909655
+bales of fabric,0.5
+meaning,1.8612727545949643
+cit,2.2857642235586386
+inter,3.683850287482992
+meaning of penalty,0.5
+femanu,1.25
+applicable for the breach of provisions,0.5
+payment of tax,1.0
+constitution bench decision by m  s,0.0
+additional tax,2.0
+business of manufacture,1.0
+court,12.24425115501509
+regards jurisdiction,0.6666666666666666
+speaks,0.49714285714285716
+public mischief,0.8
+high court in ashok fashion ltd,0.5
+union,2.0981927710843373
+permissible delegated legislation,0.5
+fabric,0.8546739984289081
+parliament,2.6571235781762095
+exemptions,0.5625
+ors,2.8612718198296623
+cause,1.8431210321626654
+way,1.7812722068664852
+penalty partake,0.5
+same manner,0.6079182630906769
+that such duties,0.5
+part,5.294464509893076
+pioneer silk mill,1.0
+ashok fashion ltd,1.0
+sort nos,0.5
+duties act,2.0
+bombay,2.3134020618556703
+dealer,2.712825585229146
+essential legislative function,0.75
+non-payment,0.0
+court in re delhi laws,0.5
+provisions of sub - section,0.0
+decision in the case,1.0476190476190477
+provision of sub - section,0.0
+decisions,1.3888475974580996
+mr sr,1.2
+constitution bench decision in m  s,0.0
+non-observance,0.0
+character,0.9325990965842764
+decision,2.9514937765898557
+provisions of the central excise,2.0
+fashion ltd,1.0
+of the fact that potential public mischief,0.6666666666666666
+trust,1.8699167074963252
+oblivious of the fact that potential public mischief,0.6666666666666666
+ut res,0.5416666666666666
+settled principle,1.0810810810810811
+fist schedule,0.5
+dissenting opinion,1.25
+procedural provision,1.0
+taxation provision,1.0
+appeal,3.4125488033856883
+manugjmanugj,1.0833333333333333
+collector,1.8095238095238093
+good,2.6154941054299674
+breach,1.3366228070175439
+penalty in section,1.0
+scr,2.483838975311538
+ut re,0.675758791282257
+mysore,4.733333333333333
+stating,0.8256619531175857
+conferment,1.0909090909090908
+income-tax,0.0
+month,1.3454861111111112
+year,2.8349484769759212
+forth,0.7104532839962997
+extent of penalties,0.5
+alia,0.9479866480753792
+non-payment of additional duty,0.0
+beg,0.7217296943142032
+taxing provision,0.75
+judgment,3.288216560509554
+tax for every month,0.5
+salt,0.7390776699029126
+manufacture,3.7256425233644856
+subject,2.4420366233344897
+incorporation,1.238095238095238
+authority of law,1.7692307692307692
+enforcement of the taxing provisions,0.5
+confiscation,1.032258064516129
+delegated legislation,2.0
+order,5.472481489660944
+act,12.870263922028107
+sub-section,0.0
+sorts,0.5452646239554317
+correct canon,0.5
+interpretive reasoning,0.6666666666666666
+to the levy,3.0
+re delhi law,0.5
+provisions of machinery,0.5
+enforcement,0.7354220499569336
+particular percentage,0.5
+different time,0.425531914893617
+deterrent against the commission,0.5
+- drawn arguments,0.0
+effect,2.184583388478191
+addition to tax,0.5
+favour of the tax payer,0.6666666666666666
+duty act,2.3333333333333335
+list,4.014941314095513
+sales,2.89512876202296
+other decisions,1.0666666666666667
+manner,1.4494591333432125
+provisions of central excise act,0.6666666666666666
+prescribed period,1.7692307692307692
+provision shows,0.8
+abdication,1.4666666666666668
+balram kumawat v union,0.5
+amended provision,2.8823529411764706
+section,9.287987283173626
+theory of referential legislation,0.5
+fact that potential public mischief,0.6666666666666666
+thereunder,1.2794117647058825
+provisions of the central excise act,1.75
+complex educational,0.75
+tariff,11.052631578947368
+appellate,2.561224489795918
+condition,2.259476395625584
+mischief rule,0.75
+penal in nature,1.2
+judgments,1.2355646397547266
+seventh schedule,6.733333333333333
+tax,3.549237288135593
+consequence,0.8726692512593296
+composition of certain sorts,0.5
+differ,1.7389750524609953
+busines of manufacture,0.0
+duties of excise,2.6
+tax within the prescribed time,1.0
+expression offences,0.5
+action therein,0.5
+additional duties act,2.0
+present case,1.5611814345991561
+mean,2.390645692553228
+donation drive in respect,1.0
+that these differ from state,0.5
+act by referential legislation,0.5
+to the additional duty of excise,0.5
+view of the aforesaid decisions,0.5
+regard,2.723310344827586
+assessment proceeding,1.25
+part of assessment,0.5
+agency,1.8968779259354924
+that expropriatory legislation,0.5
+direction,1.8495050210098996
+canon,0.3764705882352941
+perusal,0.750733137829912
+way of additional tax,0.5
+federal court,1.2030075187969924
+words  offences,0.0
+item,1.3319648896447913
+union of india,3.1324503311258276
+control,2.148867902684286
+regards,0.9072861236185019
+facts,1.4696673624372698
+issue,2.766776251628934
+making,1.409351874023649
+adjunct,1.0
+purview,1.0864197530864197
+imposition,1.4444444444444444
+new offence,1.0
+ones,1.1255220584705485
+short question,0.5714285714285714
+expres,2.3455332782538525
+cause of action therein,0.5
+cost,1.2954397451466992
+orders,1.4936359300077826
+complex,0.48861911987860396
+pereat,1.0
+percentage,0.8769344141488578
+in such cases,0.7317073170731707
+prescribed time,1.0833333333333333
+ltd v state of maharashtra,0.6666666666666666
+kumawat,0.6666666666666666
+directions,1.5134125183504605
+sub,7.816899313759727
+provision for imposition,1.0
+for the breach of provisions,0.5
+pioneer silk mills,1.0
+court s interpretative role,0.0
+magistrate,3.522077922077922
+power upon the state legislatures,0.5
+excise v,0.8333333333333334
+various other decision,0.6666666666666666
+penalty in the state act,1.0
+trust v state of haryana,0.75
+state act,6.7
+particular percentage of the amount,0.5
+bombay act,1.8
+correct canon of construction,0.5
+in such case,0.7029478458049887
+decision of m  s,0.0
+gjmanu,1.0833333333333333
+penal statute,2.0
+contrary to the decisions in the case,0.5
+amendment,2.2486412346818434
+penalty of rs,1.0
+jain,1.673202614379085
+ground,1.4186722903211633
+defect,1.4259259259259258
+provision in that act,0.5
+del,2.939294714549935
+bales,0.6521739130434783
+arguments,0.7212211466865226
+opportunity,0.946186440677966
+union list i of the seventh schedule,0.5
+function,1.6326372491145218
+field,1.5820968371729793
+central act,5.416666666666667
+ltd v state,1.8888888888888888
+relation,1.397320207820618
+purview of the law,0.6666666666666666
+matter,2.8088923076923082
+referential legislation,2.0
+mischief,0.5934065934065934
+bale of fabric,0.0
+article,4.378806157159795
+manufemanufe,1.25
+machinery,0.9071637426900585
+topic,1.2072463768115942
+fabrics,0.6666666666666666
+- payment,0.0
+machinery for assessment,0.5
+term,3.6255105640901575
+aforesaid reason,1.1176470588235294
+view,2.441100058469462
+liability,2.532836248924577
+salt act,1.5
+opinion,1.4960606342789635
+collection of the duties,1.5
+majority,1.3427634276342764
+merit,1.2419290263876248
+bale,0.9364548494983277
+levy of duty,1.5
+demanu,0.7777777777777778
+well,1.4966552780778166
+recovery,3.9892473118279574
+unamended provision of sub - section,0.0
+educational,1.1138712241653417
+theory,0.43014388218941363
+clear authority of law,1.0
+bihar,4.587301587301587
+duties-,0.0
+laws,1.4186274337269533
+november,0.7203359669727383
+union list i,1.8
+central excise act,2.4285714285714284
+order of the tribunal,2.0
+liability under the act,0.6666666666666666
+guideline,1.5641711229946524
+provision,5.439002243350069
+mere fact,0.6
+case of pioneer silk mills,0.5
+expression offence,0.5
+levy of penalty,0.75
+goods of special importance,0.6666666666666666
+respect,2.6704963235294117
+provide of permissible delegated legislation,0.5
+legislation,3.2032032032032034
+business,2.8512056385864457
+central excise v,0.8333333333333334
+first,1.9006367208168047
+importance,0.8632871064467765
+fact,3.6284951019474962
+taxes,1.49645390070922
+express,2.3455332782538525
+learned counsel,3.703333333333333
+expression,1.7424391201885312
+exemption from duty,1.0
+case in the year,0.5
+integral part of assessment,0.5
+present case in the year,0.5
+expiry of the prescribed period,0.5
+breach of that duty,0.5
+duties,1.477142857142857
+such cases,0.7390180878552971
+reasoning,0.6478937381404174
+special,1.7363344051446945
+object,1.4940119760479043
+regard to the provisions,1.1176470588235294
+presumption,1.06
+misapplication of the law,0.5
+constitutional mandate,1.2727272727272727
+dlf,0.31111111111111117
+express provision in that act,0.5
+other word,0.758838674565131
+brothers,0.9570135746606334
+extent,1.410108024691358
+times,0.8987140267391797
+certain sort,0.5
+confiscation proceedings against the respondents,0.5
+aforesaid decision,1.15625
+bhat,0.9333333333333333
+additional,1.4256530253244384
+court in ashok fashion ltd,0.5
+forfeiture of goods,0.5
+taxing provisions,0.5
+bar,1.4720990391722097
+affidavit,2.2996987951807224
+misapplication,0.4
+years,2.5395804110508022
+such case,0.7332761578044598
+for excessive delegation,0.5
+charitable,4.835164835164836
+amending,1.0947712418300655
+room for presumption,0.5
+gold,1.6014084507042254
+principle,1.9620890732001848
+donation,2.331983805668016
+angle,0.4852556924225457
+penal tax,0.5
+adjuncts,0.5
+delhi,2.6089285714285717
+that such duty of excise,0.0
+words  offence,0.0
+seventh,2.451612903225806
+comparison of the amended provisions,0.5
+the act,5.708327371273712
+silk,2.9166666666666665
+revenue,1.486701237872198
+speak,0.7624080721158905
+mathew,0.9170812603648425
+provision of the  central excise act,0.0
+income,2.734813573523251
+directions of confiscation arose,0.5
+reference,2.1755848210276256
+aforesaid decisions,0.9333333333333333
+offence,4.401610644257703
+legislation by incorporation levies penalty,0.5
+in nature,0.7593052109181141
+respondent,4.757894736842104
+payable under that act,0.5
+applicable to the additional duty of excise,0.5
+schedule,2.9453067257945307
+stimulant,0.5
+to the decisions in the case,0.5
+net proceeds,1.0
+default,0.7094574436346588
+various other decisions,0.6666666666666666
+sale,3.3662581620085734
+penal legislation,0.6666666666666666
+question,2.980312372067635
+principles,1.3198511166253102
+excise tariff,2.0
+chatturam,0.5
+certain sorts,0.5
+that view of the matter,1.553191489361702
+federal court in chatturam v cit,0.5
+consequence if authority,0.5
+scmanu,7.940520446096654
+word,2.065873981084096
+writ,2.8882378560889794
+interpretative role,0.6666666666666666
+sort,0.7327002541370012
+chapter,1.3867471532446152
+appeals,1.7060218112849692
+net proceeds of the collection,0.5
+amount,3.179688593072295
+other words,0.7578482137053969
+- observance,0.0
+statement,2.5393160135035964
+settled principles of law,0.8
+penalty under the central act,1.0
+notes,0.6013642564802183
+imposition thereof,0.5
+high,5.367119186841496
+payment,2.059553716565686
+brother,1.4566585956416465
+provision of central excise act,0.0
+partake,0.3636363636363636
+pioneer,0.3474178403755869
+line,1.6884436630262616
+quam pereat,1.0
+respect to a matter,1.0
+payment of the tax,0.5
+enclave,0.2661290322580645
+chatturam v cit,0.5
+unamended provision,2.5
+states,1.5120646995827023
+collection of duties,1.0
+law,3.538923411654744
+proceeds,1.083011583011583
+nos,1.2635492554198444
+time,2.4764180952862667
+cases,1.9728229418951067
+that such duty,0.0
+concealment of income,0.5
+minority decision,0.5
+items,1.0672246220302377
+provision shows that the breach,0.5
+imposition of penalty,1.0
+qutab,0.75
+sum of rs,2.125
+charitable trust v state of haryana,0.75
+sales tax act,2.375
+retrospective effect,4.368421052631579
+net proceed of the collection,0.0
+concurring,1.0769230769230769
+clear authority,1.0
+refund,2.670692431561997
+refunds,0.75
+canon of construction,0.5
+assessment,2.647276084949215
+applicable in such cases,0.5
+making of legislation,0.6666666666666666
+addition,1.5588539142412572
+hereinafter,0.7670609645131939
+deterrent,0.4375
+donation drive,1.0
+abdication of an essential legislative function,0.5
+additional duty of excise,1.6666666666666667
+offences,1.6681887366818873
+differ from state,0.5
+mandate,0.8783810859547183
+levy,3.3133874239350907
+- payment of additional duty,0.0
+counsel,2.2246780703440323
+application,2.3322596088086445
+liabilities,1.0606060606060608
+rates,0.9535092413452435
+recourse to the provisions,1.0
+india,2.7684068260703585
+total misapplication of the law,0.5
+regards jurisdiction of the authorities,0.5
+authorities,1.266131845134287
+commission,4.703619179345321
+excise on the goods,1.5
+liability for additional duty,0.5
+rules,3.130914366958792
+penalty partakes of the character,0.5
+penalty partakes,0.5
+object of the provision,1.5
+assessment proceedings,1.25
+special importance,0.8333333333333334
+further trite that a penal statute,0.5
+maxim,0.9230402066486973
+integral part,1.3397435897435899
+sort no,0.3333333333333333
+item for which duty,0.0
+enforcement of tax,1.0
+confiscation arose,0.5
+different times,0.41904761904761906
+terms of the additional duties,0.5
+provision for penalty,0.5
+breach of provisions,0.5
+recovery of tax,0.6666666666666666
+trust v state,0.75
+ltd,2.382356477306883
+provision of the central excise,0.5
+procedural provisions,1.0
+long-drawn argument,0.0
+conditions,1.9988092071092867
+excise,4.429175475687103
+states as part,0.5
+such manner,1.0909090909090908
+net proceed,1.0
+necessary adjuncts,0.5
+legislative function,1.0
+teeth,0.6096059113300493
+appeals before the central excise,0.5
+penalty provision,0.5
+case,7.332269420884958
+period,1.9480170842427122
+uncontrolled power upon the state legislatures,0.5
+khema,0.6666666666666666
+debit,2.4000000000000004
+collection of additional duties,1.0
+tax payer,0.5714285714285714
+constitution,3.204842342342342
+term of the additional duties,0.0
+valeat,1.0
+duty of excise,2.7142857142857144
+payer,0.7565011820330969
+incorporation levies penalty,0.5
+agencies,0.9094581337642103
+additional duty act,0.5
+judiciary,1.5942028985507246
+subject - matter,0.0
+inter alia,1.3280423280423281
+minority view holding,0.5
+rule,5.04
+aggrieved,1.2479674796747968
+proceedings,1.7670925223666287
+penalty partake of the character,0.0
+favour,1.653145208700764
+confiscation proceedings against the respondent,0.5
+application to the facts,0.8888888888888888
+supra,2.246342614440774
+khemka,2.75
+duty,3.2272215973003378
+liabilities in the nature,0.5
+bench,2.5793391667754992
+court in chatturam v cit,0.5
+violation,1.2087401208740118
+first schedule,2.7142857142857144
+sub - section,0.0
+respondents,2.6341263330598856
+pvt,0.8625817965496728
+which provision,0.8571428571428571
+tribunal relying upon the decision,0.5
+incidental,1.0217391304347827
+maharashtra,2.9076923076923076
+stimulant to the dealer,0.5
+costs,0.8167395522604189
+incidental to the levy,0.5
+provision show,0.8
+income - tax act,0.0
+relation to the levy,3.5
+that duty,1.0
+point,2.9165043546008516
+ashok,0.4374740340673037
+collection,1.0907127429805616
+goods,4.7578125
+notice,2.3300025999395686
+value of goods,1.1666666666666667
+obliviou of the fact that potential public mischief,0.0
+shall,3.6283780276816606
+power,3.8165227690948367
+composition,1.4736842105263157
+direction of confiscation arose,0.0
+constitution bench decision,2.8125
+excessive delegation,0.6666666666666666
+items for which duty,0.5
+provide,3.0496848599534587
+appeal before the central excise,0.0
+federal,1.031040987823701
+legislatures,1.5314285714285718
+confiscation proceeding,1.0
+elt,0.9685135464974371
+respect of the goods,1.0
+amended provision of sub - section,0.0
+fist,0.3039473684210527
+mysore act,1.0
+liability in the nature,0.5
+additional duties of excise,1.0
+reason,2.6381270903010035
+such amendment,0.7333333333333334
+taxation,1.2112499999999997
+re delhi laws,0.5
+debit note,0.5
+which duty,1.5
+balram kumawat v union of india,0.5
+parliament by reason,1.0
+one,4.845669314438648
+continuation,0.5723370429252783
+writ petition,6.24223602484472
+petition,5.3436539306104525
+provision of machinery,0.0
+amended provisions,2.5384615384615383
+collection of the additional duties,1.5
+guidelines,1.540251572327044
+construction,2.2504918032786887
+haryana,2.935064935064935
+consideration,1.9110153789142115
+decisions in the case,1.0
+mill,1.0891891891891892
+unamended provisions of sub - section,0.0
+percentage of the amount,0.5
+words,1.6384367086179112
+penalty,1.5165226929932814
+integra,0.832258064516129
+notice of the fact,0.8
+commissioner,2.271608643457383
+value,1.7137907830478438
+sanction for non - observance,0.0
+passing,0.8851858023662723
+forth in the schedule,0.5
+evident from section,0.8
+- drawn argument,0.0
+exclusive power,3.7142857142857144
+application of the procedural provisions,0.5
+jain brothers,0.5
+res,10.359704275735774
+from section,1.105263157894737
+debit notes,0.5
+court in jain brothers,0.5
+continuation of assessment proceedings,0.5
+gujarat,3.2753623188405796
+imposition of taxes,0.5
+job of the judiciary,0.6666666666666666
+legislature,2.818553268765133
+central excise tariff,2.0
+column,0.8759124087591239
+recourse,0.9157232704402517
+provision of the central excise act,0.5
+authority,2.4352627108360636
+provisions,3.8929824561403508
+uncontrolled power,0.5
+manuscmanusc,7.940520446096654
+strict construction,2.142857142857143
+observance,0.6967741935483871
+under that act,0.6666666666666666
+penalty for violation,0.3333333333333333
+decision in ashok fashion,0.5
+balram,2.2
+breach of the provisions,0.75
+tooth,0.33480176211453744
+argument,0.9504580388560493
+consideration in these appeals,0.9
+ashok fashion,2.0
+drive,0.9109947872363628
+- matter,0.0
+merit in the appeals,0.75
+provisions of the  central excise act,0.0
+tribunal relying,0.75
+room,0.6950710108604846
+state legislatures,1.9547511312217196
+further trite,0.75
+collection of additional duty,0.5
+making of a penal legislation,0.6666666666666666
+minority,0.8717948717948719
+jain brother,0.5
+bombay sales tax act,1.5
+proceed,2.930994380987473
+charitable trust v state,0.75
+means,1.3868295182781003
+concealment,0.8333333333333333
+commissioner of central excise v,0.5
+itr,4.961453567240706
+express provision,1.15
+busines,2.8488759960122034
+excise act,2.2941176470588234
+job,0.6733466933867737
+appellant,14.387096774193548
+cause of action,2.1470588235294117
+obligation,1.1071428571428574
+additional duty,5.142857142857143
+to the decision in the case,0.5
+high court,7.7477477477477485
+evident that these differ from state,0.5
+sanction,2.0167207792207793
+state,6.817996007300392
+statute,2.5765859456247218
+jurisdiction,2.9539571926331507
+state legislature,4.444444444444445
+note,1.3654108484234107
+bound,0.8762782658793029
+counter-affidavit,0.0
+manu,7.078142071124147
+provision of the act,0.8888888888888888
+rate,3.088725136774248
+delegation,2.6692759295499027
+central,2.61875
+unamended provisions,2.0
+proceed of the collection,0.0
+penalty for enforcement,0.5
+role,1.0562959821210092
+counter,1.0576470084371923
+collection of tax,0.6666666666666666
+other decision,1.1818181818181819
+potential public mischief,0.6666666666666666
+proceeds of the collection,0.5
+quam,0.35714285714285715
+airsc,1.6909090909090911
+man,6.972395052694935
+ltd v union,1.0
+levies,0.8333333333333334
+same state,0.44117647058823534
+nature,1.4149926876444778
+penalties,0.6902761104441777
+- towards the value of goods,0.0
+discussion,0.7445831166579996
+indian income - tax act,0.0
+exemptions from duty,1.0
+applicable in this matter,0.5
+unamended ones,0.5
+in this matter,0.5
+tribunal,5.07183212267958
+confiscation proceedings,1.0
+finance,1.9582470669427192
+that such duties of excise,0.5
+sum,2.554898897856461
+guj,1.1301369863013697
+total misapplication,0.5
+fashion,0.5711297071129708
+additional duties,2.444444444444444
+comparison,0.7333333333333333
+action,3.127292663476874
+finance act,3.142857142857143
+that penalty,2.0
+taxation provisions,1.0
+invalid for excessive delegation,0.5
+mandate of the section,0.5
+partakes,0.6666666666666666
+duty on the amount,0.5
+addition to the amount,1.0

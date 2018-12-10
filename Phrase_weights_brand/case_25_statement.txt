@@ -1,0 +1,736 @@
+pw-father,0.0
+courts,2.1216528162511543
+stage of the case,0.6666666666666666
+-b presumption,0.0
+imprisonment for a term,1.5
+event of non - payment,0.0
+code,2.880559796437659
+alleged offence,1.8333333333333333
+whoever,1.482116788321168
+connected,0.878099838969404
+to conviction,0.4444444444444444
+acquittal of accused nos,1.5
+further opportunity of defence,0.5
+deposition in the court,0.5
+high court in favour,0.75
+cash dowry,0.5
+minimum sentence,0.38095238095238093
+pasupukumuma,0.5
+bride,0.30909090909090914
+retrial for that charge,0.5
+custom,1.8742070505069293
+revision,1.6299226441631505
+penal law,1.2857142857142858
+teacher,3.0760180995475115
+meaning,1.8612727545949643
+wilful conduct,1.25
+main ingredient of the offence,0.0
+high court of andhra pradesh,1.5
+failure,0.7827962142086977
+court,12.24425115501509
+liable to conviction,0.5
+normal circumstance,0.9523809523809523
+declaration,2.152560083594566
+acceptable by the courts,0.5
+judge of the high court,1.75
+father of the deceased pw,1.0
+suicide,3.2060041407867494
+single judge,4.011627906976744
+person,4.291511329454258
+alleged offences,2.0
+poisonous insecticide endo - sulphan,0.0
+higher degree,0.37037037037037035
+cause,1.8431210321626654
+way,1.7812722068664852
+acquittal for commission,0.5
+part,5.294464509893076
+sentence for the crime,0.5
+such demand,1.0
+description,0.8190476190476191
+relative of the husband,0.8
+errors,0.6042698360294927
+entrance,0.7155844155844157
+person to cruelty,0.6666666666666666
+offence of abetment,1.0
+rigorous imprisonment with a fine,1.0
+verdict of the trial court,1.0
+polytechnic,0.47280334728033474
+series,0.4722257940079723
+non-payment,0.0
+that purpose presumption under section,0.5
+provisions of sub - section,0.0
+number,1.4802651440973922
+stridhana,2.0
+provision of sub - section,0.0
+subject matter,1.2537313432835822
+sessions,1.3405714285714285
+read with sub-section,0.0
+relevant provisions,1.5
+character,0.9325990965842764
+articles,1.4349688743466387
+purpose of this sub - section,0.0
+offence of higher degree,0.5
+other circumstances,0.6000000000000001
+continuous harassment,0.4444444444444444
+deceased pw,1.1428571428571428
+such person to cruelty,0.6666666666666666
+other person,0.9635036496350365
+common judgment of the high court,0.5
+conviction for offence,1.5
+test,2.5329834591340266
+house,2.0021735292386764
+offence of  cruelty,0.0
+custom of the community declaration,0.5
+connection with the demand,0.6666666666666666
+transfer,1.9975047057658015
+alternatively,0.59375
+doubts,0.6666666666666666
+appeal,3.4125488033856883
+point of harassment,0.5
+accused preferred criminal appeal,0.5
+years from the date,1.8518518518518519
+default of payment,1.1111111111111112
+wilful,1.0476190476190477
+land,6.337534028705619
+harassment,1.5747368421052634
+read,2.2147281730888695
+time of marriage pursuant,0.5
+village,1.8429856945085372
+indian society,0.6666666666666666
+month,1.3454861111111112
+year,2.8349484769759212
+such husband,0.6666666666666666
+stage,1.1298537871524448
+abetment,1.7142857142857142
+courage,0.6100747737111374
+mahr,0.2777777777777778
+law courts,0.75
+mandal,0.44871794871794873
+result of such cruel treatment,0.5
+judgment,3.288216560509554
+nd day,0.7551724137931035
+punishable under section,3.081081081081081
+sulphan,0.5
+law court,0.8
+gift,1.4785575048732944
+father,1.4298716229162676
+parent of either party,0.0
+subject,2.4420366233344897
+clear that all facts,0.5
+imprisonment of either description,2.2
+injury,1.7199352451433856
+act,12.870263922028107
+sub-section,0.0
+community,1.3158036677454152
+family members,1.2631578947368423
+purposes of this sub - section,0.0
+consequent failure of justice,0.5
+offence of  dowry death,0.0
+ingredients,0.7539893617021276
+clas,2.1196191893660425
+wilful  conduct of the husband,0.0
+explanation,1.4510159010600707
+clear that all fact,0.5
+tunikipadu,1.0
+such harassment,0.75
+yadla,0.6666666666666666
+- month,0.0
+offender,1.3711405166981725
+other party,0.8608695652173913
+effect,2.184583388478191
+matter to the trial court,0.5
+member,2.649111111111111
+second daughter of pw,0.5
+parties,1.8210828547990157
+court in favour,0.8571428571428571
+person commit,0.4571428571428572
+deterrent effect on the offenders,0.5
+section,9.287987283173626
+such error,0.5714285714285714
+sentence under section,1.0
+characters,0.25799793601651183
+time after the marriage,0.6666666666666666
+of cruel treatment,0.5
+thereunder,1.2794117647058825
+incident,1.8609485257918057
+entrance test,1.5
+personal,1.2131309849000276
+maximum for life,0.5
+offence of cruelty,1.5
+such charge,0.6666666666666666
+master,1.0034463223491643
+circumstance,1.429931390219372
+burns,0.5440677966101696
+year with fine,0.0
+danger,0.8066378066378066
+by convict,0.8
+confirmation,2.098684210526316
+female character,0.5
+refusal,0.813597918022121
+regard,2.723310344827586
+strident law,0.5
+dowry death,3.888888888888889
+plays,0.3991291727140784
+ingredients of the offence,1.5
+krishna,1.2505446623093683
+yedla,1.0
+class,2.1508512849922936
+degree,0.6705786026200874
+that all fact,0.30000000000000004
+nd day of october,1.0
+facts,1.4696673624372698
+parents,1.8852093189324288
+form,2.4865961263718424
+powers,1.876345371920593
+deceased krishna kumari,0.5
+method,0.9027027027027026
+sister nagamani,0.5
+such strident law,0.5
+fine,1.3204039558531748
+hospital at madhira,0.5
+suicidal death,1.0
+marriage pursuant,0.5
+time of marriage,1.4
+unlawful demand for any property,0.75
+oral testimony,0.6666666666666666
+session,2.2400874351067563
+women,1.162387410705042
+muslim,0.8700225394440272
+judgment of the high court,1.721311475409836
+acre,1.6948939682084037
+conviction,2.248165832071736
+common judgment,1.3636363636363635
+definition of  dowry,0.0
+maintenance,0.8632111808077473
+criminal appeal no,2.15625
+sub,7.816899313759727
+course,1.6545957498716626
+same day,0.8830188679245283
+relative of husband,0.75
+criminal appeal,2.5675675675675675
+deceased execution,0.5
+accused nos,2.875
+proper sentence,0.6666666666666666
+charge,2.7679815308681284
+demand for any property,0.75
+ingredient of the offence,2.2
+pradesh,4.365853658536586
+community as pasupukumkuma,0.5
+cognizance,1.728
+wife as a punishable offence,0.5
+presents,0.665973810018707
+crime,1.6636528028933093
+cruelty,2.9099099099099095
+charges,2.061307113938693
+marriage,1.8031648351648353
+ac- of land,0.0
+applies,0.9353049100122315
+dowry prohibition act,2.2
+such nature,0.75
+defect,1.4259259259259258
+letters,2.0877496159754223
+hereunder,1.4457142857142857
+alternative section,0.5
+opportunity,0.946186440677966
+jewel,0.7857142857142857
+criminal revision,2.0
+matter,2.8088923076923082
+insecticide,1.0909090909090908
+hospital,1.3942768854411434
+daughter-in-law of a,0.0
+article,4.378806157159795
+cognizance of this court,1.0
+such magnitude,0.3333333333333333
+alternate charge,0.6666666666666666
+cruelty by husband,0.5
+criminal,3.301971081989414
+provision of section,1.4827586206896552
+- payment,0.0
+term,3.6255105640901575
+cash dowry of rupees,0.5
+appeal nos,1.6666666666666667
+dharmadhikari,0.8
+appellants,7.701086956521739
+penal,1.8829173709853835
+view,2.441100058469462
+aid,5.498621453008654
+post,2.344803646492219
+party to the marriage,3.0
+opinion,1.4960606342789635
+ingredient,1.2242798353909468
+alternative under section,1.3333333333333333
+presume that such person,0.6666666666666666
+wife,1.4518086408500224
+complain of any want,0.5
+penal code,2.710144927536232
+punishable,1.237037037037037
+andhra,4.830188679245283
+post master,1.5
+mail,1.6410850468191913
+other circumstance of the case,0.0
+defines,0.7532281205164992
+limb,0.509338061465721
+define,1.0519513092331876
+assistant,1.6732837055417698
+same evidence on record,0.5
+result,1.3356630184144715
+rao,0.9220020325203252
+record,2.5393414390845273
+procedure,2.552771605064117
+material,1.4148767018946966
+complain,3.5365362948656043
+information,1.1320502836800534
+such offence,1.0
+laws,1.4186274337269533
+removal of doubts,1.375
+polouse,0.0
+female characters,0.5
+defence,1.3606588776096535
+provision,5.439002243350069
+provisions of section,2.762376237623762
+persuasion,0.3188405797101449
+refusal on the part,0.75
+maximum,0.8925619834710745
+case of persons,0.6666666666666666
+first,1.9006367208168047
+fact,3.6284951019474962
+removal,0.7204301075268817
+learned counsel,3.703333333333333
+amount of fine,0.6666666666666666
+offences against married women,0.5
+charge under section,3.8181818181818183
+expression,1.7424391201885312
+powers of the criminal court,0.5
+evidence on record,2.7906976744186047
+acres of land,1.857142857142857
+criminal procedure,6.406779661016949
+husband,1.6418918918918919
+hour,1.1326135248230613
+same meaning,1.0476190476190477
+first time,0.7741935483870968
+object,1.4940119760479043
+particulars,0.9472222222222222
+frailty,0.3333333333333333
+main ingredient,0.6666666666666666
+presumption,1.06
+demand,1.5671679197994988
+death of the wife,0.6666666666666666
+years with fine,0.6666666666666666
+provision of the penal code,0.0
+such charges,0.6666666666666666
+extent,1.410108024691358
+necessity,0.7072538860103627
+year from the date,1.5
+house site in the course,0.5
+state of andhra pradesh,3.625
+doubt,1.3646267723102583
+couple,0.613079287515763
+srinivasa,0.675
+punjab manuscmanusc,1.625
+years,2.5395804110508022
+report,1.7768151696835826
+punjab,1.0438169425511197
+code of criminal procedure,6.120689655172414
+retrial,2.875
+ipc reads,0.5
+party,2.2250894654439723
+definition,1.6460425937698666
+settlement,1.6881394467601363
+convicting,0.9795918367346939
+justice,2.292557084574302
+ritual as pasupukumuma,0.5
+shariat,0.6666666666666666
+prosecution of alleged cruel treatment,0.5
+endo,0.7541281835992163
+demand for dowry,2.5
+grave injury,1.0
+family member,1.0924657534246576
+testimony,1.4407553107789142
+date,6.195616975795285
+procedural impediment,0.5
+reference,2.1755848210276256
+sister,1.0774703557312253
+society,2.1182859399684046
+branch post master in the village,1.0
+rupees,2.311111111111111
+purpose of section,1.3888888888888888
+offence,4.401610644257703
+previous day,0.38095238095238093
+omission to state,0.5
+want,0.9034484256025601
+srinivasa rao,0.6666666666666666
+appellants ie,1.1666666666666667
+dowry death under section,1.0
+daughter-in-law,0.0
+default,0.7094574436346588
+day,1.550999710228919
+postal,0.550561797752809
+question,2.980312372067635
+verdict,0.6880952380952381
+of the offence of  cruelty,0.0
+rural indian society,0.5
+execution,1.3041894353369763
+party to a marriage,1.3333333333333333
+deposition,1.534
+class examination,0.5
+parents of either party,0.6666666666666666
+acre of land,0.0
+scmanu,7.940520446096654
+word,2.065873981084096
+earlier point,0.75
+appeals,1.7060218112849692
+months,1.1938163721148947
+amount,3.179688593072295
+several offence,0.8
+statement,2.5393160135035964
+parent,0.9965655833245622
+gift of land,0.5
+name,1.8996570753072433
+first information report,1.9565217391304348
+death of a woman,3.0
+statement of charges,0.5
+ac-,0.0
+acres,1.8522588522588521
+high,5.367119186841496
+payment,2.059553716565686
+members,1.9437616522164103
+person commits,0.38095238095238093
+sic,1.1611481056257176
+wilful conduct of the husband,1.0
+account,2.5754891049671977
+purposes of section,1.3076923076923077
+event,1.4310854436179261
+other evidence on record,0.5
+marriage father,0.5
+deterrent effect,0.4
+state against acquittal,0.5
+- months,0.0
+with minimum sentence,0.5
+property,2.9368986630013745
+either party to the marriage,1.3333333333333333
+suicide under section,1.0
+time of marriage father,0.5
+kakatiya,1.3333333333333333
+relevant provisions of the penal code,0.5
+shakespeare,0.34782608695652173
+explanation under section,0.75
+interference,0.5733527484528578
+purpose,2.519170317925504
+that purpose,0.609375
+law,3.538923411654744
+main ingredients of the offence,1.0
+trial court,3.854545454545455
+nos,1.2635492554198444
+strident laws,0.5
+pasupukumkuma,1.0
+time,2.4764180952862667
+stern warning,0.3333333333333333
+treatment,1.1351020408163266
+present,1.9747480780089475
+same fact,0.9375
+allegation,1.834319526627219
+such person,0.9634888438133874
+insecticide endo - sulphan,0.0
+several offences,0.8
+account of failure,0.8333333333333334
+guilty of cruel treatment,0.5
+imprisonment with a fine,1.0
+purpose of this section,1.0
+punishable offence,1.0
+purposes of this section,1.1666666666666667
+jewels,0.5
+ipc read,1.5
+gampalagudem,0.5
+part with the land,0.5
+explanation below section,1.0
+dowry demand,1.1666666666666667
+by the court,1.2436363636363634
+single judge of the high court,1.588235294117647
+hours,1.1644152367043934
+information report exp,1.0
+fine of rs,1.6
+session case,0.6666666666666666
+earlier point of time,0.75
+appellant under section,1.4375
+such cruelty,2.6666666666666665
+hereinafter,0.7670609645131939
+legal position,0.7659574468085106
+prosecution,4.619407894736842
+omission on the part,0.8
+ipc defines cruelty,0.5
+ample provision,0.5
+deterrent,0.4375
+reference under section,2.272727272727273
+prohibition,1.9087256027554533
+trial courts,1.1428571428571428
+own life,0.25925925925925924
+such evidence,0.9649122807017544
+offences,1.6681887366818873
+connection,1.050640279394645
+madhira,0.5
+imprisonment,1.4344262295081966
+that all facts,0.5
+single act,0.33
+ipc,2.785166240409207
+counsel,2.2246780703440323
+absence,1.092363454568179
+reads,0.8722657304887929
+conviction by the high court,0.5
+time of a marriage,0.6666666666666666
+other articles,0.7272727272727273
+parent of the husband,0.0
+danger to life,1.0
+commission,4.703619179345321
+mere omission,1.0
+parents of the husband,0.6666666666666666
+unlawful demand,0.5
+name of the wife,0.5
+younger sister,0.6666666666666666
+rigorous imprisonment,1.9230769230769231
+court of andhra pradesh,1.5
+power of the criminal court,0.5
+play,0.5464427772208388
+form of cash,0.75
+acquittal,2.2714285714285714
+mental,2.7818434682524456
+mention,1.6248742837095076
+other circumstances of the case,0.5
+andhra pradesh,4.857142857142857
+rupee,2.2291666666666665
+found,1.6807856907714254
+cruel conduct of the husband,0.5
+months of the marriage,0.5
+evidence,3.6676405172088815
+ipc for cruelty,0.5
+compensation to the parents,1.0
+oral testimony of pw,0.5
+valuable security,4.0
+day of october,2.5
+abetment of suicide,1.4
+cruel treatment,3.0
+relatives,0.8460264900662252
+krishna kumari,2.5
+circumstance of the case,0.5
+such strident laws,0.5
+satvir singh v state,0.5
+dowry in cash,0.5
+case,7.332269420884958
+criminal appeal nos,1.4
+house with stern warning,0.5
+period,1.9480170842427122
+number of such charges,0.5
+error,1.059158294766151
+gampalagudem mandal,0.5
+emphasi,0.9191619047619048
+that purpose presumption,0.5
+clothes,0.43778538812785384
+letter,2.707240080105903
+clothe,0.44423076923076926
+further period,1.2
+singh,3.7791111111111113
+explanation thereunder,0.5
+such offences,0.75
+purposes,1.4391216613438835
+daughter of pw,0.5
+effect of errors,0.5
+statements,1.110873440285205
+information report,2.0
+burn,0.7334842304248335
+trial judge,2.6666666666666665
+series of acts,0.8
+crpc,2.2424242424242427
+favour,1.653145208700764
+normal circumstances,0.873015873015873
+hour on the same day,0.0
+harassment of the woman,0.75
+execution of a deed,0.5
+reproduction,0.5098814229249011
+house site,1.3333333333333333
+tenth class examination,0.5
+sub - section,0.0
+harassment of such magnitude,0.5
+spouse,1.0202546296296295
+leave,1.0147842365477848
+dowry death of a woman,1.0
+different offence,1.0
+absent in this case,0.5
+criminal court,2.888888888888889
+poison,1.089678510998308
+failure of justice,1.7142857142857142
+october,0.9478375701551667
+ornament,2.210526315789474
+somebody,0.5581624605678233
+such cruel treatment,0.5
+sentences,1.0513157894736844
+point,2.9165043546008516
+offence under section,2.6
+admission,1.5389848246991107
+nagamani,0.6666666666666666
+part of harassment,0.5
+particular,1.5248953455371081
+personal law,2.6666666666666665
+such death,0.5714285714285714
+card,0.7931495852287931
+community declaration,0.5
+ample opportunity,0.42857142857142855
+woman,1.316528681253696
+participation,1.138392857142857
+power,3.8165227690948367
+police,2.9749362629783356
+sentence,2.3896654193264366
+examination,2.4920345926263088
+evidence act,3.8666666666666667
+further opportunity,0.75
+married woman,0.8888888888888888
+omission,1.1856094505101127
+warning,0.7703501591632559
+under section,5.374517374517374
+ornaments,2.3
+consequent failure,0.5
+way of transfer,0.45000000000000007
+instant case,2.0631578947368423
+married women,0.3333333333333333
+entrance card,0.5
+imprisonment for a further period,0.5
+branch post master,1.0
+hand on the letters,0.5
+position,1.549133168619177
+life,1.3352928273744242
+bride by the father,0.5
+either description,2.2
+relevant provision of the penal code,0.0
+deed,1.3564447722662734
+absent,0.7136150234741784
+other article,0.6889952153110048
+ample provisions,0.5
+husband after the marriage,0.5
+consideration,1.9110153789142115
+appeal no,2.288135593220339
+presumption under section,1.2222222222222223
+punishable with minimum sentence,0.5
+same common judgment,0.5
+of husband,0.4800000000000001
+same facts,2.1666666666666665
+deceased execution of a deed,0.5
+alleged cruel treatment,0.5
+testimony of pw,0.8888888888888888
+clause,3.526455026455027
+such woman,1.25
+accused no,11.466666666666667
+kakatiya university,0.6666666666666666
+acts,1.9133929521984454
+relative,1.0564311594202898
+alternate,0.4893617021276595
+care,0.8846948234137723
+apply,1.5478801169590641
+main ingredients,0.6666666666666666
+further sentence,0.6666666666666666
+ipc read with section,1.25
+kumari,4.764705882352941
+opportunity of defence,0.5
+ritual,0.7557251908396947
+legislature,2.818553268765133
+family,1.856281506375408
+satvir,0.6666666666666666
+ritual at the time,0.5
+judge,2.9012627415183325
+provisions,3.8929824561403508
+death,2.361592909460208
+point of time,0.7999999999999999
+conduct,1.5998023165163158
+other circumstance,0.6600000000000001
+first information report exp,1.0
+that charge,0.5
+case of conviction,0.5
+dowry,5.666666666666667
+consideration for the marriage,0.6666666666666666
+connection with any demand,2.3333333333333335
+incident of cruelty,0.6666666666666666
+conclusion,1.3883437407077015
+special leave,1.903225806451613
+dower,0.6666666666666666
+relevant provision,1.5737704918032787
+assistant sessions judge,0.6666666666666666
+advantage,1.1441364159430905
+security,1.5014864864864865
+such relative,1.0
+meaning of this section,0.75
+site,0.9890725980575135
+month of the marriage,0.0
+indian penal code,5.264705882352941
+circumstances of the case,1.3373493975903614
+legislative intent,1.3823529411764706
+provisions of the penal code,0.5
+proper sentence for the crime,0.5
+impediment,0.5668016194331984
+hand,2.0299623418254717
+appreciation,0.7282229965156793
+branch,2.8500288406075756
+cruel conduct,0.5
+charge for offence,0.6666666666666666
+cash,1.4775207900207898
+other evidence,1.0434782608695652
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+either party,1.55
+nuzwid for offence,0.5
+wife of a-,0.0
+by the courts,0.8333333333333333
+instant,1.131578947368421
+high court,7.7477477477477485
+nature of  stridhana,0.0
+daughter,1.0364906832298135
+state,6.817996007300392
+polytechnic entrance test,0.5
+commission of such suicide,0.6666666666666666
+intent,1.8427075724373023
+statement of charge,1.5
+trial,3.7979448350459712
+in connection,1.0164835164835164
+offenders,0.9550387596899225
+satvir singh v state of punjab manuscmanusc,0.5
+guilty of the offence of cruelty,0.5
+postal mail,0.5
+same evidence,0.75
+nuzwid,0.5
+manu,7.078142071124147
+offences against married woman,0.0
+conduct of the husband,1.5
+bodily injury,3.25
+such allegation,0.6666666666666667
+other party to the marriage,0.6666666666666666
+mere omission on the part,0.5
+second daughter,0.5
+reliable by convict,0.5
+appreciation of the evidence,1.0
+emphasis,0.8024289099526066
+single,1.6221488419098207
+absence of a charge,0.5
+spouses,0.7563025210084034
+hours on the same day,0.5
+nature,1.4149926876444778
+mail sent,0.5238095238095238
+health,0.8632619439868204
+court of assistant sessions judge,0.5
+house at tunikipadu,1.0
+admission to the test,0.5
+connection with the marriage,0.6666666666666666
+position as the post master,0.5
+such suicide,1.0
+allow criminal appeal,0.5
+losing,0.8234144608278559
+situation,1.1254754682459434
+compensation,3.7916666666666665
+criminal appeals,2.0
+magnitude,0.4999999999999999
+commission of suicide,2.0
+escape,0.6909090909090909
+trial court by judgment,0.6666666666666666
+favour of the land,1.0
+university,3.75675614961249
+demand of dowry,1.2
+alternative,0.841508109794136
+-b dowry death,0.0
+trial judge to mention,0.5
+persons,2.5993381990166555
+convict,3.1901719901719896

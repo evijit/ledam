@@ -1,0 +1,972 @@
+courts,2.1216528162511543
+hotel,0.8866352770735241
+wrist watch belongs to the deceased vittal shetty,1.0
+ballal,0.2647058823529412
+government,3.5583785424010483
+puttumonu,0.5
+statement vide ex,1.0
+various hospital,0.5
+panch witness,1.1666666666666667
+urea bags,1.0
+necessary document,0.6666666666666666
+evening,0.5274557657107993
+wrist watch belong,1.0
+to the disclosure statement pw-,0.0
+employer of vittal shetty,0.5
+occasions,0.7723557692307693
+evidence of medical officers,0.5
+amicus curiae,1.6666666666666667
+read with section,2.3513513513513513
+signature,1.1400966183574879
+injuries on the dead body,0.5
+negligent driving,1.0
+mark,2.700508607198748
+doctors,2.018642703862661
+same way,0.4284124629080119
+entry at p-,0.0
+mangalore urea bag,0.5
+employee,6.280487804878048
+sections,1.640495469442838
+toto,0.6391347099311702
+eye witnes,1.4333333333333333
+instance,0.9469803370786518
+panchanama,0.6666666666666666
+injuries in the accident,0.5
+occupant of the lorry,0.0
+farnandis,0.5
+side mirror,0.2777777777777778
+exp-,0.0
+court,12.24425115501509
+black mole in front,0.5
+links,0.4514285714285714
+course of investigation,2.2
+balegodu,0.5
+mole in front,0.5
+entries at p-,0.0
+exs,1.6280148423005565
+eye,0.9466574319441098
+lorry bearing registration,1.0
+watch,1.1344537815126052
+road,1.0764686576960945
+serial,0.95402624374587
+basis of the voluntary statement,0.5
+person,4.291511329454258
+ors,2.8612718198296623
+katte,1.0
+fertilizer bags,2.0
+way,1.7812722068664852
+entries,2.110809342748506
+call,1.5442351461768689
+part,5.294464509893076
+trunk call to the police,0.5
+hilal coffee work,1.0
+cross,2.0778316690442225
+nothing,0.8658723322806009
+fernandis,0.5
+concurrent finding of facts,1.0
+distance,0.7353606433777331
+science lab,0.46153846153846145
+prosecution that a-,0.0
+resident of jenugudde village,0.5
+brother-in-law a,0.0
+mo-,0.0
+present appeal,1.3424657534246576
+mirror,0.16894531249999997
+psi of balehonnur police station,0.5
+sessions,1.3405714285714285
+police party,1.75
+relevant entry at p-,0.0
+office by the side,0.5
+pw- ganga shetty,0.0
+body of the driver,0.5
+gangadhariah,0.5
+recovery of mos,0.5
+castolina,0.5
+tea,1.2494773519163762
+fertilizer bag,2.0
+disclosure statements,1.3333333333333333
+fourth circumstantial evidence,0.5
+balakrishna,0.8
+other with simple injuries,0.0
+history,0.5728887807252372
+voluntary statement,0.8571428571428571
+staff,1.3233972834416785
+george,0.6472834067547724
+accident at belagodu,2.0
+appeal,3.4125488033856883
+pw- balakrishna,0.0
+sakleshpur,5.5
+weapon,1.0217176079034398
+motor accident,2.0
+default of payment,1.1111111111111112
+proprietor of hilal coffee works,1.0
+cleaner deceased paul,1.0
+mr panjwani,0.5
+mysore,4.733333333333333
+pursuant to the disclosure statement pw-,0.0
+read,2.2147281730888695
+birth marks,0.5
+sessions judge,2.9545454545454546
+village,1.8429856945085372
+advice,0.7581699346405227
+cousin dsouza,0.5
+rural,1.961287078934138
+month,1.3454861111111112
+year,2.8349484769759212
+vasanth,1.3333333333333333
+panjwani,1.0
+dead bodies,0.6521739130434784
+writ watch,1.5
+proprietor of hilal coffee,1.0
+murder of deceased vittal shetty,1.0
+evidence of dr  prakash inamdar pw-,0.0
+mangala urea,1.5
+at sakleshpur,2.0
+piece,0.8682170542635659
+suo,0.6228646517739815
+nipple,0.25
+kmc hospital,1.5
+pw- b vasudeva psi,0.0
+pw- towards,0.0
+devoid of merit,1.0
+pages,0.4777568922305764
+guilt,1.1140207075064712
+necessary entry in the medical-legal case,0.0
+order,5.472481489660944
+circumstantial evidence,1.9000000000000001
+hilal coffee works,1.0
+injury,1.7199352451433856
+medical officers,1.5
+inability,0.7162534435261708
+physical identifiable mark,0.5
+advice of the doctor pw-,0.0
+discovery,0.6107142857142858
+belonging,1.234539624370133
+rajegowda,1.0
+request on the condition,0.5
+clas,2.1196191893660425
+witnesses of pws,0.5
+medical,1.633306645316253
+explanation,1.4510159010600707
+wrist watch,3.111111111111111
+cno,0.5332167832167832
+road accident,1.0
+amice,0.3333333333333333
+injury in the accident,0.0
+injured,2.286951144094001
+exm- wrist watch belong to the deceased vittal shetty,0.0
+offender,1.3711405166981725
+months for the offence,0.6666666666666666
+accused persons,7.048780487804878
+balahonnur,0.5
+human blood,0.25
+necessary documents,0.6666666666666666
+aid of section,1.5
+basis of the complaint,0.8
+jenugudde,1.5
+rural police station,0.5
+conclusion of guilt,0.75
+wound certificate exp-,0.0
+morning,0.6560766182298546
+taxi stand,1.0
+delivery,1.3054726368159204
+wound certificate,1.0
+amices,0.5
+legal register,0.5
+sho of mangalore,0.5
+ipc in default,0.5
+mechanical defect,0.5
+injured person,1.9090909090909092
+anthony dsouza,0.5
+wrist,1.317117117117117
+section,9.287987283173626
+accident near belagodu village,1.5
+science,0.6879334257975034
+direct eye witnes,0.5
+ferozkhan,0.5
+relevant entries,1.75
+servant,2.030552291421857
+west bengal,3.3333333333333335
+jurisdictional police,1.6
+condition,2.259476395625584
+george dsouza,2.5
+prosecution story in toto,0.5
+younger brother,0.7727272727272727
+maharashtra v,1.0666666666666667
+dr vasanth kumar,0.5
+same in the medico-legal case register,0.0
+serious injure on the person,0.0
+that explanation,0.5142857142857143
+swapan patra v state,0.5
+transport company,1.5
+regular driver,0.5
+cob,0.21666666666666665
+ipc against an unknown offender,0.5
+place,2.333104345208554
+driver,0.8230211045255637
+statement a-,0.0
+circumstance,1.429931390219372
+officers,2.442124212421242
+lab,1.805473489684016
+culvert near jenugudde,0.5
+evidence of pw- kiran castolina,0.0
+missing link,1.0
+finding,1.8129183657767178
+serious injury,0.4
+bharath,0.75
+investigation,1.6673076923076922
+manjunatha,0.5
+regard,2.723310344827586
+nearest place,0.6666666666666666
+pw- kiran castolina,0.0
+cabin,0.4098360655737705
+mangalore chemical fertilizer factory,0.5
+prima facie case,1.625
+motor vehicle accident,1.5
+class,2.1508512849922936
+injury in a truck accident,0.0
+serious injures,0.5
+sho,3.354516605502135
+money,1.6567889044524557
+names as j dsouza so joseph,0.5
+story,0.755772533184814
+sound,0.8535719072510389
+occupant,1.8116883116883118
+facts,1.4696673624372698
+established fact,1.0
+taxi charge,2.0
+urea,0.47228558394160586
+arrangement,0.7318181818181818
+disclosure statement pw-,0.0
+rash,1.0904237570904238
+doctor of the injuries,0.0
+basi,2.0752712086391383
+mos,0.8225156936265802
+injury on the dead body,0.0
+victims of a motor vehicle accident,0.5
+same principle,0.7309941520467836
+negligent driving of the driver,1.0
+days,1.6721350893491447
+fine,1.3204039558531748
+intensive care unit,0.6666666666666666
+necessary entry,0.0
+coffee estate owner,0.5
+sho of balehonnur police station,0.5
+parswanatha jain pw-,0.0
+session,2.2400874351067563
+car,1.5664537220559551
+perversity,0.6666666666666666
+conviction,2.248165832071736
+paul,1.032984782793505
+basis,1.953226441078104
+case to the jurisdiction police,0.5
+fernandi,0.5
+cross examination,1.7272727272727273
+calls of nature,0.5
+lorry at kottigehara,0.5
+complaint exp-,0.0
+full charge,0.30000000000000004
+malice,0.8307692307692307
+pretext,0.4131944444444444
+course,1.6545957498716626
+sakleshpur rural police station,0.5
+accused nos,2.875
+officer dr  prakash inamdar pw-,0.0
+charge,2.7679815308681284
+company,5.864471879286695
+fertilizer,1.0
+identification mark,0.6666666666666666
+bijai,1.0
+serious injures on the person,0.5
+injure in the medico legal register,0.0
+blood,1.1739965841161402
+pw- b vasudeva psi of mangalore,0.0
+crime,1.6636528028933093
+truck accident,0.5
+courts suffer from any infirmity,0.0
+officer,3.1197242647058823
+dr vasanthkumar,1.0
+hospital at mangalore,1.5
+hospitals,0.363677536231884
+statement of pw-,0.0
+jain,1.673202614379085
+occupants of the lorry,0.5
+charges,2.061307113938693
+defect,1.4259259259259258
+inmate,0.5170940170940173
+body in a culvert,0.5
+belagodu,12.0
+anil so joseph,1.0
+belagodu village,2.5
+cros,1.8137948361162648
+received injures,0.5
+coffee works,1.0
+west,1.1420057009587976
+noticed injuries,0.5
+evidence of dr  prakash inamdar p-,0.0
+chemical,1.5078102189781022
+actual birth mark in the courts,0.0
+inquiry,1.3527272727272728
+hospital,1.3942768854411434
+south,0.8254159150130287
+bearing,0.7901184156798694
+light of the facts,0.8
+sometime,0.674048353909465
+passengers,1.709750566893424
+substantive sentences,0.5
+dr prakash inamdar p-,0.0
+kottigehara,1.5
+wenlock hospital at mangalore,0.5
+brother-in-law a-,0.0
+hilal,0.6000000000000001
+ibrahim,0.4444444444444444
+appellants,7.701086956521739
+employee of health unit,0.5
+view,2.441100058469462
+aid,5.498621453008654
+chest,0.7395639311931632
+ballehonnur,0.5
+balehonnur,4.0
+doctor,1.4782608695652173
+phu,0.3635231870525988
+icu,2.2269943750173185
+side,3.88845645915565
+mark on the body,0.0
+juvenile offender,2.0
+merit,1.2419290263876248
+mallikarjunappa pw-,0.0
+bodies,0.8969063256135499
+birth,1.5969847398418826
+identification,2.0914158305462656
+hypothesis,0.2878179384203481
+substantive sentence,2.25
+intensive,0.328125
+voluntary disclosure statements,0.5
+deceased paul,2.0
+employer of the deceased vittal shetty,0.5
+recovery,3.9892473118279574
+ibrahim pw-,0.0
+witness,5.333906623599983
+injure on the person,0.0
+unit,2.176678509944691
+learnt,0.6797385620915033
+result,1.3356630184144715
+towards belagodu,0.5
+clerk,1.0416666666666667
+call of nature,0.5
+bengal,1.9299191374663072
+record,2.5393414390845273
+material,1.4148767018946966
+young boy,0.3333333333333333
+course of the trial,0.8333333333333334
+information,1.1320502836800534
+mica,1.191809720785936
+polouse,0.0
+false answers,0.5
+birth mark in the courts,0.0
+hypothesi,0.30324909747292417
+coffee estate,1.0
+mangala,1.25
+link,0.6814600840336135
+established facts,1.0
+accident,1.7464867454487383
+dead body in a culvert,0.5
+trunk,0.19930069930069927
+perversity in the finding,0.5
+disclosure statement,4.6
+phone call from belagodu,0.5
+wrist watch belongs,1.0
+other recovery,0.5
+fact,3.6284951019474962
+owner,2.9502416709822197
+estate,1.9402985074626868
+registration,2.231365215068127
+clerk of venkatadri transport company,0.5
+following circumstance,0.875
+hospital at sakleshpur,1.0
+taxi charges,2.0
+mlo to the jurisdictional police,0.5
+sunil farnandi,0.5
+evidence on record,2.7906976744186047
+vehicle,2.973111766564837
+a- serial dsouza,0.0
+body of cleaner,0.5
+mangalore,4.2
+allegation of malice,0.5
+wooden katte,1.0
+chief,1.9429638234317954
+station,1.2515681586858238
+medical aid,0.6153846153846153
+transport,1.8361522198731504
+name as sunil farnandi,0.5
+khan,2.1073446327683616
+sun,0.7549388170958654
+jurisdiction police,0.5
+kumar,2.028839704896043
+particulars,0.9472222222222222
+concurrent finding,1.625
+appellants under section,1.0
+demand,1.5671679197994988
+stand,1.8422769621739425
+witnes,5.333906623599983
+serious injuries,0.4365079365079365
+chain of circumstances,1.6666666666666667
+anil so joseph dsouza,0.5
+work,2.8478559811646353
+relevant entries at p-,0.0
+godown,0.525
+victims,0.9
+farnandi,0.5
+interrogation,0.5945945945945946
+doubt,1.3646267723102583
+light,0.8816192372754331
+years,2.5395804110508022
+lorry towards mangalore,0.5
+boarding of the lorry,0.5
+medical officer in the govt,0.5
+principle,1.9620890732001848
+towards balahonnur,0.5
+party,2.2250894654439723
+seril,0.3333333333333333
+signature on the seizure,0.5
+venkatadri,0.5
+evidence of pw- ganga shetty,0.0
+payment of fine,1.2857142857142858
+calls,0.5871357250667595
+sri,1.1524741891017525
+pw- for full payment,0.0
+independent witnesses,0.9090909090909091
+prosecution story,2.142857142857143
+rajegowda pw-,0.0
+rope,2.506422634539501
+feroze,0.6666666666666666
+curiosity,0.25
+younger brother of the deceased vittal shetty,0.5
+enquiry,2.145762711864407
+case in crime,1.0
+dsouza so joseph dsouza,0.5
+shetty,10.166666666666666
+cross-examination,0.0
+request,1.1474439594584596
+wrist watch mo- belonging to the deceased vittal shetty,0.0
+sessions case,1.0
+whole amount,0.6666666666666666
+j dsouza,1.0
+discovery of wrist watch m-,0.0
+offer,2.188208616780045
+injuries in a truck accident,0.5
+wooden block,0.5
+v state,2.4603773584905664
+major hospital,0.6666666666666666
+information pw,0.5
+kiran,0.6461538461538461
+testimony,1.4407553107789142
+identification marks,0.3333333333333333
+bags of mangala urea,1.5
+eye witness,1.4333333333333333
+learnt from the boy,0.5
+vittal,6.5
+receipt of the information pws,0.5
+suresh manuscmanusc,0.5
+offence,4.401610644257703
+coolie,0.5
+occupants,2.048780487804878
+neck,0.6142330723169047
+towards balehonnur,0.5
+pw- toward,0.0
+driving,0.6902900378310215
+works,1.7935487434410384
+govt,0.7017766497461929
+disclosure,1.4583333333333335
+swapan patra v state of west bengal,0.5
+name as sunil,2.5
+default,0.7094574436346588
+fertilizer from the estate,1.0
+day,1.550999710228919
+government hospital,0.8888888888888888
+legal,1.6383168326773236
+witness of pws,0.0
+necessary entries,0.6666666666666666
+malouse,0.0
+accused offers,1.0
+phone message,0.25
+question,2.980312372067635
+various recoveries,0.5
+urea bag,1.0
+works at balehonnur,0.5
+police station,1.40045766590389
+own cob-web,0.0
+mccw,0.30000000000000004
+accident near belagodu,2.5
+injure,2.0736145574855254
+scmanu,7.940520446096654
+lorry belongs,0.5
+writ,2.8882378560889794
+months,1.1938163721148947
+recoveries,2.0
+amount,3.179688593072295
+february,0.8575630252100839
+inamdar,1.5
+statement,2.5393160135035964
+case of circumstantial evidence,1.0
+accused person,4.565217391304348
+information pws,0.5
+name,1.8996570753072433
+rajasthan,3.9215686274509802
+toward,1.0255939365170768
+relative at sakleshpur,0.5
+offences under sections,1.0909090909090908
+resident,1.6560361185631094
+loaded lorry,0.5
+prakash,1.8933333333333333
+exm- wrist watch belong,0.0
+entry,4.707210447678601
+high,5.367119186841496
+juvenile,6.343915343915343
+payment,2.059553716565686
+chikmagalur,1.3333333333333333
+boarding,0.31746031746031744
+brother,1.4566585956416465
+brown mole,0.5
+entry in the medical - legal case,0.0
+injuries in an accident,0.5
+trunk call,0.3333333333333333
+babli,0.3555555555555555
+simple injury,0.6666666666666666
+link in the chain,0.4
+penambur,0.5
+bags of fertilizer,1.5
+injuries in the motor accident,0.5
+pw- rajegowda,0.0
+nipple in front,0.5
+factory,1.1501182033096926
+evidence-,0.0
+ipc against the unknown lorry driver,0.5
+help,0.7217940266720754
+balance,0.9863636363636363
+lorry from mangalore,1.0
+parswanatha,0.5
+law,3.538923411654744
+trial court,3.854545454545455
+head,1.5827778446537666
+nos,1.2635492554198444
+time,2.4764180952862667
+godown of pw-,0.0
+dr  chandra kumar ballal,0.0
+treatment,1.1351020408163266
+injury in an accident,0.0
+ill-feeling,0.0
+group,1.691932599016908
+loaded lorry of fertilizer bags,0.5
+allegation,1.834319526627219
+ill-feeling of pw- towards,0.0
+dr prakash inamdar pw-,0.0
+estate by the police,0.5
+history of road accident,0.5
+injured condition,1.6
+briefly,0.5805159028299525
+plastic rope,0.5
+sum of rs,2.125
+ipc read,1.5
+pennabur,0.5
+delivery note,0.5
+class employee,0.6666666666666666
+complaint,2.734525785235724
+identification marks of accused nos,0.5
+murder,1.4968553459119496
+mr vijay,1.0
+sakaleshpur hospital,1.0
+fine of rs,1.6
+addition,1.5588539142412572
+appellant under section,1.4375
+finding of facts,1.0
+officer in the govt,0.5
+transportation,0.4525862068965517
+prosecution,4.619407894736842
+bag of fertilizer,0.0
+seril dsouza,0.5
+certificate,2.732600732600732
+following circumstantial evidence,0.5
+offences,1.6681887366818873
+imprisonment,1.4344262295081966
+sunil farnandis,0.5
+cleaner in a lorry bearing registration,0.5
+taxi charge of rs,0.0
+ipc,2.785166240409207
+belagodu vis sakaleshpur,0.5
+case of injury,0.5
+place of accident,0.5
+imprisonment for life,1.7142857142857142
+health unit,0.75
+witnesses,3.359210526315789
+third circumstantial evidence,0.5
+panch witnes,1.1666666666666667
+answers,0.3387502861066606
+jenugudde village,0.5
+voluntary disclosure statement exp-,0.0
+phone,1.313791681305085
+accused offer,1.0
+names,1.766440410418311
+ganga shetty,0.5
+examination under section,1.0
+identifiable mark,1.0
+rafiq,1.6666666666666667
+rigorous imprisonment,1.9230769230769231
+wrist watch m-,0.0
+talk,0.6790085679314566
+wenlock,2.5
+unknown lorry driver,0.5
+pw- at belagodu,0.0
+anthony,0.3750985027580772
+bag of mangala urea,0.0
+son,4.595622484812135
+cousin,0.24447513812154698
+immediate medical treatment,0.5
+taxi,1.7952380952380955
+severe injuries,0.5
+enough money,0.25
+formidable circumstantial evidence,0.5
+evidence,3.6676405172088815
+document,1.401100265092073
+motor,1.832417821954835
+injury in the motor accident,0.0
+b vasudeva psi of mangalore,0.5
+victim,1.204831365285174
+suresh,0.8250000000000001
+passenger,1.8365885416666665
+reliance,1.400763358778626
+own conduct,0.6666666666666666
+evidence of ferozkhan pw-,0.0
+enough evidence on record,0.5
+mlo,0.18316831683168316
+case,7.332269420884958
+castelino,1.0
+trial of juvenile,0.5
+error,1.059158294766151
+name george,0.5
+same accident,0.6666666666666666
+owner of taxi,0.5
+scc,1.941872465904902
+alternative arrangement,1.25
+courts suffer,0.5
+vijay,0.404040404040404
+lorry in question,0.5
+disclosure statements vide ex,0.5
+serious condition,0.25
+body of the cleaner,0.5
+medical officer dr  prakash inamdar pw-,0.0
+due to the accident,0.5
+psi,0.4973572331379985
+suo motu,1.3333333333333333
+right nipple in front,0.5
+conviction from section,0.6666666666666666
+singh,3.7791111111111113
+culvert,0.8888888888888888
+injuries,2.4130008710801394
+lorry accident at belagodu village,0.5
+pw- dr chandra kumar ballal,0.0
+noticed injury,0.0
+statements,1.110873440285205
+evidence of pws,2.6363636363636362
+name as sunil farnandis,0.5
+wound,1.4035549703752468
+evidence of pw,4.88
+sunil,1.0
+links in the chain,0.5
+prosecution case,4.258064516129032
+taxi driver,2.5
+basi of the complaint,0.0
+wound certificate vide exp-,0.0
+statement under section,2.1
+medico legal register,0.5
+plastic,0.3764367816091954
+exm- wrist watch belongs to the deceased vittal shetty,0.0
+additional sessions judge,1.7647058823529411
+kuldeep singh,1.0
+crpc,2.2424242424242427
+seizure,0.6583598956824108
+aforesaid principle,1.0
+severe injury,0.5
+prosecution witness,2.2
+receipt of phone message,0.5
+sri castelino,0.5
+dsouza,4.5
+marks on the body,0.5
+medical officer,1.090909090909091
+sunil in the injured condition,0.5
+pw- vasudeva asi,0.0
+duty,3.2272215973003378
+chandra,0.7012987012987013
+injured person by name george,0.5
+name as sunil fernandi,0.5
+dws,0.2043010752688172
+major hospital at mangalore,1.0
+office,3.5913445886237847
+birth marks in the courts,0.5
+government hospital with the help,0.5
+neck of george dsouza,0.5
+prosecution witnesses,2.0526315789473686
+exm- wrist watch belongs,0.0
+maharashtra,2.9076923076923076
+swapan,0.8
+bharath hotel,0.5
+victim of a motor vehicle accident,0.5
+wrist watch mo- belonging,0.0
+courts suffers from any infirmity,0.5
+mangalore urea bags,0.5
+hotel at kottigehara,0.5
+sentences,1.0513157894736844
+body,1.336775463480009
+offence under section,2.6
+pw- feroze,0.0
+much reliance,0.4444444444444444
+additional link,0.5
+coffee estate owner of belagodu village,0.5
+hospital at sakaleshpur,0.5
+a- as exp- wherein,0.0
+raghunath,0.6666666666666666
+care unit,1.0
+pw- raghunath,0.0
+particular,1.5248953455371081
+motu,0.5230769230769231
+identifiable marks,0.5
+bodies in a lorry accident,0.5
+money from the person,0.5
+curing,0.7161290322580646
+deceased vittal shetty,6.0
+mallikarjunappa,0.5
+further m-,0.0
+police,2.9749362629783356
+sentence,2.3896654193264366
+brother of the deceased vittal shetty,0.5
+lorry accident,3.5
+materials,1.1534090909090908
+black mole,0.5
+hilal coffee,1.0
+kuldeep,2.2
+sema,0.5976714100905562
+fine si,0.5714285714285714
+examination,2.4920345926263088
+birth mark,1.5
+lorry driver,0.5
+proprietor,1.0303030303030303
+received injure,0.5
+balehonnur police station,1.5
+communication,1.013409067330636
+class employee of phu,0.5
+curiae,1.6875
+identifiable mark on the body,0.0
+crime by the circumstances,0.5
+vittal shetty,6.5
+wenlock hospital,2.5
+life,1.3352928273744242
+following circumstances,0.875
+rancour,0.5
+false answer,2.0
+medical - legal case,0.0
+vehicle towards the forest,0.5
+venkatadri transport company,0.5
+mo- whenever,0.0
+renders,0.5294117647058824
+forensic,0.4285714285714286
+web,0.555440414507772
+vasudeva,1.0
+of merit,2.5714285714285716
+name as sunil fernandis,0.5
+lorry belong,0.5
+independent witness,1.2121212121212122
+bags,2.023668639053254
+in the medico - legal case register,0.0
+exp- statement a-,0.0
+mo- sun mica piece,0.0
+taxi towards sakaleshpur,0.5
+reasonable doubt,0.8638838475499093
+medical treatment,1.1428571428571428
+message,0.9435911954136882
+devoid,0.5094339622641509
+wrist watch belong to the deceased vittal shetty,0.0
+coffee,1.2833333333333334
+jurisdictional polouse,0.0
+driver with a plastic rope,0.5
+offers,1.0471720818291215
+injures in the medico legal register,0.5
+mole,0.3714821763602251
+front,0.8400299386969539
+documents,1.142515923566879
+challan,0.3589743589743589
+accused no,11.466666666666667
+actual birth marks,0.5
+others,0.9074667328904616
+j dsouza so joseph,0.5
+relative,1.0564311594202898
+care,0.8846948234137723
+anil,1.1751552795031055
+serious injure,0.5
+receipt,1.5471923536439667
+outskirt,0.34782608695652173
+direct eye witness,0.5
+ipc read with section,1.25
+v state of rajasthan,1.12
+entries in the medical - legal case,0.0
+sunil fernandis,0.5
+midnight,0.5747899159663866
+month for the offence,0.0
+offence under sections,0.8
+injured george,0.5
+a- to the hospital,0.0
+pw- sri castelino,0.0
+judge,2.9012627415183325
+manuscmanusc,7.940520446096654
+asi,2.9557996793834067
+uppinangadi,1.0
+unknown offender,0.5
+conduct,1.5998023165163158
+taxi bearing registration,0.5
+car for treatment,0.5
+pws,1.5484615384615386
+medico - legal case register,0.0
+taxi charges of rs,1.5
+injures,0.9142857142857144
+truck after some talk,0.5
+basi of the voluntary statement,0.0
+patra,0.4444444444444444
+son pw- kiran castelino,0.0
+time of interrogation,0.5
+offences under section,1.3157894736842106
+courts suffers,0.5
+south police station,1.0
+primary health unit,0.5
+conclusion,1.3883437407077015
+exp- wherein,0.0
+vasanthkumar,1.0
+pw- in the court,0.0
+right nipple,0.5
+ceiko company,0.5
+facie case,1.75
+doctors of the injuries,0.5
+names as dsouza so joseph dsouza,0.5
+cleaner,1.2403846153846154
+evening pw-,0.0
+feeling,0.4897158322056835
+manjunath,3.0
+side mirror of the lorry,0.5
+informed gangadhariah pw-,0.0
+page,1.011907905159212
+general hospital,0.5
+chain,0.6855611957134798
+pursuant,0.7227692307692308
+lorry,6.666666666666667
+register,1.2311946902654867
+hypothesis of the guilt,0.6666666666666666
+receipt of communication,0.6666666666666666
+- legal case,0.0
+assistance,0.8623872906826965
+marks,1.4136144754122284
+injures on the person,0.5
+demand of taxi charges,0.5
+various hospitals,0.5
+appreciation,0.7282229965156793
+inmates,0.531400966183575
+wenlock hospital in injured condition,0.5
+occasion,0.7946745562130177
+court with the help,0.5
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+voluntary disclosure statements vide ex,0.5
+actual birth mark,0.5
+hypothesi of the guilt,0.0
+actual birth marks in the courts,0.5
+primary,0.7116013071895426
+pw- met,0.0
+kmc,0.4782608695652174
+sakaleshpur,5.0
+sakleshpur police station,0.5
+injured persons,1.8888888888888888
+ferozkhan pw-,0.0
+- in addition,0.0
+evidence of pw-,0.0
+renders that circumstance,0.5
+high court,7.7477477477477485
+complainant,4.538461538461538
+simple injuries,1.25
+enough evidence,0.26666666666666666
+complaint a-,0.0
+block,0.7881443298969073
+state,6.817996007300392
+answer,0.9554305705177771
+appreciation of mr panjwani,0.5
+jurisdiction,2.9539571926331507
+principle of law,1.1538461538461537
+truck,1.0360124699896083
+note,1.3654108484234107
+general hospital at sakleshpur,0.5
+forest,2.292817679558011
+trial,3.7979448350459712
+substituted driver,0.5
+pw-,0.0
+jurisdiction polouse,0.0
+ceiko,1.0
+manu,7.078142071124147
+general,1.7536558414534391
+infirmity,1.3095238095238095
+bag,1.1303125392243003
+identification mark of accused nos,0.0
+render,1.1768935701535619
+employer,2.639728353140917
+boy,1.0245410384202889
+kiran transport company,1.0
+joseph,0.4502673796791444
+amices-curiae,0.0
+work at balehonnur,0.0
+balance amount,1.1428571428571428
+voluntary disclosure statement,1.5
+dead body,1.192156862745098
+government hospital sakleshpur,1.0
+place within the jurisdiction,0.5
+full charges,0.5
+relevant entry,0.6666666666666666
+kiran castolina,0.5
+pw- puttumonu,0.0
+nature,1.4149926876444778
+phone call,0.6393762183235867
+identifiable marks on the body,0.5
+medico,0.8888888888888888
+rigorous imprisonment for life,1.0
+outskirts,0.34782608695652173
+health,0.8632619439868204
+coffee work,1.0
+manjunath so r shetty,0.5
+second circumstantial evidence,0.5
+anil kumar  anil dsouza,0.0
+consistent,0.7948615014050582
+sunil fernandi,0.5
+seizure of mo-,0.0
+pennabur factory,0.5
+ahmed,1.008695652173913
+sum,2.554898897856461
+situation,1.1254754682459434
+cob - web,0.0
+night,0.8690610404251893
+disclosure statement exp-,0.0
+driving of the driver,1.0
+injuries in a road accident,0.5
+various recovery,0.0
+estate of pw- rajegowda,0.0
+first circumstantial evidence,0.5
+necessary entries in the medical-legal case,0.0
+attention,0.8724846605528799
+recovery of wooden  katte,0.0
+ganga,3.0857142857142863
+doctor pw-,0.0
+able assistance,0.6666666666666666
+body in a lorry accident,0.0
+injury in a road accident,0.0
+others with simple injuries,0.5
+complaint of the accident,0.5
+additional link in the chain,0.5
+state of maharashtra v,1.0666666666666667
+vide ex,1.2
+persons,2.5993381990166555
+to the accident,0.6666666666666666
+b vasudeva psi,0.5
+full payment,1.0

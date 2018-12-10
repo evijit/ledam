@@ -1,0 +1,715 @@
+mishra,0.3173076923076923
+committee,2.546237803603864
+government,3.5583785424010483
+select list on the ground,0.5
+physiotherapist,0.2857142857142857
+civil court at muzaffarpur,1.0
+vacancy,1.0666666666666667
+conduct of the petitioner,0.75
+original order of appointment,0.5
+relief under article,0.75
+original petitioners,0.5
+dhananjay malik,1.0
+constitution of india,3.0095238095238095
+office of the district,0.5
+promotion in terms,1.3333333333333333
+mark,2.700508607198748
+employee,6.280487804878048
+other candidate,1.9259259259259258
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+general letter bearing,0.5
+jasmine,0.20833333333333334
+union of india v s vinodh kumar manuscmanusc,0.5
+court,12.24425115501509
+declaration,2.152560083594566
+judge of the high court,1.75
+jyoti,1.5238095238095237
+madras,2.836734693877551
+specific qualifications,0.5
+union,2.0981927710843373
+promotion from class iv,2.3333333333333335
+general order,2.25
+single judge,4.011627906976744
+same view,0.7272727272727272
+class iii post in the district court,0.0
+objection,1.68120480131216
+person,4.291511329454258
+outcome,0.6303030303030303
+ors,2.8612718198296623
+alse general order bearing,0.0
+part,5.294464509893076
+amlan,0.9000000000000001
+year experience in the post,0.5
+percent of vacant class iii,0.5
+scope for interpretation,0.5
+illegality in the procedure,0.0
+vijendra,0.5
+judge on the rules,0.5
+aspect,1.2449448189023034
+provisional basi until the next round,0.0
+free from vagueness,0.5
+district,1.5506763074237984
+direction from time,0.5
+decisions,1.3888475974580996
+sessions,1.3405714285714285
+certain specific qualifications in computer operations,0.5
+decision,2.9514937765898557
+eligible candidates,1.1428571428571428
+qualifying marks,4.333333333333333
+competent authority,2.7142857142857144
+pljr,0.5
+assam manuscmanusc,1.1666666666666667
+from vaguenes,0.6666666666666666
+fresh round,0.5
+law that a person,0.5
+test,2.5329834591340266
+pradeep kumar rai v,0.5
+post of physiotherapist,0.5
+staff,1.3233972834416785
+instructions,1.8111673678956002
+jasmine kaur manuscmanusc,0.5
+appeal,3.4125488033856883
+court of judicature,1.4210526315789473
+alse general of the high court,0.0
+fact that the appellant,1.05
+response to the writ petition,0.5
+interpretation,1.518366298484459
+original class iv post,0.5
+appointment by promotion-,0.0
+govil manuscmanusc,0.5
+test of eighty,0.5
+rajiv,1.2
+sessions judge,2.9545454545454546
+dr dy,0.6666666666666666
+if the equities,0.5
+order of a division bench,0.75
+accordance with the court,0.5
+operations,1.1793611793611793
+month,1.3454861111111112
+learned single judge,3.4935064935064934
+year,2.8349484769759212
+reference in this connection,1.2
+more point that the appellants,0.5
+judgment,3.288216560509554
+class iv,1.9393939393939394
+fixation,1.1141025641025641
+subject,2.4420366233344897
+order,5.472481489660944
+in the first selection process,0.5
+proces of selection,0.0
+fourteenth respondents,1.5
+merit cum seniority,1.0
+pursuance,1.543859649122807
+appointment to class iii posts,0.0
+clas,2.1196191893660425
+appointment,3.1380281690140843
+earlier requirement,0.5
+general letter of the high court,0.5
+month between the interview,0.0
+letter of the high court,0.5
+specific qualification in computer operations,0.0
+above terms,0.9375
+counter affidavit,1.96
+effect,2.184583388478191
+candidates,3.508445945945946
+patna,2.3421052631578947
+dinesh,3.230769230769231
+list,4.014941314095513
+such directions,1.3333333333333333
+minimum educational qualification,0.8
+earlier rule,0.5
+class iii post from amongst class iv employees,0.0
+to fourteenth respondents,1.5
+term of the directions,0.0
+fact that the appellants,0.8571428571428571
+fresh process of selection,1.0
+more point that the appellant,0.5
+dinesh kumar pandey manuscmanusc,0.5
+mode of appointment,2.3333333333333335
+examination comprising of ninety marks,0.5
+representation to the competent authority,0.5
+promotion from class iv employees,0.5
+judgments,1.2355646397547266
+consequence,0.8726692512593296
+first process of selection,0.5
+objection to the selection process,1.0
+place,2.333104345208554
+civil,2.126558634963905
+more point,0.303030303030303
+amlan jyoti borrooah v state of assam manuscmanusc,0.5
+computer operation,0.30000000000000004
+present case,1.5611814345991561
+successful in the previous result,0.5
+months between the interview,0.5
+judicature,1.4210526315789473
+following term,1.6170212765957446
+candidate on the basis,0.0
+regard,2.723310344827586
+malik,1.088888888888889
+district court,0.9523809523809523
+fresh proces of selection,0.0
+lacuna therein,0.5
+promotion,2.946428571428571
+provisional basi,0.5
+primary ground,0.5
+counter affidavits,1.0
+class,2.1508512849922936
+proces,1.627944583238701
+direction,1.8495050210098996
+class iv to class iii posts,1.5
+ninety marks while ten marks,0.5
+computer,1.3866140537259068
+chandigarh,1.52
+class iv posts,2.0
+ramesh chandra shah v anil joshi manuscmanusc,0.5
+v indian airline,0.5
+facts,1.4696673624372698
+subsequent selection,0.30000000000000004
+issue,2.766776251628934
+pradeep,3.5
+next round,0.25
+july,0.9742727723122656
+basi,2.0752712086391383
+form,2.4865961263718424
+class iii post for the purpose,0.5
+same principle,0.7309941520467836
+appointment committee,3.5
+fixation of seniority,0.8333333333333334
+method,0.9027027027027026
+list on the ground,0.5
+subaramanyam,0.5
+v indian airlines,0.5
+candidate,6.356675392670156
+petitioner,4.524972253052164
+other considerations,0.7272727272727272
+class iv post,1.6666666666666667
+session,2.2400874351067563
+brief recapitulation,0.5
+judgment of this court,2.1029411764705883
+cost,1.2954397451466992
+basis,1.953226441078104
+single judge on the interpretation,0.5
+service commission manu  scmanu  sc,0.0
+in the previous result,0.5
+holding,1.2555282555282552
+fifteen mark for the interview,0.0
+directions,1.5134125183504605
+acquiescence,0.6666666666666666
+course,1.6545957498716626
+advertisement,1.5480769230769234
+kaur,0.5
+chance of selection,0.5
+pursuance of an advertisement,0.5
+original proces of selection,0.0
+india v s vinodh kumar manuscmanusc,0.5
+fresh round of selection,0.5
+ten marks for promotion,0.5
+inviting application for promotion,0.0
+pradesh,4.365853658536586
+court on the administrative side,0.75
+hence,1.1440732910500353
+borrooah,0.5
+amendment,2.2486412346818434
+unsuccessful candidates,0.5
+new rule,1.0555555555555556
+ground,1.4186722903211633
+if the equity,0.0
+letters,2.0877496159754223
+high court from time,0.5
+court at muzaffarpur,1.0
+patent appeal,3.5833333333333335
+view that the ends,0.5
+amlan jyoti borroah,0.5
+issuance of general order,0.5
+impugned judgment,2.0927152317880795
+inviting application,1.3636363636363635
+subject to the above direction,0.6666666666666666
+class iii employee in rule,0.0
+estoppel,2.736842105263158
+following observations,0.8222222222222223
+fresh selection process,0.5
+field,1.5820968371729793
+liberty,0.7860465116279071
+relevant rule,1.1875
+nagamani v indian airlines,0.5
+matter,2.8088923076923082
+meantime,0.5833333333333334
+shukla,1.0
+article,4.378806157159795
+promotion-,0.0
+term,3.6255105640901575
+applications,1.0021816198527407
+mode of recruitment,1.0
+appellants,7.701086956521739
+provisional basis until the next round,0.5
+indian,1.2604961505560306
+requirement of an examination,0.5
+view,2.441100058469462
+post,2.344803646492219
+first proces,0.30000000000000004
+procedure for promotion,0.5
+eligible candidate,1.1428571428571428
+consisting of fifteen marks,1.0
+side,3.88845645915565
+relief,1.4748116760828625
+merit,1.2419290263876248
+andhra,4.830188679245283
+amlan jyoti borrooah v state,0.5
+ninth to fourteenth respondents,1.5
+ninety marks while ten mark,0.5
+letter bearing,0.6666666666666666
+result,1.3356630184144715
+appointment proces,0.5
+bihar,4.587301587301587
+interview consisting,0.5
+procedure,2.552771605064117
+specific qualification,0.5
+munindra,0.5
+scope,0.8412698412698413
+amlan jyoti borooah v state,0.5
+division bench of the high court,1.6825396825396826
+november,0.7203359669727383
+provision of the bihar,0.5
+computer operations,0.30000000000000004
+patent illegality,0.5
+provision,5.439002243350069
+selection process without any protest,0.5
+circular,2.0360934182590236
+recent judgment in madras institute,0.5
+to fourteenth respondent,1.5
+new rules,0.3409090909090909
+selections,0.6289308176100629
+provisions of the bihar,1.3333333333333333
+judgments in madan lal v state,0.5
+brief recapitulation of the facts,0.5
+recruitment,5.333333333333333
+criteria,1.3561764705882353
+petitioner s name,0.0
+fact,3.6284951019474962
+provisions of rules,0.6666666666666666
+appointment committee on the basis,1.0
+several decisions,1.1
+which selections,0.5
+several decision,1.1
+uttaranchal manuscmanusc,1.0
+such direction,1.375
+bihar manuscmanusc,1.9655172413793103
+judgment in madan lal v state,0.0
+other consideration,0.7083333333333334
+year experience,0.3333333333333333
+manu  scmanu  sc,0.0
+first selection proces,0.5
+december,0.9629002463054187
+borroah,0.5
+kumar,2.028839704896043
+same time,0.6913511801045461
+thereto,1.0358342665173572
+uttaranchal,3.7142857142857144
+unsuccessful candidate,0.6666666666666666
+other word,0.758838674565131
+several decisions of this court,0.8
+provides,1.440346729708432
+marks of forty,1.5
+qualifications,1.0714285714285714
+fresh examination,0.5
+forty,0.7632978723404255
+separate examination,1.5
+affidavit,2.2996987951807224
+eighty,0.7305785123966941
+basi until the next round,0.0
+class iii posts by promotion,1.0
+result in the writ petition,0.5
+principle,1.9620890732001848
+invoked jurisdiction,0.5
+class iv employee,1.2222222222222223
+course of the hearing,0.6666666666666666
+ends,1.0190933803699291
+interview of ten marks,0.5
+viva voce test,1.25
+point that the appellants,0.5
+posts,2.6556317082632876
+civil court staff,2.5
+to the appellant,2.239669421487603
+ninety marks,4.0
+appointment committee on merit - cum - seniority basis,0.0
+amended rules,1.6666666666666667
+justice,2.292557084574302
+process of interview,0.5
+munindra kumar v,0.5
+previous result,0.5
+recent judgment,1.0
+force in july,0.5
+shah,1.9074421513445903
+seniority,7.989473684210527
+v state,2.4603773584905664
+allocation,0.5581395348837209
+basic issue,0.75
+impugned judgment that the interpretation,0.5
+dhananjay malik v state of uttaranchal manuscmanusc,0.5
+division bench,3.965217391304348
+govil,0.5
+ramesh,1.5798816568047334
+airline,0.9595015576323989
+class iii posts,6.0
+rai,2.517873434808919
+amlan jyoti borooah v state of assam manuscmanusc,0.5
+promotion from class iv posts,1.0
+reference,2.1755848210276256
+administration,1.061072796934866
+special direction from time,0.5
+afresh,0.6891891891891891
+statutory rule,2.45
+place of the earlier requirement,0.5
+hearing,0.9644508209787979
+respondent,4.757894736842104
+successful in the first selection process,0.5
+interview of fifteen marks,0.5
+madras institute,0.5
+accordance,1.4069045211613462
+consist,1.0784032265563253
+employees,4.611008798854102
+ten marks,3.0
+question,2.980312372067635
+examination of the eligible candidates,1.5
+ten mark for promotion,0.0
+class iv employees,1.2222222222222223
+pursuance of the notification,1.0
+scmanu,7.940520446096654
+word,2.065873981084096
+which dealt,1.375
+writ,2.8882378560889794
+apprehension,0.9319526627218935
+administrative instruction,0.8
+view of the matter,1.7142857142857142
+basis until the next round,0.5
+months,1.1938163721148947
+other words,0.7578482137053969
+august,0.977116704805492
+institute,0.9140980436760691
+provisional basis,0.5
+part in the process,1.0
+mode,0.8201666928762384
+name,1.8996570753072433
+registrar general of the high court,0.75
+prakash,1.8933333333333333
+judgment of the division bench,1.8125
+new general order bearing,0.5
+recapitulation of the facts,0.5
+high,5.367119186841496
+following terms,1.5957446808510638
+earlier rules,0.5
+fresh general order,0.5
+account,2.5754891049671977
+appointments,1.2888888888888888
+event,1.4310854436179261
+force,1.6009408121948314
+pandey,1.875
+court from time,0.8333333333333334
+notification,3.0112746633260263
+equity,1.3214285714285714
+such candidates,2.6666666666666665
+purpose,2.519170317925504
+balance,0.9863636363636363
+law,3.538923411654744
+civil court,3.706666666666667
+observation,0.7625074854374218
+time,2.4764180952862667
+declaration of result,1.0
+division,1.7657319129617017
+fresh process,1.5
+vacant class iii,0.5
+issuance,1.05379513633014
+consideration of the period,0.5
+relevant rules,1.1428571428571428
+subject to such directions,0.5
+qualifying mark,4.333333333333333
+ninety,1.348684210526316
+educational qualification,2.625
+- selection,0.0
+candidates on the basis,0.6666666666666666
+registrar of the civil court,0.5
+open to the appellants,1.0
+public service commission manuscmanusc,1.0
+inviting applications for promotion,0.5
+chandigarh administration,0.75
+single judge of the high court,1.588235294117647
+protest,1.349300087489064
+above direction,1.0
+vagueness,0.8571428571428572
+first process,0.30000000000000004
+merit list,5.0
+criterion,0.7104166666666666
+terms of the directions,0.75
+right,3.07483248288682
+order of appointment,1.0
+madan lal v state,0.5
+statutory rules,1.875
+selection proces,3.3333333333333335
+connection,1.050640279394645
+fifteen mark,3.5
+invoked jurisdiction of the high court,0.5
+experience,1.0353951355971713
+percent,0.7207207207207208
+application,2.3322596088086445
+fresh proces,1.5
+april,0.8928235149629509
+deal with appointment,0.0
+india,2.7684068260703585
+commission,4.703619179345321
+promotion-i,0.0
+rules,3.130914366958792
+to the appellants,1.9166666666666667
+alse general,0.0
+specific qualifications in computer operations,0.5
+pradesh manuscmanusc,1.5714285714285714
+illegality,0.8076923076923077
+which dealt with promotion,0.5
+part in a selection process,0.5
+recapitulation,0.6666666666666666
+selection list,1.2
+v government of andhra pradesh,0.6666666666666666
+outset,0.5899159663865546
+judge on the interpretation,0.5
+risk,1.2477718360071302
+appointment process,0.5
+andhra pradesh,4.857142857142857
+in the first selection proces,0.5
+deals with appointment,0.5
+class iii employees,1.5
+results,0.6487493619193466
+gap,0.5109023703753942
+decision of this court,2.3260869565217392
+high court on the administrative side,0.75
+borooah,0.5
+mishra v mp,0.5
+reliance,1.400763358778626
+moreover,0.7807228915662651
+writ petition before the high court,1.0
+illegalities in the procedure,0.5
+appointments to class iii posts,0.5
+such candidate,2.5
+case,7.332269420884958
+period,1.9480170842427122
+error,1.059158294766151
+manish kumar shah v state of bihar manuscmanusc,0.5
+registrar,1.8341346153846154
+scc,1.941872465904902
+ten mark,2.0
+several decision of this court,0.0
+airlines,0.6666666666666666
+vaguenes,0.8571428571428572
+interviews,0.3765432098765432
+vijendra kumar verma,0.5
+constitution,3.204842342342342
+letter,2.707240080105903
+cum,1.9825519589997616
+first selection process,0.5
+instruction,1.8197943962910703
+examination comprising,1.0
+service,4.257395095954566
+first selection examination,0.5
+element,0.7062328407033122
+end,6.1484001628618765
+class iii,2.4166666666666665
+result of the judgment,0.6666666666666666
+joshi,0.9259259259259259
+preceding rule,1.5
+rule,5.04
+view that the appellant,0.8
+dhananjay malik v state,0.5
+fifteen marks for the interview,1.0
+following observation,0.8039215686274509
+supra,2.246342614440774
+chandra,0.7012987012987013
+bench,2.5793391667754992
+first proces of selection,0.0
+interview,1.56113727542299
+procedure of selection,0.6666666666666666
+administrative instructions,0.75
+patent illegality in the process,0.5
+v government,0.6666666666666666
+class iv posts on promotion,0.5
+select list,1.75
+office,3.5913445886237847
+method of selection,0.5
+respondents,2.6341263330598856
+costs,0.8167395522604189
+class iii employee,1.5
+manish kumar shah v state,0.5
+uttrakhand,0.5
+october,0.9478375701551667
+other candidates,0.5555555555555556
+marripati,1.0
+proces of interview,0.0
+methodology,0.47297297297297297
+point,2.9165043546008516
+process,1.6274942048088725
+special direction,0.75
+considerations,0.7860235003092146
+nagamani,0.6666666666666666
+registrar general,0.8333333333333334
+k manuscmanusc,1.3
+notice,2.3300025999395686
+amended rule,2.111111111111111
+above term,0.9375
+shall,3.6283780276816606
+from vagueness,0.6666666666666666
+high court of judicature,1.4210526315789473
+state of uttrakhand,0.5
+administrative side,1.6666666666666667
+examination without objection,0.5
+provide,3.0496848599534587
+lacuna,1.6111111111111112
+point that the appellant,0.5
+general letter,2.3333333333333335
+process of promotion,0.5
+examination,2.4920345926263088
+direct recruitment to class iii posts,0.5
+view that the appellants,0.75
+merit-cum-seniority basis,0.0
+lal,1.6786163249382287
+original proces,0.3333333333333333
+patent,1.3540828816226613
+court staff,2.0
+appropriate if the equities,0.5
+communication,1.013409067330636
+separate examination of the eligible candidates,1.5
+chandra prakash tiwari v shakuntala shukla manuscmanusc,0.5
+chandrachud,1.0
+operation,1.0959893294085181
+development v sk,0.5
+deals,1.3395407335280751
+mark of forty,0.0
+certain specific qualification,0.5
+government of andhra,1.6153846153846154
+counter affidavit that this general letter,0.5
+writ petition,6.24223602484472
+petition,5.3436539306104525
+fresh selection proces,0.5
+general order bearing,0.5
+remedy,1.3214024835646458
+response,0.7112676056338028
+merit-cum-seniority basi,0.0
+construction,2.2504918032786887
+law on the subject,1.0
+consideration,1.9110153789142115
+element of vagueness,0.5
+words,1.6384367086179112
+shakti,0.2745098039215686
+madan,3.9047619047619047
+recruitment to class iii posts,0.5
+class iv post on promotion,0.0
+comprising,0.6166666666666667
+fifteen marks,3.5
+nagaraja,1.25
+which selection,0.5
+anil,1.1751552795031055
+round of selection,1.0
+original class iv posts,0.5
+original process,0.3333333333333333
+round,1.6469623212681128
+raj kumar v shakti raj manuscmanusc,0.5
+tiwari,1.0909090909090908
+selection process,3.3333333333333335
+certain specific qualification in computer operations,0.0
+illegalities,0.875
+provide for the recruitment,0.5
+fourteenth respondent,1.5
+challenge,1.2204566274399267
+authority,2.4352627108360636
+judge,2.9012627415183325
+class iii posts in the district court,0.5
+original petitioner,0.5
+manuscmanusc,7.940520446096654
+amongst class iv employees,0.5
+inviting,0.90282131661442
+class iii post by promotion,0.0
+provisions,3.8929824561403508
+appointment by promotion,2.0
+conduct,1.5998023165163158
+selection,2.2651528696585017
+shiva,0.47520661157024785
+oral interview,1.0
+other unsuccessful candidate,0.5
+development,2.3145884270578647
+affidavits,1.954022988505747
+original process of selection,0.5
+glaring,0.6666666666666666
+appropriate if the equity,0.0
+conclusion,1.3883437407077015
+account of vagueness,0.5
+class iii posts from amongst class iv employees,0.5
+pursuant,0.7227692307692308
+verma,0.8524475524475524
+shakuntala,1.0
+shiva subaramanyam manuscmanusc,0.5
+process of selection,3.0
+proces of promotion,0.0
+muzaffarpur,4.0
+marks,1.4136144754122284
+dhananjay,7.0
+manish,1.0
+dealt,1.0007872325198597
+single judge on the rules,0.5
+iii,1.5614499719992534
+patent appeal in order,0.5
+qualification,2.1521739130434785
+appellant,14.387096774193548
+prejudice,0.880907124598545
+madra,2.836734693877551
+judgments of this court,1.4666666666666666
+ninety mark,4.0
+requirement,1.2416133333333332
+merit for appointment,0.5
+non-selection,0.0
+high court,7.7477477477477485
+assam,1.06
+public,2.923239095873367
+state,6.817996007300392
+form of a new general order bearing,0.5
+chance,0.7937084625609215
+jurisdiction,2.9539571926331507
+representation,1.2338308457711442
+deal,2.1942302694273583
+class iii post,7.0
+manu,7.078142071124147
+decision in raj kumar v shakti raj manu  scmanu  sc,0.0
+general,1.7536558414534391
+equities,0.7619047619047619
+calculated risk,0.5
+inviting applications,1.4
+nagaraja v the government of andhra,0.5
+counter,1.0576470084371923
+pursuant thereto,1.0769230769230769
+judgment in madras institute,0.5
+single,1.6221488419098207
+suitable direction,1.1428571428571428
+certain specific qualifications,0.5
+view that the end,0.5
+challenge to the process,0.5
+vinodh,0.5
+provision of rules,0.0
+class iii employees in rule,0.5
+eighty-five marks,0.0
+alse general order,0.0
+nagamani v indian airline,0.5
+appointment from class iii,0.0
+direct recruitment,4.0
+rashmi,0.5
+qualifying,3.05
+petitioners,3.536507936507937
+raj,1.3364194424876723
+observations,0.7454584147497534
+selection examination,0.5
+consisting,0.7085839256424276
+appointments from class iii,0.5
+action,3.127292663476874
+dealt with promotion,0.5
+interview consisting of fifteen marks,0.5
+other unsuccessful candidates,0.5
+persons,2.5993381990166555
+principle of estoppel,1.0
+eighty-five mark,0.0
+original order,1.125
+amongst class iv employee,0.5

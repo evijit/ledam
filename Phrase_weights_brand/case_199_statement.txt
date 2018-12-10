@@ -1,0 +1,360 @@
+committee,2.546237803603864
+present applicant,0.5
+facet,0.8467741935483872
+government,3.5583785424010483
+director,1.3549769585253457
+bites,0.5800000000000001
+state of kerala,2.861111111111111
+districts in the state,0.5
+injury hunts,0.5
+children,1.3787369914853358
+amicus curiae,1.6666666666666667
+reliefs,1.308641975308642
+responsibility,0.8659259259259259
+action on the part,0.6862745098039216
+national rural employment guarantee scheme,0.5
+reasons,1.3749054007567938
+failure,0.7827962142086977
+interest,2.74353772015385
+court,12.24425115501509
+employment,1.5239770785161355
+mr biju with agony,0.5
+prey,0.4107142857142857
+judge of the high court,1.75
+union,2.0981927710843373
+rise,1.6238941915958565
+facilities,0.9130594727161252
+person,4.291511329454258
+thrust,0.4345864661654135
+persons in the dog bite,0.5
+call,1.5442351461768689
+part,5.294464509893076
+stray,1.211340206185567
+rise to a catastrophe,0.5
+juncture,0.8717948717948718
+facility,1.2989690721649485
+amicus,1.0740740740740742
+jose sabastin,0.5
+number,1.4802651440973922
+district,1.5506763074237984
+health service,0.3157894736842105
+mr v,1.218836565096953
+complaints with regard,0.6666666666666666
+gratia amount,2.2
+districts,0.8210526315789474
+dave,0.5541026479241583
+applicants family,0.5
+kind of remedy,0.5
+grievous injury hunts,0.5
+mr dushyant,2.111111111111111
+rural,1.961287078934138
+month,1.3454861111111112
+rise to a remedy,0.5
+duty of the state,1.0
+various district,0.5
+individual in various districts in the state,0.5
+first prayer,0.5
+services,1.6850241065659326
+order,5.472481489660944
+injury,1.7199352451433856
+act,12.870263922028107
+apathetic attitude,0.3333333333333333
+sabastin,0.5
+guarantee,2.2562167724232554
+cure,1.7675659415471328
+young child,0.30630630630630623
+command,0.6880551024107304
+health services,0.4166666666666667
+member,2.649111111111111
+human beings,0.6097152428810719
+certain arrangement,0.5
+submission with all vehemence,0.0
+place,2.333104345208554
+that this kind of application,0.5
+driver,0.8230211045255637
+applicants family as this honble court,0.5
+regard,2.723310344827586
+call for materials,0.5
+direction,1.8495050210098996
+place to place,0.5454545454545454
+respect for the provisions,0.5
+accordance with law,1.0046948356807512
+control,2.148867902684286
+facts,1.4696673624372698
+issue,2.766776251628934
+arrangement,0.7318181818181818
+bandhua,1.75
+beings,0.5577464788732395
+centres  hospitals,0.0
+public law remedy,1.75
+counsel with singularity,0.5
+granting,0.8863960113960115
+following member,0.6666666666666666
+psyche,0.2857142857142857
+families,3.0833333333333335
+senior,1.989753211141579
+individual,1.1485140562248994
+anti - rabies vaccines,0.0
+conviction,2.248165832071736
+scheme,3.415949119373777
+anti - rabies vaccine,0.0
+attacks,0.65565749235474
+honble court,2.4444444444444446
+violation of any kind,0.0
+public order,1.6666666666666667
+applicants,0.6960950764006791
+charge,2.7679815308681284
+authority in this regard,0.5
+mr justice,1.631578947368421
+jose,0.5170724465558195
+interest of the applicant,0.5
+hence,1.1440732910500353
+hospitals,0.363677536231884
+cruelty,2.9099099099099095
+report to the honble court,0.5
+complaints,0.9978858350951374
+child,3.0202810640613067
+liberty,0.7860465116279071
+matter,2.8088923076923082
+prey to the dog,0.5
+hospital,1.3942768854411434
+attacks of stray dogs,0.5
+bandhua mukthi morcha v union,0.6666666666666666
+attack of stray dogs,0.0
+kind of application,0.5
+opinion,1.4960606342789635
+relief,1.4748116760828625
+wife,1.4518086408500224
+recent attack of stray dogs,0.0
+availability of medicines,0.5
+birth,1.5969847398418826
+such fact,1.0833333333333333
+public law,1.2777777777777777
+availability,0.6313043478260868
+material,1.4148767018946966
+various district in the state,0.0
+honorarium,0.75
+principles of natural justice,2.736842105263158
+adjudication of the responsibility,0.5
+secretary,0.9217877094972067
+provision,5.439002243350069
+mr biju that the horror,0.5
+gravity,0.3746556473829201
+interim direction,1.5
+deliberation with regard,0.5
+singularity,0.1724137931034483
+respect,2.6704963235294117
+case of bandhua mukthi morcha v union,0.5
+fact,3.6284951019474962
+medical facilities,0.8
+learned counsel,3.703333333333333
+counsel for the applicant,1.0
+learned judge,3.3692307692307693
+gravity of the injury,0.5
+vehicle,2.973111766564837
+department,1.9858367499068206
+following relief,1.1818181818181819
+centre,1.3584842944989197
+assistance of any authority,0.5
+mahatma,0.6666666666666666
+husband,1.6418918918918919
+particulars,0.9472222222222222
+stand,1.8422769621739425
+mukthi,1.3333333333333333
+granting of compensation,0.5
+victims,0.9
+recent attacks,0.5
+interlocutory application,1.7333333333333334
+vaccine,0.08754208754208755
+report,1.7768151696835826
+protection,1.1604395604395603
+principle,1.9620890732001848
+stray dogs,3.3333333333333335
+recent attack,0.5
+catastrophe,0.23076923076923073
+in various districts in the state,0.5
+mnreg,0.5
+issues,1.1246716508385532
+animal birth control,6.2
+amicu,0.8950617283950617
+respondent - state of kerala,0.0
+enquiry,2.145762711864407
+inadequate action,0.5
+bite,0.9658025372311085
+justice,2.292557084574302
+bus driver,0.4444444444444444
+grievance,1.032529659395331
+deliberation,0.7366666666666667
+vehicle by the state,0.5
+committee as a fact,0.5
+other provision,1.281045751633987
+rupees,2.311111111111111
+respondent,4.757894736842104
+accordance,1.4069045211613462
+dogs,3.8716356107660457
+- rabies vaccine,0.0
+principles,1.3198511166253102
+dog,3.520249221183801
+gandhi,0.9090909090909092
+secretarial assistance,0.5
+scmanu,7.940520446096654
+death of number,0.5
+honble,2.4444444444444446
+law remedy,1.75
+amount,3.179688593072295
+basant,1.8333333333333333
+injury hunt,0.5
+recent attacks of stray dogs,0.5
+mnregs,0.5
+obligation of the state,0.8
+high,5.367119186841496
+young children,0.30952380952380953
+members,1.9437616522164103
+natural justice,2.6666666666666665
+director of health services,0.5
+prayer,0.6969296987087519
+law,3.538923411654744
+time,2.4764180952862667
+treatment,1.1351020408163266
+present,1.9747480780089475
+free of charge,0.4871794871794872
+mr biju,1.6666666666666667
+principle of natural justice,1.0
+complaint,2.734525785235724
+such kind,0.5555555555555556
+giri,1.9047619047619047
+of charge,1.1199999999999999
+case of unfortunate death,0.5
+grievous injury hunt,0.5
+counsel,2.2246780703440323
+application,2.3322596088086445
+wife of the present applicant,0.5
+wrath of public law remedy,0.5
+india,2.7684068260703585
+number of victims,0.7500000000000001
+commission,4.703619179345321
+rules,3.130914366958792
+attitude,0.4886970172684459
+such kind of injuries,0.5
+dog bite,2.4
+gandhi national rural employment guarantee scheme,0.5
+submissions,0.5235745614035088
+rupee,2.2291666666666665
+first report,0.3333333333333333
+attack,1.0505713076597545
+submission,1.0913871684001404
+centres,0.7857142857142857
+interlocutory,1.96
+counsel for the state,1.3043478260869565
+victim,1.204831365285174
+that matter,0.5503846153846154
+horror,0.303030303030303
+case,7.332269420884958
+centres  hospital,0.0
+example,0.5893965031020868
+scc,1.941872465904902
+mr basant,1.3333333333333333
+adjudication,1.5392156862745099
+rabies,1.0000000000000002
+injuries,2.4130008710801394
+protections,0.24390243902439027
+service,4.257395095954566
+government of kerala,4.833333333333333
+time to time dealt,0.5
+rule,5.04
+complaint with regard,0.6666666666666666
+duty,3.2272215973003378
+violation,1.2087401208740118
+grievances,0.9324324324324326
+applicant,0.7861822513400833
+biju,1.3333333333333333
+vehemence,0.5714285714285714
+dushyant,2.111111111111111
+person in the dog bite,0.0
+particular,1.5248953455371081
+medicines,0.851063829787234
+certain arrangements,0.5
+curiae in the application,0.5
+senior counsel with singularity,0.5
+materials,1.1534090909090908
+appropriate compensation,0.6666666666666666
+kind of injuries,0.5
+subject to adjudication of the responsibility,0.5
+reason,2.6381270903010035
+bus,2.020565168811983
+such facts,1.0
+curiae,1.6875
+medicine,0.6969887076537014
+vol,1.8556860549079708
+position,1.549133168619177
+recourse to the public law remedy,0.5
+mr dave,0.6666666666666666
+remedy,1.3214024835646458
+second respondent,4.166666666666667
+violations,0.7048092868988391
+arrangements,0.6399535423925667
+unfortunate death,0.6666666666666666
+prevention of cruelty,1.0
+animal,3.672202634997217
+stray dog,2.3333333333333335
+- rabies vaccines,0.0
+prevention,0.6124072110286319
+morcha,2.25
+family,1.856281506375408
+siri,0.46646341463414626
+recourse,0.9157232704402517
+authority,2.4352627108360636
+judge,2.9012627415183325
+violations of any kind,0.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+death,2.361592909460208
+various districts in the state,0.5
+assistance of mr dave,0.5
+time dealt,0.5
+weeks,0.8109161793372318
+department of law,0.30000000000000004
+former judge,0.8
+gratia,2.3586206896551722
+room,0.6950710108604846
+compensation facet,0.5
+animals,1.4863203806502776
+assistance,0.8623872906826965
+national,1.5126860273884035
+senior counsel for the state,0.8333333333333334
+vaccines,0.09999999999999999
+obligation,1.1071428571428574
+week,0.8253498691546249
+medical facility,0.0
+inadequate action on the part,0.5
+animals act,0.8
+submissions with all vehemence,0.5
+kerala,4.135593220338983
+high court,7.7477477477477485
+state,6.817996007300392
+in various district in the state,0.0
+enthusiasm,0.3529411764705882
+clear that this kind of application,0.5
+failure of treatment,0.5
+manu,7.078142071124147
+jaga,0.441919191919192
+issue whether apathetic attitude,0.5
+nature,1.4149926876444778
+wrath,0.39722222222222225
+health,0.8632619439868204
+various districts,0.5
+kind,0.9236881920088026
+sum,2.554898897856461
+compensation,3.7916666666666665
+human being,0.599078341013825
+action,3.127292663476874
+prey to the attacks,0.5
+source,0.840137091365362
+fit,2.7848485899724365
+senior counsel,2.2857142857142856
+agony,0.3466666666666666
+following reliefs,1.2
+district in the state,0.6666666666666666
+persons,2.5993381990166555
+following members,0.6666666666666666
+respondent - state,0.0

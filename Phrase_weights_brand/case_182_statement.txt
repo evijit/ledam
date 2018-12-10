@@ -1,0 +1,938 @@
+protection clause,0.30000000000000004
+enactment,1.439950980392157
+tribes,1.6409945421467553
+standpoint,0.47619047619047616
+corollary,0.5
+government,3.5583785424010483
+similarity,0.5698051948051948
+regard to the facts,1.1
+efficiency,0.8919469928644241
+specific recruitment,0.5
+appropriate that the appeal,0.5
+groups of persons,0.5
+castes,3.7222222222222223
+validity,1.521010638297872
+substantive petition,0.5
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+vexed question,0.3333333333333333
+power of selection,0.0
+people,1.2855544825097243
+batch,1.2940630797773658
+past period,1.0
+true that the constitutional validity of rule,0.5
+recruitment to the indian administrative service,1.0
+matters,1.4810665618448637
+emergency basis,0.5
+large power,0.3333333333333333
+problem,0.6764352120789936
+methodology of selection,0.5
+anand parkash saksena,1.0
+interest,2.74353772015385
+doctrine of equality,0.5
+court,12.24425115501509
+concept of equality,0.75
+employment,1.5239770785161355
+aforesaid standpoint,1.0
+aforesaid presumption that the state act,0.5
+much before the court,0.5
+union,2.0981927710843373
+hesitation,0.5405405405405406
+submission of mr jain,0.5
+division bench by the impugned judgment,0.8
+stipulates that the claims,0.5
+single judge,4.011627906976744
+sufficient materials,0.6666666666666666
+authorities in relation,0.5
+person,4.291511329454258
+person of those emergency recruits,0.0
+ors,2.8612718198296623
+normal rules,0.6666666666666666
+allegations,1.8333333333333335
+diverse problem,0.5
+correctness,0.8404159132007234
+infinite variety of human relations,0.5
+same manner,0.6079182630906769
+part,5.294464509893076
+impugned provision,4.333333333333333
+beetle shop owner with the minimum income,0.5
+few people,0.24814814814814812
+test of permissible classification,0.5
+administrative service under the recruitment rules,0.5
+distinct clas,1.25
+things upon which such laws,0.5
+notional year,1.5
+true that article,0.6666666666666666
+necessity possess,0.5
+rule of law,0.5359801488833746
+specified subjects,0.5
+affair of the union,0.0
+discriminatory in nature,1.0
+necessary materials,0.5
+present appeal,1.3424657534246576
+aspect,1.2449448189023034
+number,1.4802651440973922
+decisions,1.3888475974580996
+subject matter,1.2537313432835822
+verge,0.7142857142857142
+decision,2.9514937765898557
+thing upon which such laws,0.0
+articles,1.4349688743466387
+service through a special emergency recruitment,0.5
+emergency basi,0.5
+regard to the conclusions,0.5
+aforesaid,2.592896174863388
+direct recruits,1.8571428571428572
+three - judge bench decision,0.0
+anand parkash saksena v union,0.5
+impugned provisions,0.8333333333333334
+professional,0.7317659631311781
+settled principle,1.0810810810810811
+such laws,0.43010752688172044
+making of appointment,0.5
+situations,0.7435282837967402
+claim,2.817264601856604
+test,2.5329834591340266
+which emergency recruits,0.5
+correctnes,0.8404159132007234
+distinction,0.7312167973690868
+appeal,3.4125488033856883
+problems,0.7376119010005265
+formula,1.9020570115902682
+pari materia,0.8333333333333334
+which period,0.8333333333333334
+aforesaid presumption that the state acts,0.5
+interpretation,1.518366298484459
+emolument,2.5555555555555554
+denial,0.8338926174496643
+claim of equal protection,0.5
+emergency recruit,24.5
+to the special recruits,0.5
+conferment,1.0909090909090908
+rational nexus,1.0
+same piece,0.30000000000000004
+walks of life,0.6666666666666666
+enjoins that the people,0.5
+year,2.8349484769759212
+validity of rule,2.3333333333333335
+people of those emergency recruits,0.5
+more person,1.2000000000000002
+materia,1.4277220364176888
+appointment to any office,0.5
+backward class,3.8461538461538463
+posts in connection,0.6666666666666666
+statutory rule for such recruitment,0.5
+present appeal by grant,0.5
+piece,0.8682170542635659
+judgment,3.288216560509554
+fixation,1.1141025641025641
+with the maintenance of efficiency,0.5
+recruits,2.0714285714285716
+stipulates that the claim,0.5
+claims,1.1941982272360998
+preamble,0.34324942791762014
+father,1.4298716229162676
+averments,1.76
+subject,2.4420366233344897
+services,1.6850241065659326
+different group of persons,0.0
+order,5.472481489660944
+act,12.870263922028107
+intelligible differentia,1.75
+conclusion of ours,0.5
+aforesaid rule,1.0769230769230769
+proces of selection,0.0
+necessary material,0.5
+variety,0.5229534147444596
+circumstance of the present case,0.0
+authority in relation,0.6666666666666666
+governor,1.1316137566137567
+administrative service form,0.5
+guarantee,2.2562167724232554
+clas,2.1196191893660425
+appointment,3.1380281690140843
+which grievance,0.5
+pleading,1.1270125223613594
+constitutional principle,0.3333333333333333
+enjoin,0.7000000000000001
+entire basis,0.5
+plea of provisions,0.5
+rajasthan public service commission,0.5
+equal protection,1.1885714285714284
+that the constitutional validity of rule,0.5
+special rule,1.3333333333333333
+inhibition of the equal protection clause,0.5
+idea,0.5945499587118084
+state government,3.027142857142857
+effect,2.184583388478191
+rules for recruitment,0.6666666666666666
+citizen,1.261748909029876
+similar set,0.8
+candidates,3.508445945945946
+vanishing cadre,0.5
+entire experience of such recruits,0.5
+bearing in mind,0.6018099547511312
+quarter,0.7884753275536145
+list,4.014941314095513
+different authority in relation,0.0
+absence of any materials,0.5
+manner,1.4494591333432125
+member,2.649111111111111
+different groups of persons,0.5
+manifest by experience,0.5
+formula under rule,0.5
+seniority in the aforesaid emergency recruitment rules,0.5
+contention of mr  jain,0.0
+appointments to posts,0.8
+minimum income,0.5
+past experience by adoption,0.5
+section,9.287987283173626
+pattanaik,1.7692307692307692
+large power of selection,0.0
+co-relationship with the administrative service,0.0
+similarity of treatment,0.5
+seniority in the cadre,2.6666666666666665
+rational relation,1.0
+servant,2.030552291421857
+to the division bench,1.0
+shop,1.5065156686317096
+condition,2.259476395625584
+aforesaid amount,1.0909090909090908
+standard,1.4669008088548319
+large powers,0.5
+special formula,0.5
+interference with the impugned judgment,0.6666666666666666
+place,2.333104345208554
+scheduled castes,2.7777777777777777
+circumstance,1.429931390219372
+civil,2.126558634963905
+officers,2.442124212421242
+special appeals,1.0
+need to man,0.5
+regulation,4.3783195107648485
+dependent upon the factor whether monthly emolument,0.5
+present case,1.5611814345991561
+which people,0.36250000000000004
+regard,2.723310344827586
+particular application,0.3636363636363636
+formula in the emergency recruitment rules,0.5
+allegations in writ petition,0.5
+class,2.1508512849922936
+different classes,0.4166666666666667
+proces,1.627944583238701
+emergency recruit to the rajasthan,0.0
+length,0.6297872340425531
+citizens in matters,0.5
+indicated therein,1.3333333333333333
+rational distinctions,0.5
+regards,0.9072861236185019
+facts,1.4696673624372698
+union of india,3.1324503311258276
+aforesaid list persons,0.5
+walk of life,0.0
+making,1.409351874023649
+civil appeal fails,0.5
+of article,2.1149999999999998
+basi,2.0752712086391383
+form,2.4865961263718424
+special laws,0.75
+powers,1.876345371920593
+justification,0.6859587020648967
+validity of regulation,0.6666666666666666
+irresistible that the aforesaid set of rules,0.5
+same set of laws,0.5
+fixation of seniority,0.8333333333333334
+weaker section,1.2222222222222223
+challenge to the impugned provision,0.5
+aforesaid observation of this court,0.5
+judge by judgment,0.6666666666666666
+same to the division bench,0.5
+benefit,2.604810195438474
+candidate,6.356675392670156
+guarantees,1.567496723460026
+service under the emergency recruitment rules,1.5
+different class,0.5
+judgment of this court,2.1029411764705883
+stipulate,0.993421052631579
+doctrine,0.7455954017243533
+enjoins that the person,0.0
+basis,1.953226441078104
+such recruits,1.0
+special appeal,1.25
+legislation in question,1.6
+monthly emolument,0.6666666666666666
+maintenance,0.8632111808077473
+infringement,1.152439024390244
+emergency recruits,4.0
+sub,7.816899313759727
+judge of rajasthan high court,0.5
+course,1.6545957498716626
+caste,3.66454871293581
+appointment to posts,0.0
+relevance,0.6870535714285714
+such practice,1.159090909090909
+competitive examination,1.6
+n  n,0.0
+materials from which grievances,0.5
+variety of human relations,0.5
+aforesaid case,1.3529411764705883
+pari materia with similar provisions,1.0
+appeal by grant,0.5
+state act,6.7
+government of rajasthan,0.6666666666666666
+groups,0.9065945998117897
+promotees,1.4285714285714286
+verge of superannuation,0.5
+list person,0.3333333333333333
+permissible classification,0.5
+officer,3.1197242647058823
+matter of seniority,0.6666666666666666
+question of denial,0.5
+allegation in writ petition,0.0
+jain,1.673202614379085
+ground,1.4186722903211633
+citizens,1.0493208639501226
+direct recruit,4.266666666666667
+account as a part,0.5
+amount to discrimination,0.6666666666666666
+opportunity,0.946186440677966
+rational relation to the object sought,1.0
+place under the aforesaid,0.5
+impugned judgment,2.0927152317880795
+test on specified subjects,0.5
+special rule for seniority,0.5
+lawmaking,0.9259259259259259
+different walk of life,0.0
+counter to the contention,0.5
+relation,1.397320207820618
+matter,2.8088923076923082
+concept,0.9402138540213855
+enjoins,0.75
+article,4.378806157159795
+bearing,0.7901184156798694
+amount of dissimilarity,0.5
+provision of section,1.4827586206896552
+state acts,5.714285714285714
+appellants,7.701086956521739
+aforesaid presumption,0.5
+equal protection clause,0.30000000000000004
+vanishing,0.2391304347826087
+indian,1.2604961505560306
+view,2.441100058469462
+rationale,0.6017094017094018
+post,2.344803646492219
+opinion,1.4960606342789635
+singhal v state,1.0
+submission on a hypothetical basis,0.5
+scheduled caste,3.875
+pleadings,1.3125
+merit,1.2419290263876248
+few person of those emergency recruits,0.0
+validity of the rules,1.3333333333333333
+governor in exercise,0.5
+inferior qualification,0.5
+few people of those emergency recruits,0.5
+such recruit,2.0
+special recruit,1.6666666666666667
+provision for the reservation,0.5
+emergency recruits to the rajasthan,0.5
+rules with the object,0.5
+dissimilarity,0.75
+relationship,1.1804123711340206
+administrative service under the emergency recruitment rules,1.5
+material,1.4148767018946966
+professionals,0.2585034013605442
+of the scheduled castes,0.8
+protection of infringement,0.5
+petitions,1.3930830039525692
+laws,1.4186274337269533
+impugned provision of the emergency recruitment rules,0.0
+large powers of selection,0.5
+single judge of rajasthan high court,0.5
+aforesaid list person,0.5
+provision,5.439002243350069
+averment,1.7
+notional service,2.0
+which such laws,0.5
+conclusions,0.8522069292833413
+experience of such recruits,1.0
+respect,2.6704963235294117
+aforesaid emergency recruitment rules,1.0
+legislation,3.2032032032032034
+division bench of rajasthan high court,0.6666666666666666
+own people,0.328042328042328
+recruitment,5.333333333333333
+situation under which people,0.0
+rajasthan administrative service rule,1.5
+premises,1.290983606557377
+fact,3.6284951019474962
+such law,0.81203007518797
+owner,2.9502416709822197
+affairs of the union,1.0
+ratio in the aforesaid case,0.5
+learned judge,3.3692307692307693
+constitutional validity,2.6875
+aforesaid premise,1.0
+anr,1.1271033322299457
+provision of the emergency recruitment rules,0.5
+seniority provision,0.5
+new to the state,0.5
+power of classification,0.5
+special,1.7363344051446945
+special law,0.875
+violative,2.2972972972972974
+aforesaid premises,1.0
+aforesaid provision for seniority,0.5
+object,1.4940119760479043
+kumar,2.028839704896043
+such emergency recruitment,0.5
+such people,0.3181818181818181
+wide power,0.5303030303030303
+presumption,1.06
+constitutional mandate,1.2727272727272727
+stand,1.8422769621739425
+different authorities in relation,0.5
+wide power of classification,0.5
+such submission,0.5555555555555556
+rationale with the aforesaid fixation,0.5
+assumption that the provision,0.6666666666666666
+upon the factor whether monthly emolument,0.5
+same set,0.6136363636363635
+cons,7.733515215613216
+pros,3.8590018590018595
+other word,0.758838674565131
+list persons,0.5
+person complain,0.5
+necessity,0.7072538860103627
+appeal fail,0.875
+of the scheduled caste,1.1
+qualifications,1.0714285714285714
+nexus between the basis,0.5
+quarter century,0.6666666666666666
+set of rules,0.5743243243243242
+transgression,0.3333333333333333
+discrimination,0.8429118773946361
+aforesaid observation,1.0555555555555556
+urgent need to man,0.5
+years,2.5395804110508022
+public service commission,3.7857142857142856
+enactments,0.7301587301587302
+exercise,1.9400726466785694
+administrative service rules,1.5
+material on this aspect,0.0
+to the state,1.0857585139318886
+protection,1.1604395604395603
+principle,1.9620890732001848
+entire past experience of such recruits,0.5
+variance on the subjects,0.5
+situations under which people,0.5
+identical treatment,1.0
+government servants,1.7
+aforesaid rules,1.0
+particular of the scheduled castes,0.5
+impugned provisions of the emergency recruitment rules,0.5
+posts,2.6556317082632876
+factor,1.2878742338904643
+circumstances of the present case,1.0714285714285714
+singhal s case,0.0
+grievance,1.032529659395331
+necessary in the first place,0.30000000000000004
+equality,1.5627329192546584
+profession,1.0704601259741646
+servants,1.1313131313131313
+less than rs-,0.0
+service commission,5.142857142857143
+such people with inferior qualifications,0.5
+mr jain,3.75
+entire experience,0.5
+different classes for the classification,0.5
+services of the state,1.0
+seniority,7.989473684210527
+constitutional principles,0.5
+v state,2.4603773584905664
+earlier bench decision of this court,0.5
+income,2.734813573523251
+different authorities,0.75
+suitability,0.8181818181818181
+human relation,0.2777777777777778
+division bench,3.965217391304348
+mandate of article,0.8
+powers of selection,0.5
+proper pleading,0.5
+to the direct recruit,0.5
+administration,1.061072796934866
+beetle shop owner,0.5
+clear transgression,0.5
+special recruits,1.5
+economic interest,0.5454545454545454
+in nature,0.7593052109181141
+statutory rule,2.45
+matter of reservation,0.5
+hearing,0.9644508209787979
+emergency recruitment to the indian administrative service,0.5
+material from which grievances,0.0
+mere differentiation,0.5
+length of time,0.5634146341463415
+equal protection to government servants,0.5
+cadre,2.7892948173322005
+century,0.6548536209553157
+- time scale under sub - rule,0.0
+adoption,0.6852035749751738
+standard of examination,0.5
+emergency,2.635026737967914
+principles,1.3198511166253102
+account for the purpose,1.0
+question,2.980312372067635
+officer to the rajasthan,0.0
+entire basi,0.5
+entire seniority in the cadre,0.5
+scmanu,7.940520446096654
+word,2.065873981084096
+similar circumstances,0.5454545454545454
+view of the matter,1.7142857142857142
+writ,2.8882378560889794
+people from different walks,1.0
+need,1.1097650269586634
+seniority under the emergency recruitment rules,0.5
+appeals,1.7060218112849692
+amount,3.179688593072295
+other words,0.7578482137053969
+practice,1.7660110149488593
+super - time scale,0.0
+inequality of treatment,0.5
+idea of absolute equality,0.5
+assumption that the provisions,0.6666666666666666
+factor whether monthly emolument,0.5
+discriminatory on the face,0.5
+first place,0.48711943793911006
+to the direct recruits,0.5
+aforesaid provision,1.6333333333333333
+hypothetical basi,0.6666666666666666
+rajasthan,3.9215686274509802
+similar provisions,1.0
+experience by adoption,0.5
+past,0.9553167330358714
+emergency recruitment rules,17.0
+diverse problems,0.5
+piece of legislation,1.3
+object sought,1.8
+class for the classification,0.0
+in the first place,0.485981308411215
+aforesaid set,0.8
+high,5.367119186841496
+members,1.9437616522164103
+sushil,2.0
+consistent with the maintenance of efficiency,0.5
+sub-rule,0.0
+special recruits seniority regulation,0.5
+appointments,1.2888888888888888
+account,2.5754891049671977
+course of hearing,1.0476190476190477
+inferior standard,1.0
+averment in the substantive petition,0.0
+particular subject,0.375
+equals,0.5806451612903226
+lawmaking authority,0.6666666666666666
+different group,0.6410256410256411
+human relations,0.2857142857142857
+particular objects,0.5
+variance,0.47368421052631576
+physical impossibility,0.5
+classification,2.196286472148541
+proviso,2.112
+objects,0.7297830374753452
+power under the proviso,0.5
+interference,0.5733527484528578
+purpose,2.519170317925504
+that purpose,0.609375
+law,3.538923411654744
+father of the constitution,0.0
+assumption,0.47735650342285413
+particular object,0.5
+the emergency recruitment rule,13.5
+observation,0.7625074854374218
+time,2.4764180952862667
+division,1.7657319129617017
+relation to the conferment,0.5
+treatment,1.1351020408163266
+singhal,1.3333333333333333
+group,1.691932599016908
+equal protection of infringement,0.5
+allegation,1.834319526627219
+normal rule,0.8
+twenty year,1.103896103896104
+such person,0.9634888438133874
+rajasthan administrative service,6.0
+administrative service in the year,0.5
+administrative service under the provisions,0.5
+years  service,0.0
+aforesaid fixation,0.5
+case in hand,2.1
+constitutionality of enactment,0.5
+aforesaid emergency recruitment rule,1.0
+violative of articles,1.5454545454545454
+past experience of such recruits,0.5
+more persons,1.388888888888889
+that recruitment,0.75
+administrative service,5.777777777777778
+appeal fails,0.8571428571428571
+infinite variety,1.0
+service form,0.3333333333333333
+relations,1.2666042780748663
+recruit to the rajasthan,0.5
+which reliance,0.9166666666666666
+grant,1.7314487632508835
+affairs,0.8608695652173913
+unequal treatment,0.6984126984126984
+special recruitment rule,0.5
+administrative service rule,1.5
+person with inferior qualifications,0.0
+right,3.07483248288682
+less merit,0.6666666666666666
+recruit,5.268177028451001
+hereinafter,0.7670609645131939
+provisions of the aforesaid emergency recruitment rules,0.5
+cadre of the administrative service,0.5
+confer,1.1904670382471652
+dealing,1.3134282178217822
+statutory provision,1.1638418079096045
+person complains of unequal treatment,0.5
+than rs-,0.0
+person complain of unequal treatment,0.0
+connection,1.050640279394645
+mandate,0.8783810859547183
+rule for seniority,0.5
+experience,1.0353951355971713
+absence,1.092363454568179
+counsel,2.2246780703440323
+note of the fact,1.4705882352941178
+application,2.3322596088086445
+policy,3.250773332247955
+preamble of the emergency recruitment rules,0.5
+administrative experience,0.6000000000000001
+india,2.7684068260703585
+on the face,0.6739130434782609
+seniority of the emergency recruits,1.0
+authorities,1.266131845134287
+certain premium,0.5
+different authority,0.0
+which such law,0.6666666666666666
+particular application of general guarantee,0.5
+rules,3.130914366958792
+confers,0.9700996677740863
+commission,4.703619179345321
+relation to the object sought,1.0
+service to which emergency recruits,0.5
+period of practice,1.6666666666666667
+averments in the substantive petition,0.5
+different walk,1.0
+special care,0.6666666666666666
+recruitment rules,10.166666666666666
+outset,0.5899159663865546
+fathers of the constitution,0.75
+different enactments,0.5
+before the court,0.9804822043628013
+submissions,0.5235745614035088
+civil appeal fail,0.5
+special emergency recruitment,0.5
+members of scheduled castes,0.75
+recruits seniority regulation,0.5
+submission,1.0913871684001404
+entire seniority,0.5
+consideration in the case,0.6666666666666666
+lesser standard,0.5
+conditions,1.9988092071092867
+differentiation,0.8615384615384616
+people with inferior qualifications,0.5
+equal law,0.5
+reliance,1.400763358778626
+distinctions,0.38461538461538464
+fathers,0.806060606060606
+walk,0.4442152312188413
+different walks of life,1.0
+people with less merit,0.5
+materia with similar provisions,1.0
+such person with inferior qualifications,0.0
+case,7.332269420884958
+period,1.9480170842427122
+error,1.059158294766151
+batch of writ petitions,1.1428571428571428
+sufficient material,1.0
+earlier bench decision,0.5
+inhibition,0.41666666666666663
+effect to policies,0.5
+- time scale,0.0
+presumption of constitutionality,0.5
+affair,0.8341728395061728
+constitution,3.204842342342342
+undue advantage,1.5
+writ petitions,2.984848484848485
+con,13.093373738143507
+super - time scale under sub - rule,0.0
+economic interest of the weaker section,0.5
+presumption that the state act,0.5
+person to place,0.5
+clear transgression of the constitutional principles,0.5
+promotee,1.4285714285714286
+superannuation,4.684210526315789
+case interpretation of sub - rule,0.0
+service,4.257395095954566
+notional year of allotment,1.5
+emergency recruitment rule,17.0
+similar provision,1.25
+undue advantage in respect,0.5
+classification of persons,0.5
+contention,1.666391070690368
+same piece of legislation,0.5
+provisions of rajasthan administrative service rules,0.5
+rule,5.04
+different walks,1.0
+hypothetical basis,0.6666666666666666
+favour,1.653145208700764
+than a quarter century on that score,0.5
+emergency recruitment to the state,0.5
+policies,0.5962145110410095
+rule for such recruitment,0.5
+supra,2.246342614440774
+principle of n  n,0.0
+necessary corollary,0.875
+own person,0.7605633802816901
+bench,2.5793391667754992
+interview,1.56113727542299
+service of the state,0.6666666666666666
+service rules,2.95
+member of scheduled castes,0.0
+violative of article,2.1379310344827585
+office,3.5913445886237847
+three - judge bench decision in singhal,0.0
+backward clas,3.8461538461538463
+few person,0.5
+leave,1.0147842365477848
+relevance in the matter,0.5
+grievances,0.9324324324324326
+by experience,0.4
+seniority list,3.857142857142857
+advantage in respect,0.5
+iota,0.34552845528455284
+special recruitment rules,0.5
+necessity posses,0.5
+presumption in favour,0.8
+burden,0.9853978671041838
+apart,0.6007021119981881
+point,2.9165043546008516
+methodology,0.47297297297297297
+process,1.6274942048088725
+aforesaid set of rules,0.5
+tribe,2.294908466819222
+rational nexu,1.0
+impossibility,0.9166666666666666
+mr jain on the ground,0.5
+saksena,1.0
+insufficient number,0.5
+nexus for the object sought,0.5
+specified subject,0.5
+nexus in the formula,0.5
+that score,0.4375
+service under the provisions,0.5
+interest of the weaker section,0.5
+different class for the classification,0.0
+power,3.8165227690948367
+rs-,0.0
+specific recruitment to the administrative service,0.5
+that differentia,0.41666666666666663
+service under the recruitment rules,0.5
+emergency recruitment,20.5
+provisions of rule,0.7407407407407408
+provisions of the emergency recruitment rules,1.0
+premise,1.2347417840375587
+materials,1.1534090909090908
+constitutionality,0.7965517241379311
+examination,2.4920345926263088
+distinct class,1.25
+dying,1.3815695769833358
+avowed policy,0.5
+bench of this court,1.8271604938271604
+case interpretation,0.6666666666666666
+past experience,0.606060606060606
+classification on a basis,0.5
+that the aforesaid set of rules,0.5
+such recruitment,1.3333333333333333
+onwards,0.625668449197861
+reservation,2.6876587100050786
+set,2.3027452395971277
+different enactment,0.5
+life,1.3352928273744242
+order that a law,0.5
+seniority of the emergency,1.0
+one,4.845669314438648
+writ petition,6.24223602484472
+petition,5.3436539306104525
+apparent,0.7326514555468135
+subject matter of challenge,1.25
+proper pleadings,0.5
+consideration,1.9110153789142115
+inferior qualifications,0.5
+junior to the special recruits,0.5
+service in the year,0.5
+words,1.6384367086179112
+that period,0.6127946127946128
+rule - making authority,0.0
+likes,0.39313399778516056
+specific object,0.40384615384615385
+recruitment of the appellant,0.5
+rational distinction,0.5
+plea,1.4430487701432178
+same subject,0.5882352941176471
+rajasthan administrative service rules,1.5
+clause,3.526455026455027
+the emergency recruitment rules,13.5
+to the special recruit,0.5
+differentia,1.1614241272035948
+absence of an iota,0.5
+provision of rajasthan administrative service rules,0.0
+others,0.9074667328904616
+dual test,0.5
+acts,1.9133929521984454
+care,0.8846948234137723
+un-imaginable that such practice,0.0
+premium,1.799652777777778
+basi of differentiation,0.0
+decisions on which reliance,0.5
+general guarantee,0.5
+mr sushil kumar jain,0.6666666666666666
+protection of equal laws,0.5
+that the appeal,1.2083333333333333
+administrative service through a special emergency recruitment,0.5
+emoluments,2.0
+v state of rajasthan,1.12
+object of the act,1.5555555555555556
+officers to the rajasthan,0.5
+protection to government servants,0.5
+legislature,2.818553268765133
+post in connection,0.0
+challenge,1.2204566274399267
+which person,0.6666666666666666
+last quarter century,0.5
+opinion of the state,0.8333333333333334
+judge,2.9012627415183325
+authority,2.4352627108360636
+provisions,3.8929824561403508
+provision of rule,0.5
+manuscmanusc,7.940520446096654
+point of time,0.7999999999999999
+notional service to which emergency recruits,0.5
+citizen in matters,0.0
+period during which period,0.5
+cadre under the recruitment rules,0.5
+selection,2.2651528696585017
+favour of any backward class,0.6666666666666666
+set of laws,0.2857142857142857
+rule for recruitment,0.0
+more than a quarter century on that score,0.5
+singhal v state of rajasthan,1.0
+person complains,0.5
+direct recruit to the rajasthan,0.5
+conclusion,1.3883437407077015
+beetle,0.45454545454545453
+face,0.7281253260594137
+ratio,5.027061939235792
+special leave,1.903225806451613
+service rule,3.1
+legislative classification,0.5
+similar set of rules,0.5
+that article,0.9347826086956522
+senior to the direct recruits,0.5
+advantage,1.1441364159430905
+anand,1.15
+judges,2.0931496919173616
+subjects,0.9254185692541858
+process of selection,3.0
+year of allotment,3.5
+indian administrative service,1.5
+hand,2.0299623418254717
+recruitment rule,10.166666666666666
+such submission on a hypothetical basis,0.5
+equal,1.322635135135135
+stipulates,1.033492822966507
+onward,0.6182170542635659
+fact in anand parkash saksena v union,0.5
+quarter century on that score,0.5
+no doubt,0.8331331503088538
+equality before the law,1.25
+walks,0.4137931034482758
+score,0.45496296296296296
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+allotment,4.111111111111112
+qualification,2.1521739130434785
+nexus between that period,0.5
+half of n,0.2857142857142857
+basis of differentiation,0.5
+view that the notional service,0.5
+government servant,3.466666666666667
+constitutional validity of rule,0.5
+rajasthan high court,1.9090909090909092
+high court,7.7477477477477485
+public,2.923239095873367
+past period during which period,0.5
+state,6.817996007300392
+application of general guarantee,0.5
+person from different walks,0.0
+regulations,3.7157723577235777
+statute,2.5765859456247218
+classes,1.212856534695615
+note,1.3654108484234107
+absolute equality,0.5
+maintenance of efficiency,1.5
+stand point,0.7777777777777778
+single judge by judgment,0.5
+same year,0.3879310344827586
+manu,7.078142071124147
+entire past experience,0.5
+group of persons,1.75
+recruits seniority regulations,0.5
+respect of a vanishing cadre,0.5
+counter,1.0576470084371923
+recruitment to the administrative service,0.5
+scale,2.0845464725643894
+single,1.6221488419098207
+provision of the aforesaid emergency recruitment rules,0.0
+inequality,0.48
+airsc,1.6909090909090911
+man,6.972395052694935
+decision on which reliance,0.6666666666666666
+similar circumstance,0.5454545454545454
+nature,1.4149926876444778
+transgression of the constitutional principles,0.5
+materials on this aspect,0.5
+things,0.6162490788504054
+recruitment of a candidate,0.5
+anyone of the persons,0.5
+illjsc,3.25531914893617
+classes for the classification,0.5
+pro,11.338881586411553
+observation of this court,0.6666666666666666
+fundamental right,2.9790209790209787
+matter of challenge,1.25
+equality of opportunity,0.6666666666666666
+situation,1.1254754682459434
+junior,0.9861207494795279
+urgent need,0.5
+presumption that the state acts,0.5
+twenty years,1.1111111111111112
+rule with the object,0.0
+person with less merit,0.0
+administrative,1.85302734375
+period of twenty years,0.5
+which grievances,0.5
+court in the aforesaid case,0.8
+which emergency recruit,0.5
+learned judges,3.4864864864864864
+different groups,0.6410256410256411
+of articles,0.5798319327731094
+persons,2.5993381990166555
+parkash,1.25
+nexus,0.8586538461538462
+thing,1.1131787570209408
+special recruits seniority regulations,0.5
+equal laws,0.5

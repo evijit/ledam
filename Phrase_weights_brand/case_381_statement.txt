@@ -1,0 +1,3036 @@
+actus contra actum,1.25
+statement that requisite procedure,0.5
+vehicle caught fire,0.5
+government,3.5583785424010483
+deepak,0.45882352941176463
+deaths,0.43177752480078063
+iota of material,0.6666666666666666
+because human being,0.5
+corroboration,1.5714285714285714
+criminals today,0.3636363636363636
+lives,0.6840821832520494
+hope of advantage,0.6666666666666666
+court in several cases,0.5
+j order of the court,0.0
+signature,1.1400966183574879
+fear of any threat,0.6666666666666666
+bride,0.30909090909090914
+international countermeasure,0.6666666666666666
+such contention,0.8333333333333334
+terms of section,1.98
+bombay manuscmanusc,1.1666666666666667
+betrayal,0.35526315789473684
+circumstance of each case,0.0
+by illegal names,0.5
+confessional statement before dcp bs,0.5
+course of investigation,2.2
+-days,0.0
+target of attention,0.6666666666666666
+mr bedi,2.0
+despondency,0.5
+application from jail on,0.5
+dnc-,0.0
+union,2.0981927710843373
+serial,0.95402624374587
+grievance against p,0.75
+ssp,2.4766120218579233
+cause,1.8431210321626654
+way,1.7812722068664852
+meanings,0.4901960784313726
+delhi admn,1.0
+halsbury,1.5294117647058822
+technical meaning,0.6000000000000001
+detonator,0.2857142857142857
+correctness of the conviction,1.0
+immediate human victims,0.6666666666666666
+aspect on which great emphasis,0.5
+cross,2.0778316690442225
+that house,0.4444444444444445
+houses,1.0821764442454098
+see inder singh,0.5
+observed-,0.0
+blank pieces of paper,0.5
+punishable under sections,1.6153846153846154
+challenges,0.39999999999999997
+scenario,0.4835164835164836
+reduces punishment,0.5
+in evidence,0.9141274238227147
+sessions,1.3405714285714285
+trust,1.8699167074963252
+contrary,1.027917657672435
+pljr,0.5
+aforesaid,2.592896174863388
+formal arrest in the present case,0.5
+test,2.5329834591340266
+federal bureau,0.3333333333333333
+correctnes,0.8404159132007234
+pal singh  deepak,0.0
+diction of the dcp,0.5
+independent corroborative evidence,0.5
+duress etc,0.5
+blank piece,0.5
+v state of kerala manuscmanusc,1.0555555555555556
+diabolic in conception,0.5
+in criminal proceedings,0.6666666666666666
+similar powers,0.6666666666666666
+scr,2.483838975311538
+refers,0.6484772632457239
+innocent man,0.5555555555555556
+major obstacle to meaningful international countermeasures,0.6666666666666666
+death sentences,0.37037037037037035
+see--harison,0.0
+suspicions,0.3333333333333333
+sunder-,0.0
+psychological phenomenon,0.5
+sentence remain,0.5
+statement without any fear,0.5
+modifies that judicial sentence,0.5
+expert,2.5786336542870245
+ward,2.4967109028473318
+stage,1.1298537871524448
+political change,0.6666666666666666
+month,1.3454861111111112
+president power,0.5
+particular persons for political purposes,0.6666666666666666
+terror,3.0695596271295407
+circumstances of this case,1.1363636363636365
+peace time equivalents,0.5
+interpolation,0.1896551724137931
+piece,0.8682170542635659
+context of section,0.8571428571428571
+kadian  pal ro village,0.0
+gurdeep singh,2.0
+guru,0.9513050253213869
+furtherance of the conspiracy,0.8
+sood,0.8124999999999999
+perilous situation,0.2857142857142857
+order,5.472481489660944
+edn,0.4833395383469844
+term of art,0.0
+lufthansa airline,1.25
+unlawful purpose,1.0
+device like cassettes,0.5
+decades,0.5510204081632653
+edition vol,1.2666666666666666
+league of nations,1.3333333333333333
+name of vk sod,0.5
+ruleb,0.47058823529411764
+sood on the date,0.5
+ingredients,0.7539893617021276
+standards,1.312168199737188
+minimum as the case,0.5
+statement of objects,1.565217391304348
+right turn,0.21052631578947367
+directory,0.8230452674897119
+room at sahibabad,0.0
+agreed - upon definition,0.0
+bedihas,0.5
+see state of up,0.6666666666666666
+say,1.0367995905217446
+wealth,0.6565504807692307
+dated,3.314287926295823
+copy,0.8620926631522174
+quintal of rdx,0.5
+direct evidence in proof,0.75
+see shivanarayan laxminarayan joshi,0.6666666666666666
+entire proceeding,0.8571428571428571
+member,2.649111111111111
+open to public view,0.75
+public duty,1.625
+parties,1.8210828547990157
+jullandhar,0.5
+pursuit,0.4088114754098361
+old,2.3604324583711596
+judicial power center,0.75
+offence under this act,0.75
+meeting,1.5978547625659538
+use of criminal means,1.25
+version,1.0500313479623824
+shop,1.5065156686317096
+aforesaid evidence,2.2
+condition,2.259476395625584
+unlawful use of force,0.6666666666666666
+court that the confessional statement,0.5
+which security personnel,0.5
+void,1.2208700269947337
+question of admissibility,0.5
+scion,0.2608695652173913
+international,1.4453445246925631
+substantive evidence,1.8
+by illegal means,1.3333333333333333
+present case,1.5611814345991561
+john b saunders,0.6666666666666666
+true circumstance,0.5
+soldier,0.19283746556473827
+extreme indignation,1.0
+criminals,0.4238013698630137
+context,0.9269383697813122
+death merchant,0.30000000000000004
+sod,1.7205882352941175
+dowry death,3.888888888888889
+situation under the ordinary penal law,0.6666666666666666
+helpless woman,0.75
+similar power,0.8888888888888888
+sahib singh v state,0.5
+next day,0.6306081754735793
+affirmative evidence,0.75
+enterprises,0.948060941828255
+rendering,0.4557561408700799
+chandigarh,1.52
+multiple murder,0.6000000000000001
+promise,2.0067372473532243
+party to the conspiracy,0.75
+para,2.300239586747483
+basis of so - called confessional statement,0.0
+making,1.409351874023649
+mistress,0.25
+backand,0.2567567567567568
+positive rule of english criminal law,0.6666666666666666
+powers,1.876345371920593
+conspirator,6.090322580645162
+application in confirmation,1.0
+trapping of the provisions,0.75
+necessary for the prosecution,1.0
+other question,0.6025778732545649
+mr bitta,1.5
+prescription,0.812549019607843
+auto rickshaw,0.5
+more of the accused persons,0.75
+today,0.6330563683773655
+charni,0.5
+president of indian youth congress,0.5
+statement before dcp bs,0.5
+circumstances-,0.0
+jurisprudence vol,0.75
+last week,0.4861538461538461
+suspicion,0.690982776089159
+scheme,3.415949119373777
+president,2.1267129228100607
+statement on computer,0.5
+next date,1.0
+distt,1.0476190476190477
+car bomb attack on ssp  chandigarh,0.0
+power under scion,0.5
+criminal trial,0.8333333333333334
+terrorists,0.9428571428571431
+judicial custody,2.4285714285714284
+charge,2.7679815308681284
+certain aspect,0.6666666666666666
+prior information,0.5
+proof beyond reasonable doubt,0.6666666666666666
+recede,0.8837209302325582
+country,1.2903191103863751
+state extends,0.5
+grievance about the statement,0.5
+terms of conspiracy,0.75
+different parts of the country,0.8
+evidence direct,1.0
+advantage of the situation,0.75
+child,3.0202810640613067
+fore,7.06241367403315
+actions,3.633288043478261
+end of confession,0.5
+several persons,0.787878787878788
+opportunity,0.946186440677966
+factual scenario,1.0
+protocols,0.2760736196319018
+impugned judgment,2.0927152317880795
+remediles,1.0
+mechanical device,0.2727272727272727
+fbi,0.20039514535704203
+following observations,0.8222222222222223
+police custody,2.0
+loan,2.299059561128527
+propriety,0.5551020408163265
+master receiver of the telephone,0.5
+tenant,4.821212121212122
+hired assass,0.75
+safe guard,1.0
+as section,0.8333333333333334
+previous knowledge,0.5
+evidence of pw -bb,0.0
+acpc,0.2777777777777778
+peace time equivalents of war crimes,0.5
+boys,0.8607594936708862
+serious crime of the nature,0.75
+following observations in jayawant dattatray,0.5
+lord hale,0.6666666666666666
+death in exercise,0.5
+paper under threat,0.0
+mrk,0.13333333333333333
+stage question,0.5
+scheduled caste,3.875
+many case,0.5186751233262861
+judicial sentence,0.5
+other aspect,0.6921768707482993
+tada,3.869047619047619
+forged passport,1.5
+foil,0.4307692307692308
+consensu to effect,0.0
+recovery,3.9892473118279574
+several definition of terrorism,0.0
+law enforcement agencies,0.27722772277227725
+fulfillment of the object,0.6666666666666666
+word  terror,0.0
+simple reason,0.646551724137931
+requirement of sub - section,0.0
+layal,0.375
+pressure,0.6730769230769231
+kartar,1.25
+law relating,1.3870967741935485
+member of a family,0.0
+conscience,0.7416879795396419
+old as lord hale,0.6666666666666666
+matter of inference,1.0
+pragati,0.6666666666666666
+perusal of the acmm,0.5
+v state of punjab manuscmanusc,1.5217391304347827
+duress,1.6666666666666667
+first,1.9006367208168047
+effect of brother shah,0.5
+legal act,1.6752873563218391
+requisite procedure,0.75
+conjure,0.3970588235294118
+court in ramdeo chauhan v state,0.5
+pasayat,1.0
+vehicle,2.973111766564837
+duties,1.477142857142857
+anr,1.1271033322299457
+emotional response in the victims,0.0
+december,0.9629002463054187
+other nature,0.32
+cmm,1.4373385012919897
+actors,1.3269442262372348
+snacks,0.5
+bangalore,1.2
+back side,0.8333333333333334
+sikh,1.5000000000000002
+law of conspiracy,1.0
+photographs,0.8524590163934426
+shri b,1.7222222222222223
+doubt,1.3646267723102583
+profound respect,0.6666666666666666
+american jurisprudence vol,0.75
+alleged trans action,0.5
+act of terrorism  peacetime equivalent,0.0
+youth,0.4385150812064965
+characteristic,0.6366782006920415
+report,1.7768151696835826
+code of criminal procedure,6.120689655172414
+purpose of the confessional statement,0.5
+principle,1.9620890732001848
+reus in a conspiracy,0.5
+question of sentence,1.6666666666666667
+hero,0.370121130551817
+good ground,0.49382716049382713
+meanness,0.45000000000000007
+civilian population,0.31746031746031744
+cell,1.2725925925925925
+copy of the personal search memo,0.5
+walter,0.2543171114599686
+making of a confession appear,0.5
+scale tada,0.6666666666666666
+factor,1.2878742338904643
+remission,2.807017543859649
+further prosecution version,0.5
+commencement,1.2037037037037035
+coleridge,0.75
+various authority,0.0
+cloak,0.49090909090909085
+cross-examination,0.0
+commute sentence,0.5
+power of the state extends,0.5
+certain conditions,0.606060606060606
+factual scenario of the present case shows,0.5
+social objectives,0.7619047619047619
+extra ordinary situation,0.5
+common wealth v chin kee,0.5
+killing,0.5793901156677181
+cases of bride burning,0.75
+term of attacks,0.0
+gist of the offence,1.25
+navneet,2.3333333333333335
+date,6.195616975795285
+corroborative piece,1.0
+learned author,1.25
+appropriate sentence in the case,0.5
+part expres,0.5
+extremist,2.0140350877192983
+reference,2.1755848210276256
+country for decades,0.0
+understanding,0.8257450331125827
+main culprits ie,0.5
+respondent,4.757894736842104
+alleged attempt,0.5
+unlawful design,0.75
+constitution deal with pardon,0.5
+man s terrorist,0.0
+reiterates that criminal act,0.6666666666666666
+state of affairs,0.9015151515151515
+generator,1.8385650224215246
+attacks on the world trade center,0.6666666666666666
+confession appear,0.6666666666666666
+statedelhi,0.5
+human victims of violence,0.6666666666666666
+statement that requisite procedures,0.5
+evidence ofpw mr  k,0.0
+remita,0.5
+essential ingredient of the offence,1.0
+relevant date,2.8
+new delhi before the expiry,0.5
+approach,1.001908852302553
+view of the matter,1.7142857142857142
+hostage taking,0.6666666666666666
+corroborative piece of evidence,0.75
+version of mr  bedi,0.0
+pawan,1.0
+august,0.977116704805492
+security car,0.3333333333333333
+sahib,1.6666666666666667
+refer,3.840717772752903
+more party to such agreement,0.0
+technical meaning of the word,0.6666666666666666
+acp shri k,0.5
+entire fact of the case,0.0
+refusal of asylum,1.0
+expectation,0.8103813559322035
+aforesaid propositions,0.75
+innocent person,0.7439353099730458
+hitendra,0.75
+brother,1.4566585956416465
+ordinary law enforcement agency,0.0
+viscount,0.8333333333333334
+true that the witnesses,0.6666666666666666
+event,1.4310854436179261
+line,1.6884436630262616
+custodial interrogation,0.75
+major obstacle,0.6666666666666666
+devender,3.3333333333333335
+ideal goal,1.0
+such ideal goal,0.5
+defendant,3.7706855791962175
+obstacle to meaningful international countermeasures,0.6666666666666666
+car of ms bitta,0.5
+english,0.9836154262307752
+intended activity,0.6666666666666666
+engineering,1.3567493112947657
+expert a schmid,0.6666666666666666
+saunder,0.37037037037037035
+germany in the expectation,0.5
+offence of criminal conspiracy,1.75
+influences,0.30894308943089427
+part in the formation,0.75
+minor deficiency,0.5
+piece of evidence,0.8181818181818181
+meridian hotel alongwith gypsy,0.5
+tran,3.282944357219938
+requirements under section,0.75
+guru nanak engineering college,0.5
+inspector tej singh,1.0
+prison rule,0.5
+equivalents,0.3232323232323232
+favour of a police officer,0.6666666666666666
+co-conspirator,0.0
+stirlant v director,0.5
+pakistan,0.22727272727272724
+airport police authority by lufthansa airlines staff,0.0
+circumstances in the light,0.75
+stands,0.7032366540563262
+to water down the scheme,0.5
+unlawful object at the same time,0.75
+affairs,0.8608695652173913
+crilj,5.333333333333333
+mechanical at guru nanak engineering college,0.5
+legal position,0.7659574468085106
+objector,0.315
+hereinafter,0.7670609645131939
+earthly reason,0.5
+pre-engineering examination from layal pur,0.0
+nallini s case,0.0
+acmm on,1.0
+first aid,0.35294117647058826
+internal compulsion,0.5
+experience,1.0353951355971713
+reads,0.8722657304887929
+ipc,2.785166240409207
+act by illegal means,1.0
+requirement under section,0.5
+guilty of the offence of criminal conspiracy,0.5
+practice of terrorism,0.0
+legal definition,0.26666666666666666
+regina v murphy,0.75
+commission,4.703619179345321
+acceptable definition,0.6666666666666666
+proof of an agreement,0.75
+attitude,0.4886970172684459
+death merchants,0.30000000000000004
+appellant devenderpal singh,0.5
+violence against person,1.3333333333333333
+previous line,0.5
+that legislature,0.8
+club,0.8279165868248507
+names,1.766440410418311
+terminology consensu,0.6666666666666666
+new,0.9418497626301229
+appropriate sentence,0.6666666666666666
+russell,0.4098124098124098
+acquittal,2.2714285714285714
+james,0.3839686098654708
+place of judicial evaluation,0.5
+cjm,1.0451388888888888
+appellant for the offence,1.0
+unlawful mean,2.4
+dcp,1.3842857142857141
+party to such agreement,0.0
+links of circumstantial evidence,0.6666666666666666
+tej,0.5223880597014926
+innocent form,0.5
+evidence,3.6676405172088815
+threat-,0.0
+vice,3.766984711894892
+document,1.401100265092073
+officer mr k,0.5
+mr k,0.8732876712328766
+threat,1.0459885867740852
+hope,0.6530575035063113
+application expwb,0.5
+coercion,1.0153846153846156
+sangatpuria,0.5
+king,2.506727795123197
+innocent persons,0.8076923076923077
+mr b,1.391812865497076
+immigration airport,0.5
+installation,0.5759005145797599
+depravity,0.8333333333333334
+sub inspector,1.7
+witness about the attempt,0.0
+admissible in evidence,1.1666666666666667
+wards,1.1401835683904185
+agreement between the parties agreement,0.75
+abandonment,0.6984126984126985
+league of nations convention,0.6666666666666666
+accepted meaning of section,0.5
+pur,3.6339037119318522
+presumption that a person,0.6666666666666666
+nalini s case,0.0
+emphasi,0.9191619047619048
+such number,1.6
+v so the crux,0.0
+trapping,1.6666666666666667
+pro vigilance,0.5
+bahri,0.75
+ram,2.11096203538064
+factors,0.9829522460542292
+house number,0.5714285714285714
+emotional response,0.3333333333333333
+sauthenticity,0.5
+alleged non - dispatch of the confessional statement,0.0
+show-room,0.0
+sriniwas,1.0
+singh,3.7791111111111113
+purposes,1.4391216613438835
+agencies,0.9094581337642103
+illegal mean,1.6666666666666667
+name of the boys,0.0
+compassion for such persons,0.5
+service,4.257395095954566
+therefore,2.960332350576253
+prosecution case,4.258064516129032
+terrorism conjure,0.6666666666666666
+case vide fir,0.5
+end,6.1484001628618765
+designated court-,0.0
+confessional statement,17.5
+rule,5.04
+mental state,1.3333333333333333
+after-thought,0.0
+proceedings,1.7670925223666287
+favour,1.653145208700764
+rank of superintendent,0.5
+floppy,0.3474358974358974
+minds,0.6597481343283582
+identity,0.8835164835164835
+grievance about any deficiency,0.5
+accused persons unless the court,0.5
+co-conspirators,0.0
+following observation,0.8039215686274509
+month of nov,0.75
+pursuit of the unlawful object,0.75
+bomb blast case,1.75
+parking area,0.5555555555555556
+other persons,0.6111111111111112
+co-accused s acquittal,0.0
+special feature,0.42857142857142855
+species of admission,0.5
+innocent child,0.375
+statement state about the identity,0.5
+reduces punishment in part,0.5
+charge of conspiracy,3.2
+sensitivity,0.33846153846153854
+claimed,1.1893958357037204
+processes,0.8585858585858587
+bola,1.3448275862068966
+intimidation,0.8400000000000001
+infirm person,0.6666666666666666
+ordinary penal law,1.6666666666666667
+phrases by john b saunders,0.6666666666666666
+side of the office,0.5
+thapa,0.9523809523809524
+attempt,0.7943782192788815
+process,1.6274942048088725
+ashok,0.4374740340673037
+culprits ie,0.5
+admission,1.5389848246991107
+words of communication,0.75
+matter of international concern,0.6666666666666666
+remand,1.08843537414966
+such that death sentences,0.5
+impossible burden on the prosecution,0.5
+proper cause,0.5
+bitta,3.818181818181818
+bulandshahar,1.0
+frankfurt on the night,0.5
+voluntariness,0.5
+that score,0.4375
+power,3.8165227690948367
+misplace,0.5433962264150943
+that death sentence,0.8
+woman,1.316528681253696
+way of the test,0.5
+wisdom,0.47641637300081324
+sound track,0.3333333333333333
+terrorism  peacetime equivalent,0.0
+pw inspector tej singh,1.0
+examination,2.4920345926263088
+gurdeep singh s case,0.0
+dowry deaths,1.0
+terrorist acts,0.6000000000000001
+ludhiana by harnaik,0.5
+sc bahri v state of bihar manuscmanusc,0.6666666666666666
+power in respect,1.3333333333333333
+bus,2.020565168811983
+learned acmm,1.0
+reliability of a confession,0.5
+vehicles,1.4161490683229814
+terrorist act,1.82
+position,1.549133168619177
+safe guards,1.0
+following circumstances,0.875
+effectual means,0.75
+one,4.845669314438648
+frustration,1.5319148936170213
+dismissal of the appeal,1.0
+scenario of the present case shows,0.5
+forming,0.6524571663075819
+independent witness,1.2121212121212122
+kee,0.8482591235249838
+jayawant dattatray,1.0
+continuance of menace,0.6666666666666666
+consideration,1.9110153789142115
+claimed latter,0.5
+paragraph,1.2930197483150305
+jail,0.7548476454293629
+shri bhola,1.0
+state extend,0.5
+actual words,0.4800000000000001
+words,1.6384367086179112
+main gate,0.5
+penalty,1.5165226929932814
+constitution confer upon the president power,0.0
+more important aspect,0.5
+conspirators,5.066666666666666
+attainment,0.3
+chin,0.985046683703823
+pilot car,1.0
+underlined for emphasis,0.6666666666666666
+fool,0.2982456140350877
+discussion in an elevated place,0.75
+many parts of the country,0.4
+good grounds,0.6666666666666666
+minority community etc,0.75
+john b saunder,0.6666666666666666
+government in cases,0.5
+sandhu,0.6666666666666666
+international countermeasures,0.6666666666666666
+apply,1.5478801169590641
+physical manifestation,1.0
+threat means,0.5
+photograph,1.2280701754385965
+rukka,1.75
+images,0.1745169082125604
+single definition,0.6666666666666666
+characteriii,0.5
+lines,1.770523318937438
+pwa,0.8120456905503635
+actus reu,0.5
+family,1.856281506375408
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+connaught,0.4
+sriniwa,1.0
+gypsy,2.857142857142857
+substance,0.8230581678857541
+guilty person,0.6666666666666666
+bajirao,0.6666666666666666
+death by punjab police,0.5
+that charge,0.5
+countermeasure,0.37037037037037035
+cars of ms bitta,0.5
+such type of confessional statement,0.5
+requisite procedures,0.6666666666666666
+other aspects,0.5798816568047337
+fact of the case,0.0
+learned brother mr justice thoma,1.0
+blank,0.7343999999999999
+harnaik  chotu,0.0
+accomplishment of an act,0.75
+collective conscience,0.75
+academic consensus definition,0.6666666666666666
+such thing,0.5289085545722715
+bachan,2.875
+advantage,1.1441364159430905
+judicial wisdom,0.6666666666666666
+performance,1.4794327394994442
+fit case,1.1578947368421053
+bombs,4.352941176470588
+verma,0.8524475524475524
+impelling factors,0.5
+chain,0.6855611957134798
+relevant time,1.008
+statement on the computer,0.5
+offence at common law,0.6666666666666666
+circumstances of the case,1.3373493975903614
+conduct of parties,0.6666666666666666
+motion,1.9249311294765838
+pw inspector tej singh verma,0.5
+v state of maharashtra air,0.75
+under sections,2.1931818181818183
+germany in the last week,0.5
+repugnant,1.3095238095238095
+means,1.3868295182781003
+suspension,1.9622093023255813
+other evidence,1.0434782608695652
+score,0.45496296296296296
+uncle shri sukhdev singh sandhu,0.5
+member of klf,0.0
+other officer,0.9047619047619048
+multani,0.3333333333333333
+kehar,0.4
+v errington,0.5
+requirement,1.2416133333333332
+great significance,0.75
+service in question,1.25
+word of communication,0.0
+suggestion,1.2425592585991803
+such sentiment in the following circumstances,0.6666666666666666
+consensu,0.7453271028037382
+few provisions,0.75
+peace time equivalent,0.5
+official,2.6854955160358718
+lord summer,0.5
+deal,2.1942302694273583
+ordinary law enforcement agencies,0.6666666666666666
+remission of sentence,0.5
+nations crime branch,0.6666666666666666
+such persons,0.7516339869281046
+self,1.6847516412733803
+other officers,0.6666666666666666
+years for the offence,0.6666666666666666
+decision in gurdeep singh v state,0.5
+mere statement that requisite procedures,0.5
+group of persons,1.75
+burning,0.5957259953161592
+keepa at delhi,0.5
+retraction,0.711111111111111
+colony,0.5172413793103449
+lufthansa airlines staff,1.0
+relevant evidence,1.0
+office of operation cell,0.5
+see,2.8180360783074034
+cassette,0.20555555555555555
+case fir,0.75
+chelmsford club,0.5
+other criminal proceedings,0.75
+nature,1.4149926876444778
+flight lh-,0.0
+accused devender,1.0
+involvement in many cases,0.5
+gurdeep,2.0
+chajju,0.5
+definitions of terrorism,0.6666666666666666
+systematic use,0.6666666666666666
+target population,0.6666666666666666
+single comprehensive convention on terrorism,0.6666666666666666
+maharashtra manuscmanusc,1.3529411764705883
+english law,1.1616161616161615
+escape,0.6909090909090909
+criminal proceeding,2.9166666666666665
+something,0.5915378827342709
+action,3.127292663476874
+terminology,0.42500000000000004
+different parts,0.5034965034965034
+similar power in respect,0.0
+connection with statements,0.5
+alternative,0.841508109794136
+residences,0.3333333333333333
+certain special features,0.6666666666666666
+thus-,0.0
+lufthansa airlines,1.25
+navneet at the back,0.5
+thing,1.1131787570209408
+old adage,0.4444444444444444
+prisoners,0.5690235690235691
+enactment,1.439950980392157
+capacity,1.7421691881525676
+much authority to the effect,0.5
+proof in the law,0.0
+confessional,9.160493827160494
+sentiment,0.5557228915662651
+director,1.3549769585253457
+term of the definition,0.0
+immediate human victim,0.6666666666666666
+police officers,0.8421610169491526
+judicial file,0.5
+segment,0.5778120184899844
+pw severaia kujur,0.5
+first attempt,0.5
+various crimes,0.5
+exclusive knowledge,0.5
+english criminal law,0.6666666666666666
+terms of art,1.5
+much authority,0.5
+tapes,0.1948424068767908
+hitendra vishnu thakur,0.75
+r v power,0.6666666666666666
+gurbachna singh v,0.5
+characteristics of a conspiracy,0.75
+sections,1.640495469442838
+such evidence direct,0.75
+erudition,0.4444444444444444
+william,0.4026200873362445
+instance,0.9469803370786518
+suryarao,0.6666666666666666
+inter,3.683850287482992
+copy of the disclosure statement expwa,0.5
+none of the main culprits ie,0.5
+spouse for betrayal,0.5
+-day,0.0
+exaggerated devotion to the rule,0.5
+fact that these witnesses,0.5
+obstacle,0.49180327868852464
+common law,0.64
+court,12.24425115501509
+original confessional statement,0.5
+links,0.4514285714285714
+parliament,2.6571235781762095
+agreement,3.450434632433366
+accused remediles,0.5
+modify,0.6563345633456334
+such disclosure,0.6666666666666666
+inference,1.006741573033708
+that direct evidence,0.5
+co-operate for the accomplishment,0.0
+person,4.291511329454258
+correctness,0.8404159132007234
+provision of code,0.0
+formation,1.1075979991753988
+names of the boys,0.5
+agreement except an agreement,0.75
+uncle,1.19187675070028
+india gandhi,0.5
+mr bs,1.0
+disclosure statement expw,1.0
+nothing,0.8658723322806009
+agreement between the appellant,0.75
+dealer,2.712825585229146
+sahibabad hideout,0.5
+previous lines,0.5
+provision in the code,1.0
+number,1.4802651440973922
+unlawfuluse,0.3333333333333333
+cognizance of the offence,2.375
+reu in a conspiracy,0.0
+element of a criminal conspiracy,0.5
+decision,2.9514937765898557
+pieces,0.6062837506136476
+power of the court,1.2142857142857142
+hands,1.1725490196078434
+aforesaid improvement,0.5
+landlord,3.643181818181818
+enactment of the tada,0.6666666666666666
+voluntary statement,0.8571428571428571
+worthy evidence,0.6666666666666666
+house,2.0021735292386764
+brother pasayat,0.5
+flaw,0.4131455399061033
+guilty man,1.0
+contra,3.550142721217888
+years from the date,1.8518518518518519
+public figure,0.5
+sheet,1.1667364016736401
+plea that acquittal,0.5
+essence of a threat,0.5
+year,2.8349484769759212
+other vehicles,0.30000000000000004
+confessional statement state about the identity,0.5
+politics,0.3488465306849559
+terrorist  activity,0.0
+fighter,0.541044776119403
+jenkin,0.2424242424242424
+agreement to  co - operate,0.0
+different part of the country,0.0
+judgment,3.288216560509554
+stirlant,0.5
+pages,0.4777568922305764
+long passage,0.22727272727272727
+circumstantial evidence,1.9000000000000001
+injury,1.7199352451433856
+act,12.870263922028107
+lahoria in the confessional statement,0.5
+governor,1.1316137566137567
+on the plea,0.5538461538461539
+- blooded murder,0.0
+act of terrorism conjure,0.0
+certain condition,0.6018518518518517
+sukhdev,3.7142857142857144
+position on record,0.5
+terrorist activity,1.0
+voluntarines,0.5
+confessional statement before mr  bola,0.0
+pw nasir siddiqui,0.5
+constitution confers,1.0
+partap,3.5
+other material,0.6175438596491228
+bitta because keepa,0.5
+crl,0.6431123461691147
+electrical good,0.5
+passage,0.6514737598849748
+water pump,0.75
+encouragement,0.4347826086956522
+information that an klf extremist,0.5
+car etc,0.30000000000000004
+shri k,1.25
+continuance,1.5151515151515154
+splinters,0.26666666666666666
+r v plummer,0.5
+chamber,0.5741626794258373
+personal reasons,0.7777777777777778
+button,0.5174581005586592
+human beings,0.6097152428810719
+faith,0.6832428364066448
+raisina,3.5
+section,9.287987283173626
+doubt about authenticity,0.5
+certain aspects in the confessional statement,0.5
+severaia,1.0
+members of a family,1.25
+common design,3.0
+thereunder,1.2794117647058825
+fir,2.85390975582079
+incident,1.8609485257918057
+water,0.9741079360379036
+neighbour,0.8760330578512397
+personal opinion as regards desirability,0.75
+stroud s judicial dictionary,0.0
+cordles,0.4473684210526316
+standard,1.4669008088548319
+such atmosphere,0.5
+co - conspirators,0.0
+master,1.0034463223491643
+officers,2.442124212421242
+present in the house,0.8
+meanings of the word,0.25
+piecemeal conventions,0.6666666666666666
+accused innocent,0.3333333333333333
+irrelevant in criminal proceedings,0.5
+such confession,2.3333333333333335
+regard,2.723310344827586
+refusal,0.813597918022121
+about the entire facts of the case,0.5
+confessional statement on the computer,0.5
+reward,0.8099433606041535
+name of vk,1.0
+knowledge,1.1120671641791045
+shri bb,0.6666666666666666
+agency,1.8968779259354924
+target of opportunity,0.0
+practitioners,0.6511627906976745
+money,1.6567889044524557
+benefit of doubt,1.8
+photocopy,0.52
+concerned officer,1.8571428571428572
+truth,0.9590230664857531
+against p,1.1003236245954693
+indictment,0.48780487804878053
+few cases,0.4102564102564103
+mayhem,0.3333333333333333
+inevitable because human beings,0.5
+facts,1.4696673624372698
+witnesses about the attempt,0.5
+fire,1.1391892447477696
+clandestine,0.42857142857142855
+present case shows,0.5
+different part,0.4915966386554622
+other places,0.5
+riot,0.5756643356643357
+singh multani,0.5
+rooms,0.5689655172413793
+identical provision of code,0.0
+reu,1.0077182732878935
+form,2.4865961263718424
+international airport,0.7142857142857143
+assassination,0.3321428571428572
+respectability,0.4347826086956522
+writing,1.1746753246753248
+fool - proof method,0.0
+lack,0.6349809734425119
+accused stayed,0.5
+footpath caught fire,0.5
+maru,3.242125984251968
+tada rule,0.5
+home,0.9826663267907214
+expres,2.3455332782538525
+guards,0.5881458966565349
+benefit,2.604810195438474
+latter,0.7109238669791096
+steel container,0.5
+records,0.9879294336118848
+confessional statement on computer,0.5
+session,2.2400874351067563
+combination of the means,0.75
+desire,0.6008255933952529
+navneet singh,0.5
+case confession,0.5
+illegal act,1.6666666666666667
+lh flight,0.5
+paramhan,0.75
+confession,13.094594594594593
+other influences,0.5
+punishable under the act,0.6666666666666666
+devender pal,3.0
+consideration of a confessional statement,0.5
+abettor,1.0
+trial of such person,1.0
+sub,7.816899313759727
+course,1.6545957498716626
+deficiency,0.5102880658436214
+piecemeal convention,0.6666666666666666
+proportion,1.3026315789473686
+criminal appeal,2.5675675675675675
+public order,1.6666666666666667
+mr ks,1.6666666666666667
+statement before learned acmm,0.5
+khalsa,0.11538461538461536
+karnal border,0.5
+actus reu in a conspiracy,0.0
+groups,0.9065945998117897
+cognizance,1.728
+freedom,1.9254884143571103
+crime,1.6636528028933093
+acp,0.9384384384384385
+different standard,0.45000000000000007
+non - observance,0.0
+called confessional statement,2.0
+doubt in the case,0.75
+so - called confessional statement,0.0
+mass,0.49419584798420113
+border,0.40498938428874737
+merchants,1.0153846153846153
+hope of reward,0.6666666666666666
+that information,0.5151515151515151
+in proportion,0.6461538461538461
+entire facts,0.6666666666666666
+perspective tenants,0.5
+profound respect for brother shah,0.5
+permanent edition vol,0.75
+matter,2.8088923076923082
+inducement,1.2380952380952381
+brian,0.21475142624286878
+entire facts of the case,0.5
+account of the perpetrated acts,0.5
+consensus definition,0.6666666666666666
+essential ingredient,0.8769230769230769
+summer,0.327710843373494
+enterprise,0.921565795175502
+passengers,1.709750566893424
+hazari,0.5
+transmission of thoughts,1.0
+indian,1.2604961505560306
+aid,5.498621453008654
+involvement,1.020685900925422
+brother shah,1.3333333333333333
+footpath,0.4444444444444444
+activities,1.57291280148423
+shri bs,1.6666666666666667
+part of the country,0.0
+significance,0.6059966216216216
+federal bureau of investigation,0.3555555555555555
+ingredient,1.2242798353909468
+khima,0.75
+common mean,0.7777777777777777
+circumstances about the alleged attempt,0.5
+volume,0.5619176554909612
+day before the blast,0.5
+acmm,5.0
+court of acmm,0.75
+custody of german authorities,0.5
+sake,0.5262975778546712
+witness,5.333906623599983
+core,0.43168575654387237
+discretion of the court,0.7333333333333334
+lodhi,1.5
+volume i,0.40509259259259256
+material,1.4148767018946966
+procedure,2.552771605064117
+acceptability,0.8571428571428571
+activity,1.3846153846153848
+court that the accused stayed,0.5
+evidence act that the confession,0.5
+polouse,0.0
+nallini,0.5
+water pump to a customer residing,0.5
+assass,0.52807881773399
+stroud,1.0
+hypothesi,0.30324909747292417
+kujur,1.0
+devotion,0.24590163934426232
+involuntary,0.4
+which great emphasi,0.5
+proofs,0.19879518072289157
+v state of maharashtra etc,0.75
+personal reason,0.7777777777777778
+guideline,1.5641711229946524
+provision,5.439002243350069
+crux,0.25432900432900435
+rent basis,0.6666666666666666
+support,0.8630946786249609
+sukhdev singh,3.7142857142857144
+link,0.6814600840336135
+whomsoever,1.0
+conclusions,0.8522069292833413
+mere statement,0.5
+rare innocent form,0.5
+water down the scheme,0.5
+police station sriniwas puri,0.5
+importance,0.8632871064467765
+large number,1.0979284369114877
+viscount simon in stirlant v director,0.5
+unlawful act,2.625
+estate,1.9402985074626868
+tenants,0.8391608391608391
+puria,1.0
+following circumstance,0.875
+- military targets,0.0
+admissibility,0.9629629629629629
+maru ram v union,0.5
+sina,1.2604229607250756
+large number of persons,1.4545454545454546
+bihar manuscmanusc,1.9655172413793103
+new edition,0.3333333333333333
+master receiver,0.5
+prejudice to the similar power,0.5
+that the offence of conspiracy,0.75
+confessionalstatement under section,0.5
+actual word,0.4444444444444445
+criminal procedure,6.406779661016949
+confessional statement till,0.5
+influence,0.7049608355091384
+terrorist activities,0.5555555555555556
+convicts,0.45000000000000007
+object,1.4940119760479043
+kumar,2.028839704896043
+demand,1.5671679197994988
+maharashtra v som nath thapa,1.0
+learned brother mr justice thomas,1.0
+law enforcement agency,0.0
+promise of advantage,0.6666666666666666
+singh lahoria,3.0
+of rare cases,1.5714285714285714
+victims,0.9
+ps bulandshahar,0.5
+sauthenticity on that score,0.5
+extent,1.410108024691358
+practices,1.3187467899332308
+criminal conspiracy,14.4
+light,0.8816192372754331
+punjab manuscmanusc,1.625
+such case,0.7332761578044598
+dcp bs,1.5
+needful,0.5625
+aim,2.7822546950944274
+walter laqueur,0.6666666666666666
+exaggerated devotion,0.5
+typed one,0.5
+jawahar,0.8333333333333334
+definition,1.6460425937698666
+jame,0.3847438752783965
+delhi,2.6089285714285717
+-bb,0.0
+independent witnesses,0.9090909090909091
+scene of offence,1.5
+several definitions of terrorism,0.6666666666666666
+respectability in the society,0.6666666666666666
+criminal proceedings,2.6818181818181817
+heart,0.8127090301003345
+request,1.1474439594584596
+sessions case,1.0
+threatening of the innocent,0.6666666666666666
+category of convicts,0.0
+aher,0.38981173864894797
+standard of admissibility,0.0
+discoverable,0.6666666666666666
+colour,0.48673194267063996
+shah,1.9074421513445903
+other offence,1.3076923076923077
+acp shri ks,0.5
+codeand,0.5454545454545454
+systematic murder,0.6666666666666666
+panchnama of the cyanide pill,0.5
+state of bihar v paramhans,0.75
+co-accused on the confessional statement,0.0
+foundation,0.770509435807177
+harz,0.2608695652173913
+bomb blast,3.0
+false confessional statement,0.5
+dcp shri b,0.5
+previous day,0.38095238095238093
+object of the combination,0.75
+quintal,0.6818181818181818
+bsbola,0.5
+ground of non- corroboration,0.0
+obstacle in the way,0.5
+involuntary  import statements,0.0
+murphy,0.2866795366795367
+disclosure,1.4583333333333335
+receiver,1.266211604095563
+principles,1.3198511166253102
+identical provision,0.6666666666666666
+feature,0.6446262956901254
+attempts,0.43171440431714403
+mere statement that requisite procedure,0.5
+under the act,1.8977072310405645
+neighbours,0.5338983050847458
+illegitimate use,0.6666666666666666
+remit,0.7982608695652174
+part of an act,0.8
+authenticity of the document,0.5
+photographs for identification,0.5
+the classic statement,0.6666666666666666
+time predominates in the heart,0.5
+months,1.1938163721148947
+cynics,0.3589743589743589
+crime alone,0.75
+digest,0.259009009009009
+mode,0.8201666928762384
+designated court before that time,0.5
+confessional statements,2.3333333333333335
+maker,1.0485537190082643
+house partap singh,0.5
+airport police authorities,0.5
+chelmsford,0.24725274725274726
+woman on account,0.75
+constitution as the case,0.6666666666666666
+fall,1.158018118245391
+custody,1.4166666666666667
+contemplated proceeding,0.6666666666666666
+bachan singh v state of punjab manuscmanusc,0.75
+file,1.3720673638585223
+civilian,0.3753646677471637
+dismissal,1.614076246334311
+hen,2.8847269061181207
+proviso,2.112
+kadia,0.9000000000000001
+number of other vehicles,0.5
+thomas,0.47182521087160256
+certification,2.7598566308243724
+change,1.2214862766571903
+assumption,0.47735650342285413
+head,1.5827778446537666
+cases,1.9728229418951067
+accomplishment,0.7083333333333334
+there lease of the prisoners,0.5
+in trial of such person,0.5
+group,1.691932599016908
+modifies,0.673076923076923
+global view,0.75
+th september,1.35
+acts of terrorism,0.8888888888888888
+ed p,2.84249113266756
+cyanide capsule,3.0
+other criminal proceeding,0.75
+about the entire fact of the case,0.0
+criminal mean,1.5
+term of section,0.5
+court in sahib singh v state,0.5
+fine of rs,1.6
+v state of saurashtra manuscmanusc,0.6666666666666666
+prosecution,4.619407894736842
+king of physical manifestation,0.5
+holders of the judicial power center,0.75
+illegitimate use of force,0.6666666666666666
+time by a person,0.5
+statutory provision,1.1638418079096045
+connection,1.050640279394645
+opposite side of the office,0.5
+many parts,0.3448275862068965
+in evidence against himunless,0.5
+himunles,0.5
+parts,0.6609660823170732
+imprisonment for life,1.7142857142857142
+bomb,1.9959323136999678
+india,2.7684068260703585
+confirmation of death sentence,1.0
+kerala manuscmanusc,1.0952380952380953
+promise against promise,1.25
+nov,1.3476203476203477
+proper cause of justice,0.5
+design,1.6729193584375017
+relating,1.3040344692518608
+credit,2.9526050420168066
+agreement between the conspirators,0.75
+perspective,0.5639060811474604
+hari,1.1945070711211314
+suspicious circumstance,0.8333333333333334
+car near the gate,0.5
+device,0.5076282415294341
+acceptance,1.4762112614578786
+various authorities,0.6000000000000001
+segment thereof,0.6666666666666666
+explosion,2.422619047619048
+other influence,0.5
+lajpat nagar,1.0
+return,1.5755725190839696
+case of after - thought,0.0
+merchant,1.09281045751634
+hiring,0.9705882352941176
+eleven text book,0.5
+indictable offence,1.4
+consequences,0.6659897713598075
+stapal,0.5
+prisoner,0.8223844282238443
+reliance,1.400763358778626
+burden on the prosecution,0.5
+bhmanu,1.1111111111111112
+provisions of sections,1.44
+capsule,1.2205128205128206
+flaws,0.3161512027491409
+whole,0.951414768806073
+thoma,0.47259914972919453
+for escalation of terrorist activities,0.6666666666666666
+war crimes,0.6666666666666666
+cordless,0.4473684210526316
+shivanarayan,0.6666666666666666
+scc,1.941872465904902
+sheets,0.4754285714285714
+edition,0.9664589349951868
+sukha,1.0
+various parties,0.5142857142857143
+officers of the case,0.5
+objectors,0.8333333333333334
+convention,0.8756516211061666
+papers under threat,0.5
+cross - examination,0.0
+suspension of the execution,0.5
+woodv,0.25
+sspchandigarh,1.0
+chandrasenan,0.75
+many part of the country,0.0
+acmm without so - called confessional statement,0.0
+ga res,0.3137254901960784
+in the house,1.0507462686567166
+set of circumstances,1.1846153846153846
+element,0.7062328407033122
+signal,0.32046178343949044
+joshi,0.9259259259259259
+message generators,0.6666666666666666
+center,0.9521598338119387
+statement to the court,0.5
+blank sheets,0.5
+duty,3.2272215973003378
+pw asi kamlesh,1.0
+anxiety - inspiring,0.0
+code andor article,0.5
+customer residing,0.5
+sub - section,0.0
+abettors with condign punishment,0.75
+good idea,0.3104166666666667
+spouse,1.0202546296296295
+try,4.5874125874125875
+confessional statement state,0.5
+power of the government,0.6666666666666666
+particular persons,0.8888888888888888
+discretion,1.2998211091234348
+sentence in the case,0.5
+sb branch,0.5
+clear that a confession,0.5
+a doubt on the voluntariness,0.5
+apart,0.6007021119981881
+sentences,1.0513157894736844
+point,2.9165043546008516
+months in punjab,0.5
+goods,4.7578125
+life of the act,1.0
+considerations,0.7860235003092146
+for a single comprehensive convention on terrorism,0.6666666666666666
+chief judicial magistrate,2.230769230769231
+indian youth congress,0.5
+indulgence,0.5333333333333333
+offence of conspiracy,4.0
+officer mr ks,0.5
+sentence,2.3896654193264366
+acm,1.8284789644012944
+cloak of terrorism,0.6666666666666666
+of section,3.6500603864734305
+power of the union,0.5
+airport as sub inspector,0.5
+kuldeep,2.2
+back side of parking,0.5
+evidence act,3.8666666666666667
+polouse under section,0.0
+standards of admissibility,0.5
+that basis,0.6886956521739132
+under section,5.374517374517374
+such situation,0.5538461538461539
+disclosure statement of the appellant,0.5
+communication,1.013409067330636
+permanent,0.9266475644699143
+regards desirability,0.75
+wariyam,0.5
+particular person for political purposes,0.0
+vol,1.8556860549079708
+impelling factor,0.5
+murder of a member,0.75
+scene,0.7999999999999999
+views,0.6965871413779037
+statute need,0.6666666666666666
+category,1.9351744779266717
+bride burning,0.75
+saurashtra manuscmanusc,0.6666666666666666
+other aspect on which great emphasis,0.5
+recovery memo,1.0
+own against p,0.75
+presumption under section,1.2222222222222223
+remission of punishment,1.0
+manner of recording,0.5
+that the crucial postulate,0.6666666666666666
+intimidation in order,0.6666666666666666
+world trade center,0.3232323232323232
+front,0.8400299386969539
+plea,1.4430487701432178
+long passage of time,0.5
+winds,0.29381443298969073
+turn on raisina road,0.5
+confessional statement before the dcp,0.5
+acts,1.9133929521984454
+co-accused daya singh lahoria,0.0
+pwb,0.528735632183908
+holder,1.8472993827160495
+effectual proofs in the law,0.5
+ways of the test,0.5
+sunder,0.5685776805251641
+import statement,0.5
+trade,1.8307706424423558
+contemplated proceedings,0.6666666666666666
+byother,0.26666666666666666
+prevention,0.6124072110286319
+actual words of communication,0.75
+formal arrest,0.5
+taking,1.5813408809014857
+political reason,0.5714285714285714
+statement before the dcp,1.5
+hand of dcp,0.0
+challenge,1.2204566274399267
+conception,0.49506726457399103
+judicial dictionary,1.0
+enormou in proportion,0.0
+authority,2.4352627108360636
+stapal singh,0.5
+death,2.361592909460208
+dictation,1.1111111111111112
+john,0.49851778149329673
+effectual proofs,0.5
+thoughts,0.47595356550580437
+dowry,5.666666666666667
+collective conscience of the community,0.75
+bulandshahar on the judicial file,0.5
+igi airport as sub inspector,0.5
+auto-rickshaw,0.0
+simon,0.33098591549295775
+meridian hotel,1.0
+regem,0.4444444444444444
+goal,0.5651601830663616
+siddiqui,1.0
+page,1.011907905159212
+counsel for the appellant,1.9621212121212122
+human victim,0.6666666666666666
+rule of english criminal law,0.6666666666666666
+background,0.6800452488687784
+regina,0.26666666666666666
+delhi at the relevant time,0.5
+terrorist,1.7795337192927558
+social defence,0.5
+minority,0.8717948717948719
+task,0.5643819334389858
+byothers,0.2777777777777778
+aforesaid judgment,1.4583333333333333
+pragati maidan,0.5
+iii,1.5614499719992534
+selves,0.7630832093826401
+methods,0.6227758007117437
+confessionalstatement,0.5
+clearance,4.090225563909774
+short legal definition,0.6666666666666666
+prejudice,0.880907124598545
+week,0.8253498691546249
+walls of jawahar bhawan,0.5
+statement state,0.5
+month in punjab,0.0
+pursuance thereof,1.0
+such as section,0.75
+number of persons,1.2592592592592593
+few provision,0.75
+kerala,4.135593220338983
+text,0.869556447376715
+ga re,0.47058823529411764
+fulfillment,1.1805006587615283
+identical provisions of code,0.5
+sentiment in the following circumstances,0.75
+state,6.817996007300392
+death reference case,1.0
+war,2.5190277765957907
+statute,2.5765859456247218
+fbi definition,0.6666666666666666
+chance,0.7937084625609215
+security personnel,0.3333333333333333
+deliberate,0.8170731707317074
+note,1.3654108484234107
+bowron,0.5
+dcppw,0.5
+statute of terror,0.6666666666666666
+srivastava,0.8333333333333334
+practitioner,0.8401826484018265
+jurisdiction over the area,0.6666666666666666
+inder,1.1516605980359704
+boy,1.0245410384202889
+operate,1.0588919384100108
+particular unlawful use,1.0
+intimidate,0.9
+nanak,0.5000000000000001
+codecorresponding,0.5
+presentation,1.1205371248025278
+semi-,0.0
+accord,2.1409462447350256
+ingredient of offence,0.0
+repentance,0.22941176470588232
+airsc,1.6909090909090911
+backand sent harnaik  chottu,0.0
+corroboration if confession,0.5
+youth congres,0.5
+man,6.972395052694935
+case of conspiracy,1.2
+dattatray,1.0
+certain aspects,0.6666666666666666
+terrorism,4.0220994475138125
+discussion,0.7445831166579996
+actum,0.8421052631578947
+blank papers,2.0
+wrath,0.39722222222222225
+sphere of appraisal,0.5
+igi airport,3.0
+indignation,0.5454545454545454
+pro,11.338881586411553
+categories,0.8800000000000001
+explosion in a car,0.5
+circumstantial,1.4736842105263157
+perpetrated acts,0.3333333333333333
+side of winds,0.5
+india in line,1.0
+comprehensive convention,0.6666666666666666
+human being,0.599078341013825
+co - conspirator,0.0
+athirst,0.5
+meaningful international countermeasures,0.6666666666666666
+batala,0.2631578947368421
+such police officer,0.5
+book,0.7435955668604651
+books,0.8894824707846412
+pawan kumar  chajju at ludhiana,0.0
+thought,0.7081151153746436
+p d,1.2907804121877462
+persons,2.5993381990166555
+magistrate under section,1.2
+war crime,1.3333333333333333
+escalation,0.7196969696969696
+pre,6.408342692122574
+confessional statement in this case,0.5
+un crime branch,0.6666666666666666
+constitution confer upon the governor,0.0
+ii section,0.7200000000000001
+rickshaw,1.0
+expiry,2.2888888888888888
+extreme measure,0.38095238095238093
+power under article,1.28
+arrival,0.6270833333333333
+validity,1.521010638297872
+mind,1.1559066143122394
+human victim of violence,0.0
+temporal character,0.6666666666666666
+various circumstances,0.5555555555555556
+immediate human victim of violence,0.0
+politic,0.9858689682228325
+penal law,1.2857142857142858
+meaning,1.8612727545949643
+io mr,0.3333333333333333
+abettor with condign punishment,0.0
+state of terror,0.6666666666666666
+act of terrorism,0.2962962962962963
+many guilty persons,0.5
+illegal by illegal names,0.5
+plastic foil,0.5
+aspects,1.0997620069447154
+aforesaid confessional statement,0.5
+precise terms,0.4444444444444444
+task force,0.19672131147540983
+propositions,0.5238095238095238
+view to the attainment,0.75
+statement till,0.5
+overt act,2.2777777777777777
+viscount simon,0.75
+new edition by chief justice m monir,0.5
+such agreement,1.0666666666666667
+despatch,3.857142857142857
+vague hunches,0.5
+order relates to the matter,0.5
+lodhi estate,0.5
+airport police authorities by lufthansa airlines staff,0.5
+entire fact,0.6666666666666666
+delhi before the expiry,0.5
+definition of terrorism,1.6666666666666667
+relating to the charge,0.6666666666666666
+articles,1.4349688743466387
+rent basi,0.6666666666666666
+assam manuscmanusc,1.1666666666666667
+police under section,0.75
+halsbury s law,0.0
+schmid to united nations crime branch,0.6666666666666666
+lahoria,8.0
+appeal,3.4125488033856883
+ashok kumar srivastava manuscmanusc,0.5
+laqueur,0.6666666666666666
+court-,0.0
+pieces of paper,0.2857142857142857
+time predominate in the heart,0.0
+evaluation,0.7358156028368795
+motive,0.8973573343546533
+other materials,0.5079365079365079
+area,2.675167256985439
+confessional statement before the police officer,0.5
+village,1.8429856945085372
+consensus to effect,0.6666666666666666
+reiterates,0.49382716049382713
+nath,1.2024818815807465
+lawful act by unlawful means,2.5
+entire proceedings,0.8
+alia,0.9479866480753792
+respites,0.5
+more person,1.2000000000000002
+restriction under section,0.5
+dastardly acts,0.6666666666666666
+release,0.9830403257846643
+constitution confer,1.0
+designated court on the ground,0.5
+punishable under section,3.081081081081081
+criminal law,0.7859649122807018
+guilt,1.1140207075064712
+terror in the people,1.6666666666666667
+different standards,0.75
+initial burden,1.3333333333333333
+peace,1.1022222222222222
+citation,0.5314960629921259
+computer by asi kamlesh,0.5
+sub-section,0.0
+many guilty person,0.5
+justice m monir,0.5
+motherland,0.45000000000000007
+image,0.4193995659512901
+photograph for identification,0.0
+phrases,0.5062794348508634
+tracks,0.3505434782608695
+intended object,1.0
+nagar,0.8617021276595744
+in favour of a police officer,0.6666666666666666
+illegal conduct,0.75
+ambassador,0.21782178217821782
+idea,0.5945499587118084
+activitiesprevention,0.5
+saurashtra,0.6666666666666666
+bediha,0.5
+completion,1.1868131868131868
+threatening,0.41509433962264153
+jayawant,1.3333333333333333
+manner,1.4494591333432125
+evidence act deal with confession,0.0
+case from the date,0.5
+hostage,0.26666666666666666
+lord summer in ibrahim v regem,0.5
+highest credit,0.5
+conspiratorial agreement,0.75
+many misguided youth,0.6666666666666666
+paramhans,0.75
+number of attacks,0.4
+corroborative evidence,2.0
+objective,0.5021775147928994
+lack of agreement,0.3333333333333333
+floppy thereof,0.5
+glanville williams,0.75
+college,2.1498947162234954
+charge of conspiracy knowledge,1.0
+meannes,0.45000000000000007
+january,0.8699641577060931
+import statements,0.5
+mechanical device like cassette,0.5
+nasir siddiqui,0.5
+situation prevailing,0.6666666666666666
+circumstance,1.429931390219372
+innocent,0.9135903746240086
+mean,2.390645692553228
+police remand for -days,0.0
+highest sense,0.5
+investigation,1.6673076923076922
+further sub-section,0.0
+service to an unlawful use,1.0
+thakur,1.6
+lh-,0.0
+sspchandigarh bomb blast case,0.5
+central government in cases,0.5
+different standard of admissibility,0.0
+hiring of the room,0.5
+perusal,0.750733137829912
+occurrence,2.1343873517786562
+several definitions,0.6666666666666666
+degree,0.6705786026200874
+sound,0.8535719072510389
+chances of release,0.5
+whereby,0.6100917431192661
+schmid,0.7004608294930875
+prestige of police administration,0.5
+kg of rdx,0.0
+reference to the terrorist,0.6666666666666666
+police custody remand,0.5
+bombs in the rear seat,0.5
+thereof,1.7897727272727273
+violence,1.524896265560166
+jail on,0.3333333333333333
+same end,0.5555555555555556
+basi,2.0752712086391383
+various circumstance,0.5555555555555556
+colour to the story,0.5
+meaning of the word,0.8426150121065376
+beings,0.5577464788732395
+prestige,0.3897435897435898
+point of departure,0.4
+that interpolation,0.5
+part express,0.5
+singh manuscmanusc,1.2424242424242424
+unlawful combination,0.75
+act by unlawful means,2.5
+lie,2.828767123287671
+pawan kumar,1.0
+individual,1.1485140562248994
+root,0.44430482003410826
+car,1.5664537220559551
+conviction,2.248165832071736
+basis,1.953226441078104
+anxiety,0.49259259259259264
+confessional statement of the appellant,1.0
+time of clearance,1.0
+punishment for criminal conspiracy,0.75
+cause of justice,1.0
+that secret information,0.5
+generators,0.782608695652174
+attacks,0.65565749235474
+laxminarayan,0.6666666666666666
+wires in the parking area,0.5
+facts of each case,1.0
+contrary of involvement,0.5
+purchase of the car etc,0.5
+correctnes of the conviction,0.0
+magistrate,3.522077922077922
+support of this proposition,0.8
+pal,1.6504163634893685
+asj,1.8770949720670391
+passport,0.8224299065420562
+dispatch,0.9738805970149254
+hunches,0.5
+bureau of investigation,0.5647058823529412
+chain of actions,1.5
+implication,0.6615776081424936
+sough,1.1686954941860466
+furtherance,1.758139534883721
+hence,1.1440732910500353
+officer,3.1197242647058823
+lawful act,3.5
+similar powers in respect,0.5
+that date,0.9333333333333333
+such as sections,0.6666666666666666
+unwarranted sympathy,0.5
+other case,0.6654088050314465
+confirmation of the statement,0.5
+direct evidence,1.8409090909090908
+wall of jawahar bhawan,0.0
+gate,1.2076436561705193
+cros,1.8137948361162648
+that the witnesses,0.7800000000000001
+airport staff,0.5
+mechanical,0.7403726708074535
+proof,1.0648141580366008
+hospital,1.3942768854411434
+intent of unlawfuluse,0.5
+rent,2.460251217077583
+irregularities,1.2263736263736265
+investigating officer at the relevant time,0.5
+airport police authority,0.0
+criminal,3.301971081989414
+chottu,0.5
+term,3.6255105640901575
+more proof of an agreement,0.5
+ibrahim,0.4444444444444444
+old act,1.2222222222222223
+killing of prisoners,0.6666666666666666
+adage,0.3333333333333333
+view,2.441100058469462
+passengers from frankfurt,1.0
+immigration,0.25
+requirements,0.7375979875979877
+vide,4.454025282767798
+fact of each case,0.0
+side,3.88845645915565
+majority,1.3427634276342764
+penal code,2.710144927536232
+mean time,0.7777777777777778
+punishable,1.237037037037037
+several cases,0.6666666666666666
+use,5.06801278974993
+political reasons,0.5714285714285714
+propaganda,0.3093471810089021
+identification,2.0914158305462656
+hypothesis,0.2878179384203481
+klf,0.6666666666666666
+actus reus,0.5
+lord,1.6027618015615013
+countries,0.72236958443855
+steel,1.615214878638226
+prosecution version,2.7142857142857144
+direct target,0.6666666666666666
+airport,1.1578231292517007
+internal compulsion of the conscience,0.5
+result,1.3356630184144715
+officials,1.3691666666666666
+rdedn,0.2777777777777778
+collaborator,0.8892307692307692
+signatures,0.9850746268656717
+record,2.5393414390845273
+information,1.1320502836800534
+admissible in trial of such person,0.5
+defence,1.3606588776096535
+situating criminal conspiracy,0.5
+telephone,1.1502185415228894
+international terrorism,0.3636363636363636
+mas,0.9088561393243791
+following observation in jayawant dattatray,0.0
+world,0.7808471033398942
+ramdeo,1.0
+wall,0.8333770549143058
+certain special feature,0.6666666666666666
+property dealer of sahibabad,0.5
+unaltered that the crucial postulate,0.6666666666666666
+same unlawful object,0.75
+disclosure statement,4.6
+possibility of identification,0.5
+- military target,0.0
+member of the conspiracy,1.0
+punjab police,2.75
+premises,1.290983606557377
+phrase,0.7269338303821062
+apolitical objective,0.5
+fact,3.6284951019474962
+effect of conclusion,0.5
+hotel alongwith gypsy,0.5
+express,2.3455332782538525
+learned counsel,3.703333333333333
+disclosure statement expwa,0.5
+assas,0.5371428571428571
+called retraction,1.0
+chief,1.9429638234317954
+which co-conspirators,0.0
+ibrahim v regem,0.6666666666666666
+fact that these witness,0.5
+cantley,0.6666666666666666
+hour,1.1326135248230613
+consensus,0.8020833333333334
+human life,0.5567901234567901
+presumption,1.06
+vencouver,0.5
+criminal act,1.0074074074074073
+few provision in the code,0.0
+demands,0.7474201474201474
+judgment of the court,1.1666666666666667
+further cross-examination,0.0
+vice president,0.6538952745849297
+witnes,5.333906623599983
+year from the date,1.5
+interrogation,0.5945945945945946
+frankfurt,1.2
+appraisal,0.9818181818181818
+years,2.5395804110508022
+comprehensive convention on terrorism,0.6666666666666666
+exercise,1.9400726466785694
+desirability,0.9750000000000001
+judicial,2.8688059701492543
+that each conspirator,1.25
+party,2.2250894654439723
+direct target of violence,0.0
+concerned authority,1.0
+definitions,0.5973524544953117
+criminal conspiracy unless some act,0.75
+proposition,0.6371087928464977
+pre-engineering examination,0.0
+loud discussion,0.75
+degree course,0.5
+destroy,0.8315412186379928
+such that death sentence,0.75
+justice,2.292557084574302
+grievance,1.032529659395331
+evidence against himunles,0.5
+v state,2.4603773584905664
+constitution deal,1.0
+airline,0.9595015576323989
+practices of terrorism,0.6666666666666666
+rai,2.517873434808919
+culprit,1.4285714285714286
+result of any inducement,0.6666666666666666
+administration,1.061072796934866
+society,2.1182859399684046
+existence,0.731202675709574
+offence,4.401610644257703
+grotesque,0.4358974358974359
+german authorities,0.5
+williams,0.28639104220499567
+reprieves,0.5
+terroristswho,0.3333333333333333
+knot,0.3005464480874317
+symbolic target,0.6666666666666666
+inspector,1.2705882352941176
+day,1.550999710228919
+question,2.980312372067635
+v state of up,1.7027027027027026
+decision in r v plummer,0.5
+bhagwan swarup etc,0.5
+bal,1.1388109182248047
+import,1.5850112386464603
+execution,1.3041894353369763
+such confessional statements,0.5
+janpath,0.5
+terminology consensus,0.6666666666666666
+v state of maharashtra,1.875
+gandhi,0.9090909090909092
+infatuation,0.42857142857142855
+button of the hand set,0.5
+scmanu,7.940520446096654
+electrical goods,0.5
+amount,3.179688593072295
+- observance,0.0
+practice,1.7660110149488593
+mindless killing,0.5
+statement,2.5393160135035964
+accused person,4.565217391304348
+united,0.7052854122621566
+plot,1.9177369203731243
+un member state,0.6666666666666666
+contractor in gda,0.5
+elevated place,0.75
+inspector tej singh verma,0.5
+us  government,0.0
+section of people,0.6666666666666666
+sic,1.1611481056257176
+commute sentence of any person,0.5
+recede of the office,0.5
+statement in this case,0.6666666666666666
+force,1.6009408121948314
+parking,1.2207317073170731
+power center,0.375
+property,2.9368986630013745
+forthwith to the cmm,0.5
+murder by hired assass,0.6666666666666666
+states,1.5120646995827023
+law,3.538923411654744
+observation,0.7625074854374218
+fatal factor,0.5
+provisions in the code,0.75
+similar contention,0.9
+few case,0.4273504273504274
+property dealer,0.6666666666666666
+learned counsel for the respondent,1.507936507936508
+wireless message,0.6666666666666666
+which such confession,0.5
+coercive intimidation,0.6666666666666666
+special features,0.42857142857142855
+non-military target,0.0
+disruptive activity,0.0
+plan,2.0162821688398056
+notice of shri bs,0.5
+perpetrators,0.7777777777777778
+wires,0.618945868945869
+great emphasis,0.45000000000000007
+dastardly act,0.75
+members of klf,1.0
+rarest,2.0
+answer to the questions,0.5
+cordless telephone,0.6000000000000001
+death sentence,2.911764705882353
+executive power,0.45454545454545453
+in execution,0.7500000000000001
+facts of the case,1.161764705882353
+several person,0.6446280991735537
+because human beings,0.5
+otherwise,1.2549820889894419
+prosecution version brittle,0.5
+person before the police officer,0.5
+immoderate power,0.75
+spot,0.778096903096903
+law on this matter,0.75
+usa,0.9416563489832968
+certificate,2.732600732600732
+offences,1.6681887366818873
+fear,0.8662375822023226
+mention about the cyanide capsule,0.5
+diction,2.725288957093309
+imprisonment,1.4344262295081966
+videshi,0.5
+youth congress,0.5
+pursuance of the disclosure statement expw,0.5
+application,2.3322596088086445
+haryana manuscmanusc,1.1333333333333333
+sterile on the plea,0.6666666666666666
+crime of the nature,0.75
+such magistrate,1.25
+gurbachna,0.5
+authorities,1.266131845134287
+statement before the police officer,0.5
+several definition,0.6666666666666666
+bedi for the alleged involvement,0.5
+constraint,0.38964401294498385
+parties agreement,0.75
+poland terrorism,0.0
+vague,0.6542944785276075
+larger scale tada,0.6666666666666666
+illegality,0.8076923076923077
+bihar v paramhans,0.75
+time predominate,0.5
+criminal acts,0.601851851851852
+ordinary situation,0.6666666666666666
+agreement between persons,0.75
+fact of combination,0.75
+offence against any law relating,0.5
+rigorous imprisonment,1.9230769230769231
+bomb in the rear seat,0.0
+vishnu,0.7500000000000001
+reprieve,0.6666666666666666
+outset,0.5899159663865546
+justice wright,0.5
+unlawful means,2.4
+part of the punishment,0.5
+intention,1.7585585585585588
+dcp bsbola,0.5
+unlawful object,1.75
+conspiracy,8.939203354297694
+attack,1.0505713076597545
+-confessional statement,0.0
+davender,0.5
+college jullandhar,0.5
+agreement for  concert,0.0
+dictionary,0.7964252553389043
+maternal uncle shri sukhdev singh sandhu,0.5
+house numbers,1.0
+provision of law,0.9090909090909091
+maternal uncle shri sukhdev singh sandhu in vencouver,0.5
+capacity of the ordinary law enforcement agencies,0.6666666666666666
+serious crime,0.5333333333333333
+jenkins,0.2962962962962963
+maidan,0.6666666666666666
+particular caste,1.0
+period,1.9480170842427122
+chance of release,0.0
+difference,0.8774847235514982
+necessary panchnama of the cyanide pill,0.5
+designated,2.0627325890483785
+reliability,0.6606110652353426
+civilians,0.2531969309462916
+german authority,0.0
+constitution confers upon the president power,0.5
+mistress of law,0.5
+constitution,3.204842342342342
+kartar singh v state of punjab manuscmanusc,1.0
+aforesaid background,0.5
+countries for decades,0.6666666666666666
+typing,0.3581395348837209
+core of war crimes,0.6666666666666666
+political purposes,0.38095238095238093
+actus reus in a conspiracy,0.5
+object by the means,0.75
+evidence of pw,4.88
+as lord hale,0.6666666666666666
+trial judge,2.6666666666666665
+evidence of acts,1.0
+of rare case,1.5714285714285714
+procedural requirement,0.8333333333333334
+canada,1.073648007590133
+responses in the victims,0.6666666666666666
+conspiracy knowledge,1.0
+fanciful doubt,0.5
+evidence ofpw mr  ks,0.0
+read with the proviso,0.6666666666666666
+emotion,0.43370786516853926
+united nations crime branch,0.6666666666666666
+dominating position,1.25
+that context,0.6351606805293006
+supra,2.246342614440774
+himunless,0.5
+that the confessional statement of the appellant,1.0
+jayawant dattaray,0.5
+however,1.7101816908225866
+tis,1.1937015959015587
+other cases,0.6446886446886447
+main plea,0.2857142857142857
+gurdeep singh v state,0.5
+dcp b,2.0
+prudence,0.9558823529411765
+fetish,0.28571428571428575
+sumed,0.8448275862068966
+maharashtra,2.9076923076923076
+superintendent,1.2698412698412698
+sina road,4.5
+terms of attacks,0.6666666666666666
+person for political purposes,0.0
+authenticity,0.6649999999999998
+second,1.4990453300392075
+death penalty,1.784848484848485
+sriniwaspuri,0.5
+offence under the tada,0.5
+true circumstances,0.5
+social wrath,0.75
+watch at igi airport,0.5
+blast as none,0.5
+order relates,0.5
+characteristic of a conspiracy,0.0
+burden,0.9853978671041838
+shop of electrical goods,0.5
+sympathy,0.7490636704119851
+harcharan,0.5
+pal singh,2.3157894736842106
+india manuscmanusc,1.8333333333333333
+opposite side,0.2692307692307692
+bhagwan,1.5555555555555556
+hands of dcp,0.5
+common intention,8.5
+such numbers,0.6666666666666666
+janpath hotel,0.5
+police,2.9749362629783356
+appear,1.4518031745812612
+premise,1.2347417840375587
+federal,1.031040987823701
+police officer,1.0366379310344829
+conspiracy unless some act,0.75
+personnel,0.9491259524876736
+severaia kujur,1.0
+arrest,1.391895003453834
+- dispatch,0.0
+prehlad,0.5
+involvement in the bomb blast,1.0
+targets,1.375
+positive rule,0.6666666666666666
+set,2.3027452395971277
+reason,2.6381270903010035
+capsules,1.0
+role of the appellant,0.5
+operation,1.0959893294085181
+relevant stage,0.5
+necessary panchnama,0.5
+amply,0.7619047619047619
+position in the contemplated proceedings,0.6666666666666666
+mangal,8.461538461538462
+meticulous hyper sensitivity,0.5
+life,1.3352928273744242
+uncle shri sukhdev singh sandhu in vencouver,0.5
+independent of section,0.5
+monir,0.3333333333333333
+matter of prudence,0.75
+chotu,1.0
+emotional responses in the victims,0.6666666666666666
+response,0.7112676056338028
+police administration,0.6666666666666666
+highest sense of guilt,0.5
+magistracy,0.6666666666666666
+reasonable doubt,0.8638838475499093
+statutory presumption,1.0
+suggestion that the involvement,0.5
+illegal by illegal means,1.0
+judicial evaluation,0.5
+inside the court,0.6666666666666666
+definitional knot,0.6666666666666666
+persons for political purposes,0.6666666666666666
+cruel,1.9887836490528417
+conspiracy arise,0.75
+link of circumstantial evidence,0.0
+group in the bomb blast case,0.5
+singh saini,0.5
+others,0.9074667328904616
+places,0.8371884824384251
+characteristics,0.6133333333333333
+vice president s task force,0.0
+anil,1.1751552795031055
+death penalty irrespective,0.75
+manifestation,0.4928571428571429
+hospital record,0.5
+cars,0.7225527312060573
+condign punishment,0.75
+categories of convicts,0.5
+to the public,0.7291666666666666
+blank paper,2.3333333333333335
+daya singh,4.0
+judge,2.9012627415183325
+nation,3.034318722392117
+locality,0.7993421052631579
+militant,3.789473684210526
+asi,2.9557996793834067
+essence of a criminal conspiracy,0.6666666666666666
+individual effort,0.75
+- dispatch of the confessional statement,0.0
+such sentiment,0.4444444444444444
+freedom fighter,0.5641025641025641
+disturbance of law,0.6666666666666666
+murderer,0.6486486486486487
+aware about the entire facts of the case,0.5
+soldiers,0.19626666666666664
+conclusion,1.3883437407077015
+indian youth congres,0.5
+reus,0.3023255813953489
+admissible in evidence against himunless,0.5
+reiterates that criminal acts,0.6666666666666666
+order relate,0.5
+wright,0.2752808988764045
+author,2.9909112471968258
+emotional responses,0.6666666666666666
+security,1.5014864864864865
+room,0.6950710108604846
+evidence act deal,0.5
+klf extremist,0.5
+questions,0.9979150871872632
+present inside the court,0.5
+direct targets,0.6666666666666666
+gordian definitional knot,0.6666666666666666
+legislative intent,1.3823529411764706
+target of violence,0.0
+such state of affairs,0.5
+jullandar,0.5
+kartar singh v state,1.0
+acts of terrorism conjure,0.6666666666666666
+branch,2.8500288406075756
+response in the victims,0.0
+effectual proof in the law,0.0
+sense,0.8606303395157362
+respect for human life,0.3333333333333333
+office of bitta,1.0
+wealth v chin kee,0.5
+no doubt,0.8331331503088538
+accessoryship,0.75
+circumstances,1.3944461370073231
+wire,0.7465648854961832
+learned brother mr justice,1.0
+militancy,0.75
+foundation in an agreement,0.75
+keepa,1.8181818181818181
+common sense,0.5497159090909091
+tactical advantage,0.6666666666666666
+of criminal conspiracy for the simple reason,0.5
+assam,1.06
+harm,1.2124444444444444
+learned counsel for the appellant,1.7884615384615385
+in evidence against himunles,0.5
+accepted meaning,0.38095238095238093
+jurisdiction,2.9539571926331507
+intent,1.8427075724373023
+trial,3.7979448350459712
+harnek,1.0
+manu,7.078142071124147
+concern,2.0544958000579303
+respite,0.2857142857142857
+track,1.311279069767442
+ludhiana,3.25
+v anil,1.7142857142857142
+misguided youth,0.4444444444444444
+rare case,1.4074074074074074
+pwwho,0.5
+cyanide,2.5
+furtherance of the common design,0.75
+term of conspiracy,0.0
+role,1.0562959821210092
+scale,2.0845464725643894
+typed certificate,0.5
+extreme indignation of the community,1.0
+affirmative evidence about the date,0.75
+asylum,0.7777777777777779
+formation of the criminal conspiracy,0.75
+lodhi colony,1.0
+aspects in the confessional statement,0.5
+type of confessional statement,0.5
+equivalent,0.7908277404921701
+th january,1.1156462585034015
+germany,2.0851216022889845
+murders,0.6462585034013606
+menace within a period,0.6666666666666666
+absence of corroboration,0.5
+evidence of dcp mr,0.5
+species,0.6307692307692307
+measure,1.1941357983816498
+reference to section,1.1111111111111112
+seizure of a cyanide capsule,0.5
+gist,2.3317211948790892
+r v harz,0.5
+remitas,0.5
+staff of lh flight,0.5
+illegal means,1.6666666666666667
+more proof,0.3333333333333333
+passenger from frankfurt,0.0
+hide,0.4577464788732394
+container,0.5
+investigating officer,3.2580645161290325
+england,0.9336071184120466
+hotel,0.8866352770735241
+dattatray suryarao etc,0.6666666666666666
+v state of bombay manuscmanusc,1.0
+restriction,1.0123456790123457
+maharashtra air,0.75
+conspiracies,0.7304347826086957
+number of vehicle caught fire,0.5
+combination,1.5053521126760565
+difference between the mode,0.75
+devenderpal,0.5
+essence of criminal conspiracy,1.0
+systematic use of coercive intimidation,0.6666666666666666
+code,2.880559796437659
+accused,10.856353591160222
+forming of the scheme,0.75
+reliable independent corroborative evidence,0.5
+read with section,2.3513513513513513
+symbolic targets,0.6666666666666666
+sphere,0.622245268343272
+people,1.2855544825097243
+threat of violence,0.4444444444444444
+promise in certain conditions,0.6666666666666666
+meridian,0.43333333333333335
+reasons,1.3749054007567938
+residence,0.7568831168831168
+other in the constitution deal,0.0
+terms,2.390350840909655
+actual meeting,0.75
+holder of the judicial power center,0.0
+judicial magistrate,2.7857142857142856
+jaipur at bangalore,0.5
+departure from the law,0.6666666666666666
+devender pal singh,2.6666666666666665
+bbchaudhary,0.5
+vk sod,0.5
+layal pur,0.5
+road,1.0764686576960945
+watch,1.1344537815126052
+th december,0.762987012987013
+jury,1.6150283512963683
+that principle,0.5263157894736842
+matter of common experience,0.8
+ors,2.8612718198296623
+forthwith,0.625
+show,1.5002130552117363
+grievance about any duress,0.5
+part,5.294464509893076
+hand set,0.3333333333333333
+pw harcharan singh,0.5
+sangat,1.0
+compulsion byothers,0.5
+new delhi at the relevant time,0.5
+detonators,0.5
+ways,1.3640952708404963
+bombay,2.3134020618556703
+secrecy,0.5503512880562061
+piece of paper,0.25
+aspect,1.2449448189023034
+shri,2.0759135877246115
+message generator,0.6666666666666666
+state of maharashtra v som nath thapa,1.0
+evidence against maker,0.5
+character,0.9325990965842764
+inevitable because human being,0.5
+common means,1.5
+person in authority,1.3333333333333333
+disruptive activities,1.6666666666666667
+statement of the appellant,1.5
+other person,0.9635036496350365
+partap singh,1.3333333333333333
+photocopy of dd,0.5
+seat,2.8245469748060423
+doubts,0.6666666666666666
+question of fact,1.45
+staff,1.3233972834416785
+terms of the definition,0.5
+proof of the offence,0.75
+jawahar bhawan,0.5
+cassettes,0.26
+search,1.156007562422583
+good,2.6154941054299674
+part of this consignment,0.5
+such confessional statement,2.5
+read,2.2147281730888695
+involvement in the bomb blast case,0.5
+blank piece of paper,0.0
+essence of the offence,0.75
+forth,0.7104532839962997
+case to jury,0.75
+designated court,5.2
+basi of so - called confessional statement,0.0
+official act,2.5
+evidence of pw asi kamlesh,1.0
+none of the neighbours,0.5
+defendants,2.3554376657824934
+statement before mr  bola,0.0
+security car of ms bitta,0.5
+father,1.4298716229162676
+ms bitta,4.0
+sharma,0.9516994633273703
+remediless,1.0
+circumstance in the light,0.0
+mr ms,0.5
+community,1.3158036677454152
+baburao bajirao patil,0.6666666666666666
+hideout,0.30000000000000004
+ambassador car,0.5
+pursuance,1.543859649122807
+installations,0.23589743589743586
+machhi,1.5
+enforcement,0.7354220499569336
+so-called confessional statement,0.0
+state government,3.027142857142857
+trans,3.3116588537728715
+accused persons,7.048780487804878
+halsbury s laws,0.0
+effect,2.184583388478191
+meeting of minds,1.1666666666666667
+conviction of the appellant,1.8235294117647058
+nalini,1.6666666666666667
+meaningful international countermeasure,0.6666666666666666
+particular act,1.0612244897959184
+rest,3.3424534062537377
+present case show,0.6666666666666666
+population,1.8313253012048192
+evidence during the custodial interrogation,0.5
+motive for a crime,0.5
+splinter,0.22826086956521738
+flight,0.5019305019305019
+phrase by john b saunders,0.0
+raja,1.214662447257384
+non-dispatch,0.0
+knowledge of police,0.5
+alleged trans actions,0.5
+none,0.8181718550217885
+cloak of guilt,0.5
+bhola,2.0
+protocol,0.27840481565086533
+impossible burden,0.6666666666666666
+necessary that each conspirator,1.25
+rarest of rare cases,1.5714285714285714
+consequence,0.8726692512593296
+investigation of this case,1.0
+act on the assumption,0.5
+situating,0.5
+corroboration for the purpose,0.5
+contra actum,1.25
+conspiracy to effect,0.75
+mrks,0.25
+place,2.333104345208554
+total depravity,0.75
+old code,1.3333333333333333
+target,1.8734177215189871
+essential that the offence of conspiracy,0.75
+evidence act deals with confession,0.5
+executive power of the union,0.5
+confirmation,2.098684210526316
+hunch,0.23809523809523808
+there lease,0.5
+rdx,0.7277227722772277
+j order,0.0
+som,1.4490032978859397
+proof of any overt act,0.75
+which great emphasis,0.5
+computer,1.3866140537259068
+decade,0.5014409221902018
+recovery of cyanide capsule,0.5
+story,0.755772533184814
+reference about the car,0.5
+unlawful use,2.0833333333333335
+daya singh lahoria,3.0
+investigating,1.5794836956521738
+irregularity,2.0
+back,1.1362801178713813
+expiry of police remand,0.5
+hyper sensitivity,0.5
+human victims,0.6666666666666666
+public view,0.5
+method,0.9027027027027026
+fine,1.3204039558531748
+culprits,2.0
+wariyam singh,0.5
+front gate,0.5
+power to the government,0.5
+crucial postulate,0.6666666666666666
+terrorist organisation,0.6000000000000001
+use of force,1.3674418604651164
+case of bride burning,0.0
+arijit pasayat,0.9230769230769231
+to the charge of conspiracy,0.6666666666666666
+states-,0.0
+anxiety - inspiring of repeated violent action,0.0
+statutory presumption under section,1.0
+fanciful doubts,0.5
+violence against persons,1.3333333333333333
+caste,3.66454871293581
+pw prehlad sharma,0.5
+different standards of admissibility,0.5
+to public view,0.75
+same unlawful object at the same time,0.75
+kadian,1.0
+international concern,0.6666666666666666
+criminal agreement between the appellant,0.5
+grounds,0.9540208829455945
+menace of terrorism,0.6666666666666666
+peacetime,0.7272727272727272
+general public,0.5777777777777777
+poland,0.3043478260869565
+ingredient of the offence,2.2
+nations,0.9375742619504617
+direct,3.0063324325138336
+fear of prejudice,0.6666666666666666
+main targets,1.3333333333333333
+atp,0.9526479750778818
+ground,1.4186722903211633
+applies,0.9353049100122315
+false confessional statement before the dcp,0.5
+pw -bb,0.0
+mr m,0.7636278195488722
+situation prevailing in the society,0.5
+aforesaid reasons,1.1379310344827587
+political purpose,0.38095238095238093
+particular situation,0.28571428571428575
+sense of guilt,0.2727272727272727
+right turn on raisina road,0.5
+purpose of conviction,0.5
+liberty,0.7860465116279071
+express agreement,1.0
+mischief,0.5934065934065934
+article,4.378806157159795
+auto,0.5633733887483435
+menace,0.78
+perpetrated act,0.3333333333333333
+aforesaid reason,1.1176470588235294
+edition by chief justice m monir,0.5
+main target,1.3333333333333333
+penal,1.8829173709853835
+improvement,2.157706093189964
+dr hari singh,0.5
+opinion,1.4960606342789635
+hero by a group,0.6666666666666666
+actor,1.772830529504069
+accused remediless,0.5
+state government in other cases,0.5
+social objective,0.8571428571428571
+state v mullin,0.6666666666666666
+peace time equivalent of war crimes,0.0
+manipulation,0.3037383177570094
+agrawal,0.8888888888888888
+perpetrator,0.7090909090909091
+statistics,0.41129032258064513
+pardon,1.6321839080459772
+kgs,0.5636363636363636
+cruel in execution,0.6666666666666666
+dickey,0.2692307692307692
+bihar,4.587301587301587
+constitution confers upon the governor,0.5
+opinion as regards desirability,0.75
+laws,1.4186274337269533
+by illegal name,0.5
+everyone,0.6963340891912321
+turn,1.6310093128618173
+tis hazari,0.5
+order relate to the matter,0.0
+immediate human victims of violence,0.6666666666666666
+swarup,0.8
+wire in the parking area,0.0
+respect,2.6704963235294117
+behavior,0.4553359683794467
+of the accused person,2.210526315789474
+recording,1.3265454545454545
+cold-blooded murder,0.0
+expression,1.7424391201885312
+departure,0.6451612903225807
+trial of indictment,0.5
+walls,1.0032840722495895
+common feature,0.7999999999999999
+application to the present case,0.75
+pw inspector severaia kujur,0.5
+shri ks,1.0
+station,1.2515681586858238
+mangal singh,0.6666666666666666
+manu  scmanu  sc,0.0
+jaipur,1.0
+same time,0.6913511801045461
+various crime,0.5
+stand,1.8422769621739425
+guilty escape,1.3333333333333333
+work,2.8478559811646353
+features,0.6184582743988685
+permissibility of conviction,0.5
+pstates-,0.0
+that death sentences,0.6666666666666666
+complicity,1.0476190476190477
+essence,0.5974025974025974
+plummer,0.5
+arijit,0.9230769230769231
+hired assas,0.75
+say of pw severaia kujur,0.5
+bureau,0.5022321428571429
+punjab,1.0438169425511197
+papers,1.0564063453325199
+prison rules,0.5
+necessary implication,1.2608695652173914
+such state,0.8872053872053872
+particular person,0.6349206349206349
+abettors,0.75
+photograph of that person,0.5
+credit to the magistracy,0.6666666666666666
+glanville william,0.75
+voluntary confession,0.5
+in criminal proceeding,0.6666666666666666
+confessor,0.3508771929824561
+by illegal mean,1.3333333333333333
+time predominates,0.5
+p someone,0.38513513513513514
+for the prosecution,0.9285714285714286
+further corroboration,1.0
+sentence of death,1.5428571428571431
+jayawant dattatray suryarao etc,0.6666666666666666
+personal opinion,0.375
+purpose of enactment,0.5
+which co-conspirator,0.0
+dures,0.7221114369501466
+lahora,0.5
+compassion,0.5714285714285715
+nations convention,0.6666666666666666
+bitta s car,0.0
+illegal names,0.5
+digest of law,0.5
+september,0.8548484848484849
+great emphasi,0.45000000000000007
+such type,0.75
+respect for brother shah,0.5
+nothing on record,1.5
+presence,0.9604834261070158
+lawful use,2.638888888888889
+ghaziabad,0.75
+minds of particular persons,0.6666666666666666
+gda,0.4709897610921501
+circumstances of each case,1.0833333333333333
+mistres,0.25
+procedures,0.6129675045984059
+dcp shri bs,0.5
+guilty to the charge of conspiracy,0.5
+raisina road,3.5
+verdict,0.6880952380952381
+year for the offence,0.0
+passage of time,0.4102564102564103
+evidence in proof,1.0
+eleven text books,0.5
+of the accused persons,2.1666666666666665
+target of demands,0.6666666666666666
+kehar singh,0.8
+circumstance about the alleged attempt,0.0
+rare cases,1.2592592592592593
+word,2.065873981084096
+other place,0.4742268041237113
+blank sheet,0.3333333333333333
+apprehension,0.9319526627218935
+pill,0.5188981422165279
+sc bahri v state,0.6666666666666666
+compulsion,0.6274509803921569
+premises on rent,1.0
+postulate,0.5385790679908328
+effectual proof,0.5
+will,1.9263907124198036
+objectives,0.698051948051948
+office of ms bitta,1.0
+name,1.8996570753072433
+compulsion byother,0.5
+toward,1.0255939365170768
+incross-examination,0.0
+illegal name,0.5
+igi,1.902800540303142
+members,1.9437616522164103
+soldiers  residence,0.0
+staff of lufthansa airlines,0.5
+account,2.5754891049671977
+purchase,3.239871541501976
+repeated violent action,0.6666666666666666
+conscience of the community,0.75
+same place,0.4129032258064516
+objects,0.7297830374753452
+cyanide pill,1.5
+incurable illegality,0.5
+interference,0.5733527484528578
+trial court,3.854545454545455
+the classic statement of the principle,0.6666666666666666
+purpose,2.519170317925504
+lack of direct evidence,0.75
+necessary for a single comprehensive convention on terrorism,0.6666666666666666
+involuntary  import statement,0.0
+appropriate government,2.3846153846153846
+parties to such agreement,0.75
+aforesaid proposition,0.875
+time,2.4764180952862667
+matter of dispatch,0.5
+criminal object,1.75
+sahibabad,1.5
+central government,3.0380952380952384
+league,0.6538487304883768
+premise on rent,0.0
+pawan kumar  chajju,0.0
+responsible for escalation of terrorist activities,0.6666666666666666
+snack,0.2727272727272727
+chaudhary,1.4615384615384615
+such person,0.9634888438133874
+targets of violence,0.6666666666666666
+police remand,1.3333333333333333
+voluntary,6.291079812206573
+asylum in germany,1.0
+punishable offence,1.0
+military installation,0.6666666666666666
+aforesaid question,1.0
+answers to the questions,0.45000000000000007
+art,5.941987862582413
+terrorism by nature,0.6666666666666666
+conviction under section,1.5
+evidence against the appellant,0.5
+responses,0.6831831831831832
+more persons,1.388888888888889
+kgs of rdx,0.5
+effectual mean,0.75
+executive power of the state extends,0.5
+guard,1.1435613062230436
+at guru nanak engineering college,0.5
+more parties,0.8571428571428571
+hours,1.1644152367043934
+murder,1.4968553459119496
+void verdict,0.5
+ramdeo chauhan v state,0.5
+absence of any prejudice,0.5
+other vehicle,0.5714285714285714
+confines,0.47619047619047616
+contractor,4.09297052154195
+evidence against himunless,0.5
+apparent that information,0.5
+neither credit,0.4
+indian evidence act,1.3125
+absence,1.092363454568179
+type,0.8102172691515265
+counsel,2.2246780703440323
+several case,0.6666666666666666
+personal search,2.0
+sukha  sangat puria,0.0
+english law on this matter,0.75
+much in favour of a police officer,0.6666666666666666
+attack on the parliament,0.6666666666666666
+plans,2.01766620176662
+jayawant dattaray s case,0.0
+witnesses,3.359210526315789
+indignation of the community,1.0
+rules,3.130914366958792
+reiterate,0.7025745257452575
+jurisprudence,1.088888888888889
+object of conspiracy,2.75
+mechanism,0.7337579617834395
+answers,0.3387502861066606
+dattaray,0.6666666666666666
+blank pieces,0.5
+atmosphere,0.3046594982078853
+puri,0.8184615384615385
+run,1.061635248797611
+polouse of police station sriniwas puri,0.0
+own conscience,0.5555555555555556
+application ex,0.6000000000000001
+governor of the state,1.0
+mention,1.6248742837095076
+importune,0.5
+certain aspect in the confessional statement,0.0
+operation cell,1.5
+non-dispatch of the confessional statement,0.0
+congres,0.7158683610296513
+other evidence against the appellant,0.5
+conditions,1.9988092071092867
+victim,1.204831365285174
+passenger,1.8365885416666665
+concert,1.385885885885886
+alleged involvement,0.75
+crimes,0.7056429734129138
+later date,0.5714285714285714
+vigilance,0.75
+voluntarystrong reliance,0.5
+circumstance of the case,0.5
+capsule in plastic foil,0.5
+military installations,0.6666666666666666
+search memo,1.0
+wind,1.3998774015100546
+case,7.332269420884958
+panchnama,0.75
+appellant devender,1.0
+aspect in the confessional statement,0.0
+error,1.059158294766151
+favour of the appellant,1.4838709677419355
+attacks on civilians,0.3636363636363636
+apparent that the confessional statement of the appellant,0.5
+airlines,0.6666666666666666
+affair,0.8341728395061728
+admn,0.36734693877551017
+lease,1.2000155472636815
+igi airport staff,0.5
+punishment,1.6266937669376693
+attack on civilians,0.0
+dcp mr,0.5
+numbers,0.8671061762664817
+injuries,2.4130008710801394
+statements,1.110873440285205
+identical provisions,0.5
+rukka under sections,0.5
+contention,1.666391070690368
+trap,1.232142857142857
+statement under section,2.1
+see state,0.8181818181818181
+plastic,0.3764367816091954
+others in the constitution deal,0.5
+inter alia,1.3280423280423281
+criminal means,1.5
+evidence act deals,0.5
+seizure,0.6583598956824108
+question whether a confession,0.5
+lufthansa,1.25
+powers in respect,0.8
+violation,1.2087401208740118
+mullin,0.21212121212121213
+office,3.5913445886237847
+conspiracy arises,0.75
+mind of particular persons,0.0
+more party,0.0
+victim of murder,0.75
+arrest in the present case,0.5
+targets of opportunity,0.6666666666666666
+iota,0.34552845528455284
+root of the charge,0.75
+perspective tenant,1.0
+offence under section,2.6
+phenomenon,0.3698752228163993
+rule of procedure,1.0
+confessions,0.8823529411764707
+alleged non - dispatch,0.0
+unlawful act by unlawful means,1.25
+saunders,0.37037037037037035
+notice,2.3300025999395686
+consignment,1.25
+ingredients of offence,0.75
+precise term,0.4444444444444444
+authority to the effect,0.5
+saini,2.1666666666666665
+privacy,0.9812310030395137
+kamlesh,0.5
+figure,1.2881717501815544
+legal act by illegal means,1.0
+materials,1.1534090909090908
+delhi administration,1.2727272727272727
+rear seat,0.4117647058823529
+un member states,0.6666666666666666
+father-in-law,0.0
+contrast,0.5347903657448707
+statistic,0.439569536423841
+maharashtra etc,0.75
+passport act,1.0
+own hand,0.9230769230769229
+effort,0.7536036036036036
+disturbance,0.5303030303030303
+co-operate,0.0
+that a confession,0.5
+criminal conspiracy for the simple reason,0.5
+bhawan,2.0
+tada rules,0.5
+chief justice m monir,0.5
+circumstance of this case,0.0
+say of pw inspector severaia kujur,0.5
+copy of the confessional statement,0.5
+violence-based communication,0.0
+public duties,0.8333333333333334
+that the witness,0.967032967032967
+first opportunity,0.4444444444444445
+single comprehensive convention,0.6666666666666666
+sound tracks,0.5
+seeek,0.5
+halehowever,0.5
+direct targets of violence,0.6666666666666666
+haryana,2.935064935064935
+audience,0.5347222222222222
+individuals,0.7198633479746219
+message,0.9435911954136882
+mechanical device like cassettes,0.5
+prudent to water down the scheme,0.5
+indictable offence at common law,0.6666666666666666
+loud discussion in an elevated place,0.75
+conventions,0.3972602739726028
+many part,0.3448275862068965
+course of interrogation,0.3333333333333333
+documents,1.142515923566879
+air,2.0589664272145285
+customer,1.993717277486911
+that basi,0.6481481481481481
+criminal agreement,0.5
+death reference,1.5
+res,10.359704275735774
+confine,0.7331810394060537
+true that the witness,0.6666666666666666
+harnaik,5.0
+countermeasures,0.6666666666666666
+target of terror,0.6666666666666666
+tape,0.316711590296496
+vague hunch,0.5
+legislature,2.818553268765133
+chances,0.4692737430167598
+bedi,1.227272727272727
+few provisions in the code,0.5
+device like cassette,0.5
+proofs in the law,0.5
+observance,0.6967741935483871
+conduct,1.5998023165163158
+organisation,1.4034090909090908
+encounter,0.45679012345679004
+good to the public,0.6666666666666666
+hospital in auto rickshaw,0.5
+judicial approach,0.8333333333333334
+personal search memo,1.0
+man s freedom fighter,0.0
+bihar v paramhan,0.75
+view of the above,1.1764705882352942
+rooms at sahibabad,0.5
+such minor deficiency,0.5
+provisions of code,0.75
+mistres of law,0.0
+more parties to such agreement,0.75
+errington,0.45000000000000007
+non-military targets,0.0
+alone,0.8326476835793606
+great importance,0.6666666666666666
+ingredient s,0.5
+escalation of terrorist activities,0.6666666666666666
+paper,1.8076689487632511
+cynic,0.30845771144278605
+pump,0.5740112994350282
+indian penal code,5.264705882352941
+position of trust,0.75
+same object,0.5
+movement,0.8351097178683385
+car bomb attack,0.5
+pardons,0.25
+police of police station sriniwas puri,0.5
+that certificate,0.5
+hand,2.0299623418254717
+soldiers  residences,0.0
+organization,1.1323094113464371
+militants,2.5
+congress,0.7151067323481116
+official acts,0.4444444444444444
+guilty of criminal conspiracy for the simple reason,0.5
+many cases,0.5184774575018478
+appellant,14.387096774193548
+punjab polouse,0.0
+conspiracy for the simple reason,0.5
+state v nalini,0.6666666666666666
+various party,0.0
+recording of the statement,0.6666666666666666
+second ed p,0.75
+transmission,1.1157457081545064
+bachan singh v state,0.75
+actual word of communication,0.0
+lush,0.3326835607537362
+public prosecution,0.5
+regard to commission,0.75
+public,2.923239095873367
+maru ram v union of india manuscmanusc,0.5
+memo,1.4242074188165834
+new delhi,1.744186046511628
+answer,0.9554305705177771
+compulsion of the conscience,0.5
+multiple murders,0.6000000000000001
+parking area in front,0.5
+conspirator for an offence,0.5
+ultimate offence,1.0
+case shows,0.6666666666666666
+holders,0.9411764705882353
+evidence about the date,0.75
+enormous in proportion,1.3333333333333333
+chauhan,1.75
+use of coercive intimidation,0.6666666666666666
+central,2.61875
+inspector severaia kujur,0.5
+of the offence of criminal conspiracy,1.0
+permissibility,0.5333333333333333
+guilty persons,0.6666666666666666
+dattaray s case,0.0
+lajpat,1.0
+emphasis,0.8024289099526066
+mr bola,1.5
+entire paragraph,0.25
+devotion to the rule,0.5
+provision of sections,0.0
+case show,0.5333333333333333
+nasir,0.3333333333333333
+state of up,2.0784313725490198
+baburao,0.6666666666666666
+as sections,0.8333333333333334
+fake number,0.5
+common experience,0.8333333333333334
+threat mean,0.5
+lie to some parts,0.5
+that corroboration,0.5
+possibility,0.7613466503601033
+officer of the case,0.0
+attack on the world trade center,0.0
+purchase of the car,1.5
+v state of maharashtra manuscmanusc,1.3125
+glanville,0.8
+situation,1.1254754682459434
+night,0.8690610404251893
+observations,0.7454584147497534
+attention,0.8724846605528799
+measures,1.126498218334953
+prison,1.4542975696502667
+parts of the country,0.6352941176470588
+house on rent basis,0.5
+asi kamlesh,1.5
+innocent people,0.3539823008849558
+pilot,0.46280276816608995
+rank,0.6723585912486659
+pos,5.505120896777278
+expression  terrorism,0.0
+convict,3.1901719901719896
+daya,0.92480690595184
+blast,1.2306701030927836

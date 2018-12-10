@@ -1,0 +1,1168 @@
+rabies eradication,1.0
+other competent authority,1.3333333333333333
+pre,6.408342692122574
+committee,2.546237803603864
+sterilizations,0.5
+different stakeholder,0.5
+government,3.5583785424010483
+residential rooms for veterinarians,0.5
+time program manager,0.5
+kerala politician,0.5
+deaths,0.43177752480078063
+adherence,0.6737967914438503
+sasi,0.4749999999999999
+department of animal husbandry dairying,0.5
+director,1.3549769585253457
+implementation,1.2465707594513213
+dog population management,1.5
+bites,0.5800000000000001
+state of kerala,2.861111111111111
+program,1.5555704998879176
+dog population control,0.5
+mind,1.1559066143122394
+other hand,0.6931925622439332
+abc contracts,0.5
+structure of the central coordination committee,0.5
+various other aspects,0.75
+people,1.2855544825097243
+responsibility,0.8659259259259259
+staff of the abc,0.5
+annual progress reports to the honble supreme court,0.5
+establishment,0.9899216125419933
+reasons,1.3749054007567938
+limited to infrastructure,0.5
+administrative heads,0.5
+dogs in the targeted area,0.5
+problem,0.6764352120789936
+instance,0.9469803370786518
+turn lead,0.5
+indian animal protection organizations,0.5
+in that state  union territory,0.0
+rules to the board,0.6666666666666666
+councils in that state,0.5
+bid from interested abc contractors,0.0
+capital cost,0.6666666666666666
+principal,1.3412499999999998
+progress,1.075925925925926
+interest,2.74353772015385
+obstacle,0.49180327868852464
+court,12.24425115501509
+censu,0.530701754385965
+awbi iv,0.0
+creation,0.5716118684843625
+aspects,1.0997620069447154
+union,2.0981927710843373
+appropriate implementation,0.6666666666666666
+local authority level,1.0
+training,2.5456213222568365
+residential room for veterinarians,0.0
+facilities,0.9130594727161252
+embark,0.6428571428571428
+objection,1.68120480131216
+per dog basi,0.5
+person,4.291511329454258
+catchers,0.25588235294117645
+animal birth control programme,1.0
+manpower costs,0.5
+implementing,1.2551020408163263
+way,1.7812722068664852
+organ count of the operated dogs,0.5
+progress report to the honble supreme court,0.0
+behalf,1.9888053603529987
+call,1.5442351461768689
+part,5.294464509893076
+seamless coordination between different stakeholders,0.5
+conduct of the programme,1.0
+environment,4.8219106957424716
+turn lead to significant pain,0.0
+state-wide high throughput abc programme,0.0
+hitch,0.1767241379310345
+photographs at the bar,0.5
+baseline,0.23076923076923073
+stray,1.211340206185567
+infrastructure,1.1264822134387351
+juncture,0.8717948717948718
+other capital cost,0.5
+facility,1.2989690721649485
+abc contract,1.0
+challenges,0.39999999999999997
+various other aspect,0.75
+new area,0.2692307692307692
+ndmc,0.5714285714285714
+aspect,1.2449448189023034
+animal birth control programme throughout the country,0.5
+post-op care,0.0
+bidders,1.2857142857142858
+shortage,0.75
+district,1.5506763074237984
+number,1.4802651440973922
+funds,3.352010547132498
+mr krishnan,0.5
+other expense,1.0
+gopal subramanium,1.1666666666666667
+guidance of the awbi,0.5
+competent authority,2.7142857142857144
+that safety,0.4444444444444444
+aforesaid,2.592896174863388
+desired result,0.4266666666666667
+rakesh,1.4
+short-listed for implementation,0.0
+other person,0.9635036496350365
+lowest bidder,1.0
+authority levels,1.0
+municipal councils,0.5
+with the caption  gils periappuram posing,0.0
+animal welfare board of india,1.6666666666666667
+mr anupam tripathi,0.5
+photographs depict,0.75
+dave,0.5541026479241583
+staff,1.3233972834416785
+areas,1.6237236125072747
+to state,0.7092760180995474
+submission of mr,1.4074074074074074
+instructions,1.8111673678956002
+preparation,1.299145299145299
+project reports,0.6666666666666666
+implementation framework,1.0
+state  union territory level,0.0
+viable animal birth control programme,0.5
+fisheries,1.5
+evaluation,0.7358156028368795
+summary of module,0.5
+in the matter,0.9353448275862069
+area,2.675167256985439
+progres of the abc program,0.0
+to stray dog,0.6666666666666666
+anjali shanna,0.5
+theater,0.21551724137931033
+sterilization of dogs,0.6666666666666666
+ward,2.4967109028473318
+- listed for implementation,0.0
+rural,1.961287078934138
+month,1.3454861111111112
+scientific study,0.5238095238095238
+year,2.8349484769759212
+implementation agencies,0.5
+project report,0.6666666666666666
+smoothly overcome,0.5
+pfa,0.23124999999999998
+bids from interested abc contractors,0.5
+dog bites cases,0.5
+suffering,1.0058873002523128
+stake - holders within the states,0.0
+limited,1.3713554955535188
+release,0.9830403257846643
+central coordination committee,3.5
+dairying,0.5
+time to time,1.0211267605633803
+municipal council,1.2222222222222223
+urban local body,0.0
+sharma,0.9516994633273703
+capital costs,0.5
+number of pups,0.5
+order,5.472481489660944
+vets,0.3529411764705882
+dr abhishek manu singhvi,0.5
+such committee,0.75
+programme,1.5640149666503986
+act,12.870263922028107
+store rooms,0.5
+state  representative,0.0
+water - tight implementation framework need,0.0
+needles to state,0.0
+animal birth control program,2.3333333333333335
+pursuance,1.543859649122807
+decrease in number,1.0
+fiapo,0.5
+function of the central coordination committee,0.0
+abc program for the estimated number,0.5
+para-vets,0.0
+adequate number,0.3333333333333333
+stake,0.6761337608795236
+creation of the state monitoring,0.5
+standing counsel,1.1111111111111112
+abc  contractor,0.0
+animal husbandry dairying,0.5
+parameters,0.8168253968253969
+state government,3.027142857142857
+other party,0.8608695652173913
+completeness,0.21794871794871795
+authority of the union territories,0.0
+level,1.1533169827122092
+phase - wise seamless manner in each state,0.0
+minimum,1.388221153846154
+copy,0.8620926631522174
+quarter,0.7884753275536145
+photograph at the bar,0.0
+necessary that the monitoring committee,0.5
+manner,1.4494591333432125
+mandatory requirement,1.4
+population,1.8313253012048192
+setting,0.7533735285673271
+member,2.649111111111111
+parties,1.8210828547990157
+union territory  representative of an animal welfare organization,0.0
+orissa,2.3125
+attendant,0.5
+para-vet,0.0
+rakesh kumar,0.6666666666666666
+organisations,0.6688963210702342
+targets for the required number dog sterilizations,0.5
+human beings,0.6097152428810719
+indispensable for the success of the animal birth control program,0.5
+krishnan,1.5098039215686272
+animal welfare organisations,1.0
+ministry of health,1.0
+methodology for street,0.5
+coordination of the program,0.5
+animal welfare organisation,1.0
+uniformity,0.5454545454545454
+protocol,0.27840481565086533
+anupam,0.6666666666666666
+water,0.9741079360379036
+abc surgery in each state,0.0
+health department  principal secretary,0.0
+fortnight,0.5000000000000001
+panchayat raj  director,0.0
+committees,1.1
+representative,1.0617102796119673
+constitution of the monitoring committee,0.5
+veterinarians,0.6000000000000001
+other person  s,0.0
+proposal in the form,0.5
+step i,0.6081402257872845
+place,2.333104345208554
+driver,0.8230211045255637
+functions,1.326241134751773
+circumstance,1.429931390219372
+lesser number,0.5
+international,1.4453445246925631
+veterinary council,0.5
+target,1.8734177215189871
+project report from the state governments,0.0
+different stakeholders,0.5
+technical bid as sole criterion,0.5
+authorities of the union territories,1.3333333333333333
+state monitoring,6.0
+regard,2.723310344827586
+security of the human beings,0.6666666666666666
+animal husbandry department of the state,0.5
+narasimha,0.9583333333333334
+training at an awbi,0.5
+implementation committee for animal birth control,0.5
+incidence,0.6737804878048781
+profit margin,0.2777777777777778
+best practices,0.5
+estimate,1.0964912280701755
+future assistance,0.5
+impediments,0.42857142857142855
+embark upon the program,0.5
+expenses,1.2727272727272727
+agency,1.8968779259354924
+proces,1.627944583238701
+man-dog conflict,0.0
+expression of interest,1.0
+possible in these circumstances,0.5
+item,1.3319648896447913
+secretary in - charge,0.0
+secretary of the states,0.0
+recommendations,2.1638655462184877
+control,2.148867902684286
+furnished abc,0.5
+regards,0.9072861236185019
+facts,1.4696673624372698
+v decrease in incidence,0.5
+detailed project reports from the state governments,0.5
+facilities  campuses,0.0
+accordance with the act,0.8
+secretaries of the states,0.6666666666666666
+municipal,2.4099173553719004
+following key aspect,0.5
+ministry of environment forest,1.0
+animal husbandry department,1.5
+local bodies,1.4444444444444444
+lesser number of pups,0.5
+report as regards,0.75
+local body,0.5
+success,1.087615328288992
+facilities  campus,0.0
+animal birth control monitoring committees at the local authority levels,0.5
+many competitive lowest bidder,0.5
+basi,2.0752712086391383
+form,2.4865961263718424
+mumbai,1.8484848484848484
+animal birth control surgery,0.0
+international airport,0.7142857142857143
+objections,1.2025072324011572
+beings,0.5577464788732395
+leave petition,2.013333333333333
+politicians,0.4692737430167598
+lack,0.6349809734425119
+needless to state,1.0
+various stakeholders,0.5
+rank of deputy director,0.5
+senior,1.989753211141579
+local authority,3.933333333333333
+contract,6.227349970404598
+for the succes of the animal birth control program,0.0
+today,0.6330563683773655
+timely release of funds,0.5
+existence for a minimum,1.0
+local,1.7491695749064458
+records,0.9879294336118848
+cost,1.2954397451466992
+campuses,0.5185185185185185
+phase - wise seamless manner,0.0
+orders,1.4936359300077826
+copies of the writ petition,0.6666666666666666
+basis,1.953226441078104
+turn leads to significant pain,0.5
+panchayat,10.0
+animal birth control monitoring,3.5
+ias,0.95302321313882
+co - ordination committee,0.0
+prominent animal welfare organization,0.5
+proposals in the form,0.5
+organ,2.0834119139920135
+vii,1.26552423069836
+animal welfare board of india  chairperson,0.0
+local authority  district - wise plan,0.0
+greater detail,0.2777777777777778
+increased conflict,0.5
+rations,1.4560862865947615
+charge,2.7679815308681284
+creation of a central coordination committee,0.5
+animal birth control coordination in the state  representative,0.0
+seamles,0.48275862068965525
+following key aspects,0.5
+kerala politicians,0.5
+country,1.2903191103863751
+implementing agency,3.6666666666666665
+organizations,0.4779116465863454
+phasewise,1.0
+most state,0.5263157894736842
+needles,0.5447697312104091
+officer,3.1197242647058823
+cruelty,2.9099099099099095
+additional expenses,0.5
+many death,0.3589743589743589
+complaints,0.9978858350951374
+territory,1.3688226421790437
+to infrastructure,0.6666666666666666
+detailed project report,1.0
+municipal corporations,2.25
+chief secretaries of the states,0.6666666666666666
+hereunder,1.4457142857142857
+justifiable reason,0.9
+pre-operation preparation area,0.0
+progress report,0.2857142857142857
+collaboration between local authorities,0.5
+function,1.6326372491145218
+comprehensive district wise plan,0.5
+establishment of animal birth control monitoring committees,1.0
+nodal officer,1.4
+for the success of the animal birth control program,0.5
+various aspects,0.5333333333333333
+rural development,1.8
+central government on a per dog basis,0.5
+liberty,0.7860465116279071
+detailed project reports,1.0
+field,1.5820968371729793
+gopal,1.1610169491525424
+operated dogs,0.5
+matter,2.8088923076923082
+in these circumstances,1.303030303030303
+south,0.8254159150130287
+implementation committee,6.0
+price,2.8302710227712162
+rules in letter,1.0
+counts today,0.6666666666666666
+look,0.7258645241210043
+stress,0.5011072445428663
+supreme court of india,1.2857142857142858
+news,0.8405125851029581
+administrator,1.0441081081081083
+panchayats,5.25
+street,3.189100817438692
+previous years,0.9727891156462585
+additional expense,0.30000000000000004
+let writ petition nos,0.5
+suggestions after the module,0.6666666666666666
+other expenses,1.0
+view,2.441100058469462
+indian,1.2604961505560306
+rule to the board,0.0
+adequate number of trained veterinarians,0.5
+post,2.344803646492219
+reports,1.0202012199952466
+weekly organ count,0.5
+requirements,0.7375979875979877
+heads,0.7896459995907509
+decrease,0.482986111111111
+certain photograph at the bar,0.0
+conflict,1.314561353483509
+suggestions,0.7508630609896433
+side,3.88845645915565
+impediment to the smooth conduct,0.0
+kennel,0.3409090909090909
+municipal councils in that state,0.5
+bodies,0.8969063256135499
+animal birth control surgeries,0.5
+subramaniurn,0.5
+state  union territory level in all states,0.0
+guidance,0.5256410256410255
+demonstration,0.8202247191011236
+birth,1.5969847398418826
+pups,0.17543859649122806
+budget head,1.0
+that safety of the human beings,0.6666666666666666
+other aspect,0.6921768707482993
+rate of sterilization,0.5
+role that each stake - holder,0.0
+local authority so that target,0.5
+sake,0.5262975778546712
+result,1.3356630184144715
+officials,1.3691666666666666
+airport,1.1578231292517007
+pinky,0.6
+india  representative of the state animal welfare board,0.0
+ambulances,0.6
+record,2.5393414390845273
+administrative head,0.5
+procedure,2.552771605064117
+funding,0.39415562351342176
+contractors,2.2093023255813953
+petitions,1.3930830039525692
+local authorities,1.1875
+that stateunion territory,0.5
+turn,1.6310093128618173
+animal protection organizations,0.5
+india  chairperson,0.0
+world,0.7808471033398942
+programmes,2.1464646464646466
+secretary,0.9217877094972067
+provision,5.439002243350069
+apathy,0.43636363636363634
+secretary in - charge of the urban local bodies,0.0
+parameter,0.7630669107179174
+union territory  representative,0.0
+solicitor,1.7073170731707317
+stres,0.5060879263872107
+dog bites case,0.5
+pole,0.3058823529411765
+certain photographs,0.5
+to the abc,0.3333333333333333
+fact,3.6284951019474962
+recommendations for effective implementation,0.6666666666666666
+response in the affidavit,0.5
+learned counsel,3.703333333333333
+additional solicitor,2.5454545454545454
+expression,1.7424391201885312
+progress reports to the honble supreme court,0.5
+obligation of the board,0.6666666666666666
+copy of other ias,0.0
+compliance with the animal birth control,0.5
+vehicle,2.973111766564837
+public demonstration,0.3333333333333333
+phased way,0.5
+department,1.9858367499068206
+weeks  time,0.0
+such cases,0.7390180878552971
+mr sasi,1.0
+deputy,1.1595268542199488
+profit margins within the lowest price,0.5
+culled dogs,0.5
+learned counsel for the parties,1.263157894736842
+chief,1.9429638234317954
+that targets,0.5
+special,1.7363344051446945
+centre,1.3584842944989197
+transport,1.8361522198731504
+violation of the rules,0.3333333333333333
+honble supreme court,2.272727272727273
+kumar,2.028839704896043
+desired results,0.2692307692307692
+certain photographs at the bar,0.5
+essential requirement,1.0
+complaint call,0.5
+identification,2.0914158305462656
+gils,0.2692307692307692
+additional secretary,1.5
+animal welfare organization,2.25
+solicitor general,1.7368421052631577
+many local authorities,0.5
+framework,0.5828468792096991
+that target,0.2777777777777778
+in these circumstance,1.303030303030303
+authority level,1.0
+progress of the abc programme,0.5
+representatives,0.8874021711688966
+practices,1.3187467899332308
+shanna,0.2727272727272727
+testes,0.2777777777777778
+proposal,1.8145800316957208
+photographs,0.8524590163934426
+additional,1.4256530253244384
+seamless coordination,0.5
+reduction in man-dog conflict,0.0
+bar,1.4720990391722097
+affidavit,2.2996987951807224
+such case,0.7332761578044598
+years,2.5395804110508022
+local authority levels,1.0
+council of india  representative,0.0
+abhishek,0.6666666666666666
+rule for appropriate implementation,0.0
+ms anjali sharma,1.3333333333333333
+report,1.7768151696835826
+shortage of resources,0.5
+copies of other ias,0.5
+para,2.300239586747483
+protection,1.1604395604395603
+needful,0.5625
+singhvi,2.5833333333333335
+selection of abc implementing agencies,0.5
+function of the state monitoring,0.0
+stray dogs,3.3333333333333335
+vet,0.5831610044313146
+copies,0.5369304682962884
+territorial limits,1.0
+prejudice to the contentions,0.5
+party,2.2250894654439723
+anything,0.9132309941520469
+delhi,2.6089285714285717
+calls,0.5871357250667595
+poor implementation,0.5
+constitution of the state monitoring,0.5
+factor,1.2878742338904643
+animal birth control,6.2
+government on a per dog basis,0.5
+parameters of the act,1.0
+bite,0.9658025372311085
+budget,1.9635270541082162
+spv,0.19658119658119658
+abc programme,1.0
+rural area,0.5333333333333333
+councils,0.6666666666666666
+ambulance,0.5864197530864198
+senior counsel for peoples,0.5
+per,7.977753416636086
+release of the dogs,0.5
+progres,1.075925925925926
+processes of each such committee,0.5
+state in a detailed phasewise manner,0.5
+raj  director,0.0
+impediments to the smooth conduct,0.5
+behalf of the federation,0.5
+special purpose vehicle,1.0
+prominent state animal welfare board,0.5
+manpower cost,0.5
+allocation,0.5581395348837209
+regard from any quarter,0.6666666666666666
+central co - ordination committee,0.0
+catcher,0.23275862068965517
+stake - holders,0.0
+essential requirement under the rules,0.0
+requirement under the animal birth control,0.5
+understanding,0.8257450331125827
+that the monitoring committee,0.5
+union of india,3.1324503311258276
+following view,0.5
+existence,0.731202675709574
+most states,0.5333333333333333
+subramanium,1.6666666666666667
+authority so that targets,0.5
+store room for rations,0.0
+many deaths,0.3589743589743589
+pursuance of the aforesaid order,0.75
+urban development ministry,0.5
+mr ps,0.8
+reason for poor implementation,0.0
+accordance,1.4069045211613462
+dogs,3.8716356107660457
+animal husbandry,1.0
+past few years,0.2571428571428572
+spirit of the previous order,0.6666666666666666
+many competitive lowest bidders,0.5
+writ petition nos,1.125
+responsibilities,1.1746031746031744
+let writ petition no,0.5
+room for veterinarians,0.0
+rooms,0.5689655172413793
+quarantine wards,0.5
+execution,1.3041894353369763
+count,2.7493281810130092
+rules for appropriate implementation,0.6666666666666666
+various stakeholder,0.5
+levels,0.8861538461538463
+council,1.464939453675021
+detailed project report from the state governments,0.0
+responsibility of the local authorities,0.0
+dog,3.520249221183801
+contracts,1.9600000000000002
+impact,1.0957789249924081
+writ,2.8882378560889794
+honble,2.4444444444444446
+step,0.8867024753460084
+complaint calls,0.5
+state animal welfare board,1.0
+practice,1.7660110149488593
+humane manner,0.5
+union territories across the country,0.5
+census,0.5360623781676414
+technical guidance,0.5
+world health organisation,0.5
+bids,0.7344262295081967
+other stake-holders within the states,0.0
+supreme court,1.4278957326045825
+execution of the animal birth control program,1.0
+peoples,0.6156921539230384
+areas throughout the state,0.5
+step iv,0.5
+estimated number,0.6666666666666666
+reasons for poor implementation,0.5
+obligation of the state,0.8
+target for the required number dog sterilizations,0.0
+members of this committee,1.0
+studies,1.1615103532277709
+members,1.9437616522164103
+identification of abc implementing agencies,0.5
+interested abc contractors,0.5
+account,2.5754891049671977
+person  s,0.0
+arrive at an estimate,0.5
+module by the board,0.6666666666666666
+parking,1.2207317073170731
+adherence with provisions,0.5
+rural areas,0.5454545454545454
+animal birth control surgeries per year,0.5
+water - tight implementation framework needs,0.0
+learned,3.406323898681099
+states,1.5120646995827023
+dushyant a,1.75
+threat to life,0.4444444444444444
+committee of the local authority,0.5
+store rooms for rations,0.5
+member secretary,1.3333333333333333
+pre-operation preparation areas,0.0
+purpose,2.519170317925504
+agency from the local authorities,0.0
+ovary,0.0
+kennels,0.75
+change,1.2214862766571903
+nos,1.2635492554198444
+suggestion after the module,0.0
+head,1.5827778446537666
+study,1.4280920541907696
+circumstance in entirety,0.0
+time,2.4764180952862667
+cases,1.9728229418951067
+central government,3.0380952380952384
+union territory across the country,0.0
+sides,0.6706755273269035
+fund to state governments,0.0
+present,1.9747480780089475
+module,1.0122699386503067
+fund allocation to each state,0.5
+huge cruelty,0.0
+periappuram,0.5
+technical bid,1.3333333333333333
+time for the submission,0.6666666666666666
+other ias,0.5
+mr p,0.8393365893365893
+state of orissa,2.25
+board,2.401414435268602
+plan,2.0162821688398056
+chairperson of the state monitoring,0.5
+monitoring committee,5.25
+reduction,0.8411214953271028
+resource,0.8416706827309237
+indian animal protection organization,0.5
+same for the sake of completeness,0.5
+functions of the central coordination committee,0.5
+administrator of the union territories,0.6666666666666666
+effective implementation,0.6666666666666666
+competent authority of the union territories,0.0
+buffer,0.1583011583011583
+responses,0.6831831831831832
+stakeholders,0.8333333333333334
+animal birth control coordination,0.5
+other stake-holders within the state,0.0
+phasewise manner,0.5
+ambulances for transportation,0.5
+member of this committee,0.0
+establishment of animal birth control monitoring,1.0
+complaint,2.734525785235724
+municipal corporation,1.3439153439153437
+news item,1.2000000000000002
+giri,1.9047619047619047
+assessment,2.647276084949215
+limit,2.3804570428443834
+grant,1.7314487632508835
+husbandry,1.0
+criterion,0.7104166666666666
+ms pinky anand,1.25
+transportation,0.4525862068965517
+abc implementing agencies,5.5
+bid,1.9753926494441585
+pain,0.6559880239520958
+contractor,4.09297052154195
+state governments,1.3345864661654134
+due to stray dogs,0.6666666666666666
+sole criterion,0.6666666666666666
+annual progress report to the honble supreme court,0.0
+copy of the writ petition,0.0
+comprehensive local authority  district - wise plan,0.0
+experience,1.0353951355971713
+counsel,2.2246780703440323
+trained veterinarians,0.5
+for the sake of completeness,0.30000000000000004
+limits,0.8405888207868406
+success of the program,0.5
+necessary that the monitoring committees,0.5
+needful in the matter,0.6666666666666666
+functions of the state monitoring,0.5
+india,2.7684068260703585
+extreme in nature,0.6666666666666666
+authorities,1.266131845134287
+rank of a director,0.5
+fishery,1.0
+rules,3.130914366958792
+summary,0.8025241675617614
+competitive lowest bidders,0.5
+alse general,0.0
+number of surgeries,0.5
+bid as sole criterion,0.5
+programme on account,0.5
+mechanism,0.7337579617834395
+union territories,3.111111111111111
+abc implementing agency,4.5
+counts,2.151344841429145
+funds to state governments,0.5
+profit,3.0739182692307687
+coordination,1.9090909090909092
+authority level in accordance,0.0
+urban development department,0.6666666666666666
+responsibilities of the local authorities,0.5
+animal birth control monitoring committees,1.5
+such assessment,1.25
+viable animal birth control programme throughout the country,0.5
+chief secretaries,0.8
+detailed phasewise manner,0.5
+agencies from the local authorities,0.5
+fund for implementation,0.5
+ration,4.898365116817271
+special leave petitions,1.6296296296296295
+submissions,0.5235745614035088
+other capital costs,0.5
+abc surgeries,0.5
+recommendation of the world health organisation,0.0
+concerned process,0.5
+operation theaters,0.5
+secretary of health,0.3333333333333333
+program in each state,0.5
+submission,1.0913871684001404
+results,0.6487493619193466
+special leave petition,2.013333333333333
+number of dogs,1.6666666666666667
+environment forest,1.0
+drivers,0.27757032611401544
+operation theater,0.5
+threat,1.0459885867740852
+counsel for the state,1.3043478260869565
+other ia,0.30000000000000004
+timely release,0.5
+receipt of the report,0.8333333333333334
+detail,0.9737454684220567
+progress reports,0.5
+wards,1.1401835683904185
+compliance,1.0029799914857385
+funds for animal birth control,0.5
+that state,0.8973013493253372
+animal protection organization,0.5
+case,7.332269420884958
+period,1.9480170842427122
+street dogs to death,0.5
+monitoring,2.5
+targeted area,1.0
+progres of the abc programme,0.0
+emphasi,0.9191619047619048
+copy of the module,0.6666666666666666
+politician,0.7732732732732733
+example,0.5893965031020868
+dial,0.6679813953488373
+gil,0.5320929476763081
+few year,0.5598715890850722
+implementation framework for street,0.5
+interrupted funding,0.5
+chief secretary,1.6923076923076923
+constitution,3.204842342342342
+letter,2.707240080105903
+factors,0.9829522460542292
+implementation of the act,1.0
+collaboration,0.39805825242718446
+seamless,0.48275862068965525
+rabies,1.0000000000000002
+succes of the program,0.0
+essential requirements under the rules,0.5
+agencies,0.9094581337642103
+last occasion,0.6666666666666666
+governments,1.020200276243094
+interested abc contractor,0.5
+veterinary,0.7272727272727273
+delhi international airport,0.6666666666666666
+territorial limit,1.2
+abc facilitiescampus,1.0
+instruction,1.8197943962910703
+rooms for veterinarians,0.5
+smooth conduct,0.6666666666666666
+coordination between different stakeholders,0.5
+periods,0.8597883597883598
+other essential requirements,0.5
+same in the report,0.6666666666666666
+contention,1.666391070690368
+ministry of urban development,1.6666666666666667
+rule,5.04
+impact of the abc program,0.5
+family welfare,4.666666666666667
+required number dog sterilizations,0.5
+reduction in number,0.5
+honble supreme court of india,1.0
+annual progress report,0.3333333333333333
+report as regard,0.75
+recommendation,2.6589497459062676
+caption,0.7346938775510204
+climate change,1.0
+dead with the caption gils periappuram posing,0.5
+purpose vehicle,1.0
+duty,3.2272215973003378
+pup,0.34278959810874704
+implementation committees,1.5
+violation,1.2087401208740118
+obstructions,0.4571428571428572
+board by the states,0.6666666666666666
+fund allocation,0.5
+infrastructure creation,0.5
+concerned proces,0.5
+leave,1.0147842365477848
+rural areas throughout the state,0.5
+weeks time,0.6666666666666666
+resources,0.9331054687500001
+costs,0.8167395522604189
+kind of obstacle,0.6666666666666666
+parade,2.090909090909091
+implementation of the rules,0.5
+monitoring committees,2.0
+corporations,1.2988235294117647
+stake - holder,0.0
+processes,0.8585858585858587
+principal secretary,1.0
+requisite training,0.5
+implementation committee decide,0.5
+requisite infrastructure,0.30000000000000004
+following official,1.0
+manpower,1.25
+methodology,0.47297297297297297
+coordination committee,1.5
+body,1.336775463480009
+process,1.6274942048088725
+local authority levels in accordance,0.5
+recommendations of the world health organisation,0.5
+union territory,3.066666666666667
+counsel for peoples,0.5
+abc,2.9087193460490464
+fund for animal birth control,0.0
+lowest price,0.2777777777777778
+dushyant,2.111111111111111
+registry of this court,1.0
+following parameter,0.6666666666666666
+equivalent in that stateunion territory,0.5
+required number dog sterilization,0.5
+surgery,0.648582995951417
+medicines,0.851063829787234
+authority levels in accordance,0.5
+structure,1.568520357497517
+earlier order,1.625
+management,1.6732611752395274
+budget head for animal birth control,0.5
+steps,1.169318181818182
+other parties,0.4183006535947712
+private,1.3048022500781278
+quarantine,0.2777777777777778
+stake - holders within the state,0.0
+operated dog,0.5
+technical guidance of the awbi,0.5
+project,4.265889006716154
+census in the manner,0.5
+affidavit of the chief secretary,0.6666666666666666
+store,0.6686444634658782
+other essential requirement,0.5
+personnel,0.9491259524876736
+equipment,0.8883209087681933
+other essential requirements under the rules,0.5
+consultation,1.1724137931034484
+communication,1.013409067330636
+targets,1.375
+reason,2.6381270903010035
+operation,1.0959893294085181
+medicine,0.6969887076537014
+life,1.3352928273744242
+certain photograph,0.5
+succes of the animal birth control program,0.0
+detail in this regard,0.5
+cruelties,0.15625
+writ petition,6.24223602484472
+petition,5.3436539306104525
+succes,1.0899488286934886
+response,0.7112676056338028
+federation,0.6243243243243244
+culled dog,0.5
+animal birth control monitoring committee,3.5
+needless,0.6410068426197458
+abc surgery,0.0
+expense,1.4186440677966103
+government of india,4.94
+authority of the central government,0.75
+gopal subramaniurn,0.5
+targets for infrastructure creation,0.5
+other essential requirement under the rules,0.0
+entirety,0.6814814814814815
+memorandum,1.2142857142857144
+fund,2.9945256868353374
+violations,0.7048092868988391
+periappuram posing,0.5
+urban development,2.4285714285714284
+implementation agency,0.0
+phase,1.4803405572755417
+territories,1.012
+front,0.8400299386969539
+many local authority,0.0
+development of the infrastructure,0.5
+residential rooms,0.5
+project reports from the state governments,0.5
+successful conduct of the programme,0.5
+chief secretary of the states,0.0
+team,0.7272900763358778
+ambulance for transportation,0.0
+ministry of rural development,1.0
+significant pain,0.5
+rule in letter,0.0
+animal,3.672202634997217
+annual progress reports,0.5
+india  representative,0.0
+holder,1.8472993827160495
+care,0.8846948234137723
+development ministry,0.5
+receipt,1.5471923536439667
+animal birth control monitoring committee at the local authority levels,0.0
+theaters,0.2777777777777778
+photograph,1.2280701754385965
+huge cruelties,0.5
+additional solicitor general,2.5
+stray dog,2.3333333333333335
+trained veterinarian,0.5
+store room,0.5
+central coordination committee for street,0.5
+to stray dogs,0.6666666666666666
+various aspect,0.5333333333333333
+progress of the abc program,1.0
+family,1.856281506375408
+competent authorities of the union territories,1.3333333333333333
+challenge,1.2204566274399267
+ministry,1.6350210970464136
+throughput,0.2265625
+authority,2.4352627108360636
+training establishment,1.0
+death,2.361592909460208
+provisions,3.8929824561403508
+standing,1.224042586942808
+street dog to death,0.0
+adequate abc implementing agency,0.0
+conduct,1.5998023165163158
+selection,2.2651528696585017
+organisation,1.4034090909090908
+bmc,0.2992750649705922
+parameter of the act,0.0
+attendants,0.3333333333333333
+development,2.3145884270578647
+urban,1.1793683610180365
+process of each such committee,0.0
+adequate abc implementing agencies,0.5
+full time program manager,0.5
+aforesaid order,1.2857142857142858
+corporation,3.6427750743444176
+recommendation for effective implementation,0.0
+pinky anand,1.2
+that the monitoring committees,0.5
+kitchen,0.5454545454545454
+timely manner,0.30000000000000004
+other aspects,0.5798816568047337
+eradication,0.6000000000000001
+abc surgeries in each state,0.5
+weeks,0.8109161793372318
+abc  contractors,0.0
+ovaries,0.5
+street dog,3.0
+obstruction,0.47058823529411764
+quarantine ward,0.5
+dog in the targeted area,0.0
+welfare of animals,0.5
+anand,1.15
+implementation committee decides,0.5
+security,1.5014864864864865
+room,0.6950710108604846
+protocol for disbursal,0.5
+performance,1.4794327394994442
+climate,0.45454545454545453
+coordination between the centre,0.5
+south delhi,1.5
+step ii,1.5
+other competent authorities,0.75
+animals,1.4863203806502776
+weekly organ count of the operated dogs,0.5
+movement,0.8351097178683385
+assistance,0.8623872906826965
+caption  gils periappuram posing,0.0
+impediment,0.5668016194331984
+leave petitions,1.6296296296296295
+hand,2.0299623418254717
+organization,1.1323094113464371
+margins,0.3475609756097561
+team comprising,0.5
+ordination,1.7311827956989247
+greater detail in this regard,0.5
+iii,1.5614499719992534
+violations of the rules,0.5
+previous order,1.222222222222222
+essential requirements,0.8
+contentions,0.9641025641025641
+competent authority of the central government,0.5
+occasion,0.7946745562130177
+spirit,0.6048586885080135
+proposals,1.8872549019607843
+bidder,1.4338235294117647
+arrive,0.881486296175929
+government of india  chairperson,0.0
+prejudice,0.880907124598545
+circumstances,1.3944461370073231
+obligation,1.1071428571428574
+week,0.8253498691546249
+independent agency,0.75
+chairperson,1.5000000000000002
+circumstances in entirety,0.6666666666666666
+secretaries,0.75
+district wise plan,0.5
+supreme,1.443815331010453
+welfare,1.3226788432267886
+manager,1.7133044010756409
+chairperson of the central coordination committee,0.5
+local authority level in accordance,0.0
+successful conduct,0.5
+note of various aspects,0.5
+veterinarian,0.6000000000000001
+requirement,1.2416133333333332
+anjali,1.5
+suggestion,1.2425592585991803
+previous year,1.384404924760602
+kerala,4.135593220338983
+learned counsel for the state,1.1428571428571428
+mandatory requirement under the animal birth control,0.5
+dushyant a dave,1.75
+lack of funds,0.345679012345679
+available to the abc,0.5
+rabies before a new area,0.5
+v decrease,1.0
+target for infrastructure creation,0.0
+state,6.817996007300392
+abc facilitiescampuses,1.0
+local authority so that targets,0.5
+success of the animal birth control program,0.5
+official,2.6854955160358718
+street dogs,2.0
+competitive lowest bidder,0.5
+note,1.3654108484234107
+forest,2.292817679558011
+certain communication,0.6666666666666666
+look at the module,0.5
+disbursal,0.5
+council in that state,0.0
+profit margins,0.3333333333333333
+holders,0.9411764705882353
+manu,7.078142071124147
+general,1.7536558414534391
+writ petition no,2.7777777777777777
+following parameters,0.6666666666666666
+rate,3.088725136774248
+central,2.61875
+females,0.33139534883720934
+deputy director,0.6428571428571429
+role,1.0562959821210092
+representative of the animal welfare board,0.5
+few years,0.5598715890850722
+female,0.5543071161048689
+municipal council in that state,0.0
+following officials,1.0
+emphasis,0.8024289099526066
+authority so that target,0.5
+margin,1.4244114002478314
+campus,0.4465408805031446
+completenes,0.21794871794871795
+censu in the manner,0.0
+man,6.972395052694935
+development department,1.2
+same as a part,0.6666666666666666
+other stake-holder,0.0
+step iii,1.0
+officer of a rank equivalent,0.5
+note of the submissions,0.6666666666666666
+nature,1.4149926876444778
+hitch in the conduct,0.5
+number of sterilization,0.6666666666666666
+adequate infrastructure,0.6666666666666666
+ministry of agriculture,1.5
+sake of completeness,0.30000000000000004
+coordination committee for street,0.5
+equivalent,0.7908277404921701
+urban local bodies,0.5
+health,0.8632619439868204
+as a part,0.7681159420289855
+in the report,0.7563025210084034
+safety,1.5344583560152423
+organ count,0.5
+registry,0.510662177328844
+past few year,0.2571428571428572
+haphazard,0.25
+kind,0.9236881920088026
+memorandums,0.6666666666666666
+sterilization,1.2222222222222223
+agriculture,1.6135593220338982
+competent authorities,1.6363636363636365
+human being,0.599078341013825
+raj,1.3364194424876723
+residential room,0.5
+animal welfare board,4.75
+number of trained veterinarians,0.5
+best practice,0.5
+release of funds,1.0
+state-wide high throughput abc programmes,0.0
+action,3.127292663476874
+scientific studies,0.3333333333333333
+area-wise abc,0.0
+rank equivalent,0.5
+abc program,3.0
+senior counsel,2.2857142857142856
+stakeholder,0.9333333333333332
+capital,1.0983272274832379
+demonstration in the manner,0.5
+other stake-holders,0.0
+public demonstration in the manner,0.5
+turn leads,0.5
+persons,2.5993381990166555
+surgeries,1.0
+rank,0.6723585912486659
+step v,0.2857142857142857
+per dog basis,0.5
+department of animal husbandry,1.0
+tripathi,1.0
+awbi,2.5714285714285716
+veterinary council of india  representative,0.0

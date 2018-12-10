@@ -1,0 +1,3551 @@
+industrialist,0.4444444444444444
+tewary,13.0
+body of the counsel,0.5
+next stage,0.37037037037037035
+government,3.5583785424010483
+jit,0.608346394984326
+various other feature of the council,0.0
+fact that the president,0.3333333333333333
+baneful effect on the general interests,0.5
+footnote,0.45283018867924535
+payment of a share,0.5
+groove,0.22727272727272727
+frame,1.023976722714937
+sources,0.8884345343723477
+province of article,0.5
+decisions of the court,0.75
+statutory power,1.3846153846153846
+property remaining,0.5
+establishment,0.9899216125419933
+scientists,0.2612612612612612
+mathew j,6.0
+corporate mould,0.5
+foregoing reason,1.0714285714285714
+proces of judicial interpretation,0.0
+pass,2.510543963686946
+full power in regard,0.0
+formal ownership,1.0
+normal test,0.5
+exercise of certain fundamental rights,0.5
+non-governmental members,0.0
+such manner as government,0.5
+maize,0.9333333333333332
+concept of equality,0.75
+essential aspect,0.6666666666666666
+test that a statutory authority,0.5
+several test from ramanna,0.0
+that the test in ajay hasia,0.0
+several tests from ramanna,0.5
+balance of net profit,0.5
+debts,3.3101851851851856
+union,2.0981927710843373
+financial assistance,2.7777777777777777
+other rule,0.4861111111111111
+vasandi,1.5
+jaipur v mohal lal,0.5
+different judicial pronouncement,0.5
+grants,1.9239877769289533
+cause,1.8431210321626654
+way,1.7812722068664852
+v brojo nath ganguli,0.5
+national importance,0.30000000000000004
+indication that the corporation,1.0
+governmental agencies,0.5
+oil,0.6595019659239842
+houses,1.0821764442454098
+applicability of the provisions,0.8
+of the fact that the csir,0.5
+outgoings,0.5
+exploit,0.7357266435986157
+statutory character,0.5
+candidates for admission,0.5
+affair of the union,0.0
+share,2.560794932990637
+ownership,1.1522633744855968
+constitutional protection of the individual,0.5
+such control,0.9333333333333332
+krishna iyer,1.625
+district,1.5506763074237984
+as an offence,0.8571428571428571
+trust,1.8699167074963252
+say in the distribution,0.5
+contrary,1.027917657672435
+governors,0.3166666666666666
+officio,3.25
+other circumstances,0.6000000000000001
+employees of the commission,0.5
+facts that the society,0.5
+to the employees of the csir,0.5
+v national council of educational research,0.5
+test,2.5329834591340266
+decision to the facts,0.5
+correctnes,0.8404159132007234
+member of csir,0.0
+judicial thinking,0.5
+ego of the central government,0.5
+contributions from universities,0.5
+breach,1.3366228070175439
+scr,2.483838975311538
+constitution bench in ajay hasia v,0.5
+ejusdem,2.6666666666666665
+mysore,4.733333333333333
+which powers,0.6666666666666666
+provisions of the act,2.6056338028169015
+statistical institute,1.0
+advice,0.7581699346405227
+doctrine through judicial wisdom,0.5
+dominant role,0.5
+composite phrase,0.5
+to the council,0.41666666666666663
+stage,1.1298537871524448
+month,1.3454861111111112
+scientific study,0.5238095238095238
+necessary of csir,0.5
+central revenues,0.5
+drastic changes in recent year,0.5
+airport authority of india,1.8
+holding of the entity,0.5
+president in that capacity,0.5
+which enforcement,0.5
+subject,2.4420366233344897
+court in smt,0.5
+sprung as a surprise,0.5
+important public function,0.5
+care that the promotion,0.5
+order,5.472481489660944
+creature,0.4845338524767467
+thumb of government,0.5
+state action,2.625
+width,0.5151515151515151
+food corporation,2.142857142857143
+that icps,1.0
+programme,1.5640149666503986
+virtue of the nature,0.5
+blow,1.6904715887127946
+crores,6.931034482758621
+fund of the society,0.0
+variety,0.5229534147444596
+smt,0.7459757206267715
+there quirements,0.5
+bahadur,1.0
+baneful effect,0.5
+legal entity,0.8333333333333334
+respect of expenditure,0.5
+som prakash,3.5
+indian state,0.75
+original capital of the corporation,0.5
+pleading,1.1270125223613594
+dual phase of fundamental rights,0.5
+bpl,1.44
+part of the department,0.5
+tests,1.9146311374290645
+industrial matters,2.3333333333333335
+majority opinion,1.1666666666666667
+say,1.0367995905217446
+veil worn,1.0
+other party,0.8608695652173913
+quirements,0.7424827424827426
+part xiv of the constitution,1.0
+fact that the csir,0.5
+candidates,3.508445945945946
+reasoning in ramana,0.5
+prime minister,2.0444743935309972
+large - scale evasion of fundamental rights,0.0
+member,2.649111111111111
+prior approval,0.787878787878788
+outgoing,0.6464646464646464
+framer of article,0.0
+functioning,0.9337944664031622
+certain fundamental right,0.5
+parties,1.8210828547990157
+lip service,0.2777777777777778
+multitude,0.3111111111111111
+pursuit,0.4088114754098361
+appointments to posts,0.8
+scientific paper,0.25
+drinking,0.6887755102040816
+words of cardozo,0.5
+legal personality,0.5
+chief commissioner,1.25
+chander,1.8095238095238095
+servant,2.030552291421857
+condition,2.259476395625584
+alagiriswami,0.5
+new task,0.5
+non - profit making organization,0.0
+authority under control,0.5
+scrutiny of the notification,0.5
+ejusdem generis,4.0
+busines for the benefit,0.0
+speech,1.9520676691729324
+auspices,0.5294117647058824
+careful examination of the material,0.5
+responsible manner,0.5
+sabhajit tewari v union of india,0.5
+fundamental right to individuals,0.0
+indian states,0.5
+international,1.4453445246925631
+positive finding,0.6666666666666666
+learned counsel for the appellants,1.7142857142857142
+keystone,0.2222222222222222
+such directive,0.5
+state adopt for this purpose,0.0
+entity  the state,0.0
+wisdom of limitations,0.5
+ambedkar in constituent assembly,0.5
+v national council,0.5
+context,0.9269383697813122
+relevant for the purpose,1.0
+member of the society,3.0
+third arm,0.30000000000000004
+constitutional limitation,0.8333333333333334
+of the relevant factors,1.3333333333333333
+proces,1.627944583238701
+other institute,0.5
+limitation,2.4984479402325457
+variety of factors,0.6666666666666666
+such functions,0.5714285714285714
+satisfied that the tests in ajay hasia,0.5
+other government department,0.5
+miscellaneous receipt,0.5
+uncertain terms that the corporation,0.5
+para,2.300239586747483
+ifc as authorities,0.5
+pittance,0.25
+national laboratory,0.0
+overlordship,0.5
+member of the council,0.30000000000000004
+local body,0.5
+contravention of statutory provisions,1.0
+capital of rs,1.25
+width of the fundamental rights,0.5
+constitution bench imprimatur,0.5
+powers,1.876345371920593
+long way toward,0.25757575757575757
+ramananna,0.5
+minister - in - charge,0.0
+member of the board,0.0
+candidate,6.356675392670156
+vicarious creature,1.0
+today,0.6330563683773655
+suppscc,0.5
+ownership cast,0.5
+central government unless the employee,0.5
+vice versa,0.7526881720430109
+mathew j in sukhdev singh,2.0
+fund for a period,0.5
+lic,5.851217683727174
+government under article,0.5
+individuals by centers,0.5
+holding,1.2555282555282552
+prologue,0.4444444444444444
+advent,0.6222222222222222
+instrumentality of the state,2.6
+president,2.1267129228100607
+reality,0.6251091491219559
+creation of the state,0.3333333333333333
+brooding presence,1.0
+non-governmental functions,0.0
+relevance,0.6870535714285714
+vii,1.26552423069836
+territory of india,2.5
+pursuit of such researches,0.5
+subject to constitutional limitations,0.5
+authority within the territory,1.0
+legal principle that a society,0.5
+charge,2.7679815308681284
+set of principles,0.5
+high courts,2.676470588235294
+other money,0.5
+country,1.2903191103863751
+unique protection,0.5
+blood,1.1739965841161402
+byelaw,5.363636363636363
+enumeration,1.1428571428571428
+present purpose,0.8888888888888888
+separate opinion,0.8
+factual basi,0.4
+institutions for scientific study,1.0
+council of agricultural research,0.5
+ordinance order,0.5
+actions,3.633288043478261
+expansion in the judicial definition,0.5
+ken,1.9631271867788282
+transaction,5.884921444603142
+opportunity,0.946186440677966
+input,1.4506694855532065
+operation as state action,0.5
+in the country,1.0084033613445378
+of the funds,0.6923076923076922
+governor general in council,1.0
+scrutiny,0.912987012987013
+permanent footing,0.5
+agency of the government therein,0.5
+obligation on the state,0.0
+india permit,0.5
+natural person,0.75
+parliamentary study,0.0
+ongc,0.875
+interest of the nation,0.5
+ex - officio vice president of the society,0.0
+post,2.344803646492219
+bone,0.6534106600386633
+research student-ship,0.0
+provisions of the international airport authority act,0.5
+different route,0.3333333333333333
+n masthan sahib,0.5
+decision in sabhajit tewary,2.5
+powers of the society,0.5
+bodies,0.8969063256135499
+recognition,1.4333333333333333
+ratio of rajasthan state electricity boards case,0.5
+judges of this court,1.4782608695652173
+directors,1.6666666666666667
+right of individuals,0.0
+limb,0.509338061465721
+internal audit,1.75
+sweep,0.9338152247571719
+co-operation,0.0
+law limitation,0.5
+relationship,1.1804123711340206
+mere finding,0.5
+bye-law,0.0
+funding,0.39415562351342176
+simple reason,0.646551724137931
+heavy engineering mazdoor union,1.0
+judge bench,2.8472222222222223
+initial capital,1.5
+authorities within the meaning,2.0
+attorney,1.9875
+share capital,1.625
+extenso,0.6666666666666666
+approval of the central government,1.0
+other party by words,0.5
+present before a corporation,0.5
+instrumentality of the central government,0.5
+parallel,0.6032265606733692
+third new international dictionary,0.6666666666666666
+removal,0.7204301075268817
+state electricity board,2.125
+resolution,1.771256437663978
+tekraj,1.5
+provision in the rules,0.5
+constitutional,1.945673076923077
+duties,1.477142857142857
+anr,1.1271033322299457
+lies,1.1651128135567317
+attributable to different stages in the history,0.5
+affairs of the society,0.5
+footing,0.6555183946488294
+association of the society,0.5
+service matter,0.5
+appellant in calcutta high court,0.5
+india sainik schools employees  association v,0.0
+assenting,1.0
+bhagwati,3.0
+legal existence,0.5
+advantage in the field,0.0
+part iv,0.5714285714285714
+judgment for the three - judge bench,0.0
+modification,0.9714977645305514
+satisfies,0.5175983436853001
+scope of  other authorities,0.0
+applicability,1.0928961748633879
+relevance to the issue,0.6666666666666666
+doubt,1.3646267723102583
+protection of part xiv,0.5
+to the  voice,0.0
+characteristic,0.6366782006920415
+csir if the state,0.5
+financial support,0.6666666666666666
+broad objective,0.5
+report,1.7768151696835826
+protection,1.1604395604395603
+finance corporation,1.8181818181818181
+principle,1.9620890732001848
+which parliament thinks,0.5
+anything,0.9132309941520469
+tekraj vasandi  k,0.0
+government servants,1.7
+ruma pal,1.6666666666666667
+tool,0.3971731448763251
+factor,1.2878742338904643
+seventh,2.451612903225806
+fund of csir,0.0
+budget,1.9635270541082162
+cloak,0.49090909090909085
+equality,1.5627329192546584
+deeper scrutiny,1.0
+detriment of fundamental rights,0.5
+servants,1.1313131313131313
+bharat petroleum corporation ltd,0.5
+apposite,0.7111111111111111
+government nominees,0.5
+contention of the employee,0.0
+date,6.195616975795285
+service conditions,2.1818181818181817
+court on behalf,0.75
+assistance of the state,1.0
+centers,0.5012531328320802
+general purposes,0.3333333333333333
+uttar pradesh,2.8
+government resource,0.5
+reference,2.1755848210276256
+excellency,0.8888888888888888
+small extent by  individuals,0.0
+management of the corporation,0.5
+respondent,4.757894736842104
+works,1.7935487434410384
+govt,0.7017766497461929
+constitutional limitations as the state,0.5
+many ways,0.32888888888888884
+few comment,0.2619047619047619
+essential distinction,0.5
+benefactions,0.5
+respectful agreement with this statement,0.5
+department of commerce,0.9473684210526315
+gifts,0.39805825242718446
+alteration,1.2619047619047619
+ac gupta,0.5
+statutory flavour,1.3333333333333333
+authorities under the control,0.5
+approach,1.001908852302553
+co-ordination,0.0
+element of ability,0.5
+greatest respect,0.5
+commerce,2.221288515406162
+ajay hasia,10.5
+other words,0.7578482137053969
+august,0.977116704805492
+sahib,1.6666666666666667
+that no notification under section,0.5
+investment,3.057915057915058
+electricity supply act,1.625
+brojo,0.6666666666666666
+legal relations by virtue,0.5
+significance of article,0.5
+third arm on the government,0.5
+rajasthan,3.9215686274509802
+employees as servants,0.5
+past,0.9553167330358714
+theme,0.47058823529411764
+subject to the limitations,0.5
+audit,2.6089743589743595
+obligation of the state,0.8
+detriment,0.5446808510638297
+majority opinionrs,0.5
+such as the rajiv gandhi drinking water mission technology mission on oilseeds,0.5
+high,5.367119186841496
+same constitutional limitation,1.0
+payment,2.059553716565686
+from a chronological consideration of the authorities,0.5
+director general of csir,0.5
+arbitrary exercise,0.6666666666666666
+event,1.4310854436179261
+development of the results,1.0
+researches,1.7142857142857142
+volthe,0.2857142857142857
+candidate for admission,1.5
+certain case,0.5333333333333333
+line,1.6884436630262616
+hesaid,0.25641025641025644
+tearing of the juristic veil worn,0.5
+laboratory,1.037248755301494
+feature of the society,0.0
+business operations,0.5
+local board,0.6666666666666666
+classification,2.196286472148541
+public service,1.9112903225806455
+honourable member,0.5
+government unless the employees,0.5
+legislature of each state,0.75
+english,0.9836154262307752
+sabhajit tewari v union,0.5
+engineering,1.3567493112947657
+respect of several other institutes,0.5
+society under the registration,0.5
+khalid mujib sehravardi,1.5
+solution,1.96476833976834
+of this apparent divergence,0.5
+sabhajit tewary s case,0.0
+different judicial pronouncements,0.5
+hereinabove,1.911764705882353
+chronological consideration of the authorities,0.5
+sabhajit tewary,12.5
+continuity,0.5565476190476191
+insurance,1.7782738095238095
+addition of state money,0.5
+aid project from other government departments,0.0
+president of the society,2.0
+definition of  authority,0.0
+sequitur,0.3541666666666667
+governance of the country,0.6666666666666666
+juristic veil worn,0.5
+affairs,0.8608695652173913
+contribution,0.8348513902205177
+user of relevant expression,0.5
+mini - incarnation,0.0
+servant of the union,0.0
+legal position,0.7659574468085106
+statutory rules,1.875
+bye law,2.0
+vis-a-vis,0.0
+particular body,0.5
+march,1.0644238856181665
+reference to the remedies,0.5
+exception,1.1036946087733006
+sicorganization,0.5
+limited ratio,0.5
+reads,0.8722657304887929
+long way towards,0.2608695652173913
+liabilities,1.0606060606060608
+specific project,0.30000000000000004
+award,3.104213525266157
+resolution of the government,0.5
+coercive machinery,0.5
+commission,4.703619179345321
+majority approach in sabhajit tewary,0.5
+constitutional law,0.5
+tests from ramanna,0.5
+subsequent development,0.6857142857142857
+nay,0.730225988700565
+mistake,0.6870879120879121
+constitutional limitations,0.8333333333333334
+business for the benefit,0.5
+new,0.9418497626301229
+use of  includes,0.0
+special care,0.6666666666666666
+state function,0.5
+advisory,0.4615384615384616
+sufficient importance,0.5
+permissible source,0.5
+indian council,1.0
+- governmental function,0.0
+referable to article,0.5
+indian industry,0.0
+force of law,1.0000000000000002
+any alteration,1.0
+special institution,1.0
+judicial definition,0.5
+wisest course,0.5
+vice,3.766984711894892
+accountability,0.5990990990990992
+grants from the central revenues,0.5
+opinion on this issue,0.6666666666666666
+statute in respect,0.5
+ajay hasia that the sainik school society,0.5
+certain wise limitation,0.5
+som prakash rekhi v union of india,2.0
+municipalities,1.1454545454545455
+ifc,0.8068669527896994
+sabhajit tewary v union,0.5
+byelaws that the government,0.5
+emphasi,0.9191619047619048
+corresponding legal right,0.5
+funds of csir,1.0
+complete administrative control over conducting,0.5
+indian veterinary research institute,0.5
+departments  agency,0.0
+superstructure,0.5
+for the purpose,1.8600737100737101
+law belongs,0.6666666666666666
+state within the meaning,3.1666666666666665
+definition of the state,2.0
+ejusdem generi with the authorities,0.0
+assets of the society,0.6666666666666666
+ram,2.11096203538064
+types,0.6765151515151515
+factors,0.9829522460542292
+cum,1.9825519589997616
+use of the alternative,0.5
+discussion in this case,0.5
+government by industrialists,0.0
+genesi of the corporation,0.0
+singh,3.7791111111111113
+mere cloak,0.5
+government unless the employee,0.5
+to government servants,0.75
+holding of a particular office,0.5
+today state,0.3333333333333333
+purposes,1.4391216613438835
+agencies,0.9094581337642103
+exercise of the powers,1.4545454545454546
+service,4.257395095954566
+government funding,0.17391304347826086
+reddiar v chief commissioner,0.5
+finance department,2.0
+end,6.1484001628618765
+ejusdem generi,4.0
+opposite party,2.3333333333333335
+terms instrumentality,1.5
+function of the csir,0.0
+rule,5.04
+ramana with the constitution bench imprimatur,0.5
+natural gas commission,1.5
+proceedings,1.7670925223666287
+vis-a-vis government company,0.0
+nota,0.9735612036225532
+net,0.6723397365915534
+corporate personality,1.5
+mere finding of state control,0.5
+clear indication,0.4266666666666667
+in many way,0.3333333333333333
+other persons,0.6111111111111112
+measure of control,0.5
+agency of government,5.0
+medium,0.7537688442211055
+new instrumentality,0.5
+kashmir registration of societies act,1.0
+properties,1.7286779414438989
+wider sense,1.1428571428571428
+such public importance,0.5
+costs,0.8167395522604189
+such as the company,0.0
+functions to an instrumentality,0.5
+whatever name,0.8333333333333334
+application of the broad limits,0.5
+thereat,0.4444444444444444
+precedential support from decisions,0.5
+certain specified regulations,0.5
+of the meaning of the term,0.5
+wrongful individual acts,0.5
+financial control,1.5
+annual grant,0.3333333333333333
+process,1.6274942048088725
+workshop,0.4027777777777778
+duty of a public nature,0.0
+collection,1.0907127429805616
+admission,1.5389848246991107
+constituent,1.4054054054054055
+purpose of parts iii,0.5
+write,0.7653364686354519
+absence whereof,1.6666666666666667
+status,1.14824388424026
+purpose of  other authorities,0.0
+clear that a body,0.5
+power,3.8165227690948367
+decision in sabhajit tewary v union,0.5
+composition,1.4736842105263157
+department of the central government,0.5
+wisdom,0.47641637300081324
+general interests,0.3333333333333333
+care fact,0.5
+subba rao,2.0
+economic interest of the people,0.0
+terms that the corporation,0.5
+agricultural research,0.6666666666666666
+project,4.265889006716154
+const,4.702102598342558
+examination,2.4920345926263088
+entire expenditure of the corporation,1.0
+nexus with the government,0.5
+agency of the government,3.6666666666666665
+purpose of part xiv,0.5
+other people,0.4590163934426229
+behalf of another party,0.5
+contradiction between sukhdev singh,0.5
+same day that the decision,0.5
+earlier decision,1.5454545454545454
+scientific departmentsagencies,0.5
+statutory bodies,1.6
+benefits of the provisions,0.5
+scst apply in regard,0.5
+residual doubt,0.5
+dissemination,0.3401360544217687
+position,1.549133168619177
+extent by  individuals,0.0
+workman,2.3486111111111114
+one,4.845669314438648
+to the employee of the csir,0.0
+constitutional bench,1.0
+few illuminating points thereat,0.5
+petition,5.3436539306104525
+inaccordance with the provisions,0.5
+remedy,1.3214024835646458
+transactions,6.503443526170798
+statutory character like the oil,0.5
+consideration,1.9110153789142115
+statutesii,0.5
+mill,1.0891891891891892
+government of india,4.94
+welfare of the society,0.75
+scientists technologist,0.5
+paragraph,1.2930197483150305
+drastic changes,1.0
+fund,2.9945256868353374
+bhagatram,1.3333333333333333
+same result by a different route,0.5
+words,1.6384367086179112
+day that the decision,0.5
+phase,1.4803405572755417
+enlarged meaning of article,0.5
+behalf by the prime minister,0.5
+commissioner,2.271608643457383
+clause,3.526455026455027
+broad test,0.5
+anxious consideration to the facts,0.5
+murtaza,0.6666666666666666
+rspathak,0.5
+departments,0.9019607843137255
+governmental ownership,0.5
+m shelat,0.5
+rule of ncert,0.0
+instruction on question,0.0
+other authority within the territory,0.5
+utilization of the finances,0.5
+removable at the instance of the government,0.5
+agent of the state,0.0
+glimpse,0.5142857142857143
+budget estimates,0.5
+english decisions,0.6666666666666666
+calcutta high court,2.0588235294117645
+o chinnappa reddy,1.0
+tribunal on the factual basis,0.0
+working,1.1479822756765312
+limitations,0.8120300751879699
+instance of the government,0.6666666666666666
+public nature,2.0
+public employment,0.8
+hence governmental,0.5
+such corporation pursuant to statutory powers,0.5
+ministry,1.6350210970464136
+court during the course,0.6666666666666666
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+municipality,1.96875
+definition of article,0.5
+other circumstance,0.6600000000000001
+provisions of the indian penal code,0.6666666666666666
+substance,0.8230581678857541
+development works by csir,0.5
+lone way,0.2692307692307692
+learned sister rama pal,0.5
+regard to the pronouncement,0.5
+show that fundamental rights,0.5
+contribution from universities,0.0
+fact of the case,0.0
+legend,0.22020725388601037
+special leave,1.903225806451613
+obstruction,0.47058823529411764
+fazal,1.25
+instrumentality,5.555555555555555
+functioning of the council,0.6666666666666666
+own function,0.5
+state choose,0.5
+local boards,0.5
+special care that the promotion,0.5
+judicial wisdom,0.6666666666666666
+performance,1.4794327394994442
+ego,1.4900363399873042
+central inland water transport corporation,0.6666666666666666
+pursuant,0.7227692307692308
+indian council of agricultural research,0.5
+advantage,1.1441364159430905
+duty by the statute,0.0
+government body,0.6666666666666666
+conclusion whether an independent entity,0.5
+administrative tribunals act,1.6666666666666667
+tewary fulfill,0.5
+privileges of the state,0.5
+state within article,1.0
+minhas,0.5
+national,1.5126860273884035
+technologists,0.5
+ordination,1.7311827956989247
+progressive  judicial thinking,0.0
+entitle,1.7662806871759669
+means,1.3868295182781003
+tendency,0.5150501672240803
+occasion,0.7946745562130177
+sovereign power of the state,0.5
+such powers,1.0833333333333333
+sui,2.3214773701317992
+high courts by issuance,0.5
+eminent scientists technologist,0.5
+industrial finance corporation,1.3333333333333333
+bye - laws,0.0
+monopoly statu,1.5
+dual phase,0.5
+effect of these various factors,0.5
+picture,0.6116621983914209
+requirement,1.2416133333333332
+correct legal position,0.75
+virtue of the office,0.6666666666666666
+department to statutory corporations,0.0
+lie in the fact,0.0
+enlargement of the meaning,0.5
+propounder,0.6666666666666666
+punishable under the relevant provisions of the indian penal code,0.5
+official,2.6854955160358718
+various article,0.30000000000000004
+strong factor supportive,1.0
+ayyangar,0.5
+j in ramanna,0.5
+birth to a statute,0.5
+general,1.7536558414534391
+establishment in the service,0.0
+basi of the csir rules,0.0
+minister - in - charge of the ministry,0.0
+self,1.6847516412733803
+there siduary clause of article,0.5
+financial estimates,0.5
+corresponding legal right for enforcement,0.5
+government department,0.8
+protection of the individual,0.75
+test from ramanna,0.0
+ramana v,0.5
+complete administrative control,0.5
+rekhi,3.0
+gistered society,1.6666666666666667
+nature,1.4149926876444778
+which authority,0.3333333333333333
+things,0.6162490788504054
+that fundamental rights,1.5
+certain test,0.6666666666666666
+exhaustive enumeration,0.5
+stages in the history,0.5
+real source,0.5555555555555556
+narrow need of the situation,0.0
+as the companies,0.5
+exclusive privilege,2.0
+asset,3.0300107181136124
+narrow need,0.5
+needs of the situation,0.5
+governmental activity,0.0
+industrial development in this country,0.5
+petitioners,3.536507936507937
+route,1.1635049683830172
+precedent,0.8982341399607586
+junior,0.9861207494795279
+consisting,0.7085839256424276
+nota state,0.5
+yvchandrachud,0.5
+public functions,0.5
+action,3.127292663476874
+whether the corporation,2.0
+indian industries,0.5
+other agencies,0.4444444444444445
+contrivance,1.25
+kashmir,2.6608187134502925
+alternative,0.841508109794136
+perception,0.43055555555555564
+cardozo,0.5
+legislative assembly,4.473684210526316
+alse general - in - council,0.0
+debt,3.4485322896281807
+thing,1.1131787570209408
+koshal,0.5
+international airport authority act,0.5
+referable,1.2666666666666666
+aid project,0.6666666666666666
+specialist,2.126865671641791
+objects of the resolution,0.5
+capacity,1.7421691881525676
+high public interest,0.5
+monopoly,1.1892857142857143
+provincial government by industrialists,0.0
+employees of the csir,2.0
+technology,1.0922599740512486
+facts that the council,0.5
+deception,0.5
+juristic veil,1.0
+director,1.3549769585253457
+principal issue,0.5
+irrational act,0.5
+impose,1.2999999999999998
+preview,0.22043010752688172
+hand of the central government,0.0
+service conditions of employees,0.5
+later wish,0.5
+other hand,0.6931925622439332
+mills,1.026315789473684
+articles in part - iii,0.0
+publication,1.3442779291553135
+responsibility,0.8659259259259259
+such function,0.5714285714285714
+personality,0.8909774436090225
+matters,1.4810665618448637
+end mathew,0.5
+interim order,2.9166666666666665
+instance,0.9469803370786518
+agents,0.7901234567901235
+scope of the state,0.5
+re - examination,0.0
+monies,1.3268292682926828
+indicia,1.2000000000000002
+factor supportive of this inference,1.0
+subsequent decisions of this court,0.75
+shareholder,0.9469696969696969
+certain advantage,0.5
+court,12.24425115501509
+statement of receipts,0.5
+private activity,0.0
+som prakash rekhi s case,0.0
+commercial activity,1.3333333333333335
+declaration,2.152560083594566
+ejusdem generis with the authorities,0.5
+parliament,2.6571235781762095
+agreement,3.450434632433366
+cad,1.7235273074171238
+training,2.5456213222568365
+corporate entity,0.6666666666666666
+single judge,4.011627906976744
+decision of united states,0.0
+service dispute,1.0
+administrative tribunal,3.8
+inference,1.006741573033708
+permissible source of funding,0.0
+person,4.291511329454258
+immunity,0.44999999999999996
+deep,1.222637125549747
+correctness,0.8404159132007234
+enthusiastic application,0.5
+formation,1.1075979991753988
+other members,0.59375
+provision of the statute,0.5
+ultimate analysis,1.0
+financial,2.2822547614171618
+description,0.8190476190476191
+employee of these companies,0.0
+nothing,0.8658723322806009
+changes in recent year,0.5
+consisting of the memorandum,0.5
+recognition by subsequent decisions,0.5
+judicial decision,1.4
+audit accounts,0.5
+factor supportive,1.0
+other provisions,1.9
+series,0.4722257940079723
+to the writ jurisdiction as a state,0.5
+non-governmental function,0.0
+provisions of sub - section,0.0
+different stage,0.6060606060606061
+provision of sub - section,0.0
+juridical entity,0.5
+funds,3.352010547132498
+corporation pursuant,0.5
+number,1.4802651440973922
+mysore paper mills ltd,1.5
+framer of the constitution,0.0
+decision,2.9514937765898557
+administrative control,3.0
+obiter dicta,0.5
+hands,1.1725490196078434
+doctrine of ejusdem generis,0.5
+which event,0.44871794871794873
+unit of csir,0.5
+particular to the body in question,0.5
+departments to statutory corporations,0.5
+history,0.5728887807252372
+claim,2.817264601856604
+scales of pay,2.625
+dissenting opinion,1.25
+changes,0.8318262938726949
+sovereign power,1.2
+house,2.0021735292386764
+rama,0.9438942891859052
+essential distinction between an instrumentality,0.5
+jc shah,0.5
+problems,0.7376119010005265
+instrumentality of the government,0.5
+contributions,0.5647590361445783
+india pursuant to which csir,0.5
+statutory status,0.6666666666666666
+own functions to an instrumentality,0.5
+interpretation,1.518366298484459
+denial,0.8338926174496643
+term of the statute,0.0
+bhagat,1.375
+sense for the purpose,0.5
+national council,1.5
+year,2.8349484769759212
+representative of the finance department,0.5
+such as research,0.5
+audit account,0.5
+chinnappa,1.0
+icps,0.6428571428571429
+journal of industrial research,0.5
+property remaining after payment,0.5
+earlier part of this judgment,0.8
+development of industries,2.6666666666666665
+judgment,3.288216560509554
+minister-cum-chairman board of governors,0.0
+gift,1.4785575048732944
+other feature,0.52
+decision of the constitution bench,1.2727272727272727
+remedies,0.6206451612903225
+lakhs,2.046511627906977
+tools,0.47153714906157906
+act,12.870263922028107
+later wishes,0.5
+combination of state aid,0.5
+iilljsc that the praga,0.5
+least before the administrative tribunal,0.5
+specific researches,1.0
+ajay,0.911764705882353
+effect to the provisions,1.0
+governor,1.1316137566137567
+hindustan steel ltd,1.5
+sukhdev,3.7142857142857144
+analysis,0.6606741573033708
+society under section,0.0
+arbitrary exercise of power,0.6666666666666666
+bai v state,0.6666666666666666
+fellowships,0.23076923076923073
+jurist hmseervai in constitutional law,0.5
+much relevance,0.8
+employees of these companies,0.5
+order of the calcutta,0.5
+statutory statu,0.6666666666666666
+such entitle,0.5
+state aid,0.5
+individual invasion,0.5
+basic obligation,0.5
+there quirement,0.5
+agent,1.406335913378167
+commercial activities,1.0666666666666667
+encouragement,0.4347826086956522
+certain specified regulation,0.5
+village panchayat,4.4
+definition of state,4.5
+cumulative facts,0.5
+general incharge of the portfolio,0.5
+complete financing,0.5
+asset of the college,0.0
+aspect of financial control,0.5
+subject to certain wise limitations,0.5
+pulses,0.29718875502008035
+illuminating points thereat,0.5
+faith,0.6832428364066448
+such research,0.5
+interests of the people,0.6000000000000001
+performance of a public,0.75
+same constitutional limitations as the state,0.5
+section,9.287987283173626
+sukhdev singh by mathew,0.5
+mask,0.5229202037351443
+following feature,0.5555555555555556
+thereunder,1.2794117647058825
+such aid,0.5
+water,0.9741079360379036
+government resources,0.5
+universal obligation,0.5
+to member,0.6571428571428571
+final decision on an overall view,0.5
+under the relevant provisions of the indian penal code,0.5
+scst apply,0.5
+total fund,0.3333333333333333
+of csir,14.0
+hasia,10.5
+other department,0.45000000000000007
+enable determination,0.5
+overwhelming nature,1.0
+functions,1.326241134751773
+officers,2.442124212421242
+private corporation,0.2857142857142857
+finding,1.8129183657767178
+sardar,1.5789473684210527
+effect to the following resolution,0.5
+v union of india,2.381818181818182
+tools corporation,2.0
+regard,2.723310344827586
+eminence,0.40909090909090906
+proper perspective,0.6000000000000001
+important function,0.45000000000000007
+pursuance of the act,0.5
+amendable to article,0.5
+promotion,2.946428571428571
+certain observations,1.1111111111111112
+several subsequent decisions,0.5
+commerce under the electricity supply act,0.5
+appropriate place,0.26666666666666666
+direction,1.8495050210098996
+constituent assembly,1.3333333333333333
+technologist,0.30000000000000004
+agency,1.8968779259354924
+money,1.6567889044524557
+obligations on the state,0.5
+rights,1.6349541930937281
+india permits,0.5
+truth,0.9590230664857531
+fundamental rights,2.1587301587301586
+heavy,0.5873015873015874
+facts,1.4696673624372698
+approval of the governor general,1.0
+extent overlap,0.5
+byelaws,4.3
+local bodies,1.4444444444444444
+subject to the same constitutional limitations as government,0.5
+vintage,0.3333333333333333
+characterisation of the nature,0.5
+sainik,1.6666666666666667
+form,2.4865961263718424
+mazdoor,1.8461538461538463
+present operation subject to the financial control,0.5
+guise,0.6130414088529271
+generis,2.8
+masthan,0.5
+disguise,0.6057692307692308
+ruling,0.5854935847080388
+such orders,0.823529411764706
+following member,0.6666666666666666
+strong factor supportive of this inference,1.0
+utilisation of the results,0.5
+expres,2.3455332782538525
+benefit,2.604810195438474
+latter,0.7109238669791096
+local,1.7491695749064458
+krishnaiyer,0.5
+service by the respondent,0.5
+provincial government,0.7500000000000001
+cost,1.2954397451466992
+other feature of the council,0.0
+mysore paper mills,2.5
+relevancy of those tests,0.5
+panchayat,10.0
+light of the cumulative facts,0.5
+pulse,0.4976689976689977
+denial of equality,0.6666666666666666
+sub,7.816899313759727
+thunderbolt of authority,0.5
+course,1.6545957498716626
+apparent divergence,0.5
+remedy under article,0.6666666666666666
+purview of  other authorities,0.0
+basandhi v union,1.5
+contravention of certain specified regulations,0.5
+company,5.864471879286695
+monopoly in the business,0.5
+statethe government,0.5
+source of funding,0.0
+present financial position,0.5
+corporate veil of the entity,0.5
+pradesh,4.365853658536586
+conceding,0.3333333333333333
+alse generalities,0.0
+law -then,0.0
+caimanual,0.5
+national council of educational research,1.5
+general incharge,0.5
+traditional vintage,0.5
+sweep of article,0.5
+jspoke,0.5
+arm on the government,0.5
+which power,0.41666666666666663
+profits,4.935344827586206
+true character of the entity,0.5
+tests in ajay hasia,0.5
+field,1.5820968371729793
+matter,2.8088923076923082
+relation,1.397320207820618
+bye-law of the society,0.0
+utilise,1.4166666666666667
+in this decision,0.46753246753246747
+enterprise,0.921565795175502
+seven-judges bench,0.0
+salmond s jurisprudence,0.0
+aid projects from other government departments,0.5
+stenographers,0.6666666666666666
+contravention of this clause,0.5
+development work by csir,0.0
+indian,1.2604961505560306
+aid,5.498621453008654
+rationale,0.6017094017094018
+available under article,0.5
+activities,1.57291280148423
+ratio in tewary manu  scmanu  sc,0.0
+functioning of csir,0.5
+liability,2.532836248924577
+significance,0.6059966216216216
+further conclusion,0.5
+journal,0.35075653370013754
+enthusiastic application of the broad limits,0.5
+present financial position of csir,0.5
+- statutory body,0.0
+mandamus,3.0
+ncert,1.143480485089224
+parity,0.6888020833333334
+veil of the entity,0.5
+birth,1.5969847398418826
+landmark,0.34821428571428575
+guidance,0.5256410256410255
+conduct rules,1.1428571428571428
+such factor,1.0
+-then,0.0
+tewary manuscmanusc,0.5
+judicial opinion,0.5333333333333333
+unit,2.176678509944691
+agency of the state government,0.5
+business operation,0.5
+khanna,1.2
+material,1.4148767018946966
+procedure,2.552771605064117
+ex-officio secretary,0.0
+activity,1.3846153846153848
+polouse,0.0
+that icp,1.0
+applicable meaning,0.5
+hypothesi,0.30324909747292417
+such researches,0.5
+cent share,2.0
+provision,5.439002243350069
+support,0.8630946786249609
+multitude of decisions,0.5
+overlordship of government,0.5
+judgment of an,1.0
+sukhdev singh,3.7142857142857144
+conclusions,0.8522069292833413
+fundamental to the life of the people,2.5
+annual net profit,0.5
+authority under article,0.5
+voice of the state,0.5
+exclusive business of life insurance,0.5
+business,2.8512056385864457
+contravention,2.586206896551724
+importance,0.8632871064467765
+abundant caution,2.5
+silentio,0.6666666666666666
+owner,2.9502416709822197
+affairs of the union,1.0
+workmen,6.571428571428572
+initial capital of the csir,0.5
+line between instrumentality,0.5
+department,1.9858367499068206
+accounts,2.7564363143631434
+caution,1.0777000777000778
+important public service,0.5
+respect of the expenditure,0.5
+object,1.4940119760479043
+dayaram,1.0
+value of this decision,0.5
+memorandum of association,3.5
+character of the entity,0.5
+juristic veil of corporate personality,0.5
+residual power,0.2777777777777778
+viii,0.7209469153515065
+owners,1.9409649385675758
+specific research,1.0
+different stages in the history,0.5
+more member,1.8
+extent,1.410108024691358
+certain tests,0.6666666666666666
+times,0.8987140267391797
+representatives,0.8874021711688966
+examination of the material,1.0
+phase of fundamental rights,0.5
+light,0.8816192372754331
+court under article,2.032258064516129
+state chooses,0.5
+conclusion krishna iyer,0.5
+law lexicon by p ramnath iyer,0.5
+parliamentary,1.8068812430632628
+- scale evasion of fundamental rights,0.0
+functional  test,0.0
+courts from time,0.5
+shoes of the executive power,0.5
+constitution bench judgment,1.5384615384615385
+donation,2.331983805668016
+process of judicial interpretation,1.0
+review,1.3564101463582128
+india  rule,0.0
+whereof,1.2790697674418605
+maintainable against csir,0.5
+parliament of india,1.5
+includes,0.8996845425867507
+definition,1.6460425937698666
+delhi,2.6089285714285717
+trends,0.39999999999999997
+fact that the government,0.5454545454545454
+equality of treatment,0.75
+issues,1.1246716508385532
+privileges,2.142857142857143
+statutory duty,1.0
+write petition under article,0.5
+stage in the history,0.0
+dev,2.1018632238997714
+j form,0.5
+shetty,10.166666666666666
+per,7.977753416636086
+industrial research utilisation committee,1.5
+consideration of the relevant factors,0.5
+mathew,0.9170812603648425
+tasks,0.43795620437956206
+shah,1.9074421513445903
+membership,1.1432614078528476
+approval,1.4085456739300164
+such other rule,0.5
+department of personnel,0.5
+relevance of  state help,0.0
+alse generalities of the constitution,0.0
+gas,1.240010731232918
+other provision,1.281045751633987
+certain advantages in the field,0.5
+same power,0.6018518518518517
+ajay hasia v,0.5
+sister,1.0774703557312253
+stages,0.7858851674641147
+schools,0.700507614213198
+degree of control,0.4
+consequential denial,0.5
+share capital of the corporation,1.0
+accepted connotation of state,0.5
+employees,4.611008798854102
+length of time,0.5634146341463415
+judicial interpretation,1.0
+generi,1.05019305019305
+principles,1.3198511166253102
+feature,0.6446262956901254
+thesetests,0.5
+council,1.464939453675021
+decision in order,0.0
+financial assistance of the state,1.0
+administration tribunals,0.5
+contracts,1.9600000000000002
+different entities,0.5
+thinking,0.4530612244897959
+important functions of public interest,0.5
+particular industries,0.6666666666666666
+writ,2.8882378560889794
+need,1.1097650269586634
+later decision,1.0
+assembly,2.613006617038875
+central government under article,0.5
+recent years,0.40754716981132083
+to all societies under section,0.5
+following features of ia,0.5
+concurring opinion,0.8
+general interest,0.25
+issuance of a mandamus,0.6666666666666666
+applicable to a company,0.5
+certain acts,0.5
+entity,1.342435251377007
+engineering mazdoor union v the state,0.5
+prakash,1.8933333333333333
+customs,1.9344608879492597
+statutory corporations,0.6666666666666666
+studies,1.1615103532277709
+imanual,1.5
+finances,0.680952380952381
+finding of state action,0.5
+fall,1.158018118245391
+gupta,0.7610062893081762
+particular industry,2.6666666666666665
+opinion that csir,0.5
+chander mohan,1.0
+indication of the corporation,1.0
+determinative test,0.5
+dismissal,1.614076246334311
+other rules,0.4897959183673469
+learned,3.406323898681099
+bye laws,0.6666666666666666
+tribunals on the factual basis,0.5
+other features,0.5217391304347826
+change,1.2214862766571903
+head,1.5827778446537666
+cases,1.9728229418951067
+ab extra,0.5
+independent existence of the government,0.5
+which addition,0.6666666666666666
+new jurisdiction,0.5
+ifc as authority,0.0
+thought process,0.2777777777777778
+agencies of the state,0.6666666666666666
+rama pal,1.0
+satisfy,0.9014141008925886
+businesses through the medium,0.5
+raju,0.782312925170068
+offspring,0.8250000000000001
+matters of a public nature,1.0
+word  territory,0.0
+houses of parliament,1.1666666666666667
+legal person,1.0
+company legislation,0.5
+include,1.3858194754695128
+well-settled that the definition of the state,0.0
+enable determination of governmental ownership,0.5
+decision in the mysore paper mills,0.5
+national laboratories,0.2777777777777778
+to the government,0.7095343680709534
+juristic entity,1.5
+hand of the government,0.0
+quasi-governmental power,0.0
+constitutions,0.40909090909090906
+statutory provision,1.1638418079096045
+administrative control over conducting,0.5
+connection,1.050640279394645
+illustrative,0.5555555555555556
+finding of state control,0.5
+central civil services,1.0
+more tests,0.30000000000000004
+other institutes,0.5
+limits,0.8405888207868406
+available pursuant,0.5
+parts,0.6609660823170732
+distinct juristic entity,0.5
+incarnation of the government,0.5
+admission in violation,0.5
+india,2.7684068260703585
+available consisting of the memorandum,0.5
+power of the state,1.2396694214876034
+public duty,1.625
+judge-made law,0.0
+financial position of csir,0.5
+india sainik schools employees,0.5
+regard to the fact,1.5862068965517242
+alse general,0.0
+length with the corporate contrivance,0.5
+nov,1.3476203476203477
+to a company,0.41666666666666663
+functions of public interest,0.5
+scientific,1.3318685917555975
+genesis of the corporation,0.5
+trends within the domain,0.5
+such limitations,0.6666666666666666
+jurisprudential superstructure,0.5
+notification of central government,0.5
+perspective,0.5639060811474604
+trend,0.48390519985850716
+inference to the tests,0.0
+accounts of the institute,0.5
+public corporation,2.0
+association,1.2099052684061826
+such directives,0.5
+scientists technologists,0.5
+removable,0.4657534246575343
+other statute,1.1428571428571428
+device,0.5076282415294341
+business as the proxy,0.5
+furnishing of an important public service,0.5
+board of directors,1.0769230769230769
+international airport authority of india,1.75
+implications of article,0.5
+contents of the notification,0.5
+direction to owners,0.0
+airport authority case manuscmanusc,0.5
+several tests,0.5
+such limitation,0.6666666666666666
+governance,0.84
+origin,1.2344828910849253
+rights against the  state,0.0
+statutory duties,1.25
+prior approval of the governor general,0.5
+rupee,2.2291666666666665
+pervasive presence of the government,0.5
+rigid set of principles,0.5
+notification under section,3.7857142857142856
+physical form,2.0
+consequences,0.6659897713598075
+fortify,0.0
+shadow,0.7127882599580714
+undergone,0.8341384863123994
+generality of the constitution,0.0
+decision of this court,2.3260869565217392
+research body,0.0
+to the constitution,0.9071618037135277
+ibid,0.40740740740740744
+activities of the ncert,0.5
+food,1.1292356927710843
+reliance,1.400763358778626
+kashmir registration of societies,1.0
+view that the expression,0.5
+applicable meaning of the word,0.5
+black s law dictionary,0.0
+vital government functions from non-governmental functions,0.0
+permissible sources of funding,0.5
+confusion,0.5114622057001239
+- governmental contribution,0.0
+- governmental contributions,0.0
+office under the government,0.5
+government nominee,0.5
+immunity for anything,0.5
+cumulative fact,0.5
+scc,1.941872465904902
+grant from the central revenues,0.0
+edition,0.9664589349951868
+seventh edition,0.7999999999999999
+research student-ships,0.0
+financial control of the government,1.0
+bharat,0.9142857142857144
+non - governmental contributions,0.0
+obviou for deception,0.0
+calender mohan,0.5
+further resolution,0.6666666666666666
+statute on which powers,0.5
+significant in this decision,0.5
+word  state,0.0
+india pursuant,0.75
+relation by virtue,0.0
+instruction,1.8197943962910703
+icar,1.4571984435797665
+portion,1.0756311179804223
+distribution,2.7289109919449284
+essential aspects,0.5
+prakash rekhi,3.0
+individual right,0.5909090909090908
+petitioners because the society,0.5
+element,0.7062328407033122
+pondicherry,1.0
+definition of  state,0.0
+necessity of a wide meaning,0.5
+immaterial whether the corporation,0.5
+contradiction,0.609271523178808
+center,0.9521598338119387
+questions of policy,0.4444444444444444
+public law limitation,0.5
+potential,0.7759544352337449
+projects,1.1885926573426573
+decision in rajasthan state electricity board v mohanlal,0.5
+court in several subsequent decisions,0.5
+duty,3.2272215973003378
+that a body,0.5
+conclusion that the commission,0.6666666666666666
+inferences,0.47058823529411764
+economic welfare,0.6666666666666666
+genesis,0.3599817268158977
+ratio decidendi of ajay hasia,0.5
+public importance,2.0
+resources,0.9331054687500001
+grievances,0.9324324324324326
+rajasthan state electricity board v mohanlal,0.5
+corporations,1.2988235294117647
+discretion,1.2998211091234348
+aid projects,0.5
+government company,1.75
+v bhargava,0.5
+consultation activities,0.5
+same constitutional limitations as government,0.5
+body of the council,0.5
+three-judge bench decision,0.0
+rules of ncert,0.5
+point,2.9165043546008516
+same bench on the same day,0.5
+various article in part - iii,0.0
+tekraj vasandi alias k,0.5
+zig - zag track of judicial pronouncements,0.0
+from grant,0.41904761904761906
+- governmental powers,0.0
+parliamentary studies,1.0
+private individual of eminence,0.0
+character as state,0.5
+court on the ground,0.9166666666666666
+fiduciary relationship,0.4444444444444444
+other warrant,0.5
+question of policy,0.5
+insukhdev,0.5
+object of the fundamental rights,0.5
+tribunals act,2.0
+part iii vis-a-vis,0.0
+constitution bench decision,2.8125
+constitutional right of individuals,0.0
+statutory body,1.0
+vis-a-vi,0.0
+constitutional accountability,0.5
+theme of the state,0.5
+lal,1.6786163249382287
+companies act,4.391304347826087
+supp,1.7223856594132256
+several other institute,0.5
+consultation,1.1724137931034484
+reservation,2.6876587100050786
+chandrachud,1.0
+unusual degree of control,0.5
+iiithe,0.5
+vol,1.8556860549079708
+ultimate analysi,1.0
+irmembership,0.5
+instrumentalities,1.1428571428571428
+gas commission,1.5
+reading article,0.30000000000000004
+rights of individuals,0.3508771929824561
+category,1.9351744779266717
+serve,1.8005042015295942
+writ petition,6.24223602484472
+vital national importance,0.5
+consequential denial of the benefits,0.5
+boards,0.5774818401937046
+members of the society,1.0
+certain matters,0.8571428571428571
+part xiv,3.0
+large - scale evasion,0.0
+veil,0.7583333333333333
+chinnappa reddy,1.0
+purpose of articles,0.6666666666666666
+in calender mohan,0.5
+jamuna since the dicta,0.5
+public grievance,0.5
+statutory,2.0326923076923076
+certain principle,1.0
+fairnes,0.5708245243128964
+arrow,1.002386634844869
+reservation of posts,0.75
+fallacy,0.24878048780487805
+acts,1.9133929521984454
+same function,0.34782608695652173
+junior stenographer with the council,0.5
+registration act,3.0
+extent of the contravention,0.5
+writ application,1.2857142857142858
+indian companies act,0.6666666666666666
+trade,1.8307706424423558
+ship,2.0697961579725104
+close parallel,0.5
+juridical existence,0.5
+programme of activities,0.5
+proper utilisation,1.0
+council of industrial research,0.5
+challenge,1.2204566274399267
+life of the people,2.5
+shoe,0.5140186915887851
+individual by centers,0.0
+authority,2.4352627108360636
+mere addition of state money,0.5
+account of the csir,0.0
+as a criminal office,0.5
+budget for an annual grant,0.5
+development,2.3145884270578647
+opinion on the question,0.6666666666666666
+such wide expansion,0.5
+petroleum,1.6261261261261262
+directions to owners,0.5
+circumstance that these statutory bodies,0.5
+own words,0.34782608695652173
+necessary provisions,1.0
+ratio,5.027061939235792
+workshops,0.4791666666666667
+mere government,0.5
+subsequent jurisprudential superstructure,0.5
+inadequacy,0.7777777777777778
+award of research student-ships,0.0
+that article,0.9347826086956522
+research,1.351044147915173
+ultimate question,0.4
+determination of governmental ownership,0.5
+relevant provision,1.5737704918032787
+third,1.0303422515142742
+entire share capital of the corporation,1.0
+fresh off the judicial anvil,0.5
+regional engineering college,0.5
+iilljsc,2.1666666666666665
+governmental instrumentality,0.5
+bye-laws,0.0
+words  other authorities,0.0
+prior permission  consent  sanction,0.0
+liberal view,0.5000000000000001
+international edition,0.5
+object of the resolution,0.0
+corporation as an instrumentality,1.0
+ratio decidendi,0.8333333333333334
+institution for scientific study,0.0
+that proposition,0.4
+task,0.5643819334389858
+proceed,2.930994380987473
+field of trade,0.6666666666666666
+mujib,1.5
+iii,1.5614499719992534
+icp,0.5903979238754326
+which parliament think,0.5
+early day,0.25757575757575757
+true test,0.6666666666666666
+great generalities of the constitution,0.5
+job,0.6733466933867737
+relevant to the constitution,0.5
+obligation,1.1071428571428574
+ujjam,0.4444444444444444
+tekraj vasandi  ks,0.0
+uttar,2.188679245283019
+commerce department,0.3529411764705882
+wise limitation,1.5
+other authorities,1.8923076923076925
+such inference,0.25
+pathak,1.8571428571428572
+chronological consideration,0.5
+veil of corporate personality,0.5
+clear that the genesi of the corporation,0.0
+various factors,0.8
+a public administrative agency,0.5
+writ petition for mandamus,0.5
+research utilisation committee,1.5
+meaning of the term,0.4861111111111111
+educational research,0.8333333333333334
+state,6.817996007300392
+regulations,3.7157723577235777
+statute,2.5765859456247218
+event of dissolution,0.5
+note,1.3654108484234107
+court in som prakash rekhi v union,0.5
+various articles,0.30000000000000004
+concept of instrumentality,0.5
+to constitutional limitation,0.6666666666666666
+india from time,1.0
+juristo,0.5
+administrative need,0.5
+public law limitations,0.5
+bye - law,0.0
+sainik schools society,0.5
+good faith,0.8046647230320698
+laconic discussion,0.5
+fundamental constitutional limitation,0.5
+fundamental constitutional limitations,0.5
+much deep,0.2857142857142857
+part iii,1.6764705882352942
+government - controlled corporation,0.0
+finale,0.15625
+action by the state,0.5
+minha,0.30000000000000004
+lies in the fact,0.30000000000000004
+cover,2.502726787041524
+discussion,0.7445831166579996
+unusual degree,0.5
+illjsc,3.25531914893617
+such power,0.8907563025210085
+myriad activities,0.5
+binding directions,2.0
+mohan,1.5416666666666667
+dewan bahadur sir armudaliar,0.5
+doraiswamy raju,1.0
+categories,0.8800000000000001
+dissolution of csir,1.0
+kind,0.9236881920088026
+vital government functions,0.5
+total funds,0.3333333333333333
+alias,0.7720588235294116
+dictionary meaning of  authority,0.0
+sweep of the expression,0.5
+oilseeds,0.6666666666666666
+ltd manuscmanusc,1.4473684210526316
+relevant,1.7104913678618858
+instrument,1.493863846866317
+services by the respondent,0.5
+comparison,0.7333333333333333
+entities,0.5395256916996047
+source,0.840137091365362
+specified regulation,0.5
+arbitrary procedure,0.5
+capital,1.0983272274832379
+ruma,0.8898809523809522
+thought,0.7081151153746436
+donations,0.4888888888888889
+persons,2.5993381990166555
+nexus,0.8586538461538462
+technical character,0.25
+industries,2.162068965517242
+affair of other people,0.0
+contrary to the voice,0.5
+fundamental,1.8473025048169558
+shoes,0.5582706766917295
+wide enlargement of the meaning,0.5
+capital of ia,0.5
+cj speaking,1.0
+regard to the facts,1.1
+other moneys,0.5
+entire share capital of csir,0.5
+service dispute of the employees,0.0
+mind,1.1559066143122394
+expansion,1.2191011235955056
+other sources,0.5898876404494382
+members of csir,0.5
+mitter,0.4034090909090909
+positive answer,0.8571428571428571
+legal relation,1.5
+nota state within article,0.5
+thumb,0.3377049180327869
+custom,1.8742070505069293
+viz,0.7732570026579433
+portfolio,0.3333333333333333
+incharge of the portfolio,0.5
+terms of the statute,0.6666666666666666
+courts by issuance,0.5
+meaning,1.8612727545949643
+statutory provisions,1.6764705882352942
+government exercises control over the policy,0.5
+formal ownership cast,0.5
+under article,2.794117647058824
+approval by constitution bench,0.5
+principal,1.3412499999999998
+interest,2.74353772015385
+statutory authority,1.2105263157894737
+true nature of the reality,0.5
+financing,0.8148148148148148
+means of a mandamus,0.5
+statute for the purpose,0.5
+aspects,1.0997620069447154
+normal tests,0.5
+government corporation,1.0
+other authority,1.0666666666666667
+independent existence,0.75
+behalf,1.9888053603529987
+salmond,1.4
+several subsequent decision,0.5
+receipts,1.884057971014493
+corporate shape,0.5
+information in regard,1.25
+own function to an instrumentality,0.0
+accounts of the csir,0.5
+recent year,0.509090909090909
+employee of the csir,0.0
+activities of the nature,1.0
+pronouncement,0.8197343453510436
+administrative need that the public corporation,0.5
+reading of the memorandum,0.5
+decisions in order,0.5
+sabhajit tewari,1.0
+central government exercises control,0.5
+lahoti,1.1111111111111112
+statutory powers,1.2
+dimension,0.7919420837267862
+relevant provisions,1.5
+budget estimate of the society,0.0
+articles,1.4349688743466387
+conduct rule,1.1428571428571428
+basandhi,1.5
+amplitude,0.9523809523809523
+permission,1.1531211886018407
+activity of the ncert,0.0
+certain advantage in the field,0.0
+other like organization,0.5
+steel ltd,1.5
+appeal,3.4125488033856883
+exclusive busines of life insurance,0.0
+that the tests in ajay hasia,0.5
+cent shares,1.3333333333333333
+user,0.5042401399919236
+non - governmental contribution,0.0
+decision on an overall view,0.5
+ostensible autonomy,0.5
+times on department,0.5
+constitutional jurisprudence,0.75
+arbitrariness,0.9047619047619048
+village,1.8429856945085372
+operations,1.1793611793611793
+nath,1.2024818815807465
+mini,2.5015323280538073
+alia,0.9479866480753792
+as the company,0.8571428571428572
+prominent features of the society,0.5
+industrial matter,2.3333333333333335
+other than society,0.5
+applicability to the facts,0.5
+tewary as implicity,0.5
+series of decisions,0.6666666666666666
+veil of society,0.5
+decision of som prakash rekhi v union,0.5
+time to time,1.0211267605633803
+operation subject,0.5
+agents of the state,0.5
+financial corporation,3.5
+j in sukhdev singh,2.0
+expenditure of the corporation,1.0
+own facts,1.125
+question that actions,0.5
+sub-section,0.0
+discovery,0.6107142857142858
+by the central government,2.53125
+provision in memorandum,0.5
+supplementary rules,0.5
+effect of such positive answers,0.5
+corporate veil,1.0
+constitutional limitations as government,0.5
+parliament thinks,0.5
+--i,0.0
+finding of the state,0.6666666666666666
+citizen,1.261748909029876
+proper utilisation of the industrial research fund,0.5
+shoe of the executive power,0.0
+view of the decision,1.0
+other provision of the constitution,0.5
+true nature,1.25
+agency of juridical persons,0.5
+wider sense for the purpose,0.5
+applicable to all societies under section,0.5
+list,4.014941314095513
+test in ajay hasia,0.0
+government therein,0.5
+manner,1.4494591333432125
+government control,0.4642857142857143
+members of the board,0.25
+department of government,1.25
+control of the government,2.5714285714285716
+learned chief justice,1.0909090909090908
+write petition,0.5
+category of avenues,0.0
+ramanna s case,0.0
+lip service to the rule,0.5
+surprise,0.45203969128996696
+certain act,0.3826086956521739
+fci,0.33053221288515405
+appropriate bench,0.8
+meaning of  other authorities,0.0
+objective,0.5021775147928994
+conditions of service,2.235294117647059
+companies,2.2664576802507836
+college,2.1498947162234954
+provision of the indian penal code,0.0
+individual of eminence,0.0
+word of cardozo,0.0
+power in regard,0.0
+personal,1.2131309849000276
+massive governmental input,0.5
+essentiality,1.0
+advisory board,0.4444444444444444
+question whether an entity,0.5
+government agency,0.5063291139240506
+generalities,0.2727272727272727
+rules  orders,0.0
+individuals of eminence,0.5
+interest of the people,0.0
+patronage,0.6666666666666666
+circumstance,1.429931390219372
+- profit making organization,0.0
+civil,2.126558634963905
+sabhajit tewary case,0.5
+limited value of this decision,0.5
+to the body in question,0.5
+question in each case,0.5
+regulation,4.3783195107648485
+ajay hasia tests,0.5
+mean,2.390645692553228
+under the relevant provision of the indian penal code,0.0
+public servants,1.7000000000000002
+special statute,1.6363636363636365
+private profit,0.45000000000000007
+certain necessary provision,0.5
+reliance by the court,0.5
+utilization,0.6346153846153846
+state activity,0.5
+difficulty,0.656910569105691
+wrongful individual act,0.5
+sprung,0.3555555555555555
+judgment in som prakash rekhi v union,0.5
+tearing,0.6774193548387096
+which additions,0.5
+business of public importance,0.5
+service matters,0.4444444444444444
+nothing strange in the notion,1.0
+wise limitations,1.0
+tekraj vasandi alias ks,0.5
+to members,0.6585365853658537
+conceptualisation,0.5
+degree,0.6705786026200874
+legal relations,1.5
+appeal by way,0.8571428571428571
+length,0.6297872340425531
+disobedience,1.0208333333333335
+law limitations as the state,0.5
+considerable measure of control,0.5
+union of india,3.1324503311258276
+minister-cum-chairman board,0.0
+functions of the corporation,1.0
+ex - office president,0.0
+genesi,0.3588516746411483
+reddiar,0.5
+parallels,0.24305555555555558
+minister,1.218958818958819
+contents,0.66519564577817
+public responsibilities,0.5
+individual acts,0.6000000000000001
+purview,1.0864197530864197
+basi,2.0752712086391383
+benefits,2.0896027049873203
+meaning of the word,0.8426150121065376
+utilisation of the result,1.0
+governor general,2.25
+economic welfare of the society,0.5
+administrative law,1.1428571428571428
+other form,0.5370370370370371
+short question,0.5714285714285714
+days,1.6721350893491447
+ramana,0.8104575163398693
+local authority,3.933333333333333
+contract,6.227349970404598
+lie,2.828767123287671
+general manager hindustan steel,0.5
+general purpose,0.23958333333333331
+india sainik schools employee,0.5
+individual,1.1485140562248994
+exploit for purposes,0.5
+doctrine,0.7455954017243533
+functional  tests,0.0
+approval of government,0.75
+basis,1.953226441078104
+strike at arbitrariness,0.6666666666666666
+reference for decision,0.5
+definition of  the state,0.0
+government function,0.7142857142857143
+assets of the college,0.5
+brief by the learned counsel,0.5
+sale proceeds,1.75
+directions,1.5134125183504605
+propounder of the tests,0.5
+ramachandra,0.5555555555555556
+legislative,2.4237377279102383
+note of caution,0.8333333333333334
+appointment to posts,0.0
+principal question,0.75
+continuity of thought,0.5
+court in rajasthan electricity board v mohan lal,0.5
+coup,0.6019690576652602
+pal,1.6504163634893685
+criticism,0.5566549632939675
+power of the society,0.0
+real legal personality,0.5
+implication,0.6615776081424936
+legal contrivance,0.5
+organizations,0.4779116465863454
+grace,0.7616879174256224
+institutes,0.6052631578947368
+hence,1.1440732910500353
+decision in rajasthan electricity board,0.5
+officer,3.1197242647058823
+duty in the performance,0.5
+broad approach,0.5
+punishable as an offence,0.6666666666666666
+of the relevant factor,1.3333333333333333
+manning,0.23076923076923078
+charges,2.061307113938693
+satisfied viz,0.6666666666666666
+other case,0.6654088050314465
+citizens,1.0493208639501226
+net of article,1.0
+academia,0.2421875
+territory,1.3688226421790437
+crore,4.747474747474747
+- scale evasion,0.0
+portion of the balance,0.5
+industrial growth,1.0
+part-iii,0.0
+receipt from other sources,0.0
+available for enforcement of statutory duties,0.5
+function,1.6326372491145218
+development works,0.5
+such re-consideration,0.0
+wide amplitude,1.0
+government functions from non - governmental functions,0.0
+penal consequence,1.4
+reference to article,1.0909090909090908
+corporation pursuant to statutory powers,0.5
+member of the industrial research utilisation committee,0.0
+ex-officio president,0.0
+term,3.6255105640901575
+fundamental rights against the  state,0.0
+basic principles,0.36
+appellants,7.701086956521739
+rules  order,0.0
+quasi-governmental powers,0.0
+establishments,0.52
+previous decision,1.2857142857142858
+view,2.441100058469462
+voice,0.9012531328320803
+provision of the constitution,0.5
+pronouncements,0.7435344827586207
+requirements,0.7375979875979877
+constitutional rights of individuals,0.5
+precedent like sabhajit tewary,0.5
+relief,1.4748116760828625
+majority,1.3427634276342764
+result by a different route,0.5
+side,3.88845645915565
+penal code,2.710144927536232
+specialists,0.3319672131147541
+use,5.06801278974993
+xtend,1.3032380952380955
+alse general in council,0.0
+petroleum corporation,1.25
+defines,0.7532281205164992
+decision on the subject,0.0
+define,1.0519513092331876
+directions to the parties,0.5
+determinative tests,0.5
+instance of the appellants,0.5
+steel,1.615214878638226
+constitutional jurisdiction,0.6666666666666666
+present rule,1.0
+result,1.3356630184144715
+airport,1.1578231292517007
+officials,1.3691666666666666
+educational,1.1138712241653417
+pay,3.828326695859537
+record,2.5393414390845273
+national interest,0.8
+initial capital of rs,0.5
+information,1.1320502836800534
+authority sui juristo fall,0.5
+more members,1.8
+budget estimates of the society,0.5
+same result,0.4
+factual basis,0.4
+defence,1.3606588776096535
+governing,1.0909090909090908
+to constitutional limitations,0.6666666666666666
+to all society under section,0.0
+silver,0.4693181818181818
+governmental activities,1.0
+judge of this court,1.1428571428571428
+secretary,0.9217877094972067
+character of the state,0.5
+quarter of a century,0.6666666666666666
+directions to third parties,1.0
+principal reason,0.6666666666666666
+full powers in regard,0.5
+legislation,3.2032032032032034
+true character of the state,0.5
+table,1.2846582247782705
+webster s third new international dictionary,0.0
+department of the government,1.2222222222222223
+pronouncements in n masthan sahib,0.5
+premises,1.290983606557377
+phrase,0.7269338303821062
+fact,3.6284951019474962
+function to an instrumentality,0.0
+express,2.3455332782538525
+learned counsel,3.703333333333333
+registration,2.231365215068127
+central revenue,0.5
+such limitations as the government,1.0
+body of the society,1.0
+non - statutory body,0.0
+glimpse of a few illuminating points thereat,0.5
+deptt,0.5333333333333333
+alteration in the bye - laws,0.0
+such direction,1.375
+similar personnel,0.5
+members of the industrial research utilisation committee,0.5
+such authority,1.3571428571428572
+interests,1.0562317935913441
+departments  agency of the government,0.0
+constitutional protection,0.40909090909090906
+chief,1.9429638234317954
+parallel to the airport authority,0.5
+history of the formation,0.5
+light since the decision in sabhajit tewary,0.5
+advantages,0.430622009569378
+transactions for the benefit,0.5
+myriad activity,0.0
+entitles,0.5
+same bench,1.2
+other word,0.758838674565131
+service disputes,0.5
+administration tribunal,0.5
+case spill,0.5
+necessity,0.7072538860103627
+parity of remuneration,0.5
+requirement of the state,0.0
+petroleum corporation ltd,1.0
+characterisation,0.3333333333333333
+years,2.5395804110508022
+expression of  other authorities,0.0
+few comments,0.2619047619047619
+exercise,1.9400726466785694
+public servant,4.65
+privilege of the state,0.0
+member finance,0.5
+ramananna s case,0.0
+party,2.2250894654439723
+nature of service,0.5
+bench on the same day,0.5
+new tasks,0.5
+tewary fulfills,0.5
+enlargement of governmental activities,0.5
+corporate,1.5447616880900923
+proposition,0.6371087928464977
+that provision,0.75
+list of tests,0.5
+certain observation,1.1111111111111112
+mohal,0.5
+expenditure of the csir,0.5
+exclusive business,0.5
+food corporation of india,2.0
+justice,2.292557084574302
+amenable to the writ jurisdiction as a state,0.5
+therein,1.5503424657534246
+grievance,1.032529659395331
+revenue,1.486701237872198
+rajiv gandhi drinking water mission technology mission on oilseeds,0.5
+relevancy,1.1111111111111112
+relevant expression,0.5
+chairman,1.3592677345537758
+criminal office,0.5
+finding that csir,0.5
+income,2.734813573523251
+ray,0.8140506967693749
+meaning of  authority,0.0
+following features,0.5555555555555556
+open to the government,1.0
+ramamurthy,0.6666666666666666
+administration,1.061072796934866
+common features,0.3333333333333333
+mohanlal,0.8333333333333334
+society,2.1182859399684046
+remuneration,1.4285714285714286
+existence,0.731202675709574
+rupees,2.311111111111111
+offence,4.401610644257703
+statutory rule,2.45
+part iv of the constitution,0.5
+clinching footnote,0.5
+substance csir,0.5
+conclusion that the operation,0.5
+day,1.550999710228919
+registered society,1.5
+emphasis within the principle,0.5
+sale,3.3662581620085734
+question,2.980312372067635
+sufficient legal interest,0.5
+responsibilities,1.1746031746031744
+other like organizations,0.5
+as the rajiv gandhi drinking water mission technology mission on oilseeds,0.5
+specified regulations,0.5
+scientific papers,0.25
+right to individuals,0.0
+ex - officio president,0.0
+gandhi,0.9090909090909092
+auspice of the council,0.0
+scmanu,7.940520446096654
+domain,0.6316883116883117
+mini - incarnation of government,0.0
+nature of the reality,0.5
+other legal relation,1.0
+institute,0.9140980436760691
+the state,5.255792870366833
+ajay hasia etc,1.0
+statement,2.5393160135035964
+other authority under the control,0.0
+various other features of the council,0.5
+invasion of individual rights,0.5
+practical side,0.5
+united,0.7052854122621566
+nothing strange,1.0
+illustrative of this apparent divergence,0.5
+concept of state,2.5
+oilseed,0.6666666666666666
+zig - zag track,0.0
+present ab extra,0.5
+available pursuant to the resolution,0.5
+employee of csir,0.0
+government s presence,0.0
+vest,2.5867992501903814
+capability,0.417910447761194
+jamuna,1.25
+correctnes of the decision,0.0
+needs,0.6897483569699066
+businesses,0.45161290322580644
+judicial anvil,0.5
+v union,1.5773809523809523
+thought proces,0.2777777777777778
+sic,1.1611481056257176
+wide enlargement,0.5
+agricultural,3.5005050505050503
+powers in regard,0.5
+force,1.6009408121948314
+authority under the control,0.0
+court from time,0.8333333333333334
+other authorities within the territory,1.5
+notification,3.0112746633260263
+property,2.9368986630013745
+states,1.5120646995827023
+manner as the government,1.0
+clear that the genesis of the corporation,0.5
+nature of residual power,0.5
+auspice,0.5294117647058824
+balance,0.9863636363636363
+legal principle,0.8142857142857144
+official of ia,0.0
+such corporation pursuant,0.5
+law,3.538923411654744
+constitutional accountability under part iii vis-a-vis,0.0
+important function of public interest,0.0
+observation,0.7625074854374218
+clear indicia of power,0.5
+such entitles,0.5
+dewan,1.0476190476190477
+for deception,0.5
+judicial blow,0.5
+governmental functions,3.5
+treatment,1.1351020408163266
+development work,0.6545454545454544
+profit for the public benefit,0.5
+present,1.9747480780089475
+overall view,0.4444444444444444
+entity whether juristic,0.5
+party by words,0.5
+need that the public corporation,0.5
+case of bpl,0.5
+individual act,0.6461538461538461
+anvil,0.4125
+veterinary research institute,0.5
+fortifies,0.5
+employee of the commission,0.0
+fundamental of constitutional jurisprudence,0.0
+change in recent year,0.0
+board,2.401414435268602
+philosophy,0.40044247787610615
+resource,0.8416706827309237
+as a branch,0.5
+concurring,1.0769230769230769
+audit report of ia,0.5
+quasi-governmental function,0.0
+dictionary meaning of the word,0.75
+statutory duty in the performance,0.5
+overwhelming nature of such factors,1.0
+tasks of the government,0.5
+relations,1.2666042780748663
+publications,0.6532544378698225
+grant,1.7314487632508835
+state adopts,0.5
+assessment,2.647276084949215
+conclusion that csir,0.5
+sovereign functions,0.5
+addition,1.5588539142412572
+executive power,0.45454545454545453
+jurist hmseervai,0.5
+industrialists,0.5
+manner as government,0.5
+constitution bench of this court,1.2647058823529411
+constitutional right,0.7608695652173912
+facts of the case,1.161764705882353
+basic obligation of the fundamental rights,0.5
+ken of article,0.5
+concurring judgment,0.75
+certain matter,0.4615384615384615
+fold,0.5699140401146132
+subba,0.6964285714285714
+conclusion that the decision,0.75
+broad limits,0.5
+true character,1.0
+behalf of yv,0.5
+application,2.3322596088086445
+termination,1.6799615488397193
+other provisions of the constitution,1.2
+control of the central government,1.0
+implications,0.5223021582733813
+april,0.8928235149629509
+like organizations,0.3333333333333333
+pleading of the appellants,0.5
+publication of scientific papers,0.5
+case of specialists,0.5
+expansion of article,0.5
+aggarwal v hindustan steel ltd,0.5
+authorities,1.266131845134287
+available to members,0.6666666666666666
+reading,0.9004509191814082
+typical in many ways,0.5
+subject to the same constitutional limitations as the state,0.5
+mere agency,0.5
+drastic change,0.8888888888888888
+industrial,5.673304955913652
+certain fundamental rights,0.5
+privilege,2.436023622047244
+strike,0.6155419222903886
+estimates,0.7197382769901853
+honourable,0.40384615384615385
+that fundamental right,1.25
+profit,3.0739182692307687
+statistical,0.45959595959595956
+mysore paper,2.5
+cent,2.4795666588956498
+vis-a-vis government companies,0.0
+outset,0.5899159663865546
+to the resolution,0.5714285714285714
+push,0.5204178537511871
+absence of state,0.5
+intention,1.7585585585585588
+authority includible,0.5
+obiter,1.0
+ltd,2.382356477306883
+unnecessary exercise,0.6666666666666666
+ken several instrumentalities,0.5
+than society,0.3333333333333333
+english decision,0.6666666666666666
+pervasive state control,1.0
+submission,1.0913871684001404
+bye,1.9938461538461536
+notion,0.9071080318193483
+scale of pay,3.2
+assessment of the facts,0.30000000000000004
+full powers,0.5
+dictionary,0.7964252553389043
+bhargava,5.6
+distinctions,0.38461538461538464
+such manner,1.0909090909090908
+behalf of doraiswamy raju,0.5
+distinction between an instrumentality,0.5
+other member,0.6470588235294118
+net profit,2.0
+other authorities under the control,0.5
+clear indicia,0.5
+difference,0.8774847235514982
+period,1.9480170842427122
+own property,0.2692307692307692
+administrative tribunal on the factual basis,0.0
+institutions,2.2839413875598087
+representative of the commerce department,0.5
+which csir,0.5
+regal,0.18749999999999997
+research fund,1.0476190476190477
+such other rules,0.5
+constitution,3.204842342342342
+ambit of the act,0.5
+hmseervai,0.5
+law belong,0.6666666666666666
+port,3.26790328722091
+decisions on the subject,0.8
+law limitations,0.5
+various other features,0.5
+available consisting,0.5
+power of the authority,1.0
+efforts,0.7431827431827432
+narrower view,0.30000000000000004
+undertaking,2.8508771929824563
+governments,1.020200276243094
+veterinary,0.7272727272727273
+landmarks on the state conceptualisation,0.5
+regard to all matter,0.5
+appealrule,0.5
+ex-officio president of the society,0.0
+universities,1.8989361702127658
+enforcement of statutory duties,0.5
+ex - office president of the society,0.0
+schools society,0.5
+two - judges bench,0.0
+state control,1.25
+to the petitioners because the society,0.5
+supra,2.246342614440774
+irrational act of the state,0.5
+provincial governments,0.4444444444444444
+matter to a constitution bench,0.5
+eminent jurist hmseervai,0.5
+governmentv,0.6666666666666666
+other cases,0.6446886446886447
+earlier part,0.47619047619047616
+police power,0.30000000000000004
+proper utilisation of the grant,0.5
+supplementary rule,0.5
+special leave before this court,0.6666666666666666
+from grants,0.5
+company legislation in india permits,0.5
+eminent scientists technologists,0.5
+consideration to the facts,0.5
+untenable interpretation,0.5
+cover for the government,0.5
+separate legal entity,0.6666666666666666
+rationale for the approach,0.5
+thunderbolt,0.30000000000000004
+generalities of the constitution,0.5
+ownsource,0.3333333333333333
+october,0.9478375701551667
+writs,5.2
+article in part - iii,0.0
+airport authority act,0.5
+executive proceeding,0.5
+independence,0.6549707602339182
+range of article,0.5
+extent of expenditure,0.5
+xiv,1.676245210727969
+sovereign function,1.0
+impossibility,0.9166666666666666
+positive finding that csir,0.5
+csir from sale proceeds,0.5
+governmental agency,0.30000000000000004
+ownsources of income,0.5
+therewith,0.6394230769230769
+resourceful legal contrivance,0.5
+management of any airport,0.5
+management,1.6732611752395274
+state action of a particular kind,0.5
+police,2.9749362629783356
+premise,1.2347417840375587
+order in the nature,1.0
+point of fact,0.4
+present rules,1.0
+matter of high public interest,0.0
+before the administrative tribunal,1.0
+personnel,0.9491259524876736
+invasion,0.6166666666666667
+observations in ramanna,0.5
+constitution for the simple reason,0.5
+own offspring,0.5
+set,2.3027452395971277
+reason,2.6381270903010035
+statue,0.5306122448979591
+ratio of this decision,0.5
+operation,1.0959893294085181
+scales,2.753521126760564
+life,1.3352928273744242
+various articles in part - iii,0.0
+content of the notification,0.0
+respect of csir,0.5
+features of the society,0.5
+high court under article,1.0
+to the life of the people,2.5
+than the fact that the government,0.5
+council of educational research,1.5
+governor general - in - council,0.0
+fail,1.3038982898019296
+mould,0.49777777777777776
+framers,0.7777777777777778
+state help,0.5
+certain cases,0.5333333333333333
+such manner as the government,1.0
+heavy engineering mazdoor union v the state,0.5
+duties by the statute,0.5
+hands of the government,0.6666666666666666
+body of csir,0.5
+revenues,0.49523809523809526
+function of public interest,0.0
+jubilee,0.25362318840579706
+government at patronage,0.5
+bai v state of uttar pradesh,0.5
+shares,3.3129411764705883
+ajay hasia form,0.5
+characteristics,0.6133333333333333
+others,0.9074667328904616
+conclusive of the fact that the csir,0.5
+challenge under article,0.6666666666666666
+care,0.8846948234137723
+receipt,1.5471923536439667
+benefaction,0.5
+proceeding,2.1298245614035087
+functional tests,1.0
+welfare state,0.7792207792207791
+connotation,1.018181818181818
+generality,0.5454545454545454
+srinagar,0.5
+individual rights,0.5529953917050692
+legal relation by virtue,0.0
+pas,2.68416862749163
+ex - officio appointment,0.0
+several other institutes,0.5
+subjugation,0.3333333333333333
+framers of article,0.5
+post in connection,0.0
+student,1.2777711454664835
+act of the state,0.75
+judge,2.9012627415183325
+nation,3.034318722392117
+j speaking,1.2941176470588236
+additional factor,0.5
+ujjam bai v state,0.6666666666666666
+province,0.7345491388044579
+jspoke for the court,0.5
+great generalities,0.5
+growth,0.7269455690508322
+benefit of the provisions,0.0
+honourable member of the council,0.5
+doraiswamy,1.0
+management of laboratories,0.5
+comprehensive phrase,0.5
+meaning in the context,0.2857142857142857
+societies registration act,3.5
+conclusion,1.3883437407077015
+statue for the purpose,0.5
+functional test,1.3333333333333333
+to the governance of the country,0.5
+composition of respondent,0.5
+agency of the central government,1.0
+riddle,0.4375
+penal consequences,1.25
+warrant,0.611066164387025
+aggregate,1.3988095238095237
+questions,0.9979150871872632
+particular industry in a trade,0.5
+additions,0.44999999999999996
+brief,0.540112172829248
+assistance,0.8623872906826965
+foregoing reasons,1.0714285714285714
+rajasthan electricity board v mohan lal,1.0
+corporate mask,0.5
+obligation of the fundamental rights,0.5
+branch,2.8500288406075756
+contentions,0.9641025641025641
+sense,0.8606303395157362
+expansive of the meaning of the term,0.5
+no doubt,0.8331331503088538
+interpretation of article,0.75
+circumstances,1.3944461370073231
+zag,0.19879518072289157
+matter of public employment,0.0
+welfare,1.3226788432267886
+product,2.242984858429713
+juridical person,1.5
+high court,7.7477477477477485
+applicable to the employees of the csir,0.5
+rajiv gandhi drinking water mission technology mission,0.5
+sudh dev singh,0.5
+certain matters of a public nature,0.5
+jurisdiction,2.9539571926331507
+public corporations,0.5
+csir rules,0.5
+original capital,0.5
+law within the meaning,0.8
+manu,7.078142071124147
+industrial research,6.000000000000001
+provision of the act,0.8888888888888888
+track,1.311279069767442
+of the question,0.5530832803560076
+indicia of power,1.0
+show that fundamental right,0.5
+economic interests,0.6000000000000001
+rulings,0.5416666666666667
+prime,1.273548387096774
+village panchayats,0.5
+re - examination of the question,0.0
+role,1.0562959821210092
+necessary provision,1.0
+present time,0.3418803418803419
+scale,2.0845464725643894
+single,1.6221488419098207
+officials of ia,0.5
+existence of the government,0.5
+pace with this broad approach,0.5
+footnote to the tests,0.5
+that the genesi of the corporation,0.0
+societies act,2.3
+nature of such factors,1.0
+government exercises control,0.5
+proposition that csir,0.5
+advantages in the field,0.5
+instrumentality of agency,0.5
+fundamental right,2.9790209790209787
+port trust,1.0
+tribunal,5.07183212267958
+financial estimate,1.0
+approval in extenso,0.5
+substantial difference,0.4
+sum,2.554898897856461
+equality of opportunity,0.6666666666666666
+state government with the prior approval,0.5
+strong statutory flavour,0.5
+question for consideration,1.125
+measure,1.1941357983816498
+praga tools corporation,2.0
+iyer,1.1794871794871795
+decision in tekraj vasandi  ks,0.0
+electricity,4.4831223628691985
+full power,0.3555555555555555
+part of the profit,0.5
+issuance of a writ,1.0
+such factors,1.0
+dr br,0.5
+following effect,1.3846153846153846
+governmental character,1.0
+university,3.75675614961249
+agarwal v general manager hindustan steel,0.5
+utilisation of the grant,0.5
+absence of the other features,0.5
+assets,2.6879084967320264
+following members,0.6666666666666666
+apparent from a chronological consideration of the authorities,0.5
+write application,0.2777777777777778
+indication,0.6940825616072829
+account of the institute,0.0
+establishments in the service,0.5
+provincial,1.2844444444444443
+courts,2.1216528162511543
+prominent feature of the society,0.0
+committee,2.546237803603864
+own functions,0.5
+restriction,1.0123456790123457
+respectful agreement,0.8571428571428571
+praga,1.5
+certain wise limitations,0.5
+industrial development in the country,0.5
+sight,0.6194871794871795
+same constitutional limitations,1.0
+moneys,0.6685714285714286
+combination,1.5053521126760565
+pervasive presence,0.5
+research fund subject,0.5
+code,2.880559796437659
+government function from non - governmental functions,0.0
+immediate cause,1.0
+determinative of the question,0.5
+private individuals of eminence,0.5
+keystone of the subsequent jurisprudential superstructure,0.5
+scientific departmentsagency,0.0
+net profit of fci,0.5
+correctness of the decision,1.125
+people,1.2855544825097243
+investments,1.7287581699346406
+such inference to the tests,0.0
+president of society,0.5
+webster,0.5376344086021505
+different stages,0.6060606060606061
+employee,6.280487804878048
+reasons,1.3749054007567938
+public law limitations as the state,0.5
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+problem,0.6764352120789936
+sir,1.1712841173013164
+sale proceed,2.4166666666666665
+mean of a mandamus,0.0
+black,0.5748387096774195
+autonomous body,1.6666666666666667
+s murtaza fazal ali,0.6666666666666666
+applicability of article,0.75
+such instrumentality,0.5
+honble dewan bahadur sir armudaliar,0.5
+arm,0.9325525916287142
+auditor,1.169230769230769
+financial aid,1.3333333333333333
+new international dictionary,0.6666666666666666
+employment,1.5239770785161355
+authorities within the territory,1.5
+law lexicon,1.0
+available to government servants,0.5
+compliance of statutory rules,0.5
+creation,0.5716118684843625
+meaning of expression,0.75
+agency of the state,11.5
+ors,2.8612718198296623
+ganguli,4.75
+show,1.5002130552117363
+electricity board,2.2285714285714286
+part,5.294464509893076
+characteristics of csir,0.5
+kashmir registration,1.0
+litigation,1.4968553459119498
+ships,0.6415665331553182
+individual invasion of individual rights,0.5
+ways,1.3640952708404963
+analysi,0.6883471219855659
+lexicon,0.27272727272727276
+need of the situation,1.0
+range,0.8144965675057209
+permission  consent  sanction,0.0
+aspect,1.2449448189023034
+juridical persons,1.5
+shri,2.0759135877246115
+decisions,1.3888475974580996
+character,0.9325990965842764
+nature of csir,0.5
+industrial in the country,0.5
+sanction of the government,0.5
+taluk,1.68
+approval of the governor general - in - council,0.0
+limitations as the government,1.0
+other person,0.9635036496350365
+subsequent decision,1.1428571428571428
+implicity,0.2457627118644068
+sweep of fundamental rights,0.5
+third parties,0.4090909090909091
+central civil service,1.0
+divagation,0.5
+distinction,0.7312167973690868
+instructions,1.8111673678956002
+shelat,0.5
+specific projects,0.30000000000000004
+determination,1.5980374665477253
+element of control,1.0
+rajasthan state electricity boards case,0.5
+search,1.156007562422583
+engineering mazdoor union,1.0
+departments  agencies of the government,0.0
+independent legal existence,0.5
+land,6.337534028705619
+independent entity,0.5
+case of lic,0.6666666666666666
+read,2.2147281730888695
+surrogate,0.4666666666666667
+rajiv,1.2
+leave before this court,0.6666666666666666
+service condition of employees,0.0
+societies under section,0.5
+court by issuance,0.0
+as research,0.2777777777777778
+capital of the corporation,1.5
+satisfaction,0.6639095671353735
+ithe,1.7286366150442476
+jurist,1.25
+tewary s case,0.0
+miscellaneous receipts,0.5
+food corporation act,0.5
+obligations,0.9121212121212122
+posts in connection,0.6666666666666666
+decision in central inland water transport corporation,0.5
+- governmental members,0.0
+ramanna,5.5
+dispute insukhdev singh v bhagat ram,0.5
+distinction between  instrumentality,0.0
+attorney general,1.3220338983050848
+time on department,0.0
+anxious consideration,0.875
+fellowship,0.2164179104477612
+natural persons,1.5
+services,1.6850241065659326
+ex officio,0.5
+subject to any statutory duty,0.5
+court on the prima view,0.5
+appropriate occasion,0.6666666666666666
+furnishing,0.5882352941176471
+direction to third parties,0.0
+prominent features,0.5
+relevant factor,0.8663594470046083
+learned attorney general,3.8666666666666667
+busines of life insurance,0.0
+corporation on profits,0.0
+pursuance,1.543859649122807
+industrial research in india,0.5
+tewari,1.0
+appointment,3.1380281690140843
+explanation,1.4510159010600707
+source of confusion,0.5
+circumstance that these statutory body,0.0
+enforcement,0.7354220499569336
+royalty,0.7894736842105263
+several test,0.5
+indication in the judgment,0.5
+state government,3.027142857142857
+functioning within the territory,0.5
+certain power,0.7407407407407408
+other agency,0.2857142857142857
+support from decisions,0.5
+affairs of other people,0.5
+effect,2.184583388478191
+benefit of that article,0.5
+three - judges bench,0.0
+administrative tribunals on the factual basis,0.5
+command,0.6880551024107304
+such presence,0.5
+quarter,0.7884753275536145
+v ncert,1.0
+convenience,0.6501259072729966
+misdirection,0.8333333333333334
+such directions,1.3333333333333333
+rseb,1.0
+comment,0.5887096774193549
+better management,0.6666666666666666
+worthy,0.7644628099173555
+view that the decision,1.0
+side in the working,0.5
+agreement with this statement,0.5
+ramanna dayaram shetty v the international airport authority,0.5
+promotion of those objects,0.5
+reference to some authority,0.5
+more test,0.5714285714285714
+variation,0.5234042553191488
+ex-officio secretary of the society,0.0
+affair of the society,0.0
+writ of mandamus,2.642857142857143
+that ia,0.3888888888888889
+contentions of the employee,0.5
+limited value,0.2727272727272727
+transaction for the benefit,0.0
+rigid set,0.5
+auspices of the council,1.0
+consequence,0.8726692512593296
+material feature,0.5
+rights against the state,1.0
+same functions,0.6666666666666666
+manager hindustan steel,0.5
+representative,1.0617102796119673
+important functions,0.5
+place,2.333104345208554
+public services,0.6000000000000001
+pronouncement of seven - judges bench,0.0
+form of the corporation,0.5
+public function,1.1428571428571428
+development in the country,0.5
+following resolution,1.6666666666666667
+mere company,0.5
+- governmental functions,0.0
+great public importance,0.75
+accountability under part iii vis - a - vis,0.0
+characteristic of csir,0.0
+revenue - producing public enterprise,0.0
+reddy,0.7218614718614719
+earlier decisions,1.24
+pace,0.7438834429971801
+uncertain terms,0.7555555555555555
+estimate,1.0964912280701755
+re - consideration,0.0
+prime minister of india,1.25
+som,1.4490032978859397
+pronouncement in n masthan sahib,0.0
+krishna,1.2505446623093683
+industrial financial corporation,2.0
+law belong to the province,0.0
+question whether a corporation,0.5
+control,2.148867902684286
+arbitrarines,0.9047619047619048
+more of the relevant factors,1.0
+issue,2.766776251628934
+stood,1.0434207261599535
+writ petition for a mandamus,0.5
+fundamentals,0.5
+state money,0.30000000000000004
+service condition,2.272727272727273
+annual net profit of fci,0.5
+purpose of convenience,0.6666666666666666
+experiment,0.43849431818181817
+great respect,0.3692307692307692
+way of abundant caution,2.0
+similar to the institute,0.5
+small extent,0.5
+petitioner,4.524972253052164
+ujjam bai v state of uttar pradesh,0.5
+orders,1.4936359300077826
+limb of government,0.5
+particular kind,0.5714285714285714
+other legal relations,1.0
+veil in certain cases,0.5
+departments of the government,0.5
+nota deep,0.5
+part iii vis-a-vi,0.0
+maintenance,0.8632111808077473
+that council,0.25
+same day,0.8830188679245283
+form of company,0.5
+inclusive  definition,0.0
+enlarged meaning,0.6666666666666666
+virtue of article,1.0
+to different stages in the history,0.5
+mysore paper mill,2.5
+that reason,0.5025536261491317
+inseparable issue,0.5
+available to the petitioners because the society,0.5
+private individuals,0.6111111111111112
+review of judicial opinion,0.5
+fundamental rights to individuals,0.5
+civil service,2.722222222222222
+job work,0.3333333333333333
+material features,0.5
+scope of article,1.1428571428571428
+alter,1.0763514793860482
+affiliate,1.12258064516129
+departments  agencies,0.0
+concept of  state action,0.0
+sabhajit tewary s decision,0.0
+uncertain term,0.7555555555555555
+ground,1.4186722903211633
+som prakash rekhi v union,2.0
+special institutions,1.0
+ability,2.0097418327420304
+entire expenditure,1.2
+that the genesis of the corporation,0.5
+wide meaning,2.0
+accepted connotation,0.5
+vbhagatram sardar singh raghuvanshi,0.5
+task of the government,0.0
+agarwal,7.8125
+presence of government,0.5
+ex-officio by virtue,0.0
+ramanna dayaram shetty,0.5
+financing of specific researches,1.0
+view on the basis,0.5
+private activities,0.2514124293785311
+different conclusion,0.40384615384615385
+organized manner,0.30000000000000004
+concept,0.9402138540213855
+narrower sense,1.25
+society s registration act,0.0
+court in sabhajit tewary,1.0
+relevant factors,0.8608695652173913
+article,4.378806157159795
+presence of the government,0.5
+body within a month,0.5
+applicable to the council,0.5
+available by the central government,0.5
+ordinance,1.176
+chapter on fundamental rights,0.5
+incharge,1.0250000000000001
+bones,0.4339622641509434
+panchayats,5.25
+school society,0.5
+machinery,0.9071637426900585
+permissible sources,0.5
+abstract entity,1.0
+decisions of united states,0.5
+meaning of the expression,1.75
+penal,1.8829173709853835
+csir rule,0.5
+raghuvanshi,1.5
+heads,0.7896459995907509
+officers association manuscmanusc,0.5
+industrial growth in this country,0.5
+opinion,1.4960606342789635
+agency in absence whereof,0.5
+engineering college,0.5982905982905984
+mujib sehravardi,1.5
+ken several instrumentality,0.0
+enforcement of fundamental rights,0.75
+undergone drastic change,1.0
+composition of the government body,0.5
+many way,0.32888888888888884
+immediate cause for such re - consideration,0.0
+calcutta,1.6022727272727273
+judicial decisions,1.0
+cause for such re - consideration,0.0
+re-consideration,0.0
+corporate entities,0.75
+clear indication in the judgment,0.5
+sukhdev singh s case,0.0
+result of the tests,0.5
+united state,0.5525959367945824
+positive answers,0.3333333333333333
+deeper scrutiny of the notification,0.5
+administrative control over the working,0.5
+rao,0.9220020325203252
+bihar,4.587301587301587
+scope,0.8412698412698413
+laws,1.4186274337269533
+to article,0.8581560283687941
+such as the companies,0.5
+principal question in the context,0.5
+november,0.7203359669727383
+officers association,0.5
+various factor,0.8
+quasi-governmental functions,0.0
+development in this country,0.6666666666666666
+avenues,0.4444444444444444
+majority view,5.0
+court in sabhajit tewari,0.5
+respect,2.6704963235294117
+understood with reference to the remedies,0.5
+such order,1.056910569105691
+advent of the welfare state,0.5
+similar nature,1.125
+way toward,0.5135135135135136
+registered society under the registration,0.5
+fundamental to the governance of the country,0.5
+strong reliance,1.606060606060606
+proxy,0.5
+expression,1.7424391201885312
+such positive answers,0.5
+judicial decisions on the subject,0.5
+cumulative effect of such positive answers,0.5
+authority of the union government,0.5
+common feature,0.7999999999999999
+difference between instrumentality,0.5
+like organization,0.3333333333333333
+spill,0.3586956521739131
+table of both houses,0.5
+reasoning,0.6478937381404174
+transport,1.8361522198731504
+available from grants,0.5
+manu  scmanu  sc,0.0
+jaipur,1.0
+nominees,0.4375
+test for the purpose,0.6666666666666666
+exercise of power,0.7513227513227514
+rseb s case,0.0
+basic principle,0.41958041958041953
+airport authority,2.6
+perception of  state,0.0
+non-governmental member,0.0
+work,2.8478559811646353
+new problem,0.5238095238095238
+central government exercises control over the policy,0.5
+features,0.6184582743988685
+prologue to the above,0.5
+directives,0.4375
+narrow needs,0.5
+points,0.7095682483711788
+dicta,1.0501242750621373
+appealrules,0.5
+judgment by mathew,0.5
+judicial pronouncement,2.0
+international airport authority,2.0
+parent act,0.6000000000000001
+private individual,0.6111111111111112
+basis of the csir rules,0.5
+sabhajit,13.5
+part iii of the constitution,2.125
+learned attorney general in this context,0.5
+papers,1.0564063453325199
+restrictions,0.7241671372106155
+frame work,0.4444444444444444
+appellant company,1.2857142857142858
+virtue,0.9167557066537153
+speech of dr  br,0.0
+bye-laws of the society,0.0
+broad limit,0.5
+contention of the society,0.5
+association of csir,1.5
+stenographer,1.0
+scientific departmentsagency of the government,0.0
+posts,2.6556317082632876
+quasi- governmental agency,0.0
+provision of the international airport authority act,0.0
+interpretation of the other authorities,0.5
+pension,11.516129032258064
+observation in ramanna,0.0
+utilisation,1.1
+inaccordance,0.2857142857142857
+government of india  rule,0.0
+function of another entity,0.5
+divergence,0.8181818181818181
+consent,1.224924012158055
+constitutional rights,0.5502645502645503
+certain principles,1.0
+function of the corporation,0.0
+september,0.8548484848484849
+public authority,1.4444444444444444
+to the institute,0.5
+notification for the purpose,0.5
+other government departments,0.5
+frame work of civil service,0.5
+economic interest,0.5454545454545454
+presence,0.9604834261070158
+satisfied that the test in ajay hasia,0.0
+matters of public employment,0.6666666666666666
+directive,0.621951219512195
+reason that financial assistance,0.5
+institution,2.7327010745685443
+central government unless the employees,0.5
+india v food corporation,0.5
+control by the government,1.0
+authority within the meaning,3.5
+century,0.6548536209553157
+instructions on question,0.5
+limited ratio in tewary manu  scmanu  sc,0.0
+own fact,0.5761904761904763
+instrument ality,0.5
+inland water transport corporation,0.6666666666666666
+government in matters,0.6666666666666666
+decision of the court,1.1666666666666667
+contrary in calender mohan,0.5
+mere government at patronage,0.5
+facto become,0.6666666666666666
+doubt that the conclusion,0.5
+grant by government,0.5
+annual report,1.0909090909090908
+servants of the union,1.0
+other activities,1.1111111111111112
+word,2.065873981084096
+relationship with other people,0.5
+vests,0.7007818052594171
+chapter,1.3867471532446152
+february,0.8575630252100839
+j in sudh dev singh,0.5
+parent,0.9965655833245622
+anauthority,0.25
+postulate,0.5385790679908328
+judge bench of this court,1.6486486486486487
+will,1.9263907124198036
+rajasthan electricity board,1.5
+objectives,0.698051948051948
+ad koshal,0.5
+subsequent decision of this court,0.0
+way by the state,0.5
+name,1.8996570753072433
+direction to the parties,0.0
+government of any state,1.0
+present operation subject,0.5
+requirements of the state,0.5
+certain matter of a public nature,0.0
+particular office,1.0
+members,1.9437616522164103
+cumulative effect of these various factors,0.5
+alter ego,1.0
+physical form of company,0.5
+account,2.5754891049671977
+appointments,1.2888888888888888
+subsequent decisions,1.3333333333333333
+industry run,0.6666666666666666
+supplementary,0.9666666666666668
+law dictionary,0.6363636363636364
+- governmental member,0.0
+writ jurisdiction as a state,0.5
+government departments,0.6666666666666666
+ex - officio president of csir,0.0
+enlargement,0.6060606060606061
+review of judicial decisions,0.5
+prayer,0.6969296987087519
+objects,0.7297830374753452
+avenue,0.43846153846153846
+v indian statistical institute,0.5
+help,0.7217940266720754
+proceeds,1.083011583011583
+purpose,2.519170317925504
+formation of csir,0.5
+financial position,0.5
+study,1.4280920541907696
+thesetest,0.5
+stenographer with the council,0.5
+time,2.4764180952862667
+industry in a trade,0.5
+central government,3.0380952380952384
+framers of the constitution,1.0
+invention,0.3132530120481928
+an authority,1.0824587706146926
+authority sui juristo fall within the meaning,0.5
+public responsibility,0.0
+mandamu,3.0
+such inferences to the tests,0.5
+audit report,1.0
+issuance,1.05379513633014
+constitution bench,4.27536231884058
+armudaliar,0.5
+property if the commission,0.5
+petitioners in the matter,0.5
+court in ajay hasia,0.5
+government functions,0.6666666666666666
+two - judges bench in mysore paper mills,0.0
+state activity on account,0.5
+decidendi,0.8333333333333334
+activity of the nature,0.0
+aninstrumentality,2.0
+house of parliament,1.1428571428571428
+application under article,1.2
+effect on the general interests,0.5
+content,1.5450574489970066
+quirement,1.2449599999999998
+narrow needs of the situation,0.5
+shri ca,1.0
+majority opinionr,0.5
+electricity supply act on the board,0.5
+limit,2.3804570428443834
+ministers,0.7142857142857143
+practical side in the working,0.5
+admissions,0.8529980657640233
+pervasive control,1.0
+right,3.07483248288682
+indicative indicia,0.5
+words  other authority,0.0
+untenable interpretation of article,0.5
+condition of service,0.5
+practical impossibility,0.3333333333333333
+question in that case,0.75
+state governments,1.3345864661654134
+other source,0.5433255269320842
+ambedkar,1.3333333333333333
+funds of the society,1.0
+that extent,0.8888888888888888
+tit,8.198136018217639
+shape,0.4645522388059702
+registered,1.141896938013443
+csir from the constitutional jurisdiction,0.5
+public interest,2.380434782608696
+obligations of the state,0.5
+absence,1.092363454568179
+type,0.8102172691515265
+counsel,2.2246780703440323
+consultation activity,0.0
+policy,3.250773332247955
+development of the law,0.75
+state that this notification,0.5
+implication of article,0.0
+v bhagatram sardar singh raghuvanshi,1.0
+judgment in ajay hasia,0.5
+union government,1.8333333333333333
+rules,3.130914366958792
+duties of a public nature,0.5
+jurisprudence,1.088888888888889
+surrogate of the government,0.5
+such minister,0.6666666666666666
+mission,3.4937549830705037
+ownsources,0.5
+answers,0.3387502861066606
+zig,0.22388059701492538
+corrective measure,0.4444444444444444
+calender,0.42857142857142855
+prominent feature,0.5
+framer,0.7777777777777778
+view of the contrast,0.5
+police power over all types,0.5
+aggarwal,0.8888888888888888
+ratio of ramanna,0.5
+parliament think,0.5
+person by the law,0.5
+rights to individuals,0.5
+conclusion on the ground,0.5
+sources of funding,0.5
+inland,0.525
+industrial development,1.2380952380952381
+misdirection in thought process,0.5
+dispute,2.402137592137592
+dictionary meaning,1.5
+life insurance,1.5714285714285714
+results,0.6487493619193466
+way towards,0.52
+governmental function,3.5
+industry,8.208106219426973
+conditions,1.9988092071092867
+united states,0.5498850574712644
+civil services,2.272727272727273
+cursorily,0.6666666666666666
+three - judge bench,0.0
+statute while bpl,0.5
+moreover,0.7807228915662651
+principle that a society,0.5
+relevant provision of the indian penal code,0.0
+certain necessary provisions,0.5
+compliance,1.0029799914857385
+financial assistance from the government,0.5
+tendency in chander mohan,0.5
+three-judge bench decisions,0.0
+case,7.332269420884958
+creature of statute,0.8571428571428571
+error,1.059158294766151
+supply,2.0557395143487858
+hands of the central government,1.0
+state authority in the shape,0.5
+royalties,0.75
+scientific departmentsagencies of the government,0.5
+corporate veil in certain cases,0.5
+example,0.5893965031020868
+landmark on the state conceptualisation,0.0
+state authority,1.0
+affair,0.8341728395061728
+punishable as a criminal office,0.5
+landmarks,0.2857142857142857
+law belongs to the province,0.5
+vicarious creature of statute,0.5
+obvious for deception,0.5
+ambit,1.0862754267009587
+parts iii,0.5
+minister of india,1.2
+csir s memorandum,0.0
+three - judges bench in the workmen,0.0
+considerable measure,0.5
+assistance to special institutions,1.0
+flavour,0.6933333333333332
+ramnath,1.6666666666666667
+body in question,0.5
+contention,1.666391070690368
+state agency,1.2000000000000002
+employees of csir,1.0
+budget estimate,0.5
+state adopts for this purpose,0.5
+control over the working,0.5
+incarnation,0.4095860566448802
+policies,0.5962145110410095
+lip,0.8981895820537569
+jammu,4.705882352941177
+sudh,1.2857142857142856
+dimension of the state,0.5
+sehravardi,1.5
+association v,0.5397727272727272
+autonomy,0.6610169491525425
+ex - officio vice president,0.0
+public grievances,0.5
+comments,0.5982500911410864
+bench,2.5793391667754992
+violation,1.2087401208740118
+such positive answer,0.5
+much water,0.2857142857142857
+proceedings before the high court,0.8333333333333334
+close parallel to the airport authority,0.5
+infra,0.8328994793752503
+taluk boards,0.5
+csir without any prior permissionconsentsanction,0.5
+office,3.5913445886237847
+monopoly status,1.5
+asset of the society,0.0
+drastic change in recent year,0.0
+therefore remain,0.5333333333333333
+width of expansion,0.5
+fails,0.7341787106682944
+leave,1.0147842365477848
+nominee,0.9666666666666667
+slp,1.291953447628582
+governmental,1.4273576890399318
+quantum,0.8922235363690124
+submission of the learned attorney general,0.6666666666666666
+wide expansion,1.0
+meaning of article,3.0
+body,1.336775463480009
+membership of the society,1.0
+place in part xiv,1.0
+denial of the benefits,0.5
+high court by issuance,0.0
+employees as servant,0.5
+gk mitter,0.5
+spring,0.58073694693413
+statutory authorities,1.7222222222222223
+dissolution,2.888888888888889
+participation,1.138392857142857
+structure,1.568520357497517
+corporations on profits,0.5
+corrective measures,0.4444444444444444
+other features of the council,0.5
+eminent,0.5370879120879121
+judicial pronouncements,1.8333333333333333
+contrast,0.5347903657448707
+effort,0.7536036036036036
+imprimatur,0.75
+p ramnath iyer,0.5
+authority for the purpose,1.0
+before a corporation,0.5
+lakh,1.3647388059701493
+utilisation of the industrial research fund,0.5
+writ jurisdiction,1.2142857142857142
+agency of natural persons,0.5
+khalid,0.4476744186046512
+present purposes,0.6666666666666666
+emphasis within the principles,0.5
+taluk board,0.5
+in many ways,0.3333333333333333
+tribunals,2.527472527472528
+food corporation of india v food corporation,0.5
+ajay hasia s case,0.0
+cumulative effect,1.5555555555555556
+majority approach,0.5
+phraseology,0.5142857142857143
+state adopt,0.6666666666666666
+that capacity,0.5714285714285714
+service disputes of the employees,0.5
+such as a branch,0.5
+expression  other authorities,0.0
+careful examination,1.0
+individuals,0.7198633479746219
+essential public importance,0.5
+memorandum,1.2142857142857144
+padicular statute,0.5
+value,1.7137907830478438
+includible,1.25
+new fact,0.8333333333333333
+broader view,0.5
+judicial decision on the subject,0.0
+silver jubilee edition,0.5
+research bodies,1.0
+hands  approach,0.0
+other activity,1.0
+for enforcement of statutory duties,0.5
+vital government function,0.5
+governments by industrialists,0.5
+junior stenographer,0.5
+j with greatest respect,0.5
+director general,0.9000000000000001
+state actions,0.5
+amaj,0.49411764705882355
+growth in this country,0.5
+expression  other authority,0.0
+ownsource of income,0.0
+origin to any padicular statute,0.5
+legislature,2.818553268765133
+ajay hasia test,0.5
+development of law,0.75
+test of instrumentality,0.5
+sainik school society,0.5
+fundamentals of constitutional jurisprudence,0.5
+capital of the csir,0.5
+birth by statutes,0.5
+comprehensive,0.7328125
+consideration of the authorities,0.5
+state conceptualisation,0.5
+societies,1.7085137085137085
+conduct,1.5998023165163158
+organisation,1.4034090909090908
+inferences to the tests,0.5
+share capital of csir,0.5
+indian statistical institute,1.0
+receipts from other sources,0.5
+conducting,0.9263888888888889
+governmental input,0.5
+overlap,0.6710310965630114
+inadequacy of the civil service,0.5
+argument,0.9504580388560493
+research in india,0.5
+exceptions,0.6478185993111366
+corporation,3.6427750743444176
+to different stage in the history,0.0
+third party,1.053291536050157
+controller,0.9038461538461539
+economic interests of the people,1.0
+operation subject to the financial control,0.5
+provisions of the constitution,1.8823529411764706
+juristic,1.0612244897959184
+relations by virtue,0.5
+all matter,0.5333333333333333
+judges,2.0931496919173616
+annual budget,0.25
+legal interest,0.4444444444444444
+products,1.6079404466501241
+paper,1.8076689487632511
+ality,1.3337109138326178
+school,1.2666111192798444
+indian penal code,5.264705882352941
+natural,1.0153721682847896
+pensions,0.8
+public benefit,0.45000000000000007
+assistance from the government,0.5
+final decision,0.4958677685950412
+categories of avenues,0.5
+off the judicial anvil,0.5
+hand,2.0299623418254717
+organization,1.1323094113464371
+question that action,0.5
+hindustan,1.85
+industrial research fund subject,0.5
+statutes,0.9659824046920822
+busines,2.8488759960122034
+industrial research fund,2.0
+administrative tribunals,2.0
+matters of high public interest,0.5
+appellant,14.387096774193548
+exclusive busines,0.5
+cause of action,2.1470588235294117
+expenditure,2.804307692307692
+precedential support,0.5
+regional,2.357638888888889
+different entity,0.0
+manager,1.7133044010756409
+vital government function from non-governmental functions,0.0
+corporate contrivance,0.5
+more than the fact that the government,0.5
+government servant,3.466666666666667
+clear that no notification under section,0.5
+such inferences,0.3333333333333333
+evasion,0.4864864864864865
+public,2.923239095873367
+new problems,0.5294117647058824
+new delhi,1.744186046511628
+provincial governments by industrialists,0.5
+agency of the corporation,0.5
+entire share capital,2.0
+answer,0.9554305705177771
+sanction,2.0167207792207793
+character like the oil,0.5
+logical sequitur,0.5
+certain advantages,0.5
+bai,0.9902499799051523
+other authority under article,0.5
+binding direction,2.3333333333333335
+administrative device,0.5
+tewary s decision,0.0
+alse general of csir,0.0
+central,2.61875
+that end,0.43768996960486317
+csir,11.98237885462555
+som prakash rekhi,3.0
+mere addition,0.5
+functions of the csir,1.0
+emphasis,0.8024289099526066
+following feature of ia,0.0
+serves,0.7192076550557208
+laboratories,0.912621359223301
+to government servant,0.75
+matter of a public nature,0.0
+mind between an instrument ality,0.5
+life insurance corporation,2.7142857142857144
+eminent jurist hmseervai in constitutional law,0.5
+prima view,0.5
+pursuant to the resolution,1.0
+breach whereof,0.5
+rajasthan state electricity board,2.5
+statutory corporation,2.6
+entity with power,0.5
+business of life insurance,0.5
+early days,0.25757575757575757
+fairness,0.5844155844155844
+finance,1.9582470669427192
+situation,1.1254754682459434
+preview of  state,0.0
+petitioner in the matter,0.0
+busines of public importance,0.0
+there siduary clause,0.5
+own word,0.34782608695652173
+observations,0.7454584147497534
+administrative,1.85302734375
+measures,1.126498218334953
+different stage in the history,0.0
+question in the context,0.5
+separate concurring opinion,0.5
+various other feature,0.5
+ali,3.7617236801781915
+constitution bench decision in rajasthan state electricity board,0.5
+relevant provisions of the indian penal code,0.5
+- governmental power,0.0
+pervasive control of the government,0.5
+disputes,2.3049883690876194

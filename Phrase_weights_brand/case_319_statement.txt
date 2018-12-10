@@ -1,0 +1,261 @@
+ganja,4.0
+seriousnes of the offence,0.0
+courts,2.1216528162511543
+fine,1.3204039558531748
+court inter alia,1.2
+samples,1.552941176470588
+relevant document,0.5714285714285714
+factum of lack,0.5
+police authority,1.0
+offence under section,2.6
+benefit,2.604810195438474
+element of the offence,0.5
+entire evidence,1.2307692307692308
+panch witness,1.1666666666666667
+regard to sentence,0.5
+remand,1.08843537414966
+asst,0.7373366013071895
+orders,1.4936359300077826
+conviction,2.248165832071736
+high court inter alia,1.0
+code,2.880559796437659
+panch,6.911111111111111
+fact that the proceedings,0.5
+poor family,0.5
+statement,2.5393160135035964
+read with section,2.3513513513513513
+alternative explanation,0.2857142857142857
+police,2.9749362629783356
+sentence,2.3896654193264366
+sub,7.816899313759727
+conscious possession of the ganja,0.5
+arguments of the parties,0.75
+criminal appeal,2.5675675675675675
+kilograms of ganja,1.0
+charge,2.7679815308681284
+seriousnes,0.5777777777777777
+inter,3.683850287482992
+hyderabad,2.5833333333333335
+high,5.367119186841496
+under section,5.374517374517374
+high court of andhra pradesh,1.5
+pradesh,4.365853658536586
+court,12.24425115501509
+custody,1.4166666666666667
+file,1.3720673638585223
+exclusive possession,1.0
+kilograms,0.782608695652174
+permit,1.2568972835314092
+contraband,1.4857142857142858
+narcotic drugs,1.1666666666666667
+learned,3.406323898681099
+relevant documents,0.6000000000000001
+defense,0.3739398612181958
+argument of the parties,0.0
+contention of the learned counsel,1.0625
+arguments,0.7212211466865226
+interference,0.5733527484528578
+trial court,3.854545454545455
+substances,0.7777777777777778
+bail,2.0427807486631013
+seriousness of the offence,0.8
+allegations,1.8333333333333335
+impugned judgment,2.0927152317880795
+consideration,1.9110153789142115
+time,2.4764180952862667
+quantity,0.9457720588235292
+for the presence of ganja,0.5
+light of the appellant,0.6666666666666666
+reasonable doubt,0.8638838475499093
+house with the assistance,0.5
+record reveals,0.6666666666666666
+socio - economic condition,0.0
+copy of the relevant documents,0.0
+allegation,1.834319526627219
+illegal possession,0.6666666666666666
+light of the facts,0.8
+police authorities,0.5714285714285714
+criminal,3.301971081989414
+documents,1.142515923566879
+ownership,1.1522633744855968
+appellant s contention,0.0
+house by pw-,0.0
+opinion,1.4960606342789635
+order of conviction,1.3
+psychotropic,0.8
+aforesaid,2.592896174863388
+psychotropic substances act,0.8
+responsible for the presence of ganja,0.5
+andhra,4.830188679245283
+panch witnesses,1.0
+sample,1.7733348061416105
+house,2.0021735292386764
+appeal,3.4125488033856883
+appellant under section,1.4375
+family,1.856281506375408
+witness,5.333906623599983
+search,1.156007562422583
+prosecution,4.619407894736842
+contra,3.550142721217888
+in the presence of pws,0.6666666666666666
+authority,2.4352627108360636
+sheet,1.1667364016736401
+fact that the appellant,1.05
+provisions,3.8929824561403508
+appellant s statement,0.0
+file as cc,0.5
+material,1.4148767018946966
+procedure,2.552771605064117
+jurisdictional police authority,0.0
+read,2.2147281730888695
+information,1.1320502836800534
+record,2.5393414390845273
+nagarkurnool,0.5
+imprisonment,1.4344262295081966
+seizure of the ganja,1.0
+polouse,0.0
+substance,0.8230581678857541
+possession of ganja,0.5
+pws,1.5484615384615386
+counsel,2.2246780703440323
+sub - inspector,0.0
+year,2.8349484769759212
+provision,5.439002243350069
+alia,0.9479866480753792
+argument,0.9504580388560493
+regard to the question,1.0
+mere fact,0.6
+lis,3.299683526578166
+authorities,1.266131845134287
+witnesses,3.359210526315789
+judgment,3.288216560509554
+factum,1.125
+essential element,0.5142857142857143
+presence of ganja,0.5
+same in the presence of pws,0.5
+father,1.4298716229162676
+fact,3.6284951019474962
+order,5.472481489660944
+other material on record,0.6666666666666666
+owner,2.9502416709822197
+duration,0.6373626373626373
+learned counsel,3.703333333333333
+act,12.870263922028107
+testimonies of pws,0.6666666666666666
+court of andhra pradesh,1.5
+rigorous imprisonment,1.9230769230769231
+evidence on record,2.7906976744186047
+circumstances of the case,1.3373493975903614
+house at the time,1.0
+assistance,0.8623872906826965
+large quantity,0.6666666666666666
+sole possession,0.5
+presence of pws,0.75
+learned counsel for the parties,1.263157894736842
+seriousness,0.5777777777777777
+submissions,0.5235745614035088
+explanation,1.4510159010600707
+prosecution s case,0.0
+than a decade,0.5
+more than a decade,0.5
+hyderabad in criminal appeal,1.0
+andhra pradesh,4.857142857142857
+violation of the mandatory provisions,0.6666666666666666
+material on record,1.40625
+criminal procedure,6.406779661016949
+possession,2.808810857389056
+poor socio-economic condition,0.0
+sole presence,0.5
+evidence,3.6676405172088815
+document,1.401100265092073
+sufficient material on record,0.5
+testimonies,1.105263157894737
+possession of the ganja,1.5
+circumstances,1.3944461370073231
+trial court in cc,0.5
+appellant,14.387096774193548
+other material,0.6175438596491228
+copy,0.8620926631522174
+drug,5.000164190132173
+custody forthwith,1.0
+essential element of the offence,0.5
+conscious possession,4.5
+excise,4.429175475687103
+copies of the relevant documents,0.5
+substances act,0.8333333333333334
+high court,7.7477477477477485
+appellant s father,0.0
+circumstance of the case,0.5
+parties,1.8210828547990157
+entire evidence on record,1.1666666666666667
+learned counsel for the appellant,1.7884615384615385
+state,6.817996007300392
+doubt,1.3646267723102583
+case,7.332269420884958
+mere fact that the appellant,1.0
+period,1.9480170842427122
+error,1.059158294766151
+light,0.8816192372754331
+years,2.5395804110508022
+sufficient material,1.0
+section,9.287987283173626
+charge - sheet,0.0
+trial,3.7979448350459712
+drugs,2.4423997055576008
+code of criminal procedure,6.120689655172414
+material on record reveals,0.5
+pw-,0.0
+period of the sentence,0.5
+narcotic,0.7792207792207791
+copies,0.5369304682962884
+testimony of pws,0.0
+infirmity,1.3095238095238095
+party,2.2250894654439723
+condition,2.259476395625584
+judgments,1.2355646397547266
+socio,0.5934684684684685
+mandatory provision,1.5454545454545454
+appeal before the high court inter alia,0.5
+circumstance,1.429931390219372
+kilogram,1.0947368421052632
+case beyond reasonable doubt,0.6666666666666666
+therefore,2.960332350576253
+reliable information,0.28571428571428575
+present case,1.5611814345991561
+element,0.7062328407033122
+valid license,0.5
+mandatory provisions,1.375
+contention,1.666391070690368
+prosecution case,4.258064516129032
+investigation,1.6673076923076922
+regard,2.723310344827586
+appellant s case,0.0
+proceedings,1.7670925223666287
+seizure,0.6583598956824108
+license,2.9365546218487393
+testimony,1.4407553107789142
+fact that the proceeding,0.5
+light of the aforesaid,1.0
+benefit of doubt,1.8
+record reveal,1.0
+decade,0.5014409221902018
+narcotic drug,1.3333333333333333
+violation,1.2087401208740118
+presence,0.9604834261070158
+offence,4.401610644257703
+quantity of ganja,1.0
+facts,1.4696673624372698
+jurisdictional police authorities,0.6666666666666666
+respondent,4.757894736842104
+kilogram of ganja,0.0
+alternative,0.841508109794136
+duration of sentence,0.5
+submission,1.0913871684001404
+superintendent,1.2698412698412698
+inspector,1.2705882352941176
+- for the offence under section,0.0
+violation of section,1.1
+opinion that the judgment,0.8333333333333334
+question,2.980312372067635
+respondent - state,0.0
+lack,0.6349809734425119

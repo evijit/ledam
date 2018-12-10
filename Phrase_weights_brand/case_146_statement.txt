@@ -1,0 +1,383 @@
+enactment,1.439950980392157
+waiver,2.9163398692810456
+backdrop,0.5833333333333334
+accordance with section,0.8571428571428572
+palanisamy,1.2
+corollary,0.5
+sight,0.6194871794871795
+eviction of tenants,0.75
+frame,1.023976722714937
+constitution of india,3.0095238095238095
+reasons,1.3749054007567938
+decisions of this court,1.8225806451612903
+matters,1.4810665618448637
+meaning,1.8612727545949643
+statutory provisions,1.6764705882352942
+person within a specified time,0.6666666666666666
+rent control statutes of other states,0.5
+court,12.24425115501509
+notice of any precedent,0.5
+patna high court,1.4166666666666667
+person,4.291511329454258
+ors,2.8612718198296623
+cause,1.8431210321626654
+way,1.7812722068664852
+correctness,0.8404159132007234
+public officers,0.8333333333333334
+benefit of the tenants,1.0
+respect to public officers,0.75
+part,5.294464509893076
+full bench,5.0
+following grounds,1.0
+suit on the ground,0.6666666666666666
+present appeal,1.3424657534246576
+aspect,1.2449448189023034
+shri,2.0759135877246115
+decisions,1.3888475974580996
+correct view of the law,0.5
+decision,2.9514937765898557
+contrary,1.027917657672435
+landlord,3.643181818181818
+cause of action arose,0.6666666666666666
+rent control statute of other states,0.0
+aspect of the matter,1.4642857142857142
+kandu,1.0
+correctnes,0.8404159132007234
+appeal,3.4125488033856883
+public officer,1.0
+months rent,0.5
+existent,0.4743589743589744
+month,1.3454861111111112
+alia,0.9479866480753792
+judgment,3.288216560509554
+subject,2.4420366233344897
+order,5.472481489660944
+act,12.870263922028107
+smt,0.7459757206267715
+directory,0.8230452674897119
+surendra,0.5714285714285714
+such contract,0.875
+gowli,0.5
+first appellate court,3.727272727272727
+full bench of patna high court,0.5
+patna,2.3421052631578947
+two-judge bench,0.0
+manner,1.4494591333432125
+public functionary,0.75
+mere acceptance,0.75
+bench of patna high court,0.6666666666666666
+section,9.287987283173626
+bench decision of the high court,0.6666666666666666
+correct law,0.9230769230769231
+january,0.8699641577060931
+consequence,0.8726692512593296
+airpat in view,0.5
+place,2.333104345208554
+officers,2.442124212421242
+public function,1.1428571428571428
+mean,2.390645692553228
+matter to a bench,0.8
+regard,2.723310344827586
+upadhyay,0.5333333333333333
+direction,1.8495050210098996
+enterprises,0.948060941828255
+private person,0.6000000000000001
+stipulated time,1.5833333333333333
+control,2.148867902684286
+jtsc,0.4444444444444444
+rent legislation,0.75
+basi,2.0752712086391383
+leave petition,2.013333333333333
+- compliance,0.0
+further time,2.1666666666666665
+act xiv,0.5
+contract,6.227349970404598
+mandatory,0.9610983981693365
+benefit,2.604810195438474
+today,0.6330563683773655
+non-compliance,0.0
+individual,1.1485140562248994
+cost,1.2954397451466992
+last day,1.0611764705882354
+following ground,1.0
+of the following grounds,1.0
+basis,1.953226441078104
+eviction,4.764705882352941
+by the tenant,3.5
+direction to private individuals,0.75
+lakshmi,0.942857142857143
+private individuals,0.6111111111111112
+grounds,0.9540208829455945
+correct view,1.0
+officer,3.1197242647058823
+directory unless the consequences,0.6666666666666666
+habitual default,0.5
+function within a time - frame,0.0
+ground,1.4186722903211633
+other case,0.6654088050314465
+jurisdiction under article,1.2857142857142858
+aforesaid reasons,1.1379310344827587
+function,1.6326372491145218
+rent for the period,0.6666666666666666
+matter,2.8088923076923082
+tenant,4.821212121212122
+article,4.378806157159795
+rent,2.460251217077583
+enterprise,0.921565795175502
+gowali charan v surendra kumar khandani,0.5
+aforesaid reason,1.1176470588235294
+appellants,7.701086956521739
+view,2.441100058469462
+full bench decision,1.7272727272727273
+opinion,1.4960606342789635
+conflict,1.314561353483509
+private person within a specified time,0.6666666666666666
+merit,1.2419290263876248
+plr,0.4691501746216531
+tenants through the relevant statute,0.75
+eviction under section,0.75
+second appeal,4.5
+result,1.3356630184144715
+bihar,4.587301587301587
+opinion of this court,0.6666666666666666
+present appeal by means,0.5
+provision,5.439002243350069
+respect,2.6704963235294117
+legislation,3.2032032032032034
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+tenants,0.8391608391608391
+statutory direction,0.75
+expression,1.7424391201885312
+building,3.870745432459903
+such cases,0.7390180878552971
+lakshmi venkateshwara enterprise,0.75
+kumar,2.028839704896043
+prasad,1.1407089151450054
+same time,0.6913511801045461
+beneficial enactment,0.75
+other word,0.758838674565131
+necessity,0.7072538860103627
+expression in the statute,0.75
+rent control statutes,0.6666666666666666
+appeal by means,0.5
+such case,0.7332761578044598
+private individual,0.6111111111111112
+exercise,1.9400726466785694
+last day of the month,2.3333333333333335
+principle,1.9620890732001848
+anything,0.9132309941520469
+judgment under challenge,0.9
+corollary of the rule,0.75
+factor,1.2878742338904643
+absence thereof by the last date,0.5
+subject to the provisions of the industrial disputes act,0.5
+months rents,0.5
+time - frame,0.0
+decree,3.732408834103749
+division bench,3.965217391304348
+enactment for the tenant,0.75
+date,6.195616975795285
+merit in the argument,0.5
+syeda,0.75
+accordance,1.4069045211613462
+rent control act,3.4444444444444446
+default,0.7094574436346588
+day,1.550999710228919
+question,2.980312372067635
+expression  wilful default,0.0
+other states,1.3494318181818181
+execution,1.3041894353369763
+mere acceptance of delayed rent,0.5
+place in such matters,0.75
+scmanu,7.940520446096654
+word,2.065873981084096
+provision of the industrial disputes act,0.0
+aforementioned backdrop,1.0
+tenants through the relevant statutes,0.75
+months,1.1938163721148947
+amount,3.179688593072295
+february,0.8575630252100839
+other words,0.7578482137053969
+relevant statutes,0.75
+begum,0.717948717948718
+toward,1.0255939365170768
+high,5.367119186841496
+payment,2.059553716565686
+event,1.4310854436179261
+absence of such contract,0.5
+learned,3.406323898681099
+states,1.5120646995827023
+absence thereof,0.6666666666666666
+suit,2.485274378207659
+appellate court,3.1458333333333335
+airpat,0.6666666666666666
+gowali,0.5
+law,3.538923411654744
+trial court,3.854545454545455
+statutory construction,1.0
+charan,1.1111111111111112
+time,2.4764180952862667
+cases,1.9728229418951067
+division,1.7657319129617017
+obligation on the part,0.8888888888888888
+plaintiff,2.177926421404682
+lrs,0.46643518518518523
+inter alia on the ground,1.2380952380952381
+bihar buildings,1.0
+rent in the manner,0.5
+venkateshwara,0.8
+delayed rent,0.5
+right,3.07483248288682
+hereinafter,0.7670609645131939
+bihar building,1.5
+view of the law,0.5142857142857143
+satyanarain,1.0
+vajuninissa,0.5
+statutory provision,1.1638418079096045
+absence,1.092363454568179
+counsel,2.2246780703440323
+india,2.7684068260703585
+regard to the fact,1.5862068965517242
+full bench decision of the high court,0.6666666666666666
+consideration of the correctness,0.5
+industrial,5.673304955913652
+benefit of the landlord,1.0
+such matter,0.645933014354067
+acceptance,1.4762112614578786
+ltd,2.382356477306883
+day of the month,1.4000000000000001
+dispute,2.402137592137592
+beneficial enactment for the tenant,0.75
+action arose,0.6666666666666666
+special leave petition,2.013333333333333
+sutherland,0.2990506329113924
+consequences,0.6659897713598075
+decision of this court,2.3260869565217392
+plaintiff to a decree,0.5
+bhmanu,1.1111111111111112
+directory unless the consequence,0.6666666666666666
+statutory direction to private individuals,0.75
+compliance,1.0029799914857385
+case,7.332269420884958
+entire rent,0.5
+period,1.9480170842427122
+fact that no consequences,0.75
+basi of strict compliance,0.0
+scc,1.941872465904902
+satyanarain kandu,1.0
+edition,0.9664589349951868
+lease,1.2000155472636815
+constitution,3.204842342342342
+such matters,0.672514619883041
+singh,3.7791111111111113
+arrear,1.4666666666666666
+strict compliance,1.4444444444444444
+element,0.7062328407033122
+non-compliance with the provision,0.0
+inter alia,1.3280423280423281
+rule,5.04
+- compliance with the provision,0.0
+bench,2.5793391667754992
+other cases,0.6446886446886447
+personal necessity,1.3333333333333333
+pvt,0.8625817965496728
+leave,1.0147842365477848
+costs,0.8167395522604189
+decreed,0.6136363636363636
+relevant statute,0.8
+disputes,2.3049883690876194
+uchit narain,0.5
+xiv,1.676245210727969
+notice,2.3300025999395686
+acceptance of delayed rent,0.5
+therewith,0.6394230769230769
+power,3.8165227690948367
+ltd v syeda vajuninissa begum,0.5
+bench of this court,1.8271604938271604
+control act,2.0040485829959516
+reason,2.6381270903010035
+lakshmi venkateshwara enterprises,0.75
+vol,1.8556860549079708
+basis of strict compliance,0.75
+more of the following grounds,1.0
+petition,5.3436539306104525
+construction,2.2504918032786887
+consideration,1.9110153789142115
+execution of a decree,0.8571428571428571
+rent control statute,0.6666666666666666
+individuals,0.7198633479746219
+words,1.6384367086179112
+rent within the stipulated time,0.5
+statutory,2.0326923076923076
+plea,1.4430487701432178
+bench decision,2.317073170731707
+singh manubhmanubh,0.5
+action arises,0.5
+opinion that the high court,1.0
+plea of wilful default,0.5
+camp,1.917373271889401
+challenge,1.2204566274399267
+judge,2.9012627415183325
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+last date,1.9285714285714286
+payable by the tenant,1.0
+other state,1.851851851851852
+argument,0.9504580388560493
+satyanarain kandu v smt,1.0
+uchit,0.37037037037037035
+narain,0.4978662873399715
+judges,2.0931496919173616
+page,1.011907905159212
+industrial disputes act,4.1875
+appeal of landlord,0.5
+equitable consideration,0.8333333333333334
+division bench of this court,1.4545454545454546
+wilful default,1.0
+gowli charan v surendra kumar khandani,0.5
+hemlata,1.2
+arrears,2.3209876543209877
+means,1.3868295182781003
+statutes,0.9659824046920822
+possession,2.808810857389056
+mr upadhyay,0.5
+of the following ground,1.0
+cause of action,2.1470588235294117
+obligation,1.1071428571428574
+appellant,14.387096774193548
+entire rent for the period,0.5
+default in payment,2.0
+provisions of the industrial disputes act,1.4
+functionary,0.5714285714285714
+high court,7.7477477477477485
+suit for eviction,2.0
+public,2.923239095873367
+learned counsel for the appellant,1.7884615384615385
+state,6.817996007300392
+statute,2.5765859456247218
+jurisdiction,2.9539571926331507
+trial,3.7979448350459712
+raj kumar prasad v,0.5
+specified time,1.2222222222222223
+law within the meaning,0.8
+manu,7.078142071124147
+public function within a time - frame,0.0
+action arise,0.5
+disputes act,4.1875
+airsc,1.6909090909090911
+khandani,0.4444444444444444
+possession of any building,0.6666666666666666
+buildings,1.3041267942583734
+khare,1.0
+precedent,0.8982341399607586
+raj,1.3364194424876723
+rents,1.509324009324009
+cause of action arises,0.5
+directory construction,1.5
+action,3.127292663476874
+e palanisamy,0.75
+landlord by a tenant,0.5
+therefrom,0.673076923076923
+thing,1.1131787570209408
+fact that no consequence,0.75

@@ -1,0 +1,84 @@
+matter,2.8088923076923082
+concern,2.0544958000579303
+principle,1.9620890732001848
+civil appeals,1.24
+tribunal that the principle,0.5
+cross,2.0778316690442225
+findings,1.049571253572887
+finding of the vice president,0.0
+findings of the vice president,0.5
+tribunal that the principles,0.5
+goods,4.7578125
+cost,1.2954397451466992
+order,5.472481489660944
+orders,1.4936359300077826
+central excise duty,0.75
+notice,2.3300025999395686
+learned counsel,3.703333333333333
+representative,1.0617102796119673
+appropriate amount of central excise duty,0.5
+appeals,1.7060218112849692
+amount of central excise duty,0.5
+amount,3.179688593072295
+book of account,0.0
+justice,2.292557084574302
+request by the assessee,0.5
+such request,1.125
+president,2.1267129228100607
+finding,1.8129183657767178
+books of account,3.3
+logic of such request,0.5
+cross-examination,0.0
+assessee,15.925925925925926
+request,1.1474439594584596
+logic behind the request,0.5
+opinion,1.4960606342789635
+members of the tribunal,0.8
+logic,1.091578947368421
+reply to the show cause notice,1.0
+reply,1.0337305560040906
+member of the tribunal,0.5
+show cause notice,2.9565217391304346
+concerns,0.9134645423305218
+examination,2.4920345926263088
+tribunal,5.07183212267958
+vice,3.766984711894892
+goods in question,1.25
+appropriate duty,0.6666666666666666
+order of the vice president,0.5
+additional collector,0.5
+appropriate amount,0.4444444444444444
+appeal,3.4125488033856883
+order of the authorities,0.5
+lacunae,1.2
+members,1.9437616522164103
+natural justice,2.6666666666666665
+vice president,0.6538952745849297
+collector,1.8095238095238093
+account,2.5754891049671977
+order under appeal,1.0
+okhla,0.5
+good,2.6154941054299674
+duty,3.2272215973003378
+authority,2.4352627108360636
+orders of the authorities,0.6666666666666666
+book,0.7435955668604651
+opinion arose,0.5
+civil appeal,2.2413793103448274
+books,0.8894824707846412
+representatives,0.8874021711688966
+member,2.649111111111111
+difference of opinion,0.5833333333333334
+excise duty,5.818181818181818
+counsel,2.2246780703440323
+difference,0.8774847235514982
+show,1.5002130552117363
+costs,0.8167395522604189
+cros,1.8137948361162648
+cause,1.8431210321626654
+difference of opinion arose,0.5
+good in question,0.0
+novo,0.6
+question,2.980312372067635
+principles,1.3198511166253102
+authorities,1.266131845134287

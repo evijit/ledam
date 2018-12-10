@@ -1,0 +1,230 @@
+permanent alimony for the respondent,0.5
+entire dispute,0.4444444444444444
+courts,2.1216528162511543
+student - councillor,0.0
+execution,1.3041894353369763
+party in various courts,0.0
+appellant - father,0.0
+that view of the matter,1.553191489361702
+thanks,0.3647830474268416
+attempt,0.7943782192788815
+today,0.6330563683773655
+mediator of the supreme court mediation centre,0.5
+mrs,0.4085714285714286
+future maintenance for the child,0.5
+petitioner,4.524972253052164
+cost,1.2954397451466992
+execution petition,1.0
+daughter-sanjana,0.0
+amounts,0.9789856139834046
+alimony,1.0
+other consequence,0.30000000000000004
+mediation,0.4571428571428572
+favour of the daughter-sanjana,0.0
+appeals,1.7060218112849692
+v surekha arun sawant,0.5
+high court of judicature,1.4210526315789473
+months,1.1938163721148947
+amount,3.179688593072295
+contempt petition,2.0714285714285716
+daughter - sanjana,0.0
+contempt,1.5446913580246913
+amicable settlement,1.5
+directions,1.5134125183504605
+maintenance,0.8632111808077473
+which agreement,0.5
+various courts,0.8
+best interests,1.3333333333333333
+thanks to the cooperation,0.75
+amount of rs,1.5806451612903225
+non-working saturday,0.0
+saturday,0.8641975308641976
+further payment,1.0
+thirty,0.8259303721488596
+magistrate,3.522077922077922
+half year from today,0.0
+cooperation,0.8318725099601593
+visitation rights of the appellant - father,0.0
+non-working saturday in a month,0.0
+liable for contempt of this court,0.5
+high,5.367119186841496
+payment,2.059553716565686
+members,1.9437616522164103
+interest,2.74353772015385
+court,12.24425115501509
+hinge,0.4104627766599598
+custody,1.4166666666666667
+visitation rights,0.6666666666666666
+lakh,1.3647388059701493
+parties in various courts,0.5
+violence case,0.5
+saturdays,0.4
+agreement,3.450434632433366
+payment of rs,1.2857142857142858
+child,3.0202810640613067
+petition,5.3436539306104525
+non-working saturdays,0.0
+contempt of this court,0.5
+ors,2.8612718198296623
+respondent - surekha keru pimparkar,0.0
+daughter within a span,0.5
+way,1.7812722068664852
+thane,0.6447368421052632
+observation,0.7625074854374218
+best interest,1.6516129032258065
+councillor,4.0
+towards alimony,0.5
+cases,1.9728229418951067
+matter,2.8088923076923082
+- father,0.0
+sides,0.6706755273269035
+bombay,2.3134020618556703
+cma,2.5578857910464126
+other consequence of interest etc,0.0
+various suggestions,0.5
+above courts forthwith,0.5
+further payment of rs,0.6666666666666666
+surekha arun sawant v,2.0
+thank to the cooperation,0.0
+following cases,0.4761904761904762
+months from today,1.0
+supreme court mediation centre,0.5
+factual details,0.6666666666666666
+view,2.441100058469462
+other consequences of interest etc,0.5
+arun baban,3.0
+side,3.88845645915565
+suggestions,0.7508630609896433
+court mediation centre,0.5
+metropolitan magistrate,3.8461538461538463
+thank,0.8803466333008944
+abovementioned amounts,0.5
+copy of this judgment,0.875
+favour of the respondent-surekha keru pimparkar,0.0
+draft,1.1403225806451613
+metropolitan,1.3088642659279779
+way of a demand draft drawn,1.5
+sawant v surekha arun sawant,0.5
+appeal,3.4125488033856883
+keru,0.7363636363636363
+family,1.856281506375408
+right,3.07483248288682
+kurian,0.9655172413793104
+above observations,1.0714285714285714
+student,1.2777711454664835
+court of judicature,1.4210526315789473
+various suggestion,0.5
+sanjana,1.5
+details of the case,0.6666666666666666
+visitation right,0.6666666666666666
+visitation right of the appellant - father,0.0
+rupees thirty lakhs,0.5
+counsel,2.2246780703440323
+month,1.3454861111111112
+year,2.8349484769759212
+factual detail of the case,0.0
+span,0.44044222539229666
+half years,0.4800000000000001
+regard to the background,0.6666666666666666
+jmfc,0.4444444444444444
+respondent - mother,0.0
+month from today,0.8333333333333334
+interest etc,0.4444444444444444
+daughter-sanjana in the presence,0.0
+judgment,3.288216560509554
+non-working saturdays in a month,0.0
+various court,0.8
+view of the above,1.1764705882352942
+father,1.4298716229162676
+regard to the various suggestions,0.5
+lakhs,2.046511627906977
+visitation,0.606060606060606
+demand draft drawn,1.5
+half year,0.48148148148148157
+surekha keru pimparkar v,0.5
+new,0.9418497626301229
+background,0.6800452488687784
+learned counsel,3.703333333333333
+school,1.2666111192798444
+family members,1.2631578947368423
+maintenance to the respondent-mother,0.0
+family court appeal,0.5
+narhari,0.5
+baban sawant,3.0
+interests,1.0562317935913441
+iii,1.5614499719992534
+centre,1.3584842944989197
+rupee,2.2291666666666665
+maintenance for the child,0.6666666666666666
+dispute,2.402137592137592
+view of the settlement,0.75
+demand,1.5671679197994988
+appellant,14.387096774193548
+consequences,0.6659897713598075
+factual detail,0.6666666666666666
+permanent alimony,0.5
+copy,0.8620926631522174
+supreme,1.443815331010453
+half years from today,0.5
+detail of the case,0.0
+suggestion,1.2425592585991803
+surekha,3.3333333333333335
+manner,1.4494591333432125
+mother,1.5057341472881893
+high court,7.7477477477477485
+detail,0.9737454684220567
+member,2.649111111111111
+future maintenance,0.6666666666666666
+daughter,1.0364906832298135
+parties,1.8210828547990157
+pimparkar,1.5
+entire disputes,0.6666666666666666
+case,7.332269420884958
+years,2.5395804110508022
+factual details of the case,0.5
+rupees thirty lakh,0.5
+party,2.2250894654439723
+following case,0.4761904761904762
+joseph,0.4502673796791444
+family court at thane,0.5
+consequence,0.8726692512593296
+details,0.9406426856198188
+mediator,0.375
+bhimaji hinge v mrs  surekha arun sawant,0.0
+domestic violence case,0.5
+settlement,1.6881394467601363
+other consequences,0.5
+arun,0.9503105590062112
+following manner,0.5555555555555556
+judicature,1.4210526315789473
+bhimaji,0.5
+regard,2.723310344827586
+for contempt of this court,0.5
+narhari bhimaji hinge v mrs surekha arun sawant,0.5
+registry,0.510662177328844
+favour,1.653145208700764
+vikhroli,0.5
+family member,1.0924657534246576
+above observation,0.6530612244897959
+consequences of interest etc,0.5
+direction,1.8495050210098996
+sawant,3.0
+family court,8.285714285714286
+rights,1.6349541930937281
+observations,0.7454584147497534
+alimony for the respondent,0.5
+rupees,2.311111111111111
+presence,0.9604834261070158
+baban,3.0
+respondent,4.757894736842104
+kurian joseph,0.9655172413793104
+violence,1.524896265560166
+leave,1.0147842365477848
+consequence of interest etc,0.0
+costs,0.8167395522604189
+default,0.7094574436346588
+mumbai,1.8484848484848484
+abovementioned amount,0.5
+regard to the best interests,0.5
+disputes,2.3049883690876194
+bombay at mumbai,1.0

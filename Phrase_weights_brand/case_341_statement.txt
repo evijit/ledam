@@ -1,0 +1,744 @@
+courts,2.1216528162511543
+advocate for the petitioner,0.0
+terms of the joint memorandum,0.5
+necessary document,0.6666666666666666
+non - defaulting party,0.0
+total consideration on account,0.5
+accused,10.856353591160222
+east,0.8065147296612034
+other item,0.5263157894736842
+causes,0.5569620253164557
+andor interest,1.0
+full co-operation,0.0
+seventy,0.5561497326203209
+engraved name,0.5
+estate of the late sarala bhaskar,0.5
+declare,1.52
+viz,0.7732570026579433
+undertakes,0.37499999999999994
+filing,1.1274190041313328
+undertake,1.0802139037433154
+sections,1.640495469442838
+terms,2.390350840909655
+interim order,2.9166666666666665
+bedroom in the suit,0.0
+till final disposal of the suit,0.5
+consequences thereof,0.5
+agents,0.7901234567901235
+kin,2.5393682433471243
+authorized representative,1.0
+paragraph-,0.0
+pass,2.510543963686946
+failure,0.7827962142086977
+interest,2.74353772015385
+- arun bhaskar adarkar,0.0
+goolestan tenants group,1.5
+court,12.24425115501509
+correspondencemail,0.5
+debts,3.3101851851851856
+defense,0.3739398612181958
+other authority,1.0666666666666667
+objection,1.68120480131216
+person,4.291511329454258
+- in terms of clause,0.0
+namdeo adarkar,1.5
+allegations,1.8333333333333335
+cause,1.8431210321626654
+receipts,1.884057971014493
+silver thalis,0.5
+part,5.294464509893076
+magistrate at esplanade court,1.0
+record before the bombay,0.5
+agrees,0.484375
+such payment,1.2
+criminal complaint,1.7
+bombay,2.3134020618556703
+central bank,0.9000000000000001
+to such negotiation between the parties,0.5
+respondent-mina srinivasan krishnan,0.0
+interim orders,1.5238095238095237
+share,2.560794932990637
+other claim,0.3555555555555555
+differences,0.653125
+true copy,1.25
+respective heirs,1.0
+days of the payment,0.6666666666666666
+croree,0.5
+penal consequences thereof,0.5
+share of the estate,1.0
+subject matter,1.2537313432835822
+negotiation between the parties,0.5
+civil nature,1.3333333333333333
+rent  maintenance charges,0.0
+landlord,3.643181818181818
+aforesaid,2.592896174863388
+claim,2.817264601856604
+third parties,0.4090909090909091
+transfer,1.9975047057658015
+appeal,3.4125488033856883
+fiona,1.0
+personal belongings as aforesaid,0.5
+court of judicature,1.4210526315789473
+interest in the shares,0.5
+breach,1.3366228070175439
+specified entities of the change,0.5
+silver item,0.5
+payment of the amount,1.3
+correspondence,0.8633776091081593
+such terms,0.5333333333333333
+late ms sarala bhaskar adarkar,0.5
+month,1.3454861111111112
+tenancy right to the suit,0.0
+future rentmaintenance charges,0.5
+court officer,0.5
+executors,0.6666666666666666
+obligations,0.9121212121212122
+- elder brother,0.0
+notice in motion,0.5
+- elder brother of respondent,0.0
+specified entities,0.5
+liable for the penal consequences thereof,0.5
+chambers,0.4444444444444444
+detailed order,0.875
+such negotiation,0.5
+claims,1.1941982272360998
+lock,0.6127820822424298
+time to time,1.0211267605633803
+maintenance charges,1.3333333333333333
+subject,2.4420366233344897
+family settlement hand,0.5
+lakhs,2.046511627906977
+order,5.472481489660944
+addres,0.7140043587773987
+receipt of payment,1.6666666666666667
+crores,6.931034482758621
+further complaint,0.5
+parties as regards resolution,0.5
+virtue of the present joint memorandum,1.0
+consideration of these presents,0.5
+belonging,1.234539624370133
+aforesaid consideration viz,1.0
+hereto,1.1302083333333333
+in mumbai,1.0
+appeal in such terms,0.5
+limited to criminal case,0.5
+adarkar,9.0
+necessary documents,0.6666666666666666
+effect,2.184583388478191
+address for correspondencemails,0.5
+copy,0.8620926631522174
+completion,1.1868131868131868
+agent,1.406335913378167
+thalis,0.5
+effect to the understanding,0.5
+future rentmaintenance charge,0.5
+term of clause,0.0
+consideration on account,0.5
+mother,1.5057341472881893
+member,2.649111111111111
+order against the erred person,0.5
+parties,1.8210828547990157
+chamber,0.5741626794258373
+faith,0.6832428364066448
+krishnan,1.5098039215686272
+other court,0.7500000000000001
+godrej,0.6666666666666666
+section,9.287987283173626
+joint memorandum of family settlement hand,0.5
+convenient date,0.5
+small causes court,0.6666666666666666
+companies,2.2664576802507836
+personal belongings,1.5
+honble court in terms,2.0
+joint memorandum,10.5
+condition,2.259476395625584
+mr bhaskar,1.0
+court in terms,1.4
+consequence,0.8726692512593296
+specified entity,0.0
+letters in terms,0.5
+representative,1.0617102796119673
+term of annexure iii,0.0
+hereof,2.047222222222222
+communication against each other andor,0.5
+place,2.333104345208554
+central bank of india vault andor,0.5
+agreed consideration,0.5
+silver items,0.5
+postal correspondence,1.0
+letter to the landlord,0.5
+investigation,1.6673076923076922
+judicature,1.4210526315789473
+regard,2.723310344827586
+east wing,0.5
+co - operation,0.0
+direction,1.8495050210098996
+estate of the deceased sarla bhaskar adarkar,0.5
+bedrooms in the suit,0.5
+maintenance receipt,0.5
+rights,1.6349541930937281
+claim towards diamond earring,0.5
+item,1.3319648896447913
+regards,0.9072861236185019
+month from the date,1.2222222222222223
+items of jewellery,0.5
+lodging,0.8205128205128205
+rent receipts,2.2
+entire cost of respondent,0.5
+parents,1.8852093189324288
+july,0.9742727723122656
+discharge,1.305219638242894
+mumbai,1.8484848484848484
+form,2.4865961263718424
+executor,1.0
+writing,1.1746753246753248
+vault,0.2125
+date of payment,1.8
+removalclearance of all personal belongings,0.5
+entire cost,0.7999999999999999
+days,1.6721350893491447
+bombay in appeal,0.5
+pursuant to such negotiation between the parties,0.5
+discharge as an executor,0.5
+addres for correspondencemails,0.0
+petitioner,4.524972253052164
+direction in terms,0.0
+neither party,1.25
+respect of the estate,1.0
+hereto as annexure,1.3333333333333333
+vice versa,0.7526881720430109
+orders,1.4936359300077826
+esplanade,1.7142857142857142
+cost,1.2954397451466992
+respective obligation,0.5
+family settlement as a decree,0.5
+contempt,1.5446913580246913
+appellant - elder brother,0.0
+directions,1.5134125183504605
+maintenance,0.8632111808077473
+honble court,2.4444444444444446
+magistrate,3.522077922077922
+charge,2.7679815308681284
+report of the court officer,0.5
+company,5.864471879286695
+cognizance of this joint memorandum,0.5
+wife of the petitioner,0.6666666666666666
+cognizance,1.728
+presents,0.665973810018707
+officer,3.1197242647058823
+tenancy rights,2.3333333333333335
+andor objection of any nature whatsoever,0.5
+charges,2.061307113938693
+sale of assets,0.5
+complaints,0.9978858350951374
+conditions of this consent terms,0.5
+letters,2.0877496159754223
+memorandum of family settlement hand,0.5
+crore,4.747474747474747
+petitioner undertake,0.5
+multinational bank,0.5
+terms of the draft letter,0.5
+erred person,0.5
+late mr,0.5
+maintenance receipt in respect,0.0
+alternate addres,0.30000000000000004
+liberty,0.7860465116279071
+cost of respondent,0.5
+signing of this joint memorandum,0.5
+matter,2.8088923076923082
+for the penal consequences thereof,0.5
+true copy of this joint memorandum,1.0
+tenant,4.821212121212122
+value to the petitioner,0.5
+diamond earring,1.0
+administrator,1.0441081081081083
+rent,2.460251217077583
+above special leave petition,1.3333333333333333
+criminal,3.301971081989414
+term,3.6255105640901575
+lac,2.403150042398463
+to criminal case,0.3333333333333333
+rent  maintenance charge,0.0
+view,2.441100058469462
+indian,1.2604961505560306
+late sarla bhaskar namdeo adarkar,0.5
+liability,2.532836248924577
+agree,2.958869876884749
+appropriate order,1.565217391304348
+sarla bhaskar namdeo adarkar in addition,0.5
+wife,1.4518086408500224
+in respect of the subject matter,0.6666666666666666
+payable in mumbai,0.5
+mails,1.9288793103448276
+key,0.5648701829704589
+bodies,0.8969063256135499
+rent  maintenance charge in respect,0.0
+mail,1.6410850468191913
+draft,1.1403225806451613
+upon by respondent,0.6666666666666666
+payment in terms,0.8
+late sarala bhaskar adarkar,1.5
+godrej cupboard,0.5
+condition of joint memorandum,0.0
+pay,3.828326695859537
+second floor,1.0153846153846153
+record,2.5393414390845273
+sentimental value,0.5
+husband in chambers,0.5
+division bench of the high court,1.6825396825396826
+polouse,0.0
+consent term,2.5
+breach of clause,0.5
+silver,0.4693181818181818
+by either party,1.0
+advocates,0.6153846153846153
+ms sarla bhaskar adarkar to the petitioner,0.5
+maintenance charge,1.3333333333333333
+respect,2.6704963235294117
+nature whatsoever,0.5
+andor objection,0.5
+andor sale,0.6666666666666666
+terms of clause,2.0526315789473686
+godrej cupboard in the corridor,0.5
+appellant - arun bhaskar adarkar,0.0
+wife fiona shrikhande adarkar,1.0
+premises,1.290983606557377
+execution of such forms,0.5
+fact,3.6284951019474962
+respective obligations,0.5
+term of the draft letter,0.0
+removal,0.7204301075268817
+estate,1.9402985074626868
+learned counsel,3.703333333333333
+tenants,0.8391608391608391
+resolution,1.771256437663978
+payable by either party,0.5
+respect of the suit,2.8
+item of jewellery,0.0
+appellant - arun bhaskar adarkar in presence,0.0
+handing,1.0706896551724139
+chief,1.9429638234317954
+removalclearance,0.5
+station,1.2515681586858238
+special,1.7363344051446945
+husband,1.6418918918918919
+silver thali,0.5
+thereto,1.0358342665173572
+following order,0.5647058823529412
+stand,1.8422769621739425
+impugned order,2.265957446808511
+tenancy right,2.5
+due,1.6178286949129652
+regards resolution,0.5
+other amount,0.6666666666666666
+favor,0.6819541375872383
+esplanade court,1.0
+present joint memorandum,1.0
+term of joint memorandum,0.0
+late sarla bhaskar adarkar,1.5
+report,1.7768151696835826
+favor of the petitioner,0.5
+memorandum of family settlement,10.0
+belongings,0.75
+relinquishment,2.5
+party,2.2250894654439723
+virtue,0.9167557066537153
+favour of the petitioner,1.4545454545454546
+correspondencemails,0.5
+diamond,0.33990147783251234
+shrikhande,1.3333333333333333
+honorable discharge of the accuseddefendant family members,0.5
+correspondence to the landlord,0.5
+kith,0.3209876543209877
+settlement,1.6881394467601363
+arun,0.9503105590062112
+petitioner under section,1.2
+therein,1.5503424657534246
+request,1.1474439594584596
+sixty,0.9792960662525879
+breach of the terms,2.0
+goolestan tenant,1.5
+draft letter,0.6666666666666666
+tds certificate,0.5
+sentimental value to the petitioner,0.5
+respective heir,1.0
+acces to the suit,0.0
+earring,0.3846153846153846
+decree,3.732408834103749
+division bench,3.965217391304348
+signing,0.7529411764705882
+date,6.195616975795285
+consent,1.224924012158055
+september,0.8548484848484849
+accusation,0.9540526587506452
+forms,0.8089941394570028
+sister,1.0774703557312253
+understanding,0.8257450331125827
+sarala bhaskar,2.5
+rupees,2.311111111111111
+respective obligations under these consent terms,0.5
+presence,0.9604834261070158
+bank,9.40770083102493
+accusations,0.8941176470588235
+respondent,4.757894736842104
+handing over payment,0.5
+joint memorandum of family settlement,9.5
+the suit,2.172543135783946
+day,1.550999710228919
+sale,3.3662581620085734
+administrators,0.2777777777777778
+obligation under these consent terms,0.0
+listedunlisted companies as an heir,0.5
+sarala bhaskar adarkar,2.5
+petitioner at the time,0.5
+respective obligation under these consent terms,0.0
+execution,1.3041894353369763
+engraved name of the petitioner,0.5
+police station,1.40045766590389
+applicable,1.4183225921947726
+favor of the respondent,1.5
+testamentary proceeding,0.5
+tenancy,3.0545454545454542
+honble,2.4444444444444446
+months,1.1938163721148947
+amount,3.179688593072295
+february,0.8575630252100839
+rent receipt,2.2
+parent,0.9965655833245622
+kin of the parties,0.5
+necessary co - operation,0.0
+forthwith withdraw,0.5
+authority in the state,0.5
+will,1.9263907124198036
+croree sixty,0.5
+name,1.8996570753072433
+further complaints,0.5
+of the fact,0.9194706545605603
+adequacy of consideration,0.5
+entity,1.342435251377007
+contempt of this honble court,0.5
+irrespective of the value thereof,0.5
+possession of respondent,0.5
+magistrate at esplanade,2.0
+ms  sarala bhaskar adarkar,0.0
+high,5.367119186841496
+annexures,1.1428571428571428
+payment,2.059553716565686
+members,1.9437616522164103
+brother,1.4566585956416465
+appropriate order against the erred person,0.5
+account,2.5754891049671977
+requesting for transfer,0.5
+event,1.4310854436179261
+adequacy,0.6705882352941177
+aggregate consideration,1.0
+andor interest of the petitioner,0.5
+pay order,30.666666666666668
+rent receipts in respect,0.5
+bank of india vault andor,0.5
+suit,2.485274378207659
+dues,1.2780386019822638
+purpose,2.519170317925504
+consecutive day,1.0
+listedunlisted companies,0.5
+change,1.2214862766571903
+defense in the above special leave petition,0.5
+observation,0.7625074854374218
+time,2.4764180952862667
+cases,1.9728229418951067
+division,1.7657319129617017
+present,1.9747480780089475
+annexed hereto,1.3333333333333333
+group,1.691932599016908
+allegation,1.834319526627219
+metropolitan magistrate at esplanade court,1.0
+items,1.0672246220302377
+such documents,0.6753246753246753
+accused  defendant family member,0.0
+heir of late mr,0.0
+further claim,0.5333333333333333
+requesting,0.7566137566137567
+cupboard,0.5
+understanding under these consent terms,0.5
+court in terms hereof,1.0
+terms of the draft,1.5
+honorable discharge,0.5
+metropolitan magistrate,3.8461538461538463
+terms hereof,3.5
+testamentary proceedings,0.5
+complaint,2.734525785235724
+directions in terms,0.6666666666666666
+day of february,0.42857142857142855
+access,1.61231677279827
+rent  maintenance charges in respect,0.0
+addition,1.5588539142412572
+right,3.07483248288682
+hereinafter,0.7670609645131939
+drafts,0.9473684210526316
+alternate address,0.30000000000000004
+misc,0.7132772338860931
+other authority in the state,0.5
+joint,1.0091324200913243
+term of the draft,0.0
+maintenance receipts in respect,0.5
+march,1.0644238856181665
+certificate,2.732600732600732
+dues in respect,0.5
+ipc,2.785166240409207
+deceased sarla bhaskar adarkar,0.5
+application,2.3322596088086445
+counsel,2.2246780703440323
+liabilities,1.0606060606060608
+execution of this joint memorandum,0.5
+april,0.8928235149629509
+consent terms,2.5
+india,2.7684068260703585
+authorities,1.266131845134287
+bhaskar,1.9673202614379082
+estate of late sarla bhaskar adarkar,1.0
+heirs of late mr,0.5
+maintenance charge in respect,0.0
+receipt thereof,0.6666666666666666
+estate of the deceased parents,0.5
+order in terms hereof,1.0
+event of the respondents,0.5
+value thereof,0.6666666666666666
+further sum,0.8571428571428571
+acces,1.6146156832298137
+floor,2.088735201031532
+court at esplanade,1.0
+such term,0.5529100529100529
+rupee,2.2291666666666665
+namdeo,1.5
+dispute,2.402137592137592
+disposal,1.1180555555555556
+receipts of payment,0.6666666666666666
+document,1.401100265092073
+total consideration,0.6666666666666666
+jewellery,1.5
+family settlement on record,0.5
+consequences,0.6659897713598075
+andor vivek adarkar,0.5
+coercion,1.0153846153846156
+respondent in the metropolitan magistrate,0.0
+conditions,1.9988092071092867
+confirm,1.5040059822668517
+access to the suit,0.5
+name of the petitioner,1.3333333333333333
+negotiation,0.6679035250463822
+tenant in respect of the suit,1.0
+declare that this joint memorandum,0.5
+other andor,1.0
+aware of the fact,0.5454545454545454
+state of maharashtra,2.5434782608695654
+case,7.332269420884958
+difference,0.8774847235514982
+period,1.9480170842427122
+multinational,0.3589743589743589
+annexure,2.7560975609756095
+terms of annexure iii,0.5
+goolestan tenant s group,0.0
+sarla,2.3333333333333335
+letter,2.707240080105903
+accused  defendant family members,0.0
+wing,1.7891975171731296
+entire right,0.6666666666666666
+undertaking,2.8508771929824563
+future,0.9664487618116651
+- provide to the petitioner,0.0
+distribution,2.7289109919449284
+contention,1.666391070690368
+address,0.7129538279400157
+late sarla bhaskar namdeo adarkar in addition,0.5
+advocate,1.0791341991341994
+such document,0.7972027972027971
+proceedings,1.7670925223666287
+favour,1.653145208700764
+purpose andor,0.5
+late sarala bhaskar,1.5
+india vault andor,0.5
+place of e,0.40909090909090906
+bench,2.5793391667754992
+suits,1.0993657505285412
+additional chief,1.5555555555555556
+copy of this joint memorandum,1.0
+tds,2.662024949231216
+small causes court at bombay,0.5
+respondents,2.6341263330598856
+leave,1.0147842365477848
+maharashtra,2.9076923076923076
+personal belonging,1.5
+parade,2.090909090909091
+honble bombay,1.0
+cuffe,0.42105263157894735
+second,1.4990453300392075
+disputes,2.3049883690876194
+andor appropriate application,0.5
+counterclaims,1.0
+body,1.336775463480009
+future maintenance charge,0.5
+bedroom,0.4137931034482758
+behest,0.6666666666666666
+fact that the matter,0.6666666666666666
+andor interest in any part,0.5
+tenants group,1.5
+notice,2.3300025999395686
+aforesaid sum,0.6666666666666666
+late,2.9930933606465375
+shall,3.6283780276816606
+high court of judicature,1.4210526315789473
+deceased parent,1.0
+indian bank,4.75
+police,2.9749362629783356
+premise,1.2347417840375587
+andor sale of the assets,0.5
+deduction,6.463320463320464
+terms of joint memorandum,0.5
+title,1.74290600761189
+due in respect,1.0
+interest as the sole tenant,0.5
+sole tenant,0.5
+communication,1.013409067330636
+metropolitan magistrate at esplanade,2.0
+payment of the sum,0.5
+memorandum of settlement,1.2
+operation,1.0959893294085181
+annexed hereto as annexure,1.5
+lakh,1.3647388059701493
+addition thereto,1.4
+petition,5.3436539306104525
+consecutive days,1.0
+petitioner to the goolestan tenants group,0.5
+ms sarla bhaskar adarkar,1.0
+corridor,0.3448275862068965
+other items,0.5263157894736842
+consideration,1.9110153789142115
+request of the learned counsel,0.6666666666666666
+behest of the petitioner,0.5
+srinivasan,1.25
+consideration viz,1.0
+memorandum,1.2142857142857144
+testamentary,3.8
+such form,0.6285714285714287
+future maintenance charges,0.5
+discharge of the accused  defendant family members,0.0
+value,1.7137907830478438
+petitioner in terms,1.0
+annexure iii,0.6666666666666666
+clause,3.526455026455027
+documents,1.142515923566879
+shares,3.3129411764705883
+other term,0.7132867132867132
+sarla bhaskar adarkar,3.0
+other alternate addres,0.5
+honble court in terms hereof,1.0
+grey,0.431578947368421
+obligations under these consent terms,0.5
+receipt,1.5471923536439667
+tenancy rights to the suit,0.5
+petitioner undertakes,0.5
+specified entity of the change,0.0
+pas,2.68416862749163
+andor,0.8398466033601169
+causes court at bombay,0.5
+metropolitan,1.3088642659279779
+necessary orders,0.5555555555555556
+family,1.856281506375408
+respect of the subject matter,0.6666666666666666
+heir,2.4782705005515444
+authority,2.4352627108360636
+representations,0.5384615384615384
+heirs,1.7930440771349863
+maintenance receipts,0.5
+observance,0.6967741935483871
+condition of this consent terms,0.0
+lacs,1.6941699604743086
+letter in terms,0.0
+mina,4.04645616420418
+tenant s group,0.0
+respondent-mina srinivasan krishnan in presence,0.0
+belongings as aforesaid,0.5
+part of the estate,1.5
+bedrooms,0.5294117647058824
+third party,1.053291536050157
+causes court,0.6666666666666666
+such negotiation between the parties,0.5
+reputed indian bank,0.5
+necessary order,0.6666666666666666
+interest in the suit,0.5
+appellant - elder brother of respondent,0.0
+future rentmaintenance charges in respect,0.5
+direction of this court,1.0
+motion,1.9249311294765838
+months from the date,1.3333333333333333
+hand,2.0299623418254717
+parties that the petitioner,0.5
+other in respect of the subject matter,0.5
+branch,2.8500288406075756
+iii,1.5614499719992534
+joint memorandum of settlement,1.0
+maintenance charges in respect,1.0
+contentions,0.9641025641025641
+such forms,0.5
+possession,2.808810857389056
+clearance,4.090225563909774
+view of the settlement,0.75
+appellant,14.387096774193548
+obligation,1.1071428571428574
+either party,1.55
+branch in mumbai,0.5
+crore sixty,4.5
+fiona shrikhande adarkar,1.0
+day of the payment,0.0
+conditions of joint memorandum,0.5
+- provide,0.0
+high court,7.7477477477477485
+tenancy right in respect,0.0
+objection for the transfer,0.5
+state,6.817996007300392
+goolestan,2.0
+representation,1.2338308457711442
+last,0.9118994586199148
+future rentmaintenance charge in respect,0.0
+petitioner s wife,0.0
+other alternate address,0.5
+central,2.61875
+tenancy rights in respect,1.5
+concerned police station,0.8
+demise,0.5263157894736842
+counterclaim,3.0666666666666664
+undertake to this honble court,0.5
+good faith,0.8046647230320698
+term of the joint memorandum,0.0
+criminal case,1.4464285714285714
+vivek,1.3968253968253967
+distribution of assets,1.0
+sarla bhaskar namdeo adarkar,0.5
+demise of mr  bhaskar,0.0
+testament,1.4986225895316805
+nature,1.4149926876444778
+deceased parents,1.0
+till final disposal,0.5
+- defaulting party,0.0
+petitioner in the honble bombay,0.5
+asset,3.0300107181136124
+cuffe parade,0.5
+sarala,2.5
+final settlement,1.2857142857142858
+notice cases,1.0
+sum,2.554898897856461
+rent receipt in respect,0.0
+undertakes to this honble court,0.5
+family settlement,6.25
+listedunlisted company,0.0
+observations,0.7454584147497534
+- arun bhaskar adarkar in presence,0.0
+entities,0.5395256916996047
+advocates for the petitioner,0.5
+thali,5.166666666666667
+writings,0.40178571428571425
+assets,2.6879084967320264
+debt,3.4485322896281807
+keys,0.5060606060606061
+small,0.6079554085022354
+respondents in the metropolitan magistrate,1.0

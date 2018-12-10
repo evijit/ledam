@@ -49,11 +49,12 @@ def rank_weights(dirNo):
 
 
 	documents = []
-	for file in os.listdir('./OldMethod'+str(dirNo)):
-		with open(os.path.join('./OldMethod'+str(dirNo), file), 'r') as f2:
-			text = f2.read()
-			documents.append(text)
-		f2.close()
+	for i in range(10:)
+		for file in os.listdir('./OldMethod'+str(i)):
+			with open(os.path.join('./OldMethod'+str(i), file), 'r') as f2:
+				text = f2.read()
+				documents.append(text)
+			f2.close()
 
 	for file in os.listdir('./OldMethod'+str(dirNo)):
 		# document = ''

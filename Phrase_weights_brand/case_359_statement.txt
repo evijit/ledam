@@ -1,0 +1,193 @@
+single judge in writ petition wherein,0.5
+aircel,0.5
+exemption,1.7371031746031744
+goods,4.7578125
+petitioner,4.524972253052164
+cost,1.2954397451466992
+orders,1.4936359300077826
+writ,2.8882378560889794
+alternative remedy,1.6666666666666667
+appeals,1.7060218112849692
+months,1.1938163721148947
+consideration in the present case,0.75
+merits,0.968421052631579
+assessment order,1.5555555555555556
+disposal of these appeals,0.75
+wireless,0.5747126436781608
+mr subhash sharma,0.5
+matters,1.4810665618448637
+interim order,2.9166666666666665
+pure questions,1.3333333333333333
+mr f,0.2945736434108527
+high,5.367119186841496
+businesses,0.45161290322580644
+court,12.24425115501509
+case of the slp petitioner,0.5
+aircel ltd,0.5
+towers,2.432258064516129
+force,1.6009408121948314
+subramonium,0.5
+madras,2.836734693877551
+judicature at madras,1.0
+ground,1.4186722903211633
+learned,3.406323898681099
+single judge,4.011627906976744
+writ petition,6.24223602484472
+vat tax on telecommunication towers,0.5
+petition,5.3436539306104525
+tax act,1.7037037037037035
+remedy,1.3214024835646458
+view of the aforesaid,1.2580645161290323
+transaction,5.884921444603142
+law,3.538923411654744
+way,1.7812722068664852
+transactions,6.503443526170798
+added,0.8615707906488048
+consideration,1.9110153789142115
+composite transaction,0.5
+part,5.294464509893076
+division,1.7657319129617017
+matter,2.8088923076923082
+civil appeals,1.24
+telecommunication tower,1.0
+that business qualify for exemption,0.0
+pure questions of law,1.5
+interim orders,1.5238095238095237
+value,1.7137907830478438
+documents,1.142515923566879
+passing,0.8851858023662723
+view,2.441100058469462
+tnvat act,0.5
+opinion,1.4960606342789635
+aforesaid,2.592896174863388
+merit of the case,0.0
+merit,1.2419290263876248
+dishnet,0.5
+writ petition wherein,0.5
+passing of this order,0.5
+transfer,1.9975047057658015
+assessment,2.647276084949215
+writ petition under the peculiar circumstances,0.5
+mr fs,0.6666666666666666
+appeal,3.4125488033856883
+that business qualifies for exemption,0.5
+mr bagaria,1.0
+appellant that the high court,0.6666666666666666
+good,2.6154941054299674
+judge,2.9012627415183325
+authority,2.4352627108360636
+tamil,3.111111111111111
+bifurcation,1.0
+record,2.5393414390845273
+tamil nadu,3.176470588235294
+learned senior counsel,3.4615384615384617
+petitions,1.3930830039525692
+questions of law,1.3333333333333333
+division bench of the high court,1.6825396825396826
+whereby,0.6100917431192661
+counsel,2.2246780703440323
+appeals by way,0.8
+month,1.3454861111111112
+tower,2.581168831168831
+provision,5.439002243350069
+mr subramonium,0.5
+explanation iii to section,0.5
+mr nariman that the issues,0.5
+vat,1.611167328653046
+concurrence with the order,0.5
+judgment,3.288216560509554
+special leave,1.903225806451613
+business,2.8512056385864457
+peculiar circumstance,1.0
+heard,0.782882203033377
+question of law,3.057142857142857
+peculiar circumstances,1.0
+sharma,0.9516994633273703
+fact,3.6284951019474962
+order,5.472481489660944
+pure question,1.125
+questions,0.9979150871872632
+act,12.870263922028107
+judge in writ petition wherein,0.5
+months from the date,1.3333333333333333
+wireles,0.5747126436781608
+explanation,1.4510159010600707
+iii,1.5614499719992534
+ltd,2.382356477306883
+slp petitioner,1.0
+high court that an alternative remedy,0.5
+disposal,1.1180555555555556
+busines,2.8488759960122034
+document,1.401100265092073
+prasad,1.1407089151450054
+circumstances,1.3944461370073231
+appellant,14.387096774193548
+madra,2.836734693877551
+mr nariman that the issue,0.5
+explanation iii,0.5
+merits of the case,1.3846153846153846
+high court,7.7477477477477485
+whole,0.951414768806073
+state,6.817996007300392
+case,7.332269420884958
+assessment order with regard,0.5
+jurisdiction,2.9539571926331507
+writ appeal,2.2142857142857144
+note,1.3654108484234107
+dishnet wireless ltd,0.5
+section,9.287987283173626
+state of tamil nadu,1.8421052631578947
+provision for bifurcation,0.5
+actuality,0.38513513513513514
+case of dishnet wireless ltd,0.5
+tax,3.549237288135593
+nadu,1.4166666666666665
+writ petitions,2.984848484848485
+vat tax,0.15625
+single,1.6221488419098207
+subhash,1.0
+issues,1.1246716508385532
+place,2.333104345208554
+that business qualifies,0.5
+circumstance,1.429931390219372
+bagaria,1.5
+present case,1.5611814345991561
+case of aircel ltd,0.5
+telecommunication,0.6372832369942196
+judicature,1.4210526315789473
+force till,0.8
+regard,2.723310344827586
+court that an alternative remedy,0.5
+counsel for the respondents,1.425531914893617
+tnvat,0.5
+telecommunication towers,1.0
+division bench,3.965217391304348
+mr nariman,1.1666666666666667
+date,6.195616975795285
+view of the order,0.6352941176470589
+place inside the state,0.5
+assessing,1.2275132275132274
+concurrence,0.7692307692307693
+bench,2.5793391667754992
+appeal by way,0.8571428571428571
+existence,0.731202675709574
+nadu value,1.0
+civil appeal,2.2413793103448274
+facts,1.4696673624372698
+month from the date,1.2222222222222223
+that business qualify,0.0
+respondent,4.757894736842104
+senior counsel,2.2857142857142856
+pure question of law,0.75
+issue,2.766776251628934
+alternative,0.841508109794136
+respondents,2.6341263330598856
+leave,1.0147842365477848
+ground that alternative remedy,1.0
+costs,0.8167395522604189
+slp,1.291953447628582
+senior counsel for the respondents,1.1428571428571428
+part of the telecommunication towers,0.5
+question,2.980312372067635
+petitioner as the whole,0.5
+nariman,0.5454545454545454

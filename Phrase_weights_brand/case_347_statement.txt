@@ -1,0 +1,1279 @@
+courts,2.1216528162511543
+gun shot wounds on different parts,0.5
+order of the high court,1.296875
+testimony of the eye - witnesses,0.0
+account of the defect,0.5
+fact that the fir,0.6666666666666666
+general grounds,0.6666666666666666
+evidence of the eye - witnesses,0.0
+government,3.5583785424010483
+best possible treatment,0.5
+aforesaid persons as defence witness,0.5
+injured witness,2.8181818181818183
+holders in the terminal ileum,0.5
+shows,0.8030554811042616
+such marks,0.6666666666666666
+karnel singh v state of mp,0.6666666666666666
+high court of punjab,1.2380952380952381
+lives,0.6840821832520494
+cherian,0.5
+arrival,0.6270833333333333
+major singh,1.3333333333333333
+expert opinion,0.6666666666666666
+gun shot injury in the incident,0.0
+perusal of the records,0.6666666666666666
+major,1.2322145202480845
+das,1.508694082231246
+other hand,0.6931925622439332
+read with section,2.3513513513513513
+people,1.2855544825097243
+murder case,1.0
+lakha,4.0
+mark,2.700508607198748
+sadhu singh,1.0
+condition of the first informant,0.5
+weapons of offence,1.0
+reasons,1.3749054007567938
+such omissions,1.0
+matters,1.4810665618448637
+accused- respondent in custody,0.0
+william,0.4026200873362445
+wounds,1.0980392156862744
+kin,2.5393682433471243
+indications of fabrication,1.0
+evidence of eye - witnesses,0.0
+narayana,0.6857142857142858
+certain omissions of the investigating agency,0.5
+judicial magistrate,2.7857142857142856
+failure,0.7827962142086977
+arm,0.9325525916287142
+circumstance of each case,0.0
+interest,2.74353772015385
+ashwani,8.75
+court,12.24425115501509
+immediate step,0.8333333333333334
+calamity,0.3636363636363636
+madras,2.836734693877551
+eye,0.9466574319441098
+suicide,3.2060041407867494
+in law,1.1088664421997756
+evidence on record shows,0.5
+person,4.291511329454258
+ors,2.8612718198296623
+fabrication,0.49230769230769234
+show,1.5002130552117363
+inference,1.006741573033708
+forthwith,0.625
+baithak of gurdial singh,2.0
+way,1.7812722068664852
+accused - respondents,0.0
+behalf,1.9888053603529987
+cause,1.8431210321626654
+overt act,2.2777777777777777
+court of punjab,1.2380952380952381
+stem,1.0906122735570847
+part,5.294464509893076
+eye - witnesses,0.0
+extra-ordinary jurisdiction of supreme court,0.0
+terminal,1.5077825670498082
+residents of the same village chatha sekhwan,0.5
+detail about the occurrence,0.0
+omission of the investigating agency,0.0
+story of the prosecution,0.5
+chatha,0.25
+station sangrur,3.0
+distance,0.7353606433777331
+small holders in the terminal ileum,0.5
+ghosh,4.888888888888889
+incident in question,1.3
+assailant,0.5333333333333333
+embezzlement,0.5
+in proof of the crime,0.5
+number,1.4802651440973922
+shri,2.0759135877246115
+sessions,1.3405714285714285
+decision,2.9514937765898557
+contrary,1.027917657672435
+sangrur,8.0
+hands,1.1725490196078434
+prosecution theory,0.5
+varan,0.6140350877192983
+first circumstance,0.5
+other injured witnesses,0.6666666666666666
+more respectable inhabitant,1.0
+aforesaid,2.592896174863388
+writing that amar singh,0.5
+other person,0.9635036496350365
+gun-shot injuries on left thigh,0.0
+house,2.0021735292386764
+of the facts,0.5806451612903226
+report of the occurrence,0.5
+pellet,0.7857142857142857
+george,0.6472834067547724
+appeal,3.4125488033856883
+dw-,0.0
+determination,1.5980374665477253
+dw ram singh,1.0
+agent of hari singh,0.5
+formula,1.9020570115902682
+right cerebral cortex,0.5
+sheet,1.1667364016736401
+weapon,1.0217176079034398
+right leg,0.4444444444444445
+scr,2.483838975311538
+election,6.758005637447438
+delay in lodging,1.8333333333333333
+figure in the inquest report,0.5
+land,6.337534028705619
+read,2.2147281730888695
+sessions judge,2.9545454545454546
+natural in these circumstances,0.5
+villagers,1.6111111111111112
+village,1.8429856945085372
+sbbl guns,1.5
+lobe of right lung,0.5
+expert,2.5786336542870245
+careful consideration,0.9285714285714286
+ward,2.4967109028473318
+mis - carriage of justice,0.0
+holder in the terminal ileum,0.0
+bham,0.6693989071038251
+dw sandhu singh,0.5
+month,1.3454861111111112
+injuries on vital organs,0.5
+year,2.8349484769759212
+aforesaid persons as defence witnesses,0.5
+alia,0.9479866480753792
+balwinder singh,1.0
+inordinate delay,1.6666666666666667
+dass sadh,1.0
+lakha singh,7.0
+organs,0.33191489361702126
+vital organs,0.4
+pw dr william f masish,1.0
+judgment,3.288216560509554
+first informant amar singh,2.0
+investigation officer,2.0
+rush,0.5980271270036992
+medical evidence on record shows,0.5
+to the unfolding of the narrative,0.5
+information to the nearest executive magistrate,0.5
+father,1.4298716229162676
+guilt,1.1140207075064712
+division no,0.5555555555555556
+residents,0.8191605554688717
+lakhs,2.046511627906977
+order,5.472481489660944
+circumstantial evidence,1.9000000000000001
+laksha,0.75
+injury,1.7199352451433856
+duration,0.6373626373626373
+karnel,0.6666666666666666
+act,12.870263922028107
+sub-section,0.0
+tractor,3.6214221824686943
+family members,1.2631578947368423
+may,3.683418028199994
+opposite faction,0.5
+biswanath,3.5
+police station sangrur,3.0
+apparent cause,2.0
+state government in that behalf,0.5
+report of the apparent cause,0.5
+general ground,0.6666666666666666
+pritam singh,4.0
+heading of the section,0.5
+medical,1.633306645316253
+indian legislature,0.75
+ordinary course,1.0769230769230769
+bihari,2.2
+surendra,0.5714285714285714
+names of the witnesses,1.0
+airsc that delay,0.5
+state government,3.027142857142857
+defence witnesses,1.0
+effect,2.184583388478191
+om prakash,2.125
+agent,1.406335913378167
+dr  william,0.0
+such exception to the general rule,0.0
+passage,0.6514737598849748
+morning,0.6560766182298546
+manner,1.4494591333432125
+deceased lakha singh,0.5
+member,2.649111111111111
+reliance upon the above,0.6666666666666666
+dr  varan satija,0.0
+cause of death,0.7894736842105263
+dw- ram singh,0.0
+parties,1.8210828547990157
+empties,0.8888888888888888
+gun-shot injury,0.0
+post-mortem examination,0.0
+such mark,0.8333333333333334
+inference that the prosecution case,0.5
+medical college,1.45748987854251
+pellet injury on right fore - arm,0.0
+for the investigation officer,0.5
+injured person,1.9090909090909092
+omissions in the ddr,0.5
+section,9.287987283173626
+science,0.6879334257975034
+limited scope,0.6666666666666666
+arrival of records,0.6666666666666666
+loding of the fir,1.0
+other mark,0.4
+version,1.0500313479623824
+college,2.1498947162234954
+incident,1.8609485257918057
+fir,2.85390975582079
+madhya,2.9183673469387754
+west bengal,3.3333333333333335
+documentary evidence,0.6825
+appellate,2.561224489795918
+gun-shot injuries,0.0
+condition,2.259476395625584
+application before the emo,0.5
+statement in court pw amar singh,0.5
+accused-respondent,0.0
+inhabitants,0.4835164835164836
+finding,1.8129183657767178
+cmc ludhiana,2.0
+mal,1.7084330383670323
+defective investigation,0.6666666666666666
+emo,1.3694509003253146
+kilometers after the death,0.5
+details in the inquest report,0.5
+surjit,1.5
+circumstance,1.429931390219372
+intrinsic merits,0.6666666666666666
+illustrating judgment in vadivelu thevar v state,0.5
+civil,2.126558634963905
+fracture,0.6111111111111112
+place,2.333104345208554
+kashmira,5.0
+hors,0.5646224859874711
+laksha singh,0.5
+danger,0.8066378066378066
+present case,1.5611814345991561
+yadav,1.8571428571428574
+clear indications,0.5
+main reason,0.375
+more respectable inhabitants of the neighbourhood,1.0
+sangrur through constable joga singh,0.5
+taxies,2.0
+account of delay,0.75
+cause of the death,0.5
+investigation,1.6673076923076922
+good medical college hospital,0.5
+accused - respondent,0.0
+human nature,0.27555555555555555
+gurdial,2.5
+number of witnesses,1.222222222222222
+neither in practice,0.5
+madras manuscmanusc,0.8571428571428571
+village chatha sekhwan,0.5
+dispensary,1.3333333333333333
+mal singh under section,0.5
+condition of lakha singh,0.5
+next day,0.6306081754735793
+agency,1.8968779259354924
+for the police,0.4266666666666667
+pm though medical aid,0.5
+kilometre from sangrur,0.0
+sho,3.354516605502135
+perusal,0.750733137829912
+occurrence,2.1343873517786562
+straw,1.1973500697350068
+bhan,1.4088145896656534
+earliest point of time,0.75
+story,0.755772533184814
+which a-,0.0
+spot for comparison,0.5
+other injured witness,0.75
+acute faction,0.5
+such record,1.625
+facts,1.4696673624372698
+crop,1.0811273746496417
+lodging,0.8205128205128205
+para,2.300239586747483
+cultivation,0.8571428571428571
+injury no,1.0
+fire,1.1391892447477696
+kilometres,2.0
+report to the cjm,0.5
+thereof,1.7897727272727273
+witness of the occurrence,0.0
+minutes,1.1231216272312163
+contents,0.66519564577817
+different part,0.4915966386554622
+aforesaid persons,0.8
+small holder,0.5
+basi,2.0752712086391383
+appeal against conviction,0.6666666666666666
+writing,1.1746753246753248
+record shows,1.25
+purpose of a criminal trial,0.5
+days,1.6721350893491447
+notice of section,0.5
+fine,1.3204039558531748
+witness by the prosecution,0.5
+mandatory,0.9610983981693365
+appeal from conviction,0.6666666666666666
+omission in the ddr,0.0
+weight,0.7538461538461538
+records,0.9879294336118848
+post-mortem examination on the body,0.0
+exceptions to the general rule,0.5
+session,2.2400874351067563
+pw dr george tabraham,0.5
+pleader,1.6666666666666667
+conviction,2.248165832071736
+basi of the statement,0.0
+basis,1.953226441078104
+anxiety,0.49259259259259264
+panchayat,10.0
+careful consideration to the submissions,0.6666666666666666
+unnatural death,0.6666666666666666
+sangrur for ludhiana,0.5
+gun shot wounds,0.2857142857142857
+suspicion,0.690982776089159
+holding,1.2555282555282552
+sure of the facts of the case,0.5
+injury on vital organs,0.0
+depends on the facts,0.8
+singh in the casualty ward,0.5
+cases of defective investigation,0.5
+sub,7.816899313759727
+pm on the next day,0.6666666666666666
+course,1.6545957498716626
+son lakha singh,0.5
+events,0.6160483175150993
+front of the baithak,0.5
+certain omissions,1.0
+x - ray examination reports,0.0
+v sahai,0.6666666666666666
+dangerous to life,2.5
+organ,2.0834119139920135
+criminal trial,0.8333333333333334
+am onward in the night,0.0
+last year,0.4925373134328358
+cortex,0.18181818181818182
+magistrate,3.522077922077922
+charge,2.7679815308681284
+witnesses of the occurrence,0.5
+fit condition,1.0
+kotwali,0.75
+illustrating judgment,0.5
+casualty ward,1.0
+grounds,0.9540208829455945
+pradesh,4.365853658536586
+either loding,0.5
+detail of the overt acts,0.0
+am onwards in the night,0.5
+shakila khadar v,0.5
+certain omissions in the ddr,0.5
+crime,1.6636528028933093
+statement of the witnesses,1.25
+officer,3.1197242647058823
+fact that the first informant amar singh,0.5
+flagrant mis - carriage,0.0
+dw pritam singh,1.0
+ground,1.4186722903211633
+defect,1.4259259259259258
+formal fir,1.2
+kilometer after the death,0.0
+eye - witness account,0.0
+ran,4.5009618508419384
+fore,7.06241367403315
+closer scrutiny,0.5333333333333333
+serious injury,0.4
+apparent cause of the death,0.5
+interest in the land,0.8
+virinder,0.5
+such deceased person,0.5
+that the witnesses,0.7800000000000001
+west,1.1420057009587976
+sarpanch,6.5
+lung,0.6965517241379311
+lower lobe of right lung,0.5
+matter,2.8088923076923082
+relation,1.397320207820618
+proof,1.0648141580366008
+hospital,1.3942768854411434
+special report of the occurrence,0.5
+thevar,0.39473684210526316
+mischief,0.5934065934065934
+in these circumstances,1.303030303030303
+scrutiny,0.912987012987013
+article,4.378806157159795
+leg,5.574082991234883
+bearing,0.7901184156798694
+realisation,2.1538461538461537
+pritam,4.25
+machinery,0.9071637426900585
+biswanath ghosh v state of west bengal,0.6666666666666666
+executive magistrate,1.7142857142857142
+proof of any fact,1.0
+- karam,0.0
+officer if the investigation,0.5
+pm on the tractor,0.5
+small holder in the terminal ileum,0.0
+pw- amar singh,0.0
+medical college hospital,1.5
+inquest report,5.25
+view,2.441100058469462
+koshi george,0.5
+aid,5.498621453008654
+chest,0.7395639311931632
+shri ashwani kumar,0.5
+post,2.344803646492219
+bone,0.6534106600386633
+reports,1.0202012199952466
+case of the prosecution,2.3043478260869565
+available eye witness,0.5
+doctor,1.4782608695652173
+appreciations,0.5
+inquest,2.0454545454545454
+side,3.88845645915565
+such interested witness,0.5
+opinion,1.4960606342789635
+cmc hospital,1.5
+interested witnesses,0.875
+merit,1.2419290263876248
+andhra,4.830188679245283
+pellet injuries on right fore - arm,0.0
+village on a tractor trolley,0.5
+accused-respondents,0.0
+well,1.4966552780778166
+paramount importance,0.5833333333333334
+such exception,0.8
+witness,5.333906623599983
+karams,1.0
+prosecution version,2.7142857142857144
+result,1.3356630184144715
+sessions court,2.230769230769231
+officials,1.3691666666666666
+delay,1.9544910179640715
+vital organ,0.45000000000000007
+theory,0.43014388218941363
+surjit singh,1.5
+bengal,1.9299191374663072
+evidence on the general grounds,0.6666666666666666
+bihar,4.587301587301587
+record,2.5393414390845273
+procedure,2.552771605064117
+information,1.1320502836800534
+credible evidence,0.7333333333333334
+injury report of lakhs singh,0.5
+scope,0.8412698412698413
+presence on the spot,1.25
+defence,1.3606588776096535
+shot through the iron gauze,0.5
+such circumstances,0.5729166666666666
+polouse,0.0
+due course,1.0648148148148149
+everyone,0.6963340891912321
+ground of delay,1.375
+overt acts,1.125
+gurbachan,3.25
+provision,5.439002243350069
+iron,2.76566757493188
+support,0.8630946786249609
+tabraham,0.30000000000000004
+wall,0.8333770549143058
+singh under section,1.6
+accident,1.7464867454487383
+forensic science laboratory,1.0
+gurbacharn singh,0.5
+public prosecutor,2.0952380952380953
+multiple pellet injury,0.0
+mere fact,0.6
+right hand,0.6034482758620688
+pw dr ds,0.5
+direct testimony,0.6666666666666666
+exh,0.8311914194608175
+pw dr varan satija,0.5
+multiple pellet injuries on right fore-arm,0.0
+deceased person,0.8888888888888888
+rajasthan manuscmanusc,1.0555555555555556
+suspicious circumstances,0.8
+podda,0.6666666666666666
+heard,0.782882203033377
+cmc,1.48644578313253
+dw- pritam singh,0.0
+importance,0.8632871064467765
+persons as defence witnesses,0.5
+fact,3.6284951019474962
+mathematical formula,0.4444444444444444
+such circumstance,0.5723905723905723
+learned counsel,3.703333333333333
+pellet injury on right hand,0.0
+dr  d,0.0
+baithak,2.3333333333333335
+grain from the chaff,0.6666666666666666
+refer to the evidence,0.6666666666666666
+respondent in custody,0.0
+main grounds,0.5
+evidence on record,2.7906976744186047
+jagdish,1.2222222222222223
+pw amar singh,3.0
+bihar manuscmanusc,1.9655172413793103
+department,1.9858367499068206
+such cases,0.7390180878552971
+anr,1.1271033322299457
+learned counsel for the parties,1.263157894736842
+chief,1.9429638234317954
+station,1.2515681586858238
+medical aid,0.6153846153846153
+caution,1.0777000777000778
+reasoning,0.6478937381404174
+special,1.7363344051446945
+details about the occurrence,0.5
+sun,0.7549388170958654
+main ground,0.5333333333333333
+daily diary register,0.5
+particular number,0.6666666666666666
+hour,1.1326135248230613
+object,1.4940119760479043
+ground for interference,1.0
+kumar,2.028839704896043
+weapons,1.1105810008481765
+of the fact of the case,0.0
+same from the window,0.5
+unsustainable in law,0.8333333333333334
+stand,1.8422769621739425
+that behalf,1.3548387096774193
+omissions,0.6971428571428571
+dr  virinder kappal,0.0
+diary,0.986533041027247
+promptitude,0.8
+witnes,5.333906623599983
+trolley of wheat straw,0.5
+serious injuries,0.4365079365079365
+from the window,0.25862068965517243
+laceration,0.5
+in these circumstance,1.303030303030303
+victims,0.9
+khadar,0.5
+avtar singh,1.3333333333333333
+extent,1.410108024691358
+necessity,0.7072538860103627
+times,0.8987140267391797
+for the polouse,0.0
+fir of the incident,1.0
+version of the incident,0.5
+additional,1.4256530253244384
+doubt,1.3646267723102583
+fractures,0.5555555555555556
+hari singh,2.0
+light,0.8816192372754331
+documentary,0.6730769230769231
+family members of the first informant amar singh,0.5
+such case,0.7332761578044598
+years,2.5395804110508022
+eye witnesses,3.1
+sure of the facts,1.0
+note of para,0.5
+jaggo,0.6666666666666666
+same village chatha sekhwan,0.5
+report,1.7768151696835826
+special report to the cjm,0.5
+punjab,1.0438169425511197
+judicial,2.8688059701492543
+x - ray examination report,0.0
+principle,1.9620890732001848
+prosecution in the present case,0.5
+party,2.2250894654439723
+angle,0.4852556924225457
+dbbl guns,1.5
+arms,1.2384993436918101
+villager,1.1733333333333333
+upon facts,0.8571428571428571
+such exceptions to the general rule,0.5
+details,0.9406426856198188
+certain omission,1.0
+kith,0.3209876543209877
+evidence to a closer scrutiny,0.5
+dr  ds,0.0
+justice,2.292557084574302
+sardara singh,3.5
+injury report,0.9000000000000001
+internal examination,0.6666666666666666
+particular number of witnesses,1.0
+panchayat election,1.0
+fir at the police station,0.6666666666666666
+lapse,0.9238095238095239
+competent jurisdiction,1.1666666666666667
+other marks,0.5
+court in tara singh,0.5
+pw dr william,1.0
+to life,0.9949317738791423
+christian,1.3142435364657585
+- kilometre,0.0
+necessary for the investigation officer,0.5
+suspicion that some other person,0.5
+pm after investigation,0.5
+sardara,1.842105263157895
+minutes of the lodging,0.5
+khujji alias surendra tiwari v state of madhya,0.5
+shot injuries in the incident,1.0
+record of the case,1.0
+ray,0.8140506967693749
+v state,2.4603773584905664
+family member,1.0924657534246576
+record show,1.25
+ramesh,1.5798816568047334
+such innocent person,0.6666666666666666
+testimony,1.4407553107789142
+am in the night,0.5
+ddp,0.17592592592592593
+court pw amar singh,0.5
+eye witness,1.4333333333333333
+ground that the fir,0.5
+sons,2.7457346002031446
+exception to the general rule,1.0
+uttar pradesh,2.8
+administration,1.061072796934866
+family member of the first informant amar singh,0.0
+jangir,1.0
+case of the defence,0.6666666666666666
+purpose of section,1.3888888888888888
+interested witness,0.8888888888888888
+ballistic expert,1.0
+gurbachan singh,3.25
+sangrur by major singh,0.5
+offence,4.401610644257703
+presence,0.9604834261070158
+tara singh,0.5
+last reasoning,0.5
+neck,0.6142330723169047
+respondent,4.757894736842104
+v state of uttar pradesh,1.375
+administration of justice,1.1092436974789917
+next morning,0.5
+circumstances of each case,1.0833333333333333
+inspector,1.2705882352941176
+empty,0.4901960784313726
+accordance,1.4069045211613462
+default,0.7094574436346588
+opinion that the case,0.5
+small holders,0.5
+apparent cause of death,1.5
+thigh,0.4431818181818182
+prosecution on the ground,0.5
+v jaggo,0.6666666666666666
+records of the case,0.8571428571428571
+negligence,1.3017543859649123
+bhan singh,6.0
+day,1.550999710228919
+v state of up,1.7027027027027026
+infraction,0.6349206349206349
+delay in either loding,0.5
+feature,0.6446262956901254
+question,2.980312372067635
+such omission,1.0
+v state of punjab,1.4848484848484849
+much depends,0.6666666666666666
+police station,1.40045766590389
+belief,1.0362637362637361
+caceum,0.5
+scmanu,7.940520446096654
+radiologist,0.11904761904761904
+iron gauze of the window,1.0
+medical evidence on record,1.5
+step,0.8867024753460084
+avtar,1.4
+second shot,0.5714285714285714
+tara,0.7941354903943378
+months,1.1938163721148947
+single witness,1.0
+practice,1.7660110149488593
+lakha singh in the morning,0.5
+detail of the intrinsic merits,0.0
+statement,2.5393160135035964
+aforesaid person,0.8
+neighbourhood,0.8400000000000001
+assailants,0.9650349650349649
+right lung,0.5
+of belief,0.5582524271844661
+accused person,4.565217391304348
+refer,3.840717772752903
+supreme court,1.4278957326045825
+gurbacharn,0.5
+pm in accordance,0.5
+place of occurrence,2.6153846153846154
+multiple pellet injuries,1.0
+name,1.8996570753072433
+indications,0.4782608695652174
+toward,1.0255939365170768
+rajasthan,3.9215686274509802
+kilometres from sangrur,0.5
+of the fact,0.9194706545605603
+x-ray examination of the injuries,0.0
+heading,2.130249543517955
+resident,1.6560361185631094
+prakash,1.8933333333333333
+khujji,0.5
+due to injuries on vital organs,0.5
+innocent person,0.7439353099730458
+basis of the statement,1.0
+second circumstance,0.5
+matter for appreciations,0.0
+first shot,0.24000000000000005
+kashmira singh,5.0
+high,5.367119186841496
+members,1.9437616522164103
+facts about the occurrence,0.5
+passage between amar singh,0.5
+brain,0.9135997195934104
+account,2.5754891049671977
+indication,0.6940825616072829
+karam,2.190981432360743
+true that the witnesses,0.6666666666666666
+event,1.4310854436179261
+carriage,1.5087040618955512
+casualty,0.5
+custody,1.4166666666666667
+ballistic,0.45833333333333337
+laboratory,1.037248755301494
+gun-shot injury on left thigh,0.0
+empties for comparison,0.5
+constable,1.0606060606060606
+surjit singh under section,0.5
+purpose,2.519170317925504
+law,3.538923411654744
+trial court,3.854545454545455
+ramratan,0.5
+interference,0.5733527484528578
+imagination,0.5215909090909091
+appellate court,3.1458333333333335
+dass,0.8333333333333334
+contaminated conduct,0.5
+rule that any delay,0.5
+head,1.5827778446537666
+observation,0.7625074854374218
+time,2.4764180952862667
+a- on crop,0.0
+cases,1.9728229418951067
+division,1.7657319129617017
+unfolding of the narrative,0.5
+fast rule that any delay,0.5
+similar contention,0.9
+treatment,1.1351020408163266
+statement of amar singh,2.0
+similar view,0.5274725274725275
+multiple pellet injury on right fore-arm,0.0
+a- hit lakha singh,0.0
+inner house,0.5
+contents of the fir,1.0
+- ordinary jurisdiction of supreme court,0.0
+wireless message,0.6666666666666666
+gun,1.1509321528900995
+pw gurbachan singh,2.0
+ileum,0.2777777777777778
+determination of guilt,0.5
+side of the neck,0.30000000000000004
+such innocent persons,0.6666666666666666
+the contention,1.2542986425339366
+clear infraction,1.0
+fast rule,0.5798816568047337
+informant amar singh,2.0
+stretch of imagination,1.0833333333333333
+wheat,2.2425249169435215
+content,1.5450574489970066
+vadivelu,0.4444444444444444
+weight in favour,0.5
+grief,0.3131991051454139
+complaint,2.734525785235724
+relations,1.2666042780748663
+sadhu,1.0
+consideration to the submissions,0.6666666666666666
+right fore-arm,0.0
+such wound,0.5
+hours,1.1644152367043934
+murder,1.4968553459119496
+chest wall,0.3333333333333333
+such delay,1.0
+acquit,2.9169230769230774
+support of this contention,1.125
+executive,1.3789130780232004
+crilj,5.333333333333333
+fine of rs,1.6
+case of defective investigation,0.5
+prosecution,4.619407894736842
+facts of the case,1.161764705882353
+fire arms,1.25
+- kilometres,0.0
+skull,0.17372881355932204
+spot,0.778096903096903
+connection,1.050640279394645
+exception,1.1036946087733006
+acute factions,0.5
+imprisonment,1.4344262295081966
+single witnes,1.0
+proof of the crime,0.5
+fact that the public prosecutor,0.6666666666666666
+reasoning of the high court,0.8571428571428571
+frontal bone,0.5
+pm on the same night,0.5
+application,2.3322596088086445
+ipc,2.785166240409207
+counsel,2.2246780703440323
+direct eye-witness account,0.0
+parts,0.6609660823170732
+number of victims,0.7500000000000001
+respondents in custody,0.6666666666666666
+commission,4.703619179345321
+mere delay,0.8
+witnesses,3.359210526315789
+testimony of a single witness,0.5
+reliance on state,0.5
+course of trial,0.8333333333333334
+more respectable inhabitants,1.0
+pradesh manuscmanusc,1.5714285714285714
+injured witnesses,2.5
+dispute between the first informant,0.5
+lower abdomen,0.5
+opinion of the doctor,1.0
+abdoman,0.0
+scope of the proceedings,0.6666666666666666
+maxim,0.9230402066486973
+greater care,0.5333333333333333
+depends,0.570230607966457
+brain matter,1.0
+names,1.766440410418311
+information that a person,0.5
+suspicious circumstance,0.8333333333333334
+hari,1.1945070711211314
+proceedings under section,1.2142857142857142
+constable joga singh,1.0
+eye-witness,0.0
+kilometers from the police station,0.5
+epigastrium region,0.5
+rigorous imprisonment,1.9230769230769231
+commission of the crime,0.8
+prosecution evidence,1.2
+acquittal,2.2714285714285714
+submissions,0.5235745614035088
+least by the time,0.5
+son,4.595622484812135
+cjm,1.0451388888888888
+paras yadav,0.5
+v state of andhra,1.2
+first anxiety,0.5
+to injury on vital organs,0.0
+to the ambit,0.6666666666666666
+dispute,2.402137592137592
+submission,1.0913871684001404
+evidence,3.6676405172088815
+uncommon occurrence,0.3333333333333333
+other relation,0.5
+nausher,0.5
+foreign to the ambit,0.5
+only anxiety,0.5
+indian condition,0.5
+conditions,1.9988092071092867
+innocent persons,0.8076923076923077
+victim,1.204831365285174
+wire gauze,1.5
+gun shot injuries in the incident,1.0
+reliance,1.400763358778626
+body of such deceased person,0.5
+feature of the case,0.75
+inhabitant,0.4840336134453781
+immediate medical aid,0.5
+detail,0.9737454684220567
+singh succumbed,1.0
+amar singh,5.0
+such wounds,0.5
+circumstance of the case,0.5
+eye - witness,0.0
+veracity,0.6470588235294118
+lakhs singh,0.5
+case,7.332269420884958
+dbbl gun,1.5
+region,2.372542065649998
+period,1.9480170842427122
+error,1.059158294766151
+jamna,0.5
+report to the police,0.75
+registrar,1.8341346153846154
+defence of a-,0.0
+mandatory for the appellate court,0.6666666666666666
+gun shot wound on different parts,0.0
+re-tried by a court of competent jurisdiction,0.0
+much depend,0.4444444444444444
+bus stand,0.625
+koshi,0.6666666666666666
+constitution,3.204842342342342
+rush to the hospital,1.0
+ram,2.11096203538064
+guns,2.3727359389895137
+number on lower abdomen,0.5
+ambit,1.0862754267009587
+similar version of the incident,0.5
+gama,1.9156626506024097
+immediate steps,0.8333333333333334
+efforts,0.7431827431827432
+vadivelu thevar v state,0.5
+injuries,2.4130008710801394
+singh,3.7791111111111113
+shot injury,0.0
+- ordinary jurisdiction,0.0
+satija,0.5
+distance of the hospital,0.5
+left thigh,0.6666666666666666
+joga,1.2000000000000002
+defence witness,1.0
+service,4.257395095954566
+wound,1.4035549703752468
+separate grain,1.0
+medical evidence,1.2820512820512822
+prosecution case,4.258064516129032
+shot injury in the incident,0.0
+faction,0.6891891891891891
+contention,1.666391070690368
+kilometers,0.20454545454545456
+nature of injuries,0.8
+f masish,1.0
+death describing,1.0
+certain omission in the ddr,0.0
+statement under section,2.1
+rule,5.04
+sufficient ground,1.6363636363636365
+additional sessions judge,1.7647058823529411
+depend,1.3066936772426387
+crpc,2.2424242424242427
+different manner,0.4761904761904762
+proceedings,1.7670925223666287
+favour,1.653145208700764
+pw sardara singh,2.5
+depend on the facts,0.875
+intrinsic merit,0.6666666666666666
+dr  george tabraham,0.0
+empty to the forensic science laboratory,0.0
+fact about the occurrence,0.0
+learned sessions judge,2.5
+resident of the same village chatha sekhwan,0.0
+following observation,0.8039215686274509
+course of nature,0.8333333333333334
+clear indication,0.4266666666666667
+brain stem,0.5
+indication of fabrication,0.0
+medical officer,1.090909090909091
+mis - carriage,0.0
+confidence of the people,0.5
+duty,3.2272215973003378
+available in proof of the crime,0.5
+gun shot injury,0.0
+pellets,0.4444444444444444
+wire gauze of the window,1.0
+hor,3.0958179864706046
+office,3.5913445886237847
+respondents,2.6341263330598856
+object of the proceedings,0.5
+frontal,0.3333333333333333
+pellet injury,0.0
+matters for appreciations,0.5
+nearest executive magistrate,0.5
+learned additional sessions judge,1.3
+jangir dass sadh,1.0
+ocular testimony,0.6666666666666666
+civil hospital,1.2
+trolley,2.2666666666666666
+opinion that the judgment,0.8333333333333334
+kilometer,0.3
+such interested witnesses,0.5
+land for cultivation,0.6666666666666666
+investigating agency,2.0625
+terminal ileum,0.2777777777777778
+abdomen,0.6666666666666666
+masish,1.0
+x-ray examination,0.0
+nature of an expert opinion,0.5
+biswanath ghosh v state,0.6666666666666666
+pellet injuries,2.0
+sentences,1.0513157894736844
+investigation of the case,1.375
+body,1.336775463480009
+point,2.9165043546008516
+am onwards,0.5
+doubt about the veracity,0.6666666666666666
+diary register,0.5
+first informant,3.0
+constable joga singh to the police station sangrur,0.5
+notice,2.3300025999395686
+reliance on the testimony,0.6666666666666666
+distance of the police station sangrur,0.5
+chief judicial magistrate,2.230769230769231
+ram bihari yadav v state,0.5
+empty for comparison,0.0
+surgery,0.648582995951417
+department of surgery,0.3333333333333333
+lobe,0.5253623188405797
+nearby dispensary,0.5
+pw dr d,1.0
+shot injuries,2.1333333333333333
+merits,0.968421052631579
+iron gauze,1.0
+figure,1.2881717501815544
+sentence,2.3896654193264366
+loding,0.9722222222222223
+police,2.9749362629783356
+steps,1.169318181818182
+essential to the unfolding of the narrative,0.5
+short towards,0.5
+minute,1.0433976833976835
+injured amar singh,0.5
+impediment in the way,0.5
+such lapse,1.0
+charge sheet,2.0526315789473686
+karnel singh v state,0.6666666666666666
+examination,2.4920345926263088
+dw- sadhu singh,0.0
+police officer,1.0366379310344829
+evidence act,3.8666666666666667
+balwinder,1.0
+omission,1.1856094505101127
+shakila,0.5
+effort,0.7536036036036036
+sbbl,0.625
+consistent version,0.6666666666666666
+daily,1.1759042772658508
+adverse inference,3.0833333333333335
+reason,2.6381270903010035
+bus,2.020565168811983
+ram bihari yadav v state of bihar manuscmanusc,0.5
+lakh,1.3647388059701493
+detail in the inquest report,0.0
+unworthy of belief,0.5
+persons as defence witness,0.5
+life,1.3352928273744242
+extra-ordinary jurisdiction,0.0
+sarpanch against hari singh,0.5
+that the witness,0.967032967032967
+for the appellate court,0.6666666666666666
+outer house,1.0
+forensic,0.4285714285714286
+sufficient in the ordinary course of nature,0.75
+lower lobe,0.5
+testimony of pw amar singh,0.5
+prosecution case doubtful,2.0
+much depend on the facts,0.0
+election for the office,0.5
+son pw bhan singh,0.5
+kilometre,1.6666666666666667
+haryana,2.935064935064935
+consideration,1.9110153789142115
+pw om prakash,1.0
+short toward,0.5
+realisation of fine,0.5
+lodging of the fir,1.2
+message,0.9435911954136882
+bruise,0.28030303030303033
+sufficient ground for interference,0.5
+court of competent jurisdiction,1.1111111111111112
+mis,4.655567008935775
+distance of  -  karams,0.0
+separate grain from the chaff,0.6666666666666666
+gauze,2.5
+clear infraction of section,1.0
+fire arm,1.2
+amar,0.8715728715728716
+front,0.8400299386969539
+clear indication of fabrication,0.0
+flagrant mis - carriage of justice,0.0
+tractor trolley,1.5
+court of sessions,1.0
+substantial mis-carriage,0.0
+evidence of such interested witnesses,0.5
+host,0.7401666846197732
+sbbl gun,1.5
+others,0.9074667328904616
+ddr,0.7095486655755922
+animal,3.672202634997217
+acts,1.9133929521984454
+holder,1.8472993827160495
+pw dr virinder kappal,0.5
+empties to the forensic science laboratory,0.5
+sandhu,0.6666666666666666
+mathur,0.7916666666666666
+care,0.8846948234137723
+complainant party,2.625
+certain omission of the investigating agency,0.0
+true that the witness,0.6666666666666666
+host of circumstances,0.5
+bham singh,1.0
+laceration of the durameter,0.5
+witnesses by the prosecution,0.6666666666666666
+joga singh,2.0
+in the ordinary course of nature,0.8333333333333334
+tiwari,1.0909090909090908
+reasonable suspicion that some other person,0.5
+plurality,0.489795918367347
+cerebral cortex,0.5
+eye-witnesses,0.0
+legislature,2.818553268765133
+family,1.856281506375408
+other relations,0.5
+paras,0.7450980392156863
+indian conditions,0.5
+duty of the public prosecutor,0.6666666666666666
+judge,2.9012627415183325
+death,2.361592909460208
+- karams from the baithak,0.0
+manuscmanusc,7.940520446096654
+gun shot wound,0.5714285714285714
+point of time,0.7999999999999999
+preformation in caceum,0.5
+name of the witnesses,0.0
+accused- respondents,0.0
+conduct,1.5998023165163158
+details of the intrinsic merits,0.6666666666666666
+dangerou to life,0.0
+substance,0.8230581678857541
+minute of the lodging,0.0
+factions,0.5833333333333334
+gun shot injuries,1.0
+am onward,0.5
+omissions of the investigating agency,0.5
+exceptions,0.6478185993111366
+window,0.4261536005109372
+direct testimony of the eye - witnesses,0.0
+conclusion,1.3883437407077015
+fact of the case,0.0
+face,0.7281253260594137
+shot,1.5276221441634974
+statement in writing,1.0
+ordinary course of nature,0.8333333333333334
+pellet injuries on right hand,0.5
+supervision,2.825
+innocence,0.8135593220338982
+sadh,1.2107843137254901
+taxy,0.0
+sequence,0.7736093451058216
+contaminated conduct of the officials,0.5
+- karam from the baithak,0.0
+- karams,0.0
+infraction of section,1.0
+order of acquittal,2.0
+basis of which pw om prakash,0.5
+register,1.2311946902654867
+circumstances of the case,1.3373493975903614
+brief,0.540112172829248
+durameter,0.5
+same doctor,0.5
+upon fact,0.8571428571428571
+science laboratory,0.4285714285714286
+marks,1.4136144754122284
+impediment,0.5668016194331984
+hand,2.0299623418254717
+same night,0.6000000000000001
+v state of bihar manuscmanusc,1.8076923076923077
+injury report of pw amar singh,0.5
+appreciation,0.7282229965156793
+requirement of the section,0.5
+much depends on the facts,0.5
+tendency,0.5150501672240803
+v state of rajasthan manuscmanusc,1.0625
+possession,2.808810857389056
+no doubt,0.8331331503088538
+accused- respondent,0.0
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+obligation,1.1071428571428574
+madra,2.836734693877551
+wire,0.7465648854961832
+which pw om prakash,0.5
+uttar,2.188679245283019
+content of the fir,0.0
+sekhwan,0.5
+confidence,0.5942028985507247
+grain,1.4777777777777779
+more respectable inhabitant of the neighbourhood,0.0
+supreme,1.443815331010453
+gurdial singh,2.5
+respective weapons,1.0
+wheat straw,0.5
+zahoor,0.5
+injured persons,1.8888888888888888
+dbbl,0.75
+lower abdoman,0.0
+to injuries on vital organs,0.5
+requirement,1.2416133333333332
+kappal,0.5
+plurality of witnesses,1.0
+ordinary hospital,0.5
+note of the following observation,0.5
+high court,7.7477477477477485
+basic purpose,0.4
+complainant,4.538461538461538
+inquest under section,0.5
+tractor trolley of major singh,0.5
+public,2.923239095873367
+state,6.817996007300392
+dr  william f masish,0.0
+chaff,0.5
+jurisdiction,2.9539571926331507
+accused- respondents in custody,0.0
+official,2.6854955160358718
+note,1.3654108484234107
+clear indications of fabrication,0.5
+preformation,0.5
+trial,3.7979448350459712
+pw-,0.0
+report of the ballistic expert,0.5
+officer in charge,1.4000000000000001
+bruises,0.3333333333333333
+holders,0.9411764705882353
+manu,7.078142071124147
+ludhiana,3.25
+other police officer,0.8888888888888888
+testimony of the eye witnesses,0.6666666666666666
+details of the overt acts,0.5
+narrative,0.3653846153846154
+christian medical college,0.75
+informant,2.935483870967742
+airsc,1.6909090909090911
+bearing on the prosecution case,0.5
+nature,1.4149926876444778
+weapon of offence,1.0
+mohan,1.5416666666666667
+sahai,1.5714285714285714
+special report,1.1666666666666667
+of the facts of the case,0.8
+duration of injuries,0.6666666666666666
+podda narayana,0.5
+pw bhan singh,4.0
+necessary for the police,0.5
+ludhiana from sangrur,0.5
+kilometer from the police station,0.0
+substantial mis-carriage of justice,0.0
+night,0.8690610404251893
+reasonable suspicion,0.6666666666666666
+alias,0.7720588235294116
+similar version,0.5
+stretch,0.5192424242424243
+prosecutor,1.1917989417989419
+instrument,1.493863846866317
+basi of which pw om prakash,0.0
+last point,0.34285714285714286
+comparison,0.7333333333333333
+court in podda narayana,0.5
+good light,0.13636363636363638
+different parts,0.5034965034965034
+such exceptions,0.75
+senior counsel,2.2857142857142856
+unfolding,0.45000000000000007
+dr as cherian,0.5
+mal singh,1.3333333333333333
+respective weapon,1.0
+mortem,1.402116402116402
+sequence of events,0.5
+persons,2.5993381990166555
+general rule,0.6352941176470589
+investigating officer,3.2580645161290325
+earliest point,1.0
+khujji alias surendra tiwari v state,0.5
+available eye witnesses,0.5

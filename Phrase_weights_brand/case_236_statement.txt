@@ -1,0 +1,258 @@
+consideration of this court,1.0714285714285714
+concept of unjust enrichment,0.5
+home,0.9826663267907214
+restriction,1.0123456790123457
+mafatlal industries,3.0
+learned judge of this court,0.5
+non-compliance,0.0
+goods,4.7578125
+paper mills,3.4
+cost,1.2954397451466992
+concedes,0.5
+scmanu,7.940520446096654
+judgment of this court,2.1029411764705883
+applicable,1.4183225921947726
+notice,2.3300025999395686
+unjust enrichment,0.8
+orders,1.4936359300077826
+right of the appellant,0.8333333333333334
+appeals,1.7060218112849692
+recoveries,2.0
+amount,3.179688593072295
+central excise,4.925925925925926
+mills,1.026315789473684
+retrospective in operation,0.5
+subsequent amendment,1.875
+assessment order,1.5555555555555556
+provisional assessment,2.0
+sub,7.816899313759727
+deficiency,0.5102880658436214
+custom,1.8742070505069293
+ground that the refund claim,0.5
+concedes that the proviso,0.5
+concede,0.6481481481481481
+meerut,0.6666666666666666
+orsmanuscmanusc,1.5
+adjustment under sub - rule,0.0
+consumption,2.4979360165118676
+elt,0.9685135464974371
+customs,1.9344608879492597
+case of the appellant,1.1714285714285715
+assistant commissioner of central excise,1.75
+falls,0.7636363636363637
+v union,1.5773809523809523
+sub-rule,0.0
+court,12.24425115501509
+fall,1.158018118245391
+operation,1.0959893294085181
+hence,1.1440732910500353
+learned counsel shri verma,0.5
+amendment,2.2486412346818434
+force,1.6009408121948314
+union,2.0981927710843373
+ground,1.4186722903211633
+assessment orders,1.0
+notification,3.0112746633260263
+aurangabadmanu,0.5
+claim for refund,0.8
+person,4.291511329454258
+ors,2.8612718198296623
+proviso,2.112
+show,1.5002130552117363
+exces of the duty,0.0
+cause,1.8431210321626654
+law,3.538923411654744
+nos,1.2635492554198444
+same manner,0.6079182630906769
+prior to the addition of the proviso,0.5
+consideration,1.9110153789142115
+chemical,1.5078102189781022
+excess,0.9860601614086574
+appeal no,2.288135593220339
+mill,1.0891891891891892
+cases,1.9728229418951067
+final assessment,0.6666666666666666
+paragraph,1.2930197483150305
+time,2.4764180952862667
+concept,0.9402138540213855
+claim of refund,0.5
+consequent upon finalisation of provisional assessment orders,0.5
+synthetics,1.0
+commissioner,2.271608643457383
+pursuant to the finalisation,0.5
+clause,3.526455026455027
+appeal nos,1.6666666666666667
+shri,2.0759135877246115
+view,2.441100058469462
+restriction of section,0.0
+reply,1.0337305560040906
+restrictions of section,0.5
+finalisation of the provisional assessment,0.5
+amount of excise duty,1.8
+assessments,2.571428571428571
+vide,4.454025282767798
+restriction in section,0.0
+refund,2.670692431561997
+commissioner of central excise,1.7272727272727273
+home consumption,0.75
+sinkhai synthetics,0.5
+regard to the procedure,0.6666666666666666
+that appellant,1.3529411764705883
+refunds,0.75
+merit,1.2419290263876248
+paper mill,5.0
+claim,2.817264601856604
+learned counsel shri verma for the department,0.5
+situations,0.7435282837967402
+provisional assessment order,1.0
+assesses,2.6
+other person,0.9635036496350365
+assessment,2.647276084949215
+star,0.8866002844950213
+appeal,3.4125488033856883
+addition,1.5588539142412572
+departmental authority,0.0
+right,3.07483248288682
+assistant,1.6732837055417698
+hereinafter,0.7670609645131939
+departmental authorities,1.0
+recovery,3.9892473118279574
+result,1.3356630184144715
+good,2.6154941054299674
+judge,2.9012627415183325
+authority,2.4352627108360636
+provisions,3.8929824561403508
+sinkhai synthetic,0.5
+to the finalisation,0.5
+view of the commissioner,0.5
+procedure,2.552771605064117
+civil appeal no,2.1403508771929824
+shri verma,1.0
+excise duty,5.818181818181818
+counsel,2.2246780703440323
+exces,0.9881465517241379
+excess of the duty,0.75
+central excise act,2.4285714285714284
+mafatlal,1.8571428571428572
+such refund,0.75
+provision,5.439002243350069
+upon finalisation of provisional assessment orders,0.5
+application,2.3322596088086445
+finalisation of provisional assessment orders,1.0
+long time,0.5379746835443039
+period of limitation,3.3181818181818183
+india,2.7684068260703585
+authorities,1.266131845134287
+limited,1.3713554955535188
+aurangabadmanuscmanusc,0.5
+assistant commissioner,1.8125
+rules,3.130914366958792
+judgment,3.288216560509554
+same question,0.5357142857142857
+claims,1.1941982272360998
+refund claim,5.0
+judges,2.0931496919173616
+civil appeal nos,1.5416666666666667
+court in mafatlal industries,1.5
+order,5.472481489660944
+refund claims,1.5
+pursuant,0.7227692307692308
+verma,0.8524475524475524
+above order,1.7857142857142858
+view that the refund claim,0.5
+paper,1.8076689487632511
+view that the case,0.6666666666666666
+act,12.870263922028107
+assessment in situations,0.6666666666666666
+learned judge,3.3692307692307693
+sub-section,0.0
+assessee,15.925925925925926
+department,1.9858367499068206
+subsequent judgment,1.0
+clauses,1.5486111111111112
+show cause notice,2.9565217391304346
+accordance with the procedure,0.875
+ltd,2.382356477306883
+application for refund claim,0.5
+cce,2.1435495791771464
+enrichment,0.4210526315789474
+dispute,2.402137592137592
+excise act,2.2941176470588234
+thereto,1.0358342665173572
+circumstances,1.3944461370073231
+finalisation,1.5
+appellant,14.387096774193548
+industry,8.208106219426973
+effect,2.184583388478191
+consequent upon the adjustment under sub-rule,0.0
+export,2.527777777777778
+view of the tribunal,1.0
+refund claim of the appellant,1.0
+finalisation of provisional assessments,0.5
+excise,4.429175475687103
+manner,1.4494591333432125
+compliance,1.0029799914857385
+addition of the proviso,0.6666666666666666
+case,7.332269420884958
+period,1.9480170842427122
+section,9.287987283173626
+rule in mafatlal industries,0.5
+restrictions,0.7241671372106155
+manu,7.078142071124147
+gold,1.6014084507042254
+central,2.61875
+merit in appeal,0.5
+appellate,2.561224489795918
+leviable on the goods,0.75
+upon the adjustment under sub - rule,0.0
+chemicals,0.8728571428571429
+june,0.9339080459770116
+consequence,0.8726692512593296
+accordance with the provisions,1.9523809523809523
+proviso thereto,0.8
+sinkhai,0.5
+export in the same manner,0.6666666666666666
+circumstance,1.429931390219372
+v union of india,2.381818181818182
+contention,1.666391070690368
+non-compliance with section,0.0
+subsequent judgment of this court,0.5
+rule,5.04
+regard,2.723310344827586
+mafatlal industry,0.0
+- compliance with section,0.0
+tribunal,5.07183212267958
+dispute that the refund claim,0.5
+application for refund,1.3333333333333333
+assess,4.0251399052948775
+date,6.195616975795285
+situation,1.1254754682459434
+proviso to sub - rule,0.0
+limitation,2.4984479402325457
+supra,2.246342614440774
+cegat,1.8571428571428572
+provisional assessment orders,1.0
+bench,2.5793391667754992
+synthetic,0.9056603773584907
+duty,3.2272215973003378
+law applicable,0.49999999999999994
+control,2.148867902684286
+civil appeal,2.2413793103448274
+effect of the proviso,0.6666666666666666
+adjustment,0.6982649174777825
+leviable,3.05
+pvt,0.8625817965496728
+learned judges of this court,1.2
+provisional assessments,0.5
+srikrishna,0.5
+provisional assessment in situations,0.6666666666666666
+accordance,1.4069045211613462
+july,0.9742727723122656
+learned judges,3.4864864864864864
+costs,0.8167395522604189
+restrictions in section,1.0
+accordance with the law,1.0
+industries,2.162068965517242
+- compliance,0.0
+question,2.980312372067635
+ltd v,1.579454253611557

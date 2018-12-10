@@ -1,0 +1,1110 @@
+capacity,1.7421691881525676
+findings,1.049571253572887
+standpoint,0.47619047619047616
+petitioner within a week,0.5
+government,3.5583785424010483
+satisfactory evidence,1.0
+officer of the criminal case,1.0
+director,1.3549769585253457
+examination of ctpt unit,0.5
+shows,0.8030554811042616
+concerned magistrate for recall,0.5
+north,0.8632276384287743
+purpose of judicial review,0.5
+surcharge,1.8000000000000003
+assessed units,1.0
+result of this order,0.5
+voucher of the purchase,0.0
+constitution of india,3.0095238095238095
+signature,1.1400966183574879
+variable,0.23848238482384823
+sphere,0.622245268343272
+correctness of the decision,1.125
+indian electricity act,2.142857142857143
+kva per ton,0.5
+wires of higher resistance,0.5
+indicator,0.7086466165413534
+various circumstances,0.5555555555555556
+high level team,0.5
+finding to the effect,0.75
+consideration of these factors,0.5
+terms,2.390350840909655
+los,1.8125523261338943
+inter,3.683850287482992
+basi of the final order,0.0
+that seal of terminal cover,0.5
+hyderabad,2.5833333333333335
+only dispute,0.5
+lesser consumption,0.5
+steel ingot,0.5
+chief engineer mention,0.5
+contract demand,0.5
+energy cases,0.5
+rate per unit,3.0
+shifts,0.5843478260869566
+court,12.24425115501509
+ctpt terminal box,3.0
+evan,1.7662400480579818
+than the sanctioned load in case,0.5
+los of rs,0.0
+basantibai,0.5
+basis of a formula,1.0
+which final report,0.5
+production,2.1071428571428577
+eye,0.9466574319441098
+clear finding that the seal,0.5
+agreement,3.450434632433366
+kva for the furnace,0.5
+production of satisfactory evidence,0.5
+in law,1.1088664421997756
+division bench by the impugned judgment,0.8
+single judge,4.011627906976744
+patna high court,1.4166666666666667
+clear that the power,0.5
+review of the decision - making process,0.0
+person,4.291511329454258
+show,1.5002130552117363
+ors,2.8612718198296623
+cause,1.8431210321626654
+correctness,0.8404159132007234
+feasibility,0.45652173913043476
+electricity board,2.2285714285714286
+behalf,1.9888053603529987
+meghaterm,0.5
+part,5.294464509893076
+systems,0.3927792585413133
+electricity charges in accordance,0.5
+terminal,1.5077825670498082
+consciou of the fact,0.0
+compensatory bill,2.0
+appropriate tariff rates,1.0
+per day,0.3781512605042017
+- towards fuel surcharge,0.0
+chief engineer after consideration,0.5
+number official of the board,0.0
+mere acceptance of final report,0.5
+chief engineer that the compensatory bill,0.5
+assessment for compensation,1.0
+terms of the order,1.0
+vanaspathi ltd  v ap,0.0
+teams of the electricity board,0.5
+days of the payment,0.6666666666666666
+fresh electricity bill,0.5
+behalf of the electricity board,1.0
+recording of the meter,0.5
+ctpt box,0.5
+number,1.4802651440973922
+shri,2.0759135877246115
+annexure-,0.0
+character,0.9325990965842764
+decision,2.9514937765898557
+contrary,1.027917657672435
+industrial connection,0.5
+officer of the bihar state electricity board,0.0
+ingots,1.5
+furnaces,4.333333333333333
+seal on the ct  pt terminal box,0.0
+opportunity of personal hearing,1.0
+recourse to artificial means,0.5
+aforesaid,2.592896174863388
+kva air,0.5
+proceedings under article,0.6666666666666666
+permission,1.1531211886018407
+bihta,0.5
+claim,2.817264601856604
+review of the manner,1.0
+relevant material,1.0
+correctnes,0.8404159132007234
+distinction,0.7312167973690868
+appeal,3.4125488033856883
+accessible to the consumer,0.5
+sanctioned load,1.0
+number officials,0.5
+correctnes of the decision making process,0.0
+business premises,0.5
+infirmity in the assessment,0.5
+formula,1.9020570115902682
+kva as the actual load,0.5
+minimum consumption of power,0.5
+scr,2.483838975311538
+help of screw,0.5
+refers,0.6484772632457239
+writ petition under article,1.2
+area,2.675167256985439
+accordance with the order,0.8
+categorical finding that the seal,0.5
+relevant facts,0.7692307692307692
+other right under the agreement,0.0
+month,1.3454861111111112
+learned single judge,3.4935064935064934
+allegation that the petitioner,0.5
+chopra,1.4
+forth,0.7104532839962997
+alia,0.9479866480753792
+different team of the electricity board,0.0
+average basi,1.0
+members of the team,0.3333333333333333
+wherein,1.0724137931034483
+number official,0.5
+brightman,0.3333333333333333
+judgment,3.288216560509554
+recording of consumption,0.5
+theft,2.165094339622642
+detailed order,0.875
+seal of ct  pt unit,0.0
+counsel for the petitioner,1.4242424242424243
+electricity act,7.222222222222222
+maharaja,1.1428571428571428
+relevant part of the findings,0.5
+ton,0.8835972971941766
+power under section,1.7142857142857142
+order,5.472481489660944
+that authority,0.5333333333333333
+faulty recording,0.5
+electrical energy andor,0.5
+officer of the electricity board,0.5
+loss,2.0689655172413794
+open to the petitioner,1.0
+alloys,1.0714285714285716
+act,12.870263922028107
+clear finding,0.5
+relevant factor,0.8663594470046083
+bihar state electricity boards,0.5
+megatherm,1.0
+units per month,1.0
+crores,6.931034482758621
+to the petitioner,2.088888888888889
+pursuance,1.543859649122807
+rule of natural justice,1.0
+supply without notice,0.5
+guarantee,2.2562167724232554
+cases of fraud,0.6666666666666666
+average,0.9365131578947369
+tariff notification,0.6666666666666666
+number officials of the board,0.5
+that no reasonable authority,0.5
+actual load of the furnaces,0.5
+transformer,0.6074766355140188
+tension,0.7566601314727253
+capacity of induction furnace,1.0
+parameters,0.8168253968253969
+case of a high tension,0.5
+meter reading of jd,0.5
+acceptance of final report,0.5
+state government,3.027142857142857
+electrical,2.955939132409721
+evidences parameters,0.5
+relevant fact,0.9393939393939393
+effect,2.184583388478191
+hailsham,0.6666666666666666
+basis of a formula wherein,0.5
+level,1.1533169827122092
+minimum,1.388221153846154
+flow,0.7030075187969925
+patna,2.3421052631578947
+officers of the bihar state electricity board,0.5
+load than the contracted demand,0.5
+other material,0.6175438596491228
+pilferage whichever,0.5
+induction,1.5217391304347827
+om prakash,2.125
+trivector meter,0.6666666666666666
+apparel,0.2777777777777778
+merits - legality distinction,0.0
+division bench of patna high court,0.5
+manner,1.4494591333432125
+administrative authority on a matter,0.5
+official of the bihar state electricity board,0.0
+mere acceptance,0.75
+member,2.649111111111111
+thereby,0.8226831482645437
+period of dishonest abstraction,0.5
+counsel for the electricity board,1.5
+kva for auxiliary load,0.5
+ms jmd,2.5
+danapur,0.5
+required energy,0.5
+detection,0.38620689655172413
+level team,0.5
+vouchers of the purchase,0.5
+section,9.287987283173626
+tampering,1.8285714285714287
+seal on the terminal box,0.5
+sanctioned load in case,0.5
+facts with the inspection report,0.5
+clause of the tariff,7.5
+fir,2.85390975582079
+madhya,2.9183673469387754
+water,0.9741079360379036
+higher resistance,0.3333333333333333
+tariff,11.052631578947368
+relevant part,0.8979591836734694
+condition,2.259476395625584
+minimum consumption,1.0
+show-cause notice,0.0
+appeal against the decision,0.75
+other right,0.6222222222222222
+part of the tariff,0.5
+external device,0.20833333333333334
+executive engineer,6.375
+dates,2.6187832912811886
+place,2.333104345208554
+circumstance,1.429931390219372
+officers,2.442124212421242
+clauses in the tariff,0.5
+seal,1.5645371577574967
+finding,1.8129183657767178
+present case,1.5611814345991561
+mean,2.390645692553228
+notice-,0.0
+next contention,0.8
+case of theft,0.5
+connection of electricity,0.5
+assistant executive engineer at the police station,0.5
+regard,2.723310344827586
+evans,0.43881856540084385
+reddy,0.7218614718614719
+large number officials of the board,0.5
+promotion,2.946428571428571
+ctpt,4.444444444444445
+proces,1.627944583238701
+system of supply,0.5
+magistrate for recall,0.6666666666666666
+engineer mention,0.5
+rights,1.6349541930937281
+hours per day,0.5
+ctpt terminal unit,0.5
+dispute of this kind,0.5
+bihar area,0.5
+fault,0.8125244007183572
+court at the appropriate time,0.5
+facts,1.4696673624372698
+issue,2.766776251628934
+para,2.300239586747483
+actual load ie,0.5
+making,1.409351874023649
+ct  pt terminal box,0.0
+lakh units per month whereas bills,0.5
+thereof,1.7897727272727273
+investigating,1.5794836956521738
+v maharaja dharmander prasad singh,0.5
+irregularity,2.0
+feasibility report,0.5
+basi,2.0752712086391383
+x m,0.7096849550631064
+justification,0.6859587020648967
+various circumstance,0.5555555555555556
+association of bihar,1.0
+writing,1.1746753246753248
+liability of the petitioner,0.5
+electronic,0.8187364493520899
+than the contracted demand,1.0
+method,0.9027027027027026
+totalling,0.6857142857142857
+days,1.6721350893491447
+consumer m  s,0.0
+time of the inspection,1.0
+formula ie,0.5
+afresh on the basis of the final order,0.5
+shri reddy,1.0
+dishonest abstraction of electrical energy,0.5
+contract,6.227349970404598
+lefxhed,0.5
+units,5.004460400348129
+assessed unit,1.0
+lakh units per month whereas bill,0.5
+petitioner,4.524972253052164
+individual,1.1485140562248994
+mt furnace,1.5
+higher load,0.5
+cost,1.2954397451466992
+rules of natural justice,0.8
+defences against the charge,0.5
+basis,1.953226441078104
+eye of the court,0.0
+bhp cthis factor,0.0
+industrial connection of electricity,0.5
+holding,1.2555282555282552
+large extent,0.6818181818181818
+stands for number,0.5
+cost of electricity,1.0
+that seal,0.3333333333333333
+refer to the merits-legality distinction,0.0
+than the sanctioned load,1.0
+factory premises,1.6666666666666667
+factory premise,1.6666666666666667
+sub,7.816899313759727
+metering unit,1.0
+same day,0.8830188679245283
+relevance,0.6870535714285714
+petitioner under clause,0.5
+megatherm electronic pvt,1.0
+order of the chief engineer mentions,0.5
+magistrate,3.522077922077922
+charge,2.7679815308681284
+evidences parameter,0.5
+recording of both kva,0.5
+cranes,0.5
+grounds,0.9540208829455945
+pradesh,4.365853658536586
+petitioner s factory premises,0.0
+examination of the decision making process,0.5
+contention that the dispute,0.6666666666666666
+officer,3.1197242647058823
+terminal cover,1.5
+more than the sanctioned load,1.0
+charges,2.061307113938693
+specific permission,0.3333333333333333
+ground,1.4186722903211633
+alse general of police,0.0
+letters,2.0877496159754223
+crore,4.747474747474747
+electricity connection,0.5
+compensatory amount,1.5
+order on the actual production,0.5
+energy,2.532098416289593
+opportunity,0.946186440677966
+lord brightman,0.5
+total capacity,1.3333333333333333
+variant factors of the consumption,0.5
+bihar state electricity board,2.75
+basis of the final order,0.5
+detection of the pilferage whichever,0.5
+abstraction of electrical energy,1.0
+impugned judgment,2.0927152317880795
+signatures thereon,0.5
+average period,0.5
+gopal,1.1610169491525424
+applicable to the consumer,1.0
+inquiry,1.3527272727272728
+lsx,0.22413793103448276
+matter,2.8088923076923082
+kva per mt,1.0
+relevance of the factors,0.5
+factory premises of the petitioner,0.5
+relevant factors,0.8608695652173913
+mt ingot,0.5
+article,4.378806157159795
+bearing,0.7901184156798694
+basi of a formula wherein,0.0
+natural working of the meter,0.5
+engineer,3.318922187370092
+inspection of the petitioner,0.5
+trivector,0.6666666666666666
+executive magistrate,1.7142857142857142
+stress,0.5011072445428663
+term,3.6255105640901575
+supplier,0.5907692307692307
+maximum demand indicator,1.0
+to all consumers,0.5
+body seal,0.5
+view,2.441100058469462
+indian,1.2604961505560306
+liability,2.532836248924577
+opinion,1.4960606342789635
+electricity charge in accordance,0.0
+screw,0.2065997130559541
+v basantibai,0.5
+cases of theft,0.5
+admitted position,0.9166666666666666
+merit,1.2419290263876248
+other officer of the electricity board,0.5
+various pleas,0.5
+ct  pt terminal cover,0.0
+stand for number,0.0
+resistance,0.41131105398457585
+lord,1.6027618015615013
+unit,2.176678509944691
+steel,1.615214878638226
+distinct clause in the tariff,0.0
+compensatory,1.7142857142857142
+assistant,1.6732837055417698
+result,1.3356630184144715
+officials,1.3691666666666666
+entire material,0.8
+signatures,0.9850746268656717
+vanaspathi,0.5
+terminals,1.0
+bihar,4.587301587301587
+detection of unauthorised load,0.5
+record,2.5393414390845273
+material,1.4148767018946966
+consumption of power,0.5
+electronic meter,0.5
+scope,0.8412698412698413
+defence,1.3606588776096535
+thrice,1.05
+in any manner,0.665158371040724
+division bench of the high court,1.6825396825396826
+polouse,0.0
+mt ingots,0.5
+total capacity of induction furnaces,0.5
+workers,1.9961977186311788
+provision,5.439002243350069
+support,0.8630946786249609
+in the tariff schedule,0.5
+parameter,0.7630669107179174
+case of fraud,1.0
+basis of these findings,0.6666666666666666
+wale,0.2046783625730994
+tariff rate,3.25
+stres,0.5060879263872107
+tampered seal,0.5
+business,2.8512056385864457
+alleged acceptance,0.5
+minimum consumption guarantee charge,0.5
+electrical energy,5.466666666666666
+applicable to all consumers,0.5
+in the eyes of the court,0.5
+demand indicator,1.0
+accordance with part,0.75
+premises,1.290983606557377
+dispute that the chief engineer,0.5
+large number,1.0979284369114877
+fact,3.6284951019474962
+units per month whereas bill,0.5
+load of induction furnace,0.5
+senior counsel for the petitioner,1.0
+state electricity board,2.125
+learned counsel,3.703333333333333
+recording,1.3265454545454545
+stress on the fact,0.5
+cost of a unit,0.5
+unauthorised by the consumer because the consumption,0.5
+rational basi,0.46296296296296297
+terminal box,4.5
+wales,0.203030303030303
+sub-station bihta,0.0
+bihar state electricity board consumption equivalent,0.5
+such cases,0.7390180878552971
+total capacity of transformer,0.5
+more than the sanctioned load in case,0.5
+deputy,1.1595268542199488
+deputy superintendent,0.8
+commission of fraud,0.5
+chief,1.9429638234317954
+station,1.2515681586858238
+clauses,1.5486111111111112
+view that the order,0.8571428571428571
+footing,0.6555183946488294
+that part of the judgment,0.8
+shri gopal subramanium,1.0
+theft of power,0.5
+hour,1.1326135248230613
+object,1.4940119760479043
+presence of artificial means,0.5
+demand,1.5671679197994988
+prasad,1.1407089151450054
+unit basis,0.5
+maximum period,1.5
+kw ie,0.5
+stand,1.8422769621739425
+pilferage,1.75
+natural working,0.5
+power in question,0.5
+final order,1.1466666666666667
+plastic seal,0.5
+evidences,0.5483870967741935
+fraud,2.7602996254681647
+member of the team,0.5
+electricity bill,0.7619047619047619
+system,1.1230229504341178
+support of the appeal,0.8888888888888888
+induction furnace,5.5
+extent,1.410108024691358
+times,0.8987140267391797
+aforesaid decision,1.15625
+other rights under the agreement,0.5
+kva,1.6657458563535912
+bhp at the time,0.5
+light,0.8816192372754331
+defences,1.1904761904761905
+distinct claus,0.5
+such case,0.7332761578044598
+basis of this formula,0.5
+- towards the cost of units,0.0
+exercise,1.9400726466785694
+electricity charges,1.3333333333333333
+report,1.7768151696835826
+clause in the tariff,0.0
+stres on the fact,0.0
+seal of the ct  pt terminal cover,0.0
+judicial,2.8688059701492543
+principle,1.9620890732001848
+induction furnaces,2.5
+imply,0.5714042449674633
+review,1.3564101463582128
+engineer that the compensatory bill,0.5
+judicial review under article,0.5
+order by which final report,0.5
+kva therefore the load,0.5
+factor,1.2878742338904643
+justice,2.292557084574302
+consumer in bhp c  this factor,0.0
+following malpractice,0.5
+part thereof,1.6333333333333333
+authority on a matter,0.5
+inspection report,0.8
+box,1.5968425105891417
+bihar state electricity board feels,0.5
+metering,1.35
+constable of the north wales police v evans,0.5
+applicable in the tariff schedule,0.5
+month whereas bills,0.5
+consumer,4.596273291925465
+sub-para,0.0
+assessment charge,1.0
+headquarters,0.5345622119815667
+inspection,0.8496732026143791
+days for which theft,0.5
+term of conditions,0.0
+approval,1.4085456739300164
+allocation,0.5581395348837209
+basi of the aforesaid facts,0.0
+malpractice,0.72
+division bench,3.965217391304348
+date,6.195616975795285
+bill,1.134631348577466
+rational basis,0.46296296296296297
+jmd,0.91
+possible evidence,1.0
+afresh,0.6891891891891891
+minimum consumption guarantee charge per bhp,0.5
+theft of energy cases,0.5
+consumers,3.861290322580645
+subramanium,1.6666666666666667
+offence,4.401610644257703
+chief justice,4.684210526315789
+presence,0.9604834261070158
+hearing,0.9644508209787979
+pradesh electricity board,0.8
+madhya pradesh electricity board,0.6666666666666666
+lakh units,1.5
+executive engineer at the police station,0.5
+schedule,2.9453067257945307
+accordance,1.4069045211613462
+inspector,1.2705882352941176
+meter reading,0.3684210526315789
+day,1.550999710228919
+fuel,0.996606536881586
+pleas,0.6851599700282798
+ambit of section,1.5
+general manager - cum - chief engineer,0.0
+basi of these findings,0.0
+question,2.980312372067635
+principles,1.3198511166253102
+different team,0.2647058823529412
+mt induction furnace,0.5
+load,2.0086580086580086
+appropriate tariff rate,1.0
+such cases of fraud,0.5
+council,1.464939453675021
+voucher,3.204918032786885
+police station,1.40045766590389
+electricity board by the petitioner,0.5
+j in state,0.5
+engineer after consideration,0.5
+factory premise of the petitioner,0.0
+scmanu,7.940520446096654
+word,2.065873981084096
+writ,2.8882378560889794
+unit consumption,0.5
+appeals,1.7060218112849692
+permissible in law,1.35
+months,1.1938163721148947
+amount,3.179688593072295
+august,0.977116704805492
+cover of the lt terminal box,0.5
+supplier of the furnaces,0.5
+consumption of electricity,1.8
+refer,3.840717772752903
+that part,0.9543770509156346
+value of the electrical energy,1.0
+board at the time,0.5
+last inspection of the petitioner,0.5
+formula wherein,0.5
+of the fact,0.9194706545605603
+such case of fraud,0.0
+connectioninstallation whichever,1.0
+term of the order,0.0
+prakash,1.8933333333333333
+consumption guarantee charge,0.5
+high,5.367119186841496
+payment,2.059553716565686
+more than the contracted demand,0.5
+members,1.9437616522164103
+assessment of compensatory amount,1.0
+correctnes of the decision,0.0
+auxiliary load,2.5
+natural justice,2.6666666666666665
+sic,1.1611481056257176
+account,2.5754891049671977
+north wales police v evans,0.5
+eyes of the court,0.5
+purchase,3.239871541501976
+force,1.6009408121948314
+perverse in any manner,0.5
+notification,3.0112746633260263
+that the power,0.8076923076923077
+factory,1.1501182033096926
+constable,1.0606060606060606
+shri vr,1.5
+purpose,2.519170317925504
+help,0.7217940266720754
+law,3.538923411654744
+interference,0.5733527484528578
+nos,1.2635492554198444
+actual production,0.5
+that the petitioner,1.9230769230769231
+industrial consumer,0.5
+teams,0.3047619047619048
+observation,0.7625074854374218
+seal in ct  pt unit,0.0
+show cause notice in the light,0.5
+dharmander,0.5
+time,2.4764180952862667
+cases,1.9728229418951067
+division,1.7657319129617017
+treatment,1.1351020408163266
+allegation,1.834319526627219
+manager - cum - chief engineer,0.0
+provisions of clause,1.0
+higher load than the contracted demand,0.5
+many variable,0.30000000000000004
+board,2.401414435268602
+plier,1.8352136752136752
+many variables,0.30000000000000004
+conclusion that the actual load,0.5
+wires,0.618945868945869
+vouchers,3.2857142857142865
+stands,0.7032366540563262
+different teams,0.2647058823529412
+correctness of the decision making process,0.5
+statutory in character,0.6666666666666666
+decision - making process,0.0
+categorical finding,0.75
+auxiliary load like water supply,0.5
+hours,1.1644152367043934
+assessment,2.647276084949215
+executive,1.3789130780232004
+aforesaid facts,0.8571428571428571
+right,3.07483248288682
+shri subramanium,0.5
+hereinafter,0.7670609645131939
+legal position,0.7659574468085106
+accordance with clause,1.5
+terminal seal,0.5
+running,1.4160059791608657
+alloys ltd,2.0
+connection,1.050640279394645
+dishonest abstraction,1.0
+unauthorised load,0.5
+appeal from a decision,1.0
+counsel,2.2246780703440323
+absence,1.092363454568179
+application,2.3322596088086445
+chief constable of the north wales police v evans,0.5
+rates,0.9535092413452435
+water supply,0.6944444444444444
+worker in each shift,0.0
+to the consumer,1.9047619047619049
+india,2.7684068260703585
+irregularity of any kind,0.5
+flow of energy,0.5
+commission,4.703619179345321
+charge of theft,0.5
+rules,3.130914366958792
+reading,0.9004509191814082
+alse general,0.0
+manufacturer of the induction furnaces,0.5
+that clause,1.5
+central bihar area,0.5
+large number of officers,0.75
+ingot,0.7758620689655172
+chief constable,0.6666666666666666
+dependent upon the fuel surcharge,0.5
+value thereof,0.6666666666666666
+manager of the petitioner,0.5
+association,1.2099052684061826
+pursuance of the order,1.0
+device,0.5076282415294341
+outset,0.5899159663865546
+acceptance,1.4762112614578786
+variant,0.2007042253521127
+chief engineer mentions,0.5
+eyes,0.4774823657080847
+tariff schedule,0.6666666666666666
+submissions,0.5235745614035088
+basi of alleged acceptance,0.0
+furnace,4.0
+consideration for the purpose,0.875
+executive engineers,1.3333333333333333
+capacity of transformer,0.5
+mention,1.6248742837095076
+basi of a formula,0.0
+ltd,2.382356477306883
+dispute,2.402137592137592
+submission,1.0913871684001404
+evidence,3.6676405172088815
+electrical energy at a load,0.5
+shri om prakash,1.3333333333333333
+crane,0.21875
+therefore under the tariff,0.5
+business premise,0.5
+recall,1.8577938988095235
+conditions,1.9988092071092867
+large number officials,0.5
+manufacturer,1.7352281226626773
+installation,0.5759005145797599
+meters,0.9235886065154357
+replacement,0.5521844660194175
+other rights,0.4666666666666667
+fact with the inspection report,0.0
+accordance with the decision,0.75
+writ petition before the high court,1.0
+place to mention,0.6666666666666666
+vigilance,0.75
+average basis,1.0
+standpoint of section,0.5
+consumption of energy,1.0
+purpose of a trial,0.5
+case,7.332269420884958
+period,1.9480170842427122
+month whereas bill,0.5
+lt terminal box,0.5
+error,1.059158294766151
+supply,2.0557395143487858
+petitioner s factory,0.0
+responsible officer,1.0
+much longer period,0.5
+annexure,2.7560975609756095
+crores to the electricity board,0.5
+opportunity of hearing,1.25
+fresh bill,1.0
+constitution,3.204842342342342
+letter,2.707240080105903
+director general of police,0.8
+kvamt,0.3333333333333333
+words imply,0.3333333333333333
+factors,0.9829522460542292
+cum,1.9825519589997616
+engineer mentions,0.5
+value of electricity,0.5
+learned magistrate,4.454545454545454
+executive magistrates,0.5
+shift,0.6473508552357112
+final report,1.3426573426573427
+ambit,1.0862754267009587
+no of days,1.0
+singh,3.7791111111111113
+scope of inquiry,0.5
+board in exercise,0.5
+service,4.257395095954566
+lord hailsham,0.6666666666666666
+variant factors,0.5
+court of law,0.673963133640553
+therefore,2.960332350576253
+contracted demand,3.0
+basis of the aforesaid facts,0.5
+right under the agreement,0.0
+contention,1.666391070690368
+application to a case,0.5
+assumption,0.47735650342285413
+replacement etc,0.5
+refers to the merits-legality distinction,0.0
+rental,1.1767241379310345
+inter alia,1.3280423280423281
+rule,5.04
+number of units,0.6666666666666666
+consumption guarantee charge per bhp,0.5
+review under article,1.0
+proceedings,1.7670925223666287
+seizure,0.6583598956824108
+external devices,0.2777777777777778
+decision making proces,1.0793650793650793
+load of an induction furnace,0.5
+north wales police v evan,0.5
+venkatachaliah,1.25
+petitioner s factory premise,0.0
+necessary assessment for compensation,0.5
+matter of law,1.0
+duty,3.2272215973003378
+finding that the seal,1.5
+bench,2.5793391667754992
+artificial mean,1.0
+civil appeal,2.2413793103448274
+decision making process,1.0793650793650793
+working of the meter,0.5
+charges for rental,0.5
+pvt,0.8625817965496728
+headquarters of the electricity board,0.5
+personal hearing,0.9523809523809524
+legality,0.6845938375350139
+superintendent,1.2698412698412698
+costs,0.8167395522604189
+criminal court,2.888888888888889
+different teams of the electricity board,0.5
+basis of alleged acceptance,0.5
+load like water supply,0.5
+wlr,0.396
+domestic,1.5558628318584073
+officials of the bihar state electricity board,0.5
+rights under the agreement,0.6666666666666666
+compensatory bill in terms,1.0
+cwjc,0.9444444444444444
+body,1.336775463480009
+process,1.6274942048088725
+aforesaid clause of the tariff,0.5
+charge for rental,0.0
+domestic service,0.5
+tariff rates,2.75
+furnace besides  kvamt,0.0
+variant factor,0.5
+notice,2.3300025999395686
+evidence relating,0.42352941176470593
+aforesaid fact,0.9230769230769231
+high tension consumer,0.5
+energy andor,0.5
+account of the fact,1.0256410256410258
+power,3.8165227690948367
+merits,0.968421052631579
+police,2.9749362629783356
+premise,1.2347417840375587
+actual load,2.0
+host of factors,0.5
+factory of the petitioner,0.5
+specific provision,1.1363636363636365
+examination,2.4920345926263088
+apparel export promotion council v ak,0.5
+distinct clauses in the tariff,0.5
+capacity of induction furnaces,0.5
+seizure memo of the tampered seal,0.5
+consumption,2.4979360165118676
+assessment for consumption,0.5
+effort,0.7536036036036036
+patent,1.3540828816226613
+lakh units per month,1.0
+workers in each shift,1.5
+conscious of the fact,0.5833333333333334
+reason,2.6381270903010035
+engineers,1.7887874837027378
+operation,1.0959893294085181
+part of the findings,0.5
+lakh,1.3647388059701493
+signature of the authority,1.0
+position,1.549133168619177
+artificial means,1.0
+inspecting team,0.5
+one,4.845669314438648
+large number official of the board,0.0
+chief engineer,7.363636363636363
+writ petition,6.24223602484472
+petition,5.3436539306104525
+category,1.9351744779266717
+relevant part of the tariff,0.5
+part of the electricity bill,0.5
+boards,0.5774818401937046
+last inspection,0.5
+consideration,1.9110153789142115
+theft of electricity,4.333333333333333
+petitioner on the same day,0.5
+para i,1.4848484848484849
+lakh unit,1.5
+meter,1.3483165377704869
+fund,2.9945256868353374
+words,1.6384367086179112
+month for the assessment,0.0
+massive scale,0.2692307692307692
+plea,1.4430487701432178
+value,1.7137907830478438
+absence of any evidence relating,0.5
+clause,3.526455026455027
+which energy requirement,0.5
+per day as the factory,0.5
+order of the division bench,1.1111111111111112
+bills,1.017857142857143
+team,0.7272900763358778
+host,0.7401666846197732
+air,2.0589664272145285
+rate in accordance,0.5
+energy case,0.5
+reply,1.0337305560040906
+senior counsel for the electricity board,1.5
+care,0.8846948234137723
+induction furnace from meghaterm,0.5
+mathur,0.7916666666666666
+upon the fuel surcharge,0.5
+reply to the show cause notice,1.0
+inspection of the business premises,0.5
+months for the assessment,0.5
+director general,0.9000000000000001
+capacity of the furnaces,1.0
+patna on account,0.5
+working,1.1479822756765312
+appropriate time,0.6000000000000001
+compensatory amount under clause,1.0
+sphere of jurisdiction,0.5
+x f x h x d,0.5
+detailed show cause notice,0.5
+account of relevant factors,0.5
+to all consumer,0.5
+cost of units,0.5
+low recording of both kva,0.5
+high court in cwjc,0.6666666666666666
+recourse,0.9157232704402517
+authority,2.4352627108360636
+judge,2.9012627415183325
+opinion that the view,0.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+induction furnace association of bihar,0.5
+view of clause,1.0
+assistant executive engineer,1.2
+abstracted electrical energy,0.5
+seal bearing,1.0
+accordance with the tariff,0.5
+fair treatment,0.7407407407407407
+terms of conditions,0.75
+provision of the electricity act,0.0
+abstraction,0.5263157894736842
+energy at a load,0.5
+finding by the criminal court,0.5
+nos of days,0.5
+provision of clause,0.0
+day for which theft,0.0
+decision - making proces,0.0
+conclusion,1.3883437407077015
+obstruction,0.47058823529411764
+final report in the criminal case,0.5
+hrs,0.8909952606635071
+steel ingots,0.5
+anand,1.15
+bill in terms,1.5
+feeder,1.3481481481481483
+administrative authority,1.25
+electricity duty,3.6666666666666665
+higher rank,0.6666666666666666
+unit basi,0.5
+clear that clause,0.5
+tension consumer,0.5
+jharkhand,0.9
+judicial review of the decision - making process,0.0
+energy requirement,0.5
+wire of higher resistance,0.0
+team of the electricity board,0.0
+aforesaid clause,0.875
+separate clause,0.5
+meter till the date,0.5
+show cause notice,2.9565217391304346
+crore to the electricity board,0.0
+iii,1.5614499719992534
+means,1.3868295182781003
+letters patent appeal,3.5833333333333335
+busines,2.8488759960122034
+number of months,0.6666666666666666
+prejudice,0.880907124598545
+circumstances,1.3944461370073231
+week,0.8253498691546249
+obvious that the petitioner,0.5
+wire,0.7465648854961832
+other officer,0.9047619047619048
+export,2.527777777777778
+court in cwjc,0.6666666666666666
+consumer m,0.7777777777777778
+pursuance thereof,1.0
+day of the payment,0.0
+manager,1.7133044010756409
+transmission,1.1157457081545064
+electricity charge,1.3333333333333333
+requirement,1.2416133333333332
+tampering of the seal,2.0
+units per month whereas bills,0.5
+high court,7.7477477477477485
+high tension,1.25
+memo,1.4242074188165834
+state,6.817996007300392
+seizure memo,0.5
+bihar state electricity board feel,0.5
+jurisdiction,2.9539571926331507
+official,2.6854955160358718
+in character,0.6640316205533597
+representation,1.2338308457711442
+trial,3.7979448350459712
+bihar state electricity board with the approval,0.5
+electrical inspector,3.0
+following day,0.46296296296296297
+factory on an average basis,0.5
+necessary assessment,0.5
+judicial review,2.64
+manu,7.078142071124147
+general,1.7536558414534391
+infirmity,1.3095238095238095
+rate,3.088725136774248
+in the eye of the court,0.0
+provisions of the electricity act,2.75
+reasonable authority,0.3333333333333333
+deputy superintendent of police,0.8
+central,2.61875
+judgmentorder,2.5
+consumer s liability,0.0
+criminal case,1.4464285714285714
+faulty recording of the meter,0.5
+concerned police station,0.8
+consumer because the consumption,0.5
+theft of electrical energy andor,0.5
+bearing in the matter,0.5
+scale,2.0845464725643894
+single,1.6221488419098207
+ctpt unit,1.5
+fuel surcharge,2.75
+which theft,0.5
+bhp,0.5878378378378378
+load of the furnaces,0.5
+lesser consumption of energy,0.5
+distinct clauses,0.5
+load ie,0.5
+hyderabad vanaspathi ltd v ap,0.5
+cover,2.502726787041524
+connection except domestic service,0.5
+monthlyminimum guarantee,0.5
+connectioninstallation,1.5
+power of judicial review,1.6666666666666667
+equivalent,0.7908277404921701
+illjsc,3.25531914893617
+large number official,0.5
+basi of this formula,0.0
+load without specific permission,0.5
+responsible officers,0.6666666666666666
+categories,0.8800000000000001
+low recording,0.5
+kind,0.9236881920088026
+contracted load,2.0
+maximum demand,1.3333333333333333
+devices,0.40586245772266066
+situation,1.1254754682459434
+compensation,3.7916666666666665
+induction furnace association,0.5
+observations,0.7454584147497534
+concerned magistrate,1.0
+required energy for each mt furnace,0.5
+number of officers,0.8
+electricity,4.4831223628691985
+various plea,0.5
+administrative,1.85302734375
+magistrates,1.3333333333333333
+recourse to external devices,0.5
+date of connection  installation whichever,0.0
+additional surcharge,0.5
+exclusive of auxiliary load like water supply,0.5
+supply of electricity,2.5
+variant factor of the consumption,0.0
+senior counsel,2.2857142857142856
+variables,0.18749999999999997
+report in the criminal case,0.5
+alloy,0.9523809523809523
+date of connection  installation,0.0
+rank,0.6723585912486659
+loss of rs,0.75
+correct in the eyes of the court,0.5
+unreasonable that no reasonable authority,0.5
+worker,1.9239190944516609

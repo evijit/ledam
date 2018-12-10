@@ -1,0 +1,130 @@
+fine,1.3204039558531748
+non-compliance,0.0
+director,1.3549769585253457
+heroin,0.1891891891891892
+arrest memo exh,0.5
+place at the airport,0.5
+jayanth,1.0
+high,5.367119186841496
+arrest,1.391895003453834
+bottom,0.46548672566371685
+court,12.24425115501509
+instant case,2.0631578947368423
+officer,3.1197242647058823
+lakh,1.3647388059701493
+madras,2.836734693877551
+non-compliance of section,0.0
+ground,1.4186722903211633
+narcotic drugs,1.1666666666666667
+person,4.291511329454258
+trial court,3.854545454545455
+substances,0.7777777777777778
+from the international airport,0.5
+recovery memo,1.0
+s jayanth,0.5
+learned senior counsel for the appellant,1.7142857142857142
+public place,1.3533834586466165
+documents,1.142515923566879
+provision of section,1.4827586206896552
+decision,2.9514937765898557
+evidence of the witnesses,1.0
+provisions like section,0.8
+psychotropic,0.8
+psychotropic substances act,0.8
+merit,1.2419290263876248
+appeal,3.4125488033856883
+fine of rs,1.6
+recovery,3.9892473118279574
+witness,5.333906623599983
+search,1.156007562422583
+prosecution version,2.7142857142857144
+prosecution,4.619407894736842
+airport,1.1578231292517007
+delay,1.9544910179640715
+same from the international airport,0.5
+provisions,3.8929824561403508
+record,2.5393414390845273
+learned senior counsel,3.4615384615384617
+substance,0.8230581678857541
+imprisonment,1.4344262295081966
+counsel,2.2246780703440323
+month,1.3454861111111112
+year,2.8349484769759212
+provision,5.439002243350069
+conclusion,1.3883437407077015
+witnesses,3.359210526315789
+applicable in the present case,0.6666666666666666
+provisions of section,2.762376237623762
+exh,0.8311914194608175
+learned counsel,3.703333333333333
+act,12.870263922028107
+arrest memo,1.3333333333333333
+deputy,1.1595268542199488
+mahazar,1.0
+learned senior counsel that the ground,0.5
+no doubt,0.8331331503088538
+evidence,3.6676405172088815
+document,1.401100265092073
+appellant,14.387096774193548
+madra,2.836734693877551
+document on record,0.0
+copy,0.8620926631522174
+copy of the arrest memo exh,0.5
+drug,5.000164190132173
+seizure with regard,0.5
+instant,1.131578947368421
+superior officer,0.75
+substances act,0.8333333333333334
+appellant under the ndps act,0.5
+high court,7.7477477477477485
+compliance,1.0029799914857385
+learned counsel for the appellant,1.7884615384615385
+decision of the trial court,0.6666666666666666
+memo,1.4242074188165834
+doubt,1.3646267723102583
+documents on record,0.8
+case,7.332269420884958
+years,2.5395804110508022
+section,9.287987283173626
+trial,3.7979448350459712
+drugs,2.4423997055576008
+pw-,0.0
+immediate superior officer,0.5
+narcotic,0.7792207792207791
+version,1.0500313479623824
+singapore,0.20078740157480315
+january,0.8699641577060931
+suitcase,0.9000000000000001
+deputy director,0.6428571428571429
+ndps,3.6666666666666665
+bottom of a suitcase,0.5
+consequence,0.8726692512593296
+mandatory provision,1.5454545454545454
+merit in this appeal,0.9285714285714286
+mandatory provisions like section,0.5
+furthermore,0.9849537037037037
+place,2.333104345208554
+international,1.4453445246925631
+nature,1.4149926876444778
+present case,1.5611814345991561
+question of non - compliance,0.0
+mandatory provisions,1.375
+contention,1.666391070690368
+gms,0.4063926940639269
+regard,2.723310344827586
+seizure,0.6583598956824108
+- compliance of section,0.0
+mandatory in nature,1.1666666666666667
+narcotic drug,1.3333333333333333
+contention of the learned senior counsel,0.75
+offence,4.401610644257703
+in nature,0.7593052109181141
+in the present case,1.3486005089058526
+years  imprisonment,0.0
+default,0.7094574436346588
+day,1.550999710228919
+ndps act,7.333333333333333
+international airport,0.7142857142857143
+ndp,0.987532923617208
+- compliance,0.0
+question,2.980312372067635

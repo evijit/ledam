@@ -1,0 +1,1595 @@
+backdrop,0.5833333333333334
+government,3.5583785424010483
+casts doubts,0.5
+way to persons,0.5
+alleged offence,1.8333333333333333
+sources,0.8884345343723477
+framing,1.0965593784683685
+settled principle of law,1.0
+terms of section,1.98
+foregoing reason,1.0714285714285714
+clear that a magistrate,0.5
+that a magistrate,0.5
+guide to legislative intention,0.5
+than a trial,0.6666666666666666
+union,2.0981927710843373
+basic for judicial law making by analogy,0.5
+in law,1.1088664421997756
+properties investment,0.5
+cause,1.8431210321626654
+way,1.7812722068664852
+meanings,0.4901960784313726
+rival contention,1.1111111111111112
+grammatical meaning,1.0
+penal enactment,1.0
+sessions,1.3405714285714285
+electorate,0.35000000000000003
+contrary,1.027917657672435
+aforesaid,2.592896174863388
+decision whether such president,0.5
+settled principle,1.0810810810810811
+different offences,1.0
+wherea in an inquiry,0.0
+clear terms,1.0
+scr,2.483838975311538
+impact of institution,0.5
+such terms,0.5333333333333333
+part deal with the suspension,0.0
+stage,1.1298537871524448
+circumstances of this case,1.1363636363636365
+wherein,1.0724137931034483
+deals about the stopgap arrangement,0.5
+offence under the act,0.5
+legislator,1.5511363636363635
+different terms as regard,0.5
+municipal council,1.2222222222222223
+subject,2.4420366233344897
+attribute,0.6721108636476121
+order,5.472481489660944
+edn,0.4833395383469844
+office in view,0.5
+legal policy,1.1111111111111112
+babu,1.1979166666666667
+summons cases,1.3333333333333333
+standards,1.312168199737188
+second parts of the section,0.5
+first part of the statute,0.5
+fixed meaning,1.5
+pendency,1.0084033613445378
+same by no stretch of imagination,0.5
+trial of summons cases,1.0
+public duty,1.625
+functioning,0.9337944664031622
+parties,1.8210828547990157
+mere institution of a criminal case,0.5
+prescribed period,1.7692307692307692
+civil procedure,5.448275862068965
+proceedings before a magistrate,0.5
+characters,0.25799793601651183
+application of statutes,0.75
+different situation,0.64
+criminal cases,0.9904761904761905
+jacket meaning,0.5
+condition,2.259476395625584
+appellate,2.561224489795918
+first part,1.236842105263158
+differ,1.7389750524609953
+actual meaning,0.4
+present case,1.5611814345991561
+various interpretations,0.6666666666666666
+context,0.9269383697813122
+strict construction of penal statutes,0.6666666666666666
+prefatory note,0.5
+reach,1.1893120621603193
+proces,1.627944583238701
+clear law,0.5
+second part of the section,0.5
+arrangement,0.7318181818181818
+trial in a case,0.3333333333333333
+local body,0.5
+qbd,0.2807017543859649
+powers,1.876345371920593
+priester,0.6666666666666666
+authorised officer under sub - section,0.0
+trial of which section,0.0
+subject of course,0.8888888888888888
+of the fact that the word trial,0.5
+period of detention,0.6666666666666666
+sort of investigation,0.3333333333333333
+guilty of offence,0.8571428571428571
+learned brothers,0.5
+scheme,3.415949119373777
+president,2.1267129228100607
+relevance,0.6870535714285714
+criminal trial,0.8333333333333334
+judicial custody,2.4285714285714284
+lakshmi,0.942857142857143
+proper functioning of the office,1.0
+charge,2.7679815308681284
+regard interpretation,0.5
+purpose of suspension,0.5
+manifest,0.7824702135189336
+principle in fact extends,0.5
+relation to the facts,0.6666666666666666
+second part,2.0913461538461537
+police custody,2.0
+moment charge - sheet,0.0
+scrutiny,0.912987012987013
+construction of penal statutes,0.75
+provision of section,1.4827586206896552
+first witnes,0.5
+basic fact of the matter,0.6666666666666666
+chapters of the code,0.5
+post,2.344803646492219
+whereas in the cases,0.5
+restricted meaning to the word  trial,0.0
+bodies,0.8969063256135499
+right of individuals,0.0
+thirty day,1.4871794871794872
+unambiguous language,0.5
+shady characters,0.5
+for judicial law making by analogy,0.5
+elements of an offence,0.5
+by no stretch of imagination,1.1
+gravity,0.3746556473829201
+other category,0.4444444444444444
+first,1.9006367208168047
+separate judgment,1.1428571428571428
+learned judge,3.3692307692307693
+vehicle,2.973111766564837
+duties,1.477142857142857
+anr,1.1271033322299457
+special,1.7363344051446945
+express language,0.8571428571428571
+prasad,1.1407089151450054
+present form,0.5681818181818181
+suspension holders of elected offices,0.5
+words as meaningles,0.5
+brothers,0.9570135746606334
+applicability,1.0928961748633879
+doubt,1.3646267723102583
+fact that the word trial,0.5
+enactments,0.7301587301587302
+presidential term,0.5
+report,1.7768151696835826
+code of criminal procedure,6.120689655172414
+principle,1.9620890732001848
+apparent integrity,0.5
+purpose of the provision,0.75
+commencement,1.2037037037037035
+obvious purpose of section,0.5
+matter of much relevance,0.5
+attaches to the words,0.5
+committal proceeding,0.5
+division bench,3.965217391304348
+bombay prohibition act,5.333333333333333
+scientific basis,0.26
+date,6.195616975795285
+reference,2.1755848210276256
+entirety for the purpose,0.5
+proceedings of the nature,1.0
+judge that the expression,1.0
+respondent,4.757894736842104
+essential that the need,0.5
+further investigation,1.6363636363636362
+magistrate opts,0.5
+view that the object,0.5
+that view of the matter,1.553191489361702
+particular of offence,0.0
+impact,1.0957789249924081
+sources outside the statute,0.5
+investment,3.057915057915058
+public confidence,0.7200000000000001
+elective offices,0.6666666666666666
+detention whether an accused remains,0.5
+detriment,0.5446808510638297
+high,5.367119186841496
+following terms,1.5957446808510638
+brother,1.4566585956416465
+many offences,0.5
+event,1.4310854436179261
+suspension upon institution,0.5
+pandey,1.875
+concur with the opinion,0.6666666666666666
+defendant,3.7706855791962175
+constructions,0.6758620689655173
+golden rule,0.30476190476190473
+latter part of section,0.5
+rejection,0.7335907335907336
+principle of construction,1.4285714285714286
+provision postulates that an order,0.5
+stands,0.7032366540563262
+process of trial,2.5
+gujarat municipalities act,2.0
+interesting question of law,0.5
+act in a summary way,0.5
+policy of the law,0.75
+detention during the process,0.5
+correct interpretation,0.5000000000000001
+hereinafter,0.7670609645131939
+many judgments,0.6666666666666666
+exception,1.1036946087733006
+spirit of section,2.0
+cardinal principle of construction,0.6666666666666666
+statutory interpretation state,0.5
+commission,4.703619179345321
+procedure code,1.3157894736842106
+broader legislative purpose,0.5
+summary trial subject to some variations,0.5
+new,0.9418497626301229
+tuck v priester,0.5
+justice dictionary,0.5
+sinha,0.8166351606805294
+raj kishore prasad v state of bihar,0.5
+evidence,3.6676405172088815
+uttar pradesh v lakshmi brahman,0.5
+gap,0.5109023703753942
+corruption act,1.75
+substitution,0.5932203389830508
+vice,3.766984711894892
+municipalities,1.1454545454545455
+narrow purpose,0.5
+different chapter,0.5
+post trial,0.5
+parts of the section,0.5
+number of sections,0.6666666666666666
+emphasi,0.9191619047619048
+issuance of charge-sheet acceptance thereof,0.0
+manifest purpose,0.75
+tax payer,0.5714285714285714
+relevant provisions reveal,0.6666666666666666
+ram,2.11096203538064
+essential attributes,0.75
+gujarat municipality,0.0
+singh,3.7791111111111113
+tenderness of the law,0.5
+whereas in an inquiry,0.5
+interpretation of a section,0.0
+information report,2.0
+service,4.257395095954566
+criminal statutes,1.25
+date of the order,1.25
+therefore,2.960332350576253
+end,6.1484001628618765
+criminal procedure code,1.4
+rule of construction,1.1
+rule,5.04
+aggrieved,1.2479674796747968
+duty under the gujarat,0.0
+proceedings,1.7670925223666287
+favour,1.653145208700764
+duty under the act,0.5
+penal statutes,1.2
+statutory conditions precedent to the infliction,0.5
+civil appeal,2.2413793103448274
+trials,0.5583800086169755
+many judgment,0.6666666666666666
+properties,1.7286779414438989
+respondents,2.6341263330598856
+different offence,1.0
+date of filing,1.0588235294117647
+part ii of section,0.5
+wherea in relation,0.0
+costs,0.8167395522604189
+other enactments,1.0
+more free one,0.5
+wlr,0.396
+interpretation of the provision,1.0909090909090908
+process,1.6274942048088725
+rival contentions,1.0
+collection,1.0907127429805616
+particular,1.5248953455371081
+power,3.8165227690948367
+stage of section,0.5
+classic work,0.38095238095238093
+other than a magistrate,0.5
+charge sheet,2.0526315789473686
+examination,2.4920345926263088
+order of this court,2.125
+order of suspension,2.0
+context thereof,0.75
+magistrate of the first class,0.75
+set of cases,1.0
+former part,0.3333333333333333
+term  trial,0.0
+vehicles,1.4161490683229814
+that account,0.5555555555555556
+one,4.845669314438648
+petition,5.3436539306104525
+francis bennion s statutory interpretation,0.0
+place during the process,0.5
+consideration,1.9110153789142115
+period of thirty days,1.6363636363636365
+paragraph,1.2930197483150305
+discharge of hisher duties,0.5
+jail,0.7548476454293629
+words,1.6384367086179112
+penalty,1.5165226929932814
+pointer,0.40648379052369077
+different term,0.41904761904761906
+contextual spirit,0.5
+offence under bombay prohibition act,0.5
+other judgment,1.0
+statutory conditions precedent,0.5
+manifest that the provision,0.5
+drunkennes,0.37037037037037035
+other law,0.991304347826087
+working,1.1479822756765312
+light of the expression,0.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+point of time,0.7999999999999999
+municipality,1.96875
+classic work the interpretation,0.5
+prelude,0.208955223880597
+fact that an inquiry,0.5
+president s office,0.0
+interesting question as regard interpretation,0.5
+such term in respect,0.0
+anand,1.15
+mere institution,0.5
+second part of section,2.3333333333333335
+which result in rejection,0.0
+principle against doubtful penalization,0.5
+shady character,0.5
+suspension,1.9622093023255813
+word interpretation,0.5
+spirit,0.6048586885080135
+conditions precedent,1.25
+applicable to the trial in question,0.5
+summons case,1.3333333333333333
+requirement,1.2416133333333332
+court in common parlance,0.5
+president  vice - president of a municipality,0.0
+gravity of the situation,0.75
+deal,2.1942302694273583
+pre trial,0.5
+officer bearer,0.5
+clear that person in the elective offices,0.0
+event of a criminal case,0.5
+main controversy,0.8
+language,0.8555828468744352
+chapter xxi of the code deals,0.5
+criminal case,1.4464285714285714
+case by an order,0.0
+authorised officer,1.6
+nature,1.4149926876444778
+injustice,1.1882716049382718
+relevant records,1.1428571428571428
+legislative purpose,1.25
+summary way,0.3333333333333333
+initiation of criminal proceeding,0.6666666666666666
+precedent,0.8982341399607586
+provision of the relevant law,0.0
+stretch,0.5192424242424243
+us v wiltberger,0.5
+scrutiny of section,0.6666666666666666
+criminal proceeding,2.9166666666666665
+something,0.5915378827342709
+casts doubt,0.45000000000000007
+fit,2.7848485899724365
+enactment,1.439950980392157
+state of uttar pradesh v lakshmi brahman,0.5
+director,1.3549769585253457
+part of the statute,1.0
+serious criminal proceedings,0.5
+amendment of the code,0.5
+francis,0.4144427001569858
+other hand,0.6931925622439332
+that section,1.1768292682926829
+brother justice s rajendra babu,0.5
+sections,1.640495469442838
+matters,1.4810665618448637
+inter,3.683850287482992
+matches,0.24137931034482762
+investigation in terms,1.0
+magistrate in such proceedings,0.5
+common law,0.64
+court,12.24425115501509
+judicial interpretation thereof,0.5
+context in the code,0.5
+judge of the high court,1.75
+parliament,2.6571235781762095
+agreement,3.450434632433366
+confidence of people,0.5
+single judge,4.011627906976744
+person,4.291511329454258
+alleged offences,2.0
+part ii of sub-section,0.0
+distinction between a strict construction,0.5
+probability,0.45294117647058824
+canvas,0.567391304347826
+shivaprakash,0.5
+nothing,0.8658723322806009
+prosecution under section,1.2222222222222223
+reliance on many judgments,0.5
+number,1.4802651440973922
+xviii,1.0
+cognizance of the offence,2.375
+decision,2.9514937765898557
+parts of section,0.5
+meaningles,0.6583774969425195
+part ii,1.4746543778801842
+canvass,0.6675191815856778
+meaning of the statute,1.3333333333333333
+changes,0.8318262938726949
+sake of brevity,0.4615384615384615
+part deals,0.4444444444444444
+literal meaning of the statute,0.5
+sheet,1.1667364016736401
+election,6.758005637447438
+which period,0.8333333333333334
+detention whether an accused remain,0.5
+interpretation,1.518366298484459
+rigg,0.4524755501222494
+imperative for the purpose of commencement,0.5
+kishore,0.6823529411764706
+- criminal in nature,0.0
+councilor,2.0
+which section,0.9333333333333333
+tenderness,0.2222222222222222
+judgment,3.288216560509554
+bad in law,1.4285714285714286
+proceedings under this code,0.5
+act,12.870263922028107
+requirement of express language,0.5
+appellant herein in the high court,0.5
+clas,2.1196191893660425
+scientific basi,0.26
+statutory interpretation states,0.5
+strict interpretation,0.5555555555555556
+much relevance,0.8
+office as an officer,0.5
+care of a broader legislative purpose,0.5
+likewise,0.6
+commission of alleged offences,0.5
+other judgments,0.8571428571428571
+raj kishore prasad v state,0.5
+summary trials of which section,0.5
+section,9.287987283173626
+herein,2.825259515570934
+proper meaning of words,0.5
+fir,2.85390975582079
+interpretation of section,1.5
+standard,1.4669008088548319
+functions,1.326241134751773
+strict construction of penal enactments,0.5
+appellant herein,2.046153846153846
+advance,1.2070333024745414
+regard,2.723310344827586
+manifest purpose of the statute,0.5
+meaning of the words,0.49358974358974356
+rights,1.6349541930937281
+principle against doubtful penalisation,0.5
+person with apparent integrity,0.5
+bihar v ram,1.0
+item,1.3319648896447913
+facts,1.4696673624372698
+cases by an order,0.5
+municipal,2.4099173553719004
+summons,0.9764492753623188
+first information reports before the anand town police station,0.5
+local bodies,1.4444444444444444
+discharge,1.305219638242894
+form,2.4865961263718424
+function of a president,0.0
+facts of this case,1.1923076923076923
+xxi,0.7926906112161312
+interpretation state,0.5
+prisons,0.6749999999999998
+gujarat municipalities,2.0
+records,0.9879294336118848
+cost,1.2954397451466992
+session,2.2400874351067563
+offences under the indian penal code,1.0
+different standard in the matter,0.0
+plain principle that the power,0.5
+investigation in relation thereto,0.5
+contempt,1.5446913580246913
+sub,7.816899313759727
+course,1.6545957498716626
+court in special civil application,0.5
+craies on statute law,0.8
+vice-president as the case,0.0
+alleged offence under sections,0.0
+cognizance,1.728
+pradesh,4.365853658536586
+cardinal principle,0.8571428571428571
+crime,1.6636528028933093
+term in respect,0.0
+different standard,0.45000000000000007
+penal statute,2.0
+criminal defendant,0.3333333333333333
+object of the statute,1.0
+law making by analogy,0.5
+court in omprakash shivaprakash v ki,0.5
+provisions of prevention,0.5
+present petition,1.5
+aforementioned conclusion,0.6666666666666666
+particular context,0.5
+vehicles of legislative intentions,0.5
+inquiry,1.3527272727272728
+matter,2.8088923076923082
+relation,1.397320207820618
+forth by the investigation,0.5
+first clas,0.78125
+basic fact,0.4444444444444444
+common right,0.5
+custody during the investigation,0.5
+contrary intention,0.8888888888888888
+observance of technical provisions,0.5
+aid,5.498621453008654
+disjunctive in nature,0.5
+significance,0.6059966216216216
+suspect,1.0878953771289537
+well,1.4966552780778166
+first information report before the anand town police station,0.0
+sake,0.5262975778546712
+witness,5.333906623599983
+meaning of the word  trial,0.0
+provisions of any law,2.5
+core,0.43168575654387237
+sessions court,2.230769230769231
+state government against an order,0.5
+properties investments,0.5
+material,1.4148767018946966
+procedure,2.552771605064117
+thorp,0.21153846153846156
+purposive interpretation,0.8333333333333334
+own costs,0.9090909090909091
+standard in the matter,0.0
+polouse,0.0
+preventive detention,0.6666666666666666
+hereinbefore,2.159090909090909
+restrictive meaning,1.2
+provision,5.439002243350069
+support,0.8630946786249609
+duties under the act,1.0
+practical reason,0.3333333333333333
+first class,0.78125
+literal interpretation of the provision,0.5
+pre - condition for any suspension,0.0
+contempt proceedings,0.8
+true meaning of the word  trial,0.0
+penal enactments,0.5
+concentration,0.3779527559055118
+different chapters,0.5
+attn,0.23469387755102045
+president of anand municipality,0.5
+chapters,0.4347826086956522
+department,1.9858367499068206
+offence under the indian penal code,0.0
+khan,2.1073446327683616
+criminal procedure,6.406779661016949
+authorised officer in exercise,0.5
+object,1.4940119760479043
+thereto,1.0358342665173572
+particulars of offence,0.5
+smooth functioning of the office,0.5
+special civil application,1.3333333333333333
+working of the act,0.6666666666666666
+something in the context,0.5
+times,0.8987140267391797
+thirty days,1.4871794871794872
+public offices,1.25
+suspension against the president,0.5
+light,0.8816192372754331
+fact of this case,0.0
+trial proceeding,1.3333333333333333
+arms,1.2384993436918101
+definition,1.6460425937698666
+delhi,2.6089285714285717
+calls,0.5871357250667595
+office of the president,1.1666666666666667
+criminal statute,1.5
+issues,1.1246716508385532
+custody of the police,0.75
+period in jail,0.5
+criminal proceedings,2.6818181818181817
+appellate authority,2.2
+colour,0.48673194267063996
+method of interpretation,0.5
+other offence,1.3076923076923077
+interesting question,0.5102040816326531
+that persons in the elective offices,0.5
+intentions,0.3846153846153846
+relation thereto,1.1578947368421053
+purpose of section,1.3888888888888888
+stages,0.7858851674641147
+second part deals with the suspension,0.5
+justice sb,0.6666666666666666
+part deal,0.4444444444444444
+object of the provisions,0.6666666666666666
+case to the sessions court,0.6666666666666666
+council,1.464939453675021
+applicability of the last part,0.5
+universal application,0.8666666666666667
+writ,2.8882378560889794
+parlance,0.8333333333333333
+proceedings to man,0.5
+need,1.1097650269586634
+such proceedings,1.0
+civil application,1.4285714285714286
+standards in the matter,0.5
+vice president of the municipal council,1.0
+offences under sections,1.0909090909090908
+perfect tune,1.0
+her duty,0.5555555555555556
+proper context,0.5
+custody,1.4166666666666667
+information reports before the anand town police station,0.5
+facing of charges,0.5
+exercise of judicial interpretation thereof,0.5
+respect of any offence,1.2
+penal code read,2.75
+judicial department,0.3333333333333333
+change,1.2214862766571903
+himher in respect,0.5
+cases,1.9728229418951067
+division,1.7657319129617017
+elected representative of the people,0.5
+categorisation of offences,0.5
+doubt on that account,0.5
+element of an offence,0.0
+wheat,2.2425249169435215
+moral grounds,0.5
+franci,0.41393728222996506
+term of section,0.5
+single judge of the high court,1.588235294117647
+anomalous results,0.75
+attach to the words,0.0
+additional support,0.3333333333333333
+office of the municipal president,0.5
+prosecution,4.619407894736842
+relevant law,0.75
+such evidence,0.9649122807017544
+connection,1.050640279394645
+learned senior counsel,3.4615384615384617
+stage after the inquiry,0.5
+ali khan,0.6666666666666666
+parts,0.6609660823170732
+india,2.7684068260703585
+clear pointer to the fact,0.6666666666666666
+regard to the fact,1.5862068965517242
+object of the provision,1.5
+smooth functioning,1.0
+stopgap arrangement,0.6666666666666666
+commitment,0.382608695652174
+regard to the context,0.6666666666666666
+strict meaning,0.41666666666666663
+broad canvas,0.5
+penalty in any particular case,0.6666666666666666
+commencement of trial,1.3333333333333333
+acceptance,1.4762112614578786
+vice-president of the municipalities,0.0
+prevention of food adulteration act,1.0
+disposal of criminal cases,1.0
+summary trial,2.0
+above scrutiny,0.5
+fact extends,0.5
+consequences,0.6659897713598075
+summary trials,0.6666666666666666
+food,1.1292356927710843
+reliance,1.400763358778626
+that matter,0.5503846153846154
+judicial law making,0.8
+law making,0.6153846153846154
+vice president during the period,0.5
+francis bennion s statutory interpretation state,0.0
+electorate office,0.5
+a detention,1.5
+delhi manu  scmanu  sc,0.0
+judicial law making by analogy,0.5
+suspension under sub-section,0.0
+omprakash,1.0
+expression detention in jail,1.0
+element,0.7062328407033122
+notice in contempt petition,0.5
+other laws,0.5079365079365079
+regard to omission,0.5
+unambiguous like a penal law,0.5
+contradiction,0.609271523178808
+anomalous result,0.75
+sufficient force,0.6666666666666666
+reasonable interpretation,0.5
+construction of the enactment,0.0
+universal meaning,0.5
+that construction,1.2307692307692308
+appears,0.7401461047811154
+hand call,0.5
+duty,3.2272215973003378
+context of the section,0.5
+to the trial in question,0.5
+proces of trial,0.0
+sub - section,0.0
+commercial,1.6950767880649407
+legality,0.6845938375350139
+conclusion that a literal meaning,0.5
+different chapter of the code,0.0
+chapter xviii of the code,0.5
+officer under sub - section,0.0
+blackburn,0.3333333333333333
+anand town police station,0.5
+apart,0.6007021119981881
+sentences,1.0513157894736844
+session therefore,0.6666666666666666
+point,2.9165043546008516
+object of this section,0.5
+considerations,0.7860235003092146
+strict observance,0.75
+expression detention,2.0
+sentence,2.3896654193264366
+obliviou of the fact that the word trial,0.0
+lacuna,1.6111111111111112
+omission,1.1856094505101127
+criminal elements,0.5
+various interpretation of a section,0.0
+views,0.6965871413779037
+writ petition,6.24223602484472
+category,1.9351744779266717
+rights of individuals,0.3508771929824561
+triable by a court of session,0.5
+councillor,4.0
+absurdity,0.48214285714285704
+manifest ulterior purpose,0.5
+statutory,2.0326923076923076
+plea,1.4430487701432178
+sedition,0.2692307692307692
+criminal proceedings to man,0.5
+persons in the elective offices,0.5
+holder,1.8472993827160495
+s rajendra babu,1.4444444444444444
+judge that the expression  detention,0.0
+other relevant record,1.0
+form of detriment,0.5
+prevention,0.6124072110286319
+different chapters of the code,0.5
+general principle for the public office,0.5
+portrayed,0.3333333333333333
+relation to other cases order,0.5
+authority,2.4352627108360636
+word of a statute,1.0
+particular case,0.4358974358974359
+such proceeding,1.0
+chapter xviii,0.6666666666666666
+portrayed in the broad canvass,0.5
+naresh pandey,1.0
+force in the reasoning,0.5
+agreement with the reasoning,0.5
+suspension of president,0.5
+relevant provision,1.5737704918032787
+course of any inquiry,0.6666666666666666
+modern time,0.42857142857142855
+attributes of an inquiry,0.5
+weight of probability,0.5
+first part of this sub-section,0.0
+strict construction of the second part,0.5
+appellant s presidential term,0.0
+purpose of part ii,0.6666666666666666
+iii,1.5614499719992534
+jeopardy,0.3231292517006803
+infliction,0.6666666666666666
+terms as regard,0.5
+power of the magistrate,0.5
+uttar,2.188679245283019
+person in the elective offices,0.0
+plain,3.198322602206429
+regret,0.5
+law in a case,0.5
+rajendra babu,1.5555555555555556
+virtue of section,1.2857142857142858
+lakshmi brahman,1.0
+text,0.869556447376715
+fulfillment,1.1805006587615283
+offence under the bombay prohibition act,0.5
+state,6.817996007300392
+statute,2.5765859456247218
+classes,1.212856534695615
+note,1.3654108484234107
+controversy,0.8593204191806921
+strong reason,0.8
+complete agreement with the reasoning,0.5
+proper functioning,1.8
+crpc continue,0.5
+behalf of the respondents,1.3235294117647058
+man,6.972395052694935
+true meaning,0.5603448275862069
+omprakash shivprakash v ki,0.5
+penalties,0.6902761104441777
+dickerson,0.3333333333333333
+restricted meaning,6.2
+second part deal with the suspension,0.0
+detention in judicial custody,2.0
+such president,0.5
+court for framing,1.3333333333333333
+source,0.840137091365362
+himher,0.5084745762711864
+senior counsel,2.2857142857142856
+commitment proceedings,0.5
+persons,2.5993381990166555
+work  the interpretation,0.0
+therefrom,0.673076923076923
+limited to criminal statutes,0.5
+pre,6.408342692122574
+stage of the case,0.6666666666666666
+detention in the present case,0.5
+literal meaning,0.9000000000000001
+j i,0.9187687824424006
+other enactment,2.0
+contempt petition,2.0714285714285716
+validity,1.521010638297872
+mind,1.1559066143122394
+naresh,1.8333333333333333
+penal law,1.2857142857142858
+relevant record,1.1111111111111112
+meaning,1.8612727545949643
+considerable delay,0.8
+interest,2.74353772015385
+interpretations,0.7142857142857144
+categorisation,1.2
+interpretation of the words,0.3333333333333333
+mr jaspal,0.5
+various interpretations of a section,0.5
+elected representative,0.38095238095238093
+attributes,0.6717557251908397
+behalf,1.9888053603529987
+duties of the elected office,0.5
+consideration in this appeal,0.9090909090909091
+part deals with the suspension,0.5
+clear term,1.0
+other relevant records,1.0
+relevant provisions,1.5
+clear pointer,0.8333333333333334
+uncertainty,0.8402948402948404
+broad meaning,1.0
+appeal,3.4125488033856883
+other offences,1.3333333333333333
+alleged offences under sections,1.0
+terms as regards,0.5
+commitment proceeding,0.5
+true construction,0.6666666666666666
+chapter of the code,0.0
+offence under the statutes,0.0
+alia,0.9479866480753792
+different standards in the matter,0.5
+sessions trial,0.8
+construction of the statute,0.5
+construction of penal enactments,0.5
+judicial magistrate of the first class,0.5
+criminal law,0.7859649122807018
+meaning of section,1.3611111111111112
+question of law,3.057142857142857
+different standards,0.75
+above scrutiny of the relevant provisions reveals,0.5
+rajendra,1.6428571428571428
+category of offences,1.0
+sub-section,0.0
+aforesaid rule,1.0769230769230769
+interpretation thereof,0.8
+phrases,0.5062794348508634
+pradesh v lakshmi brahman,0.5
+tune with the spirit,1.0
+deal about the stopgap arrangement,0.0
+lakshmanan,1.125
+completion,1.1868131868131868
+case in terms,0.6666666666666666
+significant uncertainty,0.5
+to criminal statute,0.6666666666666666
+tendernes of the law,0.0
+word  trial,0.0
+obvious purpose,0.6666666666666666
+her duties,0.40909090909090906
+j in wills,0.5
+tax,3.549237288135593
+restricted interpretation,0.30000000000000004
+circumstance,1.429931390219372
+civil,2.126558634963905
+situations like preventive detention,0.5
+words as meaningless,0.5
+division bench of the gujarat,0.6666666666666666
+investigation,1.6673076923076922
+actual conviction,0.5
+for the purpose of commencement,0.5
+cause of considerable delay,0.5
+raj kishore prasad,1.0
+class,2.1508512849922936
+last paragraph,0.3333333333333333
+manifest intention,0.6666666666666666
+regards,0.9072861236185019
+moral ground,0.30000000000000004
+thereof,1.7897727272727273
+proceedings in respect,1.0
+basi,2.0752712086391383
+meaningless,0.6583774969425195
+meaning of the word,0.8426150121065376
+omprakash shivaprakash v ki,0.5
+days,1.6721350893491447
+aforesaid rules of construction,0.5
+individual,1.1485140562248994
+question of pendency,0.5
+conviction,2.248165832071736
+basis,1.953226441078104
+collection of evidence,0.5
+creation of an offence,0.5
+cray,0.0
+magistrate,3.522077922077922
+meaning of these words,0.5
+officer,3.1197242647058823
+hence,1.1440732910500353
+amendment,2.2486412346818434
+term of office,0.41666666666666663
+charges,2.061307113938693
+only proceeding,1.5
+evidence in a trial,0.5
+letters,2.0877496159754223
+reading of sub-sections,0.0
+office during pendency,0.5
+function,1.6326372491145218
+person under section,0.8
+essential attribute,0.75
+kuriakose,1.0
+bom,1.9699381078691425
+criminal,3.301971081989414
+term,3.6255105640901575
+detention in jail,2.5
+view,2.441100058469462
+vide,4.454025282767798
+essential attribute of an inquiry,0.0
+penal code,2.710144927536232
+other cases order,0.5
+police case,1.25
+result,1.3356630184144715
+indian penal code read with section,2.625
+legislative intentions,0.5
+record,2.5393414390845273
+offences under the act,1.25
+different situations,0.5684210526315789
+information,1.1320502836800534
+last part of sub-section,0.0
+suspension holder of elected offices,0.0
+own cost,0.9166666666666666
+division bench of the high court,1.6825396825396826
+object of section,1.0
+provisions of section,2.762376237623762
+initiation,0.6820512820512821
+legislation,3.2032032032032034
+phrase,0.7269338303821062
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+necessary pre - condition,0.0
+bennion,1.25
+welcome method,0.5
+vehicle of legislative intentions,0.0
+object behind the section,0.5
+particulars,0.9472222222222222
+petition in hand calls,0.5
+former part of section,0.5
+presumption,1.06
+different expressions,0.6666666666666666
+part of section,2.142857142857143
+provision of prevention,0.0
+vice president,0.6538952745849297
+witnes,5.333906623599983
+serious criminal proceeding,0.5
+public office,0.8095238095238095
+mohd,1.75
+nature of the offence,1.0
+tune,0.5874773139745917
+duties under this act,0.5
+exercise,1.9400726466785694
+meaning of words,0.6000000000000001
+judicial,2.8688059701492543
+learned brother s rajendra babu,1.0
+party,2.2250894654439723
+concerned authority,1.0
+respondent herein,1.8936170212765957
+aforesaid rules,1.0
+justice,2.292557084574302
+alia submit,1.0
+therein,1.5503424657534246
+the act,5.708327371273712
+anand municipality,1.0
+offices,0.6871508379888269
+jacket,0.3988095238095238
+accusation,0.9540526587506452
+technical provision,0.3333333333333333
+offence,4.401610644257703
+criminal proceedings of the nature,1.0
+tendernes,0.2222222222222222
+state of bihar v ram,1.0
+day,1.550999710228919
+question,2.980312372067635
+function as a president,0.5
+whereas in relation,0.5
+treatise,0.46172839506172836
+differ from the riggs situation,0.0
+scmanu,7.940520446096654
+london,0.48471615720524014
+step,0.8867024753460084
+read dickerson states,0.5
+manifest injustice,0.8
+variations,0.4711538461538462
+holder of office,1.0
+officer upon completion,0.5
+pre-trial detention,0.0
+first information report,1.9565217391304348
+gen,2.323556370302475
+relevant provisions reveals,0.6666666666666666
+result in rejection,0.0
+constructions of the enactment,0.6666666666666666
+charge-sheet acceptance thereof,0.0
+sic,1.1611481056257176
+regard to the purport,0.8571428571428571
+natural meaning,1.1666666666666667
+force,1.6009408121948314
+intention of the legislature,2.0434782608695654
+property,2.9368986630013745
+textual meaning,1.0
+first evidence,0.5
+relation to offences,0.5
+useful purpose,0.8666666666666667
+provisions reveals,0.6666666666666666
+law,3.538923411654744
+above contextual backdrop,0.5
+stages of the case,0.6666666666666666
+judgment in the following terms,0.5
+accuses,0.2647058823529412
+particular interpretation,0.3333333333333333
+adulteration,0.8333333333333334
+latter part,0.4444444444444445
+criminal offence,1.0666666666666667
+provision postulate,0.5
+commercial properties investment,0.5
+prelude to criminal trial,0.5
+stretch of imagination,1.0833333333333333
+question as regard interpretation,0.5
+sure that the offence,0.5
+terms in respect,0.5
+popular sense,0.5
+addition,1.5588539142412572
+offences,1.6681887366818873
+director of municipalities,0.5
+advances,0.6333333333333333
+principle of legal policy,1.5
+detention in prison,1.6666666666666667
+application,2.3322596088086445
+entire issue,0.6666666666666666
+public office of the president,0.5
+bombay police act,1.0
+authorities,1.266131845134287
+summary,0.8025241675617614
+reading,0.9004509191814082
+maxwell in the interpretation,0.5
+learned brother,1.7692307692307692
+privilege,2.436023622047244
+single judge that the expression detention,0.5
+attaches,0.42857142857142855
+express meaning,0.5
+by a court of session,1.0
+proceedings under section,1.2142857142857142
+judgment of brother sb,0.5
+institution of a criminal case,1.0
+aforesaid rule of construction,0.0
+such term,0.5529100529100529
+intention,1.7585585585585588
+letter of the law,0.23684210526315788
+francis bennion,1.25
+different terms as regards,0.5
+dictionary,0.7964252553389043
+powers of the magistrate,0.5
+vice-president of a municipality,0.0
+accused remains,0.5
+sub-sections,0.0
+period,1.9480170842427122
+balanced uncertainty,0.5
+code deals,0.6666666666666666
+fulfillment to the letter,0.5
+letter,2.707240080105903
+ulterior purpose of the statute,0.5
+constitution,3.204842342342342
+analogy,0.4080145719489981
+offences under the prevention,0.5
+restrictive meaning of the word,0.5
+payer,0.7565011820330969
+j that the contempt petition,0.5
+conditions precedent to the infliction,0.5
+guide,1.417236993519472
+different meaning,0.48387096774193555
+code by a magistrate,0.6666666666666666
+results in rejection,0.6666666666666666
+strictnes,0.6666666666666666
+suspension of a holder,1.0
+penalization,0.5
+universal application that effort,0.5
+crpc,2.2424242424242427
+detention on accusation,0.5
+different terms,0.4266666666666667
+supra,2.246342614440774
+service rules,2.95
+pointer to the fact,0.8571428571428571
+large interest,0.5
+detention,1.326530612244898
+prevention of corruption act,1.8
+brother sb,2.5
+court of session therefore,0.5
+principle of statutory interpretation,1.0
+opinion that the judgment,0.8333333333333334
+occupy,0.8476702508960572
+holder of an electorate office,0.5
+core question,0.6
+india manuscmanusc,1.8333333333333333
+judicial custody at the stage,0.5
+police,2.9749362629783356
+appear,1.4518031745812612
+definition of the word  trial,0.0
+to criminal statutes,0.6666666666666666
+municipal president,0.5
+cases order,0.5
+police officer,1.0366379310344829
+a detention during trial,0.5
+arrest,1.391895003453834
+set,2.3027452395971277
+reason,2.6381270903010035
+dayal singh v union,0.5
+deals,1.3395407335280751
+principle for the public office,0.5
+either in a police custody,0.5
+appellant advances,0.5
+like a penal law,0.5
+dayal singh v union of india manuscmanusc,0.5
+statute to situations,0.5
+regard to the particular context,0.5
+second possibility,0.5
+light of the object,0.5
+others,0.9074667328904616
+care,0.8846948234137723
+elected office,2.5
+receipt,1.5471923536439667
+proceeding,2.1298245614035087
+connotation,1.018181818181818
+new delhi manuscmanusc,1.0
+provision of any law,0.0
+expressions,0.8027972027972027
+vice president in any time,0.5
+functions of a president,0.5
+craies,1.0
+offence under sections,0.8
+judge,2.9012627415183325
+interpretation in the context,0.5
+which such suspension,0.5
+therein in the first part,0.5
+corruption,0.9432672590567327
+act of suspension,0.5
+manifest ulterior purpose of the statute,0.5
+investigation evidence,0.5
+conclusion,1.3883437407077015
+information reports,0.6666666666666666
+cardinal dictum that the legislature,0.5
+concerned authorities,1.090909090909091
+indian penal code read,2.75
+high court in special civil application,0.5
+general principle,0.625
+penalisation,0.5
+legislative intent,1.3823529411764706
+foregoing reasons,1.0714285714285714
+attn gen,0.5
+contentions,0.9641025641025641
+sense,0.8606303395157362
+riggs situation,0.5
+no doubt,0.8331331503088538
+court in letters,0.75
+circumstances,1.3944461370073231
+power of the public prosecutor,0.5
+jaspal,0.5
+shivprakash,0.5
+part of this sub - section,0.0
+high court,7.7477477477477485
+wherea,0.8062806257067471
+jurisdiction,2.9539571926331507
+welcome method of interpretation,0.5
+intent,1.8427075724373023
+president  vice - president,0.0
+recordable by a magistrate in such proceedings,0.5
+bearer,0.75
+trial,3.7979448350459712
+accus,9.681443343950436
+manu,7.078142071124147
+sense of reference,0.5
+summon,1.0346907993966816
+case under prevention,0.5
+single,1.6221488419098207
+purport,1.3465627214741318
+attach,0.9187911055433763
+brother justice s rajendra babu for the reasons,0.5
+liberal meaning,0.5
+substitution of words,0.6666666666666666
+different meanings,0.47368421052631576
+doubtful penalization,0.5
+modern times,0.45000000000000007
+summary trial subject,0.5
+raj,1.3364194424876723
+regard to the text,0.6666666666666666
+interpretations in the context,0.5
+construction of the second part,0.5
+rule of interpretation,1.2
+detention at any stage,0.5
+examination in court,0.6666666666666666
+regard to the scheme,0.75
+that the need,0.5714285714285714
+effect to the legislative intention,0.5
+offence under part i,0.5
+sight,0.6194871794871795
+term  investigation,0.0
+code,2.880559796437659
+people,1.2855544825097243
+investments,1.7287581699346406
+prefatory,0.3333333333333333
+reasons,1.3749054007567938
+filing,1.1274190041313328
+terms,2.390350840909655
+straight jacket meaning,0.5
+judicial magistrate,2.7857142857142856
+arm,0.9325525916287142
+suspension of the president,0.5
+technical provisions,0.5
+creation,0.5716118684843625
+jury,1.6150283512963683
+trial in question,0.5
+conviction for the alleged offence,0.5
+ors,2.8612718198296623
+than a magistrate,0.5
+integrity,0.8973214285714286
+call,1.5442351461768689
+part,5.294464509893076
+officer in exercise,1.25
+ways,1.3640952708404963
+purpose of the statute,1.0
+bombay,2.3134020618556703
+aspect,1.2449448189023034
+paragraph of section,0.5
+shri,2.0759135877246115
+contextual spirit of section,0.5
+tuck,0.36579406631762656
+character,0.9325990965842764
+aspect of the matter,1.4642857142857142
+competent court for framing,1.5
+situations,0.7435282837967402
+doubts,0.6666666666666666
+drunkenness,0.37037037037037035
+distinction,0.7312167973690868
+facing,0.6755555555555557
+code deal,0.6666666666666666
+fresh election,0.75
+hand calls,0.5
+read,2.2147281730888695
+forth,0.7104532839962997
+issue of fact,0.6666666666666666
+code of civil procedure,5.5636363636363635
+plain principle,0.5
+legislature s intention,0.0
+trial in terms,0.5
+elective office,1.3333333333333333
+petitioner s case,0.0
+offence under the prevention,0.0
+detention of the president,0.5
+inability,0.7162534435261708
+magistrate in this behalf,0.6666666666666666
+duty under this act,0.0
+information report before the anand town police station,0.0
+good moral conduct,0.5
+legislative intention,1.125
+close scrutiny of section,0.5
+state government,3.027142857142857
+vice-president of a municipal council,0.0
+attribute of an inquiry,0.0
+stopgap,0.4
+effect,2.184583388478191
+detention during trial,1.0
+part i of sub-section,0.0
+rest,3.3424534062537377
+contextual meaning,0.6666666666666666
+complete agreement,0.45000000000000007
+variation,0.5234042553191488
+judgments,1.2355646397547266
+step in aid,0.3333333333333333
+consequence,0.8726692512593296
+representative,1.0617102796119673
+place,2.333104345208554
+case that the word,0.5
+oblivious of the fact that the word trial,0.5
+expression  detention,0.0
+single judge that the expression,1.0
+following term,1.6170212765957446
+word by word interpretation,0.5
+purpose of the section,0.6666666666666666
+accused remain,0.6666666666666666
+stage of inquiry,0.5
+prison during trial,5.5
+issue,2.766776251628934
+provision postulates,0.5
+back,1.1362801178713813
+method,0.9027027027027026
+brahman,1.0
+great respect,0.3692307692307692
+commercial properties investments,0.5
+petitioner,4.524972253052164
+weight,0.7538461538461538
+correct interpretation of section,0.75
+functioning of the office,1.5
+trial meaning thereby,0.5
+grounds,0.9540208829455945
+eventuality of a suspension,0.5
+penal code read with section,2.625
+other than a trial,1.0
+reliance in support,0.8571428571428571
+ground,1.4186722903211633
+procedure in the present form,0.5
+close scrutiny,0.75
+issues of fact,0.5
+interpretations of a section,0.5
+strict observance of technical provisions,0.5
+which result,0.5
+that chapter,0.75
+moment,0.5294822018215465
+article,4.378806157159795
+high court in common parlance,0.5
+subject to exceptions,0.6666666666666666
+behalf of the appellant,1.4878048780487805
+many offence,0.5
+penal,1.8829173709853835
+word trial,9.5
+reports,1.0202012199952466
+case in the state,0.5
+opinion,1.4960606342789635
+such terms in respect,0.5
+ferdicos,0.5
+appellant advance,0.5
+shri mohd,0.5
+delay,1.9544910179640715
+bihar,4.587301587301587
+laws,1.4186274337269533
+second part of sub-section,0.0
+turn,1.6310093128618173
+connection with investigation,0.5
+case that the words,0.5
+high court in letters,0.75
+disqualification,4.761904761904762
+public prosecutor,2.0952380952380953
+essential attributes of an inquiry,0.5
+casts,0.5168582375478927
+respect,2.6704963235294117
+duty of the elected office,0.0
+chapter xxi,0.8
+powers of a president,0.5
+strong reliance,1.606060606060606
+expression,1.7424391201885312
+dictum,0.6857142857142857
+error of law,1.0
+first understood,0.5
+station,1.2515681586858238
+reasoning,0.6478937381404174
+golden rule of interpretation,0.5
+appeal by an order,0.5
+same time,0.6913511801045461
+different expression,0.6666666666666666
+magistrate opt,0.5
+stand,1.8422769621739425
+construction thereof,0.5
+work,2.8478559811646353
+town,1.9746537396121884
+principle of interpretation,1.1818181818181819
+francis bennion s statutory interpretation states,0.0
+which results,0.4632352941176471
+that person in the elective offices,0.0
+virtue,0.9167557066537153
+obvious reasons,0.3492063492063492
+vice-president,0.0
+holder of the office,0.6666666666666666
+trial thereof,1.0
+first witness,0.5
+high integrity,0.5
+trials of which section,0.5
+note before parliament,0.5
+ferdico,0.5
+presence,0.9604834261070158
+match,0.41847826086956524
+purpose of commencement,0.5
+institution,2.7327010745685443
+elements,0.676937441643324
+disjunctive word,0.5
+trial under provisions,0.5
+extension,0.7526908023483366
+separate judgment in the following terms,0.5
+strong reliance in support,0.8333333333333334
+turpitude,0.6666666666666666
+words of a statute,0.75
+principle that the power,0.5
+word,2.065873981084096
+chapter,1.3867471532446152
+sort,0.7327002541370012
+will,1.9263907124198036
+brevity,0.5466472303206997
+offences under the statutes,1.0
+competent court,1.380952380952381
+food adulteration act,1.25
+last part,0.5921052631578947
+account,2.5754891049671977
+purpose of interpretation,0.8333333333333334
+perfect tune with the spirit,1.0
+creative function,0.6666666666666666
+objects,0.7297830374753452
+interference,0.5733527484528578
+imagination,0.5215909090909091
+purpose,2.519170317925504
+such officer bearer,0.5
+time,2.4764180952862667
+chapter xx,0.75
+provisions reveal,0.6666666666666666
+practical reasons,0.3333333333333333
+issuance,1.05379513633014
+application of the statute,0.5
+ongoing inquiry,0.5
+literal interpretation,0.5555555555555556
+aforementioned situation,1.4545454545454546
+doubtful penalisation,0.5
+whereas,0.7770612954644255
+murder,1.4968553459119496
+right,3.07483248288682
+prohibition,1.9087256027554533
+provision of that chapter,0.5
+appeal from a decision,1.0
+counsel,2.2246780703440323
+policy,3.250773332247955
+rules,3.130914366958792
+last paragraph of section,0.5
+fact extend,0.5
+cardinal dictum,0.5
+differs from the riggs situation,0.5
+mr singh,1.6
+xxv,0.4474576271186442
+trial thereof in contradiction,0.5
+dispute,2.402137592137592
+disposal,1.1180555555555556
+various interpretation,0.6666666666666666
+results,0.6487493619193466
+broad canvass,0.5
+which trial,0.6666666666666666
+conditions,1.9988092071092867
+single judge inter,0.5
+maxwell,0.3828220858895706
+custody at the stage,0.5
+case,7.332269420884958
+error,1.059158294766151
+riggs,0.15492957746478872
+bom xxv,0.5
+example,0.5893965031020868
+colour from the context,0.5
+read dickerson state,0.5
+cray on statute law,0.0
+punishment,1.6266937669376693
+public policy,1.2058823529411764
+wherea in the cases,0.0
+manifest error,1.6666666666666667
+of offence,1.561904761904762
+first information reports,0.6666666666666666
+statutory interpretation,1.5
+second part deals,0.5
+contention,1.666391070690368
+dictum that the legislature,0.5
+offence for which trial,0.5
+which results in rejection,0.6666666666666666
+favour of a criminal defendant,0.5
+bench,2.5793391667754992
+differs,0.3833333333333333
+infra,0.8328994793752503
+office,3.5913445886237847
+trite that a law,0.5
+leave,1.0147842365477848
+provisions of the relevant law,0.5
+slp,1.291953447628582
+fact of the matter,0.5384615384615384
+dayal,0.9047619047619048
+body,1.336775463480009
+offence under section,2.6
+learned brother sb,1.5
+second parts,0.5
+notice,2.3300025999395686
+part i,1.6275757575757575
+proper meaning,0.4800000000000001
+part i of section,0.5
+trial of offences,1.5
+recourse to interpretation,0.5
+effort,0.7536036036036036
+patent,1.3540828816226613
+instant case,2.0631578947368423
+criminal element,0.30000000000000004
+circumstance of this case,0.0
+public duties,0.8333333333333334
+sovereignty,0.35000000000000003
+necessary pre - condition for any suspension,0.0
+construction,2.2504918032786887
+common parlance,1.5
+individuals,0.7198633479746219
+narrower purpose,0.5
+entirety,0.6814814814814815
+only proceedings,1.5
+term of the petitioner,1.0
+suspension holder,0.5
+duties under the gujarat,0.5
+elected offices,0.5
+preliminary inquiry,1.8
+detention in police custody,0.5
+trial by a court,0.5
+judge inter,0.4444444444444444
+object of the act,1.5555555555555556
+gujarat,3.2753623188405796
+offence under other category,0.0
+legislature,2.818553268765133
+recourse,0.9157232704402517
+trial proceedings,1.0
+observance,0.6967741935483871
+conduct,1.5998023165163158
+strict construction,2.142857142857143
+cast,2.23102127865833
+pre - condition,0.0
+exceptions,0.6478185993111366
+ulterior purpose,0.5
+service rule,3.1
+moral conduct,1.0
+appellant to the effect,0.8
+vide section,0.6666666666666666
+completion of investigation,1.3
+clear that persons in the elective offices,0.5
+indian penal code,5.264705882352941
+suspension holders,0.5
+same object,0.5
+moral turpitude,0.6666666666666666
+sufficient force in the reasoning,0.5
+hand,2.0299623418254717
+part of sub - section,0.0
+that the offence,1.2727272727272727
+statutes,0.9659824046920822
+such suspension,0.3333333333333333
+application that effort,0.5
+appellant,14.387096774193548
+rules of construction,0.75
+jury trial,0.6000000000000001
+confidence,0.5942028985507247
+interpretation states,0.5
+contempt proceeding,1.0
+power of a president,0.0
+actual conviction for the alleged offence,0.5
+receipt of the charge sheet,0.5
+eventuality,0.5864197530864198
+county,0.5539772727272727
+quasi-criminal in nature,0.0
+second part deal,0.5
+wills,0.3569277108433735
+commencing,0.7153846153846154
+holders,0.9411764705882353
+court of session,1.25
+obvious reason,0.3870967741935484
+true construction of the statute,0.5
+wiltberger,0.5
+criminal proceedings in respect,0.75
+summary trial of which section,0.0
+offences under other category,0.5
+emphasis,0.8024289099526066
+regard to the well,0.6666666666666666
+end of the trial,1.0
+strictness,0.6666666666666666
+issuance of order,0.5
+part of the section,0.8333333333333334
+initiation of any criminal proceeding,0.5
+interpretation of the word,0.6666666666666666
+possibility,0.7613466503601033
+statute law,1.0
+situation,1.1254754682459434
+prosecutor,1.1917989417989419
+attention,0.8724846605528799
+arms act,1.4545454545454544
+prison,1.4542975696502667
+object thereof,0.8
+ali,3.7617236801781915
+prefatory note before parliament,0.5
+criminal procedure in the present form,0.5

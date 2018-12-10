@@ -1,0 +1,1577 @@
+utility concern,0.6666666666666666
+unloading,1.5882352941176472
+government,3.5583785424010483
+several ia,0.6666666666666666
+day in a year,0.0
+adjournments,1.625
+occasions,0.7723557692307693
+earlier contractors,0.5
+spate,0.2173913043478261
+concerned respondent railways,0.5
+radhey,1.2727272727272727
+following direction,1.0
+short duration,0.37037037037037035
+average number of group d staff,0.5
+clock during day,0.5
+respondent union,0.6666666666666666
+purchase of various items,0.5
+los of rs,0.0
+union,2.0981927710843373
+colleague of the petitioners,0.0
+claim of the petitioners,1.5
+entrance,0.7155844155844157
+cross,2.0778316690442225
+loadingunloading,3.0
+petitioners in this writ petition,0.5
+spate of litigation,0.5
+petitioners as regular parcel porters,0.5
+cards,0.5316129032258065
+employees of northern railway,1.5
+either accept,0.42857142857142855
+long year,0.4800000000000001
+correctnes,0.8404159132007234
+eligibility criterion,0.6666666666666666
+complete address,0.30000000000000004
+court on few earlier occasions,0.5
+parcel handling work,4.0
+such terms,0.5333333333333333
+crisis,0.33710691823899375
+millennium parcel expres,0.5
+present loading  unloading operation,0.0
+further directions,0.9090909090909091
+railway stations of northern railway,1.5
+month,1.3454861111111112
+additional affidavit,1.3333333333333333
+eligibility criterion for appointment,0.0
+wherein,1.0724137931034483
+permanent regular basi,0.5
+national federation of railway porters,2.0
+departmental parcel porter,0.5
+number of orders,0.5
+subject,2.4420366233344897
+view that an opportunity,0.5
+fate of workman,0.5
+order,5.472481489660944
+adjudicator,2.5833333333333335
+crores,6.931034482758621
+in these ia,0.5
+luggage compartment,0.5
+question whether the petitioners,0.5
+- core activity,0.0
+badge to such parcel porters,0.0
+copy,0.8620926631522174
+of the petitioner,3.0985915492957745
+court in writ petition,1.4615384615384615
+member,2.649111111111111
+option,1.002339493011135
+parties,1.8210828547990157
+appropriate writ,2.125
+several such request for regularization,0.0
+whole system,0.26666666666666666
+federation of railway porters,2.0
+parcel porters in northern railways,0.5
+condition,2.259476395625584
+such contractor,0.5
+date i,1.2836990595611286
+attention to various similar orders,0.5
+fiction,0.7938733125649013
+petitioners in this batch,0.5
+departmental parcel porters,0.5
+context,0.9269383697813122
+heavy increase in the wage bill,0.5
+court to the colleagues,0.5
+counter affidavits,1.0
+- production of evidence,0.0
+space in the luggage compartment,0.5
+proces,1.627944583238701
+several notices,0.5
+earning,0.9429329794293299
+space,0.49637233360798316
+para,2.300239586747483
+mounting wage bill,1.0
+regular staff,0.5
+non-production,0.0
+various petitions,0.5
+units,5.004460400348129
+records for the past period,0.5
+different writ petitions,0.6666666666666666
+public undertaking on a permanent regular basis,0.5
+eastern railway administration,0.5
+scheme,3.415949119373777
+work of parcel transportation,0.5
+long years without any break,0.5
+indian railway,2.3333333333333335
+thermal,0.8633841886269071
+average annual wage bill of a railway employee,0.5
+entire operation with regard,0.5
+parcel porter in view,0.0
+proposed parties as parties,0.5
+particular of the services,0.0
+parcel porters at various railway stations,0.5
+vps,0.20535714285714285
+single day,0.2692307692307692
+petitioner in this batch,0.0
+final judgment,1.7575757575757576
+opportunity,0.946186440677966
+different railway station of northern railway,0.0
+further direction,1.2380952380952381
+leasing,0.896139705882353
+clock,0.3026124818577649
+passenger traffic,0.5
+respect of the replacement,0.5
+available on the railway,0.5
+necessary in these ias,0.5
+financial crisis,0.75
+registered letter,0.45000000000000007
+spite,0.8919640378414163
+india s plan,0.0
+post,2.344803646492219
+seasonal type of work,0.5
+many case,0.5186751233262861
+ex - contractor,0.0
+senders,0.2
+receipt of this order,0.75
+few earlier occasions,0.5
+contractors,2.2093023255813953
+perennial in nature,0.6666666666666666
+year on different jobs,0.0
+regular employees of northern railway,0.5
+petitioners in order,0.6666666666666666
+passenger trains,0.5
+permanent employee of northern railway,0.0
+several ias,0.6666666666666666
+additional solicitor,2.5454545454545454
+railway parcel,4.0
+duties,1.477142857142857
+claimants,1.8627450980392155
+deputy,1.1595268542199488
+special,1.7363344051446945
+with the postal department s remark,0.0
+mounting wage bill of the employees,0.5
+such parcel porter,1.0
+various circular,1.0
+several such requests for regularization,0.5
+millennium,0.2608695652173913
+bar,1.4720990391722097
+affidavit,2.2996987951807224
+front luggage coach,0.5
+finding on issue nos,0.0
+report,1.7768151696835826
+staff cost,0.5
+principle,1.9620890732001848
+parcel porters,18.5
+pursuant to the directions,0.875
+loading  unloading work,0.0
+cross-examination,0.0
+certain conditions,0.606060606060606
+contracts to private parties,0.5
+opportunity to either lead evidence,0.5
+date,6.195616975795285
+various petition,0.5
+reference,2.1755848210276256
+certain prayer,0.5
+to non - production of records,0.0
+respondent,4.757894736842104
+bare reading,0.9285714285714286
+works,1.7935487434410384
+similar order,0.6666666666666666
+whole work,0.5
+of the contract,4.114285714285715
+similar prayer,0.6666666666666666
+petitioners  interests,0.0
+increase,1.3270102600811262
+break,0.8632505016206206
+honble,2.4444444444444446
+non-production of records,0.0
+claim of petitioners,0.5
+individual labourers,0.5
+duty at different railway stations,0.0
+term of the order,0.0
+high,5.367119186841496
+payment,2.059553716565686
+such of those railway parcel porters,0.5
+service for any other manual work,0.0
+legal fiction,1.6
+various railway stations,0.6666666666666666
+event,1.4310854436179261
+different railway station,4.5
+ex-contractors,0.0
+annual loss,0.5
+nos,1.2635492554198444
+stations,1.3948692152917506
+allegation,1.834319526627219
+principal employer,1.5
+perennial number,0.5
+meagre,0.38114754098360654
+ministry of railways,0.5
+absorption of the eligible petitioners,0.5
+opposition,0.7717250324254215
+contractors against the railway administration,0.5
+public utility concern,0.5
+average wage bill of group d employee,0.5
+criterion,0.7104166666666666
+continuous in nature,0.5
+labour system in parcel work,0.5
+regular employee,2.3333333333333335
+day basi,1.0
+running,1.4160059791608657
+march,1.0644238856181665
+earnings,1.1904761904761905
+labour railway parcel porters,0.5
+railway parcel porter,3.5
+labourers,1.1666666666666667
+commission,4.703619179345321
+valid reason,0.6153846153846154
+names,1.766440410418311
+tenders,1.0344827586206897
+concerned railway stations,0.5
+court for the abolition,0.5
+petitioner of the petitions,0.0
+longer periods as contract,0.5
+such request for regularization,0.0
+person to the extent,0.0
+wef,0.859375
+railway parcel porter on contract labour,0.0
+vibrant busines,0.5
+in many cases,0.5195876288659795
+order of any court,1.1666666666666667
+writ petitioners,3.75
+open tender,1.0
+annual wage bill of a railway employee,0.5
+working for the period,0.5
+evidence,3.6676405172088815
+slr space in the front slr,0.5
+document,1.401100265092073
+legal infirmity,0.8
+petitioners association,0.5
+legal infirmity in the order,0.5
+replacement,0.5521844660194175
+respective contractor,0.5
+gigantic structure of parcel department stands,0.5
+badge,0.2191780821917808
+staff cadre,0.5
+cost of production,2.0370370370370368
+annexure,2.7560975609756095
+consolidators,0.5
+issues for enquiry,0.5
+other writ petition,1.125
+permanent employee of the railway,0.0
+financial implication for the indian railways,0.5
+high court of delhi,1.4761904761904763
+types,0.6765151515151515
+regular railway parcel porters,0.5
+perennial basis,0.5
+discussions,0.6699766355140188
+launch of the parcel express trains,0.5
+same week,0.5
+procedure for recruitment,0.0
+superannuation,4.684210526315789
+service,4.257395095954566
+duties at different railway stations,0.5
+court in the same week,0.5
+private parcel porter,0.5
+other parcel porter,0.5
+rule,5.04
+favour,1.653145208700764
+question whether the petitioner,0.5
+many scheme,0.5
+space in slr,0.5
+petitioners union,1.0
+civil appeal,2.2413793103448274
+such weekly train,0.5
+entire operation,0.30000000000000004
+respondents,2.6341263330598856
+financial implication,0.8
+badges to such parcel porters,0.5
+agency section,0.6666666666666666
+costs,0.8167395522604189
+huge work force of class iv employees,0.5
+gujarat electricity board,0.6666666666666666
+process,1.6274942048088725
+few ia,1.0
+particular,1.5248953455371081
+card,0.7931495852287931
+power,3.8165227690948367
+different railway station in northern railway,0.0
+work study report,0.5
+examination,2.4920345926263088
+schemes,1.1961722488038278
+position,1.549133168619177
+records though complete address,0.5
+workman,2.3486111111111114
+one,4.845669314438648
+directions that all labourers,0.5
+petition,5.3436539306104525
+wage bill on this account,0.5
+guidelines,1.540251572327044
+federation,0.6243243243243244
+units of railway administration,1.0
+consideration,1.9110153789142115
+high speed,1.9392265193370164
+government of india,4.94
+power station,1.0153846153846153
+same benefits,0.4444444444444444
+undertaking on a permanent regular basis,0.5
+commissioner,2.271608643457383
+view of the huge number,0.5
+v steel authority,0.8
+railway rule,0.5
+number of group d staff,0.5
+parcel busines,1.0
+learned additional solicitor,2.65
+petitioners service,0.5
+individual petitioners,1.0
+contract to private parties,0.0
+perennial basi,0.5
+working,1.1479822756765312
+workforce,0.6666666666666666
+shorter period,0.8
+panda,0.7986406117247238
+parcel porter under the direct control,0.0
+ukai v hind mazdoor sabha,0.5
+result thereof,0.8333333333333334
+in many case,0.5198019801980198
+departmentjob-wise,0.0
+number of registered letters,0.5
+ministry,1.6350210970464136
+standing,1.224042586942808
+other parcel porters,0.5
+affidavits,1.954022988505747
+petitioner with reference,0.0
+continuou in nature,0.0
+fact of the case,0.0
+millennium parcel express,0.5
+detailed report,0.42857142857142855
+several such requests,0.5
+clear that the report,0.5
+regular employee of the railways,0.0
+pursuant,0.7227692307692308
+state that the government,0.5
+lok,0.8593462717058222
+as r,2.366426000750701
+employee of the railway,0.0
+national,1.5126860273884035
+different,1.5584427894672215
+disputed claim of the petitioners,0.5
+occasion,0.7946745562130177
+possession,2.808810857389056
+requirement,1.2416133333333332
+such absorption,0.5
+requirements of section,1.5833333333333333
+official,2.6854955160358718
+operators,4.504559270516717
+shyam,2.0
+deal,2.1942302694273583
+general,1.7536558414534391
+to the directions,1.0769230769230769
+petitioner parcel porters,0.5
+such of the contract,0.5
+employment cards  service certificates,0.0
+fifth pay commission recommendation,0.5
+concessions,0.6896551724137931
+nature,1.4149926876444778
+relevant records,1.1428571428571428
+work force of class iv employees,0.5
+respondent no,5.395833333333333
+such requests for regularization,0.5
+petitioners,3.536507936507937
+route,1.1635049683830172
+labour work,0.5
+registered letters,0.5
+loading,1.679715302491103
+mailexpress,0.5
+fresh enquiry,0.5
+parcel porter,18.5
+losses,0.9434840425531913
+customers,1.646655231560892
+eligibility criteria for appointment,1.3333333333333333
+federation of railways porters union,0.5
+leasing route,0.5
+parcel work,0.5
+findings,1.049571253572887
+parcel porters as no records,0.5
+due to the government policy,0.5
+officials of the railways,0.5
+cargo,0.4134615384615385
+different writ petition,0.6666666666666666
+responsibility,0.8659259259259259
+batch,1.2940630797773658
+following directions to the respondent union,0.5
+matters,1.4810665618448637
+los,1.8125523261338943
+railway administration units,0.5
+inter,3.683850287482992
+many quarter,0.5
+railway,5.321428571428572
+court,12.24425115501509
+agreement,3.450434632433366
+different job,0.6666666666666666
+perennial number of posts,0.5
+concerned respondent railway,0.5
+objection,1.68120480131216
+administrative tribunal,3.8
+person,4.291511329454258
+allegations,1.8333333333333335
+correctness,0.8404159132007234
+amount of work,0.5
+writ petitioner,4.482758620689655
+common question,0.5454545454545454
+ex-contractors by cross-examination,0.0
+rejoinder affidavit,1.75
+similar prayers,0.6666666666666666
+claim of the individual petitioners,0.5
+terms of the order,1.0
+regular basi,0.9
+court in the instant case,1.125
+age,4.526374474274117
+employees of railways,0.5
+number,1.4802651440973922
+senior - most person,0.0
+permanent in nature,1.0
+weekly train,0.5
+such contractors,0.5
+proces of leasing,0.0
+attention to the additional affidavit,0.5
+claim,2.817264601856604
+order in writ petition,0.5
+parcel prefer,0.5
+respective contractors,0.5
+d staff,0.9593023255813953
+contra,3.550142721217888
+stating,0.8256619531175857
+fresh report,0.5
+year,2.8349484769759212
+judgment,3.288216560509554
+claims,1.1941982272360998
+pages,0.4777568922305764
+loss,2.0689655172413794
+act,12.870263922028107
+certain condition,0.6018518518518517
+that the report,0.5454545454545454
+clas,2.1196191893660425
+deliberation with the railway administration,0.0
+sufficient opportunity,0.8
+work force,0.46874999999999994
+private cargo operator,0.5
+porters,3.611111111111111
+directions to the union,0.5
+respective party,0.0
+issue no,1.2063492063492063
+likewise,0.6
+record of the porters,0.0
+- contending that this court,0.0
+longer periods,0.5
+discus,0.949630121294522
+section,9.287987283173626
+deliberate with all parties,0.5
+ex - contractors,0.0
+thereunder,1.2794117647058825
+permanent employees,2.0
+parcel traffic through the leasing route,0.5
+railways as contract,0.5
+dates,2.6187832912811886
+master,1.0034463223491643
+functions,1.326241134751773
+officers,2.442124212421242
+finding,1.8129183657767178
+various railway station,0.6666666666666666
+trains,1.1111111111111112
+regard,2.723310344827586
+duty under the strict supervision,0.0
+knowledge,1.1120671641791045
+direction,1.8495050210098996
+agency,1.8968779259354924
+item,1.3319648896447913
+name of the labourer,0.0
+non - core activity,0.0
+accordance with law,1.0046948356807512
+deliberations,0.625
+regular basis,0.9
+petitioners  interest,0.0
+facts,1.4696673624372698
+integral part of the whole system,0.5
+consolidator,0.5
+mazdoor,1.8461538461538463
+same relief,1.0
+other writ,0.6222222222222222
+lack,0.6349809734425119
+regular parcel porter in view,0.0
+claims of the petitioners,0.6666666666666666
+expres,2.3455332782538525
+consolidators on the basis,0.5
+ukai,0.2727272727272727
+findings on issue nos,0.5
+benefit,2.604810195438474
+records,0.9879294336118848
+cost,1.2954397451466992
+overall average for all staff,0.5
+budgetary support,0.5
+spite of various orders,0.5
+such private parcel porters,0.5
+railway administration in regard,0.5
+operating,0.5978283786632933
+proof of the fact,0.8333333333333334
+railway rules,0.5
+arguments,0.7212211466865226
+order if the petitioners,0.5
+lakh per group,0.5
+relevant records though complete address,0.5
+common questions of law,0.5
+inquiry,1.3527272727272728
+court in rk  panda,0.0
+matter,2.8088923076923082
+work of loading  unloading,0.0
+passengers,1.709750566893424
+parcel trains,1.0
+strict supervision,1.0
+indian,1.2604961505560306
+activities,1.57291280148423
+consolidator on the basis,0.0
+similar relief,1.0
+parcels as this work,0.5
+absorption of the railway parcel porters,0.5
+types of trains,0.5
+undelivered with the postal department s remarks,0.0
+infra in this judgment,0.5
+mandamus,3.0
+receipt of this judgment,1.0
+such parcel porters,1.0
+volume,0.5619176554909612
+mail,1.6410850468191913
+well,1.4966552780778166
+basis by the railway administration,0.5
+unit,2.176678509944691
+witness,5.333906623599983
+sake,0.5262975778546712
+core,0.43168575654387237
+permanent employees of northern railway,0.5
+procedure,2.552771605064117
+record for the relevant period,0.0
+activity,1.3846153846153848
+petitions,1.3930830039525692
+won employee,0.5
+fluctuations,0.3333333333333333
+such circumstances,0.5729166666666666
+v steel authority of india,0.8
+commodities,1.6200000000000003
+guideline,1.5641711229946524
+provision,5.439002243350069
+circular,2.0360934182590236
+support,0.8630946786249609
+labour commissioner,11.5
+period of such verification,0.5
+charbagh railway station,0.5
+business,2.8512056385864457
+criteria,1.3561764705882353
+workmen,6.571428571428572
+department,1.9858367499068206
+kumar,2.028839704896043
+many schemes,0.5
+such requests,0.6666666666666666
+ex-contractor after the abolition,0.0
+leaseholder with the responsibility,0.5
+petitioner parcel porter,0.5
+labour cooperative societies,0.5
+ex-contractor,0.0
+representatives,0.8874021711688966
+extent,1.410108024691358
+employees of the railway,3.0
+current wage bill,0.5
+engagement of regular workers,0.5
+essential for the railways,0.5
+railway by mail  express,0.0
+following direction to the respondent union,0.0
+non-production of evidence,0.0
+railway stations,5.666666666666667
+sake of convenience,1.1
+better service,0.5
+parliamentary,1.8068812430632628
+copies,0.5369304682962884
+question of any other labourers,0.5
+class iv employee,1.2222222222222223
+average for all staff,0.5
+parcel department stand,0.5
+delhi,2.6089285714285717
+issues,1.1246716508385532
+complete addresses,0.5
+request,1.1474439594584596
+vendors,0.9150066401062416
+lok sabha,1.5
+amenity,0.75
+slr,0.8103448275862069
+job of parcel,0.5
+process of leasing,0.5
+different jobs,0.6666666666666666
+short in many cases,0.5
+foundation,0.770509435807177
+bill,1.134631348577466
+present cadre,0.5
+parcel,3.0625
+directions that all labourer,0.5
+present petitioner,0.5
+employees,4.611008798854102
+length of time,0.5634146341463415
+receiver,1.266211604095563
+recommendation of the parliamentary standing committee,0.5
+radhey shyam,1.0
+original records,0.6666666666666666
+service benefits,1.6
+contracts,1.9600000000000002
+charbagh,0.5
+class iv employees,1.2222222222222223
+vendor,0.7748881431767338
+ore,6.4436415232678605
+writ,2.8882378560889794
+need,1.1097650269586634
+months,1.1938163721148947
+requests,0.43076923076923074
+additional post,3.5
+parcel train,1.0
+several essential commodities,0.5
+petitioners services,0.5
+labourer on the basis,0.0
+cooperative societies,3.0625
+reliable documents,0.6666666666666666
+years without any break,0.5
+file,1.3720673638585223
+porters in some cases,0.5
+submitted,2.025953721075672
+railway station of northern railway,0.0
+learned,3.406323898681099
+various items,1.5
+petitioner in order,0.0
+for the railways,0.6666666666666666
+change,1.2214862766571903
+cases,1.9728229418951067
+duty of the petitioners,0.0
+permanent parcel porter,0.5
+other manual work,0.5
+claim of the petitioner,1.5555555555555556
+group,1.691932599016908
+similar duty,0.0
+loading  unloading operation,0.0
+passenger traffic to innumerable categories,0.5
+documentary proof,1.0
+permanent employee,1.8333333333333333
+raju,0.782312925170068
+which date i,0.5
+concessional freights,0.5
+earning from parcel traffic,0.5
+railway parcel porters,3.5
+last  -  year,0.0
+batch of cases,1.0
+records though complete addresses,0.5
+labourers under certain conditions,0.5
+muster roll,0.6666666666666666
+regular parcel porter,1.0
+basi of the report,0.0
+comprehensive policy,1.2
+group d staff,1.0
+india,2.7684068260703585
+heavy increase,0.5
+alse general,0.0
+commitment,0.382608695652174
+claimant,2.3438596491228068
+formality,0.5833333333333334
+separate direction,0.5
+association,1.2099052684061826
+respondent as regular employee,0.5
+content of the documents,0.0
+special leave petition,2.013333333333333
+undergone,0.8341384863123994
+employees of the railways,0.5
+railway stations in northern railway,1.0
+reliance,1.400763358778626
+parcel porters under the direct control,0.5
+few ias,1.0
+nature of job,0.6666666666666666
+veracity,0.6470588235294118
+fifth,0.9689957652752572
+petitioners with reference,0.5
+regular worker,0.6666666666666666
+writ petitions,2.984848484848485
+fitunsuitable for such employment,0.5
+fact of the petitioners,0.5
+name of parcel porters,0.0
+periods,0.8597883597883598
+essential commodity,0.5
+annual wage bill on this account,0.5
+reliable document,0.4444444444444444
+address,0.7129538279400157
+central administrative tribunal,1.8333333333333333
+northern railway,6.333333333333333
+appears,0.7401461047811154
+duty,3.2272215973003378
+wages,1.2315068493150687
+stating that the muster roll,0.5
+possession of earlier contractors,0.5
+regular employees of the railways,0.5
+sufficient,1.0246250435995814
+correctness of the final judgment,0.5
+parcel express trains,1.0
+unreasonable prayers,0.5
+goods,4.7578125
+absorption,0.928888888888889
+learned counsel for the writ petitioner mr,0.5
+steps,1.169318181818182
+parcel handling busines,0.5
+innumerable category,0.0
+lacuna,1.6111111111111112
+other writ petitioners,0.5
+list of petitioners,1.0
+at those addresses,0.5
+few earlier occasion,0.5
+public utility,0.5
+writ petition,6.24223602484472
+category,1.9351744779266717
+learned additional solicitor general,2.6
+notices,0.5487269534679544
+writ in the nature,0.8
+complete report,0.30000000000000004
+crunch,0.47878787878787876
+rejoinder to the additional affidavit,0.5
+acts,1.9133929521984454
+parcel express train,1.0
+wage bill of group d employee,0.5
+longer period,0.5333333333333333
+additional solicitor general,2.5
+with the postal department s remarks,0.0
+enquiry into the allegations,0.75
+various orders,1.0
+other labourer,0.5
+court for similar relief,0.5
+authority,2.4352627108360636
+service detail,0.3333333333333333
+parties through leasing,0.5
+various item,1.5
+individual labourer on the basis,0.0
+freight,0.6666666666666666
+ratio,5.027061939235792
+weeks,0.8109161793372318
+high as rs,0.5
+page,1.011907905159212
+iilljsc,2.1666666666666665
+such private parcel porter,0.5
+national federation of railways porters union,0.5
+year of age,0.0
+opposition to the report,0.5
+labour railway parcel porter,0.5
+period of contract,1.0
+freights,1.0
+job,0.6733466933867737
+week,0.8253498691546249
+eligible petitioners,0.5
+other authorities,1.8923076923076925
+period of work,1.6666666666666667
+state,6.817996007300392
+deliberate,0.8170731707317074
+concrete proof,0.28571428571428575
+contents of the documents,0.5
+counter,1.0576470084371923
+workmen of the ex - contractor,0.0
+behalf of the respondents,1.3235294117647058
+discussion,0.7445831166579996
+earlier contractor,0.5
+financial crisi,0.75
+report of the assistant labour commissioner,1.5
+categories,0.8800000000000001
+bearers,1.0
+rk panda,1.0
+disputed claim,0.6666666666666666
+labour,2.5372960372960374
+persons,2.5993381990166555
+loss of rs,0.75
+therefrom,0.673076923076923
+parliamentary standing committee,0.5
+huge number,0.26666666666666666
+parcel handling works,0.5
+arrival,0.6270833333333333
+reliefs,1.308641975308642
+persons to the extent,0.5
+petitioner in regular service,0.0
+relevant record,1.1111111111111112
+salary,1.6193181818181817
+orsmanuscmanusc,1.5
+type of trains,0.0
+ex-contractor by cross-examination,0.0
+failure,0.7827962142086977
+principal,1.3412499999999998
+interest,2.74353772015385
+labourer for a number,0.0
+production,2.1071428571428577
+position to either accept,0.5
+other authority,1.0666666666666667
+outcome,0.6303030303030303
+labourer under certain conditions,0.0
+railway earnings,0.5
+behalf,1.9888053603529987
+direction to the union,0.0
+parcel porter at various railway stations,0.0
+manual work,0.5
+petitioners  union,0.0
+conclusion in regard,0.6666666666666666
+other formalities,0.75
+parcel business,1.0
+appeal,3.4125488033856883
+eastern,0.43291404612159334
+court of judicature,1.4210526315789473
+volume of the work,0.5
+other service benefit,0.6666666666666666
+learned counsel for the petitioners,1.3076923076923077
+area,2.675167256985439
+relevant period,2.1333333333333333
+operations,1.1793611793611793
+different railway stations,4.5
+fifth pay commission recommendations,0.5
+private parties through leasing,0.5
+time to time,1.0211267605633803
+entrance pass,0.5
+non-viable acts like regularization,0.0
+question of law,3.057142857142857
+petitioners union in other writ petitions,0.5
+averments,1.76
+different railway stations in northern railway,1.0
+years on different jobs,0.6666666666666666
+days in a year,0.5
+writ petitioner mr,0.5
+duration,0.6373626373626373
+casual in nature,0.6666666666666666
+huge work force,0.5
+present writ petitions,1.25
+average,0.9365131578947369
+respective railway station,0.5
+in these ias,0.5
+reliance on the judgment,0.7407407407407408
+lakshmanan,1.125
+permanent employees of the railway,2.0
+counter affidavit,1.96
+stations for short duration,0.5
+several essential commodity,0.0
+list,4.014941314095513
+manner,1.4494591333432125
+-  year,0.0
+traffic,1.1556250000000001
+parcel porters in the aforesaid writ petition,0.5
+northern,1.178115208483972
+perennial nature,5.0
+procedures for recruitment,0.5
+work study,1.0
+average number,0.2727272727272727
+certificates,0.7105263157894737
+regular parcel porters,1.0
+correctnes of the final judgment,0.0
+average annual wage bill,0.5
+conditions of service,2.235294117647059
+documentary evidence,0.6825
+employment cards  service certificate,0.0
+of those railway parcel porters,0.5
+number of petitioners,1.0
+regular workers,0.5
+nature of the prayer,0.5
+day to day basis,1.0
+petitioner in this writ petition,0.0
+compartment,0.5062893081761006
+different railways,0.5
+admit,1.3482801942633553
+circumstance,1.429931390219372
+rejoinder,0.8717948717948718
+regulation,4.3783195107648485
+regard to the perennial nature,0.5
+genuineness of the claim,0.5
+judicature,1.4210526315789473
+circulars,1.1515151515151516
+other service benefits,0.6666666666666666
+genuineness,0.8142857142857144
+unjust that the petitioners  interests,0.0
+class,2.1508512849922936
+postal department,0.5
+perusal,0.750733137829912
+length,0.6297872340425531
+recommendations,2.1638655462184877
+union of india,3.1324503311258276
+parcel transportation,0.5
+contents,0.66519564577817
+basi,2.0752712086391383
+benefits,2.0896027049873203
+leave petition,2.013333333333333
+objections,1.2025072324011572
+labour commissioner on the basis,0.5
+consideration of this court,1.0714285714285714
+days,1.6721350893491447
+contract,6.227349970404598
+direct control,0.2857142857142857
+minimum scale,0.5
+as rs,0.9423076923076923
+prayers,0.6104336043360433
+railway station,3.111111111111111
+basis,1.953226441078104
+ias,0.95302321313882
+ages,1.119575574956862
+directions,1.5134125183504605
+similar direction,0.5
+honble court,2.4444444444444446
+number of posts,1.2000000000000002
+other option,0.4602272727272727
+implication,0.6615776081424936
+premature termination,1.0
+abolition,1.1428571428571428
+officer,3.1197242647058823
+records of the porters,0.5
+letters,2.0877496159754223
+petitioners in regular service,0.5
+crore,4.747474747474747
+arrivaldeparture,0.5
+cros,1.8137948361162648
+basis of work study report,0.5
+function,1.6326372491145218
+luggage,0.5333333333333333
+coach,1.052132701421801
+railway station at lucknow,0.5
+proof,1.0648141580366008
+proposition of law,1.0
+term,3.6255105640901575
+parcel service from passenger services,0.0
+years of age,1.10099573257468
+annual los of rs,0.0
+view,2.441100058469462
+requirements,0.7375979875979877
+vide,4.454025282767798
+parcel handlingloadingun-loading,0.0
+relief,1.4748116760828625
+remarks,0.4772727272727273
+same salary,1.0
+writ petition before the delhi,0.6666666666666666
+petitioners as employees,0.5
+parcel porters as permanent employee,1.5
+learned counsel for the other writ petitioners,0.5
+v hind mazdoor sabha,0.75
+assistant,1.6732837055417698
+steel,1.615214878638226
+space in the front slr,0.5
+result,1.3356630184144715
+officials,1.3691666666666666
+pay,3.828326695859537
+record,2.5393414390845273
+other labourers,0.5
+muster,0.6049382716049383
+for the railway,1.3333333333333333
+continuous employment,0.5
+questions of law,1.3333333333333333
+follows-,0.0
+particulars of the services,0.5
+averment,1.7
+labour system,1.6666666666666667
+solicitor,1.7073170731707317
+contract in respect,0.0
+premises,1.290983606557377
+fact,3.6284951019474962
+government policy,0.2692307692307692
+express,2.3455332782538525
+learned counsel,3.703333333333333
+such circumstance,0.5723905723905723
+relief for issue,0.5
+interests,1.0562317935913441
+public undertaking,0.5
+porter in some cases,0.0
+regularization by the railways,0.5
+chief,1.9429638234317954
+following relief,1.1818181818181819
+goods porters union,0.5
+various affidavit,0.75
+particulars,0.9472222222222222
+issue for enquiry,0.0
+available on the file of the assistant labour commissioner,0.5
+annual wage bill of a group d employee,0.5
+solicitor general,1.7368421052631577
+attention to the order,0.9333333333333332
+employee of the railways,0.0
+record for the past period,0.0
+parcel handling business,0.5
+documentary,0.6730769230769231
+years,2.5395804110508022
+exercise,1.9400726466785694
+requirement of section,1.5
+party,2.2250894654439723
+respondent railway,0.5
+reading of the report,0.5
+individual petitioner,1.0
+shorter period of work,0.5
+proposition,0.6371087928464977
+rolls,1.3464566929133857
+at the hearing,0.7857142857142857
+type of work,0.38095238095238093
+similar duties,0.6666666666666666
+present at the hearing,0.5
+various circulars,1.0
+loading  unloading operations,0.0
+administration,1.061072796934866
+society,2.1182859399684046
+in nature,0.7593052109181141
+hearing,0.9644508209787979
+a-k,0.0
+such employment,0.5
+day,1.550999710228919
+guidelines for such absorption,0.5
+writ petition nos,1.125
+question,2.980312372067635
+contract labour,8.0
+complex parcel,0.5
+age of superannuation,3.5833333333333335
+disposal of these petitions,0.5
+basi of work study report,0.0
+scmanu,7.940520446096654
+step,0.8867024753460084
+amount,3.179688593072295
+fate,0.5961046626008263
+with all party,0.0
+statement,2.5393160135035964
+industrial adjudicator,0.5
+gigantic structure,0.5
+whole work of parcel transportation,0.5
+annexures,1.1428571428571428
+needs,0.6897483569699066
+force,1.6009408121948314
+arrive at a conclusion in regard,0.5
+operator,4.496320824135393
+parcel traffic,2.0
+bare reading of the report,0.5
+law,3.538923411654744
+either lead evidence,0.5
+regularization of the required number,0.5
+infirmity in the order,0.75
+instant batch of cases,0.5
+items,1.0672246220302377
+addresses,0.5962962962962963
+plan,2.0162821688398056
+board,2.401414435268602
+postal department s remarks,0.0
+several such request,0.5
+various similar orders,0.5
+dozens,0.23451327433628322
+absence of the documents,0.5
+petitioners as contract labour,0.5
+last  -  years,0.0
+retrenchment,1.5
+handling of parcel,0.5
+service benefit,1.6
+postal department s remark,0.0
+honble court in various petitions,0.5
+pain,0.6559880239520958
+facts of the case,1.161764705882353
+increase in the wage bill,0.5
+certificate,2.732600732600732
+annual loss of rs,0.5
+mailexpres,0.5
+stating that the muster rolls,0.5
+termination,1.6799615488397193
+april,0.8928235149629509
+authorities,1.266131845134287
+assistant commissioner,1.8125
+allahabad in writ petition,0.5
+reading,0.9004509191814082
+concerned railway station,0.5
+certain prayers,0.5
+other railway office,0.5
+proposed parties,0.5
+counsel for the petitioners,1.2666666666666666
+railways by mail  express,0.0
+perennial posts,0.5
+at those address,0.5
+such weekly trains,0.5
+average wage bill,0.5
+such term,0.5529100529100529
+required number,0.8333333333333334
+passenger amenity items,0.5
+scale of pay,3.2
+losses in parcel business,0.5
+permanent basi by the railway administration,0.0
+detail,0.9737454684220567
+conclusion that the work,0.5
+period,1.9480170842427122
+that the petitioners  interest,0.0
+railway parcel porters on contract labour,0.5
+passenger amenity item,0.5
+constitution,3.204842342342342
+letter,2.707240080105903
+instant batch,1.0
+tender,1.2253313696612664
+undertaking,2.8508771929824563
+private party,1.9444444444444444
+non-viable act,0.0
+railway authority,0.0
+recommendation,2.6589497459062676
+supra,2.246342614440774
+launch,0.4060324825986079
+present writ petition,1.2857142857142858
+applicant,0.7861822513400833
+pay commission recommendation,4.333333333333333
+event of failure,0.6666666666666666
+authenticity,0.6649999999999998
+such verification,0.5
+directions for regularization,0.5
+crisi,0.3358024691358025
+- most person,0.0
+court by order,1.1818181818181819
+burden,0.9853978671041838
+railway administration,12.666666666666666
+allahabad,2.3404255319148937
+other writ petitions,0.6666666666666666
+various similar order,0.5
+main matter,1.0
+quarters,0.5426195426195426
+appear,1.4518031745812612
+premise,1.2347417840375587
+service details,0.5
+reason,2.6381270903010035
+operation,1.0959893294085181
+receivers of parcel prefer,0.5
+charbagh railway station at lucknow,0.5
+order if the petitioner,0.5
+parcel porters as permanent employees,1.5
+intervention,0.6975694444444444
+several notice,0.5
+genuinenes of the claim,0.0
+assistant labour commissioner,4.333333333333333
+court in national federation,1.0
+others,0.9074667328904616
+- production of records,0.0
+receipt,1.5471923536439667
+matter to the labour commissioner,0.5
+adequate amount,0.30000000000000004
+of the petitioner of the petitions,0.0
+parcel handling,8.0
+vide judgment,1.2142857142857142
+railway porters,2.0
+loss in parcel business,0.0
+that the petitioners  interests,0.0
+conclusion,1.3883437407077015
+supervision,2.825
+innumerable categories,0.5
+questions,0.9979150871872632
+petitioners as employee,0.5
+previous orders,0.3333333333333333
+colleagues,0.6
+previous order,1.222222222222222
+absence of any documentary proof,0.5
+circumstances,1.3944461370073231
+requirement of the railways,0.5
+lacuna in the act,0.5
+high court,7.7477477477477485
+sabha,2.814814814814815
+eligibility criteria,2.375
+petitioners as proof,0.5
+services for any other manual work,0.5
+bearer,0.75
+manu,7.078142071124147
+concern,2.0544958000579303
+earlier occasions,0.8333333333333334
+sanctify,0.2222222222222222
+writ petition no,2.7777777777777777
+employer,2.639728353140917
+outcome of the fresh enquiry,0.5
+common question of law,0.75
+subject to the outcome of the fresh enquiry,0.5
+scale,2.0845464725643894
+operation with regard,0.5
+similar writ petition,0.8
+workman of the ex - contractor,0.0
+records for the relevant period,0.5
+permanent basis by the railway administration,0.5
+tribunal,5.07183212267958
+eligible petitioner,0.5
+bolt schemes,0.5
+learned counsel for the writ petitioners,0.5
+respondent railways,0.5
+measure,1.1941357983816498
+of the petitioners of the petitions,0.5
+electricity,4.4831223628691985
+colleague,0.8874841972187105
+other formality,0.0
+structure of parcel department stands,0.5
+northern railways as contract,0.5
+non-viable acts,0.0
+committee,2.546237803603864
+court in the case,1.3333333333333333
+railways,6.025974025974025
+receiver of parcel prefer,0.0
+dozen,0.3163841807909604
+cargo operators,0.5
+national federation,1.0769230769230769
+part of the whole system,0.5
+financial crunch,0.5
+change of the contractors,0.6666666666666666
+following interim order,0.75
+employee,6.280487804878048
+past period,1.0
+terms,2.390350840909655
+indian railways,2.3333333333333335
+raghavendra,0.5
+front slr,0.5
+parcel porter in northern railways,0.0
+parcel services from passenger services,0.5
+employment,1.5239770785161355
+duties of the petitioners,0.5
+duties under the strict supervision,0.5
+slr space,1.0
+to the government policy,0.5
+strong reliance on the judgment,0.6666666666666666
+ors,2.8612718198296623
+electricity board,2.2285714285714286
+call,1.5442351461768689
+part,5.294464509893076
+quantum of work,0.5
+agreement between the respondent,0.5
+litigation,1.4968553459119498
+labourer,1.25
+correctness of the judgment,1.1111111111111112
+parcel porters in view,0.5
+labourers for a number,0.5
+most of the petitioners of the petitions,0.5
+outsourcing,0.5
+cargo operator,0.5
+proposed party,0.0
+view of the fluctuations,0.5
+staff,1.3233972834416785
+areas,1.6237236125072747
+luggage coach,0.5
+good,2.6154941054299674
+hind,1.2454333585285966
+parcels,1.25
+certain guidelines,0.875
+exhibit,0.8875432525951558
+similar orders,0.5
+report none,0.5
+respective railway stations,0.5
+certain guideline,0.875
+wage bill,4.5
+services,1.6850241065659326
+view of the disposal,0.6666666666666666
+adjournment,2.4166666666666665
+formalities,0.5
+permanent regular basis,0.5
+on the file of the assistant labour commissioner,0.5
+appointment,3.1380281690140843
+effect,2.184583388478191
+dinesh,3.230769230769231
+quarter,0.7884753275536145
+railway office,0.3333333333333333
+wage,1.5814065510597304
+weekly trains,0.5
+convenience,0.6501259072729966
+rest,3.3424534062537377
+utility,0.6431972789115645
+representative of the writ petitioners,0.0
+adequate amount of work,0.5
+none,0.8181718550217885
+writ of mandamus,2.642857142857143
+railway earning,0.5
+due to non-production of records,0.0
+representative,1.0617102796119673
+passenger service,0.5
+badges,0.2222222222222222
+behalf of respondent nos,1.0
+particular day,0.9333333333333332
+control,2.148867902684286
+month from the date,1.2222222222222223
+issue,2.766776251628934
+regular employees,2.3333333333333335
+opportunity to the railway administration,0.5
+earlier occasion,1.0
+of the petitioners,3.3529411764705883
+essential commodities,2.0
+regularization of parcel porters,0.5
+petitioner,4.524972253052164
+weight,0.7538461538461538
+judgment of this court,2.1029411764705883
+orders,1.4936359300077826
+contract labourers,2.3333333333333335
+mr raju,0.5
+applicants,0.6960950764006791
+total weight,0.3333333333333333
+cooperative society,1.75
+answering,0.7411764705882353
+concessional freight,0.5
+department s remark,0.0
+basi by the railway administration,0.0
+lot of concessions,0.5
+concession,1.3748597081930416
+regularization,4.0
+respective parties,1.0
+liberty,0.7860465116279071
+concept,0.9402138540213855
+article,4.378806157159795
+roll,1.7278932172102048
+trains in november,0.5
+labourers on the basis,0.5
+regular service,0.3333333333333333
+gaumastha,0.5
+opinion,1.4960606342789635
+verification,0.9934640522875817
+basis of the report,0.8
+calcutta,1.6022727272727273
+commercial concern,0.4
+discuss,0.9480477152727984
+group of writ petitions,0.5
+regular parcel porters in view,0.5
+november,0.7203359669727383
+workers,1.9961977186311788
+aforesaid writ petition,0.6666666666666666
+train,1.7989372868013647
+department s remarks,0.0
+trains in march,0.5
+muster rolls,0.5
+respect,2.6704963235294117
+such order,1.056910569105691
+recruitment,5.333333333333333
+respondent as regular employees,0.5
+strong reliance,1.606060606060606
+departure,0.6451612903225807
+railway employee,0.5
+elaborate enquiry,0.5
+report to the railways,0.5
+station,1.2515681586858238
+cooperate with the labour commissioner,0.5
+passenger train,0.3333333333333333
+absorption of wages,0.5
+vibrant business,0.5
+work,2.8478559811646353
+system,1.1230229504341178
+colleagues of the petitioners,1.0
+present loading  unloading operations,0.0
+additional,1.4256530253244384
+genuinenes,0.8142857142857144
+rests on the claimants,0.5
+regular employee of northern railway,0.0
+handling,1.5728328865058085
+names of the labourer,0.5
+most of the petitioners,1.0
+details,0.9406426856198188
+private cargo operators,0.5
+posts,2.6556317082632876
+individual labourers on the basis,0.5
+unreasonable prayer,0.5
+enquiry,2.145762711864407
+deliberation,0.7366666666666667
+such retrenchment,0.6666666666666666
+representatives of the writ petitioners,0.5
+bar to such retrenchment,0.6666666666666666
+seniority,7.989473684210527
+service of the members,0.5
+there own agency,0.5
+answering respondent,2.5
+various train,1.0
+petitioners association as employees,0.5
+northern railways,1.0
+working period,0.6666666666666666
+accordance,1.4069045211613462
+procedures,0.6129675045984059
+cadre,2.7892948173322005
+railway station in northern railway,0.0
+inter se seniority,6.666666666666667
+various order,1.0
+vital lacuna in the act,0.5
+high as r,0.5
+with all parties,0.5
+parcel porter in the aforesaid writ petition,0.0
+correctnes of the judgment,0.0
+appeals,1.7060218112849692
+such request,1.125
+name,1.8996570753072433
+unit of railway administration,0.0
+result of the present loading  unloading operations,0.0
+entrance passes,0.5
+members,1.9437616522164103
+contract labour system,2.0
+account,2.5754891049671977
+bolt,0.3204225352112676
+marketing,4.023015873015873
+intermittent nature,0.5
+purchase,3.239871541501976
+cooperate,0.5326315789473685
+commodity,1.4505494505494503
+principal employer after the contract system,0.5
+feasible for the railway administration,0.5
+claim of the respondents,0.75
+prayer,0.6969296987087519
+garg,1.542056074766355
+purpose,2.519170317925504
+deal with the facts,0.5
+train in march,0.0
+study,1.4280920541907696
+time,2.4764180952862667
+central government,3.0380952380952384
+loadingunloading of parcels,0.5
+mandamu,3.0
+same benefit,1.2571428571428573
+won employees,0.5
+long years,0.4800000000000001
+eligibility,1.1788856304985336
+many quarters,0.5
+deliberations with the railway administration,0.5
+content,1.5450574489970066
+for the railway administration,1.0
+court in various petitions,0.5
+contract system in parcel handling work,2.0
+transportation,0.4525862068965517
+break of a single day,0.5
+condition of service,0.5
+veracity of the documents,0.5
+contractor,4.09297052154195
+individual labourer,0.5
+permanent cadre,0.5
+absence,1.092363454568179
+type,0.8102172691515265
+counsel,2.2246780703440323
+vital lacuna,0.5
+policy,3.250773332247955
+court of delhi,1.4761904761904763
+group d employee,1.3333333333333333
+day basis,1.0
+witnesses,3.359210526315789
+rules,3.130914366958792
+of those railway parcel porter,0.5
+permanent basi,1.4285714285714286
+integral part,1.3397435897435899
+matter of absorption,1.0
+employer after the contract system,0.5
+various trains,1.0
+employee of railways,0.0
+to the direction,0.6285714285714287
+disposal,1.1180555555555556
+private parties,1.4444444444444444
+regular railway parcel porter,0.5
+conditions,1.9988092071092867
+ramachandran,0.6666666666666666
+passenger,1.8365885416666665
+perennial post,0.5
+lok sabha in april,0.5
+engagement,0.38345864661654133
+sender,0.3311318606240036
+meagre parcel,0.5
+standing committee,2.7755102040816326
+passenger services,0.5
+rests,1.061846944136361
+case,7.332269420884958
+services of the members,0.5
+annual los,0.5
+names of parcel porters,0.5
+mr dinesh kumar garg,1.0
+rest on the claimants,0.0
+unsuitable for such employment,0.5
+time of arrival  departure,0.0
+raghavendra gaumastha,0.5
+future,0.9664487618116651
+statements,1.110873440285205
+direction for regularization,0.0
+issue nos,0.8
+court in similar writ petition,0.5
+lucknow,3.4545454545454546
+speed,1.9085752419085753
+different railway stations of northern railway,1.0
+infra,0.8328994793752503
+attention to the report,0.5
+office,3.5913445886237847
+relevant records though complete addresses,0.5
+regularization of the petitioners,1.0
+leave,1.0147842365477848
+main matters,1.0
+quantum,0.8922235363690124
+abolition of contract system,0.5
+wage bill of a group d employee,0.5
+notice,2.3300025999395686
+high court of judicature,1.4210526315789473
+file of the assistant labour commissioner,0.5
+structure,1.568520357497517
+findings that the work,0.5
+train in november,0.0
+appropriate writ in the nature,0.5
+railway administration unit,0.5
+periods as contract,0.5
+railway porter,2.0
+petitioners association as employee,0.5
+instant case,2.0631578947368423
+court in writ petition nos,0.5
+lakh,1.3647388059701493
+parcel porters as no record,0.5
+different railway,5.0
+contracts in respect,0.5
+civil appeals,1.24
+parcel service,1.0
+documents,1.142515923566879
+minimum scale of pay,0.5
+original record,0.6666666666666666
+labour cooperative society,0.0
+customer,1.993717277486911
+remark,0.5091064757160647
+railways porters union,0.5
+present petitioners,0.5
+reply,1.0337305560040906
+permanent basis,1.4285714285714286
+respondent nos,2.5185185185185186
+proposed parties as party,0.0
+bolt scheme,0.5
+parcel department stands,0.5
+available at those addresses,0.5
+gujarat,3.2753623188405796
+various affidavits,0.75
+employee of northern railway,0.0
+attention to the judgment,0.8
+contract labourer,2.3333333333333335
+conduct,1.5998023165163158
+societies,1.7085137085137085
+deputy chief marketing manager,0.5
+seasonal type,0.5
+departmentjob-wise on the basis,0.0
+thermal power station,2.0
+argument,0.9504580388560493
+petitioners as regular parcel porter,0.5
+common questions,0.37037037037037035
+contract system,3.0
+leaseholder,0.5
+petitioners of the petitions,0.5
+railway authorities,1.3333333333333333
+working of the parcel porters,1.5
+-  years,0.0
+central agency section,0.5
+implication for the indian railways,0.5
+- contending,0.0
+other writ petitioner,0.5
+following directions,1.0
+months from the date,1.3333333333333333
+porter,3.055122204888196
+such order in writ petition,0.5
+many cases,0.5184774575018478
+busines,2.8488759960122034
+favour of the petitioners,1.25
+counsel in spite,0.5
+manager,1.7133044010756409
+on the railway,1.0
+public,2.923239095873367
+principle of law,1.1538461538461537
+jobs,0.5589459084604715
+annexure-b,0.0
+lack of any documentary proof,0.5
+private parcel porters,0.5
+infirmity,1.3095238095238095
+central,2.61875
+official of the railways,0.0
+parcel services,1.0
+station for short duration,0.0
+fluctuation,0.31746031746031744
+annual wage bill,1.5
+unjust that the petitioners  interest,0.0
+report of the labour commissioner,1.6666666666666667
+night,0.8690610404251893
+- production,0.0
+attention,0.8724846605528799
+administrative,1.85302734375
+pay commission recommendations,1.6666666666666667
+measures,1.126498218334953
+permanent parcel porters,0.5
+most unfair manner,0.5
+open tenders,0.6666666666666666
+overall average,0.5
+following reliefs,1.2
+receivers,0.3116883116883117
+guideline for such absorption,0.0
+worker,1.9239190944516609

@@ -1,0 +1,3415 @@
+apprehension of bias,1.0
+appeal in a letters,0.5
+first notice,0.5
+same time under section,0.5
+government,3.5583785424010483
+chandra jute mill,0.5
+average rate,0.5
+other than this act,0.6666666666666666
+necessary statutory power,0.5
+court in the process,0.5
+sources,0.8884345343723477
+framing,1.0965593784683685
+new scheme of things,0.6666666666666666
+such irreconcilable difference,0.5
+various pros,0.5
+demur,1.2030075187969924
+other defects,0.5
+statutory power,1.3846153846153846
+specific significance,0.5
+mark,2.700508607198748
+of a dispute,0.6000000000000001
+x x x,0.6470588235294118
+custodian,0.6233766233766234
+establishment,0.9899216125419933
+order of the state commission,2.0
+which refer,0.625
+evacuee,0.5
+notice to the consumers,0.5
+correct to state,0.5
+pass,2.510543963686946
+court that the schedule,0.5
+learned counsel for the respondent company,3.5
+noticed hereinabove,1.1428571428571428
+questions of fact,1.3846153846153846
+interests of consumers,1.0
+excessive cost,0.5
+principal section,0.5
+union,2.0981927710843373
+facilities,0.9130594727161252
+in law,1.1088664421997756
+other metropolitan areas,0.5
+challenge to the provisions,0.6666666666666666
+indiscriminate representation,1.0
+- for the future years,0.0
+supreme court under section,0.6666666666666666
+cause,1.8431210321626654
+way,1.7812722068664852
+holder of a licence,0.5
+merits that the regulations,0.5
+efficient management of the company,0.5
+requirements of sub - clauses,0.0
+thane,0.6447368421052632
+systems,0.3927792585413133
+calculation,0.8853448275862068
+act to the extent,1.8
+purposes of assessment,1.8
+msr,0.32866795366795365
+combined reading,0.8571428571428571
+cross,2.0778316690442225
+houses,1.0821764442454098
+such accounts,0.6666666666666666
+national power plans,0.5
+latter power,0.5
+facility,1.2989690721649485
+weighty authority,0.5
+impleadment,1.3333333333333333
+retirement,10.167032967032968
+obstante provision in clause i,0.5
+electricity tariff,0.6666666666666666
+contrary,1.027917657672435
+various provision of this act,0.0
+possible for the company,1.0
+bias to the judges,0.5
+than this act,0.6666666666666666
+transparency,0.95
+act in section,0.8
+background that the commission,0.5
+non- applicability of cross - subsidy,0.0
+loss reduction target,0.5
+victory of section,0.5
+conformity with sections,0.5
+wheeling charges,0.6666666666666666
+msm,0.30040439052570767
+correctnes,0.8404159132007234
+other company,0.3508771929824561
+scr,2.483838975311538
+provisions of schedule,1.5
+refers,0.6484772632457239
+j that both special statute,0.5
+state commission herein,0.5
+sufficient steps,0.5
+provisions of the act,2.6056338028169015
+such terms,0.5333333333333333
+manner in which charges,0.5
+expert,2.5786336542870245
+substantial los,0.3333333333333333
+learned counsel for the respondents,1.394736842105263
+additional strength,0.5
+stage,1.1298537871524448
+permission of the west bengal electricity board,0.5
+actual cost,0.5555555555555556
+other companies,0.3870967741935484
+appellants herein,1.4883720930232558
+liabilities of companies,0.5
+wherein,1.0724137931034483
+such ground,0.8333333333333334
+limited,1.3713554955535188
+to the statute,1.0
+piece,0.8682170542635659
+chettiar,3.2857142857142856
+restrictions to utility,0.5
+spite of the fact,0.45000000000000007
+fixation,1.1141025641025641
+subject,2.4420366233344897
+due weight,1.7142857142857142
+many other incidental question,0.5
+order,5.472481489660944
+creature,0.4845338524767467
+expert forum s findings,0.0
+non obstante clause in section,0.5
+systems in accordance,0.6666666666666666
+findings on the question,0.5
+crores,6.931034482758621
+different alternatives,0.3333333333333333
+transportation system,0.25
+other matter,0.7002457002457002
+autonomy of this commission,0.5
+tubes,1.0040983606557377
+consumer by the commission,0.0
+yorkshire copper,0.5
+impleadment application of the appellant - organisations,0.0
+statement of objects,1.565217391304348
+pleading,1.1270125223613594
+phased manner,1.3333333333333333
+parameters,0.8168253968253969
+say,1.0367995905217446
+provisions of the enactments,1.0
+high court in the course,1.0
+balance for this year,0.5
+unit at budge-budge,0.0
+power of writ,0.5
+pendency,1.0084033613445378
+such procedure,0.8888888888888888
+bearing in mind,0.6018099547511312
+other guidelines,0.5
+member,2.649111111111111
+prior approval,0.787878787878788
+obstante clause in schedule vi,1.0
+high court in the initial stage,0.5
+parties,1.8210828547990157
+retail tariff,1.0
+regional basi,0.5
+consumers in such manner,0.5
+projection by the cesc,0.5
+such group,0.5185185185185185
+neglect,0.6777777777777777
+contrary view,0.7464114832535885
+meeting,1.5978547625659538
+madhya,2.9183673469387754
+alteram partem,0.5
+preference to any consumer,1.25
+condition,2.259476395625584
+appellate,2.561224489795918
+supply of power,1.6
+such recognition of a particular organisation,0.5
+equal vehemence,0.5
+accordance with the provisions,1.9523809523809523
+wheeling,0.7142857142857143
+fares,0.37499999999999994
+other guideline,0.5
+many of the findings of the commission,0.5
+substantial part,0.6000000000000001
+which member,0.45000000000000007
+sale electricity,0.5
+determination of the tariff,2.25
+tariff structure,1.3333333333333333
+learned counsel for the appellants,1.7142857142857142
+tariff for the relevant years,0.5
+standi,1.284595524956971
+basis that the high court,0.5
+grid system,3.6666666666666665
+context,0.9269383697813122
+high level cross subsidy,0.0
+correct in overall circumstances,0.5
+various statutory provision of the enactments,0.0
+different today,0.2777777777777778
+proces,1.627944583238701
+consumer - appellants herein,0.0
+limitation,2.4984479402325457
+correct principle,0.5555555555555556
+such of those consumers,0.5
+economics,0.5293367346938775
+consideration proper,0.5
+objections representation from persons,0.0
+such aggrieved party,0.5
+overall circumstance,0.6666666666666666
+court feel,0.75
+fault,0.8125244007183572
+earlier judgment,1.8
+heads of accounts,0.5
+judgment held,0.8
+para,2.300239586747483
+public notification of the filing,0.5
+j that both special statutes,0.5
+july,0.9742727723122656
+lacs towards overtime,0.5
+special laws,0.75
+imposition,1.4444444444444444
+powers,1.876345371920593
+empower,0.9420289855072463
+different type of supplies,0.0
+above issue,0.6666666666666666
+indiscriminate right,1.0
+same principle,0.7309941520467836
+canara bank,9.75
+atomic energy act,0.25
+period of sixty days,1.0
+opinion that the company,0.5
+today,0.6330563683773655
+by a competent court of law,0.8
+commission that the accountant,0.5
+grid,3.228915662650602
+representations from persons,0.5
+open to the state government,0.8
+percentage,0.8769344141488578
+holding,1.2555282555282552
+scheme,3.415949119373777
+calculations,0.5769230769230769
+average cost of supply,1.0
+reality,0.6251091491219559
+bali,0.9397590361445783
+towards wages,0.5
+major issue between the parties,0.5
+day from the date,0.0
+indiscriminate hearing,3.0
+sole consideration for the purpose,0.5
+high court in the process,0.5
+expert members,0.5
+special reference to section,0.5
+correctness of the accounts,0.6666666666666666
+charge,2.7679815308681284
+instant case that the commission,0.5
+ipso facto binding on the commission,1.0
+subject to section,0.6666666666666666
+view in exercise,0.6666666666666666
+objection to the impleadment,0.5
+country,1.2903191103863751
+such low rates,0.5
+such interim orders,0.5
+overriding provisions,0.6666666666666666
+proper tariff,0.5
+further appeal,1.1666666666666667
+in view,1.2566801619433199
+raleigh,0.16666666666666666
+courts act,0.923076923076923
+complaints,0.9978858350951374
+perusal of the various provisions,0.5
+view of the above judgment,0.5
+independent autonomous body,0.5
+patent appeal,3.5833333333333335
+rules of statutory construction,0.5
+impugned judgment,2.0927152317880795
+which problem,0.30000000000000004
+record material,0.5
+available for the high court,0.5
+following observations,0.8222222222222223
+high court in regard,2.5
+expert tribunal,1.6666666666666667
+governor general in council,1.0
+schedule vi of es act,0.5
+total urban distribution,0.5
+legislative action,0.6000000000000001
+bearing,0.7901184156798694
+part of the rule,1.0
+provision of section,1.4827586206896552
+available figures,0.6666666666666666
+applications,1.0021816198527407
+otherwise of the company,0.5
+similar situation,0.4114285714285715
+spite,0.8919640378414163
+company on similar projects,0.0
+salt act,1.5
+bone,0.6534106600386633
+contrary to the object,0.6666666666666666
+pradesh co - operative federation ltd  v sunder brother,0.0
+charge for the sale,0.0
+conflict,1.314561353483509
+statutory requirement,1.2857142857142858
+cost of budge - budge,0.0
+bodies,0.8969063256135499
+merit,1.2419290263876248
+recognition,1.4333333333333333
+above item,0.39
+regard to the interpretation,0.75
+none of the consumersconsumer organisations,0.5
+company for the first time,0.5
+licences,0.95
+implementation of reforms,0.5
+specific right,0.3333333333333333
+bengal,1.9299191374663072
+inconsistent therewith,0.8
+statutory obligation,1.1538461538461537
+operative portion,0.875
+necessary legislative power,0.5
+substantial investments,0.5
+such low rate,0.5
+commission that the accountants,0.5
+project by the cea,1.5
+conclusion that the t,0.4571428571428572
+to wrong billing,0.5
+parameter,0.7630669107179174
+other metropolitan area,0.5
+sufficient cause,0.6538461538461539
+service of notice,1.2222222222222223
+time schedule,1.1428571428571428
+other clas of consumers,0.0
+law as understood,0.6666666666666666
+obstante clauses,0.5
+basi of actuals,0.0
+conditional claim of actual loss,0.5
+vie,2.383089771394483
+removal,0.7204301075268817
+employees  cost,0.0
+representation from persons,0.0
+bharat chamber of commerce,0.5
+learned judge,3.3692307692307693
+lack of a rational retail tariff,0.5
+special forum consisting,0.5
+other consideration,0.7083333333333334
+duties,1.477142857142857
+anr,1.1271033322299457
+light of the above requirement,0.5
+pronouncement of this court,0.8
+for the commission,1.6666666666666667
+clause i of schedule vi,1.5
+discontentment,0.6666666666666666
+special,1.7363344051446945
+high court by the impugned judgment,1.0
+autonomous authority,0.5
+swastic woollens,0.5
+hegde,1.1333333333333333
+lower side,1.0
+court on these incidental issues,0.5
+justice by a speaking order,0.6666666666666666
+question of the high court,0.6666666666666666
+first time,0.7741935483870968
+ground for interference,1.0
+such right,0.6951724137931035
+ultra vires,1.8484848484848484
+separate reference,0.5
+reliance on the claim,0.5
+right of the consumers,1.0
+other overriding provisions,0.5
+purpose of this act,0.45000000000000007
+factual aspect,1.0714285714285714
+various provision of the act,0.0
+practical convenience,0.5
+contempt of court proceedings,0.5
+brothers,0.9570135746606334
+framework,0.5828468792096991
+appropriate cost,0.5
+budge-budge,0.0
+basis that inspite,0.5
+own exercise of discretion,0.5
+applicability,1.0928961748633879
+of the findings of the high court,0.5
+qualifications,1.0714285714285714
+court in the appeal,0.6666666666666666
+doubt,1.3646267723102583
+n santosh hegde,0.8888888888888888
+court that the company,0.5
+enactments,0.7301587301587302
+affidavit,2.2996987951807224
+reasonable apprehension,1.6
+following reason,0.505050505050505
+genuineness of the accounts,1.0
+non obstante clause therein,0.6666666666666666
+report,1.7768151696835826
+next question,0.6190476190476191
+everything,0.6255060728744939
+protection,1.1604395604395603
+obstante,3.9285714285714284
+principle,1.9620890732001848
+hearing to the consumers,1.5
+calcutta tramways,1.0
+knowledge of law,0.75
+anything,0.9132309941520469
+hearingrepresentation,0.5
+consultants that the overtime payment,0.5
+ends,1.0190933803699291
+newspaper,1.4133350781914544
+specific reason,0.45000000000000007
+case of west bengal state electricity board v calcutta,0.5
+such fixation of the rate,0.5
+provision of that law,0.5
+applications of the principles,0.5
+electricity industries,0.5
+factor,1.2878742338904643
+commencement,1.2037037037037035
+budget,1.9635270541082162
+important issues,0.5714285714285714
+sixty day,0.9629629629629629
+that cesc,0.5
+issue for consideration,0.6666666666666666
+reasonable target,0.5
+authority of the cea,0.5
+appellate power against the order,0.6666666666666666
+persons as the state government,0.5
+financial burden on the company,0.5
+indian constitution,1.25
+division bench,3.965217391304348
+date,6.195616975795285
+service conditions,2.1818181818181817
+cheaper supply,0.5
+substantial loss,0.3333333333333333
+to others,0.48799999999999993
+reference,2.1755848210276256
+special provisions,1.0
+understanding,0.8257450331125827
+consumers,3.861290322580645
+question of validity,0.6666666666666666
+respondent,4.757894736842104
+that the commission,1.9764705882352942
+particular organisation,0.5
+non- applicability,0.0
+order of fixation,0.5
+lacs consumer,0.5
+appellate stage,0.8
+works,1.7935487434410384
+schedule,2.9453067257945307
+proceedings before the commission,1.3333333333333333
+correct in this view,0.5
+company over the years,0.5
+composition of this body,0.5
+tariff for the sale,0.5
+court under section,1.8888888888888888
+delay in determination,0.5
+count,2.7493281810130092
+consumer organisation,1.0
+restriction on hearing,0.5
+cossipore plants,0.5
+state commission of that state,0.5
+other bodies,0.5714285714285714
+approach,1.001908852302553
+impact,1.0957789249924081
+increase,1.3270102600811262
+amounts,0.9789856139834046
+view of the matter,1.7142857142857142
+audi alteram partem,0.5
+dispute that the rules,0.6666666666666666
+permissible in law,1.35
+matter of fact,0.6230936819172114
+commerce,2.221288515406162
+cost of the project,1.4666666666666668
+paucity,0.4444444444444445
+reading of these provisions,0.75
+investment,3.057915057915058
+refer,3.840717772752903
+public hearing for the purposes,0.5
+sections viz,0.5
+tnmanu,1.7
+supreme court,1.4278957326045825
+relation to the rate,0.6666666666666666
+calcutta electricity supply company ltd,0.5
+statutory appellate power under section,1.0
+contrary to law,1.3846153846153846
+judgment of ours,1.0
+negative balance,0.5
+to the high court as an appellate authority,0.5
+audit,2.6089743589743595
+vires of the regulations,0.5
+strength that those constitutional power,0.5
+high,5.367119186841496
+such appellate power,0.5
+vigour,0.5333333333333333
+vacancy in the office,0.5
+payment,2.059553716565686
+brother,1.4566585956416465
+above regulations,0.6666666666666666
+provisions of the sixth schedule ipso facto,0.5
+viscount,0.8333333333333334
+calcutta tramway,1.0
+event,1.4310854436179261
+favour to the company,0.5
+comparative figures,0.5
+houses of the legislature,0.75
+major part,0.4166666666666667
+tariff of the company,0.5
+certain case,0.5333333333333333
+line,1.6884436630262616
+independent electricity,0.5
+types of supplies,0.5
+further discussion,0.3555555555555555
+obstante clause,3.7142857142857144
+v state of haryana,1.3103448275862069
+evacuee property manuscmanusc,0.5
+statutory construction,1.0
+engineering,1.3567493112947657
+right to the consumers,1.5
+various types of expenditures,0.5
+sufficient for a licensee,0.5
+statutory appeal,1.6666666666666667
+piece of evidence,0.8181818181818181
+charges for the sale,0.6666666666666666
+actual expenditure,0.6666666666666666
+rule of prudence,1.125
+allegation,1.834319526627219
+silicon,0.5486577181208053
+other matters,0.8307692307692308
+hereinabove,1.911764705882353
+efficient management by the licensee,0.5
+arbitration act,3.8421052631578947
+disrespect to the judges,0.6666666666666666
+to a constitutional writ matter,0.5
+bias against the judge,0.5
+of other principle,0.5
+stands,0.7032366540563262
+member of the state commission,0.5
+support of the non obstante clause,0.5
+subject to the provisions of this act,1.0
+on that count,0.5833333333333334
+regard to the appellate power,0.5
+doubt that sub - section,0.0
+general law,1.5625
+which reliance,0.9166666666666666
+contribution,0.8348513902205177
+successor,1.2925170068027212
+other thing,0.48636363636363644
+court s finding,0.0
+hereinafter,0.7670609645131939
+latitude,0.5215419501133788
+claim in regard,0.5
+filing of the pleading,0.5
+other bodies of consumers,0.5
+running,1.4160059791608657
+sum of money,0.7638888888888888
+purpose of assessment,1.0
+which authorities,0.5
+exception,1.1036946087733006
+experience,1.0353951355971713
+note of the fact,1.4705882352941178
+exces,0.9881465517241379
+interpretation of the statutes,0.5
+liabilities,1.0606060606060608
+reforms,0.6547619047619048
+award,3.104213525266157
+perusal of the report,0.75
+subjective satisfaction,0.8
+power of determination,0.5
+next year,0.6257234726688101
+commission,4.703619179345321
+finding of the cea,5.5
+such subsidy,0.5
+approach of the commission,0.5
+courts on the ground,0.5
+fixation of t,2.7
+such challenge,0.8333333333333334
+various type,0.5
+view of the fact,0.8707482993197279
+verbatim,0.5185185185185185
+recognition of associations,0.5
+new,0.9418497626301229
+act as ultra vire,0.8
+framing of the regulations,0.5
+central excises,1.0
+primary objects,0.3333333333333333
+special statutes,1.0
+investments in equipments,0.5
+industries companies,0.5
+other similar companies,0.5
+ordinary rule,0.25
+unchallenged on that count,0.5
+additional evidence proceed,0.5
+challenge to the genuineness,0.5
+previous judgment of a coordinate bench,0.5
+inadequate capacity,1.0
+previous judgment,1.5
+evidence,3.6676405172088815
+restriction to utility,0.0
+document,1.401100265092073
+charge for sale electricity,0.0
+substitution,0.5932203389830508
+threat,1.0459885867740852
+pradesh co - operative federation ltd  v sunder brothers,0.0
+distribution losses,1.3333333333333333
+meters,0.9235886065154357
+high court on reference,0.5
+administrative staff college,2.0
+india phenomenon,0.5
+use of the resources,0.75
+for the high court,1.1666666666666667
+staff college,2.0
+court from any decision,0.5
+principle in law,1.2
+consequential financial burden,0.5
+similar projects,0.6666666666666666
+perusal of sections,0.5
+constitutional powers,1.2
+irreconcilable difference,0.3333333333333333
+such time,0.8480725623582767
+emphasi,0.9191619047619048
+to private licensee,0.5
+factual finding,0.6666666666666666
+room for doubt,0.6666666666666666
+for the purpose,1.8600737100737101
+for the company,1.5555555555555554
+types,0.6765151515151515
+superior court feels,0.6666666666666666
+factors,0.9829522460542292
+independent regulatory authority,1.5
+fide,0.8955057484612704
+substantial change,0.3333333333333333
+above provision,1.2727272727272727
+determination of tariff,5.0
+d losses,1.6363636363636362
+ad hoc tariff,0.5
+actual power,0.75
+various enactment,0.5
+sixth schedule on the commission,0.5
+commercial principles,0.6666666666666666
+commissions act,0.6666666666666666
+purposes,1.4391216613438835
+class of consumer,3.0
+acceptable cost,0.5
+high court under section,1.5333333333333334
+mandate of the parliament,0.5
+price fixation,2.0
+year by reduction,0.0
+service,4.257395095954566
+that matter from any other section,0.5
+therefore,2.960332350576253
+end,6.1484001628618765
+principles under section,0.6666666666666666
+licence of every licensee subject,0.5
+rule,5.04
+applicable in the determination of tariff,0.5
+pro rate by the company,0.5
+adequate knowledge,0.9333333333333332
+proceedings,1.7670925223666287
+favour,1.653145208700764
+high court in the cases,0.5
+light of this judgment,1.0
+acceptable to another section of the consumers,0.5
+provision by way,0.6666666666666666
+following observation,0.8039215686274509
+vigilancesecurity staff,0.5
+high power,0.5853658536585367
+materials on record,1.1363636363636365
+lacs towards provision,0.5
+chandra,0.7012987012987013
+other persons,0.6111111111111112
+such conditions,0.6545454545454545
+civil appeal,2.2413793103448274
+large scale interference in the proceedings,0.5
+respondents,2.6341263330598856
+commission for the state,0.5
+proceedings by the commission,0.5
+separate challenge,0.5
+different perspective,0.32
+costs,0.8167395522604189
+other enactments,1.0
+determination of the cost,1.75
+dhulabhai,1.0
+rule mandate,0.75
+venkataraman,2.111111111111111
+alteram,0.5
+vehemence,0.5714285714285714
+fixation of tariff,5.666666666666667
+general newspaper,0.5
+process,1.6274942048088725
+support of this conclusion,0.5
+counsel for the respondent company,3.5
+ashok,0.4374740340673037
+admission,1.5389848246991107
+rpc,1.1043943269007208
+correctnes of the accounts,0.0
+fact that the appellate court,0.5
+forum consisting of expert members,0.5
+high court that the schedule,0.5
+commission s regulations,0.0
+interference with the trial court,0.5
+hoc,0.8814236714464876
+that the above provisions,0.5
+power,3.8165227690948367
+composition,1.4736842105263157
+weightage to the finding,0.5
+such subsidy in the manner,0.5
+various figures,0.5
+various types,0.5
+increased distribution losses,0.5
+settlement with the workmen,1.0
+project,4.265889006716154
+irrelevant for the purpose,0.75
+from the object,0.6666666666666666
+which member of the commission,0.0
+procedure of tariff fixation,0.5
+schemes,1.1961722488038278
+mismanagement,0.41666666666666663
+controlled procedure for such hearing,0.5
+various heads of accounts,0.5
+act refers,0.75
+position,1.549133168619177
+accepted principle,0.8
+state commission of west bengal,0.5
+appellate provisions,0.6666666666666666
+workman,2.3486111111111114
+one,4.845669314438648
+subject to the conditions,1.125
+petition,5.3436539306104525
+state government under section,1.4444444444444444
+guidelines,1.540251572327044
+special appellate tribunal,0.6666666666666666
+state commission in this case,0.5
+federation,0.6243243243243244
+act under schedule vi,0.5
+issues for consideration,0.6666666666666666
+matter of fact none,0.6666666666666666
+consideration,1.9110153789142115
+commission in regard,0.5
+actual amount,0.4444444444444444
+mill,1.0891891891891892
+challenge by way,0.6666666666666666
+creature of a statute,0.8
+fund,2.9945256868353374
+words,1.6384367086179112
+application for tariff fixation,0.5
+commercial principle,0.6666666666666666
+tariff calculation,0.5
+clause,3.526455026455027
+such action,0.5664488017429193
+leave encashment,1.4
+swastic woollen,0.5
+dependent upon the nature of distribution,0.5
+final hearing,1.0
+fact that this los,1.0
+imposition of the punishment,0.5
+alternatives,0.46963562753036436
+first argument,0.2692307692307692
+state legislature under section,0.5
+economical use of the resources,0.6666666666666666
+further consideration,0.45454545454545453
+other law,0.991304347826087
+similar commission,0.5
+subsidy in the manner,1.0
+different consumer,0.5
+trade mark,2.1904761904761902
+working,1.1479822756765312
+attributable to wrong billing,0.5
+rates of the consumers,0.5
+staff college of india,2.0
+necessary that the appropriate government,0.5
+schedule on the commission,0.5
+expert forum,1.3333333333333333
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+non obstante provision in clause i,0.5
+point of time,0.7999999999999999
+special reference,0.7999999999999999
+matter of arbitration,0.6666666666666666
+finding of the consultant,0.5
+allegations against the court,0.5
+affidavits,1.954022988505747
+neutral figure of zero,0.5
+cost of the budge - budge project,0.0
+such large scale interference,0.5
+consideration in these appeals,0.9
+low rate,0.3209876543209877
+claim of actual loss,0.5
+currency of the settlement,0.5
+encroachment,1.0106951871657754
+other defect,0.6666666666666666
+registered consumer associations,1.0
+plain reading of this section,0.6666666666666666
+sub-claus,0.0
+audi,2.135651839754059
+advantage,1.1441364159430905
+performance,1.4794327394994442
+order  direction,0.0
+pursuant,0.7227692307692308
+such substitution,0.6666666666666666
+strength,1.1679328901551123
+court proceedings,0.75
+conclusion that the regulation,0.5
+suitable relief,0.5
+commissions,1.3666666666666667
+loss by way,0.5
+members functions,1.0
+excess payment,0.5
+cea as the appropriate cost,0.5
+conformity,0.71875
+purpose of the act,1.7
+repugnant,1.3095238095238095
+perspective of that question,0.6666666666666666
+above observations as a future guidance,0.5
+score,0.45496296296296296
+statutory auditors,1.0
+matter at the trial stage,0.5
+basi of the provisions,0.0
+basis of actuals,0.5
+administrative staff college of india,2.0
+court on this basis,0.5
+supreme,1.443815331010453
+permits,0.8868838028169013
+actual loss,1.0
+cost of project,1.0
+urban area,1.0
+requirement,1.2416133333333332
+party respondent,1.6666666666666667
+charges for sale electricity,0.5
+direct bearing,0.42857142857142855
+transmission loss,1.6666666666666667
+tariff under section,0.5
+legal issue,0.5454545454545454
+of the appellant,3.8134715025906734
+non - obstante clause,0.0
+vire,1.2466124661246614
+appropriate,1.442180528709907
+bias against the judges,0.5
+requirement of sub - clauses,0.0
+such action against the person,0.5
+mandate to the commission,0.5
+official,2.6854955160358718
+regulation in exercise,0.0
+requirements of section,1.5833333333333333
+future year,1.2000000000000002
+necessary legislative powers,0.5
+general,1.7536558414534391
+invocation,0.8641975308641975
+such persons,0.7516339869281046
+self,1.6847516412733803
+language,0.8555828468744352
+expert body,4.5
+terms that these regulations,0.5
+contrary conclusion,0.5
+to another section of the consumers,0.5
+consideration in the first stage,0.6666666666666666
+application of well - settled principles,0.0
+charles osenton,0.5
+budge-budge project,0.0
+face value,1.053191489361702
+high court that the company,0.5
+burden of loss,0.5
+facto,1.3296269284712483
+continued binding nature,0.5
+scheme of the act,1.5238095238095237
+total t,2.2857142857142856
+similar body,0.6666666666666666
+economical use,0.6666666666666666
+nature,1.4149926876444778
+which authority,0.3333333333333333
+things,0.6162490788504054
+act refer,1.3333333333333333
+public clamour of the sort,0.5
+policing,0.6984126984126984
+investment in equipments,0.0
+above object,1.1666666666666667
+weight to that piece,0.5
+accountant,1.8627450980392157
+asset,3.0300107181136124
+planning,1.4283088235294117
+neutral figure,0.5
+official gazette,1.1282051282051282
+such inconvenience,0.5
+commission in the light,1.0
+power of interim directions,0.5
+individual case,0.6000000000000001
+- organisations,0.0
+licensee subject,0.5
+act with reference,1.0
+tariff for intra - state transmission,0.0
+escape,0.6909090909090909
+punctuation mark,0.3333333333333333
+reversal by a court,0.5
+something,0.5915378827342709
+action,3.127292663476874
+that the aggrieved person,0.5
+alternative,0.841508109794136
+same appellant,0.75
+further escalation,0.5
+conformity with the principles,0.6666666666666666
+regulatory authority,4.0
+losses,0.9434840425531913
+power of the high court,1.625
+commission in exercise,1.0
+thing,1.1131787570209408
+recommendation of the consultants,0.5
+obligation on the commission,0.5
+order of the high court,1.296875
+enactment,1.439950980392157
+capacity,1.7421691881525676
+findings,1.049571253572887
+use of electricity,0.3333333333333333
+consumer organisations,1.0
+investment corporation of maharashtra ltd manuscmanusc,0.5
+nature of distribution,0.5
+change in the manner,0.5
+company as the company,0.5
+deployment,0.9565217391304349
+writ power in a statutory appeal,0.5
+part of the statute,1.0
+vacancy,1.0666666666666667
+state of kerala,2.861111111111111
+due weightage,1.0
+valuable right,1.0
+such objection,1.1428571428571428
+schedule vi thereto,0.5
+provisions of this act,2.4722222222222223
+indian electricity act,2.142857142857143
+that section,1.1768292682926829
+mills,1.026315789473684
+responsibility,0.8659259259259259
+process if the commission,0.5
+publication,1.3442779291553135
+salient feature,0.6666666666666666
+own finding,0.6666666666666666
+sections,1.640495469442838
+single word,0.3529411764705882
+vary,0.888586262660652
+matters,1.4810665618448637
+interim order,2.9166666666666665
+los,1.8125523261338943
+instance,0.9469803370786518
+strong evidentiary value,0.5
+inter,3.683850287482992
+various provisions of this act,0.5
+such indiscriminate hearing,0.5
+rate of income - tax wherein,0.0
+obstante clause therein,0.6666666666666666
+interested parties,0.6086956521739131
+clas of consumer,0.0
+court,12.24425115501509
+statutory provisions of the enactments,0.5
+behalf of the company,1.875
+large number of consumers,0.6666666666666666
+commission s regulation,0.0
+proceedings before the cea,0.5
+natural consequence,0.3333333333333333
+judge of the high court,1.75
+following observations of the high court,0.5
+finding on the legal issues,0.0
+parliament,2.6571235781762095
+agreement,3.450434632433366
+interested person,0.5
+single judge,4.011627906976744
+objection,1.68120480131216
+level cross subsidy,0.0
+person,4.291511329454258
+actual t,0.3880597014925374
+bombay electricity supply co,0.5
+bias of the bench,0.5
+that finding in an appeal,0.6666666666666666
+connected appeals,1.0
+correctness,0.8404159132007234
+allegations,1.8333333333333335
+company in mind,0.5
+tariff structure in regard,0.5
+other members,0.59375
+line of decisions,0.8
+nature of a legislative function,0.5
+nothing,0.8658723322806009
+common question,0.5454545454545454
+reasonable cost,0.38095238095238093
+interim orders,1.5238095238095237
+technical matter,0.6000000000000001
+other provisions,1.9
+such consumers,0.5
+court in the instant case,1.125
+ad hoc cut from the actual expenditure,0.5
+number,1.4802651440973922
+same varies from place,0.5
+year  rs,0.0
+such expert forum s finding,0.0
+funds,3.352010547132498
+subject matter,1.2537313432835822
+decision,2.9514937765898557
+power of the court,1.2142857142857142
+various salient features,0.5
+total,1.183527325379098
+conclusion that the cost,1.0
+claim,2.817264601856604
+changes,0.8318262938726949
+subordinate legislation,1.5
+house,2.0021735292386764
+problems,0.7376119010005265
+d los for future years,0.0
+nature of a legislative action,0.5
+contra,3.550142721217888
+proper deployment,0.5
+parties to the proceedings,0.6666666666666666
+above reason,1.0
+award of the cea,0.5
+interpretation,1.518366298484459
+members of the state commission,2.3333333333333335
+denial,0.8338926174496643
+conduct of business,1.25
+behalf of these appellants,0.5
+greater need,0.5
+expert member,0.5
+relevant facts,0.7692307692307692
+appropriate wheeling charges,0.5
+year,2.8349484769759212
+coram at the meeting,0.5
+judges in found,0.5
+look at the various enactments,0.5
+appeal of the company,0.6666666666666666
+suo,0.6228646517739815
+judgment,3.288216560509554
+theft,2.165094339622642
+agreement with the high court,0.6666666666666666
+electricity act,7.222222222222222
+various statutory provisions,0.5
+chandra jute mills,0.5
+lakhs,2.046511627906977
+court on an imaginary ground,0.5
+obligatory for the licensee,0.5
+total loss,0.75
+cross subsidy,1.5
+request of the company,1.3333333333333333
+loss,2.0689655172413794
+appeal after the expiry,0.8333333333333334
+performance of the company,1.0
+act,12.870263922028107
+aboobakar,0.5
+regulations in exercise,0.5
+charle,0.3307766059443912
+company by the consumers,1.0
+allegations of callousness,0.5
+of other similar companies,0.5
+governor,1.1316137566137567
+effect to the provisions,1.0
+different type,0.382089552238806
+necessary statutory force,0.5
+rule of natural justice,1.0
+reasonable cost of the project,0.5
+duty of the determination,0.5
+subsequent enactments,0.5
+primary object viz,0.5
+clas,2.1196191893660425
+callousnes of the company,0.0
+social culture,0.30000000000000004
+tariff payable,1.0
+particular consumer association,0.5
+loss under this head,0.5
+methodologies,0.509090909090909
+clear from the above observation of the high court,0.5
+sixth schedule permit of interpretation,0.0
+good reason,0.833
+relevant fact,0.9393939393939393
+basis that the accounts,0.5
+lac for the year,0.0
+level,1.1533169827122092
+tramways,1.0
+right of audi alteram partem,0.5
+thereafter,1.3123461853978673
+other material,0.6175438596491228
+organisation in bombay,0.5
+such expert forum,0.6666666666666666
+constitutional power of writ,0.5
+relevant point,0.8333333333333334
+writ jurisdiction for the purpose,0.5
+involvement of the private sector,0.5
+portion of clause i,0.5
+condition for the fixation,0.0
+continuance,1.5151515151515154
+either side,0.45192307692307687
+repugnant provision,0.5
+revenue requirement,0.5
+chamber,0.5741626794258373
+organisations,0.6688963210702342
+bengal electricity board,0.5
+electricity by the calcutta electricity supply company ltd,0.5
+applicable to private licensees,0.5
+invocation of the high court,0.5
+section,9.287987283173626
+drastic cut,0.5
+herein,2.825259515570934
+crores as the acceptable cost,0.5
+tatas,0.3333333333333333
+conclusion that the steps,0.5
+members function,1.0
+room for an indiscriminate hearing,0.5
+a right on the consumer,0.5
+west bengal,3.3333333333333335
+tariff,11.052631578947368
+cost of supply,1.5
+schedule thereto,0.6666666666666666
+standard,1.4669008088548319
+party in this regard,0.5
+various other metropolitan area,0.5
+counsel for the appellants,1.7258064516129032
+functions,1.326241134751773
+commission s power,0.0
+finding,1.8129183657767178
+fact that the distribution los,0.5
+purposes of this act,0.9090909090909091
+custodian general of evacuee property manuscmanusc,0.5
+actual cost of budge - budge,0.0
+refusal,0.813597918022121
+regard,2.723310344827586
+similar company,0.0
+tariffs,1.4
+consumers by the commission,0.5
+important function,0.45000000000000007
+final authority for correction,0.5
+party in these appeals,0.0
+certain observations,1.1111111111111112
+disrespect,0.375
+knowledge,1.1120671641791045
+direction,1.8495050210098996
+other class of consumers,0.5
+money,1.6567889044524557
+rights,1.6349541930937281
+finances of the company,0.5
+right of audience,0.5
+time investment,0.6000000000000001
+item,1.3319648896447913
+accordance with law,1.0046948356807512
+autonomous independent body,0.5
+facts,1.4696673624372698
+relevant portion,0.6486486486486488
+statement of this act,0.0
+auditors  report,0.0
+varies,0.4166666666666667
+last decade,0.3440860215053763
+fact that the steps,0.5
+justification,0.6859587020648967
+discharge,1.305219638242894
+form,2.4865961263718424
+johnston,0.21527777777777776
+earlier judgment of this court,0.8
+that regard,0.5944055944055944
+writing,1.1746753246753248
+reasons of convenience,0.5
+number of employees,1.6666666666666667
+act in support,0.8333333333333334
+lack,0.6349809734425119
+above view of the high court,0.6666666666666666
+fresh settlement with the workmen,0.5
+issue between the parties,0.6666666666666666
+tariff on the basis,0.5
+benefit,2.604810195438474
+latter,0.7109238669791096
+indicative of the fact that the commission,0.5
+other considerations,0.7272727272727272
+cost,1.2954397451466992
+rdb,4.48051948051948
+way of the application,0.5
+contempt,1.5446913580246913
+effect of the non obstante clause,0.5
+types of expenditures,0.5
+same varies,0.5
+- at rs,0.0
+understood,0.8127711496746204
+callousness,1.0
+newspaper  objection,0.0
+sub,7.816899313759727
+that the order of the commission,0.75
+course,1.6545957498716626
+in regard to the private licensees,0.5
+cons of distribution,0.5
+cesc accounts,0.5
+condition for fixation,0.0
+distribution loss of the respondent company,1.0
+figure of zero,0.5
+apprehension of the respondent company,0.5
+cent on the rate,0.5
+newspaper publications,0.5
+company,5.864471879286695
+balanced approach,0.3492063492063492
+groups,0.9065945998117897
+victory,0.454054054054054
+pradesh,4.365853658536586
+parties at length,0.8571428571428571
+bank v canara bank,1.5
+operative,1.2876712328767126
+duty of the company,0.5
+such tariff decision,0.5
+which refers,0.4
+erroneous view,0.5
+incentives,0.9375
+states that the principles,0.5
+to such aggrieved party,0.5
+particular act as ultra vires,0.6666666666666666
+arguments,0.7212211466865226
+that the appropriate government,0.6666666666666666
+large scale interference,0.5
+service condition of the members,0.0
+regulatory authority of india act,1.3333333333333333
+west,1.1420057009587976
+distribution loss,7.666666666666667
+cossipore plant,0.5
+excess,0.9860601614086574
+major factor,0.25
+control of the company,0.6666666666666666
+field,1.5820968371729793
+condition for the licensee,0.5
+matter,2.8088923076923082
+relation,1.397320207820618
+element of ad hocism,1.0
+primary duty,0.4
+court in the initial stage,0.5
+entire project cost,0.5
+system in accordance,0.0
+cea upon the tariff structure,0.5
+look,0.7258645241210043
+party to the appeal,0.5
+economic,1.263998382858298
+substantial part of this loss,0.5
+vital part,0.6666666666666666
+position of course,0.3333333333333333
+extent of the appellate power,0.5
+lac of consumers,0.0
+indian,1.2604961505560306
+chapter iv,1.4444444444444444
+involvement,1.020685900925422
+activities,1.57291280148423
+enunciation of law,1.0
+liability,2.532836248924577
+part of the country,0.0
+that finding,0.6666666666666666
+significance,0.6059966216216216
+correct value,0.30000000000000004
+applicability of schedule vi,0.5
+same vary,0.0
+appellate court under a statute,0.5
+nugatory,1.0
+careful perusal,0.8
+requirement of the principles,0.6666666666666666
+guidance,0.5256410256410255
+india on a regional basis,0.5
+schedule permit of interpretation,0.0
+actual distribution loss,0.5
+such groups,0.39
+sixth schedule of the supply act,1.0
+unit,2.176678509944691
+re - fixation,0.0
+factual question,0.6666666666666666
+woollen,0.75
+such persons as the state government,0.5
+material,1.4148767018946966
+ground of further escalation,0.5
+procedure,2.552771605064117
+party at length,0.0
+activity,1.3846153846153848
+principles of natural justice,2.736842105263158
+various questions,0.5333333333333333
+finding for good reasons,0.5
+annual,2.1323684607266693
+application of the appellant - organisations,0.0
+guideline,1.5641711229946524
+provision,5.439002243350069
+support,0.8630946786249609
+objections in case,0.5
+various principles,0.5
+conclusions,0.8522069292833413
+finding of the commission,2.0
+such procedures,0.6666666666666666
+same question,0.5357142857142857
+overtime,1.5298013245033113
+business,2.8512056385864457
+chief secretary of the state,1.0
+large number,1.0979284369114877
+direct that the interim order,0.5
+to other,0.6135937327595719
+workmen,6.571428571428572
+inconsistency,0.7857142857142857
+inaction on the part,1.2
+ordinary rule of statutory construction,0.0
+relevant year,1.1111111111111112
+rate payer i,0.5
+orders of the commission,0.6666666666666666
+accounts,2.7564363143631434
+note of all factors,0.5
+xvii,1.0
+material on record,1.40625
+subordinate tribunals,0.6666666666666666
+court s constitutional authority,0.0
+object,1.4940119760479043
+supply act,2.0
+number of other members,0.6666666666666666
+inter alia that the approval,0.5
+thereto,1.0358342665173572
+other clas,0.42352941176470593
+own exercise,0.5
+pros,3.8590018590018595
+different perspective of that question,0.6666666666666666
+adequate,0.9704992130433028
+direction to the commission,0.5
+obstante provisions of section,0.5
+negative rs,0.5
+reduction for the future,0.5
+company beyond the time,0.5
+extent,1.410108024691358
+company under lawful agreement,0.5
+category of distribution loss,0.0
+electricity till,0.5
+burden to the consumers,0.5
+light,0.8816192372754331
+tariff fixation,1.0
+important changes,0.30000000000000004
+sixty days,0.9629629629629629
+wording of the statute,0.5
+question of bias,1.5
+definition,1.6460425937698666
+delhi,2.6089285714285717
+company as employee,0.5
+state commission from time,1.0
+issues,1.1246716508385532
+above figure of rs,0.5
+electricity industry,1.5
+newspapers of west bengal,1.0
+special procedure,0.75
+request,1.1474439594584596
+per,7.977753416636086
+fixing,0.8665048543689321
+finding on the ground,0.5
+duty of customs,0.8
+member of the central electricity,0.5
+appellate authority,2.2
+challenge to the accounts,0.5
+tariff for supply,0.5
+faulty meter,0.5
+fact of the instant case,0.0
+approval,1.4085456739300164
+- in the course,0.0
+conditions for fixation,1.0
+bia,1.0685644390081173
+adjustment in that regard,0.5
+other provision,1.281045751633987
+ultra vire,1.8484848484848484
+foundation,0.770509435807177
+become,1.1924008436951488
+agreements,1.0784313725490198
+various appeals,0.5
+conclusion that the project costs,0.5
+more reliance,0.5
+form of regulations,0.5
+associations,0.8492647058823529
+employees,4.611008798854102
+payment of tariff,0.5
+abstract principle,0.5
+plants of the respondent company,0.5
+negligence,1.3017543859649123
+passes,0.5830863465718238
+consumers  consumer organisation,0.0
+principles,1.3198511166253102
+fact that the commission,1.25
+feature,0.6446262956901254
+council,1.464939453675021
+commission that the amounts,0.5
+evident form,0.5
+state commission consider,0.5
+incentive,0.9444976076555026
+commission whether the commission,0.5
+ii of the schedule,0.5
+writ,2.8882378560889794
+need,1.1097650269586634
+such proceedings,1.0
+working capital base,0.5
+average tariff,0.5
+appellate power,5.571428571428571
+various para,1.2
+doubt that the power,0.6666666666666666
+view of this court,1.0
+number of representations,0.5
+natural consequence of the creation,0.5
+entity,1.342435251377007
+overall circumstances,0.6666666666666666
+conduct of the company,0.5
+judgment of the division bench,1.8125
+other body,0.5142857142857143
+various provision,1.5789473684210527
+more re,0.5360979640898506
+customs,1.9344608879492597
+motors,0.4067796610169492
+finances,0.680952380952381
+agreement with this finding,0.5
+commission considers,2.0
+generation,1.2037318473488687
+specific finding,0.8333333333333334
+extent of participation,1.5
+learned,3.406323898681099
+interested party,0.0
+figure in an ad hoc manner,0.5
+xviib,0.5
+change,1.2214862766571903
+general statute,0.5
+head,1.5827778446537666
+reasonable manner,0.7714285714285716
+cases,1.9728229418951067
+time for detailed fact - finding,0.0
+division,1.7657319129617017
+interpretation by the high court,0.5
+generating,3.0503380916604055
+group,1.691932599016908
+self-assessment of the tariff,0.0
+above judgment,1.8461538461538463
+in the proceeding,0.9187500000000001
+claim of the company,1.0
+state electricity,2.111111111111111
+law in regard,0.6666666666666666
+tariff by the commission,2.5
+various question,0.5333333333333333
+power of appeal,1.0
+opinion of the auditors,0.5
+different alternative,0.3333333333333333
+hence for the year,0.5
+geographical position,0.6666666666666666
+locu,0.5823659840876484
+judge of the calcutta,1.0
+independent body,0.75
+findings of the commission,1.0
+primary object,0.5
+authoritative pronouncement of this court,0.6666666666666666
+tariff revision,0.5
+qualification of the members,0.5
+authority for the proposition,1.0
+dispute that the rule,0.6666666666666666
+project cost at rs,0.5
+indiscriminate notice,0.5
+matter of rule,0.6666666666666666
+uncertain terms that these regulation,0.5
+basis of average cost,0.5
+ipso facto,0.8571428571428572
+prosecution,4.619407894736842
+financial year,3.1666666666666665
+deterrent,0.4375
+tariff revision for the year,0.5
+act therefore these expenditures,0.5
+nay manner,0.5
+reform,0.6780894886363636
+statutory provision,1.1638418079096045
+because the company,0.5
+such evidence,0.9649122807017544
+applicable to others,0.5
+connection,1.050640279394645
+about this misdeed,0.5
+appropriate consideration,0.75
+due weightage to the finding,0.5
+limits,0.8405888207868406
+party to the proceedings,1.5
+likelihood,0.4933333333333333
+context of the proposal,0.5
+parts,0.6609660823170732
+entire burden on the consumers,0.5
+ends of justice,1.45
+india,2.7684068260703585
+pro rate,0.5
+well-settled principle,0.0
+rule of statutory construction,0.0
+allahabad bank v canara bank,1.5
+alse general,0.0
+co v state of madras manuscmanusc,0.5
+reason for such substitution,0.6666666666666666
+new tariff,1.0
+schedule ipso facto,0.5
+level of efficiency,0.5
+such determination of the tariff,0.5
+consumers  interest,0.0
+perspective,0.5639060811474604
+provision of the sixth schedule ipso facto,0.0
+forum consisting,0.5
+association,1.2099052684061826
+legislative power,2.1944444444444446
+of those consumers,0.5
+exclusion,1.276390008058018
+acceptance,1.4762112614578786
+company on the ground,0.6666666666666666
+group before the commission,0.0
+part in such proceedings,0.5
+bearing on these issues,0.5
+tube,0.6567164179104478
+total consumption,1.0
+clamour,0.5
+holder of each licence,1.0
+transmission los,1.6666666666666667
+appellate power against an order,0.6666666666666666
+interest of the consumers,1.6666666666666667
+absence of any such challenge,0.5
+type of expenditures,0.0
+reliance,1.400763358778626
+that matter,0.5503846153846154
+provisions of sections,1.44
+concern of the tatas,0.5
+above figures,0.5
+court in this regard,1.3333333333333333
+inaction,0.6031746031746033
+impugned judgment proceed,0.5
+forum in a particular act,0.5
+registrar,1.8341346153846154
+service conditions of the members,0.5
+scc,1.941872465904902
+court under a statute,0.5
+of the fact that the commission,0.5
+cheaper supply of power,0.5
+fact - finding,0.0
+year  r,0.0
+bharat,0.9142857142857144
+coordinate,0.75
+words of the sixth schedule permit,0.5
+specific term,0.5714285714285714
+duty of excise,2.7142857142857144
+date of commencement,1.3
+act overrides the company,0.0
+varied qualification,0.6666666666666666
+excess of acceptable limits,0.5
+provision of the indian electricity act,0.0
+vire of the provisions,0.0
+high court s finding,0.0
+due weight to that piece,0.5
+inconsistent provision,0.5
+wrong billing,0.5
+portion,1.0756311179804223
+reduced rate,0.6666666666666666
+distribution,2.7289109919449284
+individual right,0.5909090909090908
+element,0.7062328407033122
+if a statutory appeal,0.6666666666666666
+similar provision,1.25
+lack of power planning,0.5
+regard to the private licensees,0.5
+statutory provision of the enactments,0.0
+recommendations of the asci,0.5
+of the factual issues,0.5
+center,0.9521598338119387
+end of justice,0.5
+special procedure for the removal,0.5
+projects,1.1885926573426573
+case of the board,0.5
+duty,3.2272215973003378
+wages,1.2315068493150687
+appellate power of the high court,1.6666666666666667
+to the court,0.6363636363636364
+fact none,0.5
+pvt,0.8625817965496728
+resources,0.9331054687500001
+part of the report,1.1666666666666667
+directions to the commission,0.5
+particular class of consumers,0.5
+discretion,1.2998211091234348
+case that the commission,0.5
+undue preference,2.0
+ipso facto binding,1.0
+hocism,1.0
+time under section,1.0
+acceptable reason,1.0
+point,2.9165043546008516
+goods,4.7578125
+collateral proceedings,1.3333333333333333
+bia to the judges,0.0
+closure of mulajore,0.5
+prayed,0.5974815458098133
+considerations,0.7860235003092146
+court on the ground,0.9166666666666666
+punctuation,0.2777777777777778
+parties to the appeal,1.25
+above figure,1.0
+vi schedule,0.5
+location,0.8935109449248265
+contrary to the statute,1.0
+interested in the proceedings,0.5
+company s application,0.0
+steps,1.169318181818182
+appellant - organisation,0.0
+revenue from charges,1.6666666666666667
+court in the cases,1.25
+law yields to a special law,0.5
+above view,0.6428571428571429
+regulatory commission for disposal,0.5
+law yield to a special law,0.0
+per year,0.33153153153153153
+bengal state electricity,1.0
+that basis,0.6886956521739132
+elt,0.9685135464974371
+high court s constitutional authority,0.0
+companies act,4.391304347826087
+supp,1.7223856594132256
+communication,1.013409067330636
+high court in the impugned judgments,0.5
+fact that the step,0.5
+sixty day from the date,0.0
+judgment of a coordinate bench,0.5
+power planning,1.1666666666666667
+geographical position of any area,0.6666666666666666
+vol,1.8556860549079708
+neglect of the consumer,0.5
+writ petition in the high court,0.9166666666666666
+exclusion of other requirements,0.5
+views,0.6965871413779037
+significance in the context,0.5
+arguments of learned counsel,0.6666666666666666
+category,1.9351744779266717
+writ petition,6.24223602484472
+substantial investments in equipments,0.5
+notices,0.5487269534679544
+succes,1.0899488286934886
+enunciations,0.30000000000000004
+boards,0.5774818401937046
+special factor,0.5
+sixth schedule,5.25
+overtime payment,2.0
+wording,0.5526315789473685
+absurdity,0.48214285714285704
+necessary regulation,0.6666666666666666
+certain material,1.0
+days from the date,1.7352941176470589
+statutory,2.0326923076923076
+plea,1.4430487701432178
+of the factual issue,0.5
+passing,0.8851858023662723
+force by the state,0.5
+general law yield,0.5
+opinion that the high court,1.0
+acts,1.9133929521984454
+holder,1.8472993827160495
+sunder,0.5685776805251641
+bengal legislature,0.8
+conclusion that the distribution los,1.0
+appeal to the high court,2.25
+appropriate appellate forum,0.6666666666666666
+trade,1.8307706424423558
+plain reading,1.173913043478261
+relevant years,1.0
+tariff of supply,0.5
+maneka gandhi v union of india,0.8333333333333334
+such allegation that the commission,0.5
+management by the licensee,0.5
+maharashtra ltd manuscmanusc,0.5
+challenge,1.2204566274399267
+paras,0.7450980392156863
+various enactments,0.5
+authority,2.4352627108360636
+findings of fact,0.8571428571428571
+hearing for the purposes,0.5
+representations,0.5384615384615384
+selection,2.2651528696585017
+cost on the ground,0.5
+lacs,1.6941699604743086
+most of the findings of the high court,0.5
+such proceeding,1.0
+development,2.3145884270578647
+such expert forum s findings,0.0
+ltd v collector,0.75
+to faulty meter,0.5
+that definition clause,0.5
+likelihood of wide discontentment,0.5
+face,0.7281253260594137
+simon,0.33098591549295775
+right of hearing,4.5
+tariff on an expert body,0.5
+act with the commission,0.5
+misbehavior,0.5714285714285714
+v ack,0.5
+background,0.6800452488687784
+media,0.8814292604879884
+negative balance for this year,0.5
+object viz,0.5
+grant of subsidy,0.5
+careful perusal of the various provisions,0.5
+direct bearing on these issues,0.5
+objections representations,0.5
+following observation of the high court,0.0
+appellate bench,0.6666666666666666
+states that the principle,0.6666666666666666
+scheme of things,0.4
+interested persons,0.75
+weightage,2.5
+such recognition,0.3333333333333333
+proceed,2.930994380987473
+iii,1.5614499719992534
+time as the commission,0.5
+factual aspects,0.9166666666666666
+reason decide,0.5
+obligation,1.1071428571428574
+more res,0.6666666666666666
+of the findings of the commission,0.5
+prejudice,0.880907124598545
+lacs towards provision for leave encashment,0.5
+uttar,2.188679245283019
+fault with the commission,0.5
+act that the company,1.0
+judgments of this court,1.4666666666666666
+instant,1.131578947368421
+intention in this behalf,1.0
+successor entities,0.5
+that law,0.5571428571428572
+short payment,1.3333333333333333
+kerala,4.135593220338983
+retirement scheme,8.714285714285714
+state,6.817996007300392
+regulations,3.7157723577235777
+statute,2.5765859456247218
+note,1.3654108484234107
+exercise of discretion,1.3333333333333333
+whole liability,0.5
+last question,0.3448275862068965
+vrs,8.47457627118644
+special one,0.5
+high court in this regard,1.1666666666666667
+undue preference to any consumer,1.25
+such allegation,0.6666666666666667
+finding on the application,0.5
+primary right,0.5
+case that the cea,0.5
+act envisage,0.8333333333333334
+newspaper publication,1.0
+mischief of theft,0.5
+to the state government,1.9655172413793103
+respondent company to the government,0.5
+observation in the judgment,0.5
+airsc,1.6909090909090911
+statutory proceeding,0.5
+relevant points,0.5
+- state transmission,0.0
+other similar company,0.0
+expressed reasons,0.5
+discussion,0.7445831166579996
+such power,0.8907563025210085
+pro,11.338881586411553
+appeal on the ground,0.8
+categories,0.8800000000000001
+which separate reference,0.5
+different consumers,0.5
+electrical development,0.5
+communication of the decision,0.5
+favour of the consumers,0.5
+above provision of the act,0.5
+ltd manuscmanusc,1.4473684210526316
+such interim order,1.0
+context that the high court,0.5
+various type of expenditures,0.0
+entities,0.5395256916996047
+source,0.840137091365362
+function of the state commission,0.0
+sick industries company,0.0
+maneka gandhi v union,0.8333333333333334
+impugned judgments,1.3333333333333333
+co v state,1.1666666666666667
+capital,1.0983272274832379
+nature of such determination,0.5
+uncertain terms that these regulations,0.5
+possible point,0.5
+vital part of the management,0.5
+persons,2.5993381990166555
+account of the financial year,0.0
+cea in regard,0.5
+industries,2.162068965517242
+bia of the bench,0.0
+various head,0.6666666666666666
+reliance hereinabove,0.5
+escalation,0.7196969696969696
+accordance with section,0.8571428571428572
+grant of any subsidy,0.5
+implementation,1.2465707594513213
+efficiency,0.8919469928644241
+other enactment,2.0
+expiry,2.2888888888888888
+power under article,1.28
+act to the high court,0.75
+chettiar v income-tax officer,0.0
+mind,1.1559066143122394
+validity,1.521010638297872
+constitution of india,3.0095238095238095
+bharat chamber,0.5
+non obstante clause,3.5555555555555554
+other sources,0.5898876404494382
+custom,1.8742070505069293
+viz,0.7732570026579433
+commission in section,0.5
+penal law,1.2857142857142858
+detailed fact-finding,0.0
+which charge,0.6666666666666666
+argument of learned counsel,1.4285714285714286
+statutory provisions,1.6764705882352942
+sick,0.4236311239193084
+that discretion,0.75
+limited involvement of the private sector,0.5
+failure,0.7827962142086977
+west bengal state electricity board v calcutta,0.5
+principal,1.3412499999999998
+interest,2.74353772015385
+meyappa,0.5
+sub-clause,0.0
+finding of the high court,1.6363636363636365
+supplies,0.7939086294416243
+enunciation,0.5210526315789474
+nothing of the sort,0.3333333333333333
+other principle,1.05
+skill,1.0107260726072607
+same section,0.6666666666666666
+electricity authority,0.5
+aspects,1.0997620069447154
+application for a trade mark,0.5
+hesitation,0.5405405405405406
+entirety forthwith,0.5
+various part,0.48533333333333334
+basi of average cost,0.0
+behalf,1.9888053603529987
+question of indiscriminate hearing,0.5
+constitutional power under article,0.75
+members of the commission,0.6666666666666666
+state boards,0.5
+bengal electricity,2.6666666666666665
+open to such aggrieved party,0.5
+high court in the instant case,1.3333333333333333
+viscount simon,0.75
+positive figure,1.5
+basis of the provisions,0.5
+state in another area,0.5
+pronouncement,0.8197343453510436
+principles with other requirements,0.5
+important change,0.30000000000000004
+above observations of this court,0.5
+good reasons,0.8852941176470588
+appellate power under section,1.3333333333333333
+transmission los on power,0.0
+substantial loss by way,0.5
+schedule permits,0.5
+indiscriminate notice to the consumers,0.5
+such mischief,0.5
+fact that this loss,1.0
+general law yield to a special law,0.0
+house of the legislature,0.5
+new cossipore,1.5
+observations in the judgment,0.75
+later special act,0.5
+outright victory,0.5
+actual los,1.0
+transmission loss on power,0.5
+calcutta under section,0.5
+above background,0.8
+articles,1.4349688743466387
+v income - tax officer,0.0
+customs act,2.0588235294117645
+amplitude,0.9523809523809523
+to private licensees,0.5
+permission,1.1531211886018407
+reason of convenience,0.0
+various paras,0.5
+defects,0.6712564543889845
+to state,0.7092760180995474
+appeal,3.4125488033856883
+bearing on the question,0.8
+power sector,0.6666666666666666
+motivated allegation,0.5
+evidentiary value,1.0
+evidence proceed,0.5
+interim order  direction,0.0
+own findings,0.3333333333333333
+accordance with the guidelines,2.6666666666666665
+varied qualifications,0.6666666666666666
+view of the high court,1.3571428571428572
+other materials,0.5079365079365079
+appellant on the merits,0.0
+subsequent office,0.5
+wheeling charge,0.6666666666666666
+special provision,1.1818181818181819
+area,2.675167256985439
+tariff determination,0.5
+sums of money,0.5714285714285714
+extent of the actual t,0.5
+custodian general,0.5
+alia,0.9479866480753792
+guideline in section,0.5
+first instance,0.8333333333333334
+court as an appellate authority,0.5
+obligation of the commission,0.0
+judge in found,0.0
+running of these institutions,0.5
+ad hoc cut,0.5
+los for the year,0.0
+findings of the high court,1.0
+towards wage,0.5
+case of uttar pradesh co - operative federation ltd  v sunder brothers,0.0
+above observation of the high court,0.5
+consultant,1.786618444846293
+incorporation,1.238095238095238
+question of law,3.057142857142857
+imaginary ground,0.5
+high court as an appellate authority,0.5
+conjunction,0.4375
+exercise of this latter power,0.5
+high by any standard,0.5
+telecom,1.3831041257367385
+sub-section,0.0
+welfare benefits,0.5
+various appeal,0.5
+non impleadment,0.5
+endeavour,0.5318181818181819
+judgment of the calcutta,0.5
+facts of the instant case,0.8333333333333334
+new laws,0.6000000000000001
+interests of the consumers,2.0
+average,0.9365131578947369
+high court on these incidental issues,0.5
+commission as a party respondent,0.5
+unmanageable hearing,0.5
+need that these issue,0.5
+certain factual issues,0.5
+idea,0.5945499587118084
+offender,1.3711405166981725
+available figures that year,0.5
+citizen,1.261748909029876
+feel,0.5728395061728396
+billing,0.5277777777777778
+refusal of the judges,0.5
+manner,1.4494591333432125
+subordinate tribunal,0.6666666666666666
+future guidance,0.5
+respondent company,5.0
+such mischief of theft,0.5
+varies from place,0.3333333333333333
+non obstante clause in schedule vi,1.0
+other court,0.7500000000000001
+principle with other requirements,0.0
+most of the appellants,0.5
+provisions of schedule vi,1.5
+tramway,1.0
+ebrahim,0.15277777777777776
+number of instances,0.5
+head of accounts,0.0
+opinion that the role,0.5
+companies,2.2664576802507836
+college,2.1498947162234954
+project cost,2.3333333333333335
+which members,0.45000000000000007
+tax,3.549237288135593
+different types,0.3781818181818182
+collateral proceeding,1.25
+act without the necessity,0.5
+circumstance,1.429931390219372
+vie of the non obstante clause,0.5
+for the year,1.6558441558441561
+earlier judgments of this court,0.75
+regulation,4.3783195107648485
+average cost,0.6000000000000001
+consumers  consumer organisations,0.0
+instant case that the cea,0.5
+motivated allegations against the court,0.5
+akin to a constitutional writ matter,0.5
+overriding provision,0.75
+special statute,1.6363636363636365
+difficulty,0.656910569105691
+investment co,0.7466666666666666
+prevailing culture in the society,0.5
+place in any court,0.5
+madras manuscmanusc,0.8571428571428571
+recommendation of the asci,0.0
+genuineness,0.8142857142857144
+effective if a statutory appeal,0.6666666666666666
+class,2.1508512849922936
+state of madhya pradesh,1.7142857142857142
+provision in the later special act,0.5
+perusal,0.750733137829912
+open to the high court,1.1666666666666667
+definition of the expenditure,0.5
+length,0.6297872340425531
+recommendations,2.1638655462184877
+union of india,3.1324503311258276
+parties in this regard,0.5
+expert committee with autonomous authority,0.5
+finding in regard,1.0
+sixth schedule permit,1.0
+success,1.087615328288992
+additional strength that those constitutional powers,0.5
+thereof,1.7897727272727273
+violence,1.524896265560166
+conditions for the fixation,0.5
+enunciations of law,0.5
+override,0.7529761904761905
+basi,2.0752712086391383
+benefits,2.0896027049873203
+objections,1.2025072324011572
+sixth,1.9999999999999996
+governor general,2.25
+necessary power,0.4444444444444444
+other requirement,0.6666666666666667
+days,1.6721350893491447
+judge of the appellate court,0.0
+genuinenes of the accounts,0.0
+open to the commission,2.5
+specific reason for such substitution,0.6666666666666666
+concerned licensee,0.5
+similar relevant points,0.5
+private sector,0.3660714285714286
+of the year,0.5178571428571429
+other incidental questions,0.5
+judgment of the high court,1.721311475409836
+conformity with the provisions,1.0
+basis,1.953226441078104
+of the finding of the commission,0.0
+other requirements,0.6666666666666666
+obstante claus,3.7142857142857144
+directions,1.5134125183504605
+advertisement,1.5480769230769234
+rates in any form,0.5
+maharashtra tube,0.5
+irrespective,0.7304347826086957
+reduction in a phased manner,0.5
+hence,1.1440732910500353
+officer,3.1197242647058823
+regard to fixation,1.0
+parties to this case,0.5
+term of office,0.41666666666666663
+charges,2.061307113938693
+conditions that the commission,0.5
+citizens,1.0493208639501226
+letters,2.0877496159754223
+defect,1.4259259259259258
+crore,4.747474747474747
+scope of the cea,0.5
+consequence of the creation,0.5
+financial burden,1.8333333333333333
+cros,1.8137948361162648
+function,1.6326372491145218
+various other metropolitan areas,0.5
+property manu  scmanu  sc,0.0
+budge - budge project,0.0
+weighty authority for the proposition,0.5
+consumer association,1.3333333333333333
+electricity to any class,0.5
+price,2.8302710227712162
+regard to determination,1.0
+subject matter of arbitration,0.6666666666666666
+manner of exercise,0.5
+final authority,0.2
+term,3.6255105640901575
+clause xvii,1.0
+lac,2.403150042398463
+either side on this issue,0.5
+appellants,7.701086956521739
+vires,2.388888888888889
+constitutional writ matter,0.5
+such departure,0.5
+view,2.441100058469462
+view of the section,0.5
+los under this head,0.0
+state of bombay,1.2941176470588236
+regulation under section,0.0
+limit of t,0.45454545454545453
+most of the year,0.30000000000000004
+requirements,0.7375979875979877
+way conflict,0.5
+side,3.88845645915565
+relief,1.4748116760828625
+other body of consumers,0.0
+connected appeal,1.2
+pleadings,1.3125
+use,5.06801278974993
+private licensee,1.5
+appropriate wheeling charge,0.5
+alse general in council,0.0
+acceptance of actual distribution loss,0.5
+which charges,0.5333333333333333
+result,1.3356630184144715
+licensees,3.3272727272727276
+case of collector,0.8
+record,2.5393414390845273
+tax - payer,0.0
+bone of contention,0.5555555555555556
+questions of law,1.3333333333333333
+speaking order,1.3
+division bench of the high court,1.6825396825396826
+jurisdiction of the cea,0.5
+low rates,0.3492063492063492
+subsidy,1.7142857142857142
+industries company,0.0
+secretary,0.9217877094972067
+court feels that another view,0.6666666666666666
+technical matters,0.6666666666666666
+good performance,0.75
+interim direction,1.5
+provisions of section,2.762376237623762
+bona,0.9015873015873015
+tariff for the years,0.5
+judgment in yorkshire copper,0.5
+legislation,3.2032032032032034
+ordinary rules of statutory construction,0.5
+fare,1.2296887159533072
+power of the commission,1.5
+appeal under this section,0.8333333333333334
+regard to this loss,1.0
+fact,3.6284951019474962
+comparative figures that the distribution los,0.5
+tariff to any consumer,0.5
+accordance with the judgment,0.6666666666666666
+learned counsel,3.703333333333333
+equipments,0.7518796992481204
+rajah,0.6666666666666666
+appeal of an order,0.5
+similar companies,0.5
+expert tribunals,0.6666666666666666
+power against an order,0.6666666666666666
+discrimination in fixation,0.5
+interests,1.0562317935913441
+lack of rational retail tariff,0.5
+disproportionate to the energy,0.5
+conclusion that the finding,0.6666666666666666
+ad hoc tariff in the manner,0.5
+chief,1.9429638234317954
+acceptable limit,0.5
+tariff calculations,0.5
+special law,0.875
+future enactments,0.5
+west bengal electricity,2.6666666666666665
+determination of the rate,0.6666666666666666
+that behalf,1.3548387096774193
+sixth schedule thereto,0.5
+consumer in regard,0.0
+earlier judgments,1.2
+cons,7.733515215613216
+energy act,0.25
+loss for the year,0.5
+certain factual issue,0.5
+facts of the cases,0.6666666666666666
+necessity,0.7072538860103627
+held,3.3171122162354454
+substantial investment,0.6666666666666666
+reading of this section,0.6666666666666666
+opinion that the commission,0.5
+number of consumers,0.6666666666666666
+years,2.5395804110508022
+in overall circumstance,0.5
+exercise,1.9400726466785694
+principles of schedule vi,1.0
+finding in the collateral proceedings,0.5
+requirement of section,1.5
+party,2.2250894654439723
+motivated allegations,0.5
+findings of the consultants,0.5
+proposition,0.6371087928464977
+certain observation,1.1111111111111112
+commission nugatory,0.5
+justice,2.292557084574302
+therein,1.5503424657534246
+question on a revision,0.6666666666666666
+revenue,1.486701237872198
+sixty,0.9792960662525879
+of other similar company,0.0
+forum,1.9016754850088184
+writ matter,0.5
+due weightage to such accounts,0.5
+jute,0.8571428571428572
+determining,1.3017316017316019
+vire of the regulations,0.0
+income,2.734813573523251
+v state,2.4603773584905664
+atomic,0.20798319327731093
+above observation,0.6530612244897959
+general public clamour of the sort,0.5
+other overriding provision,0.5
+state electricity commission,0.5
+evident that the above provisions,0.5
+expressed reason,0.5
+plant of the respondent company,0.0
+such specific right,0.5
+society,2.1182859399684046
+to law,0.6557377049180327
+regulatory commission,2.7
+existence,0.731202675709574
+final order of the high court,0.6666666666666666
+bank,9.40770083102493
+sections of the consumers,0.5
+hearing,0.9644508209787979
+reference to sections,0.5
+d loss,1.0337078651685394
+argument of the respondents,0.6666666666666666
+above regulation,0.6666666666666666
+basic issues,0.5
+procedure for the filing,0.5
+decision on the rates,0.5
+day,1.550999710228919
+sale,3.3662581620085734
+callousnes,1.0
+question,2.980312372067635
+ahmadi,0.2742857142857143
+d los,1.0922330097087378
+expert committee,3.3333333333333335
+view of the administrative staff college,0.5
+sub-clauses,0.0
+vested right,1.6666666666666667
+act because the requirement,0.5
+application for fixing,0.5
+thane manuscmanusc,0.5
+gandhi,0.9090909090909092
+right of the consumer,1.75
+scmanu,7.940520446096654
+optimum investments,0.75
+- cross subsidy,0.0
+step,0.8867024753460084
+payment of wages,1.25
+amount,3.179688593072295
+number of organisations,0.5
+statement,2.5393160135035964
+united,0.7052854122621566
+from the objects,1.0
+bombay v,1.0555555555555556
+view of the language,0.8
+objection in case,0.0
+further discussion in this line,0.5
+shri sitaram sugar company ltd,0.5
+selection committee,1.1
+auditing of the accounts,0.5
+prior approval of any authority,0.5
+natural justice by a speaking order,0.6666666666666666
+sic,1.1611481056257176
+projection,0.7872340425531915
+natural justice,2.6666666666666665
+force,1.6009408121948314
+electric,4.0323098663926
+permit,1.2568972835314092
+partem,0.3529411764705882
+notification,3.0112746633260263
+property,2.9368986630013745
+states,1.5120646995827023
+income-tax wherein,0.0
+such large scale interference in the proceedings,0.5
+weightage to such accounts,0.5
+appellate court,3.1458333333333335
+balance,0.9863636363636363
+law,3.538923411654744
+state board,0.5
+in the proceedings,1.0
+of energy,1.7478991596638656
+observation,0.7625074854374218
+actual,1.3566622149167864
+compelling,0.700280112044818
+company for the year,1.5
+such fixation,0.5
+allegation that the commission,0.5
+obligation on the part,0.8888888888888888
+cost of purchase,0.6666666666666666
+reason for such departure,0.0
+delhi manuscmanusc,1.1818181818181819
+neglect of consumer,0.5
+by any standard,0.5384615384615384
+special forum consisting of expert members,0.5
+more of other principles,0.5
+plan,2.0162821688398056
+board,2.401414435268602
+resource,0.8416706827309237
+behalf of the parties,1.1764705882352942
+writ power,0.6666666666666666
+intra-state transmission,0.0
+incidental question,1.0
+word of the sixth schedule permit,0.0
+comparative figures that the distribution loss,0.5
+complaint,2.734525785235724
+entirety of this loss,0.5
+path,1.307090626221047
+publications,0.6532544378698225
+commission in determination,0.5
+non,1.3417336444559675
+term of the settlement,0.0
+grant,1.7314487632508835
+assessment,2.647276084949215
+unit for the year,1.0
+worrying features,0.5
+maharashtra tubes,0.5
+public clamour,0.5
+inflated figure,0.5
+factual questions,0.6666666666666666
+constitution bench of this court,1.2647058823529411
+otherwise,1.2549820889894419
+bulk,7.578781512605043
+many appellants,0.5
+cross-subsidy,0.0
+lower court,0.6666666666666666
+additional evidence,2.25
+consumers in regard,0.5
+application,2.3322596088086445
+schedule permits of interpretation,0.5
+rates,0.9535092413452435
+such determining,0.5
+april,0.8928235149629509
+language of section,1.125
+authorities,1.266131845134287
+available figure,0.6666666666666666
+reading,0.9004509191814082
+electricity by the company,0.5
+obstante clause in section,0.6666666666666666
+particular class,0.8333333333333334
+constraint,0.38964401294498385
+finding on the question,0.5
+industrial,5.673304955913652
+privilege,2.436023622047244
+upon the nature of distribution,0.5
+fixation of the rate,0.5
+electric supply corporation ltd manuscmanusc,0.5
+private licensees,1.5
+same procedure,0.5
+cent,2.4795666588956498
+obligates that the rules,0.5
+clear from the wording of the statute,0.5
+tariff for electricity,2.0
+than the cost of purchase,0.5
+uttar pradesh co-operative federation ltd v sunder brother,0.0
+sector,1.1724200913242009
+canara,5.8500000000000005
+such term,0.5529100529100529
+consideration for the purpose,0.875
+contention of the board,0.5
+intention,1.7585585585585588
+law yields,0.5
+regard to the validity,0.6666666666666666
+ltd,2.382356477306883
+such appeal,1.3846153846153846
+found,1.6807856907714254
+principle under section,0.0
+power on the commission,0.75
+question of impact,0.5
+accounts of the financial year,0.5
+motor,1.832417821954835
+cea,2.47350385738896
+prevailing culture,0.5
+lacs towards pension contribution,0.5
+court as an appellate court,0.6666666666666666
+electricity supply co,1.0
+reading of these sections,0.5
+excise,4.429175475687103
+vires of the provisions,0.8
+such manner,1.0909090909090908
+finance of the company,0.0
+purpose of representation,1.0
+legislative function,1.0
+appeal to a special appellate tribunal,0.6666666666666666
+other member,0.6470588235294118
+conclusion that the project cost,0.5
+consumption of energy,1.0
+that state,0.8973013493253372
+difference,0.8774847235514982
+appropriate appellate forums,0.6666666666666666
+period,1.9480170842427122
+various pro,0.7714285714285715
+final order of fixation,0.5
+expenditure under that definition clause,0.5
+constitutional authority,0.8333333333333334
+callous expenditure of the company,0.5
+good performance of the company,1.0
+acceptable limits,0.5
+that sub-section,0.0
+regulatory authority with the power,0.5
+institutions,2.2839413875598087
+mulajore plant,0.5
+voluntary retirement schemes,1.0
+high court in an appeal,1.0
+connections,0.2925170068027211
+letter,2.707240080105903
+specified period,0.7142857142857143
+constitution,3.204842342342342
+knowledge of the special factors,0.5
+overtime to the workmen,0.5
+factors like good performance,0.5
+direct that cesc,0.5
+payer,0.7565011820330969
+appeal under section,3.1176470588235294
+efforts,0.7431827431827432
+appellant before the high court,1.0
+increase in the average rate,0.5
+act overrides the companies,0.5
+rule under rule,0.5
+violation of the principles,1.8333333333333333
+indiscriminate representation of the consumers,0.5
+nafar,0.2777777777777778
+inherent limitation,0.8
+separate challenge by way,0.5
+trial judge,2.6666666666666665
+state electricity commissions,0.5
+doubt because an organisation chosen,0.5
+compelling reason,0.5333333333333333
+understood as the principle of the continued binding nature,0.5
+commission in the event,0.5
+act that the role,0.5
+such association,0.6666666666666666
+above parameters,0.6666666666666666
+power against the order,0.6666666666666666
+recommendation,2.6589497459062676
+supra,2.246342614440774
+court of the first instance,0.5
+lost revenue,0.25
+such associations,0.5
+entire burden,0.5
+rational retail tariff,1.0
+different view,0.5378151260504201
+fact that the object,0.5
+prudence,0.9558823529411765
+factual findings,0.5
+competent,1.3701267639320736
+maharashtra,2.9076923076923076
+authority of subordinate legislation,0.5
+- obstante clause,0.0
+plea of the company,0.5
+power plan,0.48
+much of a dispute,0.5
+for a licensee,0.3333333333333333
+general law in regard,0.5
+merits that the regulation,0.5
+burden,0.9853978671041838
+correction,0.7676767676767677
+figure of rs,4.0
+allahabad,2.3404255319148937
+need that these issues,0.5
+distribution loss of the company,0.5
+manohar,1.1
+value of goods,1.1666666666666667
+objections representation,0.5
+motu,0.5230769230769231
+major factors,0.5
+entirety to the consumers,0.5
+therewith,0.6394230769230769
+terms of the settlement,1.5
+fundamental issue,0.38095238095238093
+finance corporation act,0.6666666666666666
+public hearing,0.5249999999999999
+management,1.6732611752395274
+merits,0.968421052631579
+superior court feels that another view,0.6666666666666666
+act envisages,0.75
+power in the event,0.5
+commission for disposal,0.5
+relevant portion of clause i,0.5
+deduction,6.463320463320464
+dispute for arbitration,1.25
+other section,0.9722222222222222
+efficiency of the company,0.5
+equipment,0.8883209087681933
+intra,0.6386861313868613
+basis of public policy,0.5
+public notification,0.6666666666666666
+judges of the appellate court,0.5
+reason,2.6381270903010035
+appellate power of the court,0.5
+operation,1.0959893294085181
+provision of that act,0.0
+such burden,0.6666666666666666
+action against the person,0.6666666666666666
+impugned judgment of the high court,1.0
+fact that another authority,0.6666666666666666
+thefts,0.30000000000000004
+commission that the amount,0.5
+wide discontentment,0.5
+other materials on record,0.5
+delay in disposal,2.25
+act therefore these expenditure,0.5
+theft of electricity,4.333333333333333
+electricity at an adequate,0.5
+certain cases,0.5333333333333333
+meter,1.3483165377704869
+misreading,0.6095238095238095
+open to the high court as an appellate authority,0.5
+revenues,0.49523809523809526
+general law yields to a special law,0.5
+misreading of evidence,0.6666666666666666
+integra,0.832258064516129
+budge-budge costs,0.0
+such conditions that the commission,0.5
+type of supplies,0.0
+similar relevant point,0.5
+law yield,0.5
+right of participation,0.5
+others,0.9074667328904616
+obstante provision of section,0.0
+cut,3.1207863829787237
+lossunaccounted energy,0.5
+state commission considers,0.5
+to the high court,2.066666666666667
+burden on the consumers,0.5
+position of any area,0.6666666666666666
+major bone of contention,0.5
+recognition of a particular organisation,0.5
+proceeding,2.1298245614035087
+state of west bengal,1.6857142857142857
+karaikudi,0.5
+court in the course,1.0
+generality,0.5454545454545454
+individual rights,0.5529953917050692
+view of the reference,0.6666666666666666
+reference from the decision,0.6666666666666666
+state commission,7.066666666666668
+in this view,1.037037037037037
+aggrieved party,1.25
+judge,2.9012627415183325
+impugned tariff,0.5
+percentage of increase,1.0
+with the act,0.5
+appeal before the high court,1.1875
+maneka,1.3333333333333333
+from the wording of the statute,0.5
+order of the commission,1.2222222222222223
+co v johnston,0.5
+applicability of cross - subsidy,0.0
+persons indulge,0.5
+asci,1.2790368271954673
+project costs,1.0
+act as noticed hereinabove,0.5
+conclusion,1.3883437407077015
+indiscriminate hearing to the consumers,1.0
+conducive to electrical development,0.5
+whole liability on the consumers,0.5
+court by the impugned judgment,1.0
+statutory appellate power,1.0
+faulty meters,0.5
+security,1.5014864864864865
+room,0.6950710108604846
+lxxi,0.5
+overtime work,0.5
+questions,0.9979150871872632
+above requirement,0.5
+participation by interested persons,0.5
+principle of schedule vi,0.0
+currency,0.9166666666666669
+state commission under this section,0.5
+wholesale,1.0564663023679417
+publication in newspapers,0.5
+accounts of the company,3.0
+in overall circumstances,0.5
+part of the supply,0.5
+onward,0.6182170542635659
+no doubt,0.8331331503088538
+qualification,2.1521739130434785
+chairperson,1.5000000000000002
+circumstances,1.3944461370073231
+tariff in accordance,1.75
+urban distribution,0.5
+particular statute,1.0
+welfare,1.3226788432267886
+budge-budge cost,0.0
+commission consider,2.0
+regulations under section,0.5
+figures that the distribution loss,0.5
+proceeding before the commission,0.6666666666666666
+high court,7.7477477477477485
+application in the process,0.5
+positive figure of rs,1.0
+act in clause,0.75
+similar appellate provision,0.6666666666666666
+clear that the commission,1.0
+jurisdiction,2.9539571926331507
+average tariff for the year,0.5
+state legislature,4.444444444444445
+order  directions,0.0
+registrar of trade mark v ashok chandra,0.5
+trial,3.7979448350459712
+preference,1.0460251046025104
+es act,1.833904761904762
+manu,7.078142071124147
+concern,2.0544958000579303
+provision of the act,0.8888888888888888
+reasons for such departure,0.5
+consultants,1.1239092495636998
+role,1.0562959821210092
+conclusion that the regulations,0.5
+common question of law,0.75
+exces of acceptable limits,0.0
+interest of the company,0.5
+fact of the cases,0.0
+scale,2.0845464725643894
+single,1.6221488419098207
+principal sections,0.5
+statutory right,1.2
+manutnmanutn,1.7
+regard to the working capital,0.5
+such account,0.6666666666666666
+system of overtime payment,0.5
+right of hearing  representation,0.0
+latitude in this regard,0.5
+come to negative rs,0.5
+court in an appeal,1.0
+other welfare benefits,0.5
+tribunal,5.07183212267958
+- as prayed,0.0
+major issue,0.37037037037037035
+authoritative pronouncement,0.8571428571428571
+substantial difference,0.4
+conjunction with sections,0.5
+to the object,0.6578947368421053
+sum,2.554898897856461
+newspaper of west bengal,0.0
+good reason decide,0.5
+discussion in this line,0.5
+creation of an independent electricity,0.5
+measure,1.1941357983816498
+regulatory commissions act,0.6666666666666666
+locus standi,2.909090909090909
+woollens,0.5
+electricity,4.4831223628691985
+new cossipore plants,0.5
+reference to section,1.1111111111111112
+supply of electricity,2.5
+further mandate to the commission,0.5
+interest of the consumer,2.1666666666666665
+successor body,0.5
+to the energy,0.5
+distribution los of the respondent company,0.0
+due to faulty meters,0.5
+court in regard,1.4285714285714286
+crores as the cost,1.0
+learned judges,3.4864864864864864
+new scheme,1.1111111111111112
+assets,2.6879084967320264
+sufficient step,0.5
+other principles,1.5000000000000002
+rule mandates,0.75
+consultant asci,0.5
+guilty about this misdeed,0.5
+matter to the commission,1.0
+ltd v,1.579454253611557
+threat to the commission,0.5
+courts,2.1216528162511543
+actuals,0.6666666666666666
+right of the licensee,0.5
+non obstante clauses,0.5
+conflict with the definition,0.3333333333333333
+court in the case,1.3333333333333333
+judicial manner,0.5
+restriction,1.0123456790123457
+combined reading of these provisions,0.5
+committee,2.546237803603864
+appellate forum in a particular act,0.5
+shows,0.8030554811042616
+time of delivery,0.5
+code,2.880559796437659
+pendency of these agreements,0.5
+central excise,4.925925925925926
+impleadment application,0.5
+above reasons,1.0
+section shows,0.6666666666666666
+read with section,2.3513513513513513
+finding of the consultants,0.0
+path of correct principle,0.6666666666666666
+that the figure,0.5555555555555556
+investments,1.7287581699346406
+revision,1.6299226441631505
+satisfied that the order of the commission,0.6666666666666666
+employee,6.280487804878048
+reasons,1.3749054007567938
+filing,1.1274190041313328
+doubt that the contention,0.5
+interstices,0.5
+such consumer,0.5
+terms,2.390350840909655
+short payment of tariff,0.5
+problem,0.6764352120789936
+function of the commission,0.0
+consideration of such evidence,0.6666666666666666
+creation of the commission,1.0
+tariff for the year,2.3333333333333335
+autonomous body,1.6666666666666667
+technical procedure,0.4444444444444444
+view of that matter,0.5
+auditor,1.169230769230769
+clause i,1.5564516129032258
+working capital,3.0
+argument of the appellants,1.0
+creation,0.5716118684843625
+madras,2.836734693877551
+deduction for the contribution,0.5
+allegation of bias,1.0
+indian arbitration act,1.3333333333333333
+matter of fixation,0.75
+lacs of consumers,0.5
+possible by a competent court of law,0.6666666666666666
+ors,2.8612718198296623
+show,1.5002130552117363
+audit of the licensee,0.5
+expert forum s finding,0.0
+court in the impugned judgments,0.5
+part,5.294464509893076
+lawful agreement,0.6666666666666666
+much vigour,0.5
+years by reduction,0.5
+such payment,1.2
+commission--,0.0
+bombay,2.3134020618556703
+reliance silicon,1.5
+schedule vi,6.857142857142857
+aspect,1.2449448189023034
+shri,2.0759135877246115
+act to the commission,0.5
+decisions,1.3888475974580996
+prefer,1.1985494322572976
+other person,0.9635036496350365
+new law,0.5833333333333334
+other inconsistent provision,0.5
+incidental issue,0.5
+bodies of consumers,0.5
+power under the contempt,0.5
+basi of public policy,0.0
+question of fact,1.45
+staff,1.3233972834416785
+retail,1.687234042553191
+areas,1.6237236125072747
+particular expenditure,1.0
+power under clause,0.75
+collector of customs,1.9230769230769231
+determination,1.5980374665477253
+collector,1.8095238095238093
+application by the company,0.5
+objections representations from persons,0.5
+good,2.6154941054299674
+finding in a collateral proceedings,0.5
+culture,0.6643581897245934
+appellants that the role,0.5
+effect over this act,0.5
+budge - budge,0.0
+read,2.2147281730888695
+role of the commission,1.5
+income-tax,0.0
+procedure for the removal,0.5
+body of consumers,0.6666666666666666
+to a party,0.6000000000000001
+voluntary retirement scheme,8.571428571428571
+satisfaction,0.6639095671353735
+parte,0.7168042010502624
+substantial change in the manner,0.5
+obligations,0.9121212121212122
+rate by the company,0.5
+company in installing,0.5
+such material,0.5714285714285714
+instances,0.5974025974025974
+salt,0.7390776699029126
+chamber of commerce,0.4761904761904762
+definition of expenditure,1.0
+conclusion that the distribution loss,1.0
+power under section,1.7142857142857142
+unnecessary for the division bench,0.5
+sole authority,0.6666666666666666
+case of dhulabhai,0.6666666666666666
+concluding,0.624
+sole consideration,0.75
+relevant factor,0.8663594470046083
+irrespective of the need,0.5
+above question,0.45454545454545453
+various parts of the country,0.4800000000000001
+west bengal legislature,0.75
+rate of the consumers,0.0
+appointment,3.1380281690140843
+interim order  directions,0.0
+matter of principle,0.6666666666666666
+ex parte,1.1666666666666667
+state government,3.027142857142857
+increased distribution losses over the last decade,0.5
+which fact,0.47115384615384615
+effect,2.184583388478191
+least in regard to the private licensees,0.5
+approval of any authority,0.5
+budge,3.1144787644787644
+introduction,0.6363636363636365
+ipso,0.6734006734006733
+appellate forums,0.6666666666666666
+major bone,0.5
+wage,1.5814065510597304
+rate in any form,0.0
+delivery,1.3054726368159204
+convenience,0.6501259072729966
+which problems,0.5
+particular act,1.0612244897959184
+such objections,0.75
+retirement schemes,1.0
+trial stage,0.75
+utility,0.6431972789115645
+collective reading,0.5
+come,2.146356176589631
+of the appellants,2.6666666666666665
+inconsistent between the acts,0.5
+various principle,0.5
+to faulty meters,0.5
+complete agreement,0.45000000000000007
+consumer in such manner,0.0
+figures that the distribution los,0.5
+charles,0.3440366972477064
+none,0.8181718550217885
+cossipore,1.5
+similar commission for the state,0.5
+judgments,1.2355646397547266
+consequence,0.8726692512593296
+basis that the account,0.5
+place,2.333104345208554
+factual issues,2.0
+target,1.8734177215189871
+constraints,0.43956043956043955
+negative r,0.25
+substantial investment in equipments,0.0
+various part of the country,0.0
+callousness of the company,0.5
+findings on the legal issues,0.5
+uncertain terms,0.7555555555555555
+los by way,0.0
+salient features,0.6666666666666666
+project cost of the budge - budge,0.0
+expenditures,0.8413461538461539
+advertisements,0.5450733752620546
+national power plan,0.5
+decade,0.5014409221902018
+control,2.148867902684286
+obstante provision,1.0
+cheap transportation system,0.5
+liability of companies,0.0
+issue,2.766776251628934
+arguments of the appellants,1.0
+general public clamour,0.5
+provision of the enactments,0.0
+particular act as ultra vire,0.6666666666666666
+organisation chosen,0.5
+back,1.1362801178713813
+uttar pradesh co-operative federation ltd v sunder brothers,0.0
+auditors,0.5679012345679012
+same state in another area,0.5
+power plans,0.5
+ones,1.1255220584705485
+application of the principles,0.3333333333333333
+method,0.9027027027027026
+stage of framing,1.2
+bengal state electricity board v calcutta,0.5
+service condition,2.272727272727273
+particular clas,0.8333333333333334
+ground of the conduct,0.5
+court on reference,0.5
+to the appellate court,1.3333333333333333
+weight,0.7538461538461538
+judgment of this court,2.1029411764705883
+orders,1.4936359300077826
+non obstante provision,1.0
+judicial member,0.8
+sums,0.6341911764705883
+fundamental issues,0.4444444444444444
+above decision,1.1818181818181819
+exercise of the discretion,0.6666666666666666
+total los,0.75
+various figure,0.5
+transmission facilities,0.5
+payments,1.0129870129870129
+open to the appellate court,1.0
+procedure to association,0.5
+group of consumers,2.0
+uncertain term,0.7555555555555555
+tariff decision,0.5
+further appeal to the supreme court,0.6666666666666666
+licensee,5.253333333333333
+ground,1.4186722903211633
+for a total urban distribution,0.5
+representation before the commission,1.0
+lacs for the year,0.5
+central electricity,1.8333333333333333
+entire expenditure,1.2
+electricity wholesale,1.0
+distribution los,7.666666666666667
+actual amounts,0.5
+satisfied that the aggrieved person,0.5
+energy,2.532098416289593
+statutory auditor,1.0
+sixth schedule ipso facto,0.5
+principle of the continued binding nature,0.5
+liberty,0.7860465116279071
+coram,0.5
+funds management,0.6666666666666666
+superior court feel,0.6666666666666666
+mischief,0.5934065934065934
+figures,1.023593964334705
+relevant factors,0.8608695652173913
+article,4.378806157159795
+arbitration,11.242690058479532
+ordinance,1.176
+menace,0.78
+special case,0.8181818181818183
+regional basis,0.5
+additional strength that those constitutional power,0.5
+yorkshire,0.6666666666666666
+obligations of the commission,0.5
+improvement,2.157706093189964
+heads,0.7896459995907509
+excises,0.5714285714285714
+consumer protection act,1.3846153846153846
+opinion,1.4960606342789635
+west bengal electricity board,0.5
+high court on this basis,0.5
+commission s report,0.0
+nature of supply,0.6666666666666666
+calcutta,1.6022727272727273
+above parameter,0.6666666666666666
+thee,0.5324675324675324
+authority of india act,1.3333333333333333
+dispute pertaining,0.6666666666666666
+act as ultra vires,0.8
+above observations,1.0714285714285714
+principle of the maxim,0.5
+interim directions,1.5
+terms that these regulation,0.5
+repugnant section,0.5
+single judge of the calcutta,1.0
+delay,1.9544910179640715
+auditing,0.9000000000000001
+force of the new laws,0.5
+scope,0.8412698412698413
+ground of proved misbehavior,1.0
+laws,1.4186274337269533
+expenditure of the company,1.0
+electricity generation,0.5
+general law yields,0.5
+for the division bench,0.8
+fresh settlement,0.5
+incidental issues,0.5
+of those consumer,0.5
+increased distribution loss over the last decade,0.0
+disqualification,4.761904761904762
+registered consumer associations for the purpose,1.0
+respect,2.6704963235294117
+such re-fixation,0.0
+that piece,0.2857142857142857
+ad hoc manner,0.5
+involvement of private sector,0.5
+categories of distribution loss,0.5
+heard,0.782882203033377
+well-settled principles,0.0
+right of determination,0.5
+decision of the commission,0.75
+further mandate,0.5
+high court in the appeal,0.6666666666666666
+initial stage,0.5333333333333333
+necessary regulation in this regard,0.5
+such appeals,1.0
+obstante provisions,0.5
+departure,0.6451612903225807
+inspite,0.6933333333333334
+various provisions,1.5789473684210527
+ad hocism,1.0
+clauses,1.5486111111111112
+better funds management,0.5
+station,1.2515681586858238
+reasoning,0.6478937381404174
+outright victory of section,0.5
+sugar,5.734610417563496
+same time,0.6913511801045461
+exercise of power,0.7513227513227514
+murli,0.27272727272727276
+stand,1.8422769621739425
+mandates,0.6923076923076924
+which members of the commission,0.5
+commission in this regard,1.0
+final order,1.1466666666666667
+rating committee,1.3333333333333333
+progressive manner,0.5
+work,2.8478559811646353
+installing,0.5800000000000001
+system,1.1230229504341178
+theft of energy,1.0
+skills,0.8999999999999999
+features,0.6184582743988685
+ordinary rules,0.25
+sixth schedule permits of interpretation,0.5
+points,0.7095682483711788
+part of the management,0.5
+tariff under this act,0.6666666666666666
+other companies on similar projects,0.5
+proposal,1.8145800316957208
+most of the factual issues,0.5
+santosh,1.3333333333333333
+discrimination,0.8429118773946361
+genuinenes,0.8142857142857144
+copper,0.1984126984126984
+legal rights,0.4000000000000001
+groups before the commission,0.5
+different types of supplies,0.5
+rakhit,0.5
+trial court s exercise,0.0
+restrictions,0.7241671372106155
+to the commission,2.52
+successor entity,0.0
+complete agreement with the high court,0.5
+party to this case,0.0
+settlement,1.6881394467601363
+substantial los by way,0.0
+pension,11.516129032258064
+different from the objects,0.5
+such hearing,0.5
+obligates that the rule,0.5
+electricity in those plants,0.5
+subsequent enactment,1.3333333333333333
+consumer,4.596273291925465
+aggrieved person,1.7
+different authorities,0.75
+basic issue,0.75
+actual distribution los,0.5
+proved misbehavior,1.0
+supervening nature,0.5
+impleadment before the high court,0.5
+provision of this act,0.75
+appellant - organisations,0.0
+same vary from place,0.0
+specific significance in the context,0.5
+sitaram,1.5
+rating,1.0815829528158296
+adjustment,0.6982649174777825
+cesc,0.8250000000000001
+institution,2.7327010745685443
+liability on the consumers,0.5
+various statutory provisions of the enactments,0.5
+supply corporation ltd  manu  scmanu  sc,0.0
+first stage,0.39375
+accordance,1.4069045211613462
+court proceeding,0.75
+statutory force,0.75
+procedures,0.6129675045984059
+appellate court under section,0.6666666666666666
+detailed discussion,0.5823529411764706
+load,2.0086580086580086
+interstice,0.5
+annual report,1.0909090909090908
+class of consumers,2.5
+total consumption of energy,1.0
+preference to all other enactments,0.5
+word,2.065873981084096
+d loss for future years,0.5
+more time,0.4135338345864662
+independent regulatory authority with the power,0.5
+chapter,1.3867471532446152
+apprehension,0.9319526627218935
+sort,0.7327002541370012
+appeals,1.7060218112849692
+registered consumer association,1.0
+appropriate proceeding,1.1
+division bench of the calcutta,1.2
+government of west bengal,1.0
+part of distribution loss,0.5
+estimated cost,0.7777777777777778
+tata,0.7061403508771931
+coordinate bench,1.4
+welfare benefit,0.5
+validity of the regulations,3.5
+strength that those constitutional powers,0.5
+toward,1.0255939365170768
+competent court,1.380952380952381
+consumers at a reduced rate,0.5
+fault with the company,0.5
+distribution los of the company,0.0
+vary from place,0.0
+theft of electricity till,0.5
+members,1.9437616522164103
+account,2.5754891049671977
+accountants,2.5000000000000004
+act that the parliament,0.6666666666666666
+purchase,3.239871541501976
+way conflict with the decisions,0.5
+conclusion that the recommendation,0.5
+zero,0.37681159420289856
+likelihood of an unmanageable hearing,0.5
+objects,0.7297830374753452
+interference,0.5733527484528578
+purpose,2.519170317925504
+trial court,3.854545454545455
+appeal to the supreme court,1.6666666666666667
+sick industries companies,0.5
+locus,0.6133333333333334
+appropriate government,2.3846153846153846
+time,2.4764180952862667
+ground for substitution,0.6666666666666666
+central government,3.0380952380952384
+consistent with the act,0.5
+commission under section,1.75
+amplitude of appeal,0.6666666666666666
+determination of issues,0.6666666666666666
+certain materials,1.0
+sixty days from the date,1.0
+such person,0.9634888438133874
+to electrical development,0.5
+future enactment,0.5
+legal right,0.6571428571428573
+provisions of that act,0.8571428571428571
+mandate of the act,0.5
+constitution bench,4.27536231884058
+sitaram sugar company ltd,0.5
+voluntary,6.291079812206573
+similar expert body,0.6666666666666666
+sum of rs,2.125
+provision of schedule vi,0.0
+reduction,0.8411214953271028
+important issue,0.6349206349206349
+incorporation of a central electricity,0.5
+principle of natural justice,1.0
+obligates,1.1428571428571428
+inconsistent,0.7870017771007869
+reasonable apprehension of bias,0.5
+load factor,1.0
+d loss ie,0.5
+appellate forum,1.2
+competition,0.9867647058823531
+such time as the commission,0.5
+limit,2.3804570428443834
+empowers,0.8708708708708708
+language of sub - section,0.0
+right,3.07483248288682
+cesc account,0.5
+transportation,0.4525862068965517
+that extent,0.8888888888888888
+figures that year,0.5
+other source,0.5433255269320842
+state commission in the instant case,0.5
+management of the company,1.0
+various heads,0.6666666666666666
+least for the year,0.5
+increased distribution loss,0.5
+mandate,0.8783810859547183
+conditional claim,0.5
+interpretation of this section,0.5
+statutory appeal before the high court,1.0
+absence,1.092363454568179
+type,0.8102172691515265
+controlled procedure,0.5
+general newspaper  objection,0.0
+counsel,2.2246780703440323
+policy,3.250773332247955
+patent appeal before the division bench,0.8571428571428571
+opinion of the asci,1.0
+plans,2.01766620176662
+different authority,0.0
+lacs consumers,0.5
+rules,3.130914366958792
+provision of schedule,0.0
+act in a proceeding,0.6666666666666666
+appellate provision,0.6666666666666666
+development of electricity,0.5
+in the determination of tariff,0.5
+auditor s report,0.0
+consumers  interests,0.0
+appropriate proceedings,1.1428571428571428
+maxim,0.9230402066486973
+efficient management,1.0
+to section,1.1271896420411271
+course of the judgment,0.6666666666666666
+representation of the consumers,1.0
+necessary for the commission,0.5
+company under this head,0.5
+above provisions,1.0
+that the price fixation,0.5
+encroachment on the power,0.6666666666666666
+particular clas of consumers,0.0
+play,0.5464427772208388
+compelling reasons,0.5555555555555556
+consequential financial burden on the company,0.5
+allahabad bank,5.2
+electricity subject,0.5
+due to a party,0.5
+fact that the distribution loss,0.5
+service of notices,0.5
+state commission under the act,1.0
+ideas,0.5673884537690045
+proceedings of the commission,0.5
+dispute,2.402137592137592
+disposal,1.1180555555555556
+results,0.6487493619193466
+industry,8.208106219426973
+misdeed,0.3333333333333333
+conditions,1.9988092071092867
+level cross subsidies,1.0
+victim,1.204831365285174
+high court as an appellate court,0.6666666666666666
+interest of consumers,0.5
+vigilance,0.75
+osenton,0.5
+compliance,1.0029799914857385
+comparative figure,0.5
+case,7.332269420884958
+sixth schedule permits,0.5
+error,1.059158294766151
+mad,4.259987780455518
+supply,2.0557395143487858
+cost under the head,0.5
+various salient feature,0.5
+clause xvii of schedule vi,0.5
+room for such indiscriminate hearing,0.5
+base,0.8959264091163237
+chief secretary,1.6923076923076923
+obligate,0.5821205821205822
+investment corporation,0.4
+punishment,1.6266937669376693
+of the finding of the high court,0.0
+economy in the activities,0.5
+suo motu,1.3333333333333333
+con,13.093373738143507
+above judgments,1.0
+accepted principle in law,0.5
+advantage of this part,0.25
+capital in accordance,0.5
+part of this loss,0.5
+public policy,1.2058823529411764
+commission in the proceedings,1.5
+legislative powers,1.2
+room for any indiscriminate hearing,0.5
+future,0.9664487618116651
+statements,1.110873440285205
+report of the consultants,0.5
+court of law,0.673963133640553
+contention,1.666391070690368
+clas of consumers,0.0
+acceptable reasons,0.5
+matter to a larger bench,0.8571428571428571
+inter alia,1.3280423280423281
+other company on similar projects,0.0
+dispute pertaining to the cost,0.5
+plant,1.381330685203575
+various statutory provision,0.5
+special factors,0.5
+appellate jurisdiction,2.769230769230769
+autonomy,0.6610169491525425
+bench,2.5793391667754992
+violation,1.2087401208740118
+above argument,0.4571428571428572
+manner support,0.5
+office,3.5913445886237847
+such finding,0.5714285714285714
+above arguments,0.8
+leave,1.0147842365477848
+notification of the filing,0.5
+non obstante claus,3.5555555555555554
+collective reading of these sections,0.5
+true that the figure,0.5
+slp,1.291953447628582
+closure,1.2826249067859805
+tariff payable for use,0.5
+account of the company,1.0
+optimum investment,0.75
+view of paucity,0.5
+quantum,0.8922235363690124
+methodology,0.47297297297297297
+body,1.336775463480009
+sitting,1.1033984092552422
+phenomenon,0.3698752228163993
+bank of india,5.333333333333333
+poor planning,0.3333333333333333
+notice,2.3300025999395686
+exercise of that discretion,0.5
+participation,1.138392857142857
+structure,1.568520357497517
+- organisation,0.0
+figure,1.2881717501815544
+limited involvement of private sector,0.5
+similar appellate provisions,0.6666666666666666
+rdb act,17.5
+materials,1.1534090909090908
+such ground of proved misbehavior,0.5
+legal issues,0.5
+subsidies,0.6666666666666666
+inconvenience,0.47368421052631576
+consumption,2.4979360165118676
+forums,1.5972222222222223
+trade mark v ashok chandra,0.5
+regulatory,1.7023809523809523
+effort,0.7536036036036036
+note of section,0.6666666666666666
+member of the commission,0.0
+patent,1.3540828816226613
+onwards,0.625668449197861
+instant case,2.0631578947368423
+lakh,1.3647388059701493
+writ jurisdiction,1.2142857142857142
+consumer at a reduced rate,0.0
+absence of an independent regulatory authority,1.0
+factual issue,1.5
+persons indulge in violence,0.5
+company on account,0.6666666666666666
+finding of fact,1.7083333333333333
+commission under the power,0.5
+transmission of electricity,1.3333333333333333
+tribunals,2.527472527472528
+plus purchase,0.5
+construction,2.2504918032786887
+government on the ground,0.5
+haryana,2.935064935064935
+higher than the cost of purchase,0.5
+audience,0.5347222222222222
+applicable ie,0.5
+civil appeals,1.24
+entirety,0.6814814814814815
+conclusion that the step,0.5
+various head of accounts,0.0
+reversal,1.4166666666666667
+companies on similar projects,0.5
+value,1.7137907830478438
+documents,1.142515923566879
+regard to the exercise,0.6666666666666666
+provisions of the indian electricity act,0.5
+con of distribution,0.0
+high level cross subsidies,1.0
+that basi,0.6481481481481481
+res,10.359704275735774
+continuance of cross subsidy,0.5
+inspite of subsequent enactments,0.5
+prejudice to the generality,1.0
+worrying feature,0.5
+schedule permit,1.0
+trial court reasonably,0.5
+most of other similar companies,0.5
+learned counsel for the company,1.5
+registered consumer association for the purpose,0.0
+plants,0.49906191369605996
+appropriate consideration in the first stage,0.6666666666666666
+company for some time,0.5
+india act,3.5714285714285716
+mulajore,2.0
+constitutional power,0.8333333333333333
+right of representation,1.5
+camp,1.917373271889401
+legislature,2.818553268765133
+statutorily,0.782608695652174
+self-assessment,0.0
+limited involvement,1.0
+such condition,0.6407322654462243
+other class,0.42352941176470593
+hearing of the consumers,0.5
+callous expenditure,0.5
+newspapers,0.854368932038835
+applications of these consumer organisations,0.5
+conduct,1.5998023165163158
+major part of the supply,0.5
+competent court of law,0.8571428571428571
+organisation,1.4034090909090908
+similar project,0.6666666666666666
+gazette,0.9578231292517008
+argument of the learned counsel,0.8
+licence,3.10964429776311
+estimated cost of the project,0.6666666666666666
+argument,0.9504580388560493
+bias,1.390116377129364
+exceptions,0.6478185993111366
+corporation,3.6427750743444176
+supply of energy,0.606060606060606
+statements of this act,0.5
+cost of generation,0.6666666666666666
+power factor,1.3333333333333333
+madhya pradesh,2.9583333333333335
+true that the price fixation,0.5
+judges,2.0931496919173616
+other material on record,0.6666666666666666
+various provisions of the act,1.375
+central electricity authority,0.5
+respect to the learned counsel,0.5
+apprehension of the high court,0.5
+regulation in this regard,0.5
+project costs of the budge - budge,0.0
+larger bench,2.0606060606060606
+which findings,0.5
+victim of theft,0.5
+application of these consumer organisations,0.0
+such determination,1.2
+above observation of this court,0.0
+parties in these appeals,0.5
+important point,0.41481481481481486
+statutes,0.9659824046920822
+functions of the state commission,0.6666666666666666
+busines,2.8488759960122034
+appointment of chairperson,1.0
+other incidental question,0.5
+various parts,0.4656084656084656
+appellant,14.387096774193548
+madra,2.836734693877551
+expenditure,2.804307692307692
+authority for correction,0.5
+appellants on the merits,0.5
+from the above observation of the high court,0.5
+transmission,1.1157457081545064
+average of the various figures,0.5
+previous year,1.384404924760602
+open to the court,0.9
+court feels,0.6666666666666666
+many other incidental questions,0.5
+allegation of callousness,0.0
+economy,0.43614336193841496
+which finding,0.5
+collateral,0.9212121212121213
+other welfare benefit,0.5
+representation,1.2338308457711442
+encashment,1.9090909090909092
+commission under regulation,0.5
+offenders,0.9550387596899225
+cal,2.9844609343772106
+locus standi of the consumers,0.5
+rate,3.088725136774248
+central,2.61875
+many appellant,0.5
+impugned judgment proceeds,0.5
+such statutory right,0.5
+emphasis,0.8024289099526066
+schedule of the supply act,1.0
+provision of sections,0.0
+same state,0.44117647058823534
+following reasons,0.505050505050505
+alse general of evacuee property manuscmanusc,0.0
+appellate tribunal,4.2105263157894735
+section show,0.6666666666666666
+possibility,0.7613466503601033
+section of the consumers,0.5
+finance,1.9582470669427192
+new cossipore plant,0.5
+of other principles,0.5
+situation,1.1254754682459434
+act ie,0.9230769230769231
+specific terms,1.0
+transmission facility,0.0
+functions of the commission,1.0
+primary duty of the determination,0.5
+observations,0.7454584147497534
+other things,0.4197737746124843
+opinion on the merits,1.0
+future years,1.2000000000000002
+repugnant provisions,0.5
+consumer s load factor,0.0
+administrative,1.85302734375
+measures,1.126498218334953
+parts of the country,0.6352941176470588
+effective appellate forum,0.5
+fact in mind,0.4444444444444444
+relief of appeal,0.6666666666666666
+report in regard,0.5
+for the licensee,1.0
+heard by the high court,0.6666666666666666

@@ -1,0 +1,511 @@
+appointment in the maharashtra state electricity board,0.5
+tribes,1.6409945421467553
+committee,2.546237803603864
+government,3.5583785424010483
+director,1.3549769585253457
+madhuri patil,1.6666666666666667
+vacancy,1.0666666666666667
+castes,3.7222222222222223
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+senior counsel for the applicant,0.75
+assistant engineer,4.428571428571429
+basi of directions,0.0
+chhindwara in the state,0.5
+sections,1.640495469442838
+application for admission,0.0
+terms,2.390350840909655
+same region,0.6666666666666666
+meaning,1.8612727545949643
+form of reservation,0.5
+relation to that state,1.0
+aforementioned terms,0.5
+terms of states,0.5
+that a scheduled tribe,0.5
+court,12.24425115501509
+employment,1.5239770785161355
+inquiries by the scrutiny committee,0.6666666666666666
+union,2.0981927710843373
+dispute that the scheduled castes,0.5
+sawargaon,0.5
+backward category,0.6666666666666666
+facilities,0.9130594727161252
+particular area,0.42857142857142855
+person,4.291511329454258
+ors,2.8612718198296623
+show,1.5002130552117363
+vast area,0.5
+way,1.7812722068664852
+consideration herein,0.6666666666666666
+behalf,1.9888053603529987
+cause,1.8431210321626654
+scheduled tribe in the state,1.0
+thane,0.6447368421052632
+part,5.294464509893076
+post of assistant engineer,1.0
+backward category in existence,0.6666666666666666
+observed-,0.0
+facility,1.2989690721649485
+false status certificate,0.6666666666666666
+aspect,1.2449448189023034
+reversion,0.4114285714285715
+shri,2.0759135877246115
+district,1.5506763074237984
+decision,2.9514937765898557
+regards prayer,0.6666666666666666
+reserved vacancy on the basis,1.0
+competent authority,2.7142857142857144
+inquiries,0.6559633027522935
+create hurdles,0.6666666666666666
+aspect of the matter,1.4642857142857142
+research officertribal development,0.6666666666666666
+tribe halba,2.0
+respective officers,0.6666666666666666
+cause notice,3.1153846153846154
+appeal,3.4125488033856883
+obc candidate,0.6666666666666666
+caste scrutiny committee,1.3333333333333333
+scr,2.483838975311538
+read,2.2147281730888695
+area,2.675167256985439
+village,1.8429856945085372
+kumari madhuri patil s case,0.0
+year,2.8349484769759212
+view of fact,0.75
+alia,0.9479866480753792
+backward class,3.8461538461538463
+judgment,3.288216560509554
+order,5.472481489660944
+act,12.870263922028107
+community,1.3158036677454152
+read with direction,0.6666666666666666
+governor,1.1316137566137567
+reorganization,1.0052356020942408
+special backward category in existence,0.6666666666666666
+entry resort,0.6666666666666666
+appointment,3.1380281690140843
+explanation,1.4510159010600707
+member of the same tribe belonging,0.0
+state of madhya,1.7142857142857142
+state government,3.027142857142857
+effect,2.184583388478191
+candidates,3.508445945945946
+completion,1.1868131868131868
+dinesh,3.230769230769231
+chandrapur,1.5
+district of chhindwara,1.5
+member with quorum,0.0
+member,2.649111111111111
+district chhindwara,0.5
+status of eligibility,0.6666666666666666
+kumari madhuri patil,1.6666666666666667
+section,9.287987283173626
+true that a scheduled tribe,0.5
+herein,2.825259515570934
+certificates,0.7105263157894737
+developed section of the community,0.0
+madhya,2.9183673469387754
+petition on the ground,1.0
+specification,1.0483870967741935
+facility for development,0.0
+educational institutions,1.2480000000000002
+that explanation,0.5142857142857143
+committees,1.1
+- reserved vacancy,0.0
+scheduled castes,2.7777777777777777
+civil,2.126558634963905
+officers,2.442124212421242
+maharashtra state electricity board,1.3333333333333333
+appellant herein,2.046153846153846
+matter to the scrutiny committee,1.0
+investigation,1.6673076923076922
+refusal,0.813597918022121
+regard,2.723310344827586
+post pandhurna,0.5
+promotion,2.946428571428571
+territory of state,0.5
+mr va mohta,0.6666666666666666
+class,2.1508512849922936
+state of madhya pradesh,1.7142857142857142
+respective officer,0.6666666666666666
+reserved vacancy,1.0
+direction,1.8495050210098996
+basis of directions,0.5
+degree,0.6705786026200874
+pandhurna,1.0
+union of india,3.1324503311258276
+regards,0.9072861236185019
+issue,2.766776251628934
+para,2.300239586747483
+several state,0.5555555555555556
+mohta,0.75
+basi,2.0752712086391383
+form,2.4865961263718424
+mumbai,1.8484848484848484
+benefits,2.0896027049873203
+correct way,0.37037037037037035
+course of employment,1.0
+candidate,6.356675392670156
+benefit,2.604810195438474
+petitioner,4.524972253052164
+protective preference,0.5
+appropriate committee,0.5
+cost,1.2954397451466992
+judgment of the high court,1.721311475409836
+halbi,1.5
+basis,1.953226441078104
+direction of the state government,0.5
+directions,1.5134125183504605
+course,1.6545957498716626
+caste,3.66454871293581
+advertisement,1.5480769230769234
+same tribe belonging,0.5
+nagpur,6.5625
+various element,0.4444444444444444
+country,1.2903191103863751
+input for specification,0.5
+pradesh,4.365853658536586
+officer,3.1197242647058823
+that date,0.9333333333333333
+ground,1.4186722903211633
+other case,0.6654088050314465
+territory,1.3688226421790437
+resort,0.7319355397678043
+input,1.4506694855532065
+allahabad v sanjay kumar singh manuscmanusc,0.5
+inquiry,1.3527272727272728
+in the state of maharashtra,2.6666666666666665
+liberty,0.7860465116279071
+matter,2.8088923076923082
+relation,1.397320207820618
+welfare officer,2.0
+to the maharashtra state electricity board,0.5
+action committee,0.2857142857142857
+article,4.378806157159795
+scrutiny,0.912987012987013
+challenge deserves,0.6666666666666666
+engineer,3.318922187370092
+term,3.6255105640901575
+aforestated committee,0.6666666666666666
+applications,1.0021816198527407
+spurious persons,0.6666666666666666
+bifurcation thereof,0.5
+view,2.441100058469462
+social status certificate,1.3333333333333333
+developed sections of the community,0.5
+post,2.344803646492219
+preferences,0.38746438746438755
+scheduled caste,3.875
+chhindwara,2.5
+merit,1.2419290263876248
+punit rai v,0.5
+tribe halba  halbi,0.0
+assistant,1.6732837055417698
+authorities of the state,0.5
+result,1.3356630184144715
+that region,0.3529411764705882
+scs,0.6990393936723363
+backward,1.866666666666667
+inclusion,0.9738480697384807
+that the applications for admission,0.6666666666666666
+welfare v punit,0.5
+nomadic tribes,0.6666666666666666
+aurangabad,0.9
+fact,3.6284951019474962
+state electricity board,2.125
+counsel for the applicant,1.0
+expression,1.7424391201885312
+constitutional,1.945673076923077
+anr,1.1271033322299457
+genuine candidate,0.6666666666666666
+special,1.7363344051446945
+manu  scmanu  sc,0.0
+appointment to office,0.0
+kumar,2.028839704896043
+that behalf,1.3548387096774193
+regard to the plain expression,0.5
+fraud,2.7602996254681647
+various elements,0.4444444444444444
+other word,0.758838674565131
+tribe halbahalbi as a scheduled tribe,0.5
+members of the same tribe belonging,0.5
+public service commission,3.7857142857142856
+backward classes,2.8
+protection,1.1604395604395603
+amravati,2.25
+true that the applications for admission,0.6666666666666666
+applications for admission,0.6666666666666666
+cell,1.2725925925925925
+origin in the chhindwara region,0.5
+posts,2.6556317082632876
+officiate,0.30000000000000004
+promotion against the reserved post,0.5
+equal term,0.3333333333333333
+service commission,5.142857142857143
+other backward classes,1.5714285714285714
+state reorganization,0.5
+petitioner under article,0.6666666666666666
+date,6.195616975795285
+rai,2.517873434808919
+existence,0.731202675709574
+constitution of the benefits,0.5
+respondent,4.757894736842104
+want,0.9034484256025601
+scheduled,2.329545454545454
+institution,2.7327010745685443
+elements,0.676937441643324
+possibility that a tribe,0.5
+developed section,0.5
+question,2.980312372067635
+v sanjay kumar singh manu  scmanu  sc,0.0
+tribe halba  halbi of that region,0.0
+madhuri,3.4
+tribal development,2.0
+scmanu,7.940520446096654
+word,2.065873981084096
+tribe belonging,1.0
+same benefits despite bifurcation thereof,0.5
+area of the state,0.6666666666666666
+other words,0.7578482137053969
+august,0.977116704805492
+nasik,1.6
+parent,0.9965655833245622
+resident,1.6560361185631094
+entry,4.707210447678601
+create hurdles in completion,0.6666666666666666
+state after consultation,0.6666666666666666
+high,5.367119186841496
+members,1.9437616522164103
+detailed investigation,0.6666666666666666
+appointments,1.2888888888888888
+case of this nature,1.1818181818181819
+other backward class,1.5714285714285714
+equal terms,0.3333333333333333
+quorum,0.9142857142857144
+order under challenge deserves,0.6666666666666666
+protective preferences,0.5
+states,1.5120646995827023
+action committee on issue,0.5
+prayer,0.6969296987087519
+- reserved vacancy on the basis,0.0
+purpose,2.519170317925504
+social status of eligibility,0.6666666666666666
+court in kumari madhuri patil,1.0
+non - reserved vacancy,0.0
+observation,0.7625074854374218
+time,2.4764180952862667
+educational institution,1.6904176904176904
+genuine candidates,0.6666666666666666
+same benefit,1.2571428571428573
+chaudhary,1.4615384615384615
+vigilance cell,0.6666666666666666
+board,2.401414435268602
+such in the state of maharashtra,0.5
+eligibility,1.1788856304985336
+area of the country,0.5
+entry resort to dilatory tactics,0.6666666666666666
+giri,1.9047619047619047
+giri manuscmanusc,0.6666666666666666
+several states,0.4444444444444445
+scheduled tribe in the district,0.5
+result of state reorganization,0.5
+bifurcation,1.0
+hurdles,0.45000000000000007
+march,1.0644238856181665
+certificate,2.732600732600732
+halba,1.6739130434782608
+similar observation,0.5333333333333333
+scrutiny committee,3.3333333333333335
+disadvantages,0.47727272727272724
+counsel,2.2246780703440323
+tactics,0.4837209302325581
+application,2.3322596088086445
+tactic,0.5601325757575758
+india,2.7684068260703585
+village sawargaon,0.5
+authorities,1.266131845134287
+commission,4.703619179345321
+vast area of the state,0.6666666666666666
+states  reorganization,0.0
+regard to the fact,1.5862068965517242
+benefit in other state,0.5
+tribes order,0.5
+authority of the state,1.3333333333333333
+shri dholakia,0.8
+dinesh chaudhary manuscmanusc,0.5
+tribal welfare v punit,0.5
+v addl,1.2
+tribe order,0.5
+same protection,0.3333333333333333
+spurious person,0.6666666666666666
+hurdle,0.4
+denotified,0.6666666666666666
+benefit of reservation,2.5
+tribe halbahalbi,1.0
+origin,1.2344828910849253
+same benefit in other state,0.5
+dispute,2.402137592137592
+dilatory tactic,1.0
+obc candidates,0.6666666666666666
+disadvantage,0.9298245614035088
+want of social status certificate,0.6666666666666666
+part of area,0.5
+vigilance,0.75
+addl,1.303854875283447
+state of maharashtra,2.5434782608695654
+due to vast area of the state,0.6666666666666666
+region,2.372542065649998
+that state,0.8973013493253372
+case,7.332269420884958
+status certificate,2.0
+create hurdle,0.6666666666666666
+special backward category,0.6666666666666666
+resident of village sawargaon,0.5
+scc,1.941872465904902
+institutions,2.2839413875598087
+constitution,3.204842342342342
+reorganization act,0.6666666666666666
+post under a state,0.0
+singh,3.7791111111111113
+caste certificate,4.25
+district chhindwara in state,0.5
+service,4.257395095954566
+aforestated committees,0.6666666666666666
+element,0.7062328407033122
+basi of false social status certificate,0.0
+post of junior engineer,1.0
+posts under a state,0.6666666666666666
+aggrieved,1.2479674796747968
+appellant s case,0.0
+challenge deserve,0.75
+false social status certificate,0.6666666666666666
+particular area of the country,0.5
+supra,2.246342614440774
+office,3.5913445886237847
+presidential,1.96011396011396
+maharashtra,2.9076923076923076
+costs,0.8167395522604189
+applicant,0.7861822513400833
+growth in several states,0.5
+second,1.4990453300392075
+tribe,2.294908466819222
+point,2.9165043546008516
+reserved post,1.0
+admission,1.5389848246991107
+allahabad,2.3404255319148937
+notice,2.3300025999395686
+junior engineer,1.0
+status,1.14824388424026
+proper meaning,0.4800000000000001
+dholakia,1.5
+order of this court,2.125
+obc,0.31831187410586553
+post till,0.5
+inconvenience,0.47368421052631576
+eligibility of the appellant,0.5
+guardian,3.176470588235294
+consultation,1.1724137931034484
+reservation,2.6876587100050786
+aforementioned term,0.5
+open to the maharashtra state electricity board,0.5
+petition,5.3436539306104525
+category,1.9351744779266717
+governor for the purpose,0.5
+response,0.7112676056338028
+decision in that behalf,0.8
+consideration,1.9110153789142115
+statutory committee,0.5
+pandhurna in the district,0.5
+benefits despite bifurcation thereof,0.5
+same benefits,0.4444444444444444
+scheduled tribe,3.764705882352941
+competent authorities of the state,0.5
+observations of this court,1.0
+to vast area of the state,0.6666666666666666
+question before the scrutiny committee,0.5
+words,1.6384367086179112
+statutory,2.0326923076923076
+commissioner,2.271608643457383
+madhuri patil s case,0.0
+appointments to office,0.6666666666666666
+patil,0.85
+pune,1.3423295454545454
+kumari,4.764705882352941
+social welfare officer,0.6666666666666666
+challenge,1.2204566274399267
+dispute that the scheduled caste,0.5
+decide,1.6018650602802482
+student,1.2777711454664835
+authority,2.4352627108360636
+manuscmanusc,7.940520446096654
+point of time,0.7999999999999999
+punit,0.4
+selection,2.2651528696585017
+growth,0.7269455690508322
+development,2.3145884270578647
+other state,1.851851851851852
+facilities for development,0.5
+genuine,0.8758169934640523
+admission to educational institutions,1.3333333333333333
+social statu,0.875
+tribal,2.6666666666666665
+caste scrutiny committees,1.3333333333333333
+halbahalbi,1.5
+research,1.351044147915173
+madhya pradesh,2.9583333333333335
+tribecaste scrutiny committees,0.6666666666666666
+similar observations,0.5333333333333333
+members of the scheduled tribe,0.5
+order of reversion,0.5
+response to an advertisement,0.6666666666666666
+nomadic tribe,0.6666666666666666
+true that the application for admission,0.0
+developed sections,0.5
+competent authority of the state,0.0
+show cause notice,2.9565217391304346
+no doubt,0.8331331503088538
+that the application for admission,0.0
+dilatory tactics,1.0
+appellant,14.387096774193548
+member of the scheduled tribe,0.0
+decide in that behalf,0.6666666666666666
+welfare,1.3226788432267886
+degree of disadvantages,0.5
+regard to the benefit,0.5
+high court,7.7477477477477485
+public,2.923239095873367
+plain expression,0.5
+state,6.817996007300392
+classes,1.212856534695615
+tribe in the state,1.0
+create hurdle in completion,0.0
+term of states,0.0
+social status,0.875
+preference,1.0460251046025104
+manu,7.078142071124147
+director of tribal welfare v punit,0.5
+employer,2.639728353140917
+non - reserved vacancy on the basis,0.0
+caste scrutiny committees for scs,0.6666666666666666
+chhindwara region,0.5
+airsc,1.6909090909090911
+nature,1.4149926876444778
+inquiry by the scrutiny committee,0.0
+tribes in the state,1.0
+observation of this court,0.6666666666666666
+members with quorum,0.6666666666666666
+possibility,0.7613466503601033
+caste scrutiny committee for scs,0.0
+situation,1.1254754682459434
+competent authorities,1.6363636363636365
+junior,0.9861207494795279
+tribecaste scrutiny committee,0.6666666666666666
+observations,0.7454584147497534
+electricity,4.4831223628691985
+basis of false social status certificate,0.6666666666666666
+action,3.127292663476874
+senior counsel,2.2857142857142856
+sanjay,0.7908496732026145
+fact in mind,0.4444444444444444
+persons,2.5993381990166555
+thing,1.1131787570209408

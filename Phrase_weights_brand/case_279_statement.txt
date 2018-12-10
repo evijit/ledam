@@ -1,0 +1,420 @@
+courts,2.1216528162511543
+enactment,1.439950980392157
+court in the case,1.3333333333333333
+retrospective,3.1333333333333333
+exist,1.4287788628534008
+similar matter,0.42857142857142855
+hitendra vishnu thakur,0.75
+filing,1.1274190041313328
+reasons,1.3749054007567938
+law prevailing at the date,0.5
+decisions of this court,1.8225806451612903
+matters,1.4810665618448637
+meaning,1.8612727545949643
+instance,0.9469803370786518
+foregoing reason,1.0714285714285714
+law prevailing,0.6666666666666666
+court,12.24425115501509
+union,2.0981927710843373
+superior court accrues to the litigant,0.5
+view of promulgation,0.5
+objection,1.68120480131216
+ors,2.8612718198296623
+behalf,1.9888053603529987
+halsbury,1.5294117647058822
+right of parties,0.0
+litigation,1.4968553459119498
+substantive in nature,1.6666666666666667
+right exists,0.5
+series,0.4722257940079723
+such right exist in procedural law,0.0
+decisions,1.3888475974580996
+benefit of the applicants,0.5
+decision,2.9514937765898557
+procedural law,1.4285714285714286
+transparency,0.95
+whereas law,0.6666666666666666
+aforesaid,2.592896174863388
+physical possession,1.4166666666666667
+landholders  owners,0.0
+new law,0.5833333333333334
+halsbury s law,0.0
+claim,2.817264601856604
+scc p,1.0158730158730158
+new duty,1.0
+changes,0.8318262938726949
+similar matter in ca,0.0
+appeal,3.4125488033856883
+vested right in substantive law,0.5
+steps in a series,0.5
+determination,1.5980374665477253
+collector,1.8095238095238093
+applicants  appellants,0.0
+in the matter,0.9353448275862069
+land,6.337534028705619
+scr,2.483838975311538
+year,2.8349484769759212
+first instance,0.8333333333333334
+obligations,0.9121212121212122
+judgment,3.288216560509554
+averments,1.76
+proviso to sub - section,0.0
+lis commences,0.5
+order,5.472481489660944
+edn,0.4833395383469844
+existence after the judgment,0.5
+act,12.870263922028107
+sub-section,0.0
+judicial proceeding,1.3333333333333333
+approach of the courts,0.5
+law in force,0.8571428571428571
+promulgation,0.5714285714285714
+halsbury s laws,0.0
+effect,2.184583388478191
+above averments of the applicants,0.5
+counsel for the parties,1.263157894736842
+landholders  owner,0.0
+rest,3.3424534062537377
+lis commence,0.5
+similar matters,0.4
+parties,1.8210828547990157
+pursuit,0.4088114754098361
+disability,0.621301775147929
+court accrues,0.5
+section,9.287987283173626
+vested rights of the parties,0.5
+adequate opportunity to the respondents,0.5
+litigant,1.2698412698412698
+assertion,0.5478622435144175
+amending act,2.0
+ltd v union of india,1.0
+enure,1.8763636363636367
+regard,2.723310344827586
+proviso to the abovesaid sub-section,0.0
+unaffected by the amendment in the enactment,0.5
+thakur,1.6
+earlier decisions,1.24
+applicants  appellant,0.0
+limitation,2.4984479402325457
+rights,1.6349541930937281
+intention in an amending enactment,0.5
+career,0.5387620192307693
+para,2.300239586747483
+hearing of the case,1.0
+repeal of provisions,0.5
+other appeals,0.8571428571428571
+objections,1.2025072324011572
+matter of procedure,0.4444444444444444
+objection with regard,0.6666666666666666
+golden rule of construction,0.5
+other appeal,0.9090909090909091
+rights of the parties,1.1764705882352942
+benefit,2.604810195438474
+such right exist,0.5
+earlier decisions of this court,1.0
+right exist in procedural law,0.0
+superior court accrue to the litigant,0.0
+substantive rights of parties,0.5
+procedural statute,0.5
+sub,7.816899313759727
+date of suit,1.0
+absence of anything,0.6666666666666666
+applicants,0.6960950764006791
+aforesaid case,1.3529411764705883
+implication,0.6615776081424936
+amendment,2.2486412346818434
+acquisition,6.764044943820224
+substantive law,0.8
+hereunder,1.4457142857142857
+opportunity,0.946186440677966
+transaction,5.884921444603142
+xxx,1.8708487084870848
+vide order,1.7058823529411764
+right of the applicants,0.5
+adequate opportunity,0.6666666666666666
+claim in litigation,0.5
+adjudication of suit,0.5
+clearly-defined limit,0.0
+matter,2.8088923076923082
+in operation,0.65625
+relation,1.397320207820618
+stay,0.7804272356384462
+ordinance,1.176
+air p,1.0587079877782628
+applications,1.0021816198527407
+appellants,7.701086956521739
+contrary intention,0.8888888888888888
+view,2.441100058469462
+liability,2.532836248924577
+superior court accrues,0.5
+vide,4.454025282767798
+magnum,0.23529411764705882
+clearly-defined limits,0.0
+above averment,0.5
+matters in ca,0.5
+second appeal,4.5
+result,1.3356630184144715
+procedure,2.552771605064117
+rest of the career,0.5
+scope,0.8412698412698413
+laws,1.4186274337269533
+changes in the law,0.30000000000000004
+provision,5.439002243350069
+averment,1.7
+prospective in nature,0.8
+adverse judgment,0.5
+paripoornan,0.5
+respect,2.6704963235294117
+court accrue,0.5
+legislation,3.2032032032032034
+heard,0.782882203033377
+fact,3.6284951019474962
+owner,2.9502416709822197
+mere matter,0.6666666666666666
+amendment in the enactment,0.5
+retrospective operation,2.111111111111111
+new disability,0.0
+duties,1.477142857142857
+kumar,2.028839704896043
+thereto,1.0358342665173572
+such right,0.6951724137931035
+presumption,1.06
+v state of kerala,1.1304347826086956
+owners,1.9409649385675758
+case of shyam sunder v ram kumar,0.5
+interlocutory application,1.7333333333333334
+aforesaid decision,1.15625
+years,2.5395804110508022
+amending,1.0947712418300655
+disabilities,0.8333333333333333
+necessary implication,1.2608695652173914
+actual possession,1.0
+principle,1.9620890732001848
+party,2.2250894654439723
+anything,0.9132309941520469
+substantive rights,1.5
+resettlement,1.157142857142857
+commencement,1.2037037037037035
+the act,5.708327371273712
+land acquisition,14.041666666666666
+subsequent enactment,1.3333333333333333
+forum,1.9016754850088184
+further of the view,1.0
+absence of a clear indication,0.5
+v state,2.4603773584905664
+substantive right of the parties,0.0
+date,6.195616975795285
+interlocutory applications,1.0833333333333333
+step in a series,0.0
+aforesaid decisions,0.9333333333333333
+existence,0.731202675709574
+in nature,0.7593052109181141
+hearing,0.9644508209787979
+respondent,4.757894736842104
+exists,0.6541319337244006
+institution,2.7327010745685443
+position in law,0.8888888888888888
+principles,1.3198511166253102
+vested right,1.6666666666666667
+new right,0.6666666666666666
+v state of maharashtra,1.875
+land acquisition collector,2.1
+approach,1.001908852302553
+scmanu,7.940520446096654
+right of the parties,0.0
+step,0.8867024753460084
+appeals,1.7060218112849692
+determination of the substantive rights,0.5
+intrinsic unity,0.5
+prospective in operation,1.5
+hitendra,0.75
+fair,1.333141121131062
+veeraya,0.5
+fall,1.158018118245391
+similar matters in ca,0.5
+force,1.6009408121948314
+landholders,0.6666666666666666
+learned,3.406323898681099
+suit,2.485274378207659
+legal pursuit,0.5
+proviso,2.112
+law,3.538923411654744
+golden rule,0.30476190476190473
+change,1.2214862766571903
+greater retrospective operation,0.5
+time,2.4764180952862667
+cases,1.9728229418951067
+new disabilities,0.5
+language renders,0.5
+unity,1.163381456815507
+above judgment,1.8461538461538463
+land acquisition act,12.714285714285714
+constitution bench,4.27536231884058
+subbiah,1.0
+to a claim in litigation,0.5
+retrospective effect,4.368421052631579
+following principle,0.6
+date of the filing,0.75
+promoters,1.2142857142857144
+court accrue to the litigant,0.0
+applicable to a claim in litigation,0.5
+duty in respect,1.25
+limit,2.3804570428443834
+assertions,0.5040091638029782
+right,3.07483248288682
+legal position,0.7659574468085106
+view of the law,0.5142857142857143
+constitution bench of this court,1.2647058823529411
+pursuit of a remedy,0.5
+opportunity to the respondents,0.5
+new rights,0.6666666666666666
+substantive right,1.9166666666666667
+absence,1.092363454568179
+counsel,2.2246780703440323
+application,2.3322596088086445
+limits,0.8405888207868406
+liabilities,1.0606060606060608
+fresh legislation,1.0
+india,2.7684068260703585
+implication that all rights,0.5
+right exist,0.5
+judicial proceedings,1.8571428571428572
+following principles,0.6
+vishnu,0.7500000000000001
+institution of the suit,1.5
+intention,1.7585585585585588
+ltd,2.382356477306883
+choudhry,1.0
+duties in respect,1.0
+interlocutory,1.96
+presumption against the retrospective operation,0.5
+decision of this court,2.3260869565217392
+resettlement act,0.6666666666666666
+scc at p,0.8571428571428571
+case,7.332269420884958
+right exists in procedural law,0.5
+period,1.9480170842427122
+scc,1.941872465904902
+objections with regard,0.5
+vested right of the parties,0.0
+constitution,3.204842342342342
+adjudication,1.5392156862745099
+ram,2.11096203538064
+different in the matters,0.5
+necessary intendment,1.4285714285714286
+date of commencement,1.3
+new duty in respect,0.0
+ambit,1.0862754267009587
+garikapati,1.0
+contention,1.666391070690368
+rule of construction,1.1
+rule,5.04
+promulgation of the right,1.0
+rehabilitation,4.416666666666667
+proceedings,1.7670925223666287
+shyam sunder v ram kumar,0.5
+such right exists in procedural law,0.5
+act to acquisition proceedings,0.5
+transparency in land acquisition,1.3333333333333333
+clear indication,0.4266666666666667
+duty,3.2272215973003378
+bench,2.5793391667754992
+period of stay,0.5
+respondents,2.6341263330598856
+leave,1.0147842365477848
+maharashtra,2.9076923076923076
+date of filing,1.0588235294117647
+promoter,1.4999999999999998
+matter in ca,0.0
+applicant,0.7861822513400833
+superior court accrue,0.5
+legal pursuit of a remedy,0.5
+such legislation,0.6666666666666666
+steps,1.169318181818182
+substantive right of parties,0.0
+titled ms magnum promoter,0.5
+garikapati veeraya s,0.5
+substantive rights of the parties,1.0
+reason,2.6381270903010035
+instant case,2.0631578947368423
+earlier decision,1.5454545454545454
+operation,1.0959893294085181
+contrary intention in an amending enactment,0.5
+vested rights,0.6666666666666666
+vol,1.8556860549079708
+position,1.549133168619177
+new duties in respect,0.5
+amending enactment,0.6666666666666666
+extended meaning,0.6666666666666666
+remedy,1.3214024835646458
+action fall,0.5
+construction,2.2504918032786887
+abovesaid sub - section,0.0
+transactions,6.503443526170798
+landholder,0.75
+consideration,1.9110153789142115
+acquisition proceedings in relation,0.5
+above averments,0.5
+procedural in nature,1.5
+abovesaid,1.263157894736842
+air,2.0589664272145285
+new duties,0.5714285714285714
+mere matter of procedure,0.5
+land under section,1.6666666666666667
+sunder,0.5685776805251641
+proceeding,2.1298245614035087
+court accrues to the litigant,0.5
+right of action,0.6666666666666666
+change in the law,0.2777777777777778
+short the act,1.0714285714285714
+land by the land acquisition collector,0.5
+paras,0.7450980392156863
+garikapati v subbiah choudhry manuscmanusc,0.5
+language render,0.30000000000000004
+manuscmanusc,7.940520446096654
+provisions,3.8929824561403508
+years  period,0.0
+above averment of the applicants,0.0
+scope of an amending act,0.5
+lis,3.299683526578166
+vested right of appeal,0.5
+repeal,1.2406417112299464
+acquisition proceedings,2.375
+such right exists,0.5
+compensation by the respondents,0.5
+repeal of an enactment,0.5
+foregoing reasons,1.0714285714285714
+iii,1.5614499719992534
+possession,2.808810857389056
+appellant,14.387096774193548
+obligation,1.1071428571428574
+right of appeal,3.3333333333333335
+instant,1.131578947368421
+xxx xxx xxx,3.176470588235294
+kerala,4.135593220338983
+acquisition proceeding,2.3333333333333335
+state,6.817996007300392
+statute,2.5765859456247218
+shyam,2.0
+manu,7.078142071124147
+rights of parties,1.0
+language,0.8555828468744352
+intendment,1.4375
+court of appeal,0.6133333333333334
+behalf of the respondents,1.3235294117647058
+statutory right,1.2
+ltd v union,1.0
+nature,1.4149926876444778
+in the matters,1.0
+titled ms magnum promoters,0.5
+subbiah choudhry,1.0
+earlier decision of this court,1.1
+computation,1.3021653543307086
+application of the provisions,0.5
+compensation,3.7916666666666665
+implication that all right,0.5
+action,3.127292663476874
+legal proceeding,0.7714285714285716
+effect of amendment,0.5
+indication,0.6940825616072829
+england,0.9336071184120466

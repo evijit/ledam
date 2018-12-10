@@ -1,0 +1,444 @@
+apex,0.8555555555555555
+fine to further undergo simple imprisonment,0.5
+loan of rs,2.8
+offence subject to the averments,1.0
+godfather travel,1.0
+director,1.3549769585253457
+code,2.880559796437659
+sheoratan,1.0
+aforesaid position,0.75
+east,0.8065147296612034
+proof thereof,0.6666666666666666
+mind,1.1559066143122394
+such objection,1.1428571428571428
+bilaspur in criminal revision,1.0
+revision,1.6299226441631505
+terms,2.390350840909655
+inter,3.683850287482992
+sirsida,2.5
+judicial magistrate,2.7857142857142856
+court,12.24425115501509
+behalf of the company,1.875
+cheque of the state bank,0.0
+recent apex judgment,1.6666666666666667
+categories of offenders,1.0
+agreement,3.450434632433366
+compensation of rs,1.4615384615384615
+accused-appellant for offence under section,0.0
+- accused against the judgment,0.0
+objection,1.68120480131216
+person,4.291511329454258
+way,1.7812722068664852
+behalf,1.9888053603529987
+part,5.294464509893076
+high court of chhattisgarh,1.3333333333333333
+east export trading company,1.5
+analysi,0.6883471219855659
+prosecution under section,1.2222222222222223
+district,1.5506763074237984
+funds,3.352010547132498
+sessions,1.3405714285714285
+office bearer,0.6666666666666666
+decision,2.9514937765898557
+obliviou of the fact that the company,0.0
+aforesaid,2.592896174863388
+three - judge bench decision,0.0
+other person,0.9635036496350365
+instrument act,0.5
+situations,0.7435282837967402
+transfer,1.9975047057658015
+appeal,3.4125488033856883
+cv parekh,1.0
+condition precedent,1.7058823529411764
+accused - appellant for the offence,0.0
+default of payment,1.1111111111111112
+defence that the alleged cheque,0.5
+yermal,1.0
+sessions judge,2.9545454545454546
+month,1.3454861111111112
+alia,0.9479866480753792
+cheques,7.85
+behalf of the aforesaid company,0.5
+such ground,0.8333333333333334
+limited,1.3713554955535188
+judgment,3.288216560509554
+fish,0.7708108108108108
+dragnet on the touchstone,1.0
+averments,1.76
+subject,2.4420366233344897
+lakhs,2.046511627906977
+order,5.472481489660944
+own facts,1.125
+patalganga,0.5
+act,12.870263922028107
+aforesaid analysi,1.1666666666666667
+for commission of an offence,1.0
+sheoratan agarwal,1.0
+other category of offenders,0.0
+analysis,0.6606741573033708
+clas,2.1196191893660425
+initio,1.5584425036390104
+conviction of accused - appellants,0.0
+offender,1.3711405166981725
+amount through telegraphic transfer,0.5
+aneeta hada,5.5
+hada s case manu  scmanu  sc,0.0
+crl,0.6431123461691147
+for the offence subject to the averments,1.0
+parties,1.8210828547990157
+appellant stands,1.0
+section,9.287987283173626
+trial court on appreciating,0.5
+much prior to the judgment,1.0
+fishing,0.390625
+condition,2.259476395625584
+judgments,1.2355646397547266
+recent apex judgments,1.6666666666666667
+penal in nature,1.2
+to the case,0.776936026936027
+place,2.333104345208554
+next fishing season,0.5
+civil,2.126558634963905
+finding,1.8129183657767178
+court karnataka,0.5
+present case,1.5611814345991561
+learned counsel for the appellants,1.7142857142857142
+class,2.1508512849922936
+adiwasi,2.5
+cheques of the state bank,0.5
+travels,1.2929292929292928
+facts,1.4696673624372698
+para,2.300239586747483
+- during the next fishing season,0.0
+basi,2.0752712086391383
+respectability,0.4347826086956522
+days,1.6721350893491447
+fine,1.3204039558531748
+cheque of rs,0.5
+session,2.2400874351067563
+doctrine,0.7455954017243533
+offences by the company,1.0
+conviction,2.248165832071736
+basis,1.953226441078104
+construction of the provision,1.3333333333333333
+president,2.1267129228100607
+criminal appeal,2.5675675675675675
+state bank,7.0
+magistrate,3.522077922077922
+view of the aforesaid position,0.5
+company,5.864471879286695
+doctrine of strict construction,1.0
+undergo simple imprisonment,1.0
+parekh,1.6666666666666667
+ajith,0.5
+ground,1.4186722903211633
+uduppi,0.5
+strict construction of the provision,1.0
+appellant-accused against the judgment,0.0
+view of law,1.0
+irresistible conclusion,1.1428571428571428
+impugned judgment,2.0927152317880795
+agarwal,7.8125
+criminal revision,2.0
+cheques of rs,0.5
+lakh to the corporation bank,0.0
+proof,1.0648141580366008
+loan,2.299059561128527
+bearing,0.7901184156798694
+first clas,0.78125
+criminal,3.301971081989414
+term,3.6255105640901575
+behalf of the appellant,1.4878048780487805
+dragnet,0.6666666666666666
+appellants,7.701086956521739
+view,2.441100058469462
+liability,2.532836248924577
+post,2.344803646492219
+bilaspur,1.2
+opinion,1.4960606342789635
+relief,1.4748116760828625
+accused - appellant,0.0
+star,0.8866002844950213
+other categories,1.4285714285714286
+travel,1.0699727250185966
+thirty day,1.4871794871794872
+yft,0.18269230769230768
+procedure,2.552771605064117
+lakhs to the corporation bank,0.5
+decision in anil hada,1.0
+notice under section,2.769230769230769
+defence,1.3606588776096535
+part of the company,1.0
+secretary,0.9217877094972067
+provision,5.439002243350069
+jmfc,0.4444444444444444
+averment,1.7
+telegraphic transfer,0.5
+other category,0.4444444444444444
+first class,0.78125
+applicable to the case,1.0909090909090908
+respect,2.6704963235294117
+appellant against the judgment,0.5
+business,2.8512056385864457
+first,1.9006367208168047
+joint cheque of rs,0.0
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+godfather travels,1.0
+raigad,2.25
+prior to the judgment,1.0
+apex judgments,1.6666666666666667
+anr,1.1271033322299457
+term of the agreement,0.0
+accounts,2.7564363143631434
+manu  scmanu  sc,0.0
+partner of a concern,0.5
+criminal procedure,6.406779661016949
+aforesaid company,0.6666666666666666
+own respectability,1.0
+final statement,0.5
+stand,1.8422769621739425
+impugned order,2.265957446808511
+statement of accounts,1.25
+bangalore,1.2
+end of fishing season,0.5
+machua,2.5
+thirty days,1.4871794871794872
+qualifier,0.5
+hada,1.6890995260663506
+office bearer of the adiwasi machua samiti,0.0
+other categories of offenders,1.0
+code of criminal procedure,6.120689655172414
+hada s case,0.0
+offence subject,1.0
+party,2.2250894654439723
+mandatory provision,1.5454545454545454
+accused - appellants,0.0
+express condition precedent,1.0
+vicarious liability of others,1.0
+udupi,1.0
+negotiable instruments act,1.7142857142857142
+absence of any payment,0.5
+absence of the adiwasi machua samiti,0.5
+fishing season,1.0
+instruments,0.8428470754052149
+joint cheques of rs,0.5
+imprisonment till,0.5
+fishes,0.2456140350877193
+opinion that commission,1.0
+case manuscmanusc,3.3684210526315788
+offence,4.401610644257703
+in nature,0.7593052109181141
+bank,9.40770083102493
+respondent,4.757894736842104
+default,0.7094574436346588
+day,1.550999710228919
+question,2.980312372067635
+court of chhattisgarh,1.3333333333333333
+own fact,0.5761904761904763
+commission of an offence,1.1428571428571428
+high court karnataka,0.5
+much prior,0.75
+scmanu,7.940520446096654
+word,2.065873981084096
+joint cheques,0.5
+appellant stand,1.0
+months,1.1938163721148947
+amount,3.179688593072295
+accused-appellant,0.0
+statement,2.5393160135035964
+amount of cheque,0.6666666666666666
+rcr,0.737782640408461
+behalf of the respondent,1.453125
+name,1.8996570753072433
+joint cheque,0.5
+complainant before the trial court,0.5
+accused-appellants,0.0
+part of the sentence,0.45000000000000007
+high,5.367119186841496
+payment,2.059553716565686
+account,2.5754891049671977
+gupta,0.7610062893081762
+offence by the company,1.0
+office bearers,0.6666666666666666
+learned,3.406323898681099
+appellate court,3.1458333333333335
+balance,0.9863636363636363
+utter violation of mandatory provisions,0.5
+karnataka,3.8596491228070176
+law,3.538923411654744
+trial court,3.854545454545455
+time,2.4764180952862667
+cases,1.9728229418951067
+aneeta hada s case manuscmanusc,0.0
+registered post,0.5333333333333333
+liability of others,1.0
+modi distillery,1.0
+company tim tim,0.5
+anil hada,1.0
+dhamtari,0.5
+hereinabove,1.911764705882353
+export trading company,1.5
+stands,0.7032366540563262
+violation of mandatory provisions,0.6666666666666666
+complaint,2.734525785235724
+court of karnataka,1.826086956521739
+fine of rs,1.6
+hereinafter,0.7670609645131939
+prosecution,4.619407894736842
+of the fact that the company,1.0
+far,1.6071914070726991
+balse,0.5
+tours,0.7153846153846154
+high court of karnataka,1.826086956521739
+offences,1.6681887366818873
+judgment in aneeta hada,1.5
+imprisonment,1.4344262295081966
+to further undergo simple imprisonment,0.5
+absence,1.092363454568179
+counsel,2.2246780703440323
+india,2.7684068260703585
+yermal fish trading,1.0
+simple imprisonment,1.3
+commission,4.703619179345321
+cheque,6.749999999999999
+arraigning,1.0
+dispute,2.402137592137592
+bangalore in criminal revision petition,0.5
+director of tim tim,1.0
+evidence,3.6676405172088815
+instruments act,1.7142857142857142
+category of offenders,0.0
+decision of this court,2.3260869565217392
+aforesaid analysis,1.1666666666666667
+corporate reputation,1.0
+adiwasi machua samiti,2.5
+case,7.332269420884958
+corporation bank,0.5
+scc,1.941872465904902
+criminal revision petition,1.0
+anil gupta v star india,1.0
+alleged cheque,0.5
+mind that section,1.0
+gutter rani fish,0.5
+cheque on behalf,0.5
+special leave petitionappeal,1.0
+balance amount of rs,0.5
+further undergo simple imprisonment,0.5
+simple,0.723903126997069
+mandatory provisions,1.375
+end,6.1484001628618765
+inter alia,1.3280423280423281
+respect of cases,1.0
+bench,2.5793391667754992
+district dhamtari,0.5
+other persons,0.6111111111111112
+violation,1.2087401208740118
+office,3.5913445886237847
+tim,2.875609765267787
+leave,1.0147842365477848
+maharashtra,2.9076923076923076
+slp,1.291953447628582
+offence under section,2.6
+modi,1.248798010500138
+notice,2.3300025999395686
+fact that the company,1.0
+touchstone,1.1538461538461537
+sentence,2.3896654193264366
+secretary of adiwasi machua samiti,0.5
+private,1.3048022500781278
+liable for the offence subject to the averments,1.0
+season,0.5076762037683182
+terms of the agreement,1.3333333333333333
+lakh,1.3647388059701493
+basi of the ratio,0.0
+basis of the ratio,1.0
+district uduppi,0.5
+position,1.549133168619177
+petition,5.3436539306104525
+category,1.9351744779266717
+construction,2.2504918032786887
+accused whereas the respondent,0.5
+negotiable instrument act,0.5
+oblivious of the fact that the company,1.0
+fund,2.9945256868353374
+court karnataka in criminal revision petition,0.5
+words,1.6384367086179112
+chhattisgarh,1.75
+gutter,0.2619047619047619
+distillery,9.4
+aneeta hada s case,0.0
+others,0.9074667328904616
+accused - ajith balse,0.0
+sentence for imprisonment till,0.5
+fax,0.630097616570041
+anil,1.1751552795031055
+behalf cheque,0.5
+order of conviction,1.3
+apex judgment,1.6666666666666667
+trading,1.4943609022556392
+managing,1.4126463700234193
+utter violation,0.6666666666666666
+judge,2.9012627415183325
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+decision in modi distillery,1.0
+strict construction,2.142857142857143
+corporation,3.6427750743444176
+leave petition  appeal,0.0
+conclusion,1.3883437407077015
+ratio,5.027061939235792
+court in anil gupta v star india,0.5
+security,1.5014864864864865
+partner,4.163434903047091
+warrant,0.611066164387025
+samiti,2.6666666666666665
+udupi in criminal appeal,0.5
+negotiable,0.9493670886075949
+prosecution against the appellant,0.6666666666666666
+high court karnataka in criminal revision petition,0.5
+busines,2.8488759960122034
+office president,0.6666666666666666
+appellant,14.387096774193548
+raigad district,0.5
+export,2.527777777777778
+appreciating,0.7548387096774194
+liable for commission of an offence,1.0
+high court,7.7477477477477485
+complainant,4.538461538461538
+state,6.817996007300392
+legal notice,1.25
+encashment,1.9090909090909092
+trial,3.7979448350459712
+bearer,0.75
+offenders,0.9550387596899225
+tour,1.6081277213352687
+juristic person,1.0
+prior,1.1843036382221124
+manu,7.078142071124147
+vicarious liability,2.75
+concern,2.0544958000579303
+decision in aneeta hada,1.5
+balance amount,1.1428571428571428
+revision petition,2.6363636363636362
+reputation,0.7215189873417721
+scale,2.0845464725643894
+cheque in question,0.5
+nature,1.4149926876444778
+security of loan,0.5
+endorsement,0.8138461538461539
+categories,0.8800000000000001
+concavity,1.0
+aneeta,5.5
+bearers,1.0
+tim tim,0.7777777777777778
+situation,1.1254754682459434
+compensation,3.7916666666666665
+precedent,0.8982341399607586
+raj,1.3364194424876723
+office bearers of the adiwasi machua samiti,0.5
+instrument,1.493863846866317
+godfather,0.44999999999999996
+fish trading,1.0
+persons,2.5993381990166555
+debt,3.4485322896281807

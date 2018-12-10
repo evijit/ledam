@@ -1,0 +1,1385 @@
+government,3.5583785424010483
+warning shot in the air,0.5
+hardayal,0.5
+broken hut of talwara camp,0.0
+member of the jammu,0.0
+cartridges,0.7719298245614036
+vidhywati,0.5
+jammu province,0.5
+unruly groups,0.5
+face of no other option,0.5
+state of jammu,3.3636363636363638
+rise,1.6238941915958565
+facilities,0.9130594727161252
+police indulges,0.5
+publicprivate property,0.5
+cause,1.8431210321626654
+higher authorities,0.4444444444444444
+spite of such orders,0.5
+facility,1.2989690721649485
+challenges,0.39999999999999997
+scenario,0.4835164835164836
+district,1.5506763074237984
+aforesaid,2.592896174863388
+administration at sula park,0.5
+sign,1.8302826558145708
+weapon,1.0217176079034398
+breach,1.3366228070175439
+scr,2.483838975311538
+chief minister,1.5714285714285714
+citizens of this country,0.4
+firearm,0.5510907003444316
+further directions,0.9090909090909091
+agitated protestors,1.0
+month,1.3454861111111112
+wherein,1.0724137931034483
+demand of various sections,0.0
+reasi,0.7424834380839137
+activist,0.4822834645669291
+order,5.472481489660944
+prerequisite,0.8039867109634551
+dialogues,0.30000000000000004
+subject to reasonable restrictions in the interest,0.5
+blow,1.6904715887127946
+smt,0.7459757206267715
+many time,0.4133064516129032
+medical,1.633306645316253
+public rally,0.5
+barbaric manner,0.5
+version of the petitioners,0.5
+prime minister,2.0444743935309972
+copy,0.8620926631522174
+affected persons,1.1111111111111112
+counsel for the parties,1.263157894736842
+reasonable police force,0.5
+member,2.649111111111111
+option,1.002339493011135
+ammunition,0.33439490445859876
+reasonable restrictions in the interest,0.5
+parties,1.8210828547990157
+orissa,2.3125
+executive magistrate tehsildar,0.5
+meeting,1.5978547625659538
+version,1.0500313479623824
+force by the police,0.5
+condition,2.259476395625584
+balni,0.5
+speech,1.9520676691729324
+migrants of the state,0.5
+response to the various averments,0.5
+serious injury,0.4
+vishnu devi yatris,0.5
+present case,1.5611814345991561
+non-violent protest march,0.0
+senior - most police officer,0.0
+demonstrators,1.0
+proces,1.627944583238701
+right of the people,0.171875
+udhampur,0.5
+space,0.49637233360798316
+police officials,2.5714285714285716
+deftnes,0.5
+powers,1.876345371920593
+wide array,0.5
+relief measure,2.5
+guarantees,1.567496723460026
+haryana high court in karam singh v hardayal singh manuphmanuph,0.5
+detail background,0.5
+broken huts,0.5
+events,0.6160483175150993
+charge,2.7679815308681284
+model rules,0.5
+country,1.2903191103863751
+aforesaid rights,0.5
+police misconduct,1.0
+respective stands,0.5
+complaints,0.9978858350951374
+child,3.0202810640613067
+utmost care,1.0
+public anger against the polouse,0.0
+sufficient training,0.5
+further direction,1.2380952380952381
+public nuisances,0.5
+police custody,2.0
+present matter,0.9090909090909091
+official version,0.26666666666666666
+form of statutory provisions,0.5
+facility of water,0.0
+spite,0.8919640378414163
+social issue,0.2571428571428572
+provinces,0.49769585253456217
+demonstration,0.8202247191011236
+protest procession in the land,0.5
+recovery,3.9892473118279574
+particular areas,0.5
+model,0.8245519713261649
+state authorities,1.5714285714285714
+various averment,0.5
+first,1.9006367208168047
+unruly group,0.5
+vehicle,2.973111766564837
+cause of the jammu migrants,0.5
+anr,1.1271033322299457
+deputy,1.1595268542199488
+such right,0.6951724137931035
+prayers as aforesaid,0.5
+continuation of public nuisances,0.5
+reasi - pouni road,0.0
+dharnas,1.0
+threatening part of the crowd,0.5
+disturbance of the public peace,0.5
+doubt,1.3646267723102583
+bar,1.4720990391722097
+affidavit,2.2996987951807224
+stones on the police personnel,1.0
+instance of higher authorities,0.5
+accurate diary,0.5
+report,1.7768151696835826
+code of criminal procedure,6.120689655172414
+principle,1.9620890732001848
+restrictions on such right,0.5
+stock of the situation,0.5
+pursuant to the directions,0.875
+such magistrate considers,0.5
+yatris,0.5
+mob,2.1204545454545456
+positions,0.6913299663299662
+offer,2.188208616780045
+headquarters,0.5345622119815667
+sula,0.5035765379113019
+rights initiative,0.5
+towards balni bridge,0.5
+valuable aspect of political life,0.5
+respondent,4.757894736842104
+such magistrate consider,0.5
+several police women,0.5
+unlawful crowd,0.5
+call in a language understood,0.5
+peaceful protest march,1.0
+approach,1.001908852302553
+increase,1.3270102600811262
+order for the use,0.5
+third petitioner,0.5
+immobile,0.38095238095238093
+protestors  mob,0.0
+supreme court,1.4278957326045825
+action against the erring official,0.5
+precedents,0.6333333333333333
+rajasthan,3.9215686274509802
+free movement,0.3636363636363636
+activists,0.37999999999999995
+high,5.367119186841496
+rise to a liability,0.5
+karam,2.190981432360743
+assault,1.0656614201609997
+event,1.4310854436179261
+human right,1.1211406518010292
+same treatment,0.4
+tirade,0.24000000000000005
+public anger against the police,0.5
+general of police conference,0.5
+- partisan international non - governmental organisation,0.0
+nos,1.2635492554198444
+police manual,2.0
+allegation,1.834319526627219
+homes,0.6853146853146853
+various document in the form,0.0
+stands,0.7032366540563262
+individual report,0.5
+reasonable restriction,0.7
+protests,0.6376811594202898
+executive,1.3789130780232004
+hereinafter,0.7670609645131939
+unruly crowd,1.0
+march,1.0644238856181665
+police women,0.5
+magistrate considers,0.5
+exces,0.9881465517241379
+vishnu devi yatri,0.5
+milk packet for infants,0.0
+reasonable restriction in the interest,0.5
+commission,4.703619179345321
+temple,3.095996786718436
+leaders of the panther,0.5
+upto delhi,0.5
+various section,0.6666666666666666
+zone,1.373358348968105
+array of powers,0.5
+common tear-smoke,0.0
+aspect of political life,0.5
+new,0.9418497626301229
+general remark about the manner,0.0
+kashmir migrant,0.5
+grievances through direct action,0.5
+document,1.401100265092073
+threat,1.0459885867740852
+right of the petitioners,0.6666666666666666
+negotiation,0.6679035250463822
+weapon in the struggle,0.5
+lathi charge,3.3333333333333335
+safe distance,0.5
+jural anathema,0.5
+high officials,0.6000000000000001
+the lathi blows,0.5
+sovereign immunity,0.5
+discussions,0.6699766355140188
+singh,3.7791111111111113
+joginder,7.333333333333333
+agencies,0.9094581337642103
+arrear,1.4666666666666666
+view of the terrorist attacks,0.5
+such demonstration,0.5
+rule,5.04
+force  use of force,0.0
+political issues,0.2777777777777778
+serious problem,0.37142857142857144
+high court of jammu,1.6666666666666667
+respondents,2.6341263330598856
+anathema,0.28571428571428575
+petitioners  protestors,0.0
+lathis,3.0
+towards katra,0.5
+process,1.6274942048088725
+ashok,0.4374740340673037
+political life,0.5
+other than kashmiri migrants,0.5
+memorandum to the deputy commissioner,0.5
+manuphmanuph,1.0
+affected person,1.1
+status,1.14824388424026
+nilabati,0.6666666666666666
+power,3.8165227690948367
+recent happenings,0.5
+woman,1.316528681253696
+fundamental rights violation,0.5
+pouni,0.3333333333333333
+jammu migrants,1.0
+such as brutality,0.5
+reasonable doubt about the restoration,0.5
+whistle,0.32558139534883723
+petitioners under article,1.0
+position,1.549133168619177
+extent of force,1.0
+last resort if tear smoke,0.5
+one,4.845669314438648
+marcher with lathis,0.0
+petition,5.3436539306104525
+casualties,0.25468164794007486
+remedy,1.3214024835646458
+processions,0.4
+teargas,0.22641509433962267
+cartridge,0.6926229508196721
+interim bail,0.6666666666666666
+international covenant,0.5238095238095238
+common ground,0.5454545454545454
+class divisions,0.5
+commissioner,2.271608643457383
+practicable  the lathi blow,0.0
+protest marchers,0.5
+that the agitated protestor,0.5
+high official,0.5714285714285714
+procedure empowers,0.8
+police headquarters,0.3333333333333333
+misconduct,1.2976744186046512
+family,1.856281506375408
+model rule on the use,0.0
+time of occurrence,1.375
+regional language,0.6666666666666666
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+step - by - step procedure,0.0
+offices in london,0.5
+respondent state,1.0
+strategic position,0.2857142857142857
+disturbance of the public tranquility,0.5
+use of police force,0.5
+aforesaid order,1.2857142857142858
+mind that the aforesaid rights,0.5
+reasonable force,1.6666666666666667
+order use of force,0.5
+strategic positions,0.5
+obstruction,0.47058823529411764
+erring officials,0.5
+protestors,1.5
+joginder kaur v the punjab state,0.5
+social issues,0.2571428571428572
+pursuant,0.7227692307692308
+resulted injury,0.0
+national,1.5126860273884035
+smoke,0.6063618290258449
+non-partisan international non-governmental organisation,0.0
+occasion,0.7946745562130177
+unfired cartridges,0.5
+cash,1.4775207900207898
+such powers,1.0833333333333333
+possession,2.808810857389056
+supreme,1.443815331010453
+spite of the aforesaid order,0.5
+distinguishing feature,0.75
+police try,0.0
+suggestion,1.2425592585991803
+- in view of the terrorist attacks,0.0
+official,2.6854955160358718
+dignity,0.5529953917050692
+political issue,0.2647058823529412
+general,1.7536558414534391
+ghana,0.2727272727272727
+to the directions,1.0769230769230769
+such persons,0.7516339869281046
+language,0.8555828468744352
+law enforcing agencies,0.6666666666666666
+protestor,1.5
+eloquent statement,0.3333333333333333
+resulted injury on police officers,0.0
+nature,1.4149926876444778
+respondent no,5.395833333333333
+petitioners,3.536507936507937
+route,1.1635049683830172
+precedent,0.8982341399607586
+police woman,0.0
+coverage,0.4867549668874172
+month at par,0.0
+action,3.127292663476874
+kashmir,2.6608187134502925
+protest march,2.5
+lalita,2.3333333333333335
+mr jhalmeria,0.5
+criminal assault,0.5
+wide array of powers,0.5
+police officers,0.8421610169491526
+other hand,0.6931925622439332
+sula park,0.5
+sections,1.640495469442838
+police tries,0.5
+instance,0.9469803370786518
+inter,3.683850287482992
+task with utmost care,0.5
+legal provisions,0.875
+court,12.24425115501509
+such magistrate considers that such direction,0.5
+that slp,0.6666666666666666
+training,2.5456213222568365
+mr ashok sharma,0.5
+tear-smoke,0.0
+person,4.291511329454258
+portion of the body,0.0
+bail,2.0427807486631013
+immunity,0.44999999999999996
+conspectus,0.525
+armed force,0.7105263157894737
+relevant quarters,0.5
+case of fundamental rights violation,0.0
+protest against the aforesaid criminal assault on petitioner,0.5
+nothing,0.8658723322806009
+stone on the police personnels,0.0
+inspectors,2.8965517241379306
+number,1.4802651440973922
+integrity of india,0.5
+appendage of indian democracy,0.5
+decision,2.9514937765898557
+hands,1.1725490196078434
+competent authority,2.7142857142857144
+separatist groups,0.5
+totality,0.6293706293706293
+months at par,0.5
+fundamental freedom,0.26515151515151514
+harassment,1.5747368421052634
+aforesaid term,0.8333333333333334
+peaceful protest march from talwara towards jammu,0.5
+happening,0.5143528183716076
+orderly manner,0.5
+talwara migrants,0.5
+relief commissioner,2.0
+lakhs,2.046511627906977
+injury,1.7199352451433856
+act,12.870263922028107
+clas,2.1196191893660425
+happenings,0.35000000000000003
+rajasthan v mst,0.5
+person from the mob,0.0
+crl,0.6431123461691147
+suitable warning,0.5
+nuisance,1.2280701754385965
+complaint by migrants,0.0
+covenants,0.5
+section,9.287987283173626
+saheli,0.3333333333333333
+incident,1.8609485257918057
+water,0.9741079360379036
+anger against the police,0.5
+standard,1.4669008088548319
+criminal action against the erring official,0.5
+aid committee,1.0
+general secretary,1.3333333333333333
+officers,2.442124212421242
+finding,1.8129183657767178
+danger,0.8066378066378066
+demonstrations,0.9090909090909091
+direction,1.8495050210098996
+agency,1.8968779259354924
+rights,1.6349541930937281
+covenant,0.4662698412698413
+fundamental rights,2.1587301587301586
+fire,1.1391892447477696
+riot,0.5756643356643357
+form,2.4865961263718424
+remarks about the manner,0.5
+number of fired cartridges,0.5
+lack,0.6349809734425119
+such orders,0.823529411764706
+home,0.9826663267907214
+benefit,2.604810195438474
+jammu migrant,1.0
+women,1.162387410705042
+such protestor,0.5
+contempt,1.5446913580246913
+tehsildar,2.4
+milk packet,0.5
+public order,1.6666666666666667
+tranquility,0.7259259259259259
+offer of relief,0.0
+other than kashmiri migrant,0.5
+assemblies,0.8571428571428571
+video of the incident,0.5
+groups,0.9065945998117897
+freedom,1.9254884143571103
+bridge that the migrant,0.5
+present petition,1.5
+border,0.40498938428874737
+balance of unfired cartridges,0.5
+excess,0.9860601614086574
+specified manner,0.75
+matter,2.8088923076923082
+chri,1.2665777130842633
+divisions,0.6527093596059114
+melee,0.3589743589743589
+first clas,0.78125
+aid,5.498621453008654
+liability,2.532836248924577
+right in the constitution,0.5
+unlawful assembly,3.625
+various migrant,0.5
+police personnel,1.6666666666666667
+police personnels,0.5
+medical report,0.5333333333333333
+cash relief,1.0
+offers of relief,0.5
+public tranquility,0.6666666666666666
+procedure,2.552771605064117
+such circumstances,0.5729166666666666
+polouse,0.0
+provision,5.439002243350069
+support,0.8630946786249609
+key weapon in the struggle,0.5
+first class,0.78125
+magistrate tehsildar,0.5
+relief measures,2.5
+public assemblies,0.5
+tradition,0.4745794745794746
+collarbone,0.3333333333333333
+elaboration that a distinguishing feature,0.5
+serwad,1.0
+criminal procedure,6.406779661016949
+object,1.4940119760479043
+demand,1.5671679197994988
+strategic positions alongside the road,0.5
+superintendent of police,2.1153846153846154
+extent,1.410108024691358
+times,0.8987140267391797
+real migrants,0.5
+joginder kaur,0.5
+aim,2.7822546950944274
+kashmir panthers party whereas petitioner,0.5
+copies,0.5369304682962884
+slogan,1.0303030303030303
+arms,1.2384993436918101
+milk,0.6049723756906078
+delhi,2.6089285714285717
+tort law,0.3333333333333333
+issues,1.1246716508385532
+most miserable conditions,0.5
+lapse on the part,0.5
+office in london,0.0
+medical aid till,0.5
+government hospital,0.8888888888888888
+public peace,0.3333333333333333
+soft portions,0.5
+feature,0.6446262956901254
+police station,1.40045766590389
+writ,2.8882378560889794
+wherein notice,0.5
+months,1.1938163721148947
+assembly,2.613006617038875
+police officer in - charge,0.0
+numerous instances,0.5
+police indulge in excesses,0.0
+competent officer,1.0
+as brutality,0.5
+police contingent,0.6666666666666666
+custody,1.4166666666666667
+civilian,0.3753646677471637
+new demand,0.3333333333333333
+various averments,0.5
+clear from the above,0.875
+head,1.5827778446537666
+cases,1.9728229418951067
+division,1.7657319129617017
+police control zone,0.5
+group,1.691932599016908
+lapses,0.5761316872427984
+power to the state,1.3333333333333333
+reasonable restriction on such right,0.0
+bhanot,0.5
+firearms,0.4620637329286798
+type of force,0.5
+provisions of indian penal code,0.75
+demands of various sections,0.5
+packets,0.8185483870967741
+statutory provision,1.1638418079096045
+assembly with the object,0.5
+entire traffic,0.5
+that a violation of fundamental rights,0.5
+senior journalist,0.5
+limits,0.8405888207868406
+india,2.7684068260703585
+danger to life,1.0
+teargas shells,0.5
+lathi,5.0
+magistrate consider,0.5
+right of free movement,0.5
+other jammu migrants,0.5
+trend,0.48390519985850716
+pil,0.8227750138197899
+association,1.2099052684061826
+same treatment as migrant,0.5
+indian democracy,0.5
+ratio of these precedents,0.5
+rupee,2.2291666666666665
+threat to the rule,0.6666666666666666
+kashmir migrants,0.5
+numerous instance,0.5
+real migrant,0.5
+record in the form,0.6666666666666666
+haryana high court,2.1538461538461537
+food,1.1292356927710843
+limits of law,0.5
+guarantees that all citizens,0.5
+policemen,0.8387096774193549
+scc,1.941872465904902
+petitioners within a period,0.5
+portion,1.0756311179804223
+harassment by the police,0.5
+unnecessary force,1.0
+peaceful march,1.5
+center,0.9521598338119387
+human dignity,0.5714285714285714
+reasonable restrictions,0.6015037593984962
+talwara,1.5
+aforesaid conspectus,0.5
+infant,0.4715127701375246
+than kashmiri migrant,0.5
+resources,0.9331054687500001
+serious threat,0.25
+grievances,0.9324324324324326
+police indulges in excesses,0.5
+phc,0.3025751072961373
+scene of disturbance,0.5
+incidents,0.8645320197044336
+short of katra town,0.5
+entire traffic on stand,0.5
+tear smoke,1.0
+supp,1.7223856594132256
+standard of proof,1.0
+use of tear smoke,0.5
+special training,0.3333333333333333
+complaints by migrants,0.5
+scene,0.7999999999999999
+continuation,0.5723370429252783
+ghar,0.695906432748538
+writ petition,6.24223602484472
+petitioner nos,1.0
+shell,0.39773721715214405
+matter in the aforesaid conspectus,0.5
+limit of law,0.0
+doda,0.4129032258064516
+katra,1.9999999999999998
+kashmiri migrant,1.3333333333333333
+subject to the principle of minimum use,0.5
+various orders,1.0
+orders that these demonstrator,0.5
+mass demonstration,0.3333333333333333
+challenge,1.2204566274399267
+authority,2.4352627108360636
+commonwealth countries,0.5
+death,2.361592909460208
+erring official,0.5
+relief measures to such persons,0.5
+commonwealth,0.49230769230769234
+cherished,0.37037037037037035
+flag,0.4716981132075472
+face,0.7281253260594137
+ratio,5.027061939235792
+unruly mob,0.5
+milk packets for infants,0.5
+third,1.0303422515142742
+background,0.6800452488687784
+media,0.8814292604879884
+time of hearing,1.0
+task,0.5643819334389858
+panthers,0.4714285714285715
+iii,1.5614499719992534
+demonstration in order,0.5
+certain order,0.6666666666666666
+marchers,0.5384615384615384
+kerala,4.135593220338983
+state,6.817996007300392
+democracy,1.3769338959212376
+chance,0.7937084625609215
+bridge,1.1911260881774781
+mandating,0.46296296296296297
+panther,0.3829787234042553
+human rights commission,1.0
+discussion,0.7445831166579996
+such power,0.8907563025210085
+results in violation,0.5
+warning shot,0.3333333333333333
+punjab state,0.6666666666666666
+general remark,0.3333333333333333
+positive action,0.5
+safety,1.5344583560152423
+migrant of the state,0.0
+kind,0.9236881920088026
+public right,0.5925925925925926
+unlawful assembly with the object,0.5
+treatment as migrant,0.5
+law enforcing agency,0.5
+nilabati behera  lalita behera,0.0
+persons,2.5993381990166555
+implementation,1.2465707594513213
+relief measure since march,0.0
+children,1.3787369914853358
+siege,0.19444444444444448
+power under article,1.28
+contempt petition,2.0714285714285716
+migrant status,0.5
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+distance from a dangerous crowd,0.5
+statutory provisions,1.6764705882352942
+failure,0.7827962142086977
+interest,2.74353772015385
+other jammu migrant,0.5
+various sections,0.6666666666666666
+jammu provinces,0.5
+state of rajasthan v mst,0.5
+secretary of the jammu,0.5
+unlawful crowds,0.5
+which show cause notice,0.5
+hooliganism,0.5
+that human rights activist,0.3333333333333333
+minimum use,0.6666666666666666
+articles,1.4349688743466387
+agitated protestor,1.0
+precision,0.4568965517241379
+appeal,3.4125488033856883
+than kashmiri migrants,0.5
+protest processions,0.5
+karam singh v hardayal singh manuphmanuph,0.5
+restriction on such right,0.0
+area,2.675167256985439
+that human rights activists,0.3333333333333333
+alia,0.9479866480753792
+more person,1.2000000000000002
+injured migrant,1.0
+upto,0.7713804853723404
+such public assemblies,0.5
+legal aid committee,0.5
+park,1.1480541455160744
+fired cartridge,1.0
+averments,1.76
+infants,0.21428571428571427
+reasi - pouni road near baradari,0.0
+peace,1.1022222222222222
+view of the averments,0.5
+pecuniary compensation,0.5
+aghar jitto temple,0.5
+individual police officers,0.5
+citizen,1.261748909029876
+such demonstrations,0.5
+restriction in the interest,0.5
+manner,1.4494591333432125
+fundamental right in the constitution,0.5
+traffic,1.1556250000000001
+violent demonstrations,0.5
+certain act,0.3826086956521739
+doctrine of sovereign immunity,0.5
+hut of talwara camp,0.0
+the lathi blow,0.5
+sp katra,0.5
+college,2.1498947162234954
+kms,0.7913793103448276
+ms nalini bhanot,0.5
+separatist group,0.5
+firing over the heads,0.5
+circumstance,1.429931390219372
+investigation,1.6673076923076922
+thakur,1.6
+legal powers,0.6666666666666666
+class,2.1508512849922936
+pragmatic approach,0.30000000000000004
+special investigation,1.0
+sho,3.354516605502135
+public nuisance,1.0
+occurrence,2.1343873517786562
+agitation,0.6666666666666666
+minister,1.218958818958819
+violence,1.524896265560166
+tear,0.8011363636363636
+crowd,2.06340718105424
+resources center,0.4444444444444444
+benefits,2.0896027049873203
+migrants  peaceful march,0.0
+v commissioner of police,0.6666666666666666
+days,1.6721350893491447
+hospital  police officers,0.0
+medical hospital,0.5
+doctrine,0.7455954017243533
+prayers,0.6104336043360433
+medical aid for the injured migrants,0.5
+varied kinds,0.5
+directions,1.5134125183504605
+attacks,0.65565749235474
+women s resources center,0.0
+other option,0.4602272727272727
+kaur,0.5
+annoyance,0.5
+magistrate,3.522077922077922
+hence,1.1440732910500353
+officer,3.1197242647058823
+force  use,0.0
+order use,0.30000000000000004
+citizens,1.0493208639501226
+resort,0.7319355397678043
+migrant,3.5142857142857142
+marchers with lathis,0.5
+kinds of protests,0.5
+proof,1.0648141580366008
+government failure,0.3333333333333333
+hospital,1.3942768854411434
+to reasonable restriction in the interest,0.0
+demonstrator,0.9629629629629631
+realisation,2.1538461538461537
+milk packets,0.5
+criminal,3.301971081989414
+police authorities,0.5714285714285714
+term,3.6255105640901575
+voice,0.9012531328320803
+violation of this court,0.5
+view,2.441100058469462
+unfired cartridge,0.5
+direct action,0.6666666666666666
+relief,1.4748116760828625
+remarks,0.4772727272727273
+aforesaid conspectu,0.5
+penal code,2.710144927536232
+use,5.06801278974993
+media coverage,0.2777777777777778
+of misconduct,1.3333333333333333
+protest procession,1.0
+countries,0.72236958443855
+result,1.3356630184144715
+officials,1.3691666666666666
+record,2.5393414390845273
+defence,1.3606588776096535
+right of speech,1.6666666666666667
+border migrant,0.5
+practical realisation,0.5
+secretary,0.9217877094972067
+that place,0.33
+averment,1.7
+such circumstance,0.5723905723905723
+amarnath,0.6666666666666666
+rally,0.8268001540238737
+such direction,1.375
+peaceful protest procession,1.0
+torture,0.6886137118695258
+clear that the agitated protestor,0.5
+resulted injuries on police officers,0.5
+jhalmeria,0.5
+attack on these petitioners,0.5
+chief,1.9429638234317954
+migrants that the competent authority,0.5
+hour,1.1326135248230613
+crowds,0.5
+human life,0.5567901234567901
+police headquarter,0.3333333333333333
+demands,0.7474201474201474
+diary,0.986533041027247
+clear warning,0.5
+powers to the state,0.5
+soft portion of the body,0.0
+cases of fundamental rights violation,0.5
+necessity,0.7072538860103627
+aforesaid criminal assault,0.5
+task of the police,0.5
+accurate diary of all incidents,0.5
+video,3.6701816570669035
+exercise,1.9400726466785694
+recovery of affected persons,0.5
+judicial,2.8688059701492543
+non-violent protest marches,0.0
+party,2.2250894654439723
+medical reports,0.75
+concerned authority,1.0
+crowd show signs,0.5
+police manuals,0.5
+contact,0.771807140228193
+legitimate dissent,0.5
+proportional to the situation,0.5
+rights violation,0.2929292929292929
+grievance,1.032529659395331
+peaceful demonstration,0.30000000000000004
+result in violation,0.6666666666666666
+v state,2.4603773584905664
+offices,0.6871508379888269
+administration,1.061072796934866
+officials of the state,0.6666666666666666
+society,2.1182859399684046
+possibility that a public rally,0.5
+rupees,2.311111111111111
+hearing,0.9644508209787979
+fundamental right of speech,1.6666666666666667
+inspector,1.2705882352941176
+lathi blows,1.75
+day,1.550999710228919
+question,2.980312372067635
+defence in public law,0.5
+that person,0.7329545454545454
+brutality,0.2619047619047619
+tearga,0.22641509433962267
+hospital  police officer,0.0
+aghar,1.0
+aid till,0.5
+crowd show sign,0.5
+scmanu,7.940520446096654
+uniform,0.5681818181818182
+london,0.48471615720524014
+step,0.8867024753460084
+incontrovertible violation of fundamental rights,0.5
+statement,2.5393160135035964
+dangerous crowd,0.3333333333333333
+first step,0.38961038961038963
+persons from the mob,0.5
+international covenants,0.6666666666666666
+force,1.6009408121948314
+property,2.9368986630013745
+effective,1.0783514860324315
+useful purpose,0.8666666666666667
+balance,0.9863636363636363
+law,3.538923411654744
+treatment,1.1351020408163266
+deftness,0.5
+leaders,0.933235294117647
+resource,0.8416706827309237
+par,7.011805363704756
+of katra town,0.5
+leader of the panther,0.0
+complaint,2.734525785235724
+poonch,0.5
+varied kind,0.5
+warning of the intention,0.5
+recent happening,0.5
+provision of indian penal code,0.0
+migrant families,0.5
+authorities,1.266131845134287
+baradari,0.5
+personnels,0.30000000000000004
+strike,0.6155419222903886
+redressal,2.7333333333333334
+vishnu,0.7500000000000001
+ration,4.898365116817271
+intention,1.7585585585585588
+attack,1.0505713076597545
+orders that these demonstrators,0.5
+kinds,0.5807291666666666
+detail,0.9737454684220567
+conference,0.9284899820817724
+period,1.9480170842427122
+repetition,0.47619047619047616
+migrants,4.3428571428571425
+struggle,0.43055555555555564
+civilians,0.2531969309462916
+leader,1.1127110228401191
+constitution,3.204842342342342
+conspectu,0.5
+katra town,0.5
+public meetings,0.6000000000000001
+principle of minimum use,0.5
+firing,1.7124384236453203
+phmanu,1.0
+police conference,0.5
+bugle,0.3333333333333333
+that people,0.3825454545454546
+entire day,0.30000000000000004
+mandating that force,0.5
+appendage,0.4444444444444444
+counsel for the respondents,1.425531914893617
+court of jammu,1.6666666666666667
+agitator,0.25
+kashmiri,2.3333333333333335
+present writ petition,1.2857142857142858
+superintendent,1.2698412698412698
+presence of a magistrate,0.6666666666666666
+such public assembly,0.0
+restoration,0.8498168498168498
+independence,0.6549707602339182
+police authority,1.0
+relief measure to such persons,0.0
+border migrants,0.5
+pm on this day,0.5
+quarters,0.5426195426195426
+college hospital,1.5
+model rule,0.5
+management,1.6732611752395274
+teargas shell,0.5
+police,2.9749362629783356
+national human rights commission,1.0
+police officer,1.0366379310344829
+criminal action,0.5714285714285714
+personnel,0.9491259524876736
+such violence,1.25
+reason,2.6381270903010035
+medicine,0.6969887076537014
+policeman,0.24390243902439027
+dialogue,0.3111111111111111
+life,1.3352928273744242
+stones,1.0303030303030303
+response,0.7112676056338028
+acj,0.4822222222222222
+human,1.0063526196524266
+reasonable doubt,0.8638838475499093
+fateful day,0.5333333333333333
+offers,1.0471720818291215
+traffic on stand,0.5
+only relief,0.6666666666666666
+confers freedom of speech,0.6666666666666666
+kashmiri migrants,1.3333333333333333
+care,0.8846948234137723
+initiative,0.3346007604562738
+kashmir panthers party,0.5
+packet,0.8112798264642083
+yatri,1.2
+ranks,0.6451612903225806
+province,0.7345491388044579
+use of unnecessary force,0.5
+huts of talwara camp,0.5
+baba,0.9157894736842105
+shot,1.5276221441634974
+lathi blow,1.75
+satyagraha,0.5
+order need,0.4444444444444444
+concerned authorities,1.090909090909091
+fundamental right of the petitioners,0.6666666666666666
+model rules on the use,0.5
+security,1.5014864864864865
+confers freedom,0.75
+restrictions in the interest,0.5
+remark about the manner,0.0
+arrears,2.3209876543209877
+safe distance from a dangerous crowd,0.5
+no doubt,0.8331331503088538
+circumstances,1.3944461370073231
+criminal action against the erring officials,0.5
+militancy,0.75
+account of militancy,0.5
+criminal procedure empowers,0.75
+common that people,0.5
+high court,7.7477477477477485
+broken huts of talwara camp,0.5
+- violent protest march,0.0
+fired cartridges,1.0
+legal power,0.2222222222222222
+manu,7.078142071124147
+person from poonch,0.0
+prime,1.273548387096774
+array,0.5209444021325209
+deputy commissioner,2.2222222222222223
+certain order with respect,0.5
+unruly,3.3333333333333335
+health,0.8632619439868204
+fundamental right,2.9790209790209787
+bridge that the migrants,0.5
+sum,2.554898897856461
+compensation,3.7916666666666665
+measure,1.1941357983816498
+manual,0.7839771101573677
+peaceful demonstration in order,0.5
+lack of sufficient training,0.5
+stock,1.0778270324523251
+following effect,1.3846153846153846
+signs,0.5712890624999999
+attack on the police authorities,0.5
+report by all officers,0.5
+undue harassment by the police,0.5
+stone,0.7736063708759955
+courts,2.1216528162511543
+contingent,0.38288288288288286
+force thereby,0.5
+committee,2.546237803603864
+restriction,1.0123456790123457
+petitioner no,2.5714285714285716
+reasonable restrictions on such right,0.5
+jeep,0.711111111111111
+code,2.880559796437659
+soft portions of the body,0.5
+excesses,0.5333333333333333
+people,1.2855544825097243
+private property,0.3
+police indulge,0.5
+party in discussions,0.5
+terms,2.390350840909655
+marcher,0.5294117647058824
+problem,0.6764352120789936
+judicial magistrate,2.7857142857142856
+arm,0.9325525916287142
+language understood,0.5
+injured migrants,1.0
+of police conference,0.5
+road,1.0764686576960945
+particular area,0.42857142857142855
+ors,2.8612718198296623
+integrity,0.8973214285714286
+call,1.5442351461768689
+part,5.294464509893076
+incontrovertible violation,0.5
+society of varied kinds,0.5
+procession,0.35
+distance,0.7353606433777331
+soft portion,0.5
+aspect,1.2449448189023034
+such remedy,0.5
+public assembly,0.6666666666666666
+to the situation,0.2558139534883721
+situations,0.7435282837967402
+various migrants,0.5
+areas,1.6237236125072747
+heavy casualty,0.0
+members of the public,0.8888888888888888
+issue at hand,0.4
+land,6.337534028705619
+affray,0.14285714285714285
+citizen of this country,0.5
+high officials of the state,0.5
+huts,0.4696969696969697
+implementation of this order,0.6666666666666666
+instances,0.5974025974025974
+salt,0.7390776699029126
+erring,0.9791247484909459
+sharma,0.9516994633273703
+police official,1.5750000000000002
+respondent authority,0.6666666666666666
+kashmir valley,0.5
+magistrate considers that such direction,0.5
+guarantee,2.2562167724232554
+dharnas etc,0.5
+code of criminal procedure empowers,0.75
+long discussion with the dy,0.5
+various documents,0.8666666666666667
+salt satyagraha,0.5
+effect,2.184583388478191
+diary of all incidents,0.5
+violent demonstration,0.5
+nalini,1.6666666666666667
+command,0.6880551024107304
+quarter,0.7884753275536145
+aforesaid right,0.5
+ghar baba jitto,0.5
+place,2.333104345208554
+compensation to the petitioners,0.5
+practical realisation of human rights,0.5
+prime minister of india,1.25
+relevant quarter,0.5
+allegation of the petitioners,0.5
+control,2.148867902684286
+regular bail,1.3333333333333333
+issue,2.766776251628934
+relief of the government,0.5
+dharna,2.5
+families,3.0833333333333335
+petitioner,4.524972253052164
+orders,1.4936359300077826
+clear that a violation of fundamental rights,0.5
+persons from poonch,0.5
+use of force,1.3674418604651164
+kind of protests,0.0
+mind that the aforesaid right,0.5
+caste,3.66454871293581
+same day,0.8830188679245283
+sp katra for lathi charge,0.5
+public meeting,1.4814814814814814
+anger against the polouse,0.0
+ms anita thakur,0.5
+copy of medical reports,0.0
+jitto temple,0.5
+police force,0.655241935483871
+from the above,0.649867374005305
+old person,0.4
+heavy casualties,0.2777777777777778
+ground,1.4186722903211633
+aid for the injured migrants,0.5
+damage,1.8281814532316336
+anger,0.7759630582328695
+petitioners  protestor,0.0
+contact with the head,0.5
+- most police officer,0.0
+nuisances,0.3333333333333333
+liberty,0.7860465116279071
+totality of the circumstances,1.2
+moment,0.5294822018215465
+doubt about the restoration,0.5
+article,4.378806157159795
+leg,5.574082991234883
+aforesaid criminal assault on petitioner,0.5
+executive magistrate,1.7142857142857142
+peaceful protest processions,0.5
+medical college hospital,1.5
+penal,1.8829173709853835
+heads,0.7896459995907509
+reports,1.0202012199952466
+general remarks,0.5
+jitto,1.0
+suggestions,0.7508630609896433
+protest marcher,0.5
+stones on the police personnels,0.5
+legal provision,0.6
+public law,1.2777777777777777
+use of tear - smoke,0.0
+common that person,0.0
+necessary,1.7747975708502026
+turn,1.6310093128618173
+damage to life,0.6666666666666666
+class division,0.5
+guarantees that all citizen,0.5
+action against the erring officials,0.5
+respect,2.6704963235294117
+such order,1.056910569105691
+several police woman,0.0
+documents in the form,0.5
+sikri,1.0
+discussion with the dy,0.5
+accra,0.5
+long discussion,0.4444444444444444
+station,1.2515681586858238
+lathi charge fail,0.5
+medical aid,0.6153846153846153
+barbaric,0.5161290322580645
+same time,0.6913511801045461
+stand,1.8422769621739425
+plight,0.38918918918918927
+serious injuries,0.4365079365079365
+town,1.9746537396121884
+behera,1.0
+police custody without medical aid till,0.5
+kashmir wherein order,0.5
+to reasonable restrictions in the interest,0.5
+punjab,1.0438169425511197
+restrictions,0.7241671372106155
+guilty of misconduct,1.0
+positions alongside the road,0.5
+details,0.9406426856198188
+episode,0.21900826446280994
+kms towards jammu,0.5
+lapse,0.9238095238095239
+respective stand,0.5
+long distance,0.4
+petitioner under article,0.6666666666666666
+ground for a long distance,0.5
+presence,0.9604834261070158
+katra in jammu,0.5
+issuance of directions,0.6666666666666666
+v state of orissa,1.0909090909090908
+legal,1.6383168326773236
+kashmir national panthers party,0.5
+facilities of water,0.5
+portions,0.6041219407471018
+various order,1.0
+prerequisites,0.26666666666666666
+order needs,0.5
+resulted injuries,0.5
+order with respect,0.5
+writ petition in the nature,0.5
+rajouri,0.5
+unfortunate trend,0.5
+members,1.9437616522164103
+valuable aspect,0.5
+account,2.5754891049671977
+routes,1.1136363636363638
+casualty,0.5
+treatment as migrants,0.5
+district administration,1.2
+serious threat to the rule,0.5
+vandalism,0.23255813953488372
+higher authority,0.5714285714285714
+lapses on the part,0.6666666666666666
+prayer,0.6969296987087519
+purpose,2.519170317925504
+help,0.7217940266720754
+clear warning of the intention,0.5
+time,2.4764180952862667
+agitators,0.25
+aforesaid terms,0.8333333333333334
+journalist,0.2971698113207547
+such person,0.9634888438133874
+issuance,1.05379513633014
+sum of rs,2.125
+official of the state,0.5
+unlawful assemblies,1.0
+more persons,1.388888888888889
+terrorist attacks,0.2777777777777778
+protest,1.349300087489064
+limit,2.3804570428443834
+right,3.07483248288682
+peaceful protest,3.0
+cds,0.3685393258426966
+that extent,0.8888888888888888
+police vehicle,0.75
+shape,0.4645522388059702
+peaceful agitation,0.5
+counsel,2.2246780703440323
+type,0.8102172691515265
+individual report by all officers,0.5
+policy,3.250773332247955
+jural,1.8
+rules,3.130914366958792
+individual police officer,0.5
+respondent authorities,1.0
+kerala police manual,0.5
+elaboration,0.41666666666666663
+distinct manner,0.5
+talwara towards jammu,0.5
+meetings,0.7029804727646454
+last resort,0.5760000000000001
+to the direction,0.6285714285714287
+practicable  the lathi blows,0.0
+results,0.6487493619193466
+- violent protest marches,0.0
+conditions,1.9988092071092867
+document in the form,0.0
+realisation of human rights,0.5
+leg broken,0.6666666666666666
+case,7.332269420884958
+various documents in the form,0.5
+state authority,1.0
+v commissioner,1.3636363636363635
+stone on the police personnel,0.0
+minister of india,1.2
+bar association,1.6
+injuries,2.4130008710801394
+many times,0.413279132791328
+excessive force thereby,0.5
+talwara camp,0.5
+inter alia,1.3280423280423281
+advocate,1.0791341991341994
+detail background of the grievances,0.5
+jammu,4.705882352941177
+violation of fundamental rights,1.1666666666666667
+talwara migrant,0.5
+violation,1.2087401208740118
+blows,1.1295731707317074
+custodial violence,0.5
+office,3.5913445886237847
+kashmir wherein,1.0
+valley,2.1136363636363638
+threatening part,0.5
+if the crowd,1.0
+slp,1.291953447628582
+manuals,0.22612359550561795
+body,1.336775463480009
+mass demonstrations,0.5
+notice,2.3300025999395686
+breach of peace,0.5
+plight of the migrants,0.5
+cash relief at par,0.5
+present matter in the aforesaid conspectus,0.5
+warning,0.7703501591632559
+riot flag,0.5
+disturbance,0.5303030303030303
+patent,1.3540828816226613
+high official of the state,0.0
+various document,0.9333333333333332
+public anger,0.5
+lakh,1.3647388059701493
+negotiations,0.5230769230769231
+sovereignty,0.35000000000000003
+procedure empower,0.8
+haryana,2.935064935064935
+portions of the body,0.5
+general secretary of the jammu,0.5
+memorandum,1.2142857142857144
+danger to human life,0.5
+documents,1.142515923566879
+devi,1.2339221178171305
+bar association of jammu,0.5
+air,2.0589664272145285
+remark,0.5091064757160647
+clear that the agitated protestors,0.5
+respondent nos,2.5185185185185186
+fullest warning,0.5
+media coverage of the incident,0.5
+same treatment as migrants,0.5
+general remarks about the manner,0.5
+versions,0.34412698412698406
+criminal assault on petitioner,0.5
+copies of medical reports,0.5
+camp,1.917373271889401
+chances,0.4692737430167598
+recourse,0.9157232704402517
+organisation,1.4034090909090908
+mst,1.4964288995998698
+most miserable condition,0.5
+broken hut,0.5
+indian penal code,5.264705882352941
+member of the public,0.75
+movement,0.8351097178683385
+members of the jammu,0.5
+hand,2.0299623418254717
+show cause notice,2.9565217391304346
+anita,1.3078431372549018
+human rights,0.9865951742627346
+migrant family,0.0
+public,2.923239095873367
+shells,0.2809917355371901
+annoyance to persons,0.5
+migrant statu,0.5
+new delhi,1.744186046511628
+terrorist attack,0.2777777777777778
+representation,1.2338308457711442
+resort if tear smoke,0.5
+injury to any person,1.888888888888889
+peaceful protest procession in the land,0.5
+old persons,0.6666666666666666
+police jeep,0.75
+stone at the police,0.0
+bodily injury,3.25
+commonwealth country,0.0
+protest march from talwara towards jammu,0.5
+that the agitated protestors,0.5
+migrant status of any person,0.5
+marches,0.5
+undue harassment,0.5
+status of any person,0.5
+key weapon,0.5
+possibility,0.7613466503601033
+dissent,0.7027777777777778
+situation,1.1254754682459434
+night,0.8690610404251893
+such protestors,0.5
+criminal procedure empower,0.75
+hut,0.5583524027459954
+stones at the police,0.5
+measures,1.126498218334953
+relief measures since march,0.5
+certain property,0.5
+offensive language,0.3333333333333333
+human rights initiative,0.5
+rank,0.6723585912486659

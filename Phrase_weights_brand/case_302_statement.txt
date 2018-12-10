@@ -1,0 +1,460 @@
+order of the high court,1.296875
+assistant grade iii,1.0
+petitioner s counsel,0.0
+allowances,1.642105263157895
+serious prejudice to the petitioner,0.5
+implementation,1.2465707594513213
+regard to the facts,1.1
+high court of punjab,1.2380952380952381
+petitioner in the writ petition,1.0
+contempt petition,2.0714285714285716
+constitution of india,3.0095238095238095
+read with section,2.3513513513513513
+employee,6.280487804878048
+considerable force,0.5
+terms,2.390350840909655
+salary,1.6193181818181817
+promotion to the post,2.25
+basis of inclusion,0.5
+failure,0.7827962142086977
+interest,2.74353772015385
+execution of an order,0.6666666666666666
+court,12.24425115501509
+judge of the high court,1.75
+union,2.0981927710843373
+rise,1.6238941915958565
+single judge,4.011627906976744
+panel by mistake,0.5
+person,4.291511329454258
+ors,2.8612718198296623
+such promotion,0.5333333333333333
+date person,1.0
+way,1.7812722068664852
+correctness,0.8404159132007234
+behalf,1.9888053603529987
+court of punjab,1.2380952380952381
+part,5.294464509893076
+respondent in that application,0.0
+arrear of pay,0.0
+terms of the order,1.0
+that order,0.71055381400209
+shri,2.0759135877246115
+promotion to the cadre,0.6666666666666666
+view of the observations,0.6666666666666666
+decision,2.9514937765898557
+promotion as assistant manager,0.5
+aforesaid,2.592896174863388
+regard to the final direction,0.5
+second contempt petition,0.5
+clarification of the impugned order,0.5
+correctnes,0.8404159132007234
+appeal,3.4125488033856883
+impugned action of the respondents,0.5
+date persons,1.0
+scr,2.483838975311538
+failure of the respondents,0.5
+question whether such relief,0.5
+read,2.2147281730888695
+relevant part of the order,0.6666666666666666
+court for review,0.6666666666666666
+amount of arrears,1.0
+such relief,1.125
+relevant facts,0.7692307692307692
+month,1.3454861111111112
+year,2.8349484769759212
+alia,0.9479866480753792
+account of the deliberate omission,0.5
+judgment,3.288216560509554
+fixation,1.1141025641025641
+respondent arrear,0.5
+counsel for the petitioner,1.4242424242424243
+respondents in that application,0.5
+averments,1.76
+terms-,0.0
+order,5.472481489660944
+from the date,1.806146572104019
+food corporation,2.142857142857143
+deliberate omission,0.4
+petitioner despite the fact,0.5
+dates of promotion,1.5
+judicature at allahabad,1.1333333333333333
+relevant fact,0.9393939393939393
+effect,2.184583388478191
+copy,0.8620926631522174
+writ petition before the punjab,0.5
+court in writ petition,1.4615384615384615
+maintainable before the allahabad high court,0.5
+manner,1.4494591333432125
+state of haryana,1.7608695652173914
+finality,1.1746031746031746
+allowance,2.1019607843137256
+amount  arrear with interest,0.0
+section,9.287987283173626
+herein,2.825259515570934
+date of promotion,0.5
+grade,2.004840489566613
+iid,0.7385321100917432
+writ of mandamus,2.642857142857143
+january,0.8699641577060931
+relevant part,0.8979591836734694
+judgments,1.2355646397547266
+contempt application,0.5
+effect from the year,0.5
+dates,2.6187832912811886
+circumstance,1.429931390219372
+civil,2.126558634963905
+other hand counsel for the respondent,0.5
+appellant herein,2.046153846153846
+order that the respondent,0.5
+judicature,1.4210526315789473
+following term,1.6170212765957446
+regard,2.723310344827586
+promotion,2.946428571428571
+entitlement,0.6176470588235294
+terms of the aforesaid judgment,0.5
+order xxi rule,1.5
+direction,1.8495050210098996
+leave petition before this court,0.8333333333333334
+perusal,0.750733137829912
+rights,1.6349541930937281
+order that the respondents,0.5
+disposing of the writ petition,0.5
+post of assistant manager,1.5
+fault,0.8125244007183572
+union of india,3.1324503311258276
+court for that purpose,0.5
+facts,1.4696673624372698
+month from the date,1.2222222222222223
+promotional post,2.1666666666666665
+arrear to the respondent,0.0
+dates of such promotion,0.5
+july,0.9742727723122656
+benefits of pay fixation,1.0
+basi,2.0752712086391383
+prejudice to the rights,0.8571428571428571
+benefits,2.0896027049873203
+leave petition,2.013333333333333
+execution proceedings,1.3333333333333333
+pay scale of the promotional post,0.5
+xxi,0.7926906112161312
+benefit,2.604810195438474
+petitioner,4.524972253052164
+actual benefits,0.5
+cost,1.2954397451466992
+judgment of this court,2.1029411764705883
+basis,1.953226441078104
+bhardwaj,2.0
+contempt,1.5446913580246913
+fact that the writ petition,0.6666666666666666
+that court in view,0.5
+direct,3.0063324325138336
+benefit of pay fixation,0.5
+arrears to the respondent,0.5
+ground,1.4186722903211633
+letters,2.0877496159754223
+rise to the instant appeal,0.5
+impugned judgment,2.0927152317880795
+liberty,0.7860465116279071
+following observations,0.8222222222222223
+matter,2.8088923076923082
+special leave petition with the following observations,0.5
+article,4.378806157159795
+payable to the applicant,0.6666666666666666
+high court for review,0.6666666666666666
+writ petition in the following terms,0.5
+disposing,0.6153846153846154
+corrective action,0.3333333333333333
+term,3.6255105640901575
+assistant grade ii,3.0
+behalf of the appellant,1.4878048780487805
+full amount  arrears with interest,0.0
+view,2.441100058469462
+post,2.344803646492219
+review petition in execution application,0.5
+modification of the order,0.5
+relief,1.4748116760828625
+mandamus,3.0
+full implementation of the order,0.5
+assistant,1.6732837055417698
+fault of the respondent,0.5
+pay,3.828326695859537
+record,2.5393414390845273
+full amount  arrears,0.0
+inclusion,0.9738480697384807
+assistant manager,3.4000000000000004
+relevant panel by mistake,0.5
+averment,1.7
+other hand counsel,0.5
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+considerable force in the submission,0.5
+learned judge,3.3692307692307693
+anr,1.1271033322299457
+open to the appellant,1.1
+december,0.9629002463054187
+further directs that the arrear,0.5
+execution application,2.0
+impugned order,2.265957446808511
+basi of inclusion,0.0
+effect from the date persons,0.5
+modification,0.9714977645305514
+doubt,1.3646267723102583
+lpa,0.9672836569649268
+exercise,1.9400726466785694
+punjab,1.0438169425511197
+arrears of pay,4.0
+certified copy,2.6923076923076925
+decision in the matter,0.75
+paluru,0.6666666666666666
+review,1.3564101463582128
+respondent herein,1.8936170212765957
+that application,0.5142857142857143
+high court for that purpose,0.5
+posts,2.6556317082632876
+force in the submission,0.8
+food corporation of india,2.0
+to the appellant,2.239669421487603
+justice,2.292557084574302
+seniority,7.989473684210527
+further directs that the arrears,0.5
+division bench,3.965217391304348
+date,6.195616975795285
+writ petition as no reply,0.5
+hearing,0.9644508209787979
+respondent,4.757894736842104
+account of the fault,0.5
+entitlement of the petitioner,0.5
+shri hk,0.5
+other consequential benefits,0.75
+cadre,2.7892948173322005
+question,2.980312372067635
+execution,1.3041894353369763
+term of the judgment,0.0
+interference by this court,1.0
+appeal by special leave,1.04
+scmanu,7.940520446096654
+writ,2.8882378560889794
+terms of the judgment,0.6666666666666666
+months,1.1938163721148947
+amount,3.179688593072295
+february,0.8575630252100839
+allowances with effect,2.5
+doubt of the petitioner,0.5
+behalf of the respondent,1.453125
+other consequential benefit,0.75
+name,1.8996570753072433
+term of the order,0.0
+fresh suit,0.5
+high,5.367119186841496
+fresh suit for that remedy,0.5
+following terms,1.5957446808510638
+judgment on the correctness,0.5
+case for promotion,1.5
+account,2.5754891049671977
+gupta,0.7610062893081762
+appellant therefore,0.9
+force,1.6009408121948314
+learned,3.406323898681099
+prayer,0.6969296987087519
+suit,2.485274378207659
+interference,0.5733527484528578
+to the applicant,0.875
+purpose,2.519170317925504
+that purpose,0.609375
+civil court,3.706666666666667
+prejudice to the petitioner,0.6666666666666666
+observation,0.7625074854374218
+time,2.4764180952862667
+effect from the dates,2.5
+division,1.7657319129617017
+application for execution,1.3333333333333333
+mandamu,3.0
+issuance,1.05379513633014
+briefly,0.5805159028299525
+panels,0.4380165289256199
+single judge of the high court,1.588235294117647
+illegal manner,0.5
+right,3.07483248288682
+facts of the case,1.161764705882353
+ramkrishnaiah,0.5
+submission of a certified copy,0.5
+suit for that remedy,0.5
+counsel,2.2246780703440323
+consequential benefits,1.5
+application,2.3322596088086445
+application under order xxi rules,0.5
+allowance from the dates,0.0
+special leave petition before this court,0.8333333333333334
+april,0.8928235149629509
+india,2.7684068260703585
+allowance with effect,0.0
+authorities,1.266131845134287
+implementation of the order,0.6666666666666666
+respondent to arrears,0.5
+grade ii,6.0
+relevant panel,0.5
+hand counsel,0.5
+formal order,0.8
+mistake,0.6870879120879121
+promotions,0.8666666666666667
+account of any fault,0.5
+directs that the arrear,0.5
+second writ petition,0.6666666666666666
+submission,1.0913871684001404
+writ petition respondent,0.5
+document,1.401100265092073
+special leave petition,2.013333333333333
+haryana high court,2.1538461538461537
+food,1.1292356927710843
+writ petition before the high court,1.0
+name in the panel,0.5
+circumstance of the case,0.5
+case,7.332269420884958
+period,1.9480170842427122
+proceedings that the judgment,0.5
+assistant manager of the corporation,0.5
+cwp,0.875
+exercise of writ jurisdiction,0.75
+constitution,3.204842342342342
+court in the writ petition,0.8333333333333334
+letter,2.707240080105903
+execution proceeding,1.5
+singh,3.7791111111111113
+review petition,2.72
+ground that the applicant,0.6666666666666666
+arrear,1.4666666666666666
+counsel for the respondents,1.425531914893617
+proceedings,1.7670925223666287
+promotional posts,1.5
+date of such promotion,0.0
+following observation,0.8039215686274509
+bench,2.5793391667754992
+impugned action,1.75
+respondents,2.6341263330598856
+leave,1.0147842365477848
+respondents authorities,0.5
+costs,0.8167395522604189
+applicant,0.7861822513400833
+slp,1.291953447628582
+allahabad high court,1.7037037037037037
+petitioner as assistant grade ii,0.5
+division bench in letters,0.6666666666666666
+maintainable on the ground that the applicant,0.5
+order of the court,0.8888888888888888
+case of the respondent,2.0
+allahabad,2.3404255319148937
+further directs,0.5
+chance of promotion,0.0
+account of the fact,1.0256410256410258
+months  time,0.0
+way of letters,0.5
+amount  arrears with interest,0.0
+salary with effect from the dates,0.5
+execution of the order,1.4
+omission,1.1856094505101127
+patent,1.3540828816226613
+execution court,0.5
+instant case,2.0631578947368423
+clarification,1.0567698846387372
+writ jurisdiction,1.2142857142857142
+pay fixation,2.0
+hand counsel for the respondent,0.5
+nature of an application,0.5
+writ petition,6.24223602484472
+petition,5.3436539306104525
+effect from the date,1.5384615384615385
+remedy,1.3214024835646458
+full implementation,0.3333333333333333
+haryana,2.935064935064935
+consideration,1.9110153789142115
+earlier date,0.6000000000000001
+joining,0.8649425287356324
+civil writ petition,2.2222222222222223
+documents,1.142515923566879
+reply,1.0337305560040906
+proceeding,2.1298245614035087
+respondents authority,0.0
+full amount  arrear with interest,0.0
+learned judge in civil writ petition,0.5
+grade i,2.0
+term of the aforesaid judgment,0.0
+allowances as assistant manager,0.5
+chances,0.4692737430167598
+authority,2.4352627108360636
+judge,2.9012627415183325
+earlier dates,0.5
+manuscmanusc,7.940520446096654
+representations,0.5384615384615384
+that remedy,0.5
+only remedy,1.6
+consequential benefit,1.5
+instant appeal,1.2857142857142858
+such proceeding,1.0
+amount  arrears,0.0
+corporation,3.6427750743444176
+order aforesaid,0.5
+perusal of the writ petition,0.6666666666666666
+fact of the case,0.0
+mr bhardwaj,1.5
+special leave,1.903225806451613
+panel,1.3733381243262668
+serious prejudice,0.8
+further promotion as assistant manager,0.5
+fit case,1.1578947368421053
+grade iii,1.0
+exercise of jurisdiction,1.0666666666666667
+allowances from the dates,0.5
+circumstances of the case,1.3373493975903614
+interest of justice,1.2
+further direct,1.2765957446808511
+before the allahabad high court,0.75
+aforesaid judgment,1.4583333333333333
+months from the date,1.3333333333333333
+hand,2.0299623418254717
+actual benefit,0.5
+further promotion,1.0
+directs that the arrears,0.5
+iii,1.5614499719992534
+arrears,2.3209876543209877
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+prejudice,0.880907124598545
+only question,0.5172413793103449
+judgments of this court,1.4666666666666666
+respondent arrears,0.5
+final direction,0.5
+instant,1.131578947368421
+manager,1.7133044010756409
+notional promotions,0.5
+that court,0.7384615384615386
+promotion to the promotional posts,0.5
+high court,7.7477477477477485
+order xxi rules,0.5
+full amount  arrear,0.0
+manager of the corporation,0.5
+state,6.817996007300392
+answer,0.9554305705177771
+chance,0.7937084625609215
+jurisdiction,2.9539571926331507
+representation,1.2338308457711442
+pay scale,3.875
+manu,7.078142071124147
+notional seniority,1.5
+cpc,1.0529279279279278
+amount  arrear,0.0
+leave petition with the following observations,0.5
+scale,2.0845464725643894
+respondent as assistant grade ii,0.5
+single,1.6221488419098207
+further promotion to the cadre,0.5
+date of promotions,0.5
+nature,1.4149926876444778
+notional promotion,1.6666666666666667
+chances of promotion,0.5
+observations,0.7454584147497534
+issuance of a writ,1.0
+action,3.127292663476874
+directs,0.5811764705882353
+part of the order,0.6461538461538462
+persons,2.5993381990166555
+assistant grade i,7.0

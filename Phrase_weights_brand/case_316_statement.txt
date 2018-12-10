@@ -1,0 +1,224 @@
+courts,2.1216528162511543
+date within the limits,0.5
+that view of the matter,1.553191489361702
+drainage lines,0.5
+council,1.464939453675021
+largeness,0.5
+reference court,4.090909090909091
+relevant date,2.8
+cost,1.2954397451466992
+compass,0.4085714285714286
+development cost,0.25925925925925924
+railway station,3.111111111111111
+basis,1.953226441078104
+largeness of the acquired land,0.5
+practice,1.7660110149488593
+compensation for the land,0.6666666666666666
+account of cost,1.0
+compas,0.41211484593837533
+plot,1.9177369203731243
+largenes of the acquired land,0.0
+reasons,1.3749054007567938
+court in paragraph,1.2307692307692308
+deduction,6.463320463320464
+roads,0.5501567398119123
+charge,2.7679815308681284
+agricultural land,1.6666666666666667
+basi for deduction,0.0
+housing purposes,0.5
+largenes,0.5
+drainage,0.6857142857142857
+high,5.367119186841496
+railway,5.321428571428572
+amenities,0.8974358974358975
+education,2.1892608326253185
+account,2.5754891049671977
+reason,2.6381270903010035
+court,12.24425115501509
+no development zone,2.0
+samanna,0.5
+line,1.6884436630262616
+aspects,1.0997620069447154
+charges,2.061307113938693
+acquisition,6.764044943820224
+property,2.9368986630013745
+road,1.0764686576960945
+court at rs,0.5
+facilities,0.9130594727161252
+finding of fact,1.7083333333333333
+pen municipal council,0.5
+purpose,2.519170317925504
+way,1.7812722068664852
+impugned judgment,2.0927152317880795
+land with a developed plot,0.5
+consideration,1.9110153789142115
+date of the award,1.0
+to the effect that the acquired land,0.5
+impugned judgment reads,0.5
+meter,1.3483165377704869
+matter,2.8088923076923082
+educational facility,0.0
+paragraph,1.2930197483150305
+bombay,2.3134020618556703
+basic amenities,0.5
+market,5.294198044198044
+learned counsel for the respondent,1.507936507936508
+housing,1.9061032863849767
+value,1.7137907830478438
+facility,1.2989690721649485
+large acquired land,0.5
+main city,0.5
+aspect,1.2449448189023034
+decision in the case,1.0476190476190477
+appellants,7.701086956521739
+view,2.441100058469462
+development charges,1.0
+decision,2.9514937765898557
+high court at rs,0.5
+rate of market value,0.5
+filtering,0.1858974358974359
+land value of the appellants,0.5
+quarrel,0.8181818181818182
+maximum deduction,0.5
+such as electricity,0.5
+limit,2.3804570428443834
+areas,1.6237236125072747
+lines,1.770523318937438
+in the municipality on the relevant date,0.5
+appeal,3.4125488033856883
+available in the municipality on the relevant date,0.5
+narrow compass,0.8571428571428571
+housing purpose,0.5
+kurian,0.9655172413793104
+determination,1.5980374665477253
+impugned judgment read,0.5
+as electricity,0.4
+facts of the case,1.161764705882353
+land,6.337534028705619
+locality,0.7993421052631579
+on record,1.572992700729927
+municipality,1.96875
+record,2.5393414390845273
+overall growth,0.5
+area,2.675167256985439
+education schools,0.5
+growth,0.7269455690508322
+exhibit,0.8875432525951558
+counsel,2.2246780703440323
+drainage facility,0.0
+stage,1.1298537871524448
+development,2.3145884270578647
+limits,0.8405888207868406
+city,2.544592792669584
+award,3.104213525266157
+educational facilities,0.5
+water supply,0.6944444444444444
+internal road,0.5
+railway station in the city,0.5
+fact of the case,0.0
+drainage facility in the nearby locality,0.0
+judgment,3.288216560509554
+market place,0.5384615384615384
+fixation,1.1141025641025641
+effect that the acquired land,0.5
+quarrel with regard,0.5
+zone,1.373358348968105
+fact,3.6284951019474962
+order,5.472481489660944
+basic amenity,0.0
+further deduction,0.6666666666666666
+learned counsel,3.703333333333333
+land on the basis,0.6666666666666666
+school,1.2666111192798444
+in the municipality,1.0
+education school,0.5
+- per sq,0.0
+national,1.5126860273884035
+relevant date within the limit,0.5
+available on record,1.2857142857142858
+station,1.2515681586858238
+dispute,2.402137592137592
+submission,1.0913871684001404
+total deduction,1.0
+evidence,3.6676405172088815
+appellant,14.387096774193548
+goa,0.6574823943661972
+effect,2.184583388478191
+high court in paragraph,1.0
+bhagwathula,0.5
+small plot,0.6666666666666666
+meters,0.9235886065154357
+available to the effect that the acquired land,0.5
+municipality on the relevant date,0.5
+housing colony,0.5
+high court,7.7477477477477485
+detail,0.9737454684220567
+main market place,0.5
+substantial deduction,0.5
+internal roads,0.5
+acquired land,2.9166666666666665
+mtrs,1.2000000000000002
+case,7.332269420884958
+note,1.3654108484234107
+supply,2.0557395143487858
+date within the limit,0.5
+higher education schools,0.5
+mtr,1.097859604571014
+deduction for development charges,0.5
+base,0.8959264091163237
+principle,1.9620890732001848
+rate,3.088725136774248
+market value,2.125
+college,2.1498947162234954
+pen,4.066964279324603
+narrow compas,0.8571428571428571
+water,0.9741079360379036
+joseph,0.4502673796791444
+available in the municipality,1.0
+colony,0.5172413793103449
+purposes,1.4391216613438835
+place,2.333104345208554
+bhagwathula samanna,0.5
+finding,1.8129183657767178
+learned counsel for the appellants,1.7142857142857142
+deduction on account,0.6666666666666666
+agricultural land with a developed plot,0.5
+basis for deduction,0.5
+developed plot,0.5
+drainage facilities,0.5
+regard,2.723310344827586
+amenity,0.75
+fact that the purpose,0.5
+higher education school,0.5
+drainage facilities in the nearby locality,0.5
+date,6.195616975795285
+compensation,3.7916666666666665
+supra,2.246342614440774
+reference,2.1755848210276256
+stage of the development,0.5
+electricity,4.4831223628691985
+attention,0.8724846605528799
+highway,0.8737664473684211
+schools,0.700507614213198
+colleges,1.9166666666666667
+water filtering,0.5
+facts,1.4696673624372698
+respondent,4.757894736842104
+drainage line,0.5
+bombay-goa national highway,0.0
+municipal,2.4099173553719004
+kurian joseph,0.9655172413793104
+dispute that the land,0.5
+nearby locality,0.5
+base for fixation,0.5
+issue,2.766776251628934
+leave,1.0147842365477848
+costs,0.8167395522604189
+basi,2.0752712086391383
+justification,0.6859587020648967
+question,2.980312372067635
+same principle,0.7309941520467836
+relevant date within the limits,0.5
+normal practice,0.4444444444444444
+development charge,1.0
+land value,2.75

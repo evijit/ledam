@@ -1,0 +1,1524 @@
+consequential auction sale etc,0.5
+backdrop,0.5833333333333334
+transfer of an interest,0.5
+forfeiture,0.8593750000000001
+mortgagor from all right,1.5
+provision of the latter kind,0.0
+first respondent herein,1.5
+law to the effect,0.5
+special covenant,0.5
+terms of section,1.98
+kamanu,1.1428571428571428
+mys,1.3793103448275863
+jesis,0.5
+reason of a decree,0.5
+redemption of mortgage,2.0
+final decree as the remedy,0.5
+pays,1.4171779141104293
+rise,1.6238941915958565
+in law,1.1088664421997756
+accrual,0.6666666666666666
+known mortgage,0.5
+way,1.7812722068664852
+proviso to section,3.3181818181818183
+halsbury,1.5294117647058822
+other than the usufructuary mortgage,0.5
+kunju,1.0
+civil judge,3.2142857142857144
+order xxiii,0.6666666666666666
+ownership,1.1522633744855968
+pranil,0.5
+equitable right,3.0
+foreclosure,3.0
+subsequent interest,0.5
+edward f cousin,0.5
+aforesaid,2.592896174863388
+non-payment by the appointment time,0.0
+contract between the parties,1.1111111111111112
+proviso for surrender,0.5
+actual delivery of possession,0.5
+transfer,1.9975047057658015
+usufructuary mortgages,1.0
+clear terms,1.0
+form part,0.773109243697479
+acknowledgement,0.43103448275862066
+scr,2.483838975311538
+refers,0.6484772632457239
+immovable property for the purpose,0.6666666666666666
+redemption money,2.0
+abdul,1.5086206896551726
+thirty year from the date,0.0
+clog on the equity,0.5
+ward,2.4967109028473318
+payment within the time,0.5
+stage,1.1298537871524448
+month,1.3454861111111112
+taherali,0.5
+heading  once,0.0
+wherein,1.0724137931034483
+foundation of the law,0.5
+decree that the mortgaged property,0.5
+suitable amendment,0.8
+chettiar,3.2857142857142856
+case of preliminary decree,0.5
+substance permit,0.5
+mortgagee on other types,0.5
+decisions of the privy council,0.6666666666666666
+mr mohta,0.5
+subject,2.4420366233344897
+order,5.472481489660944
+terms of order xxxiv,0.5
+mortgagor s right,0.0
+smt,0.7459757206267715
+thereof refers to final decree,0.5
+statutory right of redemption,0.5
+illusory,0.7407407407407407
+airori,1.0
+term of article,0.0
+byrne,0.18292682926829268
+inviolable right of mortgagor,0.5
+thereof refer to final decree,0.0
+parameswaran,1.0
+option,1.002339493011135
+parties,1.8210828547990157
+such date as the court,0.5
+civil procedure,5.448275862068965
+old,2.3604324583711596
+mortgagee s right,0.0
+joshi v bhakatram sadashiv patil,0.5
+court for a final decree,0.5
+condition,2.259476395625584
+void,1.2208700269947337
+contractual term,0.75
+passing of the contract date,0.5
+kunwar,1.0
+interest in land,0.5
+bare perusal,1.25
+provision to that effect,0.5
+suit for redemption,7.0
+repayment,1.5
+context,0.9269383697813122
+limitation,2.4984479402325457
+redemption money of rs,0.5
+mohta,0.75
+stipulation,1.6507936507936507
+provisions in the mortgage deed,0.5
+successive suits for redemption,0.5
+airmad,1.5
+mortgage agreement,0.5
+mortgagee - money,0.0
+multiplicity,0.4
+above debt,0.5
+dr rashbehary ghose,0.5
+charge,2.7679815308681284
+high courts,2.676470588235294
+fetter,0.625
+assignment of the mortgager,0.5
+edward f cousin at page,0.0
+edward f cousins,0.5
+withdrawal,1.2055933484504913
+deposit,2.1724508050089444
+transaction,5.884921444603142
+impugned judgment,2.0927152317880795
+loan,2.299059561128527
+bearing,0.7901184156798694
+bhagabat,0.5
+ramgonda,1.5
+thirty years,0.24418604651162792
+contractual date,0.5
+such date,1.1818181818181819
+merit,1.2419290263876248
+recognition,1.4333333333333333
+ramaiah v veeraiah ilr,0.5
+additional obligation,0.5
+bind,1.2798336798336798
+recovery,3.9892473118279574
+- debt,0.0
+consequent to subrogation,0.5
+consequence for non - payment,0.0
+harris v harris-firmly,0.0
+relationship,1.1804123711340206
+case of a mortgage,2.5
+collateral advantage,0.5
+contrary provision,0.5
+latter kind,0.5
+plaintiff - mortgagor,0.0
+successive suit,0.5
+bhagabat sit v,0.5
+pranil kumar sett v,0.5
+above debt in respect,0.5
+transfer of property act,1.9166666666666667
+respect of the suit,2.8
+behalf of the appellant herein,0.75
+covenants in the mortgage,0.5
+deposit of mortgaged money,0.5
+anr,1.1271033322299457
+place pursuant to the final decree,0.5
+to the plaintiff,3.3
+well - established rule,0.0
+purohit,0.6666666666666666
+doctrine of equity,0.5
+prasad,1.1407089151450054
+such right,0.6951724137931035
+such amount,1.2380952380952381
+starts from the date,0.5
+sayed,0.3333333333333333
+applicability,1.0928961748633879
+doubt,1.3646267723102583
+act of parties,1.5
+bar,1.4720990391722097
+plaintiff appoint,0.5
+protection,1.1604395604395603
+principle,1.9620890732001848
+known mortgages,0.5
+sale of mortgaged property,0.5
+declaration of law,1.1818181818181819
+good ground,0.49382716049382713
+aforementioned decision,0.8333333333333334
+v vrajlal karsandas purohit,0.5
+code in substance permit,0.5
+alias jesis jessie jacquiline,0.5
+consideration that the provision,0.6666666666666666
+counter obligation,0.5
+pursuance of a final decree,1.5
+date,6.195616975795285
+evident that such provisions,0.5
+special provisions,1.0
+respondent,4.757894736842104
+appointment time,0.5
+city survey,0.5
+thumbuswami v hossain,0.5
+schedule,2.9453067257945307
+kolhapur,5.0
+that view of the matter,1.553191489361702
+cost of the person redeeming,0.5
+bundle of interests,0.5
+possession thereof,1.0
+other words,0.7578482137053969
+conveyance of an interest,0.5
+mortgage-debt,0.0
+refer,3.840717772752903
+tnmanu,1.7
+doubt whatsoever,1.1428571428571428
+supreme court,1.4278957326045825
+karsandas,0.5
+heading,2.130249543517955
+right of the mortgagor,3.5
+high,5.367119186841496
+payment,2.059553716565686
+redeeming feature,0.4
+following terms,1.5957446808510638
+matter of the mortgagee,0.5
+sub-rule,0.0
+event,1.4310854436179261
+equity,1.3214285714285714
+defendant,3.7706855791962175
+reason of preliminary decree,0.5
+incident of mortgage,0.5
+property in suit,1.0
+redemption of the usufructuary mortgage,0.5
+mortgage,8.214285714285714
+arise,1.1675508399646328
+successor,1.2925170068027212
+regard to provisions,0.5
+exception,1.1036946087733006
+agreements in a mortgage,0.5
+similar observation,0.5333333333333333
+rights of a usufructuary mortgage,0.5
+creation of the equitable right,0.5
+possession thereof to the mortgagor,0.5
+muthiah,0.5
+sinha,0.8166351606805294
+document,1.401100265092073
+azim v md,0.5
+end by act,0.5
+well - known maxim,0.0
+such time,0.8480725623582767
+emphasi,0.9191619047619048
+act of the parties,1.6666666666666667
+special provision in the mortgage deed,0.0
+successive suit for redemption,0.0
+equitable right of redemption,1.0
+types,0.6765151515151515
+payment of the mortgage-money,0.0
+than usufructuary mortgage,0.5
+ramaiah,0.5
+singh,3.7791111111111113
+balwant rainade,0.5
+till date,1.2352941176470589
+pandit gs,0.5
+right of a mortgagor,1.0
+plaintiff - mortgagor from all right,0.0
+preparation of final decree,0.6666666666666666
+therefore,2.960332350576253
+contrivances,0.5
+end,6.1484001628618765
+thereof refer,0.5
+redemption by reason,0.5
+direction of the court,0.8333333333333334
+rule,5.04
+proceedings,1.7670925223666287
+judgment debtor,1.2
+right in land,0.5
+plea of the appellant herein,0.5
+other persons,0.6111111111111112
+airguj,0.8
+mortgagor by a proviso,0.5
+properties,1.7286779414438989
+respondents,2.6341263330598856
+costs,0.8167395522604189
+right of redemption,7.0
+payment of the principal money,0.5
+privy,1.2571428571428573
+harris,0.35126777983920837
+attempt,0.7943782192788815
+subsisting mortgage,1.0
+privy council,2.15
+dues in relation,0.5
+power,3.8165227690948367
+xxxiv,11.5
+mortgage of land,0.5
+shirpal,0.5
+dealings with the property,0.5
+provide,3.0496848599534587
+upon payment of an additional sum,0.5
+right of redeem,0.5
+application for preparation,2.0
+suit for foreclosure,1.5
+such restriction,0.5142857142857143
+recognition by reason,0.5
+one,4.845669314438648
+kuer,4.444444444444445
+earlier application,0.75
+remedy,1.3214024835646458
+transactions,6.503443526170798
+consideration,1.9110153789142115
+expense,1.4186440677966103
+old limitation act,0.6666666666666666
+words,1.6384367086179112
+court in no uncertain terms,0.75
+commissioner,2.271608643457383
+vrajlal,0.5
+clause,3.526455026455027
+confirmation of a sale,1.0
+scope of a suit,1.0
+different high courts,1.1538461538461537
+subsequent costs,1.0
+v vkm,0.5
+redemption money under the preliminary decree,0.5
+municipal taxes,0.6666666666666666
+special civil suit,1.0
+conditional sale,3.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+payment of such money,0.5
+substance,0.8230581678857541
+second application,0.4444444444444444
+banke,3.968335035750766
+period of limitation,3.3181818181818183
+view that the period,0.5
+read with article,1.3636363636363635
+reconveyance,0.75
+advantage,1.1441364159430905
+v kuthivattam estate receiver manuscmanusc,0.5
+performance,1.4794327394994442
+that the limitation,1.5
+shirpal balwant rainade,0.5
+thereof deals,0.6666666666666666
+various contrivance,0.5
+way of security,1.3333333333333333
+possession,2.808810857389056
+limitation as regard initiation,0.5
+supreme,1.443815331010453
+payment of the mortgage money,0.6666666666666666
+manubhmanubh,1.1111111111111112
+yashpal singh v,0.5
+decision of the privy council,0.0
+final decree for redemption,0.5
+deal,2.1942302694273583
+extinguishment,1.0
+wbmanu,1.1818181818181819
+v pareethij,0.5
+mere creation,0.5
+embarrassed mortgagors,0.5
+rainade,0.5
+demise,0.5263157894736842
+language,0.8555828468744352
+cpc,1.0529279279279278
+conventio,0.8493767102462756
+usufructuary mortgage clause,0.5
+merit in this appeal,0.9285714285714286
+equity of redemption,6.5
+bysack,0.5
+court as a judgment,0.5
+preliminary decree for redemption,1.0
+unknown to the ancient law of india,0.5
+property in the case,0.5
+nature,1.4149926876444778
+indian courts,2.0
+other than a usufructuary mortgage,0.5
+ahmed,1.008695652173913
+precedent,0.8982341399607586
+rents,1.509324009324009
+independent suit for redemption,0.5
+rice,2.4911786828719737
+contrivance,1.25
+debt,3.4485322896281807
+bobde,0.8888888888888888
+findings,1.049571253572887
+provisions of the cpc,1.0
+valuable right,1.0
+other hand,0.6931925622439332
+extension of time,1.5
+statutory period,0.7000000000000001
+judgment-debtor,0.0
+doubt whatsoever that the period,0.5
+instance,0.9469803370786518
+mortgage at any time,0.5
+inter,3.683850287482992
+delay in compliance,0.5
+case of seth ganga dhar v shankarlal manu  ormanu  or,0.0
+veeraiah,0.5
+court,12.24425115501509
+declaration,2.152560083594566
+reasonable notice before payment,0.5
+inter alia for redemption,0.5
+agreement,3.450434632433366
+time before the remedy,0.5
+single judge,4.011627906976744
+objection,1.68120480131216
+person,4.291511329454258
+notice before payment,0.5
+nothing,0.8658723322806009
+jesi,0.3333333333333333
+mr bobde,1.0
+pillai,1.2222222222222223
+final decree on payment,0.5
+justice sarkar,0.5
+subject matter,1.2537313432835822
+decree for redemption,2.0
+decision,2.9514937765898557
+courts as the essence,0.5
+judgment-debtor in illegal possession,0.0
+distinct right of redemption,0.0
+claim,2.817264601856604
+subrogation,0.30000000000000004
+years from the date,1.8518518518518519
+decree in redemption suit,1.5
+payment of the amount,1.3
+terms of redemption,0.5
+year,2.8349484769759212
+anomalous mortgage as aforesaid,0.5
+suit property,5.333333333333333
+kastim s case,0.0
+free from the mortgage,0.5
+judgment,3.288216560509554
+bad in law,1.4285714285714286
+registered instrument,0.5
+ceases,0.7703703703703704
+year in a case,0.0
+act,12.870263922028107
+all right,0.8989726027397261
+indian court,2.25
+nature of an equitable interest,0.5
+equitable interest,0.5
+achalda,0.5
+rudrappa,1.6666666666666667
+date as the court,0.6666666666666666
+thereof deal,1.0
+covenants,0.5
+section,9.287987283173626
+bare perusal of the aforementioned provisions,0.8333333333333334
+herein,2.825259515570934
+indian courts as the essence,0.5
+thereunder,1.2794117647058825
+incident,1.8609485257918057
+absence of any time,0.6666666666666666
+which such amount,0.5
+redemption after the contract date,1.0
+clogs,1.0
+finding,1.8129183657767178
+case of usufructuary mortgage clause,0.5
+appellant herein,2.046153846153846
+suits for redemption,0.5
+with the rights of the mortgagee,0.5
+obligations under the mortgage,0.5
+govind,0.7333333333333335
+regard,2.723310344827586
+thirty years from the date,0.5
+expenses,1.2727272727272727
+direction,1.8495050210098996
+v muthiah pillai manutnmanutn,0.5
+money,1.6567889044524557
+bundle,0.43708609271523174
+covenant,0.4662698412698413
+rights,1.6349541930937281
+federal court,1.2030075187969924
+mortgage involves,0.5
+facts,1.4696673624372698
+contractual term of redemption,0.0
+enjoyment of the hypotheca,0.5
+time after the principal money,0.5
+meanwhile,0.5323868677905944
+substance clogs,0.5
+proper time,0.20588235294117646
+proviso for reconveyance,0.5
+possession until payment,0.5
+mortgage by conditional sale,3.0
+form,2.4865961263718424
+such officer,1.3076923076923077
+writing,1.1746753246753248
+harri,0.3415061295971979
+cost,1.2954397451466992
+- payment by the appointment time,0.0
+substance clogs on the equity,0.5
+sub,7.816899313759727
+course,1.6545957498716626
+consideration that the provisions,0.6666666666666666
+perusal of the aforementioned provisions,0.8333333333333334
+such time as the court,0.5
+bhageerathy,0.5
+manner of doubt,1.0
+redemption of the mortgagor,1.5
+lightwood,0.5
+edition volume,1.25
+case of harris v harris-firmly,0.0
+vincunt,0.5
+to subrogation,0.5
+final debarring,0.5
+profits,4.935344827586206
+matter,2.8088923076923082
+relation,1.397320207820618
+plaintiff in possession,0.5
+owner of the property,1.1428571428571428
+necessary consequence,0.3692307692307692
+- payment,0.0
+conveyance,0.793388429752066
+due in relation,0.0
+liability,2.532836248924577
+enjoyment,0.631578947368421
+puisne,0.5
+redemption amount,0.5
+volume,0.5619176554909612
+reason of the right,0.5
+well,1.4966552780778166
+town of kolhapur,0.5
+second appeal,4.5
+reason of sub-rule,0.0
+possession of the mortgaged property,1.0
+material,1.4148767018946966
+procedure,2.552771605064117
+mortgage as aforesaid,0.5
+same in lieu of interest,0.5
+order xxxiv of the cpc,0.5
+conflicting decisions,0.8
+earlier suit,1.5
+plain language thereof during the proceedings,0.5
+hereinbefore,2.159090909090909
+than the usufructuary mortgage,0.5
+city,2.544592792669584
+provision,5.439002243350069
+support,0.8630946786249609
+deal with preliminary decree,0.0
+deals with preliminary decree,0.5
+thirty year,0.24418604651162792
+estate,1.9402985074626868
+owner,2.9502416709822197
+respect of subsequent costs,1.0
+wherein decree,0.5
+term of the preliminary decree,0.0
+forfeiture of the right,0.5
+original defendant,1.25
+angammal,0.30000000000000004
+gomathy,0.5
+dealing with the property,0.0
+kumar,2.028839704896043
+justice sarkar of the supreme court,0.5
+thereto,1.0358342665173572
+immovable property,1.75
+application in relation,0.8
+regards application of article,0.5
+modu,0.8268398268398269
+right subsist,1.0
+see halsbury s law,0.0
+date on which such amount,0.5
+puttalakshmma,0.5
+sheo,0.7363636363636363
+debtor,2.4615384615384617
+successors,0.5333333333333333
+subramaniam chettiar,0.5
+relationship of mortgagor,0.5
+open to the plaintiff,0.5
+whereof,1.2790697674418605
+mortgage-money,0.0
+material bearing,0.5
+upon payment,1.0
+application for a final decree,0.5
+mian,0.40384615384615385
+right of security,0.5
+thereunder per se,0.5
+declaration in the final decree,0.5
+approval,1.4085456739300164
+foundation,0.770509435807177
+kanji,0.3157894736842105
+agreements,1.0784313725490198
+than the preliminary decree for redemption,0.5
+receiver,1.266211604095563
+principles,1.3198511166253102
+feature,0.6446262956901254
+rise to multiplicity,0.5
+attempts,0.43171440431714403
+council,1.464939453675021
+expiry of the time,0.8
+regards application,0.5
+aforementioned backdrop,1.0
+months,1.1938163721148947
+ownership of the property,0.75
+plain language thereof,0.5
+obligation of mortgagee,0.5
+prakash,1.8933333333333333
+words mortgage,0.5
+nature of the right,1.0
+option for the mortgagee,0.5
+consequent extinguishment,0.5
+due in respect of subsequent costs,1.0
+different reason,0.6666666666666666
+with the right of the mortgagor,0.5
+dismissal,1.614076246334311
+power relating,1.0
+court to order,0.4800000000000001
+proviso,2.112
+decree under clause c,0.5
+mr va,0.675
+redemption of usufructuary mortgage,2.5
+cases,1.9728229418951067
+ormanu,0.5555555555555556
+sit manuormanuor,0.5
+condition in the mortgage,0.5
+moreshwar,0.6666666666666666
+code with regard,0.6666666666666666
+raju,0.782312925170068
+mortgage-debt in the decretal-debt,0.0
+redeemable on payment of debt,0.5
+contract date,1.5
+decree in a suit,1.5
+possession of the suit property,0.6666666666666666
+term of section,0.5
+mortgagor of a usufructuary mortgage,0.5
+deals with suits,0.5
+prosecution,4.619407894736842
+successors-in-interest,0.0
+covenant in the mortgage,0.0
+dealing,1.3134282178217822
+property to sale,0.6666666666666666
+statutory provision,1.1638418079096045
+incumbrances,1.0
+order xxxiv of the code,0.5
+indian context by the words,0.5
+redemption of an usufructuary mortgage,0.5
+earlier redemption suit,0.5
+india,2.7684068260703585
+declaration that the plaintiff,0.5
+regard to the fact,1.5862068965517242
+term of order xxxiv,0.0
+civil suit,0.7413793103448276
+sub - rule,0.0
+passing observation,0.5
+submissions,0.5235745614035088
+mortgagee,14.0
+special covenant in the mortgage,0.0
+that such provisions,0.6666666666666666
+krishnaji,0.75
+same with achaldas oswal,0.5
+distinct rights of redemption,0.5
+decision of this court,2.3260869565217392
+reliance,1.400763358778626
+bhmanu,1.1111111111111112
+incident of a subsisting mortgage,1.0
+scc,1.941872465904902
+edition,0.9664589349951868
+property to the plaintiff,0.5
+plaintiff from all right,0.5
+portion,1.0756311179804223
+possession of the properties,1.2
+co-extensive with the mortgage,0.0
+joshi,0.9259259259259259
+knightsbridge estates,0.5
+cii,0.4008016032064128
+perusal of the provisions,0.75
+contingency,0.4924242424242425
+such sale,1.5151515151515154
+allahabad high court,1.7037037037037037
+assignment,0.6215753424657535
+such second suit,0.5
+haquik,0.5
+mortgagee - in - possession,0.0
+plaintiff appoints,0.5
+final decree in respect,0.5
+possession if power relating,0.5
+mortgagor decree - holder,0.0
+actual delivery,0.5
+mortgages of immovable property,0.5
+final decree between other types,0.5
+mortgagors against such restrictions,0.5
+ved,3.681687917308886
+regard to the well-established rule,0.0
+lal,1.6786163249382287
+modus,0.8
+amma,0.9336065573770491
+bysack manuwbmanuwb,0.5
+realisation of mortgage debt,0.5
+law of mortgage,2.0
+decree for sale,1.3333333333333333
+decree of redemption,0.5
+thereof refers,0.5
+years in a case,0.5
+civil lj,0.5
+plea,1.4430487701432178
+passing,0.8851858023662723
+relationship between the parties,1.0
+revision application,1.4444444444444444
+debarring,1.2857142857142858
+acts,1.9133929521984454
+holder,1.8472993827160495
+patil,0.85
+right subsists,1.0
+aforementioned provisions,0.875
+chancellor,0.37142857142857144
+language thereof,0.5
+thumbuswami,0.5
+prevention,0.6124072110286319
+conception,0.49506726457399103
+v rice,0.5
+such rent,1.0
+dhar,1.152327935222672
+distinct rights,1.0
+on payment of debt,0.5
+terms of article,1.5384615384615385
+hansraj kunwar manuprmanupr,0.5
+agreement overrule law,0.5
+pomal,0.5
+schedule i,1.4090909090909092
+page,1.011907905159212
+which ingenious conveyance,0.5
+prescribed form,2.375
+proceed,2.930994380987473
+decree within the time,0.5
+obligation,1.1071428571428574
+prejudice,0.880907124598545
+subject of mortgage,0.5
+than the usufructuary mortgages,0.5
+instant,1.131578947368421
+statutory recognition by reason,0.5
+different reasons,0.6944444444444444
+v rajendra prasad,0.5
+successive suits,0.5
+xxiii,0.46296296296296297
+subsidiary,1.0769230769230769
+payment of mortgage money,1.0
+note,1.3654108484234107
+such provision,0.5079365079365079
+merger of the mortgage - debt,0.0
+such third person,0.5
+june,0.9339080459770116
+rashbehary,0.5
+time as the court,0.6666666666666666
+provision with regard,0.75
+behalf of the respondents,1.3235294117647058
+with achaldas oswal,0.5
+airsc,1.6909090909090911
+same high courts,0.5
+earlier suit for redemption,1.0
+provisions of order xxxiv,1.0
+court in subba rao v raju air,0.5
+pandit g,1.0
+cost of the suit,0.75
+kind,0.9236881920088026
+indian context,0.5
+protection of a mortgagor,0.5
+case of a usufructuary mortgage,0.5
+alias,0.7720588235294116
+instrument,1.493863846866317
+ganga,3.0857142857142863
+date of repayment,0.5
+senior counsel,2.2857142857142856
+redeem,5.166666666666667
+persons,2.5993381990166555
+industries,2.162068965517242
+person redeeming,0.5
+dissatisfied therewith,0.8
+corollary,0.5
+foreclosure subsists,0.5
+decree in respect,0.6666666666666666
+lodge,0.7913752913752914
+from the plain language thereof during the proceedings,0.5
+expiry,2.2888888888888888
+order xxxiv rule,4.0
+constitution of india,3.0095238095238095
+custom,1.8742070505069293
+second suit for redemption,1.5
+statutory provisions,1.6764705882352942
+regard initiation,0.5
+kunjamma,0.5
+abdul khader mohd,1.0
+failure,0.7827962142086977
+second suit,1.3333333333333333
+principal,1.3412499999999998
+withdrawn,0.7887667887667889
+interest,2.74353772015385
+sub-clause,0.0
+plain language,1.1
+dismissal of the first application,0.5
+mhadagonda,1.5
+estate of the mortgagee,0.5
+behalf,1.9888053603529987
+case of the mortgage,0.5
+special covenants,0.5
+consideration in this appeal,0.9090909090909091
+mortgage amount,0.5
+clear term,1.0
+clause c,1.3764705882352941
+illegal possession,0.6666666666666666
+vkm,0.14444444444444443
+seth,0.4752475247524752
+mortgagor after execution,0.5
+hypotheca,0.75
+afflux,0.5
+provision of order xxxiv,0.0
+permission,1.1531211886018407
+certain day,0.5
+decree on payment,0.5
+mortgagor,24.333333333333332
+appeal,3.4125488033856883
+default of payment,1.1111111111111112
+special provision,1.1818181818181819
+lieu,0.5964912280701754
+person as the plaintiff appoint,0.5
+redeeming,0.7017543859649122
+contractual date of redemption,0.5
+alia,0.9479866480753792
+edward,0.2751046025104602
+terms-,0.0
+usufructuary mortgagor,0.5
+rajendra,1.6428571428571428
+reason of the amendment,1.0
+order xxxiv rules,0.5
+clog,1.1403508771929824
+such possession,1.0
+subsidiary rules,0.5
+kastim,1.0
+manner,1.4494591333432125
+corollary from the doctrine,0.5
+federal court in subba rao v raju air,0.5
+lieu of interest,2.0
+conditional preliminary decree,0.5
+january,0.8699641577060931
+law of india,0.8333333333333334
+sett,1.480285673879225
+starts,0.4540337711069418
+tax,3.549237288135593
+circumstance,1.429931390219372
+civil,2.126558634963905
+fact of that case,1.0
+other than the preliminary decree for redemption,0.5
+various contrivances,0.5
+mhadagonda ramgonda patil,1.5
+perusal,0.750733137829912
+lord nottingham,0.5
+stipulated time,1.5833333333333333
+whereby,0.6100917431192661
+liability under the mortgage,0.5
+regard to the redeeming features,0.5
+thereof,1.7897727272727273
+seth ganga dhar v shankarlal manuormanuor,0.5
+prejudice to the rights,0.8571428571428571
+gomathy amma,0.5
+first application,0.3333333333333333
+such person as the plaintiff appoints,0.5
+proceedings under rule,0.5
+contract,6.227349970404598
+doctrine,0.7455954017243533
+kar,1.3679239962007126
+rights of redemption,1.0
+substance clog,0.5
+jacquiline,0.5
+anomalous mortgage,3.5
+sultan,0.9080746409837475
+behari,1.625
+implication,0.6615776081424936
+mortgage clause,0.5
+reason thereof the appellant,0.5
+gjmanu,1.0833333333333333
+officer,3.1197242647058823
+pat,2.2016743682520303
+amendment,2.2486412346818434
+charges,2.061307113938693
+payment of debt,1.0
+non-prosecution,0.0
+practice in equity,0.5
+execution of a final decree,0.5
+lord davey,0.5
+final decree under clause c,0.5
+rent,2.460251217077583
+realisation,2.1538461538461537
+term,3.6255105640901575
+respondent therein after the preliminary decree,0.5
+ibrahim,0.4444444444444444
+old act,1.2222222222222223
+view,2.441100058469462
+mahomed,0.75
+that equity,0.5
+expiry of the period,1.2222222222222223
+hansraj,0.6666666666666666
+mortgage property,0.5
+due under the preliminary decree,0.5
+merger,0.8533333333333334
+distinction on the applicability,0.5
+maganlal etc,0.5
+lord,1.6027618015615013
+pay,3.828326695859537
+greene mr,0.6666666666666666
+separate in nature,0.5
+terms of the preliminary decree,0.6666666666666666
+two - judge bench of this court,0.0
+application under rule,0.5
+decree as aforesaid,0.5
+airkant,1.0
+initiation,0.6820512820512821
+statutory right of the mortgagor,0.5
+contractual terms,0.75
+contractual terms of redemption,0.5
+date of redemption,0.5
+fact,3.6284951019474962
+taxes,1.49645390070922
+time for payment,1.0
+learned counsel,3.703333333333333
+manukamanuka,1.1428571428571428
+building,3.870745432459903
+interests,1.0562317935913441
+sulaiman,1.25
+neemach,0.5
+that such provision,0.6666666666666666
+other word,0.758838674565131
+jessie,0.3333333333333333
+noakes,0.5
+year from the date,1.5
+ancient law,0.3333333333333333
+held,3.3171122162354454
+mohd,1.75
+good law,0.5743589743589743
+years,2.5395804110508022
+exercise,1.9400726466785694
+property act,1.7333333333333334
+term of the proviso,0.0
+form prescribed,0.6666666666666666
+in lieu of interest,2.0
+cease,3.3103181958603645
+noake,0.5
+party,2.2250894654439723
+respondent herein,1.8936170212765957
+such person as the plaintiff appoint,0.5
+delivery of possession,1.5
+view of the finding,1.2
+question of merger,0.5
+tender of such money,0.5
+justice,2.292557084574302
+therein,1.5503424657534246
+property for the purpose,1.0
+daulta kuer manuupmanuup,0.5
+mortgage by a conditional sale,0.5
+place pursuant,0.5
+decree,3.732408834103749
+start,0.86071856465668
+upon performance of some additional obligation,0.5
+dealings,0.78
+existence,0.731202675709574
+in nature,0.7593052109181141
+manukemanuke,1.0
+bank,9.40770083102493
+view of these provisions,0.5
+right of mortgagee,0.5
+defendant claims by derived title,0.5
+day,1.550999710228919
+sale,3.3662581620085734
+est,6.379089545995401
+estates,0.9166666666666666
+compliance thereof,0.75
+question,2.980312372067635
+right upon the usufructuary mortgagee,0.5
+independent suit,0.5
+surrender,1.2518092105263157
+execution,1.3041894353369763
+necessary deposit,0.5
+power of the mortgagee,0.5
+govindji,0.5
+scmanu,7.940520446096654
+successors-in-interest of the mortgagee,0.0
+advantage outside the mortgage agreement,0.5
+single judge of the bombay high court,0.75
+mortgage of immovable property,0.0
+due by the preliminary decree,0.5
+amount,3.179688593072295
+jaiswal,1.0
+practice,1.7660110149488593
+extinguishment of the right,1.0
+which ingenious conveyances,0.5
+decree between other types,0.5
+retain possession until repayment,0.5
+property in question till,0.5
+derived title,0.6666666666666666
+such transactions,3.819444444444444
+force,1.6009408121948314
+order xxxiv,11.5
+property,2.9368986630013745
+decree of a court,1.0
+suit,2.485274378207659
+preliminary decree for the redemption,0.5
+pandit,1.375
+balance,0.9863636363636363
+law,3.538923411654744
+observation,0.7625074854374218
+thereof deals with preliminary decree,0.5
+enjoyment of the usufruct,0.5
+plaintiff,2.177926421404682
+payment of a loan,0.5
+course from the date,0.5
+singh v,1.59375
+ghose,1.25
+practice in the case,0.5
+schedule to limitation act,0.5
+redemption suit,2.5
+provision to the effect,0.5
+high court as a judgment,0.5
+loknath misir v smt,0.5
+start from the date,0.5
+facts of that case,1.0
+banke behari lal,0.5
+statutory recognition,0.75
+final decree proceedings,0.5
+subba,0.6964285714285714
+exercise of the right,1.0
+application,2.3322596088086445
+final decree for sale,1.0
+april,0.8928235149629509
+civil revision application,1.25
+time before a final debarring,0.5
+oudh,1.0285714285714287
+profit,3.0739182692307687
+rights of the mortgagor,0.5
+such money,0.6000000000000001
+proper decree of the competent court,1.0
+judge of the allahabad high court,0.6666666666666666
+right derogation,0.5
+nottingham,0.31963470319634707
+logical corollary from the doctrine,0.5
+mancheri puthusseri,0.5
+subramaniam,0.8333333333333334
+cousin,0.24447513812154698
+intention,1.7585585585585588
+final till,0.5
+shinde,0.375
+equitable estate,0.5
+knightsbridge,0.5
+submission,1.0913871684001404
+puttalakshamma,0.5
+residuary provision,0.75
+to the defendant,1.866666666666667
+such final decree,0.5
+balaram,0.5
+provisions of the latter kind,0.5
+period,1.9480170842427122
+acts of the parties,0.5
+final decree that the mortgaged property,0.5
+possession of immovable property,0.5
+property after the day,0.5
+consequent,0.9615838143114256
+evident that such provision,0.5
+angammal v vkm,0.5
+constitution,3.204842342342342
+application for final decree,0.5
+tender,1.2253313696612664
+redeeming features,0.3333333333333333
+preliminary decree in a suit,0.5
+other types,0.5217391304347826
+part thereof in lieu,0.5
+interest to the mortgagee,0.5
+mortgage money,2.6666666666666665
+execution of a mortgage,0.5
+supra,2.246342614440774
+suits,1.0993657505285412
+interest on such sums,0.5
+bombay high court,2.4642857142857144
+ganga dhar v shankarlal manu  ormanu  or,0.0
+aforementioned provision,1.1
+ingenious conveyances,0.5
+october,0.9478375701551667
+burden,0.9853978671041838
+mortgage contract,0.5
+purpose of such sale,0.5
+allahabad,2.3404255319148937
+mortgage subsists,0.5
+other type,0.5121951219512195
+therewith,0.6394230769230769
+same high court,1.3333333333333333
+federal,1.031040987823701
+puthusseri,0.5
+regard to the plain language,0.5
+title,1.74290600761189
+dismissal of earlier suit,0.5
+sit,4.035921595866223
+reason,2.6381270903010035
+deals,1.3395407335280751
+redemption,8.322580645161292
+survey,0.9775055679287304
+mere creation of the equitable right,0.5
+mortgagee cease,0.5
+absence on expiry,0.5
+case of noakes,0.5
+by the preliminary decree,1.5
+intervention,0.6975694444444444
+decree as the remedy,0.5
+airall,1.0476190476190477
+principal sum,1.5
+single judge of the allahabad high court,0.6666666666666666
+ahammed,0.5
+loknath,0.5
+provisions with regard,0.75
+others,0.9074667328904616
+therein without any argument,0.5
+proceeding,2.1298245614035087
+implication bind,0.5
+subsequent interest on such sums,0.5
+distinct right,1.0
+judge,2.9012627415183325
+consequent extinguishment of the right,0.5
+final decree proceeding,1.0
+maganlal,1.0
+council in thumbuswami v hossain,0.5
+dead,0.8845609936055091
+property as a security,0.5
+final decree,14.25
+security,1.5014864864864865
+bare perusal of the provisions,0.6666666666666666
+successor-in-interest of the mortgagee,0.0
+mortgagee - debt,0.0
+legal mortgage of land,0.5
+dicta in mhadagonda ramgonda patil,0.5
+operative portion whereof,0.5
+judge of the bombay high court,0.75
+privy council in thumbuswami v hossain,0.5
+contentions,0.9641025641025641
+v puttalakshamma,0.5
+context by the words,0.5
+v ghani ahmad,0.5
+circumstances,1.3944461370073231
+proper decree,1.0
+creation of subsidiary rules,0.5
+high court,7.7477477477477485
+jurisdiction,2.9539571926331507
+kishorilal,0.5
+aircal,1.3333333333333333
+trial,3.7979448350459712
+due to the defendant,1.0
+mortgage deed,1.0
+manu,7.078142071124147
+court confirm,1.0
+single,1.6221488419098207
+mian v rajendra prasad,0.5
+statutory right,1.2
+manutnmanutn,1.7
+cousins,0.3466666666666666
+provision of the limitation act,0.5
+nothing in this section,0.75
+greene,0.22314049586776857
+balwant,1.3636363636363635
+naik,1.164021164021164
+sum,2.554898897856461
+language thereof during the proceedings,0.5
+court in mhadagonda ramgonda patil,0.5
+decretal - debt,0.0
+conception of mortgage involves,0.5
+sumathi,0.5
+conveyances,0.5
+clear that the limitation,0.5
+provision of the cpc,0.0
+england,0.9336071184120466
+courts,2.1216528162511543
+muhammad,0.8695652173913043
+remedy by sale,0.5
+restriction,1.0123456790123457
+such transaction,3.950617283950617
+case of mortgages,0.5
+kemanu,1.0
+shows,0.8030554811042616
+than a usufructuary mortgage,0.5
+code,2.880559796437659
+schedule i of old act,0.5
+particular order xxxiv rule,0.5
+that suit,0.7619047619047619
+sheo narain s case manubhmanubh,0.0
+oudh high court,0.5
+to the ancient law of india,0.5
+revision,1.6299226441631505
+reasons,1.3749054007567938
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+hossain,1.6666666666666667
+daulta,0.5
+suit for sale,0.30000000000000004
+- prosecution,0.0
+payment of municipal taxes,0.5
+execution of an order,0.6666666666666666
+first respondent,4.575757575757576
+creation,0.5716118684843625
+very nature of the mortgage,0.5
+fetters,0.5
+bhagabat sit v balaram sit manuormanuor,0.5
+from the mortgage,0.5
+ors,2.8612718198296623
+show,1.5002130552117363
+part,5.294464509893076
+substantial question,5.615384615384615
+such payment,1.2
+mortgaged property,6.0
+on the mortgagor,1.3333333333333333
+bombay,2.3134020618556703
+inconsistent with the right of the mortgagor,0.5
+relation to protection,0.5
+edward f cousins at page,0.5
+non-payment,0.0
+legem,0.3589743589743589
+rent from mortgagor,0.5
+decisions,1.3888475974580996
+instance of the usufructuary mortgagee,0.5
+person as the plaintiff appoints,0.5
+k parameswaran pillai,1.0
+mortgages,1.8333333333333333
+provisions of the limitation act,0.8
+other person,0.9635036496350365
+equitable rights,0.5
+distinction,0.7312167973690868
+preparation,1.299145299145299
+retain possession,0.5
+manugjmanugj,1.0833333333333333
+land,6.337534028705619
+read,2.2147281730888695
+case manubhmanubh,0.5
+parte,0.7168042010502624
+final decree in redemption suit,1.0
+mortgagor in a suit,0.5
+obligations,0.9121212121212122
+subsequent cost,1.0
+code of civil procedure,5.5636363636363635
+defendants,2.3554376657824934
+substantial question of law,6.7
+application under order,1.3636363636363635
+raghunath singh v mt,0.5
+pursuance,1.543859649122807
+appointment,3.1380281690140843
+proceeding for recovery,0.6666666666666666
+successor-in-interest,0.0
+effect,2.184583388478191
+burden of security,0.5
+usufructuary mortgagee,2.0
+delivery,1.3054726368159204
+kuthivattam,0.5
+view that the decision,1.0
+dr rashbehary ghose at page,0.5
+merger of the mortgagee - debt,0.0
+mortgage involf,0.0
+karsanda,0.5
+thereof deal with preliminary decree,0.0
+consequence,0.8726692512593296
+special covenants in the mortgage,0.5
+representative,1.0617102796119673
+portion whereof,0.5
+joint civil judge,0.5
+place,2.333104345208554
+reasonable notice,1.0
+confirmation,2.098684210526316
+same mortgage,0.5
+following term,1.6170212765957446
+se bar,0.5217391304347826
+ward b,0.6113138686131387
+legal mortgage,0.5
+uncertain terms,0.7555555555555555
+nature of this ownership,0.5
+usufructuary mortgage,13.5
+question till,0.6666666666666666
+final decree in a suit,1.0
+month from the date,1.2222222222222223
+defendant claim by derived title,0.0
+payment under the preliminary decree,0.5
+provide for foreclosure,1.0
+apparent from the plain language thereof during the proceedings,0.5
+achaldas,0.5
+right of the mortgagee,0.5
+see halsbury,0.6666666666666666
+decree under rule,0.5
+sums,0.6341911764705883
+principal money,1.5
+fisher,0.693854748603352
+incumbrance,1.0
+case of the mortgagor,0.5
+sale of the mortgaged property,0.6666666666666666
+revision application before the bombay,0.5
+mere puisne mortgagee,0.5
+third person,0.5217391304347826
+two - judge bench,0.0
+accrual of right,0.5
+reliance in support,0.8571428571428571
+uncertain term,0.7555555555555555
+substance clog on the equity,0.0
+ground,1.4186722903211633
+form part of the bundle,0.5
+passing of the final decree,0.5
+article,4.378806157159795
+maxim of equity,0.5
+ancient law of india,0.5
+opinion,1.4960606342789635
+mortgagors,2.5
+deal with suits,0.0
+agreement of parties,0.6666666666666666
+delay,1.9544910179640715
+rao,0.9220020325203252
+oudh high court in banke behari lal,0.5
+pareethij,0.5
+decree of court,1.0
+scope,0.8412698412698413
+laws,1.4186274337269533
+mortgage debt,0.6666666666666666
+mere dismissal,0.5
+november,0.7203359669727383
+mortgagor for compliance thereof,0.5
+reconvey,1.25
+that right,0.5689001264222503
+respondent therein,1.3
+second substantial question,0.5
+whereunder,1.25
+respect,2.6704963235294117
+terms of the proviso,0.8333333333333334
+term of redemption,0.0
+sarkar,0.8571428571428571
+remainder,0.5833333333333334
+court under clause,1.0
+strong reliance,1.606060606060606
+shankarlal,0.5
+decree of the high court,0.75
+different law,0.37037037037037035
+that effect,0.6458333333333334
+mortgage - debt,0.0
+provision in the contract,0.75
+other words mortgage,0.5
+due,1.6178286949129652
+limitation under article,0.5
+features,0.6184582743988685
+town,1.9746537396121884
+dicta,1.0501242750621373
+respondent s application,0.0
+misir,0.6666666666666666
+essence,0.5974025974025974
+restrictions,0.7241671372106155
+appointment of the commissioner,1.25
+oswal,0.25
+mortgage security,0.5
+part thereof,1.6333333333333333
+achaldas oswal,0.5
+derogation,1.0952380952380951
+such application,1.1428571428571428
+read with rule,1.1818181818181819
+implication binds,0.5
+v jaiswal industries,0.5
+exception to the aphorism,0.5
+limitation act,6.833333333333333
+protection of embarrassed mortgagors,0.5
+in respect of subsequent costs,1.0
+sufficient part,1.0
+amount of expenses,0.5
+accordance,1.4069045211613462
+default,0.7094574436346588
+passing of a final decree,0.5
+extension,0.7526908023483366
+reason of article,0.6666666666666666
+strong reliance in support,0.8333333333333334
+decree proceedings,0.5
+puisne mortgagee,0.5
+word,2.065873981084096
+objection thereto,0.5
+consistent with the rights of the mortgagee,0.5
+davey,0.2857142857142857
+right to the mortgagee,1.0
+- under the heading once,0.0
+february,0.8575630252100839
+obligation under the mortgage,0.0
+rights of the mortgagee,0.5
+part of such rents,0.5
+competent court,1.380952380952381
+respect in final decree proceedings,0.5
+ingenious conveyance,0.5
+ilr,0.4788808178638687
+account,2.5754891049671977
+subba rao v raju air,0.5
+mohmedali,0.5
+special provisions in the mortgage deed,0.5
+other than the usufructuary mortgages,0.5
+mancheri,0.5
+mortgaged property before the confirmation,0.5
+interference,0.5733527484528578
+airpat,0.6666666666666666
+dues,1.2780386019822638
+decree of the competent court,1.0
+trial court,3.854545454545455
+proceeds,1.083011583011583
+purpose,2.519170317925504
+pandit govind shinde naik,0.5
+that purpose,0.609375
+confirmation of such sale,0.5
+time,2.4764180952862667
+similar view,0.5274725274725275
+see halsbury s laws,0.0
+auction,4.7739938080495365
+such person,0.9634888438133874
+legal right,0.6571428571428573
+sum of rs,2.125
+additional sum,1.0
+aforementioned situation,1.4545454545454546
+such sums,0.5
+azim,0.6451612903225807
+ahmad,0.43478260869565216
+second substantial question of law,0.5
+independent of the provisions of the cpc,0.5
+very nature,0.5121951219512195
+right,3.07483248288682
+sheo narain,0.5
+erstwhile mortgagee - in - possession,0.0
+misc,0.7132772338860931
+confines,0.47619047619047616
+final decree of redemption,0.5
+upmanu,0.9411764705882354
+knightsbridge estate,0.5
+absence,1.092363454568179
+type,0.8102172691515265
+counsel,2.2246780703440323
+defendant claims,0.75
+rules,3.130914366958792
+decree proceeding,1.0
+maxim,0.9230402066486973
+aphorism,0.38095238095238093
+mortgage subsist,0.5
+upon the usufructuary mortgagee,0.5
+upon performance,0.5
+prmanu,1.1333333333333333
+agreement in a mortgage,0.0
+sufficient part thereof,1.0
+industry,8.208106219426973
+afflux of time,0.5
+lightwood s law,0.0
+with the right of the mortgagee,0.0
+court in the facts,0.75
+compliance,1.0029799914857385
+case,7.332269420884958
+error,1.059158294766151
+example,0.5893965031020868
+different high court,1.1428571428571428
+law of mortgages,1.0
+subsidiary rule,0.5
+inviolable right,0.6666666666666666
+schedule to the limitation act,0.5
+muhammad sulaiman,0.5
+regard to the right,0.6666666666666666
+manifest error,1.6666666666666667
+court of law,0.673963133640553
+contention,1.666391070690368
+inter alia,1.3280423280423281
+clogs on the equity,1.5
+right of the possession,0.5
+right of mortgagor,1.0
+vora,0.445945945945946
+aminbai,0.5
+mortgage - money,0.0
+bench,2.5793391667754992
+such second suit for redemption,0.5
+airker,0.6666666666666666
+ghani,0.2882882882882883
+leave,1.0147842365477848
+maxim  once,0.0
+usufructuary one,0.5
+order of the court,0.8888888888888888
+raghunath,0.6666666666666666
+other than usufructuary mortgage,0.5
+notice,2.3300025999395686
+mortgaged money,1.0
+defendant claim,0.75
+such restrictions,0.4761904761904762
+material bearing on the execution,0.5
+embarrassed mortgagor,0.5
+mortgagors against such restriction,0.5
+logical corollary,0.8571428571428571
+proceeding in the preliminary decree,0.5
+instant case,2.0631578947368423
+such prevention,0.5
+mortgagee ceases,0.5
+due under the decree,0.5
+interest at the rate,2.3
+intervention of equity,0.5
+ibrahim v vora,0.5
+execution of a decree,0.8571428571428571
+contractual right,1.0
+decree for the redemption,0.5
+documents,1.142515923566879
+right of a usufructuary mortgage,0.0
+air,2.0589664272145285
+accordance with the form prescribed,0.5
+withdrawal of the redemption money,0.5
+confine,0.7331810394060537
+bhakatram,0.5
+subsisting,2.848484848484848
+such rents,0.75
+legislature,2.818553268765133
+foreclosure subsist,0.5
+high court in banke behari lal,0.5
+k parameswaran pillai s case,0.0
+argument,0.9504580388560493
+provision in the mortgage deed,0.0
+rudrappa v puttalakshmma,0.5
+khader,1.25
+narain,0.4978662873399715
+mortgage - deed,0.0
+similar observations,0.5333333333333333
+dismissal of the earlier application,0.5
+subject matter of the mortgagee,0.5
+such possession until payment,0.5
+subject of the mortgage,0.5
+months from the date,1.3333333333333333
+hand,2.0299623418254717
+binds,0.3
+yashpal,0.5
+court confirms,0.5
+conflicting decision,1.0
+appellant,14.387096774193548
+auction sale etc,0.5
+redemption of a mortgagor,0.5
+preliminary decree,11.2
+mere dismissal of the first application,0.5
+essence of the contract,0.5
+bhageerathy amma,0.5
+deed,1.3564447722662734
+rate,3.088725136774248
+conventio vincunt legem,0.5
+different laws,0.37037037037037035
+right of the plaintiff,0.5
+v jaiswal industry,0.0
+emphasis,0.8024289099526066
+such question,0.4320987654320988
+usufruct,10.333333333333334
+collateral advantage outside the mortgage agreement,0.5
+mortgager,0.5
+situation,1.1254754682459434
+doctrine of redemption,0.5
+observations,0.7454584147497534
+such sum,1.8888888888888888
+sadashiv,3.0
+such provisions,0.5128205128205128
+dependent on the mortgagor,0.5
+municipal tax,0.6666666666666666

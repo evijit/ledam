@@ -1,0 +1,780 @@
+vehicle at the time,1.0
+respect agreement,0.5
+pre,6.408342692122574
+chapter xi,1.4444444444444444
+court in the case,1.3333333333333333
+appeals fall,0.5
+government,3.5583785424010483
+than sixty passengers,1.0
+stages of the journey,1.0
+such amendment,0.7333333333333334
+victims of the accident,0.6666666666666666
+liability under the workmen,0.5
+expiry,2.2888888888888888
+aforesaid amendment act,0.5
+judgment in respect,0.5
+busines of an insurer,0.0
+occasions,0.7723557692307693
+causes,0.5569620253164557
+suffers,0.6412121212121213
+substantive change,0.3333333333333333
+validity,1.521010638297872
+other hand,0.6931925622439332
+mind,1.1559066143122394
+injury to persons,1.0
+decision in mallawwa,0.5
+bunch,0.4852374839537869
+whereas section,0.8333333333333334
+risks,1.0984615384615384
+institution bu,0.5
+batch,1.2940630797773658
+employee,6.280487804878048
+reasons,1.3749054007567938
+sections,1.640495469442838
+other than passenger,0.5
+prescribed matter,1.0
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+goods vehicle,11.0
+meaning,1.8612727545949643
+matters,1.4810665618448637
+particulars of any conditions,0.5
+inter,3.683850287482992
+insurance policy,2.6666666666666665
+foregoing reason,1.0714285714285714
+words of mine,0.5
+co - operative society,0.0
+sub-clause,0.0
+amendment in the motor vehicles act,0.5
+compensation act,2.3333333333333335
+court,12.24425115501509
+speaks,0.49714285714285716
+employment,1.5239770785161355
+insurance company,1.4965986394557822
+airsc in this case,0.5
+agreement,3.450434632433366
+owner of a passenger,0.3333333333333333
+other authority,1.0666666666666667
+fact that decision,0.6666666666666666
+person,4.291511329454258
+ors,2.8612718198296623
+statutory liability upon the owner,0.5
+prescribes compulsory coverage,0.5
+way,1.7812722068664852
+proviso to section,3.3181818181818183
+behalf,1.9888053603529987
+respect of bodily injury,1.3333333333333333
+even passenger,0.5
+case center,1.0
+mallawwa,3.0
+cause,1.8431210321626654
+requirement of an insurance policy,0.0
+passenger in a  good carriage,0.0
+death on account,0.5
+conductors,0.21818181818181817
+a good carriage,0.5
+terminologies,0.5
+class of persons,0.9333333333333332
+aspect,1.2449448189023034
+case of that person,1.0
+cab,1.3333700865538343
+number,1.4802651440973922
+decisions,1.3888475974580996
+relevant provisions,1.5
+policy to the extent,1.6666666666666667
+decision,2.9514937765898557
+act deal,1.736842105263158
+erroneous impression,0.5
+oriental insurance co ltd,1.2
+statutory liability,2.4285714285714284
+use for the carriage,0.5
+use of a vehicle,1.0
+aforesaid,2.592896174863388
+other person,0.9635036496350365
+claim,2.817264601856604
+terms of the provisions,1.4782608695652173
+justice of india,2.1333333333333333
+case centers,1.0
+changes,0.8318262938726949
+limit of liability-,0.0
+doubts,0.6666666666666666
+bearing on the question,0.8
+appeal,3.4125488033856883
+subject to the limits,1.0
+save,0.579674406424581
+good,2.6154941054299674
+scr,2.483838975311538
+decision in new india assurance company v,0.5
+interpretation,1.518366298484459
+property of a third party,2.75
+read,2.2147281730888695
+tickets on the vehicle,1.3333333333333333
+amended,1.577246283128636
+learned counsel for the respondents,1.394736842105263
+month,1.3454861111111112
+year,2.8349484769759212
+owner of goods,1.0
+stage,1.1298537871524448
+alia,0.9479866480753792
+educational institution bu,0.5
+irrespective of the class,0.5
+judgment,3.288216560509554
+hire,0.7466666666666667
+prescribed particular of any condition subject,0.0
+reason of clause,0.5
+whole journey,1.0
+for the insurer,1.3333333333333333
+subject,2.4420366233344897
+compensation in respect,0.75
+terms-,0.0
+order,5.472481489660944
+ground that the case,0.5
+injury,1.7199352451433856
+act,12.870263922028107
+sub-section,0.0
+smt,0.7459757206267715
+pursuance,1.543859649122807
+clas,2.1196191893660425
+deceased passenger,1.0
+state government,3.027142857142857
+effect,2.184583388478191
+passengers in goods carriage,0.5
+view of the decision,1.0
+carriage of passengers,1.3333333333333333
+passenger vehicle,0.30000000000000004
+prescribed matters,1.0
+good carriage,1.0
+term of clause,0.0
+reason of the change,0.5
+court in mallawwa,1.0
+motor vehicles against third party risk,0.5
+deals with requirements,0.5
+act correspond,1.0
+same as section,0.5
+prescribed particular of any conditions,0.0
+with section,1.3920000000000001
+thereof deal,1.0
+amended provision,2.8823529411764706
+section,9.287987283173626
+herein,2.825259515570934
+rupees for each individual passenger,1.0
+regard to the importance,0.75
+opinion that the meaning,0.5
+thereunder,1.2794117647058825
+condition,2.259476395625584
+identical with section,0.5
+policy of insurance,3.6
+representative,1.0617102796119673
+place,2.333104345208554
+driver,0.8230211045255637
+fares,0.37499999999999994
+condition subject,0.75
+compulsory coverage in respect,0.5
+requirement of policies,0.0
+following term,1.6170212765957446
+regard,2.723310344827586
+reward,0.8099433606041535
+provisions of the old act,0.5
+context,0.9269383697813122
+owner of a goods carriage,0.5
+aspect in view,0.5
+bunch of appeals,1.0
+class,2.1508512849922936
+occurrence,2.1343873517786562
+clarification of an inherent position,0.5
+issue,2.766776251628934
+goods vehicles,0.5
+form,2.4865961263718424
+leave petition,2.013333333333333
+chapter before the uses,0.5
+days,1.6721350893491447
+expression  to any person,0.0
+pre - existing statute,0.0
+particular of any condition subject,0.0
+contract,6.227349970404598
+motor vehicles against third party risks,0.5
+records,0.9879294336118848
+carriage of goods,2.5
+thousand rupees for each individual passenger,1.0
+oriental,0.5137362637362637
+judgment of this court,2.1029411764705883
+either clarificatory,0.5
+cases under category,0.5
+prescribed particular,1.0
+mallawwa s case,0.0
+prescribed time,1.0833333333333333
+subsequent amendment,1.875
+scrutiny of the provisions,0.5
+sub,7.816899313759727
+dependants,1.75
+course,1.6545957498716626
+legislative,2.4237377279102383
+provision of motor vehicles act,0.0
+mr rawat,1.0
+rawat,0.6666666666666666
+irrespective,0.7304347826086957
+oriental insurance company ltd,0.5
+pal,1.6504163634893685
+company,5.864471879286695
+class of person,0.9333333333333332
+definition of goods vehicle,1.0
+operative,1.2876712328767126
+amendment,2.2486412346818434
+ground,1.4186722903211633
+passenger travelling in a goods vehicle,0.5
+other case,0.6654088050314465
+damage,1.8281814532316336
+thereof deals with liability,0.5
+requirement to cases,0.5
+more than sixty passengers,1.0
+stray occasions,0.5
+owner of a motor vehicle,0.6666666666666666
+impugned judgment,2.0927152317880795
+forms particulars,1.0
+damage to any property,2.5
+more than sixty passenger,1.0
+contractual liability,1.25
+matter,2.8088923076923082
+limit of liability,1.0
+relation,1.397320207820618
+scrutiny,0.912987012987013
+amplification of the pre-existing statute,0.0
+few word,0.3555555555555555
+bearing,0.7901184156798694
+as section,0.8333333333333334
+public place,1.3533834586466165
+provision of section,1.4827586206896552
+passengers,1.709750566893424
+term,3.6255105640901575
+conductor,0.4440528634361234
+old act,1.2222222222222223
+view,2.441100058469462
+liability,2.532836248924577
+generality of the main provision,0.5
+requirements,0.7375979875979877
+such policy whichever,0.6666666666666666
+opinion,1.4960606342789635
+definitions of the terminology,0.5
+liability upon the owner,0.5
+even passengers,0.5
+use,5.06801278974993
+correspond,0.9349004557447829
+than the limited liability,0.5
+pre - existed expression  injury to any person,0.0
+passenger for hire,0.0
+requirements of policies,2.0
+lord,1.6027618015615013
+act correspond to section,0.5
+logical conclusion,0.43636363636363634
+sweep,0.9338152247571719
+motorcab,0.5
+for a period,1.0736842105263158
+vehicle pursuant to a contract,0.5
+record,2.5393414390845273
+classes of persons,2.25
+situation under the motor vehicle act,0.5
+vehicle in question,0.5333333333333333
+pointed issue,0.75
+petitions,1.3930830039525692
+defence,1.3606588776096535
+maxicab,0.5
+uses,1.4908719787871272
+use of the vehicle,2.75
+turn,1.6310093128618173
+supreme court in the case,0.5333333333333333
+judge bench,2.8472222222222223
+purshottam,1.0
+provision,5.439002243350069
+thirty passenger,0.5
+accident,1.7464867454487383
+clarificatory,1.75
+statutory liability on the owner,0.5
+requirement of this chapter,0.0
+effect for the purposes,1.0
+provisions of section,2.762376237623762
+respect,2.6704963235294117
+months after such commencement,0.6666666666666666
+terms of clause,2.0526315789473686
+business,2.8512056385864457
+fare,1.2296887159533072
+lakh rupee,0.8
+expression  injury to any person,0.0
+public place at the time,1.0
+importance,0.8632871064467765
+than passenger,0.5
+fact,3.6284951019474962
+removal,0.7204301075268817
+owner,2.9502416709822197
+learned counsel,3.703333333333333
+new india assurance co v,0.6666666666666666
+workmen,6.571428571428572
+compulsory for the insurer,0.5
+expression,1.7424391201885312
+owner of a vehicle,1.3333333333333333
+respect of death,1.3333333333333333
+vehicle,2.973111766564837
+requirements of an insurance policy,0.5
+claimants,1.8627450980392155
+clauses,1.5486111111111112
+chief,1.9429638234317954
+special,1.7363344051446945
+stray occasion,0.5
+transport,1.8361522198731504
+object,1.4940119760479043
+few word of mine,0.0
+india assurance co v,0.6666666666666666
+particulars,0.9472222222222222
+thereto,1.0358342665173572
+policy whichever,0.6666666666666666
+other clas,0.42352941176470593
+thereof deal with liability,0.0
+prescribed particulars of any condition subject,0.6666666666666666
+viii,0.7209469153515065
+law for the time,1.945945945945946
+victims,0.9
+extent,1.410108024691358
+applicability of decision,0.5
+necessity,0.7072538860103627
+such passenger,0.5
+such commencement,0.875
+applicability,1.0928961748633879
+effective for a period,0.6666666666666666
+good law,0.5743589743589743
+compensation to the dependants,0.5
+doubt,1.3646267723102583
+other prescribed matter,1.0
+defences,1.1904761904761905
+thousand rupee for each individual passenger,0.0
+contract carriage,1.0
+sixty passengers,1.0
+different form,0.4782608695652174
+certificate of insurance,2.0
+party,2.2250894654439723
+angle,0.4852556924225457
+exception to the main provision,0.5
+anything,0.9132309941520469
+limits of liability-,0.0
+definitions,0.5973524544953117
+requirements of this chapter,1.3333333333333333
+definition,1.6460425937698666
+instant case,2.0631578947368423
+different case,1.0
+main provision,2.1666666666666665
+to the insurer,2.1666666666666665
+commencement,1.2037037037037035
+justice,2.292557084574302
+the act,5.708327371273712
+speak,0.7624080721158905
+party risk,2.75
+separate fare,1.0
+respect of any accident,0.6666666666666666
+impugned judgment of the tribunal,1.0
+particular of any conditions,0.0
+date,6.195616975795285
+interpretation of the provisions,1.0
+original act,0.8
+centers,0.5012531328320802
+forms,0.8089941394570028
+compulsory,1.5719298245614035
+society,2.1182859399684046
+party risks,1.0
+stages,0.7858851674641147
+rupees,2.311111111111111
+few words,0.3555555555555555
+chief justice,4.684210526315789
+respondent,4.757894736842104
+different forms particular,1.0
+expression  every motor vehicle,0.0
+institution,2.7327010745685443
+employee of a person,1.3333333333333333
+employees,4.611008798854102
+day,1.550999710228919
+vehicle for the purposes,0.5
+other than the limited liability,0.5
+reasons of clause,0.5
+careful scrutiny of the provisions,0.5
+court in satpal singh,1.0
+question,2.980312372067635
+effect thereof,0.8571428571428571
+sub-clauses,0.0
+decision of the court,1.1666666666666667
+scmanu,7.940520446096654
+word,2.065873981084096
+chapter,1.3867471532446152
+reward at separate fares,1.0
+appeals,1.7060218112849692
+months,1.1938163721148947
+amount,3.179688593072295
+august,0.977116704805492
+motor vehicles act,2.8461538461538463
+liability-,0.0
+case of a goods vehicle,1.0
+passenger travelling,0.5
+transport vehicle,1.1111111111111112
+lakh rupees,0.8
+supreme court,1.4278957326045825
+respect of passengers,0.6666666666666666
+respect of damage,1.0
+forms particular,1.0
+thirty,0.8259303721488596
+authorised representative,2.6
+high,5.367119186841496
+following terms,1.5957446808510638
+month after such commencement,0.0
+bodily injury to any passenger,1.6666666666666667
+wide term,1.0
+sic,1.1611481056257176
+account,2.5754891049671977
+event,1.4310854436179261
+carriage,1.5087040618955512
+force,1.6009408121948314
+policy in respect,1.3333333333333333
+permit,1.2568972835314092
+difference in the definitions,0.5
+property,2.9368986630013745
+occurrence of the event,1.0
+public service vehicle cause,1.3333333333333333
+satpal,2.6666666666666665
+third party risks,1.0
+proviso,2.112
+objects,0.7297830374753452
+purpose,2.519170317925504
+different cases,1.0
+law,3.538923411654744
+nos,1.2635492554198444
+change,1.2214862766571903
+relation to the death,0.30000000000000004
+as the court,0.68
+compensation amount,1.75
+time,2.4764180952862667
+respective terminology,0.0
+cases,1.9728229418951067
+other than the driver,0.5
+individual passengers,1.0
+other prescribed matters,1.0
+respect of persons,0.6666666666666666
+limit of seventy - five thousand rupees,0.0
+insurance,1.7782738095238095
+sixty passenger,1.0
+prescribes compulsory coverage against the death,0.5
+limited liability,1.2
+commencement of this act,1.7142857142857142
+widest interpretation,0.5
+particulars of any condition subject,0.6666666666666666
+patnaik,0.8333333333333334
+driver for hire,0.5
+victim of the accident,0.5
+provisions of motor vehicles act,0.6666666666666666
+limit,2.3804570428443834
+assurance,0.9418901660280969
+careful scrutiny,0.6666666666666666
+that vehicle,0.9000000000000001
+india assurance company v,2.0
+addition,1.5588539142412572
+which expression injury to any person,0.5
+which-,0.0
+mine,2.2136866773770394
+vis-a-vis,0.0
+march,1.0644238856181665
+certificate,2.732600732600732
+exception,1.1036946087733006
+pre - existed expression  injury,0.0
+ticket,4.323630136986301
+motor cab,1.0
+statutory defence,2.0
+counsel,2.2246780703440323
+separate fares,1.0
+limits,0.8405888207868406
+reads,0.8722657304887929
+liabilities,1.0606060606060608
+policy,3.250773332247955
+india,2.7684068260703585
+which passenger,2.5
+rules,3.130914366958792
+than a liability,1.3333333333333333
+prescribed particulars,1.0
+expression  any person,0.0
+claimant,2.3438596491228068
+regard to the context,0.6666666666666666
+view of the fact,0.8707482993197279
+place at the time,1.0
+ticket on the vehicle,0.0
+case of new india assurance company v,0.5
+new,0.9418497626301229
+private service vehicle,0.5
+defences against the claim,0.5
+law by way,0.6666666666666666
+sinha,0.8166351606805294
+risk,1.2477718360071302
+special leave petitions,1.6296296296296295
+submissions,0.5235745614035088
+sweep of section,0.5
+rupee,2.2291666666666665
+ltd,2.382356477306883
+dispute,2.402137592137592
+speaks of liability,0.5
+submission,1.0913871684001404
+singh s case,0.0
+special leave petition,2.013333333333333
+drivers,0.27757032611401544
+motor,1.832417821954835
+more than thirty,0.5714285714285714
+decision of this court,2.3260869565217392
+conditions,1.9988092071092867
+victim,1.204831365285174
+passenger,1.8365885416666665
+stage carriage,3.75
+seventy-five thousand rupees,0.0
+third party risk,2.75
+deal with liability,0.0
+case,7.332269420884958
+difference,0.8774847235514982
+period,1.9480170842427122
+insurer in favour,1.0
+day of the expiry,0.0
+scc,1.941872465904902
+conductor of the vehicle,1.3333333333333333
+educational institution bus,0.5
+journey,0.5833333333333334
+employment-,0.0
+such other authority,1.0
+act deal with insurance,0.5
+insurance co ltd,2.076923076923077
+stage of the journey,0.0
+discussions,0.6699766355140188
+cover note,3.0
+singh,3.7791111111111113
+deal with requirements,0.0
+purposes,1.4391216613438835
+new india assurance company v,2.0
+limits of liability,1.75
+service,4.257395095954566
+therefore,2.960332350576253
+inter alia,1.3280423280423281
+rule,5.04
+center,0.9521598338119387
+favour,1.653145208700764
+than passengers,0.5
+policies,0.5962145110410095
+insurer under the provisions,1.0
+supra,2.246342614440774
+wide terms,0.6666666666666666
+bench,2.5793391667754992
+such other authority as the state government,1.0
+respondents,2.6341263330598856
+such passengers,0.5
+leave,1.0147842365477848
+employee of the owner,0.0
+rival submission,1.0454545454545454
+pushpabai purshottam udeshi,1.0
+reconsideration by a larger bench,0.6666666666666666
+few words of mine,0.5
+subject to the proviso,1.0
+aforementioned provision,1.1
+slp,1.291953447628582
+coverage in respect,0.5
+pushpabai purshottam udeshi s case,0.0
+carrying,0.9278807413376311
+motor vehicle act,0.8
+different forms particulars,1.0
+compensation for the death,0.5
+explanation-,0.0
+goods,4.7578125
+much as the court,0.5
+thousand rupees,1.625
+rival submissions,1.0454545454545454
+service vehicle cause,1.3333333333333333
+pal singh,2.3157894736842106
+injury to any passenger,1.6666666666666667
+days of the expiry,1.0
+particular,1.5248953455371081
+shall,3.6283780276816606
+batch of appeals,1.3125
+than the driver,0.3333333333333333
+chief justice of india,2.066666666666667
+compensation to the owner,0.6666666666666666
+to the victims of the accident,0.5
+business of an insurer,0.5
+additional premium,2.3333333333333335
+goods carriage,3.3333333333333335
+public service vehicle,5.333333333333333
+owner of the goods,3.3333333333333335
+damages,1.7104072398190044
+case under category,0.0
+omission,1.1856094505101127
+bench of this court,1.8271604938271604
+vis-a-vi,0.0
+conductor of public service vehicle,0.0
+clarificatory in nature,0.5
+conductors of public service vehicle,0.5
+necessary for the insurer,0.5
+reason,2.6381270903010035
+other than passengers,0.5
+earlier decision,1.5454545454545454
+deals,1.3395407335280751
+clarification,1.0567698846387372
+workmen s compensation act,0.0
+lakh,1.3647388059701493
+respect thereof,1.0666666666666667
+which passengers,2.5
+bus,2.020565168811983
+vehicles,1.4161490683229814
+position,1.549133168619177
+ratio of this court,0.75
+beneficial to the victims of the accident,0.5
+word of mine,0.0
+udeshi,0.6000000000000001
+workman,2.3486111111111114
+petition,5.3436539306104525
+category,1.9351744779266717
+limit of rupees,1.0
+amended provisions,2.5384615384615383
+matter from another angle,0.6666666666666666
+insurer,8.041666666666664
+construction,2.2504918032786887
+vehicle of any other class,0.5
+words,1.6384367086179112
+representative dies,0.5
+date of expiry,1.1666666666666667
+clause,3.526455026455027
+instant case centers,1.0
+than sixty passenger,1.0
+purpose of such amendment,0.5
+thousand rupee,1.625
+respect of the death,5.333333333333333
+seventy-five thousand rupee,0.0
+premium,1.799652777777778
+effect of the amendment,0.5
+aforementioned provisions,0.875
+generality,0.5454545454545454
+appeal to the high court,2.25
+carrying of passengers,0.5
+tickets,5.228898426323319
+liability on the owner,0.6666666666666666
+legislature,2.818553268765133
+insurance company ltd,0.75
+authority,2.4352627108360636
+representative dy,0.0
+judge,2.9012627415183325
+expression  injury,0.0
+manuscmanusc,7.940520446096654
+other class,0.42352941176470593
+definition of the terminology,0.0
+provisions,3.8929824561403508
+death,2.361592909460208
+addition to passengers,1.0
+deals with liability,0.5
+passengers-,0.0
+pushpabai,1.0
+available to the insurer,1.0
+speak of liability,0.0
+bodily injury to persons,1.0
+vehicle pursuant,0.5
+reconsideration,1.0846153846153848
+necessity for insurance,0.5
+vehicle in which passengers,2.5
+conclusion,1.3883437407077015
+third party,1.053291536050157
+liable therefore,0.6666666666666666
+ratio,5.027061939235792
+to the victim of the accident,0.0
+instant case center,1.0
+earlier decision of the court,0.75
+relevant provision,1.5737704918032787
+sub-claus,0.0
+satpal singh s case,0.0
+than thirty,0.5714285714285714
+inherent position,0.5
+questions,0.9979150871872632
+suffer,0.9987778769729485
+plain meaning,0.9230769230769231
+prescribed form,2.375
+employees of the owner,0.5
+larger bench,2.0606060606060606
+pursuance of a contract,1.75
+thereof deals,0.6666666666666666
+assistance,0.8623872906826965
+institution bus,0.5
+controversy in the instant case centers,1.0
+conclusion that the insurer,0.5
+foregoing reasons,1.0714285714285714
+liability under the insurance policy,0.5
+hand,2.0299623418254717
+liability in respect thereof,0.5
+leave petitions,1.6296296296296295
+iii,1.5614499719992534
+liability in respect,2.4
+satpal s case,0.0
+bodily injury to any person,1.7333333333333334
+regard to the aforementioned provisions,0.5
+dies,1.029790972276051
+no doubt,0.8331331503088538
+occasion,0.7946745562130177
+rupee for each individual passenger,0.0
+busines,2.8488759960122034
+satpal singh,2.5
+cause of action,2.1470588235294117
+appellant,14.387096774193548
+amplification,0.4666666666666667
+supreme,1.443815331010453
+prescribed particulars of any conditions,0.5
+instant,1.131578947368421
+requirement,1.2416133333333332
+high court,7.7477477477477485
+whichever,0.8426966292134831
+state,6.817996007300392
+risk of the passengers,0.0
+statute,2.5765859456247218
+classes,1.212856534695615
+note,1.3654108484234107
+amount of liability,1.0
+controversy,0.8593204191806921
+deal,2.1942302694273583
+insurance policy in terms,1.0
+other than a liability,1.3333333333333333
+motor vehicles,2.5142857142857147
+prior,1.1843036382221124
+injury to any person,1.888888888888889
+manu,7.078142071124147
+bodily injury,3.25
+which expression injury,0.5
+impression,0.6037621359223301
+period of the validity,1.0
+damages to any property,0.6666666666666666
+respective terminologies,0.5
+interpretation of the proviso,0.5
+motor vehicle,2.852852852852853
+term of the provisions,0.0
+authorized insurer,1.0
+airsc,1.6909090909090911
+chapter viii,1.0
+compulsory coverage,1.0
+nature,1.4149926876444778
+different forms,0.5714285714285714
+cover,2.502726787041524
+discussion,0.7445831166579996
+passenger in goods carriage,0.0
+behalf of the insurer,0.5
+provision of the old act,0.0
+categories,0.8800000000000001
+tribunal,5.07183212267958
+policy which-,0.0
+view of the changes,0.5
+situation,1.1254754682459434
+compensation,3.7916666666666665
+thirty passengers,0.5
+service vehicle,5.666666666666667
+explanation- for the removal,0.0
+passengers for hire,2.0
+coverage,0.4867549668874172
+other authority as the state government,1.0
+action,3.127292663476874
+terminology,0.42500000000000004
+risks of the passengers,0.5
+individual passenger,2.0
+persons,2.5993381990166555
+insurers,0.4615384615384615
+classes of person,2.4
+dependant,1.0549450549450547
+sat,2.4478496657838313
+that angle,1.0

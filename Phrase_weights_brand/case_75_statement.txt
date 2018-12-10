@@ -1,0 +1,331 @@
+lodging house rates,1.0
+particulars of the consent,1.0
+hotel,0.8866352770735241
+record from the custody,2.0
+particular of the consent,0.0
+niwa,0.5904761904761905
+order of the high court,1.296875
+point,2.9165043546008516
+attempt,0.7943782192788815
+abortive attempt somehow,0.5
+today,0.6330563683773655
+permanent structure by the tenant,1.0
+petitioner,4.524972253052164
+records,0.9879294336118848
+many grounds,0.5
+alleged consent,0.5
+prayed,0.5974815458098133
+appeal by special leave,1.04
+prior sanction,1.75
+city,2.544592792669584
+common judgment,1.3636363636363635
+available certified copy of relevant records,0.0
+particular,1.5248953455371081
+tenancy,3.0545454545454542
+appeals,1.7060218112849692
+step,0.8867024753460084
+same to the respondent,0.75
+suit premise,5.0
+months,1.1938163721148947
+bona fides,0.4385964912280702
+ground for eviction,1.0
+eviction,4.764705882352941
+averment of a negative fact,0.5
+statement,2.5393160135035964
+indulgence,0.5333333333333333
+structure,1.568520357497517
+steps before the trial court,0.5
+months  time,0.0
+building plans unless the application,0.5
+steps,1.169318181818182
+premise,1.2347417840375587
+sub,7.816899313759727
+dattaraya,0.5
+filing,1.1274190041313328
+relevant record,1.1111111111111112
+usual undertaking,0.75
+statement of such consent,0.5
+grounds,0.9540208829455945
+high,5.367119186841496
+tenant - petitioner,0.0
+effort,0.7536036036036036
+week from today,0.75
+absence of consent,0.5
+application,2.3322596088086445
+niwas,0.761904761904762
+interest,2.74353772015385
+sic,1.1611481056257176
+court,12.24425115501509
+consent on writing,0.5
+commercial activity,1.3333333333333335
+event,1.4310854436179261
+custody,1.4166666666666667
+tenancy rights,2.3333333333333335
+satisfied that no case,0.6666666666666666
+shri niwas patki,0.5
+production,2.1071428571428577
+ground,1.4186722903211633
+several relevant factors,1.0
+road,1.0764686576960945
+rates,0.9535092413452435
+application in the high court,0.5
+tenant-appellant before the trial court,0.0
+property,2.9368986630013745
+petition,5.3436539306104525
+suit,2.485274378207659
+prayer,0.6969296987087519
+judgment of the appellant court,0.5
+appellate court,3.1458333333333335
+defendant,3.7706855791962175
+purpose,2.519170317925504
+trial court,3.854545454545455
+law,3.538923411654744
+dinning,0.25
+construction,2.2504918032786887
+lavatory,0.5
+custody of the municipal corporation,2.0
+part,5.294464509893076
+certified copies of the relevant records,0.5
+original record from the custody,0.5
+time,2.4764180952862667
+certified copy of the relevant records,0.0
+matter,2.8088923076923082
+attempt somehow,0.5
+devoid,0.5094339622641509
+nothing,0.8658723322806009
+tenant,4.821212121212122
+relevant factors,0.8608695652173913
+article,4.378806157159795
+structure by the tenant,1.0
+bombay,2.3134020618556703
+rent,2.460251217077583
+devoid of any merit,0.875
+plea,1.4430487701432178
+appellants  prayer,0.0
+clause,3.526455026455027
+original record,0.6666666666666666
+by the municipal corporation,1.0
+court with the direction,0.5
+appellants,7.701086956521739
+plan,2.0162821688398056
+number,1.4802651440973922
+shri,2.0759135877246115
+subject matter,1.2537313432835822
+view,2.441100058469462
+consent of the landlord,1.3333333333333333
+building plan,2.875
+decision,2.9514937765898557
+activities,1.57291280148423
+predecessor,0.9857142857142858
+significance,0.6059966216216216
+available order clause,0.5
+bona fide,0.9259259259259259
+opinion,1.4960606342789635
+landlord,3.643181818181818
+constitution in the high court,0.8
+sanction of the pune,0.5
+of any merit,0.875
+provisions of the bombay rents,0.5
+merit,1.2419290263876248
+pune,1.3423295454545454
+consent in writing,2.3333333333333335
+aggrieved tenant,0.5
+municipal corporation,1.3439153439153437
+record of the municipal corporation,0.5
+appellant court,1.2
+hall,3.9250655062698865
+tenant s appeal by special leave,0.0
+house,2.0021735292386764
+vagueness,0.8571428571428572
+crucial issue for decision,0.5
+appeal,3.4125488033856883
+petition under article,1.6388888888888888
+right,3.07483248288682
+hereinafter,0.7670609645131939
+landlord - respondent,0.0
+predecessor in interest,1.0
+certified copies,1.0
+authority,2.4352627108360636
+high court with the direction,0.5
+provisions,3.8929824561403508
+certified copy of relevant records,0.0
+available certified copy,0.0
+such consent,1.25
+record,2.5393414390845273
+activity,1.3846153846153848
+denial,0.8338926174496643
+writing of the landlord,1.5
+turn,1.6310093128618173
+absence,1.092363454568179
+counsel,2.2246780703440323
+prior sanction of the pune,0.5
+month,1.3454861111111112
+landlord as the law,0.5
+learned counsel for the respondents,1.394736842105263
+year,2.8349484769759212
+provision,5.439002243350069
+bona fide of the plea,0.0
+corporation,3.6427750743444176
+wake,0.47528517110266155
+record point,0.2
+issue for decision,0.5
+averment,1.7
+occupation,1.1158072696534236
+long time,0.5379746835443039
+kitchen,0.5454545454545454
+plans,2.01766620176662
+tenancy premises,1.0
+suit premises,5.0
+defendants,2.3554376657824934
+authorities,1.266131845134287
+judgment,3.288216560509554
+weeks,0.8109161793372318
+special leave,1.903225806451613
+structure over the tenancy,0.5
+bona fides of the plea,0.5
+constitution before the high court,0.6666666666666666
+weeks from today,1.2
+to the respondent,2.1153846153846154
+subject,2.4420366233344897
+opinion of the appellate court,0.5
+premises,1.290983606557377
+crucial issue,0.6666666666666666
+building plans,2.0
+fact,3.6284951019474962
+order,5.472481489660944
+vagueness in the pleadings,0.5
+view of the fact,0.8707482993197279
+building for restaurant,0.5
+owner,2.9502416709822197
+background,0.6800452488687784
+learned counsel,3.703333333333333
+act,12.870263922028107
+sub-section,0.0
+relevant factor,0.8663594470046083
+whisper,0.5142857142857143
+on the record point,0.5
+inability,0.7162534435261708
+permanent construction,1.0
+tenant in the year,0.5
+building,3.870745432459903
+permanent structure,1.6666666666666667
+learned counsel for the parties,1.263157894736842
+plaint,3.104295112903434
+such averment,0.75
+provision of the bombay rents,0.0
+ground of eviction,0.5
+positive averment of a negative fact,0.5
+pleading,1.1270125223613594
+effort for production,0.5
+occasion,0.7946745562130177
+several relevant factor,1.0
+possession of the premises,1.0
+possession,2.808810857389056
+city of pune,0.6666666666666666
+necessary for the tenant,0.5
+particulars,0.9472222222222222
+week,0.8253498691546249
+appellants  effort,0.0
+decree of the trial court,1.0
+appellant,14.387096774193548
+tenancy right,2.5
+copy,0.8620926631522174
+available certified copies,0.5
+rights in the property,0.5
+specific pleading,0.75
+vaguenes in the pleadings,0.0
+commercial activities,1.0666666666666667
+pendency,1.0084033613445378
+landlord - respondents,0.0
+possession of any premises,0.6666666666666666
+hearing of a petition,0.5
+high court,7.7477477477477485
+landlord s consent,0.0
+fides of the plea,0.5
+tenancy premise,1.0
+alleged consent on writing,0.5
+parties,1.8210828547990157
+patki,0.25
+sanction,2.0167207792207793
+state,6.817996007300392
+chiplunkar,1.5
+case,7.332269420884958
+municipal authorities,2.6
+period,1.9480170842427122
+sanction of the municipal corporation,0.5
+light,0.8816192372754331
+negative fact,0.5
+certified copies of relevant records,0.5
+case of consent wherein,0.5
+section,9.287987283173626
+trial,3.7979448350459712
+bombay rent,2.2
+pendency of the proceedings,0.8333333333333334
+vaguenes,0.8571428571428572
+many ground,0.3333333333333333
+consent wherein,0.5
+copies,0.5369304682962884
+rate,3.088725136774248
+constitution,3.204842342342342
+certified copy,2.6923076923076925
+party,2.2250894654439723
+widow,0.45833333333333337
+puram,1.0666666666666667
+factors,0.9829522460542292
+fide,0.8955057484612704
+submitting,0.4181818181818182
+dattaraya chiplunkar,0.5
+factor,1.2878742338904643
+undertaking,2.8508771929824563
+proceedings for eviction,0.6666666666666666
+significance in the light,0.5
+relevant records,1.1428571428571428
+learned counsel for the appellants,1.7142857142857142
+records of the municipal corporation,0.5
+restaurant,0.5578947368421052
+permanent structure over the tenancy,0.5
+part of the record,0.6666666666666666
+tenancy by the appellant,0.5
+positive averment,0.5
+step before the trial court,0.0
+abutting,1.0000000000000002
+pendency of petition,0.5
+proceedings,1.7670925223666287
+right in the property,0.0
+denial of the ground,0.5
+lodging house rate,1.0
+that no case,1.0
+decree,3.732408834103749
+traceable by the municipal corporation,0.5
+undertaking within a period,0.5
+consent,1.224924012158055
+direction,1.8495050210098996
+available on the record point,0.5
+bombay rents,0.6666666666666666
+available certified copies of relevant records,0.5
+rights,1.6349541930937281
+tenant - appellant,0.0
+usual undertaking within a period,0.5
+fides,0.6470588235294118
+for the tenant,1.0
+fault,0.8125244007183572
+rents,1.509324009324009
+opinion that the prayer,0.5
+control,2.148867902684286
+fide of the plea,0.0
+wake of such averment,0.5
+order clause,0.5
+hearing,0.9644508209787979
+lodging,0.8205128205128205
+respondent,4.757894736842104
+municipal authority,1.25
+municipal,2.4099173553719004
+alternative,0.841508109794136
+respondents,2.6341263330598856
+pleadings,1.3125
+issue,2.766776251628934
+leave,1.0147842365477848
+july,0.9742727723122656
+occupation in the suit,0.5
+justification,0.6859587020648967
+writing,1.1746753246753248

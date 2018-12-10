@@ -1,0 +1,234 @@
+attempts,0.43171440431714403
+restriction,1.0123456790123457
+attempt,0.7943782192788815
+malicious intention,1.5
+belief,1.0362637362637361
+to public order,2.25
+belief of a class,0.0
+article in terms,0.3333333333333333
+protection of clause,1.0
+modi,1.248798010500138
+word,2.065873981084096
+scmanu,7.940520446096654
+petitioner,4.524972253052164
+chapter,1.3867471532446152
+code,2.880559796437659
+writ,2.8882378560889794
+calculated tendency,0.5
+sarim,0.171875
+other words,0.7578482137053969
+restriction on the right,0.5
+religious beliefs,0.9066666666666666
+validity,1.521010638297872
+variety of insults,0.0
+constitution of india,3.0095238095238095
+religion,3.489119987394627
+entire law,0.3333333333333333
+meaning of clause,1.0
+maintenance,0.8632111808077473
+insults to the religion,0.5
+that class,0.6944444444444444
+constitutional validity of section,1.0
+tranquility,0.7259259259259259
+such activities,0.6666666666666667
+view of the language,0.8
+public order,1.6666666666666667
+terms,2.390350840909655
+validity of section,1.3
+meaning,1.8612727545949643
+restrictions on the citizens,0.5
+grounds,0.9540208829455945
+lal,1.6786163249382287
+high,5.367119186841496
+possibility of the law,0.5
+interest,2.74353772015385
+freedom,1.9254884143571103
+court,12.24425115501509
+beliefs,1.0649560795191864
+interests of public order,2.5
+religious feeling of that class,0.0
+ground,1.4186722903211633
+place clause,0.6666666666666666
+citizens,1.0493208639501226
+writ petition,6.24223602484472
+petition,5.3436539306104525
+prayer,0.6969296987087519
+objection,1.68120480131216
+insult to the religion,0.0
+view of the aforesaid,1.2580645161290323
+purpose,2.519170317925504
+law,3.538923411654744
+way,1.7812722068664852
+impugned section,1.0
+observation,0.7625074854374218
+cases,1.9728229418951067
+liberty,0.7860465116279071
+matter,2.8088923076923082
+such activity,0.40909090909090906
+insults,0.942857142857143
+words,1.6384367086179112
+article,4.378806157159795
+legislative action,0.6000000000000001
+citizens of india,0.6666666666666666
+bearing,0.7901184156798694
+act of insult,0.5
+freedom of speech,2.2937062937062933
+acts of insults,0.5
+religious feeling,0.75
+morality,0.7400332225913622
+clause,3.526455026455027
+question of severability,0.5
+constitution bench,4.27536231884058
+term,3.6255105640901575
+air,2.0589664272145285
+breach of public order,0.5
+vires,2.388888888888889
+penal,1.8829173709853835
+articles in terms,0.5
+decisions,1.3888475974580996
+subject to public order,1.75
+acts,1.9133929521984454
+severability,0.6666666666666666
+that clas,0.6944444444444444
+view,2.441100058469462
+decision,2.9514937765898557
+activities,1.57291280148423
+religious feelings of that class,1.5
+opinion,1.4960606342789635
+ingredient,1.2242798353909468
+articles,1.4349688743466387
+heard mr sarim,0.5
+aforesaid,2.592896174863388
+reasonable restriction,0.7
+many case,0.5186751233262861
+disorder in some cases,0.0
+penal code,2.710144927536232
+feelings,0.5829725829725829
+limit,2.3804570428443834
+act of insults,0.0
+right,3.07483248288682
+first place clause,0.5
+india penal code,0.5
+ramji lal modi v state of up,0.5
+public tranquility,0.6666666666666666
+constitution bench of this court,1.2647058823529411
+insult,2.2096774193548385
+manuscmanusc,7.940520446096654
+regard to the ingredients,0.5
+feelings of that class,1.5
+breach,1.3366228070175439
+activity,1.3846153846153848
+freedom of religion,1.1458333333333335
+offences,1.6681887366818873
+counsel,2.2246780703440323
+limits,0.8405888207868406
+application,2.3322596088086445
+argument,0.9504580388560493
+disorders,0.4347826086956522
+lodging of fir,0.5
+india,2.7684068260703585
+varieties of insults,0.5
+public disorder in some cases,0.0
+counsel for the petitioner,1.4242424242424243
+that clause,1.5
+chapter xv,1.0
+order,5.472481489660944
+feeling,0.4897158322056835
+learned counsel,3.703333333333333
+activities as an offence,0.5
+certain activities,0.30000000000000004
+act,12.870263922028107
+learned counsel for the petitioner,1.3214285714285714
+constitutional validity,2.6875
+expression,1.7424391201885312
+larger bench,2.0606060606060606
+variety,0.5229534147444596
+reasonable restriction on the exercise,0.0
+indian penal code,5.264705882352941
+naved,0.5
+variety of attempts,0.0
+interests,1.0562317935913441
+ingredients,0.7539893617021276
+clas,2.1196191893660425
+intention,1.7585585585585588
+aggravated form of insult,1.0
+tendency,0.5150501672240803
+many cases,0.5184774575018478
+certain activity,0.0
+different way,0.4
+reasonable restrictions on the exercise,1.0
+circumstances,1.3944461370073231
+ultra vires,1.8484848484848484
+varieties of attempts,0.5
+right to freedom,0.625
+citizen,1.261748909029876
+restrictions on the exercise,1.0
+viii,0.7209469153515065
+feeling of that class,0.0
+application to this case,0.6666666666666666
+beliefs of a class,1.5
+other word,0.758838674565131
+disorder,1.8343949044585988
+rest,3.3424534062537377
+high court,7.7477477477477485
+religious beliefs of a class,1.5
+state,6.817996007300392
+vire,1.2466124661246614
+case,7.332269420884958
+restriction on the exercise,0.0
+aforesaid observation,1.0555555555555556
+deliberate,0.8170731707317074
+section,9.287987283173626
+exercise,1.9400726466785694
+such activities as an offence,0.5
+controversy,0.8593204191806921
+question,2.980312372067635
+protection,1.1604395604395603
+restriction on the citizens,0.0
+restrictions,0.7241671372106155
+manu,7.078142071124147
+constitution,3.204842342342342
+bearing on the maintenance,0.5
+fir,2.85390975582079
+language,0.8555828468744352
+chapter xv of the indian penal code,0.5
+public disorder,1.5
+speech,1.9520676691729324
+calculated tendency of this aggravated form,0.5
+purposes,1.4391216613438835
+place,2.333104345208554
+religious belief of a class,0.0
+restrictions on the right,0.5
+circumstance,1.429931390219372
+interest of public order,1.0
+chapter viii,1.0
+possibility of this law,0.5
+maintenance of public order,0.9000000000000001
+health,0.8632619439868204
+ramji lal modi v state,0.5
+offences against the public tranquility,0.5
+regard,2.723310344827586
+varieties,0.5833333333333334
+fundamental right,2.9790209790209787
+possibility,0.7613466503601033
+ramji,9.166666666666666
+aggravated form,1.0
+permissible legislative action,0.5
+disorders in some cases,0.5
+class,2.1508512849922936
+next place,0.6666666666666666
+ultra vire,1.8484848484848484
+rights,1.6349541930937281
+religious belief,1.2857142857142858
+reference,2.1755848210276256
+bench,2.5793391667754992
+religious feelings,1.5
+reasonable restrictions,0.6015037593984962
+action,3.127292663476874
+offence,4.401610644257703
+lodging,0.8205128205128205
+public disorders,1.0
+citizen of india,0.8
+first variety,0.5
+form,2.4865961263718424
+public disorders in some cases,0.5

@@ -1,0 +1,79 @@
+single judge in the matter,0.5
+matter,2.8088923076923082
+other contention,0.9166666666666666
+sides,0.6706755273269035
+nature of the order,1.0
+stay,0.7804272356384462
+today,0.6330563683773655
+subject,2.4420366233344897
+joseph,0.4502673796791444
+tax,3.549237288135593
+cost,1.2954397451466992
+development tax component,1.0
+order,5.472481489660944
+tax component,1.5
+civil writ petition,2.2222222222222223
+notice,2.3300025999395686
+writ,2.8882378560889794
+single,1.6221488419098207
+coercive step,2.4
+step,0.8867024753460084
+appellants,7.701086956521739
+request to the high court,0.6666666666666666
+months,1.1938163721148947
+months from today,1.0
+subject matter,1.2537313432835822
+view,2.441100058469462
+liability,2.532836248924577
+demand notice,5.0
+demand notices,1.6666666666666667
+nature,1.4149926876444778
+request,1.1474439594584596
+steps,1.169318181818182
+component,0.6292906178489701
+contention,1.666391070690368
+side,3.88845645915565
+counsel on both sides,0.6666666666666666
+urban development tax,1.5
+contentions,0.9641025641025641
+jaipur,1.0
+municipal corporation,1.3439153439153437
+interim order,2.9166666666666665
+matter of civil writ petition,0.5
+coercive steps,2.4
+operation of the direction,0.5
+demand,1.5671679197994988
+appellant,14.387096774193548
+of the urban development tax component,1.0
+high,5.367119186841496
+view that the high court,1.0
+appeal,3.4125488033856883
+other contentions,0.875
+urban development tax component,1.0
+direction,1.8495050210098996
+kurian,0.9655172413793104
+deposit,2.1724508050089444
+court,12.24425115501509
+liability for the appellants,0.5
+operation,1.0959893294085181
+judge,2.9012627415183325
+high court,7.7477477477477485
+municipal,2.4099173553719004
+development tax,1.5
+kurian joseph,0.9655172413793104
+single judge,4.011627906976744
+writ petition,6.24223602484472
+petition,5.3436539306104525
+leave,1.0147842365477848
+counsel,2.2246780703440323
+case,7.332269420884958
+month,1.3454861111111112
+urban,1.1793683610180365
+development,2.3145884270578647
+notices,0.5487269534679544
+costs,0.8167395522604189
+corporation,3.6427750743444176
+judge in the matter,0.5
+stay on coercive steps,0.5
+subject matter of civil writ petition,0.5
+month from today,0.8333333333333334

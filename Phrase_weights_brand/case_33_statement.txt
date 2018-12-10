@@ -1,0 +1,1601 @@
+large members,0.2631578947368421
+speedometer,0.2090909090909091
+backdrop,0.5833333333333334
+government,3.5583785424010483
+deepak,0.45882352941176463
+lives,0.6840821832520494
+east,0.8065147296612034
+frame,1.023976722714937
+infringement of fobs,0.5
+establishment,0.9899216125419933
+tibet,0.3333333333333333
+dn jammu,2.5
+kin,2.5393682433471243
+gursaray,0.5
+further movement,0.5
+mahuava p,0.5
+tear gas shells,0.5
+union,2.0981927710843373
+financial assistance,2.7777777777777777
+financial assistance to victims,0.5
+facilities,0.9130594727161252
+robs etc,1.0
+movement of the trains,0.5
+employees commits,0.5
+higher degree,0.37037037037037035
+cause,1.8431210321626654
+way,1.7812722068664852
+railway stations on moradabad-shahjahanpur-lucknow,0.0
+cycle on a particular day,1.0
+for the accident,0.3333333333333333
+mahuani,1.0
+possible implication,0.5
+juncture,0.8717948717948718
+facility,1.2989690721649485
+district,1.5506763074237984
+jam,1.2378636688981517
+aforesaid,2.592896174863388
+close liaison with district administration,0.5
+employees commit,0.5
+test,2.5329834591340266
+broad gauge,0.5
+bridge inspection register for robfobs,0.5
+physical standard test,1.0
+month,1.3454861111111112
+station property,0.5
+additional affidavit,1.3333333333333333
+registry to the minister,0.5
+sood,0.8124999999999999
+schedule of dimensions rules,0.5
+actual available clearances,0.5
+order,5.472481489660944
+factors in consideration,0.5
+lakh of people,0.0
+parameters,0.8168253968253969
+tension wire,0.5
+candidates,3.508445945945946
+copy,0.8620926631522174
+components of the government machinery,0.5
+immediate recommendation of preliminary report,0.0
+home affair,1.1428571428571428
+post raipur rakwa ps choori choora gorakhpur,0.5
+rampur,3.0
+member,2.649111111111111
+such bodies,0.38095238095238093
+assessment if any such infringement,0.5
+civil authorities,0.3333333333333333
+expertise,0.7351351351351351
+similar effect,0.4761904761904762
+safety measure,0.37037037037037035
+above circumstances,0.875
+assertion,0.5478622435144175
+large number of aspirants,0.5
+matter for orders,0.5
+overhead fixed structure,1.0
+hospitals for medical attention,0.5
+incidence,0.6737804878048781
+foot - over bridges,0.0
+proces,1.627944583238701
+ro vill,3.3333333333333335
+great speed with large number,0.5
+police officials,2.5714285714285716
+number on roof top,0.5
+arrangement,0.7318181818181818
+men,12.280652027254101
+mohammadabad crossing in shahjahanpur division,0.5
+sundar,0.34539473684210525
+candidate,6.356675392670156
+today,0.6330563683773655
+schedule of dimensions,3.0
+boarding facilities,0.5
+registry to the secretary,0.5
+ramaserey,0.5
+distt,1.0476190476190477
+indian railway,2.3333333333333335
+free from blame,0.5
+charge,2.7679815308681284
+kher,0.9692307692307691
+kotwali,0.75
+tremendous pressure on the administration,0.5
+blood,1.1739965841161402
+hundreds,0.46310432569974547
+child,3.0202810640613067
+in division,0.5599999999999999
+large crowds,0.5
+meantime,0.5833333333333334
+scrutiny,0.912987012987013
+utter negligence,0.5
+other documents on record,0.5
+of blood,0.6923076923076922
+chandauli,0.5
+other infringements,0.5
+recruitment process,0.6666666666666666
+post,2.344803646492219
+administrations,0.3342391304347826
+itbp recruitment venue,0.5
+bodies,0.8969063256135499
+stricter care,0.5
+sufficient exercise,0.5
+aware of the fact that the foot-over bridges,0.0
+respondent  itbp,0.0
+proper exercise as the crowd,0.5
+- electrified section of moradabad division,0.0
+present in person,0.5
+yatri niwa at various railway stations,0.0
+pressure,0.6730769230769231
+parameter,0.7630669107179174
+chandrima,1.0
+sultanpur,0.5
+other documents,0.619047619047619
+removal,0.7204301075268817
+hathaurda,0.5
+such special drive,0.5
+action plan,6.4
+tradesmen,0.5
+particulars of injuries,0.5
+pravesh,0.5
+centre,1.3584842944989197
+shocks,0.65359477124183
+prasad,1.1407089151450054
+of the person,0.8409090909090909
+primary responsibility rest with those persons,0.0
+evidences,0.5483870967741935
+affidavit,2.2996987951807224
+teachers,2.506794564348521
+timing of recruitments,0.5
+report,1.7768151696835826
+protection,1.1604395604395603
+authorities at district,0.5
+choori choora,3.5
+men on roof top,1.0
+ro laxhmanpur,0.5
+ameer chandr bathora,0.5
+engg,0.4989874815905744
+regard to the incident,1.0
+factor,1.2878742338904643
+factor in consideration,0.0
+indian railways act,0.5
+threadbare,0.6666666666666666
+available at rampur station,0.5
+inspection,0.8496732026143791
+date,6.195616975795285
+railway officials,1.0
+uttar pradesh,2.8
+similar infringement,0.5
+respondent,4.757894736842104
+fact that train,0.5
+schedule,2.9453067257945307
+ansari,0.25
+ro p,0.8582251082251083
+technical knowledge,0.4444444444444444
+injured to hospitals for medical attention,0.5
+count,2.7493281810130092
+timing,0.7671232876712328
+matter of fact,0.6230936819172114
+pawan,1.0
+august,0.977116704805492
+employees of the union,0.5
+precedents,0.6333333333333333
+heading,2.130249543517955
+bapu,0.3333333333333333
+high,5.367119186841496
+so bayag bapu prasad,0.5
+payment,2.059553716565686
+redeeming feature,0.4
+boarding,0.31746031746031744
+various railway stations,0.6666666666666666
+angad avdhesh chauhan,0.5
+communications,0.7330779054916986
+from blame,0.5
+line,1.6884436630262616
+mohammadabad,1.0
+pandey,1.875
+rail,4.677880571909168
+so gn,0.5
+iowspn,0.5
+standard proforma,1.0
+nos,1.2635492554198444
+next,0.8961146277928327
+train coaches,0.5
+other legal requirement,0.5
+note in this connection,0.6666666666666666
+ro village yuvrajpur ps,0.5
+week from the date,0.6666666666666666
+stations,1.3948692152917506
+v chandrima das manuscmanusc,0.5
+rallies,0.5263157894736842
+cases road,0.5
+homes,0.6853146853146853
+stands,0.7032366540563262
+assessment of damage,0.5
+portions of chapter,0.5
+direction nos,0.5
+affairs,0.8608695652173913
+cushion,0.5
+gathering,0.6346153846153846
+bansekhan,0.5
+certain game,0.3333333333333333
+running,1.4160059791608657
+march,1.0644238856181665
+other reason,0.704191616766467
+step in that behalf,0.5
+tear gas shell,0.5
+dmbe,0.5
+renewal,1.090909090909091
+probabilities,0.34782608695652173
+eleven states,0.5
+kms from the place,0.6666666666666666
+names,1.766440410418311
+ravi,0.8149008572737387
+new,0.9418497626301229
+compliance of the aforesaid order,0.6666666666666666
+cause of the accident,1.25
+evidence,3.6676405172088815
+datum,0.0
+gap,0.5109023703753942
+mohammadabad crossing,1.0
+document,1.401100265092073
+order akin,0.5
+indicates that requests,0.5
+boarding facilities to passengers,0.5
+sr dscrpf,0.5
+lathi charge,3.3333333333333335
+tradesman,0.0
+coaches,2.0864197530864197
+such time,0.8480725623582767
+dn at the time,1.0
+regard to directions,0.5
+such number,1.6
+annexure,2.7560975609756095
+northern circle,0.5
+responsibility rests with those persons,0.5
+small town in uttar pradesh,0.5
+ram,2.11096203538064
+factors,0.9829522460542292
+crsechgnr,1.0
+so sh,0.5129567245400362
+ps munshiganj garuriganj sultanpur,0.5
+reasons for the omission,0.5
+singh,3.7791111111111113
+anil kumar,4.714285714285714
+days cycle at each centre,0.5
+mere satisfaction,0.5
+copy of this order,1.1333333333333333
+end,6.1484001628618765
+standard proforma for steel structure register,1.0
+rule,5.04
+shahjahanpur public foot,0.5
+evident that injuries,0.5
+medha,0.18999999999999997
+portion of chapter,0.0
+chandra,0.7012987012987013
+chand,1.4868766404199476
+respondents,2.6341263330598856
+than railway staff,0.5
+platform,1.7179023508137432
+process,1.6274942048088725
+other infringement,0.5
+shock,0.8456632653061225
+particular,1.5248953455371081
+devmoov,0.5
+status,1.14824388424026
+power,3.8165227690948367
+tawi,1.1842105263157894
+drm,0.5595238095238095
+month in this court,0.0
+yatri niwas at various railway stations,0.5
+next of kin in case,0.5
+loco,0.9824561403508772
+damage to the person,0.0
+bus,2.020565168811983
+position,1.549133168619177
+public address system,0.5
+recruitment center at a time,0.5
+petition,5.3436539306104525
+inspection of rob  fobs,0.0
+devendra,0.75
+guidelines,1.540251572327044
+shouting of slogans,0.5
+consideration,1.9110153789142115
+ram asrey so masaipal,0.5
+further action,0.33333333333333337
+lady from bangladesh,0.5
+government of india,4.94
+bank of a river,0.5
+paragraph,1.2930197483150305
+indicate,1.1663542642924085
+lady,0.6819258089976322
+commissioner,2.271608643457383
+guard of train,0.5
+arrangements,0.6399535423925667
+slogans,1.0588235294117647
+eleven state,0.5
+situation with some aspirants,0.5
+possibilities,0.5458579881656804
+duty of care varies,0.5
+munshiganj,0.5
+scrutiny of the steel structure register,0.5
+ministry,1.6350210970464136
+ameer,0.3333333333333333
+standing,1.224042586942808
+total chao,0.38095238095238093
+posts of class iv employees,0.6666666666666666
+bheampra,0.5
+possible implications if the train,0.5
+aforesaid order,1.2857142857142858
+so bhasol singh,0.5
+train as a result,0.5
+rohan,0.1
+obstruction,0.47058823529411764
+gratia,2.3586206896551722
+raipur,1.8
+administrative authority,1.25
+legal requirement,1.0
+component of the government machinery,0.0
+actual available clearance,0.5
+primary responsibility rest,0.5
+requirement,1.2416133333333332
+interest by an advocate practising,0.5
+official,2.6854955160358718
+note on the accident,0.5
+assessment of any kind,0.5
+vicarious liability,2.75
+preliminary,1.4876595744680852
+general,1.7536558414534391
+regards direction,1.0
+immediate recommendations of preliminary report,0.5
+nature,1.4149926876444778
+rob,1.0595181070641193
+man on roof top,0.0
+registry,0.510662177328844
+hitting,0.19784172661870503
+higher level than adults,0.5
+jammu tawi-howarh himgiri expres,0.0
+required clearances,0.5
+recommendation of preliminary report,0.0
+precedent,0.8982341399607586
+meantime railway administration,0.5
+technical note,0.5294117647058824
+action,3.127292663476874
+type mrt,0.5
+immediate recommendations,0.5
+devariya,0.5
+circularsordersnotifications,0.5
+lakh aspirant,0.5
+lakhs of people,0.5
+electric shocks,0.30000000000000004
+notifications,1.9743589743589745
+relevant paragraphs,0.9
+responsibility rest,0.3333333333333333
+indo tibetan border polouse,0.0
+school building for participation,0.5
+das,1.508694082231246
+kalan,0.5
+responsibility,0.8659259259259259
+vary,0.888586262660652
+teacher,3.0760180995475115
+interim order,2.9166666666666665
+los,1.8125523261338943
+aforesaid precedents,0.5
+boarding facility to passengers,0.0
+railway,5.321428571428572
+whatever manner,0.5
+court,12.24425115501509
+buses,0.5089005235602094
+commercial activity,1.3333333333333335
+paragraphs of the respective reports,0.5
+few passenger,2.5
+ex - gratia payment,0.0
+train coach,0.5
+efficiency test,1.0
+person,4.291511329454258
+probability,0.45294117647058824
+deep,1.222637125549747
+fixed structures like fobs,0.5
+terminal,1.5077825670498082
+nothing,0.8658723322806009
+unusual occurrence,0.5
+age,4.526374474274117
+appropriate step,0.8
+number,1.4802651440973922
+forms for registration,0.6666666666666666
+decision,2.9514937765898557
+claim,2.817264601856604
+sovereign power,1.2
+chart,1.0666850372003307
+ballast,0.21875
+fact situation,1.3333333333333333
+speed time distance,0.5
+state of uttar pradesh,1.6470588235294117
+possible with an idea,0.5
+gauribaja,0.5
+year,2.8349484769759212
+situation at the railway station,0.5
+physical efficiency test,1.0
+status reports,0.3846153846153846
+judgment,3.288216560509554
+care varies,0.5
+sufficient exercise of diligence,0.5
+secure,1.511250781304257
+lakhs,2.046511627906977
+circumstantial evidence,1.9000000000000001
+injury,1.7199352451433856
+loss,2.0689655172413794
+act,12.870263922028107
+ajay,0.911764705882353
+inspections,0.3684210526315789
+analysis,0.6606741573033708
+issue of vicarious liability,0.5
+clas,2.1196191893660425
+vertical clearance from the rail level,0.0
+tension,0.7566601314727253
+deviation,0.8101851851851853
+rider,0.4313304721030043
+bathora,0.5
+such incident with people,0.5
+young man,0.0
+level,1.1533169827122092
+thereafter,1.3123461853978673
+lko,1.1374172185430464
+response to direction,0.5
+special drive,1.0666666666666667
+chota tola p,1.0
+satish kumar,0.75
+organisations,0.6688963210702342
+such large gathering,0.5
+rampur station,1.0
+section,9.287987283173626
+tibetan border polouse,0.0
+other employees,1.0303030303030303
+incident,1.8609485257918057
+standard,1.4669008088548319
+driver,0.8230211045255637
+officers,2.442124212421242
+indicates,0.7306567701304543
+barkhu,0.5
+wdm-d lko of train,0.0
+various railway station,0.6666666666666666
+trains,1.1111111111111112
+danger,0.8066378066378066
+mohva bujurg ps choori choora distt,0.5
+certain structures,0.5
+advance,1.2070333024745414
+indo tibet border police force,0.5
+type of injuries,0.5
+regard,2.723310344827586
+bujurg,0.5
+dimensions,0.695364238410596
+great speed,0.3333333333333333
+knowledge,1.1120671641791045
+direction,1.8495050210098996
+administrative authorities at district,0.5
+km from the place,0.0
+item,1.3319648896447913
+recruitment drive,1.0
+measurement,0.9433811802232855
+lodging,0.8205128205128205
+municipal,2.4099173553719004
+comment on item,0.0
+relevant portion,0.6486486486486488
+varies,0.4166666666666667
+angad,3.2857142857142856
+form,2.4865961263718424
+aforesaid assertion,0.6666666666666666
+commercial manager,0.5
+home,0.9826663267907214
+senior,1.989753211141579
+expres,2.3455332782538525
+various parameter,0.5
+records,0.9879294336118848
+ro singar ps,0.5
+unfortunate tragedy,0.5
+infringement,1.152439024390244
+course,1.6545957498716626
+officer of itbp,0.0
+train on the platforms,0.0
+pradesh,4.365853658536586
+operating,0.5978283786632933
+backdrop of such situation,0.5
+border,0.40498938428874737
+arguments,0.7212211466865226
+ro village,2.6666666666666665
+nodal officer,1.4
+yatri niwa,1.5
+large number on roof top,0.5
+matter,2.8088923076923082
+ministry of home affairs,1.1428571428571428
+ro devmoov ps gauribaja,0.5
+commissioner of railway safety,1.5
+divisions,0.6527093596059114
+essential components,0.75
+officers of itbp,1.0
+passengers,1.709750566893424
+maupur,1.5
+ro singar p,0.5
+indian,1.2604961505560306
+sarvoday,0.5
+vedehi,0.5
+liability,2.532836248924577
+adults,0.33009708737864074
+sprailway,0.5
+adequate arrangement,0.6666666666666666
+gap between the roof,0.5
+roof,1.2680659823298095
+material,1.4148767018946966
+procedure,2.552771605064117
+activity,1.3846153846153848
+polouse,0.0
+drmlkoenggfob,0.5
+shahjahanpur public foot over bridge,0.5
+guideline,1.5641711229946524
+provision,5.439002243350069
+circular,2.0360934182590236
+grewal,1.0
+riders,0.9852941176470589
+assessment of all such infringements,0.5
+conclusions,0.8522069292833413
+statement of loco pilot,0.5
+town in uttar pradesh,0.5
+aspiring candidate,1.0
+aurangabad,0.9
+such recruitment proces,0.5
+large number,1.0979284369114877
+overhead fixed structures like fobs,0.5
+administrative authority at district,0.0
+rampur station by dmrampur,0.5
+large number of persons,1.4545454545454546
+liability of the school,0.5
+bridge etc,0.5
+of the persons,0.7291666666666666
+mahuava ps,0.5
+kumar,2.028839704896043
+movement of the train,1.5
+uday,0.4065934065934066
+sensitive area,0.30000000000000004
+young man on roof top,0.0
+of the fact that the foot - over bridges,0.0
+method of recruitments,0.5
+victims,0.9
+extent,1.410108024691358
+shortest possible time,1.0
+gajipur,0.5
+relevant portions,0.875
+central police organisation,1.0
+railway stations,5.666666666666667
+needful,0.5625
+other railway divisions,0.5
+communal violence,4.0
+copies,0.5369304682962884
+slogan,1.0303030303030303
+class iv employee,1.2222222222222223
+delhi,2.6089285714285717
+dnr,0.22333333333333336
+indo,0.4000186610683462
+result of the incident,0.5
+dev,2.1018632238997714
+request,1.1474439594584596
+tawi-howrah himgiri express,0.0
+venues,0.5435294117647059
+railway division,0.5
+recruitment venue,0.5
+lucknow division,4.5
+foot over-bridge,0.0
+gas,1.240010731232918
+ram pravesh,0.5
+employees,4.611008798854102
+negligence,1.3017543859649123
+few passengers,2.5
+feature,0.6446262956901254
+aspiring candidates,1.0
+sukh,1.9705882352941178
+announcements,0.45882352941176463
+concerned division,0.5
+damages to the person,0.5
+class iv employees,1.2222222222222223
+writ,2.8882378560889794
+months,1.1938163721148947
+appropriate steps,0.8
+railway administration for removalregularization,1.0
+requests,0.43076923076923074
+municipal administration,0.5
+prakash,1.8933333333333333
+eastern up,0.5
+harendra,0.5
+level than adult,0.5
+gupta,0.7610062893081762
+respective report,0.5
+file,1.3720673638585223
+playground near a river,0.5
+learned,3.406323898681099
+higher levels,0.4307692307692308
+roof travelers,0.5
+moradabad,1.3333333333333333
+change,1.2214862766571903
+head,1.5827778446537666
+cases,1.9728229418951067
+present in divisions,0.5
+division,1.7657319129617017
+ro village aurai kalan,0.5
+guidelines for necessary precautions,0.5
+fixed structures like fob,1.0
+compliance of the directions,0.8
+adult,0.7479674796747968
+assemble in connection,0.5
+road terminals,0.5
+northern railway administration,0.5
+connection,1.050640279394645
+indo tibetan border police,0.5
+cep,2.813782013570224
+certain games,0.3333333333333333
+feet,0.5815085158150851
+double line,0.5
+railway board,1.3333333333333333
+india,2.7684068260703585
+alse general,0.0
+lathi,5.0
+immediate recommendation,0.5
+uday kumar singh,0.5
+jaisural,0.5
+claim officer,0.5
+dhanapur,0.5
+reason for loss,0.0
+hathaurda railway,0.5
+diligence,0.9876543209876543
+students,1.1355891528677706
+status report,1.1358024691358024
+essential component of the government machinery,0.0
+order outside the itbp recruitment venue,0.5
+exercise of sovereign power,0.5
+scc,1.941872465904902
+subject to other legal requirements,0.5
+such recruitment rallies,0.5
+shahjahanpur station,1.0
+stone on passengers,0.0
+portion,1.0756311179804223
+sunil,1.0
+arun kumar pandey,0.5
+resentment,0.3508771929824561
+volatile situation,0.5
+address,0.7129538279400157
+change in ballast cushion,0.5
+northern railway,6.333333333333333
+center,0.9521598338119387
+gainsaying,0.5555555555555556
+backdrop of the aforesaid precedents,0.5
+operation as regard,0.5
+duty,3.2272215973003378
+home affairs,1.1428571428571428
+roof rider,2.5
+aspirants,1.5555555555555556
+chief claim officer,0.5
+kilometer,0.3
+overhead fixed structure like fob,0.5
+relevant paragraphs of the respective reports,0.5
+clearances,0.8241758241758241
+liaison with district administration,0.5
+first step in that behalf,0.5
+case from lucknow division,0.0
+steps,1.169318181818182
+playground,0.5555555555555556
+ved,3.681687917308886
+relative of any person,0.5
+omission,1.1856094505101127
+young aspirant,0.5
+hundred of young men,0.0
+such situation,0.5538461538461539
+aita,0.9056224899598393
+week from today,0.75
+communication,1.013409067330636
+so barkhu ansari,0.5
+protest by aspirants,0.5
+responsible for the accident,0.5
+other records,0.30000000000000004
+proforma for steel structure register,1.0
+writ petition,6.24223602484472
+adrm for help,0.5
+relief work,0.8888888888888888
+reveal,0.9261660079051384
+recruitment center,0.5
+boards,0.5774818401937046
+vertical clearances from the rail level,0.5
+upper portion,0.6666666666666666
+guideline for necessary precautions,0.0
+degree of care,1.0
+railway divisions,0.5
+school building,0.4444444444444444
+shell,0.39773721715214405
+chota tola,1.5
+road map,0.5714285714285714
+train driver,0.5
+hiroosa,0.5
+massive disturbance,0.5
+measurements,0.5973333333333333
+medical attention,0.40384615384615385
+games,0.2601290322580645
+officers of recruitment boards,0.5
+fun,3.182328383856186
+person from the administration,0.0
+way to eastern up,0.5
+school child for a picnic,0.0
+so prakash kher,0.5
+lakhs in case,0.5
+authority,2.4352627108360636
+necessary precaution,0.5
+death,2.361592909460208
+double,0.4315308044121603
+learned counsel for the respondents-union,0.0
+duty of care,1.0
+higher officers,0.6666666666666666
+administrative officer,1.1666666666666667
+drive,0.9109947872363628
+weeks,0.8109161793372318
+minor children,1.0
+yadev,0.5
+time of the accident,1.0
+rajiv jaiswal,0.5
+young aspirants,0.5
+turn to communal violence,0.5
+exercise as the crowd,0.5
+end of shahjahanpur railway station,1.0
+chg,0.4285714285714286
+assistant loco pilot,0.5
+relevant portion of chapter,0.0
+fact that the foot - over bridges,0.0
+himgiri,3.5
+clearance,4.090225563909774
+job,0.6733466933867737
+responsibility rest with those persons,0.0
+week,0.8253498691546249
+jiut,0.5
+uttar,2.188679245283019
+hailers,0.5
+chgnr,1.0
+most of the persons,0.5
+number of persons,1.2592592592592593
+choori choora gorakhpur,3.0
+adrm,0.3333333333333333
+state,6.817996007300392
+note,1.3654108484234107
+loud hailers,0.5
+lawlessness,0.6666666666666666
+crossing,1.2380952380952381
+bridge,1.1911260881774781
+similar infringements,0.5
+possible efforts,0.5
+required clearance,0.5
+so jiut chauhan ro maupur chota tola,0.5
+dead body,1.192156862745098
+reveals,0.670995670995671
+satish,0.8333333333333334
+end of the platform,1.0
+man,6.972395052694935
+safety measures,0.4
+shouting,0.3984375
+aden,0.4223764093668691
+discussion,0.7445831166579996
+asp,1.0946454862456412
+foot,0.7144861347422464
+safety,1.5344583560152423
+kind,0.9236881920088026
+recruitment boards,0.5
+level than adults,0.5
+central police organisations,1.0
+road over bridge etc,0.5
+persons,2.5993381990166555
+therefrom,0.673076923076923
+so ram chandra pandey,0.5
+at rampur station,1.0
+varanasi,1.0
+cases road over bridges,0.5
+young men,0.6428571428571429
+efficiency,0.8919469928644241
+children,1.3787369914853358
+so pawan kumar,0.5
+constitution of india,3.0095238095238095
+extent of infringement,0.5
+proforma,1.0
+officer of recruitment boards,0.0
+tremendous pressure,0.6666666666666666
+chhapra bihar,1.0
+bottom,0.46548672566371685
+failure,0.7827962142086977
+interest,2.74353772015385
+immediate step,0.8333333333333334
+cycle,0.862020944741533
+compensation of rs,1.4615384615384615
+singar,0.4
+hindrance,0.5
+behalf,1.9888053603529987
+municipal administrations,0.5
+liaison,0.3589743589743589
+technical note in this connection,0.5
+tola,0.5098522167487685
+dimension,0.7919420837267862
+diesel,0.22540983606557374
+copies of this order,0.5
+action plan for the removal,0.5
+structure on the way,0.0
+precautions,0.35714285714285715
+prime concern,0.6666666666666666
+analysis of speedometer recording,0.5
+non-electrified section,0.0
+area,2.675167256985439
+item of measurements,1.0
+jammu tawi-howarh himgiri express,0.0
+enquiry report,1.8
+village,1.8429856945085372
+shahjahanpur,8.0
+- electrified section,0.0
+chaotic situation,0.5
+nath,1.2024818815807465
+dead bodies,0.6521739130434784
+alia,0.9479866480753792
+aurai,0.6666666666666666
+incident of hitting,0.5
+weeks from today,1.2
+direction no,1.1111111111111112
+due to a few passengers,0.5
+nagar,0.8617021276595744
+place at hathaurda railway,0.5
+idea,0.5945499587118084
+km with passengers,0.5
+document on record,0.0
+ps bheampra,0.5
+morning,0.6560766182298546
+circularsordersnotification,0.5
+manner,1.4494591333432125
+compliance in that behalf,0.5
+incharge of the administration,0.5
+northern,1.178115208483972
+coach of the train,0.0
+renewals,0.30000000000000004
+- in case of simple injury,0.0
+care vary,0.0
+swim by reason,0.5
+circumstantial evidences,0.5
+kms,0.7913793103448276
+coaches of the train,0.5
+congestion,0.3555555555555555
+circumstance,1.429931390219372
+civil,2.126558634963905
+yadav,1.8571428571428574
+implications if the train,0.5
+circulars,1.1515151515151516
+standard test etc,0.5
+saleam,0.5
+map,0.6139008979048886
+class,2.1508512849922936
+such infringements,4.0
+dehat,0.5
+occurrence,2.1343873517786562
+degree,0.6705786026200874
+recommendations,2.1638655462184877
+union of india,3.1324503311258276
+kilometers per hour,0.3333333333333333
+regards,0.9072861236185019
+components,0.5652173913043478
+minister,1.218958818958819
+violence,1.524896265560166
+order problem,0.6666666666666666
+crowd,2.06340718105424
+comments on item,0.5
+days,1.6721350893491447
+ro vill lahara,0.5
+traveler,0.2222222222222222
+particular of injuries,0.0
+lko of train,0.5
+steps in regard,0.5
+railway station,3.111111111111111
+step in regard,0.0
+saleam ansari,0.5
+safety of the children,0.2692307692307692
+bhanhi,0.5
+permanent disability,0.6666666666666666
+directions,1.5134125183504605
+relevant paragraph,1.0
+structures,0.8929115853658537
+roof top,2.444444444444444
+primary responsibility rests with those persons,0.5
+implication,0.6615776081424936
+officer,3.1197242647058823
+hospitals,0.363677536231884
+particulars of the persons,0.5
+charges,2.061307113938693
+tort,0.6201505500868558
+shayam,1.0
+xxviii,0.5
+resort,0.7319355397678043
+such recruitment process,0.5
+coach,1.052132701421801
+robs,0.71875
+hospital,1.3942768854411434
+sufficient compliance,0.5
+ps avtar nagar chhapra bihar,0.5
+csonr,0.5
+sarvoday kumar,0.5
+iow,0.2545081967213115
+vertical clearances,0.5
+view,2.441100058469462
+swim,0.40689655172413797
+ravi kher,0.5
+requirements,0.7375979875979877
+vide,4.454025282767798
+relief,1.4748116760828625
+remarks,0.4772727272727273
+particular of the persons,0.0
+atop himgiri express,0.5
+assistant,1.6732837055417698
+steel,1.615214878638226
+chaos,0.31451612903225806
+result,1.3356630184144715
+officials,1.3691666666666666
+end in shahjahanpur yard,1.5
+terminals,1.0
+data,0.9744599232788209
+record,2.5393414390845273
+bhasol,0.5
+ro ps,0.30000000000000004
+sayings,0.23255813953488372
+secretary,0.9217877094972067
+frolic,0.3333333333333333
+accident,1.7464867454487383
+incident with people,0.5
+jhansi,0.75
+railway staff,0.5
+lawlessnes,0.6666666666666666
+supervision of a nodal officer,0.5
+legal requirements,0.8
+premises,1.290983606557377
+fact,3.6284951019474962
+express,2.3455332782538525
+learned counsel,3.703333333333333
+registration,2.231365215068127
+rally,0.8268001540238737
+chota tola ps,1.0
+building,3.870745432459903
+chief,1.9429638234317954
+ps avtar nagar distt,0.5
+standard test,1.0
+than lucknow division,1.5
+hour,1.1326135248230613
+crowds,0.5
+particulars,0.9472222222222222
+satisfaction that the river,0.5
+that behalf,1.3548387096774193
+clearances from the rail level,0.5
+close liaison,0.5
+safe for a swim by reason,0.5
+years,2.5395804110508022
+record if similar infringement,0.5
+exercise,1.9400726466785694
+aforesaid report,1.0
+shahjahanpur yard,2.5
+overhead fixed structures,0.5
+ro khemapur jansa,0.5
+robfobs,1.5
+arun,0.9503105590062112
+crowd in large members,0.5
+further movement of the train,0.5
+other railway division,0.5
+number of candidates,1.75
+high tension wire,0.5
+chairman,1.3592677345537758
+speed with large number,0.5
+meena,0.3365384615384615
+reasonable care,0.3333333333333333
+situation to situation,0.5
+forms,0.8089941394570028
+administration,1.061072796934866
+existence,0.731202675709574
+bank,9.40770083102493
+infringement of foot over-bridges,0.0
+venue,1.4202819956616053
+violation of section,1.1
+day,1.550999710228919
+question,2.980312372067635
+police organisation,1.0
+levels,0.8861538461538463
+jammu tawi-howarh himgiri expres in shahjahanpur yard,0.0
+time observations analysi,0.5
+scmanu,7.940520446096654
+step,0.8867024753460084
+amount,3.179688593072295
+jaiswal,1.0
+essential that proper record,0.5
+large member,0.2631578947368421
+statement,2.5393160135035964
+that injury,0.75
+hundred,0.7581947743467933
+v deep chand sood manuscmanusc,0.5
+civil officials,0.5714285714285714
+first step,0.38961038961038963
+purushottam,0.6666666666666666
+popular sayings,0.5
+force,1.6009408121948314
+notification,3.0112746633260263
+property,2.9368986630013745
+relevant documents,0.6000000000000001
+states,1.5120646995827023
+law,3.538923411654744
+observation,0.7625074854374218
+important item,1.0
+payment of charges,0.5
+higher level than adult,0.5
+advance regarding,0.5
+tawi-howrah himgiri exp,0.0
+total chaos,0.38095238095238093
+tibetan border police,0.5
+sploccurrence,0.5
+physical standard test etc,0.5
+plan,2.0162821688398056
+board,2.401414435268602
+roof of the coaches,1.5
+persons from the administration,0.5
+senior officer,0.4
+above circumstance,0.875
+civil official,0.5714285714285714
+grant,1.7314487632508835
+tibetan,0.1714285714285714
+assessment,2.647276084949215
+regard to certain structures,0.5
+gas shell,0.6666666666666666
+result of such special drive,0.5
+spot,0.778096903096903
+for a swim by reason,0.5
+river,1.243409567587255
+young men on roof top,0.5
+dimensions rule,0.5
+implications,0.5223021582733813
+dig,0.6684488491882375
+full of blood,0.5
+authorities,1.266131845134287
+csonr s letter,0.0
+candidate from eleven states,0.0
+assistance to victims,0.5
+essential component,0.8333333333333334
+vill,2.067559351691208
+practising,0.6428571428571429
+available clearance,0.5
+running of the railways,0.5
+concerned divisions,0.5
+lakh aspirants,0.5
+police organisations,1.0
+ballast cushion,0.5
+school authorities,0.6666666666666666
+shahjahanpur yard between shahjahanpur,0.5
+so sukhraj,0.5
+spbe,0.23076923076923073
+detail,0.9737454684220567
+ro village mahuani,1.0
+mrt,0.8679245283018868
+indicates that request,0.5
+period,1.9480170842427122
+howrah,2.0
+chao,0.5981416957026714
+khemapur,0.5
+government machinery,0.6666666666666666
+letter,2.707240080105903
+communal sensitive area,0.5
+constitution,3.204842342342342
+chandrima das,1.0
+rosa station,0.5
+vertical clearance,1.0
+immediate steps,0.8333333333333334
+efforts,0.7431827431827432
+governments,1.020200276243094
+consequent resentment,0.5
+kilometers,0.20454545454545456
+such employees commits,0.5
+saying,0.5073353042896189
+electric shock,0.8
+grievous injury,0.6666666666666666
+steel structure register,1.5
+such incident,0.41481481481481486
+recommendation,2.6589497459062676
+supra,2.246342614440774
+responsibility rests,0.3333333333333333
+speed of the train,1.5
+candidates from eleven states,0.5
+upkeep,0.6666666666666666
+view of above,0.75
+saran,0.888888888888889
+rahul,0.700507614213198
+continuous announcements,0.5
+relevant document,0.5714285714285714
+platforms,0.9096958174904942
+xiv,1.676245210727969
+railway administration,12.666666666666666
+in damage to the person,0.0
+large gathering,0.4444444444444444
+dsc,0.2851887840088839
+so vedehi saran,0.5
+police,2.9749362629783356
+premise,1.2347417840375587
+datum in divisions,0.0
+school children for a picnic,0.5
+foot over the bridge,0.5
+reason,2.6381270903010035
+seepur,0.5
+operation,1.0959893294085181
+adenspn,0.5
+kmph,1.0
+life,1.3352928273744242
+bridge in lucknow division,0.5
+yard,1.5829315332690455
+stones,1.0303030303030303
+infringement of foot,1.0
+response,0.7112676056338028
+mahuava,0.5
+directorate,0.5555555555555556
+available reveals,0.5
+recruitment test of physical efficiency test,0.5
+charge of railway administration,0.5
+such tragedy,1.0
+others,0.9074667328904616
+care,0.8846948234137723
+anil,1.1751552795031055
+railways act,0.5
+recruitment venues,0.5
+in damages to the person,0.5
+yatri,1.2
+days cycle,0.5
+game,0.34842881089854455
+itbp recruitment venues,0.5
+student,1.2777711454664835
+broad,0.8864777327935223
+soun,0.844945700829084
+nodal,1.4285714285714286
+reason for the omission,0.0
+conclusion,1.3883437407077015
+procedure of the recruitment,0.5
+supervision,2.825
+paragraph of the respective reports,0.0
+recruitment proces,0.6666666666666666
+armed polouse,0.0
+time venue,0.5
+assistance,0.8623872906826965
+school children,0.3333333333333333
+component,0.6292906178489701
+open rally,0.5
+liability of railways,0.5
+dimensions rules,0.5
+trains on the platforms,0.5
+address system,0.5
+circumstances,1.3944461370073231
+wire,0.7465648854961832
+high court,7.7477477477477485
+rakwa,0.5
+aforesaid precedent,0.5
+documents on record,0.8
+div,2.0416479018088203
+armed police,0.45000000000000007
+manu,7.078142071124147
+concern,2.0544958000579303
+a in a recruitment drive,0.5
+track,1.311279069767442
+bareilly,2.25
+asrey,0.5
+analysi of speedometer recording,0.0
+role,1.0562959821210092
+other central police organisation,0.5
+roofs,0.7804878048780488
+unmanageable situation at the railway station,0.5
+various parameters,0.5
+roofs of the coaches,2.0
+gauge,0.23008849557522124
+in person,0.78
+playfield,0.5
+compensation,3.7916666666666665
+raj,1.3364194424876723
+mohit,0.2567567567567568
+measure,1.1941357983816498
+recruitment rally,0.0
+crse,0.6666666666666666
+bridge inspection register,1.5
+so ramaserey,0.5
+stone,0.7736063708759955
+roof riders,2.5
+niwa,0.5904761904761905
+recruitment for itbp,0.5
+committee,2.546237803603864
+foot over bridge,4.0
+railways,6.025974025974025
+non-electrified section of moradabad division,0.0
+rpf,0.9108910891089109
+such number of candidates,1.5
+sunil kumar yadav,0.5
+rosa,0.5905463474524247
+people,1.2855544825097243
+so mithailal,0.5
+private property,0.3
+employee,6.280487804878048
+administrative authorities,1.4
+reasons,1.3749054007567938
+shoej,0.5
+problem,0.6764352120789936
+sufficient precaution,0.5
+indian railways,2.3333333333333335
+ro village bhanhi pandeypurva,0.5
+employment,1.5239770785161355
+choora gorakhpur,3.0
+lalit,1.55
+road,1.0764686576960945
+other than lucknow division,1.5
+anyone in the incident,0.5
+part,5.294464509893076
+exp,3.534657952408237
+ways,1.3640952708404963
+public foot,3.5
+distance,0.7353606433777331
+analysi,0.6883471219855659
+in divisions,1.3333333333333333
+aspect,1.2449448189023034
+boarding facility,0.0
+moradabad-shahjahanpur-lucknow,0.0
+proper record,0.5
+aware of the inherent danger,0.5
+situations,0.7435282837967402
+proper exercise,0.6666666666666666
+chandrima da,1.0
+staff,1.3233972834416785
+recruitments,1.3333333333333333
+yuvrajpur,0.5
+overhead fixed structures like fob,0.5
+loco pilot,1.0
+sukhraj,0.6666666666666666
+rajiv,1.2
+operation as regards,0.5
+satisfaction,0.6639095671353735
+speedometer recording,0.5
+addres,0.7140043587773987
+police official,1.5750000000000002
+technical note on the accident,0.5
+such type of injuries,0.5
+laxhmanpur,0.5
+state government,3.027142857142857
+effect,2.184583388478191
+higher officer,0.6666666666666666
+periodic status report,0.5
+comment,0.5887096774193549
+chandr,0.7745825602968461
+other record,0.30000000000000004
+masaipal,0.5
+disability,0.621301775147929
+such speed,0.5
+itbp,4.0
+months in this court,0.5
+fobs,2.0
+conclusion in the report,0.3333333333333333
+bhola,2.0
+garuriganj,0.5
+infringements,6.333333333333333
+ro village bansekhan,0.5
+place,2.333104345208554
+jammu tawi-howarh himgiri express in shahjahanpur yard,0.0
+civil authority,0.0
+public foot over bridge,3.0
+particular day,0.9333333333333332
+unmanageable situation,0.5
+issue,2.766776251628934
+roofs of coaches,0.5
+course of employment,1.0
+aforesaid assertions,0.6666666666666666
+method,0.9027027027027026
+travelers,0.22499999999999998
+essential,1.137813781378138
+roof traveler,0.5
+petitioner,4.524972253052164
+failure of persons,0.5
+school authority,0.0
+orders,1.4936359300077826
+respect to direction,0.5
+aspirant,1.5555555555555556
+choori,3.5
+roof top of the coaches,0.5
+removalregularization,1.0
+tawi-howrah himgiri expres,0.0
+preliminary report,0.6666666666666666
+exercise of diligence,0.5
+damage,1.8281814532316336
+jhansh,0.5
+hailer,0.5
+wdm-d,0.0
+necessary precautions,0.5
+regularization,4.0
+mm in the vertical clearance,0.5
+sr devc,0.5
+periodic status reports,0.5
+concept,0.9402138540213855
+article,4.378806157159795
+machinery,0.9071637426900585
+cases from lucknow division,0.5
+incharge,1.0250000000000001
+liable in damages to the person,0.5
+with an idea,0.3333333333333333
+time observations analysis,0.5
+mr raj,1.2727272727272727
+heads,0.7896459995907509
+jansa,0.5
+reports,1.0202012199952466
+lakhs in every case,0.5
+time by the railway,0.5
+petition under article,1.6388888888888888
+that injuries,0.4444444444444444
+bihar,4.587301587301587
+same degree,0.3636363636363636
+fixed structure,1.5
+evident that injury,0.0
+turn,1.6310093128618173
+jyreen,0.5
+train,1.7989372868013647
+shahjahanpur railway station,1.5
+essential components of the government machinery,0.5
+ro hiroosa ps rohan jhansi,0.5
+hundreds of young men,0.5
+so bhola nath yadav,0.5
+moradabad division,0.5
+respect,2.6704963235294117
+recruitment,5.333333333333333
+to a few passengers,1.0
+other document on record,0.0
+respective reports,0.5
+such employees commit,0.5
+such infringement,4.0
+recording,1.3265454545454545
+gorakhpur,2.25
+time of accident,1.0
+fob,1.7575757575757573
+respondents - union,0.0
+station,1.2515681586858238
+jyreens,0.5
+stand,1.8422769621739425
+robfob,1.5
+work,2.8478559811646353
+system,1.1230229504341178
+town,1.9746537396121884
+deepak so mohit,0.5
+assessment if any such infringements,0.5
+much essential that proper record,0.5
+igbe,0.5714285714285714
+paragraphs,0.9552238805970149
+primary responsibility rests,0.5
+circle,1.211299866386715
+inherent danger,0.6666666666666666
+details,0.9406426856198188
+posts,2.6556317082632876
+similar other infringements,0.5
+yatri niwas,1.5
+enquiry,2.145762711864407
+young in age,0.5
+dispensation,0.6028708133971291
+own frolic,0.5
+form for registration,1.5
+time - frame,0.0
+dmrampur,0.5
+ps choori choora gorakhpur,2.5
+picnic,0.5294117647058824
+himgiri express,3.0
+september,0.8548484848484849
+such type,0.75
+continuous announcement,0.5
+northern railways,1.0
+view of the volatile situation,0.5
+annexure-xv,0.0
+much essential,0.5
+case of any grievous injury,0.5
+railway over bridge,1.0
+procedures,0.6129675045984059
+clearance from the rail level,0.0
+mere satisfaction that the river,0.5
+portions,0.6041219407471018
+small town,0.25925925925925924
+record if similar infringements,0.5
+role of railway officials,0.5
+loud hailer,0.5
+railway official,1.0
+secure after the picnic,0.5
+avdhesh,0.5
+regarding,1.2879505517927343
+soun kumar gupta,0.5
+chapter,1.3867471532446152
+shahjahanpur division,0.5
+avtar,1.4
+february,0.8575630252100839
+- in case of any grievous injury,0.0
+advocate practising,0.5
+large crowd,0.38095238095238093
+public foot over the bridge,0.5
+name,1.8996570753072433
+toward,1.0255939365170768
+available clearances,0.5
+employee of the union,0.0
+directorate general,0.6666666666666666
+members,1.9437616522164103
+order outside the itbp recruitment venues,0.5
+atop himgiri expres,0.5
+district administration,1.2
+simple injury,0.6666666666666666
+tabular chart,0.6666666666666666
+constable,1.0606060606060606
+help,0.7217940266720754
+himgiri expres,3.0
+time,2.4764180952862667
+chhapra,1.0
+rail level,1.0
+cso,0.1553227564490735
+case of simple injury,0.5
+railway station on moradabad-shahjahanpur-lucknow,0.0
+headquarter,0.6022058823529411
+sukh ram,0.5
+guard,1.1435613062230436
+protest,1.349300087489064
+foot over-bridges,0.0
+bayag,0.5
+assertions,0.5040091638029782
+-waccident,0.0
+annexure-xiv,0.0
+shayam sundar yadav,0.5
+state governments,1.3345864661654134
+other than railway staff,0.5
+blame,0.5112154407929056
+public interest,2.380434782608696
+announcement,2.2524167561761548
+type,0.8102172691515265
+lakh in case,0.0
+counsel,2.2246780703440323
+minor child,1.25
+existence of infringements,0.5
+number of aspirants,0.5
+possible effort,0.5
+top,1.051543552640638
+union government,1.8333333333333333
+rules,3.130914366958792
+sprampur,0.5
+higher officers of itbp,0.5
+railway safety,1.5
+last resort,0.5760000000000001
+controlled manner,0.5
+possible implications,0.5
+prakash yadev,0.5
+duty of the teacher,0.5
+disposal,1.1180555555555556
+rakva,0.5
+victim,1.204831365285174
+passenger,1.8365885416666665
+rahul kumar,0.5
+compliance,1.0029799914857385
+case,7.332269420884958
+adequate arrangements,0.6666666666666666
+such body,0.3333333333333333
+pandeypurva,0.5
+chota,1.5
+affair,0.8341728395061728
+lahara,0.5
+adm,2.2294073504479384
+post of class iv employees,0.0
+mohva,0.5
+relevant paragraph of the respective reports,0.0
+injuries,2.4130008710801394
+recommendations of preliminary report,0.5
+strict compliance,1.4444444444444444
+hospital for medical attention,0.0
+rape,1.6904761904761905
+act of tort,0.5
+so gayalal yadav,0.5
+inter alia,1.3280423280423281
+mishap,1.0
+advocate,1.0791341991341994
+other legal requirements,0.5
+ps aurangabad,0.5
+lucknow,3.4545454545454546
+jammu,4.705882352941177
+certain structure,0.5
+speed,1.9085752419085753
+baliya,0.5
+wdm-d lko,0.0
+comments,0.5982500911410864
+headquarter office,0.5
+violation,1.2087401208740118
+higher level,0.48275862068965525
+office,3.5913445886237847
+similar other infringement,0.5
+relevant portions of chapter,0.5
+deviation therefrom,0.5
+stones on passengers,0.5
+other document,0.6172839506172839
+violent crowd,0.5
+harendra kumar,0.5
+pressure on the administration,0.5
+precaution,1.4516129032258067
+body,1.336775463480009
+weeks from the date,1.1428571428571428
+mithailal,0.5
+public interest by an advocate practising,0.5
+next of kin,1.3333333333333333
+other central police organisations,0.5
+regard to the other railway divisions,0.5
+data in divisions,0.5
+participation,1.138392857142857
+structure,1.568520357497517
+stampede,0.4
+popular saying,0.5
+damages,1.7104072398190044
+gursaray jhansh,0.5
+recruitment board,3.0
+tragedy,0.5632798573975044
+part of the commercial activity,0.5
+disturbance,0.5303030303030303
+senior administrative officer,0.5
+effort,0.7536036036036036
+over bridge,7.5
+niwas,0.761904761904762
+annexure xxviii,1.0
+lakh,1.3647388059701493
+roof of coaches,0.0
+digbe,0.5
+school child,0.3333333333333333
+of the inherent danger,0.5
+ajay kumar,0.75
+authority at district,0.0
+howarh,0.5
+conclusion that unusual occurrence,0.5
+bangladesh,0.22727272727272727
+documents,1.142515923566879
+structures on the way,0.5
+presiding,1.3214285714285714
+remark,0.5091064757160647
+reply,1.0337305560040906
+reasons for loss,0.5
+to a few passenger,1.0
+lakh in every case,0.0
+standard test by post,0.5
+recruitment rallies,0.5
+gayalal,0.5
+bridges,0.4606060606060605
+reply to direction,0.5
+organisation,1.4034090909090908
+argument,0.9504580388560493
+aforesaid committee,0.6666666666666666
+road terminal,0.5
+ro village yuvrajpur p,0.5
+children in the playground,0.5
+hrs,0.8909952606635071
+roof top of coaches,0.5
+shailesh,0.28571428571428575
+school,1.2666111192798444
+register,1.2311946902654867
+movement,0.8351097178683385
+physical standard test by post,0.5
+spn,0.28091872791519434
+gas shells,0.6666666666666666
+kin in case,0.5
+higher officer of itbp,0.0
+manager,1.7133044010756409
+chaotic situation with some aspirants,0.5
+other employee,1.05
+public,2.923239095873367
+shells,0.2809917355371901
+new delhi,1.744186046511628
+jobs,0.5589459084604715
+such recruitment rally,0.0
+chauhan,1.75
+in age,0.44117647058823534
+act of utter negligence,0.5
+report pursuant,0.6666666666666666
+shahjahanpur railway station with hundreds,0.5
+choora,3.5
+grant of compensation,1.0
+bridge near mohammadabad crossing,0.5
+overhead fixed structure like fobs,0.5
+possibility,0.7613466503601033
+situation,1.1254754682459434
+observations,0.7454584147497534
+recruitment test,0.5
+attention,0.8724846605528799
+available reveal,0.5
+administrative,1.85302734375
+measures,1.126498218334953
+fixed structures,1.0
+child in the playground,0.0
+pilot,0.46280276816608995
+kardam,1.0

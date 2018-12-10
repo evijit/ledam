@@ -1,0 +1,856 @@
+recovery of poppy husk,0.5
+gazetted,2.3333333333333335
+of acceptance,0.9689440993788822
+- hours,0.0
+government,3.5583785424010483
+copy of the judgment,0.6666666666666666
+satisfactory explanation,0.6666666666666666
+chander singh-si,0.0
+- examination,0.0
+corroboration,1.5714285714285714
+doubt about the prosecution case,0.0
+code,2.880559796437659
+high court of punjab,1.2380952380952381
+jeep,0.711111111111111
+east,0.8065147296612034
+conscious possession of the contraband,1.0
+human habitation,0.30000000000000004
+about thirteen quintal,0.5
+part of the police party,0.5
+viz,0.7732570026579433
+such mental state,1.0
+sections,1.640495469442838
+terms of section,1.98
+terms,2.390350840909655
+meaning,1.8612727545949643
+assurance to the court,1.0
+truthfulnes,0.6000000000000001
+bail bond,0.9090909090909091
+prosecution case against the appellant - baldev singh doubtful,0.0
+gyan singh s case,0.0
+shifts,0.5843478260869566
+court,12.24425115501509
+kilograms,0.782608695652174
+aspects,1.0997620069447154
+exs,1.6280148423005565
+opium,0.5454545454545454
+rise,1.6238941915958565
+contraband,1.4857142857142858
+road,1.0764686576960945
+rigorous imprisonment for twelve years,0.5
+material particulars by other independent evidence,0.5
+non - examination,0.0
+person,4.291511329454258
+outcome,0.6303030303030303
+ors,2.8612718198296623
+inference,1.006741573033708
+substances,0.7777777777777778
+way,1.7812722068664852
+probability,0.45294117647058824
+bail,2.0427807486631013
+allegations,1.8333333333333335
+court of punjab,1.2380952380952381
+part,5.294464509893076
+accused admit,0.6666666666666666
+several opportunity,0.0
+judgment of acquittal,2.1
+cross,2.0778316690442225
+awareness about the nature,0.5
+analysi,0.6883471219855659
+distance,0.7353606433777331
+charges against the appellant,0.75
+rule of law,0.5359801488833746
+chander singh-si on the night,0.0
+singh-pw- s evidence,0.0
+knowledge that the bag,0.5
+rival contention,1.1111111111111112
+odd hours,1.5
+aspect,1.2449448189023034
+more careful scrutiny,0.5
+decisions,1.3888475974580996
+hundred gram,1.0
+sessions,1.3405714285714285
+member of the nakabandi party,0.5
+police party,1.75
+decision,2.9514937765898557
+trustworthines,0.4444444444444444
+hands,1.1725490196078434
+explanation for non - examination,0.0
+aforesaid,2.592896174863388
+physical possession,1.4166666666666667
+psychotropic substances act,0.8
+other person,0.9635036496350365
+different mode,0.5
+sample,1.7733348061416105
+question of fact,1.45
+suspicion at odd hours,0.5
+in the investigation in the present case,0.5
+habitation in the nearby place,0.5
+witness ram singh-asi-pw-,0.0
+independent witnes,1.2121212121212122
+ring,3.703396266780767
+chargesheet,2.625
+doubts,0.6666666666666666
+appeal,3.4125488033856883
+such official witnesses,0.5
+contra,3.550142721217888
+forty kilogram,0.5
+singh-pw,0.0
+abdul,1.5086206896551726
+faith in sub inspector-chander singh,0.0
+area,2.675167256985439
+sessions judge,2.9545454545454546
+village,1.8429856945085372
+parcels,1.25
+ram singh,3.272727272727273
+evidence of sole witness ram singh-asi,0.0
+trustworthiness,0.4444444444444444
+month,1.3454861111111112
+year,2.8349484769759212
+witnes to the recovery memo,0.0
+serious doubts about the prosecution case,0.5
+such modes,0.5
+reasonable assurance,1.0
+such material,0.5714285714285714
+judgment,3.288216560509554
+doubt in that regard,0.5
+banumathi,0.9
+sample of hundred grams,0.5
+appraisal of the entire evidence,0.5
+imposed fine as aforesaid,0.5
+modes,0.7808219178082192
+order,5.472481489660944
+police official,1.5750000000000002
+act,12.870263922028107
+sub-section,0.0
+twenty kilogram,0.5
+credibility of the prosecution version,0.5
+aware of the contents of the bags,0.5
+dr as anand,0.5
+prosecution hinges,0.5
+analysis,0.6606741573033708
+that prosecution,1.6363636363636365
+singh-pw s testimony,0.0
+clas,2.1196191893660425
+imprisonment for twelve years,0.5
+explanation,1.4510159010600707
+verdict of conviction warrants,0.5
+false case,1.0
+in favour of a police officer,0.6666666666666666
+fsl report,0.5
+evidence of such official witnesses,0.5
+effect,2.184583388478191
+independent evidence,0.631578947368421
+above proposition,1.0
+saurashtra,0.6666666666666666
+copy,0.8620926631522174
+completion,1.1868131868131868
+appellant observing that no other witnes,0.5
+miscarriage,1.015625
+official witness,1.3333333333333333
+above entry,0.28571428571428575
+member,2.649111111111111
+girja,0.3333333333333333
+parties,1.8210828547990157
+counsel for the respondent mr amit,0.5
+constable om prakash,0.5
+detection,0.38620689655172413
+strong doubt,1.0
+onus of proof,0.9333333333333332
+faith,0.6832428364066448
+kacha,1.0
+section,9.287987283173626
+raja,1.214662447257384
+non-examination of chander singh,0.0
+correct law,0.9230769230769231
+version,1.0500313479623824
+chander,1.8095238095238095
+fir,2.85390975582079
+affidavits of mhc mohinder singh,0.5
+evidence on record amply,0.5
+ndps,3.6666666666666665
+burden of proof,0.7378917378917379
+standard,1.4669008088548319
+kacha path,1.0
+in the outcome of the result,0.6666666666666666
+evidence of complainant,0.5
+driver,0.8230211045255637
+place,2.333104345208554
+circumstance,1.429931390219372
+seal,1.5645371577574967
+present case,1.5611814345991561
+appellant on the sole testimony,0.5
+accused admits,0.5
+testimony of police officials,2.0
+conscious possession of the thirty,0.5
+investigation,1.6673076923076922
+answers from prosecution witnesses,0.5
+regard,2.723310344827586
+of the content of the bags,0.0
+succes of the case,0.0
+knowledge,1.1120671641791045
+class,2.1508512849922936
+that conviction,1.0
+occurrence,2.1343873517786562
+straw,1.1973500697350068
+amit,1.2369463632669646
+truth,0.9590230664857531
+degree,0.6705786026200874
+chandigarh,1.52
+dabwali,1.0
+place of nakabandi,0.5
+that evidence,0.7794871794871795
+police officials,2.5714285714285716
+facts,1.4696673624372698
+gram,1.0492542925178592
+twelve year,0.5294117647058824
+para,2.300239586747483
+success,1.087615328288992
+testimony of ram singh-pw-,0.0
+contents,0.66519564577817
+investigating,1.5794836956521738
+interested in the outcome of the result,0.5
+gazetted officer in connection,0.5
+keeping,0.7917143948071784
+basi,2.0752712086391383
+material particulars,1.0
+ndp,0.987532923617208
+prestige,0.3897435897435898
+that regard,0.5944055944055944
+evidence of police officials,1.0
+mohinder,1.0
+court vide,1.0740740740740742
+such mental state with respect,0.5
+road from the village,0.5
+gazetted officer,2.2
+fine,1.3204039558531748
+samples,1.552941176470588
+senior,1.989753211141579
+available in the prosecution case,0.5
+independent witnesses in the odd hours,0.5
+lordship,1.0416666666666667
+other independent evidence,0.5
+mere non-examination,0.0
+tractor - appellant,0.0
+awarenes,0.4649122807017544
+session,2.2400874351067563
+desire,0.6008255933952529
+girja prasad,0.5
+conviction,2.248165832071736
+basis,1.953226441078104
+onu of proof,0.0
+appellant mr,0.8333333333333334
+nakabandi,2.5
+suspicion,0.690982776089159
+dent,4.988589074020128
+respondent mr  amit,0.0
+sub,7.816899313759727
+course,1.6545957498716626
+interested in the investigation,0.5
+state--,0.0
+criminal appeal,2.5675675675675675
+station sadar dabwali,0.5
+relevance,0.6870535714285714
+appellant - baldev singh doubtful,0.0
+magistrate,3.522077922077922
+charge,2.7679815308681284
+material particular,1.2222222222222223
+sub inspector-chander singh,0.0
+contention of the appellant,1.1851851851851851
+grounds,0.9540208829455945
+government jeep,0.6666666666666666
+public witnes,0.5
+bags of poppy husk,1.0
+sadar,1.7142857142857142
+officer,3.1197242647058823
+abdul rashid ibrahim mansuri v state of gujarat manuscmanusc,0.5
+testimony of ram singh - asi,0.0
+charges,2.061307113938693
+ground,1.4186722903211633
+applies,0.9353049100122315
+narcotic drugs,1.1666666666666667
+burden shift,0.5
+opportunity,0.946186440677966
+cros,1.8137948361162648
+impugned judgment,2.0927152317880795
+evidence of the police officials,0.5
+in the prosecution evidence,1.0
+chemical,1.5078102189781022
+quantity,0.9457720588235292
+memos,0.7692307692307693
+proof,1.0648141580366008
+thirteen quintals,0.5
+scrutiny,0.912987012987013
+odd hour,1.5
+conviction warrant,0.5
+learned senior counsel for the appellant,1.7142857142857142
+material particular by other independent evidence,0.0
+criminal,3.301971081989414
+term,3.6255105640901575
+nakabandi party,0.5
+fir bearing,0.5
+ibrahim,0.4444444444444444
+spite,0.8919640378414163
+view,2.441100058469462
+case of the prosecution,2.3043478260869565
+content of the bags,0.0
+vide,4.454025282767798
+preponderance,0.6222222222222222
+side,3.88845645915565
+khima,0.75
+psychotropic,0.8
+testimony of sole witness ram singh - pw-,0.0
+meaning of  culpable mental state,0.0
+accused - appellant,0.0
+police personnel,1.6666666666666667
+prestige of the police administration,0.5
+that defence,0.75
+awareness,0.4649122807017544
+non-examination of chander singh-si,0.0
+reasonable degree,0.5
+road for detection,0.5
+recovery,3.9892473118279574
+in the investigation,0.7407407407407407
+witness,5.333906623599983
+prosecution version,2.7142857142857144
+such doubt,0.5
+result,1.3356630184144715
+onu,0.7016248153618907
+officials,1.3691666666666666
+witness to the recovery memo,0.5
+rules sub-inspector,0.0
+record,2.5393414390845273
+procedure,2.552771605064117
+light of the above principles,0.75
+material,1.4148767018946966
+- examination of chander singh - si,0.0
+defence,1.3606588776096535
+fact that ram singh,0.5
+polouse,0.0
+prosecution for an offence,0.5
+real knowledge,0.5
+required intention,1.0
+correct law on the point,0.5
+poppy husk,3.3333333333333335
+of the contents of the bags,0.5
+mere fact,0.6
+contents of the bags,0.5
+real knowledge of the nature,0.5
+r banumathi,0.9
+such proof,0.25
+respect,2.6704963235294117
+first,1.9006367208168047
+sidhu,0.19047619047619047
+fact,3.6284951019474962
+hundred grams,1.0
+first class magistrate,0.75
+vehicle,2.973111766564837
+seal c,0.4444444444444444
+place of arrest,1.0
+place of recovery,0.5
+station,1.2515681586858238
+gujarat manuscmanusc,1.1
+manu  scmanu  sc,0.0
+material on record,1.40625
+criminal procedure,6.406779661016949
+kingre,0.7692307692307693
+hour,1.1326135248230613
+such mode,0.5
+particulars,0.9472222222222222
+kumar,2.028839704896043
+prasad,1.1407089151450054
+presumption,1.06
+in tahir v state,0.5
+desirable that prosecution,0.5
+witnes,5.333906623599983
+drug,5.000164190132173
+other word,0.758838674565131
+imposed fine,0.5
+doubts about the prosecution case,1.3333333333333333
+evidence of police witnesses,0.5
+- baldev singh,0.0
+hour in night,0.0
+autorickshaw,0.6666666666666666
+forty,0.7632978723404255
+prosecution in spite,0.6666666666666666
+doubt,1.3646267723102583
+team of police personnel,0.5
+additional,1.4256530253244384
+light,0.8816192372754331
+appraisal,0.9818181818181818
+affidavit,2.2996987951807224
+other witness,0.7222222222222222
+years,2.5395804110508022
+sole testimony,2.0
+firs,1.9289870729834366
+report,1.7768151696835826
+punjab,1.0438169425511197
+code of criminal procedure,6.120689655172414
+principle,1.9620890732001848
+alongwith,0.810989010989011
+certified copy,2.6923076923076925
+party,2.2250894654439723
+success of the case,0.5
+false case against the appellant,0.5
+available in the prosecution evidence,0.5
+good ground,0.49382716049382713
+anything,0.9132309941520469
+sought,1.1658793604651163
+mid night,0.5
+enmity with the appellant,0.5
+non-examination,0.0
+delhi,2.6089285714285717
+credit to the magistracy,0.6666666666666666
+haryana at chandigarh,0.875
+independent witnesses,0.9090909090909091
+proposition,0.6371087928464977
+believing,0.5195555555555555
+habitation,0.5555555555555556
+justice,2.292557084574302
+truthfulness,0.6000000000000001
+cross-examination,0.0
+possession of the thirty,0.5
+aher,0.38981173864894797
+gyan singh,1.0
+well-settled that credibility of witness,0.0
+total about thirteen quintals,0.5
+v state,2.4603773584905664
+acquittal of bhoop singh,1.0
+about thirteen quintals,0.5
+deh,0.9173848439821695
+testimony,1.4407553107789142
+above principles,0.8333333333333334
+seal cs,0.6666666666666666
+ram singh-pw-,0.0
+- baldev singh doubtful,0.0
+independent witness in the odd hours,0.0
+gunny bag,3.25
+credibility,0.6069651741293531
+administration,1.061072796934866
+parcel,3.0625
+warrants,0.5020796197266786
+purpose of section,1.3888888888888888
+existence,0.731202675709574
+offence,4.401610644257703
+presence,0.9604834261070158
+fatal to the prosecution case,0.6666666666666666
+rashid,2.1538461538461537
+quintal,0.6818181818181818
+respondent,4.757894736842104
+inspector,1.2705882352941176
+default,0.7094574436346588
+tractor,3.6214221824686943
+century,0.6548536209553157
+proof cast,1.5
+question,2.980312372067635
+principles,1.3198511166253102
+grams,0.6184535234439266
+v state of up,1.7027027027027026
+verdict,0.6880952380952381
+bonds,0.670673076923077
+serious doubts,0.4761904761904762
+culpable mental state,2.5
+serious doubt,0.5
+knowledge of the nature,0.5
+forty kilograms,0.5
+existence of such mental state,0.5
+police station,1.40045766590389
+belief,1.0362637362637361
+entire evidence,1.2307692307692308
+approach,1.001908852302553
+fsl,0.37808641975308643
+motive knowledge of a fact,0.5
+scmanu,7.940520446096654
+word,2.065873981084096
+mansuri,0.5
+apprehension,0.9319526627218935
+creditworthiness of the prosecution case,0.5
+need,1.1097650269586634
+criminal justice,0.78698224852071
+months,1.1938163721148947
+other words,0.7578482137053969
+decision on the point,0.5
+statement,2.5393160135035964
+reliance on the decision,1.3333333333333333
+touchstone of truthfulness,0.5
+poppy,2.2222222222222223
+witness ram singh - asi,0.0
+creditworthiness,1.3333333333333333
+busy in the investigation in the present case,0.5
+mode,0.8201666928762384
+place of occurrence,2.6153846153846154
+several opportunities,0.5
+chemical analysi,0.30000000000000004
+thirty,0.8259303721488596
+entry,4.707210447678601
+prakash,1.8933333333333333
+explanation for the huge quantity,0.5
+part of the sentence,0.45000000000000007
+high,5.367119186841496
+driver of the vehicle,1.2
+account,2.5754891049671977
+relevance in the facts,0.5
+custody,1.4166666666666667
+force,1.6009408121948314
+case against the appellant,1.1666666666666667
+tahir,0.25
+grams opium,0.5
+satisfactory explanation for the huge quantity,0.5
+constable,1.0606060606060606
+interference,0.5733527484528578
+purpose,2.519170317925504
+law,3.538923411654744
+recovery memos,0.5
+various decision,1.3571428571428572
+rattan,0.8333333333333334
+record amply,0.5
+time,2.4764180952862667
+cases,1.9728229418951067
+testimony of official witnesses,1.0
+anmol,0.1721311475409836
+sides,0.6706755273269035
+rule of prudence,1.125
+above principle,0.7619047619047619
+singh-pw-,0.0
+allegation,1.834319526627219
+poppy straw,1.0
+sole witness ram singh-asi,0.0
+such official witness,0.5
+police witness,1.0
+witnesses in the odd hours,0.5
+briefly,0.5805159028299525
+favour of a police officer,0.6666666666666666
+purpose of this section,1.0
+in the prosecution case,1.2
+official witnesses,1.5
+lrs,0.46643518518518523
+sirsa,1.0
+mental state with respect,0.5
+content,1.5450574489970066
+driver of the tractor - appellant,0.0
+term of section,0.5
+path,1.307090626221047
+hours,1.1644152367043934
+nearby place,0.5
+twenty kilogram of poppy husk,0.0
+careful scrutiny,0.6666666666666666
+assurance,0.9418901660280969
+fine of rs,1.6
+v state of saurashtra manuscmanusc,0.6666666666666666
+addition,1.5588539142412572
+appellant under section,1.4375
+prosecution,4.619407894736842
+spot,0.778096903096903
+such evidence,0.9649122807017544
+connection,1.050640279394645
+learned senior counsel,3.4615384615384617
+imprisonment,1.4344262295081966
+neither credit,0.4
+gunny,2.1666666666666665
+absence,1.092363454568179
+counsel,2.2246780703440323
+that narcotic drugs,0.5
+hours in night,1.0
+much in favour of a police officer,0.6666666666666666
+chemical analysis,0.30000000000000004
+witnesses,3.359210526315789
+rules,3.130914366958792
+attitude,0.4886970172684459
+sole testimony of ram singh - asi,0.0
+alse general,0.0
+probabilities,0.34782608695652173
+other witnes,0.7222222222222222
+police witnesses,1.0
+answers,0.3387502861066606
+protracted proceeding,0.5
+credit,2.9526050420168066
+substance in the gunny bags,0.5
+rigorous imprisonment,1.9230769230769231
+important witness,0.75
+challenge in this appeal,0.8333333333333334
+prosecution evidence,1.2
+knowledge of the required intention,0.5
+acceptance,1.4762112614578786
+offence in that prosecution,0.5
+contention at the hands,0.5
+play,0.5464427772208388
+acquittal,2.2714285714285714
+distance between the places,0.5
+intention,1.7585585585585588
+prepared rukka,1.0
+presumption of culpable mental state,0.5
+senior counsel for the appellant mr,0.5
+knowledge that the bags,0.5
+submission,1.0913871684001404
+evidence,3.6676405172088815
+singh s case,0.0
+officer in connection,0.5
+document,1.401100265092073
+absence of some independent witness,0.5
+custody forthwith,1.0
+than half - a - century,0.0
+that evidence of ram singh-asi,0.0
+reliance,1.400763358778626
+case of prosecution hinges,0.5
+substances act,0.8333333333333334
+circumstance of the case,0.5
+kingre from gt,1.0
+case,7.332269420884958
+half-a-century,0.0
+presumption that a person,0.6666666666666666
+abdul rashid ibrahim mansuri v state,0.5
+emphasi,0.9191619047619048
+scc,1.941872465904902
+drugs,2.4423997055576008
+affidavit of mhc mohinder singh,0.0
+basis of conviction,1.0
+burden cast,1.0
+presence of ram singh - asi,0.0
+various decisions on the point,0.5
+gunny bag of poppy husk,0.0
+ram,2.11096203538064
+shift,0.6473508552357112
+proposition that evidence,0.5
+singh,3.7791111111111113
+reasonable assurance to the court,1.0
+such strong doubt,0.5
+verdict of acquittal,1.6
+witness in the odd hours,0.0
+court of law,0.673963133640553
+sentence of imprisonment,1.6923076923076923
+prosecution case,4.258064516129032
+creditworthines of the prosecution case,0.0
+physical possession of the contraband,1.0
+additional advocate general,1.0
+basis of rukka,0.5
+contention,1.666391070690368
+statement under section,2.1
+rule,5.04
+important witnes,0.75
+aggrieved,1.2479674796747968
+advocate,1.0791341991341994
+mental state,1.3333333333333333
+ayyar,1.2
+favour,1.653145208700764
+learned sessions judge,2.5
+prosecution witness,2.2
+knowledge of a fact,1.0
+unworthy of acceptance,0.5
+supra,2.246342614440774
+which aspect,0.8
+notice to the effect,0.5
+other persons,0.6111111111111112
+narcotic drug,1.3333333333333333
+husk,1.5079365079365081
+different view,0.5378151260504201
+prudence,0.9558823529411765
+- hour,0.0
+huge quantity of poppy straw,0.5
+prosecution witnesses,2.0526315789473686
+explanation to sub-section,0.0
+tahir v state,0.5
+odd hours in night,1.0
+possession of the appellant,1.0
+rise to any doubt,0.5
+trolley,2.2666666666666666
+basi of rukka,0.0
+village kingre,1.5
+appreciation of evidence,1.6
+answer from prosecution witnesses,0.0
+creditworthines,1.3333333333333333
+opportunities,0.5793650793650793
+burden,0.9853978671041838
+baldev,1.8333333333333333
+point,2.9165043546008516
+various decision on the point,0.0
+investigation in the present case,0.6666666666666666
+decisions on the point,0.8
+notice,2.3300025999395686
+ram singh-asi,0.0
+particular,1.5248953455371081
+serious doubt about the prosecution case,0.0
+public witness,0.5
+gyan,0.45454545454545453
+prosecution hinge,0.5
+police officials in order,0.5
+police official in order,0.0
+odd hour in night,0.0
+police,2.9749362629783356
+touchstone,1.1538461538461537
+sentence,2.3896654193264366
+above submission,1.0
+materials,1.1534090909090908
+examination,2.4920345926263088
+police officer,1.0366379310344829
+investigation of another fir,0.5
+burden of proof cast,1.5
+enmity,0.4377104377104377
+awarenes about the nature,0.0
+dent in the testimony,0.5
+conviction warrants,0.5
+under section,5.374517374517374
+arrest,1.391895003453834
+personnel,0.9491259524876736
+supp,1.7223856594132256
+uncorroborated testimony,0.5
+law on the point,1.0
+reason,2.6381270903010035
+instant case,2.0631578947368423
+aher raja,0.6666666666666666
+standard of proof,1.0
+sole witness ram singh-pw-,0.0
+possession at the time,0.5
+one,4.845669314438648
+yard,1.5829315332690455
+bond,0.7394882659713169
+yellow,0.3058419243986254
+succes,1.0899488286934886
+independent witness,1.2121212121212122
+bags,2.023668639053254
+police administration,0.6666666666666666
+saurashtra manuscmanusc,0.6666666666666666
+haryana,2.935064935064935
+magistracy,0.6666666666666666
+reasonable doubt,0.8638838475499093
+v state of mp,1.15
+recovery memo,1.0
+chander singh-si alongwith,0.0
+words,1.6384367086179112
+area of village kingre,0.5
+uncorroborated testimony of official witnesses,0.5
+human habitation in the nearby place,0.5
+plea,1.4430487701432178
+documents,1.142515923566879
+similar question,0.44117647058823534
+miscarriage of criminal justice,0.5
+favour of a police official,0.5
+hnn,0.23563218390804597
+air,2.0589664272145285
+team,0.7272900763358778
+places,0.8371884824384251
+good grounds,0.6666666666666666
+quintals,0.5
+counsel for the appellant mr,0.6666666666666666
+apply,1.5478801169590641
+proceeding,2.1298245614035087
+case against bhoop singh,1.0
+advocate general,1.6
+rukka,1.75
+that narcotic drug,0.5
+satisfactory explanation for non-examination,0.0
+gujarat,3.2753623188405796
+venkatarama ayyar,0.5
+midnight,0.5747899159663866
+to the public,0.7291666666666666
+burden shifts,0.5
+case of aher raja,0.5
+challenge,1.2204566274399267
+above entry in the fir,0.5
+paras,0.7450980392156863
+huge quantity,1.5
+judge,2.9012627415183325
+locality,0.7993421052631579
+manuscmanusc,7.940520446096654
+in favour of a police official,0.5
+asi,2.9557996793834067
+appeal before the high court,1.1875
+basi of conviction,0.0
+substance,0.8230581678857541
+twenty kilograms,0.5
+instant appeal,1.2857142857142858
+cast,2.23102127865833
+good to the public,0.6666666666666666
+bag of poppy husk,0.0
+gunny bags of poppy husk,0.5
+affidavits,1.954022988505747
+appellant observing,0.6666666666666666
+doubt of a reasonable degree,0.5
+judicial approach,0.8333333333333334
+preponderance of the probability,0.5
+possession of poppy husk,0.5
+twenty kilograms of poppy husk,0.5
+legal proposition,0.9333333333333332
+anand,1.15
+appellant observing that no other witness,0.5
+standard of such proof,0.5
+certified copy of the fir,0.5
+warrant,0.611066164387025
+possession of the contraband,2.5
+completion of investigation,1.3
+case bearing,0.6666666666666666
+circumstances of the case,1.3373493975903614
+officerpolice officer,0.5
+hand,2.0299623418254717
+haryana in criminal appeal,0.5
+bhoop,3.3333333333333335
+appreciation,0.7282229965156793
+credibility of the prosecution case,0.6666666666666666
+no doubt,0.8331331503088538
+possession,2.808810857389056
+other evidence,1.0434782608695652
+chander singh,3.6666666666666665
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+different modes,0.5
+prejudice,0.880907124598545
+above submission of the appellant,0.5
+more than half-a-century,0.0
+onus,0.8162100456621004
+outcome of the result,0.6666666666666666
+confidence,0.5942028985507247
+instant,1.131578947368421
+conscious possession,4.5
+high court,7.7477477477477485
+undisputedly,1.0
+complainant,4.538461538461538
+knowledge about the fact,0.5
+public,2.923239095873367
+thirteen quintal,0.5
+memo,1.4242074188165834
+state,6.817996007300392
+answer,0.9554305705177771
+previous enmity,0.6666666666666666
+bail bonds,0.9
+official,2.6854955160358718
+case cause prejudice,0.5
+to the prosecution case,1.0
+private jeep,0.5
+motive knowledge,0.5
+pw-,0.0
+manu,7.078142071124147
+general,1.7536558414534391
+narcotic,0.7792207792207791
+nakabandi on both sides,1.0
+mhc,0.18
+bhoop singh,4.5
+infirmity,1.3095238095238095
+bag,1.1303125392243003
+witness ram singh - pw-,0.0
+- examination of chander singh,0.0
+emphasis,0.8024289099526066
+ring of truth,0.4444444444444444
+previous enmity with the appellant,0.5
+driver of the tractor,1.0
+kilogram,1.0947368421052632
+nature,1.4149926876444778
+various decisions,1.3571428571428572
+yards,0.7422680412371134
+credibility of witness,0.6666666666666666
+appellant-baldev singh,0.0
+class magistrate,0.75
+legal proposition that evidence,0.5
+night,0.8690610404251893
+scw,0.26291079812206575
+high court vide,1.0
+bhoop singh in connection,0.5
+venkatarama,1.6666666666666667
+quantity of poppy straw,0.5
+senior counsel,2.2857142857142856
+twelve years,0.5294117647058824
+police possession,0.5
+gunny bags,3.0
+persons,2.5993381990166555
+preponderance of probability,0.6666666666666666
+ndps act,7.333333333333333
+mhc mohinder singh,0.5
+much in favour of a police official,0.5

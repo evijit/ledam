@@ -1,0 +1,836 @@
+courts,2.1216528162511543
+enactment,1.439950980392157
+aforesaid town,0.5
+vested forest,0.5
+exchanger,0.5
+carbon,0.8105263157894738
+privy council in crawford v spooner,0.5
+context to headings,0.5
+asquith j in allen v emmerson,0.5
+company act,0.6666666666666666
+section xiii,0.5
+classifiable under tariff item,0.6666666666666666
+spooner,0.3333333333333333
+other headings,0.5
+irc,1.6154447778034209
+custom,1.8742070505069293
+custodian,0.6233766233766234
+preceding word,0.5
+terms,2.390350840909655
+no-,0.0
+matters,1.4810665618448637
+meaning,1.8612727545949643
+public entertainment,0.6666666666666666
+instance,0.9469803370786518
+statutory provisions,1.6764705882352942
+complete transformation,0.5
+femanu,1.25
+phenolic,0.23333333333333334
+mineral substance,0.5
+fee,1.560669497024209
+enunciation,0.5210526315789474
+court,12.24425115501509
+narrower genu,1.0
+aspects,1.0997620069447154
+other articles of chapter,1.0
+union,2.0981927710843373
+rayons,0.2727272727272727
+hesitation,0.5405405405405406
+words in a statute,1.0
+other rule,0.4861111111111111
+specific words,0.6666666666666666
+person,4.291511329454258
+ors,2.8612718198296623
+inference,1.006741573033708
+substances,0.7777777777777778
+way,1.7812722068664852
+entries,2.110809342748506
+part,5.294464509893076
+classifiable under chapter,0.6666666666666666
+defective phrasing,0.5
+application of the ejusdem generis principles,0.5
+indication of a different legislative intent,0.5
+description,0.8190476190476191
+expression  other article,0.0
+millstones,3.5
+bombay,2.3134020618556703
+rule of law,0.5359801488833746
+certain words,0.37037037037037035
+scenario,0.4835164835164836
+aspect,1.2449448189023034
+decisions,1.3888475974580996
+scope for the court,0.5
+character,0.9325990965842764
+decision,2.9514937765898557
+contrary,1.027917657672435
+entertainment,0.8058608058608059
+articles,1.4349688743466387
+for newfoundland,1.0
+non-electrical articles of graphite,0.0
+customs act,2.0588235294117645
+ejusdem generis principles,0.5
+held that the good,0.75
+aforesaid,2.592896174863388
+few decision,0.75
+liable for water rates on all lands,0.5
+general word in view,0.0
+insertion,0.5564516129032258
+appeal,3.4125488033856883
+co ltd v custodian,0.5
+such user,0.5
+collector of customs,1.9230769230769231
+user,0.5042401399919236
+collector,1.8095238095238093
+good in question fall,0.0
+mention of a single species,1.0
+good,2.6154941054299674
+boilers,0.5454545454545454
+section xvi,0.5
+electrical company act,0.5
+scr,2.483838975311538
+nomenclature,0.8076923076923077
+ejusdem,2.6666666666666665
+land,6.337534028705619
+interpretation,1.518366298484459
+read,2.2147281730888695
+assessee- importer,0.0
+enunciation in craies,0.5
+boiler,0.3888888888888889
+various sub- headings,0.0
+word in view,0.0
+sententia legi of the legislature,0.0
+graphite,0.9722222222222222
+subsidiary matters,2.0
+single limited genus,0.5
+att,3.0750883174384485
+judgment,3.288216560509554
+thing of whatever description,0.0
+attorney general,1.3220338983050848
+particular words,0.75
+employer whether the contract,0.5
+subject,2.4420366233344897
+transformation,0.25
+question of law,3.057142857142857
+assessee on a foreign manufacturer,0.5
+order,5.472481489660944
+tools,0.47153714906157906
+other place of public entertainment,0.0
+other places of public entertainment,0.5
+general application,0.4800000000000001
+act,12.870263922028107
+place of the same kind,0.0
+other rules of interpretation,0.5
+rayon,0.26666666666666666
+income tax bombay city manuscmanusc,0.6666666666666666
+matter of interpretation,0.3333333333333333
+specification of a genus,0.0
+tubes,1.0040983606557377
+members of the tribunal,0.8
+clas,2.1196191893660425
+cement,1.4690278222983977
+theatre,0.7841269841269842
+importer,1.3636363636363638
+electrical,2.955939132409721
+effect,2.184583388478191
+contract with an employer,1.0
+electro-mechanical tools,0.0
+list,4.014941314095513
+electro-mechanical tool,0.0
+manner,1.4494591333432125
+pres,3.886376551409615
+member,2.649111111111111
+attention to other words,0.5
+parties,1.8210828547990157
+specifications,1.0991735537190084
+nalgo,0.18341307814992025
+section,9.287987283173626
+chartered accountants,4.8
+question fall,0.6666666666666666
+goods in question fall,1.0
+observations in navin chandra mafatlal,0.5
+barr,1.0959039380653317
+narrower genus,1.0
+gwalior,1.9
+none,0.8181718550217885
+similar material,0.2857142857142857
+water,0.9741079360379036
+metals,0.2435897435897436
+specification,1.0483870967741935
+tariff,11.052631578947368
+mechanical appliances,0.5
+appellate,2.561224489795918
+such article,1.0833333333333333
+sub-headings,0.0
+exclusions,0.4
+tax,3.549237288135593
+ejusdem generis,4.0
+stone,0.7736063708759955
+place,2.333104345208554
+finding,1.8129183657767178
+edict,0.44753086419753085
+present case,1.5611814345991561
+room for application,0.5
+member of the tribunal,0.5
+case of an ordinary word,0.5
+tendency of the law,0.5
+manual labour,1.0
+context,0.9269383697813122
+article for technical uses,0.0
+co ltd v att,0.5
+deoki nandan aggarwal manuscmanusc,0.5
+class,2.1508512849922936
+item,1.3319648896447913
+union of india,3.1324503311258276
+control,2.148867902684286
+issue,2.766776251628934
+para,2.300239586747483
+july,0.9742727723122656
+other places,0.5
+basi,2.0752712086391383
+rule of ejusdem generis,1.0
+nandan,0.7333333333333334
+men,12.280652027254101
+lists,1.1177777777777778
+generis,2.8
+farwell,0.5
+ceramic product,0.5
+contract,6.227349970404598
+similar article of other base metals,0.0
+doctrine,0.7455954017243533
+orders,1.4936359300077826
+other heading,0.5
+basis,1.953226441078104
+single species,1.0
+gwalior rayon,0.5
+cray,0.0
+tillman,0.25
+arijit pasayat,0.9230769230769231
+subsidiary matter,2.0
+sub,7.816899313759727
+deficiency,0.5102880658436214
+view of the exclusion,0.5
+incompatibility,0.23333333333333334
+difference in view,0.5
+deletion,2.029510395707579
+similar articles of other base metals,0.5
+legislature s defective phrasing,0.0
+enumeration constitute,0.5
+under tariff item,2.3333333333333335
+company,5.864471879286695
+good under chapter,0.0
+lord thankerton in united towns,0.5
+specifications of a genus,0.5
+grasim,0.5
+similar articles,1.0
+peat,0.562162929321601
+enumeration,1.1428571428571428
+little attention to other words,0.5
+atiqa begum manufemanufe,0.75
+held that the goods,0.75
+further appeal,1.1666666666666667
+ground,1.4186722903211633
+wright in the same case,0.5
+allen v emmerson,0.5
+united towns,1.5
+first schedule of the customs tariff act,0.6666666666666666
+other mineral substance,0.5
+factual scenario,1.0
+which result,0.5
+various aspects,0.5333333333333333
+reactor,0.20121951219512196
+matter,2.8088923076923082
+obscurity,0.35555555555555557
+article in question,0.0
+mischief,0.5934065934065934
+article,4.378806157159795
+to things of the same kind,0.5
+price,2.8302710227712162
+machinery,0.9071637426900585
+certain word,0.37037037037037035
+vested,1.457142857142857
+term,3.6255105640901575
+meaning of the expression,1.75
+view,2.441100058469462
+sweeper,0.23749999999999996
+v bolton corpn,0.5
+relief,1.4748116760828625
+appliance,0.6428571428571429
+atiqa,0.8
+use,5.06801278974993
+provinces,0.49769585253456217
+merit,1.2419290263876248
+electro,0.8963056255247691
+lord,1.6027618015615013
+exchangers,0.5
+assistant,1.6732837055417698
+core,0.43168575654387237
+result,1.3356630184144715
+mere specifications,0.5
+material,1.4148767018946966
+machinery appliance,0.5
+water rates,1.0
+karbate,2.0
+words of general import,0.5
+uses,1.4908719787871272
+scope,0.8412698412698413
+mica,1.191809720785936
+electro-mechanical domestic appliance,0.0
+inapt,0.5
+forests,1.8333333333333333
+gwyer cj,0.8333333333333334
+mafatlal,1.8571428571428572
+provision,5.439002243350069
+city,2.544592792669584
+crawford v spooner,0.5
+support,0.8630946786249609
+subject of enumeration constitute,0.0
+ambiguity,0.7008985879332478
+attorney,1.9875
+in note,0.6666666666666666
+mention of a genus,0.5
+first,1.9006367208168047
+same case,0.4571428571428572
+fcr,0.719758064516129
+various sub- heading of chapter,0.0
+modern tendency of the law,0.5
+sub- headings of chapter,0.0
+contention that the word,0.5
+learned counsel,3.703333333333333
+singh v press council of india,0.5
+strong reliance,1.606060606060606
+similar article,1.0
+expression,1.7424391201885312
+co ltd v custodian of vested forests,0.5
+non-electrical article,0.0
+ss knutsford,0.5
+pasayat,1.0
+assessee,15.925925925925926
+building,3.870745432459903
+enumeration belong,0.5
+palghat,0.5
+anr,1.1271033322299457
+clauses,1.5486111111111112
+appraising,1.0
+caution,1.0777000777000778
+mere specification of a genus,0.0
+main ground,0.5333333333333333
+laboratory glassware,0.5
+object,1.4940119760479043
+demand,1.5671679197994988
+different expression,0.6666666666666666
+tube in question,0.0
+only  genu,0.0
+stand,1.8422769621739425
+impugned order,2.265957446808511
+different expressions,0.6666666666666666
+customs tariff act,2.6666666666666665
+bolton,0.2631578947368421
+hood-barrs v irc,0.0
+grasim industry,0.0
+ag for newfoundland,0.5
+other word,0.758838674565131
+work,2.8478559811646353
+framework,0.5828468792096991
+system,1.1230229504341178
+mens,0.8875671966144343
+town,1.9746537396121884
+support of the appeal,0.8888888888888888
+distinct genus category,0.5
+mfg,0.2090909090909091
+tubes in question,0.5
+points,0.7095682483711788
+goods under chapter,0.5
+technical uses,0.5
+cta,1.30957545848134
+held,3.3171122162354454
+for water rate on all lands,0.0
+plea of the appellant,0.9
+doubt,1.3646267723102583
+view of the categorical finding,0.5
+frameworks,0.23529411764705882
+kind of objects,0.30000000000000004
+bar,1.4720990391722097
+arijit,0.9230769230769231
+which results,0.4632352941176471
+constitute description,0.5
+articles of chapter,1.5
+gold,1.6014084507042254
+principle,1.9620890732001848
+non-electrical article of graphite,0.0
+party,2.2250894654439723
+united province,0.8
+subjects of enumeration constitute,0.5
+navin,0.4
+single limited genu,0.5
+principle that the general words,0.5
+definition,1.6460425937698666
+delhi,2.6089285714285717
+transformation of the provision,0.5
+tool,0.3971731448763251
+subject of enumeration belong,0.0
+towns,0.6514285714285715
+differing character,0.5
+reactors,0.22727272727272727
+seventh,2.451612903225806
+silk,2.9166666666666665
+non-electric articles,0.0
+revenue,1.486701237872198
+modern tendency,0.5
+lands,1.3404179836160743
+in view of the exclusion,0.5
+part of heat exchangers,0.0
+colour,0.48673194267063996
+income,2.734813573523251
+things of the same kind,0.5
+resin,0.3495145631067962
+sub- heading,0.0
+legi,5.077222825216634
+principle in the absence,0.5
+reference,2.1755848210276256
+knutsford,0.5
+other article of chapter,0.0
+graphite fall,0.5
+place of public entertainment,0.0
+harmonized,1.0
+works,1.7935487434410384
+schedule,2.9453067257945307
+water rate on all lands,0.0
+- electric article,0.0
+room for the application,0.5
+like without frameworks,0.5
+way of manual labour,0.5
+generi,1.05019305019305
+principles,1.3198511166253102
+question,2.980312372067635
+under chapter,1.65
+complete genu,0.5
+corpn,1.3333333333333333
+import,1.5850112386464603
+gwalior rayons,0.5
+sub - heading,0.0
+council,1.464939453675021
+legis,5.530263392591712
+assistant collector of customs,0.6666666666666666
+local act,0.875
+thankerton,0.5
+scmanu,7.940520446096654
+none of the items,1.0
+word,2.065873981084096
+other place,0.4742268041237113
+chapter,1.3867471532446152
+few decisions,0.75
+appeals,1.7060218112849692
+other words,0.7578482137053969
+institute,0.9140980436760691
+different manner ie,0.5
+gwyer,1.0
+united,0.7052854122621566
+similar materials,0.5
+notes,0.6013642564802183
+glassware,1.0
+begum,0.717948717948718
+attorney general v leicester corporation,0.5
+heat exchangers,0.5
+heat,1.829644533869886
+press,2.0449126984126984
+heading,2.130249543517955
+entry,4.707210447678601
+words in view,0.5
+customs,1.9344608879492597
+high,5.367119186841496
+matters of interpretation,0.5
+result in rejection,0.0
+tribunal by the assessee,0.5
+members,1.9437616522164103
+accountants,2.5000000000000004
+fall,1.158018118245391
+parts of heat exchangers,1.0
+intention of the legislature,2.0434782608695654
+mineral substances,0.5
+electric,4.0323098663926
+co ltd,1.0270774976657329
+mischief of the enactment,0.5
+little attention,0.3333333333333333
+other rules,0.4897959183673469
+rules of interpretation,0.8
+edict of the legislature,0.6666666666666666
+objects,0.7297830374753452
+expression  other articles,0.0
+observation in navin chandra mafatlal,0.0
+purpose,2.519170317925504
+association with other words,0.5
+group iii,0.25
+law,3.538923411654744
+observation,0.7625074854374218
+base metals,0.5
+millstone,2.3333333333333335
+- electric articles,0.0
+rejection,0.7335907335907336
+group,1.691932599016908
+cta in view,0.5
+items,1.0672246220302377
+part of machinery,0.5
+things of whatever description,0.5
+provision in the statute,0.75
+additiondeletion of certain words,0.5
+that clas,0.6944444444444444
+navin chandra mafatlal,0.5
+principle of ejusdem generis,0.0
+delhi high court bar association,0.75
+categorical finding,0.75
+only plea,0.3166666666666666
+non,1.3417336444559675
+articles of stone,1.0
+addition,1.5588539142412572
+ejusdem generis rule,1.5
+ceramic products,0.5
+elementary principle,0.5
+various sub- headings of chapter,0.0
+whatever description,0.5
+harbhajan,0.6666666666666666
+statutory provision,1.1638418079096045
+india v price waterhouse,0.5
+graphite fall under chapter,0.5
+absence,1.092363454568179
+clerical work,0.6666666666666666
+counsel,2.2246780703440323
+application,2.3322596088086445
+reads,0.8722657304887929
+united provinces,0.8
+newfoundland,0.47058823529411764
+april,0.8928235149629509
+parts,0.6609660823170732
+rates,0.9535092413452435
+other articles,0.7272727272727273
+india,2.7684068260703585
+parts thereof,1.3333333333333333
+rules,3.130914366958792
+asbestos,0.22727272727272727
+alse general,0.0
+word of general import,0.0
+headings,1.0
+phrasing,0.25
+mere specification,0.5
+new,0.9418497626301229
+association,1.2099052684061826
+general terms,0.5172413793103449
+exclusion,1.276390008058018
+different objects,0.3333333333333333
+emmerson,0.3333333333333333
+aggarwal,0.8888888888888888
+floor,2.088735201031532
+play,0.5464427772208388
+submissions,0.5235745614035088
+such articles,0.5
+article of stone,0.0
+farwell lj,0.5
+glass,0.8618012422360248
+mention,1.6248742837095076
+works under a contract,0.5
+tube,0.6567164179104478
+ltd,2.382356477306883
+intention,1.7585585585585588
+convenient,0.5128615647347635
+submission,1.0913871684001404
+such word,0.4
+application of the ejusdem generis rule,0.5
+results,0.6487493619193466
+support addition,1.0
+nuclear reactor,0.25
+substitution,0.5932203389830508
+industry,8.208106219426973
+council in crawford v spooner,0.5
+language of the provision,0.8333333333333334
+genus category,0.5
+non-electric article,0.0
+manufacturer,1.7352281226626773
+moo,0.5109648160339404
+reliance,1.400763358778626
+excise,4.429175475687103
+xiii,0.5625
+water rates on all lands,0.5
+whole,0.951414768806073
+word in any section,0.5
+hsn,0.5220883534136547
+limited genus,0.5
+singh v press council,0.5
+lord simon lc,0.5
+case,7.332269420884958
+difference,0.8774847235514982
+present expression,0.5
+supply,2.0557395143487858
+articles in question,0.5
+emphasi,0.9191619047619048
+manner ie,0.75
+general word,2.0
+example,0.5893965031020868
+scc,1.941872465904902
+article of other base metals,0.0
+edition,0.9664589349951868
+word in a statute,0.0
+base,0.8959264091163237
+seventh edition,0.7999999999999999
+wvg,0.21212121212121213
+adjudication,1.5392156862745099
+artificial graphite,1.5
+allen,1.2486036194184673
+same kind,0.6075949367088607
+ambit,1.0862754267009587
+appeal under section,3.1176470588235294
+singh,3.7791111111111113
+articles of other base metals,0.5
+inviolable rule,0.5
+results in rejection,0.6666666666666666
+crawford,0.3111111111111111
+example of water rates,0.5
+ejusdem generi,4.0
+further appeal before the customs,0.5
+contention,1.666391070690368
+similar to millstones,0.5
+grasim industries,0.5
+rule of construction,1.1
+rule,5.04
+different object,0.3333333333333333
+tillmans,0.5
+deoki,1.0
+which results in rejection,0.6666666666666666
+- electrical articles,0.0
+moo pc,0.75
+duty,3.2272215973003378
+chandra,0.7012987012987013
+theatres,0.75
+bench,2.5793391667754992
+metal,0.32141280353200885
+short tariff act,0.5
+first schedule,2.7142857142857144
+asquith j,0.75
+view that the contention,0.5
+limited to things of the same kind,0.5
+rival submission,1.0454545454545454
+base metal,0.5
+to thing of the same kind,0.0
+asquith,0.8
+privy,1.2571428571428573
+karbate tubes,2.0
+vested forests,0.5
+point,2.9165043546008516
+short hsn,0.5
+core question,0.6
+leicester,0.22727272727272727
+attempt,0.7943782192788815
+goods,4.7578125
+admission,1.5389848246991107
+rival submissions,1.0454545454545454
+privy council,2.15
+nuclear reactors,0.25
+learned counsel for the assessee,1.0
+hand-operated mechanical floor sweepers,0.0
+sub-heading,0.0
+harmonized system nomenclature,0.5
+wheel,0.5906413612565445
+different legislative intent,0.5
+sentence,2.3896654193264366
+that class,0.6944444444444444
+materials,1.1534090909090908
+aforesaid exclusions,0.5
+assistant collector,2.375
+permissible inference,0.5
+mechanical appliance,0.5
+wheels,0.5636363636363637
+specific word,0.6666666666666666
+different sub-heading,0.0
+taxation,1.2112499999999997
+ceramic material,0.5
+ejusdem generis doctrine,0.5
+sub- headings,0.0
+position,1.549133168619177
+incompatibility between the specific,0.5
+plaster,0.3111111111111111
+workman,2.3486111111111114
+court in collector,0.8571428571428571
+only  genus,0.0
+category,1.9351744779266717
+gold control,1.4615384615384615
+other article,0.6889952153110048
+waterhouse,0.30000000000000004
+like without framework,0.5
+specific,1.267355853232382
+various sub- heading,0.0
+construction,2.2504918032786887
+thing of the same kind,0.0
+application of the rule,0.4444444444444444
+consideration,1.9110153789142115
+different sub-headings,0.0
+karbate tube,2.0
+sub- heading of chapter,0.0
+words,1.6384367086179112
+to millstones,1.0
+to millstone,1.0
+schedule of the customs tariff act,0.6666666666666666
+plea,1.4430487701432178
+commissioner,2.271608643457383
+short tribunal,0.5
+principle that the general word,0.5
+clause,3.526455026455027
+xvi,0.491995197118271
+underlined for emphasis,0.6666666666666666
+places,0.8371884824384251
+glas,0.8427077165975924
+technical us,0.5
+inviolable rule of law,0.5
+reply,1.0337305560040906
+particular word,0.5
+care,0.8846948234137723
+foreign manufacturer,0.75
+electro-mechanical domestic appliances,0.0
+expressions,0.8027972027972027
+asbesto,0.22727272727272727
+fun,3.182328383856186
+various aspect,0.5333333333333333
+mere specifications of a genus,0.5
+ordinary word,0.5
+single specy,0.0
+sententia,0.3333333333333333
+grindstone,3.5
+legislature,2.818553268765133
+craies,1.0
+chartered accountant,4.2
+absence of any indication,0.5
+appeal before the customs,0.6666666666666666
+assessee s stand,0.0
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+reference to the note,0.5
+province,0.7345491388044579
+substance,0.8230581678857541
+isolation,0.45714285714285713
+particular case,0.4358974358974359
+tariff act,4.333333333333333
+general for newfoundland,0.5
+corporation,3.6427750743444176
+machinery appliances,0.5
+note of the entries,0.5
+substance in this plea,0.5
+additiondeletion,0.5
+duty of the courts,0.75
+simon,0.33098591549295775
+wright,0.2752808988764045
+grindstones,3.5
+pumps,0.2
+united town,1.5
+articles of peat,0.5
+room,0.6950710108604846
+water rate,1.5
+other articles for technical uses,0.5
+natural graphite,1.0
+page,1.011907905159212
+products,1.6079404466501241
+background,0.6800452488687784
+subjects,0.9254185692541858
+hood,0.9382039573820398
+commissioner of income tax bombay city manu  scmanu  sc,0.0
+insertion of such words,0.5
+pump,0.5740112994350282
+brief,0.540112172829248
+larger bench,2.0606060606060606
+barrs,0.26
+legislative intent,1.3823529411764706
+task,0.5643819334389858
+- electrical article of graphite,0.0
+hand,2.0299623418254717
+other mineral substances,0.5
+lord thankerton,0.5
+which result in rejection,0.0
+article of peat,0.0
+iii,1.5614499719992534
+sense,0.8606303395157362
+tendency,0.5150501672240803
+deficiencies,0.5185185185185185
+places of the same kind,0.5
+appraiser,0.3333333333333333
+hand-operated mechanical floor sweeper,0.0
+institute of chartered accountants,0.5
+appellant,14.387096774193548
+only question,0.5172413793103449
+general words in view,0.5
+plain,3.198322602206429
+places of public entertainment,0.5
+sub - headings,0.0
+general words,2.0
+- electrical articles of graphite,0.0
+alse general v leicester corporation,0.0
+limited genu,0.5
+product,2.242984858429713
+complete transformation of the provision,0.5
+constitute description of a complete genus,0.5
+relief to the assessee,0.5
+new delhi,1.744186046511628
+such words,0.4
+statute,2.5765859456247218
+other base metal,0.5
+aforesaid exclusion,0.5
+note,1.3654108484234107
+intent,1.8427075724373023
+forest,2.292817679558011
+principles of ejusdem generis,0.5
+manu,7.078142071124147
+general term,0.5116279069767442
+general,1.7536558414534391
+rate,3.088725136774248
+employer,2.639728353140917
+work under a contract,0.0
+language,0.8555828468744352
+sententia legi,0.5
+- electrical article,0.0
+reference to few decisions,0.5
+emphasis,0.8024289099526066
+see,2.8180360783074034
+articles for technical uses,0.5
+ordinary meaning,1.0
+cover,2.502726787041524
+things,0.6162490788504054
+complete genus,0.5
+system nomenclature,0.5
+restricted meaning,6.2
+substitution of words,0.6666666666666666
+appellate tribunal,4.2105263157894735
+applicable in view of the exclusion,0.5
+accountant,1.8627450980392157
+subjects of enumeration belong,0.5
+preceding words,0.5
+nuclear,0.20289855072463767
+tribunal,5.07183212267958
+non-electrical articles,0.0
+buildings,1.3041267942583734
+phenolic resin,0.5
+kind,0.9236881920088026
+genus,3.2
+article of chapter,0.0
+statute law,1.0
+other rule of interpretation,0.0
+species,0.6307692307692307
+ejusdem generis principle,1.0
+other base metals,0.5
+observations,0.7454584147497534
+manual,0.7839771101573677
+sententia legis,0.5
+attention,0.8724846605528799
+something,0.5915378827342709
+tariff item,2.75
+sententia legis of the legislature,0.5
+for water rates on all lands,0.5
+other carbon,0.5
+chartered,1.5
+use of the words,0.6666666666666666
+labour,2.5372960372960374
+rule of interpretation,1.2
+other article for technical uses,0.0
+appliances,0.7083333333333334
+industries,2.162068965517242
+genu,1.0069930069930069
+heat exchanger,0.5
+sweepers,0.2857142857142857
+thing,1.1131787570209408
+general import,0.8
+indication,0.6940825616072829
+reference to a decision,0.5

@@ -1,0 +1,951 @@
+only exception,0.5555555555555556
+enactment,1.439950980392157
+ceiling limit in the territories,0.5
+capacity,1.7421691881525676
+v lj,0.5
+committee,2.546237803603864
+restriction,1.0123456790123457
+government,3.5583785424010483
+findings,1.049571253572887
+wells,0.5543478260869564
+domestic servant,0.5
+plots,0.8001672240802675
+weaker sections,1.125
+literal meaning,0.9000000000000001
+respondent in bombay,0.0
+other land,1.3877551020408163
+condition for applicability,0.5
+either owners,1.0
+atma ram aggarwal,0.5
+bhavnagar,0.8333333333333334
+assistant engineer,4.428571428571429
+possesses,0.5882352941176471
+industrial building,1.0
+tenant under a lease,1.0
+available for distribution,0.5
+reasons,1.3749054007567938
+sections,1.640495469442838
+court of bombay,2.176470588235294
+act respondent,0.6666666666666666
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+terms of section,1.98
+meaning,1.8612727545949643
+co - operative society,0.0
+sub-clause,0.0
+interest,2.74353772015385
+statutory authority,1.2105263157894737
+finding of the high court,1.6363636363636365
+court,12.24425115501509
+which pune,0.5
+plain language,1.1
+prima facie restrictive,0.5
+area of the buildings,0.5
+absence of a contract,1.0
+parliament,2.6571235781762095
+agreement,3.450434632433366
+view of the discussion,0.75
+other authority,1.0666666666666667
+building rules in koregaon park area,0.5
+high court of bombay,2.176470588235294
+ceiling limit in the territory,0.5
+purpose of exclusion,0.5
+person,4.291511329454258
+foot in length,0.0
+ors,2.8612718198296623
+koregaon park area,1.5
+appellate authority under the urban land,0.5
+behalf,1.9888053603529987
+laxmidas,1.0
+provisions of the statute,1.2
+part,5.294464509893076
+provision of the statute,0.5
+primal question in this appeal,0.5
+environment,4.8219106957424716
+minimum area,0.5
+such outhouses,0.5
+industrial building in possession,0.5
+share in such firm,1.0
+light of section,1.0
+ancillary question,0.6666666666666666
+bombay,2.3134020618556703
+account on the basis,0.5
+land in excess,4.333333333333333
+total area,0.84
+appurtenant thereto,1.0
+vacant land in excess,1.5
+share,2.560794932990637
+other provisions,1.9
+area of the building,1.1111111111111112
+such land,2.2857142857142856
+separate fund,0.5
+ownership,1.1522633744855968
+purview thereof,0.6666666666666666
+same plot,0.30000000000000004
+number,1.4802651440973922
+district,1.5506763074237984
+decisions,1.3888475974580996
+funds,3.352010547132498
+shri,2.0759135877246115
+category b in which pune,0.5
+relevant provisions,1.5
+statutory interdict,0.6666666666666666
+decision,2.9514937765898557
+contrary,1.027917657672435
+act deal,1.736842105263158
+trust,1.8699167074963252
+competent authority,2.7142857142857144
+for distribution,0.6222222222222222
+day with the approval,0.5
+aforesaid,2.592896174863388
+other person,0.9635036496350365
+statutory definitions,0.5
+terms of the provisions,1.4782608695652173
+ceiling limit in pune,0.5
+transfer,1.9975047057658015
+appeal,3.4125488033856883
+building regulation in the aforesaid area,0.0
+share in the plot,0.5
+determination,1.5980374665477253
+user,0.5042401399919236
+collector,1.8095238095238093
+area construction,0.5
+land,6.337534028705619
+scr,2.483838975311538
+writ petition under article,1.2
+authority under urban land ceiling,0.5
+day in terms,0.4444444444444444
+area,2.675167256985439
+interpretation,1.518366298484459
+agglomeration,2.5
+area of the aforesaid plot,0.5
+independent title,0.5
+special attention,0.4
+meter in a building,0.5
+v state of west bengal,1.4
+meera gupta s case,0.0
+building on the same plot,0.0
+necessary condition for applicability,0.5
+year,2.8349484769759212
+more person,1.2000000000000002
+feet in length,0.3333333333333333
+rule in force,0.5
+park,1.1480541455160744
+koregaon,9.0
+judgment,3.288216560509554
+gallery,0.25
+only exception to the aforementioned rule,0.5
+hire,0.7466666666666667
+expropriatory legislation,0.6666666666666666
+act deals with joint transfer,0.5
+two-third of the area,0.0
+meaning of section,1.3611111111111112
+subject,2.4420366233344897
+more building on the same plot,0.0
+xxx xxx,0.8043478260869567
+decision of the bombay high court,1.0
+order,5.472481489660944
+creature,0.4845338524767467
+interests in the fund,0.5
+act,12.870263922028107
+sub-section,0.0
+three - judge bench in angoor devi,0.0
+one-third of the total area,0.0
+smt,0.7459757206267715
+under the building regulation,2.5
+separate funds,0.5
+hoods,0.28104575163398693
+permissible ceiling limit of vacant land,0.5
+title to the property,0.5
+ceiling limit of pune agglomeration,1.0
+housing for weaker sections,0.5
+projections of any kind,0.5
+explanation,1.4510159010600707
+angoor,1.5
+state government,3.027142857142857
+effect,2.184583388478191
+purpose of determination,1.3333333333333333
+minimum,1.388221153846154
+open space,0.391304347826087
+two-third area,0.0
+manner,1.4494591333432125
+more buildings on the same plot,0.5
+member,2.649111111111111
+parties,1.8210828547990157
+urban land,1.5
+parapet,0.5
+d of urban agglomeration,0.5
+meherbai,0.5
+meters of land,1.0
+section,9.287987283173626
+provision in this regard,0.0
+provisions of the building rules,0.5
+than one - third of the total area,0.0
+which construction,1.6666666666666667
+servant,2.030552291421857
+west bengal,3.3333333333333335
+complex educational,0.75
+appellate,2.561224489795918
+condition,2.259476395625584
+expression means,1.0
+building regulation,3.3333333333333335
+contrary context,0.5
+possess,2.4574238668198394
+fact that expression  means,0.0
+model colony,0.5
+authority that the area,0.5
+circumstance,1.429931390219372
+shri sk,0.75
+finding,1.8129183657767178
+building for the purpose,1.2857142857142858
+regulation,4.3783195107648485
+mean,2.390645692553228
+there exist provisions,0.5
+other view,0.6
+applicable in koregaon park,0.5
+certain exception,0.5555555555555556
+regard,2.723310344827586
+more than one-third of the total area,0.0
+unexpired period,0.5
+context,0.9269383697813122
+flats in the building,0.5
+relevant provision in this regard,0.0
+direction,1.8495050210098996
+consideration as no vacant land,0.5
+area of the part,0.5
+perusal,0.750733137829912
+other structure,0.5333333333333333
+primal question,0.8571428571428571
+length,0.6297872340425531
+occupant,1.8116883116883118
+space,0.49637233360798316
+facts,1.4696673624372698
+sanction of the building plan,1.0
+words as expression means,0.5
+municipal,2.4099173553719004
+such vacant land,0.5
+thereof,1.7897727272727273
+extent of vacant land,1.5
+area thereof,0.5
+purview,1.0864197530864197
+basi,2.0752712086391383
+preference of the decision,0.5
+property in any manner,0.6666666666666666
+meaning of the word,0.8426150121065376
+outhouse,0.6000000000000001
+poona,1.0
+provisions in this regard,0.5
+weaker section,1.2222222222222223
+contract,6.227349970404598
+units,5.004460400348129
+benefit,2.604810195438474
+individual,1.1485140562248994
+cost,1.2954397451466992
+act applies,1.2857142857142858
+area thereof in terms,0.5
+orders,1.4936359300077826
+complex,0.48861911987860396
+common judgment,1.3636363636363635
+second paragraph of this section,0.5
+basis,1.953226441078104
+applicability thereof,1.0
+johnson s case,0.0
+gupta s case,0.0
+scheme,3.415949119373777
+authority under the urban land,0.5
+act apply,0.8
+appropriate authority,1.222222222222222
+unit therein,2.0
+sub,7.816899313759727
+structures,0.8929115853658537
+proportion,1.3026315789473686
+lay,1.6417997860111886
+behari,1.625
+khandalawala,0.5
+aforesaid plot,0.5
+meter of excess land,0.0
+company,5.864471879286695
+meters in cts,0.5
+trust v state of haryana,0.75
+relevant provisions in this regard,0.5
+purpose of applicability thereof,0.5
+two - judge bench,0.0
+separate building plot,0.5
+manner of doubt,1.0
+that constructions,0.5
+metres,2.0
+firm,1.7435548272439818
+main building,0.6666666666666666
+ground,1.4186722903211633
+territory,1.3688226421790437
+co-operative society,0.0
+meter of land,0.0
+ceiling limit in view,0.5
+xxx,1.8708487084870848
+interest in the land,0.8
+size,0.4932317346481398
+west,1.1420057009587976
+excess,0.9860601614086574
+relevant rule,1.1875
+field,1.5820968371729793
+matter,2.8088923076923082
+under the building regulation in force,0.0
+tenant,4.821212121212122
+that enactment,1.0
+article,4.378806157159795
+building regulation in force,0.0
+bearing,0.7901184156798694
+applicability of this building rule,0.5
+owner of a property,0.6666666666666666
+engineer,3.318922187370092
+park pune the area whereof,0.5
+single unit,0.4
+hire - purchase agreement,0.0
+term,3.6255105640901575
+irrevocable power of attorney,1.0
+more building,0.5
+meaning of the expression,1.75
+meter in cts,0.0
+share of respondent nos,0.5
+appellants,7.701086956521739
+view,2.441100058469462
+building plan,2.875
+necessary condition,0.2727272727272727
+permissible on two-third of the area,0.0
+makers,0.8582995951417005
+enjoyment,0.631578947368421
+opinion,1.4960606342789635
+respondents in bombay,1.5
+conflict,1.314561353483509
+side,3.88845645915565
+wife,1.4518086408500224
+transfer of property,1.8666666666666667
+ceiling limit,4.666666666666667
+use,5.06801278974993
+restriction of construction,0.5
+merit,1.2419290263876248
+wyre,0.5
+extent of land,0.6666666666666666
+well,1.4966552780778166
+strangers,0.4800000000000001
+unit,2.176678509944691
+statutory enactment,1.0
+assistant,1.6732837055417698
+meera,1.25
+educational,1.1138712241653417
+submission of mr  dholakia,0.0
+compound walls,0.6666666666666666
+flats in a building,0.5
+land in terms,0.6666666666666666
+bengal,1.9299191374663072
+record,2.5393414390845273
+outhouses,0.5
+material,1.4148767018946966
+model,0.8245519713261649
+trite that all statutory definition,0.5
+such property,2.25
+two - judge bench of this court,0.0
+provision,5.439002243350069
+secretary,0.9217877094972067
+such construction,1.0
+wall,0.8333770549143058
+storey,0.5833333333333334
+atma,0.48442970333517604
+attorney,1.9875
+separate units,1.0
+view of this specific provision,1.0
+purview of sub - section,0.0
+definition of the word  person,0.0
+legislation,3.2032032032032034
+relevant rule in force,0.0
+four - corners thereof,0.0
+land bearing cts,0.5
+wyre forest district council v secretary state for the environment,0.5
+fact,3.6284951019474962
+urban land ceiling,1.5
+owner,2.9502416709822197
+learned counsel,3.703333333333333
+tenants,0.8391608391608391
+relevant provision of the building rules,0.0
+expression,1.7424391201885312
+gorakhpur,2.25
+irrevocable power,1.0
+exclusionary clauses,1.0
+walls,1.0032840722495895
+building,3.870745432459903
+trite that all statutory definitions,0.5
+pune urban agglomeration,0.5
+interests,1.0562317935913441
+regulation act,4.5
+cts,2.511144115418095
+clauses,1.5486111111111112
+additional reason,0.8
+material on record,1.40625
+intention of the parliament,1.3333333333333333
+sugar,5.734610417563496
+object,1.4940119760479043
+thereto,1.0358342665173572
+immovable property,1.75
+dlf,0.31111111111111117
+meera gupta,1.5
+thing in a particular manner,0.6666666666666666
+building rules,1.6666666666666667
+other word,0.758838674565131
+owners,1.9409649385675758
+law for the time,1.945945945945946
+extent,1.410108024691358
+well-settled that a statute,0.0
+that a person,0.625
+applicability,1.0928961748633879
+second paragraph,0.1885245901639344
+charging,0.7844588344125809
+doubt,1.3646267723102583
+meters for pune,0.5
+building plot,3.0
+light,0.8816192372754331
+mr dholakia,1.0
+respondents in pune,0.5
+corner,0.7011583011583012
+years,2.5395804110508022
+separate unit,1.0
+no koregaon park,4.5
+regulation of construction,0.5
+excess land,0.6666666666666666
+equal shares,0.5
+charitable,4.835164835164836
+unincorporated association,0.5
+restrictions,0.7241671372106155
+pune agglomeration,1.0
+basis that the land,0.3333333333333333
+subject to the qualification,0.5
+architect,8.042372881355933
+angoori devi,1.0
+vacant for the purpose,0.6666666666666666
+party,2.2250894654439723
+necessary that a person,0.6666666666666666
+facie restrictive,0.5
+permissible under the building regulations in force,2.0
+whereof,1.2790697674418605
+half area of the aforesaid plot,0.5
+definitions,0.5973524544953117
+definition,1.6460425937698666
+well with parapet walls,0.0
+commend,2.5297913160912766
+land ceiling,1.5
+building rule in koregaon park area,0.0
+honble mathur,0.5
+open otter,0.5
+flat held,0.5
+beside,0.6316646316646316
+laxmida,1.0
+office of the assistant engineer,0.5
+commencement,1.2037037037037035
+the act,5.708327371273712
+expression mean,0.6666666666666666
+possession of the land,2.6923076923076925
+dev,2.1018632238997714
+lands,1.3404179836160743
+angoor devi,0.5
+servants,1.1313131313131313
+appellate authority,2.2
+member of a housing,0.5
+interpretation clause,0.875
+minimum area of a building plot,0.5
+angoori devi s case,0.0
+approval,1.4085456739300164
+v state,2.4603773584905664
+fact that expression  mean,0.0
+flat in the building,0.0
+date,6.195616975795285
+flat of the respondents,0.0
+other provision,1.281045751633987
+in the property,0.6923076923076923
+excess area,0.5
+such building,2.1666666666666665
+reference,2.1755848210276256
+plain language of the statute,0.5
+own ct,0.3333333333333333
+society,2.1182859399684046
+terms of the building rules,0.5
+construction committee,0.5
+wells with parapet walls,0.5
+fide use,1.0
+meaning therefore,0.5
+occupants,2.048780487804878
+term of the building plan,0.0
+respondent,4.757894736842104
+plot of land,0.6428571428571429
+makers of the legislation,0.5
+interested in the property,0.6666666666666666
+schedule,2.9453067257945307
+same open space,0.5
+language of the statute,1.0
+constructed building in terms,0.0
+day,1.550999710228919
+co - operative housing society,0.0
+palitana,0.8333333333333334
+word  person,0.0
+question,2.980312372067635
+fund belonging,0.5
+v state of up,1.7027027027027026
+possible on an area,0.5
+necessary that constructions,0.5
+year at the commencement,0.0
+ceiling limit for every person,0.5
+hereby,0.9937897922972551
+construction of building,1.5
+council,1.464939453675021
+open otters,0.5
+permissible ceiling limit,0.5
+land appurtenant to such building,0.5
+such firm,2.3333333333333335
+manumhmanumh,1.4
+construction of a statute,0.6666666666666666
+appeal by special leave,1.04
+proportion to the shares,0.5
+scmanu,7.940520446096654
+word,2.065873981084096
+writ,2.8882378560889794
+honble,2.4444444444444446
+step,0.8867024753460084
+appeals,1.7060218112849692
+definition of  vacant land,0.0
+other words,0.7578482137053969
+statement,2.5393160135035964
+reference to that enactment,0.5
+explanation to section,1.5
+mode,0.8201666928762384
+vacant under the building regulations,0.5
+plot,1.9177369203731243
+court in state,1.5909090909090908
+maker,1.0485537190082643
+constructed buildings,0.5
+high,5.367119186841496
+ground floor,2.4
+meter for pune,0.0
+sub-rule,0.0
+projection,0.7872340425531915
+buildings on the same plot,0.5
+account,2.5754891049671977
+regard to the purport,0.8571428571428571
+order of the competent authority,0.0
+gupta,0.7610062893081762
+enjoyment of the property,0.75
+purchase,3.239871541501976
+force,1.6009408121948314
+interdict,0.4958677685950413
+interests in such property,1.0
+behalf of the appellants,1.46875
+line,1.6884436630262616
+property,2.9368986630013745
+notification,3.0112746633260263
+enclave,0.2661290322580645
+purpose,2.519170317925504
+law,3.538923411654744
+constructions,0.6758620689655173
+provision of the building rules,0.0
+nos,1.2635492554198444
+well-settled that the provision of the statute,0.0
+observation,0.7625074854374218
+time,2.4764180952862667
+construction of a building,2.0
+than a vacant land,0.5
+sides,0.6706755273269035
+koregaon park,9.0
+plain reading of the provision,0.6666666666666666
+various party on lease,0.0
+such person,0.9634888438133874
+relevant rules,1.1428571428571428
+constitution bench,4.27536231884058
+purpose of this section,1.0
+qutab,0.75
+plan,2.0162821688398056
+purposes of this section,1.1666666666666667
+weather shed,0.5
+charitable trust v state of haryana,0.75
+paragraph of this section,0.5
+statutory interdict of use,0.6666666666666666
+user thereof,0.75
+extent of such other land,0.5
+more persons,1.388888888888889
+various parties on lease,0.5
+which portion,1.0
+term of section,0.5
+limit,2.3804570428443834
+area of the flat held,0.5
+right,3.07483248288682
+vis-a-vis sub-section,0.0
+constructed buildings in terms,0.5
+terms of the building plan,0.5
+parapet wall,0.5
+prohibition,1.9087256027554533
+view of section,1.5
+ceiling limits,0.5
+exception,1.1036946087733006
+question in this appeal,0.8333333333333334
+land appurtenant,1.6
+absence,1.092363454568179
+counsel,2.2246780703440323
+exces,0.9881465517241379
+limits,0.8405888207868406
+feet,0.5815085158150851
+foot from the wall,0.0
+rules in force,1.2
+either owner of any land,0.0
+authorities,1.266131845134287
+meters of excess land,0.5
+regard to the fact,1.5862068965517242
+rules,3.130914366958792
+under the building regulations in force,2.0
+reading,0.9004509191814082
+building regulations in the aforesaid area,0.5
+relevant rules in force,0.5
+category b,0.5454545454545454
+metre,1.607142857142857
+shri dholakia,0.8
+flat,2.2950575421290584
+parties on lease,0.5
+compound,0.9563190432755649
+interdict of use,0.6666666666666666
+association,1.2099052684061826
+strict meaning,0.41666666666666663
+exclusion,1.276390008058018
+weather,0.2679738562091503
+interpretation of provision,1.25
+aggarwal,0.8888888888888888
+floor,2.088735201031532
+sinha,0.8166351606805294
+otter,43.8
+particular manner,1.1428571428571428
+johnson,0.45494699646643105
+trust v state,0.75
+consideration for the purpose,0.875
+mortgagee,14.0
+ceiling area,5.666666666666667
+appurtenant,1.6
+intention,1.7585585585585588
+ltd,2.382356477306883
+plinth area of the buildings,0.5
+dispute,2.402137592137592
+chajja,0.5
+submission,1.0913871684001404
+evidence,3.6676405172088815
+possession of a part,0.5
+on two - third of the area,0.0
+competent authority under urban land ceiling,0.5
+decision of this court,2.3260869565217392
+two-third area of cts,0.0
+open hood,0.5
+meters,0.9235886065154357
+act deal with joint transfer,0.0
+three - judge bench,0.0
+there exist provision,0.5
+park area,1.5
+possession of any land,1.75
+flats,2.4583333333333335
+vacant land by a housing,0.5
+state of maharashtra,2.5434782608695654
+case,7.332269420884958
+creature of statute,0.8571428571428571
+sub-sections,0.0
+period,1.9480170842427122
+area of koregaon park,0.5
+unmindful of the observations,0.5
+bona fide use,0.5
+weather sheds,0.5
+schedule i of the act,0.6666666666666666
+vacant in the instant case,0.5
+scc,1.941872465904902
+land on which construction,2.0
+lay - out,0.0
+anyone of the sub-sections,0.0
+structure underneath on ground floor,0.5
+subject to other provisions,1.0
+billimoria,0.75
+opinion of honble mathur,0.5
+for the purpose,1.8600737100737101
+lease,1.2000155472636815
+property in a particular manner,0.75
+constitution,3.204842342342342
+various parties,0.5142857142857143
+letter,2.707240080105903
+ram,2.11096203538064
+such outhouse,0.5
+only creature of statute,0.6666666666666666
+ambit,1.0862754267009587
+owner of the land,1.5
+discussions,0.6699766355140188
+koregaon park area in terms,0.5
+purposes,1.4391216613438835
+building regulations,3.3333333333333335
+portion,1.0756311179804223
+distribution,2.7289109919449284
+xxx xxx xxx explanation,0.0
+therefore,2.960332350576253
+feet from the wall,0.5
+contention,1.666391070690368
+forest district council v secretary state,0.5
+either structures,0.5
+rule,5.04
+besides,0.6364883401920438
+allottee,2.5555555555555554
+which such land,1.6666666666666667
+kunj,1.3333333333333333
+perpetuity,0.45000000000000007
+under the building regulations,2.5
+words  vacant land,0.0
+projects,1.1885926573426573
+necessary that construction,0.5
+supra,2.246342614440774
+that construction,1.2307692307692308
+hardship,0.7236842105263158
+only creature,0.6666666666666666
+bench,2.5793391667754992
+such other land,2.0
+angoori,1.0
+aroskar,0.5
+sub - section,0.0
+flats in bombay,1.0
+competent,1.3701267639320736
+office,3.5913445886237847
+land by a housing,0.5
+building rule,2.0
+bombay high court,2.4642857142857144
+respondents,2.6341263330598856
+leave,1.0147842365477848
+maharashtra,2.9076923076923076
+costs,0.8167395522604189
+owner of equal shares,0.0
+applicable in a case,0.5
+half area,0.5
+capacities,0.6222222222222222
+cis,4.816558993361253
+maker of the legislation,0.0
+wyre forest district council v secretary state,0.5
+forest district council v secretary state for the environment,0.5
+body,1.336775463480009
+green area,0.5
+straight line,0.23404255319148934
+airsc commends,0.5
+meters in cis,0.5
+half of the total area,0.5
+area in which such land,1.0
+joint transfer,0.5
+ancillary questions,0.5
+power,3.8165227690948367
+structure,1.568520357497517
+merits,0.968421052631579
+urban agglomeration,1.5
+steps,1.169318181818182
+dholakia,1.5
+aforesaid area,0.5
+words as expression mean,0.5
+such society,0.6666666666666666
+project,4.265889006716154
+specific provision,1.1363636363636365
+title,1.74290600761189
+liberal construction,1.1428571428571428
+lal,1.6786163249382287
+effort,0.7536036036036036
+other structures,0.5
+reason,2.6381270903010035
+instant case,2.0631578947368423
+operation,1.0959893294085181
+deals,1.3395407335280751
+such consideration,1.0
+domestic servants,0.5
+either owner,1.0
+legal basi,0.4444444444444444
+power of attorney,4.416666666666667
+stranger,0.5863636363636363
+petition,5.3436539306104525
+category,1.9351744779266717
+writ petition,6.24223602484472
+ceiling,3.0180995475113117
+meters in a building,0.5
+statutory definition,0.5
+construction,2.2504918032786887
+haryana,2.935064935064935
+years at the commencement,0.5
+consideration,1.9110153789142115
+mill,1.0891891891891892
+meter,1.3483165377704869
+storeys,0.25
+paragraph,1.2930197483150305
+individuals,0.7198633479746219
+in the instant case,2.0224719101123596
+allottees,2.75
+fund,2.9945256868353374
+vacant land,8.444444444444445
+words,1.6384367086179112
+minimum size,0.5
+territories,1.012
+housing,1.9061032863849767
+equal share,0.4444444444444444
+clause,3.526455026455027
+legal basis,0.4444444444444444
+devi,1.2339221178171305
+independent title to the property,0.5
+shares,3.3129411764705883
+two - third,0.0
+plinth area of the building,1.0
+situate,0.8771266540642723
+pune municipal corporation,0.6666666666666666
+absence of evidence,0.4444444444444444
+respondent nos,2.5185185185185186
+in a case,0.8742216687422166
+mathur,0.7916666666666666
+building regulations in force,2.0
+aforementioned rule,0.8333333333333334
+well-settled that the provisions of the statute,0.0
+pune,1.3423295454545454
+land subject,1.0
+object of the act,1.5555555555555556
+projections,0.6562499999999999
+meter in cis,0.0
+plain reading,1.173913043478261
+plinth area,1.6
+act deals,1.2666666666666666
+university v palitana sugar mill,0.8333333333333334
+legislature,2.818553268765133
+term of the building rules,0.0
+family,1.856281506375408
+on an area,0.3333333333333333
+projection of any kind,0.5
+authority,2.4352627108360636
+appellate authority that the area,0.5
+judge,2.9012627415183325
+owners of equal shares,0.5
+manuscmanusc,7.940520446096654
+provisions,3.8929824561403508
+half of cts,0.5
+fact that no construction,0.5
+other than a vacant land,0.5
+substance,0.8230581678857541
+two - third of the area,0.0
+additional reasons,0.8
+land in question,2.111111111111111
+purpose of agriculture,1.0
+urban,1.1793683610180365
+co - operative society in bombay,0.0
+portion of the plot,0.5
+relevant provisions of the building rules,0.5
+corporation,3.6427750743444176
+lands in question,0.75
+conclusion,1.3883437407077015
+airsc commend,0.5
+special leave,1.903225806451613
+court in atma ram aggarwal,0.5
+respondent in pune,0.0
+commencement of the act,1.6
+constitution before the high court,0.6666666666666666
+interest in such property,0.0
+relevant provision,1.5737704918032787
+schedule i,1.4090909090909092
+third,1.0303422515142742
+which portion of the plot,0.5
+questions,0.9979150871872632
+hood,0.9382039573820398
+decision of the construction committee,0.5
+body of individuals,2.25
+own cts,0.5
+reason of the provisions,1.5
+land bearing ct,0.5
+number of buildings,0.5
+orders of the competent authority,0.5
+charitable trust v state,0.75
+such lands,0.6666666666666666
+iii,1.5614499719992534
+means,1.3868295182781003
+staircase,0.6666666666666666
+lal v district judge,0.5
+possession,2.808810857389056
+qualification,2.1521739130434785
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+mhmanu,1.4
+otters,0.1792452830188679
+only question,0.5172413793103449
+bhavnagar university v palitana sugar mill,0.8333333333333334
+unequivocal meaning,0.5
+various party,0.0
+plain,3.198322602206429
+flat in a building,0.5
+area of the flats,2.0
+more buildings,0.5
+other authorities,1.8923076923076925
+commends,0.49019607843137253
+collector of poona,1.0
+high court,7.7477477477477485
+text,0.869556447376715
+structure underneath,0.5
+learned counsel for the appellant,1.7884615384615385
+interest in the fund,0.0
+sanction,2.0167207792207793
+state,6.817996007300392
+balcony,0.09876543209876543
+regulations,3.7157723577235777
+land subject to certain exception,0.5
+statute,2.5765859456247218
+one-third,0.0
+ad aroskar,0.5
+party on lease,0.0
+forest,2.292817679558011
+deal,2.1942302694273583
+preference,1.0460251046025104
+karl,0.22882096069868998
+kapadia,0.5
+manu,7.078142071124147
+ceiling limit of vacant land,0.5
+such persons,0.7516339869281046
+language,0.8555828468744352
+exclusionary claus,1.2
+parapet walls,0.5
+erection,0.6545454545454544
+term of the provisions,0.0
+purport,1.3465627214741318
+colony,0.5172413793103449
+airsc,1.6909090909090911
+length of the wall,0.5
+scheme of the act,1.5238095238095237
+area whereof,0.5
+co - operative housing society in bombay,0.0
+corners,0.5684754521963825
+meherbai karl khandalawala,0.5
+respondent no,5.395833333333333
+discussion,0.7445831166579996
+foot,0.7144861347422464
+interest of any person,1.0
+two-third portion,0.0
+matter of right,0.42929292929292934
+green colony,0.5
+area of a building plot,0.5
+fiat,0.4805194805194805
+categories,0.8800000000000001
+buildings,1.3041267942583734
+kind,0.9236881920088026
+reading of the provision,1.1428571428571428
+agriculture,1.6135593220338982
+applicability of sub - section,0.0
+observations,0.7454584147497534
+attention,0.8724846605528799
+kalyanji,0.5
+compound wall,0.6666666666666666
+sub - sections,0.0
+building in possession,0.5
+either owners of any land,1.0
+open hoods,0.5
+either structure,0.5
+university,3.75675614961249
+senior counsel,2.2857142857142856
+object thereof,0.8
+benefit under sub - clause,0.0
+definition of  person,0.0
+chartered,1.5
+in koregaon park,1.5
+flats of the respondents,0.5
+persons,2.5993381990166555
+thing,1.1131787570209408
+flat in bombay,0.0
+two-third,0.0
+constructed building,0.30000000000000004

@@ -1,0 +1,498 @@
+courts,2.1216528162511543
+eye witnesses to the incident,0.6666666666666666
+resultant enmity,0.5
+government,3.5583785424010483
+such bad blood,0.5
+incriminating circumstances,0.6666666666666666
+code,2.880559796437659
+jeep,0.711111111111111
+read with section,2.3513513513513513
+last on the way,0.5
+succor,0.6666666666666666
+police station for an offence,0.5
+penal code against the appellant,1.25
+court,12.24425115501509
+order of the trial court,1.0
+aspects,1.0997620069447154
+eye,0.9466574319441098
+cw- besides,0.0
+hours without any succor,0.5
+channel,0.6285928143712575
+person,4.291511329454258
+inference,1.006741573033708
+- basavaraj on the head,0.0
+incident crime,0.5
+cw- beside,0.0
+way,1.7812722068664852
+correctness,0.8404159132007234
+hospital for treatment,0.4571428571428572
+behalf,1.9888053603529987
+powder,0.4918300653594772
+call,1.5442351461768689
+part,5.294464509893076
+litigation,1.4968553459119498
+nothing,0.8658723322806009
+charges against the appellant,0.75
+assailant,0.5333333333333333
+present appeal,1.3424657534246576
+aspect,1.2449448189023034
+sessions,1.3405714285714285
+pw- basappa,0.0
+hands,1.1725490196078434
+above background,0.8
+correctnes,0.8404159132007234
+instructions,1.8111673678956002
+appeal,3.4125488033856883
+pm at night,0.5
+pw- refer to the purchase,0.0
+sheet,1.1667364016736401
+land,6.337534028705619
+irrigation channel,0.5
+deposition of haumantha,0.0
+read,2.2147281730888695
+abdul,1.5086206896551726
+sessions judge,2.9545454545454546
+injured basavaraj,1.0
+quarrel with cw- besides,0.0
+senior judicial officer of the level,0.5
+year,2.8349484769759212
+stick,1.4994775339602924
+narayanapur,0.5
+incident cw- md,0.0
+judgment,3.288216560509554
+punishable under section,3.081081081081081
+appellant before the jurisdictional court,0.0
+critical condition,0.5
+father,1.4298716229162676
+fast,0.9771388985105647
+guilt,1.1140207075064712
+other part of body,0.0
+order,5.472481489660944
+clutch of the assailants,0.0
+injury,1.7199352451433856
+witnesses to the occurrence,1.0
+free flow,0.5
+basavaraj,6.333333333333333
+trial court that the prosecution,0.5
+ordinary course,1.0769230769230769
+chance witnes,0.8333333333333334
+accused persons,7.048780487804878
+indian penal code against the appellants,0.5
+effect,2.184583388478191
+sale transaction,4.25
+senior judicial officer,0.6666666666666666
+which basavaraj,1.0
+flow,0.7030075187969925
+level,1.1533169827122092
+completion,1.1868131868131868
+quarter,0.7884753275536145
+mother,1.5057341472881893
+thereby,0.8226831482645437
+pw- father,0.0
+call in question,0.4444444444444444
+parties,1.8210828547990157
+statements under section,0.8
+other parts,0.3948051948051949
+section,9.287987283173626
+appellants of the charges,1.0
+of the offence,2.760869565217391
+default sentence,1.5
+none,0.8181718550217885
+version,1.0500313479623824
+light of these aspects,0.5
+incident,1.8609485257918057
+ropes,0.37738853503184716
+water,0.9741079360379036
+other parts of body,0.5
+condition,2.259476395625584
+hutti police station for an offence,0.5
+place,2.333104345208554
+ropes from the hands,0.5
+hapless condition,1.0
+circumstance,1.429931390219372
+investigation,1.6673076923076922
+thakur,1.6
+lingasugur,0.5
+sahfi,0.5
+money,1.6567889044524557
+occurrence,2.1343873517786562
+story,0.755772533184814
+sab,1.0155839934998987
+on the way,0.42672413793103453
+parents,1.8852093189324288
+investigating,1.5794836956521738
+back,1.1362801178713813
+writing,1.1746753246753248
+fine,1.3204039558531748
+connection with any other case,1.0
+home,0.9826663267907214
+pw- that the report,0.0
+rope from the hands,0.0
+session,2.2400874351067563
+mother-pw,0.0
+orders,1.4936359300077826
+acre,1.6948939682084037
+asi of police,0.5
+sub,7.816899313759727
+course,1.6545957498716626
+events,0.6160483175150993
+criminal appeal,2.5675675675675675
+charge,2.7679815308681284
+judicial officer of the level,0.5
+no matter,0.5361552028218695
+blood,1.1739965841161402
+crime,1.6636528028933093
+police sub inspector,0.5
+officer,3.1197242647058823
+pw- brother,0.0
+charges,2.061307113938693
+other case,0.6654088050314465
+transaction,5.884921444603142
+pw- refers to the purchase,0.0
+prosecution case in brief,0.6666666666666666
+p- at the trial,0.0
+field,1.5820968371729793
+matter,2.8088923076923082
+guilty before the additional sessions judge,0.5
+haumantha,0.5
+hospital,1.3942768854411434
+field with pw-lingappa,0.0
+leg,5.574082991234883
+new story,0.6666666666666666
+hanumantha pw-,0.0
+criminal,3.301971081989414
+appellants,7.701086956521739
+penal,1.8829173709853835
+original complaint,0.3333333333333333
+view,2.441100058469462
+conduct of the prosecution witnesses,1.0
+post,2.344803646492219
+quarrels with cw- besides,0.0
+pw-lingappa,0.0
+opinion,1.4960606342789635
+side,3.88845645915565
+appellant of the charges,0.0
+penal code,2.710144927536232
+punishable,1.237037037037037
+such attempt,0.3888888888888889
+appellants before the jurisdictional court,0.5
+year before the date,0.0
+condition to government hospital,0.5
+witness,5.333906623599983
+incriminating circumstance,0.75
+prosecution version,2.7142857142857144
+information,1.1320502836800534
+procedure,2.552771605064117
+defence,1.3606588776096535
+polouse,0.0
+new version,0.30769230769230765
+november,0.7203359669727383
+connection with the incident crime,0.5
+quarrels,0.6000000000000001
+chilly powder,1.5
+heard,0.782882203033377
+eye witness to the occurrence,0.5
+fact,3.6284951019474962
+cw-,0.0
+learned counsel,3.703333333333333
+club of stones,0.5
+learned counsel for the parties,1.263157894736842
+station,1.2515681586858238
+acres of land,1.857142857142857
+criminal procedure,6.406779661016949
+sub - inspector in which basavaraj,0.0
+hour,1.1326135248230613
+spot in a jeep,0.5
+unfortunate soul,0.5
+witnes,5.333906623599983
+clutch,0.18552875695732843
+entire story,0.5
+brothers,0.9570135746606334
+part ii read with section,1.0
+incident to the police sub inspector,0.5
+son basvaraj in an injured condition,0.5
+dispute over money,0.5
+mohd,1.75
+doubt,1.3646267723102583
+rigorous imprisonment for a period,0.5
+light,0.8816192372754331
+committal,0.8333333333333334
+appraisal,0.9818181818181818
+years,2.5395804110508022
+eye witnesses,3.1
+charge - sheet,0.0
+report,1.7768151696835826
+code of criminal procedure,6.120689655172414
+party,2.2250894654439723
+rope,2.506422634539501
+deposition of pw- mother,0.0
+before the additional sessions judge,1.0
+deceased-basavaraj on the head,0.0
+mannamma,1.0
+restaurant,0.5578947368421052
+first version,0.2692307692307692
+several documents,0.5
+deceased-basavaraj,0.0
+than the father,0.5
+basvaraj,0.5
+deceased - basavaraj,0.0
+division bench,3.965217391304348
+date,6.195616975795285
+pathe,0.6436781609195402
+obstruction in the flow,0.5
+eye witness,1.4333333333333333
+thereby that basavaraj,0.5
+september,0.8548484848484849
+offence,4.401610644257703
+fields,0.9241650294695481
+inspector,1.2705882352941176
+inasmuch as the high court,0.5
+default,0.7094574436346588
+day,1.550999710228919
+sale,3.3662581620085734
+government hospital,0.8888888888888888
+resultant enmity between the appellants,0.5
+question,2.980312372067635
+sides before the sindhanaur court,0.5
+count,2.7493281810130092
+deposition,1.534
+sub - inspector to pw-,0.0
+police station,1.40045766590389
+acre of land,0.0
+appeals,1.7060218112849692
+hands of basavaraj,0.5
+irrigation,1.6666666666666665
+statement,2.5393160135035964
+hand of basavaraj,0.0
+parent,0.9965655833245622
+assailants,0.9650349650349649
+accused person,4.565217391304348
+first place,0.48711943793911006
+soul,0.3761574074074074
+place of occurrence,2.6153846153846154
+toward,1.0255939365170768
+water to the fields,0.5
+first information report,1.9565217391304348
+gulbarga,9.75
+police arrive,0.7500000000000001
+version about the incident,0.5
+acres,1.8522588522588521
+high,5.367119186841496
+brother,1.4566585956416465
+raichur,0.6666666666666666
+conduct of the father,0.5
+event,1.4310854436179261
+custody,1.4166666666666667
+purchase,3.239871541501976
+line,1.6884436630262616
+water for irrigation flow,0.5
+learned,3.406323898681099
+states,1.5120646995827023
+fardbeyan of pw-,0.0
+mother pw-,0.0
+help,0.7217940266720754
+karnataka,3.8596491228070176
+trial court,3.854545454545455
+head,1.5827778446537666
+division,1.7657319129617017
+sides,0.6706755273269035
+treatment,1.1351020408163266
+leaf,0.1462333825701625
+injured condition,1.6
+depositions of haumantha,0.5
+same lines,0.3970588235294118
+complaint,2.734525785235724
+hours,1.1644152367043934
+court of karnataka,1.826086956521739
+quarrel,0.8181818181818182
+fine of rs,1.6
+distributory,0.5
+depositions,1.0
+default sentence of imprisonment,0.5
+prosecution,4.619407894736842
+spot,0.778096903096903
+charges against the appellants,0.5
+high court of karnataka,1.826086956521739
+offences,1.6681887366818873
+connection,1.050640279394645
+alleged assailant,0.5
+imprisonment,1.4344262295081966
+division bench of that court,0.5
+counsel,2.2246780703440323
+picked-up by the police,0.0
+conduct of the prosecution,1.0
+parts,0.6609660823170732
+track court - ii,0.0
+witnesses,3.359210526315789
+years before the date,0.6666666666666666
+other part,0.7900432900432901
+police about the incident,0.5
+club,0.8279165868248507
+obstruction in the free flow,0.5
+rigorous imprisonment,1.9230769230769231
+prosecution evidence,1.2
+accused-abdul razak,0.0
+question of the parents,0.5
+acquittal,2.2714285714285714
+eyes,0.4774823657080847
+son,4.595622484812135
+hutti police station,1.0
+dispute,2.402137592137592
+evidence,3.6676405172088815
+document,1.401100265092073
+part of body,0.0
+bad blood,0.2727272727272727
+custody forthwith,1.0
+eye witness to the incident,0.5
+judicial officer,10.714285714285714
+hapless condition on the spot,0.5
+reliance,1.400763358778626
+sub inspector,1.7
+case,7.332269420884958
+injured after the alleged assailants,0.5
+period,1.9480170842427122
+error,1.059158294766151
+pw- mother,0.0
+witness to the occurrence,0.5
+razak,0.5
+trial court on an appraisal,0.5
+gurgunta,0.5
+eye witnesses to the occurrence,0.5
+accused - appellants herein,0.0
+police post,0.5
+pw- hanumantha,0.0
+injuries,2.4130008710801394
+home pw,0.5
+instruction,1.8197943962910703
+statements,1.110873440285205
+information report,2.0
+prosecution case,4.258064516129032
+complainant from a distributory,0.5
+cw- lingappa,0.0
+for pw- mother,0.0
+statement under section,2.1
+clutches,0.2763157894736842
+rescue,0.4424567680381634
+several document,0.5
+additional sessions judge,1.7647058823529411
+favour,1.653145208700764
+water flow,0.26666666666666666
+prosecution witness,2.2
+side before the sindhanaur court,0.0
+bench,2.5793391667754992
+jurisdictional court,0.8
+prosecution witnesses,2.0526315789473686
+leave,1.0147842365477848
+fact of the matter,0.5384615384615384
+imprisonment for a period,1.375
+attempt,0.7943782192788815
+body,1.336775463480009
+years under section,0.8333333333333334
+admission,1.5389848246991107
+chance witness,0.8333333333333334
+first informant,3.0
+deposition before the trial court,0.6666666666666666
+reliance upon several documents,0.5
+earliest version,0.5
+police,2.9749362629783356
+sentence,2.3896654193264366
+civil litigation,1.0
+matter to the police,0.6666666666666666
+enmity,0.4377104377104377
+under section,5.374517374517374
+effort,0.7536036036036036
+reason,2.6381270903010035
+conclusion that the prosecution,1.0
+stones,1.0303030303030303
+condition on the spot,0.5
+year under section,0.6666666666666666
+as the high court,1.0
+reasonable doubt,0.8638838475499093
+fateful day,0.5333333333333333
+documents,1.142515923566879
+injured condition to government hospital,0.5
+hold of lingappa,0.5
+report with the police,0.5
+parts of body,0.5
+complainant party,2.625
+clutches of the assailants,0.5
+unnatural for pw- mother,0.0
+lines,1.770523318937438
+earliest version about the incident,0.5
+complaint about the incident,1.0
+judge,2.9012627415183325
+death,2.361592909460208
+hanumantha,2.5
+asi,2.9557996793834067
+pw- refers,0.0
+appeal before the high court,1.1875
+conduct,1.5998023165163158
+same line,0.4129032258064516
+wait till,0.5102040816326531
+lingappa,1.4
+pws,1.5484615384615386
+further states,0.6
+sub - inspector,0.0
+swami,1.168421052631579
+home pws,0.5
+son basvaraj,0.5
+conclusion,1.3883437407077015
+face,0.7281253260594137
+obstruction,0.47058823529411764
+sequence,0.7736093451058216
+pw- present,0.0
+help whereupon,0.5
+background,0.6800452488687784
+completion of investigation,1.3
+indian penal code,5.264705882352941
+brief,0.540112172829248
+sahfi to accused-abdul razak,0.0
+hand,2.0299623418254717
+leaves,0.6983075791022811
+hold,2.206214081425894
+shafi,3.111111111111111
+indian penal code against the appellant,1.25
+fast track court-ii,0.0
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+pathe sab,0.5
+confidence,0.5942028985507247
+exb,5.25
+sindhanaur,0.5
+basappa,0.5
+that court,0.7384615384615386
+penal code against the appellants,0.5
+high court,7.7477477477477485
+complainant,4.538461538461538
+pw- presents,0.0
+state,6.817996007300392
+dhaba,2.0
+chance,0.7937084625609215
+fardbeyan,1.5
+trial,3.7979448350459712
+pw-,0.0
+pw- refer,0.0
+police jeep,0.75
+track,1.311279069767442
+alleged assailants,0.5
+guilty of the offence,1.3571428571428572
+informant,2.935483870967742
+dead body,1.192156862745098
+sindhanaur court,0.5
+conduct of pws,0.5
+other than the father,0.5
+pw- wait till,0.0
+part ii read,1.0
+only inference,0.5
+night,0.8690610404251893
+further state,1.1904761904761905
+polouse about the incident,0.0
+hutti,0.5151515151515151
+pm that a sub inspector,0.5
+enmity between the appellants,0.5
+- basavaraj,0.0
+sequence of events,0.5
+irrigation flow,0.5
+persons,2.5993381990166555
+investigating officer,3.2580645161290325
+stone,0.7736063708759955

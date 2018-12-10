@@ -1,0 +1,393 @@
+courts,2.1216528162511543
+enactment,1.439950980392157
+dissatisfied therewith,0.8
+code,2.880559796437659
+refers to a suit,0.5
+sasidar,0.5
+other hand,0.6931925622439332
+amjum,1.0
+bar for the wife,0.5
+establishment,0.9899216125419933
+reasons,1.3749054007567938
+terms of section,1.98
+terms,2.390350840909655
+matters,1.4810665618448637
+meaning,1.8612727545949643
+gold ornaments of the respondent,0.5
+inter,3.683850287482992
+sale proceed,2.4166666666666665
+fee,1.560669497024209
+interest,2.74353772015385
+court,12.24425115501509
+parties to a subsisting marriage,1.5
+agreement,3.450434632433366
+contention of the learned counsel,1.0625
+ors,2.8612718198296623
+deterioration in the health,0.5
+way,1.7812722068664852
+correctness,0.8404159132007234
+behalf,1.9888053603529987
+consideration in this appeal,0.9090909090909091
+inter- party,0.0
+mfa,0.4705882352941176
+share,2.560794932990637
+exhibit a,1.0
+series,0.4722257940079723
+speaking,0.6506672453075838
+dispute between the parties,1.4736842105263157
+ordinary civil proceedings,0.5
+family courts,7.333333333333333
+decision,2.9514937765898557
+desired result,0.4266666666666667
+aforesaid,2.592896174863388
+claim,2.817264601856604
+correctnes,0.8404159132007234
+wordings,0.38095238095238093
+appeal,3.4125488033856883
+refers,0.6484772632457239
+proceeding between the parties,1.0
+claim whether property,0.5
+exhibit,0.8875432525951558
+revichandran,0.5
+alia,0.9479866480753792
+code of civil procedure,5.5636363636363635
+judgment,3.288216560509554
+undue influence upon the appellant,0.5
+question relating,0.6666666666666666
+deterioration,0.25925925925925924
+statement to the effect,0.5
+order,5.472481489660944
+relationship with the respondent,0.5
+act,12.870263922028107
+smt,0.7459757206267715
+inter- parties,0.0
+haris,0.5354477611940298
+dispute over properties,0.5
+certain kinds,0.5555555555555556
+clas,2.1196191893660425
+explanation,1.4510159010600707
+reason for enactment,0.5
+various documents,0.8666666666666667
+effect,2.184583388478191
+preliminary issue,1.25
+miscarriage,1.015625
+parties,1.8210828547990157
+finality,1.1746031746031746
+relation to properties,0.6666666666666666
+civil procedure,5.448275862068965
+tirupathi,0.6666666666666666
+section,9.287987283173626
+further contention of the learned counsel,0.6666666666666666
+family court as the claim,0.5
+aforesaid amount,1.0909090909090908
+civil,2.126558634963905
+finding,1.8129183657767178
+irrespective of the claim whether property,0.5
+appellant herein,2.046153846153846
+speaking for a division bench,0.6666666666666666
+indicated hereinbefore,1.0
+large amount,0.6524271844660194
+regard,2.723310344827586
+respect of properties,0.75
+apmanu,0.9629629629629629
+reason of the impugned judgment,1.0
+class,2.1508512849922936
+perusal,0.750733137829912
+rights,1.6349541930937281
+family affairs,1.0
+ponnavolu sasidar v sub-registrar,0.0
+amjum hasan siddiqui,1.0
+issue,2.766776251628934
+support thereof,1.0
+thereof,1.7897727272727273
+further contention,1.0769230769230769
+senior,1.989753211141579
+lordship,1.0416666666666667
+time of marriage,1.4
+women,1.162387410705042
+cost,1.2954397451466992
+muslim,0.8700225394440272
+proceeding within the meaning,0.6666666666666666
+regards property,0.0
+absolute owner,1.0
+sale proceeds,1.75
+amount in cash,0.5
+sub,7.816899313759727
+schedule b,0.4848484848484848
+effect that this court,0.5
+magistrate,3.522077922077922
+airap,1.5
+schedule a,1.102775693923481
+pradesh,4.365853658536586
+pradesh high court,2.409090909090909
+female child,0.3333333333333333
+amendment,2.2486412346818434
+gold ornament,7.0
+marriage,1.8031648351648353
+family dispute,0.6666666666666666
+child,3.0202810640613067
+impugned judgment,2.0927152317880795
+talaq,2.0
+suit in favour,0.6666666666666666
+matter,2.8088923076923082
+relation,1.397320207820618
+criminal,3.301971081989414
+property of the spouses,0.5
+term,3.6255105640901575
+behalf of the appellant,1.4878048780487805
+view,2.441100058469462
+p jayalakshmi,0.5
+opinion,1.4960606342789635
+wife,1.4518086408500224
+gold ornaments,6.333333333333333
+mr tlv,0.6666666666666666
+merit,1.2419290263876248
+andhra,4.830188679245283
+birth,1.5969847398418826
+result,1.3356630184144715
+relationship,1.1804123711340206
+procedure,2.552771605064117
+counsel s fee,0.0
+hereinbefore,2.159090909090909
+name of the respondent,0.75
+provision,5.439002243350069
+preliminary issue on the question,0.5
+support,0.8630946786249609
+respect,2.6704963235294117
+fact,3.6284951019474962
+proceeding under section,0.875
+a reproduction,0.375
+owner,2.9502416709822197
+learned counsel,3.703333333333333
+resolution,1.771256437663978
+strong reliance,1.606060606060606
+first class magistrate,0.75
+anr,1.1271033322299457
+criminal procedure,6.406779661016949
+influence,0.7049608355091384
+object,1.4940119760479043
+thereto,1.0358342665173572
+regard to the provisions,1.1176470588235294
+salma b manuupmanuup,0.5
+suit before the family court,0.5
+jurisdiction of a court,1.0
+shares in the schedule,0.5
+bar,1.4720990391722097
+refer to a suit,0.0
+code of criminal procedure,6.120689655172414
+protection,1.1604395604395603
+gold,1.6014084507042254
+principle,1.9620890732001848
+party,2.2250894654439723
+respondent herein,1.8936170212765957
+source of consideration,0.5
+settlement,1.6881394467601363
+justice,2.292557084574302
+schedules,0.5171957671957672
+several documents,0.5
+perusal of the statement,0.5
+wedlock,0.543956043956044
+division bench,3.965217391304348
+family court,8.285714285714286
+relation thereto,1.1578947368421053
+rupees,2.311111111111111
+beeran,0.5
+conciliation,1.925
+respondent,4.757894736842104
+civil proceedings,1.2857142857142858
+schedule,2.9453067257945307
+family court by a judgment,0.5
+share in the schedule,0.0
+sale,3.3662581620085734
+question,2.980312372067635
+hayatnagar,0.5
+statement of object,1.6666666666666667
+party to a marriage,1.3333333333333333
+kerala series,0.6666666666666666
+salma,0.46153846153846145
+approach,1.001908852302553
+word,2.065873981084096
+amount,3.179688593072295
+regards properties,0.5
+statement,2.5393160135035964
+division bench of the kerala,1.0
+refer,3.840717772752903
+amount of rs,1.5806451612903225
+view of this court,1.0
+behalf of the respondent,1.453125
+name,1.8996570753072433
+high,5.367119186841496
+ilr,0.4788808178638687
+party to this appeal,0.0
+force,1.6009408121948314
+property,2.9368986630013745
+suit,2.485274378207659
+inter - parties judgment,0.0
+balance,0.9863636363636363
+proceeds,1.083011583011583
+law,3.538923411654744
+parties to this appeal,0.5
+time,2.4764180952862667
+division,1.7657319129617017
+application under section,2.8076923076923075
+jurisdiction of the family court,1.5
+absolute owner of the schedule,0.5
+board,2.401414435268602
+divorced parties,0.5
+divorced party,0.0
+term of section,0.5
+mr haris beeran,0.5
+affairs,0.8608695652173913
+right,3.07483248288682
+influence upon the appellant,0.5
+certain kind,0.5555555555555556
+upmanu,0.9411764705882354
+counsel,2.2246780703440323
+subsistence of a marriage,0.5
+application,2.3322596088086445
+minor child,1.25
+impugned proceeding,0.6666666666666666
+kerala sery,0.0
+manuapmanuap,1.4444444444444444
+divorced wife,0.6666666666666666
+a reproduction from ilr,0.6666666666666666
+hari,1.1945070711211314
+well - settled principle of law,0.0
+issue on the question,0.6666666666666666
+sinha,0.8166351606805294
+question relating to the properties,0.5
+rupee,2.2291666666666665
+dispute,2.402137592137592
+submission,1.0913871684001404
+secure speedy settlement,0.5
+document,1.401100265092073
+ponnavolu,0.5
+threat,1.0459885867740852
+coercion,1.0153846153846156
+reason of the code,0.5
+subsisting marriage,1.5
+kinds,0.5807291666666666
+reliance,1.400763358778626
+case,7.332269420884958
+subsistence,0.25
+registrar,1.8341346153846154
+legal bar for the wife,0.5
+affair,0.8341728395061728
+trustee in relation thereto,0.5
+jayalakshmi,1.0
+board construction,0.3333333333333333
+case under section,1.1111111111111112
+legal bar,0.4800000000000001
+contention,1.666391070690368
+inter alia,1.3280423280423281
+gold ornament of the respondent,0.0
+several document,0.5
+proceedings,1.7670925223666287
+favour,1.653145208700764
+matrimonial proceeding,0.6666666666666666
+way of ornaments,0.5
+family affair,1.0
+supra,2.246342614440774
+bench,2.5793391667754992
+suits,1.0993657505285412
+reproduction,0.5098814229249011
+properties,1.7286779414438989
+relationship of the parties,0.5
+spouse,1.0202546296296295
+leave,1.0147842365477848
+family disputes,0.5
+muslim woman,0.2857142857142857
+costs,0.8167395522604189
+klt,0.5894736842105263
+interest thereupon,0.6666666666666666
+allahabad high court,1.7037037037037037
+ornament,2.210526315789474
+res judicata,1.3846153846153846
+fact of the matter,0.5384615384615384
+submission of the learned counsel,1.0769230769230769
+allahabad,2.3404255319148937
+marriage with respect,0.5
+trustee,1.466666666666667
+therewith,0.6394230769230769
+woman,1.316528681253696
+amjum hasan siddiqui v smt,0.5
+tlv,0.2333333333333333
+ornaments,2.3
+various document,0.9333333333333332
+question before the allahabad high court,0.5
+reason,2.6381270903010035
+instant case,2.0631578947368423
+requisite jurisdiction,0.75
+factual issue,1.5
+petition,5.3436539306104525
+independent interest thereupon,0.5
+allahabad high court in amjum hasan siddiqui v smt,0.5
+well - settled principle,0.0
+construction,2.2504918032786887
+consideration,1.9110153789142115
+wording,0.5526315789473685
+airall,1.0476190476190477
+words,1.6384367086179112
+categorical statement,1.0
+establishment of family courts,0.5
+documents,1.142515923566879
+shares,3.3129411764705883
+party to a subsisting marriage,0.0
+divorce,1.2616822429906542
+res,10.359704275735774
+respect of suits,0.75
+fact that order,0.5
+proceeding,2.1298245614035087
+balakrishnan,0.6666666666666666
+round,1.6469623212681128
+property of the parties,0.5
+by any family court,0.5
+family,1.856281506375408
+settlement of family disputes,0.5
+provisions,3.8929824561403508
+dispute as regards property,0.0
+appeal before the high court,1.1875
+civil proceeding,1.5
+v v revichandran,0.5
+categorical statement to the effect,0.5
+ordinary civil proceeding,0.5
+undue influence,1.2857142857142858
+muslim women,0.631578947368421
+siddiqui,1.0
+protection of rights,1.0
+second child,0.5
+high court in amjum hasan siddiqui v smt,0.5
+hand,2.0299623418254717
+proceed,2.930994380987473
+appeal from an order,0.8333333333333334
+cash,1.4775207900207898
+appellant,14.387096774193548
+amjum hasan siddiqui s case,0.0
+kerala,4.135593220338983
+high court,7.7477477477477485
+exercisable by any family court,0.5
+cash amount,0.4
+jurisdiction,2.9539571926331507
+large amount in cash,0.5
+manu,7.078142071124147
+judgment of a division bench,0.8
+hasan,0.7912087912087912
+balance amount,1.1428571428571428
+merit in this appeal,0.9285714285714286
+spouses,0.7563025210084034
+birth of the second child,0.5
+family courts act,1.6666666666666667
+owner of the schedule,0.5
+restricted meaning,6.2
+health,0.8632619439868204
+resolution of disputes,1.375
+parties to a marriage,2.0
+kind,0.9236881920088026
+class magistrate,0.75
+iyer,1.1794871794871795
+source,0.840137091365362
+dispute as regards properties,0.5
+senior counsel,2.2857142857142856
+jurisdiction of the family,1.5
+ernakulam,1.1428571428571428
+disputes,2.3049883690876194

@@ -1,0 +1,1916 @@
+mishra,0.3173076923076923
+competence of a lawyer,0.5
+godrej pacific tech,0.5
+sanjeeva,2.3333333333333335
+fair assessment,0.5
+corroboration,1.5714285714285714
+constitutional goal,1.0
+range of reasonable professional assistance,0.5
+mannan sk v state,0.5
+law amendment act,0.6666666666666666
+prosad,0.5
+indifference of the society,0.5
+protracted trial,0.5
+great responsibility,0.5
+case recall,0.5
+scheme of the defence strategy,0.5
+satyajit banerjee v state,0.5
+a fast-track procedure,0.0
+nisar,0.2222222222222222
+union,2.0981927710843373
+way,1.7812722068664852
+act of omission,0.5
+relevant consideration,1.2
+other submission of learned counsel,0.5
+errors,0.6042698360294927
+india confer,0.6666666666666666
+cross,2.0778316690442225
+strong presumption that the counsel,0.5
+choice of a litigant,0.5
+such mistake,0.3333333333333333
+amicus,1.0740740740740742
+of the position,0.4307692307692308
+cab,1.3333700865538343
+question on certain aspects,0.0
+sessions,1.3405714285714285
+contrary,1.027917657672435
+session cases,0.5
+bona fide,0.9259259259259259
+standing counsel for the state,1.0
+aforesaid,2.592896174863388
+washington,0.2972972972972973
+hofman andreas,0.5
+test,2.5329834591340266
+physical assault,0.5333333333333333
+scr,2.483838975311538
+submission of learned attorney general,0.5
+mannan,0.5
+to the fact,0.8902887139107611
+stage,1.1298537871524448
+month,1.3454861111111112
+circumstances of this case,1.1363636363636365
+wherein,1.0724137931034483
+trial of rape cases,0.5
+mobile to the io,0.5
+various expression,0.3333333333333333
+high time,0.43636363636363634
+col,1.5749892270317194
+counsel for the petitioner,1.4242424242424243
+independent rights,0.6666666666666666
+competence of a counsel,0.5
+order,5.472481489660944
+width,0.5151515151515151
+prefix,0.3142857142857143
+of the powers,0.8552036199095022
+advancement of justice,0.5
+standing counsel,1.1111111111111112
+deposition of the witnesses,0.5
+other party,0.8608695652173913
+procedure in the nature,0.5
+copy,0.8620926631522174
+specific grounds,0.6666666666666666
+singh v cbi manuscmanusc,0.6666666666666666
+inadvertence,1.0
+cross-examine upon that matter,0.0
+parties,1.8210828547990157
+orissa,2.3125
+case with utmost sensitivity,0.0
+at the stage of trial,1.0
+omar,0.5239085239085238
+conduct from the counsel,0.5
+counsels,1.2333333333333334
+chander,1.8095238095238095
+expertise,0.7351351351351351
+proof for such facts,0.5
+madhya,2.9183673469387754
+relation to the offence,0.6666666666666666
+litigant,1.2698412698412698
+spheres,0.34461538461538466
+tangible reason,0.30000000000000004
+inspite of the high court,0.5
+inflexible rule,0.6666666666666666
+khatri,0.6666666666666666
+decision for the principles,0.0
+consistent recurrence of the heinous crime,0.5
+mistakes,0.49709302325581395
+proper opportunities to the persons,0.5
+sister mina lalita baruwa v state of orissa manuscmanusc,0.5
+present case,1.5611814345991561
+ground of the earlier counsel,0.5
+ineffective assistance,0.5
+specific direction,0.5555555555555556
+trial at any stage,0.5
+examination-in-chief,0.0
+subsequent event,1.25
+certain questions,0.42857142857142855
+proces,1.627944583238701
+perspective at the time,0.5
+speculative presentation of facts,0.5
+fault,0.8125244007183572
+application for recall,1.0
+para,2.300239586747483
+criminal trial on account,0.5
+powers,1.876345371920593
+potency report,0.5
+needless to state,1.0
+prescription,0.812549019607843
+adverse sentence,0.5
+undesirable results,0.5
+available with the court,0.6666666666666666
+ruling in the case strickland,0.5
+scheme,3.415949119373777
+true line of defence,0.5
+forum v union,0.75
+necessary instruction,0.4444444444444444
+events,0.6160483175150993
+commission of offence,1.6923076923076923
+vii,1.26552423069836
+consequences on conduct,0.5
+criminal trial,0.8333333333333334
+charge,2.7679815308681284
+advanced age,0.45000000000000007
+track court for disposal,0.0
+certain aspect,0.6666666666666666
+of police,1.703802733214498
+disadvantageous position,0.75
+country,1.2903191103863751
+metropolitan cities,1.0
+late stage,0.4761904761904762
+law commission,2.4166666666666665
+court in strickland,0.5
+feels,0.5973088283557597
+julfikar ali,0.5
+extreme care,0.4444444444444444
+opportunity,0.946186440677966
+jayalalithaa,0.6666666666666666
+attributable to a counsel,0.5
+relevant rule,1.1875
+professional assistance,0.5
+more question,0.25
+scrutiny,0.912987012987013
+provision of section,1.4827586206896552
+v fatehsinh mohansinh chauhan manu  scmanu  sc,0.0
+view result in pre-judging,0.0
+p ramachandra rao v state,0.6666666666666666
+merit,1.2419290263876248
+vijay kumar v state,0.5
+widest of the powers,0.5
+demanu,0.7777777777777778
+directors,1.6666666666666667
+alok,0.7246376811594204
+hurried pace,0.5
+relevant questions,0.6000000000000001
+outrage of sexual aggression,0.5
+bengal,1.9299191374663072
+instructions by the dgps  commissioners,0.0
+miscarriage of justice,2.642857142857143
+aspect whether material portion of the evidence,0.0
+inherent bashfulnes,0.5
+cross - examination of witnesses,0.0
+account of incompetence,0.5
+apex court,1.375
+attorney,1.9875
+rajan dwivedi v union of india,0.5
+service of notice,1.2222222222222223
+recall of the witnesses,1.0
+first,1.9006367208168047
+supreme court in strickland,0.5
+erstwhile counsel,0.5
+superior court in numerous pronouncements,0.0
+other specified offence,0.5
+learned counsel for the petitioner,1.3214285714285714
+uttaranchal manuscmanusc,1.0
+scrutiny of a counsel,0.5
+erasmo jack,0.5
+trial on account,0.5
+other relevant considerations,0.75
+matter of delay,0.5
+honble apex court,1.0
+expeditious proceeding,0.5
+december,0.9629002463054187
+j jayalalithaa v state of karnataka manuscmanusc,0.6666666666666666
+honble supreme court,2.272727272727273
+west bengal manuscmanusc,1.25
+first time,0.7741935483870968
+prasad,1.1407089151450054
+other witnesses,0.7
+hofman,0.25
+superior courts,1.1666666666666667
+plea that the defence counsel,0.5
+decisions for the principles,0.5
+prime object of law,0.5
+inconsistent with the reasons in the impugned order,0.5
+doubt,1.3646267723102583
+bar,1.4720990391722097
+report,1.7768151696835826
+code of criminal procedure,6.120689655172414
+true scope,1.0
+principle,1.9620890732001848
+engle,0.22142857142857145
+vinod,0.6938775510204082
+ends,1.0190933803699291
+ritesh tewari v state of up,0.5
+specific reason,0.45000000000000007
+progres of the trial,0.0
+v home secy,0.5
+factor,1.2878742338904643
+fair trial,2.388888888888889
+recall on the ground,1.0
+cross-examination,0.0
+fault on the part,0.8571428571428571
+case for the first time,0.5
+woman s right,0.0
+date,6.195616975795285
+reference,2.1755848210276256
+sudevanand v state through cbi manuscmanusc,0.5
+respondent,4.757894736842104
+govt,0.7017766497461929
+stand of the appellant,1.1
+indifference,0.375
+application in a particular case,0.5
+proper opportunity to the persons,0.0
+cab in question,0.5
+view in the interest,0.5
+possession thereof,1.0
+approach,1.001908852302553
+increase,1.3270102600811262
+defence counsel midway,0.5
+v state of gujarat,1.2424242424242424
+publication thereof by anyone,0.5
+honble,2.4444444444444446
+cbi manuscmanusc,1.0
+other specified offences,0.5
+supreme court,1.4278957326045825
+rajasthan,3.9215686274509802
+cities  commissioner of police,0.0
+medical examination,5.333333333333333
+witness in cross - examination,0.0
+circumspection,1.1428571428571428
+high,5.367119186841496
+speedy remedy by way,0.5
+assault,1.0656614201609997
+event,1.4310854436179261
+logical end,0.7142857142857143
+human right,1.1211406518010292
+line,1.6884436630262616
+interest of the society,0.8
+devender,3.3333333333333335
+reason in the impugned order,0.0
+defendant,3.7706855791962175
+numerous pronouncement,0.5
+valid consideration,0.5
+legal interview,1.0
+midway,0.32700135685210313
+application under section,2.8076923076923075
+stations,1.3948692152917506
+rejection,0.7335907335907336
+filling in a lacuna,0.5
+relevant rules,1.1428571428571428
+completion of trials,0.5
+duty of the court,1.55
+general observation,0.375
+iddar,0.30000000000000004
+exceptional situations,1.25
+victim of the crime,0.5
+hofman andrea,0.5
+cities  commissioners of police,0.0
+hardship for victims,0.5
+that competency of an advocate,0.5
+reading of section,1.3043478260869565
+shamji,0.5
+latitude,0.5215419501133788
+day basi,1.0
+case of state v mohd,0.5
+march,1.0644238856181665
+gross injustice,0.75
+reasoning of the high court,0.8571428571428571
+finding to this effect,0.5
+commission,4.703619179345321
+infirmity in the conduct,0.5
+dabas,0.30000000000000004
+attitude,0.4886970172684459
+vinod kumar v state of punjab manuscmanusc,0.5
+widest power,0.5
+valid reason,0.6153846153846154
+lt col sj,0.5
+mistake,0.6870879120879121
+specified offence,0.5
+with the legal matter,0.5
+shivanna,1.0
+fast-track procedure for fast track courts,0.0
+v state of wb,1.1818181818181819
+evidence,3.6676405172088815
+document,1.401100265092073
+stray instances,0.5
+court for trial,0.8333333333333334
+invocation of section,0.5
+effects,0.944781359719119
+exigency,0.6000000000000001
+reliance on p ramachandra rao v state,0.5
+informed choice,0.3333333333333333
+high court of delhi,1.4761904761904763
+further factor,0.5
+february by the trial court,0.5
+ram,2.11096203538064
+necessary amendment into code,0.5
+factors,0.9829522460542292
+material effect on the veracity,0.5
+fide,0.8955057484612704
+aggression,0.2569444444444444
+singh,3.7791111111111113
+agencies,0.9094581337642103
+information report,2.0
+copy of this order,1.1333333333333333
+service,4.257395095954566
+therefore,2.960332350576253
+prosecution case,4.258064516129032
+end,6.1484001628618765
+opposite party,2.3333333333333335
+gross injustice in the view,0.5
+rule,5.04
+view that the statement,0.6666666666666666
+proceedings,1.7670925223666287
+favour,1.653145208700764
+personality of the victim,0.5
+bar council of india,2.3333333333333335
+prosecution witness,2.2
+haveli v fatehsinh mohansinh chauhan manuscmanusc,0.5
+injustice if such prayer,0.5
+judicial scrutiny of the counsel,0.5
+singh v state of punjab manuscmanusc,1.2857142857142858
+mind that the evidence,0.5
+trials,0.5583800086169755
+chand,1.4868766404199476
+further of the view that the statement,0.5
+code for the purpose,0.6666666666666666
+conscious of the position,0.5
+dgps  commissioner,0.0
+sensitivity,0.33846153846153854
+point of view,0.5886392009987514
+subordinate court,2.5
+mere observation that recall,0.5
+investigating agency,2.0625
+attempt,0.7943782192788815
+process,1.6274942048088725
+delhi high court,2.380952380952381
+jack,0.39872241025885485
+state of bihar manuscmanusc,1.9655172413793103
+rival submissions,1.0454545454545454
+union territory,3.066666666666667
+such re-examination,0.0
+expeditious trial in a heinous offence,1.0
+place during trial ie,0.5
+power,3.8165227690948367
+expeditious completion of trials,0.5
+woman,1.316528681253696
+wisdom,0.47641637300081324
+additional standing counsel,0.5
+crime against women,0.5
+trial for the charge,0.5
+shri colin gonsalves,1.0
+charge sheet,2.0526315789473686
+injustice in the view,0.5
+examination,2.4920345926263088
+himanshu,0.5
+counsel m  s,0.0
+continued fitness,0.5
+fatal nature,0.5
+adequate ground,0.6666666666666666
+earlier decision,1.5454545454545454
+pursuance of the impugned order,0.5
+ground besides others,0.5
+position,1.549133168619177
+power of attorney,4.416666666666667
+one,4.845669314438648
+further order,0.8253968253968255
+petition,5.3436539306104525
+attorney performance,0.5
+remedy,1.3214024835646458
+consideration,1.9110153789142115
+true line,0.5
+wholes,0.9166666666666667
+name of fair trial,0.5
+lady,0.6819258089976322
+material portion,1.5
+commissioner,2.271608643457383
+raghunandan,0.6666666666666666
+for reasons,0.6041025641025641
+wholes in the cross examination,0.5
+sandhu,0.6666666666666666
+easy for a court,0.5
+clear injustice if such prayer,0.5
+further consideration,0.45454545454545453
+part of cross-examination,0.0
+such measures of reform,0.5
+working,1.1479822756765312
+state of karnataka v shivanna manuscmanusc,0.5
+superior court,0.7222222222222222
+that the invocation of section,0.5
+trial in a heinous offence,1.0
+standing,1.224042586942808
+necessary amendment,1.0
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+such fairness,0.6666666666666666
+state v navjot sandhu,0.5
+scope of the power,1.1666666666666667
+chaudhary v state,0.75
+further questions,0.2777777777777778
+claim of the applicant,1.4
+harassment of the victim,0.5
+mina,4.04645616420418
+consideration in these appeals,0.9
+trial after detailed reference,0.5
+fact of the case,0.0
+speedy disposal,1.0
+dgps,0.5
+trial ie,0.2857142857142857
+aid counsel,1.0
+advantage,1.1441364159430905
+continuation of the above,0.5
+witnes in cross - examination,0.0
+performance,1.4794327394994442
+sandeep,0.6666666666666666
+court proceedings,0.75
+circumstances of the case,1.3373493975903614
+interest of justice,1.2
+tendency,0.5150501672240803
+occasion,0.7946745562130177
+rajeshwar,0.5
+possession,2.808810857389056
+other evidence,1.0434782608695652
+judicial magistrate under section,1.0
+habibulla,0.6666666666666666
+supreme,1.443815331010453
+subsequent conduct,0.8333333333333334
+requirement,1.2416133333333332
+suggestion,1.2425592585991803
+criminal procedure in the nature,0.5
+alok kumr dubey,0.5
+such fairnes,0.6666666666666666
+discretionary power,1.4
+dignity,0.5529953917050692
+person till charge - sheet  report,0.0
+general,1.7536558414534391
+invocation,0.8641975308641975
+self,1.6847516412733803
+females,0.33139534883720934
+criminal case,1.4464285714285714
+iddar v,0.5
+due to any inadvertence,0.5
+female,0.5543071161048689
+inchoate,1.3333333333333333
+delhi rule,0.5
+grievance that an advocate,0.5
+present application,1.0
+nature,1.4149926876444778
+injustice,1.1882716049382718
+regard to the document,1.0
+nhrc,3.6
+recording of evidence,1.5714285714285714
+metropolitan citiescommissioner of police,0.0
+disposal of cases,1.25
+commissioners,1.5384615384615383
+p sanjeeva rao v state of ap,0.5
+sensitive cases,0.5
+physical harm,0.25
+maharashtra manuscmanusc,1.3529411764705883
+stage of trial,1.0
+detailed reference,0.5
+prosecution witnes,2.2
+driver of cab,0.5
+potency,1.05
+details of the number,0.5
+ltd v computer joint,0.5
+copy of the report,1.0
+proper evidence,0.5
+prisoners,0.5690235690235691
+serious consequences on conduct,0.5
+order of the high court,1.296875
+lalita,2.3333333333333335
+findings,1.049571253572887
+continued fitness of an advocate,0.5
+insofar,0.9295774647887324
+ayush,0.5
+hoffman,0.44000000000000006
+director,1.3549769585253457
+heinous crimes,0.42857142857142855
+rulings of the honble supreme court,0.5
+right to cross-examination by the prosecution,0.0
+publication,1.3442779291553135
+responsibility,0.8659259259259259
+incident of rape cases,0.5
+receipt of a copy,0.8
+personality,0.8909774436090225
+admissible at the stage of trial,0.5
+matters,1.4810665618448637
+los,1.8125523261338943
+instance,0.9469803370786518
+track court,5.857142857142857
+kishore chand v state of himachal pradesh,1.0
+adverse verdict,0.6666666666666666
+account of unfitness,0.5
+re - examination,0.0
+court,12.24425115501509
+imperative that the invocation of section,0.5
+rajasthan v ani  hanif manuscmanusc,0.0
+material portions,1.5
+recall of certain witnesses,1.0
+permission of the court,1.0
+person,4.291511329454258
+nothing,0.8658723322806009
+undue hardship for victims,0.5
+present case recall,0.5
+powers in the matter,0.6666666666666666
+age,4.526374474274117
+number,1.4802651440973922
+alok kumar,1.0
+decision,2.9514937765898557
+power of the court,1.2142857142857142
+expeditious completion,0.5
+trial relating to offences,0.5
+such counsel,0.6666666666666666
+claim,2.817264601856604
+dayal singh v state,0.6666666666666666
+rama,0.9438942891859052
+desire of any person,0.5
+nearest lady,0.5
+sheet,1.1667364016736401
+different from other cases,0.5
+harassment,1.5747368421052634
+stay of further proceedings,0.6666666666666666
+legal practitioner,1.25
+-a code,0.0
+denial,0.8338926174496643
+kishore,0.6823529411764706
+bashfulnes of the females,0.0
+relevant facts,0.7692307692307692
+court at any stage,0.5
+attention of the judicial officers,0.5
+judgment,3.288216560509554
+mandate of speedy disposal,0.5
+himachal,2.5833333333333335
+fast,0.9771388985105647
+loss,2.0689655172413794
+act,12.870263922028107
+satyajit,0.6666666666666666
+needles to state,0.0
+that power,0.6764705882352942
+woman s rights,0.0
+dubey,7.166666666666667
+defence counsel,1.6666666666666667
+relevant fact,0.9393939393939393
+level,1.1533169827122092
+mathura,1.0
+least for trial of rape cases,0.5
+crl,0.6431123461691147
+nutshell,0.4695121951219512
+issue of fundamental right,0.5
+zahira habibulla h sheikh v state of gujarat manuscmanusc,0.5
+recall of prosecutrix,1.5
+section,9.287987283173626
+strategy,0.5837837837837838
+cross-examination by the prosecution,0.0
+incident,1.8609485257918057
+p sanjeeva rao v state,0.5
+advocates act,1.2
+driver,0.8230211045255637
+officers,2.442124212421242
+finding,1.8129183657767178
+cross - examination of the prosecutrix,0.0
+danger,0.8066378066378066
+change of a counsel,0.5
+exercise of such power,1.0
+account of expeditious proceedings,0.5
+regard,2.723310344827586
+numerous pronouncements,0.5
+necessary instruction by the dgpscommissioners,0.0
+discrepancy,0.6097560975609757
+insofar as recalling,0.5
+india read,1.0
+direction,1.8495050210098996
+agency,1.8968779259354924
+bundle,0.43708609271523174
+rights,1.6349541930937281
+truth,0.9590230664857531
+facts,1.4696673624372698
+summons,0.9764492753623188
+argument on the application,0.0
+precise situations,0.5
+justification,0.6859587020648967
+disguise,0.6057692307692308
+ruling,0.5854935847080388
+home,0.9826663267907214
+women,1.162387410705042
+cost,1.2954397451466992
+session,2.2400874351067563
+desire,0.6008255933952529
+cross-examination of pws,0.0
+multiple time,0.23529411764705882
+shivanna  manuscmanusc,0.0
+women  forum v union,0.0
+adverse party,1.0
+course,1.6545957498716626
+rama paswan v state of jharkhand manuscmanusc,0.5
+fair opportunity,0.6000000000000001
+pradesh,4.365853658536586
+v state of uttaranchal manuscmanusc,1.0
+crime,1.6636528028933093
+harassment for the witnesses,0.5
+zest,0.2222222222222222
+honble superior court in numerous pronouncements,0.0
+sabharwal,1.875
+arguments,0.7212211466865226
+for a court,0.38095238095238093
+hereunder,1.4457142857142857
+cbi,3.9568421052631577
+west,1.1420057009587976
+inquiry,1.3527272727272728
+matter,2.8088923076923082
+relation,1.397320207820618
+yardstick,0.6666666666666666
+proper opportunity,1.0
+challenged conduct,0.5
+person in attendance,1.5
+correct decision of the case,0.5
+speedy remedy,1.25
+aid,5.498621453008654
+paramount requirement,0.5
+application under consideration,1.0
+parity,0.6888020833333334
+sequeria fernande,0.5
+guidance,0.5256410256410255
+portions of the evidence,1.3333333333333333
+hussainara khatoon,1.6666666666666667
+v home secretary,0.8
+examine,1.6547910566941708
+witness,5.333906623599983
+consequence on conduct,0.0
+expeditious trial,1.25
+contradictions,0.2981029810298103
+scrutiny of the counsel,0.5
+material,1.4148767018946966
+procedure,2.552771605064117
+irrespective of change,0.5
+practice certificate,0.5
+such circumstances,0.5729166666666666
+polouse,0.0
+such as the present one,0.6666666666666666
+hereinbefore,2.159090909090909
+provision,5.439002243350069
+city,2.544592792669584
+support,0.8630946786249609
+as the ground of ineffective assistance,0.5
+advocates,0.6153846153846153
+trial court under section,0.6666666666666666
+rajasthan manuscmanusc,1.0555555555555556
+assessment of attorney performance,0.5
+several decision,1.1
+bihar manuscmanusc,1.9655172413793103
+present counsel,0.5
+such cases,0.7390180878552971
+statesunion territories,1.1666666666666667
+gujarat manuscmanusc,1.1
+caution,1.0777000777000778
+khan,2.1073446327683616
+criminal procedure,6.406779661016949
+liking,0.5175202156334232
+object,1.4940119760479043
+kumar,2.028839704896043
+hanuman,0.7499999999999999
+viii,0.7209469153515065
+victims,0.9
+ram chander v state of haryana manuscmanusc,0.5
+times,0.8987140267391797
+undue hardship,0.75
+approval by honble supreme court,0.5
+commission of the offence,1.5333333333333334
+punjab manuscmanusc,1.625
+other witness,0.7222222222222222
+ankit bhatia in place,0.5
+such case,0.7332761578044598
+proper proof for such facts,0.5
+multiple times,0.23333333333333334
+widest discretionary power,0.5
+desired for such re-examination,0.0
+delhi,2.6089285714285717
+submission of learned counsel,1.1666666666666667
+amicu,0.8950617283950617
+object of provision,0.5
+request,1.1474439594584596
+state of bihar,2.5918367346938775
+sequeria,1.0
+akil,1.3076923076923077
+power in the matter,0.0
+discrepancies,0.9195402298850575
+hussain,1.8
+mind that no party,0.5
+conversant with the legal matters,0.5
+approval,1.4085456739300164
+lady judicial magistrate,1.0
+natasha,0.2162162162162162
+sister,1.0774703557312253
+statement of the victim,0.5
+heinous offence,1.25
+erasmo,0.5
+speedy justice,1.4
+asking,0.4998624484181567
+issue lie,0.5
+patent error in the approach,0.5
+fide error,0.5
+principles,1.3198511166253102
+sealed cover,1.6666666666666667
+denial of fair opportunity,0.5
+gonsalf,0.0
+ankit bhatia,1.0
+commission of rape,0.5
+council,1.464939453675021
+states  commissioner,0.0
+raminder singh v state crl,0.5
+thinking,0.4530612244897959
+amendments,1.2633895818048422
+need,1.1097650269586634
+months,1.1938163721148947
+decision on the point,0.5
+salamat ali v state,0.5
+discrepancies in the statement,0.5
+first place,0.48711943793911006
+shobha,0.8
+rajeshwar prosad misra v state of west bengal manuscmanusc,0.5
+lady judicial magistrate as aforesaid,0.5
+aware of the scheme,0.5
+such heinous offences,0.5
+-- for further consideration,0.0
+customs,1.9344608879492597
+case of this nature,1.1818181818181819
+primary reason for delay,0.5
+custody,1.4166666666666667
+publication thereof,0.5
+bashfulness,0.5
+learned,3.406323898681099
+power of recall,1.0
+change,1.2214862766571903
+for the reason,0.734717868338558
+fernande,0.3862068965517242
+cases,1.9728229418951067
+case of rape,0.3333333333333333
+andreas case,0.5
+hoskot,0.6666666666666666
+relevant for this case,0.6666666666666666
+first date ie,0.5
+criminal procedure for speedy justice,0.5
+scope of section,0.9090909090909091
+allow cross-examination,0.0
+aspect whether material portions of the evidence,0.5
+prosecution against possible prejudice,0.5
+session case,0.6666666666666666
+competence of the new counsel,0.5
+prosecution,4.619407894736842
+support of this observation,0.5
+liberal view in the interest,0.5
+trial courts,1.1428571428571428
+direction that the content,0.5
+drastic amendments,0.5
+ritesh,0.3329292929292929
+statutory provision,1.1638418079096045
+such evidence,0.9649122807017544
+reform,0.6780894886363636
+date ie,0.5555555555555556
+tactic,0.5601325757575758
+to any court at any stage,0.5
+vinod kumar v state,0.5
+ends of justice,1.45
+matter on day,0.5
+india,2.7684068260703585
+issue lie in a narrow compass,0.5
+further proceeding,1.0
+instruction by the dgps  commissioners,0.0
+alse general,0.0
+pradesh manuscmanusc,1.5714285714285714
+govani,0.5
+design,1.6729193584375017
+perspective,0.5639060811474604
+testimony of the victim,0.5
+submissions,0.5235745614035088
+claim of the accused  applicant,0.0
+fast track courts,9.25
+shri dk,0.6666666666666666
+that judicial scrutiny of a counsel,0.5
+competency of the earlier counsel,0.5
+consequences,0.6659897713598075
+decision of this court,2.3260869565217392
+recall,1.8577938988095235
+measure of reform,0.0
+judicial officer,10.714285714285714
+prisoner,0.8223844282238443
+reliance,1.400763358778626
+that matter,0.5503846153846154
+whole,0.951414768806073
+veracity,0.6470588235294118
+legal matters,0.4444444444444444
+further examination in order,0.5
+fag end,0.5
+hardeep,1.0
+mere convenience,0.5
+scc,1.941872465904902
+aabida manuscmanusc,0.5
+vijay,0.404040404040404
+grounds for recall,0.5
+cross - examination,0.0
+v isaac  manuussc,0.0
+instruction,1.8197943962910703
+portion,1.0756311179804223
+jamatraj,0.5
+principle of fair trial,0.5
+contradiction,0.609271523178808
+sheikh,0.25462962962962965
+end of justice,0.5
+sequeria fernandes,0.5
+re-examination of any person,0.0
+duty,3.2272215973003378
+interview,1.56113727542299
+human dignity,0.5714285714285714
+punjab v gurmit,0.5
+expeditious disposal of cases,0.5
+clear injustice,0.5
+such case with utmost sensitivity,0.0
+rival submission,1.0454545454545454
+criminal trial for the first time,0.5
+that parity,0.75
+stage of any inquiry,0.5
+discretion,1.2998211091234348
+failure of justice,1.7142857142857142
+trial relating,0.5
+point,2.9165043546008516
+khatoon,1.9
+sex,0.853783819872148
+considerations,0.7860235003092146
+decisions on the point,0.8
+conclusion that additional evidence,0.5
+shall,3.6283780276816606
+petitioner that sh,0.6666666666666666
+sentence,2.3896654193264366
+steps,1.169318181818182
+exigency of the situation,0.5
+account of illness,0.5
+lacuna,1.6111111111111112
+evidence act,3.8666666666666667
+polouse under section,0.0
+julfikar,0.5
+omission,1.1856094505101127
+mandate of section,1.0833333333333333
+supp,1.7223856594132256
+such facts,1.0
+continuation,0.5723370429252783
+court before the power,0.5
+bhatia,1.0
+various expressions,0.3333333333333333
+category,1.9351744779266717
+pre-judging,0.0
+proces of the potency test,0.0
+vijay kumar v state of up,0.5
+plea,1.4430487701432178
+fast track courts for disposal,0.6666666666666666
+fairnes,0.5708245243128964
+valid ground,0.4444444444444444
+states  commissioners of police,0.0
+proper proof,0.5
+jamatraj kewalji govani,0.5
+-a code of criminal procedure,0.0
+recall under section,0.5
+examination of prosecution witnesses,0.5
+rape cases,0.6000000000000001
+pw- ayush dabas,0.0
+capricious exercise,0.6666666666666666
+honble superior courts in numerous pronouncements,0.5
+authority,2.4352627108360636
+court in rajaram prasad yadav v state,0.5
+account of subsequent events,0.5
+death,2.361592909460208
+such measures,0.7142857142857143
+particular case,0.4358974358974359
+new evidence,0.303030303030303
+exercise at the conclusion,0.5
+pws,1.5484615384615386
+bona fide error,0.5
+development,2.3145884270578647
+face,0.7281253260594137
+peculiar circumstance with the observation,0.0
+serious prejudice,0.8
+third,1.0303422515142742
+entire cross examination,0.5
+goal,0.5651601830663616
+absolute terms,0.3333333333333333
+liberal view,0.5000000000000001
+own choice,0.2173913043478261
+duty on the court,0.5
+humiliating statement,0.5
+hanif,0.24999999999999997
+iii,1.5614499719992534
+private counsel ms,0.5
+job,0.6733466933867737
+relevant question,0.5714285714285714
+obligation,1.1071428571428574
+prejudice,0.880907124598545
+request for adjournment,0.5
+various grounds,1.0555555555555556
+primary reason,0.3492063492063492
+complainant,4.538461538461538
+as the present one,0.75
+state,6.817996007300392
+rajaram prasad yadav v state,0.5
+particular act of omission,0.5
+note,1.3654108484234107
+pw-,0.0
+sim,1.2793650793650795
+practitioner,0.8401826484018265
+constructive denial of the counsels,0.5
+provisions for conduct,0.6666666666666666
+view by the observations,0.5
+presentation,1.1205371248025278
+javed,0.7333333333333334
+subjective matter,0.5
+continued fitnes,0.5
+request of the defence counsel,0.5
+certain aspects,0.6666666666666666
+cover,2.502726787041524
+such power,0.8907563025210085
+reasons in the impugned order,0.5
+rajan,1.502267573696145
+personal integrity,0.3333333333333333
+alive to the fact,0.6666666666666666
+ltd manuscmanusc,1.4473684210526316
+senior counsel,2.2857142857142856
+capital,1.0983272274832379
+with the reason in the impugned order,0.0
+emphasise,0.6878306878306878
+understood that recall,0.5
+persons,2.5993381990166555
+magistrate under section,1.2
+cities  commissioners,0.0
+guidance for the purpose,0.5
+pre,6.408342692122574
+fundamental,1.8473025048169558
+fernandes,0.5333333333333333
+honble delhi,1.6666666666666667
+regard to the facts,1.1
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+manudemanude,1.1666666666666667
+custom,1.8742070505069293
+specified offences,0.5
+such measure of reform,0.0
+state of rajasthan v ani  hanif manuscmanusc,0.0
+statutory provisions,1.6764705882352942
+contrary to the reasoning of the high court,0.5
+certain question,0.41666666666666663
+wide range,0.30845771144278605
+explanation of matters,0.5
+madhav hayawadanrao hoskot v state of maharashtra,0.6666666666666666
+failure,0.7827962142086977
+power with the court,0.5
+interest,2.74353772015385
+immediate step,0.8333333333333334
+pacific,0.32458697764820205
+aspects,1.0997620069447154
+consonance,1.5
+bashfulnes,0.5
+to any inadvertence,0.5
+other submission,0.9
+penal code with the result,0.5
+subsequent events,1.25
+order of examinations,0.5
+back of the concerned advocate,0.5
+pronouncement,0.8197343453510436
+customs manuscmanusc,1.0
+stray,1.211340206185567
+fairnes of trial,0.0
+fast-track justice,0.0
+that principle of fair trial,0.5
+prime object,0.3333333333333333
+examinations,1.173913043478261
+states  commissioners,0.0
+in several decisions,0.875
+competent job,1.0
+police under section,0.75
+permission,1.1531211886018407
+to state,0.7092760180995474
+appeal,3.4125488033856883
+material portions of the evidence,1.5
+view of the court,1.0
+reasons for recall,0.5
+stray instance,0.5
+view of the high court,1.3571428571428572
+evaluation,0.7358156028368795
+ground of ineffective assistance,0.5
+further examination,1.0
+apparent that the exercise of power,0.5
+nath,1.2024818815807465
+that power of judicial superintendence,0.5
+object of law,0.5
+reasoning of the order,0.5
+metropolitan city,1.0
+learned additional session,1.4
+duration,0.6373626373626373
+hand over a copy,0.5
+endeavour,0.5318181818181819
+himanshu singh sabharwal v state of mp,0.5
+necessary instructions by the dgpscommissioners,0.5
+victim to the nearest lady,0.5
+to a counsel,0.3333333333333333
+prs,0.21019417475728155
+design of defence,0.5
+fatehsinh,0.5
+earlier decisions on the point,0.5
+relevant considerations,1.0
+whole personality of the victim,0.5
+dgps  commissioners,0.0
+feel,0.5728395061728396
+miscarriage,1.015625
+completion,1.1868131868131868
+for this case,0.75
+manner,1.4494591333432125
+clear that judicial scrutiny of a counsel,0.5
+process of the potency test,0.5
+union of india manuscmanusc,1.847457627118644
+such statement under section,0.5
+objective,0.5021775147928994
+january,0.8699641577060931
+iv ad,0.3333333333333333
+essentiality of a person,0.5
+essentiality,1.0
+day to day basis,1.0
+circumstance,1.429931390219372
+new matter,0.5
+soni,0.5972035532698265
+yadav,1.8571428571428574
+investigation,1.6673076923076922
+difficulty,0.656910569105691
+pw- ayush daba,0.0
+misra,0.4807692307692307
+state of maharashtra manu  scmanu  sc,0.0
+orissa manuscmanusc,0.9090909090909091
+zahira habibulla h sheikh v state,0.5
+counsel to counsel,0.5
+sister mina lalita baruwa v state,0.5
+union of india,3.1324503311258276
+procedure for fast - track justice,0.0
+contents,0.66519564577817
+examination of the victim,0.5
+basi,2.0752712086391383
+india confers,0.6666666666666666
+court vide,1.0740740740740742
+singh manuscmanusc,1.2424242424242424
+days,1.6721350893491447
+witness in the court,1.2
+lie,2.828767123287671
+expeditious disposal,1.0
+conviction,2.248165832071736
+basis,1.953226441078104
+adverse verdict at the trial,0.5
+certain witness,1.0
+note of the observations,0.5
+cross examination,1.7272727272727273
+proceedings despite the fact,0.5
+directions,1.5134125183504605
+previous counsel,1.5
+that such recall,0.5
+ramachandra,0.5555555555555556
+sad refection on the attitude,0.5
+direction that the contents,0.5
+accused  applicant,0.0
+irrespective,0.7304347826086957
+magistrate,3.522077922077922
+injustice in the conduct,0.5
+pal,1.6504163634893685
+duration of trial,0.5
+soul of the helpless female,0.5
+inherent bashfulness of the females,0.5
+pradesh v shobha ram,0.5
+recalling,0.6355555555555555
+officer,3.1197242647058823
+amendment,2.2486412346818434
+charges,2.061307113938693
+other case,0.6654088050314465
+madhav hayawadanrao hoskot v state,0.6666666666666666
+territory,1.3688226421790437
+superior,0.826797385620915
+whole personality,0.5
+cros,1.8137948361162648
+maria,0.3283582089552239
+rajan dwivedi v union,0.5
+correct decision,0.4444444444444444
+strickland v washington,1.0
+proof,1.0648141580366008
+rebuttal,0.3333333333333333
+paswan,7.0
+criminal,3.301971081989414
+cross-examined on account of illness,0.0
+term,3.6255105640901575
+view,2.441100058469462
+pronouncements,0.7435344827586207
+endeavor,0.40993788819875776
+person as a witnes,1.5
+vide,4.454025282767798
+ordinary law,1.25
+penal code,2.710144927536232
+such fact,1.0833333333333333
+fairest manner,1.0
+for delay in the trial,0.5
+result,1.3356630184144715
+person present,0.6666666666666666
+general observations,0.75
+physical body,0.175
+rajaram,0.3333333333333333
+record,2.5393414390845273
+information,1.1320502836800534
+justice system,0.4166666666666667
+trial in other cases,0.5
+defence,1.3606588776096535
+gurmit,1.0
+object of section,1.0
+secretary,0.9217877094972067
+delhi rules,0.5
+conspicuous reading of section,0.5
+mir,1.7266355352042435
+provisions of section,2.762376237623762
+peculiar circumstance,1.0
+material effect,0.5
+other proceeding,1.4545454545454546
+fact,3.6284951019474962
+such circumstance,0.5723905723905723
+learned counsel,3.703333333333333
+open court,1.3333333333333333
+helpless female,0.5
+interests,1.0562317935913441
+specific ground,1.0
+chief,1.9429638234317954
+bundle of lie,0.5
+hour,1.1326135248230613
+presumption,1.06
+error in the view,0.5
+nct,2.092612013671052
+impugned order,2.265957446808511
+consistent recurrence,0.5
+diary,0.986533041027247
+further cross-examination,0.0
+witnes,5.333906623599983
+uttaranchal,3.7142857142857144
+wide range of reasonable professional assistance,0.5
+part of guarantee,0.5
+alok dubey,0.5
+general observations that recall,0.5
+mishra during the course,0.5
+mohd,1.75
+petitioner that justice,0.5
+exercise,1.9400726466785694
+violation of human dignity,0.5
+retrial,2.875
+judicial,2.8688059701492543
+hardeep singh v state,0.5
+party,2.2250894654439723
+concerned authority,1.0
+fair play,0.8333333333333334
+legal aid counsel,1.0
+shambhu nath singh manuscmanusc,0.5
+with the reasons in the impugned order,0.5
+subjective issue,0.2857142857142857
+own counsel,0.5
+earlier counsel,5.0
+further proceedings,1.0
+enrolment number,0.5
+justice,2.292557084574302
+therein,1.5503424657534246
+grievance,1.032529659395331
+sight of the fact,0.5714285714285714
+forum,1.9016754850088184
+v state,2.4603773584905664
+precise situation,0.5
+above observation,0.6530612244897959
+ram chander v state,0.5
+fitnes,0.5525
+administration,1.061072796934866
+re-examination on the ground,0.0
+society,2.1182859399684046
+mohanlal,0.8333333333333334
+difficulties,0.570873786407767
+offence,4.401610644257703
+hearing,0.9644508209787979
+alok kumar dubey,0.5
+victim of sex crimes,0.0
+afzal,1.0
+category of cases,1.0
+arguments on the application,0.5
+inspector,1.2705882352941176
+day,1.550999710228919
+question,2.980312372067635
+v state of up,1.7027027027027026
+to legal aid,1.0
+choice,0.6825955124317767
+shailendra kumar v state of bihar manuscmanusc,0.5
+constable manju,0.5
+fitness,0.5525
+kishore chand v state,1.0
+sexual aggression,0.5
+refection,0.5
+scmanu,7.940520446096654
+navjot,1.0
+step,0.8867024753460084
+practice,1.7660110149488593
+statement,2.5393160135035964
+soul,0.3761574074074074
+first information report,1.9565217391304348
+dasti,1.1666666666666667
+needs,0.6897483569699066
+colin,0.426056338028169
+victim of the rape,0.5
+reason for recall,0.0
+magistrate for the purpose,0.75
+advocate inasmuch,0.5
+relevant documents,0.6000000000000001
+states,1.5120646995827023
+law,3.538923411654744
+counsel to the liking,1.0
+observation,0.7625074854374218
+whatever reason,0.463768115942029
+inherent bashfulness,0.5
+obligation on the part,0.8888888888888888
+aforesaid narration,0.5
+delhi manuscmanusc,1.1818181818181819
+fling of the charge sheet,0.5
+that the exercise of power,0.8
+lrs,0.46643518518518523
+honble delhi high court,1.6666666666666667
+ussc,0.6821705426356589
+crime against woman,0.0
+mind that fair trial,0.5
+sincere steps,0.5
+fast track court for disposal,0.0
+general of police,1.9166666666666667
+exercise of the widest discretionary power,0.5
+grant,1.7314487632508835
+assessment,2.647276084949215
+salamat,0.5
+such mistakes,0.3333333333333333
+facts of the case,1.161764705882353
+joint,1.0091324200913243
+record that the earlier counsel,0.5
+certificate,2.732600732600732
+offences,1.6681887366818873
+enrolment with the bar council,0.5
+additional evidence,2.25
+himachal pradesh,2.5
+tactics,0.4837209302325581
+application,2.3322596088086445
+haryana manuscmanusc,1.1333333333333333
+scrutiny of performance,0.5
+april,0.8928235149629509
+authorities,1.266131845134287
+detail of the number,0.0
+manju,0.7173913043478262
+heinous offences,0.6666666666666666
+reading,0.9004509191814082
+right to legal aid,1.0
+fast-track procedure,0.0
+himanshu singh sabharwal v state,0.5
+peculiar circumstances,1.0
+continued fitnes of an advocate,0.0
+formal witness pw-,0.0
+prosecution evidence,1.2
+shri gonsalf,0.0
+inspector of customs manuscmanusc,0.5
+ltd,2.382356477306883
+such medical examination,1.3333333333333333
+submission,1.0913871684001404
+present one,0.4895104895104895
+dadra,0.5
+navjot sandhu manuscmanusc,0.5
+circumstances of the counsel,0.5
+undue delay in the trial,0.5
+detail,0.9737454684220567
+independent right,0.8
+transporter,0.23076923076923073
+drastic amendment,0.5
+questions on certain aspects,0.5
+raminder,1.0
+constitution,3.204842342342342
+charge-sheetreport,0.0
+andrea,0.3869346733668342
+swaran,1.625
+immediate steps,0.8333333333333334
+unfortunate development,0.5
+dasti summons,0.5
+prayer for recall,1.5
+undue delay,1.0
+entire cross - examination,0.0
+criminal justice system,0.4800000000000001
+trial judge,2.6666666666666665
+nct of delhi,1.8571428571428572
+learned additional sessions,1.3
+states  commissioner of police,0.0
+cities,0.538072382929044
+expeditious proceedings,0.5
+constitution of india confers,0.6666666666666666
+interference by the high court,0.75
+reference to the criminal law amendment act,0.5
+dasti summon,0.5
+test in strickland,0.5
+cross examination in order,0.5
+metropolitan citiescommissioners of police,0.5
+supra,2.246342614440774
+hardship,0.7236842105263158
+other cases,0.6446886446886447
+acuman,0.0
+various ground,1.0555555555555556
+competent,1.3701267639320736
+prosecution witnesses,2.0526315789473686
+evidence at the stage,0.5
+serious consequence,0.42857142857142855
+maharashtra,2.9076923076923076
+prefix to the various expressions,0.5
+outright rejection,0.5
+applicant,0.7861822513400833
+peculiar circumstances with the observation,0.5
+second,1.4990453300392075
+domestic,1.5558628318584073
+physical infirmity,0.5
+valid reasons,1.0666666666666667
+case strickland,0.5
+opportunities,0.5793650793650793
+verdict at the trial,0.5
+relevant document,0.5714285714285714
+singh v state,1.75
+legal fraternity,0.5
+india manuscmanusc,1.8333333333333333
+filling,0.664718772826881
+on account of any disability,0.5
+merits,0.968421052631579
+hardship to the witnesses,1.0
+police,2.9749362629783356
+case on account,1.0
+mobile,1.5876623376623376
+arrest,1.391895003453834
+exceptional situation,1.25
+case to case,0.9090909090909091
+uncalled for delay in the trial,0.5
+reason,2.6381270903010035
+self - respecting woman,0.0
+regard to these considerations,0.5
+criminal law amendment act,0.6666666666666666
+metropolitan citiescommissioner,0.5
+width of power,0.6666666666666666
+testimony inspires confidence,0.5
+constructive denial,0.5
+response,0.7112676056338028
+observations of the honble delhi,0.5
+recording of statement,0.6666666666666666
+presentation of facts,0.4444444444444444
+other relevant consideration,0.8
+territories,1.012
+legal expertise,1.0
+victim to the magistrate,0.5
+honour,0.8173913043478261
+earlier decision on the point,0.0
+others,0.9074667328904616
+care,0.8846948234137723
+receipt,1.5471923536439667
+proceeding,2.1298245614035087
+initiative,0.3346007604562738
+submissions of learned attorney general,0.5
+circumspect as the ground of ineffective assistance,0.5
+expressions,0.8027972027972027
+metropolitan,1.3088642659279779
+judge,2.9012627415183325
+of polouse,0.0
+victims of sex crimes,0.5
+circumstances with the observation,0.5
+dzire,0.5
+safeguard,0.6623074687590815
+fault in the conduct,0.5
+interests of justice,1.2
+such cases with utmost sensitivity,0.5
+delhi hc,0.5
+murderer,0.6486486486486487
+kumr,0.3333333333333333
+conclusion,1.3883437407077015
+investigating agencies,1.0
+concerned authorities,1.090909090909091
+swift dzire,0.5
+questions,0.9979150871872632
+secy,0.5555555555555556
+defence counsel midway of the trial,0.5
+assistance,0.8623872906826965
+superior courts in numerous pronouncements,0.5
+question of a criminal trial,0.5
+sense,0.8606303395157362
+no doubt,0.8331331503088538
+circumstances,1.3944461370073231
+lawyer,0.6086956521739131
+that competency,0.5
+such prayer,0.5333333333333333
+personal liberty,1.7000000000000002
+practical level,0.5
+such heinous offence,0.5
+high court,7.7477477477477485
+harm,1.2124444444444444
+learned counsel for the appellant,1.7884615384615385
+way of dasti summons,0.5
+trial,3.7979448350459712
+irony,0.25280898876404495
+destructive of the whole personality of the victim,0.5
+manu,7.078142071124147
+concern,2.0544958000579303
+track,1.311279069767442
+criminal mc,0.5
+for reason,0.604355716878403
+rulings,0.5416666666666667
+summon,1.0346907993966816
+a fast-track procedure to the fast track court,0.0
+scale,2.0845464725643894
+purport,1.3465627214741318
+attendance,0.5024271844660194
+raghunandan v state of up,0.5
+to the findings in the order,0.5
+additional standing counsel for the state,0.5
+findings in the order,0.5
+fundamental right,2.9790209790209787
+serious consequence on conduct,0.0
+from other case,0.5
+opportunities to the persons,0.5
+death of the counsel,0.5
+measure,1.1941357983816498
+j jayalalithaa v state,0.6666666666666666
+aforesaid narration of proceedings,0.5
+isaac,0.15594059405940594
+gonsalves,1.6666666666666667
+same to the magistrate,0.5
+new scheme,1.1111111111111112
+investigating officer,3.2580645161290325
+apex,0.8555555555555555
+courts,2.1216528162511543
+sight,0.6194871794871795
+design in accordance,0.5
+code,2.880559796437659
+deferred time,0.5
+available to any court at any stage,0.5
+sphere,0.622245268343272
+compas,0.41211484593837533
+state of punjab v gurmit,0.5
+reasons,1.3749054007567938
+compliance in cases,0.5
+more questions,0.25
+circumstance of the counsel,0.0
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+opportunity of rebuttal,0.5
+sad refection,0.5
+gurmit singh case,0.5
+hayawadanrao,0.6666666666666666
+of the power,0.977964561562926
+judicial magistrate,2.7857142857142856
+progress,1.075925925925926
+new counsel,3.5
+fag end of the trial,0.5
+rajeshwar prosad misra v state,0.5
+copy of the statement,0.5
+receipt of information,0.4444444444444444
+ors,2.8612718198296623
+adequate grounds,0.6666666666666666
+integrity,0.8973214285714286
+part,5.294464509893076
+recalling of pws,0.5
+v state of bihar,1.8918918918918919
+ransom,0.2692307692307692
+due deliberation,0.75
+witness pw-,0.0
+range,0.8144965675057209
+aspect,1.2449448189023034
+physical harm in the process,0.5
+daba,1.0664335664335665
+shri,2.0759135877246115
+decisions,1.3888475974580996
+gang,1.7035953177257526
+contrary to the findings in the order,0.5
+same in the case,0.5
+inasmuch,0.8571428571428571
+possible prejudice,0.75
+specific direction that the content,0.5
+goel,0.5384615384615384
+honble superior courts,0.5
+situations,0.7435282837967402
+sensitive case,0.5
+track courts,9.25
+relevant material,1.0
+instructions,1.8111673678956002
+outrage,0.4628571428571429
+remedy by way,1.0
+shri colin gonsalf,0.0
+rama paswan v state,0.5
+sudevanand,0.5
+hardeep singh v state of punjab manuscmanusc,0.5
+cities  commissioner,0.0
+performance of the earlier counsel,0.5
+cases of rape,1.0
+instances,0.5974025974025974
+feels that injustice,0.5
+attorney general,1.3220338983050848
+counsel from the point,0.5
+reason for delay,0.6666666666666666
+power under section,1.7142857142857142
+of the whole personality of the victim,0.5
+material portion of the evidence,0.0
+relevant factor,0.8663594470046083
+learned attorney general,3.8666666666666667
+adjournment,2.4166666666666665
+account of any disability,0.5
+uncalled for hardship to the witnesses,0.5
+order of examination,1.0
+harm in the process,0.5
+pursuance,1.543859649122807
+tewari,1.0
+guarantee,2.2562167724232554
+explanation,1.4510159010600707
+unfitness,1.0
+superintendence,2.1538461538461537
+effects of hindsight,0.5
+judicial scrutiny of a counsel,0.5
+defence witnesses,1.0
+effect,2.184583388478191
+legal matter,0.3333333333333333
+convenience,0.6501259072729966
+si sandeep,0.5
+particular act,1.0612244897959184
+karnataka manuscmanusc,1.3636363636363635
+trial stage,0.75
+disability,0.621301775147929
+zahira,0.6666666666666666
+godrej,0.6666666666666666
+mohansinh,0.5
+such measure,0.9142857142857144
+consequence,0.8726692512593296
+hussainara,1.6666666666666667
+ground for recall,0.5
+place,2.333104345208554
+impugned order ignore,0.5
+counsel s assistance,0.0
+wide discretionary power,0.6666666666666666
+earlier decisions,1.24
+pace,0.7438834429971801
+matter of course,0.7482993197278911
+from other cases,0.5
+computer,1.3866140537259068
+month from the date,1.2222222222222223
+issue,2.766776251628934
+observations that recall,0.5
+back,1.1362801178713813
+charge of rape,1.5
+hanuman ram,0.5
+matter on merits,0.8333333333333334
+effect of hindsight,0.0
+potency test,0.5
+presumption that the counsel,0.5
+petitioner,4.524972253052164
+shambhu,5.166666666666667
+of the scheme,2.307692307692308
+judgment of this court,2.1029411764705883
+orders,1.4936359300077826
+good sense,0.3
+plea of incompetence,0.5
+plea for recall,0.5
+reasonable professional assistance,0.5
+further question on certain aspects,0.0
+sex crimes,0.25
+conspicuous reading,0.5
+other cogent reason,0.5
+witnesses in cross examination,0.5
+grounds,0.9540208829455945
+tech,1.1203909589894292
+fraternity,0.4782608695652174
+ruling of the honble supreme court,0.0
+karnataka v shivanna manuscmanusc,0.5
+ground,1.4186722903211633
+such opportunity,0.8571428571428571
+reliable prosecution case,0.5
+xxx,1.8708487084870848
+portion of the evidence,0.0
+narration of proceedings,0.5
+testimony of a victim,0.5
+liberty,0.7860465116279071
+direction of re-examination,0.0
+impugned order ignores,0.5
+article,4.378806157159795
+stay,0.7804272356384462
+case of manu  scmanu  sc,0.0
+with the legal matters,0.5
+honble superior court,0.5
+penal,1.8829173709853835
+necessary for the reasons,0.5
+to the magistrate,2.3
+opinion,1.4960606342789635
+reference to decisions,0.5
+suggestions,0.7508630609896433
+debate by the legal fraternity,0.5
+above observations,1.0714285714285714
+reason for the arrest,0.0
+statesunion territory,0.0
+that parity of reasoning,0.5
+delay,1.9544910179640715
+rao,0.9220020325203252
+bihar,4.587301587301587
+dwivedi,6.75
+scope,0.8412698412698413
+strong presumption,0.4444444444444444
+denial of the counsels,0.5
+incompetence,0.6122448979591837
+patent error,1.0
+closed trial,1.0
+judicial magistrate for the purpose,0.5
+novice,0.24590163934426232
+tangible reasons,0.5
+bar council,2.5
+public prosecutor,2.0952380952380953
+gang rape,1.0
+sexual assault,0.6666666666666666
+respect,2.6704963235294117
+kewalji,0.5
+recall of io,0.5
+swift,0.32
+fair assessment of attorney performance,0.5
+several decisions,1.1
+recording,1.3265454545454545
+expression,1.7424391201885312
+delay in the trial,1.0
+inspite,0.6933333333333334
+station,1.2515681586858238
+reasoning,0.6478937381404174
+manu  scmanu  sc,0.0
+procedure for speedy justice,0.5
+satyajit banerjee v state of west bengal manuscmanusc,0.5
+exercise of power,0.7513227513227514
+police stations - in - charge,0.0
+stand,1.8422769621739425
+speculative presentation,0.5
+private counsel,1.6666666666666667
+system,1.1230229504341178
+effect on the veracity,0.5
+additional,1.4256530253244384
+competency,0.7000000000000001
+punjab,1.0438169425511197
+trial for the first time,0.6666666666666666
+cogent reasons,1.0
+legal aid,2.142857142857143
+statutory provision for conduct,0.0
+further liberty,0.6666666666666666
+re-examination,0.0
+cross-examine,0.0
+measures of reform,0.5
+judicial scrutiny,1.375
+details,0.9406426856198188
+hanuman ram v the state,0.5
+illness,0.883177570093458
+change in circumstances,0.5
+deliberation,0.7366666666666667
+scope of power,0.75
+for trial of rape cases,0.5
+progres,1.075925925925926
+judicial superintendence,0.5
+testimony,1.4407553107789142
+molestation,0.2017543859649123
+cogent reason,1.25
+accordance,1.4069045211613462
+court proceeding,0.75
+margarida,0.5
+devender pal singh v state,0.5
+verdict,0.6880952380952381
+portions,0.6041219407471018
+fast track court,5.857142857142857
+deposition,1.534
+order of re - examination,0.0
+opportunity to the persons,0.0
+acumen,1.25
+compass,0.4085714285714286
+necessary instructions,0.6666666666666666
+for hardship to the witnesses,0.5
+appeals,1.7060218112849692
+february,0.8575630252100839
+statement of the prosecutrix,1.0
+name,1.8996570753072433
+handicap,0.6111111111111112
+dl-yd-,0.0
+recurrence,0.3181818181818182
+account,2.5754891049671977
+andreas,0.3553719008264463
+concerned advocate,0.5
+bashfulness of the females,0.5
+available in several decisions,0.5
+prayer,0.6969296987087519
+raminder singh v state,1.0
+liberty to the defence,0.5
+interference,0.5733527484528578
+decision of the case,3.6666666666666665
+sudevanand v state,0.5
+trial court,3.854545454545455
+karnataka,3.8596491228070176
+purpose,2.519170317925504
+constable,1.0606060606060606
+debate,0.6231884057971016
+progress of the trial,0.5
+judicial officers,9.083333333333334
+amendment into code,0.5
+time,2.4764180952862667
+dayal singh v state of uttaranchal manuscmanusc,0.6666666666666666
+single specific reason,0.5
+capital punishment,0.17567567567567566
+chaudhary,1.4615384615384615
+such person,0.9634888438133874
+observation of the honble delhi,0.0
+observation that recall,0.5
+in the case,1.732770745428973
+utmost sensitivity,0.5
+recall of witnesses,2.0
+content,1.5450574489970066
+v state of nct,0.5
+witness in cross examination,0.0
+sex crime,0.25
+shri gonsalves,0.6666666666666666
+refection on the attitude,0.5
+hours,1.1644152367043934
+victim s privacy,0.0
+in several decision,0.875
+right,3.07483248288682
+baruwa,0.5
+mandate,0.8783810859547183
+counsel,2.2246780703440323
+court of delhi,1.4761904761904763
+day basis,1.0
+judicial magistrate as aforesaid,0.5
+witnesses,3.359210526315789
+rules,3.130914366958792
+track courts for disposal,0.6666666666666666
+rapist,1.0482954545454546
+madhav,2.0
+union territories,3.111111111111111
+of change,0.6428571428571429
+relation to such evidence,0.5
+mere observation,0.6666666666666666
+to the finding in the order,0.0
+play,0.5464427772208388
+to the reasoning of the high court,0.5
+examination in order,1.0
+disposal,1.1180555555555556
+ankit,0.5714285714285714
+results,0.6487493619193466
+disadvantage,0.9298245614035088
+counsel for the state,1.3043478260869565
+aabida,0.5
+earlier counsel to the prosecution,0.5
+shailendra,0.5
+further question,0.5923076923076923
+victim,1.204831365285174
+enrolment,1.3333333333333333
+moreover,0.7807228915662651
+crimes,0.7056429734129138
+cross-examination of pw,0.0
+compliance,1.0029799914857385
+circumstance of the case,0.5
+sincere step,0.5
+case,7.332269420884958
+error,1.059158294766151
+competence,3.09375
+raghunandan v state,0.6666666666666666
+hindsight,0.48484848484848486
+punishment,1.6266937669376693
+ritesh tewari v state,0.5
+statutory provisions for conduct,0.5
+serious consequences,0.42857142857142855
+view result,0.5
+person as a witness,1.5
+shailendra kumar v state,0.5
+defence witness,1.0
+contention,1.666391070690368
+rape,1.6904761904761905
+statement under section,2.1
+certain witnesses,1.0
+further questions on certain aspects,0.5
+for the reasons,0.6537842190016103
+advocate,1.0791341991341994
+reasons for the arrest,0.5
+cross-examined by the counsel,0.0
+true scope of power,0.5
+consciou of the position,0.0
+violation,1.2087401208740118
+office,3.5913445886237847
+prosecutrix,17.75
+proper for reasons,0.5
+leave,1.0147842365477848
+absolute term,0.3333333333333333
+dayal,0.9047619047619048
+cases with utmost sensitivity,0.5
+body,1.336775463480009
+mannan sk v state of west bengal manuscmanusc,0.5
+illnes,0.883177570093458
+notice,2.3300025999395686
+proper opportunities,0.6666666666666666
+material witnes,0.9047619047619048
+rajaram case,0.5
+other counsel,1.5
+privacy,0.9812310030395137
+counsel s defence,0.0
+such statement,0.5689655172413793
+material witness,0.9047619047619048
+delhi administration,1.2727272727272727
+line of defence,0.3333333333333333
+fling,1.325892857142857
+defence strategy,0.5
+patent,1.3540828816226613
+decision of a case,0.5
+effort,0.7536036036036036
+unfit on account of any disability,0.5
+circumstance of this case,0.0
+such consideration,1.0
+undesirable result,0.5
+with the court,0.625
+banerjee,1.1428571428571428
+discrepancy in the statement,0.5
+haryana,2.935064935064935
+whole in the cross examination,0.0
+documents,1.142515923566879
+prosecutrix pw,1.0
+appropriate court for trial,0.5
+air,2.0589664272145285
+reply,1.0337305560040906
+strickland,0.6666666666666666
+circumstance with the observation,0.0
+gujarat,3.2753623188405796
+narrow compass,0.8571428571428571
+sexual molestation,0.5
+legislature,2.818553268765133
+specific direction that the contents,0.5
+finding in the order,0.0
+own informed choice,0.5
+bar council of delhi rules,0.5
+metropolitan citiescommissioners,0.5
+conduct,1.5998023165163158
+change of counsel,1.5
+consonance with the prescription,0.5
+argument,0.9504580388560493
+dgp,0.3846153846153846
+valid ground for recall,0.5
+charges of rape,0.5
+nature of the case,1.0
+narration,0.8571428571428572
+indian penal code with the result,0.5
+private counsel m,0.5
+state v mohd,0.5
+rape case,0.6000000000000001
+jharkhand manuscmanusc,0.75
+indian penal code,5.264705882352941
+jharkhand,0.9
+inherent bashfulnes of the females,0.0
+months from the date,1.3333333333333333
+hand,2.0299623418254717
+reliance on kishore chand v state,0.5
+predeceased advocate,0.5
+appellant,14.387096774193548
+counsel m,1.9375
+entire retrial,0.5
+appropriate court,0.8333333333333334
+bengal manu  scmanu  sc,0.0
+unfitnes,1.0
+confidence,0.5942028985507247
+provision for conduct,0.0
+constitution of india read,1.0
+other counsel to the liking,1.0
+ani,3.3517969747628347
+haveli,0.3508771929824561
+principle of law,1.1538461538461537
+police stations - in - charge by the dgps  commissioners,0.0
+court of session,1.25
+chauhan,1.75
+infirmity,1.3095238095238095
+rate,3.088725136774248
+allow cross-examination of the witnesses,0.0
+narrow compas,0.8571428571428571
+criminal case for the first time,0.5
+medical examination of the victim,0.5
+fairness of trial,0.5
+state of up,2.0784313725490198
+witnes in the court,0.0
+end of the trial,1.0
+due opportunity,0.5
+true that principle of fair trial,0.5
+heinous crime,0.6818181818181818
+fairness,0.5844155844155844
+advancement,0.6169491525423729
+reading of the provision,1.1428571428571428
+situation,1.1254754682459434
+observations,0.7454584147497534
+support of prayer,0.5
+high court vide,1.0
+prosecutor,1.1917989417989419
+recurrence of the heinous crime,0.5
+attention,0.8724846605528799
+measures,1.126498218334953
+ali,3.7617236801781915
+recall of all pws,0.5
+case of state,1.4375

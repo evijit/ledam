@@ -1,0 +1,121 @@
+apex,0.8555555555555555
+merit in this special leave petition,0.5
+today,0.6330563683773655
+scmanu,7.940520446096654
+immense anguish,0.5
+code,2.880559796437659
+lives,0.6840821832520494
+civilized persons,0.5
+august,0.977116704805492
+sentencing,0.4083333333333333
+rcr,0.737782640408461
+people,1.2855544825097243
+learned attorney general for india,0.75
+saurabh,0.4285714285714286
+other people,0.4590163934426229
+emperor,0.625
+court,12.24425115501509
+prey,0.4107142857142857
+survey,0.9775055679287304
+life,1.3352928273744242
+recent apex judgment,1.6666666666666667
+parliament,2.6571235781762095
+road,1.0764686576960945
+petition,5.3436539306104525
+bakshi,3.0
+person,4.291511329454258
+than life,0.26666666666666666
+constant fear,0.6666666666666666
+civilized person,0.5
+in the court,0.6627218934911243
+matter,2.8088923076923082
+such obtaining circumstance,0.5
+disreputable record of road accidents,0.5
+criminal,3.301971081989414
+punjab v saurabh bakshi,0.5
+penal,1.8829173709853835
+sentencing policy,0.5
+drunkennes,0.37037037037037035
+aforesaid,2.592896174863388
+end today,0.5
+penal code,2.710144927536232
+other person,0.9635036496350365
+merit,1.2419290263876248
+apex judgment,1.6666666666666667
+uncertainty,0.8402948402948404
+drunkenness,0.37037037037037035
+manuscmanusc,7.940520446096654
+record,2.5393414390845273
+fear,0.8662375822023226
+obnoxious attitude of the people,0.5
+policy,3.250773332247955
+india,2.7684068260703585
+road accidents,0.5
+accident,1.7464867454487383
+attorney,1.9875
+attitude,0.4886970172684459
+judgment,3.288216560509554
+anguish,0.39
+solicitor,1.7073170731707317
+aforesaid passage,0.75
+additional solicitor,2.5454545454545454
+indian penal code,5.264705882352941
+learned attorney general,3.8666666666666667
+such obtaining circumstances,0.5
+apex judgments,1.6666666666666667
+attitude of the people,0.5
+road accident,1.0
+-a indian penal code,0.0
+score,0.45496296296296296
+drivers,0.27757032611401544
+circumstances,1.3944461370073231
+special leave petition,2.013333333333333
+feel,0.5728395061728396
+higher punishment,0.5
+passage,0.6514737598849748
+nonchalant attitude among the drivers,0.5
+poor feel,0.5
+maninder,0.8
+state,6.817996007300392
+additional,1.4256530253244384
+case,7.332269420884958
+section,9.287987283173626
+scc,1.941872465904902
+punjab,1.0438169425511197
+manu,7.078142071124147
+general,1.7536558414534391
+relook,0.25862068965517243
+sentencing policy in section,0.5
+obtaining circumstances,0.5
+judgments,1.2355646397547266
+punishment,1.6266937669376693
+recent apex judgments,1.6666666666666667
+obtaining circumstance,0.5
+about the obnoxious attitude of the people,0.5
+pedestrians,0.30000000000000004
+disreputable record,0.5
+singh,3.7791111111111113
+driver,0.8230211045255637
+circumstance,1.429931390219372
+lawmakers,0.3862068965517242
+emperors,0.2727272727272727
+present in the court,1.25
+accidents,0.8385135135135136
+end,6.1484001628618765
+mr maninder singh,0.8
+state of punjab v saurabh bakshi,0.5
+obnoxious attitude,0.5
+raj,1.3364194424876723
+lawmaker,0.4022988505747127
+something,0.5915378827342709
+that india,0.6000000000000001
+apprehensive about the obnoxious attitude of the people,0.5
+attitude among the drivers,0.5
+record of road accidents,0.5
+driving,0.6902900378310215
+pedestrian,0.3508771929824561
+leave,1.0147842365477848
+nonchalant attitude,0.5
+persons,2.5993381990166555
+leave petition,2.013333333333333
+larger than life,0.5

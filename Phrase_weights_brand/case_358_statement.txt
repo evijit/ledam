@@ -1,0 +1,86 @@
+spcr,0.26666666666666666
+respondent  canbank,0.0
+orders,1.4936359300077826
+appeals,1.7060218112849692
+amount,3.179688593072295
+validity,1.521010638297872
+trial of offences,1.5
+merits,0.968421052631579
+reasons,1.3749054007567938
+terms,2.390350840909655
+matters,1.4810665618448637
+priority,0.7086614173228346
+account,2.5754891049671977
+reason,2.6381270903010035
+court,12.24425115501509
+attached account,0.5
+canbank,2.3333333333333335
+transaction,5.884921444603142
+review application,1.5
+vide order,1.7058823529411764
+revenue herein,0.5
+financial,2.2822547614171618
+matter,2.8088923076923082
+financial services ltd from the attached account,0.5
+services ltd,1.2
+term,3.6255105640901575
+that order,0.71055381400209
+sum of rs,2.125
+subject matter,1.2537313432835822
+revenue herein on merits,0.5
+opinion,1.4960606342789635
+disbursement of amount,0.6666666666666666
+aforesaid,2.592896174863388
+merit,1.2419290263876248
+financial services,1.6666666666666667
+appeal,3.4125488033856883
+issue on priority,0.5
+challenge to order,0.5
+challenge,1.2204566274399267
+second appeal,4.5
+- in favour of the respondentcanbank,0.0
+delay,1.9544910179640715
+offences,1.6681887366818873
+application,2.3322596088086445
+priority over the amount,0.5
+aforesaid order,1.2857142857142858
+transaction in securities,0.75
+financial services ltd,1.3333333333333333
+favour of the respondentcanbank,1.0
+subject,2.4420366233344897
+services,1.6850241065659326
+security,1.5014864864864865
+order,5.472481489660944
+dealt with the review application,0.5
+department,1.9858367499068206
+fairgrowth,0.6666666666666666
+dealt,1.0007872325198597
+special,1.7363344051446945
+ltd,2.382356477306883
+mumbai in spcr,0.5
+financial service,1.8333333333333333
+disbursement,1.7
+legality of the order,0.75
+trial,3.7979448350459712
+income tax department  revenue,0.0
+detailed reason,1.0
+securities,8.22857142857143
+review,1.3564101463582128
+tax,3.549237288135593
+fresh order,1.5714285714285714
+detailed reasons,0.5
+services ltd  from the attached account,0.0
+interim measure,3.0
+service,4.257395095954566
+revenue,1.486701237872198
+special court,5.7
+income,2.734813573523251
+favour,1.653145208700764
+sum,2.554898897856461
+measure,1.1941357983816498
+opinion on the merits,1.0
+offence,4.401610644257703
+respondent,4.757894736842104
+issue,2.766776251628934
+legality,0.6845938375350139
+mumbai,1.8484848484848484

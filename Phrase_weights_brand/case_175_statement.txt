@@ -1,0 +1,1002 @@
+gmc,1.9310344827586206
+hotel,0.8866352770735241
+land in suit,0.0
+regard to the constructions,0.5
+extracts,0.48128342245989303
+corporation engineer,1.0
+government,3.5583785424010483
+findings,1.049571253572887
+ft therein,0.5
+part of the plaintiffs,0.5
+plots,0.8001672240802675
+denzong,7.0
+director,1.3549769585253457
+chief minister thereon,0.5
+regard to the facts,1.1
+dispute that the sikkim darbar,0.5
+estate land,0.5
+additional land,1.6
+owner of the entire properties,0.5
+other hand,0.6931925622439332
+demur,1.2030075187969924
+reliefs,1.308641975308642
+finding to the effect,0.75
+reasons,1.3749054007567938
+terms of section,1.98
+terms,2.390350840909655
+meaning,1.8612727545949643
+expenditure of the government,0.5
+sir,1.1712841173013164
+inter,3.683850287482992
+- to the private estate,0.0
+eminent domain,0.1875
+d- of the years,0.0
+denzong cinema complex,1.0
+interest,2.74353772015385
+finding of the high court,1.6363636363636365
+court,12.24425115501509
+first respondent,4.575757575757576
+sufficient reasons,1.25
+finance department of sikkim,0.5
+land by reason,0.5
+union,2.0981927710843373
+multi - storeyed building,0.0
+agreement,3.450434632433366
+road,1.0764686576960945
+plot nos,2.3333333333333335
+site plan,1.6
+other authority,1.0666666666666667
+sufficient reason,1.9
+lumpsum compensation r,0.5
+person,4.291511329454258
+allegations,1.8333333333333335
+tenzing,0.5
+correctness,0.8404159132007234
+behalf,1.9888053603529987
+conspectus,0.525
+entries,2.110809342748506
+investigation thereof with reference,0.5
+defendants - respondents herein,0.0
+part,5.294464509893076
+panch maharaj sir tashi namgyal,0.5
+subsequent events,1.25
+records of right,1.0
+nothing,0.8658723322806009
+houses,1.0821764442454098
+nagar paliak v jagar singh,0.5
+defendants  title,0.0
+total area,0.84
+share,2.560794932990637
+ownership,1.1522633744855968
+report of the corporation engineer indicating,0.5
+correct in view of the fact,0.6666666666666666
+shri,2.0759135877246115
+district,1.5506763074237984
+subject matter,1.2537313432835822
+much value for the purpose,0.5
+advocate manuscmanusc,0.6666666666666666
+v jagat singh,0.6666666666666666
+entries against different plots,0.5
+gangtok,6.5
+mutation proceeding,1.3333333333333333
+competent authority,2.7142857142857144
+late chogyal sir tashi namgyal of sikkim,1.5
+defendants land,0.5
+counsel for the respondent,1.5822784810126582
+aforesaid,2.592896174863388
+clear pointer,0.8333333333333334
+late chogyal palden thondup namgyal,0.5
+permission,1.1531211886018407
+claim,2.817264601856604
+other person,0.9635036496350365
+house,2.0021735292386764
+transfer,1.9975047057658015
+correctnes,0.8404159132007234
+sikkim,11.0
+appeal,3.4125488033856883
+area of construction,0.5
+evidentiary value,1.0
+certain properties,0.4444444444444444
+land,6.337534028705619
+scr,2.483838975311538
+which late chogyal,0.5
+yuthok,2.0
+area,2.675167256985439
+inasmuch as such records,0.5
+sir tashil namgyal,1.0
+exhibit,0.8875432525951558
+site for extension,0.5
+year,2.8349484769759212
+lieu,0.5964912280701754
+intrinsic evidence,0.5
+circumstances of this case,1.1363636363636365
+alia,0.9479866480753792
+record by the parties,0.6666666666666666
+approved plan,0.5
+suit property,5.333333333333333
+limited,1.3713554955535188
+defendants,2.3554376657824934
+reliance on nagar palika,0.5
+piece,0.8682170542635659
+judgment,3.288216560509554
+suit land,2.1666666666666665
+rights counsel,0.5
+investigation with reference,0.5
+maharaja,1.1428571428571428
+meaning of section,1.3611111111111112
+constitution of india reads,0.5
+bared wire fencing,0.5
+order,5.472481489660944
+settlements,0.6790123456790124
+width,0.5151515151515151
+bhau,0.6666666666666666
+act,12.870263922028107
+cogent,0.6469565217391305
+evidence that the entries,0.5
+other constructions,0.5
+multi,0.9478142668584149
+tashi,3.0
+exhibit p-,0.0
+prince tg,0.5
+certain plot,0.5
+cinema ltd,3.0
+plaint,3.104295112903434
+actual measurement,0.3333333333333333
+nagar,0.8617021276595744
+pleading,1.1270125223613594
+ramp,1.1730205278592374
+construction whatsoever,0.5
+in view of the fact,0.8707482993197279
+various documents,0.8666666666666667
+file no,0.23484848484848486
+aforementioned principles of law,0.5
+effect,2.184583388478191
+sikkim for the year,0.5
+attached plan,0.5
+tobyal wanghuck,0.5
+hill,0.7652592613209386
+copy,0.8620926631522174
+tashil,1.0
+second advocate commissioner,0.5
+passage,0.6514737598849748
+sketch,0.7529411764705882
+ramchandra,1.4
+tourist hotel,0.5
+manner,1.4494591333432125
+comment,0.5887096774193549
+bp plan,2.0
+toilet,0.39308176100628933
+permitted construction on certain terms,0.5
+parties,1.8210828547990157
+south thereto,0.5
+oral evidence,1.3333333333333333
+flight,0.5019305019305019
+title thereto,0.5
+land of defendant no,0.5
+tashik delek hotel,0.5
+section,9.287987283173626
+registered deed of sale,0.5
+permitted construction,0.5
+sita ram bhau patil v ramchandra,0.5
+approval of the bp plan,0.5
+encroached portion of the land,0.5
+entries in the khasra,0.5
+wide passage,0.5
+none,0.8181718550217885
+january,0.8699641577060931
+namgyal,4.5
+shop,1.5065156686317096
+condition,2.259476395625584
+reference to the mutation entry,0.5
+parcel of land measuring,0.6666666666666666
+gmc to the district magistrate gangtok,0.5
+executive officer of the gmc,0.5
+additional lands,0.5
+plaintiff s predecessor,0.0
+ownership in respect,0.5
+merger of sikkim,1.0
+place,2.333104345208554
+bazar,2.5
+circumstance,1.429931390219372
+finding,1.8129183657767178
+tashik,0.5
+basi of the entries,0.0
+joint secretary,1.2857142857142858
+plot no,3.2222222222222223
+extract,0.7823518379594899
+late chogyal sir tashi namgyal,1.5
+shri panch maharaja sir tashi namgyal,0.5
+investigation,1.6673076923076922
+indicated hereinbefore,1.0
+regard,2.723310344827586
+learned district jude,0.5
+exact location,0.38095238095238093
+such unauthorized construction,0.5
+meaning of  acquisition,0.0
+uncertain terms,0.7555555555555555
+subsequent event,1.25
+map,0.6139008979048886
+advocate commissioner,0.5
+adjacent land to the same building,0.5
+acquisition of private estate land,0.5
+india read,1.0
+lump - sum payment,0.0
+direction,1.8495050210098996
+rights,1.6349541930937281
+different plot,0.30000000000000004
+submission of mr  sanghi,0.0
+recommendations,2.1638655462184877
+letter from respondent no,0.5
+measurement,0.9433811802232855
+such record,1.625
+bazar department,0.5
+regards,0.9072861236185019
+facts,1.4696673624372698
+suit properties,3.75
+effect that the plaintiff,0.6666666666666666
+high court in civil appeal,0.6666666666666666
+minister,1.218958818958819
+exhibit d-,0.0
+complaint that construction,0.5
+basi,2.0752712086391383
+-- several letters,0.0
+different name,0.2647058823529412
+executive officer of gmc,0.5
+denzong cinema towards hotel busines,0.5
+rough sketch of the site,0.5
+local,1.7491695749064458
+purpose of construction,0.75
+records,0.9879294336118848
+cost,1.2954397451466992
+acre,1.6948939682084037
+complex,0.48861911987860396
+basis,1.953226441078104
+actual area of plot,0.5
+purported acquisition of the suit land,0.5
+real state,0.3333333333333333
+heading of the file,0.5
+eastern boundary,0.5
+lands in suit,0.5
+jagat,0.28651685393258425
+respondent with regard,0.5
+various other person,0.6666666666666666
+appropriate authority,1.222222222222222
+cinema,1.5333333333333332
+independent investigation thereof,0.5
+hotel on the additional site,0.5
+events,0.6160483175150993
+chogyal palden thondup namgyal,0.5
+structures,0.8929115853658537
+requisite step,0.75
+presumption arises with regards,0.5
+purported acquisition,0.5
+magistrate,3.522077922077922
+great detail,0.41481481481481486
+company,5.864471879286695
+namgyal son of late chogyal palden thondup namgyal,0.5
+payment of lumpsum compensation rs,0.5
+market road,0.5
+district magistrate gangtok,0.5
+cinema complex,1.0
+conclusion that a  private estate,0.0
+plaintiffs  private estate,0.0
+further work,0.375
+pucca building,1.5
+furtherance,1.758139534883721
+statement of the witnesses,1.25
+right of eminent domain,0.5
+officer,3.1197242647058823
+plaint that the entire plot,0.5
+rustomji,0.5
+exclusive possession,1.0
+uncertain term,0.7555555555555555
+area of plot,0.5
+acquisition,6.764044943820224
+value for the purpose,1.0
+tobyal,0.5
+payment of rs,1.2857142857142858
+measurement on the spot,0.5
+barbed,0.2777777777777778
+territory,1.3688226421790437
+other relief,0.6666666666666666
+letters,2.0877496159754223
+only document,0.5
+aforementioned principle,0.75
+opportunity,0.946186440677966
+jind,0.8500000000000001
+certain properties over which late chogyal,0.5
+evidence in this case,0.4
+west,1.1420057009587976
+great details,0.75
+independent investigation thereof with reference,0.5
+title in respect,1.3333333333333333
+evidence in the record,0.5
+matter,2.8088923076923082
+relation,1.397320207820618
+tenant,4.821212121212122
+article,4.378806157159795
+south,0.8254159150130287
+of the documents,0.6857142857142857
+effect that a lump - sum payment,0.0
+clear pointers,0.5
+conspectu of events,0.0
+market,5.294198044198044
+engineer,3.318922187370092
+land to the same building,0.5
+hill edge,0.5
+thondup,0.5
+term,3.6255105640901575
+new market road,0.5
+appellants,7.701086956521739
+p- entries,0.0
+officer of the gmc,0.5
+regard to the record,0.5
+view,2.441100058469462
+indian,1.2604961505560306
+paliak,0.5
+following important documents,0.5
+wooden building,0.5
+opinion,1.4960606342789635
+bazar department of government,0.5
+side,3.88845645915565
+following important document,0.5
+relief,1.4748116760828625
+transfer of property,1.8666666666666667
+as such record,0.5
+vapashi,0.5
+use,5.06801278974993
+pleadings,1.3125
+merger,0.8533333333333334
+removal of bared wire fencing,0.5
+cloth,0.4712956659859314
+recovery,3.9892473118279574
+letter from the joint secretary,0.5
+witness,5.333906623599983
+instrument of title,0.5
+gangtok by a judgment,1.0
+report of the second advocate commissioner,0.5
+entries against different plot,0.5
+court in the judgment,0.8
+plaintiff to the private estate,0.0
+record,2.5393414390845273
+material,1.4148767018946966
+opinion that no case,0.6666666666666666
+proposal of extension,0.5
+yuthok building,1.5
+statements of the witnesses,0.6666666666666666
+division bench of the high court,1.6825396825396826
+denzong cinema ltd gangtok,1.0
+no company,0.6666666666666666
+entries in the record,0.5
+cloth survey map,0.5
+own pleadings,0.5
+hereinbefore,2.159090909090909
+secretary,0.9217877094972067
+provision,5.439002243350069
+support,0.8630946786249609
+plan for construction,0.5
+high court in the judgment,0.75
+wall,0.8333770549143058
+gangtok for grant,0.5
+corporation engineer indicating,0.5
+principal reason,0.6666666666666666
+any right over the entire plot,0.5
+respect,2.6704963235294117
+plaintiffs,1.2549019607843137
+private estate,9.0
+business,2.8512056385864457
+other documents,0.619047619047619
+name of shri panch maharaj sir tashi namgyal,0.5
+premises,1.290983606557377
+fact,3.6284951019474962
+sarkar,0.8571428571428571
+transfer of property act,1.9166666666666667
+removal,0.7204301075268817
+owner,2.9502416709822197
+learned counsel,3.703333333333333
+tenants,0.8391608391608391
+recommendation of the secretary,0.0
+prince,0.18768844221105527
+estate,1.9402985074626868
+strong reliance,1.606060606060606
+site plan for addition,0.5
+lumpsum,1.25
+same building,0.2727272727272727
+department,1.9858367499068206
+building,3.870745432459903
+-- ex,0.0
+anr,1.1271033322299457
+historical material,0.2692307692307692
+following relief,1.1818181818181819
+chief,1.9429638234317954
+special,1.7363344051446945
+endorsement on the letter,0.5
+value on the question,0.5
+shop house,0.5
+thereto,1.0358342665173572
+latrine,0.2857142857142857
+presumption,1.06
+work of construction,0.6666666666666666
+permission for construction,0.5
+witnes,5.333906623599983
+disposal of the suit,1.1666666666666667
+owners,1.9409649385675758
+--- ex,0.0
+work,2.8478559811646353
+namgyal son,0.5
+godown,0.525
+recovery of possession,1.1666666666666667
+extent,1.410108024691358
+local investigation with reference,0.5
+total area of construction,0.5
+mr bhaskar gupta,0.6666666666666666
+proposal,1.8145800316957208
+years,2.5395804110508022
+hotel building,1.5
+successors,0.5333333333333333
+property act,1.7333333333333334
+report,1.7768151696835826
+palden,0.5
+principle,1.9620890732001848
+private estate land,0.5
+aforementioned principles,0.6666666666666666
+party,2.2250894654439723
+entry in the cash book,0.5
+circle,1.211299866386715
+amount to the private estate,0.5
+anything,0.9132309941520469
+nagar palika,0.6666666666666666
+permission for extension,0.5
+instant case,2.0631578947368423
+presumption arises,0.75
+such unauthorized construction of barbed wire fencing,0.5
+details,0.9406426856198188
+ownership of the plaintiffs,1.0
+barbed wire fencing,0.5
+settlement,1.6881394467601363
+chogyal sir tashi namgyal,1.5
+state of sikkim,3.5
+wall on the west,0.5
+maharaj,0.8
+request,1.1474439594584596
+revenue,1.486701237872198
+lands,1.3404179836160743
+local self government,2.0
+sikkim darbar in favour,0.5
+chairman,1.3592677345537758
+principles of law,1.0714285714285714
+approval,1.4085456739300164
+record of the case,1.0
+income,2.734813573523251
+exclusive passage to the plot,0.5
+property over which late chogyal,0.0
+decree,3.732408834103749
+division bench,3.965217391304348
+diversification of investment,0.5
+subject matter of acquisition,0.6666666666666666
+boundary between the land,0.5
+hotel building in accordance,0.5
+vapashi yuthok to the secretary,0.5
+decree by a judgment,0.5
+concurrence,0.7692307692307693
+reference,2.1755848210276256
+investigation thereof,0.5
+parcel,3.0625
+union of india,3.1324503311258276
+requisite steps for payment,0.5
+existence,0.731202675709574
+flyover,0.30000000000000004
+pointers,0.32825719120135366
+vest in the government,0.6666666666666666
+respondent,4.757894736842104
+encroachment on the boundary,0.5
+interest in plot nos,0.5
+flight of steps,0.5
+govt,0.7017766497461929
+edge,1.0883781551448468
+accordance,1.4069045211613462
+abstract principle,0.5
+day,1.550999710228919
+sale,3.3662581620085734
+records of the case,0.8571428571428571
+state of affairs,0.9015151515151515
+question,2.980312372067635
+principles,1.3198511166253102
+extension,0.7526908023483366
+step for payment,0.0
+records by the parties,0.5
+following allegation,0.5
+that view of the matter,1.553191489361702
+alteration,1.2619047619047619
+local self govt,0.5
+learned counsel in support,0.875
+whereupon reliance,0.5
+practice prevailing,0.6666666666666666
+structures of the plaintiffs,0.5
+scmanu,7.940520446096654
+rights counsel for the appellant,0.5
+domain,0.6316883116883117
+step,0.8867024753460084
+panch,6.911111111111111
+amount,3.179688593072295
+practice,1.7660110149488593
+latrines,0.30000000000000004
+regards correctness,0.5
+statement,2.5393160135035964
+entire plot,1.0
+investment,3.057915057915058
+lumpsum compensation rs,0.5
+documents-,0.0
+certain findings,0.8
+thereon,0.877037037037037
+plot,1.9177369203731243
+name,1.8996570753072433
+attention to certain findings,0.5
+government of sikkim,4.0
+cinema towards hotel business,0.5
+heading,2.130249543517955
+that construction of the cinema hall,0.5
+vest,2.5867992501903814
+entry,4.707210447678601
+acres,1.8522588522588521
+sikkim darbar,3.5
+high,5.367119186841496
+payment,2.059553716565686
+sic,1.1611481056257176
+serious error,0.6172839506172839
+gupta,0.7610062893081762
+event,1.4310854436179261
+custody,1.4166666666666667
+file,1.3720673638585223
+share in the defendant,0.0
+behalf of the appellants,1.46875
+behalf of the plaintiffs,1.0
+property,2.9368986630013745
+mutation proceedings,1.3333333333333333
+equity,1.3214285714285714
+adjacent south thereto,0.5
+additional site for extension,0.5
+mitra,1.2444444444444445
+chogyal sir tashi namgyal of sikkim,1.5
+suit,2.485274378207659
+other construction,2.5
+classified abstract,0.5
+defendant,3.7706855791962175
+purpose,2.519170317925504
+law,3.538923411654744
+constructions,0.6758620689655173
+trial court,3.854545454545455
+interference,0.5733527484528578
+nos,1.2635492554198444
+transfer of title,0.6666666666666666
+head,1.5827778446537666
+shri panch maharaj sir tashi namgyal,0.5
+assumption,0.47735650342285413
+anything in this constitution,0.5
+such records,0.75
+sketch of the site,0.5
+time,2.4764180952862667
+term of an agreement,0.0
+actual measurement on the spot,0.5
+practice prevailing in the state,0.5
+terms of an agreement,0.5
+division,1.7657319129617017
+plaintiff,2.177926421404682
+p- entries against different plot,0.0
+allegation,1.834319526627219
+hotel behind denzong cinema,0.5
+document of title,1.0
+others against the defendants-respondents herein,0.0
+self govt,0.5
+-- several letter,0.0
+plan,2.0162821688398056
+lrs,0.46643518518518523
+sum of rs,2.125
+previous possession,0.6666666666666666
+registered deed,0.6666666666666666
+boundary of the defendants land,0.5
+owner of a part,0.0
+complaint,2.734525785235724
+term of section,0.5
+f special provisions with respect,0.5
+cinema premise,0.5
+hall,3.9250655062698865
+grant,1.7314487632508835
+affairs,0.8608695652173913
+executive,1.3789130780232004
+successor,1.2925170068027212
+addition,1.5588539142412572
+right,3.07483248288682
+original plaintiff,1.0
+joint,1.0091324200913243
+otherwise,1.2549820889894419
+p- entry,0.0
+spot,0.778096903096903
+wanghuck,0.5
+running,1.4160059791608657
+march,1.0644238856181665
+decree under appeal,0.6666666666666666
+learned senior counsel,3.4615384615384617
+connection,1.050640279394645
+indian evidence act,1.3125
+merger with the union,0.5
+absence,1.092363454568179
+counsel,2.2246780703440323
+p- entries against different plots,0.0
+local investigation,0.5
+cinema premises,0.5
+feet,0.5815085158150851
+april,0.8928235149629509
+predecessor,0.9857142857142858
+title over plot,0.5
+india,2.7684068260703585
+authorities,1.266131845134287
+clear pointer to the fact,0.6666666666666666
+bhaskar,1.9673202614379082
+most of the documents,0.5
+witnesses,3.359210526315789
+regard to the fact,1.5862068965517242
+rough sketch,0.4444444444444444
+anomaly,0.47812499999999997
+exclusive passage,0.5
+d- to d-,0.0
+names,1.766440410418311
+view of the fact,0.8707482993197279
+new,0.9418497626301229
+defendants from construction,0.5
+steps for payment,0.5
+requisite step for payment,0.0
+shares in the defendant,0.5
+certain finding,0.8
+favour of the respondents,1.4
+floor,2.088735201031532
+sinha,0.8166351606805294
+nothing of the chairman,0.0
+son,4.595622484812135
+mention,1.6248742837095076
+bazar area,1.3333333333333333
+ltd,2.382356477306883
+letter from pw,0.5
+dispute,2.402137592137592
+as such records,0.5
+existence of the pucca building,0.5
+disposal,1.1180555555555556
+applicable to the state of sikkim,0.5
+submission,1.0913871684001404
+evidence,3.6676405172088815
+document,1.401100265092073
+cinema ltd  gangtok,0.0
+conditions,1.9988092071092867
+hotel in the extension,0.5
+sin,4.490498652012043
+certain property over which late chogyal,0.0
+reliance,1.400763358778626
+to the state of sikkim,1.0
+inasmuch as such record,0.5
+detail,0.9737454684220567
+circumstance of the case,0.5
+copy of the bp plan,0.5
+hotel under construction,0.5
+presumption of correctness,0.5
+case,7.332269420884958
+minister for local self government,0.5
+mr sanghi,1.75
+error,1.059158294766151
+acquisition of the suit land,0.5
+fencing,0.5714285714285714
+affair,0.8341728395061728
+chief secretary,1.6923076923076923
+adjacent land,0.5
+constitution,3.204842342342342
+letter,2.707240080105903
+dept,0.5600087844515208
+title over the suit land,1.0
+basi of various documents,0.0
+ram,2.11096203538064
+owner of the land,1.5
+diversification,0.5
+singh,3.7791111111111113
+conspectu,0.5
+purposes,1.4391216613438835
+furthermore,0.9849537037037037
+statements,1.110873440285205
+portion,1.0756311179804223
+passage to the plot,0.5
+finance department,2.0
+properties over which late chogyal,0.5
+structure of the plaintiffs,0.0
+back side block,0.5
+pucca,1.5
+self government,1.2000000000000002
+evidence that the entry,0.0
+contention,1.666391070690368
+different names,0.2727272727272727
+inter alia,1.3280423280423281
+record of right,2.6666666666666665
+advocate,1.0791341991341994
+nothing of eo,0.5
+proceedings,1.7670925223666287
+name of  sarkar,0.0
+favour,1.653145208700764
+formal permission,0.5
+chogyal of sikkim,1.0
+denzong cinema ltd,3.0
+construction of cinema hall,0.5
+client s land,0.0
+lump,0.5384615384615385
+requisite steps,0.75
+entry in the khasra,0.0
+recommendation,2.6589497459062676
+further work of construction,0.5
+supra,2.246342614440774
+that construction,1.2307692307692308
+constitution-,0.0
+comments,0.5982500911410864
+f special provision with respect,0.0
+bench,2.5793391667754992
+violation,1.2087401208740118
+other persons,0.6111111111111112
+civil appeal,2.2413793103448274
+bp building plan,0.5
+pointer to the fact,0.8571428571428571
+certain terms,0.7666666666666666
+properties,1.7286779414438989
+entry in the record,0.5
+respondents,2.6341263330598856
+entire property,1.0
+costs,0.8167395522604189
+annexed plan,0.5
+question of plaintiff,0.5
+presumption arise with regards,0.0
+aforementioned principle of law,0.0
+second,1.4990453300392075
+tourist,0.5904761904761905
+unauthorized construction of barbed wire fencing,0.5
+defendant no,4.222222222222222
+other document,0.6172839506172839
+respect of plot nos,1.0
+permanent injunction,1.5555555555555556
+cinema hall,1.0
+floors,1.4081632653061227
+letter of the counsel,0.5
+nayabazar,0.5
+notice,2.3300025999395686
+district judge,2.1684981684981683
+own pleading,0.5
+f special provision,0.5
+abstract,0.6571428571428571
+boundary,0.7236842105263159
+title thereupon,0.5
+location,0.8935109449248265
+encroachment into private estate,0.5
+structure,1.568520357497517
+mutation,0.5126760563380282
+management,1.6732611752395274
+godown for the use,0.5
+certain term,0.7666666666666666
+injunction,2.1512605042016806
+steps,1.169318181818182
+premise,1.2347417840375587
+private,1.3048022500781278
+back side block of cinema premises,0.5
+effect that the plaintiffs,0.6666666666666666
+officer of gmc,0.5
+plaintiff sin support,0.5
+eminent,0.5370879120879121
+erroneous conclusion that a  private estate,0.0
+evidence act,3.8666666666666667
+extent thereof,0.8
+title,1.74290600761189
+jude,0.20955882352941174
+personal properties,0.5
+anomalies,0.3589743589743589
+relation to the suit properties,0.5
+construction of a big pucca building,0.5
+evidentiary value on the question,0.5
+hotel on the land,0.5
+actual area,0.5
+basis of various documents,0.5
+letter from the executive officer,1.0
+reason,2.6381270903010035
+late chogyal,3.0
+various document,0.9333333333333332
+private passage,0.5
+conspectus of events,0.5
+nayabazar building,0.5
+circumstance of this case,0.0
+khatian,0.5
+survey,0.9775055679287304
+matter of acquisition,0.75
+question of title,2.0
+gully,0.8333333333333333
+presumption arise,0.75
+mutation entry,0.6666666666666666
+successor in interest,0.0
+construction,2.2504918032786887
+regards correctnes,0.5
+consideration,1.9110153789142115
+lieu of the bazar area,0.5
+present construction,1.0
+government of india,4.94
+aforementioned khasra,0.5
+land measuring,0.8
+settlement of piece,0.5
+pointer,0.40648379052369077
+territories,1.012
+commissioner,2.271608643457383
+value,1.7137907830478438
+india reads,0.6666666666666666
+son of late chogyal palden thondup namgyal,0.5
+documents,1.142515923566879
+shares,3.3129411764705883
+others,0.9074667328904616
+chogyal,4.5
+erroneous conclusion,0.5
+behalf of prince tg,0.5
+patil,0.85
+jagar,0.4800000000000001
+construction of the hotel building,0.5
+sita ram bhau patil,1.0
+sanghi,2.4
+intrinsic evidence in the record,0.5
+regards correctness of the entries,0.5
+part of plot,1.3333333333333333
+diwan of sikkim,0.5
+name of  shri panch maharaja sir tashi namgyal,0.0
+location of all other constructions,0.5
+court in civil appeal,1.1111111111111112
+clear pointers to the fact,0.5
+managing,1.4126463700234193
+palika,1.2
+successors in interest,1.0
+authority,2.4352627108360636
+judge,2.9012627415183325
+none of the entries,0.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+death,2.361592909460208
+municipality,1.96875
+appeal before the high court,1.1875
+exact location of all other constructions,0.5
+land in question,2.111111111111111
+sovereign state,0.5
+corporation,3.6427750743444176
+plaintiffs to the private estate,0.5
+nothings,0.25
+acquisition thereof,0.75
+of the document,0.6451612903225806
+lands in question,0.75
+kitchen,0.5454545454545454
+demur whatsoever,0.5
+dead,0.8845609936055091
+page of the note,0.5
+conclusion,1.3883437407077015
+oral evidence in this case,0.5
+encroachment,1.0106951871657754
+letter of pw,0.5
+behalf of respondent no,1.5
+client,2.2968505695778423
+different plots,0.5
+shop houses,0.5
+darbar,2.6666666666666665
+site,0.9890725980575135
+page,1.011907905159212
+pursuant,0.7227692307692308
+defendant from construction,0.0
+relevant time,1.008
+executive officer,1.0000000000000002
+encroached portion,0.5
+sqft,0.3333333333333333
+circumstances of the case,1.3373493975903614
+encroached land,0.5
+present construction of denzong cinema complex,1.0
+unauthorized construction,1.3333333333333333
+nothings of the chairman,0.5
+hand,2.0299623418254717
+mr mitra,1.0
+amount of compensation,3.375
+gangtok bazar,0.5
+cash,1.4775207900207898
+possession,2.808810857389056
+report of the corporation engineer,1.0
+busines,2.8488759960122034
+name of sir tashil namgyal,1.0
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+wire,0.7465648854961832
+expenditure,2.804307692307692
+exhibits,0.4733727810650888
+self government department,1.0
+person for the purposes,0.5
+local self government department,1.0
+area of the plots,0.5
+khasra,2.6666666666666665
+big pucca building,0.5
+entire properties,0.5
+construction of denzong cinema complex,1.0
+suggestion,1.2425592585991803
+revenue records,0.8
+regard to the subsequent events,0.5
+high court,7.7477477477477485
+acquisition of land,2.2839506172839505
+f special provisions,0.5
+owners of a part,0.5
+additional site,1.0
+block,0.7881443298969073
+denzong cinema towards hotel business,0.5
+appropriate authorities,0.5333333333333333
+state,6.817996007300392
+sanction,2.0167207792207793
+statute,2.5765859456247218
+strong reliance on nagar palika,0.5
+principle of law,1.1538461538461537
+note,1.3654108484234107
+death upon the appellants,0.5
+private road,0.5
+trial,3.7979448350459712
+nago,0.3333333333333333
+deed,1.3564447722662734
+manu,7.078142071124147
+self,1.6847516412733803
+share sin,0.6666666666666666
+june,0.9339080459770116
+purpose of the government,0.5
+real state of affairs,0.5
+government department,0.8
+much value,0.37037037037037035
+eastern boundary of the defendants land,0.5
+interference with the judgment,0.6666666666666666
+defendant nos,1.2
+circle officer,1.6
+nature,1.4149926876444778
+diwan,1.0
+thereupon,1.4857142857142858
+record of rights,2.6666666666666665
+respondent no,5.395833333333333
+alteration to the hotel building,0.5
+mr gl,0.8333333333333334
+certain plots,0.5
+foot,0.7144861347422464
+therefrom upon payment,0.5
+recommendations of the secretary,0.5
+asset,3.0300107181136124
+endorsement,0.8138461538461539
+sita,0.6331210191082801
+cost of the suit,0.75
+buildings,1.3041267942583734
+principal reasons,0.5
+various other persons,0.6666666666666666
+finance,1.9582470669427192
+opinion that the entry,0.5
+denzong cinema,7.0
+only document of title,0.5
+vapashi yuthok,0.5
+favour of the first respondent,0.8
+compensation,3.7916666666666665
+competent authorities,1.6363636363636365
+measure,1.1941357983816498
+wooden buildings,0.5
+sum,2.554898897856461
+delek,0.6666666666666666
+attention,0.8724846605528799
+instrument,1.493863846866317
+book,0.7435955668604651
+trial court in a case,0.5
+measures,1.126498218334953
+senior counsel,2.2857142857142856
+cinema towards hotel busines,0.5
+sanction of the chogyal,0.5
+cash book,0.3333333333333333
+certain property,0.5
+basis of the entries,0.5
+personal property,0.2619047619047619
+regards correctnes of the entries,0.0
+pointers to the fact,0.6666666666666666
+following reliefs,1.2
+persons,2.5993381990166555
+assets,2.6879084967320264
+mention of encroachment,0.5
+which defendant no,0.6666666666666666
+therefrom,0.673076923076923
+mewang,0.3333333333333333
+hotel from the appropriate authorities,0.5

@@ -1,0 +1,595 @@
+courts,2.1216528162511543
+pre,6.408342692122574
+deaths,0.43177752480078063
+imprisonment for a term,1.5
+of offences,1.1228070175438596
+code,2.880559796437659
+whoever,1.482116788321168
+definite period,0.75
+purpose of this sub - section  dowry,0.0
+idea of proximity test,0.5
+sections,1.640495469442838
+enquiry of rdo,0.5
+meaning,1.8612727545949643
+wilful conduct,1.25
+rdo,1.7130098841001455
+failure,0.7827962142086977
+circumstance of each case,0.0
+court,12.24425115501509
+normal circumstance,0.9523809523809523
+madras,2.836734693877551
+suicide,3.2060041407867494
+mental equilibrium of the woman,0.5
+statute by criminal law,0.0
+year of marriage,0.0
+person,4.291511329454258
+ors,2.8612718198296623
+such demand,1.0
+description,0.8190476190476191
+exp,3.534657952408237
+relative of the husband,0.8
+person to cruelty,0.6666666666666666
+respect of offences,0.75
+guilty of offences,0.6666666666666666
+parents ie,0.5
+scenario,0.4835164835164836
+proof of the essentials,0.5
+sessions,1.3405714285714285
+articles,1.4349688743466387
+meaning of  cruelty,0.0
+amplitude,0.9523809523809523
+aforesaid,2.592896174863388
+such person to cruelty,0.6666666666666666
+other person,0.9635036496350365
+period of operation,0.5
+test,2.5329834591340266
+house,2.0021735292386764
+connection with the demand,0.6666666666666666
+doubts,0.6666666666666666
+insertion,0.5564516129032258
+appeal,3.4125488033856883
+determination,1.5980374665477253
+ipc deal with abetment,0.0
+formula,1.9020570115902682
+good,2.6154941054299674
+sheet,1.1667364016736401
+years from the date,1.8518518518518519
+regard to common background,0.5
+harassment,1.5747368421052634
+related death,0.20833333333333334
+certain essential,0.5
+read,2.2147281730888695
+proximity test,1.0
+law reform,0.8333333333333334
+evidence in that regard,0.5
+chappel in a public street,0.5
+village,1.8429856945085372
+year,2.8349484769759212
+such husband,0.6666666666666666
+abetment,1.7142857142857142
+accidental death,0.3513513513513513
+judgment,3.288216560509554
+punishable under section,3.081081081081081
+theft,2.165094339622642
+criminal law,0.7859649122807018
+father,1.4298716229162676
+subject,2.4420366233344897
+parent of either party,0.0
+amplitude past events,0.5
+selfsame,0.5
+order,5.472481489660944
+common background,0.3333333333333333
+injury,1.7199352451433856
+imprisonment of either description,2.2
+act,12.870263922028107
+mother-in-law,0.0
+ingredients,0.7539893617021276
+explanation,1.4510159010600707
+accusations against the accused person,0.5
+such harassment,0.75
+yadla,0.6666666666666666
+idea,0.5945499587118084
+other party,0.8608695652173913
+accused persons,7.048780487804878
+effect,2.184583388478191
+public street,1.6666666666666667
+completion,1.1868131868131868
+explanation for the purpose,1.5384615384615385
+proof of the following essentials,0.5
+mother,1.5057341472881893
+parties,1.8210828547990157
+person commit,0.4571428571428572
+same meaning in section,0.5
+section,9.287987283173626
+time after the marriage,0.6666666666666666
+husband ashok kumar,0.5
+incident,1.8609485257918057
+condition,2.259476395625584
+consequence,0.8726692512593296
+counsel for the appellants,1.7258064516129032
+allegation that devasena,0.5
+circumstance,1.429931390219372
+proof of certain essentials,0.5
+burns,0.5440677966101696
+accused person at the time,0.0
+danger,0.8066378066378066
+mean,2.390645692553228
+investigation,1.6673076923076922
+regard,2.723310344827586
+live-link,0.0
+dowry death,3.888888888888889
+occurrence,2.1343873517786562
+nagapattinam,0.5
+law commission of india,1.0
+agreed,1.2590911606796922
+facts,1.4696673624372698
+parents,1.8852093189324288
+beat,0.8579450915141431
+back,1.1362801178713813
+purview,1.0864197530864197
+basi,2.0752712086391383
+form,2.4865961263718424
+equilibrium,0.375
+devasena,0.5
+that regard,0.5944055944055944
+home,0.9826663267907214
+strait,0.3442622950819672
+of the woman,1.0909090909090908
+suicidal death,1.0
+essential,1.137813781378138
+unlawful demand for any property,0.75
+session,2.2400874351067563
+muslim,0.8700225394440272
+application of section,1.4
+conviction,2.248165832071736
+basi of the statement,0.0
+ashok kumar,1.9090909090909092
+basis,1.953226441078104
+resumption of factual position,0.5
+arijit pasayat,0.9230769230769231
+synoptical resumption,0.5
+sub,7.816899313759727
+relative of husband,0.75
+events,0.6160483175150993
+false implication,0.6666666666666666
+charge,2.7679815308681284
+demand for any property,0.75
+concerned cruelty,0.5
+explanation- for the purposes,0.0
+implication,0.6615776081424936
+pradesh,4.365853658536586
+accusations under section,0.5
+presents,0.665973810018707
+officer,3.1197242647058823
+cruelty,2.9099099099099095
+law commission,2.4166666666666665
+amendment,2.2486412346818434
+in view,1.2566801619433199
+marriage,1.8031648351648353
+ravinder,1.0
+ground,1.4186722903211633
+applies,0.9353049100122315
+dowry prohibition act,2.2
+letters,2.0877496159754223
+jewel,0.7857142857142857
+impugned judgment,2.0927152317880795
+factual scenario,1.0
+proof,1.0648141580366008
+selfsame evidence,0.5
+essential ingredient,0.8769230769230769
+article,4.378806157159795
+menace,0.78
+criminal,3.301971081989414
+term,3.6255105640901575
+street,3.189100817438692
+appellants,7.701086956521739
+penal,1.8829173709853835
+death in question,0.5
+view,2.441100058469462
+indian,1.2604961505560306
+short dowry act,0.5
+provision read,0.8333333333333334
+presumption of law,0.5
+party to the marriage,3.0
+ingredient,1.2242798353909468
+ipc deals with abetment,0.5
+inquest,2.0454545454545454
+wife,1.4518086408500224
+accused - appellant,0.0
+penal code,2.710144927536232
+andhra,4.830188679245283
+ipc show,0.5
+limb,0.509338061465721
+assistant,1.6732837055417698
+witness,5.333906623599983
+connection with demand,0.5
+prema,1.3157894736842104
+rao,0.9220020325203252
+material,1.4148767018946966
+information,1.1320502836800534
+removal of doubts,1.375
+polouse,0.0
+provision,5.439002243350069
+link,0.6814600840336135
+dowry prohibition,2.4
+support,0.8630946786249609
+sovereign,0.6162162162162163
+suffice,0.5886850152905199
+respect,2.6704963235294117
+case of persons,0.6666666666666666
+death-,0.0
+importance,0.8632871064467765
+fact,3.6284951019474962
+removal,0.7204301075268817
+v yadla srinivasa rao,0.5
+expression,1.7424391201885312
+synoptical resumption of factual position,0.5
+ipc deals,1.0
+such explanation,0.6666666666666666
+torture,0.6886137118695258
+pasayat,1.0
+matrimonial home,2.1666666666666665
+anr,1.1271033322299457
+time of the marriage,1.0
+station,1.2515681586858238
+sovereigns,0.5294117647058824
+essentials,0.6111111111111112
+husband,1.6418918918918919
+same meaning,1.0476190476190477
+court in satvir singh,0.5
+respect of offence,1.0
+akula,0.5925925925925927
+kumar,2.028839704896043
+other witnesses,0.7
+presumption,1.06
+ipc deal,1.0
+demand,1.5671679197994988
+stand,1.8422769621739425
+purview of the  death,0.0
+demands,0.7474201474201474
+provision reads,0.8333333333333334
+relative term,0.30000000000000004
+support of the appeal,0.8888888888888888
+extent,1.410108024691358
+necessity,0.7072538860103627
+year from the date,1.5
+doubt,1.3646267723102583
+srinivasa,0.675
+impediment in the pre - existing law,0.0
+other witness,0.7222222222222222
+years,2.5395804110508022
+arijit,0.9230769230769231
+background of the aforesaid,0.6666666666666666
+report,1.7768151696835826
+punjab,1.0438169425511197
+short evidence act,0.5
+concerned death,0.5
+party,2.2250894654439723
+sovereign of jewels,0.0
+definition,1.6460425937698666
+upon facts,0.8571428571428571
+balance jewellery,0.5
+present with the idea of proximity test,0.5
+presumption arises,0.75
+question before the court,0.875
+exaggerations,0.2727272727272727
+accused - appellants,0.0
+such period,1.411764705882353
+case presumption,0.5
+enquiry,2.145762711864407
+amount to an offence,0.6666666666666666
+shariat,0.6666666666666666
+demand for dowry,2.5
+exaggeration,0.39024390243902446
+grave injury,1.0
+v state,2.4603773584905664
+date,6.195616975795285
+jacket,0.3988095238095238
+accusation,0.9540526587506452
+reference,2.1755848210276256
+existence,0.731202675709574
+offence,4.401610644257703
+accusations,0.8941176470588235
+further investigation,1.6363636363636362
+circumstances of each case,1.0833333333333333
+statutes by criminal law,0.5
+distinct offence,0.8
+question,2.980312372067635
+present appellant,1.3333333333333333
+year for the offence,0.0
+proof of an offence,0.5
+v state of punjab,1.4848484848484849
+party to a marriage,1.3333333333333333
+police station,1.40045766590389
+parents of either party,0.6666666666666666
+respective statute by criminal law,0.0
+accused persons at the time,0.5
+scmanu,7.940520446096654
+amounts,0.9789856139834046
+amount,3.179688593072295
+august,0.977116704805492
+statement,2.5393160135035964
+parent,0.9965655833245622
+explanation to section,1.5
+accused person,4.565217391304348
+conjoint reading of section,1.0
+necessity for insertion,0.5
+death of a woman,3.0
+basis of the statement,1.0
+high,5.367119186841496
+statement from the accused-appellants,0.0
+person commits,0.38095238095238093
+which cruelty,0.5
+account,2.5754891049671977
+ipc shows,0.5
+event,1.4310854436179261
+property,2.9368986630013745
+either party to the marriage,1.3333333333333333
+inadequacy of material,0.5
+interference,0.5733527484528578
+purpose,2.519170317925504
+balance,0.9863636363636363
+law,3.538923411654744
+trial court,3.854545454545455
+purpose of this section  cruelty,0.0
+time,2.4764180952862667
+factual position,1.3333333333333333
+present,1.9747480780089475
+allegation,1.834319526627219
+such person,0.9634888438133874
+related deaths,0.25
+culpability,1.1428571428571428
+account of failure,0.8333333333333334
+consequence of cruelty,0.0
+definition of  dowry death,0.0
+jewels,0.5
+state of andhra,3.52
+concerned woman,0.5
+stands,0.7032366540563262
+assistant in the office,0.6666666666666666
+conviction under section,1.5
+dowry demand,1.1666666666666667
+respective statute,0.5
+cash of rs,1.0
+sovereigns of jewels,1.0
+appellant kaliyaperumal,1.0
+such cruelty,2.6666666666666665
+hereinafter,0.7670609645131939
+prosecution,4.619407894736842
+on the court,0.9692307692307692
+prohibition,1.9087256027554533
+reform,0.6780894886363636
+spot,0.778096903096903
+with the idea of proximity test,0.5
+offences,1.6681887366818873
+connection,1.050640279394645
+imprisonment,1.4344262295081966
+indian evidence act,1.3125
+reads,0.8722657304887929
+ipc,2.785166240409207
+counsel,2.2246780703440323
+application,2.3322596088086445
+time of a marriage,0.6666666666666666
+other articles,0.7272727272727273
+india,2.7684068260703585
+danger to life,1.0
+commission,4.703619179345321
+witnesses,3.359210526315789
+reading,0.9004509191814082
+pradesh manuscmanusc,1.5714285714285714
+action with demand,0.5
+fixed period,1.1666666666666667
+respective statutes by criminal law,0.5
+unlawful demand,0.5
+chappel,0.2777777777777778
+interference with the sentences,0.5
+form of cash,0.75
+mental,2.7818434682524456
+equilibrium of the woman,0.5
+evidence,3.6676405172088815
+jewellery,1.5
+inevitable conclusion,0.3333333333333333
+respective statutes,0.5
+consequences,0.6659897713598075
+counsel for the state,1.3043478260869565
+wording in the presumptive section,0.5
+further question,0.5923076923076923
+victim,1.204831365285174
+valuable security,4.0
+inadmissible evidence,1.0
+three - judge bench,0.0
+relatives,0.8460264900662252
+mehr,0.30000000000000004
+case,7.332269420884958
+period,1.9480170842427122
+strait - jacket formula,0.0
+clothes,0.43778538812785384
+explanation about the meaning,0.5
+letter,2.707240080105903
+satvir singh,0.6666666666666666
+clothe,0.44423076923076926
+punishment,1.6266937669376693
+meaning in section,0.5
+dsp,0.39223057644110276
+singh,3.7791111111111113
+purposes,1.4391216613438835
+of offence,1.561904761904762
+true that cruelty,0.5
+evidence of pws,2.6363636363636362
+case under section,1.1111111111111112
+service,4.257395095954566
+burn,0.7334842304248335
+accusation under section,0.0
+therefore,2.960332350576253
+interval,0.3623188405797102
+normal circumstances,0.873015873015873
+second amendment,0.8309352517985612
+bench,2.5793391667754992
+harassment of the woman,0.75
+muthulakshmi,1.0
+years of marriage,1.2
+office,3.5913445886237847
+dowry death of a woman,1.0
+that cruelty,0.5
+fails,0.7341787106682944
+determination of the period,0.5
+section  dowry death,0.0
+second,1.4990453300392075
+amongst other,0.6521739130434783
+resumption,1.1057692307692308
+ornament,2.210526315789474
+conviction before the madras,0.5
+proximity,0.5887445887445887
+sentences,1.0513157894736844
+offence under section,2.6
+ashok,0.4374740340673037
+explanation-,0.0
+goods,4.7578125
+possession of goods,0.5
+short ipc,0.8333333333333334
+thief,0.19886363636363638
+personal law,2.6666666666666665
+section  cruelty,0.0
+such death,0.5714285714285714
+kaliyaperumal,1.5
+woman,1.316528681253696
+menace of dowry deaths,0.6666666666666666
+police,2.9749362629783356
+sentence,2.3896654193264366
+illustration,0.6900000000000001
+application because the prosecution,0.5
+charge sheet,2.0526315789473686
+definition of dowry,1.3333333333333333
+father-in-law,0.0
+evidence act,3.8666666666666667
+for the case at hand,0.5
+dowry deaths,1.0
+married woman,0.8888888888888888
+culpability under section,0.5
+essential ingredients,1.0
+under section,5.374517374517374
+ornaments,2.3
+reason,2.6381270903010035
+distinct offences,0.6666666666666666
+tortures,0.2142857142857143
+operation,1.0959893294085181
+deals,1.3395407335280751
+conclusion that the prosecution,1.0
+committed suicide,1.0222222222222221
+substantive,1.0930232558139534
+position,1.549133168619177
+presumption arise,0.75
+life,1.3352928273744242
+either description,2.2
+accusations against the accused persons,0.5
+presumptive section,1.5
+other article,0.6889952153110048
+response,0.7112676056338028
+inconsequential in view,0.5
+consideration,1.9110153789142115
+fail,1.3038982898019296
+further action,0.33333333333333337
+wording,0.5526315789473685
+presumption under section,1.2222222222222223
+of husband,0.4800000000000001
+amplitude past event,0.5
+thirteen witness,0.6666666666666666
+ground of exaggerations,0.5
+such woman,1.25
+others,0.9074667328904616
+with imprisonment for a term,1.2
+relative,1.0564311594202898
+apply,1.5478801169590641
+present appellants,1.1
+consequences of cruelty,0.5
+following essential,0.5
+mental equilibrium,0.5
+proximate,0.4701492537313433
+conjoint,1.1875
+legislature,2.818553268765133
+three - judge bench of this court,0.0
+satvir,0.6666666666666666
+judge,2.9012627415183325
+importance of a proximity test,0.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+death,2.361592909460208
+conjoint reading,1.1333333333333333
+substantive section,1.0
+conduct,1.5998023165163158
+case at hand,1.0617283950617284
+that charge,0.5
+physical of the woman,1.0
+pws,1.5484615384615386
+administrative officer,1.1666666666666667
+dowry,5.666666666666667
+consideration for the marriage,0.6666666666666666
+connection with any demand,2.3333333333333335
+incident of cruelty,0.6666666666666666
+p report,0.3333333333333333
+dowry act,0.5
+conclusion,1.3883437407077015
+inadequacy,0.7777777777777778
+dower,0.6666666666666666
+following essentials,0.5
+thirteen witnesses,0.6666666666666666
+relevant for the case at hand,0.5
+assistant sessions judge,0.6666666666666666
+security,1.5014864864864865
+meaning of this section,0.75
+k prema s rao,0.5
+background,0.6800452488687784
+subjects,0.9254185692541858
+completion of investigation,1.3
+indian penal code,5.264705882352941
+upon fact,0.8571428571428571
+impediment,0.5668016194331984
+hand,2.0299623418254717
+iii,1.5614499719992534
+means,1.3868295182781003
+statutes,0.9659824046920822
+cash,1.4775207900207898
+possession,2.808810857389056
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+either party,1.55
+madra,2.836734693877551
+certain essentials,0.5
+high court,7.7477477477477485
+daughter,1.0364906832298135
+punishable with imprisonment for a term,0.5
+state,6.817996007300392
+statute,2.5765859456247218
+commission of such suicide,0.6666666666666666
+presumption of dowry death,0.5
+trial,3.7979448350459712
+deal,2.1942302694273583
+pw-,0.0
+manu,7.078142071124147
+bodily injury,3.25
+other party to the marriage,0.6666666666666666
+ipc deals with dowry death,0.5
+years for the offence,0.6666666666666666
+airsc,1.6909090909090911
+ipc deal with dowry death,0.0
+man,6.972395052694935
+live-link between the effect,0.0
+nature,1.4149926876444778
+minimum punishment,0.5
+intimation,1.105263157894737
+health,0.8632619439868204
+possibility,0.7613466503601033
+connection with the marriage,0.6666666666666666
+such suicide,1.0
+common essential,0.5
+pre - existing law,0.0
+amounts to an offence,0.5
+administrative,1.85302734375
+action,3.127292663476874
+sub - section  dowry,0.0
+such explanation about the meaning,0.5
+existence of a proximate,0.5
+accused-appellant kaliyaperumal,0.0
+persons,2.5993381990166555
+amongst others,0.6666666666666666
+obligatory on the court,0.75

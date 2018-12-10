@@ -1,0 +1,940 @@
+specialist,2.126865671641791
+order of the high court,1.296875
+committee,2.546237803603864
+operational hazards,0.5
+terms of appointment,0.5
+agricultural advances work,1.0
+implementation,1.2465707594513213
+similar fitment as the generalist officers,0.5
+additional increments,4.5
+relevant fact in this regard,0.0
+cadre officer,2.5
+state bank of india act,2.4
+sources,0.8884345343723477
+rural assignment,0.5
+constitution of india,3.0095238095238095
+assistant engineer,4.428571428571429
+signature,1.1400966183574879
+board of the state bank,0.6666666666666666
+correctness of the decision,1.125
+officers of the bank,1.0
+responsibility,0.8659259259259259
+similar fitment as the generalist officer,0.5
+that the specialised officer,0.5
+risks,1.0984615384615384
+custom,1.8742070505069293
+bhartiya,2.25
+employee,6.280487804878048
+administrative authorities,1.4
+reasons,1.3749054007567938
+salary fitment on appointment,0.5
+repugnant to the subject,0.5
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+salary,1.6193181818181817
+petitioners from the date,0.5
+matters,1.4810665618448637
+hazard,0.9680851063829786
+other hand specialist officers,0.5
+rdo,1.7130098841001455
+same post,0.2857142857142857
+various categories,0.8
+writ petitioners  respondent,0.0
+class as rdos,0.5
+interest,2.74353772015385
+v pramod bhartiya,0.5
+top executive grade,0.5
+court,12.24425115501509
+qualitative difference,0.6857142857142857
+similar work on the basis,0.5
+management grade,4.333333333333333
+such from the staff,0.5
+provisions of this order,1.0
+- in scale i of the junior management grade,0.0
+judicial interference,1.0
+matter afresh,1.0
+catena of decisions,1.0833333333333333
+responsibility between general cadre officers,0.5
+central excise stenographer,0.5
+union,2.0981927710843373
+categorization of officers,0.5
+training,2.5456213222568365
+increment to the rdos,0.0
+non acceptance,0.6666666666666666
+single judge,4.011627906976744
+person,4.291511329454258
+ors,2.8612718198296623
+same duties,1.3333333333333333
+hand specialist officers,0.5
+fact that the rdos,0.5
+to the writ petitioner,1.2222222222222223
+correctness,0.8404159132007234
+behalf,1.9888053603529987
+bank that the duties,0.5
+same manner,0.6079182630906769
+different person,0.5384615384615384
+responsibility of the petitioners,0.0
+benefit of additional increments,3.0
+case of rdos,0.5
+same class as the generalist officer,0.5
+writ petitioner,4.482758620689655
+regard to the recommendations,0.5
+same to the writ petitioners,0.5
+executive grade,0.6666666666666666
+increment on appointment,0.0
+pillai,1.2222222222222223
+responsibilities of probationary officerstrainee officers,0.5
+category as generalist officer,0.5
+scale in public sector banks,0.0
+decisions,1.3888475974580996
+applicable to the extent,0.6666666666666666
+significant effect on the functioning,0.5
+various fields of banking,0.5
+decision,2.9514937765898557
+articles,1.4349688743466387
+bona fide,0.9259259259259259
+competent authority,2.7142857142857144
+responsibilities as the rdo,0.5
+aforesaid,2.592896174863388
+claim,2.817264601856604
+scales of pay,2.625
+test,2.5329834591340266
+house,2.0021735292386764
+staff,1.3233972834416785
+correctnes,0.8404159132007234
+doubt that the service,0.5
+distinction,0.7312167973690868
+appeal,3.4125488033856883
+determination,1.5980374665477253
+india officers,1.0
+with the duty,0.9523809523809524
+responsibilities as probationary officers,1.0
+grades for officers,0.5
+other conditions,0.8888888888888888
+scr,2.483838975311538
+rural development officers,1.0
+rural assignments,0.5
+judgment of administrative authorities,0.6666666666666666
+expert,2.5786336542870245
+advice,0.7581699346405227
+relevant facts,0.7692307692307692
+learned counsel for the respondents,1.394736842105263
+relevant facts in this regard,0.5
+same duty,0.0
+rural,1.961287078934138
+year,2.8349484769759212
+stage,1.1298537871524448
+operations,1.1793611793611793
+rational nexus,1.0
+advisor,0.7504702194357368
+specified nature,0.3333333333333333
+haryana v jasmer singh manuscmanusc,0.5
+of specialist officers,1.5
+such additional increments,0.5
+judgment,3.288216560509554
+category of specialist officers,0.5
+bank s agricultural advances work,0.0
+responsibility of the various categories,0.0
+time to time,1.0211267605633803
+copy of the aforesaid order,0.5
+subject,2.4420366233344897
+services,1.6850241065659326
+salary fitment,1.5
+crucial decisions,1.0
+order,5.472481489660944
+scale-i,0.0
+excise stenographer,0.5
+same class as rdos,0.5
+act,12.870263922028107
+sub-section,0.0
+intelligible differentia,1.75
+proces of selection,0.0
+may,3.683418028199994
+probationary officers  trainee officers,0.0
+respective field of specialization,0.5
+as assistant law officers,0.5
+clas,2.1196191893660425
+appointment,3.1380281690140843
+medical,1.633306645316253
+specified advisory role,0.5
+parity with generalist officers,0.5
+in-house advisor,0.0
+annexure h to the writ petition,0.5
+manner as the generalist officer,0.5
+parameters,0.8168253968253969
+liberty to the petitioner,0.5
+absorption in the generalist cadre,0.5
+comparable with the duties,0.5
+assistant law officer,3.5
+relevant fact,0.9393939393939393
+effect,2.184583388478191
+legal matter,0.3333333333333333
+parity in salary fitment,0.5
+copy,0.8620926631522174
+middle,0.4836233367451382
+varied training,0.5
+banking function,0.5
+risk since the decisions,0.5
+various field of banking,0.0
+employee of the bank,0.6666666666666666
+catena,0.5013888888888888
+manner,1.4494591333432125
+view that the decision,1.0
+different source,0.9529411764705883
+functioning,0.9337944664031622
+parties,1.8210828547990157
+writ appeal,2.2142857142857144
+differential fitment,0.5
+section,9.287987283173626
+specified nature of work,0.5
+recommendation in favour,0.5
+herein,2.825259515570934
+grade,2.004840489566613
+much significance,0.6666666666666666
+such benefit,1.5714285714285714
+banking busines,0.5
+appointmentpromotion,0.5
+other employees,1.0303030303030303
+conditions of service,2.235294117647059
+central board of the state bank,0.6666666666666666
+madhya,2.9183673469387754
+fitment of these officers,0.5
+such general cadre officers,0.5
+condition,2.259476395625584
+v ministerial karamchari sangh,0.5
+that the specialised officers,0.5
+from the staff,0.5
+trainee,2.7
+field of specialization,0.5
+crucial decision,1.0
+functions,1.326241134751773
+other employees of the bank,0.5
+civil,2.126558634963905
+officers,2.442124212421242
+mean,2.390645692553228
+v union of india,2.381818181818182
+pay - scale prescribed for the junior management grade,0.0
+confidentiality,0.873015873015873
+advance,1.2070333024745414
+increments on appointment,1.0
+regard,2.723310344827586
+difficulty,0.656910569105691
+instant appeals,1.0
+promotion,2.946428571428571
+classification with the generalist officers,0.5
+class,2.1508512849922936
+state of madhya pradesh,1.7142857142857142
+proces,1.627944583238701
+advertisements,0.5450733752620546
+reasons for the conclusion,0.5
+officers in the specialist cadre,0.5
+starting pay in the prescribed scale,0.5
+class as the generalist officers,0.5
+degree,0.6705786026200874
+advisors,0.2716049382716049
+probationary officerstrainee officers,1.0
+increment,1.4721485411140585
+length,0.6297872340425531
+recommendations,2.1638655462184877
+facts,1.4696673624372698
+ministerial,1.1111111111111112
+assumption that the rdos,0.5
+crucial decisions in banking operations,0.5
+decisions in regard,0.5
+regard to the nature,1.0
+different persons in different organizations,0.6666666666666666
+july,0.9742727723122656
+future recruitment,0.5
+of article,2.1149999999999998
+applicable to the officers of the junior management grade,0.5
+basi,2.0752712086391383
+same fitment,0.5
+officer of the junior management grade,0.0
+powers,1.876345371920593
+leave petition,2.013333333333333
+scale i of the junior management grade,0.5
+specialised fields,0.5
+parameter of judicial interference,0.0
+senior,1.989753211141579
+grades,0.6978609625668449
+talent,0.27220299884659743
+benefit,2.604810195438474
+petitioner,4.524972253052164
+cost,1.2954397451466992
+other officer in the specialist cadre,0.0
+inherent difficulties,0.6666666666666666
+basis,1.953226441078104
+probationary officerstrainee officer,1.0
+various field,0.8
+claim of officers,0.5
+hostile discrimination,1.3333333333333333
+scheme,3.415949119373777
+restructuring,0.40909090909090906
+annexure p-,0.0
+qualitative difference as regards reliability,0.6666666666666666
+sub,7.816899313759727
+nature of work etc,0.5
+course,1.6545957498716626
+advertisement,1.5480769230769234
+best talent,0.4444444444444444
+nature of duties,1.25
+regards work,0.5
+state bank,7.0
+state bank of india,6.4
+general banking cadre,0.5
+short rdos,0.5
+pradesh,4.365853658536586
+organizations,0.4779116465863454
+sub-paragraph,0.0
+officer,3.1197242647058823
+probationary officers  trainee officer,0.0
+security officer,1.0
+effect as a measure,0.5
+significant effect,0.25
+ground,1.4186722903211633
+arbitrary,1.1250346292363098
+assistant engineers,3.0
+rational nexus with the object,1.0
+- lighted that the probationary officers  trainee officers,0.0
+banking functions,0.5
+appropriate case,1.4074074074074074
+higher than the starting pay in the prescribed scale,0.5
+services of assistant law officers,0.5
+same class as rdo,0.5
+specialist officers,6.0
+onerous while the specialist officer,0.5
+function,1.6326372491145218
+impugned judgment,2.0927152317880795
+difference as regards work,0.5
+cadre officers from the management cadre,0.5
+pay difference between probationary officers,0.5
+to the duties,2.0
+bhatnagar committee,2.5
+liberty,0.7860465116279071
+context-,0.0
+field,1.5820968371729793
+matter,2.8088923076923082
+different conclusion,0.40384615384615385
+credit decision of the bank,0.0
+to the subject,0.9144385026737968
+reference to article,1.0909090909090908
+article,4.378806157159795
+mere volume,0.6666666666666666
+market,5.294198044198044
+engineer,3.318922187370092
+banking operation,1.75
+different persons,0.6666666666666666
+fitment of salary,0.6666666666666666
+- fide decision,0.0
+pillai committee,0.5
+term,3.6255105640901575
+same manner as the generalist officers,0.5
+state bank of india officers,1.0
+appellants,7.701086956521739
+stenographers,0.6666666666666666
+bank s top management,0.0
+categorization,0.7200000000000001
+hazards,0.48571428571428577
+view,2.441100058469462
+grade for officers,0.0
+post,2.344803646492219
+significance,0.6059966216216216
+to the officer of the junior management grade,0.0
+advice in the specialised fields,0.5
+regards reliability,0.6666666666666666
+mandamus,3.0
+parity,0.6888020833333334
+- bank,0.0
+probationary,4.800000000000001
+officers of the junior management grade,0.5
+that several reason,0.5
+specialists,0.3319672131147541
+basis of the report,0.8
+volume,0.5619176554909612
+various category,0.0
+parameters of judicial interference,0.5
+assumption that the rdo,0.5
+assistant,1.6732837055417698
+respective duty,0.0
+pay,3.828326695859537
+regard to the duties,1.0
+responsibilities of the rdos,1.5
+responsibilities of the rural development officers,0.5
+petitions,1.3930830039525692
+single judge upheld,0.5
+applicable under paragraph,0.5
+division bench of the high court,1.6825396825396826
+due course,1.0648148148148149
+future recruitment of rdos,0.5
+onerous while the specialist officers,0.5
+term of appointment,0.0
+credit decision,0.5
+provision,5.439002243350069
+such as assistant law officer,1.0
+parameter,0.7630669107179174
+bona,0.9015873015873015
+respect,2.6704963235294117
+business,2.8512056385864457
+parity with the generalist officers,0.5
+best render advice,0.5
+recruitment,5.333333333333333
+responsibilities as the rdos,0.5
+fact,3.6284951019474962
+removal,0.7204301075268817
+generalist officers,7.5
+learned counsel,3.703333333333333
+basi of all india test,0.0
+differential,0.9207207207207209
+learned judge,3.3692307692307693
+banking work,0.5
+intelligible criterion,0.6666666666666666
+technical officer,1.0
+consideration of the case,0.6666666666666666
+duties,1.477142857142857
+anr,1.1271033322299457
+scale-i in the junior management grade,0.0
+same organization,0.6666666666666666
+similar work,0.3333333333333333
+advance increments,1.6666666666666667
+view to man,0.5
+banking cadre,0.5
+special,1.7363344051446945
+technical persons,1.0
+same clas,0.8974358974358975
+operational work,0.6666666666666666
+object,1.4940119760479043
+utilized as in-house advisor on legal matters,0.0
+order of the bank,0.5
+development officer,1.2
+demand,1.5671679197994988
+annexure h,0.6666666666666666
+sector bank,5.333333333333333
+responsibilities of the writ petitioners,0.5
+bangalore,1.2
+work,2.8478559811646353
+top management,0.4444444444444444
+extent,1.410108024691358
+conditions of the appointment,0.6666666666666666
+scales in public sector banks,0.5
+case for removal,0.5
+promotion as trainee officers,0.5
+specialist cadre for grant,0.5
+specialist cadre,2.5
+pay - scale prescribed,0.0
+doubt,1.3646267723102583
+behalf of the bank,2.8
+light,0.8816192372754331
+bar,1.4720990391722097
+discrimination,0.8429118773946361
+cadre officers,2.5
+years,2.5395804110508022
+exercise,1.9400726466785694
+on-the-job in various fields of banking,0.0
+report,1.7768151696835826
+of specialist officer,1.5
+specialization,0.3333333333333333
+principle,1.9620890732001848
+different sources,0.9818181818181818
+party,2.2250894654439723
+anything,0.9132309941520469
+stenographer,1.0
+responsibility of the rdos,0.0
+bona-fide decision,0.0
+while the specialist officers,0.5
+respective duties,0.5
+fitment as the generalist officers,0.5
+posts,2.6556317082632876
+appropriate case for removal,0.5
+equal pay,3.4
+fitment as the generalist officer,0.5
+recruitment of assistant law officers,0.5
+high-lighted that the probationary officerstrainee officer,0.0
+judge upheld,0.30000000000000004
+grievance,1.032529659395331
+executive committee,1.0
+general cadre officer,2.5
+chairman,1.3592677345537758
+specialized field,0.5
+other employee of the bank,0.0
+of hostile discrimination,0.6666666666666666
+offices,0.6871508379888269
+generalist cadre,1.5
+division bench,3.965217391304348
+date,6.195616975795285
+bhatnagar,4.2
+september,0.8548484848484849
+benefit of advance increments,1.0
+such benefit on the basis,0.5
+reference,2.1755848210276256
+cadre officer from the management cadre,0.0
+specialist category,1.0
+afresh,0.6891891891891891
+senior management grade,0.5
+administration,1.061072796934866
+stages,0.7858851674641147
+difficulties,0.570873786407767
+case of the respondents,1.4285714285714286
+fields,0.9241650294695481
+bank,9.40770083102493
+respondent,4.757894736842104
+works,1.7935487434410384
+india officer,1.0
+manner as the generalist officers,0.5
+employees,4.611008798854102
+same posts,0.5
+cadre,2.7892948173322005
+talent from the market,0.5
+principles,1.3198511166253102
+administrative office,0.7619047619047619
+volume of work,0.8
+appellant bank,9.75
+effect on the functioning,0.5
+expert committee,3.3333333333333335
+responsibilities,1.1746031746031744
+question,2.980312372067635
+respondents herein,1.8333333333333333
+appellant bank that the duty,0.0
+banking operations,1.75
+appeal by special leave,1.04
+scmanu,7.940520446096654
+respective field,1.8
+benefit on the basis,0.5
+writ,2.8882378560889794
+crucial decision in banking operations,0.0
+appeals,1.7060218112849692
+- lighted that the probationary officers  trainee officer,0.0
+nature of operations,0.5
+amount,3.179688593072295
+february,0.8575630252100839
+work on the basis,0.5
+time of appointment,1.0
+valuable advice in the specialised fields,0.5
+few facts,0.4761904761904762
+employees of the bank,0.8
+decision in banking operations,0.0
+fact that the decision,0.75
+similar responsibilities as the rdos,0.5
+general cadre officers,2.5
+regard to the responsibilities,0.5
+staff by the bank,0.5
+additional increment,3.3333333333333335
+excise stenographers,0.5
+true that the specialised officers,0.5
+in-house advisors,0.0
+value judgment of the authorities,0.5
+utilized as in-house advisors on legal matters,0.0
+high,5.367119186841496
+customs,1.9344608879492597
+correctnes of the decision,0.0
+v union,1.5773809523809523
+inherent difficulty,0.0
+account,2.5754891049671977
+agricultural,3.5005050505050503
+generalist,9.5
+volition,0.5384615384615384
+nature of work,1.1666666666666667
+court by the state bank,0.5
+force,1.6009408121948314
+behalf of the appellants,1.46875
+additional increment to the rdos,0.0
+while the specialist officer,0.5
+appeals by special leave,1.0
+claim of the respondents,0.75
+classification,2.196286472148541
+valid distinction in the matter,0.5
+other officers in the specialist cadre,0.5
+interference,0.5733527484528578
+similar fitment,0.5
+assignments,0.5238095238095238
+law,3.538923411654744
+karnataka,3.8596491228070176
+mandatory rural assignments,0.5
+assumption,0.47735650342285413
+observation,0.7625074854374218
+time,2.4764180952862667
+india custom,0.5
+division,1.7657319129617017
+treatment,1.1351020408163266
+mandamu,3.0
+basis of all india test,0.5
+same benefit,1.2571428571428573
+specialist officer,6.0
+issuance,1.05379513633014
+persons in different organizations,0.6666666666666666
+board,2.401414435268602
+eligibility,1.1788856304985336
+under paragraph,1.222222222222222
+decision in regard,0.0
+violative of articles,1.5454545454545454
+same class,0.8974358974358975
+category as generalist officers,0.5
+pay difference,0.5
+responsibilities of the various categories,0.5
+grant,1.7314487632508835
+such value judgment,0.5
+executive,1.3789130780232004
+significance to the fact,0.5
+criterion,0.7104166666666666
+right,3.07483248288682
+hereinafter,0.7670609645131939
+that several reasons,0.5
+exercise of powers,0.6493506493506495
+condition of service,0.5
+to the bank,1.4603174603174602
+element of value judgment,0.5
+great assistance,0.5
+qualitative difference as regards work,0.5
+unreasonable arbitrary,1.0
+degree of responsibility,1.0
+advances,0.6333333333333333
+such risk,0.3333333333333333
+basi of the report,0.0
+to the duty,0.8333333333333334
+category officer,1.0
+clerical staff by the bank,0.5
+counsel,2.2246780703440323
+great assistance to the bank,0.5
+light of the observations,0.9
+similar responsibility,0.0
+april,0.8928235149629509
+stage of rs,1.0
+india,2.7684068260703585
+authorities,1.266131845134287
+increments,1.75
+rules,3.130914366958792
+top,1.051543552640638
+other specialist officers,1.0
+fact that the rdo,0.5
+behalf of the appellant bank,0.5
+law officer,1.3333333333333333
+anomaly,0.47812499999999997
+best talent from the market,0.5
+credit,2.9526050420168066
+operational hazard,0.5
+as assistant law officer,1.5
+pramod,1.4848484848484846
+principle of equal pay,1.5
+useful service,0.75
+to the extent,1.1357232031389335
+acceptance,1.4762112614578786
+sector,1.1724200913242009
+risk,1.2477718360071302
+special leave petitions,1.6296296296296295
+submissions,0.5235745614035088
+pay scales,4.0
+much significance to the fact,0.5
+writ petitioners,3.75
+to the generalist officers,1.0
+future controversy,0.5
+dispute,2.402137592137592
+provision of this order,0.0
+disposal,1.1180555555555556
+alse general cadre officers,0.0
+preferential treatment,1.0
+submission,1.0913871684001404
+trainee officers under the order,0.5
+special leave petition,2.013333333333333
+recruitment of rdos,1.0
+decision of this court,2.3260869565217392
+conditions,1.9988092071092867
+scale of pay,3.2
+differentiation,0.8615384615384616
+short rdo,0.5
+salary by grant of advance increments,0.5
+in-house advisor on legal matters,0.0
+excise,4.429175475687103
+service of officers,0.5
+acceptance of the respondents,0.5
+scale i,0.5647773279352226
+starting pay,2.5
+case,7.332269420884958
+difference,0.8774847235514982
+sector banks,5.4
+legal matters,0.4444444444444444
+decisions in banking operations,0.5
+annexure,2.7560975609756095
+reliability,0.6606110652353426
+anomaly in salary fitment,0.5
+general cadre officer from the management cadre,0.0
+value judgment of the bank,0.5
+degree of reliability,1.0
+basi of the recommendations,0.0
+constitution,3.204842342342342
+same manner as the generalist officer,0.5
+officers  trainee officer,0.0
+writ petitions,2.984848484848485
+fide,0.8955057484612704
+specialised field,0.5
+banking business,0.5
+own volition,1.0
+same fitment of salary,0.5
+india customs,0.5
+singh,3.7791111111111113
+rationalization,0.3636363636363636
+middle management grade,0.5
+india test,0.5
+quality,1.3318577075098814
+trainee officer,11.5
+different organizations,0.6666666666666666
+service,4.257395095954566
+bank that the duty,0.0
+element,0.7062328407033122
+shoulder,0.665948275862069
+responsibilities of the petitioners,0.5
+rule,5.04
+security officers,0.5
+central excise stenographers,0.5
+few fact,0.46296296296296297
+such risks,0.5
+favour,1.653145208700764
+respects,0.5585139318885449
+increments to the rdos,0.5
+generalist officer,7.5
+recommendation,2.6589497459062676
+development officers,1.0
+responsibilities as probationary officer,1.0
+medical officer,1.090909090909091
+grant of benefit,1.0
+duty,3.2272215973003378
+service of assistant law officers,0.0
+interview,1.56113727542299
+various fields,0.8
+bench,2.5793391667754992
+officer of the bank,0.5
+such conditions,0.6545454545454545
+certain terms,0.7666666666666666
+credit decisions,0.5
+general category officer,1.0
+open market,0.46052631578947373
+office,3.5913445886237847
+respondents,2.6341263330598856
+similar responsibilities,0.30000000000000004
+leave,1.0147842365477848
+costs,0.8167395522604189
+valuable advice,0.5
+general category officers,1.0
+work  risk,0.0
+assignment,0.6215753424657535
+than the starting pay in the prescribed scale,0.5
+court by order,1.1818181818181819
+burden,0.9853978671041838
+promotion as trainee officer,0.5
+officers  trainee officers,0.0
+process,1.6274942048088725
+different person in different organizations,0.0
+absorption,0.928888888888889
+rational nexu,1.0
+technical person,0.6000000000000001
+such differentiation,0.5
+law officers,1.25
+rdos,7.317391304347826
+category officers,1.0
+high-lighted that the probationary officerstrainee officers,0.0
+power,3.8165227690948367
+subject to such conditions,1.2
+management,1.6732611752395274
+certain term,0.7666666666666666
+fact in this regard,0.0
+mere volume of work,0.6666666666666666
+non acceptance of the respondents,0.5
+difference in the degree,0.5
+interest on the amount,1.4
+other hand specialist officer,0.5
+responsibility of probationary officerstrainee officers,0.0
+sangh,1.5151515151515154
+condition of the appointment,0.0
+basis of the recommendations,1.0
+communication,1.013409067330636
+officer in the specialist cadre,0.0
+reason,2.6381270903010035
+engineers,1.7887874837027378
+instant case,2.0631578947368423
+operation,1.0959893294085181
+responsibility of the rural development officers,0.0
+other condition of service,0.0
+scales,2.753521126760564
+render advice,0.5
+service of the bank,5.25
+advances work,1.0
+writ petition,6.24223602484472
+petition,5.3436539306104525
+category,1.9351744779266717
+junior management grade,3.6666666666666665
+comparable to the duties,1.5
+various assignments,0.5
+responsibility of the respondents,0.0
+true that the specialised officer,0.5
+writ in the nature,0.8
+federation,0.6243243243243244
+general cadre officers from the management cadre,0.5
+haryana,2.935064935064935
+consideration,1.9110153789142115
+karamchari,1.0
+such additional increment,0.5
+paragraph,1.2930197483150305
+trainee officer under the order,0.0
+probationary officer,7.333333333333333
+- in scale-i in the junior management grade,0.0
+incumbent,0.5797101449275363
+plea,1.4430487701432178
+value,1.7137907830478438
+trainee officers,9.0
+differentia,1.1614241272035948
+others,0.9074667328904616
+such categorization,0.5
+probationary officers,8.0
+to the officers of the junior management grade,0.5
+assistance to the bank,0.5
+equal work,2.8
+india act,3.5714285714285716
+recommendations of bhatnagar committee,0.5
+to the generalist officer,1.0
+recommendation of the bhatnagar committee,0.5
+such condition,0.6407322654462243
+authority,2.4352627108360636
+judge,2.9012627415183325
+appellant bank that the duties,0.5
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+writ petitioners  respondents,0.0
+clerical staff,0.5
+banking works,0.5
+work etc,0.3333333333333333
+fitment,1.8
+grievance of the writ petitioners,0.5
+organization of the bank,0.5
+advisory role,0.5
+selection,2.2651528696585017
+substance,0.8230581678857541
+public sector bank,5.333333333333333
+instant appeal,1.2857142857142858
+claim for parity,0.5
+development,2.3145884270578647
+aforesaid order,1.2857142857142858
+jasmer,0.6666666666666666
+discriminatory,1.1387559808612442
+from the communication,0.5
+responsibility of the writ petitioners,0.0
+conclusion,1.3883437407077015
+fields of banking,0.5
+special leave,1.903225806451613
+recommendation of bhatnagar committee,0.0
+probation,2.8636363636363633
+madhya pradesh,2.9583333333333335
+security,1.5014864864864865
+performance,1.4794327394994442
+valid distinction,0.5
+iilljsc,2.1666666666666665
+administrative authority,1.25
+matter of degree,0.2857142857142857
+process of selection,3.0
+appellant - bank,0.0
+other specialist officer,1.0
+assistance,0.8623872906826965
+additional increments to the rdos,0.5
+banks,6.73024
+leave petitions,1.6296296296296295
+hand,2.0299623418254717
+person in different organizations,0.0
+organization,1.1323094113464371
+specialised officer,0.6666666666666666
+valid differentiation,0.5
+measuring,0.5952380952380952
+sense,0.8606303395157362
+means,1.3868295182781003
+no doubt,0.8331331503088538
+class as the generalist officer,0.5
+distinction in the matter,0.5
+state of haryana v jasmer singh manuscmanusc,0.5
+job,0.6733466933867737
+busines,2.8488759960122034
+appellant,14.387096774193548
+other officer,0.9047619047619048
+value judgment,1.0588235294117647
+such as assistant law officers,0.5
+to the writ petitioners,0.8
+open to the bank,0.6666666666666666
+other condition,0.8627450980392157
+recognised,0.9030644152595372
+instant,1.131578947368421
+nexus with the object,2.0
+central board,1.5833333333333333
+federation of all india customs,0.5
+public sector banks,5.4
+determination of terms,0.5
+restructuring of grades,0.5
+prescribed scale,0.5
+high court,7.7477477477477485
+reason for the conclusion,0.0
+other employee,1.05
+other conditions of service,0.6666666666666666
+public,2.923239095873367
+specialised officers,0.6666666666666666
+state,6.817996007300392
+different organization,0.6666666666666666
+similar responsibilities as the rdo,0.5
+petitioner from the date,0.0
+technical,1.1097902097902097
+controversy,0.8593204191806921
+true of specialist officers,0.5
+pay scale,3.875
+class as rdo,0.5
+manu,7.078142071124147
+central,2.61875
+same class as the generalist officers,0.5
+guilty of hostile discrimination,0.5
+render,1.1768935701535619
+with the duties,0.6666666666666666
+other officers,0.6666666666666666
+work of the bank,0.5
+banking,2.1351674641148324
+measuring of responsibility,0.5
+plea of discrimination,2.3333333333333335
+role,1.0562959821210092
+grant of advance increments,0.5
+june,0.9339080459770116
+responsibilities of the respondents,1.0
+scale,2.0845464725643894
+single,1.6221488419098207
+advance increment,4.333333333333333
+differentiation in pay scales,0.5
+airsc,1.6909090909090911
+man,6.972395052694935
+recommendations of the bhatnagar committee,1.0
+state of up,2.0784313725490198
+right to equal pay,0.5
+nature,1.4149926876444778
+signature of the chairman,0.5
+assistant law officers,2.5
+copy of the decision,0.5
+post on appointment,0.5
+illjsc,3.25531914893617
+various assignment,0.5
+same benefit of additional increments,1.0
+facts in this regard,0.5
+plea of equal pay,0.5
+categories,0.8800000000000001
+admissible to the generalist officers,0.5
+petitioners,3.536507936507937
+operational workrisk,0.5
+sum,2.554898897856461
+junior,0.9861207494795279
+measure,1.1941357983816498
+observations,0.7454584147497534
+field of banking,0.0
+differential fitment of these officers,0.5
+applied,0.9299129638112688
+mandatory rural assignment,0.5
+source,0.840137091365362
+difference as regards reliability,0.6666666666666666
+management cadre,0.5
+rural development officer,1.3333333333333333
+recruitment of specialist officers,0.5
+hand specialist officer,0.5
+apparent from the communication,0.5
+of articles,0.5798319327731094
+persons,2.5993381990166555
+credit decisions of the bank,0.5
+nexus,0.8586538461538462
+in-house advisors on legal matters,0.0
+administrative offices,0.5

@@ -1,0 +1,702 @@
+review of the order,1.0
+apex,0.8555555555555555
+selection procedure,0.5
+candidate with notified minimum qualifications,0.0
+to a preliminary examination,0.5
+tribes,1.6409945421467553
+government,3.5583785424010483
+application in the context,0.5
+background fact,0.8571428571428571
+appointment of the appellants,0.5
+service commission rules,1.3333333333333333
+efficiency,0.8919469928644241
+vacancy,1.0666666666666667
+state of kerala,2.861111111111111
+reservation of appoints,0.5
+sources,0.8884345343723477
+castes,3.7222222222222223
+constitution of india,3.0095238095238095
+other hand,0.6931925622439332
+exact number,0.25
+mark,2.700508607198748
+reservation quota,1.0
+declare,1.52
+pursuant to such exercise,0.5
+operation of the principle,0.5
+appoints,0.5294117647058824
+more candidates,1.0
+separate group in accordance,0.0
+physical,0.8309147712341965
+fee,1.560669497024209
+interest,2.74353772015385
+court,12.24425115501509
+purpose of this rule,0.75
+petitioner in slp,1.3333333333333333
+staff of police,0.5
+open category vacancy,0.0
+separate ranked lists in the order,0.5
+training,2.5456213222568365
+administrative tribunal,3.8
+efficiency test,1.0
+ors,2.8612718198296623
+such classes,0.6666666666666666
+way,1.7812722068664852
+behalf,1.9888053603529987
+rules of reservation,0.6666666666666666
+searcher,0.18924302788844624
+favour of students,0.5
+procedure contemplate,0.6666666666666666
+defined expression rule,0.5
+litigation,1.4968553459119498
+suitable candidate,0.6000000000000001
+graduate police constable,0.5
+reserved category post,0.5
+reading of these judgments,0.5
+of the examination,2.111111111111111
+following examination,0.5
+services rules,0.6666666666666666
+number,1.4802651440973922
+from time to time,1.0142857142857142
+subject matter,1.2537313432835822
+decision,2.9514937765898557
+court in rk  sabharwal,0.0
+examinations,1.173913043478261
+examination proces,0.5
+articles,1.4349688743466387
+earlier judgments of this court chattar singh,0.5
+total,1.183527325379098
+aforesaid,2.592896174863388
+unsuccessful review petitioner,0.5
+to the preliminary examination,0.5
+seat,2.8245469748060423
+test,2.5329834591340266
+preliminary examination,3.25
+staff,1.3233972834416785
+good marks,0.25
+appeal,3.4125488033856883
+preparation,1.299145299145299
+other conditions,0.8888888888888888
+category vacancy,0.0
+learned counsel for the petitioners,1.3076923076923077
+limited number,0.3888888888888889
+original application,3.3333333333333335
+expert,2.5786336542870245
+qualified candidates,2.25
+basic premise,0.2777777777777778
+stage,1.1298537871524448
+backward class,3.8461538461538463
+such examination proces,0.5
+physical efficiency test,1.0
+none of these cases,1.3333333333333333
+chelameswar,0.8888888888888888
+judgment,3.288216560509554
+court on examination,0.5
+list of sufficient number,0.5
+time to time,1.0211267605633803
+open category post,2.5
+subject,2.4420366233344897
+services,1.6850241065659326
+to the rule,0.8156565656565656
+sharma,0.9516994633273703
+order,5.472481489660944
+ranked list in the order,0.0
+community,1.3158036677454152
+category post,2.5
+supplementary list,1.0
+for the purpose of this judgment,0.6666666666666666
+clas,2.1196191893660425
+appointment,3.1380281690140843
+rule of reservation,1.0
+supplementary list of sufficient number,0.5
+direct recruitment from a common ranked list,0.5
+category candidate,2.6
+violation of articles,0.6666666666666666
+annexure a,2.3333333333333335
+candidates,3.508445945945946
+minimum,1.388221153846154
+pursuant to a preliminary examination,0.5
+candidate for the examination,0.0
+list,4.014941314095513
+background fact of the instant litigation,0.0
+convenience,0.6501259072729966
+medical colleges,1.4285714285714286
+parties,1.8210828547990157
+various judgment,1.1818181818181819
+medical college,1.45748987854251
+none,0.8181718550217885
+post in question,1.6666666666666667
+baloji badhavath,1.0
+college,2.1498947162234954
+such class,0.8717948717948718
+condition,2.259476395625584
+judgments,1.2355646397547266
+educational institutions,1.2480000000000002
+trainee,2.7
+basis of the interview,0.5
+general principles,0.5735294117647058
+chance appearance in the rule,0.5
+circumstance,1.429931390219372
+officers,2.442124212421242
+above - mentioned original petitions,0.0
+syllabu,0.5714285714285714
+service commission rule,1.3333333333333333
+earlier judgment of this court chattar singh,0.0
+regard,2.723310344827586
+application of the above principle,0.5
+instant appeals,1.0
+finger,2.27670349907919
+separate ranked lists,0.5
+context,0.9269383697813122
+view of the large number,0.5
+class,2.1508512849922936
+notification that the vacancies,0.5
+proces,1.627944583238701
+shall-,0.0
+earlier judgment,1.8
+facts,1.4696673624372698
+ministerial,1.1111111111111112
+tentative conclusion,0.5
+rules of procedure,1.5555555555555556
+arrangement,0.7318181818181818
+relevant portion,0.6486486486486488
+purview,1.0864197530864197
+basi,2.0752712086391383
+applications from the qualified candidates,0.5
+leave petition,2.013333333333333
+lists,1.1177777777777778
+preparation of a shortlist,0.5
+jitendra,0.75
+tribunal on the ground,0.6666666666666666
+candidate,6.356675392670156
+posting,0.6671576453623115
+original petition ie,0.5
+candidates for the examination,2.0
+cost,1.2954397451466992
+petitioner,4.524972253052164
+prayers,0.6104336043360433
+certain number of posts,0.6666666666666666
+orders,1.4936359300077826
+common judgment,1.3636363636363635
+basis,1.953226441078104
+respective class,0.5
+original petitions,1.0
+following examinations,0.5
+scheme,3.415949119373777
+ministerial staff of police,0.5
+recruitment in question,0.5
+list of annexure a,1.0
+number of posts,1.2000000000000002
+sub,7.816899313759727
+caste,3.66454871293581
+groups in accordance,0.5
+relevance,0.6870535714285714
+applicants,0.6960950764006791
+posts in question,1.5
+aforesaid case,1.3529411764705883
+irrespective,0.7304347826086957
+approximate number,0.5
+groups,0.9065945998117897
+pradesh,4.365853658536586
+screening test,2.25
+notified minimum qualification,0.5
+more of the examinations,0.5
+officer,3.1197242647058823
+of the examinations,0.5
+ground,1.4186722903211633
+sabharwal,1.875
+state that the number,0.5
+public service commission rule,1.3333333333333333
+group in accordance,0.0
+concession,1.3748597081930416
+impugned judgment,2.0927152317880795
+cut-off mark with respect,0.0
+rk sabharwal,1.6
+matter,2.8088923076923082
+public service commission rule of procedure,0.0
+article,4.378806157159795
+yamul,0.5
+for open competition candidates,0.5
+market,5.294198044198044
+various judgments,1.1818181818181819
+appointment against open category posts,0.5
+court in slp,1.25
+various reserved category,0.5
+applications,1.0021816198527407
+appellants,7.701086956521739
+irresistible that a student,0.5
+view,2.441100058469462
+post,2.344803646492219
+basis of a common test,0.5
+background facts of the instant litigation,0.5
+such supplementary lists,0.5
+opinion,1.4960606342789635
+invite applications,0.6666666666666666
+vacancies,7.473684210526316
+relief,1.4748116760828625
+scheduled caste,3.875
+merit,1.2419290263876248
+andhra,4.830188679245283
+announce,1.2691699604743083
+statutory basis,1.0
+background facts,0.8333333333333334
+mark in the rule,0.0
+various reserved categories,1.5
+arrangement for the conduct,0.0
+reserved category,2.5
+sake,0.5262975778546712
+appellant in slp,0.0
+unsuccessful petitioner,0.5
+purpose of observance,0.0
+backward,1.866666666666667
+information,1.1320502836800534
+procedure,2.552771605064117
+inclusion,0.9738480697384807
+such reserved post,0.5
+petitions,1.3930830039525692
+polouse,0.0
+favour of the respective class,0.5
+s rule,0.9387116948092558
+fingerprint expert,2.0
+communities,0.5181347150259067
+duddilla srinivasa sharma,0.5
+fingerprint searchers,0.5
+ranked lists in the order,0.5
+recognized,0.9220632530120484
+apex court,1.375
+application of the above-mentioned principle,0.0
+selections,0.6289308176100629
+respect,2.6704963235294117
+that a student,0.6666666666666666
+recruitment,5.333333333333333
+large number,1.0979284369114877
+fact,3.6284951019474962
+court chattar singh,0.5
+sufficient number,0.5
+learned counsel,3.703333333333333
+basi of the interview,0.0
+merit of candidates,1.0
+expression,1.7424391201885312
+defined expression,1.0
+department,1.9858367499068206
+anr,1.1271033322299457
+manu  scmanu  sc,0.0
+fingerprint,2.8416666666666663
+candidates as the commission,0.5
+such exercise,0.8571428571428571
+separate ranked list in the order,0.0
+kumar,2.028839704896043
+unsuccessful petitioners,0.5
+supplementary lists,0.5
+that behalf,1.3548387096774193
+earlier judgments,1.2
+commission for recruitment,0.5
+selection in question,0.5
+separate group,0.3333333333333333
+extent,1.410108024691358
+times,0.8987140267391797
+qualifications,1.0714285714285714
+set of rules,0.5743243243243242
+final ranking,1.0
+srinivasa,0.675
+public service commission,3.7857142857142856
+bureau,0.5022321428571429
+exercise,1.9400726466785694
+review petitioners,0.5
+punjab,1.0438169425511197
+sake of convenience,1.1
+backward classes,2.8
+cut - off marks,0.0
+principle,1.9620890732001848
+chrysolite manuscmanusc,0.5
+quota,2.2173531989482913
+appellants belongs,0.5
+unmanageably large number,0.5
+party,2.2250894654439723
+similar petitions,0.6666666666666666
+review,1.3564101463582128
+virtue,0.9167557066537153
+sub-inspector,0.0
+posts in the service,0.6666666666666666
+various original application,0.5
+other test,0.75
+anything,0.9132309941520469
+badhavath,1.0
+open competition candidate,0.5
+details,0.9406426856198188
+law on the ground,0.75
+posts,2.6556317082632876
+competition candidate,0.6666666666666666
+exercise of the power,1.525
+recruitment to a service,1.0
+category posts,2.5
+favour of the scheduled caste,0.5
+chance appearance,0.5
+number of candidates,1.75
+finger print bureau,0.5
+subordinate services rule,0.5
+other backward classes,1.5714285714285714
+service commission,5.142857142857143
+open category posts,2.5
+searchers,0.18983957219251338
+such preliminary examination,0.5
+v state,2.4603773584905664
+appellants belong,0.5
+corresponding rank,0.5
+category vacancies,0.5
+examination for the candidates,0.5
+uttar pradesh,2.8
+jasti chelameswar,0.8888888888888888
+existence,0.731202675709574
+colleges,1.9166666666666667
+merit of such number,0.5
+respondent,4.757894736842104
+subordinate,1.43
+favour of candidates,0.6666666666666666
+institution,2.7327010745685443
+v state of uttar pradesh,1.375
+accordance,1.4069045211613462
+inspector,1.2705882352941176
+kerala s,2.25
+thousand,0.625287081339713
+head constables,1.3333333333333333
+syllabus,1.0
+principles,1.3198511166253102
+question,2.980312372067635
+post in the service,0.5
+that behalf by the service commission,0.5
+exact number of vacancies,0.5
+v state of punjab,1.4848484848484849
+petition ie,0.6666666666666666
+marks in the preliminary examination,1.5
+subordinate services rules,0.5
+vigilance department,0.6666666666666666
+fingerprint searcher of the finger print bureau,0.0
+impact,1.0957789249924081
+main list of annexure a,1.0
+scmanu,7.940520446096654
+officer of the corresponding rank,0.0
+writ,2.8882378560889794
+jitendra kumar singh,0.5
+appeals,1.7060218112849692
+such reserved posts,0.5
+more of the following examinations,0.5
+marks above the cut-off marks,0.0
+supreme court,1.4278957326045825
+response to the notification,0.6666666666666666
+rajasthan,3.9215686274509802
+legal authority,0.38095238095238093
+open category vacancies,0.5
+fees,0.9865534324133051
+kerala state,1.6666666666666667
+high,5.367119186841496
+graduate,2.968643655809431
+portion of the rule,0.6666666666666666
+appointments,1.2888888888888888
+principle that a relaxation,0.5
+other backward class,1.5714285714285714
+notification,3.0112746633260263
+prayer,0.6969296987087519
+separate groups in accordance,0.5
+proviso,2.112
+service commission rules of procedure,1.0
+ranked lists,0.5
+constable,1.0606060606060606
+competition candidates,0.6666666666666666
+purpose,2.519170317925504
+law,3.538923411654744
+nos,1.2635492554198444
+limited number of posts,0.5
+head,1.5827778446537666
+time,2.4764180952862667
+cases,1.9728229418951067
+educational institution,1.6904176904176904
+good mark in the rule,0.0
+above principle,0.7619047619047619
+group,1.691932599016908
+separate groups,0.3333333333333333
+reserved category posts,0.5
+original,1.332190013153732
+various reserved classes,0.5
+commission shall-,0.0
+content,1.5450574489970066
+successful candidate,1.6666666666666667
+approximate number of vacancies,0.5
+ranked list,2.5
+instant litigation,0.5
+context of admissions,0.5
+candidates with notified minimum qualifications,0.5
+oral test,0.7999999999999999
+competition,0.9867647058823531
+original applications,2.0
+court of kerala,1.0833333333333333
+candidates for the rule,0.5
+such supplementary list,0.5
+performance of the appellants,1.0
+admissions,0.8529980657640233
+right,3.07483248288682
+reserved classes,0.6666666666666666
+hereinafter,0.7670609645131939
+legal position,0.7659574468085106
+court in the aforesaid cases,0.6666666666666666
+contesting respondent,1.0
+ritesh,0.3329292929292929
+pradesh public service commission,1.6666666666666667
+arrangements for the conduct,0.5
+counsel,2.2246780703440323
+application,2.3322596088086445
+decision of the service commission,0.5
+other similar petitions,0.5
+india,2.7684068260703585
+view of the legal position,0.5
+appearance,0.531740614334471
+commission,4.703619179345321
+reserved categories,2.25
+regard to the fact,1.5862068965517242
+rules,3.130914366958792
+top,1.051543552640638
+reading,0.9004509191814082
+duddilla,0.5
+services rule,0.8
+conditions of admission,1.0
+cut-off mark,0.0
+purposes of observance,0.5
+invite application,0.6666666666666666
+special leave petitions,1.6296296296296295
+marks in selection procedure,0.5
+impact on the final ranking,0.5
+respective clas,0.5
+other similar petition,0.5
+candidate for the rule,0.0
+dispute,2.402137592137592
+mark above the cut-off marks,0.0
+submission,1.0913871684001404
+special leave petition,2.013333333333333
+conditions,1.9988092071092867
+category candidates,2.25
+meritorious candidates,1.0
+group of communities,0.5
+open competition candidates,0.5
+students,1.1355891528677706
+detail,0.9737454684220567
+vigilance,0.75
+notified minimum qualifications,0.5
+necessary from time to time,0.5
+case,7.332269420884958
+service commission rule of procedure,0.0
+order in original petition ie,0.5
+such number,1.6
+annexure,2.7560975609756095
+scc,1.941872465904902
+institutions,2.2839413875598087
+necessary for the purpose of this judgment,0.5
+matter of dispute,0.8571428571428572
+constitution,3.204842342342342
+fingerprint searchers of the finger print bureau,0.5
+rules of procedure contemplate,0.5
+writ petitions,2.984848484848485
+examination wherever an unmanageably large number,0.5
+singh,3.7791111111111113
+review petition,2.72
+purposes,1.4391216613438835
+more candidate,1.0
+pursuant to the rule,0.5
+notification that the vacancy,0.0
+service,4.257395095954566
+portion,1.0756311179804223
+government of kerala,4.833333333333333
+for open competition candidate,0.5
+open category,2.0
+rule,5.04
+proceedings,1.7670925223666287
+favour,1.653145208700764
+appoint,4.409948415622697
+the service commission,9.0
+common test,0.5
+basis of merit,1.5
+supra,2.246342614440774
+public service commission rules,1.3333333333333333
+sah,0.7972845460264206
+interview,1.56113727542299
+violation,1.2087401208740118
+open market,0.46052631578947373
+respondents,2.6341263330598856
+statutory basi,1.0
+leave,1.0147842365477848
+reserved posts,1.0
+meritorious candidate,1.0
+of the following examination,0.5
+applicant,0.7861822513400833
+costs,0.8167395522604189
+contesting respondents,1.0
+judgment of this court chattar singh,0.0
+slp,1.291953447628582
+mark in the preliminary examination,0.0
+of the following examinations,0.5
+merits of candidates,0.5
+tribe,2.294908466819222
+process,1.6274942048088725
+reserved post,1.0
+rule of procedure,1.0
+defined expression under rule,0.5
+admission,1.5389848246991107
+reserved class,0.75
+sufficient number of candidates,0.5
+such examination process,0.5
+above - mentioned original petition,0.0
+the kerala,2.8421052631578947
+certain orders,0.5
+power,3.8165227690948367
+judgments of this court chattar singh,0.5
+various reserved class,0.5
+merits,0.968421052631579
+apex court in the judgments,0.5
+police,2.9749362629783356
+premise,1.2347417840375587
+opinion that the impugned judgment,0.8
+public service commission rules of procedure,1.0
+facts of these cases,0.6666666666666666
+available for open competition candidates,0.5
+examination,2.4920345926263088
+condition of admission,0.0
+preliminary screening test,1.5
+obc,0.31831187410586553
+preliminary examination wherever an unmanageably large number,0.5
+v v chrysolite manuscmanusc,0.5
+print,1.119131334022751
+syllabu of the examination,0.0
+subsequent to the preliminary examination,0.5
+mark in selection procedure,0.0
+high court of kerala,1.0833333333333333
+seats,4.349544072948328
+graduate police constables,0.5
+reservation,2.6876587100050786
+rule of procedure contemplate,0.0
+set,2.3027452395971277
+operation,1.0959893294085181
+appointment against open category post,0.5
+main list,0.5
+position,1.549133168619177
+irrespective of the content,0.5
+following information,0.3418803418803419
+common ranked list,0.5
+writ petition,6.24223602484472
+petition,5.3436539306104525
+category,1.9351744779266717
+existence of a legal authority,0.5
+preliminary stage,1.0
+constables,2.0
+response,0.7112676056338028
+cut-off marks with respect,0.0
+chattar,0.5
+original petition,1.7142857142857142
+fingerprint experts,0.5
+above - mentioned principle,0.0
+arrangements,0.6399535423925667
+cut,3.1207863829787237
+good marks in the rule,0.5
+third proviso,1.25
+v state of rajasthan,1.12
+basi of merit,0.0
+top of the list,0.25
+aforesaid cases,0.8333333333333334
+various original applications,0.5
+basi of a common test,0.0
+student,1.2777711454664835
+way of writ petition,0.75
+authority,2.4352627108360636
+list of candidates,1.25
+manuscmanusc,7.940520446096654
+subject matter of dispute,0.8
+observance,0.6967741935483871
+fingerprint searcher,0.5
+conduct,1.5998023165163158
+selection,2.2651528696585017
+substance,0.8230581678857541
+instant appeal,1.2857142857142858
+unsuccessful review petitioners,0.5
+conclusion,1.3883437407077015
+suitable candidates,0.6000000000000001
+shortlist,1.6
+purpose of this judgment,0.6666666666666666
+accordance with certain orders,0.5
+jasti,0.8888888888888888
+performance,1.4794327394994442
+pursuant,0.7227692307692308
+experts,2.4829710144927537
+background,0.6800452488687784
+general principle,0.625
+subjects,0.9254185692541858
+order of merit,4.6
+number of vacancies,1.75
+marks,1.4136144754122284
+examination process,0.5
+leave petitions,1.6296296296296295
+hand,2.0299623418254717
+above - mentioned judgment,0.0
+iii,1.5614499719992534
+occasion,0.7946745562130177
+favour of the candidates,0.5
+qualification,2.1521739130434785
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+relaxation,0.8571428571428572
+certain order,0.6666666666666666
+qualified candidate,1.5600000000000003
+uttar,2.188679245283019
+other condition,0.8627450980392157
+view of the tribunal,1.0
+supreme,1.443815331010453
+successful candidates,1.0
+instant,1.131578947368421
+kat,0.8076892430278885
+syllabus of the examination,1.0
+ritesh r sah v dr yl,0.5
+head constable,1.3333333333333333
+screening,1.3125
+kerala,4.135593220338983
+high court,7.7477477477477485
+separate ranked list,0.5
+public,2.923239095873367
+state,6.817996007300392
+chance,0.7937084625609215
+classes,1.212856534695615
+note,1.3654108484234107
+declare that the inclusion,0.5
+police department,0.339622641509434
+baloji,1.0
+merit of the candidate,1.0
+manu,7.078142071124147
+chrysolite,0.5
+appointment to the posts,0.8
+ranking,0.7657657657657657
+fora,0.9542743538767396
+recruitment from a common ranked list,0.5
+ministerial staff,0.6666666666666666
+cut-off marks,0.0
+officers of the corresponding rank,0.5
+marks in the rule,0.5
+application from the qualified candidates,0.0
+to such exercise,0.5
+review petitioner,0.5
+appellants in slp,0.5
+fact of these cases,0.0
+practical test,1.5
+categories,0.8800000000000001
+list in the order,0.5
+tribunal,5.07183212267958
+direct recruitment,4.0
+examination by virtue,0.0
+petitioners,3.536507936507937
+similar petition,0.6666666666666666
+relevant portion of the rule,0.5
+above - mentioned judgments,0.0
+administrative,1.85302734375
+source,0.840137091365362
+petitioner in original petition,0.5
+s rules,0.7297297297297298
+fit,2.7848485899724365
+examinations by virtue,0.5
+good mark,0.25
+certain number,0.4571428571428572
+rank,0.6723585912486659
+purview of the rule,0.6666666666666666

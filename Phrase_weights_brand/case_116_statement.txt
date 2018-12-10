@@ -1,0 +1,335 @@
+care,0.8846948234137723
+witness by the prosecution,0.5
+medical condition of the petitioner,0.5
+several witnesses,0.37333333333333335
+surgical management,0.5
+appropriate routine medical management,0.5
+petitioner s counsel,0.0
+investigation by the medical board,0.0
+disc disease,1.5
+hyperplasia,1.5
+khurshid,1.6666666666666667
+petitioner,4.524972253052164
+director,1.3549769585253457
+session,2.2400874351067563
+vikas singh,2.6666666666666665
+code,2.880559796437659
+basis,1.953226441078104
+step,0.8867024753460084
+children,1.3787369914853358
+need,1.1097650269586634
+cross examination,1.7272727272727273
+different specialities,0.6666666666666666
+ai-im,0.0
+surgery,0.648582995951417
+research centre,0.24137931034482762
+institute,0.9140980436760691
+management,1.6732611752395274
+merits,0.968421052631579
+application for enlargement,1.0
+steps,1.169318181818182
+material witness,0.9047619047619048
+doctors,2.018642703862661
+course,1.6545957498716626
+behalf of the respondent,1.453125
+intervention at this stage,0.5
+sections,1.640495469442838
+fresh application for grant,0.5
+terms,2.390350840909655
+surgery for which purpose,0.5
+as withdrawn till such time,0.5
+examination,2.4920345926263088
+such step,0.8333333333333334
+charge,2.7679815308681284
+vikas,1.0208333333333333
+neuralgia,0.6666666666666666
+earlier application,0.75
+high,5.367119186841496
+juvenile,6.343915343915343
+under section,5.374517374517374
+recording of the material witnesses,0.5
+country,1.2903191103863751
+condition of the petitioner,0.5
+effort,0.7536036036036036
+withdrawn,0.7887667887667889
+reason,2.6381270903010035
+several witness for the prosecution,0.0
+court,12.24425115501509
+blood,1.1739965841161402
+goodwill,3.4320000000000004
+such dates,0.8
+material witnesses,0.9600000000000002
+speciality,0.9
+premier,0.5986394557823128
+of course at the risk,0.5
+witness for the prosecution,0.5
+life,1.3352928273744242
+such steps,0.8571428571428572
+charges,2.061307113938693
+noida,1.3333333333333333
+enlargement,0.6060606060606061
+ground,1.4186722903211633
+one,4.845669314438648
+learned,3.406323898681099
+child,3.0202810640613067
+blood investigation reports,0.5
+petition,5.3436539306104525
+witnesses for the prosecution,0.5
+prayer,0.6969296987087519
+different speciality,0.0
+person,4.291511329454258
+benign hyperplasia,1.5
+objection,1.68120480131216
+opd basi,1.0
+purpose,2.519170317925504
+trial court,3.854545454545455
+bail,2.0427807486631013
+correctness,0.8404159132007234
+behalf,1.9888053603529987
+intervention,0.6975694444444444
+cros,1.8137948361162648
+nos,1.2635492554198444
+observation,0.7625074854374218
+arogayadham,0.5
+part,5.294464509893076
+trial of the petitioner,0.5
+recording,1.3265454545454545
+time,2.4764180952862667
+matter,2.8088923076923082
+vika,0.7259259259259259
+treatment,1.1351020408163266
+jail,0.7548476454293629
+cross,2.0778316690442225
+hospital,1.3942768854411434
+sexual offences act,0.5
+present,1.9747480780089475
+nothing,0.8658723322806009
+doctor from different specialities,0.0
+common ground,0.5454545454545454
+punishable under sections,1.6153846153846154
+medical management,1.0
+earlier application for bail,0.5
+plea,1.4430487701432178
+ai-ims,0.0
+incident in question,1.3
+term,3.6255105640901575
+comprising,0.6166666666666667
+good as withdrawn till such time,0.5
+doctors from different specialities,0.5
+disease,0.6741573033707865
+witnesses as material witnesses,0.5
+sessions,1.3405714285714285
+penal,1.8829173709853835
+surgical intervention at this stage,0.5
+immediate surgery,0.5
+third witness,0.5
+post,2.344803646492219
+disc disease of the lumbar spine,1.5
+view,2.441100058469462
+none of the above,0.2631578947368421
+opinion,1.4960606342789635
+reports,1.0202012199952466
+lumbar spine with hypothyroidism,1.0
+witness in terms,0.0
+serious objection,0.6666666666666666
+maheep,0.5
+doctor,1.4782608695652173
+spine,0.608695652173913
+total,1.183527325379098
+opd,0.5639097744360902
+penal code,2.710144927536232
+such date,1.1818181818181819
+merit,1.2419290263876248
+witnesses by the prosecution,0.6666666666666666
+witnesses in terms,0.5
+present condition,0.5
+opd basis,1.0
+grant,1.7314487632508835
+medical papers,1.0
+correctnes,0.8404159132007234
+chawla,1.3333333333333333
+institute of the country,0.5
+witness,5.333906623599983
+neuralgia with degenerative disc disease,0.5
+to the medical board,0.5
+prosecution,4.619407894736842
+application for bail,1.0
+expert from the premier,0.0
+judge,2.9012627415183325
+evaluation,0.7358156028368795
+material,1.4148767018946966
+medical board,1.75
+salman,0.46153846153846145
+sessions judge,2.9545454545454546
+offences,1.6681887366818873
+arogayadham hospital,0.5
+investigations,0.7905405405405406
+second application,0.4444444444444444
+imprisonment,1.4344262295081966
+expert,2.5786336542870245
+degenerative disc disease,1.5
+petitioner in jail,0.5
+counsel,2.2246780703440323
+person for a clinical examination,0.5
+stage,1.1298537871524448
+application,2.3322596088086445
+such treatment,0.5882352941176471
+imprisonment for life,1.7142857142857142
+serious charges,0.5
+management on opd basis,1.0
+leave petition fails,0.5
+director of ai - ims,0.0
+that prayer,0.3333333333333333
+kumud chawla gamma knife centre,0.5
+open to the medical board,0.5
+witnesses,3.359210526315789
+view of this submission,0.5
+plea for bail,0.6666666666666666
+material witnesses by the prosecution,0.5
+several witnesses for the prosecution,0.5
+trigeminal neuralgia with degenerative disc disease,0.5
+goodwill hospital,0.5
+research,1.351044147915173
+certificate,2.732600732600732
+third,1.0303422515142742
+ims,1.22127597546182
+petitioner s doctor,0.0
+prostate,0.6346153846153847
+order,5.472481489660944
+offences act,0.5
+hypothyroidism,0.75
+experts,2.4829710144927537
+aiims,1.8333333333333333
+learned counsel,3.703333333333333
+need for surgery,0.3333333333333333
+surgical intervention,0.2777777777777778
+paper,1.8076689487632511
+act,12.870263922028107
+gamma,0.26253687315634217
+by imprisonment for life,0.5
+may,3.683418028199994
+serious charge,1.3333333333333333
+knife,0.6624203821656051
+learned counsel for the petitioner,1.3214285714285714
+aiim,1.1
+indian penal code,5.264705882352941
+nonavailability of witnesses,1.0
+special leave petition fails,0.5
+material witnesses in terms,0.5
+risk,1.2477718360071302
+under sections,2.1931818181818183
+special leave petition fail,0.5
+petitioner s present condition,0.0
+medical management on opd basis,1.0
+medical,1.633306645316253
+centre,1.3584842944989197
+investigations by the medical board,0.5
+petitioner during incarnation,0.5
+submission,1.0913871684001404
+application for grant,1.5454545454545454
+kumar,2.028839704896043
+appellant,14.387096774193548
+special leave petition,2.013333333333333
+mr vika,2.6666666666666665
+other witnesses,0.7
+routine medical management,0.5
+jodhpur for offences,0.5
+mr khurshid,1.0
+witnes,5.333906623599983
+specialities,1.2
+bail after examination,0.5
+medical institute of the country,0.5
+list,4.014941314095513
+reliance,1.400763358778626
+diseases,0.731016731016731
+degenerative disc disease of the lumbar spine,1.5
+high court,7.7477477477477485
+medical institute,0.3333333333333333
+kumud,0.5
+mr vikas,2.6666666666666665
+case,7.332269420884958
+bar,1.4720990391722097
+other witness,0.7222222222222222
+several witness,0.37333333333333335
+such time,0.8480725623582767
+section,9.287987283173626
+trial,3.7979448350459712
+report,1.7768151696835826
+papers,1.0564063453325199
+protection,1.1604395604395603
+leave petition fail,0.5
+material witness in terms,0.0
+hyperplasia of prostate,1.5
+none,0.8181718550217885
+immediate surgery for which purpose,0.5
+incident,1.8609485257918057
+constitution,3.204842342342342
+serious objection to that prayer,0.5
+dr maheep singh gaur,0.5
+petitioner on bail,0.5
+condition,2.259476395625584
+mr khurshid s submission,0.0
+bail after the examination,0.5
+witnesses as material witness,0.5
+material witness by the prosecution,0.0
+punishable by imprisonment for life,0.5
+trial court on such dates,0.5
+singh,3.7791111111111113
+efforts,0.7431827431827432
+necessary of course at the risk,0.5
+dates,2.6187832912811886
+lumbar,0.7941176470588236
+protection of children,1.25
+medical condition,0.2727272727272727
+mr salman,1.0
+arun,0.9503105590062112
+place,2.333104345208554
+justice,2.292557084574302
+that submission,0.38095238095238093
+cross-examination,0.0
+third witnes,0.5
+trigeminal neuralgia,1.0
+experts from the premier,0.5
+nonavailability,0.7500000000000001
+dr arun kumar tyagi,0.5
+investigation,1.6673076923076922
+such application,1.1428571428571428
+course at the risk,0.5
+compelling reason,0.5333333333333333
+which purpose,0.6666666666666666
+petitioner for a clinical examination,0.5
+juvenile justice,2.1904761904761902
+incarnation,0.4095860566448802
+gaur,0.9130434782608695
+benign hyperplasia of prostate,1.5
+board,2.401414435268602
+date,6.195616975795285
+trigeminal,1.0
+clinical examination,1.0
+observations,0.7454584147497534
+opinion on the merits,1.0
+fresh application,1.3333333333333333
+that submission of learned counsel,0.5
+objection to that prayer,0.5
+disc,2.5043281246825027
+offence,4.401610644257703
+reliance upon a certificate,0.5
+blood investigation report,0.5
+senior counsel,2.2857142857142856
+respondent,4.757894736842104
+routine medical management on opd basis,0.5
+appropriate routine medical management on opd basis,0.5
+withdrawn till such time,0.5
+respondents,2.6341263330598856
+benign,0.606060606060606
+present special leave petition,0.6666666666666666
+leave,1.0147842365477848
+jodhpur,0.8
+basi,2.0752712086391383
+slp,1.291953447628582
+lumbar spine,1.5
+tyagi,1.1666666666666667
+medical paper,1.0
+question,2.980312372067635
+material for purpose,0.5
+constitution of a medical board,0.5

@@ -1,0 +1,1183 @@
+courts,2.1216528162511543
+feature of administration,0.5
+shades,0.24107142857142852
+chancery division,1.0
+charge of like nature,0.0
+government,3.5583785424010483
+next limb of the argument,0.5
+different provisions,2.0
+high court of justice,1.5
+judgments act,1.0
+shows,0.8030554811042616
+proportionate to the matters,0.5
+own jurisdiction,2.0
+code,2.880559796437659
+between the party,0.0
+procedure rule,1.125
+english court,6.75
+validity,1.521010638297872
+mind,1.1559066143122394
+view of international law,0.5
+mills,1.026315789473684
+explanation-ii,0.0
+pure abuse,0.5
+reliefs,1.308641975308642
+people,1.2855544825097243
+explanation with regard,0.5
+propensity,0.23255813953488372
+declare,1.52
+costs to the appellant,0.5
+weight to such order,0.5
+filing,1.1274190041313328
+sections,1.640495469442838
+reasons,1.3749054007567938
+court of bombay,2.176470588235294
+foreign decree holder,0.5
+revision,1.6299226441631505
+following word,0.6763636363636363
+meaning,1.8612727545949643
+instance,0.9469803370786518
+decrees of courts,0.6666666666666666
+courts for the satisfaction,0.5
+matters,1.4810665618448637
+filing of the certified copy,0.5
+case of the appellant,1.1714285714285715
+- execution,0.0
+cost under section,0.0
+to a local authority,1.3333333333333333
+interest,2.74353772015385
+international law,0.3288888888888889
+court,12.24425115501509
+common law,0.64
+basis of the indemnity,0.5
+fee,1.560669497024209
+such dates,0.8
+declaration that the judgment,0.5
+declaration,2.152560083594566
+order specifies,0.5
+vexatious claims,1.0
+nation demand,0.5
+such petition,0.5714285714285714
+production,2.1071428571428577
+fines,0.7922222222222224
+cost of the successful party,0.0
+payment under a decree,0.5
+parliament,2.6571235781762095
+hesitation,0.5405405405405406
+j described costs,0.5
+high court of bombay,2.176470588235294
+objection,1.68120480131216
+decree for the costs,0.0
+person,4.291511329454258
+show,1.5002130552117363
+executable in india,1.0
+tek,0.6340341655716163
+way,1.7812722068664852
+behalf,1.9888053603529987
+relevant explanation,0.5
+halsbury,1.5294117647058822
+part,5.294464509893076
+member of lok sabha shri tek chand,0.5
+than the standard basi,0.5
+satisfaction of the court,0.8
+signifies,0.5384615384615384
+principles  guideline,0.0
+litigation,1.4968553459119498
+such presumption,0.6666666666666666
+such court,1.7272727272727273
+nothing,0.8658723322806009
+pecuniary jurisdiction,1.0
+long dilatory,0.5
+bombay,2.3134020618556703
+several thousands,0.6666666666666666
+cost on civil litigation,0.0
+foreign court amount,0.5
+piece of paper,0.25
+shri,2.0759135877246115
+district,1.5506763074237984
+decisions,1.3888475974580996
+payment of either taxes,0.5
+decree apply,0.5
+character,0.9325990965842764
+decision,2.9514937765898557
+other than the standard basis,0.5
+contrary,1.027917657672435
+courts with regard,0.5
+relevant provisions,1.5
+procedural law,1.4285714285714286
+other penalty,1.3333333333333333
+on other ground,0.6666666666666666
+limitations of the court,0.5
+schedule of costs,0.5
+litigants,1.5555555555555556
+propensities,0.5
+law of the forum,0.5
+court for infringement,0.5
+aforesaid,2.592896174863388
+halsbury s law,0.0
+interest amount,0.6666666666666666
+claim,2.817264601856604
+foreign court amounts,0.5
+general rule that the unsuccessful party,0.5
+appeal,3.4125488033856883
+different date for compliance,1.0
+re issue nos,0.5
+to exclusion of section,0.5
+determination,1.5980374665477253
+unsuccessful party,1.0
+such superior court,0.5
+appellate court,3.1458333333333335
+regard to an interlocutory order,0.5
+breach,1.3366228070175439
+provision of the code,0.5
+land,6.337534028705619
+day of the date,0.0
+interpretation,1.518366298484459
+standard basis,2.0
+unhappy feature of administration,0.5
+costs under section,0.5
+unfortunate,0.6007143586080212
+such compensatory costs,0.5
+forth,0.7104532839962997
+justice act,1.6
+satisfaction,0.6639095671353735
+minds of the litigants,0.5
+parte,0.7168042010502624
+edward,0.2751046025104602
+nature of the costs,0.5
+canadian,0.17148014440433215
+code of civil procedure,5.5636363636363635
+principle of comity,0.0
+defendants,2.3554376657824934
+piece,0.8682170542635659
+source of income,0.8333333333333334
+judgment,3.288216560509554
+consequence of deletion,0.0
+limitation of the court,0.0
+rule that the unsuccessful party,0.5
+detailed order,0.875
+instances,0.5974025974025974
+vexatious nature,0.5
+indian court for the satisfaction,0.0
+claims,1.1941982272360998
+shade of a  judgment,0.0
+due weight,1.7142857142857142
+amount of costs,1.5
+otherwise orders,0.5
+order,5.472481489660944
+injury,1.7199352451433856
+delays,1.1
+which concern,0.40909090909090906
+dilatory,1.1666666666666667
+act,12.870263922028107
+compensation for the expense,0.5
+recognition of substantive rights,0.5
+sub-section,0.0
+expenses of litigation,0.5
+indian court with regard,0.0
+territory for the purpose,1.0
+civil procedure rule,0.8
+such dates as court,0.5
+purview of section,1.75
+indian court,2.25
+court s discretion,0.0
+plaint,3.104295112903434
+explanation,1.4510159010600707
+payment of interest,1.5
+party in an action,0.5
+reciprocal advantage,0.5
+enforcement,0.7354220499569336
+part decree,1.0
+matter in controversy,0.0
+impunity,0.38095238095238093
+ex parte,1.1666666666666667
+idea,0.5945499587118084
+effect that cost,0.5
+halsbury s laws,0.0
+costs on the standard basis,0.5
+effect,2.184583388478191
+vexatious to the knowledge of the party,0.5
+proportionate,0.8258426966292135
+dominions,0.3333333333333333
+principles of comity,0.5
+copy,0.8620926631522174
+thereafter,1.3123461853978673
+same parties,0.8333333333333334
+foreign remedy,1.0
+nutshell,0.4695121951219512
+necessary party,0.75
+former case,0.42857142857142855
+other than the standard basi,0.5
+comment,0.5887096774193549
+on other grounds,0.5333333333333333
+manner,1.4494591333432125
+member,2.649111111111111
+interest on costs,5.5
+either side,0.45192307692307687
+parties,1.8210828547990157
+finality,1.1746031746031746
+execution of decree,1.3333333333333333
+expression of an adjudication,0.5
+oral evidence,1.3333333333333333
+civil procedure,5.448275862068965
+injured person,1.9090909090909092
+foremost ground,0.5
+section,9.287987283173626
+from  costs  dealt,0.0
+india law,0.5
+opinion that the execution petition,0.5
+that england,0.5
+documentary evidence,0.6825
+law of india,0.8333333333333334
+appellate,2.561224489795918
+interpretation of section,1.5
+cost in uk,0.0
+judgments,1.2355646397547266
+same analogy,0.5
+rule of the court,1.5
+tax,3.549237288135593
+case allow cost,0.5
+consequence,0.8726692512593296
+standard,1.4669008088548319
+foreign rights,1.0
+litigant,1.2698412698412698
+attorney s fee,0.0
+general principles,0.5735294117647058
+for the plaintiff,1.0
+dates,2.6187832912811886
+circumstance,1.429931390219372
+civil,2.126558634963905
+part decrees of indian courts,0.5
+reasonable notice,1.0
+indemnity basis,1.5
+executable as a decree,0.5
+exclusion of section,0.5
+international,1.4453445246925631
+following manner,0.5555555555555556
+judge-,0.0
+appellant herein,2.046153846153846
+bare perusal,1.25
+next contention,0.8
+present case,1.5611814345991561
+due to exclusion of section,0.5
+avoid,0.7791215203487375
+refusal,0.813597918022121
+regard,2.723310344827586
+other grounds,0.7777777777777778
+difficulty,0.656910569105691
+district court,0.9523809523809523
+necessary parties,0.75
+context,0.9269383697813122
+entitlement,0.6176470588235294
+profiteering by the people,0.5
+following words,0.6763636363636363
+reading of the definition,0.6666666666666666
+knowledge,1.1120671641791045
+expenses,1.2727272727272727
+proces,1.627944583238701
+direction,1.8495050210098996
+limitation,2.4984479402325457
+meaning of the words,0.49358974358974356
+money,1.6567889044524557
+federal rules of civil proceeding,0.5
+of the state,2.2556293835363603
+rights,1.6349541930937281
+perusal,0.750733137829912
+judgment of such court,0.5
+same position,0.5
+original claimant,1.0
+decision in the form,0.5
+length,0.6297872340425531
+different date,1.3
+regards,0.9072861236185019
+facts,1.4696673624372698
+such judgment,4.2
+federal rule of civil proceeding,0.0
+glance on the enforcement,0.5
+formal expression of an adjudication,0.5
+judgment of the courts,0.6666666666666666
+arrangement,0.7318181818181818
+judgment of a foreign court,0.5
+issue,2.766776251628934
+thereof,1.7897727272727273
+litigation costs at the discretion,0.5
+itemized statement of the amount,0.5
+decree holder for enforcement,0.5
+basi,2.0752712086391383
+form,2.4865961263718424
+purview,1.0864197530864197
+reciprocating,2.4000000000000004
+imposition,1.4444444444444444
+objections,1.2025072324011572
+as a decree,1.0
+matter of procedure,0.4444444444444444
+chancery,1.0
+days,1.6721350893491447
+j described cost,0.5
+ramana,0.8104575163398693
+fine,1.3204039558531748
+rejection of a plaint,0.5
+in amount in favour,1.0
+local authority,3.933333333333333
+english court for infringement,0.5
+rights of the parties,1.1764705882352942
+award of such compensatory costs,0.5
+court with regard,0.8571428571428571
+decree costs,0.5
+weight,0.7538461538461538
+cost,1.2954397451466992
+order on merits,1.0
+desire,0.6008255933952529
+orders,1.4936359300077826
+case in the context,0.6666666666666666
+like nature,1.5000000000000002
+basis,1.953226441078104
+usurious propensity,0.0
+causae,0.5
+desire of the judiciary,0.5
+next limb,0.5
+principles  guidelines,0.0
+rules of civil proceeding,0.5
+infringement,1.152439024390244
+civil procedure deal,0.6666666666666666
+sub,7.816899313759727
+course,1.6545957498716626
+that the non - appearance of the defendant,0.0
+deletion,2.029510395707579
+payments,1.0129870129870129
+charge,2.7679815308681284
+due judicial proces,0.5
+contention of the appellant,1.1851851851851851
+grounds,0.9540208829455945
+imposition of interest,0.5
+country,1.2903191103863751
+separate category,0.5
+nations,0.9375742619504617
+purposes of proceedings,0.5
+hence,1.1440732910500353
+officer,3.1197242647058823
+thousands,0.42748091603053434
+law commission,2.4166666666666665
+amendment,2.2486412346818434
+charges,2.061307113938693
+interlocutory order,1.5555555555555556
+certified copy of decree,0.5
+ground,1.4186722903211633
+other relief,0.6666666666666666
+application on the ground,0.8
+territory,1.3688226421790437
+non-execution,0.0
+damage,1.8281814532316336
+arguments,0.7212211466865226
+opportunity,0.946186440677966
+other charge,0.7638888888888888
+expression of a court,0.5
+other charges,0.7346938775510204
+impugned judgment,2.0927152317880795
+court of appeal speaking,0.5
+matter,2.8088923076923082
+case as the court,0.5
+proof,1.0648141580366008
+following issue,1.0833333333333333
+court whichever amount,0.5
+concept,0.9402138540213855
+reciprocal enforcement,0.5
+judgment on merits,1.0
+figures,1.023593964334705
+peir b-,0.0
+respect of taxes,0.5
+civil law,0.4347826086956522
+executable before the district court at nasik,0.5
+decree on merits,0.5
+arbitration,11.242690058479532
+price,2.8302710227712162
+look,0.7258645241210043
+international woollen mills,0.5
+provision of section,1.4827586206896552
+foreign right,1.0
+money decree,1.25
+direction for payment,0.6666666666666666
+conclusive proof,0.9444444444444444
+territory--,0.0
+spite,0.8919640378414163
+view,2.441100058469462
+indian,1.2604961505560306
+aid,5.498621453008654
+respondents for execution,0.5
+forth by the defendants,0.5
+requirements,0.7375979875979877
+deletion of section,1.3333333333333333
+opinion,1.4960606342789635
+side,3.88845645915565
+relief,1.4748116760828625
+dominion,1.7127659574468086
+to the matter,0.7346938775510204
+charge of a like nature,0.0
+such date,1.1818181818181819
+merit,1.2419290263876248
+recognition,1.4333333333333333
+payments of costs,0.5
+profiteering,0.3333333333333333
+case after a due consideration,0.5
+party by the court,1.0
+charges of a like nature,1.5
+order specify,0.6666666666666666
+production of any document purporting,0.5
+limb,0.509338061465721
+rule of civil proceeding,0.0
+restitution,0.5294117647058824
+witness,5.333906623599983
+decree holder,1.0
+compensatory,1.7142857142857142
+execution of the foreign decree,0.5
+result,1.3356630184144715
+substantive right of the decree holder,0.5
+decree for costs,2.0
+delay,1.9544910179640715
+cold at the same time,0.5
+woollen,0.75
+cost of the application,0.0
+record,2.5393414390845273
+procedure,2.552771605064117
+decrees for the costs,0.5
+appellant s application,0.0
+petitions,1.3930830039525692
+principles of natural justice,2.736842105263158
+non - appearance,0.0
+laws,1.4186274337269533
+majesty,0.20652173913043478
+certificate from such superior court,0.5
+defence,1.3606588776096535
+notified part,0.5
+guideline,1.5641711229946524
+petition for execution,0.5
+provision,5.439002243350069
+non - appearance of the defendant,0.0
+support,0.8630946786249609
+legal aid act,0.5
+in amount,0.5555555555555556
+costs in uk,0.5
+reciprocal advantage of the courts,0.5
+decree cost,0.5
+attorney,1.9875
+provisions of section,2.762376237623762
+possible for the plaintiff,0.5
+respect,2.6704963235294117
+such order,1.056910569105691
+same analogy to the facts,0.5
+a different order,0.5
+civil procedure rules,0.75
+glance,0.375
+fact,3.6284951019474962
+following issues,1.0833333333333333
+shade,0.21065675340768278
+comity,0.5
+such law,0.81203007518797
+learned counsel,3.703333333333333
+procedural law of the forum,0.5
+taxes,1.49645390070922
+interim application,0.5
+prince,0.18768844221105527
+expression,1.7424391201885312
+private claimant,0.5
+foreign decree holder for enforcement,0.5
+interest act,0.8333333333333334
+interests,1.0562317935913441
+claimants,1.8627450980392155
+below- a,0.0
+clauses,1.5486111111111112
+practical difficulties,0.6666666666666666
+limited ground,1.4285714285714286
+executable in united kingdom,0.5
+law society,0.5
+fori,0.24545454545454543
+court in india,1.0
+shades of a  judgment,0.0
+executable on other grounds,0.5
+appellant that the claim,1.0
+look at sections,0.5
+formal expression,1.5
+same time,0.6913511801045461
+payment of the costs,0.5
+basi of assessment,0.0
+presumption,1.06
+annum,2.25
+superior courts,1.1666666666666667
+impugned order,2.265957446808511
+norms,1.1693121693121695
+such submission,0.5555555555555556
+witnes,5.333906623599983
+fraud,2.7602996254681647
+opportunity to the parties,1.0
+other factors,0.5128205128205129
+family proceeding,0.5
+that such person,0.8333333333333334
+in the facts,0.9398907103825137
+several thousand,0.3414634146341463
+extent,1.410108024691358
+conclusive in that respect,0.5
+necessity,0.7072538860103627
+advantage of the courts,0.5
+courts in india,1.4285714285714286
+debtor,2.4615384615384617
+doubt,1.3646267723102583
+canadian court of appeal speaking,0.5
+tune,0.5874773139745917
+conclusive between the parties,0.5
+documentary,0.6730769230769231
+bar,1.4720990391722097
+defences,1.1904761904761905
+indian courts with regard,0.5
+report,1.7768151696835826
+access to justice act,0.5
+to the state,1.0857585139318886
+principle,1.9620890732001848
+certified copy,2.6923076923076925
+explanation ii,1.0
+party,2.2250894654439723
+provision under the code,0.5
+angle,0.4852556924225457
+mcquaid,0.5
+matters of the substance,0.5
+sought,1.1658793604651163
+oral evidence by way,0.5
+definition,1.6460425937698666
+compensatory cost,2.0
+j described costs in the following words,0.5
+that application,0.5142857142857143
+substantive rights,1.5
+claims of defences,0.5
+issues,1.1246716508385532
+factor,1.2878742338904643
+detailed judgment,0.8
+justice,2.292557084574302
+conclusive one,0.5
+amount of money,0.42857142857142855
+reciprocal territory,0.5
+therein,1.5503424657534246
+grievance,1.032529659395331
+explanation-ii to section,0.0
+competent jurisdiction,1.1666666666666667
+cost of proceedings,0.5
+following comment,0.3333333333333333
+due judicial process,0.5
+lok sabha,1.5
+set of norms,0.5
+forum,1.9016754850088184
+incorrect view,0.5
+than the standard basis,0.5
+charges  expenses,0.0
+proportionate in amount,0.5
+part of the arrangement,0.5
+decree for interest,0.5
+income,2.734813573523251
+position at common law,0.5
+either taxes,0.5
+decree,3.732408834103749
+date,6.195616975795285
+perusal of section,0.8
+bill,1.134631348577466
+reference,2.1755848210276256
+administration,1.061072796934866
+society,2.1182859399684046
+court order,0.4077457069784436
+difficulties,0.570873786407767
+adjustment,0.6982649174777825
+respondent,4.757894736842104
+procedure rules,1.1428571428571428
+want,0.9034484256025601
+woollen mill,0.5
+rebuttable presumption,0.6666666666666666
+patents court,0.5
+skelton argument on behalf,0.0
+reasonable in amount in favour,0.5
+schedule,2.9453067257945307
+unamended section,1.6
+default,0.7094574436346588
+day,1.550999710228919
+thousand,0.625287081339713
+legal,1.6383168326773236
+concept in costs,0.5
+question,2.980312372067635
+principles,1.3198511166253102
+force in india,0.8
+erstwhile section,0.5
+solicitous that such person,0.5
+document purporting,0.6666666666666666
+feature,0.6446262956901254
+order for the payment,1.25
+matter of the substance,0.0
+execution,1.3041894353369763
+restitution in integrum,0.5
+original claimants,1.0
+analogy to the facts,0.5
+integrum,0.5
+respect of fine,0.5
+practical difficulty,0.0
+notification in the official gazette,1.1875
+entire evidence,1.2307692307692308
+plain meaning of the words,0.6666666666666666
+rules about costs,0.5
+b in the alternative,0.75
+compensatory costs in respect,0.5
+appeal by special leave,1.04
+scmanu,7.940520446096654
+word,2.065873981084096
+facts in nutshell,0.6666666666666666
+- appearance,0.0
+payable in respect of taxes,0.5
+from amendment,0.5
+right of the parties,0.0
+unending dispute,0.5
+abuse,0.6372486093281985
+amount,3.179688593072295
+compensatory cost in respect,0.0
+practice,1.7660110149488593
+nasik,1.6
+statement,2.5393160135035964
+explanation to section,1.5
+such decrees,0.5
+imposition of costs,0.5
+face of the proceedings,0.5
+clause in section,0.75
+costs of the successful party,0.5
+united,0.7052854122621566
+signify,0.3897435897435898
+lex causae,0.5
+pure abuse of process,0.5
+reimbursement,2.066666666666667
+aid act,2.4000000000000004
+international woollen mill,0.5
+foreign,1.2919207317073171
+high,5.367119186841496
+decrees,0.9545454545454545
+payment,2.059553716565686
+want of jurisdiction,0.8333333333333334
+foreign judgment,3.3333333333333335
+judge on the grounds,1.0
+natural justice,2.6666666666666665
+account,2.5754891049671977
+maintainable under the relevant provisions,0.5
+reference to any such territory,0.5
+effect from the day,0.5
+entitlement to costs,0.5
+event,1.4310854436179261
+dates as court,0.5
+file,1.3720673638585223
+proof of the extent,0.5
+force,1.6009408121948314
+reciprocating territory for the purposes,0.5
+plain reading of the definition,0.5
+sum of decree,0.5
+notification,3.0112746633260263
+order of the english court,2.0
+interest on decree,0.5
+dismissal,1.614076246334311
+states,1.5120646995827023
+to the knowledge of the party,0.5
+same in the facts,0.5
+suit,2.485274378207659
+obvious that the non-appearance of the defendant,0.0
+woollen mills,0.5
+itemized statement,0.5
+v standard wool,0.5
+jurisdiction of the english court,2.0
+defendant,3.7706855791962175
+purpose,2.519170317925504
+judgment debt,1.4
+law,3.538923411654744
+charges of like nature,1.0
+english,0.9836154262307752
+notified parts,0.5
+debate,0.6231884057971016
+uk provide for interest,0.5
+issue with regard,0.5555555555555556
+view of the deletion,1.0
+civil court,3.706666666666667
+nos,1.2635492554198444
+time,2.4764180952862667
+cases,1.9728229418951067
+central government,3.0380952380952384
+division,1.7657319129617017
+costs in india,0.5
+appeal speaking,0.5
+plaintiff,2.177926421404682
+rejection,0.7335907335907336
+canadian court,0.5
+principles  guidelines in the decisions,0.0
+successful party,1.6666666666666667
+broad recognition,0.5
+decision on the merits,0.5
+such person,0.9634888438133874
+in respect of taxes,0.5
+reciprocating territory,3.5
+reciprocal,0.4705882352941177
+such petitions,0.5
+resource,0.8416706827309237
+due weight to such order,0.5
+th report,0.6428571428571429
+principle of natural justice,1.0
+award of costs,0.5
+evidence in support,0.8571428571428571
+exceptions under section,0.5
+united kingdom,0.7304347826086955
+general rule about costs,0.0
+cost of application,0.0
+non,1.3417336444559675
+costs on civil litigation,0.5
+grant,1.7314487632508835
+reading of section,1.3043478260869565
+assessment,2.647276084949215
+limit,2.3804570428443834
+suit against the appellant,0.6666666666666666
+litigation whereby,0.5
+look at section,1.0
+access,1.61231677279827
+vexatious claim,1.0
+right,3.07483248288682
+hereinafter,0.7670609645131939
+evidence by way,0.5
+order unless the judgment,0.5
+next ground,0.5
+otherwise,1.2549820889894419
+suitable clause,0.5
+usa,0.9416563489832968
+such evidence,0.9649122807017544
+executable,1.6163793103448274
+lex,0.5546448426486648
+sum of money,0.7638888888888888
+certificate,2.732600732600732
+connection,1.050640279394645
+decree under this section,0.5
+exception,1.1036946087733006
+substantive right,1.9166666666666667
+counsel,2.2246780703440323
+account of the default,0.5
+application,2.3322596088086445
+limits,0.8405888207868406
+policy,3.250773332247955
+april,0.8928235149629509
+parts,0.6609660823170732
+award,3.104213525266157
+india,2.7684068260703585
+enforceable as a decree,0.5
+procedure deals,0.75
+appearance,0.531740614334471
+which such law,0.6666666666666666
+commission,4.703619179345321
+between the parties,1.675084175084175
+civil revision application,1.25
+rules,3.130914366958792
+federal rules,0.6666666666666666
+prince edward island,0.2857142857142857
+summary,0.8025241675617614
+part decree of indian courts,0.0
+reading,0.9004509191814082
+other part,0.7900432900432901
+costs of proceedings,0.5
+vague,0.6542944785276075
+court in england,0.6666666666666666
+claim of the appellant,1.6666666666666667
+skelton arguments,0.5
+order for costs,0.6666666666666666
+claimant,2.3438596491228068
+realization,0.6944444444444444
+court for the satisfaction,0.0
+relief that the respondents,0.5
+file of litigant,0.5
+judicial proces,1.125
+acces,1.6146156832298137
+cent,2.4795666588956498
+provisions of the code,1.6470588235294117
+exclusion,1.276390008058018
+abuse of process,1.0
+submissions,0.5235745614035088
+charges  expense,0.0
+date for compliance,1.0
+island,0.3130034522439586
+party in respect,1.0
+other ground,0.8333333333333333
+ltd,2.382356477306883
+attack,1.0505713076597545
+dispute,2.402137592137592
+in united kingdom,0.5
+costs  signifies,0.0
+indian law,1.0
+submission,1.0913871684001404
+evidence,3.6676405172088815
+document,1.401100265092073
+interlocutory,1.96
+code of civil procedure rules,0.6666666666666666
+indemnity basi,1.5
+procedural rule,0.6666666666666666
+usurious propensities,0.5
+order about costs,0.5
+other charge of a like nature,0.0
+explanation ii to section,0.5
+consequences,0.6659897713598075
+such compensatory cost,0.5
+vexatiou to the knowledge of the party,0.0
+court orders,0.5217391304347826
+merits of the case,1.3846153846153846
+idea of deletion,0.5
+moreover,0.7807228915662651
+under the relevant provisions,1.0
+compliance,1.0029799914857385
+bill of costs,0.5
+circumstance of the case,0.5
+independent right,0.8
+part decrees,1.0
+case,7.332269420884958
+interlocutory order of english court,0.5
+before the district court at nasik,0.5
+- appearance of the defendant,0.0
+ambit of explanation,1.0
+doubt correct,0.5
+order in the present case,0.6666666666666666
+adjudication,1.5392156862745099
+payable to the state,0.5
+otherwise order,0.5
+analogy,0.4080145719489981
+factors,0.9829522460542292
+cost to the appellant,0.0
+ambit,1.0862754267009587
+such courts,1.0
+such territory,0.5
+such satisfaction,0.5
+kingdom,0.6954545454545455
+purposes,1.4391216613438835
+furthermore,0.9849537037037037
+detailed judgment on merits,0.5
+statements,1.110873440285205
+general rules,0.37037037037037035
+therefore,2.960332350576253
+judiciary,1.5942028985507246
+exorbitant price,0.3333333333333333
+end,6.1484001628618765
+contention,1.666391070690368
+ground of attack,0.6666666666666666
+rule,5.04
+consequences of deletion,0.5
+india in view,0.8333333333333334
+other notified part,0.5
+character of a money decree,1.0
+proceedings,1.7670925223666287
+favour,1.653145208700764
+other factor,0.509090909090909
+minds,0.6597481343283582
+judgment debtor,1.2
+formal expression of a court,0.5
+costs amount,0.5
+different provision,2.0
+lex fori,0.5
+jurisdiction of the court,1.1666666666666667
+valuable resource on nature,0.5
+re issue no,2.6666666666666665
+supra,2.246342614440774
+amended section,1.8333333333333333
+comments,0.5982500911410864
+skelton,0.2142857142857143
+exception under section,0.0
+procedural rules,0.6666666666666666
+penalty in this sense,0.5
+chand,1.4868766404199476
+honble member of lok sabha shri tek chand,0.5
+litigation cost,1.3333333333333333
+respondents,2.6341263330598856
+debate on the bill,1.0
+leave,1.0147842365477848
+legality,0.6845938375350139
+unreasonable in amount,0.5
+rival submission,1.0454545454545454
+costs,0.8167395522604189
+question of jurisdiction,1.2592592592592593
+most of the states,0.75
+plain reading of section,1.4285714285714286
+foreign judgments,1.0
+witness statement,0.5
+standard basi,2.0
+indemnity,2.0
+execution of such decrees,0.5
+delay in realization,0.6666666666666666
+same party,0.2
+discretion,1.2998211091234348
+explanation ii of section,0.5
+detailed assessment,0.5
+rule about costs,0.0
+october,0.9478375701551667
+case allow costs,0.5
+costs  dealt,0.0
+parte judgments,0.5
+skelton arguments on behalf,0.5
+process,1.6274942048088725
+wool,0.48979591836734687
+rival submissions,1.0454545454545454
+in that respect,0.5555555555555556
+execution petition,1.0
+conjoint reading of decree,0.5
+order of the court,0.8888888888888888
+other charges of like nature,1.0
+federal rule,0.6666666666666666
+notice,2.3300025999395686
+cpr,0.2902334152334153
+family proceedings,0.5
+shall,3.6283780276816606
+respondent besides other reliefs,0.0
+shows that bar,0.5
+due consideration,1.1111111111111112
+conclusive under section,0.5
+merits,0.968421052631579
+following comments,0.3333333333333333
+law society of prince edward island,0.5
+expression of any decision,0.5
+unhappy feature,0.5
+figure,1.2881717501815544
+civil litigation,1.0
+execution of any such decree,0.5
+federal,1.031040987823701
+concerns,0.9134645423305218
+case on hand,1.2941176470588236
+foreign court,2.5
+suitable clause in section,0.5
+damages,1.7104072398190044
+title,1.74290600761189
+india under section,0.6666666666666666
+fact in nutshell,0.0
+presumption that the foreign court,0.5
+judgment  on merits,0.0
+lok sabha shri tek chand,0.5
+under section,5.374517374517374
+patent,1.3540828816226613
+broad recognition of substantive rights,0.5
+submission of the respondent,1.0
+learned counsel on either side,0.6666666666666666
+set,2.3027452395971277
+district court at nasik,0.5
+reason,2.6381270903010035
+deals,1.3395407335280751
+taxation,1.2112499999999997
+orders of the court,1.0909090909090908
+same title,0.2857142857142857
+such consideration,1.0
+position,1.549133168619177
+one,4.845669314438648
+nv ramana,0.8
+views,0.6965871413779037
+petition,5.3436539306104525
+category,1.9351744779266717
+code of civil procedure deals,0.6666666666666666
+remedy,1.3214024835646458
+honble member,1.0
+guidelines,1.540251572327044
+way of this appeal,0.5
+decree  order in india,0.0
+decree  order,0.0
+consideration,1.9110153789142115
+mill,1.0891891891891892
+cost in india,0.0
+expense,1.4186440677966103
+such interest,0.5833333333333334
+claim for interest,0.6666666666666666
+court of competent jurisdiction,1.1111111111111112
+skelton argument,0.5
+words,1.6384367086179112
+penalty,1.5165226929932814
+order of dismissal,3.6153846153846154
+matters in controversy,0.5
+party unless the court,1.0
+bare perusal of section,0.5
+clause,3.526455026455027
+conclusive proof of the extent,0.5
+limited grounds,1.5
+costs  signify,0.0
+patents,0.24390243902439024
+compensatory costs,2.0
+revision application,1.4444444444444444
+air,2.0589664272145285
+majesty s dominions,0.0
+under the relevant provision,1.0
+payable to a local authority,1.0
+holder,1.8472993827160495
+resource on nature,0.5
+practice direction,0.6666666666666666
+clear that a foreign judgment,0.5
+executable in the present case,0.5
+proceeding,2.1298245614035087
+procedure deal,0.8333333333333334
+costs of the application,0.5
+majesty s dominion,0.0
+nature of compensatory costs,0.5
+decree of courts,0.0
+merit of the case,0.0
+pocket to the tune,0.5
+expressions,0.8027972027972027
+limitations,0.8120300751879699
+such certificate,0.6666666666666666
+determination of any question,0.5
+plain reading,1.173913043478261
+superior court,0.7222222222222222
+mind of the litigants,0.0
+limb of the argument,0.5
+honble member of lok sabha,1.0
+respondents besides other reliefs,0.5
+conjoint,1.1875
+legislature,2.818553268765133
+family,1.856281506375408
+execution of decrees,1.0
+superior court in england,0.5
+clear from amendment,0.5
+judge,2.9012627415183325
+nation,3.034318722392117
+court amount,0.6666666666666666
+manuscmanusc,7.940520446096654
+provisions,3.8929824561403508
+authority,2.4352627108360636
+conjoint reading,1.1333333333333333
+civil proceeding,1.5
+district judge-,0.0
+substance,0.8230581678857541
+effect that costs,0.5
+gazette,0.9578231292517008
+appearance of the defendant,1.0
+definition of  order,0.0
+knowledge of the party,0.5
+sought time,0.5
+argument,0.9504580388560493
+parte judgment,0.5
+exceptions,0.6478185993111366
+interests of justice,1.2
+cases in which such law,0.5
+question whether the interest,0.5
+costs of application,0.5
+rules of the court,0.75
+face,0.7281253260594137
+other reliefs,1.0
+special leave,1.903225806451613
+territory outside india,0.5
+judicial process,1.125
+relevant provision,1.5737704918032787
+advantage,1.1441364159430905
+pursuant,0.7227692307692308
+concept of  costs,0.0
+lok,0.8593462717058222
+acces to justice act,0.0
+indian courts for the satisfaction,0.5
+paper,1.8076689487632511
+general principle,0.625
+either tax,0.6666666666666666
+valuable resource,0.3333333333333333
+plain meaning,0.9230769230769231
+respondent for execution,0.0
+circumstances of the case,1.3373493975903614
+different from costs  dealt,0.0
+reference to a superior court,1.0
+law suit  proceeding,0.0
+which concerns,0.6666666666666666
+legislative intent,1.3823529411764706
+interest of justice,1.2
+order of english court,1.5
+re issue,1.045500505561173
+hand,2.0299623418254717
+amount in favour,1.3333333333333333
+claim of defences,0.0
+vexatious litigation whereby,0.5
+dealt,1.0007872325198597
+court of justice,0.9090909090909091
+uk provide,0.5
+norm,1.1955826794536473
+sense,0.8606303395157362
+arbitration award,1.0
+appeal from an order,0.8333333333333334
+present case as the court,0.5
+above section,0.4166666666666667
+to the matters,1.6153846153846154
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+prejudice,0.880907124598545
+court amounts,0.5
+pocket,0.5186074429771909
+cent per annum,1.3333333333333333
+that a foreign judgment,0.5
+general rules about costs,0.5
+matters of procedure,0.6666666666666666
+certified copy of a foreign judgment,0.5
+expense of litigation,0.5
+basis of assessment,0.5
+breach of any law,0.5
+right of the decree holder,0.5
+requirement,1.2416133333333332
+per section,1.6470588235294117
+that court,0.7384615384615386
+formal expression of any decision,0.5
+high court,7.7477477477477485
+at the same time,0.684521022567656
+issue for execution,0.5
+sabha,2.814814814814815
+state,6.817996007300392
+answer,0.9554305705177771
+statute,2.5765859456247218
+jurisdiction,2.9539571926331507
+official,2.6854955160358718
+other charge of like nature,0.0
+intent,1.8427075724373023
+j described cost in the following words,0.0
+litigation cost at the discretion,0.0
+deal,2.1942302694273583
+controversy,0.8593204191806921
+effect to the policy,0.5
+peir,0.1111111111111111
+matter of substance,0.5
+manu,7.078142071124147
+concern,2.0544958000579303
+rate,3.088725136774248
+central,2.61875
+impression,0.6037621359223301
+sought for time,0.5
+cost on the standard basis,0.0
+bar in section,0.5
+costs against the appellant,0.5
+basi of the indemnity,0.0
+other charges of a like nature,1.0
+foremost ground of attack,0.5
+litigation costs,1.0
+such decree,1.0
+law commission report,1.0
+nature,1.4149926876444778
+principles  guideline in the decisions,0.0
+indian courts,2.0
+nature of the judgment,0.6666666666666666
+relief that the respondent,0.5
+johnstone,0.25
+civil procedure deals,0.6666666666666666
+in the fact,0.7692307692307693
+incorrect view of international law,0.5
+foreign decree,1.5
+official gazette,1.1282051282051282
+otherwise of the judgment,0.5
+witness statements,0.5
+purpose of proceedings,0.0
+court at england,0.5
+that respect,0.5333333333333333
+payment of costs,0.75
+appellant that the order,1.0
+consideration of the application,0.75
+decree apply to the proceedings,0.5
+compensation,3.7916666666666665
+of the states,0.9444444444444444
+sum,2.554898897856461
+other notified parts,0.5
+case in which such law,0.0
+assessment of costs,1.0
+action,3.127292663476874
+source,0.840137091365362
+alternative,0.841508109794136
+reference to the report,0.5
+days of the date,1.6
+grant of interest,0.75
+c without prejudice,0.5
+part of the order,0.6461538461538462
+member of lok sabha,1.0
+general rule,0.6352941176470589
+petition for the execution,0.5
+debt,3.4485322896281807
+england,0.9336071184120466

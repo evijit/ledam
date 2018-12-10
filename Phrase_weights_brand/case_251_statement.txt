@@ -1,0 +1,151 @@
+prestige of any court,0.5
+courts,2.1216528162511543
+connection with any other case,1.0
+turpitude,0.6666666666666666
+jail authority,0.0
+octogenarian father,0.5
+scmanu,7.940520446096654
+good sense,0.3
+gaurav,1.3333333333333333
+order in all other respects,0.5
+honble,2.4444444444444446
+need,1.1097650269586634
+contempt,1.5446913580246913
+singh rana v state,0.5
+months,1.1938163721148947
+practice,1.7660110149488593
+sentence,2.3896654193264366
+honble court,2.4444444444444446
+premise,1.2347417840375587
+same punishment,0.6666666666666666
+criminal appeal,2.5675675675675675
+affidavit before the high court,1.0
+behaviour,0.5142857142857143
+deponent hereby tender,0.5
+high,5.367119186841496
+pradesh,4.365853658536586
+court,12.24425115501509
+premises of district judgeship,0.5
+mr gaurav aggarwal,0.5
+inappropriate behaviour,0.5
+further incarceration,0.5
+ground,1.4186722903211633
+courts act,0.923076923076923
+other case,0.6654088050314465
+states,1.5120646995827023
+forthwith,0.625
+premise of district judgeship,0.0
+impugned judgment,2.0927152317880795
+such behavior in future,0.5
+deponent undertakes,0.5
+other respects,0.45714285714285713
+past conduct,1.0
+paragraph,1.2930197483150305
+jail,0.7548476454293629
+months  imprisonment,0.0
+criminal,3.301971081989414
+term,3.6255105640901575
+judgment in this appeal,0.5
+age,4.526374474274117
+years of age,1.10099573257468
+ground that the sentence,0.5
+contempt of courts act,1.1111111111111112
+district,1.5506763074237984
+mahipal,0.5
+view,2.441100058469462
+father of the appellant,1.0
+initiative,0.3346007604562738
+jail authorities,0.5
+appeal,3.4125488033856883
+kurian,0.9655172413793104
+three - judge bench of this court,0.0
+authority,2.4352627108360636
+judge,2.9012627415183325
+manuscmanusc,7.940520446096654
+read,2.2147281730888695
+conduct,1.5998023165163158
+connection,1.050640279394645
+imprisonment,1.4344262295081966
+behaviour of similar nature,0.5
+counsel,2.2246780703440323
+month,1.3454861111111112
+year,2.8349484769759212
+licence,3.10964429776311
+apology,1.171875
+india,2.7684068260703585
+unconditional apology,1.5
+authorities,1.266131845134287
+mahipal singh rana v state,0.5
+judgment,3.288216560509554
+respect,2.6704963235294117
+father,1.4298716229162676
+such behavior,0.3555555555555555
+similar nature,1.125
+premises,1.290983606557377
+behavior,0.4553359683794467
+order,5.472481489660944
+judgment in mahipal singh rana v state,0.5
+learned counsel,3.703333333333333
+act,12.870263922028107
+aggarwal,0.8888888888888888
+year of age,0.0
+moral turpitude,0.6666666666666666
+deponent undertake,0.5
+son,4.595622484812135
+sense,0.8606303395157362
+judgeship,0.5
+suspension,1.9622093023255813
+appellant,14.387096774193548
+uttar,2.188679245283019
+copy,0.8620926631522174
+recent judgment in mahipal singh rana v state,0.5
+three - judge bench,0.0
+incarceration,0.6461538461538461
+months in jail,1.0
+honble court that the deponent,0.5
+manner,1.4494591333432125
+extent,1.410108024691358
+high court,7.7477477477477485
+inappropriate behaviour of similar nature,0.5
+month in jail,0.0
+state,6.817996007300392
+case,7.332269420884958
+period,1.9480170842427122
+remorseful,1.0
+affidavit,2.2996987951807224
+years,2.5395804110508022
+note,1.3654108484234107
+manu,7.078142071124147
+paragraphs,0.9552238805970149
+note of the remorseful conduct,0.5
+present unconditional apology,0.5
+punishment,1.6266937669376693
+joseph,0.4502673796791444
+imposition of the suspension,0.5
+auraiya,0.5
+singh,3.7791111111111113
+future,0.9664487618116651
+deponent hereby tenders,0.5
+nature,1.4149926876444778
+sentence of imprisonment,1.6923076923076923
+licence for a period,0.5
+rana,0.6417910447761195
+recent judgment,1.0
+behavior in future,0.5
+advocate,1.0791341991341994
+court that the deponent,0.5
+respects,0.5585139318885449
+octogenarian father of the appellant,0.5
+direction,1.8495050210098996
+deponent,1.8333333333333333
+uttar pradesh,2.8
+licence to practice,0.5
+bench,2.5793391667754992
+offence,4.401610644257703
+view of the apology,0.5
+kurian joseph,0.9655172413793104
+district judgeship,0.5
+other respect,0.46052631578947373
+imposition,1.4444444444444444
+prestige,0.3897435897435898
+remorseful conduct,0.5

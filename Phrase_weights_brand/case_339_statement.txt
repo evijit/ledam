@@ -1,0 +1,544 @@
+courts,2.1216528162511543
+principal sum of compensation,0.5
+court in the case,1.3333333333333333
+retrospective,3.1333333333333333
+open for revival unless the amended provision,0.5
+learned additional district judge,1.25
+certainty,0.8630136986301371
+expiry,2.2888888888888888
+result of the discussion aforesaid,0.5
+validity,1.521010638297872
+upsetting,0.34782608695652173
+gadgil,1.6666666666666667
+- resident,0.0
+indian income tax act,0.5
+ssgadgil,1.5
+re-computation,0.0
+revision,1.6299226441631505
+sections,1.640495469442838
+settled principle of law,1.0
+inter,3.683850287482992
+income tax officer,0.8333333333333334
+indefinite period,0.5
+interest,2.74353772015385
+court,12.24425115501509
+whole provision,0.5
+plain language,1.1
+such reassessment,0.5
+reason of any other provision,0.5
+final on the expiry of prescribed period,0.5
+person,4.291511329454258
+income tax act,1.8571428571428572
+additional district judge by judgment,0.5
+cause,1.8431210321626654
+way,1.7812722068664852
+proviso to section,3.3181818181818183
+behalf,1.9888053603529987
+construction of the provisions,1.0
+law of limitation,1.625
+combined reading,0.8571428571428571
+appellant s land,0.0
+litigation,1.4968553459119498
+tax laws,0.6666666666666666
+orders in proceeding,1.0
+non - resident,0.0
+share,2.560794932990637
+validity of the assessment proceedings,0.5
+original assessments,0.5
+year to year basis,0.75
+various awards,0.6666666666666666
+provisions of sub - section,0.0
+provision of sub - section,0.0
+district,1.5506763074237984
+amended provisions of sub- section,0.0
+decision,2.9514937765898557
+reassessment for those assessment years,0.5
+desired result,0.4266666666666667
+aforesaid,2.592896174863388
+greater retrospectivity,1.0
+interest amount,0.6666666666666666
+settled principle,1.0810810810810811
+due to the operation of the bar,0.5
+ito,1.7187604773846985
+proper construction of the provisions,0.5
+assessments for the relevant years,0.5
+procedural provision,1.0
+appeal,3.4125488033856883
+order of  court,0.0
+impugned notice,1.25
+embargo refers,0.5
+income - tax officer,0.0
+land,6.337534028705619
+interpretation,1.518366298484459
+assessment year,5.375
+relevant period,2.1333333333333333
+to bar of limitation applicable,0.5
+relevant facts,0.7692307692307692
+year,2.8349484769759212
+basis of order,3.0
+alia,0.9479866480753792
+original assessment,0.5
+on the expiry of prescribed period,0.5
+- resident under section,0.0
+that the embargo of period,0.5
+judgment,3.288216560509554
+operation of the bar,0.5
+subject,2.4420366233344897
+residents,0.8191605554688717
+order,5.472481489660944
+clear contrary intendment,0.5
+regulating period,0.5
+act,12.870263922028107
+sub-section,0.0
+may,3.683418028199994
+original assessment for the relevant years,0.0
+explanation,1.4510159010600707
+revival unless the amended provision,0.5
+relevant fact,0.9393939393939393
+effect,2.184583388478191
+chief commissioner of delhi,0.5
+agent,1.406335913378167
+parties,1.8210828547990157
+year basis,0.75
+finality,1.1746031746031746
+prescribed period,1.7692307692307692
+amended provision,2.8823529411764706
+section,9.287987283173626
+above payments,0.5
+chief commissioner,1.25
+meaning thereby,1.1
+on interest,1.0
+tax,3.549237288135593
+opinion that the provisions,0.5
+basis of any order,0.5
+consequence,0.8726692512593296
+additional district judge on a reference,0.5
+leviable on interest,1.0
+other assessments,0.5
+finding,1.8129183657767178
+gain,2.812245309642126
+above reasoning of the high court,0.5
+embargo of period,1.0
+bracket,0.4677419354838709
+to reassessments,1.5
+assessment proceeding,1.25
+due to bar of limitation,3.0
+direction,1.8495050210098996
+basis of orders,2.5
+limitation,2.4984479402325457
+authority in any proceeding,1.0
+sound,0.8535719072510389
+prescribed period of limitation,1.2
+facts,1.4696673624372698
+reading of sub - section,0.0
+total compensation,1.3333333333333333
+year from the end,0.5
+gains,2.5197995467213867
+clear that the embargo of period,0.5
+basi,2.0752712086391383
+finality on expiry,1.0
+exposure to risk,0.5
+- matter of the appeal,0.0
+year basi,0.75
+future unforeseen event,0.5
+cost,1.2954397451466992
+judgment of the high court,1.721311475409836
+orders,1.4936359300077826
+expiry of prescribed period,1.0
+basis,1.953226441078104
+in each year,0.5
+assessment for the relevant years,0.0
+sub,7.816899313759727
+years limitation,0.5
+events,0.6160483175150993
+compensation in the sum,0.5
+payments,1.0129870129870129
+agricultural land,1.6666666666666667
+comparable situation,0.4
+to bar of limitation,2.3333333333333335
+implication,0.6615776081424936
+critical examination,0.3333333333333333
+ssgadgil v lal,0.5
+direct,3.0063324325138336
+various award,0.6666666666666666
+officer,3.1197242647058823
+amendment,2.2486412346818434
+contention of the department,0.5
+acquisition,6.764044943820224
+behalf of the assessee,0.6666666666666666
+land acquisition proceeding,1.6666666666666667
+ground,1.4186722903211633
+prescribed period of litigation,0.5
+prescribes maximum period,0.5
+impugned judgment,2.0927152317880795
+above contention of the assessee,0.5
+embargo refer,0.5
+matter,2.8088923076923082
+assessments years,1.0
+virtue of the provisions,1.1
+absence of clear contrary intendment,0.5
+impugned notices,1.0
+year of assessment,0.6666666666666666
+provision of section,1.4827586206896552
+behalf of the appellant,1.4878048780487805
+dharmadhikari,0.8
+view,2.441100058469462
+indian,1.2604961505560306
+liability,2.532836248924577
+expiry of the period,1.2222222222222223
+vide,4.454025282767798
+opinion,1.4960606342789635
+aims,1.1816143115385926
+liable to reassessments,0.5
+force in the assessment year,0.5
+reassessment,3.733333333333333
+reassessment proceeding,1.0
+that provision,0.75
+appellant through counsel,0.5
+result,1.3356630184144715
+assessee as an agent,0.5
+subject to the rule,1.0
+court in any proceeding,2.5
+upsetting of proceedings,0.5
+laws,1.4186274337269533
+notice under section,2.769230769230769
+ss gadgil,0.6666666666666666
+reopening,0.9795918367346939
+provision,5.439002243350069
+additional district judge,1.6
+underlined above,0.5
+finality of tax assessments,0.5
+direct tax law,1.0
+provisions of section,2.762376237623762
+awards,1.4828431372549018
+respect,2.6704963235294117
+basi of order,0.0
+fact,3.6284951019474962
+such embargo refer,0.5
+learned counsel,3.703333333333333
+opinion that the provision,0.5
+retrospective effect from april,1.6666666666666667
+behalf of the learned counsel,0.6666666666666666
+retrospective operation,2.111111111111111
+proceedings under the act,1.5
+assessee,15.925925925925926
+relevant year,1.1111111111111112
+department,1.9858367499068206
+learned counsel for the parties,1.263157894736842
+chief,1.9429638234317954
+reasoning,0.6478937381404174
+high court by the impugned judgment,1.0
+application to assessments,0.5
+maximum period,1.5
+presumption,1.06
+notice of assessment,0.5
+to the department,1.1666666666666667
+future unforeseen events,0.5
+additional,1.4256530253244384
+respondent of the income tax department,0.5
+bar,1.4720990391722097
+years,2.5395804110508022
+district judge by judgment,0.5
+amending,1.0947712418300655
+aim,2.7822546950944274
+necessary implication,1.2608695652173914
+principle,1.9620890732001848
+liability towards tax,0.5
+party,2.2250894654439723
+effect to any finding,0.5
+virtue,0.9167557066537153
+anything,0.9132309941520469
+orders of court,1.0
+delhi,2.6089285714285717
+v lal,1.25
+for revival unless the amended provision,0.5
+such embargo refers,0.5
+lapse,0.9238095238095239
+sum of compensation,0.5
+order of a court,1.3333333333333333
+lands,1.3404179836160743
+permissible under sub-section,0.0
+income,2.734813573523251
+that result,0.3862068965517242
+interpretation of the provisions,1.0
+under sub - section,0.0
+other provision,1.281045751633987
+reference,2.1755848210276256
+law that the provision,0.5
+respondent,4.757894736842104
+order of courts,0.0
+reassessments,1.5555555555555556
+other law that the provision,0.5
+view in the case,0.8
+fiscal statute,0.6666666666666666
+explanation to sub - section,0.0
+subject - matter of the appeal,0.0
+question,2.980312372067635
+assessment year in respect,0.5
+proper construction,0.75
+whole provision under section,0.5
+scmanu,7.940520446096654
+effect from april,1.6
+amounts,0.9789856139834046
+word,2.065873981084096
+break,0.8632505016206206
+corresponding amendment,0.5
+amount,3.179688593072295
+amendment in sub - section,0.0
+states that the period,0.5
+commence proceedings,1.0
+main question,0.6481481481481481
+resident,1.6560361185631094
+embargo,0.5606312292358805
+high,5.367119186841496
+payment,2.059553716565686
+reassessment proceedings,1.0
+available to the department,0.6666666666666666
+proceedings under any law,0.5
+event,1.4310854436179261
+force,1.6009408121948314
+states,1.5120646995827023
+proviso,2.112
+purpose,2.519170317925504
+interest amount of rs-,0.0
+law,3.538923411654744
+action for assessment,0.5
+time,2.4764180952862667
+cases,1.9728229418951067
+tax on the increased amount,0.5
+proceedings of assessments,0.5
+certain non-residents,0.0
+similar view,0.5274725274725275
+act against the appellant,0.6666666666666666
+specific purpose,0.5079365079365079
+land acquisition act,12.714285714285714
+order of court,1.5
+non - residents,0.0
+exposure,0.20444444444444446
+basi of orders,0.0
+income tax return,0.6666666666666666
+prospective operation,0.6666666666666666
+quantum of liability towards tax,0.5
+lapse of time,1.1
+retrospective effect,4.368421052631579
+proceedings under any other law,1.0
+assessments,2.571428571428571
+due to bar of limitation applicable,0.5
+assessment,2.647276084949215
+regulating period of limitation,0.5
+language of sub - section,0.0
+total compensation in the sum,0.5
+hereinafter,0.7670609645131939
+agricultural lands,1.1666666666666667
+indefinite period on future unforeseen events,0.5
+reference under section,2.272727272727273
+increased amount,0.3333333333333333
+march,1.0644238856181665
+operation to assessments,0.5
+sum of rs-,0.0
+reassessment proceedings under the provisions,0.5
+counsel,2.2246780703440323
+absence,1.092363454568179
+application,2.3322596088086445
+liabilities,1.0606060606060608
+april,0.8928235149629509
+award,3.104213525266157
+court of delhi,1.4761904761904763
+authorities,1.266131845134287
+limitation applicable,0.6666666666666666
+tax law,0.6000000000000001
+reading,0.9004509191814082
+assessment years,1.6666666666666667
+assessment under section,0.6666666666666666
+assessment proceedings,1.25
+share of the compensation,0.5
+such assessment,1.25
+time for the purpose,0.8
+application of sub-section,0.0
+legal question,0.5
+risk,1.2477718360071302
+order in proceedings appeal,0.5
+above payment,0.75
+return,1.5755725190839696
+submission,1.0913871684001404
+provision under section,0.6666666666666666
+year-wise break,0.0
+orders in proceedings,1.0
+decision of this court,2.3260869565217392
+reliance,1.400763358778626
+clear that reassessment,0.5
+above reasoning,0.5
+whole,0.951414768806073
+case,7.332269420884958
+period,1.9480170842427122
+limitation under section,1.4
+such reassessments,0.5
+error,1.059158294766151
+that sub-section,0.0
+limited retrospective operation,0.5
+agent under section,0.6666666666666666
+to the operation of the bar,0.5
+recomputation,1.6666666666666667
+high court of delhi,1.4761904761904763
+letter,2.707240080105903
+proceedings in any law,1.0
+finality to legal proceedings,0.5
+retrospectivity,1.2
+other assessment,0.5
+land acquisition proceedings by the court,0.5
+portion,1.0756311179804223
+to reassessment,1.5
+periods,0.8597883597883598
+therefore,2.960332350576253
+non-resident under section,0.0
+end,6.1484001628618765
+contention,1.666391070690368
+subject - matter,0.0
+inter alia,1.3280423280423281
+rule,5.04
+notice for such reassessments,0.0
+discussion aforesaid,0.5
+proceedings,1.7670925223666287
+favour,1.653145208700764
+respect of the assessment year,0.75
+prospective operation to assessments,0.5
+revival,1.5076923076923074
+orders of courts,0.5
+amendment to sub - section,0.0
+sub- section,0.0
+nature of clarification,0.6666666666666666
+supra,2.246342614440774
+period on future unforeseen events,0.5
+plain language of sub - section,0.0
+above contention,1.4285714285714286
+explanation to sub-section,0.0
+leave,1.0147842365477848
+costs,0.8167395522604189
+assessable in each year,0.5
+similar view in the case,0.6666666666666666
+quantum,0.8922235363690124
+time under section,1.0
+case of the assessee,1.5
+notice,2.3300025999395686
+combined reading of sub - section,0.0
+district judge,2.1684981684981683
+bracket with underline,0.5
+decision of the high court,1.24
+rs-,0.0
+discriminatory situation,0.5
+court in proceedings,1.3333333333333333
+income tax department,0.8333333333333334
+land acquisition proceedings,1.6666666666666667
+examination,2.4920345926263088
+proceedings appeal,0.5
+lal,1.6786163249382287
+effort,0.7536036036036036
+bar of limitation,3.5
+reason,2.6381270903010035
+operation,1.0959893294085181
+clarification,1.0567698846387372
+normal presumption,0.5
+position,1.549133168619177
+direct tax laws,1.0
+assessments year,1.0
+appellant in the relevant assessment years,0.5
+petition,5.3436539306104525
+absence of an express provision,0.75
+amended provisions,2.5384615384615383
+notices,0.5487269534679544
+construction,2.2504918032786887
+that reassessment,1.0
+principal sum,1.5
+respect of certain non-residents,0.0
+capital gains tax,0.23076923076923073
+words,1.6384367086179112
+necessary action,1.0
+commissioner,2.271608643457383
+clause,3.526455026455027
+underline,0.5625
+year to year,1.5238095238095237
+unforeseen events,0.5
+tax assessments,0.5
+bar of limitation applicable,0.5
+proceeding,2.1298245614035087
+notices for such reassessments,0.5
+other law,0.991304347826087
+appellant s lands,0.0
+relevant years,1.0
+reopening of assessment,0.5
+clear implication,0.23529411764705882
+new act,0.5079365079365079
+legislature,2.818553268765133
+authority,2.4352627108360636
+judge,2.9012627415183325
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+act by way,1.0
+act for reassessment,0.5
+strict construction,2.142857142857143
+appellant as assessee,0.5
+relevant assessment year,0.6666666666666666
+case of ssgadgil,1.0
+provision in sub - section,0.0
+interest in the sum,0.5
+court reliance,0.8
+income - tax officer to commence proceedings,0.0
+discriminatory,1.1387559808612442
+period of limitation,3.3181818181818183
+conclusion,1.3883437407077015
+- matter,0.0
+special leave,1.903225806451613
+court by the impugned judgment,1.0
+legal proceedings,0.7500000000000001
+relevant time,1.008
+compensation in favour,0.5
+certain non-resident,0.0
+proceedings for reassessment,0.5
+commence proceeding,1.0
+iii,1.5614499719992534
+contentions,0.9641025641025641
+express provision,1.15
+relevant periods,0.8
+appellant,14.387096774193548
+- resident for the assessment year,0.0
+basi of any decision,0.0
+behalf of the department,0.75
+original assessments for the relevant years,0.5
+non-resident for the assessment year,0.0
+basi of any order,0.0
+high court,7.7477477477477485
+state,6.817996007300392
+statute,2.5765859456247218
+contrary intendment,0.5
+district judge on a reference,0.5
+basis of any decision,0.5
+manu,7.078142071124147
+language,0.8555828468744352
+intendment,1.4375
+relevant assessment years,0.5
+recomputation in consequence,0.5
+amended provision of sub- section,0.0
+quantum of tax,0.5
+nature,1.4149926876444778
+department under section,1.0
+discussion,0.7445831166579996
+authority under the act,1.0
+impugned notices under section,0.5
+computation,1.3021653543307086
+contention of the assessee,1.2
+years from the end,0.5
+tax assessment,0.75
+finance,1.9582470669427192
+sum,2.554898897856461
+situation,1.1254754682459434
+compensation,3.7916666666666665
+authority in any proceedings,0.6666666666666666
+unforeseen event,0.5
+impugned notice under section,0.0
+action,3.127292663476874
+source,0.840137091365362
+finance act,3.142857142857143
+capital,1.0983272274832379
+legal proceeding,0.7714285714285716
+non-resident,0.0
+proceedings of assessment,1.0

@@ -1,0 +1,326 @@
+medical college regulations,1.5
+capacity,1.7421691881525676
+hereby,0.9937897922972551
+point,2.9165043546008516
+council,1.464939453675021
+process,1.6274942048088725
+higher,1.7172937941551014
+government,3.5583785424010483
+state quota,1.6666666666666667
+medical college regulation,1.5
+admission,1.5389848246991107
+case of renewal,1.0
+mrs,0.4085714285714286
+today,0.6330563683773655
+increase,1.3270102600811262
+petitioner,4.524972253052164
+gaurav,1.3333333333333333
+following additions  modifications deletions  substitution,0.0
+writ,2.8882378560889794
+admission capacity,5.5
+courses stands,0.5
+february,0.8575630252100839
+postgraduate courses stand,0.5
+scheme,3.415949119373777
+august,0.977116704805492
+scheme for permission,0.5
+super speciality,1.3333333333333333
+institute,0.9140980436760691
+read with section,2.3513513513513513
+extension of time,1.5
+council of india note,0.0
+previous sanction of the central government hereby,2.5
+medical course for all india quota,0.0
+publication,1.3442779291553135
+medical education,0.9714285714285713
+appendix,0.8502415458937198
+mr gaurav,1.25
+course,1.6545957498716626
+medical education regulations,1.5
+deletion,2.029510395707579
+establishment,0.9899216125419933
+result of the post graduation,0.5
+increase of admission capacity,5.0
+applicants,0.6960950764006791
+examination,2.4920345926263088
+mbbs course note,0.0
+course for all india quota,0.0
+previous sanction,1.8
+natural calamity in the state,0.5
+alse general for the union,0.0
+counsel for the medical council,0.6666666666666666
+higher course of study,3.5
+previous sanction of the central government,2.25
+seats,4.349544072948328
+graduate,2.968643655809431
+deletions,0.4339622641509434
+super,1.7473819518075788
+mbbs courserenewal,0.5
+admissionallotment,1.5
+education,2.1892608326253185
+court,12.24425115501509
+speciality,0.9
+declaration,2.152560083594566
+counselling,1.011904761904762
+amendment,2.2486412346818434
+calamity,0.3636363636363636
+force,1.6009408121948314
+union,2.0981927710843373
+notification,3.0112746633260263
+training,2.5456213222568365
+prayer in the writ petition,0.75
+medical courses,1.25
+states,1.5120646995827023
+indian medical council act,2.0
+petition,5.3436539306104525
+prayer,0.6969296987087519
+writ petition,6.24223602484472
+schedule in letter,0.5
+xxx xxx in exercise,0.0
+following schedules,0.5
+xxx,1.8708487084870848
+after last date,1.0
+respect of declaration,0.6666666666666666
+study,1.4280920541907696
+part,5.294464509893076
+time,2.4764180952862667
+sanction of the central government hereby,2.5
+central government,3.0380952380952384
+time schedule for receipt,2.0
+nothing,0.8658723322806009
+graduation,0.3440860215053763
+india quota seats,1.3333333333333333
+medical council of india,3.142857142857143
+joining,0.8649425287356324
+postgraduate course of study,3.5
+impleadment,1.3333333333333333
+medical council of india note,0.0
+applications,1.0021816198527407
+council of india wit,2.3333333333333335
+board,2.401414435268602
+indian,1.2604961505560306
+medical courses for all india quota,0.5
+post,2.344803646492219
+first mbbs course note,0.0
+receipt,1.5471923536439667
+vide,4.454025282767798
+stakeholders,0.8333333333333334
+aforesaid,2.592896174863388
+schedule for receipt,2.5
+education examination,0.5
+additional solicitor general,2.5
+calamity in the state,0.5
+india xxx xxx xxx,0.0
+colleges  institutions,0.0
+permission,1.1531211886018407
+schedule as the date,0.5
+mbbs,1.125
+processing,1.122175821822465
+seat,2.8245469748060423
+new medical collegesrenewal,0.5
+application for establishment,0.0
+coursesincrease of admission capacity,1.0
+new medical colleges,1.0
+modifications,1.0069444444444444
+addition,1.5588539142412572
+courses for all india quota,0.5
+nothing remain,0.4
+post graduate course,2.8333333333333335
+result,1.3356630184144715
+course of study,12.0
+admission process for pg,1.0
+pinky,0.6
+exercise of powers,0.6493506493506495
+coursesincrease,1.0
+college regulations,1.5
+tamil,3.111111111111111
+opening,0.7180555555555556
+medical course,2.2
+application for opening,0.0
+academic year,2.555555555555556
+tamil nadu,3.176470588235294
+institutecollegecourse,1.5
+march,1.0644238856181665
+read,2.2147281730888695
+petitions,1.3930830039525692
+mrs pinky anand,0.5
+last date,1.9285714285714286
+power,3.8165227690948367
+central government hereby,2.5
+gazette,0.9578231292517008
+admission process for postgraduate courses stands,0.5
+broad,0.8864777327935223
+counsel,2.2246780703440323
+vacant after last date,1.0
+postgraduate courses stands,0.5
+year,2.8349484769759212
+application,2.3322596088086445
+medical council of india wit,3.0
+secretary,0.9217877094972067
+mr gaurav sharma,1.3333333333333333
+india,2.7684068260703585
+post graduation,0.5
+pgi,0.19014084507042253
+following regulations,2.0
+postgraduate,2.153846153846154
+regulation on graduate,0.0
+time schedule,1.1428571428571428
+alse general,0.0
+renewal,1.090909090909091
+respect,2.6704963235294117
+india note,0.0
+counsel for the petitioner,1.4242424242424243
+stamp of approval,0.5142857142857143
+applications for increase,0.5
+medical colleges  renewal,0.0
+following regulation,2.0
+solicitor,1.7073170731707317
+admission process for first mbbs course note,0.0
+colleges  institution,0.0
+notification reads,0.5
+heard,0.782882203033377
+anand,1.15
+sharma,0.9516994633273703
+admissionallotment of seats,1.5
+xxx xxx,0.8043478260869567
+order,5.472481489660944
+india wit,1.5454545454545454
+admission proces for postgraduate courses stands,0.0
+aiims,1.8333333333333333
+vide amendment notification,0.5
+new,0.9418497626301229
+higher course,3.5
+act,12.870263922028107
+schedule on letter,0.5
+post graduate course of study,4.0
+substitutions,0.5714285714285714
+may,3.683418028199994
+chief secretaries,0.8
+additions,0.44999999999999996
+following additions  modifications  deletions  substitutions,0.0
+aiim,1.1
+xxx xxx xxx in exercise,0.0
+applications for impleadment,0.6666666666666666
+national,1.5126860273884035
+deviation whatsoever,0.5
+institutecollegecourses,1.5
+national board of examination,0.5
+council of india,2.909090909090909
+india quota,3.25
+medical,1.633306645316253
+chief,1.9429638234317954
+vide notification,1.2
+existing,1.473783515392254
+college regulation,1.5
+application for impleadment,0.0
+deviation,0.8101851851851853
+education regulation,1.5
+spirit,0.6048586885080135
+natural calamity,0.5
+india quota seat,1.3333333333333333
+allotment,4.111111111111112
+circumstances,1.3944461370073231
+substitution,0.5932203389830508
+interlocutory,1.96
+admission process,2.0
+secretaries,0.75
+applications of post graduate,0.5
+india that the result,0.5
+completion,1.1868131868131868
+solicitor general,1.7368421052631577
+courses,1.0904013961605583
+xxx xxx xxx,3.176470588235294
+sanction of the central government,2.25
+following schedule,0.6000000000000001
+mbb,0.75
+modification,0.9714977645305514
+medical colleges,1.4285714285714286
+national board,0.2222222222222222
+following additions  modifications  deletions  substitution,0.0
+permission for increase,0.5
+board of examination,0.5
+medical collegesinstitution,0.5
+interlocutory application,1.7333333333333334
+sanction,2.0167207792207793
+state,6.817996007300392
+application to the medical council,1.0
+case,7.332269420884958
+regulations,3.7157723577235777
+medical college,1.45748987854251
+admission proces for first mbbs course note,0.0
+new medical collegesrenewal of permission,0.5
+official,2.6854955160358718
+note,1.3654108484234107
+regulations on graduate,1.5
+post graduate,3.1999999999999997
+section,9.287987283173626
+exercise,1.9400726466785694
+solicitor general for the union,0.8
+applications for opening,0.5
+new medical college,1.0
+institutions,2.2839413875598087
+notification read,0.5
+general,1.7536558414534391
+central,2.61875
+college,2.1498947162234954
+chief secretary,1.6923076923076923
+medical council of india xxx xxx xxx,0.0
+letter,2.707240080105903
+quota,2.2173531989482913
+quota note,0.0
+january,0.8699641577060931
+admission proces for pg,0.0
+writ petitions,2.984848484848485
+nadu,1.4166666666666665
+vacant,1.8672727272727272
+medical collegesinstitutions,0.5
+postgraduate course,3.5
+medical education examination,0.5
+education regulations,1.5
+establishment of medical college regulations,1.5
+exercise of the powers,1.4545454545454546
+publication in the official gazette,2.0
+applications for establishment,1.0
+circumstance,1.429931390219372
+therein,1.5503424657534246
+medical colleges  renewal of permission,0.0
+stamp,0.871914299021891
+regulation,4.3783195107648485
+schedules,0.5171957671957672
+time schedule for completion,1.6666666666666667
+government hereby,2.5
+following additions  modifications deletions  substitutions,0.0
+regard,2.723310344827586
+courses stand,0.5
+force from the date,2.5
+approval,1.4085456739300164
+appendix in  postgraduate,0.0
+official gazette,1.1282051282051282
+additional solicitor general for the union,0.75
+aforesaid schedule,0.5
+date,6.195616975795285
+proces,1.627944583238701
+interlocutory applications,1.0833333333333333
+wit,7.927883367146261
+indicated therein,1.3333333333333333
+processing of the applications,2.5
+admission capacity in any course,4.0
+colleges,1.9166666666666667
+admission proces,2.0
+council of india xxx xxx xxx,0.0
+stakeholder,0.9333333333333332
+medical education regulation,1.5
+institution,2.7327010745685443
+schedule,2.9453067257945307
+july,0.9742727723122656
+application for increase,0.0
+application of post graduate,0.0
+applicant,0.7861822513400833
+admission capacity in mbbs courserenewal,0.5
+powers,1.876345371920593
+notifications,1.9743589743589745
+medical council,4.375
+medical council act,2.0
+current academic year,1.5
+extension,0.7526908023483366
+broad speciality,1.0

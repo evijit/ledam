@@ -1,0 +1,2629 @@
+land use regulation,0.5
+provisions of mpd,0.5
+government,3.5583785424010483
+suitable cases,0.5
+several representations,0.6666666666666666
+environment law,0.5
+second floor of d- hauz khas,0.0
+unauthorised use of the basement,0.5
+clinical pathological laboratory,0.5
+document with a view,0.0
+occasions,0.7723557692307693
+signature,1.1400966183574879
+establishment,0.9899216125419933
+writ in the high court,0.5
+neighbouring resident of the locality,0.0
+suitable case,0.5
+master plan,4.666666666666667
+obnoxious level,1.0
+affected individuals,0.5
+redress,1.2
+provision of the water,0.0
+case of the appellant,1.1714285714285715
+blatant violation of the rule,1.0
+creatures,0.4020618556701031
+that the issuance,0.75
+better appreciation,0.6666666666666666
+catena of decisions,1.0833333333333333
+pays,1.4171779141104293
+constitutional imperative,0.5
+union,2.0981927710843373
+unauthorized colony,0.0
+facilities,0.9130594727161252
+in law,1.1088664421997756
+court with clean hands,0.5
+cause,1.8431210321626654
+way,1.7812722068664852
+floor of d- hauz khas,0.0
+indians in large numbers,0.5
+states in the master plan,0.5
+relevant sections in the master plan,0.5
+appeal by special leave arises,0.6666666666666666
+court in the first phase,0.5
+houses,1.0821764442454098
+oil,0.6595019659239842
+chemical substance,0.5
+animus,0.75
+facility,1.2989690721649485
+for the appellant,2.0108108108108107
+dwelling,1.5285087719298245
+objection that no fundamental rights,0.5
+ground floor of the premises,0.5
+account of the unlawful activities,0.5
+contrary,1.027917657672435
+aforesaid,2.592896174863388
+basic human rights meaningful,1.0
+correctnes,0.8404159132007234
+grant of the regularisation certificate,0.5
+time before this court,1.3333333333333333
+breach,1.3366228070175439
+jhompri,0.5
+- organism,0.0
+different stages with regard,0.5
+provisions of the act,2.6056338028169015
+to the fact,0.8902887139107611
+shed,1.5094908862350724
+expert,2.5786336542870245
+stage,1.1298537871524448
+residents of hauz khas,1.0
+wherein,1.0724137931034483
+concept of cause,0.5
+rival legal contention,1.75
+safety norms,0.5
+duty of the state,1.0
+filing of petitions,0.5
+subject,2.4420366233344897
+walled,1.3888888888888888
+order,5.472481489660944
+report of the dpcc,1.0
+creature,0.4845338524767467
+kind of activity,0.5
+electric panel,1.0
+various category of colonies,0.0
+decades,0.5510204081632653
+litigation of that pattern,0.5
+high court of delhi vide,0.5
+standards,1.312168199737188
+pleading,1.1270125223613594
+mcd in favour,0.5
+major highlights of the master plan,0.5
+collective proceeding,0.5
+underground water tanks,0.5
+copy,0.8620926631522174
+safety of the residents,0.5
+pendency,1.0084033613445378
+incorrect statement of fact,0.6666666666666666
+catena,0.5013888888888888
+aforesaid generators in the building,0.5
+member,2.649111111111111
+prior approval,0.787878787878788
+parties,1.8210828547990157
+various judgment,1.1818181818181819
+personal animu,0.5
+special leave arise,0.6666666666666666
+new strategies,0.5
+respondents with respect,1.0
+interest of a trustee,0.5
+violation of the provisions,1.5
+new banks,0.5
+traffic study,1.0
+applicable for the purpose of this chapter,0.5
+safety measure,0.37037037037037035
+jhuggi jhompri clusters in various parts,0.5
+shop,1.5065156686317096
+condition,2.259476395625584
+relevant provisions of mpd,0.5
+part of the process,0.9523809523809524
+permissible under clause,0.5
+that several representation,0.5
+speech,1.9520676691729324
+second floor for utilities,0.5
+sound pollution,1.5
+part of lutyens,0.5
+development authorities,0.6666666666666666
+other than the purpose,0.5
+parking problem,1.0
+seal,1.5645371577574967
+international,1.4453445246925631
+building for the purpose,1.2857142857142858
+vide so,0.39634146341463417
+relevant paras,1.5
+present case,1.5611814345991561
+standi,1.284595524956971
+general condition,2.75
+unauthorized colonies,1.0
+floor of the premises,1.5
+exclusive owner of the terrace,0.5
+right of the people,0.171875
+stack on several occasions,0.5
+proces,1.627944583238701
+only way,0.3266090297790586
+nagappan,0.6666666666666666
+hygienic environment,0.5
+promise,2.0067372473532243
+space,0.49637233360798316
+aural aggression,0.5
+para,2.300239586747483
+grindlay,45.0
+arrangement,0.7318181818181818
+slums,0.5
+powers,1.876345371920593
+- amounting,0.0
+units,5.004460400348129
+expensive plurality of litigations,0.5
+mrs,0.4085714285714286
+consent of delhi pollution control committee,0.5
+perusal of the master plan,0.5
+trespass,1.6722222222222223
+relevant para,0.9857142857142858
+demand of commercial activities,0.5
+use policy arise from the fact,0.0
+president,2.1267129228100607
+reality,0.6251091491219559
+post-partition rehabilitation colony,0.0
+personal animus against the answering respondents,0.5
+important case,0.6666666666666666
+portions of the master plan,0.5
+respondent - owners in the set - back area,0.0
+roads,0.5501567398119123
+charge,2.7679815308681284
+activity of the respondent - owners,0.0
+high courts,2.676470588235294
+in the colony,0.0
+pathology,0.9696969696969697
+pathological lab whereas the conditions,0.5
+country,1.2903191103863751
+nabl certification,1.0
+validity of the regularisation certificate,1.0
+byelaw,5.363636363636363
+villages,0.7433206106870229
+mixed use in the area,0.5
+several occasions,0.5
+complaints,0.9978858350951374
+actions,3.633288043478261
+non-permissible us,0.0
+opportunity,0.946186440677966
+impugned judgment,2.0927152317880795
+one-time parking charges,0.0
+non-residential activity,0.0
+chemical,1.5078102189781022
+to conditions,0.6666666666666666
+human rights meaningful,1.0
+cracks,0.4905660377358491
+engineer,3.318922187370092
+responsible persons,0.4444444444444444
+post,2.344803646492219
+entire case law on the question,0.5
+nursing home,3.0
+appeal on all aspects,0.5
+approach i,0.48148148148148157
+judge vide order,1.3333333333333333
+work-place,0.0
+country s capital,0.0
+bodies,0.8969063256135499
+merit,1.2419290263876248
+electricity supply,1.7272727272727273
+labs,0.4235924932975871
+respondent-owners wef,0.0
+large numbers,0.4833333333333334
+bengal,1.9299191374663072
+points of the master plan,0.5
+bye-law,0.0
+first question,0.5
+uses,1.4908719787871272
+better synergy,0.5
+highlights,0.5823529411764706
+peaceful,1.2382617382617382
+vicinity of the diagnostic center,0.5
+under clause,2.185185185185185
+doorstep,0.38709677419354843
+prospective in nature,0.8
+physico,1.0
+to the building bye - laws,0.0
+usage of such generator sets,0.5
+resident of the area,0.0
+various types of pollution,1.0
+nature of ligation,0.5
+than the walled city,0.5
+voice trespass into the ears,0.5
+that the regularisation certificate,1.0
+trade effluent,1.0
+sort of remedies,0.5
+additional solicitor,2.5454545454545454
+wherea in the regularisation certificate,0.0
+sewer,0.7391304347826088
+vehicle,2.973111766564837
+writ petition as a pil,0.5
+duties,1.477142857142857
+plot in question,1.0
+mr  justice,0.0
+hazardous substances,0.5
+special,1.7363344051446945
+conduct of the mcd,0.5
+centre,1.3584842944989197
+december,0.9629002463054187
+first time,0.7741935483870968
+streets of mixed use activity,0.5
+permission from the mcd,0.5
+other neighbouring residents of the locality,0.5
+powers on government,0.5
+v president,0.5
+illegal activity on the part,0.0
+respondent - owners of the pathological lab,0.0
+relevant aspect of the case,0.0
+public interest litigation cases,0.5
+activities of the pathological lab,1.0
+to the pleadings before the courts,0.5
+to condition,0.6666666666666666
+respondent - owners amount,0.0
+photographs,0.8524590163934426
+contravention of the building bye-laws,0.0
+poverty,0.4403669724770643
+brief facts,1.0
+centre per day,0.5
+lpa,0.9672836569649268
+following reason,0.505050505050505
+spirited individual,1.0
+report,1.7768151696835826
+judicial redress,1.0
+protection,1.1604395604395603
+mixed use street,1.0
+principle,1.9620890732001848
+nursing home whereas a pathological lab,0.5
+anything,0.9132309941520469
+state in the master plan,0.0
+upon by the appellant,1.0
+- regularized colony,0.0
+factor,1.2878742338904643
+mehta,2.3529411764705888
+current processual jurisprudence,0.5
+large number of patients,0.5
+residential plot in question,0.5
+health facilities,1.0
+restaurant,0.5578947368421052
+to payment of appropriate charges,1.0
+issue of the certificate ie,0.5
+inspection,0.8496732026143791
+semi-public activities,0.0
+division bench,3.965217391304348
+date,6.195616975795285
+mcd in pursuance,0.5
+illegal activities on the part,0.5
+special provisions,1.0
+respondent,4.757894736842104
+application for an appropriate direction,0.5
+impossible for the appellant,0.5
+undisputed fact that the consent,0.5
+air conditioner,0.5
+generator,1.8385650224215246
+anz grindlays bank v,0.5
+helplessnes,0.5962732919254659
+corpn,1.3333333333333333
+aspect of the case,1.4
+other than the walled city,0.5
+other parts of the special area,0.5
+artificial device,0.5
+running of the pathological lab,3.0
+approach,1.001908852302553
+impact,1.0957789249924081
+indian jurisprudence,0.6666666666666666
+mr hp,1.0
+unauthorized-regularized colonies,0.0
+honble,2.4444444444444446
+protect,1.3617723471920007
+commercial activity of the respondents - owners,0.0
+second floor of the building,1.0
+supreme court,1.4278957326045825
+pathological laboratory in the concerned building,0.5
+noise pollution to a great extent,0.5
+unlawful activities of the respondent-owners,0.0
+commr,0.5384615384615384
+heading,2.130249543517955
+resident,1.6560361185631094
+constitutional obligation root out exploitation,0.5
+high,5.367119186841496
+correctness of clauses,0.5
+payment,2.059553716565686
+ground floor,2.4
+omission of an authority,0.5
+other local residents,0.5
+kamagar,0.6666666666666666
+legal action against the respondent - owner,0.0
+human right,1.1211406518010292
+clean hands,0.5
+necessary prompt step,0.5
+laboratory,1.037248755301494
+to the building bye - law,0.0
+cases of the decades,0.5
+to the sound,0.3529411764705882
+regularisation certificate on the ground,0.5
+appellant upon the judgment of this court,0.5
+constructions,0.6758620689655173
+xxxxxxx,0.38888888888888895
+nos,1.2635492554198444
+consent from dpcc,0.5
+illegal structure in the residential premises,0.5
+week from the date,0.6666666666666666
+new method,0.23529411764705882
+contrary to the legal principles,0.5
+preventive action against the respondent - owners,0.0
+solution,1.96476833976834
+sqm,1.1513353115727003
+delhi development act,1.0
+respondent - owner from dpcc,0.0
+environmental needs of the area,0.5
+exhaust pipe,0.2631578947368421
+homes,0.6853146853146853
+respondents - owners,0.0
+stretch of road,0.6666666666666666
+concerned property,1.0
+builder,1.1415929203539823
+permissible in plotted development,0.5
+which reliance,0.9166666666666666
+such kind,0.5555555555555556
+v president of india,0.5
+heavy medical equipments,0.5
+legal plea,0.5
+hereinafter,0.7670609645131939
+special leave arises,0.6666666666666666
+complaints to the concerned authorities,0.5
+persons under sections,0.6666666666666666
+habea,1.4
+redress for the benefit,0.5
+running,1.4160059791608657
+domestic purposes,0.5
+structural safety norms,0.5
+court against the answering respondents,0.5
+reads,0.8722657304887929
+relevant aspects,0.7619047619047619
+exces,0.9881465517241379
+retail shop,1.3333333333333333
+- permissible us,0.0
+award,3.104213525266157
+labourers,1.1666666666666667
+renewal,1.090909090909091
+other part,0.7900432900432901
+mixed use i,3.0
+various type,0.5
+zone,1.373358348968105
+view of the fact,0.8707482993197279
+access to justice,8.857142857142858
+disadvantaged position,1.0
+new,0.9418497626301229
+anglo,0.26666666666666666
+heavy medical equipment,0.5
+acces,1.6146156832298137
+which such mixed use activity,0.5
+economic entitlements,0.5
+wef,0.859375
+uttaranchal v balwant singh chaufal manuscmanusc,0.5
+population enhancement,0.5
+medical equipment,0.6666666666666666
+voice trespas,0.5
+imperative on the state government,0.5
+nursing home in favour,0.5
+evidence,3.6676405172088815
+document,1.401100265092073
+whereas in the regularisation certificate,0.5
+necessary prompt steps,0.5
+appropriate legal action against the respondent-owner,0.0
+residential building,1.5
+aforesaid conditions,0.6666666666666666
+strategies,0.45454545454545453
+meters,0.9235886065154357
+installation,0.5759005145797599
+municipalities,1.1454545454545455
+subject to payment of appropriate charges,1.0
+masses of people,0.5
+neighboring,0.25
+little indian,1.0
+public rights,0.6666666666666666
+historic fact,0.2857142857142857
+diagnostic center,1.0
+emphasi,0.9191619047619048
+annexure,2.7560975609756095
+pre-primary schools,0.0
+venugopal,2.7142857142857144
+ears,2.380046985957606
+deeds,1.0200708382526564
+residential premise,2.3333333333333335
+pre-delhi development act colony,0.0
+high court of delhi,1.4761904761904763
+diversity in the typology,0.5
+animus against the answering respondent,0.5
+commercial activities of the pathological lab,0.5
+types,0.6765151515151515
+factors,0.9829522460542292
+d colony,0.5
+fide,0.8955057484612704
+mixed use regulation under the delhi master plan,0.0
+above provision,1.2727272727272727
+contravention of the building byelaws,1.5
+aggression,0.2569444444444444
+singh,3.7791111111111113
+wrong,1.2933182103578877
+persistent request,0.5
+liberal reception at the judicial doorsteps,0.5
+till date,1.2352941176470589
+purposes,1.4391216613438835
+area  street for mixed use activity,0.0
+quality,1.3318577075098814
+premise of concerned building,0.0
+entire case law,0.5
+hereunder for better appreciation,0.5
+service,4.257395095954566
+therefore,2.960332350576253
+first phase of the public interest litigation,0.5
+subject - matter,0.0
+activity in the concerned building,0.0
+relief thereunder,0.5
+mixed use regulation,2.5
+public interest litigation,9.714285714285714
+notice in writ petition,0.5
+rule,5.04
+the respondent-owners,0.0
+proceedings,1.7670925223666287
+favour,1.653145208700764
+man - made,0.0
+other heavy equipment,0.5
+appropriate premise,0.5
+national capital territory,0.75
+- as conversions charge,0.0
+soshit,0.5
+material information,0.6666666666666666
+properties,1.7286779414438989
+respondents,2.6341263330598856
+victims of deception,0.5
+air pollutant,1.0
+large pathological lab in the name,0.5
+costs,0.8167395522604189
+commercial activity in the form,0.5
+aforesaid generator set,0.5
+activity i,0.8487460815047022
+restriction with respect,0.5
+mixed use in residential areas,0.5
+most of the public interest litigation cases,0.5
+sections of the community,1.2
+large mass of people,0.0
+animu,0.75
+process,1.6274942048088725
+section in the master plan,0.0
+power,3.8165227690948367
+use regulation,3.0
+account of regularisation,0.5
+use in a street  area,0.0
+other health facilities,0.5
+pathological lab whereas the condition,0.5
+various types,0.5
+neighbouring residents,0.5
+case on hand,1.2941176470588236
+appropriate legal action against the respondent-owners,0.0
+examination,2.4920345926263088
+development in areas,0.5
+structural safety norm,0.5
+limited notice to the respondents,0.5
+- matter thereof,0.0
+such generator set,0.5
+enclosure,0.3387096774193548
+signature tune,0.5
+vehicles,1.4161490683229814
+position,1.549133168619177
+aforesaid respondent,0.5
+workman,2.3486111111111114
+petition,5.3436539306104525
+sense of the term,0.7000000000000001
+remedy,1.3214024835646458
+financial years,2.75
+guidelines,1.540251572327044
+close proximity,0.42352941176470593
+notice of the courts,0.5
+bharatiya,0.5
+government of india,4.94
+paragraph,1.2930197483150305
+utility service,0.6666666666666666
+adequate measures,0.5
+contravention of the air,0.5
+reasoning of the division bench,0.6666666666666666
+locus standi requirement,0.5
+words,1.6384367086179112
+sound - proof enclosures,0.0
+pointer,0.40648379052369077
+phase,1.4803405572755417
+respondent - owner in the concerned building,0.0
+freedom of speech,2.2937062937062933
+affected neighbours,0.5
+commissioner,2.271608643457383
+clause,3.526455026455027
+legal contentions,2.230769230769231
+large masses of people,0.5
+preventive action against the respondent - owner,0.0
+arrangements,0.6399535423925667
+carry,1.0476085486668432
+clusters,0.19047619047619047
+health facility,0.0
+concerned building under the master plan,0.5
+resettlement colony,0.0
+appropriate charge,1.5
+photograph,1.2280701754385965
+legal action against the respondent - owners,0.0
+resettlement colonies,1.3333333333333333
+other local resident,0.5
+voice trespas into the ears,0.0
+family,1.856281506375408
+ministry,1.6350210970464136
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+phase of the public interest litigation,0.5
+lab by the respondent - owners air,0.0
+zonal regulations,0.5
+municipality,1.96875
+historic facts,0.2857142857142857
+residents of the concerned building,0.5
+collective proceedings,0.5
+writ petition proceedings,0.6666666666666666
+floor for utilities,0.5
+substance,0.8230581678857541
+new methods,0.2857142857142857
+heavy equipment,0.75
+- on account of regularisation,0.0
+strategy for the purpose,0.0
+fact of the case,0.0
+special leave,1.903225806451613
+gopala gowda,1.1538461538461537
+legal injury,1.6666666666666667
+public-spirited individuals,0.0
+stream,1.0738555922605002
+unlawful activities,2.0
+appropriate premises,0.5
+little indian in large numbers,0.0
+exercise of jurisdiction,1.0666666666666667
+court against the answering respondent,0.5
+clean hand,0.5
+aforesaid clauses,0.8
+time of preparation,0.5
+new strategy,0.0
+national,1.5126860273884035
+unauthorized construction,1.3333333333333333
+bounden,0.8
+constitutional imperative on the state government,0.5
+use activity in residential premises,0.5
+urban villages,0.5
+such heavy equipments like generator set,0.5
+occasion,0.7946745562130177
+balwant singh,1.5
+relevant provision of mpd,0.0
+learned senior counsel for the respondent - owners,0.0
+great hardship,0.75
+supreme,1.443815331010453
+- residential activity,0.0
+large diesel generator set,0.5
+requirement,1.2416133333333332
+service shops,0.5
+installation of heavy equipments,0.5
+absence of a definition,0.5
+fact that the consent,0.5
+fitness centres,1.0
+spirited individuals,1.0
+subject to the general conditions,1.0
+d- hauz khas,0.0
+deal,2.1942302694273583
+mpd,4.173913043478261
+general,1.7536558414534391
+era,4.5714514802649
+various type of pollution,0.0
+group of persons,1.75
+use regulation under mpd,0.0
+determinate clas of persons,0.0
+colony,0.5172413793103449
+other heavy equipments,0.5
+certain workmen,0.5
+nature,1.4149926876444778
+injustice,1.1882716049382718
+acces to the roof,0.0
+respondent no,5.395833333333333
+planning,1.4283088235294117
+activity on the part,0.0
+individual case,0.6000000000000001
+hauz,1.6666666666666667
+b colonies,1.0
+devices,0.40586245772266066
+petitioners,3.536507936507937
+permission fee,0.5
+aforesaid condition,0.8
+conclusion on the contentious points,0.0
+activity in basements,0.5
+khas,1.7515151515151515
+stretch,0.5192424242424243
+something,0.5915378827342709
+action,3.127292663476874
+further state,1.1904761904761905
+golden era of the public interest litigation,0.5
+better synergy between work-place,0.0
+pollutant,0.5681818181818181
+public interest litigation case,0.5
+due to the sound,0.5
+decisions of the supreme court,0.5
+repair shop,0.2727272727272727
+bounden duty of the citizens,0.5
+notifications,1.9743589743589745
+dpcc-respondent,0.0
+private interest litigation,0.75
+creche,1.0
+findings,1.049571253572887
+technology,1.0922599740512486
+to the mixed use regulation under the delhi master plan,0.0
+plots,0.8001672240802675
+deception,0.5
+interest of society,0.5
+residential property,0.5
+large number of residents,0.5
+confers power on the government,0.0
+generators in the building,0.5
+respondent - owners in the concerned building,0.0
+major,1.2322145202480845
+other hand,0.6931925622439332
+various clauses,0.8
+doctors,2.018642703862661
+impact on the municipal services,0.5
+cluster,0.18055555555555555
+conditioners,0.5
+sections,1.640495469442838
+complaint in the public interest litigation,0.5
+individual litigation,0.5
+instance,0.9469803370786518
+organism,0.3695652173913043
+terrace,1.5
+various categories,0.8
+railway,5.321428571428572
+shelter,0.8820998278829605
+dpcc,6.333333333333333
+b categories except the following,0.5
+nursing,2.2727272727272725
+court,12.24425115501509
+commercial activity,1.3333333333333335
+lab in the building,1.0
+volume of speech,0.5
+single judge,4.011627906976744
+objection,1.68120480131216
+person,4.291511329454258
+row in c,0.5
+further reliance upon the various judgments,0.5
+aforesaid activity,0.0
+adequate measure,0.5
+correctness,0.8404159132007234
+legal contention,2.230769230769231
+determination by the high court,0.75
+harm to public health,0.5
+local resident,3.0
+power on the high court,0.5
+ground floor of the building,0.5
+pathological lab right,0.5
+series,0.4722257940079723
+different stage,0.6060606060606061
+erroneou on factual position,0.0
+number,1.4802651440973922
+decision,2.9514937765898557
+canteen,0.4444444444444444
+mcd before the high court,0.5
+hands,1.1725490196078434
+competent authority,2.7142857142857144
+strategic exercise of jurisdiction,0.5
+private dispute,2.5
+history,0.5728887807252372
+grant of regularisation certificate,1.5
+premises of concerned building,0.5
+pre-primary school,0.0
+chemical property,0.0
+house,2.0021735292386764
+solutions,1.721700444883836
+neighboring resident,0.5
+years from the date,1.8518518518518519
+mixed,3.1294117647058823
+such consent,1.25
+overhead tank,0.5
+streets,0.6508108108108107
+running of a nursing home,1.5
+resident health,0.5
+national capital territory of delhi laws,0.5
+nageshwar rao,1.3333333333333333
+year,2.8349484769759212
+prompt steps,0.6666666666666666
+affirmation of participative justice,0.5
+speech with the help,0.5
+residential premises,2.3333333333333335
+mixed use policy arise,0.5
+judgment,3.288216560509554
+reportable judgment,1.2
+municipal legislation,0.5
+remedies,0.6206451612903225
+residents,0.8191605554688717
+such as running of a nursing home,0.5
+pipe,0.4457988680888115
+injury,1.7199352451433856
+residential plot,3.3333333333333335
+golden era,0.5
+act,12.870263922028107
+pollution,3.0000000000000004
+applicable in respect of the noise pollution,0.5
+clas,2.1196191893660425
+types of pollution,1.0
+extent of mixed use,0.5
+- spirited individuals,0.0
+several occasion,0.5
+indian in large numbers,0.0
+deviation,0.8101851851851853
+traditional meaning,0.5
+level,1.1533169827122092
+minimum,1.388221153846154
+statement of fact,0.5333333333333333
+mixed use regulations under the delhi master plan,0.5
+commercial activities,1.0666666666666667
+proprietary,1.4281871974179667
+nuisance,1.2280701754385965
+building byelaw,2.3333333333333335
+new bank,2.0
+effect in traffic circulation,0.5
+other decisions,1.0666666666666667
+relevant point,0.8333333333333334
+respondent - owner of the pathological lab,0.0
+- permissible uses,0.0
+assistant commissioner of police,1.25
+in respect of noise pollution,0.5
+human beings,0.6097152428810719
+statutory duty on account,0.0
+building byelaws,3.0
+writ appeal,2.2142857142857144
+section,9.287987283173626
+strategy,0.5837837837837838
+meters above the height,0.5
+assistance of artificial devices,0.5
+doorsteps,0.4
+thereunder,1.2794117647058825
+water,0.9741079360379036
+neighbour,0.8760330578512397
+judicial redres,1.0
+expensive plurality,0.5
+repair shops,0.5
+interest litigation case,0.5
+noise,1.6221441124780316
+exceptional case,0.8484848484848485
+date of notification,1.125
+standard,1.4669008088548319
+reliance upon the various judgments,0.5
+view of the facts,1.0
+master,1.0034463223491643
+priyanka estate,0.5
+victim of deception,0.0
+case law on the question,0.5
+permission of non-residential activity,0.0
+lab,1.805473489684016
+officers,2.442124212421242
+finding,1.8129183657767178
+union v union,0.75
+permission from the high court,0.5
+demolition,1.105263157894737
+approval of central government,0.5
+appellant herein,2.046153846153846
+regard,2.723310344827586
+clas of persons,0.0
+shortfall,0.6000000000000001
+life of utter deprivation,0.5
+unlawful activities of the respondent - owners,0.0
+micro-organism,0.0
+strict constitutional approach,0.5
+direction,1.8495050210098996
+bonded,0.9890109890109888
+rights,1.6349541930937281
+public inconvenience,0.5
+fundamental rights,2.1587301587301586
+facts,1.4696673624372698
+guest,0.38823529411764707
+municipal,2.4099173553719004
+aspects of the case,0.75
+fire,1.1391892447477696
+byelaws,4.3
+bandhua,1.75
+utter deprivation,0.5
+relevant portion,0.6486486486486488
+discharge,1.305219638242894
+wide powers,0.48
+justification,0.6859587020648967
+form,2.4865961263718424
+owner of the pathological lab,0.0
+the court,3.5331732002518597
+clause of the master plan,0.0
+residential area in the walled city,0.0
+guise,0.6130414088529271
+clinical laboratory,0.6666666666666666
+granting,0.8863960113960115
+inflammable activity,0.0
+pollution-free life,0.0
+safety norm,0.5
+home,0.9826663267907214
+provision of mpd,0.0
+unlawful activity of the respondent - owners,0.0
+benefit,2.604810195438474
+cost,1.2954397451466992
+reason of poverty,0.5
+such installation,0.25
+first floor of the building,0.6666666666666666
+wellness centres,1.0
+typology,0.3333333333333333
+such establishment,1.0
+obsolescent,0.6666666666666666
+minimum row of a street,1.0
+generator sets,7.0
+need for differentiated approach,0.5
+company,5.864471879286695
+-development code,0.0
+groups,0.9065945998117897
+other neighbouring resident of the locality,0.0
+freedom,1.9254884143571103
+acp,0.9384384384384385
+of the area,1.1168091168091168
+activity in the form,0.5
+guideline in the absence,0.0
+the respondent-owner,0.0
+mass,0.49419584798420113
+major highlight of the master plan,0.0
+jurisdiction under article,1.2857142857142858
+hereunder,1.4457142857142857
+size,0.4932317346481398
+west,1.1420057009587976
+corporation of delhi,1.4
+mixed use activity in residential premises,0.5
+air quality standard,1.3333333333333333
+inquiry,1.3527272727272728
+excess,0.9860601614086574
+organisms,0.21153846153846156
+matter,2.8088923076923082
+inflammable activities,0.5
+capital territory,0.75
+to the installation of heavy equipments,0.5
+legal pleas,0.5
+above directions of this court,0.6666666666666666
+stacks above the height,0.5
+indian,1.2604961505560306
+aid,5.498621453008654
+jurisdictions,0.48571428571428565
+activities,1.57291280148423
+constitution in the high court,0.8
+less on that plot,0.5
+mixed use regulations of the mpd,0.5
+owner mrs,0.5
+regularisation,6.857142857142857
+volume,0.5619176554909612
+number of patients,0.30000000000000004
+well,1.4966552780778166
+delhi law,0.75
+plurality of litigations,0.5
+document of evaluation,0.5
+unit,2.176678509944691
+mixed land use regulations,0.5
+roof,1.2680659823298095
+second floor,1.0153846153846153
+material,1.4148767018946966
+activity,1.3846153846153848
+enhancement,0.5810526315789474
+petitions,1.3930830039525692
+running of this large pathological lab,0.5
+polouse,0.0
+use regulations,3.0
+writs like habea,0.5
+guideline,1.5641711229946524
+city,2.544592792669584
+provision,5.439002243350069
+lab whereas the conditions,0.5
+portion of the master plan,0.0
+conclusions,0.8522069292833413
+domestic purpose,0.5
+fire safety clearance,0.5
+such legal wrong,0.5
+legal contention in seriatim,0.0
+activity of respondent - owners,0.0
+contravention,2.586206896551724
+lab on the ground floor,0.5
+importance,0.8632871064467765
+rear set - back area,0.0
+hauz khas area,0.5
+large number,1.0979284369114877
+courts in the public interest litigation,0.5
+estate,1.9402985074626868
+relevant paragraph from the decision,0.5
+workmen,6.571428571428572
+owner,2.9502416709822197
+inconsistency,0.7857142857142857
+calibration laboratory,0.0
+such cases,0.7390180878552971
+answering respondents,1.0
+gas-cylinder connection in the pathological lab,0.0
+government from time,0.8
+residential plots,1.0
+basements,0.25
+demand,1.5671679197994988
+thereto,1.0358342665173572
+generator in the building,0.0
+conditioner,0.47058823529411764
+para from the mpd,0.0
+owners,1.9409649385675758
+pre-delhi development act colonies,0.0
+victims,0.9
+exhaust pipe of the generators,0.5
+to the mixed use regulations under the delhi master plan,0.5
+extent,1.410108024691358
+roads of minimum row,1.0
+bondage,0.30769230769230765
+mixed use policy arises from the fact,0.5
+determinate clas,3.0
+respect of a proprietary interest,0.5
+unauthorized-regularized colony,0.0
+residential,1.3847358121330724
+gadde venkateswara rao v state of ap,0.5
+in the terrace,0.5
+such case,0.7332761578044598
+court under article,2.032258064516129
+teasing illusion,1.0
+senior counsel on behalf,4.0
+on the terrace of the building,0.5
+residential plot of the building,0.5
+interest in the matter,0.6666666666666666
+navin,0.4
+unauthorised use,0.5
+definition,1.6460425937698666
+local residents,2.5
+delhi,2.6089285714285717
+proposal stage at that time,0.5
+fresh writ petition,0.5
+statutory duty,1.0
+in the colonies,0.5
+request,1.1474439594584596
+major highlight,0.5
+conclusions on the contentious points,0.5
+municipal corporation of delhi,1.4
+fitness centre,1.0
+approval,1.4085456739300164
+behalf of the respondent-owners,0.0
+fundamental right of such person,0.5
+illegal burden,0.5
+gas,1.240010731232918
+sale deed,2.142857142857143
+stages,0.7858851674641147
+permissible,1.0504587155963303
+schools,0.700507614213198
+impermissible in law,1.2222222222222223
+permissible in a class,0.5
+resident of the second floor,1.0
+pathological laboratory,1.0
+premises in the dwelling unit,0.5
+ramsharan autyanuprasi v union,0.5
+zonal regulation,0.5
+benefit from the judicial system,0.5
+employees,4.611008798854102
+reliance on the grant,0.5
+principles,1.3198511166253102
+party to the writ petition proceedings,0.5
+permissible in various categories of colonies,0.5
+neighbours,0.5338983050847458
+calibration,0.1923076923076923
+laboratory in the concerned building,0.5
+various clause of the master plan,0.0
+writ,2.8882378560889794
+in respect of the noise pollution,0.5
+need,1.1097650269586634
+tanks,0.7482993197278911
+discharge of chemical properties,0.5
+underground water tank,0.5
+masses,0.3602430555555556
+notes,0.6013642564802183
+requisite of the environment,0.0
+consent from the dpcc,0.5
+air quality standards,1.3333333333333333
+mixed use norm,0.5
+other learned counsel on behalf,0.5
+electric panels,1.0
+deprivation,0.75
+corpus,0.525
+gupta,0.7610062893081762
+complaint to the concerned authorities,0.0
+determinate class,3.0
+economic justice,1.5
+learned,3.406323898681099
+part of the traffic study,0.5
+neighbouring local resident of the colony,0.0
+centre in the building,0.5
+lab in the rear,0.5
+certification,2.7598566308243724
+change,1.2214862766571903
+strict sense of the term,1.0
+nursing homes,0.5
+cases,1.9728229418951067
+diesel generator set,1.3333333333333333
+division,1.7657319129617017
+group,1.691932599016908
+preliminary objection that no fundamental right,0.5
+duty of every citizen,0.5
+wellness centre,1.0
+panels,0.4380165289256199
+retrospective effect,4.368421052631579
+locu,0.5823659840876484
+such heavy equipments like generator sets,0.5
+permission of mixed use activity,0.5
+use in residential areas,0.5
+municipal corporation,1.3439153439153437
+above direction,1.0
+liberal reception,0.5
+large diesel generator sets,0.5
+proprietary interest,0.6666666666666666
+access,1.61231677279827
+prosecution,4.619407894736842
+category of colonies,0.0
+that pattern,0.3333333333333333
+far,1.6071914070726991
+financial year,3.1666666666666665
+environment protection act,4.666666666666667
+counsel for the respondent - owners,0.0
+connection,1.050640279394645
+learned senior counsel,3.4615384615384617
+proposal stage,1.0
+same on the terrace of the building,0.5
+legal right of such determinate class,0.5
+calibration laboratories,0.5
+mandatory on the part of such establishment,0.5
+limits,0.8405888207868406
+permitted area,0.5
+lutyen,0.5
+parts,0.6609660823170732
+liberalised provision of mixed use,0.5
+india,2.7684068260703585
+damage of the building,0.5
+builders,0.5416666666666667
+municipal service,1.0
+trespas,1.6722222222222223
+justification of the inaction,0.5
+care of such cases,0.5
+aforesaid claus,0.875
+various clauses of the master plan,0.5
+exploitation,0.6222222222222222
+urban renewal areas,0.5
+association,1.2099052684061826
+pil,0.8227750138197899
+device,0.5076282415294341
+parts of the special area,0.5
+floor of the concerned building,2.5
+malhotra,1.625
+submissions,0.5235745614035088
+statutory duties,1.25
+semi-public activity,0.0
+due to the installation of heavy equipments,0.5
+stage with regard,0.0
+imperative duty,0.5
+use of residential premises,0.5
+title deeds of the property,0.5
+question of locus standi,0.5
+subject - matter thereof,0.0
+decision of this court,2.3260869565217392
+meaningful reality,0.5
+rule of locus standi,1.0
+pathological lab,20.5
+neighbouring local residents of the colony,0.5
+reliance,1.400763358778626
+constitutional obligation root,0.5
+pathological lab in the concerned building,1.5
+permissible limits,1.0
+chemical operation,0.5
+inaction,0.6031746031746033
+bye-law of mcd,0.0
+forced labour,0.5
+judicial doorstep,0.5
+requisite,0.7788359788359789
+affected neighbour,0.5
+mcd to the respondent - owners,0.0
+scc,1.941872465904902
+b category except the following,0.0
+various complaint to the concerned authorities,0.0
+systematic series,0.5
+laboratory under section,0.5
+planning authority under the heading,0.5
+land use regulations,0.5
+wellnes,1.0
+affected neighbour of the building,0.0
+writ petitions,2.984848484848485
+capital territory of delhi laws,0.5
+aforesaid activities of the respondent - owners,0.0
+violation of law,1.1666666666666667
+commercial area,0.25
+portion,1.0756311179804223
+individual right,0.5909090909090908
+permission fee for the financial years,0.5
+court with any complaint pertaining,0.5
+strict locus standi requirements,0.5
+public spirited individuals,0.5
+redres,1.1730769230769231
+aforesaid generator in the building,0.0
+which legal principle,0.5
+center,0.9521598338119387
+pathological lab on the ground floor,0.5
+remedies in courts,0.5
+activities of the respondent - owners,0.0
+judicial redress for the legal wrong,0.5
+duty,3.2272215973003378
+regulations of the mcd,0.5
+development authority,1.9333333333333333
+judge at the time,0.6666666666666666
+residential flats,0.6666666666666666
+quo,1.4641201465860294
+commercial,1.6950767880649407
+pleadings before the courts,0.5
+circulation,0.5371900826446281
+legality,0.6845938375350139
+access to the roof,0.5
+public importance,2.0
+concerned building,9.0
+first phase,0.75
+corporations,1.2988235294117647
+dda,0.8716985271934398
+title deed of the property,0.0
+position of law,1.103448275862069
+point,2.9165043546008516
+mezzanine floor,6.0
+regularisation certificate,17.5
+class action,0.37037037037037035
+dr manju dang,0.5
+meter above the height,0.0
+micro organism,0.30000000000000004
+mezzanine,6.333333333333333
+chief justice of india,2.066666666666667
+pleading before the courts,0.0
+b category,0.3333333333333333
+similar jurisdiction,0.5
+steps,1.169318181818182
+g category colony,0.0
+pathological,7.2592592592592595
+residential area,1.909090909090909
+specific provision,1.1363636363636365
+sets,2.026616266944734
+omission,1.1856094505101127
+supp,1.7223856594132256
+sangh,1.5151515151515154
+further reliance,0.5
+paragraph from the decision,0.5
+trade effluent into a stream,1.0
+- compatible activities,0.0
+writ petition,6.24223602484472
+category,1.9351744779266717
+fact to the notice,0.6666666666666666
+regard from time,0.6666666666666666
+highlight,0.8768536428110897
+vulnerable section of the community,0.0
+urban development,2.4285714285714284
+plea,1.4430487701432178
+ear,6.682790584013304
+view of the aforesaid reasons,0.6666666666666666
+one-time parking charges of rs,0.0
+reliance upon mixed use,0.5
+activities on the part,0.5
+redres for the benefit,0.0
+professional activity,3.5
+stages with regard,0.6666666666666666
+respondent with respect,0.5
+usage,1.4849921011058451
+trade,1.8307706424423558
+environmental need of the area,0.0
+prevention,0.6124072110286319
+same by the aforesaid respondent,0.5
+paras,0.7450980392156863
+challenge,1.2204566274399267
+authority,2.4352627108360636
+representations,0.5384615384615384
+way traffic etc,0.5
+first floor of the concerned building,1.0
+mixed use norms,0.5
+- use policy,0.0
+land use,0.5
+relevant paras from the mpd,0.5
+development,2.3145884270578647
+act of the mcd,0.5
+public-spirited individual,0.0
+processual jurisprudence,0.5
+stacks,0.22540983606557377
+dispensaries,0.6666666666666666
+weeks,0.8109161793372318
+ramsharan,0.6666666666666666
+neighbouring local resident,0.5
+- matter,0.0
+i nursing home ii,0.0
+storage,0.9779323578795875
+relevant provision,1.5737704918032787
+legal principles,0.6000000000000001
+centre in the residential area,0.5
+stack,0.36822429906542054
+bye-laws,0.0
+focal points of the master plan,0.5
+other purpose,0.4895104895104894
+part of the special area,0.0
+lab right,0.5
+legal action,0.665024630541872
+b colony,1.0
+broad spectrum,0.26666666666666666
+banks,6.73024
+iii,1.5614499719992534
+methods,0.6227758007117437
+clearance,4.090225563909774
+writ petition proceeding,0.6666666666666666
+obligation,1.1071428571428574
+name of dr  dang,0.0
+week,0.8253498691546249
+slum,0.4716981132075471
+utilities,0.17746113989637308
+seal of approval,0.4800000000000001
+judgments of this court,1.4666666666666666
+non-permissible uses,0.0
+force wef,1.0
+democracy,1.3769338959212376
+water tank,0.25
+regulations,3.7157723577235777
+provisions of the water,0.5
+state,6.817996007300392
+classes,1.212856534695615
+judicial redres for the benefit,0.0
+note,1.3654108484234107
+individual right in the subject-matter,0.0
+requisites,0.4444444444444445
+learned senior counsel on behalf,4.0
+obnoxious levels,1.0
+exclusive owner,0.2857142857142857
+rival legal contentions in seriatim,0.5
+various claus,0.8
+residential colony,1.0
+such kind of use,0.5
+case of noise pollution,0.5
+statement that the pathological lab,0.5
+other decision,1.1818181818181819
+part iii,1.6764705882352942
+man,6.972395052694935
+safety measures,0.4
+title deeds,0.5
+judicial system,0.8333333333333333
+residential areas,2.0
+complaint pertaining,0.5
+relevant portion of the certificate,0.5
+safety,1.5344583560152423
+view of the reasoning,0.6666666666666666
+categories,0.8800000000000001
+respondent - owners by the mcd,0.0
+chaufal,0.5
+kind,0.9236881920088026
+economic entitlement,0.5
+license,2.9365546218487393
+public right,0.5925925925925926
+akhil,0.7027027027027026
+human being,0.599078341013825
+true that the pathological lab,0.5
+similar word,0.5
+impugned judgments,1.3333333333333333
+senior counsel,2.2857142857142856
+professional activity in basements,0.5
+capital,1.0983272274832379
+labour,2.5372960372960374
+use activity in the street  area,0.0
+clear that chemical substance,0.5
+persons,2.5993381990166555
+legal wrong,1.75
+higher court,0.5714285714285714
+large diversity,0.5
+personal animus,0.5
+title deed,0.6666666666666666
+pre,6.408342692122574
+public interest of the society,0.5
+weaker sections,1.125
+implementation,1.2465707594513213
+pre- residential colonies,0.0
+effective legal - aid organisation,0.0
+use regulations under the delhi master plan,0.5
+validity,1.521010638297872
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+writs like habeas,0.5
+case of sp,0.4444444444444444
+aforesaid generator sets,0.5
+contentious point,0.5
+envisions access to justice,0.5
+meaning,1.8612727545949643
+post-partition rehabilitation colonies,0.0
+patients,0.47297297297297297
+fee,1.560669497024209
+mixed use in a streetarea,0.5
+interest,2.74353772015385
+order on the question,0.5
+vulnerable sections,1.0
+use in the area,0.5
+major highlights,0.5
+clear that chemical substances,0.5
+aspects,1.0997620069447154
+envision,0.375
+hesitation,0.5405405405405406
+to the legal principles,1.0
+various part,0.48533333333333334
+court of delhi vide,0.5
+proximity to people,0.5
+substances,0.7777777777777778
+premise for commercial activity,0.0
+behalf,1.9888053603529987
+illegal activity,0.2937853107344633
+provision of dda act,0.0
+parking arrangements,1.0
+sewage,0.7500000000000001
+such determinate class,0.5
+environment,4.8219106957424716
+plotted development,4.5
+clinical laboratory under section,0.5
+that large diesel generator set,0.5
+public health,0.38636363636363635
+for the purpose of this chapter,0.5
+lahoti,1.1111111111111112
+class of persons,0.9333333333333332
+court for limited purpose,0.5
+lab in the concerned building,1.5
+dispute between the parties,1.4736842105263157
+relevant provisions,1.5
+para from balwant singh,0.5
+diesel,0.22540983606557374
+articles,1.4349688743466387
+tea,1.2494773519163762
+ngos,0.4411764705882353
+professional,0.7317659631311781
+permission,1.1531211886018407
+judgment of the bench,0.8888888888888888
+mixed use regulations,2.5
+v gopala gowda,1.1538461538461537
+that the pathological lab,2.0
+provision of the air act,0.0
+area if mixed use,0.5
+appeal,3.4125488033856883
+micro organisms,0.30000000000000004
+major parking problem,0.5
+fiduciary interest in the subject-matter thereof,0.0
+evaluation,0.7358156028368795
+requisites of the environment,0.5
+use of the basement,0.5
+contravention of the water,0.5
+special provision,1.1818181818181819
+area,2.675167256985439
+mezzanine floor of the building,1.0
+clinic,0.7256493506493507
+redres for the legal wrong,0.0
+village,1.8429856945085372
+respondents - owner,0.0
+stack above the height,0.0
+upto,0.7713804853723404
+pathological lab in the name,1.5
+mixed use policy arise from the fact,0.0
+notice to the respondents,0.8
+aforesaid activity of the respondent - owners,0.0
+averments,1.76
+question of law,3.057142857142857
+air pollution,2.615384615384615
+high court for limited purpose,0.5
+environmental regulation,0.5
+portion of the certificate,0.5
+- as conversions charges,0.0
+interest in the subject - matter thereof,0.0
+granting of the regularisation certificate,0.5
+mixed land use,1.0
+significant development,0.3333333333333333
+following conditions,0.6000000000000001
+careful reading of the above provision,0.5
+citizen,1.261748909029876
+street of mixed use activity,0.0
+redress for the legal wrong,0.5
+list,4.014941314095513
+traffic,1.1556250000000001
+additional traffic,0.5
+other parts,0.3948051948051949
+non-compatible activities,0.0
+delhi development authority,1.0
+certain workman,0.0
+mixed use policy arises,0.5
+little indians,1.0
+re manuscmanusc,1.1111111111111112
+implementation of legislation,0.5
+documentary evidence,0.6825
+pattern,0.6151546391752578
+traffic management solutions like traffic,0.5
+tax,3.549237288135593
+water on account,0.5
+dang s diagnostic centre,0.0
+class actions,0.5
+commercial space,0.17424242424242423
+definition of  process,0.0
+circumstance,1.429931390219372
+regulation,4.3783195107648485
+challenge to the regularisation certificate,0.5
+illusion,0.6533333333333333
+diagnostic centre in the building,0.5
+large section,0.30000000000000004
+ngo,1.3464249903586578
+individualistic anglo-indian mould,0.0
+close proximity to people,0.5
+class,2.1508512849922936
+section of the community,0.0
+statement before the courts,0.5
+perusal,0.750733137829912
+ramsharan autyanuprasi v union of india,0.5
+strategies for the purpose,0.5
+strict locus standi requirement,0.5
+sound,0.8535719072510389
+union of india,3.1324503311258276
+autyanuprasi,0.6666666666666666
+akhil bharatiya soshit karamchari sangh,0.5
+regularized-unauthorized colonies,0.0
+thereof,1.7897727272727273
+person under sections,0.0
+documents with a view,0.5
+second floor of the premises,0.5
+basi,2.0752712086391383
+new delhi under the mixed land use regulations,0.5
+beings,0.5577464788732395
+venkateswara,1.2
+nurserymontessori school,1.0
+lordship,1.0416666666666667
+aforesaid activities,0.5
+individual,1.1485140562248994
+degradation,0.4666666666666666
+root,0.44430482003410826
+car,1.5664537220559551
+issuing,0.9271826153259627
+approval of government,0.75
+basis,1.953226441078104
+pathological lab by the respondent - owners air,0.0
+diagnostic centre in the concerned building,0.5
+acces to justice,0.0
+ias,0.95302321313882
+unit area method,0.5
+blatant violation,0.8333333333333334
+directions,1.5134125183504605
+generators,0.782608695652174
+appropriate charge for usage,0.0
+pathological lab on the basement,0.5
+award of remedies,0.5
+relevant paragraph,1.0
+use norms,0.5
+fertilizer,1.0
+delhi vide,0.6666666666666666
+abolition,1.1428571428571428
+hence,1.1440732910500353
+officer,3.1197242647058823
+bagh,0.301056338028169
+hospitals,0.363677536231884
+charges,2.061307113938693
+testing,1.029039991282554
+citizens,1.0493208639501226
+in a clas,0.3333333333333333
+letters,2.0877496159754223
+territory,1.3688226421790437
+jhuggi jhompri clusters,0.5
+above - mentioned other activities,0.0
+part of such establishment,0.5
+living creatures,1.0
+dang,0.8549186128803963
+view of the relevant provisions,0.6666666666666666
+principles for mixed use i,0.0
+proof,1.0648141580366008
+hospital,1.3942768854411434
+vicinity,0.5866666666666667
+right of the petitioner,0.8333333333333334
+learned senior counsel mr  l,0.0
+narrow concept,0.6666666666666666
+air p,1.0587079877782628
+view of the clause,0.5
+term,3.6255105640901575
+street,3.189100817438692
+to the pleadings,1.0
+categorization,0.7200000000000001
+voice,0.9012531328320803
+view,2.441100058469462
+commercial activity of the pathological lab,0.0
+letter from public-spirited individuals,0.0
+use regulation under the delhi master plan,0.0
+case law,0.5357142857142857
+g colonies,0.4444444444444444
+requirements,0.7375979875979877
+vide,4.454025282767798
+powerful sections of the community,0.5
+validity of the issuance,0.5
+important cases,0.6666666666666666
+doctor,1.4782608695652173
+relief,1.4748116760828625
+respect of noise pollution,0.5
+pleadings,1.3125
+use,5.06801278974993
+large section of the society,0.5
+g colony,0.5
+various category,0.0
+use policy arise,0.5
+urban village,0.5
+vulnerable section,1.0
+assistant,1.6732837055417698
+steel,1.615214878638226
+neighbouring local residents,0.5
+result,1.3356630184144715
+pay,3.828326695859537
+record,2.5393414390845273
+heed,1.5858747993579456
+v state of assam,1.1428571428571428
+classes of persons,2.25
+information,1.1320502836800534
+clear that large diesel generator set,0.5
+division bench of the high court,1.6825396825396826
+appellant in that case,0.75
+ground floor of the concerned building,0.5
+confers powers,1.0
+none of the other local residents,0.5
+governing,1.0909090909090908
+enclosures,0.38095238095238093
+ambit hygienic atmosphere,0.5
+contrary to the building bye-laws,0.0
+urban renewal area,0.5
+representative proceedings,0.5
+averment,1.7
+steel structure,1.3333333333333333
+- spirited individual,0.0
+basement,2.27027027027027
+labour system,1.6666666666666667
+solicitor,1.7073170731707317
+legislation,3.2032032032032034
+area  street,0.0
+residential flat,1.0
+premises,1.290983606557377
+fact,3.6284951019474962
+nursery,0.5714285714285714
+learned counsel,3.703333333333333
+parking problem to the residents,0.5
+equipments,0.7518796992481204
+locus standi requirements,0.5
+in plotted development,0.5
+evidence on record,2.7906976744186047
+term of the regularisation certificate,0.0
+following activities,0.5
+building,3.870745432459903
+personal animus against the answering respondent,0.5
+duty of the citizens,0.5
+chief,1.9429638234317954
+number of residents,0.6666666666666666
+area for forceful installation,0.5
+generator set,5.0
+impugned order,2.265957446808511
+to the pleading before the courts,0.0
+uttaranchal,3.7142857142857144
+activity permissible,0.6666666666666666
+land in the area,0.6666666666666666
+undisputed fact,0.6857142857142857
+year from the date,1.5
+hazardous material,0.5
+liberalised provision,0.5
+use i,1.330925254352943
+tune,0.5874773139745917
+specific provision for mixed use,0.5
+documentary,0.6730769230769231
+years,2.5395804110508022
+other learned counsel,1.2
+duty on account,0.5
+exercise,1.9400726466785694
+problem of the area,0.5
+retail shops,0.6666666666666666
+contrary to the law,1.0
+party,2.2250894654439723
+concerned authority,1.0
+basic human right,0.5499999999999999
+contentious points,0.5
+subject to the following conditions,0.8333333333333334
+nobody,0.6463806463806463
+resettlement,1.157142857142857
+justice,2.292557084574302
+synergy,0.3333333333333333
+therein,1.5503424657534246
+mixed land use regulation,0.5
+above direction of this court,0.0
+traffic study in each individual case,0.5
+use policy arises from the fact,0.5
+exercise of the extraordinary jurisdiction,0.5
+kind of use,0.5
+of the public interest litigation cases,0.5
+learned counsel on behalf,1.625
+v state,2.4603773584905664
+mass of people,0.0
+other neighbouring resident,0.5
+clinical,0.44230769230769235
+minimum row,2.5
+little indians in large numbers,0.5
+fitnes,0.5525
+society,2.1182859399684046
+contrary to the pleadings,1.0
+principle for mixed use i,0.0
+development of public interest litigation,0.5
+in nature,0.7593052109181141
+plot size,1.3333333333333333
+bank,9.40770083102493
+hearing,0.9644508209787979
+conversions,0.24468085106382975
+differentiated approach in the application,0.5
+respondent - owners in the basement,0.0
+day,1.550999710228919
+sale,3.3662581620085734
+sale deed of the building,0.5
+reception,0.8008474576271186
+pleas,0.6851599700282798
+bandhua mukti morcha v union,0.5
+constitutional approach,0.5
+question,2.980312372067635
+kerosene oil tank,1.0
+reception at the judicial doorsteps,0.5
+use street,1.0
+cylinders,0.3225806451612903
+neighbouring,0.6285714285714286
+levels,0.8861538461538463
+mala,0.727137439393212
+counter statement that the pathological lab,0.5
+fitness,0.5525
+permissible limit,1.0
+antenna,0.16999999999999998
+scmanu,7.940520446096654
+shanti,2.764705882352941
+independent of the building,0.5
+pathological lab in the guise,0.5
+area of the concerned building,0.5
+step,0.8867024753460084
+court in calcutta gas company,0.5
+amount,3.179688593072295
+respondent-owners,0.0
+statement,2.5393160135035964
+zonal regulations of the mcd,0.5
+municipal services,1.0
+activity of the pathological lab,0.0
+plot,1.9177369203731243
+preliminary objection that no fundamental rights,0.5
+writs of the nature,0.5
+needs,0.6897483569699066
+participative justice,1.0
+premises for commercial activity,0.5
+resident of the concerned building,0.0
+force,1.6009408121948314
+parking,1.2207317073170731
+brief fact,1.0
+right to expression,1.0
+notification,3.0112746633260263
+air conditioners,0.5
+property,2.9368986630013745
+states,1.5120646995827023
+registered sale deed,1.625
+in a class,0.3333333333333333
+permissible in the colonies,0.5
+balance,0.9863636363636363
+legal principle,0.8142857142857144
+additional conditions,1.0
+water tanks,0.30000000000000004
+law,3.538923411654744
+personal right,0.45000000000000007
+observation,0.7625074854374218
+ms indu malhotra,1.0
+respondent - owners from dpcc,0.0
+treatment,1.1351020408163266
+remedy in courts,0.0
+present,1.9747480780089475
+synergy between work - place,0.0
+large pathological lab,1.0
+accreditation board,0.5
+semi,0.48290238678090586
+mr kk,1.1111111111111112
+court for relief,1.0
+other neighbouring residents,0.5
+plan,2.0162821688398056
+board,2.401414435268602
+receipt of the copy,1.0
+heavy equipments,1.5
+mixed - use policy in delhi,0.0
+row,1.5184371759826563
+complaint,2.734525785235724
+aforesaid generator,1.0
+non,1.3417336444559675
+grant,1.7314487632508835
+economic activity,0.26666666666666666
+assessment,2.647276084949215
+addition,1.5588539142412572
+lutyens,0.5
+chatterjee whereby,0.5
+constitution bench of this court,1.2647058823529411
+facts of the case,1.161764705882353
+confer,1.1904670382471652
+neighbouring resident,0.5
+certificate,2.732600732600732
+such heavy equipment,0.5
+introduction as a solution,0.5
+charge for usage,0.0
+judicial redress for the benefit,0.5
+application,2.3322596088086445
+action against the respondent - owner,0.0
+pleas on behalf,0.5
+respondent owner,0.5
+nageshwar,1.2857142857142858
+conversions charges,0.5
+authorities,1.266131845134287
+assistant commissioner,1.8125
+manju,0.7173913043478262
+reading,0.9004509191814082
+confers,0.9700996677740863
+illegality,0.8076923076923077
+of the public interest litigation case,0.5
+to the facts,0.7253086419753086
+as running of a nursing home,0.5
+change in the categorization,0.5
+karol,0.45454545454545453
+latest technology,0.8888888888888888
+general terms,0.5172413793103449
+patients  visit,0.0
+floor,2.088735201031532
+in the exercise of the extraordinary jurisdiction,0.5
+traffic management solution,0.5
+zonal regulation of the mcd,0.0
+development in the history,0.5
+jhuggi jhompri cluster,0.5
+intention,1.7585585585585588
+second writ petition,0.6666666666666666
+ltd,2.382356477306883
+duties on account,0.5
+diagnostic,3.4426229508196715
+closing,0.8636363636363636
+such mixed use activity,0.5
+affected individual,0.30000000000000004
+d colonies,1.3888888888888888
+submission,1.0913871684001404
+centres,0.7857142857142857
+bye,1.9938461538461536
+non-residential activity on residential premises,0.0
+other health facility,0.0
+mentions,0.5922498554077502
+such determinate clas,0.5
+dictionary,0.7964252553389043
+extraordinary jurisdiction,0.875
+unauthorized activities,0.5
+mixed use,17.0
+hauz khas,2.5
+other part of the special area,0.0
+pendency of this appeal,1.2
+oxford dictionary,0.5
+special areas,0.5
+regularisation certificate in favour,1.0
+institutions,2.2839413875598087
+right in the subject - matter,0.0
+single judge vide order,0.5
+dpcc in these proceedings,0.5
+letter,2.707240080105903
+constitution,3.204842342342342
+other living creature,0.6666666666666666
+plot of the building,1.0
+activities in the concerned building,0.5
+environmental need,1.0
+appellant before the high court,1.0
+undertaking,2.8508771929824563
+ministry of urban development,1.6666666666666667
+row in e,0.30000000000000004
+subject to conditions,1.0
+owner of the terrace,0.5
+case of anz grindlays bank v,0.5
+planning authority,0.6666666666666666
+corpu,0.525
+lab whereas the condition,0.5
+mixed use regulation of the mpd,0.0
+street  area,0.0
+montessori,1.0
+respondent - owner,0.0
+supra,2.246342614440774
+hardship,0.7236842105263158
+building by the respondent - owners amount,0.0
+other living creatures,1.0
+prudence,0.9558823529411765
+careful reading,1.1538461538461537
+applicant,0.7861822513400833
+second,1.4990453300392075
+writs,5.2
+burden,0.9853978671041838
+proximity,0.5887445887445887
+court in akhil bharatiya soshit karamchari sangh,0.5
+india manuscmanusc,1.8333333333333333
+effluent,0.6666666666666666
+such rule,0.6095238095238095
+regularized-unauthorized colony,0.0
+sound pollution in the area,0.5
+diversity,0.32746478873239443
+meaning of right,0.5
+subject to relevant provisions,0.5
+that several representations,0.5
+management,1.6732611752395274
+merits,0.968421052631579
+police,2.9749362629783356
+premise,1.2347417840375587
+forceful installation,0.5
+civil litigation,1.0
+reason of violation,0.5
+city extension,0.5
+title,1.74290600761189
+equipment,0.8883209087681933
+teasing,0.6666666666666666
+grindlays,45.0
+construction on the roof,0.5
+clear that large diesel generator sets,0.5
+set,2.3027452395971277
+reason,2.6381270903010035
+operation,1.0959893294085181
+area in the walled city,0.0
+in the concerned building under the master plan,0.5
+life,1.3352928273744242
+patient,1.4067744260269741
+addition thereto,1.4
+appropriate direction,1.25
+matter of prudence,0.75
+by the aforesaid respondent,0.5
+unwilling persons,0.5
+pathology labs,1.0
+mixed use regulations under mpd,0.5
+case of breach,0.6666666666666666
+mould,0.49777777777777776
+karamchari,1.0
+meter,1.3483165377704869
+such activity,0.40909090909090906
+pendency of the earlier writ petition,0.5
+mcd about the hardship,0.5
+erroneous on factual position,0.5
+significant development in the history,0.5
+contravention of the aforesaid conditions,0.5
+focal points,0.3333333333333333
+pleading freedom of speech,0.5
+others,0.9074667328904616
+unregistered association,0.5
+state of uttaranchal v balwant singh chaufal manuscmanusc,0.5
+care,0.8846948234137723
+relevant aspect,0.8571428571428571
+pre- residential colony,0.0
+receipt,1.5471923536439667
+envisions acces,0.5
+cars,0.7225527312060573
+sealing,1.1
+plurality,0.489795918367347
+paras from the mpd,0.5
+nursing home in the residential area,0.5
+jhuggi,0.5
+judge,2.9012627415183325
+building structure,0.5
+locality,0.7993421052631579
+gas cylinders,1.0
+respondent-owner,0.0
+sqm for clinics,0.5
+adversarial litigation,0.5
+further states,0.6
+to the legal principle,1.0
+residents of the area,2.0
+municipal laws,3.0
+former chief justice of india,0.5
+injury at the instance,0.5
+nature of public interest,0.5
+hardship to any local resident,0.5
+various categories of colonies,0.5
+conclusion,1.3883437407077015
+which word,0.2777777777777778
+shot,1.5276221441634974
+-respondent,0.0
+provision of mixed use,0.5
+panel,1.3733381243262668
+building bye - law,0.0
+concerned authorities,1.090909090909091
+relevant section in the master plan,0.0
+questions,0.9979150871872632
+relevant aspects of the case,0.5
+use activity,2.6666666666666665
+terms of the regularisation certificate,0.5
+brief,0.540112172829248
+delhi under the mixed land use regulations,0.5
+shelter behind article,0.5
+assistance,0.8623872906826965
+larger public interest,1.125
+centre of economic activity,0.5
+obligation root out exploitation,0.5
+bandhua mukti morcha v union of india,0.5
+untenable in law,1.4
+contentions,0.9641025641025641
+sense,0.8606303395157362
+contradictory to the mixed use regulations under the delhi master plan,0.5
+walled city,2.5
+mixed use activity in the street  area,0.0
+circumstances,1.3944461370073231
+entitlements,0.5714285714285714
+activity of the respondents - owners,0.0
+appropriate charges for usage,0.5
+mixed use activity,4.0
+various complaints to the concerned authorities,0.5
+- residential activity on residential premises,0.0
+high court,7.7477477477477485
+assam,1.06
+height,0.748166259168704
+right of such determinate class,0.5
+harm,1.2124444444444444
+wherea,0.8062806257067471
+opportunity to the government,0.5
+air act,0.38095238095238093
+responsible person under sections,0.0
+jurisdiction,2.9539571926331507
+such excess usage,0.5
+obligation root,0.5
+large mass,0.4
+violation of rule,1.0
+appropriate charges,1.5
+obsolescent in some jurisdictions,0.5
+manu,7.078142071124147
+earlier occasions,0.8333333333333334
+general term,0.5116279069767442
+provision of the act,0.8888888888888888
+relevant para from the mpd,0.0
+- use policy in delhi,0.0
+registered sale deed of the building,0.5
+annexure i,0.8333333333333334
+on the part of such establishment,0.5
+focal point of the master plan,0.0
+accreditation,0.5
+pathological laboratory at ground floor,0.5
+relevant sections,0.5249999999999999
+gupta case,0.5
+cylinder,0.5255102040816326
+health,0.8632619439868204
+gadde venkateswara rao v state,0.5
+statutory duties on account,0.5
+fundamental right,2.9790209790209787
+rear,1.0464818763326227
+incorrect statement,0.4444444444444444
+disposal system,1.5
+balwant,1.3636363636363635
+limited notice in writ petition,0.5
+crack,0.7457627118644068
+terrace of the concerned building,0.5
+measure,1.1941357983816498
+locus standi,2.909090909090909
+electricity,4.4831223628691985
+issuance of a writ,1.0
+study of the impact,0.3333333333333333
+prior approval of central government,0.5
+v balwant singh chaufal manu  scmanu  sc,0.0
+streetsareas,0.5
+clear that several representation,0.5
+issuance of regularisation certificate,0.5
+exceptional cases,0.7999999999999999
+regularisation certificate wherein,0.5
+emission of hazardous substances,0.5
+courts,2.1216528162511543
+committee,2.546237803603864
+court in the case,1.3333333333333333
+restriction,1.0123456790123457
+overhead tanks,0.5
+sections of the society,1.4444444444444444
+mcd under clause,1.0
+code,2.880559796437659
+fide intention,1.0
+preliminary hearing,0.6666666666666666
+such rules,0.5194805194805194
+expert opinion,0.6666666666666666
+amicable settlement,1.5
+kha,1.778722375356642
+additional condition,1.0
+people,1.2855544825097243
+public spirited individual,0.5
+different stages,0.6060606060606061
+determinate,1.3333333333333335
+employee,6.280487804878048
+reasons,1.3749054007567938
+filing,1.1274190041313328
+residence,0.7568831168831168
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+problem,0.6764352120789936
+g category colonies,0.5
+larger public interest of the society,0.5
+voice trespass,0.5
+structure in the residential premises,0.5
+large masses,0.6666666666666666
+b categories,0.5
+set - back area as the appellant,0.0
+environment protection laws,0.5
+wellness,1.0
+road,1.0764686576960945
+respondent - owner by the mcd,0.0
+envisions access,0.5
+ors,2.8612718198296623
+large diversity in the typology,0.5
+lab in the name,1.5
+regard to the environmental impact,0.5
+following activity,0.0
+part,5.294464509893076
+beds population enhancement,0.5
+powerful section,0.5
+litigation,1.4968553459119498
+labourer,1.25
+similar words,0.5
+mixed - use policy,0.0
+mind of others,0.5
+infrastructure,1.1264822134387351
+that chemical substances,0.5
+rule of law,0.5359801488833746
+other urban renewal area,0.5
+purpose of this chapter,0.5
+mixed use regulation under mpd,0.0
+provisions of the air act,0.5
+aspect,1.2449448189023034
+decisions,1.3888475974580996
+rights of the people,0.6349206349206349
+aspect of the matter,1.4642857142857142
+shops,1.9350785340314138
+limited notice,1.3333333333333333
+nabl,2.284921369102683
+condition of plot size,0.0
+indu,4.994030923704244
+staff,1.3233972834416785
+retail,1.687234042553191
+areas,1.6237236125072747
+on that plot,0.5
+clauses of the master plan,0.5
+preparation,1.299145299145299
+environmental needs,1.0
+determination,1.5980374665477253
+visit,1.0818161214776763
+writ of the nature,0.0
+land,6.337534028705619
+to the law,0.5097560975609756
+entertain case,0.5
+senior counsel for the respondent-owners,0.0
+accordance with notifications,0.5
+single judge at the time,0.5
+read,2.2147281730888695
+judicial doorsteps,0.5
+section of the society,0.5
+exhaust,0.5762544802867384
+residential zone,0.5
+relevant para from balwant singh,0.5
+following condition,0.65
+counter statement,1.0
+learned single judge,3.4935064935064934
+permission of the high court,0.5
+jhuggi jhompri cluster in various parts,0.0
+habeas,1.4
+traffic in that area  street,0.0
+second act,0.5
+dr dang s diagnostic centre,0.0
+leave arises,0.6666666666666666
+authority of law,1.7692307692307692
+services,1.6850241065659326
+aforesaid generators,0.5
+public purpose,2.076923076923077
+sq meters,5.75
+owners of the pathological lab,3.0
+illegal activities,0.3888888888888889
+community,1.3158036677454152
+pursuance,1.543859649122807
+explanation,1.4510159010600707
+enforcement,0.7354220499569336
+impact on municipal services,0.5
+heavy equipments like generator sets,0.5
+tank,0.6540938362465502
+state government,3.027142857142857
+traffic circulation,0.5
+which fact,0.47115384615384615
+effect,2.184583388478191
+chemical substances,0.5
+environment protection acts,0.5
+introduction,0.6363636363636365
+premise in the dwelling unit,0.0
+zonal,1.391304347826087
+respondent owners,0.5
+population,1.8313253012048192
+loudspeakers,0.25862068965517243
+physico-chemical property,0.0
+utility,0.6431972789115645
+disability,0.621301775147929
+streetsarea,0.5
+oxford,0.4874746106973595
+dwelling unit,5.8
+animus against the answering respondents,0.5
+unauthorized activity in the concerned building,0.0
+question of public importance,0.6666666666666666
+unreality,0.6666666666666666
+implicit in the exercise of the extraordinary jurisdiction,0.5
+property tax assessment,0.5
+none,0.8181718550217885
+judgments,1.2355646397547266
+petition in the high court,0.9230769230769231
+new strategy for the purpose,0.0
+representative proceeding,0.5
+various complaints,1.0
+guidelines in the absence,0.5
+place,2.333104345208554
+one-time parking charge,0.0
+lot of inconsistency,0.5
+residential zones,0.5
+regulation of the mcd,0.0
+dispensary,1.3333333333333333
+to the pleading,1.0
+entitlement,0.6176470588235294
+needs of the area,0.5
+unlawful activity,0.0
+certificate ie,0.5
+delhi pollution control committee,0.5
+unauthorized construction on the roof,0.5
+diagnostic centre in the residential area,0.5
+decade,0.5014409221902018
+judicial redres for the legal wrong,0.0
+zones,0.7703703703703705
+control,2.148867902684286
+inhuman condition,0.5
+issue,2.766776251628934
+use policy arises,0.5
+earlier occasion,1.0
+respondent - owner under the guise,0.0
+important centre,0.5
+method,0.9027027027027026
+weaker section,1.2222222222222223
+floor of the concerned property,0.5
+set - back area,0.0
+gas cylinder,1.0
+emission,1.6638655462184877
+terrace of the building,0.5
+petitioner,4.524972253052164
+article in terms,0.3333333333333333
+helplessness,0.5962732919254659
+judgment of this court,2.1029411764705883
+orders,1.4936359300077826
+sections in the master plan,0.5
+pollution in the area,0.5
+new plea,0.45000000000000007
+municipal law,3.5
+provision for mixed use,1.0
+proper environment,0.6666666666666666
+calcutta gas company,1.3333333333333333
+enough damage,0.5
+first floor,1.5166666666666668
+in various category of colonies,0.0
+answering,0.7411764705882353
+ground,1.4186722903211633
+damage,1.8281814532316336
+which other activity,0.0
+aforesaid reasons,1.1379310344827587
+individual right of the petitioner,0.5
+neighbouring residents of the locality,0.5
+shortfall of commercial space,0.5
+former chief justice,0.75
+first floor of the premises,0.5
+which other activities,0.5
+liberty,0.7860465116279071
+downtrodden,1.0
+set - back area of the building,0.0
+concept,0.9402138540213855
+environmental impact,1.8000000000000003
+article,4.378806157159795
+learned senior counsel for the appellant,1.7142857142857142
+various judgments,1.1818181818181819
+view of the reasons,0.6666666666666666
+aforesaid reason,1.1176470588235294
+professional activity i,0.5
+building plan,2.875
+opinion,1.4960606342789635
+envisions acces to justice,0.0
+unauthorized activities in the concerned building,0.5
+powerful section of the community,0.0
+enforcement of fundamental rights,0.75
+clear violation,0.4444444444444444
+non-compatible activity,0.0
+legal provision,0.6
+confers power,1.0
+calcutta,1.6022727272727273
+learned senior counsel that the appellant,0.5
+colonies,2.8600000000000003
+type of pollution,0.0
+petition under article,1.6388888888888888
+rival legal contentions,1.75
+leave arise,0.6666666666666666
+clinics,0.5
+rao,0.9220020325203252
+terrace in the building,0.5
+laws,1.4186274337269533
+workers,1.9961977186311788
+blatant violation of the provisions,0.5
+resident of hauz khas,0.0
+relaxed,0.6000000000000001
+health infrastructure,0.3333333333333333
+to relevant provision,0.5
+effect of such installation,0.5
+to the averments,1.0
+anz,3.770760233918129
+harm to human beings,0.5
+respect,2.6704963235294117
+such heavy equipments,0.5
+entertain cases,0.5
+floor of the building,2.25
+centre in the concerned building,0.5
+strong reliance,1.606060606060606
+respondent - mcd,0.0
+on factual position,0.5
+expression,1.7424391201885312
+force at the time,0.75
+sq meter,5.4
+clauses,1.5486111111111112
+diesel generator sets,1.5
+reasoning,0.6478937381404174
+such nabl certification,0.5
+units in a residential plot,1.0
+wide power,0.5303030303030303
+illegal structure,1.3333333333333333
+norms,1.1693121693121695
+gopala,1.4736842105263157
+vulnerable sections of the community,1.0
+such generator sets,0.5
+work,2.8478559811646353
+right of others,0.5
+system,1.1230229504341178
+pathological lab in the building,1.0
+points,0.7095682483711788
+powerful sections,0.5
+proposal,1.8145800316957208
+additional,1.4256530253244384
+above directions,0.9
+kva,1.6657458563535912
+first respondent - mcd,0.0
+residential colonies,1.0
+handling,1.5728328865058085
+contrary to the pleadings before the courts,0.5
+medical equipments,0.5
+legal - aid organisation,0.0
+activity permissible in a residential area,0.5
+settlement,1.6881394467601363
+pleading freedom,0.5
+-executive engineer,0.0
+inspection report,0.8
+due to the continuous nuisance,0.5
+second floor of the concerned building,1.0
+coffee etc,0.5
+gadde,0.5
+aggrieved person,1.7
+definition of air pollutant,1.0
+hazardous substance,1.5
+respondent - owner in the basement,0.0
+bounden duty,0.8
+adverse effect in traffic circulation,0.5
+power on government,0.0
+consent,1.224924012158055
+answering respondent,2.5
+envisions,0.3333333333333333
+concerned respondent,0.8
+compliance report,1.1666666666666667
+ecological balance,1.25
+building under the master plan,0.5
+plea on behalf,0.0
+chief justice,4.684210526315789
+institution,2.7327010745685443
+different stage with regard,0.0
+accordance,1.4069045211613462
+similar jurisdiction under article,0.5
+extension,0.7526908023483366
+portions,0.6041219407471018
+use of basement,1.0
+road of minimum row,0.0
+prompt step,0.6666666666666666
+decision of the supreme court,1.0
+other activities,1.1111111111111112
+word,2.065873981084096
+adverse effect,0.5555555555555556
+similar circumstances,0.5454545454545454
+appeal by special leave,1.04
+chapter,1.3867471532446152
+sort,0.7327002541370012
+mcd,3.4314465408805037
+partition,0.8877551020408164
+to the averment,1.0
+noise pollution,2.2222222222222223
+diagnostic centre,5.5
+political justice,1.0
+areas in the walled city,0.5
+name,1.8996570753072433
+mehta v union,1.3333333333333333
+wide power on the high court,0.5
+natural environment,0.30000000000000004
+use regulation of the mpd,0.0
+members,1.9437616522164103
+loudspeaker,0.23863636363636362
+lab in the guise,0.5
+account,2.5754891049671977
+provisions of dda act,0.5
+respondents mcd,0.5
+point of the master plan,0.0
+notice by the mcd,0.5
+interference,0.5733527484528578
+excess usage,0.5
+help,0.7217940266720754
+purpose,2.519170317925504
+mixed use of residential premises,0.5
+locus,0.6133333333333334
+study,1.4280920541907696
+time,2.4764180952862667
+use regulations under mpd,0.5
+central government,3.0380952380952384
+factual position,1.3333333333333333
+seriatim,0.6666666666666666
+living creature,0.47368421052631576
+great extent,0.2777777777777778
+affirmation,0.5653021442495126
+differentiated approach,2.0
+such person,0.9634888438133874
+issuance,1.05379513633014
+legal right,0.6571428571428573
+unlawful activity of the respondent-owners,0.0
+constitution bench,4.27536231884058
+objection that no fundamental right,0.5
+dda act,0.5
+physico-chemical properties,0.0
+application under article,1.2
+unauthorized activity,0.0
+resident of the nursing home,0.0
+dr dang,2.0
+whereas,0.7770612954644255
+respondent - owner in the set - back area,0.0
+previous consent of delhi pollution control committee,0.5
+delhi laws,0.6666666666666666
+limit,2.3804570428443834
+fiduciary interest,0.5
+d- hauz kha,0.0
+strategic exercise,0.5
+person speaking,0.5
+right,3.07483248288682
+transportation,0.4525862068965517
+conversion,0.6074029126213593
+that extent,0.8888888888888888
+type of mixed use activity,1.0
+confines,0.47619047619047616
+prohibition,1.9087256027554533
+violation of the master plan,1.0
+systematic sery,0.0
+determinate class of persons,2.0
+special area,0.6666666666666666
+traffic management solutions,0.5
+public interest,2.380434782608696
+absence,1.092363454568179
+type,0.8102172691515265
+counsel,2.2246780703440323
+policy,3.250773332247955
+chemical properties,0.8571428571428571
+court of delhi,1.4761904761904763
+respondent - owners,0.0
+plans,2.01766620176662
+rules,3.130914366958792
+same in the terrace,0.5
+jurisprudence,1.088888888888889
+catering,0.46296296296296297
+reading of the above provision,0.5
+unit in a residential plot,0.0
+clear that the regularisation certificate,0.5
+flat,2.2950575421290584
+fertilizer corpn,0.5
+to the continuous nuisance,0.5
+minimum plot size,1.0
+atmosphere,0.3046594982078853
+legal contentions in seriatim,0.5
+earlier writ petition,0.8333333333333334
+use norm,0.30000000000000004
+mention,1.6248742837095076
+continuous nuisance,0.5
+respondent - owners under the guise,0.0
+dispute,2.402137592137592
+litigations,1.1818181818181819
+disposal,1.1180555555555556
+confers powers on the government,0.5
+approval of the government,1.0
+results,0.6487493619193466
+industry,8.208106219426973
+preventive action,0.5
+appropriate legal action,0.6666666666666666
+conditions,1.9988092071092867
+victim,1.204831365285174
+rawal,1.1022827041264267
+careful reading of the aforesaid,0.6666666666666666
+interest litigation,10.571428571428571
+case of the decades,0.0
+right of access,2.0
+that large diesel generator sets,0.5
+compliance,1.0029799914857385
+area for this purpose,0.5
+flats,2.4583333333333335
+case,7.332269420884958
+era of the public interest litigation,0.5
+plan in favour,0.5
+error,1.059158294766151
+important centre of economic activity,0.5
+supply,2.0557395143487858
+lab on the basement,0.5
+clear that several representations,0.5
+mpd-,0.0
+violation of the rule,0.8333333333333334
+kerosene,0.4805194805194805
+spectrum,0.48506571087216255
+previous consent,1.0
+ambit,1.0862754267009587
+justice rc,0.5
+numbers,0.8671061762664817
+public resident health,0.5
+promise of unreality,0.6666666666666666
+preliminary objection,1.3125
+need of the area,0.0
+commercial areas,0.25
+right of such person,0.5
+contention,1.666391070690368
+first time before this court,1.4
+action against the respondent - owners,0.0
+rehabilitation,4.416666666666667
+bye-laws of mcd,0.0
+control of pollution,3.5
+strict sense,1.0
+plant,1.381330685203575
+conversions charge,0.5
+service shop,0.5
+chatterjee,0.3846153846153846
+bench,2.5793391667754992
+strong reliance on the grant,0.5
+violation,1.2087401208740118
+environment protection law,0.5
+contrary to the facts,0.5
+respondent - owners air,0.0
+letters from public-spirited individuals,0.0
+leave,1.0147842365477848
+- regularized colonies,0.0
+charges for usage,0.5
+several representation,0.6666666666666666
+body,1.336775463480009
+weeks from the date,1.1428571428571428
+in various categories of colonies,0.5
+unwilling person,0.5
+to expression,1.0
+notice,2.3300025999395686
+trustee,1.466666666666667
+neighboring residents,0.5
+les on that plot,0.0
+conditions of plot size,0.5
+structure,1.568520357497517
+court in the public interest litigation,0.0
+than the purpose,0.5
+applicable in respect of noise pollution,0.5
+categories of colonies,0.5
+respect of the noise pollution,0.5
+reliance upon the mpd,0.5
+inconvenience,0.47368421052631576
+set - back area of the concerned property,0.0
+filing of this appeal,0.8
+relevant section,0.4945054945054945
+relevant delhi master plan,0.5
+other urban renewal areas,0.5
+nursing home in the aforesaid,0.5
+writ jurisdiction,1.2142857142857142
+legal pleas on behalf,0.5
+compliance report for the perusal,1.0
+installation of the generator sets,1.0
+clear violation of the provisions,0.5
+construction,2.2504918032786887
+legal plea on behalf,0.0
+hauz kha,2.5
+mcd for unit area method,0.5
+issuance of a regularisation certificate,0.5
+individuals,0.7198633479746219
+coffee,1.2833333333333334
+clinical pathological laboratory at ground floor,0.5
+documents,1.142515923566879
+inhuman conditions,0.5
+air,2.0589664272145285
+dr navin dang,0.5
+other activity,1.0
+respondent nos,2.5185185185185186
+contrary to the averments,0.5
+general conditions,2.75
+affected neighbours of the building,0.5
+confine,0.7331810394060537
+rival legal contention in seriatim,0.0
+plants,0.49906191369605996
+correctnes of clauses,0.0
+national accreditation board,0.5
+-development,0.0
+residents of the nursing home,0.5
+payment of appropriate charges,1.0
+morcha,2.25
+use regulations of the mpd,0.5
+extracted hereunder,2.25
+deal with important cases,0.5
+various complaint,1.0
+conduct,1.5998023165163158
+organisation,1.4034090909090908
+basic human rights,0.5892857142857143
+urban,1.1793683610180365
+ligation,1.1173076923076923
+corporation,3.6427750743444176
+categorization of colonies,0.5
+third party,1.053291536050157
+power of demolition,0.5
+limited purpose,0.9047619047619048
+responsible persons under sections,0.5
+view of the above,1.1764705882352942
+honble mr justice,1.5833333333333333
+that noise,1.0
+school,1.2666111192798444
+member of the public,0.75
+counsel on behalf,3.3636363636363638
+- compatible activity,0.0
+hand,2.0299623418254717
+tv antenna etc,0.5
+appreciation,0.7282229965156793
+counsel for the mcd,0.5
+norm,1.1955826794536473
+pathological lab in the rear,0.5
+various parts,0.4656084656084656
+appellant,14.387096774193548
+human rights,0.9865951742627346
+pathology lab,2.0
+unauthorised construction,1.0
+to relevant provisions,0.5
+provision for non - residential activity,0.0
+gowda,1.2142857142857142
+public,2.923239095873367
+new strategies for the purpose,0.5
+narrow concept of cause,0.5
+new delhi,1.744186046511628
+that chemical substance,0.5
+delhi electricity supply,1.0
+delhi master plan,1.5
+mezzanine floor of the concerned property,0.5
+representation,1.2338308457711442
+ground floor to the extent,0.5
+deed,1.3564447722662734
+artificial devices,0.5
+focal point,0.37037037037037035
+mukti,1.75
+central,2.61875
+one-time parking charge of rs,0.0
+responsible person,0.4
+reading of the aforesaid,0.9166666666666666
+storage purpose,0.5
+interest litigation cases,0.5
+inquiry by the court,0.6666666666666666
+concerned respondents,0.5
+emphasis,0.8024289099526066
+impermissible in the concerned building under the master plan,0.5
+laboratories,0.912621359223301
+contravention of the building,1.5
+nature of adversarial litigation,0.5
+prompt action,1.0
+similar circumstance,0.5454545454545454
+following reasons,0.505050505050505
+violation under clause,0.5
+imperative,0.6201550387596899
+heavy equipments like generator set,0.5
+exploitation at the hands,0.5
+kerosene oil tanks,1.0
+satisfied that the issuance,0.5
+gas-cylinder connection,0.0
+parking arrangement,1.0
+above - mentioned other activity,0.0
+pre-,0.0
+sustainable in law,1.0
+situation,1.1254754682459434
+indians,0.45833333333333337
+residential areas in the walled city,0.5
+unauthorised constructions,0.5
+priyanka,0.5
+regard to the aforesaid clauses,0.5
+higher courts,0.75
+anglo - indian mould,0.0
+measures,1.126498218334953
+civil litigation of that pattern,0.5
+sound - proof enclosure,0.0
+reasonable limit,0.45000000000000007
+worker,1.9239190944516609
+building bye - laws,0.0
+interference of this court,0.8

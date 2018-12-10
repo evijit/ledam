@@ -1,0 +1,1015 @@
+courts,2.1216528162511543
+memorandum of objections,1.0
+only exception,0.5555555555555556
+pre,6.408342692122574
+shankar lal,0.5
+available grounds,0.5
+insolvency case,0.5
+v sarup lal,0.5
+respectful agreement,0.8571428571428571
+to all proceedings before the court,1.0
+cj speaking,1.0
+senior advocate for the appellants,1.0
+way of memorandum,1.0
+code,2.880559796437659
+instituted appeal,0.5
+hyderabad act,0.5
+court as devoid,0.5
+mind,1.1559066143122394
+such objection,1.1428571428571428
+provisions of this act,2.4722222222222223
+pre - established civil court,0.0
+people,1.2855544825097243
+requirements of cross - objection memo,0.0
+challenge to the order,0.6666666666666666
+cross - objection to the decree,0.0
+filing,1.1274190041313328
+sections,1.640495469442838
+procedure of the code,0.6666666666666666
+terms,2.390350840909655
+which case,0.5512489233419466
+matters,1.4810665618448637
+meaning,1.8612727545949643
+instance,0.9469803370786518
+statutory provisions,1.6764705882352942
+walli,0.36363636363636365
+hyderabad,2.5833333333333335
+provision of the arbitration act,0.5
+extended period of limitation commences,0.5
+inavatullah khan v diwanchand mahajan,0.5
+shri baru ram v smt,0.5
+available ground of challenge,0.0
+fee,1.560669497024209
+interest,2.74353772015385
+withdrawn,0.7887667887667889
+court,12.24425115501509
+pertake,0.5
+noticed hereinabove,1.1428571428571428
+speaks,0.49714285714285716
+alagappa chettiar v chockalingam chetty,1.0
+declaration,2.152560083594566
+madras,2.836734693877551
+sufficient cause within the meaning,0.5
+agreement with the view,0.875
+eye,0.9466574319441098
+parliament,2.6571235781762095
+chanchalgauri ramanial,0.5
+agreement,3.450434632433366
+single judge,4.011627906976744
+quietu,0.4444444444444444
+objection,1.68120480131216
+maintainable as the procedure,0.5
+person,4.291511329454258
+ors,2.8612718198296623
+before the appellate forum,0.5
+body of the code,0.75
+notice to the other parties,0.5
+cause,1.8431210321626654
+way,1.7812722068664852
+correctness,0.8404159132007234
+such further time as the appellant court,0.5
+advocate for the respondents,0.6666666666666666
+same manner,0.6079182630906769
+behalf,1.9888053603529987
+nullity,1.8235294117647058
+law of limitation,1.625
+part,5.294464509893076
+opinion thereon,0.5
+full bench,5.0
+conferment of right,0.5
+description,0.8190476190476191
+litigation,1.4968553459119498
+cross,2.0778316690442225
+nothing,0.8658723322806009
+memorandum of objection,1.5
+hatchet,0.5
+jaganmohan,0.6666666666666666
+lahoti,1.1111111111111112
+wrong premises,0.5
+aspect,1.2449448189023034
+cause within the meaning,0.5
+speaking,0.6506672453075838
+jaganmohan reddy,0.6666666666666666
+district,1.5506763074237984
+decisions,1.3888475974580996
+subject matter,1.2537313432835822
+shri,2.0759135877246115
+contents of the memorandum,0.5
+default in appearance,0.5
+decision,2.9514937765898557
+contrary,1.027917657672435
+original appeal,7.0
+subsequent proceedings upto the date,0.5
+tea,1.2494773519163762
+order--,0.0
+time-barred memo of cross-appeal,0.0
+small cause court,0.5
+interest on the decretal amount,0.5
+situations,0.7435282837967402
+decretal amount,2.3333333333333335
+appealable in the same manner,0.5
+second schedule,1.8
+cross - objection,0.0
+correctnes,0.8404159132007234
+merits for the reason,0.6666666666666666
+decree of the court,0.8333333333333334
+appeal,3.4125488033856883
+manugjmanugj,1.0833333333333333
+determination,1.5980374665477253
+manuwbmanuwb,1.1818181818181819
+money - lenders act,0.0
+acknowledgement,0.43103448275862066
+provision of the code,0.5
+scr,2.483838975311538
+election,6.758005637447438
+petition under section,1.5
+lenders,0.942857142857143
+state that the finding,0.5
+suitable modification,0.5
+provisions of the arbitration act,1.0
+bakhsh,0.5
+conferment,1.0909090909090908
+month,1.3454861111111112
+to a party,0.6000000000000001
+b subba reddy s case,0.0
+appellants herein,1.4883720930232558
+open to a party,0.5
+wherein,1.0724137931034483
+limited,1.3713554955535188
+code of civil procedure,5.5636363636363635
+judgment,3.288216560509554
+determination of any appeal,0.5
+chettiar,3.2857142857142856
+ramasray singh,0.5
+subject,2.4420366233344897
+question of law,3.057142857142857
+services,1.6850241065659326
+order,5.472481489660944
+creature,0.4845338524767467
+act,12.870263922028107
+sub-section,0.0
+maintainable in an appeal,0.5
+smt,0.7459757206267715
+cross - objector,0.0
+high court in exercise,1.0714285714285714
+form of cross objection,1.5
+objection under this rule,0.5
+purview of section,1.75
+appointment,3.1380281690140843
+inconsistent with the provisions of the act andor,0.5
+objection petition,2.25
+maintainability of cross objections,1.0
+other party,0.8608695652173913
+disagreement,0.4758064516129033
+effect,2.184583388478191
+present parties,0.5
+copy,0.8620926631522174
+pendency,1.0084033613445378
+manner,1.4494591333432125
+respect of any issue,0.5
+sole proprietary concern,1.0
+parties,1.8210828547990157
+finality,1.1746031746031746
+prescribed period,1.7692307692307692
+chandulal,0.6666666666666666
+civil procedure,5.448275862068965
+no right,0.6454703832752613
+delhi development authority,1.0
+perusal of the memo,0.5
+generality of the provisions,0.5
+section,9.287987283173626
+herein,2.825259515570934
+way of appeal,1.0
+intelligence agency ltd,0.5
+decision in these appeals,1.0
+correct law,0.9230769230769231
+cross objection,15.666666666666666
+thereunder,1.2794117647058825
+result of review petition,0.5
+orders with respect,1.0
+provision of this section,0.0
+as an appeal,0.8571428571428572
+instituted appeal against a decree,0.5
+appellate,2.561224489795918
+finality as the appellants,0.5
+to appeal under section,0.0
+perusal of the contents,0.5
+rule of the court,1.5
+differ,1.7389750524609953
+provisions of the arbitration act andor,0.5
+reasoned award,0.75
+statement of law,1.0
+original civil jurisdiction subject,0.5
+place,2.333104345208554
+disputes for determination,0.5
+v b subba reddy,1.0
+circumstance,1.429931390219372
+civil,2.126558634963905
+subject - matter of the cross objection,0.0
+limitation commence,0.5
+with the provision of the code,0.0
+relevant statutory provision,0.8333333333333334
+international,1.4453445246925631
+contract with the municipal corporation,0.5
+finding,1.8129183657767178
+partial succes,0.5
+present case,1.5611814345991561
+regard,2.723310344827586
+reddy,0.7218614718614719
+cross-objections,0.0
+airmp,1.125
+apmanu,0.9629629629629629
+modification in the decree,0.5
+starting point,0.40570175438596495
+agency,1.8968779259354924
+direction,1.8495050210098996
+limitation,2.4984479402325457
+money,1.6567889044524557
+perusal,0.750733137829912
+appeal in the form,0.5
+court by the respondents,0.6666666666666666
+prescribed period of limitation,1.2
+month from the date,1.2222222222222223
+such further time,3.3333333333333335
+municipal,2.4099173553719004
+notice of appeal,0.5
+act confer,1.1875
+issue,2.766776251628934
+appeal in conformity,0.5
+- matter of cross objection,0.0
+success,1.087615328288992
+thereof,1.7897727272727273
+contents,0.66519564577817
+july,0.9742727723122656
+ala,1.5421094815176337
+purview,1.0864197530864197
+appellant in the high court,0.6666666666666666
+form,2.4865961263718424
+bibhisan sinha,0.5
+powers,1.876345371920593
+same relief,1.0
+objections,1.2025072324011572
+arbitration proceeding,2.909090909090909
+cross objection pertake of the right,0.0
+matter of procedure,0.4444444444444444
+form of objection,0.5
+to the filing of appeal,0.5
+respondent before the division bench,0.0
+prima,0.9758788156000698
+further time,2.1666666666666665
+days,1.6721350893491447
+same grounds,0.4444444444444444
+senior,1.989753211141579
+contract,6.227349970404598
+arbitration agreement,11.833333333333334
+other appeal,0.9090909090909091
+lordship,1.0416666666666667
+latter,0.7109238669791096
+provision of the act andor,0.0
+root,0.44430482003410826
+cost,1.2954397451466992
+pleader,1.6666666666666667
+reference to which cross objection,0.5
+debt,3.4485322896281807
+orders,1.4936359300077826
+lender,0.78
+maintainability,1.0256410256410258
+appeal against the impugned order,0.5
+private limited company,1.2
+bengal money-lenders act,0.0
+mr rf,0.6666666666666666
+of the description,0.45000000000000007
+such notice to the other parties,0.5
+with the provisions of the code,1.3333333333333333
+harry,0.0
+sub,7.816899313759727
+private limited company as the respondent,0.5
+period of limitation commences,0.5
+to the hearing,0.5
+proceed on certain wrong premises,0.0
+equitable considerations,0.5
+root of the matter,0.5
+limitation commences,0.5
+of the descriptions,0.3333333333333333
+filing of the objection,0.5
+high courts,2.676470588235294
+airap,1.5
+company,5.864471879286695
+sushila,0.5
+grounds,0.9540208829455945
+slpc,2.727272727272727
+limited company as the respondent,0.5
+purview of clauses,0.5
+two - judge bench,0.0
+neat question of law,0.0
+rigour,1.0
+gjmanu,1.0833333333333333
+officer,3.1197242647058823
+with the provision of the act andor,0.0
+finality as the appellant,0.6666666666666666
+incidental to the filing of appeal,0.5
+ground,1.4186722903211633
+appointment of arbitrator,1.6666666666666667
+quietu to the litigation,0.0
+starting,0.7114114917915775
+opportunity,0.946186440677966
+present party,0.0
+cros,1.8137948361162648
+ramanial,0.5
+entire body of the code,0.5
+suitable modification in the decree,0.5
+corporation of delhi,1.4
+review of the judgment,0.75
+jurisdiction of the arbitrator,1.1666666666666667
+relation to such appeal,0.6666666666666666
+matter,2.8088923076923082
+relation,1.397320207820618
+bibhisan,0.5
+chanchalgauri,0.5
+competent appeal,0.5
+arbitration,11.242690058479532
+several high courts,0.6666666666666666
+engineer,3.318922187370092
+special case,0.8181818181818183
+prima facie,1.0185185185185184
+provision of section,1.4827586206896552
+term,3.6255105640901575
+appealable order,1.0
+future interest from the date,0.5
+direction for payment,0.6666666666666666
+in the same manner,0.6153846153846153
+sarup,0.8333333333333334
+of the provisions of the code,0.8333333333333334
+acknowledgement from the party,0.5
+spite,0.8919640378414163
+subsequent proceeding,1.0
+court fee,1.1666666666666667
+bar that the original appeal,0.5
+view,2.441100058469462
+manuhpmanuhp,0.5
+requirements,0.7375979875979877
+vide,4.454025282767798
+opinion,1.4960606342789635
+relief,1.4748116760828625
+provisional,1.9557692307692305
+civil jurisdiction subject,0.5
+high court by the respondents,0.6666666666666666
+merit,1.2419290263876248
+proceedings under the arbitration act,0.5
+available decisions,0.5
+calcutta,1.6022727272727273
+thereof to appeals,0.5
+judicial opinion,0.5333333333333333
+court from every order,0.5
+cj speaking for the division bench,0.5
+prasanni,0.5
+second appeal,4.5
+result,1.3356630184144715
+slps,1.6363636363636365
+delay,1.9544910179640715
+bengal,1.9299191374663072
+slum wing,1.0
+wazir,1.0
+procedure,2.552771605064117
+non - maintainability,0.0
+scope,0.8412698412698413
+questions of law,1.3333333333333333
+such circumstances,0.5729166666666666
+appeal show,0.6666666666666666
+modifying,0.5542521994134897
+same powers,1.0
+effect on cross objection,0.5
+two - judge bench of this court,0.0
+ordinary civil appeal,0.5
+provision,5.439002243350069
+people act,1.455168475157053
+v wazir singh,0.5
+point in that appeal,0.5
+inavatullah,0.5
+appealable orders,0.75
+sufficient cause,0.6538461538461539
+quietus to the litigation,0.5
+gajendragadkar,1.0
+service of notice,1.2222222222222223
+extended period of limitation,2.8
+dispute for determination,0.0
+provisions of section,2.762376237623762
+respect,2.6704963235294117
+merits unless the statute confer,0.5
+to courts,1.1666666666666667
+heard,0.782882203033377
+jalpaiguri,0.5
+appeal under this section,0.8333333333333334
+appeals under that act,0.5
+premises,1.290983606557377
+sidhu,0.19047619047619047
+fact,3.6284951019474962
+such circumstance,0.5723905723905723
+applicable to courts,0.5
+content of the memorandum,0.0
+provisions of the act andor,0.5
+dr k,0.47692307692307695
+expression,1.7424391201885312
+inconsistency,0.7857142857142857
+anr,1.1271033322299457
+logic,1.091578947368421
+appeal by section,0.6666666666666666
+clauses,1.5486111111111112
+chief,1.9429638234317954
+reasoning,0.6478937381404174
+dhani ram v smt,0.5
+khan,2.1073446327683616
+security services etc,0.5
+view of the original appeal,1.0
+first time,0.7741935483870968
+two - judges bench of this court,0.0
+limited company as the respondents,0.5
+thereto,1.0358342665173572
+cross objection subject,0.5
+such right,0.6951724137931035
+impugned order,2.265957446808511
+pleader at the expense,0.5
+cross objection to the decree,0.5
+final order,1.1466666666666667
+conclusion of the high court,0.8888888888888888
+other word,0.758838674565131
+court of the district judge,0.5
+modification,0.9714977645305514
+election appeal,0.5
+extent,1.410108024691358
+copy thereof,1.6666666666666667
+nanak bakhsh,0.5
+opinion that cross objection,0.5
+applicability,1.0928961748633879
+doubt,1.3646267723102583
+absence of any arbitration agreement,0.5
+separate appeal,0.8
+bar,1.4720990391722097
+exercise,1.9400726466785694
+punjab,1.0438169425511197
+narendrakumar,0.5
+justice m hidayatullah,0.5
+cross objection pertakes of the right,0.5
+requirement of section,1.5
+cross objection under rule,0.5
+neat questions,0.5
+party,2.2250894654439723
+order xli rule,1.2
+review,1.3564101463582128
+virtue,0.9167557066537153
+inconsistent with the provisions of the code,0.5
+mukherji,0.5
+statute confers,0.8
+part of the judgment,1.0
+delhi,2.6089285714285717
+speak of an appeal,0.0
+question before the court,0.875
+details,0.9406426856198188
+proposition,0.6371087928464977
+settlement,1.6881394467601363
+proceedings upto the date,0.5
+commencement,1.2037037037037035
+justice,2.292557084574302
+descriptions,0.40972222222222227
+hpmanu,0.5
+revenue,1.486701237872198
+speak,0.7624080721158905
+forum,1.9016754850088184
+municipal corporation of delhi,1.4
+issue for consideration,0.6666666666666666
+time as the delay,0.5
+executing,0.8173076923076923
+original civil jurisdiction subject to the provisions,0.5
+merit vide,0.6666666666666666
+representation of the people act,2.4
+question of the memo,0.5
+dr ks,0.5
+decree,3.732408834103749
+act andor,0.7619047619047619
+umpire,2.1217105263157894
+date,6.195616975795285
+division bench,3.965217391304348
+ms malhati tea syndicate,0.5
+same power,0.6018518518518517
+september,0.8548484848484849
+reference,2.1755848210276256
+aside of the award,0.5
+limitation act,6.833333333333333
+provision of this act,0.75
+existence,0.731202675709574
+view to the contrary,0.6666666666666666
+such party,1.5
+chief justice,4.684210526315789
+in nature,0.7593052109181141
+hearing,0.9644508209787979
+respondent,4.757894736842104
+bare reading,0.9285714285714286
+institution,2.7327010745685443
+schedule,2.9453067257945307
+chockalingam,1.0
+bench of the high court,1.8
+accordance,1.4069045211613462
+syndicate,0.7894736842105263
+default,0.7094574436346588
+day,1.550999710228919
+incidental to the filing of the original appeal,0.5
+question,2.980312372067635
+final conclusion of the high court,0.5
+provisional insolvency act,0.5
+subsequent proceedings,1.0
+doubt about the correctness,0.5
+court under section,1.8888888888888888
+convincing reasoning,0.5
+to the appeal under section,0.5
+opinion that the original appeal,0.5
+execution,1.3041894353369763
+respondents herein,1.8333333333333333
+such of the orders as fall,0.5
+bhadurmal v bizaatunnisa begum,0.5
+no right of cross-objection,0.0
+scmanu,7.940520446096654
+word,2.065873981084096
+to the filing of the original appeal,0.5
+such objection in the appellant court,0.5
+division bench of allahabad high court,1.0
+honble,2.4444444444444446
+appeals,1.7060218112849692
+amount,3.179688593072295
+other words,0.7578482137053969
+of the provision of the code,0.0
+reading of these provisions,0.75
+manuupmanuup,1.411764705882353
+arbitration agreement between the parties,2.6666666666666665
+statement,2.5393160135035964
+order with respect,0.5
+maintainable under section,0.6666666666666666
+maintainable on the division bench,0.5
+tnmanu,1.7
+supreme court,1.4278957326045825
+thereon,0.877037037037037
+matter of controversy,0.6666666666666666
+reading of the relevant statutory provisions,0.5
+begum,0.717948717948718
+interest at a higher rate,0.6666666666666666
+name,1.8996570753072433
+learned senior counsel for the parties,1.0
+appeals under the arbitration act,0.5
+fees,0.9865534324133051
+appeal under that act,0.0
+high,5.367119186841496
+decrees,0.9545454545454545
+payment,2.059553716565686
+sub-rule,0.0
+sic,1.1611481056257176
+fall,1.158018118245391
+force,1.6009408121948314
+behalf of the appellants,1.46875
+good as an appeal,0.5
+jagirdars,0.5
+dismissal,1.614076246334311
+cause court,0.6666666666666666
+commence,1.2515644555694618
+appellate court,3.1458333333333335
+purpose,2.519170317925504
+law,3.538923411654744
+proceeds,1.083011583011583
+trial court,3.854545454545455
+observation,0.7625074854374218
+retired judge,1.4545454545454546
+time,2.4764180952862667
+cases,1.9728229418951067
+division,1.7657319129617017
+same ground,0.4800000000000001
+act wherein,0.8333333333333334
+application under section,2.8076923076923075
+grounds of challenge,0.875
+available decision,0.5
+appeal under sections,0.5
+arbitration clause,5.142857142857143
+full bench of the high court,1.3333333333333333
+non - maintainability of the original appeal,0.0
+time - barred appeal,0.0
+part of the decree,1.2
+provision of the arbitration act andor,0.0
+briefly,0.5805159028299525
+hereinabove,1.911764705882353
+orders as fall,0.5
+arbitration act,3.8421052631578947
+appeal under the arbitration act,0.0
+higher rate,1.1627906976744187
+content,1.5450574489970066
+cross-objection memo,0.0
+court by the appellants,1.0
+diwanchand,0.5
+subject to the provisions of this act,1.0
+original appeal against the impugned order,0.5
+municipal corporation,1.3439153439153437
+court by the appellants herein,1.0
+appellate forum,1.2
+quietus,0.6666666666666666
+operative part,0.5
+execution of the decree,0.5
+appellant court,1.2
+form of a memorandum,0.5
+election appeal under section,0.5
+- maintainability of the original appeal,0.0
+certain wrong premises,0.5
+mpmanu,1.5
+partial success,0.5
+appeal in the eye,0.5
+right,3.07483248288682
+hereinafter,0.7670609645131939
+arbitration by a retired judge,0.5
+objector,0.315
+regard to limitation,0.6666666666666666
+text of sub - section,0.0
+such notice,1.7857142857142858
+statutory provision,1.1638418079096045
+provisions of cross objection,0.5
+decree under appeal,0.6666666666666666
+learned senior counsel,3.4615384615384617
+subba,0.6964285714285714
+exception,1.1036946087733006
+upmanu,0.9411764705882354
+aside,1.2654996720980676
+substantive right,1.9166666666666667
+court in exercise,1.28
+counsel,2.2246780703440323
+application,2.3322596088086445
+appeal shows that the only relief,0.5
+respondent s right,0.0
+absence,1.092363454568179
+award,3.104213525266157
+non-maintainability of cross objections,0.0
+applicable to proceedings under the arbitration act,0.5
+appearance,0.531740614334471
+rules,3.130914366958792
+reading,0.9004509191814082
+manuapmanuap,1.4444444444444444
+cross objection pertakes,0.5
+provisions of this section,1.0
+insolvency cases,0.5
+procedure code,1.3157894736842106
+pertakes,0.5
+which cross objection,0.5
+such matter,0.645933014354067
+relief of award,0.5
+realization,0.6944444444444444
+respectful agreement with the view,0.5
+same procedure,0.5
+provisions of the code,1.6470588235294117
+original decree,0.6666666666666666
+sinha,0.8166351606805294
+hyderabad jagirdars debt settlement act,0.5
+- maintainability of cross objections,0.0
+high court by the appellants herein,1.0
+filing of appeal,0.5
+fall within the scope,0.75
+ltd,2.382356477306883
+such appeal,1.3846153846153846
+dispute,2.402137592137592
+staying,0.5
+terminu,0.4324324324324324
+speaking for the court,0.8571428571428571
+civil procedure code,1.1
+new period,0.5
+court fees,0.75
+court as an appellate court,0.6666666666666666
+high court as an appellate court,0.6666666666666666
+superintending,8.75
+reliance,1.400763358778626
+three - judge bench,0.0
+jagirdars debt settlement act,0.5
+partial success with a jew,0.5
+detail,0.9737454684220567
+right of respondent,1.0
+cause for commencement,0.5
+impugned decree,0.6666666666666666
+original decrees,0.6666666666666666
+case,7.332269420884958
+difference,0.8774847235514982
+creature of statute,0.8571428571428571
+period,1.9480170842427122
+statute confer,1.0
+disagreement with the law,0.5
+merit for the reason,0.0
+non-maintainability,0.0
+competence,3.09375
+with the provisions of the act andor,0.5
+final conclusion,0.6666666666666666
+valid appeal,1.0
+such matters,0.672514619883041
+ram,2.11096203538064
+- maintainability,0.0
+bhadurmal,0.5
+appeal under section,3.1176470588235294
+review petition,2.72
+wing,1.7891975171731296
+singh,3.7791111111111113
+high court under section,1.5333333333333334
+ramasray,0.5
+service,4.257395095954566
+date of the order,1.25
+- matter of the cross objection,0.0
+manumpmanump,1.5
+subject - matter,0.0
+such observation,0.4444444444444444
+contention,1.666391070690368
+opposite party,2.3333333333333335
+nothing in clause,0.6666666666666666
+advocate for the appellants,1.0
+rule,5.04
+advocate,1.0791341991341994
+appeals from original decrees,0.6666666666666666
+proceedings,1.7670925223666287
+applicable to the hearing,0.5
+favour,1.653145208700764
+name of a company,0.5
+malhati,0.5
+merits unless the statute confers,0.5
+arbitrator,13.860000000000001
+two - judges bench,0.0
+force in this contention,1.0
+reference to arbitration,1.2
+supra,2.246342614440774
+senior advocate for the respondents,0.5
+bench,2.5793391667754992
+civil appeal,2.2413793103448274
+right in the respondent,0.6666666666666666
+power on the court,0.75
+airguj,0.8
+development authority,1.9333333333333333
+differs,0.3833333333333333
+provisions application thereto,0.5
+v bizaatunnisa begum,0.5
+quo,1.4641201465860294
+memo of appeal,1.8
+partial succes with a jew,0.0
+respondents,2.6341263330598856
+time-barred memo,0.0
+leave,1.0147842365477848
+appeal before the division bench,0.9285714285714286
+objections if the appeal,0.5
+costs,0.8167395522604189
+applicant,0.7861822513400833
+pleader of notice,0.5
+entire body,0.5
+slp,1.291953447628582
+upheld by the judgment,0.5
+dda,0.8716985271934398
+private limited company as the respondents,0.5
+allahabad high court,1.7037037037037037
+nariman,0.5454545454545454
+date of service,1.5714285714285714
+ground of appeal,0.0
+bachawat,0.6666666666666666
+time consequent upon the dismissal,0.5
+exercise of substantive right,0.5
+commences,1.0
+point,2.9165043546008516
+success with a jew,0.5
+body,1.336775463480009
+final opinion thereon,0.5
+same before the appellate forum,0.5
+order of the court,0.8888888888888888
+considerations,0.7860235003092146
+pendency of the hearing,0.5
+allahabad,2.3404255319148937
+respondent - international security,0.0
+jew,0.37337239583333337
+notice,2.3300025999395686
+provision of civil procedure code,0.0
+district judge,2.1684981684981683
+speaks of an appeal,0.5
+shall,3.6283780276816606
+power,3.8165227690948367
+incompetent,1.0460048426150121
+merits,0.968421052631579
+provisions of rule,0.7407407407407408
+premise,1.2347417840375587
+other parties,0.4183006535947712
+available ground,0.5
+such of the provisions of the code,0.5
+that appeal,0.6666666666666666
+maintainability of cross objection,1.5
+act confers,1.25
+lal,1.6786163249382287
+grounds of appeal,0.6666666666666666
+under section,5.374517374517374
+form of a special case,0.5
+reason,2.6381270903010035
+respondents before the division bench,0.5
+extent of inconsistency,0.6666666666666666
+shankar,0.84
+appeal from original decrees,0.0
+one,4.845669314438648
+petition,5.3436539306104525
+category,1.9351744779266717
+notice of the appeal,0.5
+court below,1.1428571428571428
+appeal though such right,0.5
+succes,1.0899488286934886
+neat question,0.5
+upheld maintainability,0.5
+consideration,1.9110153789142115
+expense,1.4186440677966103
+wrong premise,1.0
+proceedings before the court,1.3333333333333333
+applicable by virtue of section,1.0
+devoid,0.5094339622641509
+observations of this court,1.0
+memorandum,1.2142857142857144
+procedural in nature,1.5
+issue by the respondents,0.5
+words,1.6384367086179112
+powers of court,0.75
+supreme court from every order,0.5
+cross objection pertake,0.5
+statutory,2.0326923076923076
+plea,1.4430487701432178
+facie,1.0476190476190477
+only relief,0.6666666666666666
+clause,3.526455026455027
+proceeds on certain wrong premises,0.5
+hidayatullah,1.0
+devi,1.2339221178171305
+v narendrakumar chandulal,0.5
+requirement of a memo,0.0
+others,0.9074667328904616
+sushila devi,0.5
+arbitration proceedings,2.4545454545454546
+appeal shows,0.5
+subject - matter of cross objection,0.0
+former undertook,0.5
+care,0.8846948234137723
+mlj,0.49677419354838703
+cross objections,3.0
+respondents company,0.6666666666666666
+calcutta high court,2.0588235294117645
+generality,0.5454545454545454
+civil jurisdiction subject to the provisions,0.5
+future interest on the decretal amount,0.5
+limited company,2.2857142857142856
+appeal within the prescribed period,0.5
+mahajan,0.8
+chief justice m hidayatullah,0.5
+decree till realization of the decretal amount,0.5
+challenge,1.2204566274399267
+wallis,0.4285714285714286
+judge,2.9012627415183325
+authority,2.4352627108360636
+provisions,3.8929824561403508
+provision of rule,0.5
+manuscmanusc,7.940520446096654
+jagirdar,0.5
+appeal against the judgment,1.0
+appeal before the high court,1.1875
+baru,0.2777777777777778
+division bench of calcutta high court,0.5
+harries,0.5
+cross objection under order,0.5
+provisions of civil procedure code,0.6666666666666666
+development,2.3145884270578647
+corporation,3.6427750743444176
+other of the descriptions,0.5
+period of limitation,3.3181818181818183
+powers in insolvency cases,0.5
+ground of challenge,0.6666666666666666
+original court,0.5
+rules of the court,0.75
+conclusion,1.3883437407077015
+- matter,0.0
+by virtue of section,1.2857142857142858
+advantage,1.1441364159430905
+appeals under section,1.3333333333333333
+judges,2.0931496919173616
+upheld maintainability of cross objection,0.5
+memo of cross objection,0.5
+feeling,0.4897158322056835
+security,1.5014864864864865
+intelligence,0.5581881533101045
+maintainable as an appeal,0.5
+legal proceedings,0.7500000000000001
+questions,0.9979150871872632
+to proceedings under the arbitration act,0.5
+equitable consideration,0.8333333333333334
+dhani,0.6666666666666666
+filing of the original appeal,0.5
+v revenue officer,0.5
+of the orders as fall,0.5
+requirement of cross - objection memo,0.0
+first appeal,1.112781954887218
+power in insolvency cases,0.0
+neat questions of law,0.5
+applicability of order,1.0
+arbitration act andor,0.5
+spite of the original appeal,0.5
+punjab chief court,0.5
+proceed,2.930994380987473
+iii,1.5614499719992534
+accordance with the procedure,0.875
+conformity,0.71875
+new period of limitation,0.5
+no doubt,0.8331331503088538
+observed--there,0.0
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+madra,2.836734693877551
+slum,0.4716981132075471
+supreme,1.443815331010453
+merits though the appeal,0.5
+right of appeal,3.3333333333333335
+interest from the date,1.1428571428571428
+cross-objection,0.0
+other finding,0.5
+pathak,1.8571428571428572
+requirement,1.2416133333333332
+several high court,0.6666666666666666
+certain wrong premise,0.5
+virtue of section,1.2857142857142858
+high court,7.7477477477477485
+respect of a civil appeal,0.5
+text,0.869556447376715
+relevant statutory provisions,0.8
+insolvency,2.25
+memo,1.4242074188165834
+declaration that the appellant,0.6666666666666666
+state,6.817996007300392
+condonation of delay,4.3
+statute,2.5765859456247218
+operative part of the judgment,0.5
+jurisdiction,2.9539571926331507
+objection in the appellant court,0.5
+aircal,1.3333333333333333
+to appeals under section,1.5
+order in respect,1.2857142857142858
+representation,1.2338308457711442
+trial,3.7979448350459712
+inherent right of appeal,0.5
+controversy,0.8593204191806921
+alagappa,0.6666666666666666
+high court by the appellants,1.0
+wbmanu,1.1818181818181819
+future interest,1.0
+manu,7.078142071124147
+concern,2.0544958000579303
+maintainability of an appeal,0.5
+rate,3.088725136774248
+exercise of right,0.75
+bare reading of these provisions,0.5
+cpc,1.0529279279279278
+therein direction,0.5
+applicable to all proceedings before the court,0.5
+other default,0.5
+terminus,0.4259259259259259
+nanak,0.5000000000000001
+subject matter of controversy,0.6666666666666666
+behalf of the respondents,1.3235294117647058
+manutnmanutn,1.7
+succes with a jew,0.0
+further time as the appellant court,0.5
+proprietary concern,3.5714285714285716
+inherent right,1.0
+time consequent,0.6666666666666666
+appellants,7.701086956521739
+nature,1.4149926876444778
+b subba reddy,2.5
+chetty,0.6666666666666666
+applicable to the appeal under section,0.5
+insolvency act,0.5
+extended period,1.1764705882352942
+act in view,0.875
+observation of this court,0.6666666666666666
+act wherein for the first time,0.5
+nothing in this section,0.75
+available grounds of challenge,0.5
+decree till realization,1.0
+appeal on the ground,0.8
+provision of cross objection,0.0
+applicable to appeals under section,0.5
+categories,0.8800000000000001
+power of court,0.6666666666666666
+party to the contract,1.0
+standard procedure,0.30000000000000004
+objection petition under section,0.5
+situation,1.1254754682459434
+opinion that the order,0.5
+cross objection in view,0.5
+undertook,0.46753246753246747
+observations,0.7454584147497534
+orders in respect,1.0
+condonation,6.5
+high court as devoid,0.5
+filing of cross objection,0.5
+senior advocate,1.6153846153846154
+fit,2.7848485899724365
+to court,0.7445544554455445
+cross objection in an appeal,0.5
+legal proceeding,0.7714285714285716
+bizaatunnisa,0.5
+decree in terms,0.6666666666666666
+requirements of a memo,0.5
+cross-appeal,0.0
+small,0.6079554085022354
+xli,0.627124773960217
+disputes,2.3049883690876194

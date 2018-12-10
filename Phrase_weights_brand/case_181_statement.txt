@@ -1,0 +1,907 @@
+apex,0.8555555555555555
+goods at the concessional rate,0.5
+fact of this present case,0.0
+government,3.5583785424010483
+insofar,0.9295774647887324
+exemption,1.7371031746031744
+much of the duty of excise,0.5
+explanation-in,0.0
+clear that the entire case,0.5
+view that the second condition,0.5
+industrial process,3.3333333333333335
+cent of the value,1.25
+apex court in the case,1.0
+leviable on a like article,3.5
+surcharge,1.8000000000000003
+that the purpose of exemption notification,0.5
+central excise,4.925925925925926
+mind,1.1559066143122394
+the benefit of chapter x,0.5
+manufacturer of the saloon car,0.5
+other hand,0.6931925622439332
+custom,1.8742070505069293
+cvd,3.3947368421052633
+reasons,1.3749054007567938
+single effect chiller,0.5
+appeal before cegat,0.5
+terms,2.390350840909655
+instance,0.9469803370786518
+manufacturer for the purpose,1.5
+hyderabad,2.5833333333333335
+motiram tolaram v union of india manuscmanusc,0.5
+payable on a like article,1.0
+malwa industry,0.0
+interest,2.74353772015385
+month of the date,1.0
+court,12.24425115501509
+amount equivalent,0.75
+respective arguments,1.0
+manufacturers,1.1404255319148935
+better appreciation,0.6666666666666666
+production,2.1071428571428577
+chargeable under section,0.5
+union,2.0981927710843373
+levy of an additional duty,0.5
+collector of central excise,1.6666666666666667
+use of that expression,0.5
+rate of cvd,0.5
+person,4.291511329454258
+outcome,0.6303030303030303
+ors,2.8612718198296623
+exemptions,0.5625
+indian manufacturer,0.6666666666666666
+read of the provision,0.5
+way,1.7812722068664852
+correctness,0.8404159132007234
+behalf,1.9888053603529987
+part,5.294464509893076
+jaipur v jk synthetics manuscmanusc,0.5
+description,0.8190476190476191
+nothing,0.8658723322806009
+customs manuscmanusc,1.0
+bombay,2.3134020618556703
+cars for tourist taxis,1.0
+note of the arguments,0.5
+good at the concessional rate,0.0
+light of the same judgments,0.5
+same issue,0.4632352941176471
+applicable to the fact situation,1.0
+narrow sense of that term,0.5
+aspect,1.2449448189023034
+benefit of this notification,0.5
+shri,2.0759135877246115
+decisions,1.3888475974580996
+decision,2.9514937765898557
+amount of excise duty,1.8
+articles,1.4349688743466387
+hyderabad industry,0.0
+in the public interest,2.6
+limb clarify,0.0
+customs act,2.0588235294117645
+goods in india,1.0
+which event,0.44871794871794873
+aforesaid,2.592896174863388
+other person,0.9635036496350365
+claim,2.817264601856604
+house,2.0021735292386764
+doubts,0.6666666666666666
+term of the aforesaid notification,0.0
+chapter x of the central excise rules,0.5
+correctnes,0.8404159132007234
+to state,0.7092760180995474
+appeal,3.4125488033856883
+condition precedent,1.7058823529411764
+such extended period,1.25
+collector of customs,1.9230769230769231
+determination,1.5980374665477253
+user,0.5042401399919236
+collector,1.8095238095238093
+explanation deal,0.5
+respective argument of the learned counsel,0.0
+article belong,0.5
+good,2.6154941054299674
+sheet,1.1667364016736401
+fact situation,1.3333333333333333
+other conditions,0.8888888888888888
+scope  effect,0.0
+purchase from a manufacturer,0.5
+read,2.2147281730888695
+term of notification,0.0
+inapplicable to an importer of goods,0.5
+order of the delhi bench,0.5
+excise duty,5.818181818181818
+following condition,0.65
+benefit of the notification,2.6666666666666665
+plain read,1.1666666666666667
+month,1.3454861111111112
+year,2.8349484769759212
+stage,1.1298537871524448
+duty for the time,3.5
+amount of concessional duty,0.5
+limited,1.3713554955535188
+note of judgments,0.5
+certain doubts on the correctness,0.5
+judgment,3.288216560509554
+second condition,0.75
+salt,0.7390776699029126
+refund claim,5.0
+manufacture,3.7256425233644856
+article belongs,0.5
+discussion in the judgment,0.5
+question of law,3.057142857142857
+excise duty for the time,3.5
+order,5.472481489660944
+second limb,1.0
+act,12.870263922028107
+sub-section,0.0
+relatable to the use of that expression,0.5
+aforesaid rule,1.0769230769230769
+central excise rule,1.4444444444444444
+business of tourism,0.5
+conflicting opinion,0.5
+guarantee,2.2562167724232554
+clas,2.1196191893660425
+explanation,1.4510159010600707
+additional duty on an import,0.6666666666666666
+various kind of goods,0.0
+importer,1.3636363636363638
+entitlement of further exemption,0.5
+refrigerating,0.5
+benefit of concession,0.5
+customs duty,2.142857142857143
+following conditions,0.6000000000000001
+notifications of exemptions,0.5
+effect,2.184583388478191
+different context,0.5538461538461539
+lends support,0.6666666666666666
+counsel for the parties,1.263157894736842
+manner,1.4494591333432125
+months of the date,0.6666666666666666
+the benefit,1.6496372897052016
+sanyo,0.25193798449612403
+kind of goods,0.0
+valorem,2.25
+parties,1.8210828547990157
+excise department,1.0
+respective benches,0.5
+industrial proces,3.3333333333333335
+aforesaid judgments,1.0
+reading of this judgment,0.6666666666666666
+arguments of the counsel,1.0
+section,9.287987283173626
+exempt,1.8056061157626502
+such benefit,1.5714285714285714
+importer as the manufacturer,1.0
+saloon car after clearance,0.5
+imprimatur to the principle,0.5
+contrary view,0.7464114832535885
+objective,0.5021775147928994
+january,0.8699641577060931
+tariff,11.052631578947368
+saloon cars in this country,0.5
+appellate,2.561224489795918
+condition,2.259476395625584
+that expression,0.75
+judgments,1.2355646397547266
+excisable goods,3.4285714285714284
+assessees,2.533333333333333
+rule apply,0.0
+v commr,0.6666666666666666
+motiram tolaram v union,0.5
+bench of cegat,3.0
+machinery for use,0.5
+place,2.333104345208554
+opposite decisions,0.5
+schedule to the central excise tariff act,1.4
+good in a specified industrial process,0.0
+concessional rate of cvd,0.5
+effect that such saloon car,0.5
+view of the mumbai bench,0.5
+present case,1.5611814345991561
+such car,0.4571428571428572
+limited v collector of customs,0.5
+certain doubts,0.6666666666666666
+on a like article,5.5
+following term,1.6170212765957446
+concessional duty,1.0
+regard,2.723310344827586
+genesis of section,0.5
+concerned state transport authority in this behalf,0.5
+ad valorem,1.5
+malwa industries,1.0
+cent ad valorem,0.5
+context,0.9269383697813122
+entitlement,0.6176470588235294
+hereafter,1.3090439647134764
+various kind,0.3492063492063492
+knowledge,1.1120671641791045
+class,2.1508512849922936
+proces,1.627944583238701
+direction,1.8495050210098996
+various kinds,0.3508771929824561
+computer,1.3866140537259068
+vailing,0.7775871926815323
+item,1.3319648896447913
+union of india,3.1324503311258276
+control,2.148867902684286
+facts,1.4696673624372698
+same judgment,0.875
+genesi,0.3588516746411483
+leviable at different rates,0.5
+issue,2.766776251628934
+para,2.300239586747483
+leviability of additional duty,0.5
+different rates,0.5333333333333333
+basi,2.0752712086391383
+mumbai,1.8484848484848484
+total cvd,0.5
+powers,1.876345371920593
+first limb,1.0
+benefits,2.0896027049873203
+respective benches of cegat,0.5
+description of articles,0.5
+prescribed procedure,0.8
+primary reason for rejection,0.5
+aforesaid observation of this court,0.5
+at different rates,0.5
+benefit,2.604810195438474
+latter,0.7109238669791096
+individual,1.1485140562248994
+opinion that those judgments,0.5
+cost,1.2954397451466992
+import of such cars,0.5
+judgment of this court,2.1029411764705883
+car,1.5664537220559551
+orders,1.4936359300077826
+assessee before cegat,0.5
+basis,1.953226441078104
+goods under the above item,0.5
+goods for the purpose,0.5
+addition to the customs duty,0.5
+percentage,0.8769344141488578
+application for concession,1.0
+scheme,3.415949119373777
+importers,0.7
+taxis,1.0666666666666667
+basic excise duty,0.5
+sub,7.816899313759727
+thermal,0.8633841886269071
+cvd under the concession notification,0.5
+excisable good in a specified industrial process,0.0
+for concessional rate of cvd,0.5
+private individuals,0.6111111111111112
+central excise rules,1.4444444444444444
+country,1.2903191103863751
+refund to the assessee,0.6666666666666666
+concession in excise duty,0.5
+condition precedent for levy,0.5
+percentage points,0.2857142857142857
+delhi v hari chand shri gopal,0.6666666666666666
+industrial purposes,1.0
+officer,3.1197242647058823
+duty-,0.0
+lend,0.8438020461575065
+private limited v collector,0.5
+such good for the purpose,0.0
+ground,1.4186722903211633
+to the fact situation,1.3
+respect of goods,1.3333333333333333
+arguments,0.7212211466865226
+types of use,0.5
+irresistible conclusion,1.1428571428571428
+concession,1.3748597081930416
+language of the same notification,0.5
+benefit of the aforesaid notification,0.5
+argument of the counsel,0.5
+vide order,1.7058823529411764
+west,1.1420057009587976
+doubt on the correctness,0.0
+excess,0.9860601614086574
+gopal,1.1610169491525424
+leviable on the class,0.5
+serial no,1.6200000000000003
+matter,2.8088923076923082
+state transport authority,2.0
+exemption notification,2.7142857142857144
+respective bench,0.5
+hospital,1.3942768854411434
+article,4.378806157159795
+assistant commissioner of customs,1.0
+decision in hyderabad industries,0.0
+amount equivalent of such further exemption,0.5
+preventive,0.5487012987012988
+machinery,0.9071637426900585
+supplier of such goods,0.5
+term,3.6255105640901575
+supplier,0.5907692307692307
+tourist taxi,1.0
+case of commissioner,0.5
+car for tourist taxis,0.0
+view,2.441100058469462
+explanation deals,0.5
+rationale,0.6017094017094018
+purpose of exemption notification,0.5
+salt act,1.5
+reference order,0.6666666666666666
+bone,0.6534106600386633
+requirements,0.7375979875979877
+vide,4.454025282767798
+opinion,1.4960606342789635
+saloon car in this country,0.0
+refund claim of the assessee,0.5
+for-remission,0.0
+appliance,0.6428571428571429
+factory - vide item,0.0
+use,5.06801278974993
+rules deals,0.5
+above item,0.39
+genesi of section,0.0
+quantification,1.0666666666666667
+limb,0.509338061465721
+assistant,1.6732837055417698
+material,1.4148767018946966
+procedure,2.552771605064117
+implies that the production,0.5
+bone of contention,0.5555555555555556
+scope,0.8412698412698413
+november,0.7203359669727383
+judge bench,2.8472222222222223
+that the entire case,1.0
+provision,5.439002243350069
+jk synthetic,2.3333333333333335
+support,0.8630946786249609
+aforesaid observations of this court,0.6666666666666666
+apex court,1.375
+conflicting opinions,0.5
+tolaram,0.6666666666666666
+respect,2.6704963235294117
+further exemption,1.5
+business,2.8512056385864457
+particular goods,0.5
+reading of the aforesaid notification,0.6666666666666666
+sikri,1.0
+fact,3.6284951019474962
+factory purchasing part,0.5
+learned counsel,3.703333333333333
+such benefit of this notification,0.5
+expression,1.7424391201885312
+vide orders,1.0
+exemptionremission of excise duty,0.5
+assessee,15.925925925925926
+department,1.9858367499068206
+-ce,0.0
+hyderabad industries,2.0
+anr,1.1271033322299457
+benefit of such notification,0.5
+transport,1.8361522198731504
+jaipur,1.0
+cce,2.1435495791771464
+concerned state transport authority,0.5
+thereto,1.0358342665173572
+concession under the rule,1.0
+air-conditioning appliances,0.0
+additional duty under section,1.6666666666666667
+ratio of the aforesaid judgment,0.5
+customs tariff act,2.6666666666666665
+other word,0.758838674565131
+respective argument of the counsel,0.0
+extent,1.410108024691358
+necessity,0.7072538860103627
+opposite decision,0.5
+points,0.7095682483711788
+court in thermax,1.0
+applicability,1.0928961748633879
+philosophy behind the provisions,0.5
+in terms,1.855706736317804
+doubt,1.3646267723102583
+excess of the amount,1.4285714285714286
+benefit of remission,0.5
+light,0.8816192372754331
+aforesaid observation,1.0555555555555556
+chapter x of the rules,1.5
+private individual,0.6111111111111112
+necessary in the public interest,1.5
+exercise,1.9400726466785694
+report,1.7768151696835826
+duty under section,1.75
+imported article,2.25
+explanation thereto,0.6666666666666666
+limb to the explanation deals,0.5
+benefit under this chapter,0.5
+such further exemption,0.5
+gold,1.6014084507042254
+opinions,0.735248687055916
+principle,1.9620890732001848
+party,2.2250894654439723
+imply,0.5714042449674633
+particular good,0.5
+duty if any notification,0.5
+excise rules,1.4444444444444444
+delhi,2.6089285714285717
+first limb clarifies,0.5
+aforesaid rules,1.0
+jk synthetics,2.3333333333333335
+subject to the following conditions,0.8333333333333334
+use of the word,0.6352941176470589
+benefit of chapter x,0.5
+proper to state,0.5
+remission,2.807017543859649
+actual users,0.5
+lends support to the case,0.5
+excisable good,3.4285714285714284
+therein,1.5503424657534246
+levy under section,0.5
+tourists,0.36111111111111116
+revenue,1.486701237872198
+per,7.977753416636086
+such application,1.1428571428571428
+requirements of rule,0.5
+leviable at any percentage,0.5
+refund claim on the ground,0.5
+lends,0.43010752688172044
+approval,1.4085456739300164
+certain doubt,0.6666666666666666
+such excise duty,0.5
+explanation if an imported article,1.0
+v collector of customs,1.0
+date,6.195616975795285
+submission of the assessee,0.6666666666666666
+reference,2.1755848210276256
+further exemption of duty,1.5
+cegat,1.8571428571428572
+purpose of section,1.3888888888888888
+clear from the reading of this judgment,0.5
+bare reading,0.9285714285714286
+serial nos,1.3333333333333333
+schedule,2.9453067257945307
+reason for rejection,0.5
+language of the rule applies,0.5
+good in question,0.0
+question,2.980312372067635
+limited v collector,0.6666666666666666
+excise tariff,2.0
+benches,1.1746031746031744
+limb clarifies,0.5
+import,1.5850112386464603
+bare reading of the aforesaid notification,0.5
+cvd concession,0.5
+benefit of notification,0.6666666666666666
+to the excise duty,2.0
+assurances,0.32432432432432434
+limb clarifies that the duty,0.5
+assessee at the time,0.5
+scmanu,7.940520446096654
+good under the above item,0.0
+word,2.065873981084096
+equal to the excise duty for the time,1.5
+chapter,1.3867471532446152
+exempts,0.75
+benefit to the importers,0.0
+appeals,1.7060218112849692
+actual manufacture,1.0
+months,1.1938163721148947
+amount,3.179688593072295
+february,0.8575630252100839
+other words,0.7578482137053969
+duty on an import,0.6666666666666666
+explanation to section,1.5
+few facts,0.4761904761904762
+veracity of this decision,0.5
+judge bench of this court,1.6486486486486487
+thereon,0.877037037037037
+name,1.8996570753072433
+commr,0.5384615384615384
+importer of goods,1.0
+stock of few facts,0.5
+narrow sense,0.42857142857142855
+customs,1.9344608879492597
+payment,2.059553716565686
+following terms,1.5957446808510638
+lohia,0.3333333333333333
+hereafter in this section,0.75
+second limb to the explanation deals,0.5
+event,1.4310854436179261
+purchase,3.239871541501976
+excise act on a like article,0.5
+force,1.6009408121948314
+sanyo single effect chiller,0.5
+notification,3.0112746633260263
+arguments of the learned counsel,0.8
+learned,3.406323898681099
+plea of the assessee,0.5
+such application for concession,0.5
+proviso,2.112
+obvious that the purpose of exemption notification,0.5
+factory,1.1501182033096926
+thermal cases,0.5
+purpose,2.519170317925504
+balance,0.9863636363636363
+law,3.538923411654744
+nos,1.2635492554198444
+observation,0.7625074854374218
+aforesaid notification,1.5
+levy of additional duty,1.3333333333333333
+time,2.4764180952862667
+cases,1.9728229418951067
+central government,3.0380952380952384
+item whereas,0.5
+rate of additional duty,1.0
+from the reading of this judgment,0.5
+rejection,0.7335907335907336
+terms of notification,1.0
+items,1.0672246220302377
+synthetics,1.0
+rate of duty,4.0
+such person,0.9634888438133874
+first limb clarifies that the duty,0.5
+constitution bench,4.27536231884058
+philosophy,0.40044247787610615
+eligibility,1.1788856304985336
+purchaser,2.017857142857143
+purchaser thereof,0.5
+aforesaid question,1.0
+equal to the excise duty,2.0
+same for refrigerationair conditioning,0.5
+leviable thereon,1.6
+act on a like article,0.5
+refund,2.670692431561997
+percentage point,0.2857142857142857
+expression  the excise duty,0.0
+rejection of the refund,0.5
+doubts on the correctness,0.5
+concession notification,0.5
+assurance,0.9418901660280969
+clearance of such saloon car,0.5
+addition,1.5588539142412572
+motiram,0.6666666666666666
+kinds of goods,0.5
+lohia sheet,1.0
+hereinafter,0.7670609645131939
+appeal of the assessee,1.1666666666666667
+factory purchasing parts,0.5
+basi of item,0.0
+concessional,0.3055555555555555
+such goods for the purpose,0.5
+west regional bench,0.5
+view of section,1.5
+march,1.0644238856181665
+certificate,2.732600732600732
+rules deal,0.5
+of the duty of excise,1.0
+conditioning,0.45454545454545453
+levy,3.3133874239350907
+public interest,2.380434782608696
+type,0.8102172691515265
+such cars,0.3333333333333333
+application,2.3322596088086445
+counsel,2.2246780703440323
+exces,0.9881465517241379
+rates,0.9535092413452435
+parts,0.6609660823170732
+to importer,0.5
+india,2.7684068260703585
+scope  effect of section,0.0
+quantification of additional duty,0.5
+authorities,1.266131845134287
+busines of tourism,0.0
+assistant commissioner,1.8125
+rules,3.130914366958792
+concession under rule,0.5
+reading,0.9004509191814082
+exemption of duty,2.5
+notification of exemptions,0.0
+such excise duty on a like article,0.5
+new delhi v hari chand shri gopal,0.6666666666666666
+good for the purpose,0.5
+proviso to this notification,0.5
+hari,1.1945070711211314
+new,0.9418497626301229
+respective arguments of the learned counsel,0.5
+cent,2.4795666588956498
+saloon car,6.5
+lohia sheets,0.5
+state transport authority in this behalf,0.5
+regard to a claim,0.5
+production of a like article,1.0
+taxi,1.7952380952380955
+ltd,2.382356477306883
+dispute,2.402137592137592
+appeal of the revenue,0.6666666666666666
+submission,1.0913871684001404
+industry,8.208106219426973
+conditions,1.9988092071092867
+percentage of the value,0.5
+opinion that those judgment,0.5
+kinds,0.5807291666666666
+manufacturer,1.7352281226626773
+reliance,1.400763358778626
+excise,4.429175475687103
+central excise tariff act,2.0
+approval to the rationale,0.5
+nothing in the scheme,0.5
+xiii,0.5625
+that matter,0.5503846153846154
+goods under customs,0.5
+saloon cars,2.0
+veracity,0.6470588235294118
+case,7.332269420884958
+controversy in issue,0.5
+period,1.9480170842427122
+error,1.059158294766151
+certificate from an officer,0.5
+emphasi,0.9191619047619048
+eligible for concessional rate of cvd,0.5
+scc,1.941872465904902
+rule applies,0.5333333333333333
+sheets,0.4754285714285714
+lower authority,0.5
+industrial purpose,1.0
+goods in a specified industrial process,0.5
+manufacturer in which event,0.5
+such saloon car,2.0
+different rate,0.5333333333333333
+constitution,3.204842342342342
+appropriate stage,0.5142857142857143
+types,0.6765151515151515
+duty of excise,2.7142857142857144
+japan,0.16621803499327054
+various kinds of goods,0.5
+objective behind this notification,0.5
+cent thereon,0.5
+special industrial purpose,1.0
+purposes,1.4391216613438835
+basis of item,0.6666666666666666
+exercise of the powers,1.4545454545454546
+factories,1.1428571428571428
+therefore,2.960332350576253
+contention,1.666391070690368
+matter to a larger bench,0.8571428571428571
+rule,5.04
+commissioner of customs,1.8888888888888888
+few fact,0.46296296296296297
+proceedings,1.7670925223666287
+favour,1.653145208700764
+manufacturer furnishes to the assistant collector,0.5
+benches of cegat,1.0
+supra,2.246342614440774
+duty,3.2272215973003378
+customs house manu  scmanu  sc,0.0
+bench,2.5793391667754992
+other persons,0.6111111111111112
+issue in favour,0.75
+chand,1.4868766404199476
+use in a factory,0.5
+genesis,0.3599817268158977
+same notification,1.3333333333333333
+appreciation of the dispute,0.5
+costs,0.8167395522604189
+implies,0.5243199999999999
+respect of items,0.5
+same judgments,0.5
+tourist,0.5904761904761905
+refrigeration,0.3333333333333333
+claimed,1.1893958357037204
+refund department,0.5
+payable thereon,0.6666666666666666
+highest duty,0.5
+refrigerationair conditioning,0.5
+point,2.9165043546008516
+type of use,0.0
+process,1.6274942048088725
+excise rule,1.4444444444444444
+goods,4.7578125
+air-conditioning appliance,0.0
+notice,2.3300025999395686
+india manuscmanusc,1.8333333333333333
+excisable goods in a specified industrial process,0.5
+shall,3.6283780276816606
+power,3.8165227690948367
+scc pp,1.0
+excise tariff act,2.0
+private,1.3048022500781278
+assistant collector,2.375
+plain read of the provision,0.5
+notification under rule,0.5
+such notification,0.875
+purchasing,0.7428070175438596
+item wherea,0.5
+respective bench of cegat,0.0
+certain doubt on the correctness,0.0
+under section,5.374517374517374
+imprimatur,0.75
+first limb clarify,0.0
+reason,2.6381270903010035
+entire case,1.0
+liable to a duty,0.5
+position,1.549133168619177
+cce v jk synthetics manuscmanusc,0.5
+thermal case,0.5
+respective argument,1.0
+bond,0.7394882659713169
+leviable under section,1.3333333333333333
+claim for refund,0.8
+honda,0.3653444676409186
+query,0.7205882352941175
+consideration,1.9110153789142115
+exemption from customs duty,1.0
+individuals,0.7198633479746219
+observations of this court,1.0
+certain material,1.0
+judgment of this case,0.5
+words,1.6384367086179112
+insofar as mumbai bench,0.5
+cvd in respect,0.5
+tourism,1.75
+requirement of rule,0.6666666666666666
+plea,1.4430487701432178
+commissioner,2.271608643457383
+value,1.7137907830478438
+eligibility for concessional rate,0.5
+decisions in hyderabad industries,0.5
+air,2.0589664272145285
+places,0.8371884824384251
+concession in cvd,0.5
+reply,1.0337305560040906
+foreign manufacturer,0.75
+chapter x,1.2592592592592593
+sense of that term,0.5
+use of certain material,0.5
+short issue,0.6666666666666666
+cars,0.7225527312060573
+favour of the revenue,1.0
+to an importer of goods,0.5
+court in hyderabad industries,0.5
+such duty,1.7142857142857142
+specified industrial process,0.5
+good under customs,0.0
+of total cvd,0.5
+central excise tariff,2.0
+column,0.8759124087591239
+learned counsel for the revenue,2.0
+authority,2.4352627108360636
+judge,2.9012627415183325
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+concessional rate,0.75
+users,0.23364293085655316
+mumbai bench of cegat,2.0
+exces of the amount,0.0
+exemption notifications,1.6666666666666667
+outcome of these appeals,0.5
+v collector,1.25
+matter of common knowledge,0.75
+tariff act,4.333333333333333
+argument of the learned counsel,0.8
+nil rate,1.0
+licence,3.10964429776311
+mumbai bench,2.5
+argument,0.9504580388560493
+remission of duty,0.5
+dispute that the assessee,0.5
+leviability,0.5
+facts of this present case,0.5
+conclusion,1.3883437407077015
+ratio,5.027061939235792
+duty on goods,1.0
+manufacture at the time,0.6666666666666666
+thermax,6.0
+delhi bench of cegat,1.0
+common knowledge,0.45112781954887216
+duty in terms,0.6666666666666666
+chapter x of the rules deals,0.5
+limbs,0.5
+inapplicable to importers,0.5
+cent ad-valorem,0.0
+thermax case,0.5
+purpose of this proviso,0.5
+room,0.6950710108604846
+products,1.6079404466501241
+new customs house manuscmanusc,0.5
+larger bench,2.0606060606060606
+argument of the assessee,0.6666666666666666
+concession under the rules,0.5
+excise duty on a like article,0.5
+benefits to the importers,0.5
+aforesaid judgment,1.4583333333333333
+hand,2.0299623418254717
+lohia sheet products,0.5
+direction to the lower authority,0.5
+west regional bench at mumbai,0.5
+appreciation,0.7282229965156793
+iii,1.5614499719992534
+terms of the aforesaid notification,0.5
+sense,0.8606303395157362
+order of the commissioner,1.0
+to importers,0.5
+spirit,0.6048586885080135
+clearance,4.090225563909774
+assessee herein,0.5
+excise act,2.2941176470588234
+such saloon cars,0.5
+no doubt,0.8331331503088538
+busines,2.8488759960122034
+such good,1.7676767676767675
+additional duty,5.142857142857143
+regional,2.357638888888889
+other condition,0.8627450980392157
+delhi bench,3.5
+manufacturer furnishes,0.5
+product,2.242984858429713
+requirement,1.2416133333333332
+primary reason,0.3492063492063492
+to the use of that expression,0.5
+computer room,0.5714285714285714
+deeming,1.0526315789473684
+new delhi,1.744186046511628
+state,6.817996007300392
+answer,0.9554305705177771
+honda accord cars,1.0
+chiller,0.6000000000000001
+aforesaid observations,1.0833333333333333
+note,1.3654108484234107
+controversy,0.8593204191806921
+specified industrial proces,0.5
+manu,7.078142071124147
+rate,3.088725136774248
+remission of excise duty,1.0
+central,2.61875
+following rationale,0.5
+excise department from time,0.5
+japan for the purpose,0.5
+reading of this rule,0.5
+language,0.8555828468744352
+exemptionremission,0.5
+better appreciation of the dispute,0.5
+notice of these orders,0.5
+malwa,0.6666666666666666
+duty on the item whereas,0.5
+counter,1.0576470084371923
+case as importer,0.5
+specific query,0.5
+emphasis,0.8024289099526066
+single,1.6221488419098207
+accord,2.1409462447350256
+concessions,0.6896551724137931
+special industrial purposes,1.0
+nature,1.4149926876444778
+at different rate,0.5
+actual user,0.3333333333333333
+private limited v collector of customs,0.5
+for refrigeration  air conditioning,0.0
+discussion,0.7445831166579996
+extended period,1.1764705882352942
+lohia sheet product,0.5
+additional exemption of duty,0.5
+refund because the procedure,0.5
+observation of this court,0.6666666666666666
+such goods,3.1818181818181817
+manufacturer furnish,0.5
+tribunal,5.07183212267958
+kind,0.9236881920088026
+goods in question,1.25
+good in india,0.0
+honda accord car,1.0
+situation,1.1254754682459434
+precedent,0.8982341399607586
+saloon,3.545454545454545
+observations,0.7454584147497534
+synthetic,0.9056603773584907
+tourist taxis,1.0
+reference to section,1.1111111111111112
+additional exemption,0.5
+like article,5.4
+stock,1.0778270324523251
+saloon car from the factory,0.5
+time under rule,0.5
+to a duty,0.5
+tariff item,2.75
+manufacturer furnish to the assistant collector,0.0
+further concession,1.0
+leviable,3.05
+to the excise duty for the time,1.5
+persons,2.5993381990166555
+appliances,0.7083333333333334
+respective arguments of the counsel,0.5
+industries,2.162068965517242
+notifications,1.9743589743589745
+benefit of the exemption notifications,0.5

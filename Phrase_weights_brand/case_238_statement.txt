@@ -1,0 +1,132 @@
+proper care at the stage,0.5
+october,0.9478375701551667
+intensive care unit,0.6666666666666666
+council,1.464939453675021
+government,3.5583785424010483
+units,5.004460400348129
+care unit,1.0
+consumer disputes,3.111111111111111
+notice,2.3300025999395686
+writ,2.8882378560889794
+national consumer dispute,1.0
+lever function test,0.5
+national commission,4.818181818181818
+post-operational stage,0.0
+health secretary,0.0
+medical negligence,1.6
+course,1.6545957498716626
+lever,0.35915492957746487
+care units,1.0
+title,1.74290600761189
+health secretaries,0.5
+patient in the intensive care units,0.0
+patients,0.47297297297297297
+operation,1.0959893294085181
+hospitals,0.363677536231884
+patient,1.4067744260269741
+union,2.0981927710843373
+learned,3.406323898681099
+guidelines,1.540251572327044
+cause,1.8431210321626654
+present civil appeal,0.5
+function,1.6326372491145218
+lft,0.3222748815165877
+physician,0.2287581699346405
+majumder,0.25
+proper care,0.5
+treatment,1.1351020408163266
+hospital,1.3942768854411434
+medical negligence in a criminal proceeding,0.5
+medical council of india,3.142857142857143
+appellants,7.701086956521739
+number,1.4802651440973922
+guidelines for treatment,0.5
+care at the stage,0.5
+view,2.441100058469462
+ccu,3.6555819412099098
+post,2.344803646492219
+cause title in course,0.5
+care,0.8846948234137723
+icu,2.2269943750173185
+proceeding,2.1298245614035087
+aforesaid,2.592896174863388
+test,2.5329834591340266
+intensive,0.328125
+distinction,0.7312167973690868
+appeal,3.4125488033856883
+unit,2.176678509944691
+heard mr rabin majumder,0.5
+large in number of private hospitals,0.5
+delay,1.9544910179640715
+state governments,1.3345864661654134
+counsel,2.2246780703440323
+stage,1.1298537871524448
+secretary,0.9217877094972067
+guideline,1.5641711229946524
+india,2.7684068260703585
+commission,4.703619179345321
+weeks,0.8109161793372318
+factum,1.125
+redressal,2.7333333333333334
+distinction between the medical negligence,0.5
+fit case,1.1578947368421053
+critical,0.6607929515418502
+new,0.9418497626301229
+learned counsel,3.703333333333333
+national consumer disputes,1.0
+aforesaid submission,1.0
+further submission,0.75
+national,1.5126860273884035
+council of india,2.909090909090909
+medical,1.633306645316253
+dispute,2.402137592137592
+gross negligence,0.2857142857142857
+tests,1.9146311374290645
+submission,1.0913871684001404
+list in the first week,0.5
+state government,3.027142857142857
+week,0.8253498691546249
+appellant,14.387096774193548
+secretaries,0.75
+cause title,1.0
+list,4.014941314095513
+consumer forum,2.4285714285714284
+rabin,0.41417910447761197
+parties,1.8210828547990157
+new delhi,1.744186046511628
+intensive care units,0.5
+state,6.817996007300392
+patients in the intensive care units,0.5
+case,7.332269420884958
+notice in the present civil appeal,0.5
+private hospital,0.2
+first week,0.42352941176470593
+lever function tests,0.5
+check,0.7221664994984955
+private hospitals,0.2857142857142857
+party,2.2250894654439723
+guideline for treatment,0.0
+consumer dispute,3.6666666666666665
+factum of medical negligence,0.5
+delhi,2.6089285714285717
+counsel for the appellants,1.7258064516129032
+governments,1.020200276243094
+critical care units,0.5
+returnable date,1.0
+redressal commission,1.375
+in number of private hospitals,0.5
+forum,1.9016754850088184
+health,0.8632619439868204
+consumer,4.596273291925465
+view of the aforesaid submission,0.5
+date,6.195616975795285
+critical care unit,0.5
+criminal proceeding,2.9166666666666665
+union of india,3.1324503311258276
+civil appeal,2.2413793103448274
+day,1.550999710228919
+negligence,1.3017543859649123
+medical council,4.375
+number of private hospitals,0.5
+negligence in a criminal proceeding,0.5
+disputes,2.3049883690876194

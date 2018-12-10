@@ -1,0 +1,552 @@
+courts,2.1216528162511543
+- examination,0.0
+sight,0.6194871794871795
+incriminating circumstances,0.6666666666666666
+code,2.880559796437659
+bir,1.8200073691967573
+in-law,0.0
+signature,1.1400966183574879
+certain things,0.25510204081632654
+pw- informant,0.0
+people,1.2855544825097243
+deobanti devi,1.5
+set of appeals,1.0
+knees,0.4880952380952381
+sections,1.640495469442838
+janaki devi,0.5
+terms,2.390350840909655
+front neck,0.5
+main ingredient of section,0.0
+judicial magistrate,2.7857142857142856
+vaishali at hajipur,0.5
+narayan yadav,0.5
+court,12.24425115501509
+order of the trial court,1.0
+lalit,1.55
+basisth narayan,3.5
+shrestha,0.5
+non - examination,0.0
+person,4.291511329454258
+ram shresth rai,0.5
+cause,1.8431210321626654
+way,1.7812722068664852
+main ingredients of section,0.5
+for commission of crime,0.5
+parental home,0.5
+basisth,1.25
+that house,0.4444444444444445
+body deep,0.5
+dholan devi,1.5
+small portion,0.3555555555555555
+non-explanation of same means,0.0
+sessions,1.3405714285714285
+demands of dowry,2.0
+many infirmity,0.0
+post-mortem,0.0
+hands,1.1725490196078434
+dowry demands of a rajdoot motorcycle,0.5
+mental cruelty,0.5
+judgment of the bench,0.8888888888888888
+kailash,1.0
+house,2.0021735292386764
+sake of brevity,0.4615384615384615
+appeal,3.4125488033856883
+kailash rai,1.0
+court of judicature,1.4210526315789473
+different village,0.4
+sheet,1.1667364016736401
+physical assault,0.5333333333333333
+iron wire,2.0
+harassment,1.5747368421052634
+other accused person,2.111111111111111
+reluctance,0.5454545454545454
+sessions judge,2.9545454545454546
+village,1.8429856945085372
+month,1.3454861111111112
+year,2.8349484769759212
+residents in the house,0.5
+judgment,3.288216560509554
+reportable judgment,1.2
+guilt to the accused persons,0.5
+- examination of important witnesses,0.0
+relevant witness on record,0.0
+certain thing,0.3401360544217687
+father,1.4298716229162676
+guilt,1.1140207075064712
+sharma,0.9516994633273703
+residents,0.8191605554688717
+order,5.472481489660944
+injury,1.7199352451433856
+act,12.870263922028107
+mother-in-law,0.0
+small portion of front neck,0.5
+post - mortem report reveal,0.0
+bahadur,1.0
+in-laws if the demand of dowry,0.0
+ingredients,0.7539893617021276
+assemblage of people,0.5
+handwriting,1.5517241379310345
+explanation,1.4510159010600707
+due to this reason,0.5
+investigation thereupon,0.5
+accused persons,7.048780487804878
+defence witnesses,1.0
+present set of appeals,0.75
+died,0.9275196022183975
+effect,2.184583388478191
+awadhesh,1.0
+same means,1.0
+evidence to the effect,1.0
+patna,2.3421052631578947
+pendency,1.0084033613445378
+morning,0.6560766182298546
+pinaki chandra ghose,1.3333333333333333
+mother,1.5057341472881893
+husbands,0.6097560975609757
+member,2.649111111111111
+cause of death,0.7894736842105263
+husband of dholan devi,0.5
+accused persons under sections,0.5
+post - mortem report reveals,0.0
+non-explanation,0.0
+relevant witnesses on record,0.5
+prosecution witnesses in the charge-sheet,0.0
+sister s death,0.0
+section,9.287987283173626
+past incident,0.5
+incident,1.8609485257918057
+fir,2.85390975582079
+- explanation,0.0
+burn injuries,4.0
+attention to the fact,0.75
+judgments,1.2355646397547266
+record as witnes,0.5
+burden of proof,0.7378917378917379
+place,2.333104345208554
+circumstance,1.429931390219372
+terrycot,0.6666666666666666
+binda rai,1.0
+present in the house,0.8
+statement that the deceased caught fire,0.5
+present case,1.5611814345991561
+mean,2.390645692553228
+yadav,1.8571428571428574
+investigation,1.6673076923076922
+marriage at the hands,0.5
+judicature,1.4210526315789473
+ante,1.545898893082828
+dowry death,3.888888888888889
+father of sarita kumari,1.0
+incident ie,1.0
+story,0.755772533184814
+sound,0.8535719072510389
+facts,1.4696673624372698
+- explanation of same means,0.0
+alleged fact from the side,0.0
+fire,1.1391892447477696
+parents,1.8852093189324288
+investigating,1.5794836956521738
+crowd,2.06340718105424
+triloki sharma that the ten,0.5
+ingredients of section,0.8
+sister in the morning,0.5
+person in this case,0.0
+further case of the prosecution,1.6666666666666667
+home,0.9826663267907214
+fears,0.31978319783197834
+lordship,1.0416666666666667
+oral testimony,0.6666666666666666
+deceased died of burn injuries,0.5
+at the house of ranjit kumar,0.5
+place of incident,1.1
+session,2.2400874351067563
+testimony of the informant basisth narayan,0.5
+common judgment,1.3636363636363635
+trial courts judgment,0.6666666666666666
+commission of crime,0.6666666666666666
+criminal appeal no,2.15625
+bir bahadur rai,0.5
+course,1.6545957498716626
+various lacunae,0.6666666666666666
+vii,1.26552423069836
+sharma s house,0.0
+explicit demands,0.5
+magistrate,3.522077922077922
+charge,2.7679815308681284
+pinaki,1.2857142857142858
+ingredient of section,0.5
+husband of deobanti devi,0.5
+matrimonial house,1.3333333333333333
+trial courts judgments,0.5
+crime,1.6636528028933093
+officer,3.1197242647058823
+cruelty,2.9099099099099095
+marriage,1.8031648351648353
+ribs,0.5333333333333333
+dowry prohibition act,2.2
+banshi,1.6666666666666667
+fore,7.06241367403315
+persons for the offence,0.6666666666666666
+further case,0.9523809523809524
+evidence in this case,0.4
+conversations inside the house,0.5
+bishnudeo,3.5
+limited evidence,0.5
+dowry demand of a rajdoot motorcycle,0.0
+explicit demands of a rajdoot motorcycle,0.5
+relation,1.397320207820618
+proof,1.0648141580366008
+hospital,1.3942768854411434
+matter,2.8088923076923082
+house on the day,0.5
+present matter,0.9090909090909091
+ram shrestha rai,0.5
+news,0.8405125851029581
+criminal,3.301971081989414
+term,3.6255105640901575
+umesh,0.8333333333333334
+pw- mishri lal,0.0
+appeal nos,1.6666666666666667
+conclusive proof,0.9444444444444444
+penal,1.8829173709853835
+ante mortem injury,0.0
+chest,0.7395639311931632
+post,2.344803646492219
+case of the prosecution,2.3043478260869565
+ingredient,1.2242798353909468
+doctor,1.4782608695652173
+same mean,1.0
+side,3.88845645915565
+wife,1.4518086408500224
+penal code,2.710144927536232
+respect to the other accused persons,0.5
+binda,1.2676056338028168
+sake,0.5262975778546712
+witness,5.333906623599983
+incriminating circumstance,0.75
+sarita kumari daughter of bishnudeo rai,0.5
+prosecution witness in the charge-sheet,0.0
+rib,4.704014691403096
+record,2.5393414390845273
+information,1.1320502836800534
+persons in this case,0.6666666666666666
+laws,1.4186274337269533
+defence,1.3606588776096535
+polouse,0.0
+rajdoot motorcycle,1.0
+ranjit,2.7142857142857144
+dowry demands,1.5
+iron,2.76566757493188
+various lacunae in the case,0.5
+conversations,0.889344262295082
+pink colour,0.5
+chandeshwar rai,0.5
+non - examination of important witnesses,0.0
+respect,2.6704963235294117
+ten,6.264302675621631
+fact,3.6284951019474962
+members of this family,0.5
+matrimonial home,2.1666666666666665
+post - mortem report,0.0
+mr  justice,0.0
+either parents,0.5
+chief,1.9429638234317954
+superficial burn injury,0.0
+december,0.9629002463054187
+husband,1.6418918918918919
+object,1.4940119760479043
+kumar,2.028839704896043
+demand,1.5671679197994988
+vaishali,1.0
+main ingredient,0.6666666666666666
+presumption,1.06
+uday,0.4065934065934066
+crying,0.2725060827250608
+father bishnudeo rai,0.5
+demands,0.7474201474201474
+demands of a rajdoot motorcycle,1.0
+month of marriage,0.0
+witnes,5.333906623599983
+viii,0.7209469153515065
+pendency of trial,0.6666666666666666
+extent,1.410108024691358
+prosecution suffer,0.5
+chandeshwar,0.5
+alleged second wife of ranjit kumar,0.5
+dholan,1.5
+years,2.5395804110508022
+charge - sheet,0.0
+report,1.7768151696835826
+judicial,2.8688059701492543
+prosecution story,2.142857142857143
+raj banshi devi,1.0
+insistence,0.5
+justice,2.292557084574302
+name of the persons,0.0
+reasonable explanation,0.3589743589743589
+deceased died,1.75
+knee,0.4666666666666667
+sight of the fact,0.5714285714285714
+in - law,0.0
+colour,0.48673194267063996
+case of the prosecution suffers,0.5
+testimony,1.4407553107789142
+fire from a stove,0.5
+date,6.195616975795285
+rai,2.517873434808919
+village chowkidar,0.6666666666666666
+hearsay witnes,0.5
+sister,1.0774703557312253
+offence,4.401610644257703
+sister-in-law,0.0
+presence,0.9604834261070158
+neck,0.6142330723169047
+ten years,1.3829279923700524
+deceased,4.535714285714286
+day,1.550999710228919
+medical evidence in this case,0.5
+reportable judgment of the bench,0.75
+numerous ante mortem injury,0.0
+ante mortem injuries,1.5
+further indicate,1.0
+apprehension,0.9319526627218935
+honble,2.4444444444444446
+appeals,1.7060218112849692
+present at the house of ranjit kumar,0.5
+months,1.1938163721148947
+immobile,0.38095238095238093
+janaki,1.0
+statement,2.5393160135035964
+parent,0.9965655833245622
+accused person,4.565217391304348
+brevity,0.5466472303206997
+burn injury,0.0
+name,1.8996570753072433
+entire conduct,0.6666666666666666
+resident,1.6560361185631094
+high,5.367119186841496
+members,1.9437616522164103
+brother,1.4566585956416465
+numerous ante mortem injuries,0.5
+conversation,0.8755391250770179
+assault,1.0656614201609997
+entire conduct of the accused persons,0.5
+custody,1.4166666666666667
+munsi,1.0
+sarita kumari daughter,0.5
+pw awadhesh,0.5
+complaint before the chief judicial magistrate,0.6666666666666666
+law,3.538923411654744
+trial court,3.854545454545455
+nos,1.2635492554198444
+accused person in this case,0.0
+member of this family,0.0
+close relation of bishnudeo rai,0.5
+alleged second wife,0.5
+witnesses on record,0.5
+portion of front neck,0.5
+ghose,1.25
+mishri,1.0
+year of the marriage,0.0
+trial court in the present matter,0.5
+dowry demand,1.1666666666666667
+complaint,2.734525785235724
+saree,1.0
+mahendra,0.3333333333333333
+brother basisth,0.5
+present set,0.6666666666666666
+sarita,2.6666666666666665
+poor way,0.30000000000000004
+important witnesses,0.6666666666666666
+prosecution,4.619407894736842
+in-laws,0.0
+lacunae in the case,0.5
+facts of the case,1.161764705882353
+prohibition,1.9087256027554533
+cruelty against the deceased prior,0.5
+case of dowry death,0.6666666666666666
+such evidence,0.9649122807017544
+fear,0.8662375822023226
+triloki,1.6666666666666667
+imprisonment,1.4344262295081966
+absence,1.092363454568179
+vital one,0.5
+commission,4.703619179345321
+witnesses,3.359210526315789
+close relation,0.375
+names,1.766440410418311
+record as witness,0.5
+blunt object,1.0
+rigorous imprisonment,1.9230769230769231
+important witness,0.75
+normal course,0.8666666666666667
+chowkidar,1.4
+information of death,0.6666666666666666
+letter about a past incident,0.5
+infirmities,0.54
+relation of bishnudeo rai,0.5
+evidence,3.6676405172088815
+informant basisth narayan,1.0
+sisters of ranjit kumar,0.5
+trial of the case,1.0
+custody forthwith,1.0
+food,1.1292356927710843
+person for the offence,0.0
+case,7.332269420884958
+criminal appeal nos,1.4
+explicit demand of a rajdoot motorcycle,0.0
+cursory statement that the deceased caught fire,0.5
+bishnudeo rai,3.5
+died of burn injuries,1.0
+letter,2.707240080105903
+ram,2.11096203538064
+date of incident ie,0.75
+deobanti,1.5
+superficial burn injuries,0.5
+unexplained reluctance,0.5
+injuries,2.4130008710801394
+burn,0.7334842304248335
+defence witness,1.0
+in the house,1.0507462686567166
+portion,1.0756311179804223
+medical evidence,1.2820512820512822
+sisters,0.6034482758620691
+additional sessions judge,1.7647058823529411
+guilty for commission of crime,0.5
+prosecution witness,2.2
+chandra,0.7012987012987013
+bench,2.5793391667754992
+previous night,0.2857142857142857
+prosecution witnesses,2.0526315789473686
+complaint to the chief judicial magistrate,0.5
+explicit demand,0.5
+poison,1.089678510998308
+years of the marriage,1.0
+october,0.9478375701551667
+in-laws if the demands of dowry,0.0
+somebody,0.5581624605678233
+demand of a rajdoot motorcycle,0.0
+stove,0.6984126984126985
+burden,0.9853978671041838
+body,1.336775463480009
+shock,0.8456632653061225
+assemblage,0.5
+hearsay witness,0.5
+chief judicial magistrate,2.230769230769231
+shresth,1.0
+prosecution suffers,0.5
+high court of judicature,1.4210526315789473
+alleged facts,0.5
+either parent,0.5
+relevant witness,1.3333333333333333
+police,2.9749362629783356
+sentence,2.3896654193264366
+father-in-law,0.0
+examination,2.4920345926263088
+awadhesh kumar munsi lal mahendra rai basisth,0.0
+evidence act,3.8666666666666667
+deceased prior,0.5
+yogendra,2.857142857142857
+lal,1.6786163249382287
+uday umesh lalit,0.5
+pw- as the one,0.0
+sister of ranjit kumar,0.5
+set,2.3027452395971277
+reason,2.6381270903010035
+life,1.3352928273744242
+mental cruelty against the deceased prior,0.5
+one,4.845669314438648
+many infirmities,0.5
+television,0.5560836501901141
+ten year,1.3831258644536653
+large assemblage of people,0.5
+accused person under sections,0.0
+appeal no,2.288135593220339
+presumption under section,1.2222222222222223
+indicate,1.1663542642924085
+front,0.8400299386969539
+devi,1.2339221178171305
+sarita kumari,3.5
+deceased caught fire,0.5
+main ingredients,0.6666666666666666
+witness on record,0.0
+scar,1.0159272351749613
+accused persons in this case,1.0
+expedient,1.1041666666666667
+kumari,4.764705882352941
+family,1.856281506375408
+alleged fact,0.6666666666666666
+judge,2.9012627415183325
+death,2.361592909460208
+reddish while neck,0.5
+narayan wherein,0.5
+conduct,1.5998023165163158
+other circumstance,0.6600000000000001
+ribs in chest,0.5
+other accused persons,2.111111111111111
+father yogendra rai,0.5
+dowry,5.666666666666667
+fact of the case,0.0
+patna in criminal appeal nos,0.5
+absence of any such evidence,0.6666666666666666
+caught fire,0.6666666666666666
+ranjit kumar rai,0.5
+honble mr justice,1.5833333333333333
+sound of crying,0.5
+indian penal code,5.264705882352941
+months of marriage,0.5
+hand,2.0299623418254717
+iii,1.5614499719992534
+means,1.3868295182781003
+circumstances,1.3944461370073231
+wire,0.7465648854961832
+cruelty in relation,0.5
+lacunae,1.2
+high court,7.7477477477477485
+ranjit kumar,2.7
+relevant witnesses,1.3333333333333333
+daughter,1.0364906832298135
+flesh,0.425
+cursory statement,0.5
+rajdoot,1.0
+trial,3.7979448350459712
+pw-,0.0
+prior,1.1843036382221124
+respect to the dowry,0.5
+infirmity,1.3095238095238095
+yogendra rai,3.5
+narayan,0.8111111111111111
+case of dholan devi,0.5
+informant,2.935483870967742
+in - laws,0.0
+dead body,1.192156862745098
+imprisonment for ten years,0.6666666666666666
+conduct of the accused persons,0.5
+large assemblage,0.5
+things,0.6162490788504054
+rigorous imprisonment for ten years,0.6666666666666666
+resident in the house,0.0
+motorcycle,0.5173313455087588
+sister s dead body,0.0
+hajipur,1.0
+house of ranjit kumar,1.0
+substantial case,0.5
+rib in chest,0.0
+night,0.8690610404251893
+raj,1.3364194424876723
+while neck,0.5
+to this reason,0.4
+attention,0.8724846605528799
+alleged facts from the side,0.5
+something,0.5915378827342709
+demand of dowry,1.2
+daughter marry,0.5
+scars,0.25
+mishri lal,1.0
+mortem,1.402116402116402
+persons,2.5993381990166555
+ranjit rai,2.0
+triloki sharma,2.0
+investigating officer,3.2580645161290325
+thing,1.1131787570209408
+names of the persons,0.8

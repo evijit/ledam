@@ -1,0 +1,578 @@
+courts,2.1216528162511543
+enactment,1.439950980392157
+objection for the prayer,0.5
+restriction,1.0123456790123457
+palanisamy,1.2
+exemption,1.7371031746031744
+rent law offence,0.5
+sin under the rent act,0.5
+terms of sub-section,0.0
+provisions in the act,0.5
+damadilal,0.5
+other hand,0.6931925622439332
+restrictions on eviction,0.5
+reasons,1.3749054007567938
+ltd v syeda vajhiunnissa begum,0.6666666666666666
+terms,2.390350840909655
+statutory tenancy,0.5
+matters,1.4810665618448637
+meaning,1.8612727545949643
+inter,3.683850287482992
+statutory provisions,1.6764705882352942
+inheritance,0.4800000000000001
+benefit on the tenants,0.5
+in a different manner,0.4761904761904762
+interest,2.74353772015385
+month of the date,1.0
+court,12.24425115501509
+creation,0.5716118684843625
+right of the landlord,0.6666666666666666
+objection,1.68120480131216
+person,4.291511329454258
+ors,2.8612718198296623
+view of the aforesaid,1.2580645161290323
+further default in payment,0.5
+benefit of the tenants,1.0
+thrust,0.4345864661654135
+behalf,1.9888053603529987
+nadu buildings,0.5
+heirs of a tenant,1.0
+regard to the devolution,0.5
+part,5.294464509893076
+right of inheritance,0.5
+pradesh accommodation control act,1.0
+guilty of the contravention,0.5
+legislation for the benefit,0.5
+extent of the benefit,0.5
+dharmalingam,0.5
+such tenancy rights after the termination,0.5
+bonafide need,0.6666666666666666
+shri,2.0759135877246115
+available to the individual tenant despite the fact,0.5
+decision,2.9514937765898557
+well-settled that a person by reason,0.0
+contrary,1.027917657672435
+landlord,3.643181818181818
+subject to rights,0.5
+aforesaid,2.592896174863388
+appeal,3.4125488033856883
+determination,1.5980374665477253
+further default,1.0
+predecessor in interest,1.0
+scr,2.483838975311538
+interpretation,1.518366298484459
+consecutive months,0.5
+provisions of the act,2.6056338028169015
+month,1.3454861111111112
+year,2.8349484769759212
+alia,0.9479866480753792
+obligations,0.9121212121212122
+death of the tenant,1.0
+judgment,3.288216560509554
+act proviso,0.5
+weeks from today,1.2
+father,1.4298716229162676
+subject,2.4420366233344897
+proviso to sub - section,0.0
+guilt,1.1140207075064712
+sharma,0.9516994633273703
+contract expres,0.6666666666666666
+order,5.472481489660944
+conjunction,0.4375
+gian devi s case,0.0
+mr un bachhawat,0.5
+act,12.870263922028107
+sub-section,0.0
+smt,0.7459757206267715
+clas,2.1196191893660425
+rate of rs,1.9333333333333333
+devolution,0.5714285714285714
+effect,2.184583388478191
+first appellate court,3.727272727272727
+appropriate provisions,0.5
+sulachana,0.5
+manner,1.4494591333432125
+months of the date,0.6666666666666666
+favour of a tenant,0.5
+parties,1.8210828547990157
+regard to the residential tenancy,0.5
+sin of the tenant,0.5
+such tenancy right after the termination,0.0
+heirs of the deceased tenant,1.5
+section,9.287987283173626
+succession,2.0923076923076924
+such protection,0.8
+such benefit,1.5714285714285714
+payment of arrears,1.6666666666666667
+madhya,2.9183673469387754
+shop,1.5065156686317096
+condition,2.259476395625584
+violator,0.45000000000000007
+x x,0.8596550823099033
+consequence,0.8726692512593296
+determination of the tenancy,0.5
+heirs of the tenant,0.5
+sub-letting,0.0
+possess,2.4574238668198394
+place,2.333104345208554
+innocent,0.9135903746240086
+appellant herein,2.046153846153846
+following term,1.6170212765957446
+regard,2.723310344827586
+to the heir of the tenant,0.0
+class,2.1508512849922936
+as sulachana s case,0.0
+limitation,2.4984479402325457
+enterprises,0.948060941828255
+rights,1.6349541930937281
+fault,0.8125244007183572
+control,2.148867902684286
+regard to the nature,1.0
+rent legislation,0.75
+-judge bench in damadilal,0.0
+bachhawat,0.5
+heir on the death,0.0
+basi,2.0752712086391383
+benefits,2.0896027049873203
+misery,0.5
+person by reason,0.5
+short question,0.5714285714285714
+rent act to the contrary,0.5
+particular clas,0.8333333333333334
+open to the legislature,0.6666666666666666
+contract,6.227349970404598
+benefit,2.604810195438474
+tenancy of the tenant,0.5
+today,0.6330563683773655
+subject to such limitation,0.5
+cost,1.2954397451466992
+basis,1.953226441078104
+to the legislature,1.0
+second time,0.3653846153846154
+scheme,3.415949119373777
+eviction,4.764705882352941
+appropriate provision,1.5
+contractual tenancy,0.5
+sub,7.816899313759727
+late father,0.6666666666666666
+successor - in - interest of the original tenant,0.0
+airsc whereupon mr gambhir,0.5
+judgment of courts,0.5
+posses,2.515939015939016
+gambhir,2.0
+to the individual tenant despite the fact,0.5
+lakshmi,0.942857142857143
+support of this proposition,0.8
+successor - in - interest of a tenant,0.0
+grounds,0.9540208829455945
+such tenancy right,0.5
+provision in the act,0.8
+as sulochana v c dharmalingam,0.5
+pradesh,4.365853658536586
+deposit,2.1724508050089444
+nature of protection,1.0
+benefit under this sub - section,0.0
+tenancy rights,2.3333333333333335
+extent of enjoyment,0.5
+ground,1.4186722903211633
+act to the effect,0.8
+letting,1.1424242424242426
+mr sk,0.5333333333333333
+aforesaid reasons,1.1379310344827587
+agarwal,7.8125
+specified manner,0.75
+matter,2.8088923076923082
+tenant,4.821212121212122
+heir of the deceased tenant,0.0
+landlord in the prescribed manner,0.5
+rent,2.460251217077583
+enterprise,0.921565795175502
+harsh consequence,0.6666666666666666
+main provisions,0.75
+controls,0.4465753424657534
+sita ram agarwal,0.5
+term,3.6255105640901575
+aforesaid reason,1.1176470588235294
+beneficial legislation for the tenant,0.5
+view,2.441100058469462
+liability,2.532836248924577
+father of the respondents,1.3333333333333333
+enjoyment,0.631578947368421
+opinion,1.4960606342789635
+ordinary law,1.25
+use,5.06801278974993
+merit,1.2419290263876248
+possession after the termination,0.5
+regard to the interpretation,0.75
+tenants through the relevant statute,0.75
+gian,0.5304850912327547
+undertaking before this court,0.6666666666666666
+rent control,3.0000000000000004
+second appeal,4.5
+contractual tenancy of the tenant,0.5
+result,1.3356630184144715
+general observations,0.75
+provisions thereof,1.0
+predecessor-in-interest,0.0
+sulochana,1.0
+rent act to a tenant,0.5
+ground of default,1.2
+hereinbefore,2.159090909090909
+provision,5.439002243350069
+to the heirs of the tenant,0.5
+support,0.8630946786249609
+aforesaid shop on rent,0.5
+open to the heirs of the tenant,0.5
+respect,2.6704963235294117
+legislation,3.2032032032032034
+rent act,2.084848484848485
+premises,1.290983606557377
+contravention,2.586206896551724
+fact,3.6284951019474962
+nadu building,0.5
+innocent of the rent law offence,0.5
+tenants,0.8391608391608391
+father of respondents,0.5
+benefit of the protection,0.5
+tenancy rights on the heirs,0.5
+building,3.870745432459903
+clauses,1.5486111111111112
+tenant within the meaning,0.5
+higher right,0.5
+kumar,2.028839704896043
+demand,1.5671679197994988
+same time,0.6913511801045461
+beneficial enactment,0.75
+thereto,1.0358342665173572
+individual tenant despite the fact,0.5
+tenancy right,2.5
+appropriate provision in the act,0.0
+creation of the act,0.5
+town,1.9746537396121884
+tenancy rights after the termination,0.5
+extent,1.410108024691358
+ground of bonafide need,0.5
+good law,0.5743589743589743
+flouting of the law,0.5
+penal provision in the sense,0.5
+such appropriate provision,0.5
+blemishless,0.5
+-judge bench of this court,0.0
+default in the payment,0.6666666666666666
+protection,1.1604395604395603
+restrictions,0.7241671372106155
+payable for any accommodation,0.5
+party,2.2250894654439723
+anything,0.9132309941520469
+judgment under challenge,0.9
+welfare legislation,0.75
+respondent herein,1.8936170212765957
+proposition,0.6371087928464977
+better title,0.6666666666666666
+reason of death,0.5
+main provision,2.1666666666666665
+heir of the tenant,0.0
+commencement,1.2037037037037035
+applicable in the instant case,0.8571428571428571
+harsh consequences,0.6666666666666666
+v anand kumar sharma,0.5
+for any accommodation,0.5
+decree,3.732408834103749
+division bench,3.965217391304348
+enactment for the tenant,0.75
+date,6.195616975795285
+consent,1.224924012158055
+exception to the general rule,1.0
+syeda,0.75
+offence,4.401610644257703
+respondent,4.757894736842104
+accordance,1.4069045211613462
+rent control act,3.4444444444444446
+default,0.7094574436346588
+vajhiunnissa,0.6666666666666666
+question,2.980312372067635
+devolution of tenancy rights,1.0
+heirs on the death,1.5
+that view of the matter,1.553191489361702
+premises in dispute till,0.5
+place in such matters,0.75
+scmanu,7.940520446096654
+word,2.065873981084096
+tenancy,3.0545454545454542
+need,1.1097650269586634
+tenants through the relevant statutes,0.75
+months,1.1938163721148947
+provision in the sense,0.5
+august,0.977116704805492
+sub - tenancy,0.0
+relevant statutes,0.75
+begum,0.717948717948718
+that tenant,0.5
+-judge bench,0.0
+learned senior counsel for the parties,1.0
+high,5.367119186841496
+payment,2.059553716565686
+following terms,1.5957446808510638
+sic,1.1611481056257176
+account,2.5754891049671977
+event,1.4310854436179261
+nasiruddin,0.5
+shelterles,0.5
+rented premises,0.6666666666666666
+little use,0.2692307692307692
+prayer,0.6969296987087519
+suit,2.485274378207659
+proviso,2.112
+such tenant,1.0
+fulfilment of the condition,0.6666666666666666
+appellate court,3.1458333333333335
+balance,0.9863636363636363
+law,3.538923411654744
+trial court,3.854545454545455
+observation,0.7625074854374218
+time,2.4764180952862667
+division,1.7657319129617017
+same in a different manner,0.6666666666666666
+parashram,0.5
+flouting,0.6666666666666666
+general observation,0.375
+lrs,0.46643518518518523
+jeevan,1.6
+appellant - landlord,0.0
+accommodation,1.3095238095238095
+obligation of the deceased tenant,0.0
+commencement of this act,1.7142857142857142
+rented premise,0.6666666666666666
+specified manner by any particular class,0.5
+sulochana s case,0.0
+new tenancy,0.5
+venkateshwara,0.8
+successor,1.2925170068027212
+right,3.07483248288682
+tamil,3.111111111111111
+direct that the respondent herein,0.5
+absence of any condition,0.5
+statutory provision,1.1638418079096045
+learned senior counsel,3.4615384615384617
+exception,1.1036946087733006
+absence,1.092363454568179
+counsel,2.2246780703440323
+aforesaid shop,0.5
+termination,1.6799615488397193
+predecessor,0.9857142857142858
+legislation for the tenant,0.5
+particular class,0.8333333333333334
+restriction on eviction,0.5
+benefit of the landlord,1.0
+such matter,0.645933014354067
+same accommodation,0.5
+defaulter,1.5555555555555556
+dispute till,0.5
+order for the eviction,0.5
+aforesaid effect,0.6666666666666666
+such benefit for the second time,0.5
+such limitation,0.6666666666666666
+mr gambhir,0.6666666666666666
+son,4.595622484812135
+heirs of badri lal,0.5
+ltd,2.382356477306883
+tenancy right after the termination,0.0
+dispute,2.402137592137592
+submission,1.0913871684001404
+beneficial enactment for the tenant,0.75
+to the appellant - landlord,0.0
+consequences,0.6659897713598075
+contract express,0.6666666666666666
+decision of this court,2.3260869565217392
+conditions,1.9988092071092867
+sin,4.490498652012043
+gian devi,1.0
+profile,0.874074074074074
+reliance,1.400763358778626
+heir of badri lal,0.0
+whole,0.951414768806073
+compliance,1.0029799914857385
+case,7.332269420884958
+basi of strict compliance,0.0
+scc,1.941872465904902
+appropriate provisions in the act,0.5
+provision of the rent act,0.0
+lease,1.2000155472636815
+such matters,0.672514619883041
+following factual background,0.6666666666666666
+ram,2.11096203538064
+punishment,1.6266937669376693
+nadu,1.4166666666666665
+neemuch,0.5
+open to the appellant-landlord,0.0
+that accommodation,0.5
+singh,3.7791111111111113
+undertaking,2.8508771929824563
+arrear,1.4666666666666666
+to right,0.7914230019493177
+strict compliance,1.4444444444444444
+original tenant,1.3333333333333333
+violator with the punishment,0.5
+respect of any accommodation,1.0
+inter alia,1.3280423280423281
+rule,5.04
+rent of any accommodation,0.5
+different manner,0.4761904761904762
+favour,1.653145208700764
+arrears of rent,4.6
+supra,2.246342614440774
+hardship,0.7236842105263158
+blemishles,0.5
+bench,2.5793391667754992
+profile of the view,0.5
+sub - section,0.0
+respondents,2.6341263330598856
+pvt,0.8625817965496728
+costs,0.8167395522604189
+conjunction with the proviso,0.5
+relevant statute,0.8
+assignment,0.6215753424657535
+of the contravention,0.6666666666666666
+deceased tenant,3.0
+benefit of proviso,2.0
+whole of the arrears,0.5
+notice,2.3300025999395686
+absence of any provision,1.1428571428571428
+wisdom,0.47641637300081324
+badri lal,3.0
+tenant under the act,0.5
+premise,1.2347417840375587
+notice of demand,1.0
+extent thereof,0.8
+title,1.74290600761189
+to the respondent - tenants,0.0
+trial court s decree,0.0
+time benefit on the tenant,0.5
+lal,1.6786163249382287
+decree for eviction,1.0
+week from today,0.75
+reason,2.6381270903010035
+instant case,2.0631578947368423
+earlier decision,1.5454545454545454
+different statute,0.8333333333333334
+benefit of the tenant,1.5
+position,1.549133168619177
+basis of strict compliance,0.75
+time benefit,0.5
+as sulachana,0.5
+eviction from any accommodation,0.6666666666666666
+subject to the conditions,1.125
+devi s case,0.0
+available to the respondent-tenants,0.0
+pray,0.8180203288886925
+arrear of rent,0.0
+consideration,1.9110153789142115
+in the instant case,2.0224719101123596
+position of the deceased tenant,0.5
+jail,0.7548476454293629
+words,1.6384367086179112
+heirs  father,0.0
+to rights,1.75
+successor - in - interest,0.0
+benefit of landlord,0.6666666666666666
+clause,3.526455026455027
+devi,1.2339221178171305
+shelterless,0.5
+rent by a tenant,0.5
+which badri lal,0.5
+heir of a tenant,0.0
+consent of the landlord,1.3333333333333333
+prescribed manner,2.1666666666666665
+term of sub-section,0.0
+provisions of the rent act,0.75
+other law,0.991304347826087
+shri lakshmi venkateshwara,0.75
+legislature,2.818553268765133
+challenge,1.2204566274399267
+heir,2.4782705005515444
+any accommodation,2.3333333333333335
+such tenancy rights,0.5
+landlord of a shop,0.5
+death,2.361592909460208
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+heirs,1.7930440771349863
+sublet,1.4625
+respect of the same accommodation,0.5
+consecutive month,0.5
+respondent - tenant,0.0
+nature of the protection,0.5
+scheme of the act proviso,0.5
+beneficial legislation,0.6666666666666666
+protection against eviction,1.0
+dead,0.8845609936055091
+acquire,1.6701974496092147
+conclusion,1.3883437407077015
+weeks,0.8109161793372318
+penal provision,1.8571428571428572
+anand,1.15
+provision like the tamil,0.5
+background,0.6800452488687784
+equitable consideration,0.8333333333333334
+individual tenant,0.5
+division bench of this court,1.4545454545454546
+benefit under the act,0.5
+badri,1.5555555555555556
+hand,2.0299623418254717
+sense,0.8606303395157362
+arrears,2.3209876543209877
+balwant singh,1.5
+statutes,0.9659824046920822
+possession,2.808810857389056
+appellant,14.387096774193548
+obligation,1.1071428571428574
+- landlord,0.0
+week,0.8253498691546249
+such default,0.5
+default in payment,2.0
+great hardship,0.75
+welfare,1.3226788432267886
+accordance with the ordinary law,0.5
+obligations of the deceased tenant,0.5
+rent of that accommodation,0.5
+residential tenancy,0.5
+high court,7.7477477477477485
+suit for eviction,2.0
+tenant despite the fact,0.5
+benefit for the second time,0.5
+answer,0.9554305705177771
+statute,2.5765859456247218
+- per month,0.0
+trial,3.7979448350459712
+such provision,0.5079365079365079
+manu,7.078142071124147
+result that the appellant herein,0.5
+to the respondent - tenant,0.0
+provision of the act,0.8888888888888888
+rate,3.088725136774248
+accommodation of which badri lal,0.5
+airsc,1.6909090909090911
+whereupon mr  gambhir,0.0
+see,2.8180360783074034
+nature,1.4149926876444778
+fulfilment,0.5833333333333333
+respondent - tenants,0.0
+tenancy right on the heirs,0.0
+earlier decision of this court,1.1
+sita,0.6331210191082801
+gian devi anand v jeevan kumar,0.5
+buildings,1.3041267942583734
+consideration in this case,0.75
+commercial tenancy,0.5
+balwant,1.3636363636363635
+premise in dispute till,0.0
+observations,0.7454584147497534
+v parashram,0.5
+e palanisamy,0.75
+senior counsel,2.2857142857142856
+part of the order,0.6461538461538462
+decree forthwith,0.5
+general rule,0.6352941176470589
+of the rent law offence,0.5
+disputed shop,0.5
+therefrom,0.673076923076923

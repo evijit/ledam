@@ -1,0 +1,479 @@
+courts,2.1216528162511543
+court in the case,1.3333333333333333
+ramavilasom grandhasala v nss,0.5
+disregard,0.5855263157894736
+shivashankara v br,0.5
+code,2.880559796437659
+frame,1.023976722714937
+boodireddy,0.5
+patrick,0.2740740740740741
+decision on such question,0.5
+decisions of this court,1.8225806451612903
+matters,1.4810665618448637
+interim order,2.9166666666666665
+umerkhan v bismillabi manuscmanusc,0.5
+high court in second appeal,1.0
+court,12.24425115501509
+legal services authority,0.6666666666666666
+malkiat,1.3333333333333333
+jurisdiction for second appeal,0.5
+single judge,4.011627906976744
+same view,0.7272727272727272
+following conclusion,0.7200000000000001
+person,4.291511329454258
+appeals in the high court,1.0
+judgment of the trial court,1.25
+judgment of the appellate court,0.5
+substantial question,5.615384615384615
+litigation,1.4968553459119498
+- fledged trial,0.0
+concurrent finding of facts,1.0
+govindbhai manuscmanusc,0.5
+bombay,2.3134020618556703
+civil suit for perpetual injunction,0.5
+case of shiv cotex v,0.5
+re - appreciation,0.0
+amicus,1.0740740740740742
+present appeal,1.3424657534246576
+aspect,1.2449448189023034
+number,1.4802651440973922
+months from today,1.0
+district,1.5506763074237984
+decisions,1.3888475974580996
+decision,2.9514937765898557
+appeal afresh,0.6666666666666666
+aforesaid,2.592896174863388
+procedure admit,1.0
+shiv,0.6530206677265501
+aged person,0.6666666666666666
+sine qua non,1.0
+hardeep kaur v malkiat kaur manuscmanusc,0.5
+appeal,3.4125488033856883
+condition precedent,1.7058823529411764
+ms chandrakant giri,0.5
+formulation of substantial question,1.0
+tirgun auto plast,0.5
+case of umerkhan v bismillabi manu  scmanu  sc,0.0
+month,1.3454861111111112
+year,2.8349484769759212
+decree of the lower court,0.5
+plaintiff - respondents,0.0
+satisfaction,0.6639095671353735
+suit property,5.333333333333333
+such substantial question,0.5
+lower appellate court,3.6666666666666665
+code of civil procedure,5.5636363636363635
+question under sub-section,0.0
+judgment,3.288216560509554
+benny,0.22499999999999998
+same view that the second appeal,0.5
+question of law,3.057142857142857
+services,1.6850241065659326
+substantial question of law,6.7
+case in this court,0.6666666666666666
+order,5.472481489660944
+qua,2.4497935676369567
+sub-section,0.0
+curiae for the respondents,0.5
+legal expense,1.0
+high court with jurisdiction,0.5
+question of law heard,0.5
+first appellate court,3.727272727272727
+decree of the courts,0.6666666666666666
+nutshell,0.4695121951219512
+v gohil,0.5
+mandatory requirement,1.4
+option,1.002339493011135
+gohil,0.75
+civil procedure,5.448275862068965
+section,9.287987283173626
+venkataramanaiah v subba pujari,0.5
+appellate,2.561224489795918
+condition,2.259476395625584
+venkataramanaiah,0.5
+judgments,1.2355646397547266
+aforesaid amount,1.0909090909090908
+vigya,1.0
+kerala v puthenkavu nss,0.5
+place,2.333104345208554
+second appellate jurisdiction of the high court,0.5
+circumstance,1.429931390219372
+civil,2.126558634963905
+several contentions,0.8
+finding,1.8129183657767178
+constraints,0.43956043956043955
+present case,1.5611814345991561
+view of the prescribed procedure,0.5
+fresh decision,0.8
+mandate of the law,0.5
+gopalan,1.0
+earlier decisions,1.24
+context,0.9269383697813122
+mr vigya,0.5
+expenses,1.2727272727272727
+state of kerala v puthenkavu nss,0.5
+ellangallur,0.5
+open to the high court,1.1666666666666667
+accordance with law,1.0046948356807512
+earlier judgment,1.8
+facts,1.4696673624372698
+several contention,0.8
+light of the provision,0.8333333333333334
+short question,0.5714285714285714
+prescribed procedure,0.8
+v bismillabi,1.0
+mandatory requirement of section,0.5
+today,0.6330563683773655
+second appeals,1.0
+helplessness,0.5962732919254659
+judgment of the high court,1.721311475409836
+earlier decisions of this court,1.0
+constraints of section,0.5
+sub,7.816899313759727
+kaur,0.5
+peculiar facts,0.9473684210526315
+high courts,2.676470588235294
+jurisdiction of the high court,1.2222222222222223
+old person,0.4
+hence,1.1440732910500353
+ground,1.4186722903211633
+opportunity,0.946186440677966
+impugned judgment,2.0927152317880795
+authorities on that aspect,0.5
+bismillabi,1.0
+matter,2.8088923076923082
+case of rameshwar dayal mangala v,0.5
+auto,0.5633733887483435
+prima facie,1.0185185185185184
+view,2.441100058469462
+concurrent,0.970164609053498
+sine qua non for exercise,0.5
+requirements,0.7375979875979877
+opinion,1.4960606342789635
+re - appreciation of evidence,0.0
+side,3.88845645915565
+chandraiah,0.5
+merit,1.2419290263876248
+contention in the appeal petition,0.0
+legal position time,0.5
+preferably,0.5042016806722689
+financial statu,0.5
+reversal of the judgment,0.5
+second appeal,4.5
+case of hardeep kaur v malkiat kaur manu  scmanu  sc,0.0
+procedure,2.552771605064117
+questions of law,1.3333333333333333
+position time,0.5
+overlooked time,0.5
+mangala,1.25
+provision,5.439002243350069
+ambiguity,0.7008985879332478
+jurisdiction under section,1.75
+old aged persons,0.5
+month from today,0.8333333333333334
+order to the bombay high court forthwith,0.5
+first,1.9006367208168047
+vatsalya,0.5
+fact,3.6284951019474962
+departure,0.6451612903225807
+weeks  time,0.0
+saldanha v antony m saldanha manuscmanusc,0.5
+authority on that aspect,0.0
+high court by the impugned judgment,1.0
+old aged person,0.5
+concurrent finding,1.625
+mahavir v,0.5
+frame substantial question,1.0
+earlier judgments,1.2
+judge of the karnataka,1.0
+procedure mandates,0.5
+contentions in the appeal petition,0.5
+laxmi manuscmanusc,0.5
+memorandum of appeal,2.4
+light,0.8816192372754331
+affidavit,2.2996987951807224
+years,2.5395804110508022
+civil procedure admit,1.0
+exercise,1.9400726466785694
+decree of the first appellate court,1.6666666666666667
+requirement of section,1.5
+entertainable by the high court,0.5
+common impugned judgment,1.2
+rameshwar dayal mangala v,0.5
+appeal in the high court,1.0
+amicu,0.8950617283950617
+full - fledged trial,0.0
+code of civil procedure admits,0.5
+to the appellate jurisdiction under section,0.5
+mathew,0.9170812603648425
+shah,1.9074421513445903
+rameshwar,1.3333333333333333
+mahavir,0.8
+decree,3.732408834103749
+concurrent judgment,1.3333333333333333
+satisfaction that a substantial question,0.5
+case of patrick jj,0.5
+afresh,0.6891891891891891
+rupees,2.311111111111111
+akin to the appellate jurisdiction under section,0.5
+hearing,0.9644508209787979
+respondent,4.757894736842104
+legal expenses,1.0
+substantial question of law heard,0.5
+accordance,1.4069045211613462
+day,1.550999710228919
+thousand,0.625287081339713
+legal,1.6383168326773236
+question,2.980312372067635
+helplessnes,0.5962732919254659
+that the substantial question of law,0.5
+legal assistance,0.6000000000000001
+second appeal afresh,0.5
+appeal by special leave,1.04
+scmanu,7.940520446096654
+essential for the high court,0.5
+formulation thereof,0.5
+appeals,1.7060218112849692
+months,1.1938163721148947
+amount,3.179688593072295
+ramavilasom grandhasala v ns,0.5
+case of mahavir v,0.5
+first place,0.48711943793911006
+saldanha,1.0
+high,5.367119186841496
+patrick jj,0.5
+decisions hereinafter,0.5
+single judge of the karnataka,1.0
+property,2.9368986630013745
+chandrakant,0.2
+appeals by special leave,1.0
+mr vatsalya,0.5
+suit,2.485274378207659
+appellate court,3.1458333333333335
+defendant,3.7706855791962175
+law,3.538923411654744
+karnataka,3.8596491228070176
+trial court,3.854545454545455
+financial status,0.5
+time,2.4764180952862667
+cases,1.9728229418951067
+sides,0.6706755273269035
+similar view,0.5274725274725275
+plaintiff,2.177926421404682
+procedure admits,0.5
+civil procedure admits,0.5
+disposal in accordance,0.8
+mandatory requirements of section,1.0
+sum of rs,2.125
+amarsing,0.5
+view that the matter need,0.6666666666666666
+karayogam,1.0
+admission if the high court,0.5
+chhaganial,0.5
+arigela,0.5
+non,1.3417336444559675
+possible preferably within a period,0.6666666666666666
+giri,1.9047619047619047
+finding of facts,1.0
+hereinafter,0.7670609645131939
+legal position,0.7659574468085106
+severance,0.4800000000000001
+helplessness of the respondents,0.5
+facts of the case,1.161764705882353
+case of ramavilasom grandhasala v nss,0.5
+civil procedure mandate,0.5
+sine,2.6412144879875763
+lower court,0.6666666666666666
+law heard,0.5
+subba,0.6964285714285714
+mandate,0.8783810859547183
+counsel,2.2246780703440323
+puthenkavu,0.5
+twenty,0.7332834704562453
+authorities,1.266131845134287
+constraint,0.38964401294498385
+suit for mandatory injunction,0.5
+mandatory requirements,1.0
+case of joseph severance v benny mathew manu  scmanu  sc,0.0
+such matter,0.645933014354067
+judgment of the lower court,0.5
+civil suit,0.7413793103448276
+cotex,0.2692307692307692
+formulation of a substantial question,1.0
+formulation,2.2418478260869565
+appeal by a court subordinate,0.5
+rupee,2.2291666666666665
+ltd,2.382356477306883
+helplessnes of the respondents,0.0
+disposal,1.1180555555555556
+several contention in the appeal petition,0.0
+evidence,3.6676405172088815
+fundamental legal position,0.5
+mandatory injunction,0.5
+decision of this court,2.3260869565217392
+chhaganial v gohil,0.5
+joseph severance v benny mathew manuscmanusc,0.5
+for the high court,1.1666666666666667
+circumstance of the case,0.5
+peculiar fact,1.0476190476190477
+case,7.332269420884958
+period,1.9480170842427122
+court subordinate,0.75
+shah mansukhlal,0.5
+hardeep,1.0
+scc,1.941872465904902
+second appeal in the high court,0.0
+such matters,0.672514619883041
+necessary requirement of section,0.5
+appeal petition,0.5
+service,4.257395095954566
+antony,0.7500000000000001
+contention,1.666391070690368
+maharashtra legal services authority,0.5
+view that the high court,1.0
+that context,0.6351606805293006
+appellate jurisdiction,2.769230769230769
+matter of law,1.0
+plaintiff - respondent,0.0
+laxmi,1.25
+chand,1.4868766404199476
+competent,1.3701267639320736
+respondents,2.6341263330598856
+bombay high court,2.4642857142857144
+umerkhan v bismillabi,1.0
+leave,1.0147842365477848
+maharashtra,2.9076923076923076
+mansukhlal,0.6666666666666666
+disregard of the above legal position,0.5
+code of civil procedure mandates,0.5
+second,1.4990453300392075
+dayal,0.9047619047619048
+preferably within a period,0.6666666666666666
+decree in second appeal,0.5
+admission,1.5389848246991107
+by the high court,3.246696035242291
+prayed,0.5974815458098133
+notice,2.3300025999395686
+possible preferably,0.6666666666666666
+district judge,2.1684981684981683
+trial court for fresh decision,0.5
+nss,0.5873400673400673
+status,1.14824388424026
+ellangallur v gopalan manuscmanusc,0.5
+merits,0.968421052631579
+injunction,2.1512605042016806
+aforesaid amount to the respondents,1.0
+appeal in accordance,1.0
+number that formulation,0.5
+court with jurisdiction,0.6666666666666666
+mandate of section,1.0833333333333333
+plast,0.5756029684601113
+grandhasala,0.5
+v bismillabi manu  scmanu  sc,0.0
+reason,2.6381270903010035
+perpetual injunction,0.5
+earlier decision,1.5454545454545454
+curiae,1.6875
+lakhmi,1.25
+nagaraj manuscmanusc,0.5
+position,1.549133168619177
+appellate jurisdiction under section,0.5
+ramavilasom,0.5
+petition,5.3436539306104525
+necessary requirement,0.6666666666666666
+consideration,1.9110153789142115
+expense,1.4186440677966103
+pujari,0.5
+memorandum,1.2142857142857144
+appeal for disposal,0.5
+notice of the high courts,0.5
+reversal,1.4166666666666667
+facie,1.0476190476190477
+several contentions in the appeal petition,0.5
+appeal before the district judge,0.5
+harish,0.40211640211640215
+to the high court,2.066666666666667
+person before this court today,0.5
+chand manu  scmanu  sc,0.0
+procedure mandate,0.5
+authority,2.4352627108360636
+judge,2.9012627415183325
+manuscmanusc,7.940520446096654
+law afresh,0.5
+above legal position,0.5
+decree of the lower appellate court,0.5
+kerala v puthenkavu ns,0.5
+satisfied that the substantial question of law,0.5
+umerkhan,1.0
+consideration in these appeals,0.9
+view that the second appeal,0.5
+court in second appeal,1.0
+second appeal for disposal,0.5
+fact of the case,0.0
+conclusion,1.3883437407077015
+qua non,1.0
+weeks,0.8109161793372318
+ratio,5.027061939235792
+special leave,1.903225806451613
+civil procedure mandates,0.5
+court by the impugned judgment,1.0
+govindbhai,0.5
+counsel for the appellant,1.9621212121212122
+exercise of jurisdiction,1.0666666666666667
+aged persons,0.6666666666666666
+questions,0.9979150871872632
+circumstances of the case,1.3373493975903614
+qua non for exercise,0.5
+case of bc,0.5
+assistance,0.8623872906826965
+court that formulation,0.5
+counter - affidavit,0.0
+appreciation,0.7282229965156793
+iii,1.5614499719992534
+contentions,0.9641025641025641
+matter need,1.0
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+week,0.8253498691546249
+decree of the trial court,1.0
+suit for perpetual injunction,0.5
+court today,0.6666666666666666
+chandraiah v arigela,0.5
+second appeals in the high court,1.0
+requirement,1.2416133333333332
+kerala,4.135593220338983
+shivashankara,0.5
+high court,7.7477477477477485
+constraint of section,0.0
+state,6.817996007300392
+requirements of section,1.5833333333333333
+jurisdiction,2.9539571926331507
+trial,3.7979448350459712
+preference,1.0460251046025104
+total disregard,0.5333333333333333
+old persons,0.6666666666666666
+manu,7.078142071124147
+harish chand manuscmanusc,0.5
+nagaraj,1.5
+second appellate jurisdiction,0.5
+joseph,0.4502673796791444
+appeals in accordance,1.0
+counter,1.0576470084371923
+single,1.6221488419098207
+appellate jurisdiction of the high court,0.6666666666666666
+bombay high court forthwith,0.5
+total disregard of the above legal position,0.5
+such question,0.4320987654320988
+tirgun,0.5
+earlier decision of this court,1.1
+registry,0.510662177328844
+finding of the first appellate court,0.6666666666666666
+lakhmi manuscmanusc,0.5
+frame substantial question of law afresh,0.5
+sum,2.554898897856461
+shiv cotex v,0.5
+precedent,0.8982341399607586
+opinion on the merits,1.0
+case of ellangallur v gopalan manu  scmanu  sc,0.0
+severance v benny mathew manu  scmanu  sc,0.0
+persons,2.5993381990166555

@@ -1,0 +1,626 @@
+courts,2.1216528162511543
+government,3.5583785424010483
+prices,0.9771470160116448
+plots,0.8001672240802675
+regular first appeals,1.5
+more proximate to the date,0.5
+kundi,0.14285714285714285
+lands in that area,0.5
+high court of punjab,1.2380952380952381
+maheshpur,0.5
+post - dated sale transaction,0.0
+other hand,0.6931925622439332
+sale transactions  acquisition,0.0
+lands in the aforesaid villages,0.5
+undergo drastic change,0.5
+fair market value,0.75
+batch,1.2940630797773658
+aforesaid villages,1.0
+matters,1.4810665618448637
+li in this batch,0.0
+matter in light,0.0
+acquisitions of comparable lands,0.5
+certain transactions in same locality,0.5
+compensation payable at the rate,0.5
+panchkula by haryana urban development authority,0.5
+court,12.24425115501509
+smaller plots,0.5
+spurt in prices,0.0
+statutory benefit,1.125
+order in rfa,0.5
+facilities,0.9130594727161252
+particular area,0.42857142857142855
+objection,1.68120480131216
+sudden spurt,0.5
+than the aforesaid amount,0.5
+rfa,1.4708617698091382
+statutory benefits,1.1428571428571428
+way,1.7812722068664852
+reference to the market value,0.5
+land - loosers,0.0
+court of punjab,1.2380952380952381
+lao,0.20285714285714287
+high court in regular first appeals,0.5
+cross,2.0778316690442225
+convenient disposal,0.6666666666666666
+above illustration,0.5
+infrastructure,1.1264822134387351
+fair market value of acquired lands,0.5
+more proximate,0.5
+juncture,0.8717948717948718
+facility,1.2989690721649485
+railley,0.5
+various awards,0.6666666666666666
+aforesaid view,0.9230769230769231
+appropriate method,1.0
+decision,2.9514937765898557
+certain transaction in same locality,0.0
+sale transactions,6.5
+jivanbhai,0.5
+aforesaid,2.592896174863388
+overall development,0.6666666666666666
+reference to previous acquisitionssale transactions,0.5
+respect of the lands,0.75
+reference court in respect,0.5
+fundamental principle,0.5656565656565656
+areas,1.6237236125072747
+appeal,3.4125488033856883
+certain land in the aforesaid villages,0.0
+determination,1.5980374665477253
+collector,1.8095238095238093
+post - dated sale transactions,0.0
+land,6.337534028705619
+determination of the actual market value,0.5
+area,2.675167256985439
+utilization of land,0.6666666666666666
+annum for the years,1.0
+village,1.8429856945085372
+actual market value,0.6666666666666666
+year,2.8349484769759212
+appropriate escalation over the proved market value,0.5
+piece,0.8682170542635659
+judgment,3.288216560509554
+haryana in a batch,0.5
+sake of convenient disposal,0.5
+infrastructure  amenities  facilities,0.0
+public purpose,2.076923076923077
+rate leads,0.5
+order,5.472481489660944
+comparable lands,0.5
+unreliable standard,0.5
+best piece of evidence,0.5
+act,12.870263922028107
+qua,2.4497935676369567
+market value of acquired lands,1.5
+to the claimant,2.0
+payable to the claimants,0.6666666666666666
+pitfalls,0.32
+exemplar property,0.0
+reliance on the judgment,0.7407407407407408
+state government,3.027142857142857
+spike,0.21785714285714286
+effect,2.184583388478191
+brief fact of the leas case,0.0
+sale transaction,4.25
+benefit on the enhanced amount,0.0
+standard of increase,0.5
+counsel for the parties,1.263157894736842
+sales,2.89512876202296
+towards development charge,1.0
+years before the acquisition,0.5
+best evidence than the post-dated sale transactions,0.0
+reference to sale transaction,0.5
+respect of the claimants land,0.5
+parties,1.8210828547990157
+valuation,2.0129870129870135
+various judgment,1.1818181818181819
+contiguity of villages,0.5
+section,9.287987283173626
+herein,2.825259515570934
+court in rfa,1.5
+lands because the properties,0.5
+preliminary notification,0.75
+judgments,1.2355646397547266
+aforesaid amount,1.0909090909090908
+standard,1.4669008088548319
+date of notification,1.125
+place,2.333104345208554
+due consideration of the objections,0.5
+civil,2.126558634963905
+improvement in the infrastructureamenitiesfacilities,0.5
+increase over a basic price,0.5
+utilization,0.6346153846153846
+property valuation,0.5
+regard,2.723310344827586
+reference to the above illustration,0.5
+light of the aforesaid,1.0
+fundamental principles of valuation,0.5
+occurrence,2.1343873517786562
+market value of the lands,0.5
+chandigarh,1.52
+year to year increase,0.5
+whereby,0.6100917431192661
+facts,1.4696673624372698
+certain lands,0.5
+determination of compensation,1.7777777777777777
+best evidence,0.9272727272727272
+acquisitions  sale transactions,0.0
+consistency,0.7974537037037037
+case of the land - loosers,0.0
+actual improvement,0.3333333333333333
+basi,2.0752712086391383
+certain transactions,0.5
+development activity,0.5
+benefits,2.0896027049873203
+leave petition,2.013333333333333
+objections,1.2025072324011572
+escalation in prices,1.0
+determination of market price,0.5
+method,0.9027027027027026
+increase of market value,0.5
+land in the aforesaid villages,0.0
+latter,0.7109238669791096
+benefit,2.604810195438474
+salesacquisitions,0.5
+judgment of this court,2.1029411764705883
+acquisitionssale transactions,1.0
+acre,1.6948939682084037
+basis,1.953226441078104
+first appeals,0.8333333333333334
+percentage,0.8769344141488578
+statutory benefit on the enhanced amount,0.0
+deduction at the rate,0.0
+course,1.6545957498716626
+proper for the high court,0.6666666666666666
+lis in this batch,0.5
+charge,2.7679815308681284
+facts in slp,0.5
+neighbouring land,0.5
+amenities,0.8974358974358975
+fact that the property valuations,0.5
+various award,0.6666666666666666
+villages,0.7433206106870229
+acquisition,6.764044943820224
+charges,2.061307113938693
+public purpose of development,0.5
+annual increase,2.0
+transaction,5.884921444603142
+different amount,0.38095238095238093
+cros,1.8137948361162648
+fact that the property valuation,0.5
+size,0.4932317346481398
+application of a flat rate leads,0.5
+further reference,0.3333333333333333
+impugned judgment,2.0927152317880795
+prior to the date of preliminary notification,0.5
+matter,2.8088923076923082
+immediate preceding year,0.5
+different amounts,0.38095238095238093
+standard increase,0.5
+price,2.8302710227712162
+market,5.294198044198044
+transactions in same locality,0.5
+various lands,0.5
+percentage of standard increase,0.5
+lac,2.403150042398463
+applications,1.0021816198527407
+previous years,0.9727891156462585
+actual improvement in infrastructure,0.5
+ongc,0.875
+view,2.441100058469462
+improvement,2.157706093189964
+post,2.344803646492219
+fundamental principle of valuation,0.0
+opinion,1.4960606342789635
+basic price,0.5
+nearby land,0.5
+act to the civil court,0.5
+square yards,0.5
+annual increase method with reference,0.5
+parity,0.6888020833333334
+price increase,0.5
+statistics,0.41129032258064513
+land with reference,0.0
+sake,0.5262975778546712
+property by the reference court,0.5
+result,1.3356630184144715
+delay,1.9544910179640715
+regard to acquisitions,0.5
+act to the state government,0.5
+very acquisition,0.5
+activity,1.3846153846153848
+spikes,0.18421052631578946
+petitions,1.3930830039525692
+same result,0.4
+enhancement,0.5810526315789474
+land by order,0.0
+patel,0.610909090909091
+- per square yard,0.0
+reference to a transaction,0.5
+acquisition of various lands,0.5
+whereunder,1.25
+awards,1.4828431372549018
+brief facts of the leas case,0.5
+respect,2.6704963235294117
+increase method,0.5
+first,1.9006367208168047
+heard,0.782882203033377
+value of the exemplar properties,0.5
+earlier acquisition,0.5
+avoid determination,0.5
+fact,3.6284951019474962
+loosers,1.0
+- per sq,0.0
+year before the acquisition,0.0
+claimants,1.8627450980392155
+compensation payable,1.7
+reasoning,0.6478937381404174
+caution,1.0777000777000778
+vide notification,1.2
+lands in the areas,0.5
+more realistic result,0.5
+nearby land in previous years,0.0
+kumar,2.028839704896043
+annum,2.25
+following order,0.5647058823529412
+steep spurt in the prices,0.5
+lands in previous years,0.5
+reference court in ravi kumar v state,0.5
+earlier notification,2.0
+aforesaid decision,1.15625
+best evidence than the post-dated sale transaction,0.0
+residentialcommercialindustrial layout,1.0
+following illustration,0.6666666666666666
+brief facts,1.0
+light,0.8816192372754331
+years,2.5395804110508022
+punjab,1.0438169425511197
+nearby lands,0.5
+principle,1.9620890732001848
+fresh adjudication of the market value,0.5
+contemporaneous sale transaction,0.5
+more on account of the developmentproposed development,0.5
+party,2.2250894654439723
+preceding year,0.4444444444444444
+such area,0.47619047619047616
+various land,0.5
+reliable standard if the gap,0.5
+that application,0.5142857142857143
+periods of stagnation,0.5
+reasoning in the aforesaid decision,0.5
+time than the award,0.5
+square metre,2.0
+market value of a land,1.0
+therein,1.5503424657534246
+adjudication of the market value,0.5
+regular first appeal before the high court,0.0
+land - loosers under section,0.0
+base price,0.47368421052631576
+lands,1.3404179836160743
+sale transactions in the villages,0.5
+amenity,0.75
+pitfall,0.3209876543209877
+thread,0.49921135646687703
+date,6.195616975795285
+sudden spurts in prices,0.5
+previous acquisitionssale transaction,0.5
+cross appeals,1.0
+villages with the common thread,0.5
+reference,2.1755848210276256
+enhanced amount,1.0
+steep spurt,0.5
+claimants land,0.5
+respondent,4.757894736842104
+facts of the leas case,0.5
+lands because the property,0.0
+possibility of improvement,0.5
+annual increase in market value,0.5
+rate of escalation,0.5
+statutory benefits on the enhanced amount,0.5
+proximate to the date of notification,0.5
+sale,3.3662581620085734
+common thread,0.2647058823529412
+principles,1.3198511166253102
+cases in this batch,0.5
+square,0.9621307353865493
+square yard,6.2
+- per square yards,0.0
+acquired lands,4.0
+first appeal before the high court,0.5
+certain land,0.6666666666666666
+flat rate increase,1.0
+land acquisition collector,2.1
+reference court,4.090909090909091
+increase,1.3270102600811262
+various size,0.2857142857142857
+scmanu,7.940520446096654
+amounts,0.9789856139834046
+acquisitions,2.5
+purpose of development,0.75
+appeals,1.7060218112849692
+sale transaction in the villages,0.0
+amount,3.179688593072295
+neighbourhood,0.8400000000000001
+higher than the aforesaid amount,0.5
+italics,0.2727272727272727
+avoid determination of market value,0.5
+mode,0.8201666928762384
+same village,0.5333333333333333
+plot,1.9177369203731243
+market price,0.5874125874125873
+certain transaction,0.5
+haryana urban development authority,1.0
+that spike,0.3333333333333333
+high,5.367119186841496
+account,2.5754891049671977
+transaction in same locality,0.0
+event,1.4310854436179261
+brief fact,1.0
+property,2.9368986630013745
+notification,3.0112746633260263
+flat rate,2.7
+purpose,2.519170317925504
+civil court,3.706666666666667
+reference to the previous year,0.5
+change,1.2214862766571903
+nos,1.2635492554198444
+towards development charges,1.0
+court in various judgment,0.5
+time,2.4764180952862667
+many pitfalls,0.5
+cases,1.9728229418951067
+true market value,2.0
+piece of evidence,0.8181818181818181
+layout,0.46697388632872494
+land acquisition act,12.714285714285714
+amount as compensation,0.5
+issuance,1.05379513633014
+acquisition of comparable lands,0.0
+high court in various judgment,0.5
+regular,1.9864745011086473
+higher rate,1.1627906976744187
+ongc ltd v rameshbhai jivanbhai patel manuscmanusc,0.5
+same locality,0.6666666666666666
+smaller plot,0.5
+way of enhancement,0.5
+further reference to the above illustration,0.5
+spurt in the prices,0.5
+panchkula,1.0
+fundamental principles,0.5185185185185186
+anomalous results,0.75
+quantum of such escalation,0.5
+reliable standard,1.0
+fact in slp,0.0
+increase in market value,1.0
+assessment,2.647276084949215
+round development,0.5
+reference under section,2.272727272727273
+many pitfall,0.5
+higher rate of escalation,0.5
+respondent - state against the judgment,0.0
+as best evidence than the post - dated sale transaction,0.0
+note of the fact,1.4705882352941178
+application,2.3322596088086445
+counsel,2.2246780703440323
+likelihood,0.4933333333333333
+award,3.104213525266157
+recent trend,0.3333333333333333
+haryana urban development authority act,0.5
+valuations,0.25
+isare,0.34285714285714286
+metre,1.607142857142857
+claimant,2.3438596491228068
+compensation at the rate,1.1428571428571428
+appropriate escalation,0.5
+ravi,0.8149008572737387
+trend,0.48390519985850716
+fresh adjudication,0.6666666666666666
+base year,0.5
+special leave petitions,1.6296296296296295
+to the date of notification,0.5
+ltd,2.382356477306883
+disposal,1.1180555555555556
+that application of a flat rate,0.5
+evidence,3.6676405172088815
+notification under section,3.7857142857142856
+results,0.6487493619193466
+commercial  industrial layout,0.0
+special leave petition,2.013333333333333
+gap,0.5109023703753942
+development  proposed development,0.0
+substitution,0.5932203389830508
+regular first appeals before the high court,0.5
+consequential development,0.5
+first appeals before the high court,0.5
+reliance,1.400763358778626
+likelihood of occurrence,0.5
+different notification,0.5
+for the high court,1.1666666666666667
+contiguity,0.5
+case,7.332269420884958
+difference,0.8774847235514982
+spurts,0.3333333333333333
+period,1.9480170842427122
+increase per annum,0.5
+emphasi,0.9191619047619048
+railley by the respondent-state,0.0
+benefits on the enhanced amount,0.5
+example,0.5893965031020868
+scc,1.941872465904902
+stagnation,1.0
+time than the date,0.5
+few year,0.5598715890850722
+base,0.8959264091163237
+adjudication,1.5392156862745099
+spurts in prices,0.5
+infrastructure  amenities  facility,0.0
+same as best evidence than the post-dated sale transactions,0.0
+proved market value,0.5
+looser,0.5454545454545454
+future,0.9664487618116651
+spurt,0.5384615384615384
+fair market value of the lands,0.5
+acquisitionssale transaction,1.0
+periods,0.8597883597883598
+nearby lands in previous years,0.5
+such escalation,0.5
+subject acquisition,0.5
+anomalous result,0.75
+reference to a sale transaction,0.5
+average value of the exemplar properties,0.5
+potential,0.7759544352337449
+principle of valuation,0.0
+previous acquisitionssale transactions,0.5
+case in this batch,0.0
+development activity in a particular area,0.5
+exemplar properties,1.0
+regular first appeal,1.25
+relied - on sale transactions  acquisitions,0.0
+properties,1.7286779414438989
+that spikes,0.5
+to the claimants,1.6666666666666667
+leave,1.0147842365477848
+that area,0.55
+slp,1.291953447628582
+principles of valuation,0.6666666666666666
+quantum,0.8922235363690124
+lakh per acre,1.0
+proximity,0.5887445887445887
+rate increase,0.6000000000000001
+standard if the gap,0.5
+fair market value of the acquired lands,0.5
+acquisition herein,0.5
+cumulative effect from the date,0.5
+that spike in prices,0.0
+flat rate leads,0.5
+deductions at the rate,0.5
+decision of the high court,1.24
+light of the aforesaid view,0.5
+due consideration,1.1111111111111112
+fact of the leas case,0.0
+ravi kumar v state,0.5
+acquisitions  sale transaction,0.0
+period of stagnation,0.0
+illustration,0.6900000000000001
+per year,0.33153153153153153
+deduction,6.463320463320464
+market value with reference,1.0
+statistic,0.439569536423841
+land in that area,0.0
+deductions,3.764705882352941
+appeals to the reference court,0.5
+lakh,1.3647388059701493
+court therein,0.8571428571428571
+yard,1.5829315332690455
+property valuations,0.5
+more realistic results,0.5
+petition,5.3436539306104525
+effect from the date,1.5384615384615385
+cumulative effect,1.5555555555555556
+greater caution,0.5
+which date,0.7407407407407408
+close proximity,0.42352941176470593
+account of the developmentproposed development,0.5
+urban locality,0.5
+appeal to the reference court,0.0
+haryana,2.935064935064935
+consideration,1.9110153789142115
+transactions,6.503443526170798
+market value in the base year,0.5
+year increase,0.5
+that spikes in prices,0.5
+value,1.7137907830478438
+respect of assessment,0.5
+evidence of any contemporaneous sale transactions,0.5
+sizes,0.5449101796407186
+aforesaid award,0.5
+exemplar,0.625
+lands with reference,0.5
+regard to the sale transaction,0.5
+premium,1.799652777777778
+parity in respect,0.5
+certain lands in the aforesaid villages,0.5
+high court in rfa,1.5
+kundli,0.5
+increase method with reference,0.5
+land in the areas,0.0
+land in previous years,0.0
+recourse,0.9157232704402517
+notified public purpose,0.5
+different notifications,0.5
+authority,2.4352627108360636
+locality,0.7993421052631579
+reference court ie,0.5
+percentage of increase,1.0
+leas case,0.5
+fatehpur,0.8
+evidence than the post - dated sale transaction,0.0
+development,2.3145884270578647
+urban,1.1793683610180365
+same as best evidence than the post-dated sale transaction,0.0
+lis,3.299683526578166
+annual increase of market value,0.5
+comparable land,0.30000000000000004
+rameshbhai,0.6666666666666666
+judian,1.25
+improvement in infrastructure,0.5
+first appeal,1.112781954887218
+aforesaid village,1.0
+rate method,0.5
+aforesaid judgment,1.4583333333333333
+leave petitions,1.6296296296296295
+hand,2.0299623418254717
+issuance of a notification,0.8
+appreciation in market price,0.5
+appreciation,0.7282229965156793
+methods,0.6227758007117437
+average value,0.6666666666666666
+cumulative rate method,0.5
+sudden spurt in prices,0.0
+sudden spurts,0.5
+best piece,0.2857142857142857
+event of an award,0.5
+previous year,1.384404924760602
+high court,7.7477477477477485
+matters in light,0.5
+acquired land,2.9166666666666665
+state,6.817996007300392
+lands by order,0.5
+note,1.3654108484234107
+residential  commercial  industrial layout,0.0
+manu,7.078142071124147
+rate lead,0.3333333333333333
+market value,2.125
+evidence than the post - dated sale transactions,0.0
+rate,3.088725136774248
+land - looser,0.0
+various sizes,0.2857142857142857
+few years,0.5598715890850722
+regard to acquisition,1.0
+salesacquisition,0.5
+emphasis,0.8024289099526066
+contemporaneous sale transactions,0.5
+cross appeal,1.0
+annual increase method,0.5
+as best evidence than the post - dated sale transactions,0.0
+per annum,2.25
+yards,0.7422680412371134
+village with the common thread,0.0
+date of preliminary notification,0.5
+possibility,0.7613466503601033
+market value of the acquired lands,1.5
+land - looser under section,0.0
+sale transactions  acquisitions,0.0
+reference to lands,0.5
+flat rate lead,0.5
+compensation,3.7916666666666665
+court in regular first appeals,0.5
+course of years,0.5
+italic,0.25
+escalation over the proved market value,0.5
+cumulative rate,1.0
+notifications,1.9743589743589745
+consideration of the objections,0.5
+respect of the notification,0.5
+respondent - state,0.0
+escalation,0.7196969696969696

@@ -1,0 +1,983 @@
+courts,2.1216528162511543
+such judgments,1.5
+such trial,1.0
+cognizance of a suit,1.0
+in evidence before the criminal court,0.5
+findings,1.049571253572887
+government,3.5583785424010483
+shri altaf,1.0
+similar charge,0.4444444444444444
+criminal court stand,1.5
+ground before a criminal court,0.5
+such suit,1.2857142857142858
+as provided therein,0.75
+non-existence of any fact,0.0
+certainty,0.8630136986301371
+jeep,0.711111111111111
+evening,0.5274557657107993
+relevant for a limited purpose,0.5
+framing,1.0965593784683685
+evidence before the criminal court,0.5
+court in bn,0.5
+that section,1.1768292682926829
+inconsistent with any fact in issue,0.5
+decision of the civil court,0.6666666666666666
+sections,1.640495469442838
+terms,2.390350840909655
+matters,1.4810665618448637
+fact whether the conclusion,0.5
+meaning,1.8612727545949643
+which judgment,1.0
+judicial magistrate,2.7857142857142856
+insolvency jurisdiction,2.0
+second suit,1.3333333333333333
+progress,1.075925925925926
+emperor,0.625
+enunciation,0.5210526315789474
+court,12.24425115501509
+chief justice for necessary orders,0.5
+maize,0.9333333333333332
+declaration,2.152560083594566
+madras,2.836734693877551
+title to any such thing,0.5
+consequential proceedings,0.5
+union,2.0981927710843373
+progres in the fir,0.0
+compensation of rs,1.4615384615384615
+sufficient reason,1.9
+person,4.291511329454258
+ors,2.8612718198296623
+decree in previous proceedings,0.0
+bail,2.0427807486631013
+way,1.7812722068664852
+view that the judgment,0.75
+allegations,1.8333333333333335
+cause,1.8431210321626654
+existence of the same right,0.5
+circle inspector of police,0.5
+to criminal courts,0.5
+relevant consideration,1.2
+full bench,5.0
+civil rights act,0.8
+exercise of probate,1.5
+nothing,0.8658723322806009
+such court,1.7272727272727273
+printing press,0.9545454545454545
+independent tenancy rights,0.5
+punishable under sections,1.6153846153846154
+range,0.8144965675057209
+precedence,0.5911330049261083
+prosecution under section,1.2222222222222223
+other provisions,1.9
+prosecution of these mattes,0.5
+for a limited purpose,0.75
+thus--,0.0
+shri,2.0759135877246115
+decisions,1.3888475974580996
+gopal subramanium,1.1666666666666667
+sessions,1.3405714285714285
+hon,1.2854232058781567
+relevant provisions,1.5
+character,0.9325990965842764
+decision,2.9514937765898557
+that sanctity,0.5
+other provision of the evidence act,0.0
+certain limited purpose,0.5
+other fact,0.5079365079365079
+landlord,3.643181818181818
+prosecutions,0.6623376623376622
+ahmad manuprmanupr,0.5
+report before the chief judicial magistrate,0.5
+policemen in the jeep,0.5
+aforesaid,2.592896174863388
+subordinate judge,3.6363636363636362
+claim,2.817264601856604
+proceedings on the ground,0.8
+certain opinion,0.6666666666666666
+appeal,3.4125488033856883
+result of the aforesaid decree,0.5
+proof- that any legal character,0.0
+land,6.337534028705619
+scr,2.483838975311538
+motive,0.8973573343546533
+nature relevant to the enquiry,1.5
+interpretation,1.518366298484459
+read,2.2147281730888695
+sessions judge,2.9545454545454546
+provisions of the act,2.6056338028169015
+privy council in emperor v khwaja nazair,0.5
+under some provision of the act,0.0
+previous proceedings,1.6666666666666667
+precedence over the findings,0.5
+month,1.3454861111111112
+year,2.8349484769759212
+stage,1.1298537871524448
+independent tenancy right,0.5
+record by the parties,0.6666666666666666
+progress in the matter,0.5
+wherein,1.0724137931034483
+judgment,3.288216560509554
+punishable under section,3.081081081081081
+non-existence of certain facts,0.0
+lock,0.6127820822424298
+miscellaneou,0.5284090909090909
+meaning of section,1.3611111111111112
+decision of the constitution bench,1.2727272727272727
+authority of law,1.7692307692307692
+unless the existence of such judgment,0.5
+case for exercise,0.75
+certainty that no more information,0.5
+power under section,1.7142857142857142
+order,5.472481489660944
+arguments on merits,0.5
+injury,1.7199352451433856
+court binding,1.0
+act,12.870263922028107
+deputy inspector general,1.25
+pursuance,1.543859649122807
+background of the aforesaid facts,0.5
+purview of section,1.75
+in support of a plea,0.5
+miscellaneous application,1.0
+state government,3.027142857142857
+relevant fact,0.9393939393939393
+effect,2.184583388478191
+judgment order,2.4285714285714284
+following question,0.5
+extent judgments,0.5
+same parties,0.8333333333333334
+pendency,1.0084033613445378
+reason for that view,0.5
+council in emperor v khwaja nazair,0.5
+trespas by a,0.0
+protection of civil rights act,1.3333333333333333
+rest,3.3424534062537377
+pres,3.886376551409615
+same offence if the conditions,0.75
+decree of a competent court,1.0
+trial stage,0.75
+thereby,0.8226831482645437
+state of haryana,1.7608695652173914
+northern,1.178115208483972
+action in personam,0.5
+parties,1.8210828547990157
+well - established principle of law,0.0
+view of the well-settled principle,0.0
+relevant before the criminal court,0.5
+provisions of the evidence act,0.75
+printing pres,0.9545454545454545
+section,9.287987283173626
+high court in bn,0.5
+admiralty,1.1111111111111112
+trespass by a,0.6666666666666666
+sheriff s case,0.0
+criminal cases,0.9904761904761905
+incident,1.8609485257918057
+fir,2.85390975582079
+to criminal court,0.5
+west bengal,3.3333333333333335
+condition,2.259476395625584
+judgments,1.2355646397547266
+offence if the conditions,0.75
+decision of the civil courts,0.0
+consequence,0.8726692512593296
+with regard to the matter,0.8
+relevant if condition,0.75
+evidence act in sections,0.5
+civil cases,0.8
+summary trial for offences,0.5
+that possibility,0.39473684210526316
+place,2.333104345208554
+master,1.0034463223491643
+disproof,0.2727272727272727
+civil,2.126558634963905
+finding,1.8129183657767178
+present case,1.5611814345991561
+appellant herein,2.046153846153846
+matters of a public nature relevant,0.5
+investigation,1.6673076923076922
+regard,2.723310344827586
+certain opinions,0.5
+difficulty,0.656910569105691
+tellicherry against the appellant,0.5
+context,0.9269383697813122
+limitation,2.4984479402325457
+leave petition before this court,0.8333333333333334
+relevancy of certain judgments,1.0
+rights,1.6349541930937281
+similar allegation,1.0
+item,1.3319648896447913
+criminal prosecution,1.35
+union of india,3.1324503311258276
+control,2.148867902684286
+suit for damages,0.3333333333333333
+facts,1.4696673624372698
+such judgment,4.2
+earlier judgment,1.8
+provided therein,0.6666666666666666
+issue,2.766776251628934
+parents,1.8852093189324288
+suit for the damages,0.5
+basi,2.0752712086391383
+form,2.4865961263718424
+purview,1.0864197530864197
+court stands,1.0
+leave petition,2.013333333333333
+possession of b,0.5555555555555556
+miscellaneous applications,0.5
+latter without any valid reason,0.5
+further with the case,0.6666666666666666
+investigation on the ground,0.5
+similar allegations,1.0
+latter,0.7109238669791096
+way exist,0.5
+court stand,1.2
+findings of the civil court,1.0
+vice versa,0.7526881720430109
+session,2.2400874351067563
+illustration read,0.5
+tenancy rights from the principal landlord,0.5
+subsequent prosecution,0.5
+orders,1.4936359300077826
+miscellaneous case nos,0.5
+learned senior counsel mr dholakia,0.5
+trespass,1.6722222222222223
+basis,1.953226441078104
+maintainability,1.0256410256410258
+enquiry held,0.6666666666666666
+separate applications,0.5
+scheme,3.415949119373777
+eviction,4.764705882352941
+prescribed time,1.0833333333333333
+admissible in evidence before the criminal court,0.5
+sub,7.816899313759727
+course,1.6545957498716626
+new item,0.17346938775510204
+judgment of courts,0.5
+magistrate,3.522077922077922
+charge,2.7679815308681284
+public nature relevant to the enquiry,1.5
+court after full - dressed trial,0.0
+high courts,2.676470588235294
+illustration to section,1.0
+company,5.864471879286695
+country,1.2903191103863751
+separate application,0.4444444444444444
+cognizance,1.728
+possession form,0.5
+crime,1.6636528028933093
+hence,1.1440732910500353
+tenancy rights,2.3333333333333335
+sets of proceedings,0.5
+acquisition,6.764044943820224
+charges,2.061307113938693
+ground,1.4186722903211633
+clear that the mere existence of a judgment,0.5
+that judgment,0.8444444444444444
+finding on certain facts,0.5
+pendency of the appeal,1.4166666666666667
+damage,1.8281814532316336
+public nature relevant,1.5
+final judgment,1.7575757575757576
+arguments,0.7212211466865226
+duty of a criminal court,0.5
+matter of a public nature relevant,0.0
+cbi,3.9568421052631577
+west,1.1420057009587976
+sanctity,0.625
+effect of judgments,0.6666666666666666
+os nos,0.5
+good ground for rejection,0.5
+gopal,1.1610169491525424
+remand by the high court,0.5
+matter,2.8088923076923082
+criminal prosecution for the offences,0.5
+proof,1.0648141580366008
+ipc for wrongful confinement,0.5
+hospital,1.3942768854411434
+mattes,0.8
+manja,0.39583333333333337
+commonsense view,0.5
+bearing,0.7901184156798694
+magistrate at kannur,0.5
+news,0.8405125851029581
+criminal,3.301971081989414
+provision of section,1.4827586206896552
+term,3.6255105640901575
+net result of the aforesaid decree,0.5
+applications,1.0021816198527407
+appellants,7.701086956521739
+similar situation,0.4114285714285715
+conclusive proof,0.9444444444444444
+previous decision,1.2857142857142858
+subsequent proceeding,1.0
+indian,1.2604961505560306
+enunciation of law,1.0
+court by judgment,0.8888888888888888
+view,2.441100058469462
+post,2.344803646492219
+that finding,0.6666666666666666
+full bench decision,1.7272727272727273
+confinement,0.37499999999999994
+mere existence of a judgment,0.5
+opinion,1.4960606342789635
+same ground before a criminal court,0.5
+view of things,0.2777777777777778
+wishes,0.8214849921011059
+merit,1.2419290263876248
+criminal proceedings before some courts,0.5
+such fact,1.0833333333333333
+sues b,0.5625
+court that the appeals,0.5
+lamanu,0.5
+law prevent in a court,0.0
+autre fois acquit,0.5
+well - established principle,0.0
+court of india,1.4285714285714286
+unidentified policemen,0.5
+ban,7.153551834566307
+civil suit between the same parties,0.0
+result,1.3356630184144715
+similar charges,0.6666666666666666
+delay,1.9544910179640715
+set of proceedings,0.0
+general observations,0.75
+bengal,1.9299191374663072
+record,2.5393414390845273
+information,1.1320502836800534
+first question,0.5
+petitions,1.3930830039525692
+emperor v khwaja nazair,0.5
+such legal character,1.0
+polouse,0.0
+fact in issue,2.6666666666666665
+- dressed trial,0.0
+november,0.7203359669727383
+high courts of india,0.5
+judge bench,2.8472222222222223
+provision,5.439002243350069
+criminal miscellaneous case no,0.6666666666666666
+support,0.8630946786249609
+jurisdiction under section,1.75
+writ petitions on the sole ground,0.5
+certain limited purposes,0.5
+as legal character etc,0.5
+certain facts,1.125
+submission of learned senior counsel mr  dholakia,0.0
+solicitor,1.7073170731707317
+provisions of section,2.762376237623762
+madhavan at kannur,0.5
+general shri altaf,0.5
+progress in the fir,0.5
+- judgments,0.0
+fact,3.6284951019474962
+opinion that the criminal matter,0.5
+nature of things,0.4800000000000001
+finding in a civil proceeding,0.0
+learned counsel,3.703333333333333
+additional solicitor,2.5454545454545454
+learned counsel for the petitioner,1.3214285714285714
+petitioner,4.524972253052164
+madhavan,3.0
+finding that the appellant,0.8571428571428571
+party in civil proceedings,0.0
+deny,0.6711017740429507
+other consideration,0.7083333333333334
+anr,1.1271033322299457
+deputy,1.1595268542199488
+chief,1.9429638234317954
+station,1.2515681586858238
+admissible in support of a plea,0.5
+special,1.7363344051446945
+december,0.9629002463054187
+prasad,1.1407089151450054
+certain fact,0.7222222222222222
+following order,0.5647058823529412
+which judgment of courts,0.0
+stand,1.8422769621739425
+framing of issues,0.5
+tenancy right,2.5
+police jeep to the police station,0.5
+relevancy of the judgments,0.5
+finding on the same facts,0.5
+solicitor general,1.7368421052631577
+previous civil proceedings,0.5
+other word,0.758838674565131
+superintendent of police,2.1153846153846154
+girl,0.3769911504424779
+aforesaid discussion,1.0
+system,1.1230229504341178
+provides,1.440346729708432
+law prevent,1.0
+extent,1.410108024691358
+sole ground,1.0
+favour of the defendant,0.6666666666666666
+such as legal character etc,0.5
+additional,1.4256530253244384
+doubt,1.3646267723102583
+court in various decisions,0.6666666666666666
+bar,1.4720990391722097
+aforesaid observation,1.0555555555555556
+such case,0.7332761578044598
+years,2.5395804110508022
+exercise,1.9400726466785694
+report,1.7768151696835826
+decree become,0.5
+protection,1.1604395604395603
+judicial,2.8688059701492543
+opinions,0.735248687055916
+principle,1.9620890732001848
+under a provision,0.5
+circle,1.211299866386715
+party,2.2250894654439723
+certain consequential proceeding,0.5
+good ground,0.49382716049382713
+anything,0.9132309941520469
+delhi,2.6089285714285717
+upon facts,0.8571428571428571
+principle of res-judicata,0.0
+issues,1.1246716508385532
+karam chand,1.0
+enquiry,2.145762711864407
+justice,2.292557084574302
+same cause,1.0
+therein,1.5503424657534246
+high court of india,0.0
+commonsense,0.7272727272727272
+criminal proceedings,2.6818181818181817
+before the criminal court,1.5
+argument at the bar,0.5
+that the mere existence of a judgment,0.5
+progres,1.075925925925926
+that complaint,0.5454545454545454
+enquiry held as a consequence,0.5
+relevancy,1.1111111111111112
+v emperor manulamanula,0.5
+law prevents in a court,0.5
+shah,1.9074421513445903
+altaf,0.5172413793103449
+v state,2.4603773584905664
+specified person,1.0
+relevant fact in any subsequent proceedings,0.5
+decree,3.732408834103749
+finding of the civil court,1.0
+only relevant consideration,0.5
+other provision,1.281045751633987
+personam,2.4
+courts of india,0.5
+proof that the right,0.5
+principal landlord,0.5
+september,0.8548484848484849
+reference,2.1755848210276256
+administration,1.061072796934866
+learned addl,1.1428571428571428
+afresh,0.6891891891891891
+operation of the decree,0.5
+connection with other facts,0.5
+existence,0.731202675709574
+subramanium,1.6666666666666667
+marja,0.25
+offence,4.401610644257703
+chief justice,4.684210526315789
+relevant under some provisions of the act,0.5
+hearing,0.9644508209787979
+criminal prosecution under section,0.0
+respondent,4.757894736842104
+difference of opinion,0.5833333333333334
+matter of public nature relevant,0.5
+subordinate,1.43
+civil proceedings,1.2857142857142858
+accordance,1.4069045211613462
+inspector,1.2705882352941176
+kannur for investigation,0.5
+unidentified policeman,0.0
+receiver,1.266211604095563
+pursuance of fir,0.5
+same offence,0.6666666666666666
+question,2.980312372067635
+support of a plea,0.5
+subsequent proceedings,1.0
+present appellant,1.3333333333333333
+regard to the matter,0.8
+council,1.464939453675021
+v state of maharashtra,1.875
+certain judgment,1.0
+police station,1.40045766590389
+dismissal of the suit,0.75
+nature relevant,1.5
+scmanu,7.940520446096654
+word,2.065873981084096
+legal character,4.5
+miscellaneous case no,0.75
+writ,2.8882378560889794
+tenancy,3.0545454545454542
+appeals,1.7060218112849692
+months,1.1938163721148947
+february,0.8575630252100839
+time from which such judgment,1.0
+other words,0.7578482137053969
+statement,2.5393160135035964
+parent,0.9965655833245622
+likelihood of embarrassment,0.5
+central range,0.5
+- judgment,0.0
+competent court,1.380952380952381
+press,2.0449126984126984
+criminal matters,1.0
+which judgments of courts,0.5
+high,5.367119186841496
+decrees,0.9545454545454545
+previous proceeding,1.6666666666666667
+police investigation,0.5714285714285714
+interpretation of the relevant provisions,0.5
+karam,2.190981432360743
+provision of the evidence act,0.0
+suits for damages,1.0
+civil court after full - dressed trial,0.0
+rights act,0.6857142857142858
+accordance with the scheme,0.5
+property,2.9368986630013745
+existence of any such legal character,1.0
+dismissal,1.614076246334311
+learned,3.406323898681099
+conclusive proof- that any legal character,0.0
+suit,2.485274378207659
+conclusive with regard to the matter,0.75
+defendant,3.7706855791962175
+purpose,2.519170317925504
+civil suits between the same parties,0.75
+investigation to the cbi,0.5
+question whether criminal prosecution,0.5
+alleged act,0.7777777777777778
+law,3.538923411654744
+various decision,1.3571428571428572
+trial court,3.854545454545455
+- existence of certain facts,0.0
+civil court,3.706666666666667
+nos,1.2635492554198444
+observation,0.7625074854374218
+time,2.4764180952862667
+cases,1.9728229418951067
+submission of learned addl,0.5
+same ground,0.4800000000000001
+proceedings in the criminal court,0.5
+application before the high court,0.8
+treatment,1.1351020408163266
+plaintiff,2.177926421404682
+present,1.9747480780089475
+rejection,0.7335907335907336
+dismissal of any prosecution,0.5
+court in vm,1.0
+indian evidence act in sections,0.5
+treatment for the injuries,0.5
+allegation,1.834319526627219
+disproof of the fact,0.5
+northern range,0.5
+conclusive proof that the right,0.5
+such person,0.9634888438133874
+same fact,0.9375
+relevant under some other provision of the act,0.5
+res-judicata,0.0
+tenancy right from the principal landlord,0.0
+fast rule,0.5798816568047337
+constitution bench,4.27536231884058
+general observation,0.375
+matters of a public nature,1.0
+legal character etc,0.5
+miscellaneous application before the high court,0.0
+tellicherry,0.5
+complaint,2.734525785235724
+proceedings before some courts,0.5
+ahmad,0.43478260869565216
+appellant court,1.2
+news item,1.2000000000000002
+acquit,2.9169230769230774
+court of kerala,1.0833333333333333
+criminal prosecutions,0.6666666666666666
+aforesaid facts,0.8571428571428571
+person at the time,1.0
+right,3.07483248288682
+correct interpretation,0.5000000000000001
+case that the ban,1.0
+prosecution,4.619407894736842
+wish,0.5561873255453323
+decrees in previous proceedings,0.5
+constitution bench of this court,1.2647058823529411
+decree becomes,0.5
+offences,1.6681887366818873
+connection,1.050640279394645
+indian evidence act,1.3125
+reads,0.8722657304887929
+ipc,2.785166240409207
+counsel,2.2246780703440323
+application,2.3322596088086445
+converse,0.46315789473684216
+special leave petition before this court,0.8333333333333334
+under some provisions of the act,0.5
+likelihood,0.4933333333333333
+april,0.8928235149629509
+context of the facts,1.0
+india,2.7684068260703585
+court by vm,0.5
+autre,0.5111111111111111
+findings bind the party,0.0
+summary,0.8025241675617614
+alse general,0.0
+evidence afresh,0.6666666666666666
+fact in any subsequent proceedings,0.5
+trespas,1.6722222222222223
+valid reason,0.6153846153846154
+illustration reads,0.5
+matter to the chief judicial magistrate,0.5
+criminal prosecutions under section,0.5
+independent tenancy rights from the principal landlord,0.5
+writ petition on the sole ground,0.0
+civil suit,0.7413793103448276
+admissible for the purpose,0.5
+cognizance of such suit,1.0
+criminal courts,2.0
+- existence,0.0
+limited purposes,0.3333333333333333
+answer to this question,0.43956043956043955
+same right,0.3137254901960784
+findings bind the parties,0.5
+prmanu,1.1333333333333333
+exports,1.3968253968253967
+kannur,2.0
+disposal,1.1180555555555556
+net result,0.41600000000000004
+submission,1.0913871684001404
+previous judgment,1.5
+evidence,3.6676405172088815
+correct enunciation of law,0.6666666666666666
+special leave petition,2.013333333333333
+summary trial,2.0
+conclusive as provided therein,0.5
+judicata,1.5384615384615385
+constitution bench in ms,1.0
+conditions,1.9988092071092867
+additional contention,0.5
+c for a trespass,0.5
+opinion that the criminal matters,0.5
+title of any such person,0.5
+sudinam,0.5
+civil suit for damages,0.0
+prosecution for the offences,0.5
+aforesaid statement,0.6666666666666666
+export of maize,1.0
+addl,1.303854875283447
+certain judgments,1.0
+existence of a judgment,0.5
+for the high court,1.1666666666666667
+conclusion by reference,0.5
+case,7.332269420884958
+difference,0.8774847235514982
+period,1.9480170842427122
+assumption that the exports,1.0
+policemen,0.8387096774193549
+deputy inspector general of police,1.25
+shah s case,0.0
+statute like the evidence act,0.5
+if conditions,0.4
+view of the pendency,0.6666666666666666
+for the purpose,1.8600737100737101
+policeman in the jeep,0.0
+constitution,3.204842342342342
+learned senior counsel shri dholakia,0.5
+khwaja,0.4444444444444444
+writ petitions,2.984848484848485
+certain consequential proceedings,0.5
+final report,1.3426573426573427
+lahore,0.5
+injuries,2.4130008710801394
+higher position,0.4
+purposes,1.4391216613438835
+commonsense view of things,0.5
+petition to a larger bench,0.5
+final report by the cbi,0.5
+decision in the writ petitions,0.5
+offence if the condition,0.75
+sheriff,0.45
+mere pendency,0.5
+other provisions of the evidence act,0.75
+such character,0.5714285714285714
+nazair,0.5
+civil suits,0.8571428571428572
+contention,1.666391070690368
+assumption,0.47735650342285413
+justice for necessary orders,0.5
+rule,5.04
+mere existence,0.6666666666666666
+additional sessions judge,1.7647058823529411
+crpc,2.2424242424242427
+conclusive proof-,0.0
+civil case,0.4800000000000001
+proceedings,1.7670925223666287
+favour,1.653145208700764
+under some other provision of the act,0.5
+different matter,0.43010752688172044
+consequential proceeding,0.5
+alleged acts,0.6666666666666666
+learned sessions judge,2.5
+that context,0.6351606805293006
+supra,2.246342614440774
+duty,3.2272215973003378
+suits,1.0993657505285412
+bench,2.5793391667754992
+chand,1.4868766404199476
+judgment in those appeals,0.5
+irrelevant unless the existence of such judgment,0.5
+criminal matter,1.0
+respondents,2.6341263330598856
+existence of such judgment,0.5
+short point,0.6666666666666666
+leave,1.0147842365477848
+superintendent,1.2698412698412698
+maharashtra,2.9076923076923076
+criminal miscellaneous case nos,0.5
+criminal court,2.888888888888889
+correct interpretation of the relevant provisions,0.5
+same party,0.2
+matters of public nature relevant,0.5
+autre fois convict,0.5
+privy,1.2571428571428573
+whatever authority,0.5
+october,0.9478375701551667
+res judicata,1.3846153846153846
+appreciation of evidence,1.6
+with any fact in issue,0.5
+point,2.9165043546008516
+karam chand s case,0.0
+privy council,2.15
+remand,1.08843537414966
+upon facts of each case,0.5
+precedence over the finding,1.0
+chief judicial magistrate,2.230769230769231
+aforesaid fact,0.9230769230769231
+power,3.8165227690948367
+mere pendency of the appeal,0.5
+arguments at the bar,0.5
+miscellaneous,0.5284090909090909
+applications before the high court,0.6666666666666666
+merits,0.968421052631579
+findings in a civil proceeding,0.5
+police,2.9749362629783356
+sentence,2.3896654193264366
+dholakia,1.5
+illustration,0.6900000000000001
+same land,0.3333333333333333
+ipc against the sub-inspector,0.0
+provide,3.0496848599534587
+miscellaneous applications before the high court,0.5
+damages,1.7104072398190044
+evidence act,3.8666666666666667
+which such judgment,1.0
+complainant in the criminal proceedings,0.5
+title,1.74290600761189
+sets,2.026616266944734
+same offence if the condition,0.75
+high court of kerala,1.0833333333333333
+existence of a decree,0.5
+under section,5.374517374517374
+arrest,1.391895003453834
+post of receiver,0.5
+decree for eviction,1.0
+daily,1.1759042772658508
+basis that the exports,0.5
+decisions of the civil courts,1.0
+set,2.3027452395971277
+reason,2.6381270903010035
+extent judgment,0.5
+earlier decision,1.5454545454545454
+operation,1.0959893294085181
+high court by judgment,0.8333333333333334
+cbi beyond the period,0.5
+if condition,0.4
+such facts,1.0
+previous civil proceeding,0.75
+policeman,0.24390243902439027
+prosecutions under section,0.5
+position,1.549133168619177
+judgment of the civil court,1.0
+other facts,0.45000000000000007
+writ petition,6.24223602484472
+petition,5.3436539306104525
+category,1.9351744779266717
+relevant if conditions,0.75
+law prevents,1.0
+well - settled principle,0.0
+haryana,2.935064935064935
+civil courts,4.181818181818182
+suits between the same parties,0.75
+consideration,1.9110153789142115
+which judgments,0.5
+inappropriate for the high court,0.5
+reference to opinions,0.5
+same facts,2.1666666666666665
+- existence of any fact,0.0
+words,1.6384367086179112
+decree declare,1.5
+judgment of a competent court,0.5
+embarrassment,0.3238095238095238
+court that the appeal,0.5
+plea,1.4430487701432178
+bench decision,2.317073170731707
+proof-,0.0
+previous judgments,1.0
+existence of that judgment,0.5
+denies,0.7747368421052633
+argument on merits,0.5
+others,0.9074667328904616
+acts,1.9133929521984454
+chand ganga prasad,0.5
+specific thing,0.6666666666666666
+res,10.359704275735774
+sound reason,0.5454545454545454
+state of west bengal,1.6857142857142857
+proceeding,2.1298245614035087
+sub court,0.5
+additional solicitor general,2.5
+criminal court stands,1.0
+public nature,2.0
+ground for rejection,0.75
+hearing of the matter,0.8
+necessary orders,0.5555555555555556
+full-dressed trial,0.0
+authority,2.4352627108360636
+judge,2.9012627415183325
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+simultaneous prosecution of these mattes,0.5
+appeal before the high court,1.1875
+civil proceeding,1.5
+sues b for trespass,0.5
+sound reason for that view,0.5
+sub - inspector,0.0
+argument,0.9504580388560493
+context of those facts,0.5
+reconsideration,1.0846153846153848
+printing,0.8226950354609928
+more information,0.22291021671826627
+conclusion,1.3883437407077015
+speedy disposal,1.0
+limited purpose,0.9047619047619048
+complaint to the appellant herein,0.5
+such thing,0.5289085545722715
+earlier decision of the constitution bench,0.5
+relevant provision,1.5737704918032787
+such as sentence,1.0
+necessary order,0.6666666666666666
+final judgment of a competent court,0.5
+fit case,1.1578947368421053
+matte,2.8064635761589405
+prosecution for a crime,0.5
+kharkan,0.5
+questions,0.9979150871872632
+background,0.6800452488687784
+suit for declaration,0.6666666666666666
+time of hearing,1.0
+larger bench,2.0606060606060606
+upon fact,0.8571428571428571
+decree declares,1.0
+fact of the present case,0.6666666666666666
+aforesaid judgment,1.4583333333333333
+correct enunciation,0.6666666666666666
+under sections,2.1931818181818183
+trial-,0.0
+appreciation,0.7282229965156793
+aforesaid decree,0.5
+upon fact of each case,0.0
+other provision of the act,0.6666666666666666
+prosecution against the appellant,0.6666666666666666
+wrongful confinement,1.0
+plausibility,0.2692307692307692
+no doubt,0.8331331503088538
+possession,2.808810857389056
+appellant,14.387096774193548
+decree in os nos,0.5
+judgments of courts,0.6666666666666666
+madra,2.836734693877551
+export,2.527777777777778
+fois,0.6086956521739131
+os no,0.396694214876033
+existence of a public right,0.5
+non-existence,0.0
+cbi under section,0.75
+get,1.2089092202642788
+kerala,4.135593220338983
+high court,7.7477477477477485
+complainant,4.538461538461538
+insolvency,2.25
+independent tenancy right from the principal landlord,0.0
+sanction,2.0167207792207793
+eventuality,0.5864197530864198
+state,6.817996007300392
+answer,0.9554305705177771
+statute,2.5765859456247218
+jurisdiction,2.9539571926331507
+aforesaid observations,1.0833333333333333
+parties in civil proceedings,0.5
+trial,3.7979448350459712
+possession through the company,0.5
+tribal girl,0.5
+simultaneous prosecution,0.5
+property of that person,0.5
+police jeep,0.75
+manu,7.078142071124147
+existence of any judgment order,0.5
+way over the land,0.5
+general,1.7536558414534391
+provision of the act,0.8888888888888888
+kashyap,0.6666666666666666
+open to criminal courts,0.5
+res judicata in civil cases,0.5
+central,2.61875
+concurrent proceedings,0.5
+state government for sanction,0.75
+criminal case,1.4464285714285714
+relevant under a provision,0.5
+own view,0.41481481481481486
+june,0.9339080459770116
+suit between the same parties,0.5
+character etc,0.3333333333333333
+airsc,1.6909090909090911
+state of up,2.0784313725490198
+nature,1.4149926876444778
+matter of a public nature,0.0
+various decisions,1.3571428571428572
+things,0.6162490788504054
+discussion,0.7445831166579996
+complaint before the superintendent,0.5
+circle inspector,0.5
+suit from the stage,0.5
+possibility,0.7613466503601033
+progres in the matter,0.0
+system of administration,0.5
+ahmed,1.008695652173913
+public right,0.5925925925925926
+jurisdiction-,0.0
+situation,1.1254754682459434
+compensation,3.7916666666666665
+rajan,1.502267573696145
+observations,0.7454584147497534
+criminal proceeding,2.9166666666666665
+way exists,0.5
+act unless the existence,0.5
+ganga,3.0857142857142863
+action,3.127292663476874
+probate,2.0259740259740258
+assumption that the export,1.0
+as sentence,0.5263157894736842
+autre fois convict in criminal cases,0.5
+senior counsel,2.2857142857142856
+basis that the export,0.5
+concurrent proceeding,0.5
+v state of madras,0.875
+civil suits for damages,1.0
+thus-,0.0
+ernakulam,1.1428571428571428
+fit case for exercise,0.6666666666666666
+facts of the present case,1.24
+thing,1.1131787570209408
+convict,3.1901719901719896
+report by the cbi,0.5

@@ -1,0 +1,286 @@
+amount to the seller,0.6666666666666666
+element of excise duty,1.5
+before the collector,1.0
+other taxes,0.5714285714285714
+modvat credit,2.5
+benefit,2.604810195438474
+item in the bill,1.0
+excise rule,1.4444444444444444
+input under rule,0.0
+waste,0.9238578680203045
+modvat,3.25
+coffer,0.5384615384615384
+goods,4.7578125
+on the scrap,0.6666666666666666
+trade discount,0.6666666666666666
+scmanu,7.940520446096654
+same from the purchaser of scrap,0.5
+cost,1.2954397451466992
+entitled commissioner,0.5
+separate item in the bill,1.0
+basis,1.953226441078104
+appeals,1.7060218112849692
+such rule,0.6095238095238095
+separate item,0.6666666666666666
+amount,3.179688593072295
+such rules,0.5194805194805194
+central excise,4.925925925925926
+scrap of aluminium,0.5
+excisable good with reference,0.0
+mills,1.026315789473684
+excise duty component of the price,0.5
+course,1.6545957498716626
+custom,1.8742070505069293
+conclusion that the price,0.6666666666666666
+sole consideration for the sale,0.6666666666666666
+part of the decision,0.4444444444444444
+reasons,1.3749054007567938
+deduction,6.463320463320464
+rajasthan,3.9215686274509802
+assessee to a buyer,0.6666666666666666
+elt,0.9685135464974371
+customs,1.9344608879492597
+central excise rules,1.4444444444444444
+entire price inclusive,1.0
+bata,0.3944020356234097
+implication,0.6615776081424936
+reason,2.6381270903010035
+court,12.24425115501509
+payable by the purchaser,1.5
+hence,1.1440732910500353
+aforesaid section,1.1538461538461537
+purchase,3.239871541501976
+goods with reference,0.6666666666666666
+excisable value of the goods,0.5
+vehicles,1.4161490683229814
+value for the purpose,1.0
+addition thereto,1.4
+collector of central excise,1.6666666666666667
+extra amount,0.5
+addition to the coffers,0.5
+person,4.291511329454258
+ors,2.8612718198296623
+transaction,5.884921444603142
+excisable goods with reference,0.6666666666666666
+purpose,2.519170317925504
+input,1.4506694855532065
+good with reference,0.0
+which such goods,0.6666666666666666
+reading of the aforesaid section,0.5
+consideration,1.9110153789142115
+excise duty on the raw material,0.5
+part,5.294464509893076
+excess,0.9860601614086574
+mill,1.0891891891891892
+taxes on the goods,1.5
+observation,0.7625074854374218
+wholesale trade,2.0
+hindustan sugar mills,0.5
+relation,1.397320207820618
+observations of this court,1.0
+nothing,0.8658723322806009
+amount in addition thereto,0.5
+dealer,2.712825585229146
+price,2.8302710227712162
+part of the sale price,1.0
+value on which excise duty,0.5
+price of the scrap,0.5
+entire price inclusive of excise duty,1.0
+commissioner,2.271608643457383
+value,1.7137907830478438
+part of the consideration,0.5
+aforesaid reason,1.1176470588235294
+which excise duty,0.5
+which such good,0.6666666666666666
+excise duty component,0.5
+purchaser,2.017857142857143
+liability,2.532836248924577
+respect of the excise duty,0.5
+decision,2.9514937765898557
+salt act,1.5
+excises,0.5714285714285714
+coffers,0.2692307692307692
+chargeable on any excisable goods with reference,0.6666666666666666
+wholesale price,1.5
+amount of excise duty,1.8
+duty on the raw material,0.5
+by the purchaser,1.25
+aforesaid,2.592896174863388
+consideration for the sale,1.0
+commissioner of central excise,1.7272727272727273
+price inclusive,1.0
+excisable value,1.0
+trade,1.8307706424423558
+sale of the goods,1.0
+price at which such goods,0.6666666666666666
+on such good,0.6666666666666666
+appeal,3.4125488033856883
+subject to such rules,0.6666666666666666
+raw material,4.111111111111112
+addition,1.5588539142412572
+other manner of liability,0.5
+steel,1.615214878638226
+collector,1.8095238095238093
+sugar mills,2.7777777777777777
+good,2.6154941054299674
+difference whether the amount,0.5
+scr,2.483838975311538
+manuscmanusc,7.940520446096654
+payable on the scrap,0.5
+material,1.4148767018946966
+tribunal by the impugned order,1.0
+amount of duty,1.375
+by the purchaser to the dealer,0.5
+levy,3.3133874239350907
+inputs under rule,0.6666666666666666
+excise duty,5.818181818181818
+counsel,2.2246780703440323
+exces,0.9881465517241379
+manufacture of the goods,0.5
+iron,2.76566757493188
+india,2.7684068260703585
+conclusion,1.3883437407077015
+rules,3.130914366958792
+reading,0.9004509191814082
+applicable in the present case,0.6666666666666666
+respect,2.6704963235294117
+salt,0.7390776699029126
+india ltd,1.8076923076923077
+udyog ltd,2.0
+on such goods,0.6666666666666666
+manufacture,3.7256425233644856
+unsuccessful before the collector,0.5
+credit,2.9526050420168066
+sum in addition,0.5
+taxes,1.49645390070922
+order,5.472481489660944
+levy of excise duty,2.2
+revenue in this appeal,0.5
+fact,3.6284951019474962
+page,1.011907905159212
+learned counsel,3.703333333333333
+payable by the purchaser to the dealer,0.5
+manner of liability,0.5
+amount in excess,1.25
+buyer,1.8515283842794759
+sole consideration,0.75
+duty on the waste,1.0
+extra amount to the seller,0.5
+central excise rule,1.4444444444444444
+act,12.870263922028107
+element of duty,0.5
+central excises,1.0
+payable on such goods,0.5
+vehicle,2.973111766564837
+assessee,15.925925925925926
+today in civil appeal,0.6666666666666666
+department,1.9858367499068206
+component,0.6292906178489701
+scrap,1.84
+learned counsel for the parties,1.263157894736842
+demand of excise duty,0.5
+reasoning,0.6478937381404174
+ltd,2.382356477306883
+hindustan,1.85
+by the purchaser for the sale,0.5
+basis that the amount,0.5
+discount,0.7786960514233242
+cum-duty price,0.0
+sugar,5.734610417563496
+demand,1.5671679197994988
+obligation,1.1071428571428574
+circumstances,1.3944461370073231
+excise duty to the purchaser,0.5
+motor,1.832417821954835
+such good,1.7676767676767675
+thereto,1.0358342665173572
+impugned order,2.265957446808511
+sale transaction,4.25
+today,0.6330563683773655
+manufacturer,1.7352281226626773
+sale price,1.3204633204633207
+excise,4.429175475687103
+sales,2.89512876202296
+aluminium,0.7222222222222222
+sugar mill,2.2142857142857144
+manner,1.4494591333432125
+value in relation,0.4444444444444444
+other manner,0.7222222222222222
+court in asstt,0.5
+parties,1.8210828547990157
+aforesaid decision,1.15625
+entitled commissioner of central excise,0.5
+charging,0.7844588344125809
+state,6.817996007300392
+case,7.332269420884958
+difference,0.8774847235514982
+valuation of excisable goods,2.0
+valuation,2.0129870129870135
+hindustan sugar mill,0.5
+section,9.287987283173626
+course of wholesale trade,1.6666666666666667
+example,0.5893965031020868
+purchaser of scrap,0.5
+motor vehicles,2.5142857142857147
+necessary implication,1.2608695652173914
+asstt,1.4
+manu,7.078142071124147
+gold,1.6014084507042254
+central,2.61875
+component of the consideration,0.5
+which scrap,0.5
+party,2.2250894654439723
+excise rules,1.4444444444444444
+appellate,2.561224489795918
+normal wholesale price,0.5
+cum,1.9825519589997616
+tax,3.549237288135593
+duty of excise,2.7142857142857144
+delhi,2.6089285714285717
+udyog,3.2
+excisable goods,3.4285714285714284
+benefit of section,0.8333333333333334
+motor vehicle,2.852852852852853
+excisable good,3.4285714285714284
+circumstance,1.429931390219372
+related person,1.4285714285714286
+present case,1.5611814345991561
+revenue,1.486701237872198
+element,0.7062328407033122
+seller,3.1695238095238096
+assessable value,0.6666666666666666
+such goods,3.1818181818181817
+rule,5.04
+observation of this court,0.6666666666666666
+maruti,9.833333333333334
+decision of the tribunal,1.5454545454545454
+tribunal,5.07183212267958
+payable by a dealer,0.5
+payable by the purchaser for the sale,0.5
+purchaser to the dealer,0.5
+sum,2.554898897856461
+bill,1.134631348577466
+observations,0.7454584147497534
+other tax,0.47058823529411764
+reference,2.1755848210276256
+duty,3.2272215973003378
+item,1.3319648896447913
+control,2.148867902684286
+civil appeal,2.2413793103448274
+value of the goods,1.0
+in the present case,1.3486005089058526
+facts,1.4696673624372698
+respondent,4.757894736842104
+inputs,1.796036333608588
+modvat credit of the duty,1.0
+sales tax,1.9017094017094016
+by a dealer,2.5
+state of rajasthan,1.9090909090909092
+costs,0.8167395522604189
+respondent from the sale,0.5
+basi,2.0752712086391383
+sale,3.3662581620085734
+tax on the goods,0.0
+price inclusive of excise duty,1.0
+from the purchaser of scrap,0.5
+purchaser for the sale,0.5

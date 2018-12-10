@@ -1,0 +1,2144 @@
+first notice,0.5
+government,3.5583785424010483
+similarity,0.5698051948051948
+benefit of beneficial provisions,0.5
+certain provisions of law,0.5
+high court of punjab,1.2380952380952381
+other hand sahai,0.5
+that different principles,0.5
+following word,0.6763636363636363
+previous sanction,1.8
+applicable to matters,0.5
+effect upon the acquisitions,1.0
+production of documents,1.4285714285714286
+consequence of the delay,0.5
+vesting of certain public lands,0.5
+view that the exceptional situation,0.5
+catena of decisions,1.0833333333333333
+sole question,1.0
+schemes for the improvement,0.5
+union,2.0981927710843373
+owner of any building,0.5
+way,1.7812722068664852
+proviso to section,3.3181818181818183
+land under the provisions,1.0
+court of punjab,1.2380952380952381
+same manner,0.6079182630906769
+second statute,1.0
+repeal by this act,0.5
+vika,0.7259259259259259
+available under the provisions of the la act,0.5
+observed-,0.0
+in cases of acquisition,0.5
+houses,1.0821764442454098
+first proviso to section,1.25
+similar provision in the up,0.5
+afforestation etc,0.5
+trust,1.8699167074963252
+regard to the principle,0.6666666666666666
+act deal,1.736842105263158
+contrary,1.027917657672435
+question of construction,0.8
+larger,0.7736473880597015
+aforesaid,2.592896174863388
+negative by the privy council,0.6666666666666666
+impugned provisions,0.8333333333333334
+v jainul islam,3.5
+settled principle,1.0810810810810811
+subsequent notification under section,0.5
+mere absence of a limitation,0.5
+transfer,1.9975047057658015
+correctnes,0.8404159132007234
+particular legislation,1.0
+procedural provision,1.0
+submission of mr,1.4074074074074074
+v state of orissa manuscmanusc,0.8888888888888888
+breach,1.3366228070175439
+scr,2.483838975311538
+iv deals with various improvement schemes,0.5
+refers,0.6484772632457239
+recovery of betterment contributions,0.5
+provisions of the act,2.6056338028169015
+act subject to the modifications,1.0
+modification of the land acquisition act,1.0
+to the fact,0.8902887139107611
+later legislation,1.0
+materia,1.4277220364176888
+subsequent legislation,2.3333333333333335
+apply to acquisition,1.6666666666666667
+limited,1.3713554955535188
+news paper with a statement,0.0
+amendment in the previous act,1.0
+subject,2.4420366233344897
+event in nagpur improvement trust,0.5
+judgment of the privy council,1.0
+incorporation of the provisions,1.5
+death of the parent act,0.5
+municipal assessment list,0.5
+order,5.472481489660944
+edn,0.4833395383469844
+objection to this contention,0.0
+different principles,1.0
+modify section,0.5
+respect of such acquisitions solatium,0.5
+read with the schedule,1.0
+considerable significance,1.0
+different principle,1.0
+independent part,0.4444444444444444
+amends sections,0.5
+proceedings under the up,0.5
+issuance of the notifications,0.5
+say,1.0367995905217446
+effect on the operation,0.5
+subsequent amendments in the land acquisition act,1.0
+same means,1.0
+later legislation by reference,0.5
+fasciculus of twelve provisions,0.5
+subsequent amendment to section,0.0
+catena,0.5013888888888888
+incorporated provisions of the previous act,0.5
+disposal of land,0.6666666666666666
+parties,1.8210828547990157
+orissa,2.3125
+civil procedure,5.448275862068965
+time period,0.48387096774193555
+verbatim reproduction,1.0
+operation of the subsequent statute,0.5
+consecutive weeks,0.5
+such acquisition,1.0
+view while the high court,0.5
+shantilal,2.6666666666666665
+contrary view,0.7464114832535885
+reclamation,0.5
+madhya,2.9183673469387754
+relevant part,0.8979591836734694
+x x,0.8596550823099033
+accordance with the provisions,1.9523809523809523
+same terms,0.8
+provision of the nagpur improvement trust act,0.0
+cases of this court,0.6666666666666666
+act whereafter,0.6666666666666666
+present case,1.5611814345991561
+to the compensation,0.8333333333333334
+application to acquisition,1.0
+lordships,1.9166666666666667
+incidence,0.6737804878048781
+context,0.9269383697813122
+award under this part,1.0
+other provisions of the act,1.0
+full bench decision in doctors,0.5
+following words,0.6763636363636363
+common scheme,1.25
+opinion of sahai,0.5
+limitation,2.4984479402325457
+occupant,1.8116883116883118
+space,0.49637233360798316
+other particulars,0.7619047619047619
+earlier judgment,1.8
+gram,1.0492542925178592
+schedule modifies section,0.6666666666666666
+several authority,0.0
+arrangement,0.7318181818181818
+subject to the provisions,2.4705882352941178
+mohta,0.75
+powers,1.876345371920593
+previous act,1.6666666666666667
+such land holder,0.5
+same principle,0.7309941520467836
+state government sanctions,0.5
+provisions of the nagpur act,2.3333333333333335
+purpose of the adhiniyam,0.5
+period of sixty days,1.0
+state acts for issuance,0.5
+enactment than the land acquisition act,0.5
+rakesh dwivedi,1.4285714285714286
+ineffectual though,0.5
+amichand,2.0
+percentage,0.8769344141488578
+holding,1.2555282555282552
+scheme,3.415949119373777
+president,2.1267129228100607
+trust-,0.0
+events,0.6160483175150993
+clause of the schedule seek,0.0
+nagpur,6.5625
+execution of the scheme,1.0
+charge,2.7679815308681284
+case of up,1.0
+reference to the provisions,0.8333333333333334
+procedure for acquisition,0.5
+country,1.2903191103863751
+playing-field,0.0
+cantonment areas,0.5
+different section,1.0
+jain,1.673202614379085
+acquisition,6.764044943820224
+act from the vice,0.6666666666666666
+individual interest,0.5
+various improvement schemes,0.5
+case of grant,0.0
+centum,1.3333333333333333
+impugned judgment,2.0927152317880795
+with certain modifications,1.2
+following observations,0.8222222222222223
+transposing provisions of land acquisition act,0.5
+central act,5.416666666666667
+case of acquisition,0.0
+of the provisions of article,0.75
+tenant,4.821212121212122
+referential legislation,2.0
+bearing,0.7901184156798694
+news,0.8405125851029581
+provision of section,1.4827586206896552
+except-,0.0
+state acts,5.714285714285714
+full bench of that court,0.5
+gauri shankar gaur,2.5
+applicable to acquisition of lands,0.5
+integral part of the adhiniyam,0.5
+full bench decision,1.7272727272727273
+sanitary arrangement,0.5
+bodies,0.8969063256135499
+court in tm,0.5
+judges of this court,1.4782608695652173
+such other particular,1.25
+same finding,0.5
+trust pursuant,0.5
+proper construction of section,0.6666666666666666
+incorporation of the land acquisition act,0.6666666666666666
+recovery,3.9892473118279574
+thirty day,1.4871794871794872
+unaffected by any repeal,0.5
+first question,0.5
+judge bench,2.8472222222222223
+impact compensation,0.5
+law from the vice,0.5
+nut shell,0.5
+amendments to the land acquisition act,1.0
+dealt with a matter,0.5
+kripal,0.5
+different equity,0.0
+reference into the adhiniyam,0.5
+legal effect,1.0
+provision of land acquisition act,0.0
+learned judge,3.3692307692307693
+constitutional,1.945673076923077
+boland,0.18749999999999997
+duties,1.477142857142857
+anr,1.1271033322299457
+claimants,1.8627450980392155
+pronouncement of this court,0.8
+special,1.7363344051446945
+view of ramaswami,0.5
+amendment in the la act,0.0
+protection of article,0.8
+december,0.9629002463054187
+vi deal with the acquisition,0.0
+corresponding,0.9227264443229453
+express incorporation of the provisions,0.5
+treatment to this individual right,0.5
+payable under sub-section,0.0
+improvement schemes within the municipal limits,0.6666666666666666
+necessary structural amendments to sections,0.5
+purpose of this act,0.45000000000000007
+incalculable los,0.5
+relevant part of paragraphs,0.5
+modification,0.9714977645305514
+possible for the subsequent act,0.5
+applicability,1.0928961748633879
+doubt,1.3646267723102583
+enactments,0.7301587301587302
+bar,1.4720990391722097
+purposes of execution,0.6666666666666666
+street schemes,1.0
+report,1.7768151696835826
+amending,1.0947712418300655
+protection,1.1604395604395603
+principle,1.9620890732001848
+bench decision in doctors,0.5
+objections to this contention,0.5
+angle,0.4852556924225457
+anything,0.9132309941520469
+interest payable,1.0
+material extent,0.5
+in all case,0.5705705705705706
+news papers with a statement,0.5
+common pattern,0.5
+act wherein the provision,0.5
+commencement,1.2037037037037035
+court by a larger bench,0.5
+to the provision of the up,0.0
+sixty day,0.9629629629629629
+validity of the provisions,1.6666666666666667
+under the provisions of the land acquisition act,2.75
+such solatium,0.5
+several modification,0.4444444444444444
+date,6.195616975795285
+under sub - section,0.0
+other particular,0.6233766233766233
+opinion between the learned judges,0.5
+uttar pradesh,2.8
+reference,2.1755848210276256
+pradesh avas evam vika,1.0
+housing colonies in the absence,0.5
+provisos to section,0.6666666666666666
+fields,0.9241650294695481
+respondent,4.757894736842104
+works,1.7935487434410384
+attendance of witnesses,0.5
+schedule,2.9453067257945307
+iii deals,0.8333333333333334
+applicable to acquisition of land,1.0
+which mr sachar relies,0.5
+cooperative insurance society ltd manuprmanupr,0.5
+demolition of houses,0.5
+local act,0.875
+reference court,4.090909090909091
+state that the trust propose,0.5
+impact,1.0957789249924081
+amounts,0.9789856139834046
+state act by way,0.0
+other words,0.7578482137053969
+clause of a former act,0.5
+enhanced solatium under section,1.0
+pari materia with the land acquisition act,0.5
+such betterment contribution,1.0
+refer,3.840717772752903
+such other particulars,1.25
+mr rajinder sachar,1.0
+state acts by way,0.5
+commr,0.5384615384615384
+similar provisions,1.0
+schedule modifies sections,0.5
+vikas,1.0208333333333333
+high,5.367119186841496
+payment,2.059553716565686
+amendments of section,0.5
+event,1.4310854436179261
+certain case,0.5333333333333333
+line,1.6884436630262616
+equity,1.3214285714285714
+classification,2.196286472148541
+charge of the land,1.0
+incorporated therein,0.5
+avas evam vikas,3.5
+question before this court,0.6666666666666666
+amendment to section,1.2
+statutory construction,1.0
+civil court,3.706666666666667
+nos,1.2635492554198444
+news paper,1.25
+land holders,0.75
+fresh notification,1.0
+amendment of the statute,0.5
+appellant s claim,0.0
+publication of the declaration,1.3333333333333333
+insurance,1.7782738095238095
+exceptional situations,1.25
+provision for grant,0.5
+section into the new act,0.0
+re-housing scheme etc,0.0
+general law,1.5625
+wood s estate,0.0
+insurance society ltd,1.6666666666666667
+local area,2.8636363636363633
+amendment in the statute,0.5
+contribution,0.8348513902205177
+respect of the acquisition,0.5
+acquisition by agreement,0.5
+acquisition of lands,1.0
+hereinafter,0.7670609645131939
+objector,0.315
+j while the respondent,0.5
+nagpur act,10.333333333333334
+other relevant circumstances,1.0
+exception,1.1036946087733006
+president of the tribunal,1.0
+land appurtenant,1.6
+various clauses of the schedule seek,0.5
+reads,0.8722657304887929
+mary roy v state,0.5
+purpose of the state acts,0.0
+award,3.104213525266157
+relate,1.0088867598470672
+principle with necessary modifications,0.0
+v ludhiana improvement trust,0.6666666666666666
+state of gujarat v shantilal mangaldas,1.5
+citation of the provisions,1.0
+subsequent amendments,2.25
+individual interest of the land owners,0.5
+effect as declaration,0.5
+legal obligation of the collector,0.5
+future addition,0.30000000000000004
+ramsarup,0.5
+modifications in the land acquisition act,0.5
+effect that sub - section,0.0
+rebuilding,0.40384615384615385
+orders of the high court,1.1
+subsequent amendments to the land acquisition act,1.0
+case of incorporation,1.5
+evidence,3.6676405172088815
+document,1.401100265092073
+vice,3.766984711894892
+schedule seek,0.5
+modification in the land acquisition act,0.0
+purposes of the schemes,1.0
+provisions of the nagpur improvement trust act,0.5
+such earlier legislation,0.5
+effects,0.944781359719119
+bhatinda,1.6666666666666667
+bhatinda improvement trust vbalwant singh,0.5
+in india,1.6903651903651906
+which objections,0.5
+room for doubt,0.6666666666666666
+lands for the purposes,1.5
+ram,2.11096203538064
+various scheme,1.25
+vithal,2.7142857142857144
+singh,3.7791111111111113
+purposes,1.4391216613438835
+careful analysi of the scheme,0.0
+separate exhaustive code exist for acquisition,0.0
+service,4.257395095954566
+time limit,0.9444444444444444
+end,6.1484001628618765
+rule of construction,1.1
+rule,5.04
+rajinder,1.5
+various schemes for the improvement,0.5
+proceedings,1.7670925223666287
+favour,1.653145208700764
+following observation,0.8039215686274509
+v mgmakwana,0.5
+hand sahai,0.5
+civil appeal,2.2413793103448274
+following passages,0.43636363636363634
+due to procedural delay,0.5
+respondents,2.6341263330598856
+court in the aforesaid decision,0.8
+subject to the modifications,1.75
+costs,0.8167395522604189
+other enactments,1.0
+similarly notices,0.5
+privy,1.2571428571428573
+betterment,1.4
+cooperative,1.4295572167912591
+parks,0.3402777777777778
+which effect,0.4800000000000001
+class person,0.75
+different treatment to this individual right,0.5
+that different principles of compensation,0.5
+interest under the beneficial provisions,0.5
+such interest under the provisions,0.5
+re-construction of buildings,0.0
+privy council,2.15
+different entries,1.6666666666666667
+privy council against the judgment,0.6666666666666666
+particular,1.5248953455371081
+scheme of the up,0.6666666666666666
+purpose of up,0.0
+boundary,0.7236842105263159
+view of the judgment,1.0
+power,3.8165227690948367
+amendments in the la act,0.5
+correctness of the impugned judgment,0.75
+interest on the amount,1.4
+provide,3.0496848599534587
+punjab case,0.5
+applicability of the first proviso,0.5
+schemes,1.1961722488038278
+earlier decision,1.5454545454545454
+shankar,0.84
+position,1.549133168619177
+court in prakash amichand shah v state,1.3333333333333333
+scheme in accordance,0.5
+petition,5.3436539306104525
+remedy,1.3214024835646458
+state government under section,1.4444444444444444
+incorporating act,0.5
+law on the subject,1.0
+consideration,1.9110153789142115
+appeal no,2.288135593220339
+similar,1.2954182353326582
+act without the amendments,1.0
+paragraph,1.2930197483150305
+words,1.6384367086179112
+abovesaid,1.263157894736842
+bench decision,2.317073170731707
+clause,3.526455026455027
+munshi,1.5
+force in this submission,0.75
+in case of acquisition,0.0
+pradesh v mv,2.5
+arrangements,0.6399535423925667
+act andor the schedule,1.0
+statute in which reference,0.5
+apply,1.5478801169590641
+from section,1.105263157894737
+acquisitions solatium,0.5
+court in up,1.5555555555555556
+fresh proceedings,0.5
+from the scheme of the land acquisition act,0.5
+lines,1.770523318937438
+provision of the land acquisition act,0.0
+payment of solatium,1.3333333333333333
+reiteration of the principle,0.6666666666666666
+instant controversy,0.5
+legal obligation,0.6000000000000001
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+time of incorporation,0.5
+same line,0.4129032258064516
+cases in hand,0.6666666666666666
+incompatible with provisos to section,0.5
+act while ca,0.5
+unaffected by subsequent repeal,0.5
+supplemental in nature,0.5
+enable,0.8960337456100166
+sixthly of sub-section,0.0
+satisfied that the abovesaid,0.5
+interest under section,0.5
+act wherein the provisions,0.5
+national,1.5126860273884035
+exhaustive mechanism,0.5
+general clauses act,2.857142857142857
+amount of compensation,3.375
+dealt,1.0007872325198597
+such lands,0.6666666666666666
+sanction of the scheme,1.0
+means,1.3868295182781003
+later act alongwith the incorporated provision,0.5
+balwant singh,1.5
+possession,2.808810857389056
+question whether a former statute,0.5
+that different principle,0.5
+in the state of up,0.75
+harban,1.0
+provision of the nagpur act,0.0
+schedule to the adhiniyam,1.0
+effect as notifications,0.6666666666666666
+view of sahai,0.5
+official,2.6854955160358718
+applicable with certain modifications,0.75
+under the provision of the land acquisition act,0.0
+first publication of the notification,0.5
+deal,2.1942302694273583
+with proviso to section,0.6666666666666666
+later statute,0.6666666666666666
+purposes of the scheme,1.3333333333333333
+development scheme,0.5
+general,1.7536558414534391
+self,1.6847516412733803
+language,0.8555828468744352
+intendment,1.4375
+first day,0.6169154228855721
+if the acquisition,1.0
+colony,0.5172413793103449
+scheme of the act,1.5238095238095237
+land acquisition act by the modification,0.5
+nature,1.4149926876444778
+life s saving,0.0
+good for the punjab act,0.6666666666666666
+buildings commrs,0.5
+v national fertilizers corporation,0.5
+trust propose,0.5
+planning,1.4283088235294117
+deferred street scheme,1.5
+schedule to the act,1.5454545454545454
+official gazette,1.1282051282051282
+behalf of the petitioners,1.8333333333333333
+petitioners,3.536507936507937
+precedent,0.8982341399607586
+provisions of the la act,3.0
+behalf of jalandhar improvement trust,1.0
+something,0.5915378827342709
+action,3.127292663476874
+amendment to central act,0.5
+question of compensation,1.0
+alternative,0.841508109794136
+unconstitutionality,0.5
+decisions on which mr sachar relies,0.5
+secretary of state,0.8125
+notifications,1.9743589743589745
+order of the high court,1.296875
+enactment,1.439950980392157
+by any repeal,0.5
+which reference,1.3333333333333333
+retrospective,3.1333333333333333
+reiteration,1.1666666666666667
+incorporated become part,0.5
+purpose of the schemes,0.0
+state of kerala,2.861111111111111
+solatium,6.2
+proceedings for acquisition,1.0
+provisions of this act,2.4722222222222223
+other hand,0.6931925622439332
+that section,1.1768292682926829
+publication,1.3442779291553135
+various clauses,0.8
+batch,1.2940630797773658
+doctors,2.018642703862661
+category of referential legislation,0.5
+sections,1.640495469442838
+matters,1.4810665618448637
+interim order,2.9166666666666665
+los,1.8125523261338943
+exhaustive code exists for acquisition,0.5
+municipal limit,0.8
+court,12.24425115501509
+declaration,2.152560083594566
+part of the subsequent act,0.5
+land acquisition act subject,0.5
+common - form section,0.0
+parliament,2.6571235781762095
+wood,0.4294193744768282
+agreement,3.450434632433366
+news papers,0.6666666666666666
+date of application,0.8571428571428571
+objection,1.68120480131216
+effect that the claimant,0.5
+sight of the settled principle,0.5
+person,4.291511329454258
+by the privy council,1.0
+from the provision,1.0
+correctness,0.8404159132007234
+necessary structural amendment,0.5
+entries,2.110809342748506
+narashimhan,0.5
+provision of the statute,0.5
+sanitary arrangements,0.5
+nothing,0.8658723322806009
+mary,0.723636527743304
+common question,0.5454545454545454
+that acquisition proceedings,0.6666666666666666
+to acquisition of lands,1.0
+boland ore,0.5
+other provisions,1.9
+boundaries of the area,0.5
+subsequent notification,1.125
+number,1.4802651440973922
+land for the purposes,2.5
+provisions of the calcutta improvement act,0.6666666666666666
+decision,2.9514937765898557
+legislation in the state acts,0.5
+deserve,0.5969827586206896
+iv deal,0.5
+claim,2.817264601856604
+land owners,1.0
+house,2.0021735292386764
+contributions,0.5647590361445783
+years from the date,1.8518518518518519
+gauri,1.5
+time of acquisition,0.5
+interest therein,1.0
+interpretation,1.518366298484459
+bhagat,1.375
+with the constitution,0.7142857142857143
+state of uttar pradesh,1.6470588235294117
+year,2.8349484769759212
+prakash amirchand shah v state,1.0
+judgment,3.288216560509554
+contention of the appellants,1.1666666666666667
+functions of the court,1.0
+maneklal chhotalal,1.0
+injury,1.7199352451433856
+fasciculu of twelve provisions,0.0
+loss,2.0689655172413794
+act,12.870263922028107
+first statute,1.0
+the nagpur act,9.0
+vithal rao,3.25
+analysis,0.6606741573033708
+clas,2.1196191893660425
+improvement of any area,0.5
+applicable in the absence of any contrary intention,0.5
+chapter v,1.7855072463768118
+material difference between the impugned provisions,0.5
+secretary of state v hindustan,1.6666666666666667
+cases acquisition,0.5
+circumstance with a view,0.0
+open space,0.391304347826087
+act without the amendment,1.0
+passage,0.6514737598849748
+place section,0.8
+different treatment,0.6000000000000001
+conclusive evidence,0.5955882352941176
+section,9.287987283173626
+passages,0.44010416666666663
+acquisition for the purposes,0.0
+exception to the rule,0.0
+correct law,0.9230769230769231
+thereunder,1.2794117647058825
+life s savings,0.0
+conceivable that new provision,0.5
+ramsarup v munshi manuscmanusc,0.5
+recipient of benefit,0.5
+private street,0.5
+deferred street schemes,0.5
+behalf of the nagpur improvement trust,0.5
+many of the modifications in the land acquisition act,0.5
+functions,1.326241134751773
+finding,1.8129183657767178
+purposes of this act,0.9090909090909091
+independent part of the subsequent act,0.5
+demolition,1.105263157894737
+free of rent by a relative,0.6666666666666666
+expansion scheme,1.0
+obligation of the collector,0.5
+regard,2.723310344827586
+iv deals,0.5
+total sum,0.75
+direction,1.8495050210098996
+relevant circumstances,1.2
+violative of the provisions of article,0.5
+roy,0.802892290355902
+modification to the land acquisition act,0.5
+accordance with law,1.0046948356807512
+effect as a notification,0.5
+which seek,0.8
+undersection,1.1428571428571428
+facts,1.4696673624372698
+municipal,2.4099173553719004
+mary roy v state of kerala manuscmanusc,0.5
+such premises,0.6666666666666666
+form,2.4865961263718424
+earlier judgment of this court,0.8
+boundary of the area,0.0
+writing,1.1746753246753248
+facts of this case,1.1923076923076923
+provisions of the up,2.5
+senior,1.989753211141579
+exchange,1.09516494769951
+benefit,2.604810195438474
+latter,0.7109238669791096
+incorporation section,0.5
+cost,1.2954397451466992
+necessary modifications,0.75
+desire,0.6008255933952529
+vi deal with the acquisition proceedings,0.0
+discriminatory if the claimant,0.5
+relevant circumstance,1.2
+sub,7.816899313759727
+craies on statute law,0.8
+such similarity in the provisions,0.5
+cooperative insurance society ltd,1.6666666666666667
+expansion of the areas,0.5
+favour of the former construction,0.5
+pradesh,4.365853658536586
+manner of doubt,1.0
+applicable in the state of up,0.5
+repealing acts,0.5
+act to acquisition,0.6666666666666666
+part of paragraphs,0.5
+scheme of the punjab act,1.0
+other respects,0.45714285714285713
+assessment list,0.6666666666666666
+decision in nagpur improvement trust,0.5
+field,1.5820968371729793
+matter,2.8088923076923082
+bench nagpur,1.6666666666666667
+section provide,1.4303030303030304
+improvement schemes within the municipal limit,0.6666666666666666
+contrary intention,0.8888888888888888
+scheme under those acts,0.0
+chapter iv,1.4444444444444444
+liability,2.532836248924577
+market situation,0.6666666666666666
+significance,0.6059966216216216
+same mean,1.0
+sub - section in question,0.0
+efficiency of the scheme,0.5
+amended provision of sections,0.0
+duty of the trust,0.0
+sake,0.5262975778546712
+open to the claimants,0.5
+witness,5.333906623599983
+law for the acquisition,0.6666666666666666
+authority under the state acts,0.5
+material,1.4148767018946966
+procedure,2.552771605064117
+petitions,1.3930830039525692
+notice under section,2.769230769230769
+sahakari,0.8
+principle invoked,0.6666666666666666
+further amends section,0.5
+irrespective of the date,0.6666666666666666
+provision,5.439002243350069
+general efficiency,0.5
+acquisition of the land,0.7777777777777778
+same question,0.5357142857142857
+contain,1.555421395798116
+punjab town improvement act,1.6666666666666667
+lord esher,0.6666666666666666
+large number,1.0979284369114877
+to the subsequent act,1.5
+purposes of up,0.5
+estate,1.9402985074626868
+owner,2.9502416709822197
+tenants,0.8391608391608391
+same effect as notification,0.6666666666666666
+bihar manuscmanusc,1.9655172413793103
+savings,0.3564356435643565
+such cases,0.7390180878552971
+same finding that the provision,0.5
+decision in prakash amichand shah v state,0.5
+notice undersection,0.5
+object,1.4940119760479043
+thereto,1.0358342665173572
+clear case of incorporation,0.5
+paripoornam,0.5
+immovable property,1.75
+owners,1.9409649385675758
+extent,1.410108024691358
+applicable under the adhiniyam,1.0
+calcutta improvement act,1.6666666666666667
+to the acquisition under section,0.0
+thirty days,1.4871794871794872
+amendment to the up,0.0
+aforesaid decision,1.15625
+official gazette under section,0.5
+interest of the land owners,0.5
+such case,0.7332761578044598
+sake of convenience,1.1
+court in sunder v union,1.0
+several authorities,0.8
+interest of those large number,0.5
+complete code,0.75
+sixty days,0.9629629629629629
+fact of this case,0.0
+unconstitutionality of the act,0.5
+occupier,0.5714285714285714
+housing accommodation scheme,0.5
+v deals,1.0
+full stop,0.8888888888888888
+upon payment,1.0
+certain provision of law,0.0
+issues,1.1246716508385532
+discriminatory if the claimants,0.5
+less than the compensation,0.5
+subject to the previous sanction of the state government,0.5
+incorporating,0.8
+which mr sachar rely,0.0
+bhatinda improvement trust,1.6666666666666667
+shah,1.9074421513445903
+sunder v union,2.0
+exhaustive code exist for acquisition,0.0
+other provision,1.281045751633987
+interest payable to the appellants,1.0
+parcel,3.0625
+purpose of section,1.3888888888888888
+numerous decisions,0.6666666666666666
+additional amount,3.0
+subject to certain modifications,0.5
+lordship s opinion,0.0
+acquisition under the punjab act,0.5
+expansion of towns,0.5
+betterment contribution,2.0
+for the punjab act,0.6666666666666666
+additional compensation under section,1.3333333333333333
+principles,1.3198511166253102
+modification repeal,0.5
+council,1.464939453675021
+j while the respondents,0.5
+mr  sachar rely,0.0
+certain modifications,1.2857142857142858
+analysi of the scheme,0.0
+adhiniyam show,0.5
+amendments,1.2633895818048422
+ore,6.4436415232678605
+writ,2.8882378560889794
+later decision,1.0
+as a general improvement scheme,0.5
+assumption that the provisions,0.6666666666666666
+cogent objections,0.5
+following passage,0.6942148760330578
+to the acquisitions under section,0.5
+clear case,0.5000000000000001
+prakash,1.8933333333333333
+different from the scheme of the land acquisition act,0.5
+kapur,1.2
+house accommodation scheme etc,0.5
+full stop at the end,1.3333333333333333
+circumstances with a view,0.5
+different reason,0.6666666666666666
+verbatim reproduction of the provisions,0.5
+iii deals with the proceedings,0.5
+part of the land acquisition act,0.5
+land under the land acquisition act,1.75
+equal to the compensation,0.5
+proviso,2.112
+ending,1.4560117302052786
+assumption,0.47735650342285413
+mr va,0.675
+head,1.5827778446537666
+under the provision of the la act,0.0
+that the compensation,1.1428571428571428
+cases,1.9728229418951067
+land acquisition act,12.714285714285714
+cases of acquisition,0.5
+such betterment contribution for the purposes,0.5
+provisions in the up,0.5
+finding that the provisions,0.6666666666666666
+case in hand,2.1
+legislative bodies,2.2
+offspring,0.8250000000000001
+provisions to the subsequent act,0.5
+different legislative bodies,0.5
+breach of article,0.75
+authoritative pronouncement of this court,0.6666666666666666
+municipal corporation,1.3439153439153437
+improvement trust,7.285714285714286
+certain provisions,1.2
+sub - sections thereof,0.0
+structural amendment,0.5
+civil appeal no,2.1403508771929824
+learned senior counsel,3.4615384615384617
+connection,1.050640279394645
+limits,0.8405888207868406
+india,2.7684068260703585
+kerala manuscmanusc,1.0952380952380953
+v national fertilizers corporation of india,0.5
+earlier statute,1.5
+claimant,2.3438596491228068
+amendment of the land acquisition act,0.5
+case of the trust,0.5
+device,0.5076282415294341
+survives,0.5185185185185185
+special leave petitions,1.6296296296296295
+submissions,0.5235745614035088
+amirchand,1.0
+appurtenant,1.6
+incorporation of trusts,0.5
+amendments in the land acquisition act,1.5
+striking similarity,0.6666666666666666
+notification under section,3.7857142857142856
+special leave petition,2.013333333333333
+parliament while the up,0.5
+clear from section,0.6666666666666666
+decision of this court,2.3260869565217392
+parcel of the later act,0.5
+careful analysi,0.5
+decision in zora singh,0.5
+reliance,1.400763358778626
+iii deal,0.8571428571428571
+vi deals,1.0
+benefit of the beneficial provisions,0.5
+acquisition in accordance,0.5
+mahapalika adhiniyam,0.5
+act alongwith the incorporated provision,0.5
+following proviso,0.8
+scc,1.941872465904902
+different sections,1.0
+ava,1.3539329040468908
+objectors,0.8333333333333334
+finding that the provision,0.6666666666666666
+land acquisition act in view,0.5
+akin to the acquisition proceedings under the land acquisition act,0.5
+writ petitions,2.984848484848485
+date of commencement,1.3
+fresh proceeding,0.5
+subsequent amendments of section,0.5
+provision of the previous act,0.0
+mr  sachar relies,0.0
+survive in the incorporating act,0.0
+individual right,0.5909090909090908
+similar provision,1.25
+garden,0.48275862068965514
+to the local code,0.5
+respects,0.5585139318885449
+such similarity,0.5
+provisions of the land acquisition act,10.5
+action pursuant,0.5
+careful analysis,0.5
+perusal of the provisions,0.75
+part of the adhiniyam,0.5
+duty,3.2272215973003378
+sub - section,0.0
+former act,1.0
+contingency,0.4924242424242425
+claimants of solatium,0.5
+different from the provisions,0.5
+allahabad high court,1.7037037037037037
+avas evam vika,3.5
+provision of parks,0.0
+provision for the improvement,0.5
+acquisition under the nagpur act,0.5
+acquisition of such land,0.75
+mentioned section,1.0
+new section,0.5555555555555556
+middle class persons,0.5
+such modification,0.8888888888888888
+building in the actual occupation,0.0
+shall,3.6283780276816606
+time of enactment,1.0
+prescribe procedure for publication,0.5
+act read,0.8366013071895425
+applicable in india,0.5
+constitution of the trusts,0.5
+legislative incorporation,0.6666666666666666
+calcutta improvement trust,0.6666666666666666
+under section,5.374517374517374
+gram nirman,0.5
+reservation,2.6876587100050786
+legislation after the date,0.5
+under this section,0.6785714285714286
+additional compensation,2.2
+award of the court,2.0
+provisions of the adhiniyam show,0.5
+legislative body,1.35
+writ petition,6.24223602484472
+category,1.9351744779266717
+amended provisions,2.5384615384615383
+notices,0.5487269534679544
+town planning act,3.0
+punjab act,11.0
+new provision,1.1666666666666667
+provision of part iii,0.6666666666666666
+shell,0.39773721715214405
+housing,1.9061032863849767
+general improvement scheme,1.0
+that new provision,0.5
+punjab cases,0.5
+acts,1.9133929521984454
+holder,1.8472993827160495
+jalandhar,1.0
+sunder,0.5685776805251641
+bengal legislature,0.8
+further modification,1.3333333333333333
+enactment of the subsequent legislation,0.5
+beneficial amendment,0.6666666666666666
+further cost,1.0
+ground that the notification,0.6666666666666666
+challenge,1.2204566274399267
+conceivable that new provisions,0.5
+compulsory acquisition,1.5
+provisions of the earlier legislation,1.5
+authority,2.4352627108360636
+death,2.361592909460208
+payable in all cases,0.5
+case before the collector,0.5
+certain cases on payment,0.5
+repeal of the earlier act,0.5
+development,2.3145884270578647
+incorporated provision of the previous act,0.0
+effect as publication,1.0
+weeks,0.8109161793372318
+buildings in the actual occupation,0.6666666666666666
+purposes of the state acts,1.5
+section in the case,0.5000000000000001
+incorporation of an earlier act,0.5
+owners as a place,0.6666666666666666
+former statute,0.5
+benefit of solatium,1.0
+way of amendment,1.4285714285714286
+aforesaid judgment,1.4583333333333333
+proceed,2.930994380987473
+entries of the constitution,0.5
+other provision of the act,0.6666666666666666
+iii,1.5614499719992534
+court of allahabad,1.0
+transposing provision of land acquisition act,0.0
+bombay town planning act,1.75
+similar scheme,0.5
+obligation,1.1071428571428574
+week,0.8253498691546249
+uttar,2.188679245283019
+cases acquisitions,0.5
+nath singh v state of bihar manuscmanusc,0.5
+other authorities,1.8923076923076925
+instant,1.131578947368421
+betterment contributions,0.5
+legislations,3.3529411764705883
+kerala,4.135593220338983
+different reasons,0.6944444444444444
+publication of the notification,2.1666666666666665
+acquisition proceeding,2.3333333333333335
+class persons,0.75
+collector for the government,0.6666666666666666
+sub-section in section,0.0
+necessary modification,1.0
+state,6.817996007300392
+difference in the compensation,0.5
+applicable to the case in hand,0.75
+statute,2.5765859456247218
+subsequent amendment in the land acquisition act,0.0
+controversy,0.8593204191806921
+re - building scheme,0.0
+part iii of the act,0.6666666666666666
+state government for sanction,0.75
+various claus,0.8
+june,0.9339080459770116
+behalf of the respondents,1.3235294117647058
+part iii,1.6764705882352942
+airsc,1.6909090909090911
+exceptions to the rule,0.5
+such acquisitions solatium,0.5
+separate exhaustive code exists,0.5
+narasimhan manuscmanusc,0.5
+claimant of solatium,0.0
+sahai,1.5714285714285714
+declaration under the last mentioned section,1.0
+act sand,0.5
+acquisition proceedings under the land acquisition act,0.5
+impugned judgments,1.3333333333333333
+- form section,0.0
+senior counsel,2.2857142857142856
+persons,2.5993381990166555
+peter s case,0.0
+other act,0.8264758497316638
+of the provision of article,0.0
+purposes of the up,1.0
+exhaustive code,1.0
+nagpur improvement trust,8.5
+efficiency,0.8919469928644241
+other enactment,2.0
+expiry,2.2888888888888888
+provisions of the nagpur,3.0
+different principles of compensation,1.0
+award under section,0.8333333333333334
+narashimhan manuscmanusc,0.5
+expansion,1.2191011235955056
+sub-section in that provision,0.0
+validity,1.521010638297872
+boundaries,0.6230769230769232
+constitution of india,3.0095238095238095
+the punjab act,11.0
+viz,0.7732570026579433
+authorise,1.25
+insurance society ltd  manu  prmanu  pr,0.0
+trusts,0.7259259259259259
+under article,2.794117647058824
+with provisos to section,0.5
+exchange by the trust pursuant,0.5
+interest,2.74353772015385
+aspects,1.0997620069447154
+production,2.1071428571428577
+hesitation,0.5405405405405406
+other authority,1.0666666666666667
+deal with the contingencies,0.5
+esher,0.5345622119815667
+independent existence,0.75
+reference to the earlier legislation,0.5
+other submission,0.9
+behalf,1.9888053603529987
+first proviso,1.6666666666666667
+provisions of the statute,1.2
+full bench,5.0
+pronouncement,0.8197343453510436
+interest on the sum,2.0
+repeal of the first statute,1.0
+in the matter of acquisition,0.5
+such land,2.2857142857142856
+council in that case,0.5
+spaces,0.291830493665356
+own exhaustive mechanism,0.5
+schedule to the up,2.0
+further costs,1.0
+sunder v union of india,2.0
+refers to the land acquisition act,0.5
+insertion,0.5564516129032258
+bearing on the question,0.8
+appeal,3.4125488033856883
+court of judicature,1.4210526315789473
+further amends sections,0.5
+analysis of the scheme,0.5
+court in nagpurimprovement trust,0.5
+area,2.675167256985439
+mahapalika,1.3333333333333333
+nagpur improvement trust s case,0.0
+mangaldas,1.5
+repealing act,0.5
+nath,1.2024818815807465
+matter of construction,0.75
+evam,1.948051948051948
+park,1.1480541455160744
+vest in the trust subject,1.0
+paripoornam v state of kerala,0.5
+exhaustive code exist,0.5
+that the abovesaid,0.5
+year after the expiry,0.0
+time to time,1.0211267605633803
+incorporation,1.238095238095238
+view of the difference,0.6666666666666666
+citation,0.5314960629921259
+sub-section,0.0
+may,3.683418028199994
+to the claimant,2.0
+recovery of such betterment contribution,0.5
+nagar,0.8617021276595744
+cno,0.5332167832167832
+different principle of compensation,0.0
+reliance on the judgment,0.7407407407407408
+state of madhya,1.7142857142857142
+expansion schemes,0.5
+to the acquisition proceedings under the land acquisition act,0.5
+to procedural delay,0.5
+following passage from the judgment,0.75
+sachar,1.3333333333333333
+council in the aforesaid judgment,0.5
+case of nagpur improvement trust,1.0
+om prakash,2.125
+by subsequent repeal,0.5
+improvement scheme under section,1.0
+subsequent amendment to the land acquisition act,0.0
+list,4.014941314095513
+manner,1.4494591333432125
+draft scheme,0.5
+similar to the acquisitions under section,0.5
+v tm,0.5555555555555556
+striking similarity between schedules,0.6666666666666666
+declaration under section,3.0
+amended provision,2.8823529411764706
+opinion of the state government,0.6666666666666666
+public interest of those large number,0.5
+provisions of law,1.0833333333333333
+land acquisition act in respect,0.5
+objective,0.5021775147928994
+refer to the land acquisition act,0.0
+pen,4.066964279324603
+gardens,0.44999999999999996
+pattern,0.6151546391752578
+v deal with the powers,0.0
+committees,1.1
+circumstance,1.429931390219372
+civil,2.126558634963905
+provision of the nagpur,0.0
+mean,2.390645692553228
+judicature,1.4210526315789473
+similarity in the provisions,0.5
+act for acquisition,0.5
+compensation under section,1.4285714285714286
+payment of compensation,2.4444444444444446
+various schemes,1.25
+class,2.1508512849922936
+land acquisition act in the year,0.5
+perusal,0.750733137829912
+orissa manuscmanusc,0.9090909090909091
+the modifications,1.4285714285714286
+prescribe,1.5663430420711975
+length,0.6297872340425531
+union of india,3.1324503311258276
+nut,1.0369895056265013
+thereof,1.7897727272727273
+v deal,0.6000000000000001
+basi,2.0752712086391383
+benefits,2.0896027049873203
+leave petition,2.013333333333333
+objections,1.2025072324011572
+days,1.6721350893491447
+local authority,3.933333333333333
+same term,0.7936507936507936
+state acts to the charge,0.5
+lordship,1.0416666666666667
+jainul,4.75
+doctrine,0.7455954017243533
+judgment of the high court,1.721311475409836
+basis,1.953226441078104
+hostile discrimination,1.3333333333333333
+cray,0.0
+additional amount under sections,0.5
+nagpur bench,1.6666666666666667
+other relevant circumstance,1.0
+of the modification in the land acquisition act,0.0
+earlier act,3.0
+adhiniyam,7.6
+absence of anything,0.6666666666666666
+kaur,0.5
+v deals with the powers,0.5
+clauses act,2.857142857142857
+state act,6.7
+fertilizer,1.0
+date of the publication,1.75
+hence,1.1440732910500353
+amendment,2.2486412346818434
+other case,0.6654088050314465
+letters,2.0877496159754223
+assessment list of land,0.5
+resort,0.7319355397678043
+gazette under section,0.5
+improvement scheme,5.666666666666667
+function,1.6326372491145218
+enables,0.5299145299145299
+place under the land acquisition act,0.5
+reasoning in jainul islam,0.5
+rent,2.460251217077583
+subsequent repeal,0.5
+respect of any improvement scheme,0.5
+state act to the charge,0.0
+term,3.6255105640901575
+street,3.189100817438692
+expression in a common-form section,0.0
+appellants,7.701086956521739
+vide powers for the purpose,0.6666666666666666
+view,2.441100058469462
+provision of the earlier legislation,0.0
+relevant section of the punjab act,0.0
+expiry of the period,1.2222222222222223
+scheme of the land acquisition act,0.5
+for the subsequent act,0.5
+doctor,1.4782608695652173
+relief,1.4748116760828625
+same effect as a notification,0.5
+modifications,1.0069444444444444
+lord,1.6027618015615013
+sub - section thereof,0.0
+that provision,0.75
+result,1.3356630184144715
+kedar,0.3589743589743589
+high court of allahabad,1.0
+record,2.5393414390845273
+land owner,1.1666666666666667
+chhotalal,1.0
+discrimination arises,0.5
+provisions of the adhiniyam,2.0
+judge of this court,1.1428571428571428
+secretary,0.9217877094972067
+addition to the former act,0.5
+mr rakesh dwivedi,1.5
+clauses of the schedule seek,0.5
+schemes under those acts,0.6666666666666666
+provisions of section,2.762376237623762
+awards,1.4828431372549018
+legislation,3.2032032032032034
+harbans kaur,0.5
+premises,1.290983606557377
+conclusive evidence that the scheme,1.0
+fact,3.6284951019474962
+larger social interest,0.5
+purposes of the local act,0.6666666666666666
+learned counsel,3.703333333333333
+notice on every person,1.0
+provisions of article,1.263157894736842
+provisions of land acquisition act,1.4
+constitutional validity,2.6875
+validity of the up,0.6666666666666666
+further modification of the land acquisition act,0.5
+building,3.870745432459903
+such person for compensation,0.5
+payment of the additional amount,0.5
+commrs,0.2857142857142857
+payable in cases of acquisition,0.5
+same effect as notifications,0.6666666666666666
+special law,0.875
+such earlier legislation to matters,0.5
+appellant parishad,0.5
+subsequent amendment of section,0.5
+that new provisions,0.5
+particulars,0.9472222222222222
+assumption that the provision,0.6666666666666666
+certain public lands,0.5
+absence of any time limit,0.5
+effect on the acquisition,0.5
+other word,0.758838674565131
+housing colony,0.5
+year from the date,1.5
+parishad,5.2727272727272725
+notification under sections,0.5
+improvement scheme under the punjab act,0.5
+issuance of notifications,0.5
+years,2.5395804110508022
+binding precedent,1.9166666666666667
+exercise,1.9400726466785694
+various scheme for the improvement,0.0
+land for the trust,1.0
+appear relevant,0.5
+party,2.2250894654439723
+bhatinda improvement trusts,0.5
+local code,0.18749999999999997
+proposition,0.6371087928464977
+justice,2.292557084574302
+application for the purposes,0.5
+land acquisition,14.041666666666666
+application to the acquisition,0.5
+issue of the notice,0.5
+earlier legislation to matters,0.5
+mangalda,1.5
+certain modification,1.25
+same finding that the provisions,0.5
+v state,2.4603773584905664
+beneficial amendments,0.6666666666666666
+society,2.1182859399684046
+pursuance of the proceedings,0.5
+existence,0.731202675709574
+such land holders,0.5
+same terms as section,0.5
+day,1.550999710228919
+question,2.980312372067635
+that subsequent amendments,1.5
+square,0.9621307353865493
+v state of up,1.7027027027027026
+execution,1.3041894353369763
+to the acquisition,2.0
+latter construction,0.5
+nagpur improvement trust act,3.0
+applies to acquisition,0.5
+land holder,0.5
+scmanu,7.940520446096654
+acquisitions,2.5
+separate exhaustive code exist,0.5
+amount,3.179688593072295
+manuupmanuup,1.411764705882353
+statement,2.5393160135035964
+seek,1.2641555787032488
+land acquisition act subject to the modifications,0.5
+constitutional validity of the up,0.5
+careful analysis of the scheme,0.5
+aforesaid provision,1.6333333333333333
+chapter ii,1.9375
+to acquisitions for the purposes,0.5
+shri dwivedi,0.6666666666666666
+sections into the new act,0.5
+entry,4.707210447678601
+vest,2.5867992501903814
+only difference,0.4085106382978723
+purpose of a scheme,0.0
+solatium under section,1.5
+payable under section,2.6666666666666665
+force,1.6009408121948314
+intention of the legislature,2.0434782608695654
+notification,3.0112746633260263
+property,2.9368986630013745
+purposes of the adhiniyam,1.3333333333333333
+mere reference to an earlier act,0.5
+act alongwith the incorporated provisions,0.5
+authorises,1.0
+sanctions,0.3333333333333333
+provisions of the state acts,0.5
+law,3.538923411654744
+reservation of land,2.0
+aspects of the matter,0.9090909090909091
+clear beyond all manner of doubt,0.5
+betterment contribution for the purposes,0.5
+last mentioned section,1.0
+if the claimants,1.5
+treatment,1.1351020408163266
+than the compensation,0.5
+larger bench of this court,0.8333333333333334
+amendment of section,2.3
+semi,0.48290238678090586
+provision of the adhiniyam show,0.0
+mere reference,1.0
+legislative incorporation of the land acquisition act,0.6666666666666666
+furnish requisite particular,0.5
+reference into a second statute,1.0
+subject to the further modifications,1.0
+provision that the amendment,0.5
+board,2.401414435268602
+re-construction,0.0
+public land,0.2727272727272727
+uttar pradesh avas evam vika,1.0
+accommodation,1.3095238095238095
+narasimhan,1.0
+twelve provisions,0.5
+general efficiency of the scheme,0.5
+to acquisition of land,2.0
+reference into a later act,0.5
+grant,1.7314487632508835
+assessment,2.647276084949215
+addition,1.5588539142412572
+confer,1.1904670382471652
+reproduction of the provisions,0.5
+available under the provisions of the land acquisition act,0.5
+various clause of the schedule seek,0.0
+applicable in the matter of acquisition,0.5
+application,2.3322596088086445
+april,0.8928235149629509
+act under different sections,0.5
+similarly notice,0.5
+language of section,1.125
+authorities,1.266131845134287
+provision of the punjab act,0.0
+cantonment area,0.5
+constitution of the trust,1.0
+confers,0.9700996677740863
+sub-sections in that provision,0.0
+harbans,1.0
+payable to the owner,1.0
+result ca,0.5
+acquisition act,12.434782608695652
+outset,0.5899159663865546
+to the case in hand,1.5
+intention,1.7585585585585588
+ltd,2.382356477306883
+submission,1.0913871684001404
+anrsupra,1.0
+special law for the acquisition,0.6666666666666666
+appellants in ca,0.75
+afforestation,1.0
+such manner,1.0909090909090908
+provision of law,0.9090909090909091
+stop,0.9860086715058215
+difference,0.8774847235514982
+state v hindustan,1.6666666666666667
+sub-sections,0.0
+period,1.9480170842427122
+date of incorporation,0.5
+different entries of the constitution,0.5
+that sub-section,0.0
+high court in an appeal,1.0
+letter,2.707240080105903
+constitution,3.204842342342342
+discrimination arises on the basis,0.5
+necessary intendment,1.4285714285714286
+locality of a notification,1.0
+owner of the land,1.5
+other enactment than the land acquisition act,0.5
+beneficial provisions,1.5
+earlier legislation,3.0
+applicable to acquisitions,1.0
+payable if the acquisition,0.5
+issuance of notification,1.25
+different entry,0.0
+judgment of the allahabad high court,0.5
+prem,1.757457603819093
+provision of the state acts,0.0
+necessary structural amendment to sections,0.0
+correctnes of the impugned judgment,0.0
+provision of the la act,0.0
+benefit of additional compensation,1.0
+supra,2.246342614440774
+housing colony in the absence,0.0
+state acts in question,0.5
+necessary structural amendments,0.5
+reproduction,0.5098814229249011
+the up,1.8850574712643677
+chapter ii of the act deals,0.5
+case scheme,0.5
+structural amendments,0.5
+person for compensation,0.5
+to the claimants,1.6666666666666667
+vesting,1.1515151515151516
+notification under sub - section,0.0
+other respect,0.46052631578947373
+fertilizers,0.6666666666666666
+legislation by incorporation,1.25
+applicable to the subsequent act,0.5
+court by order,1.1818181818181819
+allahabad,2.3404255319148937
+period within which objection,0.5
+india manuscmanusc,1.8333333333333333
+court in nagpur improvement trust,3.3333333333333335
+batch of appeals,1.3125
+vide power for the purpose,0.0
+contingencies,0.5925925925925926
+numerous decision,0.6666666666666666
+premise,1.2347417840375587
+housing colonies,0.5
+determination of the compensation,0.5
+bench of this court,1.8271604938271604
+land acquisition by insertion,0.5
+sections of the punjab act,1.0
+exceptional situation,1.25
+set,2.3027452395971277
+reason,2.6381270903010035
+deals,1.3395407335280751
+operation,1.0959893294085181
+j in gauri shankar gaur,1.5
+matter of acquisition,0.75
+life,1.3352928273744242
+impugned judgment of the high court,1.0
+subsequent statute,1.0
+benefit to the claimants,0.5
+effect that the claimants,0.5
+entry of the constitution,0.0
+certain cases,0.5333333333333333
+notice under sub-section,0.0
+cantonment,0.6666666666666666
+purposes of a scheme,0.5
+sanction of the draft scheme,0.5
+bench of that court,0.6666666666666666
+similar to section,1.0
+relative,1.0564311594202898
+proceeding,2.1298245614035087
+question of incorporation,1.0
+expedient,1.1041666666666667
+craies,1.0
+stop at the end,1.3333333333333333
+judge,2.9012627415183325
+locality,0.7993421052631579
+mr rajinder,1.0
+reference to an earlier act,0.5
+boundary of the locality,0.0
+context of the provisions,1.0
+occupation,1.1158072696534236
+conclusion,1.3883437407077015
+cogent objection,0.2857142857142857
+express incorporation,0.5
+provision of the adhiniyam,0.0
+various improvement scheme,0.5
+to the owner,0.9523809523809523
+same conclusion,0.5217391304347826
+repeal,1.2406417112299464
+earlier decision of the court,0.75
+acquisition proceedings,2.375
+room,0.6950710108604846
+beyond all manner of doubt,0.5
+ambit of the land acquisition act,0.5
+questions,0.9979150871872632
+section-a,0.0
+additions,0.44999999999999996
+validity of the acquisition,0.5
+law of the land,0.4888888888888889
+whereafter,0.8205128205128206
+service of the notice,1.2857142857142858
+aforesaid provisions,1.25
+function of the court,0.75
+land-holder,0.0
+contentions,0.9641025641025641
+fasciculus,0.5
+such as a general improvement scheme,0.5
+circumstances,1.3944461370073231
+application of the act,0.5
+high court,7.7477477477477485
+acquisition of land,2.2839506172839505
+construction of section,0.8888888888888888
+jurisdiction,2.9539571926331507
+state legislature,4.444444444444445
+such as acquisition by purchase,0.5
+semi - colon,0.0
+interest under the provisions,0.5
+chapter iv of the act deals,0.5
+manu,7.078142071124147
+under the adhiniyam,2.3333333333333335
+provision of the act,0.8888888888888888
+equities,0.7619047619047619
+ludhiana,3.25
+materia with the land acquisition act,0.5
+attendance,0.5024271844660194
+date of enactment,2.0
+appear relevant for decision,0.5
+repealing,0.25
+privy council in that case,0.5
+relevant sections,0.5249999999999999
+court in an appeal,1.0
+added proviso,0.5
+new provisions,1.25
+tribunal,5.07183212267958
+actual occupation,0.6666666666666666
+words of section,1.25
+buildings,1.3041267942583734
+gaur,0.9130434782608695
+authoritative pronouncement,0.8571428571428571
+certain case on payment,0.0
+balwant,1.3636363636363635
+sum,2.554898897856461
+amendments to section,1.0
+compensation,3.7916666666666665
+application to the state,1.5
+nagpurimprovement trust,0.5
+application of proviso,0.5
+social interest,0.75
+purpose of the local act,0.0
+legislation by reference,0.5
+weeks in the official gazette,0.5
+learned judges,3.4864864864864864
+gujarat v shantilal mangalda,1.5
+lands in other words,0.5
+goswami,0.75
+buildings commr,0.5
+state act for issuance,0.0
+regard to the scheme,0.75
+courts,2.1216528162511543
+ores,1.869152948817226
+body of the act,0.6666666666666666
+committee,2.546237803603864
+following provision,0.5
+sight,0.6194871794871795
+effect as notification,0.6666666666666666
+code,2.880559796437659
+same effect as a declaration,1.0
+repeal of the earlier statute,0.5
+view that the exceptional situations,0.5
+reasons,1.3749054007567938
+considerable force,0.5
+in all cases,0.5705705705705706
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+material difference,0.8
+to acquisition,3.3
+further modifications,1.0
+schedule of the up,0.5
+creation,0.5716118684843625
+public lands,0.30000000000000004
+unsuitable to the local code,0.5
+jainul islam,4.75
+other submissions,0.75
+ors,2.8612718198296623
+trustees,0.7090909090909092
+show,1.5002130552117363
+decision on which mr sachar relies,0.0
+total amount,0.5333333333333333
+word of section,0.0
+board of trustees,0.8
+part,5.294464509893076
+impugned provision,4.333333333333333
+chapter v of the act,1.6666666666666667
+analysi,0.6883471219855659
+gujarat v shantilal mangaldas,1.5
+bombay,2.3134020618556703
+plj,0.3776978417266187
+land acquisition act by way,0.5
+aspect,1.2449448189023034
+shri,2.0759135877246115
+to matter,0.9603174603174602
+decisions,1.3888475974580996
+v zora singh,1.0
+effect on the statute,0.5
+applicable in the state of uttar pradesh,0.5
+which effects,0.6666666666666666
+rakesh,1.4
+such premise,0.6666666666666666
+aspect of the matter,1.4642857142857142
+amendment to the land acquisition act,0.0
+situations,0.7435282837967402
+mere absence,0.5
+areas,1.6237236125072747
+distinction,0.7312167973690868
+number of decisions,0.6050420168067226
+with the provisions,0.7792207792207791
+determination,1.5980374665477253
+collector,1.8095238095238093
+pari materia,0.8333333333333334
+land,6.337534028705619
+beneficial provision,1.3333333333333333
+absence of any contrary intention,0.5
+read,2.2147281730888695
+expansion of the town,1.0
+twelve provision,0.5
+la act after the enactment,0.5
+parte,0.7168042010502624
+shri kc,0.5
+nagpur bench nagpur,1.6666666666666667
+code of civil procedure,5.5636363636363635
+cogent objection to this contention,0.0
+consistent with the constitution,0.8
+principles of compensation,1.0
+public purpose,2.076923076923077
+case of prakash amirchand shah v state,0.5
+certain provision,1.1818181818181819
+pursuance,1.543859649122807
+act subject,1.0
+constitution of tribunal,0.5
+provisions of the previous act,0.5
+ex parte,1.1666666666666667
+state government,3.027142857142857
+effect,2.184583388478191
+schedule to this act,0.75
+convenience,0.6501259072729966
+cases on payment,0.5
+respect to such land,0.5
+upon payment of the cost,1.0
+judgment in the state,0.5
+sub-sections thereof,0.0
+modification in section,0.5
+judgments,1.2355646397547266
+consequence,0.8726692512593296
+purpose of the scheme,0.5
+set - up,0.0
+amending act,2.0
+place,2.333104345208554
+week in the official gazette,0.0
+that subsequent amendments to the land acquisition act,0.5
+appellant in ca,1.2
+case of this court,0.5
+same pattern,0.6000000000000001
+first publication,0.8571428571428571
+payable under this section,0.5
+with certain modification,1.1666666666666667
+provision in the up,0.5
+respect of acquisition proceedings,0.5
+issue,2.766776251628934
+principles with necessary modifications,0.5
+that subsequent amendment to the land acquisition act,0.0
+in the absence of any contrary intention,0.5
+pradesh avas evam vikas,1.0
+v mg,0.6000000000000001
+of article,2.1149999999999998
+previous sanction of the state government,1.0
+future additions,0.30000000000000004
+later act alongwith the incorporated provisions,0.5
+council against the judgment,0.6666666666666666
+limited area,0.6666666666666666
+structural amendments to sections,0.5
+petitioner,4.524972253052164
+respect of any scheme,1.5
+judgment of this court,2.1029411764705883
+boland ores,0.5
+orders,1.4936359300077826
+mahindra ltd v union of india manuscmanusc,0.6666666666666666
+nagpur acts,1.3333333333333333
+rein,2.4374205008771277
+sums,0.6341911764705883
+acquisitions under the nagpur act,1.0
+subsequent amendment,1.875
+ltd v ava,0.5
+municipal limits,0.75
+street scheme,2.5
+contemplated thereunder,0.6666666666666666
+first publication of a notice,1.0
+enactment under consideration,0.6666666666666666
+ground,1.4186722903211633
+judgment in prakash amirchand shah v state,0.5
+applies,0.9353049100122315
+section provides,1.411764705882353
+state acts under sections,0.5
+damage,1.8281814532316336
+makwana,1.0
+claim to interest,0.5
+deal with compulsory acquisition,0.5
+ltd v avas,0.5
+provision of the up,0.0
+article,4.378806157159795
+market,5.294198044198044
+boundaries of the locality,0.5
+amount under sections,0.5
+appeal nos,1.6666666666666667
+improvement,2.157706093189964
+opinion,1.4960606342789635
+liability of the trust,1.0
+validation,1.352
+with the provision,0.7761194029850746
+case on payment,0.0
+calcutta,1.6022727272727273
+colonies,2.8600000000000003
+draft,1.1403225806451613
+effect as a declaration,1.0
+provision of article,0.6666666666666666
+provisions of parks,0.5
+same effect as publication,1.0
+delay,1.9544910179640715
+rao,0.9220020325203252
+prakash amichand shah v state of gujarat,1.6666666666666667
+bihar,4.587301587301587
+dwivedi,6.75
+laws,1.4186274337269533
+that subsequent amendment,1.5
+comparable with the provisions,0.5
+constitutional validity of the provisions,0.75
+land by the trustees,0.6666666666666666
+zora singh,2.0
+recipient,0.7549019607843138
+whereunder,1.25
+applicable to the acquisitions,0.5
+middle class person,0.5
+respect,2.6704963235294117
+confers as individual right,0.5
+to matters,0.8974358974358975
+acquisition by purchase,1.5
+civil appeal nos,1.5416666666666667
+evidence that the scheme,1.0
+schedule thereto stand,0.5
+expression,1.7424391201885312
+compensation to the land owners,0.5
+ram kripal bhagat v state,0.5
+islam,0.914674361088211
+clauses,1.5486111111111112
+reasoning,0.6478937381404174
+violative,2.2972972972972974
+of rent by a relative,0.6666666666666666
+place sections,0.5
+iv deal with various improvement schemes,0.0
+absence of a limitation,0.5
+stand,1.8422769621739425
+provision of the calcutta improvement act,0.0
+nothing in the adhiniyam,0.5
+work,2.8478559811646353
+court in union,1.1764705882352942
+provides,1.440346729708432
+town,1.9746537396121884
+incorporated provision,1.0
+to the provisions of the up,0.6666666666666666
+responsible for the delay,0.75
+nath singh v state,0.6666666666666666
+occupier of such premises,0.5
+discrimination,0.8429118773946361
+parent act,0.6000000000000001
+punjab,1.0438169425511197
+conclusion in the following words,1.0
+papers,1.0564063453325199
+paragraphs,0.9552238805970149
+nagpurimprovement,0.5
+consecutive week in the official gazette,0.0
+punjab acts,0.5
+scheme under the up,0.5
+proviso thereto,0.8
+towns,0.6514285714285715
+bench comprising,0.9166666666666666
+acquisition under section,0.6666666666666666
+provision that the amendments,0.5
+exhaustive code exists,0.5
+schedules,0.5171957671957672
+lands,1.3404179836160743
+acquisitions under the punjab act,1.0
+following section,0.5555555555555556
+case of a civil court,1.0
+compensation for the damage,0.6666666666666666
+relief in such manner,0.5
+court in maneklal chhotalal,1.0
+words-,0.0
+relate to acquisitions,1.5
+september,0.8548484848484849
+provision to the subsequent act,0.0
+vi deals with the acquisition proceedings,0.5
+provision of this act,0.75
+occupants,2.048780487804878
+accordance,1.4069045211613462
+rent by a relative,0.6666666666666666
+provisions of the punjab act,1.3333333333333333
+decision of the court,1.1666666666666667
+parishad for say,0.5
+ramaswami,1.3333333333333333
+proper construction,0.75
+prem nath kapur,0.5
+prescribe procedure,0.5
+subsequent amendments to section,0.5
+word,2.065873981084096
+different equities,0.5
+chapter,1.3867471532446152
+appeals,1.7060218112849692
+nothing in the up,0.6666666666666666
+parent,0.9965655833245622
+in the state of uttar pradesh,1.0
+judge bench of this court,1.6486486486486487
+if the claimant,2.0
+name,1.8996570753072433
+basi of the authority,0.0
+enhanced solatium,1.0
+account,2.5754891049671977
+purposes of section,1.3076923076923077
+purchase,3.239871541501976
+which objection,0.6666666666666666
+saving,0.46787213432353897
+subsequent act,2.4
+iii deal with the proceedings,0.0
+that different principle of compensation,0.0
+transfer of land,0.8
+section of the punjab act,1.0
+to the acquisitions,2.5
+terms as section,0.5
+purpose,2.519170317925504
+time,2.4764180952862667
+amends section,0.5
+sand,0.5956187194946885
+factual position,1.3333333333333333
+permissible under article,0.5
+part of the act,0.6666666666666666
+from the provisions,1.0
+under the provisions of the la act,1.0
+such person,0.9634888438133874
+issuance,1.05379513633014
+independent legislation,0.5
+award of the collector,1.25
+matter in ks,0.5
+mr sachar,1.0
+period within which objections,0.5
+additional sum,1.0
+separate exhaustive code exists for acquisition,0.5
+structural amendment to sections,0.0
+same lines,0.3970588235294118
+land in other words,0.0
+sanction of the state government,1.0
+new legislation,0.3333333333333333
+provisions for the improvement,0.5
+vi deals with the acquisition,1.0
+limit,2.3804570428443834
+right,3.07483248288682
+discrimination arise on the basis,0.0
+open spaces,0.37037037037037035
+upmanu,0.9411764705882354
+earlier legislation after the date,0.5
+public interest,2.380434782608696
+absence,1.092363454568179
+counsel,2.2246780703440323
+transposing provisions,0.5
+benefit of additional amount,1.5
+witnesses,3.359210526315789
+considerable force in this submission,0.5
+schedule to the nagpur act,0.5
+discrimination arise,0.5
+mechanism,0.7337579617834395
+consecutive weeks in the official gazette,0.5
+incorporation sections,0.5
+survives in the incorporating act,0.5
+integral part,1.3397435897435899
+to section,1.1271896420411271
+such enactment,1.0
+acquisitions under section,0.5
+uttar pradesh avas evam vikas,1.0
+as acquisition by purchase,0.5
+duties of the trust,1.0
+same proposition,0.4444444444444444
+basis of the authority,0.26666666666666666
+prmanu,1.1333333333333333
+which declaration,0.6666666666666666
+respect of any land,0.8333333333333334
+disposal,1.1180555555555556
+provision with a view,0.5
+state act under sections,0.0
+vide power,0.6666666666666666
+jainul islam s case,0.0
+transposing provision,0.5
+mgmakwana,0.5
+case,7.332269420884958
+amendment of the previous act,0.5
+mahindra,1.5
+trust subject,1.0
+provisos,0.6545454545454544
+reference to that act,0.6666666666666666
+cray on statute law,0.0
+lease,1.2000155472636815
+time period for issuance,0.5
+state act in question,0.0
+nature of the provision,1.0
+ambit,1.0862754267009587
+act after the enactment,0.5
+fact that the scheme,0.6666666666666666
+same effect,0.875
+future,0.9664487618116651
+fasciculu,0.5
+the modification,1.1666666666666667
+purpose of the up,0.0
+contention,1.666391070690368
+playing-fields,0.0
+advocate,1.0791341991341994
+notifications under sections,1.0
+case of land,1.5
+court in bhatinda improvement trust v balwant singh,0.5
+bench,2.5793391667754992
+court ramaswami,0.5
+peter,0.4486677115987461
+violative of article,2.1379310344827585
+leave,1.0147842365477848
+slp,1.291953447628582
+for the delay,0.6000000000000001
+prakash amichand shah v state,1.6666666666666667
+large number of decisions,1.0
+purpose of execution,0.5
+body,1.336775463480009
+incidence of incorporation,0.5
+fifteen per centum,0.5
+constitutional set-up,0.0
+to acquisition for the purposes,0.0
+notice,2.3300025999395686
+avas,1.3575757575757577
+trustee,1.466666666666667
+high court of judicature,1.4210526315789473
+amended provisions of sections,0.5
+place under the up,0.5
+publication of a notification,2.0
+different entry of the constitution,0.0
+case of nagpur improvement trust act,0.5
+relevant section,0.4945054945054945
+adhiniyam under section,0.5
+patent,1.3540828816226613
+legislative device,0.5
+incorporated provisions,1.0
+jalandhar improvement trust,1.0
+first exception,0.75
+similar to the provisions of the up,0.6666666666666666
+construction,2.2504918032786887
+orssupra,1.5
+haryana,2.935064935064935
+survive,0.5735785953177257
+years after the expiry,0.5
+cases of grant,0.5
+such interest,0.5833333333333334
+claim for interest,0.6666666666666666
+state government sanction,0.5
+relevant sections of the punjab act,1.0
+documents,1.142515923566879
+air,2.0589664272145285
+comprising,0.6166666666666667
+vide powers,0.6666666666666666
+reference to the acquisition,1.0
+later decision of this court,0.5
+scheme with such modification,0.5
+agreement with the person,0.5
+gujarat,3.2753623188405796
+act deals,1.2666666666666666
+general law of the land,0.5
+new act,0.5079365079365079
+legislature,2.818553268765133
+corresponding to the declaration,1.5
+principle of compensation,0.0
+which such enactment,0.5
+re - housing scheme,0.0
+mahindra ltd v union,0.6666666666666666
+several modification in section,0.5
+la act,5.666666666666667
+applicable to acquisitions for the purposes,0.5
+gazette,0.9578231292517008
+application to acquisitions,0.5
+exceptions,0.6478185993111366
+amendment in the land acquisition act,0.75
+reconsideration,1.0846153846153848
+nagpur improvement trust v vithal rao,2.0
+corporation,3.6427750743444176
+proceeding for acquisition,0.5
+scheme under the nagpur act,0.5
+fresh proceedings for acquisition,0.5
+judges,2.0931496919173616
+furnish requisite particulars,0.5
+procedural delay,0.5
+due to the fact,0.391304347826087
+paper,1.8076689487632511
+samiti,2.6666666666666665
+larger bench,2.0606060606060606
+of the modifications in the land acquisition act,0.5
+paripoornam v state,0.5
+leave petitions,1.6296296296296295
+hand,2.0299623418254717
+town planning,3.6666666666666665
+amendments to the up,0.5
+act read with the schedule,0.6666666666666666
+judicial exercise,0.5
+hindustan,1.85
+improvement schemes,1.0
+appellant,14.387096774193548
+favour of the petitioners,1.25
+maneklal,1.0
+sub-sections in section,0.0
+clear that the compensation,0.5
+zora,0.7058823529411765
+right of appeal,3.3333333333333335
+incalculable loss,0.5
+consecutive week,0.5
+that court,0.7384615384615386
+such statute,0.6666666666666666
+question arose,1.25
+sanction,2.0167207792207793
+same effect as declaration,0.5
+cogent objections to this contention,0.5
+answer,0.9554305705177771
+constitution of trust,0.5
+notifications under section,1.5
+holders,0.9411764705882353
+that acquisition proceeding,0.6666666666666666
+vi deal,1.0
+infirmity,1.3095238095238095
+later act,2.5
+central,2.61875
+nirman,0.5
+ram kripal bhagat v state of bihar manuscmanusc,0.5
+year in which declaration,0.5
+proceedings of the trusts,0.5
+to acquisitions,2.5
+acquisitions for the purposes,0.5
+certain public land,0.5
+state of up,2.0784313725490198
+whenever land,0.5
+citation of the land acquisition act,0.5
+fact by notification,0.5
+owner of any immovable property,0.5
+privy council in the aforesaid judgment,0.5
+statute law,1.0
+situation,1.1254754682459434
+scheme for the improvement,0.0
+bhatinda improvement trust v balwant singh,1.0
+colon,1.492838196286472
+different legislative body,0.0
+municipal assessment list of land,0.5
+senior advocate,1.6153846153846154
+former construction,0.5
+publication of a notice,1.0
+supra-,0.0

@@ -1,0 +1,369 @@
+mind,1.1559066143122394
+decisions of the court,0.75
+reasons,1.3749054007567938
+ravi chander v state of punjab manuscmanusc,0.5
+truthfulnes,0.6000000000000001
+requirements of oath,0.5
+judicial magistrate,2.7857142857142856
+oath,0.9395348837209302
+enunciation,0.5210526315789474
+court,12.24425115501509
+declaration,2.152560083594566
+specified statutory form,0.5
+hesitation,0.5405405405405406
+person,4.291511329454258
+ors,2.8612718198296623
+full confidence,0.3333333333333333
+record of the criminal appeal,0.0
+way,1.7812722068664852
+correctness,0.8404159132007234
+subjective satisfaction of a magistrate,0.5
+behalf,1.9888053603529987
+cross,2.0778316690442225
+bombay,2.3134020618556703
+patient through the medical officer,0.5
+harjeet kaur v state of punjab manuscmanusc,0.5
+case of paparambaka rosamma,0.5
+animus,0.75
+judges bench,1.625
+assailant,0.5333333333333333
+other circumstance on record,0.0
+basi of answers,0.0
+decisions,1.3888475974580996
+sessions,1.3405714285714285
+risky,0.23711340206185566
+decision,2.9514937765898557
+satisfaction of a magistrate,0.5
+other circumstances,0.6000000000000001
+circumstances on record,1.0
+aforesaid,2.592896174863388
+j from which court,0.5
+test,2.5329834591340266
+correctnes,0.8404159132007234
+sign,1.8302826558145708
+appeal,3.4125488033856883
+motive,0.8973573343546533
+certification of the doctor,1.5
+bench of the bombay high court,2.4
+many circumstance,0.5
+someone like a magistrate,0.5
+satisfaction,0.6639095671353735
+declaration in question,0.5
+wherein,1.0724137931034483
+effect that the patient,2.0
+judgment,3.288216560509554
+order,5.472481489660944
+truthful nature,0.5
+eyewitnesses state,0.5
+eyewitness,1.9470899470899472
+injured,2.286951144094001
+sole basi,0.8
+effect,2.184583388478191
+which court,0.4
+bearing in mind,0.6018099547511312
+circumstances of each particular case,0.5
+circumstance on record,0.0
+manner,1.4494591333432125
+much risky,0.5
+pattanaik,1.7692307692307692
+endorsement to that effect,0.5
+chander,1.8095238095238095
+condition,2.259476395625584
+questions to the patient,0.5
+circumstance,1.429931390219372
+sole basi of conviction,0.0
+harjeet,1.6666666666666667
+many circumstances,0.5
+aforesaid conclusion in law,0.5
+truth,0.9590230664857531
+medical certification,0.5
+facts,1.4696673624372698
+fire,1.1391892447477696
+evidential value,0.5
+basi,2.0752712086391383
+form,2.4865961263718424
+writing,1.1746753246753248
+latter decision,0.8
+method,0.9027027027027026
+accused appellant,2.8
+sole basis of conviction,0.6666666666666666
+examination by the doctor,0.5
+weight,0.7538461538461538
+records,0.9879294336118848
+session,2.2400874351067563
+judgment of this court,2.1029411764705883
+conviction,2.248165832071736
+basis,1.953226441078104
+certificate to the effect,0.5
+court on consideration,0.5
+criminal appeal,2.5675675675675675
+kaur,0.5
+aforesaid case,1.3529411764705883
+state of mind where - after,0.0
+magistrate,3.522077922077922
+fit condition,1.0
+judges bench of this court,0.8333333333333334
+pradesh,4.365853658536586
+officer,3.1197242647058823
+declarant,2.0
+aforesaid conclusion,1.1818181818181819
+record indicate,0.6666666666666666
+opportunity,0.946186440677966
+cros,1.8137948361162648
+conviction of the accused appellant,0.5
+question to the patient,0.0
+court insist,0.6666666666666666
+matter,2.8088923076923082
+bearing,0.7901184156798694
+executive magistrate,1.7142857142857142
+criminal,3.301971081989414
+full confidence of the court,0.5
+fit state of mind where - after,0.0
+enunciation of law,1.0
+view,2.441100058469462
+power of cross - examination,0.0
+requirements,0.7375979875979877
+opinion,1.4960606342789635
+doctor,1.4782608695652173
+conflict,1.314561353483509
+andhra,4.830188679245283
+bale,0.9364548494983277
+- technical view,0.0
+witness,5.333906623599983
+result,1.3356630184144715
+theory,0.43014388218941363
+record,2.5393414390845273
+question to the constitution bench,0.5
+material,1.4148767018946966
+acceptability,0.8571428571428571
+in any manner,0.665158371040724
+polouse,0.0
+statutory form for such recording,0.5
+world,0.7808471033398942
+considerations to the correctness,0.5
+aurangabad,0.9
+fact,3.6284951019474962
+falsehood,0.7166666666666668
+recording,1.3265454545454545
+evidence on record,2.7906976744186047
+hope of this world,0.5
+state of mind,1.1111111111111112
+anr,1.1271033322299457
+that effect,0.6458333333333334
+aurangabad bench,0.6666666666666666
+death ensue,0.5
+gujarat manuscmanusc,1.1
+hyper - technical view that the certification,0.0
+caution,1.0777000777000778
+paparambaka rosamma,2.0
+justice mb,0.5
+witnes,5.333906623599983
+fitness of the mind,0.5
+aforesaid decision,1.15625
+doubt,1.3646267723102583
+punjab manuscmanusc,1.625
+most case,0.48484848484848486
+matter to the constitution bench,0.5
+specified statutory form for such recording,0.5
+punjab,1.0438169425511197
+principle,1.9620890732001848
+party,2.2250894654439723
+adequate method,0.5
+conclusion that the deceased chandrakala,0.5
+justice,2.292557084574302
+truthfulness,0.6000000000000001
+cross-examination,0.0
+question of doubt,0.5
+shah,1.9074421513445903
+serious lacunae,0.6666666666666666
+v state,2.4603773584905664
+testimony,1.4407553107789142
+fitnes,0.5525
+reference,2.1755848210276256
+aforesaid decisions,0.9333333333333333
+such statements,0.3888888888888889
+existence,0.731202675709574
+motive to falsehood,0.5
+rosamma,2.0
+presence,0.9604834261070158
+case of koli,0.5
+high court on consideration,0.5
+question,2.980312372067635
+reason in law,0.3333333333333333
+mental condition,0.8
+benches,1.1746031746031744
+decision of the court,1.1666666666666667
+fitness,0.5525
+scmanu,7.940520446096654
+word,2.065873981084096
+need,1.1097650269586634
+statement,2.5393160135035964
+savji,1.5
+court in order,1.0
+truthful nature of the declaration,0.5
+death bed,0.25
+high,5.367119186841496
+- technical view that the certification,0.0
+account,2.5754891049671977
+bench by order,0.5
+imagination,0.5215909090909091
+law,3.538923411654744
+certification,2.7598566308243724
+statement in question,1.0
+observation,0.7625074854374218
+time,2.4764180952862667
+cases,1.9728229418951067
+certification that the patient,0.5
+constitution bench,4.27536231884058
+other circumstances on record,0.5
+guard,1.1435613062230436
+behalf of the counsel,0.5
+nature of the declaration,0.5
+crilj,5.333333333333333
+ravi chander v state,0.5
+certificate,2.732600732600732
+method of communication,0.3333333333333333
+reference to the constitution bench,0.5
+absence,1.092363454568179
+counsel,2.2246780703440323
+application,2.3322596088086445
+subjective satisfaction,0.8
+point of death,0.5
+pradesh manuscmanusc,1.5714285714285714
+answers,0.3387502861066606
+ravi,0.8149008572737387
+ultimate test,0.2857142857142857
+outset,0.5899159663865546
+koli,0.6
+chandrakala,0.5
+koli chunilal savji,1.5
+bench decision of this court,1.3888888888888888
+v state of andhra,1.2
+evidence,3.6676405172088815
+conclusion that the observations,0.5
+rule of caution,1.6666666666666667
+hope,0.6530575035063113
+decision of this court,2.3260869565217392
+chunilal,1.5
+testimony of the magistrate,0.5
+suspicious in any manner,0.5
+veracity,0.6470588235294118
+case,7.332269420884958
+responsible officer,1.0
+basis of conviction,1.0
+statement of a man,0.5
+constitution,3.204842342342342
+so - called conflict,0.0
+harjeet kaur v state,0.5
+justice theory,0.5
+statements,1.110873440285205
+conclusion that the observation,0.5
+rule,5.04
+material on record indicate,0.0
+aforesaid principle,1.0
+learned sessions judge,2.5
+eyewitnesses,1.8010752688172045
+confidence of the court,0.6666666666666666
+medical officer,1.090909090909091
+supra,2.246342614440774
+bench,2.5793391667754992
+duty,3.2272215973003378
+such recording,0.6666666666666666
+bombay high court,2.4642857142857144
+statutory form,0.5
+authenticity,0.6649999999999998
+bed,1.4983050847457626
+presence of a magistrate,0.6666666666666666
+fitnes of the mind,0.0
+animu,0.75
+point,2.9165043546008516
+basis of answers,0.5
+considerations,0.7860235003092146
+v state of gujarat manuscmanusc,1.0526315789473684
+power,3.8165227690948367
+such statement,0.5689655172413793
+police,2.9749362629783356
+materials,1.1534090909090908
+examination,2.4920345926263088
+police officer,1.0366379310344829
+conclusion in law,0.5
+dying,1.3815695769833358
+communication,1.013409067330636
+correct enunciation of law,0.6666666666666666
+reason,2.6381270903010035
+earlier decision,1.5454545454545454
+patient,1.4067744260269741
+one,4.845669314438648
+court in paparambaka rosamma,1.0
+requirement of oath,0.0
+consideration,1.9110153789142115
+such declaration,1.2857142857142858
+paparambaka,2.0
+conscious state,0.5
+indicate,1.1663542642924085
+powerful consideration,0.5
+words,1.6384367086179112
+value,1.7137907830478438
+records of the criminal appeal,0.5
+bench decision,2.317073170731707
+fit mental condition,0.5
+sole basis,0.8
+certification by the doctor,0.5
+extremity,0.3333333333333333
+fit state,2.75
+mind where-after,0.0
+gujarat,3.2753623188405796
+requirement of law,1.25
+judge,2.9012627415183325
+death,2.361592909460208
+appeal against the judgment,1.0
+other circumstance,0.6600000000000001
+evidence of the magistrate,0.6666666666666666
+basi of conviction,0.0
+product of imagination,0.5
+particular case,0.4358974358974359
+court in koli chunilal savji,1.0
+certificate of the doctor,1.5
+conclusion,1.3883437407077015
+great caution,0.30000000000000004
+judges,2.0931496919173616
+counsel for the appellant,1.9621212121212122
+latter decision of this court,0.5
+questions,0.9979150871872632
+hyper - technical view,0.0
+circumstance of each particular case,0.0
+account of the existence,0.5
+correct enunciation,0.6666666666666666
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+lacunae,1.2
+confidence,0.5942028985507247
+product,2.242984858429713
+requirement,1.2416133333333332
+consideration to the correctness,0.0
+materials on record indicate,0.5
+high court,7.7477477477477485
+state,6.817996007300392
+answer,0.9554305705177771
+species of evidence,0.5
+note,1.3654108484234107
+manu,7.078142071124147
+aurangabad bench of the bombay high court,0.6666666666666666
+death ensues,0.5
+fit state of mind,2.75
+suspiciou in any manner,0.0
+man,6.972395052694935
+medical opinion,1.75
+declarant to the questions,0.5
+nature,1.4149926876444778
+deceased chandrakala,0.5
+endorsement,0.8138461538461539
+situation,1.1254754682459434
+species,0.6307692307692307
+observations,0.7454584147497534
+absence of a medical certification,0.5
+fit,2.7848485899724365
+signs,0.5712890624999999
+adequate method of communication,0.5
+most cases,0.48484848484848486
+indication,0.6940825616072829

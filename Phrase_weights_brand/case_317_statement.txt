@@ -1,0 +1,689 @@
+general meeting,0.5714285714285714
+uti as a company,0.5
+net of income-tax because these companies,0.0
+common in nature,0.5
+eligible for deduction under section,0.6666666666666666
+sources,0.8884345343723477
+other sources,0.5898876404494382
+that section,1.1768292682926829
+reasons,1.3749054007567938
+sections,1.640495469442838
+los,1.8125523261338943
+investment in the uti,2.0
+cit,2.2857642235586386
+units of unit trust,1.0
+auditor,1.169230769230769
+business of manufacture,1.0
+court,12.24425115501509
+deemed income,1.0
+reserve account,1.0
+parliament,2.6571235781762095
+agreement,3.450434632433366
+day of april,1.5238095238095237
+income tax act,1.8571428571428572
+case of an assessee,2.6666666666666665
+net profits,0.5
+way,1.7812722068664852
+correctness,0.8404159132007234
+deemed income for the purpose,1.0
+entries,2.110809342748506
+first proviso,1.6666666666666667
+part,5.294464509893076
+regard to the first aspect,0.5
+chapter iii,1.6923076923076923
+less than thirty per cent,0.5
+minimum corporate tax,0.5
+budget speech,0.6666666666666666
+fresh inquiry in regard,0.5
+nothing,0.8658723322806009
+dispute in the present case,0.6666666666666666
+auditor of the company,0.0
+schedule vi,6.857142857142857
+share,2.560794932990637
+such year,1.0
+reserves,0.9127659574468084
+aspect,1.2449448189023034
+number,1.4802651440973922
+unit of the uti,0.5
+account of the assessee,0.0
+funds,3.352010547132498
+hon,1.2854232058781567
+other than ascertained liabilities,0.5
+trust,1.8699167074963252
+above background,0.8
+above questions,0.38095238095238093
+profitable companies,1.0
+part ii,1.4746543778801842
+limited power,0.9523809523809524
+income-tax because these company,0.0
+relies on section,0.6666666666666666
+new machinery,0.0
+claim,2.817264601856604
+changes,0.8318262938726949
+question of fact,1.45
+business in shares,0.5
+correctnes,0.8404159132007234
+appeal,3.4125488033856883
+company for tax,0.5
+accordance with the requirements,1.5
+determination,1.5980374665477253
+provisions of the uti act,0.5
+reductions,0.25
+assessment year,5.375
+certain sums of money,0.6666666666666666
+sums of money,0.5714285714285714
+court in itr nos,0.5
+income-tax,0.0
+year,2.8349484769759212
+regard to the question,1.0
+judgment,3.288216560509554
+tax net,0.6666666666666666
+amount of expenditure,0.5
+such busines,1.0
+manufacture,3.7256425233644856
+subject,2.4420366233344897
+proviso to sub - section,0.0
+amount of depreciation,0.5
+loss,2.0689655172413794
+selling of shares,0.5
+act,12.870263922028107
+provision of the companies,0.0
+sub-section,0.0
+necessary change,0.8
+crores,6.931034482758621
+revenue in support,0.5
+profit for the relevant accounting year,0.5
+itr nos,0.5
+above question,0.45454545454545453
+that definition,0.3970588235294118
+explanation,1.4510159010600707
+income from business,0.6666666666666666
+cent of such book profit,0.5
+vva,0.251865671641791
+profit under sub - section,0.0
+effect,2.184583388478191
+which account,0.6666666666666666
+purchase of new plant,0.5
+thereafter,1.3123461853978673
+profit of the eligible business,0.5
+conclusion that the investment,0.5
+busines in shares,0.0
+levy of income-tax,0.0
+certain sum,0.75
+manner,1.4494591333432125
+consideration in the following factual background,0.5
+income by way,0.5
+income from such business,0.5
+doubt that the business,0.5
+deduction of tax,0.5
+relevant previous year,2.6666666666666665
+other than the reserves,1.0
+provision of chapter iii,0.0
+business of purchase,1.0
+unit holder,2.3333333333333335
+certain companies,0.6666666666666666
+amount of income - tax paid,0.0
+section,9.287987283173626
+which head of income,0.5
+different head of income,0.5
+profit by the amounts,1.0
+years under the provisions,0.5
+authority under the companies,0.0
+meeting,1.5978547625659538
+dividend income,1.5
+unit trust of india,1.0
+companies,2.2664576802507836
+appellate,2.561224489795918
+relevant part,0.8979591836734694
+income from other sources,0.5
+other provision of this act,0.6666666666666666
+tax,3.549237288135593
+benefit of section,0.8333333333333334
+accordance with the provisions,1.9523809523809523
+tyres,0.7894736842105263
+speech,1.9520676691729324
+relevant part of section,0.5
+busines of manufacture,0.0
+type of business,0.5
+finding,1.8129183657767178
+such eligible busines,2.3333333333333335
+gain,2.812245309642126
+present case,1.5611814345991561
+year under the provisions,0.0
+fiction,0.7938733125649013
+requirement of the companies,0.0
+regard,2.723310344827586
+parts ii,1.0
+profit of eligible business,0.0
+uti,6.561030357778325
+court on this point,0.5
+assessing,1.2275132275132274
+proces,1.627944583238701
+requirements of the companies,1.0
+provision of this nature,0.6666666666666666
+money,1.6567889044524557
+perusal,0.750733137829912
+arrears of depreciation,1.0
+facts,1.4696673624372698
+issue,2.766776251628934
+finding in regard,1.0
+minister,1.218958818958819
+gains,2.5197995467213867
+basi,2.0752712086391383
+auditors,0.5679012345679012
+dividends,0.84
+income of such assessee,0.5
+act in support,0.8333333333333334
+busines of purchase,0.0
+than the reserve,1.0
+same act,0.3555555555555555
+provision in the above background,0.5
+subsidiary companies,0.5
+amount withdrawn,1.5
+first aspect,0.75
+profit of the relevant previous year,0.5
+units,5.004460400348129
+benefit,2.604810195438474
+purchase of units,4.333333333333333
+cost,1.2954397451466992
+common judgment,1.3636363636363635
+basis,1.953226441078104
+sums,0.6341911764705883
+sub,7.816899313759727
+therefor,2.96088378499402
+course,1.6545957498716626
+own account,0.9142857142857144
+income of the company,1.3333333333333333
+correctness of the accounts,0.6666666666666666
+company,5.864471879286695
+iii of schedule vi,2.0
+reference to the provisions,0.8333333333333334
+explanation- for the purposes,0.0
+certify,0.4166666666666667
+other than the reserve,1.0
+hence,1.1440732910500353
+officer,3.1197242647058823
+certain company,0.0
+eligible business,7.0
+year relevant to the assessment year,1.0
+act in respect,1.5
+crore,4.747474747474747
+arguments,0.7212211466865226
+statutory auditor,1.0
+arises,0.8292682926829268
+meeting of the company,0.5
+inquiry,1.3527272727272728
+profits,4.935344827586206
+purpose of income tax,0.5
+subsequent year,1.8333333333333333
+relation,1.397320207820618
+business income,0.6666666666666666
+matter,2.8088923076923082
+assessee to the extent,0.6666666666666666
+machinery,0.9071637426900585
+provision of section,1.4827586206896552
+term,3.6255105640901575
+appeal nos,1.6666666666666667
+amounts of expenditure,0.5
+to the business,0.42857142857142855
+view,2.441100058469462
+income-tax paid,0.0
+liability,2.532836248924577
+accounts of the assessee,0.6666666666666666
+requirements,0.7375979875979877
+opinion,1.4960606342789635
+authorities under the companies,1.5
+sub-section empower,0.0
+to any income,0.5
+accounting year,0.5
+use,5.06801278974993
+income from sale,0.5
+for deduction under section,1.0
+relevant accounting year,0.5
+total income of such assessee,0.5
+prepared under sub-section,0.0
+than ascertained liability,0.0
+dividend income under the act,0.5
+unit,2.176678509944691
+accounting,1.3880597014925373
+common management,0.5
+deduction under section,16.333333333333332
+income tax authorities,0.5
+incomes,1.2444444444444445
+record,2.5393414390845273
+procedure,2.552771605064117
+material,1.4148767018946966
+statutory obligation,1.1538461538461537
+companies books of accounts,0.5
+second question,0.5355371900826446
+provision,5.439002243350069
+support,0.8630946786249609
+depreciation,1.8000000000000003
+company before the income tax,0.5
+different from income,0.5
+provisions of section,2.762376237623762
+dividend,1.037037037037037
+respect,2.6704963235294117
+business,2.8512056385864457
+effect of section,1.1
+civil appeal nos,1.5416666666666667
+fact,3.6284951019474962
+provisions of the companies,2.75
+distribution of income,1.0
+inspite,0.6933333333333334
+assessee,15.925925925925926
+than a company,0.6666666666666666
+statutory auditor of the company,0.0
+accounts,2.7564363143631434
+loss account for the relevant previous year,1.0
+clauses,1.5486111111111112
+reserve,1.8336147492356134
+material on record,1.40625
+hegde,1.1333333333333333
+object,1.4940119760479043
+companies books,0.5
+to the authority under the companies,0.0
+certain sum of money,0.0
+part of section,2.142857142857143
+income from this business,0.5
+statement of accounts,1.25
+other word,0.758838674565131
+such amount,1.2380952380952381
+extent,1.410108024691358
+authentic statement of accounts,0.5
+n santosh hegde,0.8888888888888888
+doubt,1.3646267723102583
+santosh,1.3333333333333333
+brief facts,1.0
+years,2.5395804110508022
+attributable to the business,0.5
+high court in itr nos,0.5
+certain new machineries,0.5
+virtue,0.9167557066537153
+anything,0.9132309941520469
+rely,1.3614628307116583
+definition,1.6460425937698666
+chargeable to tax under the head,0.5
+provisions of chapter iii,1.0
+nobody,0.6463806463806463
+profit as an income,0.5
+budget,1.9635270541082162
+to the busines,0.42857142857142855
+profession,1.0704601259741646
+revenue,1.486701237872198
+per,7.977753416636086
+first of the above questions,0.5
+distribution of electricity,0.6666666666666666
+to tax under the head,0.5
+income,2.734813573523251
+above provision of the uti act,0.5
+tribunal as a question of fact,0.5
+division bench,3.965217391304348
+perusal of section,0.8
+other provision,1.281045751633987
+than ascertained liabilities,0.5
+submission of the assessee,0.6666666666666666
+above speech,0.5
+reference,2.1755848210276256
+provision of this act,0.75
+in nature,0.7593052109181141
+year relevant,1.0
+schedule,2.9453067257945307
+accordance,1.4069045211613462
+procedures,0.6129675045984059
+day,1.550999710228919
+sale,3.3662581620085734
+question,2.980312372067635
+than the reserves,1.0
+sub-clauses,0.0
+income-tax because these companies,0.0
+applicable to an assessee in any previous year,0.5
+increase,1.3270102600811262
+word,2.065873981084096
+amounts,0.9789856139834046
+number of questions,0.38095238095238093
+chapter,1.3867471532446152
+such of these companies within the tax net,0.5
+thing,1.1131787570209408
+appeals,1.7060218112849692
+matter of fact,0.6230936819172114
+amount,3.179688593072295
+unit holder from the trust,0.5
+other words,0.7578482137053969
+statement,2.5393160135035964
+division bench of the kerala,1.0
+explanation to section,1.5
+investment,3.057915057915058
+gains of business,4.0
+business of speculation,1.0
+certify by the authorities,0.0
+provisions of chapter iii applies,1.0
+name,1.8996570753072433
+thirty,0.8259303721488596
+entry,4.707210447678601
+new machineries,0.5
+authentic statement,0.5
+which busines,0.6666666666666666
+gain of business,0.0
+high,5.367119186841496
+businesses,0.45161290322580644
+provision therefor,0.6666666666666666
+legal fiction,1.6
+account,2.5754891049671977
+benefit under section,1.0
+unit trust,1.0
+purchase,3.239871541501976
+sale of units,2.3333333333333335
+brief fact,1.0
+generation,1.2037318473488687
+to an assessee in any previous year,0.5
+proviso,2.112
+factory,1.1501182033096926
+common account,0.5
+acceptable to the authorities under the companies,0.5
+purpose,2.519170317925504
+chapter iii apply,0.0
+change,1.2214862766571903
+nos,1.2635492554198444
+head,1.5827778446537666
+sub-section empowers,0.0
+time,2.4764180952862667
+division,1.7657319129617017
+companies within the tax net,0.5
+previous year relevant to the assessment year,1.0
+claim of the company,1.0
+provisions of clause,1.0
+thirty per cent,1.0
+purpose of this section,1.0
+hereinabove,1.911764705882353
+benefit of that section,0.5
+satisfy,0.9014141008925886
+purposes of this section,1.1666666666666667
+increases,0.3794642857142857
+provision for losses,0.5
+reduction,0.8411214953271028
+business of an assessee company,0.5
+that amount,0.5714285714285714
+hereinafter in this section,0.5
+profits under sub - section,0.0
+income for the purpose,1.0
+book profit,3.6666666666666665
+correctnes of the profit,0.0
+arise,1.1675508399646328
+assessment,2.647276084949215
+amount of income,1.75
+book profit unless the book profit,0.5
+companies book,0.5
+other thing,0.48636363636363644
+common account of funds,0.5
+hereinafter,0.7670609645131939
+certifies by the authorities,0.5
+other source,0.5433255269320842
+sum of money,0.7638888888888888
+purpose of assessment,1.0
+civil appeal no,2.1403508771929824
+stock-in-trade,0.0
+mandate,0.8783810859547183
+accordance with the requirement,1.6666666666666667
+levy,3.3133874239350907
+speculative busines,0.5
+income tax,1.4126984126984128
+absence,1.092363454568179
+type,0.8102172691515265
+assessing officer,4.0
+liabilities,1.0606060606060608
+april,0.8928235149629509
+parts,0.6609660823170732
+india,2.7684068260703585
+language of section,1.125
+authorities,1.266131845134287
+income tax authority,0.5
+busines of an assessee company,0.0
+loss account of the company,0.5
+other than ascertained liability,0.0
+profit,3.0739182692307687
+cent,2.4795666588956498
+book of account,0.0
+such assessee,1.0
+business of generation,0.5
+dispute,2.402137592137592
+disposal,1.1180555555555556
+fresh inquiry,0.5
+submission,1.0913871684001404
+of the profit,1.5
+net profit for the relevant accounting year,0.5
+purposes of the income - tax act,0.0
+correctness of the profit,0.5
+amount by way,1.2857142857142858
+reliance,1.400763358778626
+busines of the assessee company,0.0
+meeting liabilities,0.5
+net profit,2.0
+assessee s investment,0.0
+unit holder as a deemed dividend,0.5
+amount of dividends,0.0
+case,7.332269420884958
+sub-sections,0.0
+period,1.9480170842427122
+registrar,1.8341346153846154
+finance minister,2.0
+authority under the income - tax act,0.0
+deeming provision,1.4
+than thirty per cent,0.5
+to the profit,2.0
+following factual background,0.6666666666666666
+arrear of depreciation,0.0
+ascertained liability,0.0
+above provision,1.2727272727272727
+for the disposal,0.5714285714285714
+purposes,1.4391216613438835
+arrear,1.4666666666666666
+nobody s case,0.0
+sale of tyres,1.5
+distribution,2.7289109919449284
+general meeting of the company,0.5
+revenue gain,0.5
+contention,1.666391070690368
+accordance with the companies,1.0
+plant,1.381330685203575
+income under section,0.6666666666666666
+business of the assessee company,1.5
+net,0.6723397365915534
+accounts of a company,0.5
+such book profit,0.5
+eligible busines,7.0
+certifies,0.5
+sum in the computation,0.0
+finance minister of india,0.5
+act for the limited purpose,0.5
+auditors of the company,1.0
+bench,2.5793391667754992
+necessary changes,0.8
+civil appeal,2.2413793103448274
+different head,0.8
+above contention,1.4285714285714286
+assessee in any previous year,0.5
+chapter iii applies,1.0
+costs,0.8167395522604189
+finding in the first point,0.5
+amount withdrawn from the reserve account,0.5
+authenticity,0.6649999999999998
+whatever name,0.8333333333333334
+account of the company,1.0
+uti for the purpose,0.5
+income - tax act,0.0
+other than a company,0.6666666666666666
+new section,0.5555555555555556
+point,2.9165043546008516
+process,1.6274942048088725
+phenomenon,0.3698752228163993
+explanation-,0.0
+necessary for the disposal,0.75
+correctnes of the accounts,0.0
+units as stock - in - trade,0.0
+power,3.8165227690948367
+purpose of the income - tax act,0.0
+management,1.6732611752395274
+doubt that the busines,0.5
+deduction,6.463320463320464
+deemed dividend,0.5
+revenue on sub - section,0.0
+speculation busines,0.5
+relation to the relevant previous year,0.5
+provision of the uti act,0.5
+companies act,4.391304347826087
+net profit by the amounts,1.0
+tyre,0.6293408929836994
+set,2.3027452395971277
+reason,2.6381270903010035
+rely on section,0.5
+authenticity of the accounts,0.3333333333333333
+investment in the units,1.0
+busines of speculation,0.0
+profits of eligible business,0.5
+consideration,1.9110153789142115
+appeal no,2.288135593220339
+total income,10.5
+fund,2.9945256868353374
+account in accordance,0.5
+new provision,1.1666666666666667
+words,1.6384367086179112
+amount of the loss,0.5
+clause,3.526455026455027
+shares,3.3129411764705883
+first point,0.375
+assessee company from the uti,0.5
+holder,1.8472993827160495
+tax under the head,0.5
+subsidiary company,1.6666666666666667
+inquiry in regard,0.5
+loss account,3.5
+trade,1.8307706424423558
+meeting liability,0.0
+legislature,2.818553268765133
+the tribunal,2.376543209876543
+which business,0.6666666666666666
+selling of units,1.5
+authority,2.4352627108360636
+which head,0.5
+provisions,3.8929824561403508
+to tax for the relevant previous year,0.5
+determination of the amounts,0.5
+ascertained liabilities,0.5
+relatable,2.142857142857143
+conclusion that the provision,0.75
+little tax,0.3333333333333333
+such amounts,0.8
+argument,0.9504580388560493
+which mandate,1.0
+case of the assessee company,0.5
+regard to the units,0.5
+amount withdrawn from reserves,1.0
+conclusion,1.3883437407077015
+provision of clause,0.0
+limited purpose,0.9047619047619048
+account of funds,0.5
+chargeable to tax for the relevant previous year,0.5
+uti act,2.0
+speculation business,0.5
+statutory auditors of the company,0.5
+sub-claus,0.0
+sums in the computation,0.5
+of these companies within the tax net,0.5
+questions,0.9979150871872632
+background,0.6800452488687784
+high court on this point,0.5
+such income,2.0
+provision of chapter iii applies,0.0
+relevant time,1.008
+brief,0.540112172829248
+own accounts,0.5
+accounts of the company,3.0
+first proviso to sub - section,0.0
+amounts of dividends,0.5
+iii,1.5614499719992534
+arrears,2.3209876543209877
+reserve account under section,1.0
+no doubt,0.8331331503088538
+itr,4.961453567240706
+busines,2.8488759960122034
+obligation,1.1071428571428574
+statutory auditors,1.0
+expenditure,2.804307692307692
+speculation,0.6909448818897637
+to the authorities under the companies,0.5
+account of a company,0.0
+previous year relevant,1.0
+view of the tribunal,1.0
+regular busines,0.30000000000000004
+head of income,1.0
+itr no,0.6666666666666666
+requirement,1.2416133333333332
+previous year,1.384404924760602
+from income,0.3333333333333333
+kerala,4.135593220338983
+high court,7.7477477477477485
+regular business,0.30000000000000004
+deeming,1.0526315789473684
+account in a manner,0.5
+amount during the previous year,0.5
+busines of generation,0.0
+relies,0.5112847222222222
+jurisdiction,2.9539571926331507
+statute,2.5765859456247218
+such business,1.0
+subsidiary,1.0769230769230769
+act to the units,0.5
+agreement with the finding,0.6666666666666666
+certain new machinery,0.0
+machineries,1.0
+speculative business,0.5
+general,1.7536558414534391
+profitable company,0.5
+argument of the revenue,1.6666666666666667
+language,0.8555828468744352
+new plant,0.30000000000000004
+consideration before the high court,0.8333333333333334
+companies book of accounts,0.0
+accordance with sub-section,0.0
+books of account,3.3
+nature,1.4149926876444778
+assessee company,7.0
+things,0.6162490788504054
+unit of unit trust,0.0
+income tax act question,0.5
+appellate tribunal,4.2105263157894735
+company s income,0.0
+selling,1.3588512150609935
+tribunal,5.07183212267958
+computation,1.3021653543307086
+relatable to any income,0.5
+uti by the assessee company,1.0
+such eligible business,2.3333333333333335
+finance,1.9582470669427192
+corporate tax,0.5
+certain sums,0.6666666666666666
+sum,2.554898897856461
+accordance with part ii,0.6666666666666666
+measure,1.1941357983816498
+other things,0.4197737746124843
+electricity,4.4831223628691985
+relevant,1.7104913678618858
+attention,0.8724846605528799
+book,0.7435955668604651
+last point,0.34285714285714286
+action,3.127292663476874
+units of the uti,3.0
+books,0.8894824707846412
+stock,1.0778270324523251
+source,0.840137091365362
+tax for the relevant previous year,0.5
+use of the words,0.6666666666666666
+purpose of companies act,0.5
+uti act to the units,0.5
+ernakulam,1.1428571428571428
+losses,0.9434840425531913
+company for income tax,0.5
+income from the units,0.5
+book profits,1.0
+registrar of companies,1.0

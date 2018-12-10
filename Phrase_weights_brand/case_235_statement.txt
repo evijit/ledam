@@ -1,0 +1,87 @@
+petitioner,4.524972253052164
+cost,1.2954397451466992
+anil r dave,0.9166666666666666
+session,2.2400874351067563
+present appeal by way,0.6666666666666666
+district judge,2.1684981684981683
+high court of punjab,1.2380952380952381
+peculiar facts,0.9473684210526315
+high,5.367119186841496
+court,12.24425115501509
+appellant - husband,0.0
+child,3.0202810640613067
+dmc,0.5446808510638298
+petition,5.3436539306104525
+way,1.7812722068664852
+court of punjab,1.2380952380952381
+haryana,2.935064935064935
+court of competent jurisdiction,1.1111111111111112
+divorce petition from sangrur,0.5
+- husband,0.0
+present appeal,1.3424657534246576
+district,1.5506763074237984
+disease,0.6741573033707865
+sessions,1.3405714285714285
+divorce,1.2616822429906542
+care,0.8846948234137723
+peculiar facts of the case,0.8
+anil,1.1751552795031055
+sangrur,8.0
+opinion,1.4960606342789635
+yogesh,1.0
+dave,0.5541026479241583
+appeal,3.4125488033856883
+judge,2.9012627415183325
+facts of the case,1.161764705882353
+regn,0.3912820512820513
+sessions judge,2.9545454545454546
+divorce petition,0.5
+counsel,2.2246780703440323
+year,2.8349484769759212
+additional district judge,1.6
+leave against the order,0.5
+same to any other court of competent jurisdiction,0.5
+fact of the case,0.0
+special leave,1.903225806451613
+punjab to the court,0.5
+fact,3.6284951019474962
+order,5.472481489660944
+learned counsel,3.703333333333333
+other court of competent jurisdiction,0.5
+learned counsel for the parties,1.263157894736842
+bathinda,1.0
+husband,1.6418918918918919
+appellant,14.387096774193548
+discretion in favour,0.5
+impugned order,2.265957446808511
+special leave against the order,0.5
+high court,7.7477477477477485
+parties,1.8210828547990157
+peculiar fact,1.0476190476190477
+case,7.332269420884958
+jurisdiction,2.9539571926331507
+years,2.5395804110508022
+other court,0.7500000000000001
+punjab,1.0438169425511197
+petitioner - husband,0.0
+party,2.2250894654439723
+haryana at chandigarh,0.875
+competent jurisdiction,1.1666666666666667
+malignant disease,0.5
+case bearing regn,0.5
+amandeep,0.5
+court of additional district judge,0.5
+care of the child,0.6666666666666666
+amandeep goyal v,0.5
+favour,1.653145208700764
+chandigarh,1.52
+appeal by way,0.8571428571428571
+facts,1.4696673624372698
+peculiar fact of the case,0.0
+to any other court of competent jurisdiction,0.5
+leave,1.0147842365477848
+goyal,0.296875
+costs,0.8167395522604189
+rani,0.7496886674968867
+discretion,1.2998211091234348
+yogesh rani,0.5

@@ -1,0 +1,690 @@
+courts,2.1216528162511543
+equal strength,1.0
+committee,2.546237803603864
+findings,1.049571253572887
+demand letters,0.5
+prices,0.9771470160116448
+special leave petitions against the full bench judgment,0.5
+civil writ nos,0.5
+janta flats,1.0
+certainty,0.8630136986301371
+of the mig flats in the scheme,0.5
+co-equal benches,0.0
+which similar issues,0.5
+scope of judicial review,1.0
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+other hand,0.6931925622439332
+detailed affidavit,0.5
+mig r,0.5
+batch,1.2940630797773658
+revision,1.6299226441631505
+reasons,1.3749054007567938
+terms,2.390350840909655
+various categories,0.8
+- janta rs,0.0
+sqmtrs,1.5
+demand letter,0.5
+court,12.24425115501509
+writ no,0.6666666666666666
+lieutenant governor,2.0
+several similar writ petitions,0.5
+of the mig flat in the scheme,0.0
+binding principles,0.5
+union,2.0981927710843373
+anomalous situation,0.75
+escalation of cost,0.5
+same point,0.6
+living room,0.20930232558139536
+person,4.291511329454258
+- lig rs,0.0
+contention of the learned counsel,1.0625
+ors,2.8612718198296623
+correctness,0.8404159132007234
+decision of the full bench,2.25
+behalf,1.9888053603529987
+part,5.294464509893076
+full bench,5.0
+- per sqmeter,0.0
+writ petitioner,4.482758620689655
+correctnes of the view,0.0
+fixation of the price,0.5
+present appeal,1.3424657534246576
+co - equal benches,0.0
+costing,1.0161290322580645
+number,1.4802651440973922
+shri,2.0759135877246115
+janta,1.2
+decisions,1.3888475974580996
+courts within the territory,1.0
+set of writ petitions,0.5
+decision,2.9514937765898557
+sqmtr,1.5
+counsel for the respondent,1.5822784810126582
+aforesaid,2.592896174863388
+actual cost of construction,1.0
+flat in that pocket,0.0
+dispose of the writ petitions,0.6666666666666666
+relevant material,1.0
+correctnes,0.8404159132007234
+appeal,3.4125488033856883
+case on the peculiar facts,0.5
+similar issues,0.4444444444444444
+lots,1.0732649366324685
+notice of this court,1.0
+scr,2.483838975311538
+high court on the question,1.0
+above reason,1.0
+land,6.337534028705619
+area,2.675167256985439
+expert,2.5786336542870245
+following questions,0.5185185185185185
+month,1.3454861111111112
+year,2.8349484769759212
+impugned revision of cost,0.5
+actual cost,0.5555555555555556
+registration scheme,0.5714285714285714
+upto,0.7713804853723404
+judgment,3.288216560509554
+litigant public,0.6666666666666666
+different schemes,0.5
+fixation,1.1141025641025641
+counsel for the petitioner,1.4242424242424243
+bath,0.39321493624772313
+conclusion because the authority,0.5
+sharma,0.9516994633273703
+order,5.472481489660944
+final cost,0.5
+opposite view,0.4
+full bench decision of the same high court,0.5
+concluding,0.624
+relevant factor,0.8663594470046083
+different categories,0.7800000000000001
+to the subsequent full bench decision of the same high court,0.5
+may,3.683418028199994
+ashok kumar behl,0.5
+bench of equal strength,0.0
+governor,1.1316137566137567
+registrant,0.3333333333333333
+maha,0.9783653846153847
+ews,0.6094867704145692
+construction etc,0.5
+specific direction in that behalf,0.0
+full bench judgment,3.6666666666666665
+miscellaneous application,1.0
+affirmance,0.5
+half time of the price,0.5
+subject to revisionmodification,0.5
+following question,0.5
+leave petition in the present appeals,0.0
+end to the controversy,0.5
+instant decision,0.5
+payment within a month,0.5
+bench of the delhi high court,1.0
+mig flat,2.0
+submits that other similar slp,0.5
+delhi development authority,1.0
+land rate,1.5
+behl,0.5
+herein,2.825259515570934
+revision in the rate,0.5
+affirmance of the full bench decision,0.5
+turn for allotment,0.5
+decision in ashok kumar behl,0.5
+division bench of co - equal strength,0.0
+january,0.8699641577060931
+to certain reason,0.5
+pattern,0.6151546391752578
+judgments,1.2355646397547266
+than the price,0.5555555555555556
+consistent view of this court,1.0
+concluding portions,0.5
+place,2.333104345208554
+to revision  modification,0.0
+finding,1.8129183657767178
+co-equal bench of the high court,0.0
+specific direction,0.5555555555555556
+following term,1.6170212765957446
+regard,2.723310344827586
+lig flat,0.5
+ratio of the decision,1.0714285714285714
+reach,1.1893120621603193
+significant factors,0.6666666666666666
+direction,1.8495050210098996
+concluding portion,0.6666666666666666
+- per sqmeter for mig flats,0.0
+bhan,1.4088145896656534
+other similar slp,0.5
+union of india,3.1324503311258276
+regards,0.9072861236185019
+facts,1.4696673624372698
+fixation of prices,0.5
+issue,2.766776251628934
+cost of construction,3.25
+july,0.9742727723122656
+divergent view,1.0
+rooms,0.5689655172413793
+basi,2.0752712086391383
+leave petition,2.013333333333333
+place by draw,0.5
+escalation in prices,1.0
+batch case,0.5
+- per sqmeter for lig flats,0.0
+same grounds,0.4444444444444444
+plinth area of the flats,1.0
+accommodation in the flats,0.5
+petitioner,4.524972253052164
+cost,1.2954397451466992
+mig flat in the same scheme,0.0
+meantime operation of the impugned judgment,0.5
+orders,1.4936359300077826
+basis,1.953226441078104
+cost of the flats,0.5
+flats by a number,0.5
+scheme,3.415949119373777
+directions,1.5134125183504605
+bench in sheelawanti,0.5
+flat in jahangirpuri,0.0
+time of the price,0.5
+draw,1.2610192040721886
+correctnes of the full bench judgment,0.0
+peculiar facts,0.9473684210526315
+pal,1.6504163634893685
+to the respondents,1.6521739130434783
+grounds,0.9540208829455945
+detailed affidavit before the full bench,0.5
+different benches,0.75
+cardinal principle,0.8571428571428571
+ground,1.4186722903211633
+letters,2.0877496159754223
+territory,1.3688226421790437
+direct bearing on the controversy,0.5
+bearing on the controversy,0.5
+court on the same point,0.6666666666666666
+arguments,0.7212211466865226
+transaction,5.884921444603142
+request to the chief justice,1.2
+co - equal bench,0.0
+impugned judgment,2.0927152317880795
+liberty,0.7860465116279071
+following observations,0.8222222222222223
+matter,2.8088923076923082
+moment,0.5294822018215465
+dismissal of the slps,0.5
+meantime,0.5833333333333334
+lig flats,0.5
+relevant factors,0.8608695652173913
+price,2.8302710227712162
+bearing,0.7901184156798694
+part hold,0.5
+article,4.378806157159795
+relevant material before the court,1.5
+term,3.6255105640901575
+specific directions in that behalf,0.5
+bar that the instant decision,0.5
+meter for ews,0.5
+divergent views,0.75
+ambit of the ratio,0.5
+view,2.441100058469462
+similar relief,1.0
+lieutenant governor in the year,0.5
+increase in the land price,0.5
+full bench decision,1.7272727272727273
+opinion,1.4960606342789635
+conflict,1.314561353483509
+relief,1.4748116760828625
+merit,1.2419290263876248
+ashok bhan,0.8
+various category,0.0
+special leave petitions in the present appeals,0.5
+slps,1.6363636363636365
+view that the impugned revision,0.5
+sine die,1.0
+limine,1.3636363636363635
+material,1.4148767018946966
+construction of the flats,1.0
+scope,0.8412698412698413
+petitions,1.3930830039525692
+delhi in the year,0.5
+full bench by an order,0.5
+division bench of the high court,1.6825396825396826
+first question,0.5
+second question,0.5355371900826446
+turn,1.6310093128618173
+titled prem chand,0.5
+bench of delhi high court,0.6666666666666666
+likely cost of mig flats,0.5
+meantime operation,0.5
+certain reason,0.5
+other batch case,0.5
+to the respondent,2.1153846153846154
+fact,3.6284951019474962
+learned counsel,3.703333333333333
+registration,2.231365215068127
+inconsistency,0.7857142857142857
+- per sq,0.0
+respondents - writ petitioner,0.0
+jk dhingra,0.5
+anr,1.1271033322299457
+clauses,1.5486111111111112
+intimate to the respondents,0.5
+chief,1.9429638234317954
+special,1.7363344051446945
+december,0.9629002463054187
+different benches of equal strength,0.5
+lieutenant,0.6190476190476191
+lt  governor in the year,0.0
+kumar,2.028839704896043
+demand,1.5671679197994988
+governor of delhi,2.5
+following order,0.5647058823529412
+same court on the same point,0.5
+that behalf,1.3548387096774193
+subsequent full bench decision,0.5
+more than the price,0.2857142857142857
+other word,0.758838674565131
+modification,0.9714977645305514
+escalated price,0.5
+dhingra,0.6666666666666666
+points,0.7095682483711788
+batch cases,0.5
+bench judgment,2.0
+likely cost,0.9000000000000001
+land by the lieutenant governor,0.5
+mig rs,0.5
+larger bench in sheelawanti,0.5
+bar,1.4720990391722097
+rates of land,0.5
+affidavit,2.2996987951807224
+mtr,1.097859604571014
+binding principles on the same point,0.5
+part hold over this matter,0.5
+principle,1.9620890732001848
+miglig,0.5
+review,1.3564101463582128
+vinod,0.6938775510204082
+binding principle,0.6666666666666666
+wanti,0.557758031442242
+illustrated price,0.5
+delhi,2.6089285714285717
+different category,1.0
+issues,1.1246716508385532
+factor,1.2878742338904643
+justice,2.292557084574302
+request,1.1474439594584596
+similar slp,0.5
+bareilli development authority s case,0.0
+account for costing,0.5
+same court,0.5
+impugned judgment by a division bench,0.5
+paper book,1.0
+writ nos,0.5
+present appeals,1.625
+divergence,0.8181818181818181
+escalation in cost,0.5
+division bench,3.965217391304348
+answer to the first question,0.4444444444444444
+directions in that behalf,0.5
+september,0.8548484848484849
+lt  governor,0.0
+randomized allotment,0.5
+material before the court,1.5
+chief justice,4.684210526315789
+hearing,0.9644508209787979
+respondent,4.757894736842104
+difference of opinion,0.5833333333333334
+subordinate,1.43
+judgment in writ petition,0.5
+writ petition nos,1.125
+question,2.980312372067635
+principles,1.3198511166253102
+court - yard,0.0
+increased rate,0.3333333333333333
+lt  governor of delhi,0.0
+hardev,1.6
+benches,1.1746031746031744
+expert committee,3.3333333333333335
+portions,0.6041219407471018
+court on the question,1.0
+inconsistency of the views,0.5
+belief,1.0362637362637361
+court despite the fact,0.5
+submits,2.1733333333333333
+attention of the court,1.0
+increase,1.3270102600811262
+scmanu,7.940520446096654
+word,2.065873981084096
+writ,2.8882378560889794
+appeals,1.7060218112849692
+amount,3.179688593072295
+february,0.8575630252100839
+other words,0.7578482137053969
+august,0.977116704805492
+lieutenant governor of delhi,1.5
+shri hardev singh,0.5
+subordinate courts,2.75
+referred to a full bench by an order,0.5
+supreme court,1.4278957326045825
+view of this court,1.0
+certainty in the mind,0.5
+conclusion that the price,0.6666666666666666
+judgment of the larger bench,0.6666666666666666
+common man,0.5982905982905983
+high,5.367119186841496
+payment,2.059553716565686
+sheela,1.75
+following terms,1.5957446808510638
+consistent view,0.6000000000000001
+account,2.5754891049671977
+gupta,0.7610062893081762
+which similar issue,0.5
+affidavit before the full bench,0.5
+notification,3.0112746633260263
+contrary to the subsequent full bench decision of the same high court,0.5
+dismissal,1.614076246334311
+prayer,0.6969296987087519
+different bench of equal strength,0.0
+law,3.538923411654744
+nos,1.2635492554198444
+respondent in terms,0.5
+different bench,1.0
+observation,0.7625074854374218
+time,2.4764180952862667
+cases,1.9728229418951067
+division,1.7657319129617017
+same ground,0.4800000000000001
+issuance,1.05379513633014
+upheld whereas the division bench in the impugned judgment,0.5
+less than the price,0.3333333333333333
+division bench in the impugned judgment,1.4
+conflict of opinion,0.6666666666666666
+new pattern-,0.0
+accommodation,1.3095238095238095
+aforesaid question,1.0
+larger bench of delhi high court,0.5
+tentative price,1.0
+reach of the common man,0.5
+correctness of the full bench judgment,1.0
+mig flats in the scheme,0.5
+the respondents,4.603550295857988
+benches of equal strength,0.5
+divergence of opinion,0.6666666666666666
+civil writ no,0.5
+the authority,1.1149330398092094
+whereas,0.7770612954644255
+- janta r,0.0
+mig flats in the same scheme,0.5
+significant factor,0.5555555555555556
+new pattern,1.0
+hereinafter,0.7670609645131939
+land price,0.5714285714285714
+conflict of views,0.6666666666666666
+bed room,0.5
+sqmeter for lig flats,0.5
+same scheme,1.3333333333333333
+registrants,0.3333333333333333
+sine,2.6412144879875763
+court query,0.0
+court query in this behalf,0.0
+exigencies,0.8
+counsel,2.2246780703440323
+application,2.3322596088086445
+rates,0.9535092413452435
+india,2.7684068260703585
+allotments,0.6666666666666666
+similar writ petitions,0.6666666666666666
+co-equal benches of the high court,0.0
+sqmeter,2.5
+bench by an order,0.6666666666666666
+flat,2.2950575421290584
+cost on the basis,0.5
+new,0.9418497626301229
+sheelawanti,1.0
+other similar slps,0.5
+dlt,0.3054545454545455
+division bench in the impugned judgments,0.5
+special leave petitions,1.6296296296296295
+writ petitioners,3.75
+leave petitions against the full bench judgment,0.5
+mention,1.6248742837095076
+submission,1.0913871684001404
+document,1.401100265092073
+special leave petition,2.013333333333333
+contradiction in the orders,1.0
+co-equal bench,0.0
+the respondent,7.471042471042471
+price by the lieutenant governor,0.5
+revisionmodification,0.5
+bareilli development authority,0.5
+flats,2.4583333333333335
+peculiar fact,1.0476190476190477
+case,7.332269420884958
+difference,0.8774847235514982
+present scheme,0.5
+exigency,0.6000000000000001
+case sine die,0.5
+view that revision,0.5
+which special leave petition,0.6666666666666666
+emphasi,0.9191619047619048
+jahangirpuri,0.5
+cwp,0.875
+fresh rates of land,0.5
+constitution,3.204842342342342
+letter,2.707240080105903
+allotment of flats,1.0
+factors,0.9829522460542292
+likely cost of flats,0.5
+writ petitions,2.984848484848485
+special leave petition in the present appeals,0.0
+ambit,1.0862754267009587
+question of pricing,1.0
+to certain reasons,0.5
+singh,3.7791111111111113
+land rate at rs,1.0
+high court despite the fact,0.5
+submits that other similar slps,0.5
+price fixation,2.0
+appropriate that the high court,0.5
+portion,1.0756311179804223
+janta flat,1.0
+component of land price,0.5
+end,6.1484001628618765
+prem,1.757457603819093
+contention,1.666391070690368
+law that inconsistency,0.5
+divergence of views,0.6666666666666666
+rule,5.04
+allottee,2.5555555555555554
+advocate,1.0791341991341994
+cost of mig flats,0.5
+contradiction,0.609271523178808
+counsel for the respondents,1.425531914893617
+leave petitions in the present appeals,0.5
+favour,1.653145208700764
+favour of the authority,0.5
+fresh rate of land,0.0
+following observation,0.8039215686274509
+registration for the scheme,0.5
+recommendation,2.6589497459062676
+similar issue,0.5333333333333333
+supra,2.246342614440774
+bench,2.5793391667754992
+chand,1.4868766404199476
+development authority,1.9333333333333333
+respondents,2.6341263330598856
+development authority s case,0.0
+leave,1.0147842365477848
+open court-yard,0.0
+other batch cases,0.5
+costs,0.8167395522604189
+slp,1.291953447628582
+registration scheme on new pattern,1.0
+subordinate court,2.5
+registration scheme on new pattern-,0.0
+dda,0.8716985271934398
+different scheme,0.75
+illustrated price of various categories,0.5
+bed,1.4983050847457626
+mig,1.1685607132748372
+october,0.9478375701551667
+flats in that pocket,0.5
+rate of land,1.0
+that the high court,1.7473684210526317
+point,2.9165043546008516
+fact that the matter,0.6666666666666666
+delhi high court,2.380952380952381
+ashok,0.4374740340673037
+that pocket,0.5
+notice,2.3300025999395686
+pal singh,2.3157894736842106
+dda under different schemes,0.5
+construction of a pocket,0.5
+flat by a number,0.0
+respondents in terms,0.75
+brochure,0.603864734299517
+merits,0.968421052631579
+vinod kumar gupta,0.5
+bareilli,0.5
+full,1.5412997100815056
+few of the mig flats in the scheme,0.5
+same high court,1.3333333333333333
+important decisions,0.5
+fresh rate,0.23529411764705882
+schemes,1.1961722488038278
+lig,1.8801236828217667
+set,2.3027452395971277
+reason,2.6381270903010035
+escalated price of the flats,0.5
+operation,1.0959893294085181
+ratio of this court,0.75
+likely cost of the flats,0.5
+yard,1.5829315332690455
+one,4.845669314438648
+views,0.6965871413779037
+petition,5.3436539306104525
+category,1.9351744779266717
+writ petition,6.24223602484472
+own views,0.3508771929824561
+basis thereof,0.875
+construction,2.2504918032786887
+query,0.7205882352941175
+court queries in this behalf,1.0
+consideration,1.9110153789142115
+issuance of the notification,0.8333333333333334
+meter,1.3483165377704869
+sine die with the liberty,0.5
+allottees,2.75
+words,1.6384367086179112
+bath room,1.5
+cost of flats,1.0
+bench decision,2.317073170731707
+clause,3.526455026455027
+documents,1.142515923566879
+- lig r,0.0
+certain reasons,0.5
+belief that the dda,1.0
+mig flat in the scheme,0.0
+plinth area,1.6
+registrant for allotment,0.0
+appellant-delhi development authority,0.0
+similar slps,0.5
+authority,2.4352627108360636
+manuscmanusc,7.940520446096654
+to the view,0.5714285714285714
+aforesaid questions,1.0
+view of clause,1.0
+such intimation,0.6666666666666666
+registrants for allotment,0.5
+development,2.3145884270578647
+living,1.0859950859950862
+revision of cost,0.5
+argument,0.9504580388560493
+nand,1.0072239422084623
+kitchen,0.5454545454545454
+conclusion,1.3883437407077015
+ratio,5.027061939235792
+weeks,0.8109161793372318
+mig flats,2.0
+special leave,1.903225806451613
+several similar writ petition,0.5
+fresh rates,0.25
+subsequent full bench decision of the same high court,0.5
+co-equal strength,0.0
+important decision,0.5
+room,0.6950710108604846
+ajai,0.5
+page,1.011907905159212
+correctness of the view,0.8333333333333334
+paper,1.8076689487632511
+questions,0.9979150871872632
+strength,1.1679328901551123
+maha nand sharma,0.5
+larger bench,2.0606060606060606
+component,0.6292906178489701
+hand,2.0299623418254717
+sqmeter for mig flats,0.5
+leave petitions,1.6296296296296295
+contrary to the view,0.75
+cost of construction etc,0.5
+appellant,14.387096774193548
+allotment,4.111111111111112
+prejudice,0.880907124598545
+week,0.8253498691546249
+pocket,0.5186074429771909
+supreme,1.443815331010453
+area of the flats,2.0
+direction in that behalf,0.5
+direct bearing,0.42857142857142855
+high court,7.7477477477477485
+court queries,1.0
+dispose,0.9912909836065574
+public,2.923239095873367
+wherea,0.8062806257067471
+prejudice of the writ petitioners,1.0
+mtrs,1.2000000000000002
+answer,0.9554305705177771
+queries,0.7428571428571429
+respondents - writ petitioners,0.0
+jurisdiction,2.9539571926331507
+specific directions,0.4444444444444444
+due to certain reasons,0.5
+controversy,0.8593204191806921
+same year,0.3879310344827586
+binding principle on the same point,0.0
+judicial review,2.64
+manu,7.078142071124147
+submit,2.197409354703731
+writ petition no,2.7777777777777777
+rate,3.088725136774248
+bareilly,2.25
+conflict in the views,0.5
+self,1.6847516412733803
+full bench of the delhi high court,0.5
+own view,0.41481481481481486
+emphasis,0.8024289099526066
+intimate,0.6346153846153846
+similar writ petition,0.8
+man,6.972395052694935
+principle of rule,0.6666666666666666
+intimation,1.105263157894737
+categories,0.8800000000000001
+constitution in the matter,0.6666666666666666
+sheela wanti,0.5
+petitioners,3.536507936507937
+situation,1.1254754682459434
+cardinal principle of rule,0.5
+pattern-,0.0
+observations,0.7454584147497534
+attention,0.8724846605528799
+bed rooms,0.5
+book,0.7435955668604651
+something,0.5915378827342709
+senior advocate,1.6153846153846154
+impugned revision,1.0
+impugned judgments,1.3333333333333333
+flats in jahangirpuri,0.5
+open,1.0501084098353093
+costing of the flats,0.5
+persons,2.5993381990166555
+pricing,1.4427480916030537
+escalation,0.7196969696969696

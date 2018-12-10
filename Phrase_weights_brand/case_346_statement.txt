@@ -1,0 +1,723 @@
+lessor,2.7619047619047623
+own land in the possession,0.5
+true owner by the trespasser,0.5
+aid of a person,0.5
+ordinary rights,0.5
+sir john edge,0.5
+naresh narayan roy,0.5
+person as an agent,0.5
+prior possessor,0.5
+jurisprudential thought,0.5
+das,1.508694082231246
+boundaries,0.6230769230769232
+enjoyment of the plaintiff-respondent,0.0
+naresh,1.8333333333333333
+acts of trespass,0.5
+terms,2.390350840909655
+yar mohammad v lakshmi da,0.5
+kamanu,1.1428571428571428
+instance,0.9469803370786518
+sir,1.1712841173013164
+loft s maxim possession contra omnes,0.0
+failure,0.7827962142086977
+circumstance of each case,0.0
+interest,2.74353772015385
+court,12.24425115501509
+recourse to the due process,0.5
+casual act,0.6666666666666666
+declaration,2.152560083594566
+lallu yeshwant singh,0.6666666666666666
+catena of decisions,1.0833333333333333
+rightful owner,2.9999999999999996
+act of trespass,0.6666666666666666
+single judge,4.011627906976744
+person,4.291511329454258
+v mrs shobha venkat,0.5
+anr s case,0.0
+show,1.5002130552117363
+ors,2.8612718198296623
+cause,1.8431210321626654
+way,1.7812722068664852
+salmond,1.4
+attributes,0.6717557251908397
+averment of previous possession,0.5
+kallappa,1.0
+part,5.294464509893076
+systems,0.3927792585413133
+full bench,5.0
+physical possession of the property,0.5
+ad-interim injunction,0.0
+nothing,0.8658723322806009
+stray,1.211340206185567
+shapes,0.42105263157894735
+maxim possession contra omne,0.5
+haribhai,0.5
+animus,0.75
+ownership,1.1522633744855968
+lahoti,1.1111111111111112
+following test,0.5
+dimension,0.7919420837267862
+few relationship,0.5
+decisions,1.3888475974580996
+owner of any property,0.5
+alexander,0.22466216216216214
+character,0.9325990965842764
+decision,2.9514937765898557
+- term interest of society,0.0
+pieces,0.6062837506136476
+own selfish,0.25
+hands,1.1725490196078434
+long-term interest,0.0
+landlord,3.643181818181818
+physical possession,1.4166666666666667
+of any merit,0.875
+earlier possessor,0.5
+claim,2.817264601856604
+test,2.5329834591340266
+possessor,1.7391304347826089
+rama,0.9438942891859052
+distinction,0.7312167973690868
+appeal,3.4125488033856883
+right against the true owner,0.5
+protection of ownership,0.5
+contra,3.550142721217888
+formula,1.9020570115902682
+india persons,0.5
+cui,0.3963593658250146
+land,6.337534028705619
+scr,2.483838975311538
+title to the suit land,1.0
+relevant facts,0.7692307692307692
+stage,1.1298537871524448
+panjwani,1.0
+cases of munshi ram,0.5
+wherein,1.0724137931034483
+suit property,5.333333333333333
+prior possession against the defendant,0.5
+piece,0.8682170542635659
+judgment,3.288216560509554
+attempt at concealment,1.0
+suit land,2.1666666666666665
+wrongful possessor,0.5
+subject,2.4420366233344897
+remedies,0.6206451612903225
+defendant - appellant claiming that the land,0.0
+attribute,0.6721108636476121
+order,5.472481489660944
+shivappa,0.6666666666666666
+special charm,0.5
+general law applicable,0.6666666666666666
+act,12.870263922028107
+casual in nature,0.6666666666666666
+settled possession of the property,1.0
+- matter of the suit,0.0
+long-term interest of society,0.0
+many other legal system,0.5
+absence of declaration,0.5
+twelfth edition,0.6666666666666666
+pieces of land,3.0
+such possession,1.0
+nagar,0.8617021276595744
+due proces,0.6064690026954178
+trespasser from an attempted trespass,0.5
+jind v jagat singh,0.6666666666666666
+treat possession,0.5
+tests,1.9146311374290645
+possession against the defendant,0.5
+servant acting at the instance,0.5
+relevant fact,0.9393939393939393
+possessors,0.3333333333333333
+effect,2.184583388478191
+course subject to the law,0.5
+agent,1.406335913378167
+best of title,0.5
+proprietary,1.4281871974179667
+demarcation,1.4
+catena,0.5013888888888888
+convenience,0.6501259072729966
+parties,1.8210828547990157
+law in india,0.8
+temporary title,0.5
+no right,0.6454703832752613
+intermittent act,0.5
+inasmuch as declaration of title,0.5
+rights of ownership,0.6666666666666666
+attempted trespas,0.5
+possession by any unfair means,0.5
+venkat,0.4523809523809524
+servant,2.030552291421857
+question of the origin,0.3333333333333333
+prior possession,0.5
+intrusion,0.7702702702702703
+long period,0.6161971830985916
+trespasser without regard,0.5
+undisturbed,0.5555555555555556
+arckempanahally,1.0
+representative,1.0617102796119673
+statement of law,1.0
+circumstance,1.429931390219372
+present case,1.5611814345991561
+mean,2.390645692553228
+oft - quoted case,0.0
+trespasser by force,0.5
+fact of that case,1.0
+regard,2.723310344827586
+dispossession,0.8727272727272727
+human nature,0.27555555555555555
+proces of dispossession,0.0
+entitlement,0.6176470588235294
+dimensions,0.695364238410596
+nagappa aparaj,0.5
+knowledge,1.1120671641791045
+krishna,1.2505446623093683
+proces,1.627944583238701
+vital to man,0.5
+limitation,2.4984479402325457
+roy,0.802892290355902
+attempted interference therewith,0.5
+proces of law,0.0
+rights,1.6349541930937281
+forcible dispossession,0.5
+fault,0.8125244007183572
+following tests,0.5
+valet,0.2631578947368421
+facts,1.4696673624372698
+crop,1.0811273746496417
+necessary for the person,0.5
+original parties,1.0
+violence,1.524896265560166
+krishna ram mahale,0.5
+basi,2.0752712086391383
+men,12.280652027254101
+trespasser in the process,0.5
+exact dimension,0.6666666666666666
+kallappa rama londa v shivappa,0.5
+accords,0.28571428571428575
+effective possession of a person,0.5
+strait,0.3442622950819672
+intermittent acts of trespass,0.5
+occupation of the property,0.6666666666666666
+lordship,1.0416666666666667
+latter,0.7109238669791096
+mrs,0.4085714285714286
+salmond states,0.5
+way of abundant caution,2.0
+case of munshi ram,0.0
+eur,0.8722955861070912
+trespass,1.6722222222222223
+maintainability,1.0256410256410258
+basis,1.953226441078104
+lawful possession,0.38095238095238093
+jagat,0.28651685393258425
+other legal systems,0.5
+course,1.6545957498716626
+settled possession of property,0.5
+v kc,0.5
+flimsy character,0.5
+lakshmi,0.942857142857143
+many other legal systems,0.5
+petitorium,0.5
+pradesh,4.365853658536586
+for the person,0.44897959183673464
+ordinary rights of ownership,0.5
+ground,1.4186722903211633
+forcible possession,2.25
+jind,0.8500000000000001
+settled possession of the property belonging,0.5
+subject - matter of the suit,0.0
+impugned judgment,2.0927152317880795
+liberty,0.7860465116279071
+salmond state,0.5
+other legal system,0.5
+matter,2.8088923076923082
+proof,1.0648141580366008
+concept,0.9402138540213855
+civil law,0.4347826086956522
+tenant,4.821212121212122
+bhagwanda,0.6666666666666666
+owner of the property,1.1428571428571428
+evidence of title,0.5
+term,3.6255105640901575
+omne,0.3203520352035203
+v allahabad development authority,0.5
+last of the cases,0.5
+to an assault,0.3333333333333333
+view,2.441100058469462
+aid,5.498621453008654
+disputed questions,1.2857142857142858
+bench of allahabad high court,1.6
+enjoyment,0.631578947368421
+relief of ad - interim injunction,0.0
+declaration of title,1.75
+relief,1.4748116760828625
+suit on the basis,0.6666666666666666
+use,5.06801278974993
+mahale,0.5
+merit,1.2419290263876248
+severals,0.2619047619047619
+to man,0.8810800698428536
+use of unreasonable force,0.5
+enter,1.6008846348418986
+superior title,0.5
+resistance,0.41131105398457585
+own superior title,0.5
+as declaration of title,0.5
+sake,0.5262975778546712
+recovery,3.9892473118279574
+chaos,0.31451612903225806
+result,1.3356630184144715
+animus possidendi,0.5
+magic,0.19510268562401265
+rao,0.9220020325203252
+relationship,1.1804123711340206
+record,2.5393414390845273
+strait - jacket,0.0
+narayan roy,0.5
+division bench of the high court,1.6825396825396826
+due course,1.0648148148148149
+possessioni,1.0
+midnapur zamindary co ltd v kumar,0.5
+world,0.7808471033398942
+hath possession hath right,0.5
+disputed land,0.75
+averment,1.7
+better right,0.3333333333333333
+constituted legal proceedings,0.5
+actual physical possession,1.0
+airkant,1.0
+maintainability of a suit,0.5
+respect,2.6704963235294117
+enjoyment of the suit schedule property,0.5
+abundant caution,2.5
+fact,3.6284951019474962
+phrase,0.7269338303821062
+owner,2.9502416709822197
+learned counsel,3.703333333333333
+ordinary right of ownership,0.0
+manukamanuka,1.1428571428571428
+jagdish,1.2222222222222223
+demarcation of the boundaries,1.0
+charm,0.3590425531914894
+correct position of law,0.5
+anr,1.1271033322299457
+interests,1.0562317935913441
+owner by the trespasser,0.5
+caution,1.0777000777000778
+kumar,2.028839704896043
+bhagwati,3.0
+presumption,1.06
+unfair mean,0.6666666666666666
+duly,1.13589803737587
+relationships,0.26299694189602446
+system,1.1230229504341178
+attack on a man,0.5
+nair service society,0.5
+punjab,1.0438169425511197
+sake of convenience,1.1
+protection,1.1604395604395603
+actual possession,1.0
+principle,1.9620890732001848
+possessorium,0.5
+party,2.2250894654439723
+good title of right,0.5
+puran singh,1.3333333333333333
+nagar palika,0.6666666666666666
+available for the protection of ownership,0.5
+much show,0.5
+delhi,2.6089285714285717
+protection of possession,0.5
+sri,1.1524741891017525
+ius,0.4881686894026714
+law for re-acquiring possession,0.0
+proposition,0.6371087928464977
+better title,0.6666666666666666
+salmond states in jurisprudence,0.5
+period of time,0.5706521739130435
+of the cases,0.7619047619047619
+proprietary suit,0.5
+defendant - appellant claiming,0.0
+act of possession,0.5
+attribute of  settled possession,0.0
+jagdish singh,0.75
+iioram,0.5
+approval,1.4085456739300164
+v state,2.4603773584905664
+ramesh,1.5798816568047334
+decree,3.732408834103749
+division bench,3.965217391304348
+ritualistic formula,0.5
+date,6.195616975795285
+jacket,0.3988095238095238
+loft s maxim possession contra omne,0.0
+reference,2.1755848210276256
+administration,1.061072796934866
+for the protection of ownership,0.5
+society,2.1182859399684046
+in nature,0.7593052109181141
+lessee,1.515151515151515
+respondent,4.757894736842104
+safeguarding,0.5833333333333334
+prior peaceful,0.5
+quality of settled possession,0.5
+correct position,0.4571428571428572
+schedule,2.9453067257945307
+edge,1.0883781551448468
+chockalingam,1.0
+circumstances of each case,1.0833333333333333
+dasnam,1.0
+possession of the plaintiff - respondent,0.0
+system of law,0.30000000000000004
+question,2.980312372067635
+legal remedies,0.7857142857142857
+chain of decisions,0.5
+- term interest,0.0
+full bench of allahabad high court,1.3333333333333333
+hath,0.5233954451345755
+unreasonable force,0.5
+decision of the court,1.1666666666666667
+necessary force,1.0
+manumhmanumh,1.4
+decree for possession,0.5
+safeguarding of possession,0.5
+scmanu,7.940520446096654
+tenancy,3.0545454545454542
+manuupmanuup,1.411764705882353
+statement,2.5393160135035964
+usual test,0.5
+long period of time,0.4129032258064516
+settled possession,7.5
+shobha,0.8
+toward,1.0255939365170768
+praeter,0.5
+exact dimensions,0.6666666666666666
+ramesh chand ardawatiya v anil,0.5
+entry,4.707210447678601
+title in either party,0.5
+obligatory for the lessor,0.5
+disputed piece,1.0
+high,5.367119186841496
+possession of the trespasser,1.0
+possessory,1.0
+assault,1.0656614201609997
+force,1.6009408121948314
+appeal feeling,0.5
+property,2.9368986630013745
+states,1.5120646995827023
+of title,1.2564102564102564
+suit,2.485274378207659
+recovery of the thing,0.5
+defendant,3.7706855791962175
+purpose,2.519170317925504
+law,3.538923411654744
+trial court,3.854545454545455
+interference,0.5733527484528578
+english,0.9836154262307752
+assumption,0.47735650342285413
+rattan,0.8333333333333334
+time,2.4764180952862667
+cases,1.9728229418951067
+division,1.7657319129617017
+commit trespas,0.5
+plaintiff,2.177926421404682
+fakirbhai bhagwandas,0.5
+general law applicable to a lessor,0.5
+devoid of any merit,0.875
+knowledge of the owner,0.5
+fakirbhai bhagwanda,0.5
+fast rule,0.5798816568047337
+either expres,1.4166666666666667
+twelfth,0.38095238095238093
+lrs,0.46643518518518523
+previous possession,0.6666666666666666
+constituted legal proceeding,0.5
+judge decision,0.5
+good title,1.0
+disputed question of title,0.0
+intermittent act of trespass,0.0
+facts of that case,1.0
+fact that the plaintiff,1.0
+grant,1.7314487632508835
+titles,0.44776119402985076
+either express,1.4166666666666667
+londa,0.5172413793103449
+right,3.07483248288682
+commit trespass,0.5
+due proces of law,0.0
+shape,0.4645522388059702
+circumstance of that case,0.0
+upmanu,0.9411764705882354
+judge decision in kallappa rama londa v shivappa,0.5
+lallu,0.4444444444444444
+few relationships,0.5
+absence,1.092363454568179
+counsel,2.2246780703440323
+servant acting,0.6666666666666666
+predecessor,0.9857142857142858
+temporary injunction wherein,0.5
+india,2.7684068260703585
+discretionary relief of ad - interim injunction,0.0
+authorities,1.266131845134287
+dispossession by the defendant,0.5
+law possession,0.5
+regard to the fact,1.5862068965517242
+rules,3.130914366958792
+jurisprudence,1.088888888888889
+trespas,1.6722222222222223
+absence of proof,0.75
+division bench decision,0.5
+maxim,0.9230402066486973
+process of dispossession,0.5
+prior possessor by use,0.5
+injunction in view,0.5
+peaceful possession,1.4
+more force,0.34782608695652173
+enough time,0.3285024154589372
+contending party,0.0
+several,0.9859704427347493
+possessory suit,0.5
+submissions,0.5235745614035088
+title to the suit,2.0
+prmanu,1.1333333333333333
+origin,1.2344828910849253
+intention,1.7585585585585588
+ltd,2.382356477306883
+attack,1.0505713076597545
+dispute,2.402137592137592
+indian law,1.0
+submission,1.0913871684001404
+evidence,3.6676405172088815
+tantamount to an assault,0.5
+process of law,0.7692307692307692
+same in duly,0.5
+naga,1.0600995179598818
+own cause,0.4444444444444444
+sri dasnam naga sanyasi,1.0
+usual tests,0.5
+recourse to a court,0.75
+dasnam naga sanyasi,1.0
+ibid,0.40740740740740744
+rex,0.5938845822566752
+legal title,1.3333333333333333
+case,7.332269420884958
+period,1.9480170842427122
+disputed question,1.5
+chao,0.5981416957026714
+midnapur,0.5
+v v manickavasagam,0.5
+edition,0.9664589349951868
+therefrom by due process,1.0
+ardawatiya,0.5
+ram,2.11096203538064
+nature of possession,0.5
+land in assumed character,0.5
+true owner,7.5
+singh,3.7791111111111113
+intermittent,0.7285714285714286
+till date,1.2352941176470589
+quality,1.3318577075098814
+english law possession,0.5
+reference to the original parties,1.0
+ordinary right,0.5
+service,4.257395095954566
+person whatever,1.0
+such entry,0.5
+element,0.7062328407033122
+subject - matter,0.0
+v state of uttar,1.4736842105263157
+rule,5.04
+possession of the rightful owner,0.5
+advocate,1.0791341991341994
+airbom,1.0
+proceedings,1.7670925223666287
+v maganlal haribhai,0.5
+mohammad,0.9375
+puran,1.2
+resistance to an intrusion,0.5
+supra,2.246342614440774
+bench,2.5793391667754992
+plaintiff - respondent,0.0
+respect to all persons,0.5
+legal representative v rao,0.5
+possession against the owner,0.5
+accord with the jurisprudential thought,0.0
+immediate interests,0.5
+chand,1.4868766404199476
+single judge decision,0.5
+order for possession,0.5
+property belonging,0.5
+case of culturable land,0.5
+course subject,0.5
+aparaj,0.5
+allahabad high court,1.7037037037037037
+- term interests of society,0.0
+animu,0.75
+position of law,1.103448275862069
+attempt,0.7943782192788815
+process,1.6274942048088725
+trespasser,4.0
+allahabad,2.3404255319148937
+attack on something,0.5
+boundary,0.7236842105263159
+therewith,0.6394230769230769
+person in possession,1.5
+yeshwant,0.6666666666666666
+injunction,2.1512605042016806
+delhi administration,1.2727272727272727
+intention of the law,0.75
+nair,0.5064935064935066
+in duly,1.6666666666666667
+title,1.74290600761189
+stray act,0.5
+injunction wherein,0.5
+praeter eur cui ius sir possessionis,0.5
+own hand,0.9230769230769229
+conduct of the plaintiff,0.5
+intermittent acts,0.5
+ram rattan,0.5
+question of title,2.0
+stage of grant,0.5
+position,1.549133168619177
+one,4.845669314438648
+- term interests,0.0
+single judge decision in kallappa rama londa v shivappa,0.5
+re-acquiring possession,0.0
+medieval civil law,0.5
+remedy,1.3214024835646458
+selfish,0.2013888888888889
+culturable land,0.5
+nagappa,0.8333333333333334
+construction,2.2504918032786887
+possession of a person,0.5
+human,1.0063526196524266
+airall,1.0476190476190477
+casual act of possession,0.5
+long-term interests,0.0
+attributes of  settled possession,0.0
+disputed questions of title,0.5
+due process of law,0.7777777777777777
+yar mohammad v lakshmi das,0.5
+unfair means,0.6666666666666666
+manuprmanupr,1.1333333333333333
+rights of an owner,0.5
+that failure,0.45000000000000007
+munshi,1.5
+attempted trespass,0.5
+loft,0.4285714285714286
+manickavasagam,0.5
+acts,1.9133929521984454
+anil,1.1751552795031055
+zamindary,0.5
+kallappa rama londa s case,0.0
+munshi ram,2.0
+working,1.1479822756765312
+instate,1.1363636363636362
+right of ownership,0.30000000000000004
+praeter eur cui ius sir possessioni,0.5
+wrongdoer,0.5
+original party,0.0
+palika,1.2
+tantamount,0.5761904761904763
+recourse,0.9157232704402517
+actual physical possession of the property,0.5
+authority,2.4352627108360636
+possidendi,0.5
+judge,2.9012627415183325
+manuscmanusc,7.940520446096654
+right of the possessor,0.5
+john,0.49851778149329673
+conduct,1.5998023165163158
+possession over the suit property,1.0
+discretionary relief,1.0
+maganlal,1.0
+development,2.3145884270578647
+recourse to law,1.5
+occupation,1.1158072696534236
+course of law,1.0
+immediate interest,0.30000000000000004
+reasonable force,1.6666666666666667
+- matter,0.0
+possession of a trespasser,0.5
+maxim possession contra omnes,0.5
+contrasted terms petitorium,0.5
+representative v rao,0.5
+defendant-appellant that the suit,0.0
+for the lessor,0.5
+due process,0.6064690026954178
+real dispute,1.0
+chain,0.6855611957134798
+trial court therefore,1.0
+questions,0.9979150871872632
+suit for declaration,0.6666666666666666
+hand,2.0299623418254717
+possessionis,0.5
+element of animus possidendi,0.5
+iii,1.5614499719992534
+iioram v,0.5
+means,1.3868295182781003
+concealment,0.8333333333333333
+possession,2.808810857389056
+person in actual possession,0.5
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+mhmanu,1.4
+either party,1.55
+decree of the trial court,1.0
+uttar,2.188679245283019
+contending parties,1.0
+effective possession,0.5
+own land,0.3589743589743589
+title over the disputed land,0.5
+disorder,1.8343949044585988
+suit schedule property,0.6666666666666666
+high court,7.7477477477477485
+of the case,0.9430512016718913
+sanyasi,1.25
+acquiesced,2.0
+salmond state in jurisprudence,0.0
+omnes,0.25157232704402516
+state,6.817996007300392
+earlier possessors,0.5
+valid legal title,0.5
+stray act of trespass,0.5
+trial,3.7979448350459712
+oft - quoted case of nair service society,0.0
+possession over the disputed piece,1.0
+kallappa rama londa,1.0
+fakirbhai,0.5
+manu,7.078142071124147
+right of an owner,0.5
+legal remedy,0.6666666666666666
+construction over the piece,1.0
+narayan,0.8111111111111111
+settled possession of the land,0.5
+piece of land,1.0
+land in the possession,0.5
+single,1.6221488419098207
+plaintiff s claim,0.0
+own hands,0.631578947368421
+person in peaceful possession,0.5
+accord,2.1409462447350256
+airsc,1.6909090909090911
+man,6.972395052694935
+nature,1.4149926876444778
+law applicable to a lessor,0.5
+division bench decision in sri dasnam naga sanyasi,0.5
+circumstances of that case,0.6666666666666666
+obligatory,0.7032136105860114
+accords with the jurisprudential thought,0.5
+plaintiff on the ground,0.5
+due course of law,1.0
+law applicable,0.49999999999999994
+something,0.5915378827342709
+state of punjab,1.6956521739130435
+title of right,0.5
+yar,1.2403381642512077
+long-term interests of society,0.0
+bhagwandas,0.6666666666666666
+india person,0.5
+thought,0.7081151153746436
+persons,2.5993381990166555
+assumed character,0.5
+therefrom,0.673076923076923
+thing,1.1131787570209408
+working rule,0.3333333333333333

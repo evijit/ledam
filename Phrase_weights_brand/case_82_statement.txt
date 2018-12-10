@@ -1,0 +1,1206 @@
+courts,2.1216528162511543
+statement of the customer,0.5
+outstanding debit balance of rs,0.5
+himadri,0.5
+defendant with court cost,0.5
+veracity of the aforesaid photographs,0.5
+extracts,0.48128342245989303
+request of aafl,0.5
+insofar,0.9295774647887324
+deveraja,0.5
+certificate of the outstanding amount,0.5
+unjust enrichment,0.8
+contractual agreement,0.7500000000000001
+code,2.880559796437659
+credits,0.8780487804878049
+expiry,2.2888888888888888
+exist,1.4287788628534008
+frame,1.023976722714937
+value of total value,0.5
+validity,1.521010638297872
+mind,1.1559066143122394
+signature,1.1400966183574879
+demur,1.2030075187969924
+specific clause,1.1666666666666667
+reliefs,1.308641975308642
+schedule guarantee amount,0.5
+following interim order,0.75
+unconditional guarantee,1.0
+reimbursement thereof,0.5
+vide letter of invocation,0.5
+terms,2.390350840909655
+basis of a demand  claim,0.0
+interim order,2.9166666666666665
+instance,0.9469803370786518
+sir,1.1712841173013164
+inter,3.683850287482992
+truthfulnes,0.6000000000000001
+los,1.8125523261338943
+sumac,1.0
+invoked forthwith,0.5
+final outcome of the civil suit,0.5
+debit balance,0.5
+injunction on commercial dealings,0.5
+case of the appellant,1.1714285714285715
+failure,0.7827962142086977
+interest,2.74353772015385
+case respondent,0.5
+contractual conditions,0.5
+counsel for the appellant states,0.5
+court,12.24425115501509
+grade payment of such demand,0.5
+vehement reliance,0.5
+madras,2.836734693877551
+catena of decisions,1.0833333333333333
+consonance,1.5
+outstanding,1.0199556541019956
+till disposal,0.6666666666666666
+road,1.0764686576960945
+cases payment,0.5
+defense,0.3739398612181958
+fraud exists,0.5
+fabric,0.8546739984289081
+single judge,4.011627906976744
+following conclusion,0.7200000000000001
+objection,1.68120480131216
+person,4.291511329454258
+outcome,0.6303030303030303
+contention of the learned counsel,1.0625
+perpetration of abject dishonesty,0.5
+appellant on express instructions,0.5
+beneficiary seeks,1.0
+allegations,1.8333333333333335
+way,1.7812722068664852
+doctored document,0.5
+independent,1.166051912568306
+ors,2.8612718198296623
+forthwith,0.625
+commission of a flagrant fraud,1.0
+legal effects of the contractual agreement,0.5
+part,5.294464509893076
+relying,0.6954375212802179
+civil judge,3.2142857142857144
+thoughtful consideration to the law,0.5
+such security,0.6666666666666666
+appellant state,0.6666666666666666
+such demand,1.0
+seal of the guarantor,0.5
+gurgaon,1.3333333333333333
+thoughtful consideration,0.8333333333333334
+coal,0.78125
+despatch,3.857142857142857
+encashment of an unconditional bank guarantee,1.0
+oil,0.6595019659239842
+liability under this bank guarantee,0.5
+clause in the preamble,0.5
+infosystem,0.3076923076923077
+bombay,2.3134020618556703
+dealer,2.712825585229146
+present juncture,1.0
+analysi,0.6883471219855659
+juncture,0.8717948717948718
+debt from the whole seller,0.5
+consonance with the communication,0.5
+contractual obligation,0.66
+number,1.4802651440973922
+high court in arul murugan traders,0.5
+decisions,1.3888475974580996
+subject matter,1.2537313432835822
+funds,3.352010547132498
+decision,2.9514937765898557
+basi of the defence,0.0
+other contracting parties,0.5
+unconditional guarantees,0.5
+hands,1.1725490196078434
+junior division,1.3333333333333333
+prejudice of the applicant,0.5
+consideration from the wholesaler,0.5
+notice etc,0.5
+aforesaid,2.592896174863388
+brief time,0.30000000000000004
+such bank guarantee,0.5
+extracts thereof,0.5
+invoice,1.176923076923077
+defendant till,0.5
+claim,2.817264601856604
+bank guarantee reveal,0.5
+changes,0.8318262938726949
+outstanding debit balance,0.5
+contracting party,2.0
+unconditional commitment,0.5
+instructions,1.8111673678956002
+appeal,3.4125488033856883
+appellate court,3.1458333333333335
+- date of issue,0.0
+single judge of the madras,0.5
+other contracting party,0.5
+good,2.6154941054299674
+breach,1.3366228070175439
+by the whole seller,1.0
+load,2.0086580086580086
+entire underlying transaction,0.5
+legal effect of the contractual agreement,0.0
+mysore,4.733333333333333
+relevant clauses,1.3333333333333333
+payment of the amount,1.3
+applicant  plaintiff,0.0
+hand by an authorized agent,0.5
+serious dispute,1.0
+other appropriate relief,0.5
+proceed of the products,0.0
+way of an injunction,0.5
+month,1.3454861111111112
+year,2.8349484769759212
+lieu,0.5964912280701754
+guarantor,2.2857142857142856
+fabric of trading operation,0.5
+vinitec,1.0
+alia,0.9479866480753792
+seller account,0.5
+proceeds of the products,0.5
+maximum amount of guarantee,0.5
+seller at the invoiced address,0.5
+first instance,0.8333333333333334
+singh consultants,1.0
+sir john donaldson mr,0.5
+obligations,0.9121212121212122
+limited,1.3713554955535188
+original guarantee,0.5
+fresh ltd,0.5
+non-intervention,0.0
+sakkare,0.6666666666666666
+judgment,3.288216560509554
+code of civil procedure,5.5636363636363635
+defendants,2.3554376657824934
+rival parties,2.0
+extension guarantee,0.5
+encashment of the bank guarantee,0.5
+preamble,0.34324942791762014
+time to time,1.0211267605633803
+subject,2.4420366233344897
+consultant,1.786618444846293
+remedies,0.6206451612903225
+xxx xxx,0.8043478260869567
+lakhs,2.046511627906977
+order,5.472481489660944
+loads of apples,0.5
+addres,0.7140043587773987
+injury,1.7199352451433856
+lower sums,0.5
+loss,2.0689655172413794
+favouring ms,0.5
+mere fact that the bank guarantee refer,0.5
+act,12.870263922028107
+relevant factor,0.8663594470046083
+view that fraud,0.5
+bank guarantees,7.0
+rotten,0.25609756097560976
+total value,1.5
+injunctions,1.0
+in accordance with law,1.0046948356807512
+express instruction,0.5
+analysis,0.6606741573033708
+proper allegation of any fraud,0.5
+guarantee,2.2562167724232554
+plaint,3.104295112903434
+defendant s bank,0.0
+karkhane,0.5
+contract between bank,0.5
+pleading,1.1270125223613594
+enforcement,0.7354220499569336
+trader,1.3795986622073577
+parameters,0.8168253968253969
+hands of the appellant,0.75
+apples,0.49551463644948057
+conditions of the guarantee,0.5
+other party,0.8608695652173913
+basic nature of the case,1.0
+payment of schedule amount,0.5
+above terms,0.9375
+electronic,0.8187364493520899
+effect,2.184583388478191
+proper allegation,0.5
+wholesaler,0.30000000000000004
+course of commercial dealings,1.5
+copy,0.8620926631522174
+agent,1.406335913378167
+vegetables,0.41304347826086957
+legal effect of the agreement,0.0
+application for injunction,0.5
+bank guarantee reveals,0.5
+catena,0.5013888888888888
+amount of guarantee,0.5
+delivery,1.3054726368159204
+absolute in nature,0.5
+convenience,0.6501259072729966
+fruit,0.7602602602602603
+facie act,0.6666666666666666
+thereby,0.8226831482645437
+manner,1.4494591333432125
+for all intents,0.37037037037037035
+parties,1.8210828547990157
+irreparable damage,0.30000000000000004
+civil procedure,5.448275862068965
+whatsoever,0.7055702917771883
+- date,0.0
+conclusive evidence,0.5955882352941176
+effect of the contractual agreement,0.0
+whole seller fails,1.0
+section,9.287987283173626
+herein,2.825259515570934
+analysi of the terms,0.0
+that the court,0.7622222222222222
+grade,2.004840489566613
+facie case in favour,0.5
+securities,8.22857142857143
+conditional one,1.3333333333333333
+arbitration nugatory,0.5
+bank guarantee in terms,1.5
+january,0.8699641577060931
+condition,2.259476395625584
+irretrievable nature,0.5
+judgments,1.2355646397547266
+special equities,2.0
+chemicals,0.8728571428571429
+exceptional case,0.8484848484848485
+consequence,0.8726692512593296
+commercial dealing,1.6666666666666667
+further record,0.6666666666666666
+balance of convenience,1.6666666666666667
+contracting parties,0.5714285714285714
+schedule amount,0.5
+account of despatch,0.5
+mahaboob sharif,1.0
+truthfulnes of defence,0.0
+adani,1.3333333333333333
+favouring m,1.6666666666666667
+place,2.333104345208554
+bona fide contention,0.5
+circumstance,1.429931390219372
+civil,2.126558634963905
+facie acts of fraud,0.5
+relevant claus,1.75
+irrevocably,0.5714285714285714
+adani agrifresh,0.5
+seal,1.5645371577574967
+international,1.4453445246925631
+following manner,0.5555555555555556
+andor sale invoice,0.5
+mean,2.390645692553228
+present case,1.5611814345991561
+extract,0.7823518379594899
+machinery of irrevocable obligations,0.5
+refusal,0.813597918022121
+regard,2.723310344827586
+oriental bank,0.5
+prima facie case,1.625
+knowledge,1.1120671641791045
+conditional bank guarantee from the oriental bank,0.5
+term of the guarantee,0.0
+money,1.6567889044524557
+perusal,0.750733137829912
+rights,1.6349541930937281
+arul,0.39473684210526316
+such other appropriate reliefs,0.5
+that respondent,1.6666666666666667
+heavy,0.5873015873015874
+terms of the bank guarantees,0.5
+agreed,1.2590911606796922
+accordance with law,1.0046948356807512
+value of the goods,1.0
+traders,0.5588235294117647
+issue,2.766776251628934
+irretrievable injustice to the applicant,0.5
+ltd  manu  scmanu  sc,0.0
+ltd  v hcl,0.0
+element of fraud exists,0.5
+arul murugan traders,0.5
+sahakra,0.5
+basi,2.0752712086391383
+form,2.4865961263718424
+plea of fraud,1.6666666666666667
+prima,0.9758788156000698
+writing,1.1746753246753248
+fide contention,0.5
+bank guarantee refer,0.5
+granting,0.8863960113960115
+basis whereof injunction,0.5
+senior,1.989753211141579
+expres,2.3455332782538525
+contract,6.227349970404598
+term of the contract,1.3333333333333333
+guarantees,1.567496723460026
+reliance on a number,0.6666666666666666
+intents,0.32608695652173914
+oriental,0.5137362637362637
+cost,1.2954397451466992
+judgment of this court,2.1029411764705883
+basis,1.953226441078104
+grade payment,0.5
+part thereof,1.6333333333333333
+sums,0.6341911764705883
+debit balance of rs,0.5
+fact of fraud,0.5
+existence of any dispute,0.5
+pretext,0.4131944444444444
+honble court,2.4444444444444446
+documentary credit,1.0
+sub,7.816899313759727
+course,1.6545957498716626
+vehement contention,1.0
+state bank,7.0
+last year,0.4925373134328358
+irrespective,0.7304347826086957
+suit till the disposal,0.5
+cause,1.8431210321626654
+clause of the first bank guarantee,0.0
+company,5.864471879286695
+basi of the controversy,0.0
+grounds,0.9540208829455945
+fertilizer,1.0
+interim injunction,2.0
+other securities,0.6666666666666666
+country,1.2903191103863751
+infosystems,0.3076923076923077
+hence,1.1440732910500353
+usual parameter on the basis whereof injunctions,0.0
+binding,1.2909270216962525
+case of the appellant centers,0.5
+firm,1.7435548272439818
+bank guarantee,10.428571428571429
+factual foundation,0.4
+advantage of the situation,0.75
+ground,1.4186722903211633
+letters,2.0877496159754223
+civil court,3.706666666666667
+damage,1.8281814532316336
+light of the principle,0.8
+effect upon offer,0.5
+hereunder,1.4457142857142857
+transaction,5.884921444603142
+bolivinter,0.5
+official of senior manager,0.5
+xxx,1.8708487084870848
+allegation of the commission,0.0
+chemical,1.5078102189781022
+liberty,0.7860465116279071
+following observations,0.8222222222222223
+case court,0.75
+books towards supply,0.5
+necessity of the aafl,0.5
+matter,2.8088923076923082
+culmination,0.5555555555555556
+seller fails,1.0
+second exception,1.0
+market,5.294198044198044
+arbitration,11.242690058479532
+engineer,3.318922187370092
+disputed position,0.5
+proposition of law,1.0
+machinery,0.9071637426900585
+such bank guarantees,0.5
+term,3.6255105640901575
+supplier,0.5907692307692307
+bank guarantee by way,0.5
+fax copy,0.3333333333333333
+street,3.189100817438692
+second exception to the general rule,0.5
+rmsfc at mysore,0.5
+usual parameter,0.5
+registered letter,0.45000000000000007
+wholesale dealer in fruits,0.5
+view,2.441100058469462
+appellants,7.701086956521739
+liability,2.532836248924577
+expiry of the period,1.2222222222222223
+hands of m  s,0.0
+opinion,1.4960606342789635
+relief,1.4748116760828625
+prima facie case in favour,0.5
+rmsfc,8.0
+thanking,0.8771929824561404
+more caution,0.3333333333333333
+fresh,1.0502247075371367
+pleadings,1.3125
+nugatory,1.0
+effects of the agreement,0.5
+payment in lieu,1.0
+lieu thereof,1.6
+behalf,1.9888053603529987
+upcof ltd,1.5
+very foundation,1.05
+facie act of fraud,0.0
+deveraja market,0.5
+fraud of the beneficiary,1.0
+result,1.3356630184144715
+demand to the aafl,0.5
+record,2.5393414390845273
+procedure,2.552771605064117
+singh consultant,1.0
+defence,1.3606588776096535
+concerned with the injunction,0.5
+whole seller account,0.5
+rmsfc in the first instance,0.5
+confirmed letter of credit,0.5
+refining,0.30000000000000004
+mahaboob,1.0
+lieu of fruits,0.5
+load of apples,0.0
+support,0.8630946786249609
+supplier of fruit,0.5
+other security,0.0
+parameter,0.7630669107179174
+trading operation,0.5
+case of fraud,1.0
+mere fact,0.6
+allegation of any fraud,0.5
+aforesaid bank guarantee,0.5
+conclusions,0.8522069292833413
+respect,2.6704963235294117
+instruction from the appellant,0.0
+fenner,0.5
+constitution of whole seller,0.5
+right of notice etc,0.5
+total value of goods,0.5
+favour of injunction,0.5
+electronics,0.4095371669004208
+other proceeding,1.4545454545454546
+such other appropriate relief,0.5
+injunction of an unconditional bank guarantee,1.0
+fact,3.6284951019474962
+payable in lieu thereof,0.5
+performance bond,0.5
+legal effect,1.0
+express,2.3455332782538525
+learned counsel,3.703333333333333
+seller failure,0.5
+irretrievable injury,1.3333333333333333
+invocation of bank guarantees,0.5
+that the courts,0.55
+rms,2.219435857805255
+appellant centers,0.5
+grant of interim injunction,0.6666666666666666
+bank in the guarantees,0.5
+sd- authorised signatory seal,0.0
+anr,1.1271033322299457
+proceedings against the appellant,1.0
+bank guarantee from the oriental bank,0.5
+clauses,1.5486111111111112
+performance by the whole seller,0.5
+caution,1.0777000777000778
+transport,1.8361522198731504
+enrichment,0.4210526315789474
+sugar,5.734610417563496
+vinitec electronics,1.0
+demand,1.5671679197994988
+thereto,1.0358342665173572
+loads,0.2275862068965517
+above communication,0.75
+supply of product,0.5
+hand of m  s,0.0
+fullest liberty under the guarantee deed,0.5
+disposal of the suit,1.1666666666666667
+state sugar corporation v,1.0
+fraud,2.7602996254681647
+such amount,1.2380952380952381
+such lower sum,0.5
+anesarui,0.5
+system,1.1230229504341178
+frame of the suit,0.5
+necessity,0.7072538860103627
+criminal proceedings against the appellant,0.6666666666666666
+conditional bank guarantee,4.0
+outstanding debt,0.3333333333333333
+breach of contract,1.2857142857142858
+enforcement of bank guarantee,1.0
+fraud of an egregious nature,1.0
+photographs,0.8524590163934426
+amount under the guarantee,0.0
+light,0.8816192372754331
+documentary,0.6730769230769231
+argument for the respondent,0.5
+order of the allahabad high court,0.5
+irreparable loss,1.0
+aforesaid demand in terms,0.5
+further undertake,0.5
+next question,0.6190476190476191
+above - mentioned writ petition,0.0
+most cases payment of money,0.5
+indefinite allegation,0.5
+principle,1.9620890732001848
+amount sir,0.0
+party,2.2250894654439723
+whereof,1.2790697674418605
+maximum amount,0.5
+anything,0.9132309941520469
+state sugar corpn,0.5
+engg,0.4989874815905744
+total value of the goods,0.5
+payable by the whole seller,0.5
+parameter on the basis whereof injunctions,0.0
+proposition,0.6371087928464977
+culmination of the proceedings,1.0
+factor,1.2878742338904643
+right of objection,0.0
+settlement,1.6881394467601363
+international ltd,0.9166666666666666
+justice,2.292557084574302
+wherefore,0.4266666666666667
+usual parameters,0.5
+truthfulness,0.6000000000000001
+therein,1.5503424657534246
+federation ltd  v,0.0
+criminal proceedings,2.6818181818181817
+egregious nature,2.0
+lower sum,0.5
+rashtriya,1.25
+own wrong at the cost,0.5
+invocation of the bank guarantees,1.0
+sixty,0.9792960662525879
+positions,0.6913299663299662
+request,1.1474439594584596
+limited v fenner,0.5
+offer,2.188208616780045
+defendant for permanent injunction,0.0
+letter of credit,1.0
+full force,0.47727272727272724
+requirement in law,0.5
+right of any objection,0.0
+decree,3.732408834103749
+from the extracts thereof,0.5
+legal effects,1.0
+date,6.195616975795285
+consent,1.224924012158055
+court on behalf,0.75
+mahatama gandhi sahakra sakkare karkhane,0.5
+exception to the general rule,1.0
+centers,0.5012531328320802
+foundation,0.770509435807177
+reference,2.1755848210276256
+dealings,0.78
+understanding,0.8257450331125827
+more caution in the issuance,0.5
+guaranteed amount,0.5
+existence,0.731202675709574
+rupees,2.311111111111111
+date of issue,1.2857142857142858
+in nature,0.7593052109181141
+basis of the defence,0.5
+bank,9.40770083102493
+hearing,0.9644508209787979
+respondent,4.757894736842104
+aforesaid photograph,0.5
+addition to the relying,0.5
+exists,0.6541319337244006
+appellant center,0.5
+schedule,2.9453067257945307
+final outcome,0.8
+accordance,1.4069045211613462
+condition of the guarantee,0.0
+relief in order,0.5
+default,0.7094574436346588
+apple,0.535489157841654
+sale,3.3662581620085734
+enforcement of a bank guarantee,0.5
+question,2.980312372067635
+vinoba,0.5
+principles,1.3198511166253102
+independent contract between bank,0.5
+extension,0.7526908023483366
+serious question,0.47058823529411764
+consonance with law,0.5
+corpn,1.3333333333333333
+documentary credits,0.5
+rashtriya chemical,0.5
+clauses of the first bank guarantee,0.5
+execution,1.3041894353369763
+demand for payment,0.5
+obligations with the appellant,0.5
+hereby,0.9937897922972551
+exceptional case court,0.5
+fullest liberty,0.5
+gandhi,0.9090909090909092
+rescue with injunctions,0.5
+part thereof under this bank guarantee,0.5
+scmanu,7.940520446096654
+adverse effect,0.5555555555555556
+amounts,0.9789856139834046
+word,2.065873981084096
+rw section,3.0
+writ,2.8882378560889794
+honble,2.4444444444444446
+step,0.8867024753460084
+special equity,0.0
+beneficiary,1.8333333333333333
+months,1.1938163721148947
+amount,3.179688593072295
+irrevocable letter of credit,1.0
+february,0.8575630252100839
+august,0.977116704805492
+statement,2.5393160135035964
+commerce,2.221288515406162
+order xxxix rule,1.0
+himadri chemicals industry,0.0
+shariff,0.25
+tnmanu,1.7
+agreement,3.450434632433366
+principles for grant,0.5
+thirty,0.8259303721488596
+effect of the agreement,0.0
+reimbursement,2.066666666666667
+effects of the contractual agreement,0.5
+enforcement of bank guarantees,0.5
+irrevocable one,1.0
+high,5.367119186841496
+payment,2.059553716565686
+brother,1.4566585956416465
+court cost,0.2857142857142857
+account,2.5754891049671977
+course of hearing,1.0476190476190477
+aafl,4.736842105263158
+event,1.4310854436179261
+vide letter,2.142857142857143
+vinoba road,0.5
+force,1.6009408121948314
+mere fact that the bank guarantee refers,0.5
+facie acts,0.5
+equity,1.3214285714285714
+states,1.5120646995827023
+private ltd v hcl,1.0
+whole case of the appellant centers,0.5
+prayer,0.6969296987087519
+view of the position,0.5
+suit,2.485274378207659
+absolute rule,0.37037037037037035
+sufficient for all intents,0.5
+defendant,3.7706855791962175
+purpose,2.519170317925504
+balance,0.9863636363636363
+karnataka,3.8596491228070176
+proceeds,1.083011583011583
+law,3.538923411654744
+change,1.2214862766571903
+engineering,1.3567493112947657
+opinion that these observations,0.5
+head,1.5827778446537666
+dispute between the beneficiary,0.5
+truthfulness of defence,0.5
+senior civil judge,1.0
+time,2.4764180952862667
+nos,1.2635492554198444
+observation,0.7625074854374218
+division,1.7657319129617017
+cases,1.9728229418951067
+lakhs thirty,1.0
+principle for grant,0.0
+plaintiff,2.177926421404682
+dishonesty,0.7857142857142857
+flagrant fraud by m  s,0.0
+allegation,1.834319526627219
+above judgment,1.8461538461538463
+consideration to the law,0.5
+issuance,1.05379513633014
+support of the allegation,0.6666666666666666
+bona fide contention between the parties,0.5
+good prima,1.0
+demand  claim for the payment,0.0
+necessary for ms,0.5
+sum of rs,2.125
+purchaser,2.017857142857143
+disputed positions,0.5
+for m,0.8686836907695802
+event that the whole seller fails,0.5
+chase,3.074910439501762
+demand from the guarantor,0.5
+xxxix,0.8571428571428571
+consignment order,0.5
+hereafter possess,0.5
+installments,1.9444444444444444
+senior manager,1.3333333333333333
+following prayer,0.75
+court of karnataka,1.826086956521739
+satisfied that the court,0.5
+grant,1.7314487632508835
+contractual obligations with the appellant,0.5
+express instructions,0.5
+principle agreement,0.5
+bank s credit,0.0
+basic nature,0.6666666666666666
+irretrievable harm,1.0
+addition,1.5588539142412572
+significant factor,0.5555555555555556
+right,3.07483248288682
+difference in the position,0.5
+hereinafter,0.7670609645131939
+other appropriate reliefs,0.5
+perpetration,0.6666666666666666
+operation of irrevocable documentary credit,0.5
+dealing,1.3134282178217822
+fruits,0.6605113636363636
+order of injunction,1.2222222222222223
+to the bank,1.4603174603174602
+vehement reliance on a number,0.5
+high court of karnataka,1.826086956521739
+certificate,2.732600732600732
+connection,1.050640279394645
+terms of the contract,2.411764705882353
+exception,1.1036946087733006
+many judgments,0.6666666666666666
+defendants for permanent injunction,0.5
+tar,2.677076326243043
+relevant clause of the first bank guarantee,0.0
+contractual obligation with the appellant,0.0
+counsel,2.2246780703440323
+application,2.3322596088086445
+truthfulness of the defence,0.5
+rights of any objection,0.5
+india,2.7684068260703585
+twenty,0.7332834704562453
+plea of any special equities,0.5
+commission,4.703619179345321
+defendant subject,0.5
+guarantor on demand,0.5
+fact that the bank guarantee refers,0.5
+execution of this guarantee deed,0.5
+aforesaid photographs,0.5
+learned brother,1.7692307692307692
+commitment,0.382608695652174
+india ltd,1.8076923076923077
+payable by the guarantor on demand,0.5
+unconditional one,0.5
+vehement contention of the learned counsel,1.0
+design,1.6729193584375017
+reason of whole seller failure,0.5
+credit,2.9526050420168066
+realization,0.6944444444444444
+uncorroborated statement of the customer,0.5
+confirmed letter,0.5
+civil suit,0.7413793103448276
+trial court,3.854545454545455
+permissible in accordance with law,0.6666666666666666
+outstanding amount,0.5
+equities in the form,0.5
+defence of respondent,1.5
+submissions,0.5235745614035088
+above - said suit,0.0
+beneficiary seek,1.0
+above payment,0.75
+rupee,2.2291666666666665
+ltd,2.382356477306883
+dispute,2.402137592137592
+disposal,1.1180555555555556
+submission,1.0913871684001404
+evidence,3.6676405172088815
+document,1.401100265092073
+industry,8.208106219426973
+shivarampet,0.5
+adani agrifresh limited sd- authorized signatory,0.0
+invocation whereof,0.5
+conditions,1.9988092071092867
+careful analysi,0.5
+reliance,1.400763358778626
+contractual condition,0.5
+by the guarantor on demand,0.5
+mahatama,0.5
+sd-,0.0
+other mean,0.4927536231884058
+contractual agreement with m  s,0.0
+specific clause in the preamble,0.5
+instance of m  s,0.0
+instructions from the appellant,0.5
+circumstance of the case,0.5
+veracity,0.6470588235294118
+effects,0.944781359719119
+acts of fraud,0.6666666666666666
+case,7.332269420884958
+difference,0.8774847235514982
+allegation with regard,0.3333333333333333
+period,1.9480170842427122
+supply,2.0557395143487858
+rival party,0.0
+defendant bank,0.5
+vinitec electronic,1.0
+emphasi,0.9191619047619048
+aforesaid demand,1.0
+scc,1.941872465904902
+debit,2.4000000000000004
+serious questions,0.25
+consequent,0.9615838143114256
+fraud exist,0.5
+khehar,1.0
+constitution,3.204842342342342
+letter,2.707240080105903
+whole seller fail,1.5
+insofar as the present controversy,0.5
+fide contention between the parties,0.5
+whole seller,5.0
+realization of a bank guarantee,0.5
+despatch of goods,0.5
+previous consent,1.0
+same forthwith,0.5
+singh,3.7791111111111113
+demand to the guarantor,0.5
+wrong,1.2933182103578877
+purposes,1.4391216613438835
+himadri chemicals industries,0.5
+view of paragraph,0.5
+guarantee deed,1.0
+irrevocable obligations,0.5
+aforesaid communication,0.75
+instruction,1.8197943962910703
+till disposal of the suit,0.6666666666666666
+independent contract,0.5
+many judgment of this court,0.0
+basis of the principle,0.6666666666666666
+court of law,0.673963133640553
+behalf of ms,0.6666666666666666
+evil design,0.5
+element,0.7062328407033122
+contention,1.666391070690368
+address,0.7129538279400157
+inter alia,1.3280423280423281
+rescue,0.4424567680381634
+rule,5.04
+irrevocable obligation,0.5
+uncorroborated statement,0.5
+center,0.9521598338119387
+proceedings,1.7670925223666287
+favour,1.653145208700764
+court between plaintiff,0.5
+lucknow,3.4545454545454546
+exception to this rule,0.5
+act of fraud,0.6666666666666666
+irrevocable documentary credits,0.5
+fact that the bank guarantee refer,0.5
+instant eventuality,0.5
+transport agent,0.5
+following observation,0.8039215686274509
+reference to the contractual obligations,0.5
+truthfulnes of the defence,0.0
+with the injunction,0.5
+installment,1.9047619047619049
+supra,2.246342614440774
+unfair advantage,0.5
+amounts under the guarantee,0.5
+defendant from the date,0.5
+thereupon,1.4857142857142858
+careful analysis,0.5
+specific stance of the appellant,0.5
+abject dishonesty,0.5
+heavy engg,0.5
+judge of the madras,0.8
+irretrievable injustice,3.5
+settlement of amount sir,0.0
+many judgment,0.6666666666666666
+obligation with the appellant,0.0
+delivery by the transport agent,0.5
+anesarui street,0.5
+leave,1.0147842365477848
+rashtriya chemicals,0.5
+irrevocable documentary credit,1.0
+stance,1.887062937062937
+costs,0.8167395522604189
+applicant,0.7861822513400833
+fertilizers,0.6666666666666666
+demand  claim,0.0
+cooperative federation ltd v,1.0
+indefinite allegations,0.5
+deed of guarantee,1.0
+apple load,0.5
+allahabad high court,1.7037037037037037
+cooperative,1.4295572167912591
+that ms,0.46544980443285533
+permanent injunction,1.5555555555555556
+invoiced address,0.5
+goods,4.7578125
+remittance,3.3333333333333335
+-ms,0.0
+submission of the learned counsel,1.0769230769230769
+allahabad,2.3404255319148937
+operation of the irrevocable letter,0.5
+such lower sums,0.5
+shivarampet branch,0.5
+banking system,0.30000000000000004
+notice,2.3300025999395686
+consignment,1.25
+credit guarantee,0.6666666666666666
+above term,0.9375
+value of goods,1.1666666666666667
+special equity in the form,0.0
+irrespective of the disputed positions,0.5
+many judgments of this court,0.5
+guarantee on the pretext,0.5
+sound banking system,0.5
+unconditional bank guarantee,3.5
+mahaboob shariff,0.5
+pleading in the present case,0.0
+liberty under the guarantee deed,0.5
+remittance of the sums,0.5
+injunction,2.1512605042016806
+credit guarantees,0.3333333333333333
+international ltd manuscmanusc,0.5
+agrifresh,1.0
+whole case,0.4444444444444444
+private,1.3048022500781278
+for all intent,0.5555555555555556
+fraud in connection,0.6666666666666666
+following conclusions,1.1111111111111112
+consequent upon the aforesaid demand,0.5
+amount in installments,0.5
+present controversy,1.3333333333333333
+hand of the appellant,0.0
+proprietor,1.0303030303030303
+communication,1.013409067330636
+outcome of the civil suit,0.5
+reason,2.6381270903010035
+engineers,1.7887874837027378
+commercial dealings,1.6666666666666667
+operation,1.0959893294085181
+irreparable injury,1.0
+application by the bank,0.5
+outstanding certificate,1.5
+lakh,1.3647388059701493
+first exception,0.75
+underlying transaction,1.0
+position,1.549133168619177
+interest at the rate,2.3
+one,4.845669314438648
+bond,0.7394882659713169
+grantrefusal,0.5
+petition,5.3436539306104525
+remedy,1.3214024835646458
+usual parameters on the basis whereof injunctions,0.5
+hcl,0.7374631268436579
+allegations of the commission,0.6666666666666666
+sce,0.7309264549174823
+other means,0.49230769230769234
+intervention,0.6975694444444444
+subject matter of challenge,1.25
+separate contract,1.0
+haryana,2.935064935064935
+consideration,1.9110153789142115
+federation,0.6243243243243244
+cases payment of money,0.5
+claim of plaintiff,0.5
+paragraph,1.2930197483150305
+consignment andor sale order,0.5
+fund,2.9945256868353374
+most cases payment,0.5
+wholesale dealer,0.5
+words,1.6384367086179112
+applicant  plaintiff under order xxxix rule,0.0
+date of expiry,1.1666666666666667
+injustice to the applicant,0.5
+plea,1.4430487701432178
+conclusion that the suit,0.6666666666666666
+value,1.7137907830478438
+clause,3.526455026455027
+contracting,0.7857142857142857
+ms rmsfc,8.0
+adani agri,1.5
+air,2.0589664272145285
+customer,1.993717277486911
+difference at any time,0.6666666666666666
+acts,1.9133929521984454
+v fenner,0.5
+relevant clauses of the first bank guarantee,0.5
+invocation of such bank guarantees,0.5
+apparent from the extracts thereof,0.5
+fax,0.630097616570041
+in state bank of mysore,0.5
+donaldson,0.22499999999999998
+receipt,1.5471923536439667
+direct respondent no,0.6666666666666666
+caution in the issuance,0.5
+respondent nos,2.5185185185185186
+available in state bank of mysore,0.5
+rights of objection,0.5
+photograph,1.2280701754385965
+analysis of the terms,0.5
+equity in the form,0.0
+such other appropriate reliefs as the honble court,0.5
+purpose of bank guarantees,0.5
+concerned bank guarantee,0.5
+special equities in the form,0.5
+trading,1.4943609022556392
+bank under the guarantees,0.5
+opinion that these observation,0.5
+bank s knowledge,0.0
+national heavy engg,0.5
+additional senior civil judge,0.5
+challenge,1.2204566274399267
+recourse,0.9157232704402517
+unconditionally,0.4666666666666667
+scep,0.3909774436090225
+exceptions to this rule,0.5
+manhattan,0.24719101123595508
+for m  s,0.0
+judge,2.9012627415183325
+manuscmanusc,7.940520446096654
+un - conditional bank guarantee,0.0
+other appropriate reliefs as the honble court,0.5
+basis whereof injunctions,0.5
+flagrant fraud,1.0
+claim of consideration,0.5
+john,0.49851778149329673
+bank guarantee refers,0.5
+concerned bank guarantees,0.5
+settlement talk,3.6666666666666665
+hereafter posses,0.5
+bse,3.467307692307692
+above discussion,0.9333333333333333
+argument,0.9504580388560493
+aforesaid order,1.2857142857142858
+exceptions,0.6478185993111366
+corporation,3.6427750743444176
+guarantor hereby,1.0
+- intervention,0.0
+state bank of mysore,12.0
+perusal of the terms,0.5
+own words,0.34782608695652173
+letters of credit,0.5
+term of the bank guarantees,0.0
+basis of the controversy,0.5
+dealer in fruits,0.5
+conclusion,1.3883437407077015
+terms irrespective,1.0
+careful analysi of the terms,0.0
+nature of the case,1.0
+facie case,1.75
+advantage,1.1441364159430905
+first bank guarantee,0.5
+security,1.5014864864864865
+performance,1.4794327394994442
+case courts,0.6666666666666666
+parameters on the basis whereof injunctions,0.5
+counsel for the appellant,1.9621212121212122
+irrevocable letter,1.0
+products,1.6079404466501241
+questions,0.9979150871872632
+murugan,1.3333333333333333
+prejudice to any other securities,0.5
+invoiced addres,0.5
+currency,0.9166666666666669
+circumstances of the case,1.3373493975903614
+interest of justice,1.2
+national,1.5126860273884035
+arul murugan trader,0.5
+banks,6.73024
+hand,2.0299623418254717
+own wrong,0.45000000000000007
+proceed,2.930994380987473
+branch,2.8500288406075756
+sharif,0.40909090909090906
+iii,1.5614499719992534
+reimbursement thereof to the aafl,0.5
+means,1.3868295182781003
+injustice between the parties,0.5
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+prejudice,0.880907124598545
+either party,1.55
+dispute of whatsoever nature,0.5
+madra,2.836734693877551
+open to the bank,0.6666666666666666
+basi of the principle,0.0
+obligation,1.1071428571428574
+exceptional case courts,0.5
+judgments of this court,1.4666666666666666
+terms irrespective of any dispute,1.0
+manager,1.7133044010756409
+xxx xxx xxx,3.176470588235294
+irretrievable injustice between the parties,0.5
+product,2.242984858429713
+respect of grantrefusal,0.5
+requirement,1.2416133333333332
+signatory,1.5333333333333332
+high court,7.7477477477477485
+harm,1.2124444444444444
+whole seller failure,0.5
+entire transaction,1.0
+other proceedings,1.1
+eventuality,0.5864197530864198
+state,6.817996007300392
+whatsoever nature,1.0
+official,2.6854955160358718
+intent,1.8427075724373023
+vegetable,0.45098039215686275
+specific stance,0.5
+upcof,0.8333333333333333
+trial,3.7979448350459712
+controversy,0.8593204191806921
+encashment,1.9090909090909092
+extreme prejudice of the applicant,0.5
+deed,1.3564447722662734
+manu,7.078142071124147
+appellant states,0.5
+rate,3.088725136774248
+equities,0.7619047619047619
+invocation,0.8641975308641975
+banking,2.1351674641148324
+law that bank guarantee,0.5
+decree in favour,0.75
+v coal tar,0.5
+such guarantee,0.25
+consultants,1.1239092495636998
+contractual obligations,0.5052631578947369
+agri,3.4071794871794876
+parties to the contract,2.5
+clear fraud,1.0
+stance of the appellant,1.4285714285714286
+emphasis,0.8024289099526066
+single,1.6221488419098207
+manutnmanutn,1.7
+satisfied that the courts,0.5
+legal effects of the agreement,0.5
+consignment andor sale order after the date,0.5
+nature,1.4149926876444778
+careful analysis of the terms,0.5
+facie case of fraud,0.6666666666666666
+respondent no,5.395833333333333
+discussion,0.7445831166579996
+injustice,1.1882716049382718
+in lieu thereof,1.6
+courier,0.20634920634920634
+direct respondent nos,0.5
+basi of a demand  claim,0.0
+court in arul murugan traders,0.5
+seller,3.1695238095238096
+irrespective of the validity,0.6666666666666666
+asset,3.0300107181136124
+extreme prejudice,0.5
+bolivinter oil sa v chase manhattan bank,0.5
+matter of challenge,1.25
+party to the contract,1.0
+seller fail,1.5
+pleadings in the present case,0.5
+situation,1.1254754682459434
+beneficiary thereof,0.5
+junior,0.9861207494795279
+sum,2.554898897856461
+observations,0.7454584147497534
+own word,0.34782608695652173
+criminal proceeding,2.9166666666666665
+ltd manuscmanusc,1.4473684210526316
+agrifresh limited sd- authorized signatory,0.0
+attention,0.8724846605528799
+book,0.7435955668604651
+that m,1.021889796198449
+agreement with m  s,0.0
+coop,1.050858748828979
+books,0.8894824707846412
+following effect,1.3846153846153846
+terms of the guarantee,0.5
+alternative,0.841508109794136
+event that the whole seller fail,0.5
+bses,0.2644628099173554
+upon the aforesaid demand,0.5
+assets,2.6879084967320264
+general rule,0.6352941176470589
+industries,2.162068965517242
+authorized agent,0.38095238095238093
+debt,3.4485322896281807
+fraud by m  s,0.0
+irreparable los,1.0
+ground of fraud,1.0
+disputes,2.3049883690876194

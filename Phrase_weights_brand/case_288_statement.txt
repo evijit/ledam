@@ -1,0 +1,362 @@
+palanisamy,1.2
+background fact,0.8571428571428571
+segment,0.5778120184899844
+madra in election petition,0.0
+electoral practice,0.5
+such objection,1.1428571428571428
+people,1.2855544825097243
+mark,2.700508607198748
+thumb,0.3377049180327869
+terms,2.390350840909655
+ground that wrong instrument,0.5
+inter,3.683850287482992
+agents,0.7901234567901235
+counting,1.8366107576633892
+election petition as regard illegal rejection,0.5
+elected candidate,3.909090909090909
+court,12.24425115501509
+first respondent,4.575757575757576
+contesting candidate,2.3
+madras,2.836734693877551
+objection,1.68120480131216
+person,4.291511329454258
+allegations,1.8333333333333335
+election symbol,1.0
+of the ballot papers,1.3333333333333333
+exp,3.534657952408237
+analysi,0.6883471219855659
+total valid vote,1.0
+number,1.4802651440973922
+decisions,1.3888475974580996
+decision,2.9514937765898557
+polls reveal,0.5
+chief election agent,0.5
+direct inspection,0.5
+previous poll,1.0
+election tribunal,0.6666666666666666
+total,1.183527325379098
+sake of brevity,0.4615384615384615
+appeal,3.4125488033856883
+court of judicature,1.4210526315789473
+election,6.758005637447438
+constituency,3.7333333333333334
+officers in the matter,0.5
+counting agents,1.5
+alia,0.9479866480753792
+poll observer,0.5
+judgment,3.288216560509554
+ballot,1.184
+segment of karur parliamentary constituency,0.0
+counting of the votes,1.6666666666666667
+order,5.472481489660944
+polls reveals,0.5
+act,12.870263922028107
+postal votes,0.5
+conduct of election rules,2.4
+analysis,0.6606741573033708
+violation of the act,0.75
+pleading,1.1270125223613594
+objection petition,2.25
+effect,2.184583388478191
+candidates,3.508445945945946
+agent,1.406335913378167
+contesting candidates,1.7777777777777777
+manner,1.4494591333432125
+such objections,0.75
+parties,1.8210828547990157
+rejected ballot papers,1.0
+section,9.287987283173626
+entire election process,0.5
+herein,2.825259515570934
+candidate kc,0.5
+serious irregularities,0.6666666666666666
+corrupt practice,3.5833333333333335
+observer,0.4906542056074767
+pleading of the parties,0.0
+symbol,0.8892215568862275
+name of the counting agents,0.0
+provision of sub - rules,0.0
+place,2.333104345208554
+sun symbol,0.5
+officers,2.442124212421242
+stamp,0.871914299021891
+two leaves,0.5
+appellant herein,2.046153846153846
+judicature,1.4210526315789473
+rejected vote,0.5
+alleged irregularities,1.0
+regard,2.723310344827586
+proces,1.627944583238701
+postal vote,0.5
+ballot paper by the assistant,0.0
+facts,1.4696673624372698
+issue,2.766776251628934
+thereof,1.7897727272727273
+relevant portion,0.6486486486486488
+irregularity,2.0
+basi,2.0752712086391383
+margin of votes,1.1666666666666667
+objections,1.2025072324011572
+total rejected vote,0.5
+election petitioner,11.875
+candidate,6.356675392670156
+today,0.6330563683773655
+petitioner,4.524972253052164
+inquiry in relation,0.75
+tables,0.6402116402116402
+basis,1.953226441078104
+plea that the allegations,0.5
+holding,1.2555282555282552
+returned candidate,7.846153846153846
+sub,7.816899313759727
+corrupt electoral practices,0.5
+effect that the number,0.5
+of the ballot paper,1.3333333333333333
+polls reveals that the total rejected vote,0.5
+officer,3.1197242647058823
+electoral practices,0.5
+ground,1.4186722903211633
+border,0.40498938428874737
+manner of conduct,0.5
+election symbol of  two leaves,0.0
+presence of the counting agents,0.5
+details of the tables,0.5
+inquiry,1.3527272727272728
+matter,2.8088923076923082
+relation,1.397320207820618
+following issue,1.0833333333333333
+scrutiny,0.912987012987013
+irregularities,1.2263736263736265
+incharge,1.0250000000000001
+term,3.6255105640901575
+regards irregularity,0.0
+heads,0.7896459995907509
+pleadings,1.3125
+rejection of valid votes,2.0
+election agent,2.1666666666666665
+background facts,0.8333333333333334
+pleadings of the parties,0.8
+sake,0.5262975778546712
+assistant,1.6732837055417698
+result,1.3356630184144715
+madras in election petition,0.5
+election petition before the high court,0.5
+which center,0.3333333333333333
+prospect,0.7464503042596349
+provision,5.439002243350069
+people act,1.455168475157053
+respect,2.6704963235294117
+segments of karur parliamentary constituency,0.5
+different heads,0.75
+table,1.2846582247782705
+total rejected votes,0.5
+following issues,1.0833333333333333
+fact,3.6284951019474962
+category-,0.0
+chief election agent of the election petitioner,0.5
+poll,1.8799933862433862
+sun,0.7549388170958654
+entire election proces,0.5
+guilty of corrupt electoral practices,0.5
+total number,0.8813725490196079
+particulars,0.9472222222222222
+rejected ballot paper,1.0
+complaint reads,0.5
+evidences,0.5483870967741935
+extent,1.410108024691358
+practices,1.3187467899332308
+inadvertent thumb impression,0.5
+contesting candidate for this purpose,0.0
+election petition,23.75
+papers,1.0564063453325199
+ballot papers by the assistant,0.5
+wrong instrument,0.5
+party,2.2250894654439723
+recounting of the ballot papers,0.5
+jurisdiction to direct inspection,0.5
+favour of the petitioner,1.4545454545454546
+details,0.9406426856198188
+sub-rules,0.0
+issues,1.1246716508385532
+plea that the allegation,0.5
+beside,0.6316646316646316
+irregularities in counting,1.0
+the act,5.708327371273712
+request,1.1474439594584596
+representation of the people act,2.4
+inspection,0.8496732026143791
+parliamentary constituency,1.6
+eleven candidates,0.5
+malpractice,0.72
+centers,0.5012531328320802
+concurrence,0.7692307692307693
+presence,0.9604834261070158
+serious irregularity,0.0
+voter category,0.0
+respondent,4.757894736842104
+eleven candidate,0.5
+question,2.980312372067635
+objection to the decision,0.5
+such counting agents,0.5
+election rule,2.3333333333333335
+such counting agent,0.5
+thereafter election result,0.5
+assembly,2.613006617038875
+practice,1.7660110149488593
+contesting candidates for this purpose,0.5
+brevity,0.5466472303206997
+name,1.8996570753072433
+different centers,0.5
+high,5.367119186841496
+sub-rule,0.0
+officer in the matter,0.0
+acts of serious irregularities,0.5
+vote difference,0.5
+prayer,0.6969296987087519
+purpose,2.519170317925504
+alleged irregularity,0.0
+head,1.5827778446537666
+time,2.4764180952862667
+of corrupt electoral practices,0.5
+rejection,0.7335907335907336
+allegation,1.834319526627219
+leaf,0.1462333825701625
+present election,1.0
+complaint,2.734525785235724
+vagueness,0.8571428571428572
+voter,2.7989417989417995
+hereinafter,0.7670609645131939
+irregularity in counting,0.0
+question in this appeal,0.8333333333333334
+provision of the representation,0.0
+previous polls reveal,0.5
+segments,0.7432432432432433
+commission,4.703619179345321
+regard to the fact,1.5862068965517242
+rules,3.130914366958792
+different center,0.5
+order of scrutiny,0.5
+previous polls reveals,0.5
+names,1.766440410418311
+sun symbol of the candidate kc,0.5
+present poll,0.5
+karur,2.3333333333333335
+order recounting,0.5
+rejected invalid votes,0.5
+sinha,0.8166351606805294
+marking,0.37333333333333335
+dispute,2.402137592137592
+names of the counting agents,0.5
+evidence,3.6676405172088815
+election petition in terms,0.5
+results,0.6487493619193466
+ballot papers,4.5
+detail,0.9737454684220567
+counting of votes,1.8333333333333333
+difference,0.8774847235514982
+vaguenes,0.8571428571428572
+most of the ballot papers,0.5
+detail of the tables,0.0
+rules without reason,0.5
+number of votes,2.2857142857142856
+total number of votes,1.0
+portion,1.0756311179804223
+therefore,2.960332350576253
+analysis of the votes,0.5
+inter alia,1.3280423280423281
+rule,5.04
+besides,0.6364883401920438
+center,0.9521598338119387
+favour,1.653145208700764
+incharge of the counting,0.5
+act of serious irregularities,0.0
+poll observers,0.5
+fairness in the rejection,0.5
+regard illegal rejection,0.5
+violation,1.2087401208740118
+instrument mark,0.5
+different head,0.8
+previous polls reveals that the total rejected vote,0.5
+valid vote,1.75
+presence of such counting agents,0.5
+returning,1.8741418764302058
+rubber,1.0302511415525113
+counting agent,1.3333333333333333
+election rules,2.3333333333333335
+process,1.6274942048088725
+notice,2.3300025999395686
+particular,1.5248953455371081
+high court of judicature,1.4210526315789473
+counting center,0.5
+vote,4.2642709347614405
+analysi of the votes,0.0
+two leaf,0.0
+reason,2.6381270903010035
+assembly segments,1.5
+counting centers,0.5
+one,4.845669314438648
+petition,5.3436539306104525
+category,1.9351744779266717
+polling,0.6666666666666666
+place for karur,0.5
+polls,0.20714285714285716
+plea,1.4430487701432178
+fairnes,0.5708245243128964
+election process,2.4000000000000004
+complaint read,0.5
+acts,1.9133929521984454
+rejection of ballot papers,1.0
+polls reveals that the total rejected votes,0.5
+rejected votes,0.5
+voting,1.409009009009009
+karur parliamentary constituency,2.0
+voter s instrument mark,0.0
+result thereof,0.8333333333333334
+officer s rubber stamp impression,0.0
+provisions,3.8929824561403508
+multiple voting,0.5
+conduct,1.5998023165163158
+thumb impression,0.5
+provisions of sub - rules,0.0
+regards irregularities,0.5
+reason to order recounting,0.5
+ballot paper,4.75
+previous polls reveals that the total rejected votes,0.5
+rejection of postal votes,0.5
+paper,1.8076689487632511
+election commission,6.083333333333333
+background,0.6800452488687784
+leaves,0.6983075791022811
+notice by the assistant,0.5
+observers,0.3188405797101449
+appellant,14.387096774193548
+election proces,2.4000000000000004
+madra,2.836734693877551
+regards irregularity in counting,0.0
+assembly segment,1.5
+rubber stamp impression,0.5
+corrupt electoral practice,0.5
+election on the election symbol,0.5
+high court,7.7477477477477485
+same holding,0.6666666666666666
+rejected invalid vote,0.5
+fairnes in the rejection,0.0
+jurisdiction,2.9539571926331507
+valid votes,1.75
+representation,1.2338308457711442
+recounting,2.019230769230769
+impression,0.6037621359223301
+electoral malpractice,0.5
+total valid votes,1.0
+margin,1.4244114002478314
+votes,3.9696793002915447
+tribunal,5.07183212267958
+fairness,0.5844155844155844
+election agent of the election petitioner,0.5
+consisting,0.7085839256424276
+regards irregularities in counting,0.5
+question of corrupt practice,0.5
+instrument,1.493863846866317
+objection petitioner,0.5
+of corrupt electoral practice,0.5
+provisions of the representation,1.0

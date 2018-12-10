@@ -1,0 +1,482 @@
+government,3.5583785424010483
+miyan,1.0
+mr surendra,0.5
+code,2.880559796437659
+children,1.3787369914853358
+further status report,0.6666666666666666
+relevant places,0.5
+mind,1.1559066143122394
+constitution of india,3.0095238095238095
+fear in the mind,0.75
+doctors,2.018642703862661
+petitioner that mohammad kaif,0.6666666666666666
+dey,0.8643216080402009
+sections,1.640495469442838
+perusal of the petition,0.6666666666666666
+morten,0.2777777777777778
+inter,3.683850287482992
+atrophy to the sense,0.6666666666666666
+man with courage,0.6666666666666666
+arm,0.9325525916287142
+progress,1.075925925925926
+court,12.24425115501509
+cfsl expert,0.5
+benefit for enlargement,0.5
+mobile instrument of the accused persons,0.0
+person,4.291511329454258
+mother of all virtues,0.6666666666666666
+bail,2.0427807486631013
+part,5.294464509893076
+relevant places in attendance,0.5
+state of bihar contending,0.5
+relevant place,0.30000000000000004
+rohit,0.3125
+cbi team,1.0
+depth,0.5894308943089431
+abovenamed persons,0.5
+scenario,0.4835164835164836
+chance meetings,0.5
+aspect,1.2449448189023034
+janta,1.2
+district,1.5506763074237984
+sessions,1.3405714285714285
+other relevant places,0.5
+competent authority,2.7142857142857144
+local police io,0.5
+district siwan,1.3333333333333333
+situations,0.7435282837967402
+judicial custody in central jail gaya,0.5
+bouquet,0.5
+relevant material,1.0
+house,2.0021735292386764
+registration of case,0.5
+staff,1.3233972834416785
+other support staff,0.5
+rishu kumar jaiswal,0.5
+instructions,1.8111673678956002
+sheet,1.1667364016736401
+bail under proviso,0.5
+fact situation,1.3333333333333333
+motive,0.8973573343546533
+other relevant places in attendance,0.5
+details of the case,0.6666666666666666
+ios of the local police,0.5
+call details,0.5
+other accused person,2.111111111111111
+expert,2.5786336542870245
+kishore,0.6823529411764706
+siwan,4.0
+exhibit,0.8875432525951558
+month,1.3454861111111112
+abovenamed person,0.5
+additional affidavit,1.3333333333333333
+courage,0.6100747737111374
+virtues,0.3541666666666667
+alia,0.9479866480753792
+police records,1.0
+certain powerful protagonist,0.6666666666666666
+local police ios,0.5
+learned sessions,2.5
+order,5.472481489660944
+concerned station house officer of nagar thana,0.6666666666666666
+act,12.870263922028107
+siwan district,1.3333333333333333
+family members,1.2631578947368423
+mobile instruments of the accused persons,0.5
+relevant part of the report,1.0
+nagar,0.8617021276595744
+surendra,0.5714285714285714
+janta dal,0.5
+kisley,0.5
+accused persons,7.048780487804878
+offender,1.3711405166981725
+citizen,1.261748909029876
+mohammad javed,1.6666666666666667
+copy,0.8620926631522174
+expeditious investigation,0.5
+offender on the date,0.0
+sonu kumar gupta,0.5
+detail of the case,0.0
+mother,1.5057341472881893
+other relevant place,0.5
+member,2.649111111111111
+instruction from mr ss,0.0
+ammunition,0.33439490445859876
+nagar thana,1.0
+parties,1.8210828547990157
+police protection to the petitioner,0.6666666666666666
+section,9.287987283173626
+lady in distress,0.6666666666666666
+meeting,1.5978547625659538
+instruments of the accused persons,0.5
+relevant part,0.8979591836734694
+criminal antecedents,0.5
+facie discernible that the petitioner,0.6666666666666666
+instructions from mr ss,0.5
+consequence,0.8726692512593296
+scrutiny of the local police records,0.5
+post morten,0.5
+place,2.333104345208554
+hard disk,0.16139954853273136
+soni,0.5972035532698265
+danger,0.8066378066378066
+yadav,1.8571428571428574
+investigation,1.6673076923076922
+regard,2.723310344827586
+local police records,1.0
+direction,1.8495050210098996
+perusal,0.750733137829912
+occurrence,2.1343873517786562
+mr pk,1.25
+computer,1.3866140537259068
+police record,2.0
+antecedents,1.7777777777777777
+regards,0.9072861236185019
+pratap,1.125
+issue,2.766776251628934
+minister,1.218958818958819
+laddan,1.0
+interaction,0.43870967741935485
+earlier occasion,1.0
+rishu kumar jaiswal in the court,0.5
+relevant place in attendance,0.0
+home,0.9826663267907214
+senior,1.989753211141579
+additional affidavits,0.6666666666666666
+benefit,2.604810195438474
+petitioner,4.524972253052164
+records,0.9879294336118848
+session,2.2400874351067563
+registration of the case,0.5
+bunty,1.0
+president,2.1267129228100607
+directions,1.5134125183504605
+course,1.6545957498716626
+tej pratap yadav,0.5
+order sheet,0.6666666666666666
+vii,1.26552423069836
+judicial custody,2.4285714285714284
+arrest from the court,0.5
+charge,2.7679815308681284
+company,5.864471879286695
+company of respondent nos,0.5
+crime,1.6636528028933093
+officer,3.1197242647058823
+local police,1.2307692307692306
+other case,0.6654088050314465
+child,3.0202810640613067
+custody in central jail gaya,0.5
+facie discernible,0.6666666666666666
+cbi,3.9568421052631577
+gopal,1.1610169491525424
+liberty,0.7860465116279071
+matter,2.8088923076923082
+instruction from respondent nos,0.0
+article,4.378806157159795
+scrutiny,0.912987012987013
+criminal,3.301971081989414
+sonu,0.5051282051282051
+penal,1.8829173709853835
+view,2.441100058469462
+post,2.344803646492219
+suspect,1.0878953771289537
+doctor,1.4782608695652173
+cfsl team from new delhi,0.5
+penal code,2.710144927536232
+interaction with the doctors,0.5
+other aspect,0.6921768707482993
+petition under article,1.6388888888888888
+witness,5.333906623599983
+assistant,1.6732837055417698
+order sheet with regard,0.5
+case files  record,0.0
+pinky,0.6
+bihar,4.587301587301587
+data,0.9744599232788209
+record,2.5393414390845273
+certain powerful protagonists,0.6666666666666666
+procedure,2.552771605064117
+material,1.4148767018946966
+information,1.1320502836800534
+polouse,0.0
+cfsl team,0.5
+secretary,0.9217877094972067
+distress,0.39716312056737585
+support,0.8630946786249609
+siwan police,0.5
+issue of non-bailable warrants,0.0
+solicitor,1.7073170731707317
+state of continuous fear,0.6666666666666666
+fact,3.6284951019474962
+bihar contending,0.5
+learned counsel,3.703333333333333
+registration,2.231365215068127
+home secretary of the state,0.6666666666666666
+chief,1.9429638234317954
+station,1.2515681586858238
+criminal procedure,6.406779661016949
+husband,1.6418918918918919
+kumar,2.028839704896043
+further status report by that day,0.5
+vice president,0.6538952745849297
+viii,0.7209469153515065
+solicitor general,1.7368421052631577
+mr kisley pandey,0.5
+superintendent of police,2.1153846153846154
+town,1.9746537396121884
+rajesh kumar,2.0
+station house officer of nagar thana,0.6666666666666666
+alam,0.7025641025641025
+additional,1.4256530253244384
+concerned station house officer,0.6666666666666666
+affidavit,2.2996987951807224
+bureau,0.5022321428571429
+report,1.7768151696835826
+code of criminal procedure,6.120689655172414
+protection,1.1604395604395603
+judicial,2.8688059701492543
+relevant person,0.25
+party,2.2250894654439723
+virtue,0.9167557066537153
+arms,1.2384993436918101
+case files  records from local police,0.0
+delhi,2.6089285714285717
+details,0.9406426856198188
+presence of cfsl expert,0.5
+prima facie discernible,0.6666666666666666
+justice,2.292557084574302
+entire scenario,0.5
+case files  record from local police,0.0
+rashtriya,1.25
+state of bihar,2.5918367346938775
+progres,1.075925925925926
+mobile instrument,1.0
+family member,1.0924657534246576
+date,6.195616975795285
+instruments,0.8428470754052149
+vijay kumar gupta,0.5
+warrants,0.5020796197266786
+cfsl,0.5
+offence,4.401610644257703
+presence,0.9604834261070158
+instructions from respondent nos,0.6666666666666666
+hearing,0.9644508209787979
+health minister,0.30000000000000004
+respondent,4.757894736842104
+central jail gaya,0.5
+further investigation,1.6363636363636362
+day,1.550999710228919
+status of mohammad kaif,0.5
+gopal singh,2.5
+small child,0.375
+kaif,1.1111111111111112
+postmortem,1.2142857142857142
+home secretary,1.0
+hard disk of computer,0.5
+step,0.8867024753460084
+offenders on the date,0.5
+months,1.1938163721148947
+jaiswal,1.0
+statement,2.5393160135035964
+accused person,4.565217391304348
+shoeb,0.30000000000000004
+place of occurrence,2.6153846153846154
+other relevant place in attendance,0.0
+offences under sections,1.0909090909090908
+dasti,1.1666666666666667
+members,1.9437616522164103
+protagonist,0.4
+course of hearing,1.0476190476190477
+gupta,0.7610062893081762
+custody,1.4166666666666667
+witnesses as a consequence,0.6666666666666666
+pandey,1.875
+dal,0.772009472009472
+enlargement,0.6060606060606061
+proviso,2.112
+kind of danger,0.4444444444444444
+purpose,2.519170317925504
+help,0.7217940266720754
+nos,1.2635492554198444
+team from new delhi,0.5
+open further investigation,0.5
+present,1.9747480780089475
+police remand,1.3333333333333333
+government of bihar,6.857142857142857
+jail gaya,0.5
+police ios,0.5
+non-bailable warrant,0.0
+regard to the entire scenario,0.5
+complaint,2.734525785235724
+developments,0.5581395348837209
+chief io,0.3333333333333333
+state polouse,0.0
+bouquets,0.5
+place in the district siwan,0.6666666666666666
+offences,1.6681887366818873
+case files  records,0.0
+fear,0.8662375822023226
+status report before this court,0.6666666666666666
+counsel,2.2246780703440323
+india,2.7684068260703585
+witnesses,3.359210526315789
+alse general,0.0
+state police,0.673076923076923
+small children,0.375
+meetings,0.7029804727646454
+new,0.9418497626301229
+proclaimed offenders,2.25
+that fear,0.3188405797101449
+cjm,1.0451388888888888
+tej,0.5223880597014926
+datum,0.0
+vice,3.766984711894892
+counsel for the state,1.3043478260869565
+rishu,0.5
+victim,1.204831365285174
+other relevant person,0.5
+help of local police ios,0.5
+detail,0.9737454684220567
+copy of the petition,1.3333333333333333
+case,7.332269420884958
+status report,1.1358024691358024
+pandaya,0.75
+powerful protagonist,0.6666666666666666
+police protection,0.5454545454545454
+vijay,0.404040404040404
+clothes,0.43778538812785384
+instrument of the accused persons,0.0
+constitution,3.204842342342342
+clothe,0.44423076923076926
+ios,0.685710232402177
+singh,3.7791111111111113
+purposes,1.4391216613438835
+instruction,1.8197943962910703
+gaya,0.0935064935064935
+inter alia,1.3280423280423281
+mohammad,0.9375
+place in the siwan district,0.6666666666666666
+station house officer,1.25
+learned sessions judge,2.5
+cbi investigation,0.5
+purposes of expeditious investigation,0.5
+investigation by the cbi,0.6666666666666666
+respondents,2.6341263330598856
+police io,0.5
+superintendent,1.2698412698412698
+part of the report,1.1666666666666667
+continuous fear,0.6666666666666666
+print media,0.37037037037037035
+mohammad kaif  bunty,0.0
+body,1.336775463480009
+distres,0.39716312056737585
+notice,2.3300025999395686
+chance meeting,0.5
+status,1.14824388424026
+mr panday,2.0
+earlier order,1.625
+police,2.9749362629783356
+solace,0.2285714285714286
+open further investigation in the matter,0.5
+steps,1.169318181818182
+mohammad kaif,2.3333333333333335
+charge sheet,2.0526315789473686
+print,1.119131334022751
+status report by the central bureau,0.5
+arrest,1.391895003453834
+purpose of expeditious investigation,0.0
+instant case,2.0631578947368423
+disk,0.1424534574468085
+powerful protagonists,0.6666666666666666
+scene,0.7999999999999999
+io of the local police,0.0
+petition,5.3436539306104525
+disk of computer,0.5
+which date,0.7407407407407408
+rajesh,0.32098765432098764
+shahabuddin,0.5
+prima facie discernible that the petitioner,0.6666666666666666
+jail,0.7548476454293629
+lady,0.6819258089976322
+scene of crime,1.0
+team,0.7272900763358778
+assistant io,0.5
+places,0.8371884824384251
+relevant material to the case,0.5
+others,0.9074667328904616
+company of respondent,1.0
+respondent nos,2.5185185185185186
+antecedent,1.1666666666666667
+additional solicitor general,2.5
+status report by that day,0.5
+azaharuddin beig  laddan miyan,0.0
+offence under sections,0.8
+family,1.856281506375408
+authority,2.4352627108360636
+judge,2.9012627415183325
+non-bailable warrants,0.0
+jimmy,0.2319148936170213
+other accused persons,2.111111111111111
+proclaimed offender,2.1666666666666665
+development,2.3145884270578647
+local polouse,0.0
+affidavits,1.954022988505747
+kumr,0.3333333333333333
+scrutiny of the records,0.5
+weeks,0.8109161793372318
+anand,1.15
+local police record,1.0
+warrant,0.611066164387025
+criminal antecedent,0.5
+media,0.8814292604879884
+indian penal code,5.264705882352941
+progress by the cbi,0.5
+relevant information,0.5833333333333334
+iii,1.5614499719992534
+sense,0.8606303395157362
+occasion,0.7946745562130177
+week,0.8253498691546249
+exhibits,0.4733727810650888
+support staff,0.3333333333333333
+learned counsel for the state,1.1428571428571428
+- bailable warrants,0.0
+new delhi,1.744186046511628
+call detail,0.5
+state,6.817996007300392
+chance,0.7937084625609215
+dignity,0.5529953917050692
+trial,3.7979448350459712
+offenders,0.9550387596899225
+learned session,2.5714285714285716
+general,1.7536558414534391
+central,2.61875
+material to the case,0.5
+protection by the competent authority,0.6666666666666666
+javed,0.7333333333333334
+attendance,0.5024271844660194
+protagonists,0.5
+beig,0.48387096774193555
+atrophy,0.3333333333333333
+mr ss,0.5
+man,6.972395052694935
+- bailable warrant,0.0
+panday,2.0
+sonu kumar soni,1.0
+respondent no,5.395833333333333
+beig  laddan miyan,0.0
+health,0.8632619439868204
+azaharuddin,1.0
+progres by the cbi,0.0
+constant victim,0.6666666666666666
+potentiality,1.125
+kind,0.9236881920088026
+suspect sonu kumar soni,0.5
+situation,1.1254754682459434
+instrument,1.493863846866317
+mobile instruments,1.0
+arms act,1.4545454545454544
+senior counsel,2.2857142857142856
+central bureau,0.5384615384615384
+siwan polouse,0.0
+thana,0.4696969696969697
+persons,2.5993381990166555

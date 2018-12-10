@@ -1,0 +1,1260 @@
+speedy remedy to the consumers,1.0
+enactment,1.439950980392157
+malaysia,0.17730496453900707
+state forums,0.5
+defence,1.3606588776096535
+important milestone in the history,0.5
+government,3.5583785424010483
+present case involve,0.75
+ninety day from the date,0.0
+opposite party deny,0.0
+implementation,1.2465707594513213
+concerned analysis,0.5
+adjournments,1.625
+vacancy,1.0666666666666667
+code,2.880559796437659
+district level,1.75
+frame,1.023976722714937
+appropriate matter,0.5
+other item,0.5263157894736842
+twenty-one days from the date,0.0
+quicker disposal,0.5
+translation of judgments,0.5
+mind,1.1559066143122394
+thirty days from the date,1.2
+amicus curiae,1.6666666666666667
+occasions,0.7723557692307693
+writing by the forum,0.5
+appropriate actions,0.30000000000000004
+grievance of the learned counsel,0.0
+act providers,0.3333333333333333
+doctors,2.018642703862661
+receipt of a copy,0.8
+revision,1.6299226441631505
+establishment,0.9899216125419933
+suitable for determination of complicated questions,0.5
+filing,1.1274190041313328
+sections,1.640495469442838
+reasons,1.3749054007567938
+such as removal of the wrong limb,0.5
+charan singh,1.7
+matters,1.4810665618448637
+problem,0.6764352120789936
+inter,3.683850287482992
+-day,0.0
+certain question,0.41666666666666663
+deficiency in service,1.25
+complainants,1.3333333333333333
+sufficient safeguards,0.75
+failure,0.7827962142086977
+twenty-one day,0.0
+complaints within prescribed period,0.5
+interest,2.74353772015385
+oath,0.9395348837209302
+workload,0.8571428571428571
+case involve,0.5384615384615384
+court,12.24425115501509
+claim of the complainant,0.6666666666666666
+counsel mr  nariman,0.0
+establishment of consumer councils,0.6666666666666666
+stipulated time limit,0.6666666666666666
+lalit,1.55
+-days,0.0
+creation,0.5716118684843625
+production,2.1071428571428577
+case complaint,1.0
+parliament,2.6571235781762095
+possible within prescribed time,0.5
+commission for examination,0.5
+fact that decision,0.6666666666666666
+objection,1.68120480131216
+person,4.291511329454258
+ors,2.8612718198296623
+counsel for the complainant,1.0
+party by the party,0.6666666666666666
+medical practitioners,1.1666666666666667
+which party,0.6666666666666666
+allegations,1.8333333333333335
+way,1.7812722068664852
+helpful in cross-examination of experts,0.0
+requisitioning,1.75
+dispute--,0.0
+cause,1.8431210321626654
+that service,0.5217391304347826
+part,5.294464509893076
+such incidents in the newspapers,0.5
+other members,0.59375
+pendency of criminal prosecution,0.5
+items of operating equipments,0.5
+cross,2.0778316690442225
+analysi,0.6883471219855659
+criminal complaint,1.7
+bombay,2.3134020618556703
+infrastructure,1.1264822134387351
+punishable under sections,1.6153846153846154
+miscellaneous petition,0.8333333333333334
+simultaneous appointment,0.5
+rule of law,0.5359801488833746
+quicker disposal of consumer complaints,0.5
+stay of proceedings,0.6666666666666666
+disposal to a large extent,0.5
+admissibility of the complaint,1.0
+amicus,1.0740740740740742
+such expert,1.0
+various directions,0.4444444444444444
+number,1.4802651440973922
+appropriate step,0.8
+district,1.5506763074237984
+complaints against defective goods deficient services,0.5
+grievance that matter,0.5
+patient swabs,0.5
+xviii,1.0
+wrong limb,0.5
+decision,2.9514937765898557
+provisions for the cost,0.5
+administrative control,3.0
+usa in the month,0.5
+aforesaid,2.592896174863388
+such complicated question,1.0
+wrong gas,0.5
+history,0.5728887807252372
+long year,0.4800000000000001
+claim,2.817264601856604
+test,2.5329834591340266
+question of fact,1.45
+insertion,0.5564516129032258
+complaint within a period,0.5
+telephone conference,0.5
+act provider,0.3333333333333333
+problems,0.7376119010005265
+such extended period,1.25
+instructions,1.8111673678956002
+appeal,3.4125488033856883
+determination,1.5980374665477253
+frames,0.2598870056497175
+good,2.6154941054299674
+breach,1.3366228070175439
+medical practitioner,2.1666666666666665
+promotion of consumer rights,0.5
+which complaint,0.75
+provisions of the act,2.6056338028169015
+redressal to consumer disputes,0.5
+further directions,0.9090909090909091
+expert,2.5786336542870245
+such video conference,0.5
+enactment of the consumer protection act,0.5
+body of consumers,0.6666666666666666
+month,1.3454861111111112
+year,2.8349484769759212
+stage,1.1298537871524448
+alia,0.9479866480753792
+jurisdiction powers,2.0
+consumer protection rule,0.5
+such ground,0.8333333333333334
+inordinate delay,1.6666666666666667
+code of civil procedure,5.5636363636363635
+consumer complaint,0.5
+- miscellaneous day,0.0
+piece,0.8682170542635659
+judgment,3.288216560509554
+defendants,2.3554376657824934
+adoption of uniform procedure,1.0
+claims,1.1941982272360998
+consumer rights,0.5
+civil court for necessary relief,0.6666666666666666
+other day,0.3668831168831168
+question of law,3.057142857142857
+reason for delay,0.6666666666666666
+services,1.6850241065659326
+that complainants,0.5
+charan singh s case,0.0
+order,5.472481489660944
+as removal of the wrong limb,0.5
+obvious fault,0.5
+furnishing,0.5882352941176471
+jurisdiction in all matters,0.5
+act,12.870263922028107
+qua,2.4497935676369567
+sub-section,0.0
+adjournment,2.4166666666666665
+discovery,0.6107142857142858
+version of the case,2.0
+ninety day,1.0
+other matter,0.7002457002457002
+medical experts opinion,0.5
+analysis,0.6606741573033708
+that prosecution,1.6363636363636365
+appointment,3.1380281690140843
+question in any court,0.6666666666666666
+president of district forum,0.5
+plaint,3.104295112903434
+concerned delay,0.5
+medical,1.633306645316253
+statement of objects,1.565217391304348
+stake,0.6761337608795236
+complicated issue,1.3333333333333333
+pendency of criminal proceedings,0.6666666666666666
+safeguards,0.5785123966942148
+wrong ga,0.5
+working of the aforesaid section,0.5
+level,1.1533169827122092
+copy,0.8620926631522174
+interveners that some guidelines,0.5
+pendency,1.0084033613445378
+list,4.014941314095513
+manner,1.4494591333432125
+expression  service,0.0
+mandatory requirement,1.4
+most of the cases,0.75
+member,2.649111111111111
+functioning,0.9337944664031622
+parties,1.8210828547990157
+prescribed period,1.7692307692307692
+complicated questions of facts,0.5
+negligence in the matter,0.5
+civil procedure,5.448275862068965
+speedy justice to the consumers,0.5
+section,9.287987283173626
+present case complaint,0.5
+ground of the procedure,0.5
+delay in composition,0.5
+version,1.0500313479623824
+january,0.8699641577060931
+incident,1.8609485257918057
+judgments,1.2355646397547266
+consumer dispute,3.6666666666666665
+healing,0.2777777777777778
+circuit,0.3301204819277109
+litigant,1.2698412698412698
+providers,2.0687830687830693
+benevolent piece,0.6666666666666666
+place,2.333104345208554
+as doctors,0.45000000000000007
+more members as the president,1.0
+appropriate action,0.5625
+civil,2.126558634963905
+functions,1.326241134751773
+order xviii,2.3333333333333335
+regulation,4.3783195107648485
+provision for the cost,0.0
+present case,1.5611814345991561
+learned counsel for the appellants,1.7142857142857142
+years in disposal,1.0
+hence complainant,0.5
+justice to the consumers,0.5
+order vii,2.0
+quasi - judicial bodies,0.0
+regard,2.723310344827586
+charan singh v,0.8
+quasi-judicial machinery,0.0
+certain question in writing,0.0
+bombay for the offences,0.5
+functions of a civil court,0.5
+promotion,2.946428571428571
+which parties,0.75
+other relevant source,0.5
+certain questions,0.42857142857142855
+functions of the state commissions,0.5
+agency,1.8968779259354924
+direction,1.8495050210098996
+criminal complaint before the metropolitan magistrate,0.5
+practitioners,0.6511627906976745
+in cross - examination of experts,0.0
+rights,1.6349541930937281
+own impact,0.5
+degree,0.6705786026200874
+stipulated time,1.5833333333333333
+item,1.3319648896447913
+criminal prosecution,1.35
+grant of copies,0.5
+control,2.148867902684286
+weeks on a non-miscellaneous day,0.0
+party omits,0.5
+facts,1.4696673624372698
+month from the date,1.2222222222222223
+disc,2.5043281246825027
+issue,2.766776251628934
+thirty day from the date,0.0
+copy of the complaint,1.0
+summons,0.9764492753623188
+shortcoming,0.4871794871794872
+state commission at the state level,0.5
+district forum,15.333333333333334
+deficient services,1.0
+consumer complaints,0.5
+such documents in a list,0.5
+form,2.4865961263718424
+basi,2.0752712086391383
+special laws,0.75
+powers,1.876345371920593
+telephonic conference,0.5
+writing,1.1746753246753248
+consumer movement,0.6666666666666666
+necessary regulations,0.5
+- compliance,0.0
+empower,0.9420289855072463
+granting,0.8863960113960115
+defective goods deficient services,0.5
+such orders,0.823529411764706
+days,1.6721350893491447
+civil court under code,0.5
+apparent that parliament,0.5
+service by a medical practitioner,0.0
+non-compliance,0.0
+suggested question of cross-examination,0.0
+add section,0.75
+cost,1.2954397451466992
+dispute,2.402137592137592
+orders,1.4936359300077826
+issuing,0.9271826153259627
+alia for issuing,0.5
+maintainability,1.0256410256410258
+basis,1.953226441078104
+first appeals,0.8333333333333334
+original petitions,1.0
+shanta,0.1875
+holding,1.2555282555282552
+keow,0.10869565217391305
+deficient service,1.0
+interveners that some guideline,0.5
+president,2.1267129228100607
+large extent,0.6818181818181818
+prescribed time,1.0833333333333333
+to the problem,0.5116279069767442
+mr rf,0.6666666666666666
+directions,1.5134125183504605
+unavoidable reasons,0.5
+complaints against defective good,1.0
+parties--,0.0
+medical negligence,1.6
+course,1.6545957498716626
+deficiency,0.5102880658436214
+various lacunae,0.6666666666666666
+sub,7.816899313759727
+day from the date,0.0
+affidavits upon which parties,0.5
+vii,1.26552423069836
+repealed adjournment,0.5
+legislative mandate to the district forum,0.5
+aforesaid case,1.3529411764705883
+magistrate,3.522077922077922
+cross-examination of the persons,0.0
+alleged medical negligence,0.5
+affidavits of the experts,0.5
+disposal of complaints,1.0
+hearing of matters,0.5
+grievance that matters,0.5
+country,1.2903191103863751
+fault,0.8125244007183572
+witnesses in person,0.5
+freedom,1.9254884143571103
+furtherance,1.758139534883721
+complaint of delay,0.5
+hence,1.1440732910500353
+trade practices,1.5
+party omit,0.5
+considerable extent,0.3333333333333333
+amendment,2.2486412346818434
+such as sections,0.6666666666666666
+such document in a list,0.0
+cross-examination of experts,0.0
+testing,1.029039991282554
+complaints against defective goods deficient service,0.5
+such as doctor,0.3333333333333333
+ground,1.4186722903211633
+applies,0.9353049100122315
+complaints,0.9978858350951374
+summary proceedings,0.6666666666666666
+rule-,0.0
+provisions in the special laws,0.5
+agency in respect,0.5
+relevant source,0.3333333333333333
+actions,3.633288043478261
+opportunity,0.946186440677966
+period of -days,0.0
+cros,1.8137948361162648
+as doctor,0.42857142857142855
+function,1.6326372491145218
+expeditious steps,0.5
+such incident in the newspapers,0.0
+penalty for non-compliance,0.0
+other member of the forum,0.0
+inexpensive remedy to the consumers,0.5
+faults,0.19761904761904758
+complaints about deficiency,0.5
+further direction,1.2380952380952381
+matter,2.8088923076923082
+english translation,0.43902439024390244
+hospital,1.3942768854411434
+benches for disposal,0.5
+receipt of a complaint,1.3333333333333333
+meantime,0.5833333333333334
+ground of composition,1.3333333333333333
+agency under the act,0.0
+bench for disposal,0.5
+stay,0.7804272356384462
+as section,0.8333333333333334
+days of time,0.5
+machinery,0.9071637426900585
+which expert,0.5
+disposing,0.6153846153846154
+medical service,0.4307692307692308
+appellants,7.701086956521739
+penal,1.8829173709853835
+speedy remedy,1.25
+view,2.441100058469462
+fixed time,0.4
+indian,1.2604961505560306
+regulations with the approval,0.5
+authority of the national commission,0.5
+consumer protection act,1.3846153846153846
+holding of circuit benches,0.5
+defence version,1.3333333333333333
+vacancies,7.473684210526316
+doctor,1.4782608695652173
+side,3.88845645915565
+relief,1.4748116760828625
+opinion,1.4960606342789635
+prior service,0.5
+procedure on receipt,0.5
+lacunae in the act,0.5
+use,5.06801278974993
+penal code,2.710144927536232
+bodies,0.8969063256135499
+regard to maintainability,0.75
+unavoidable reason,0.5
+speedy grant,0.5
+limb,0.509338061465721
+examine,1.6547910566941708
+witness,5.333906623599983
+thirty day,1.4871794871794872
+result,1.3356630184144715
+summary procedure,1.0
+operation of slip disc,0.5
+delay,1.9544910179640715
+court under code,0.5
+to the problems,0.45000000000000007
+actions within stipulated time,0.5
+procedure,2.552771605064117
+application at this stage,0.5
+aforesaid mandate,0.5
+act consumer dispute,0.5
+twenty-one day from the date,0.0
+petitions,1.3930830039525692
+principles of natural justice,2.736842105263158
+questions of law,1.3333333333333333
+laws,1.4186274337269533
+light in the implementation,0.5
+telephone,1.1502185415228894
+scope,0.8412698412698413
+speaking order,1.3
+for determination of complicated questions,0.5
+same powers,1.0
+commodities,1.6200000000000003
+guideline,1.5641711229946524
+provision,5.439002243350069
+support,0.8630946786249609
+many matter,0.5
+discretion of the commission,1.0
+mr lalit,0.5
+question of complicated question,0.5
+party deny,0.0
+sufficient cause,0.6538461538461539
+concerned doctor,0.6666666666666666
+respect,2.6704963235294117
+state commissions,3.6666666666666665
+civil court for discovery,0.5
+such order,1.056910569105691
+legislation,3.2032032032032034
+such issue,0.5263157894736842
+amendment in the legislation,0.5
+business,2.8512056385864457
+notice by the complainant,1.0
+interveners,0.5
+civil court for appropriate relief,1.0
+necessary therefore,0.5
+fact,3.6284951019474962
+service of copies,0.5
+removal,0.7204301075268817
+exclusion of the jurisdiction,0.8
+learned counsel,3.703333333333333
+operating equipments,0.5
+documents in a list,0.5
+contemplated legislative action,0.5
+initial stage,0.5333333333333333
+order viii rule,1.0
+state level,0.9259259259259259
+expression,1.7424391201885312
+omit,0.7515898251192369
+remedy to the consumers,1.5
+periodical,0.6330935251798561
+recording,1.3265454545454545
+equipments,0.7518796992481204
+complicated issue of law,0.0
+admissibility,0.9629629629629629
+building,3.870745432459903
+various provisions,1.5789473684210527
+steps in this direction,0.6666666666666666
+such cases,0.7390180878552971
+many matters,0.5
+desai,1.3333333333333333
+clauses,1.5486111111111112
+learned counsel for the parties,1.263157894736842
+material object,0.44871794871794873
+chief,1.9429638234317954
+xvii,1.0
+incidents in the newspapers,0.5
+caution,1.0777000777000778
+agencies under the act,0.5
+special law,0.875
+issuance of instructions,0.5
+that competent persons,0.5
+consumer council,0.6666666666666666
+december,0.9629002463054187
+production of all documents,0.5
+object,1.4940119760479043
+such complaint,0.6666666666666666
+same time,0.6913511801045461
+whole purpose,0.3589743589743589
+following order,0.5647058823529412
+defective goods deficient service,0.5
+video conference of telephonic conference,0.5
+year in disposal,0.0
+provider,1.803921568627451
+case within the time,1.5
+consumer councils,0.6666666666666666
+witnes,5.333906623599983
+drug,5.000164190132173
+speedy,1.5434042553191487
+contended that such complicated question of facts,0.0
+various provision of the act,0.0
+viii,0.7209469153515065
+patient swab,0.5
+wrong assumption,0.3333333333333333
+work,2.8478559811646353
+law for the time,1.945945945945946
+commission as the case,0.6666666666666666
+reasons for delay,1.3333333333333333
+more member,1.8
+extent,1.410108024691358
+witness in person,0.0
+indian medical association v vp,1.0
+non - miscellaneous day,0.0
+practices,1.3187467899332308
+appellants - doctor,0.0
+copy thereof,1.6666666666666667
+thirty days,1.4871794871794872
+much time,0.24528301886792456
+proposal,1.8145800316957208
+such forum,1.0
+ground of negligence,0.5
+complaints against defective goods,1.0
+negligence of doctors,0.5
+light,0.8816192372754331
+summary in nature,0.5
+video,3.6701816570669035
+affidavit,2.2996987951807224
+years,2.5395804110508022
+such case,0.7332761578044598
+omits,0.855855855855856
+order viii rule i-a,0.0
+exercise,1.9400726466785694
+certain questions in writing,0.5
+witness on oath,0.5
+report,1.7768151696835826
+benches of the national commission,0.5
+national commission at the national level,0.5
+protection,1.1604395604395603
+mr ashok,1.2222222222222223
+first question,0.5
+principle,1.9620890732001848
+vacancies in the office,0.5
+copies,0.5369304682962884
+main object of the act,0.0
+period within which complaints,0.5
+party,2.2250894654439723
+anaesthetic,0.25
+newspaper,1.4133350781914544
+control-,0.0
+milestone in the history,0.5
+statement with stipulated time,0.5
+rely,1.3614628307116583
+concerned doctors,0.6666666666666666
+delhi,2.6089285714285717
+derogation of the provisions,1.0
+that application,0.5142857142857143
+party on receipt,1.0
+examination of any witness,1.5
+cost of person,0.5
+place of such experts,0.5
+upon facts,0.8571428571428571
+consumer forums,1.6
+issues,1.1246716508385532
+doctor on affidavits,0.0
+amicu,0.8950617283950617
+commission for want,0.5
+of the cases,0.7619047619047619
+justice,2.292557084574302
+day of time,0.0
+grievance,1.032529659395331
+negligence of experts,0.5
+cross-examination,0.0
+criminal proceedings,2.6818181818181817
+lapse,0.9238095238095239
+councils,0.6666666666666666
+video conference,1.5
+suggested question,0.5
+derogation,1.0952380952380951
+forum,1.9016754850088184
+that complaint,0.5454545454545454
+such application,1.1428571428571428
+consumer,4.596273291925465
+chairman,1.3592677345537758
+shah,1.9074421513445903
+approval,1.4085456739300164
+determination of consumer disputes,0.5
+relief of a specific nature,0.5
+inordinate delay in disposal,0.5
+quasi - judicial machinery,0.0
+other members of the forum,0.5
+such doctors,1.0
+date,6.195616975795285
+main objects of the act,0.5
+exhaustive procedure,0.5
+gas,1.240010731232918
+to obvious fault,0.5
+services by a medical practitioner,1.5
+same power,0.6018518518518517
+bill,1.134631348577466
+forms,0.8089941394570028
+opportunity to the litigant,0.5
+document in a list,0.0
+business management,0.4444444444444444
+consumers,3.861290322580645
+offence,4.401610644257703
+provision in the special laws,0.0
+version by the opposite party,0.5
+hearing,0.9644508209787979
+act consumer,1.6666666666666667
+universal rule,0.6666666666666666
+respondent,4.757894736842104
+speedy justice,1.4
+senior counsel mr nariman,1.0
+want,0.9034484256025601
+civil proceedings,1.2857142857142858
+institution,2.7327010745685443
+govt,0.7017766497461929
+court for reasons,0.6666666666666666
+appropriate actions within stipulated time,0.5
+such experts,0.6666666666666666
+procedures,0.6129675045984059
+services--,0.0
+negligence,1.3017543859649123
+bench of the national commission,0.5
+reception,0.8008474576271186
+cross-examination of the witnesses,0.0
+day,1.550999710228919
+question,2.980312372067635
+principles,1.3198511166253102
+adoption,0.6852035749751738
+appropriate relief,1.0
+regulation with the approval,0.0
+benches,1.1746031746031744
+purposes of the act,1.0
+hearing of the matters,0.6666666666666666
+basis of evidence,1.125
+speedy grant of copies,0.5
+court in charan singh v,0.5
+levels,0.8861538461538463
+council,1.464939453675021
+such forums,0.75
+right of the consumer,1.75
+impact,1.0957789249924081
+consumer form,0.5
+consumer disputes,3.111111111111111
+scmanu,7.940520446096654
+more time,0.4135338345864662
+amendments,1.2633895818048422
+benevolent piece of legislation,0.5
+speedy inexpensive remedy,0.5
+central level,0.6666666666666666
+step,0.8867024753460084
+appeals,1.7060218112849692
+enactment of the act,0.6666666666666666
+months,1.1938163721148947
+item of operating equipments,0.0
+practice,1.7660110149488593
+august,0.977116704805492
+other material object,0.5
+statement,2.5393160135035964
+procedure in conformity,0.5
+medical association v vp,1.0
+appropriate steps,0.8
+goods deficient services,0.5
+copy of such complaint,0.5
+revision petitions,0.8
+degree of business management,0.5
+aforesaid provision,1.6333333333333333
+members of the forum,1.5
+penalties for non-compliance,0.0
+trial on the basis,1.0
+national commission as the case,0.6666666666666666
+similar provisions,1.0
+piece of legislation,1.3
+part of the concerned doctors,0.5
+various provision,1.5789473684210527
+high,5.367119186841496
+unexplained delay,1.0
+such issues,0.5263157894736842
+vacancy in the office,0.5
+members,1.9437616522164103
+natural justice,2.6666666666666665
+appellant in the manner,0.5
+sic,1.1611481056257176
+aforesaid section,1.1538461538461537
+force,1.6009408121948314
+swab,0.25
+commodity,1.4505494505494503
+laboratory,1.037248755301494
+long drawn,0.5
+learned,3.406323898681099
+statement-,0.0
+suit,2.485274378207659
+objects,0.7297830374753452
+defendant,3.7706855791962175
+purpose,2.519170317925504
+that purpose,0.609375
+law,3.538923411654744
+district fora,1.0
+english,0.9836154262307752
+civil court,3.706666666666667
+nos,1.2635492554198444
+receipt of notice,0.75
+evidence before a commission,0.5
+charan,1.1111111111111112
+following matters,1.2222222222222223
+consumer protection,2.076923076923077
+doctors on affidavits,0.5
+time,2.4764180952862667
+retired judge,1.4545454545454546
+central government,3.0380952380952384
+cases,1.9728229418951067
+similar contention,0.9
+touch,0.9673751421324236
+treatment,1.1351020408163266
+time objection,0.5
+plaintiff,2.177926421404682
+complaint in such cases,0.0
+allegation,1.834319526627219
+items,1.0672246220302377
+such documents,0.6753246753246753
+issuance,1.05379513633014
+power in support,0.5
+which experts,0.5
+considering-,0.0
+state commission in the following matters,0.0
+long years,0.4800000000000001
+that parliament,1.2592592592592593
+purpose of this section,1.0
+that the aforesaid,1.1612903225806452
+within prescribed time,0.5
+purposes of this section,1.1666666666666667
+original,1.332190013153732
+affidavit upon which parties,0.0
+stakes,0.4884615384615385
+aforesaid direction,0.8333333333333334
+complicated issues of law,0.5
+slip,1.0896057347670252
+effective implementation,0.6666666666666666
+appointment of the chairman,0.5
+principle of natural justice,1.0
+- judicial bodies,0.0
+shantha,0.3
+metropolitan magistrate,3.8461538461538463
+type of cases,0.5
+simple redressal,0.5
+similar action,0.4444444444444444
+consumer protection rules,0.5
+complaint,2.734525785235724
+heavy workload,0.5
+speedy trial,11.5
+question of facts,0.6666666666666666
+experts opinion,0.75
+amendment in the act,1.0
+ninety days from the date,0.8333333333333334
+defective good,1.0
+expeditious step,0.5
+opposite party by the party,0.6666666666666666
+limit,2.3804570428443834
+grant,1.7314487632508835
+other side,0.5701657458563535
+swabs,0.5
+medical service by a medical practitioner,0.0
+addition,1.5588539142412572
+empowers,0.8708708708708708
+right,3.07483248288682
+proper remedy,0.5
+hereinafter,0.7670609645131939
+which complaints,0.6666666666666666
+prosecution,4.619407894736842
+- judicial machinery,0.0
+scope of delay,0.5
+incident in the newspapers,0.0
+complicated question,3.25
+usa,0.9416563489832968
+march,1.0644238856181665
+opposite party on receipt,1.0
+order allow the complaint,0.5
+learned senior counsel,3.4615384615384617
+necessary relief,0.6666666666666666
+mandate,0.8783810859547183
+shortcomings,0.41558441558441556
+offences,1.6681887366818873
+proper infrastructure,0.5
+national commission remain,0.5
+attendance of any defendant,0.5
+type,0.8102172691515265
+counsel,2.2246780703440323
+application,2.3322596088086445
+other law for the time,1.6
+court at bombay,0.6666666666666666
+candy,0.24074074074074078
+april,0.8928235149629509
+ground that principle,0.5
+court for necessary relief,0.6666666666666666
+right earnest,0.75
+commission,4.703619179345321
+uniform procedure,1.0
+ia nos,1.0
+function of the state commissions,0.0
+rules,3.130914366958792
+witnesses,3.359210526315789
+summary,0.8025241675617614
+relate,1.0088867598470672
+apparent that the aforesaid,0.5
+redressal,2.7333333333333334
+bottleneck,0.25609756097560976
+consumer dispute redressal commission,0.5
+goods deficient service,0.5
+new,0.9418497626301229
+such doctor,1.0
+exploitation,0.6222222222222222
+association,1.2099052684061826
+important milestone,0.5
+relates to goods,0.5
+exclusion,1.276390008058018
+reception of evidence,1.0
+various direction,0.4444444444444444
+- judicial body,0.0
+suggested questions of cross-examination,0.0
+milestone,0.40384615384615385
+following matter,1.2222222222222223
+main objects,0.5
+reasons for grant,1.0
+medical services,0.4800000000000001
+submissions,0.5235745614035088
+administrative control-,0.0
+complicated issues,1.3333333333333333
+son,4.595622484812135
+restrictive trade practices,1.0
+witness  under sections,0.0
+other ground,0.8333333333333333
+return,1.5755725190839696
+objects of the act,1.25
+disposal,1.1180555555555556
+- judicial freedom,0.0
+submission,1.0913871684001404
+disposal pendency,0.5
+evidence,3.6676405172088815
+document,1.401100265092073
+intervener,0.6666666666666666
+summary trial,2.0
+circuit benches,1.0
+summary trials,0.6666666666666666
+decision of this court,2.3260869565217392
+complicated questions,2.6666666666666665
+add,1.784477084023226
+such as doctors,0.3333333333333333
+operating equipment,0.5
+reliance,1.400763358778626
+lapse of some time objection,0.5
+questions of facts,1.0
+backache,0.5
+consumer forum,2.4285714285714284
+inexpensive remedy,0.5
+disposal of these many matters,0.5
+conference,0.9284899820817724
+production of any document,1.0
+other member,0.6470588235294118
+compliance,1.0029799914857385
+spirit of the benevolent legislation,0.5
+case,7.332269420884958
+complaint about deficiency,0.5
+period,1.9480170842427122
+attention of the government,0.5
+number of complaints,0.4444444444444444
+statement of defence,1.3333333333333333
+summary proceeding,0.6666666666666666
+suggested questions,0.5
+appropriate laboratory,0.5
+week on a non-miscellaneous day,0.0
+complaints in such cases,1.0
+on such other day,0.5
+complainant s case,0.0
+step in this direction,0.0
+singh,3.7791111111111113
+medical services by a medical practitioner,0.5
+wrong,1.2933182103578877
+revisions,0.8847926267281105
+purposes,1.4391216613438835
+agencies,0.9094581337642103
+arrear,1.4666666666666666
+instruction,1.8197943962910703
+national consumer forum,0.5
+district forums,2.0
+service,4.257395095954566
+time limit,0.9444444444444444
+therefore,2.960332350576253
+similar provision,1.25
+contention,1.666391070690368
+assumption,0.47735650342285413
+opposite party,2.3333333333333335
+rule,5.04
+several bottlenecks,0.5
+contended that such complicated questions of facts,0.5
+negligence of the doctors,0.5
+slip disc,0.5
+such document,0.7972027972027971
+proceedings,1.7670925223666287
+such incident,0.41481481481481486
+fifteen days,1.2592592592592593
+such complicated questions of facts,0.5
+service of summons,1.25
+function of a civil court,0.0
+trade practice,2.6666666666666665
+exercise of administrative control,0.5
+chatterjee,0.3846153846153846
+supra,2.246342614440774
+bench,2.5793391667754992
+disposal pendency of cases,0.5
+to obvious faults,0.5
+members as the president,1.0
+trials,0.5583800086169755
+sub - section,0.0
+office,3.5913445886237847
+national levels,0.4
+due to obvious faults,0.5
+video conferences,0.5
+furtherance of objects,0.5
+grievances,0.9324324324324326
+benevolent legislation,0.6666666666666666
+criminal court,2.888888888888889
+costs,0.8167395522604189
+witnes on oath,0.0
+issues of law,0.6666666666666666
+wlr,0.396
+discretion,1.2998211091234348
+more members,1.8
+nariman,0.5454545454545454
+examination - in - chief,0.0
+act consumers,1.0
+body,1.336775463480009
+ashok,0.4374740340673037
+retired judge of this court,0.5
+aforesaid directions,0.8
+goods,4.7578125
+quasi - judicial body,0.0
+granting of repealed adjournments,0.5
+provisions for creation,0.5
+use of wrong gas,0.5
+fifteen day,1.2592592592592593
+benches thereof,1.0
+notice,2.3300025999395686
+several bottleneck,0.5
+twenty-one days,0.0
+surgery,0.648582995951417
+in nature with regard,0.5
+complaint before the national commission,0.5
+national commission,4.818181818181818
+card,0.7931495852287931
+ample opportunity,0.42857142857142855
+large body of consumers,0.6666666666666666
+composition,1.4736842105263157
+such complicated question of facts,0.0
+management,1.6732611752395274
+power,3.8165227690948367
+incidents,0.8645320197044336
+injection,0.5826330532212886
+steps,1.169318181818182
+basi of evidence,0.0
+appropriate compensation,0.6666666666666666
+mandate to the district forum,0.5
+examination,2.4920345926263088
+opposite party omit,0.5
+rely upon document,0.0
+proposal in add section,0.5
+test from the appropriate laboratory,0.5
+appropriate compensation to consumers,0.5
+translation,0.4666095890410959
+ninety days,1.0
+under section,5.374517374517374
+petition before the national commission,0.5
+equipment,0.8883209087681933
+forums,1.5972222222222223
+warning,0.7703501591632559
+reason,2.6381270903010035
+party to the opposite parties,0.5
+operation,1.0959893294085181
+curiae,1.6875
+position,1.549133168619177
+patient,1.4067744260269741
+that contention,1.0
+sufficient safeguard,0.8571428571428571
+receipt of the complaint,1.0
+country with the district forum,0.5
+petition,5.3436539306104525
+time frame,0.5263157894736842
+that competent person,0.5
+remedy,1.3214024835646458
+delay in disposal,2.25
+notices,0.5487269534679544
+guidelines,1.540251572327044
+part of all concerned delay,0.5
+case by the consumer forum,0.0
+district forum unless sufficient cause,0.5
+extend further period,0.5
+case if adjournment,0.5
+better protection,0.5
+consideration,1.9110153789142115
+such other day,0.5
+other items,0.5263157894736842
+relate to goods,0.0
+period of thirty days,1.6363636363636365
+commission remain,0.5
+same on such other day,0.5
+necessary regulation,0.6666666666666666
+retired high court judge,1.4285714285714286
+original petition,1.7142857142857142
+days from the date,1.7352941176470589
+defective goods,1.0
+penalty,1.5165226929932814
+opposite parties,0.6666666666666666
+chin,0.985046683703823
+proper mind,0.5
+commissioner,2.271608643457383
+alternative forum,0.5
+clause,3.526455026455027
+documents,1.142515923566879
+quasi-judicial freedom,0.0
+legislative mandate,1.5
+summoning,1.9090909090909092
+testing of commodities,1.0
+mind that legislature,0.5
+such incidents,0.345679012345679
+reply,1.0337305560040906
+care,0.8846948234137723
+apply,1.5478801169590641
+receipt,1.5471923536439667
+delay in procedure,0.5
+proceeding,2.1298245614035087
+further consideration,0.45454545454545453
+simple redressal to consumer disputes,0.5
+ia no,1.2511278195488722
+consumer movement in the country,0.5
+other law,0.991304347826087
+trade,1.8307706424423558
+forums at the district,0.5
+working,1.1479822756765312
+object of the act,1.5555555555555556
+specific nature,0.30000000000000004
+universal rule of law,0.5
+conferences,0.23295454545454544
+statement under order viii rule i-a,0.0
+goods--,0.0
+metropolitan,1.3088642659279779
+legislature,2.818553268765133
+best manner,0.5
+state commission,7.066666666666668
+protection of interest,0.5
+circuit bench,1.0
+authority,2.4352627108360636
+judge,2.9012627415183325
+provisions,3.8929824561403508
+original petition before the national commission,0.5
+manuscmanusc,7.940520446096654
+newspapers,0.854368932038835
+party denies,0.5
+member on all levels,0.0
+exhaustive procedure in conformity,0.5
+civil proceeding,1.5
+speedy inexpensive remedy to the consumers,0.5
+day for some unavoidable reasons,0.0
+view of the aforesaid provisions,0.5
+performance of an operation,0.5
+relies upon document,0.5
+appointment of the members,1.0
+safeguard,0.6623074687590815
+affidavits,1.954022988505747
+that complainant,0.8333333333333334
+disposal of consumer complaints,0.5
+period within which complaint,0.5
+weeks,0.8109161793372318
+state forum,0.5
+days for some unavoidable reasons,0.5
+other item of operating equipments,0.0
+authority of the state commission,0.5
+reasonable time,0.7142857142857143
+suit in respect,0.75
+judges,2.0931496919173616
+forum at the district,0.5
+president of national commission,0.5
+heavy cost,1.0
+performance,1.4794327394994442
+issuing of any commission,1.0
+experts,2.4829710144927537
+various provisions of the act,1.375
+questions,0.9979150871872632
+large body,0.3333333333333333
+consumer dispute in the manner,0.5
+functioning of the state commissions,0.5
+concerned analysi,0.5
+indian penal code,5.264705882352941
+commissions,1.3666666666666667
+national consumer dispute redressal commission,0.5
+upon fact,0.8571428571428571
+first appeal,1.112781954887218
+legislative intent,1.3823529411764706
+movement,0.8351097178683385
+national,1.5126860273884035
+assistance,0.8623872906826965
+determination of complicated questions,0.5
+months from the date,1.3333333333333333
+national level,0.5555555555555556
+under sections,2.1931818181818183
+grievances of the learned counsel,0.5
+prior service of copies,0.5
+aforesaid provisions,1.25
+injection of a drug,0.5
+iii,1.5614499719992534
+other items of operating equipments,0.5
+consumer forms,0.5
+conformity,0.71875
+purpose of the act,1.7
+arrears,2.3209876543209877
+english translation of judgments,0.5
+possession,2.808810857389056
+spirit,0.6048586885080135
+no doubt,0.8331331503088538
+occasion,0.7946745562130177
+busines,2.8488759960122034
+appellant,14.387096774193548
+week,0.8253498691546249
+provision for creation,0.0
+relates,0.7171071327081556
+cases by the consumer forum,0.5
+precise in nature with regard,0.5
+ground that principles,0.5
+lacunae,1.2
+delhi in original petition,0.5
+reason for grant,0.0
+restrictive trade practice,1.25
+criminal court at bombay,0.5
+opposite party denies,0.5
+removal of the wrong limb,0.5
+order xviii of cpc,0.5
+such as section,0.75
+requirement,1.2416133333333332
+complainant,4.538461538461538
+of the case,0.9430512016718913
+chin keow v govt,0.5
+sabha,2.814814814814815
+new delhi,1.744186046511628
+state,6.817996007300392
+regulations,3.7157723577235777
+relies,0.5112847222222222
+jurisdiction,2.9539571926331507
+heavy costs,0.6666666666666666
+issue of law,0.0
+bottlenecks,0.3333333333333333
+intent,1.8427075724373023
+state commissions in the following matters,0.5
+appellants - doctors,0.0
+trial,3.7979448350459712
+ample opportunity to the litigant,0.5
+compensation to consumers,0.5
+court for discovery,0.5
+member of the forum,0.0
+reasonable long drawn,0.5
+manu,7.078142071124147
+practitioner,0.8401826484018265
+consumer right,0.5
+provision of the act,0.8888888888888888
+repealed adjournments,0.5
+central,2.61875
+questions in writing,0.5
+language,0.8555828468744352
+cpc,1.0529279279279278
+fora,0.9542743538767396
+act consumer disputes,0.5
+summon,1.0346907993966816
+complaint--,0.0
+june,0.9339080459770116
+president of the national commission,0.5
+revision petition,2.6363636363636362
+agencies in respect,0.5
+various lacunae in the act,0.5
+evidence of experts,1.75
+obvious faults,0.5
+attendance,0.5024271844660194
+airsc,1.6909090909090911
+such application at this stage,0.5
+sub - section unless an opportunity,0.0
+such complicated questions,1.0
+rajya,1.0
+proposed bill,0.2777777777777778
+new delhi in original petition,0.5
+act for disposal,1.0
+adequate infrastructure,0.6666666666666666
+nature,1.4149926876444778
+penalties,0.6902761104441777
+legislative purpose,1.25
+as sections,0.8333333333333334
+aggrieved other side,0.5
+members on all levels,0.5
+extended period,1.1764705882352942
+recording of evidence,1.5714285714285714
+complicated question of facts,0.5
+nature with regard,0.5
+court for appropriate relief,1.0
+disposal of cases,1.25
+rajya sabha,0.8333333333333334
+alive to the problems,0.5
+requisitioning of the report,0.5
+breach candy hospital,0.5
+compensation,3.7916666666666665
+affidavit of the experts,0.0
+necessary building,0.5
+earnest,0.4038461538461538
+main object,0.5555555555555556
+criminal proceeding,2.9166666666666665
+attention,0.8724846605528799
+jurisdiction power,1.8333333333333333
+simultaneous appointment of the members,0.5
+adjournment of any proceeding,0.5
+insertion of sub-section,0.0
+action,3.127292663476874
+source,0.840137091365362
+fit,2.7848485899724365
+respect of appeals,0.5
+senior counsel,2.2857142857142856
+complaint before the metropolitan magistrate,0.5
+question in writing,0.0
+alternative,0.841508109794136
+wrong patient,0.3333333333333333
+commission at the national level,0.5
+opposite party omits,0.5
+out - patient card,0.0
+persons,2.5993381990166555
+touch hospital,0.6666666666666666
+seeing,1.227059325650875
+disputes,2.3049883690876194

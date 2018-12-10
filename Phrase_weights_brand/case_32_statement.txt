@@ -1,0 +1,511 @@
+fide requirement,1.0
+courts,2.1216528162511543
+recognition in section,0.5
+predecessors of the appellants,0.5
+appeal by bhanaram,0.5
+committee,2.546237803603864
+lessor,2.7619047619047623
+restriction,1.0123456790123457
+court in sri ram pasricha,0.5
+of the following grounds for an order,0.5
+code,2.880559796437659
+landlord of such tenant,0.5
+residence,0.7568831168831168
+terms,2.390350840909655
+predecessors,0.5151515151515151
+judicial committee in kumar krishna prasad lal singha deo v baraboni coal concern,0.5
+usual undertaking,0.75
+act in the matter,1.125
+instance,0.9469803370786518
+jagannath manuscmanusc,0.5
+residential purpose,1.6666666666666667
+lease from nazul department,1.0
+subsequent landlord,0.5
+jagannath,0.8
+court,12.24425115501509
+lalit,1.55
+estop,1.3684640522875815
+jone,0.2803792569659443
+following grounds for an order,0.5
+person,4.291511329454258
+well - established doctrine,0.0
+way,1.7812722068664852
+correctness,0.8404159132007234
+advocate for the respondents,0.6666666666666666
+concurrent decisions,1.0
+title of the plaintiffs,0.5
+occupation of the suit house,0.5
+behalf,1.9888053603529987
+high court of chhattisgarh,1.3333333333333333
+controlling,0.8169934640522876
+following grounds,1.0
+coal,0.78125
+cross,2.0778316690442225
+mr banerjee,0.5
+correctness of the judgment,1.1111111111111112
+decisions of the courts,0.5
+ownership,1.1522633744855968
+occupation as a residence,0.5
+decisions,1.3888475974580996
+unmarried daughters,2.0
+judicial committee,0.39473684210526316
+decision,2.9514937765898557
+contrary,1.027917657672435
+bona fide,0.9259259259259259
+landlord,3.643181818181818
+aforesaid,2.592896174863388
+such undertakings,0.5
+nathu,0.5
+house,2.0021735292386764
+correctnes,0.8404159132007234
+appeal,3.4125488033856883
+behalf in other civil court,0.5
+pari materia,0.8333333333333334
+land,6.337534028705619
+terms without any order,0.5
+special provision,1.1818181818181819
+light on the question,0.5
+ward,2.4967109028473318
+aforesaid term,0.8333333333333334
+year,2.8349484769759212
+materia,1.4277220364176888
+tertii,0.5
+lower appellate court,3.6666666666666665
+code of civil procedure,5.5636363636363635
+judgment,3.288216560509554
+jessel,0.3333333333333333
+peaceful possession of the suit house,0.5
+defendant bhanaram,3.5
+father,1.4298716229162676
+sharma,0.9516994633273703
+order,5.472481489660944
+aside concurrent decisions,0.5
+act,12.870263922028107
+order vi,1.7575757575757576
+smt,0.7459757206267715
+eviction of tenant,1.25
+plaint,3.104295112903434
+explanation,1.4510159010600707
+pleading,1.1270125223613594
+judgment under appeal,1.0
+contract of tenancy,0.6666666666666666
+fide need,1.2
+accommodation let for residential purpose,0.5
+decree of eviction,0.75
+raigarh town,0.5
+end of the term,0.5
+rent of the suit house,0.5
+manner,1.4494591333432125
+member,2.649111111111111
+continuance,1.5151515151515154
+decision of the trial court,0.6666666666666666
+advocate in support,0.6666666666666666
+civil procedure,5.448275862068965
+section,9.287987283173626
+materia with section,0.8571428571428571
+appellate,2.561224489795918
+landlord of the suit accommodation,0.5
+circumstance,1.429931390219372
+civil,2.126558634963905
+govind,0.7333333333333335
+continuance of the tenancy,0.5
+subsequent lessor,0.5
+ground that the plaintiffs,0.5
+- residential purpose,0.0
+krishna,1.2505446623093683
+anar devi,2.5
+money,1.6567889044524557
+such undertaking,0.5555555555555556
+pari materia with section,0.8571428571428571
+owners of house,0.5
+major sons,1.0
+control,2.148867902684286
+chhatisgarh accommodation control act,0.5
+facts,1.4696673624372698
+issue,2.766776251628934
+para,2.300239586747483
+need under section,0.5
+contract,6.227349970404598
+benefit,2.604810195438474
+latter,0.7109238669791096
+mr gupta,2.5
+ground for a person,0.5
+cost,1.2954397451466992
+ltd manuprmanupr,0.75
+anar devi s case,0.0
+judgment of the high court,1.721311475409836
+doctrine,0.7455954017243533
+orders,1.4936359300077826
+following ground,1.0
+tenant s estoppel,0.0
+eviction,4.764705882352941
+in the instant suit,0.5
+title to such immovable property,0.5
+accommodation let,1.0
+course,1.6545957498716626
+in view of section,1.1538461538461537
+plaint to the rent,0.5
+landlord under section,0.5
+tenant of immovable property,1.0
+non-residential purpose,0.0
+possession of accommodation,0.5
+heirs of bhanaram,0.5
+grounds,0.9540208829455945
+ground that the plaintiff,0.5
+ground,1.4186722903211633
+tenant under another landlord,0.5
+cros,1.8137948361162648
+owners of the suit house,1.0
+accepted position,0.5
+estoppel,2.736842105263158
+special provision for eviction,0.0
+matter,2.8088923076923082
+owner thereof,1.2
+jones-ford lr,0.0
+tenant,4.821212121212122
+rent,2.460251217077583
+term,3.6255105640901575
+appellants,7.701086956521739
+real owner,0.6666666666666666
+view,2.441100058469462
+indian,1.2604961505560306
+bilaspur,1.2
+document in some other proceedings,0.5
+vide,4.454025282767798
+pleadings,1.3125
+recognition,1.4333333333333333
+singha,1.1666666666666667
+ch d,1.4618165801016756
+recovery,3.9892473118279574
+witness,5.333906623599983
+second appeal,4.5
+bona fide requirement,0.5
+committee in kumar krishna prasad lal singha deo v baraboni coal concern,0.5
+relationship,1.1804123711340206
+record,2.5393414390845273
+procedure,2.552771605064117
+scope,0.8412698412698413
+provision,5.439002243350069
+city,2.544592792669584
+support,0.8630946786249609
+bona,0.9015873015873015
+plaintiffs,1.2549019607843137
+business,2.8512056385864457
+other proceeding,1.4545454545454546
+fact,3.6284951019474962
+owner,2.9502416709822197
+estate,1.9402985074626868
+expression,1.7424391201885312
+ujjal banerjee,0.5
+evidence on record,2.7906976744186047
+department,1.9858367499068206
+such immovable property,0.5
+attornment,1.0
+plaintiffs as landlord,0.5
+concurrent decision of the courts,0.0
+kumar,2.028839704896043
+relationship of landlord,1.6666666666666667
+prasad,1.1407089151450054
+immovable property,1.75
+witnes,5.333906623599983
+owners,1.9409649385675758
+law for the time,1.945945945945946
+rent by money orders,1.0
+recovery of possession,1.1666666666666667
+town,1.9746537396121884
+decision in anar devi,0.5
+money orders,0.4444444444444444
+possession of the suit house,0.5
+applicability,1.0928961748633879
+doubt,1.3646267723102583
+light,0.8816192372754331
+years,2.5395804110508022
+judicial,2.8688059701492543
+ownership of the plaintiffs - landlords,0.0
+evidence of bhanaram,0.5
+vasudev shyamji ie,0.5
+anything,0.9132309941520469
+suitable residential accommodation,0.6666666666666666
+undertakings,5.083333333333333
+sri,1.1524741891017525
+ownership of the plaintiffs,1.0
+bhanaram sharma,1.0
+aside concurrent decision of the trial court,0.0
+ford,0.4970327932811762
+box,1.5968425105891417
+cross-examination,0.0
+residential accommodation,1.4
+provision in the instant case,0.5
+necessary in view of section,0.5
+statutory recognition in section,0.5
+possession of land,1.4
+instant case though defendant bhanaram,0.5
+name of plaintiffs,1.0
+decree,3.732408834103749
+date,6.195616975795285
+court against a tenant,0.5
+sons,2.7457346002031446
+reference,2.1755848210276256
+special provisions,1.0
+next sentence defendant bhanaram,0.5
+kamal,0.8250000000000001
+beginning,0.8322990543735226
+respondent,4.757894736842104
+schedule,2.9453067257945307
+landlord in possession,0.5
+question,2.980312372067635
+court of chhattisgarh,1.3333333333333333
+doctrine of tenant,2.0
+suitable non-residential accommodation,0.0
+scmanu,7.940520446096654
+word,2.065873981084096
+correctnes of the judgment,0.0
+tenancy,3.0545454545454542
+ground of bona,1.0
+need,1.1097650269586634
+august,0.977116704805492
+statement,2.5393160135035964
+major son,1.0
+in some other proceedings,1.0
+usual undertakings,0.5
+name,1.8996570753072433
+high,5.367119186841496
+tenant under clause,0.5
+applicability of the doctrine,0.6666666666666666
+provisions for eviction,0.5
+gupta,0.7610062893081762
+counter notice,0.5
+force,1.6009408121948314
+tenant on ground,0.5
+property,2.9368986630013745
+intelligible doctrine,0.5
+special provisions for eviction,0.5
+suit,2.485274378207659
+such tenant,1.0
+appellate court,3.1458333333333335
+defendant,3.7706855791962175
+purpose,2.519170317925504
+law,3.538923411654744
+trial court,3.854545454545455
+quotation,0.4962406015037594
+civil court,3.706666666666667
+time,2.4764180952862667
+week from the date,0.6666666666666666
+plaintiff,2.177926421404682
+following ground for an order,0.0
+aforesaid terms,0.8333333333333334
+front portion,0.5
+such person,0.9634888438133874
+lower,0.893547211082756
+jus,2.3961004845441103
+accommodation,1.3095238095238095
+lease from nazul,1.5
+aforesaid question,1.0
+former landlord,0.5
+title of the appellant,0.5
+stringer,0.25
+bona fide by the landlord,0.5
+right,3.07483248288682
+hereinafter,0.7670609645131939
+to the suit,1.7777777777777777
+statutory recognition,0.75
+view of section,1.5
+accommodation from the tenant,0.5
+ownership of the accommodation,0.5
+indian evidence act,1.3125
+sentence defendant bhanaram,0.5
+aforesaid terms without any order,0.5
+application,2.3322596088086445
+other law for the time,1.6
+predecessor,0.9857142857142858
+rules,3.130914366958792
+ujjal,0.5
+restriction on eviction,0.5
+predecessor of the appellants,0.0
+owner of the suit house,0.0
+jones,0.2735294117647059
+peaceful possession,1.4
+civil suit,0.7413793103448276
+plaintiffs - landlords,0.0
+chhatisgarh,0.6666666666666666
+raigarh,1.0
+possession as tenant,0.5
+prmanu,1.1333333333333333
+aforesaid judgment of the high court,0.75
+son,4.595622484812135
+words  at the beginning,0.0
+ltd,2.382356477306883
+dispute,2.402137592137592
+evidence,3.6676405172088815
+document,1.401100265092073
+decision of this court,2.3260869565217392
+nathu ram manuscmanusc,0.5
+case,7.332269420884958
+error,1.059158294766151
+scc,1.941872465904902
+other civil court,0.5
+jus tertii,0.5
+non - residential accommodation,0.0
+lease,1.2000155472636815
+aforesaid suit,1.0
+ram,2.11096203538064
+fide,0.8955057484612704
+fact that defendant bhanaram,0.5
+shyamji,3.0
+pasricha,0.5
+undertaking,2.8508771929824563
+portion,1.0756311179804223
+shaw,0.4895104895104895
+statement bhanaram,0.5
+evidence act applies,0.6666666666666666
+end,6.1484001628618765
+contention,1.666391070690368
+sri ram pasricha,0.5
+rule,5.04
+ownership of the suit house,1.0
+demise by a man,0.5
+advocate,1.0791341991341994
+landlord by attornment,0.5
+detailed evidence,1.0
+proceedings,1.7670925223666287
+favour,1.653145208700764
+witness box,1.0
+evidence act apply,0.0
+favour of the appellants,1.0
+first schedule,2.7142857142857144
+civil appeal,2.2413793103448274
+possession under the landlord,0.5
+aside concurrent decisions of the trial court,0.5
+gangji,1.0
+respondents,2.6341263330598856
+civil court against a tenant,0.5
+leave,1.0147842365477848
+costs,0.8167395522604189
+vasudev,0.46153846153846156
+second,1.4990453300392075
+unmarried daughter,2.0
+heir of bhanaram,0.0
+weeks from the date,1.1428571428571428
+nazul,1.5
+notice,2.3300025999395686
+accommodation let for non - residential purpose,0.0
+anar,2.4892024048096193
+possession under a contract,0.5
+sentence,2.3896654193264366
+reconstruction,0.7857142857142856
+examination,2.4920345926263088
+evidence act,3.8666666666666667
+title,1.74290600761189
+lal,1.6786163249382287
+decree for eviction,1.0
+instant suit,0.6666666666666666
+instant case,2.0631578947368423
+estops,0.2857142857142857
+position,1.549133168619177
+nazul department,1.0
+eviction from any accommodation,0.6666666666666666
+bhanaram,6.5
+fide by the landlord,0.5
+subsequent lessor s title,0.0
+court vide judgment,0.6666666666666666
+aside concurrent decision,0.5
+banerjee,1.1428571428571428
+reveal,0.9261660079051384
+consideration,1.9110153789142115
+paragraph,1.2930197483150305
+plaintiffs as landlords,0.5
+suit house,5.5
+words,1.6384367086179112
+that doctrine in stringer,0.5
+bona fide need,1.3333333333333333
+high court vide judgment,0.6666666666666666
+that doctrine,0.3589743589743589
+money order,0.44000000000000006
+clause,3.526455026455027
+devi,1.2339221178171305
+chhattisgarh,1.75
+air,2.0589664272145285
+in some other proceeding,1.0
+concurrent decision,1.0
+decision of the courts,0.5
+predecessor of the respondents,0.5
+title as tenant,0.5
+landlord s title,0.0
+other law,0.991304347826087
+latter s title,0.0
+concurrent decisions of the courts,0.5
+family,1.856281506375408
+heir,2.4782705005515444
+authority,2.4352627108360636
+ownership over the suit house,0.5
+provisions,3.8929824561403508
+heirs,1.7930440771349863
+tenants-,0.0
+conduct,1.5998023165163158
+daughters,1.1785714285714286
+occupation,1.1158072696534236
+landlords,0.8181818181818181
+name of the plaintiffs,0.5
+owner of the suit accommodation,1.0
+plaint as the front portion,0.5
+weeks,0.8109161793372318
+accommodation control act,1.4
+title of the landlord,0.5
+relevant provision,1.5737704918032787
+reference to the right,0.5
+name of the father,0.6666666666666666
+plaintiffs - landlord,0.0
+issue of ownership,0.5
+suit accommodation,1.5
+that defendant bhanaram,1.0
+evidence of defendant bhanaram,0.5
+reveal that father,0.5
+baraboni,0.5
+owner of the accommodation,0.5
+aforesaid judgment,1.4583333333333333
+occasion,0.7946745562130177
+possession,2.808810857389056
+busines,2.8488759960122034
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+week,0.8253498691546249
+advocate that the defendant,0.5
+instant,1.131578947368421
+lessor s title,0.0
+suit house for reconstruction,0.5
+of the following ground for an order,0.0
+requirement,1.2416133333333332
+case though defendant bhanaram,0.5
+relevant to the suit,1.0
+high court,7.7477477477477485
+suit for eviction,2.0
+deo,2.0342135354743927
+vasudev shyamji,1.5
+father of the plaintiffs,1.5
+respondents within the time,0.5
+daughter,1.0364906832298135
+other proceedings,1.1
+shyamji gangji,1.0
+years  title,0.0
+trial,3.7979448350459712
+provision for eviction,0.0
+relevant provision in the instant case,0.5
+manu,7.078142071124147
+concern,2.0544958000579303
+name of shyamji gangji,0.5
+demise,0.5263157894736842
+relevant in the instant suit,0.5
+counter,1.0576470084371923
+order vi of the first schedule,0.5
+govind shyamji,0.5
+man,6.972395052694935
+occupation in the city,1.0
+decisions of the trial court,1.0
+mohan,1.5416666666666667
+kumar krishna prasad lal singha deo v baraboni coal concern,0.5
+more of the following grounds for an order,0.5
+owner of house,0.0
+same in some other proceedings,0.5
+evidence of this witness,4.0
+beginning of the tenancy,1.0
+question of ownership,1.3333333333333333

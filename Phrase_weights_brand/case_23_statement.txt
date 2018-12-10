@@ -1,0 +1,65 @@
+stay on the true - up issue,0.0
+-jharkhand state electricity,0.0
+stay,0.7804272356384462
+- up issue,0.0
+today,0.6330563683773655
+submission of the learned counsel,1.0769230769230769
+subject,2.4420366233344897
+joseph,0.4502673796791444
+cost,1.2954397451466992
+impact,1.0957789249924081
+commission on account,1.0
+order,5.472481489660944
+notice on the above submission,0.5
+required orders within a period,0.5
+notice,2.3300025999395686
+required orders,0.5
+learned counsel,3.703333333333333
+apprehension,0.9319526627218935
+impact on the true - up issue,0.0
+orders,1.4936359300077826
+decision subject,1.0
+months,1.1938163721148947
+months from today,1.0
+decision,2.9514937765898557
+above submission,1.0
+later year,0.2727272727272727
+limited notice on the above submission,0.5
+dispute,2.402137592137592
+limited notice,1.3333333333333333
+submission,1.0913871684001404
+required order,0.5
+above apprehension,0.5
+true - up issue,0.0
+regulatory,1.7023809523809523
+appellant,14.387096774193548
+learned counsel for the commission,1.0
+appellant that the state commission,0.5
+appeal,3.4125488033856883
+direction,1.8495050210098996
+kurian,0.9655172413793104
+state commission,7.066666666666668
+later years,0.2857142857142857
+account,2.5754891049671977
+result,1.3356630184144715
+pendency,1.0084033613445378
+pendency of civil appeal,0.5
+electricity,4.4831223628691985
+regulatory commission,2.7
+decision subject to the result,1.0
+civil appeal,2.2413793103448274
+respondent,4.757894736842104
+issue,2.766776251628934
+kurian joseph,0.9655172413793104
+state,6.817996007300392
+counsel,2.2246780703440323
+case,7.332269420884958
+month,1.3454861111111112
+year,2.8349484769759212
+costs,0.8167395522604189
+period,1.9480170842427122
+justification,0.6859587020648967
+justification for the above apprehension,0.5
+years,2.5395804110508022
+commission,4.703619179345321
+month from today,0.8333333333333334

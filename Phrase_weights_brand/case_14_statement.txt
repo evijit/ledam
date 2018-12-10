@@ -1,0 +1,338 @@
+high court for regularization,0.5
+committee,2.546237803603864
+as grievance,0.5
+government,3.5583785424010483
+allowances,1.642105263157895
+scheme by the state,0.5
+forum by the aggrieved party,0.5
+state of u p,1.0
+absorption,0.928888888888889
+subsequent order,1.1428571428571428
+year of service,1.4
+regular absorption,0.5
+wage earner in the forest department,0.0
+allahabad,2.3404255319148937
+notice,2.3300025999395686
+common judgment,1.3636363636363635
+many year,0.3302469135802469
+appeals,1.7060218112849692
+to the aforesaid direction,0.75
+months,1.1938163721148947
+august,0.977116704805492
+scheme,3.415949119373777
+batch of appeals,1.3125
+amount,3.179688593072295
+status,1.14824388424026
+power,3.8165227690948367
+operation of the impugned judgment,0.75
+party after notice,0.0
+daily workers,0.3333333333333333
+maintenance,0.8632111808077473
+appropriate authority,1.222222222222222
+fact that the employee,0.75
+daily worker,0.3333333333333333
+batch,1.2940630797773658
+dismissal of the la,0.5
+parties for a considerable length,0.5
+employee,6.280487804878048
+corresponding cadre,0.5
+matters,1.4810665618448637
+single judge in respect,0.5
+interim order,2.9166666666666665
+salary,1.6193181818181817
+- wage workers  muster roll employees,0.0
+pradesh regularization of daily wages,0.5
+payments,1.0129870129870129
+judgment of the division bench,1.8125
+qualification essential,0.5
+high,5.367119186841496
+payment,2.059553716565686
+counterpart in the government,1.5
+daily,1.1759042772658508
+wage earners in the forest department,0.5
+pradesh,4.365853658536586
+set,2.3027452395971277
+court,12.24425115501509
+operation,1.0959893294085181
+needles,0.5447697312104091
+employment,1.5239770785161355
+time,2.4764180952862667
+position,1.549133168619177
+interim order of stay,0.8
+regular scale,0.6666666666666666
+many years,0.3302469135802469
+same judgment of the division bench,0.5
+allahabad high court,1.7037037037037037
+appropriate scheme,0.5
+pendency of the appeal,1.4166666666666667
+states,1.5120646995827023
+dismissal,1.614076246334311
+absorption of these daily - wages workers,0.0
+petition,5.3436539306104525
+prayer,0.6969296987087519
+person,4.291511329454258
+such posts,0.4800000000000001
+proviso,2.112
+single judge,4.011627906976744
+cause,1.8431210321626654
+response,0.7112676056338028
+behalf,1.9888053603529987
+intervention,0.6975694444444444
+judge in respect,0.5
+aforesaid statutory rule,0.5
+needless,0.6410068426197458
+scheme for regularisation,1.5
+part,5.294464509893076
+pursuant to the aforesaid direction,0.5
+regularization,4.0
+for a regular worker in the corresponding post,0.5
+years to the satisfaction,0.5
+cases,1.9728229418951067
+division,1.7657319129617017
+matter,2.8088923076923082
+year to the satisfaction,0.0
+posts rule,0.6666666666666666
+daily - wager,0.0
+impugned direction,1.5714285714285714
+civil appeals,1.24
+group,1.691932599016908
+similar duty,0.0
+article,4.378806157159795
+stay,0.7804272356384462
+parties after notice,0.5
+action,3.127292663476874
+statutory,2.0326923076923076
+facie,1.0476190476190477
+daily - wage workers  muster roll employees under the forest department,0.0
+regular wage,0.30000000000000004
+roll,1.7278932172102048
+impleadment,1.3333333333333333
+daily - wage workers  muster roll employee under the forest department,0.0
+daily wage,2.5
+applications,1.0021816198527407
+application for intervention,0.5
+aforesaid direction,0.8333333333333334
+post,2.344803646492219
+other allowance,1.5714285714285714
+opinion,1.4960606342789635
+mr bahuguna,1.0
+fact that the employees,0.75
+direction in this case,0.5
+for the court,0.5893719806763285
+aforesaid,2.592896174863388
+balakrishnan,0.6666666666666666
+equal work,2.8
+several cases,0.6666666666666666
+regularisation,6.857142857142857
+wager,1.5873015873015872
+state of uttaranchal,1.8571428571428572
+bahuguna,1.6666666666666667
+behalf of the employees,0.6666666666666666
+that grievance,0.5
+court for regularization,0.5
+pradesh regularization,0.5
+appeal,3.4125488033856883
+earners,0.25
+impleadment stand,0.5
+legal remembrance,0.5
+aggrieved party,1.25
+particular employee,0.5
+authority,2.4352627108360636
+delay,1.9544910179640715
+pay,3.828326695859537
+provisions,3.8929824561403508
+judge,2.9012627415183325
+applications for intervention,0.6666666666666666
+remembrances,0.3333333333333333
+statutory rules,1.875
+entitlement of these daily - wagers,0.0
+status quo,0.7246376811594204
+petitions,1.3930830039525692
+daily - wagers,0.0
+which committee,0.5
+division bench of the high court,1.6825396825396826
+regular employment of the government,0.5
+department for several years,0.5
+daily wages,2.0
+workers,1.9961977186311788
+counsel,2.2246780703440323
+remembrance,0.2181818181818182
+month,1.3454861111111112
+several case,0.6666666666666666
+impugned direction of the high court,0.6666666666666666
+year,2.8349484769759212
+provision,5.439002243350069
+satisfaction,0.6639095671353735
+application,2.3322596088086445
+qualification for regularisation,0.5
+secretary,0.9217877094972067
+available for a regular worker in the corresponding post,0.5
+uttar pradesh regularization,0.5
+worker in the corresponding post,0.5
+regular employment,0.6666666666666666
+rules,3.130914366958792
+- wage workers  muster roll employees under the forest department,0.0
+judgment,3.288216560509554
+respect,2.6704963235294117
+daily-wages employees,0.0
+which department,0.5
+services,1.6850241065659326
+group c,0.4085106382978724
+fact,3.6284951019474962
+order,5.472481489660944
+pursuant,0.7227692307692308
+corresponding post,0.5
+aforesaid rule,1.0769230769230769
+may,3.683418028199994
+principle of equal pay,1.5
+regular scale of pay,0.6666666666666666
+direction of the division bench,0.5
+such post,0.5
+regular worker in the corresponding post,0.5
+daily - wages worker,0.0
+department,1.9858367499068206
+duties,1.477142857142857
+months from the date,1.3333333333333333
+appointment,3.1380281690140843
+special leave petitions,1.6296296296296295
+leave petitions,1.6296296296296295
+several years,0.47849462365591394
+regular wage during the pendency,0.0
+daily - wages workers,0.0
+december,0.9629002463054187
+counterpart,0.8125
+cause of action,2.1470588235294117
+worker in the corresponding cadre,0.5
+exercise of power,0.7513227513227514
+employment of the government,0.5
+nominees,0.4375
+qualification,2.1521739130434785
+forest employees,0.5
+stand,1.8422769621739425
+uttar,2.188679245283019
+minimum,1.388221153846154
+special leave petition,2.013333333333333
+earner,0.25
+scale of pay,3.2
+pendency,1.0084033613445378
+daily-wager,0.0
+uttaranchal,3.7142857142857144
+years of service,2.8000000000000003
+work,2.8478559811646353
+variava,1.0
+wage,1.5814065510597304
+case of all daily - wagers,0.0
+manner,1.4494591333432125
+high court,7.7477477477477485
+appropriate forum by the aggrieved party,0.5
+necessity,0.7072538860103627
+regular wages during the pendency,0.5
+many posts,0.2608695652173913
+accordance with the statutory rule,1.0
+fresh cause,1.0
+parties,1.8210828547990157
+allowance,2.1019607843137256
+party for a considerable length,0.0
+state,6.817996007300392
+impugned judgment,2.0927152317880795
+case,7.332269420884958
+set of rules,0.5743243243243242
+open for the court,0.5
+wage earners,0.5
+years,2.5395804110508022
+wage during the pendency,0.0
+pattanaik,1.7692307692307692
+exercise,1.9400726466785694
+regular worker,0.6666666666666666
+forest,2.292817679558011
+regular wages,0.30000000000000004
+daily - wager in the state,0.0
+posts rules,0.5
+aforesaid statutory rules,0.5
+grievance with regard,0.75
+considerable length,0.5714285714285714
+principle,1.9620890732001848
+wage earner,0.3333333333333333
+constitution,3.204842342342342
+party,2.2250894654439723
+many post,0.25
+aforesaid rules,1.0
+daily - wage workers  muster roll employees,0.0
+other allowances,1.4285714285714286
+fresh cause of action,1.0
+further scheme by the state,0.5
+counter,1.0576470084371923
+scale,2.0845464725643894
+posts,2.6556317082632876
+to a daily - wager,0.0
+daily - wage workers  muster roll employee,0.0
+i a,2.467471978682369
+equal pay,3.4
+uttar pradesh regularization of daily wages,0.5
+grievance,1.032529659395331
+provision of the aforesaid rules,0.0
+service,4.257395095954566
+appropriate forum,0.47647058823529415
+several year,0.47849462365591394
+i a for discharge,0.5
+further scheme,0.5
+similar duties,0.6666666666666666
+forum,1.9016754850088184
+wages during the pendency,0.5
+regard,2.723310344827586
+rule,5.04
+advocate,1.0791341991341994
+maintenance of status quo,0.6666666666666666
+daily-wages employee,0.0
+entitlement,0.6176470588235294
+- wage workers  muster roll employee under the forest department,0.0
+order of stay,0.875
+division bench,3.965217391304348
+finance,1.9582470669427192
+date,6.195616975795285
+forest employee,0.5
+case of these daily - wagers,0.0
+counter-part in the government,0.0
+provisions of the aforesaid rules,0.5
+september,0.8548484848484849
+direction,1.8495050210098996
+uttar pradesh,2.8
+increment,1.4721485411140585
+bench,2.5793391667754992
+wages,1.2315068493150687
+existence,0.731202675709574
+duty,3.2272215973003378
+length,0.6297872340425531
+similar rule,0.75
+civil appeal,2.2413793103448274
+statutory rule,2.45
+same judgment,0.875
+hearing,0.9644508209787979
+proviso to article,1.5
+senior counsel,2.2857142857142856
+month from the date,1.2222222222222223
+regularisation of group c,0.5
+respondent,4.757894736842104
+- wage workers  muster roll employee,0.0
+quo,1.4641201465860294
+legal remembrances,0.5
+correct position,0.4571428571428572
+leave,1.0147842365477848
+respondents,2.6341263330598856
+discharge,1.305219638242894
+accordance,1.4069045211613462
+forest department,3.25
+inasmuch as grievance,0.5
+persons,2.5993381990166555
+payable to a daily-wager,0.0
+nominee,0.9666666666666667
+u p,0.6337616638914197
+legal,1.6383168326773236
+cadre,2.7892948173322005
+leave petition,2.013333333333333
+employees,4.611008798854102
+question,2.980312372067635
+wagers,1.375
+case of state,1.4375
+worker,1.9239190944516609
+counter-part,0.0

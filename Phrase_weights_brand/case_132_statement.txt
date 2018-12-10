@@ -1,0 +1,767 @@
+courts,2.1216528162511543
+defendant prayed,0.5
+definition of  landlord,0.0
+capacity,1.7421691881525676
+findings,1.049571253572887
+lessor,2.7619047619047623
+corollary,0.5
+shoes,0.5582706766917295
+exercise of revisional jurisdiction,1.0
+gha,1.6312935469418655
+bona-fide requirement,0.0
+code,2.880559796437659
+rooms in the building,0.5
+occasions,0.7723557692307693
+validity,1.521010638297872
+kha,1.778722375356642
+appellant hence,1.0
+father of abdul karim,0.5
+revision,1.6299226441631505
+reasons,1.3749054007567938
+residence,0.7568831168831168
+terms,2.390350840909655
+meaning,1.8612727545949643
+instance,0.9469803370786518
+way of the present appellant,0.5
+cesti que trust,0.5
+case of the appellant,1.1714285714285715
+tenant relationship in a proceeding,0.5
+interest,2.74353772015385
+court,12.24425115501509
+- consideration of relevant aspect,0.0
+bonafide,2.0
+ranjeet,5.333333333333333
+creation,0.5716118684843625
+meaning of expression,0.75
+aspects,1.0997620069447154
+non-consideration,0.0
+absence of a contract,1.0
+agreement,3.450434632433366
+person,4.291511329454258
+ors,2.8612718198296623
+medical practitioners,1.1666666666666667
+trustees,0.7090909090909092
+allegations,1.8333333333333335
+way,1.7812722068664852
+rent to the full extent,0.5
+attorn,1.9285714285714284
+receipts,1.884057971014493
+behalf,1.9888053603529987
+cause,1.8431210321626654
+part,5.294464509893076
+landlord as the appellant,0.5
+litigation,1.4968553459119498
+payable in respect of the part,0.5
+nothing,0.8658723322806009
+houses,1.0821764442454098
+condition of the tenancy,0.0
+- fide requirement,0.0
+judges bench,1.625
+challenges,0.39999999999999997
+ownership,1.1522633744855968
+present appeal,1.3424657534246576
+aspect,1.2449448189023034
+non-payment,0.0
+bonafide need,0.6666666666666666
+appellant s contention,0.0
+district,1.5506763074237984
+relevant provisions,1.5
+decision,2.9514937765898557
+contrary,1.027917657672435
+trust,1.8699167074963252
+record exhibits,0.5
+amplitude,0.9523809523809523
+landlord,3.643181818181818
+aforesaid,2.592896174863388
+tenant relationship between the plaintiff,1.0
+other person,0.9635036496350365
+permission,1.1531211886018407
+claim,2.817264601856604
+house,2.0021735292386764
+transfer,1.9975047057658015
+areas,1.6237236125072747
+appeal,3.4125488033856883
+various instances,0.5
+determination,1.5980374665477253
+collector,1.8095238095238093
+interest therein,1.0
+statutory status,0.6666666666666666
+- consideration of subsequent tenancy agreement,0.0
+right against the whole world,0.5
+medical practitioner,2.1666666666666665
+interpretation,1.518366298484459
+read,2.2147281730888695
+abdul,1.5086206896551726
+area,2.675167256985439
+clinic,0.7256493506493507
+defendant abdul karim,3.5
+perverse,0.5159620362381363
+property exchange,0.5
+definition of expression  landlord,0.0
+exhibit,0.8875432525951558
+transferee,2.0
+expression  landlord,0.0
+wherein,1.0724137931034483
+suit property,5.333333333333333
+code of civil procedure,5.5636363636363635
+judgment,3.288216560509554
+actual possession of the building,0.5
+instances,0.5974025974025974
+possession on the ground,0.6666666666666666
+depositions of the appellant,0.5
+father,1.4298716229162676
+subtenant,5.8
+order for ejection,0.5
+sharma,0.9516994633273703
+son of abdul karim,0.5
+order,5.472481489660944
+act,12.870263922028107
+sub-section,0.0
+present appeal by special leave,0.8
+exchange deeds,0.5
+many occasion,0.6000000000000001
+assam act,0.5
+ingredients,0.7539893617021276
+plaint,3.104295112903434
+explanation,1.4510159010600707
+under this act,1.6
+statutory statu,0.6666666666666666
+effect,2.184583388478191
+term of the old terms,0.0
+first appellate court,3.727272727272727
+agent,1.406335913378167
+time derive,0.5
+nuisance,1.2280701754385965
+aggrieved respondent,0.6666666666666666
+provisions of the rent control act,0.5
+suit for ejectment,0.5
+parties,1.8210828547990157
+decision of the trial court,0.6666666666666666
+civil procedure,5.448275862068965
+faith,0.6832428364066448
+purpose of clause,1.0
+section,9.287987283173626
+eviction suits,0.5
+retired surgeon,0.5
+ejectment,3.0
+condition,2.259476395625584
+appellate,2.561224489795918
+tenants in the suit property,0.5
+civil revision petition,1.4
+fortnight,0.5000000000000001
+allowable under this act,0.5
+first part,1.236842105263158
+quasim,0.30000000000000004
+representative,1.0617102796119673
+provisions of the assam urban area rent control act,0.5
+surgeon,0.260536398467433
+civil,2.126558634963905
+appellate court judgment,0.5
+finding,1.8129183657767178
+eviction suit against abdul karim,0.5
+eviction of abdul karim,0.5
+attornment by the tenant,1.0
+difficulty,0.656910569105691
+that ranjeet prasad,1.0
+district court,0.9523809523809523
+occupation of any person,0.5
+trial court findings,0.5
+prasad subsequent to creation,0.5
+bihar rent act,0.5
+respect of the house,0.5
+bankruptcy proceedings,0.5
+practitioners,0.6511627906976745
+case of mm,0.5
+rahim,0.39375
+rights,1.6349541930937281
+perusal,0.750733137829912
+exhibits ka,1.0
+control,2.148867902684286
+liability of the lessor,0.0
+rent receipts,2.2
+issue,2.766776251628934
+interest in the house,0.5
+rooms,0.5689655172413793
+question of tenancy,0.5
+basi,2.0752712086391383
+executor,1.0
+personal requirement of that person,0.5
+tenant in the suit property,0.0
+other charge of the tenanted premises,0.0
+writing,1.1746753246753248
+personal use,0.3333333333333333
+time to time derives,0.5
+term  landlord,0.0
+son abdul karim till february,0.5
+contract,6.227349970404598
+appeal before the district court,0.5
+exchange,1.09516494769951
+benefit,2.604810195438474
+latter,0.7109238669791096
+elder brother,0.40909090909090906
+cost,1.2954397451466992
+occupation against the whole world,0.5
+respondent -tenant on many occasions,0.0
+such status,0.75
+basis,1.953226441078104
+rent to the lessor,0.5
+transfer of lessor,0.5
+evidence that the respondent,0.5
+ground for eviction,1.0
+eviction,4.764705882352941
+tenant between the parties,0.5
+latter part of the section,0.5
+sub,7.816899313759727
+virtue of the deed,0.5
+own account,0.9142857142857144
+proportion,1.3026315789473686
+bankruptcy proceeding,0.5
+transfer of the right,1.0
+annoyance,0.5
+gauhati high court,1.2
+charge,2.7679815308681284
+building for the benefit,0.5
+grounds,0.9540208829455945
+subsequent tenancy agreement,0.5
+judges bench of this court,0.8333333333333334
+hence,1.1440732910500353
+definition of the terms,0.0
+charges,2.061307113938693
+ground,1.4186722903211633
+electricity charge of the tenanted premises,0.0
+elder brother of the appellant,0.5
+grounds that the appellant,0.5
+light of the exchange deed,0.5
+starting,0.7114114917915775
+other charge,0.7638888888888888
+aforesaid reasons,1.1379310344827587
+rent in court,0.6666666666666666
+to the provision of clause,0.0
+other charges,0.7346938775510204
+impugned judgment,2.0927152317880795
+execution of the exchange deed,0.5
+judgment of the learned trial court,0.5
+wide amplitude,1.0
+matter,2.8088923076923082
+suitable residence,0.5
+proof,1.0648141580366008
+tenant,4.821212121212122
+administrator,1.0441081081081083
+rent,2.460251217077583
+plaintiff-,0.0
+provision of section,1.4827586206896552
+- payment,0.0
+term,3.6255105640901575
+aforesaid reason,1.1176470588235294
+conveyance,0.793388429752066
+real owner,0.6666666666666666
+revision petition before the high court,0.8
+rent from the tenants,0.5
+liability,2.532836248924577
+assam rent act,1.0
+father of the respondents,1.3333333333333333
+ingredient,1.2242798353909468
+relief,1.4748116760828625
+wife,1.4518086408500224
+high court in paragraph nos,0.5
+use,5.06801278974993
+such fact,1.0833333333333333
+clinic in the rented premises,0.5
+claiming that plaintiff,0.5
+recovery,3.9892473118279574
+sake,0.5262975778546712
+non-consideration of relevant aspect,0.0
+result,1.3356630184144715
+gauhati,1.2
+possession for personal requirement,0.5
+landlord in the agreement,0.5
+relationship,1.1804123711340206
+bihar,4.587301587301587
+record,2.5393414390845273
+procedure,2.552771605064117
+own occupation,3.5
+decree of court,1.0
+material,1.4148767018946966
+notice under section,2.769230769230769
+landlord of defendant abdul,0.5
+everyone,0.6963340891912321
+ground of default,1.2
+world,0.7808471033398942
+tenant to the present appellant,0.5
+provision,5.439002243350069
+to the provisions of clause,1.0
+mere fact,0.6
+affairs of the suit property,0.5
+respect,2.6704963235294117
+bankruptcy,0.31746031746031744
+rent collector,1.6666666666666667
+otherwise transfer,0.6666666666666666
+title from ranjeet,0.5
+rent act,2.084848484848485
+respondent -tenant,0.0
+premises,1.290983606557377
+assam urban area rent control act,0.5
+fact,3.6284951019474962
+rent to the appellant,0.5
+transfer of property act,1.9166666666666667
+owner,2.9502416709822197
+learned counsel,3.703333333333333
+tenants,0.8391608391608391
+sake of argument,0.42929292929292934
+expression,1.7424391201885312
+satisfactory by the court,0.5
+building,3.870745432459903
+attornment,1.0
+ingredient of clause,0.0
+clear that the definition,0.5
+material on record,1.40625
+interpretation of the expression landlord,0.5
+favour of rahim baksh,0.5
+rent in respect,0.5
+deposition of pw,1.0
+relationship of landlord,1.6666666666666667
+prasad,1.1407089151450054
+transfer cease,0.5
+impugned order,2.265957446808511
+house-,0.0
+electricity bill,0.7619047619047619
+representative of the appellant,0.5
+suit for the possession,0.5
+deposition of the appellant,0.0
+extent,1.410108024691358
+necessity,0.7072538860103627
+learned court,1.5
+personal requirement,1.5
+right in favour,0.8
+jurisdiction on a court,0.5
+record exhibit,0.5
+light,0.8816192372754331
+bar,1.4720990391722097
+exercise,1.9400726466785694
+property act,1.7333333333333334
+electricity charges,1.3333333333333333
+default in the payment,0.6666666666666666
+tenant on the ground,2.0
+protection,1.1604395604395603
+actual possession,1.0
+own right,1.0303030303030303
+purposes of repairs,0.5
+party,2.2250894654439723
+cease,3.3103181958603645
+virtue,0.9167557066537153
+occupier,0.5714285714285714
+anything,0.9132309941520469
+definitions,0.5973524544953117
+definition,1.6460425937698666
+electricity charges of the tenanted premises,0.5
+tenancy agreement,2.0
+issues,1.1246716508385532
+whole world,0.4754098360655738
+bonafide use,1.0
+assam urban area,2.0
+part thereof,1.6333333333333333
+tenant under this act,0.5
+spirit of the aforesaid clause,0.5
+tenanted premise,1.0
+brother pw,0.6666666666666666
+eviction suits as a landlord,0.5
+ingredients of clause,0.5
+tenant relationship,3.0
+relevant provision of the assam urban area rent control act,0.0
+decree,3.732408834103749
+neighbouring house,0.5
+consent,1.224924012158055
+foundation,0.770509435807177
+bill,1.134631348577466
+landlord - tenant relationship between the appellant,0.0
+expanded inclusive definition,0.5
+purpose of section,1.3888888888888888
+liability of the transferor landlord,0.0
+name of pw,0.5
+duty bound,1.0
+agreements,1.0784313725490198
+lessee,1.515151515151515
+respondent,4.757894736842104
+plaintiff- appellant,0.0
+accordance,1.4069045211613462
+rent control act,3.4444444444444446
+default,0.7094574436346588
+receiver,1.266211604095563
+question,2.980312372067635
+defendant abdul,3.5
+present appellant,1.3333333333333333
+basi of the exchange deed,0.0
+such as an agent,0.5
+execution,1.3041894353369763
+neighbouring,0.6285714285714286
+need for bonafide use,0.5
+deposition,1.534
+approach,1.001908852302553
+appeal by special leave,1.04
+landlord for the purposes,0.5
+karim,2.571428571428571
+scmanu,7.940520446096654
+word,2.065873981084096
+no doubt relevant for the purpose,0.5
+tenancy,3.0545454545454542
+step,0.8867024753460084
+need,1.1097650269586634
+february,0.8575630252100839
+rent receipt,2.2
+understood with the same connotation,0.5
+possession in good faith,0.5
+statement,2.5393160135035964
+m yusuf eqbal,0.5
+name,1.8996570753072433
+landlord in the sense,0.5
+entry,4.707210447678601
+appellate court s finding,0.0
+statutory status on tenant,0.5
+high,5.367119186841496
+plaintiff- appellant s contention,0.0
+accordance with the true meaning,0.5
+payment,2.059553716565686
+brother,1.4566585956416465
+ground of personal necessity,1.0
+personal need,0.5
+respondents - tenants,0.0
+account,2.5754891049671977
+purposes of section,1.3076923076923077
+transferee of the landlord,0.5
+aforesaid section,1.1538461538461537
+consent of the appellant,0.5
+proportion of the premium,0.5
+property,2.9368986630013745
+jurisdictional fact,1.1666666666666667
+dismissal,1.614076246334311
+rented premises,0.6666666666666666
+charges of the tenanted premises,1.0
+suit,2.485274378207659
+respect of the subsisting tenancy,0.5
+appellate court,3.1458333333333335
+defendant,3.7706855791962175
+purpose,2.519170317925504
+law,3.538923411654744
+trial court,3.854545454545455
+decision of appellate court,0.5
+nos,1.2635492554198444
+time,2.4764180952862667
+decree for the recovery,0.5
+latter part,0.4444444444444445
+plaintiff,2.177926421404682
+landlord s rights,0.0
+allegation,1.834319526627219
+relevant provisions of the assam urban area rent control act,0.5
+mere rent collector,0.5
+right to the exclusion,0.5
+tenable andor,0.5
+provisions of clause,1.0
+due before the transfer,0.5
+situation of trustees,0.5
+conveyance of title,0.5
+capacity of a landlord,0.5
+other cause,0.5555555555555556
+status on tenant,0.5
+- consideration of exhibits ka,0.0
+by the court,1.2436363636363634
+rented premise,0.6666666666666666
+yusuf,0.3636363636363636
+general law,1.5625
+non,1.3417336444559675
+affairs,0.8608695652173913
+court s finding,0.0
+depositions,1.0
+right,3.07483248288682
+rights steps into the shoes,0.5
+bihar building,1.5
+non-consideration of subsequent tenancy agreement,0.0
+time derives,0.5
+old term,0.4444444444444444
+march,1.0644238856181665
+absence,1.092363454568179
+provision of the assam urban area rent control act,0.0
+relevant aspects,0.7619047619047619
+counsel,2.2246780703440323
+reads,0.8722657304887929
+liabilities,1.0606060606060608
+litigation between the parties,0.6666666666666666
+of conduct,0.5789473684210527
+narrow meaning,1.25
+landlord s right,0.0
+lease by the transferor landlord,0.5
+decree from court,0.5
+respect of the part,0.6666666666666666
+exclusion,1.276390008058018
+only reasonable interpretation,0.5
+expression landlord,4.5
+suit property for bonafide use,0.5
+original owner,0.5263157894736842
+in respect of the part,0.6666666666666666
+guilty of conduct,0.6666666666666666
+son,4.595622484812135
+rebuilding,0.40384615384615385
+landlord of the suit property,2.0
+intention,1.7585585585585588
+dispute,2.402137592137592
+possession of the premises,1.0
+eviction of the tenant,1.0
+definitions of the terms,0.5
+evidence,3.6676405172088815
+eviction on the ground,1.0
+conditions,1.9988092071092867
+ownership of the suit property,1.0
+other charges of the tenanted premises,0.5
+moreover,0.7807228915662651
+bonafide need of the suit property,0.5
+requirement of that person,0.5
+learned appellate court,1.0
+case,7.332269420884958
+eqbal,0.6666666666666666
+wide language,0.5
+sub-let,0.0
+affair of the suit property,0.0
+possession of any house,0.5
+deeds,1.0200708382526564
+affair,0.8341728395061728
+lease,1.2000155472636815
+fide,0.8955057484612704
+definition clause,1.0
+transferor landlord,1.0
+rent in the court,1.0
+purposes,1.4391216613438835
+deposition of abdul karim,1.0
+arrear,1.4666666666666666
+neighbouring houses,0.5
+court judgment,1.0
+non-consideration of exhibits ka,0.0
+abdul karim,9.0
+contention,1.666391070690368
+nuisance of an annoyance,0.5
+old terms,0.6666666666666666
+respondents - tenant,0.0
+repairs,1.386880856760375
+execution of the agreement,0.75
+arrears of rent,4.6
+proceedings,1.7670925223666287
+many occasions,0.6000000000000001
+favour,1.653145208700764
+rights of lessor,0.5
+urban areas,0.9
+exclusion of everyone,1.0
+rights step,0.5
+occupiers,0.25
+materials on record,1.1363636363636365
+necessary corollary,0.875
+duty,3.2272215973003378
+suits,1.0993657505285412
+learned trial court,2.5
+bench,2.5793391667754992
+unchallenged by the defendant,0.5
+by the defendant,2.5625
+own use,1.0833333333333333
+sub - section,0.0
+personal necessity,1.3333333333333333
+medical clinic,0.5
+respondents,2.6341263330598856
+leave,1.0147842365477848
+-tenant,0.0
+costs,0.8167395522604189
+that the definition,0.7714285714285716
+prasad subsequent,0.5
+attorns,1.0
+decision on the issue,0.6666666666666666
+liabilities of the transferor landlord,0.5
+claim of relief,0.5
+clear from the explanation,0.5
+point,2.9165043546008516
+admission,1.5389848246991107
+tenant from the house,0.5
+right against the real owner,0.5
+notice,2.3300025999395686
+manohar,1.1
+landlord - tenant relationship,0.0
+rahim baksh,1.5
+trustee,1.466666666666667
+such landlord,0.6000000000000001
+status,1.14824388424026
+that score,0.4375
+purpose of eviction,0.5
+mutation,0.5126760563380282
+receiver of the property,1.25
+steps,1.169318181818182
+premise,1.2347417840375587
+basis of the exchange deed,0.5
+materials,1.1534090909090908
+tenancy agreements,0.5
+perusal of the aforesaid section,0.5
+provision of the rent control act,0.0
+as an agent,1.0158730158730158
+such transfer cease,0.5
+ownership of the appellant,0.5
+title,1.74290600761189
+first part of clause,0.75
+lal,1.6786163249382287
+control act,2.0040485829959516
+occupier of the adjoining,0.0
+guardian,3.176470588235294
+onwards,0.625668449197861
+reason,2.6381270903010035
+rights steps,0.5
+conditions of the tenancy,0.5
+mutation entry,0.6666666666666666
+one,4.845669314438648
+exchange deed,3.0
+petition,5.3436539306104525
+paragraph no,0.6000000000000001
+impugned appellate judgment,0.5
+same connotation,0.5
+paragraph nos,0.6666666666666666
+baksh,2.4285714285714284
+arrear of rent,0.0
+consideration,1.9110153789142115
+right of lessor,0.0
+various instance,0.5
+ejection,0.7284688995215312
+execution of a decree,0.8571428571428571
+landlord within the expanded inclusive definition,0.5
+paragraph,1.2930197483150305
+part of clause,2.1666666666666665
+rights step into the shoes,0.0
+findings of the first appellate court,0.5
+validity of the transfer,0.6666666666666666
+owner of the suit property,0.75
+revisional jurisdiction,2.0
+attainment,0.3
+adjoining,0.6538461538461539
+appellant as the landlord,0.5
+admission of the respondent,0.5
+clause,3.526455026455027
+passing,0.8851858023662723
+similar question,0.44117647058823534
+otherwise transfers,0.5
+bills,1.017857142857143
+no doubt relevant,0.5
+air,2.0589664272145285
+electricity charge to the appellant,0.0
+relevant aspect,0.8571428571428571
+transferor,0.8888888888888888
+receipt,1.5471923536439667
+proceeding,2.1298245614035087
+premium,1.799652777777778
+connotation,1.018181818181818
+nothing in this sub-section,0.0
+finding of the learned appellate court,0.5
+andor,0.8398466033601169
+erstwhile owner,1.3333333333333333
+legislature,2.818553268765133
+name as the owner,0.5
+challenge,1.2204566274399267
+shoe,0.5140186915887851
+judge,2.9012627415183325
+death,2.361592909460208
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+bar against the passing,0.5
+conduct,1.5998023165163158
+such rent,1.0
+amplitude of the expression,0.5
+occupiers of the adjoining,0.5
+purpose of repairs,0.6666666666666666
+urban,1.1793683610180365
+argument,0.9504580388560493
+occupation,1.1158072696534236
+grandfather,0.6653465346534652
+conclusion,1.3883437407077015
+provision of clause,0.0
+contrary to the provisions of clause,0.5
+special leave,1.903225806451613
+proof of title,0.5
+brother of the appellant,1.0
+relevant provision,1.5737704918032787
+purposes of clause,0.6666666666666666
+advantage,1.1441364159430905
+judges,2.0931496919173616
+room,0.6950710108604846
+attainment of such status,0.5
+landlord tenant relationship,1.0
+aforesaid clause,0.875
+claiming,0.7345149253731345
+such determination,1.2
+sense,0.8606303395157362
+arrears,2.3209876543209877
+onward,0.6182170542635659
+liabilities of the lessor,1.0
+charge of the tenanted premises,0.0
+second clause,0.3333333333333333
+possession,2.808810857389056
+spirit,0.6048586885080135
+score,0.45496296296296296
+eviction suit,1.5
+appellant,14.387096774193548
+occasion,0.7946745562130177
+exhibits,0.4733727810650888
+conditions precedent,1.25
+aggrieved respondents,0.6666666666666666
+wide amplitude of the expression,0.5
+rahim s death,0.0
+urban area,1.0
+such statu,0.9
+electricity charge,1.3333333333333333
+requirement,1.2416133333333332
+high court,7.7477477477477485
+suit for eviction,2.0
+assam,1.06
+jurisdiction,2.9539571926331507
+from the explanation,0.5
+assam urban areas,1.5
+trial,3.7979448350459712
+deed,1.3564447722662734
+grandfather of the respondents,0.5
+manu,7.078142071124147
+practitioner,0.8401826484018265
+basis that the relationship,0.5
+landlord-tenant relationship,0.0
+language,0.8555828468744352
+good faith,0.8046647230320698
+transferee as the person,0.5
+need of the suit property,0.5
+revision petition,2.6363636363636362
+approach of the high court,0.8888888888888888
+electricity charges to the appellant,0.5
+such transfer,1.7777777777777777
+possession of the building,0.5
+case landlord,0.5
+proceedings for eviction,0.6666666666666666
+payment of rent,1.8333333333333333
+fresh agreement,1.0
+ground of non - payment,0.0
+true meaning,0.5603448275862069
+aspect of the law,0.3333333333333333
+quasim v manohar lal sharma,0.5
+part of the section,0.8333333333333334
+tenanted premises,1.0
+terms of the old terms,0.5
+subsisting tenancy,1.0
+finding of the first appellate court,0.6666666666666666
+- consideration,0.0
+repair,1.1641083521444697
+word  owner,0.0
+situation,1.1254754682459434
+full extent,0.30000000000000004
+precedent,0.8982341399607586
+score to the effect,0.5
+owner of the building,2.3333333333333335
+court in paragraph nos,0.5
+electricity,4.4831223628691985
+such high court,0.6666666666666666
+part thereof without permission,0.5
+benefit of any other person,1.0
+defendant prayed for the dismissal,0.5
+reasonable requirement,1.0
+room in the building,0.0
+cesti,0.2777777777777778
+interest in the property,1.2
+ranjeet prasad,7.5
+electricity bills,0.2857142857142857
+trial court finding,0.5
+court in bankruptcy proceedings,0.5

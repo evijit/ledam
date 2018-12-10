@@ -1,0 +1,274 @@
+october,0.9478375701551667
+fact of such appointments,0.5
+home,0.9826663267907214
+illegal acts in matters,0.5
+government,3.5583785424010483
+process,1.6274942048088725
+absorption,0.928888888888889
+cost,1.2954397451466992
+director,1.3549769585253457
+disregard,0.5855263157894736
+scmanu,7.940520446096654
+judgment of this court,2.1029411764705883
+sympathy,0.7490636704119851
+illegal act,1.6666666666666667
+notice,2.3300025999395686
+home secretary,1.0
+specific observation,0.5
+appeals,1.7060218112849692
+beneficiary,1.8333333333333333
+august,0.977116704805492
+scheme,3.415949119373777
+hoc,0.8814236714464876
+variations,0.4711538461538462
+constitution of india,3.0095238095238095
+beneficiaries,0.8333333333333334
+illegal action by the concerned police officials,0.5
+annexure p-,0.0
+mere victim,0.5
+police,2.9749362629783356
+sub,7.816899313759727
+illegal acts,0.8333333333333334
+course,1.6545957498716626
+rout,1.6698966408268734
+cum inspector general of police,0.5
+police against the naxalites,0.5
+provisions in the police,1.5
+terms,2.390350840909655
+matters,1.4810665618448637
+peculiar facts,0.9473684210526315
+that the order,1.1224489795918366
+basic question,0.39285714285714285
+communication,1.013409067330636
+dispute that the provision,0.5
+appointments,1.2888888888888888
+court,12.24425115501509
+hence,1.1440732910500353
+assistant sub inspector of police,0.5
+constitution bench in secretary,0.5
+force,1.6009408121948314
+dhanbad,1.3333333333333333
+assistant sub inspector,0.6666666666666666
+ground,1.4186722903211633
+training,2.5456213222568365
+facts from ca,0.5
+learned counsel for the respective parties,0.5
+person,4.291511329454258
+ors,2.8612718198296623
+show,1.5002130552117363
+constable,1.0606060606060606
+constables,2.0
+cause,1.8431210321626654
+law,3.538923411654744
+behalf,1.9888053603529987
+karnataka,3.8596491228070176
+such manner against law,0.5
+observation,0.7625074854374218
+consideration,1.9110153789142115
+illegal appointment,1.6666666666666667
+respective parties,1.0
+eligible person,1.0
+cases,1.9728229418951067
+variation in the facts,0.0
+police manual,2.0
+matter,2.8088923076923082
+v state of bihar,1.8918918918918919
+time,2.4764180952862667
+amputation of right leg,0.5
+article,4.378806157159795
+leg,5.574082991234883
+acts in matters,0.5
+term of judgment,0.0
+plea,1.4430487701432178
+term,3.6255105640901575
+constitution bench,4.27536231884058
+differences,0.653125
+devi,1.2339221178171305
+applications,1.0021816198527407
+government of bihar,6.857142857142857
+appellants,7.701086956521739
+number,1.4802651440973922
+illegal action,0.5714285714285714
+district,1.5506763074237984
+view,2.441100058469462
+appointing authority,4.375
+acts,1.9133929521984454
+relevant provisions,1.5
+court in the peculiar facts,0.75
+post,2.344803646492219
+long number,0.4
+show cause,3.193548387096774
+premium,1.799652777777778
+merit,1.2419290263876248
+claim,2.817264601856604
+police force till,0.5
+action by the concerned police officials,0.5
+regularisation,6.857142857142857
+manual for such appointment,0.5
+state of karnataka,1.9259259259259258
+application from the eligible persons,0.0
+unknown to law,0.5
+scheme for absorption  regularisation,0.0
+appeal,3.4125488033856883
+concerned police official,0.5
+sake,0.5262975778546712
+assistant,1.6732837055417698
+clear that the order,0.6666666666666666
+show cause notice on the simple ground,0.5
+result,1.3356630184144715
+officials,1.3691666666666666
+authority,2.4352627108360636
+facts of the case,1.161764705882353
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+bihar,4.587301587301587
+right leg,0.4444444444444445
+procedure,2.552771605064117
+arbind,0.5624999999999999
+march,1.0644238856181665
+such illegal appointments,0.5
+appointees,0.6857142857142857
+polouse,0.0
+counsel,2.2246780703440323
+amputation,0.7500000000000001
+termination,1.6799615488397193
+year,2.8349484769759212
+application,2.3322596088086445
+secretary,0.9217877094972067
+provision,5.439002243350069
+brave person,0.5
+india,2.7684068260703585
+general cum inspector general,0.5
+accident,1.7464867454487383
+authorities,1.266131845134287
+dispute that the provisions,0.5
+fact of the case,0.0
+ad-hoc,0.0
+judgment,3.288216560509554
+fact from ca,0.0
+illegal appointments,1.0
+relevant provision,1.5737704918032787
+question of law,3.057142857142857
+ad-hoc for a long number,0.0
+father,1.4298716229162676
+service of the appellants,0.75
+fact,3.6284951019474962
+order,5.472481489660944
+dispute that father,0.5
+police official,1.5750000000000002
+injury,1.7199352451433856
+learned counsel,3.703333333333333
+general cum inspector general of police,0.5
+act,12.870263922028107
+concerned police officials,0.5
+arbind kumar,1.5
+provision in the police,0.0
+applications from the eligible persons,0.5
+uma devi,0.5
+appointment,3.1380281690140843
+show cause notice,2.9565217391304346
+simple ground,0.5
+appellant in the other appeal ie,0.0
+naxalites,0.6666666666666666
+dispute,2.402137592137592
+such exercise,0.8571428571428571
+submission,1.0913871684001404
+kumar,2.028839704896043
+appellant,14.387096774193548
+dg cum ig,1.5
+such submission,0.5555555555555556
+respective party,0.0
+patna,2.3421052631578947
+welfare,1.3226788432267886
+victim,1.204831365285174
+- arbind kumar,0.0
+constable in dhanbad district,0.5
+superintendent of police,2.1153846153846154
+reliance,1.400763358778626
+victims,0.9
+convenience,0.6501259072729966
+dhanbad to the director,0.5
+illegal act in matters,0.0
+such manner,1.0909090909090908
+manner,1.4494591333432125
+appellants in the other appeal ie,0.5
+public appointment,0.6666666666666666
+parties,1.8210828547990157
+such illegal appointment,0.5
+communication in september,0.5
+state,6.817996007300392
+peculiar fact,1.0476190476190477
+case,7.332269420884958
+difference,0.8774847235514982
+police against the naxalite,0.5
+light,0.8816192372754331
+official,2.6854955160358718
+years,2.5395804110508022
+such plea,1.0
+such appointments,1.6666666666666667
+exercise,1.9400726466785694
+controversy,0.8593204191806921
+scc,1.941872465904902
+annexure,2.7560975609756095
+merit in these appeals,0.875
+sake of convenience,1.1
+total disregard,0.5333333333333333
+manu,7.078142071124147
+variation,0.5234042553191488
+absorptionregularisation,0.5
+underwent training,0.5
+general,1.7536558414534391
+constitution,3.204842342342342
+party,2.2250894654439723
+other appeal ie,0.5
+cum,1.9825519589997616
+uma,2.0128233907091384
+appointee,0.6578947368421053
+injuries,2.4130008710801394
+behalf of the arbind kumar,0.5
+mere victims,0.5
+arun,0.9503105590062112
+such appointment,1.5
+service,4.257395095954566
+present case,1.5611814345991561
+public appointments,0.5
+appeal ie,0.5
+ground that father,0.5
+brave persons,0.5
+variations in the facts,0.5
+appellant s case,0.0
+v state,2.4603773584905664
+arun kumar rout,0.5
+time consideration,0.5
+manner against law,0.5
+bihar patna,1.0
+proces,1.627944583238701
+terms of judgment,0.5
+perpetuity,0.45000000000000007
+eligible persons,1.0
+september,0.8548484848484849
+precedent,0.8982341399607586
+cum inspector general,0.5
+case of arun kumar rout,0.5
+manual,0.7839771101573677
+bench,2.5793391667754992
+to law,0.6557377049180327
+dhanbad district,0.5
+action,3.127292663476874
+police officials,2.5714285714285716
+facts,1.4696673624372698
+dhanbad to the dg cum ig,0.5
+total disregard of the relevant provisions,0.5
+course of action,0.5886970172684458
+appellant - arbind kumar,0.0
+time consideration for regularisation,0.5
+disregard of the relevant provisions,0.5
+act in matters,0.0
+superintendent,1.2698412698412698
+inspector,1.2705882352941176
+naxalite,0.6666666666666666
+costs,0.8167395522604189
+persons,2.5993381990166555
+result of such exercise,0.5
+question,2.980312372067635
+basic question of law,0.5

@@ -1,0 +1,707 @@
+comfortable than an employer,0.5
+trouble,0.45462794918330307
+light of aforementioned decisions,0.5
+adherence,0.6737967914438503
+imprisonment for a term,1.5
+aforementioned decisions,0.6666666666666666
+modak,0.5
+order of dismissal becomes,1.0
+mind,1.1559066143122394
+punjab beverage,3.0
+way of a complaint,0.5
+other hand,0.6931925622439332
+order of dismissal inoperative,1.0
+employee,6.280487804878048
+reasons,1.3749054007567938
+sections,1.640495469442838
+terms,2.390350840909655
+matters,1.4810665618448637
+salary,1.6193181818181817
+question whether the application,0.5
+v ram,0.5483870967741935
+employee in relation,0.5
+inter,3.683850287482992
+requirement of the proviso,0.0
+contrary view that an order,0.5
+penal for the employer,0.5
+case of contravention,0.5
+well-settled that the requirement of the proviso,0.0
+full wages from the employer,0.5
+failure,0.7827962142086977
+circumstance of each case,0.0
+interest,2.74353772015385
+withdrawn,0.7887667887667889
+court,12.24425115501509
+speaks,0.49714285714285716
+first respondent,4.575757575757576
+employment,1.5239770785161355
+judges in punjab beverages,0.5
+reference in this decision,0.5
+until the approval,0.5
+in law,1.1088664421997756
+speaks of penalty,0.5
+punjab beverage on the question,0.0
+decision as regards,0.5
+grants,1.9239877769289533
+ors,2.8612718198296623
+tribunal under section,1.6666666666666667
+way,1.7812722068664852
+proviso to section,3.3181818181818183
+alteration in conditions,1.0
+employer to the authority,1.0
+behalf,1.9888053603529987
+part,5.294464509893076
+to approval of the authority,0.5
+reads-,0.0
+such dispute,2.0
+vika,0.7259259259259259
+nothing,0.8658723322806009
+beginning of this judgment,0.6666666666666666
+rule of law,0.5359801488833746
+decision as regard,0.6666666666666666
+v air india,1.0
+decisions,1.3888475974580996
+decision,2.9514937765898557
+passing of an order,0.8
+inoperative in law,0.5
+meaningles,0.6583774969425195
+other way,0.4775413711583924
+steel co,1.309090909090909
+tribunal at chandigarh,0.5
+strawboard case,0.5
+application on merit,0.5
+changes,0.8318262938726949
+question of fact,1.45
+pendency of any such proceeding,0.5
+appeal,3.4125488033856883
+part of the same transaction,2.0
+determination,1.5980374665477253
+contra,3.550142721217888
+breach,1.3366228070175439
+harassment,1.5747368421052634
+industrial proceedings,0.5
+interpretation,1.518366298484459
+emolument,2.5555555555555554
+read,2.2147281730888695
+payment of the amount,1.3
+for contravention of the mandatory conditions,0.5
+month,1.3454861111111112
+alia,0.9479866480753792
+decisions of strawboard,0.5
+certain proceeding,0.5
+co v gobind manuscmanusc,0.5
+limited,1.3713554955535188
+beverages,4.906666666666666
+main point,0.3247863247863248
+judgment,3.288216560509554
+direct payment of wages,0.5
+decision in punjab beverages,0.5
+protection to a workman,0.5
+approval of the action,3.5
+sharma,0.9516994633273703
+services,1.6850241065659326
+order,5.472481489660944
+act,12.870263922028107
+sub-section,0.0
+certain proceedings,0.5
+initio,1.5584425036390104
+states that no workmen,0.5
+contrary view that non - approval,0.0
+wage from the date,0.0
+contention that the workman,0.5
+applicable to a workman,0.5
+inquiry by an order,0.5
+impunity,0.38095238095238093
+safeguards,0.5785123966942148
+respect of the offences,0.75
+full wage for the period,0.0
+offender,1.3711405166981725
+under certain circumstances during pendency,0.5
+end of relationship,0.5
+effect,2.184583388478191
+safeguard for a workman,0.0
+approval of the tribunal,0.5
+contravention of the mandatory conditions,1.0
+approval under section,1.0
+service of the respondent,0.6666666666666666
+court in writ petition,1.4615384615384615
+pendency,1.0084033613445378
+command,0.6880551024107304
+wage,1.5814065510597304
+manner,1.4494591333432125
+shield,0.38831360946745563
+continuance,1.5151515151515154
+parties,1.8210828547990157
+part of statute,0.5
+decision on merit,0.8571428571428571
+contravene,1.3
+section,9.287987283173626
+change in conditions,0.0
+disapproval of the application,0.5
+merit in these appeals,0.875
+contrary view,0.7464114832535885
+remedy of the employee,0.5
+conditions of service,2.235294117647059
+thereunder,1.2794117647058825
+proviso for any alleged misconduct,0.5
+condition,2.259476395625584
+interpretation of section,1.5
+well-settled rule,0.0
+consequence,0.8726692512593296
+course of time,0.75
+void,1.2208700269947337
+ban on the right,0.5
+such alteration in conditions,0.5
+prior to the amendment,1.0909090909090908
+circumstance,1.429931390219372
+mandatory language,1.0
+remedy on the interpretation,0.5
+clear case of contravention,0.5
+govind,0.7333333333333335
+regard,2.723310344827586
+disapproval,0.41379310344827586
+refusal,0.813597918022121
+earlier decisions,1.24
+context,0.9269383697813122
+suresh chand,2.5
+full wage from the employer,0.0
+straw,1.1973500697350068
+after inquiry by an order,0.5
+chandigarh,1.52
+regards,0.9072861236185019
+facts,1.4696673624372698
+same judgment,0.875
+making,1.409351874023649
+certain circumstance,0.37714285714285717
+relevant portion,0.6486486486486488
+discharge,1.305219638242894
+in a system,0.5151515151515151
+mandatory condition,1.0
+basi,2.0752712086391383
+benefits,2.0896027049873203
+meaningless,0.6583774969425195
+v air france calcutta,1.0
+such contravention,1.0
+misery,0.5
+changes in conditions,0.5
+thereafter adjudication,0.5
+expres,2.3455332782538525
+contract,6.227349970404598
+dismissal becomes,1.3333333333333333
+benefit,2.604810195438474
+cost,1.2954397451466992
+that till,1.0909090909090908
+orders,1.4936359300077826
+application to the tribunal,2.25
+basis,1.953226441078104
+under certain circumstance during pendency,0.0
+high court in writ petition,1.1
+sub,7.816899313759727
+course,1.6545957498716626
+certain circumstances,0.37714285714285717
+labour court,8.363636363636363
+gopal sharma,0.6666666666666666
+adjudication whether the order,0.5
+order of dismissal void,1.0
+grounds,0.9540208829455945
+correct view,1.0
+effect of the order,0.75
+withdrawal,1.2055933484504913
+decision of strawboard,0.0
+hence,1.1440732910500353
+present purpose,0.8888888888888888
+non-approval,0.0
+amendment,2.2486412346818434
+ground,1.4186722903211633
+judge in s ganapathi,0.5
+applies,0.9353049100122315
+punjab beverages,3.0
+transaction,5.884921444603142
+saharanpur,0.5
+demand of social justice,0.0
+inquiry under section,1.0
+further state that the view,0.5
+gopal,1.1610169491525424
+inquiry,1.3527272727272728
+matter,2.8088923076923082
+relation,1.397320207820618
+contravenes,1.0
+scrutiny,0.912987012987013
+punishment under section,1.3333333333333333
+provision of section,1.4827586206896552
+term,3.6255105640901575
+support of the respective contentions,0.6666666666666666
+spite,0.8919640378414163
+view,2.441100058469462
+industrial authority,0.5
+requirements,0.7375979875979877
+opinion,1.4960606342789635
+conflict,1.314561353483509
+to a workman,1.5
+kalyani,2.8
+that the condition,0.7384615384615386
+merit,1.2419290263876248
+for the employer,0.6666666666666666
+judges of this court,1.4782608695652173
+applies for approval,0.5
+calcutta,1.6022727272727273
+subject to approval of the authority,0.5
+limb,0.509338061465721
+proper interpretation of section,0.5
+judge in punjab beverages,0.0
+steel,1.615214878638226
+ban,7.153551834566307
+well-settled that the requirements of the proviso,0.0
+result,1.3356630184144715
+possible victimization,0.5
+pay,3.828326695859537
+clerk,1.0416666666666667
+relationship,1.1804123711340206
+cases of strawboard,0.5
+inchoate until the approval,0.5
+order of approval,0.6666666666666666
+material,1.4148767018946966
+statutory obligation,1.1538461538461537
+mandatory nature,0.6666666666666666
+tribunal before the high court in writ petition,0.5
+various grounds by the respondent,0.5
+position that such order,0.5
+different purposes,0.6666666666666666
+object of section,1.0
+peaceful,1.2382617382617382
+provision,5.439002243350069
+judge of this court,1.1428571428571428
+iron,2.76566757493188
+support,0.8630946786249609
+merits of the order,0.5
+contention of the workman,0.5
+jurisdiction under section,1.75
+shield against victimization,0.5
+obvious that the conditions,0.5
+provisions of section,2.762376237623762
+respect,2.6704963235294117
+such order,1.056910569105691
+employment of the employer,0.5
+contravention,2.586206896551724
+employee from the date,0.5
+fact,3.6284951019474962
+absence of approval,1.0
+express,2.3455332782538525
+workmen,6.571428571428572
+whole of the statute,0.5
+jure,1.8646346929627968
+such alteration,1.3333333333333333
+order of reinstatement,0.5
+order of discharge,6.333333333333333
+anr,1.1271033322299457
+earlier decisions of strawboard,0.5
+footing,0.6555183946488294
+jaipur,1.0
+december,0.9629002463054187
+object,1.4940119760479043
+demand,1.5671679197994988
+same time,0.6913511801045461
+action at the same time,0.5
+demands,0.7474201474201474
+portion of section,0.38095238095238093
+other word,0.758838674565131
+making of an application,0.5
+system,1.1230229504341178
+such application on merit,0.5
+proper interpretation,0.75
+authority for approval,0.5
+dismissal become,1.3333333333333333
+light,0.8816192372754331
+relevant portion of section,0.5
+punjab,1.0438169425511197
+discharge become,0.5
+protection,1.1604395604395603
+argument that section,0.5
+approval by the prescribed authority,0.5
+party,2.2250894654439723
+application for approval,1.0
+obedience,0.8817685047193246
+withdrawal of the application,1.25
+shivaraj,0.75
+mandatory provision,1.5454545454545454
+aforementioned decision,0.8333333333333334
+various ground by the respondent,0.0
+straightaway,1.125
+pendency of industrial dispute,1.0
+tribunal refus,1.0
+order of reference,5.625
+justice,2.292557084574302
+certain circumstance during pendency,0.0
+the act,5.708327371273712
+speak,0.7624080721158905
+such application,1.1428571428571428
+approval at the same time,0.5
+wage from the employer,0.0
+approval,1.4085456739300164
+unfair labour practice by the employer,0.5
+wages from the date,0.5
+date,6.195616975795285
+september,0.8548484848484849
+reference,2.1755848210276256
+requirements of the proviso,1.0
+application thereunder,0.6666666666666666
+offence,4.401610644257703
+bank,9.40770083102493
+respondent,4.757894736842104
+beginning,0.8322990543735226
+discharge becomes,0.5
+circumstances of each case,1.0833333333333333
+accordance,1.4069045211613462
+unamended section,1.6
+question,2.980312372067635
+futile,0.625
+purpose of the proviso,0.5
+that legislative intent,0.5
+benches,1.1746031746031744
+act in a peaceful,0.5
+s ganapathi,1.0
+alteration,1.2619047619047619
+approach,1.001908852302553
+made,3.901048655038017
+appeal by special leave,1.04
+scmanu,7.940520446096654
+amounts,0.9789856139834046
+word,2.065873981084096
+writ,2.8882378560889794
+obvious that the condition,0.5
+appeals,1.7060218112849692
+need,1.1097650269586634
+payment of wages,1.25
+months,1.1938163721148947
+amount,3.179688593072295
+practice,1.7660110149488593
+other words,0.7578482137053969
+appropriate proceeding,1.1
+month to the employee,0.5
+direct payment,0.5
+application inter alia,0.75
+tata,0.7061403508771931
+thereon,0.877037037037037
+which approval,0.5
+clear case,0.5000000000000001
+v air france calcutta manuscmanusc,0.5
+vikas,1.0208333333333333
+pointer of the mandatory nature,0.5
+high,5.367119186841496
+payment,2.059553716565686
+social justice,0.9166666666666666
+states that no workman,0.0
+shivaraj v patil,0.75
+account,2.5754891049671977
+event,1.4310854436179261
+grounds by the respondent,0.5
+file,1.3720673638585223
+intention of the legislature,2.0434782608695654
+gobind,1.2857142857142858
+dismissal,1.614076246334311
+states,1.5120646995827023
+appeals by special leave,1.0
+proviso,2.112
+context of the proviso,0.5
+purpose,2.519170317925504
+law,3.538923411654744
+provision for reinstatement,0.5
+continuance of industrial proceedings,0.5
+change,1.2214862766571903
+time,2.4764180952862667
+cases,1.9728229418951067
+action of the employer,0.5
+remedy under section,0.75
+application under section,2.8076923076923075
+unchanged under certain circumstances during pendency,0.5
+definite purpose,0.5
+dismissing,0.6049382716049383
+mere contravention,0.5
+punjab beverages on the question,0.5
+respect of an industrial dispute,0.5
+hardship of unemployment,0.5
+chandigarh v,0.8
+constitution bench,4.27536231884058
+dismissal inoperative,1.0
+sahkari,1.0
+board,2.401414435268602
+contravention of section,2.8
+cashier,2.125
+behalf of the parties,1.1764705882352942
+order inoperative,0.5
+complaint,2.734525785235724
+industrial tribunal,6.3
+industrial proceeding,0.5
+grant,1.7314487632508835
+modak manuscmanusc,0.5
+same transaction,1.8095238095238095
+right,3.07483248288682
+pending industrial dispute,1.0
+conflict of views,0.6666666666666666
+complaint under section,2.7142857142857144
+way of a reference,0.5
+way of victimization,0.6666666666666666
+condition of service,0.5
+strawboard,4.0
+reference under section,2.272727272727273
+constitution bench of this court,1.2647058823529411
+offences,1.6681887366818873
+order of refusal,3.6666666666666665
+view that an order,0.5
+imprisonment,1.4344262295081966
+absence,1.092363454568179
+reads,0.8722657304887929
+application,2.3322596088086445
+parts,0.6609660823170732
+india,2.7684068260703585
+circumstances during pendency,0.5
+respective contention,1.0
+reading,0.9004509191814082
+industrial,5.673304955913652
+design,1.6729193584375017
+interpretation of statute,1.2352941176470589
+atmosphere,0.3046594982078853
+from the proviso to section,0.6666666666666666
+unemployment,0.45098039215686275
+submissions,0.5235745614035088
+- approval,0.0
+safeguards for a workman,0.5
+intention,1.7585585585585588
+ltd,2.382356477306883
+dispute,2.402137592137592
+labour practice,1.4
+submission,1.0913871684001404
+order of dismissal void ab initio,0.5
+decision of this court,2.3260869565217392
+conditions,1.9988092071092867
+suresh,0.8250000000000001
+present section,0.6666666666666666
+whole,0.951414768806073
+prescribed authority,7.571428571428571
+case,7.332269420884958
+sub-sections,0.0
+period,1.9480170842427122
+such time,0.8480725623582767
+france,0.37831858407079644
+speak of penalty,0.0
+constitution,3.204842342342342
+adjudication,1.5392156862745099
+respective contentions,1.0
+ram,2.11096203538064
+cum,1.9825519589997616
+punishment,1.6266937669376693
+suspension till the date,0.5
+command of law,0.5
+void till,0.6666666666666666
+full wages,1.0
+efforts,0.7431827431827432
+wrong,1.2933182103578877
+demands of social justice,0.5
+purposes,1.4391216613438835
+answer to the question,0.6837606837606838
+service,4.257395095954566
+portion,1.0756311179804223
+dismissal void ab initio,0.5
+way of discharge,0.6666666666666666
+end,6.1484001628618765
+clear language,0.8333333333333334
+contention,1.666391070690368
+ganapathi,1.0
+wages from the employer,0.5
+rule,5.04
+proceedings,1.7670925223666287
+certain circumstances during pendency,0.5
+supra,2.246342614440774
+employee under section,0.6666666666666666
+contravention of proviso,0.5
+hardship,0.7236842105263158
+employer s conduct,0.0
+wages,1.2315068493150687
+bench,2.5793391667754992
+chand,1.4868766404199476
+various ground,1.0555555555555556
+pvt,0.8625817965496728
+leave,1.0147842365477848
+rival submission,1.0454545454545454
+costs,0.8167395522604189
+than an employer,0.5
+account of some matter,0.5
+employer in contravention,0.5
+burden,0.9853978671041838
+apart,0.6007021119981881
+other industrial dispute,1.0
+point,2.9165043546008516
+standing order,1.25
+construction that any action,0.5
+rival submissions,1.0454545454545454
+mandatory conditions,1.0
+action under section,1.6
+corresponded,0.3333333333333333
+that the conditions,0.7333333333333334
+inchoate condition,0.5
+manufacturing co v gobind,1.0
+authority grants approval,0.5
+merits,0.968421052631579
+application of the workman,0.5
+mere contravention of section,0.5
+further remedy,0.5
+effort,0.7536036036036036
+reason,2.6381270903010035
+earlier decision,1.5454545454545454
+position,1.549133168619177
+one,4.845669314438648
+different purpose,0.4444444444444445
+workman,2.3486111111111114
+views,0.6965871413779037
+petition,5.3436539306104525
+writ petition,6.24223602484472
+date of non - approval,0.0
+service of the employer,0.5
+effect from the date,1.5384615384615385
+remedy,1.3214024835646458
+clerk-cum-cashier with the appellant,0.0
+tribunal refuses,1.0
+such standing order,0.5
+construction,2.2504918032786887
+re-drafted expanded section,0.0
+consideration,1.9110153789142115
+respondent on the basis,0.5
+total ban on the right,0.5
+dismissal void,1.0
+words,1.6384367086179112
+penalty,1.5165226929932814
+pointer,0.40648379052369077
+order of dismissal,3.6153846153846154
+impunity discharge,0.5
+application for determination,0.5
+parts of the same transaction,0.5
+first respondent on the basis,0.5
+merit of the order,0.0
+passing,0.8851858023662723
+labour practice by the employer,0.5
+spite of statutory protection,0.5
+same footing,1.0
+air,2.0589664272145285
+total ban,0.5714285714285714
+apply,1.5478801169590641
+patil,0.85
+apply for approval,0.5
+proceeding,2.1298245614035087
+further remedy under section,0.5
+emoluments,2.0
+clear from the proviso to section,0.5
+end de jure,0.5
+application to the labour court,0.5
+misconduct,1.2976744186046512
+necessary in a system,0.5
+legislature,2.818553268765133
+wages for the period,0.5
+employer for which approval,0.5
+view that non - approval,0.0
+recourse,0.9157232704402517
+case of tata iron,0.5
+alleged misconduct,0.6666666666666666
+inoperative for contravention of the mandatory conditions,0.5
+authority,2.4352627108360636
+judge,2.9012627415183325
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+earlier decision of strawboard,0.0
+wage for the period,0.0
+remedy to an employee,0.5
+conduct,1.5998023165163158
+reinstatement,3.0
+services of the respondent,1.0
+circumstance during pendency,0.0
+isolation,0.45714285714285713
+such proceeding,1.0
+breach of the provisions,0.75
+scrutiny of the authority,0.5
+argument,0.9504580388560493
+more proceeding,0.5
+safeguard,0.6623074687590815
+ground by the respondent,0.0
+well-settled rule of interpretation,0.0
+dismissal of workman,0.5
+statutory protection,0.6666666666666666
+full wages for the period,0.5
+clerk-cum-cashier,0.0
+guilty after inquiry by an order,0.5
+special leave,1.903225806451613
+approval of the authority,1.3333333333333333
+relationship of the employer,0.5
+limbs,0.5
+penal provision,1.8571428571428572
+advantage,1.1441364159430905
+judges,2.0931496919173616
+straw board,0.5
+industrial disputes act,4.1875
+iilljsc,2.1666666666666665
+bhoomi,0.6666666666666666
+legislative intent,1.3823529411764706
+hand,2.0299623418254717
+order of the approval,0.5
+industrial dispute,7.611111111111111
+case of strawboard,0.5
+iii,1.5614499719992534
+contentions,0.9641025641025641
+suspension,1.9622093023255813
+occasion,0.7946745562130177
+application inter alia on the ground,0.5
+appellant,14.387096774193548
+circumstances,1.3944461370073231
+obligation,1.1071428571428574
+full wage,1.0
+clear that legislative intent,0.5
+various grounds,1.0555555555555556
+requirement,1.2416133333333332
+unfair labour practice,1.5
+high court,7.7477477477477485
+zila,0.525
+dismissal of an employee,0.5
+state,6.817996007300392
+answer,0.9554305705177771
+statute,2.5765859456247218
+jurisdiction,2.9539571926331507
+intent,1.8427075724373023
+pendency of a dispute,0.5
+deal,2.1942302694273583
+dismissal to the date,0.5
+victimization,0.9090909090909091
+specific order,1.25
+manu,7.078142071124147
+steel co ltd v sn,0.5
+employer,2.639728353140917
+language,0.8555828468744352
+state that the view,0.5
+industrial tribunal at chandigarh,0.5
+tata iron,1.6666666666666667
+disputes act,4.1875
+application straightaway under section,0.5
+beverage,4.0625
+employer by design,0.5
+accordance with the terms,0.8333333333333334
+nature,1.4149926876444778
+things,0.6162490788504054
+misery of unemployment,0.5
+case of ph,0.5
+jaipur zila sahkari bhoomi vikas bank ltd,0.5
+illjsc,3.25531914893617
+employer on the basis,0.5
+tribunal,5.07183212267958
+ground that withdrawal,0.5
+view of the provisions,1.0666666666666667
+fair reading,0.4444444444444444
+obedience of law,0.5
+compensation,3.7916666666666665
+manufacturing,1.07831715210356
+nothing in section,0.8333333333333334
+action,3.127292663476874
+further state,1.1904761904761905
+application straightaway,0.5
+saharanpur v govind,0.5
+labour,2.5372960372960374
+short time,0.3948051948051949
+thing,1.1131787570209408
+ltd v,1.579454253611557
+disputes,2.3049883690876194

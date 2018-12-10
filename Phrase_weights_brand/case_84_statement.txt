@@ -1,0 +1,972 @@
+courts,2.1216528162511543
+capacity,1.7421691881525676
+behalf of payee,1.0
+for the power of attorney holder,0.5
+director,1.3549769585253457
+such act,0.7419047619047618
+act through power,0.5
+decision by the larger bench,0.5
+complaint petition behalf,0.5
+code,2.880559796437659
+of the transaction,1.5584415584415583
+document in support thereof,0.0
+validity,1.521010638297872
+mind,1.1559066143122394
+specific clause,1.1666666666666667
+judgment in janki vashdeo bhojwani,0.5
+subordinateothers,0.5
+mitter,0.4034090909090909
+proces on the complaint,0.0
+viz,0.7732570026579433
+employee,6.280487804878048
+filing,1.1274190041313328
+cheque for rs,0.6666666666666666
+complaints against the debtors,0.5
+sections,1.640495469442838
+terms,2.390350840909655
+decisions of this court,1.8225806451612903
+reasons,1.3749054007567938
+inter,3.683850287482992
+hyderabad,2.5833333333333335
+proces on the basis,0.0
+complainants,1.3333333333333333
+albeit in a different context,0.5
+complainant payee,0.5
+case of the appellant,1.1714285714285715
+magistrate vide order,0.5
+principal,1.3412499999999998
+criminal complaints against the debtors,0.5
+oath,0.9395348837209302
+court,12.24425115501509
+witnes on behalf,0.0
+offence before a magistrate,0.5
+ashwin,0.5357142857142858
+various person,0.41666666666666663
+judge of the high court,1.75
+aspects,1.0997620069447154
+explicit assertion,0.5
+view of the discussion,0.75
+in law,1.1088664421997756
+single judge,4.011627906976744
+person,4.291511329454258
+ors,2.8612718198296623
+dispute that pw-,0.0
+under first part,0.5
+harvest,0.6
+shri v shankar prasad,1.0
+way,1.7812722068664852
+carlo,0.15441176470588236
+purpose of issue,0.5
+respective payee,0.5
+general power - of - attorney holder,0.0
+later judgment in janki vashdeo bhojwani,0.5
+behalf,1.9888053603529987
+part,5.294464509893076
+cause,1.8431210321626654
+knowledge in the complaint,0.5
+financial,2.2822547614171618
+armando,0.6666666666666666
+respondent- m,0.0
+entire order of reference reads,0.5
+substantial question,5.615384615384615
+such presumption,0.6666666666666666
+cross,2.0778316690442225
+nothing,0.8658723322806009
+pronouncement,0.8197343453510436
+light of section,1.0
+vashdeo,2.5
+criminal complaint,1.7
+bombay,2.3134020618556703
+punishable under sections,1.6153846153846154
+mary,0.723636527743304
+dischargerecall,1.0
+v indusind bank ltd,1.0
+inspection of the papers,0.5
+share,2.560794932990637
+cognizance of offence,0.6666666666666666
+present appeal,1.3424657534246576
+aspect,1.2449448189023034
+complaints against the debtor,0.5
+age,4.526374474274117
+matter to larger bench,0.6666666666666666
+shri,2.0759135877246115
+decisions,1.3888475974580996
+funds,3.352010547132498
+xviii,1.0
+lawyer etc,0.3333333333333333
+cognizance in the matter,0.5
+decision,2.9514937765898557
+several cheques,0.5
+said,4.745510632356149
+above questions,0.38095238095238093
+manager of the company ie,0.5
+application no,1.2999999999999998
+opinion that the matter,0.6666666666666666
+other person,0.9635036496350365
+situations,0.7435282837967402
+affidavit of the complainant,0.5
+pradesh of hyderabad,0.5
+insertion,0.5564516129032258
+appeal,3.4125488033856883
+opinion amongst various high courts,0.5
+eligibility criterion,0.6666666666666666
+search,1.156007562422583
+scheme of investment,0.5
+court of judicature,1.4210526315789473
+complaint of facts,0.5
+carlos,0.14144736842105263
+scr,2.483838975311538
+complaint petitions,2.0
+statement on oath,0.75
+special provision,1.1818181818181819
+term acts,0.5
+criminal complaints against the debtor,0.5
+pushpadevi,0.5
+interpretation,1.518366298484459
+provisions of the act,2.6056338028169015
+pradeep mohanbay v minguel carlo,0.5
+delegate,1.2330383480825957
+g kamalakar,2.0
+following questions,0.5185185185185185
+transaction as an agent,0.5
+month,1.3454861111111112
+oath before the court,0.5
+year,2.8349484769759212
+in the power of attorney,0.5
+piedade,0.5
+alia,0.9479866480753792
+term act,0.2857142857142857
+cheques,7.85
+witness box on behalf,0.5
+pharma,1.157699443413729
+persons of the company,0.5
+therein that a plaint,0.5
+code of civil procedure,5.5636363636363635
+criminal application no,0.5
+judgment,3.288216560509554
+punishable under section,3.081081081081081
+behalf of the principal,0.5
+proceedings of the criminal complaint,0.5
+company m  s,0.0
+criminal law,0.7859649122807018
+averments,1.76
+question of law,3.057142857142857
+view of the difference,0.6666666666666666
+power under section,1.7142857142857142
+order,5.472481489660944
+own witness box on behalf,0.5
+act,12.870263922028107
+may,3.683418028199994
+inability,0.7162534435261708
+aspects in mind,0.5
+power - of - attorney holder,0.0
+smt,0.7459757206267715
+dias manumhmanumh,0.5
+pursuance,1.543859649122807
+above question,0.45454545454545453
+plaint,3.104295112903434
+signatory of the company,0.5
+different act,0.4
+conjoint reading of sections,1.0
+cognizance of the complaint,1.0
+order of reference reads,0.5
+own witness box,0.5
+cognizance on the sole ground,0.5
+various high courts,1.5555555555555556
+order of issue,0.5
+counter affidavit,1.96
+complainant company,1.0
+different context,0.5538461538461539
+following question,0.5
+pradesh high court in sp,0.5
+substantial questions,0.75
+agent,1.406335913378167
+crl,0.6431123461691147
+nanubhai,0.5
+holder of the cheque,0.5
+list,4.014941314095513
+manner,1.4494591333432125
+thereby,0.8226831482645437
+option,1.002339493011135
+particulars of the power,0.5
+xviiith,1.0
+sole proprietary concern,1.0
+basis fact of the matter,0.6666666666666666
+later case,0.6666666666666666
+andor application of section,0.5
+knowledge of the power,1.5
+civil procedure,5.448275862068965
+aforementioned premises interpretation,0.5
+section,9.287987283173626
+open to the magistrate,2.5
+respondent-company under section,0.0
+criminal action if the original complainant,0.5
+permissible for the power of attorney holder,0.5
+complaint andor,0.5
+course of business,2.5
+securities,8.22857142857143
+january,0.8699641577060931
+amendment in the year,0.8571428571428571
+vya,0.7507507507507508
+chemicals,0.8728571428571429
+first part,1.236842105263158
+only eligibility criteria,0.5
+director of the company,1.4
+assertion,0.5478622435144175
+representative,1.0617102796119673
+judgment in ac narayanan v state,0.5
+possess,2.4574238668198394
+dates,2.6187832912811886
+complaint petition,4.5
+place,2.333104345208554
+functions,1.326241134751773
+civil,2.126558634963905
+following manner,0.5555555555555556
+present case,1.5611814345991561
+appellant herein,2.046153846153846
+knoll,0.2727272727272727
+bare perusal,1.25
+judicature,1.4210526315789473
+regard,2.723310344827586
+sickness,0.2040816326530612
+complainant towards compensation,0.5
+apmanu,0.9629629629629629
+crllj,0.5
+context,0.9269383697813122
+entire order,0.5
+knowledge,1.1120671641791045
+p under first part,0.5
+proces,1.627944583238701
+verification in the form,1.5
+case of shambhu dutt shastri v state,0.5
+money,1.6567889044524557
+post-dated cheques,0.0
+perusal,0.750733137829912
+poddar manuscmanusc,0.5
+that anyone,0.37159090909090914
+mr mary,0.5
+truth,0.9590230664857531
+payees,1.5
+different date,1.3
+facts,1.4696673624372698
+common order,2.111111111111111
+other particulars,0.7619047619047619
+narayanan v state,1.0
+support thereof,1.0
+pradeep,3.5
+issue,2.766776251628934
+summons,0.9764492753623188
+janki,2.0
+contents,0.66519564577817
+recovery of money,1.6
+functions to another person,0.5
+divergent view,1.0
+discharge,1.305219638242894
+basi,2.0752712086391383
+form,2.4865961263718424
+inability as a result,0.5
+powers,1.876345371920593
+complaint on behalf,1.0
+mumbai,1.8484848484848484
+hyderabad in cc,1.0
+insertion of section,0.8333333333333334
+fine,1.3204039558531748
+criminal complaints,0.5
+power of attorney holder,8.666666666666666
+ac narayanan v state,1.0
+records,0.9879294336118848
+shri ravinder singh under another general power,0.5
+shambhu,5.166666666666667
+personal knowledge about the transactions,0.5
+resolution of the company ie,0.5
+narayanan v state of maharashtra,1.0
+conviction,2.248165832071736
+question of power,0.5
+basis,1.953226441078104
+common judgment,1.3636363636363635
+anwar,1.113031914893617
+personal knowledge,1.5
+attorney holder of the complainant,2.0
+scheme,3.415949119373777
+special statute prescribes offences,0.5
+fay,0.19333333333333333
+business of trading,0.5
+course,1.6545957498716626
+prasad employee of the company,0.5
+other option,0.4602272727272727
+sub,7.816899313759727
+criminal appeal,2.5675675675675675
+posses,2.515939015939016
+narayanan,3.0
+attorney holder of the complainants,0.5
+decision of the andhra,0.6666666666666666
+charge,2.7679815308681284
+magistrate,3.522077922077922
+accusedappellant,5.1875
+high courts,2.676470588235294
+fay pinto,0.5
+company,5.864471879286695
+appellant herein under sections,0.5
+specific averment,0.75
+statute prescribes offence,0.5
+pradesh,4.365853658536586
+financials,0.5
+cognizance,1.728
+legal notice to the appellant,0.5
+pinto,0.2692307692307692
+pradesh high court,2.409090909090909
+amendment,2.2486412346818434
+invalid in law,1.25
+ravinder,1.0
+acts in pursuance,0.5
+ground,1.4186722903211633
+prafullakumar,0.5
+complaints,0.9978858350951374
+of the transactions,2.0
+attorney holder under a power,0.5
+mah,1.0727582507730171
+transaction,5.884921444603142
+cros,1.8137948361162648
+function,1.6326372491145218
+ni act,6.666666666666666
+impugned judgment,2.0927152317880795
+several cheques on different dates,0.5
+attorney holder on oath,0.5
+charge of the business,0.6666666666666666
+legal heir etc,0.5
+chemical,1.5078102189781022
+embargo that the attorney holder,0.5
+matter,2.8088923076923082
+sub - delegation,0.0
+loan,2.299059561128527
+prima facie,1.0185185185185184
+bom,1.9699381078691425
+criminal,3.301971081989414
+term,3.6255105640901575
+applications,1.0021816198527407
+cases as power,0.5
+conflict between the decisions,0.6666666666666666
+bombay high court in floriano armando,0.5
+same in the power of attorney,0.5
+view,2.441100058469462
+divergent views,0.75
+power of power,0.0
+liability,2.532836248924577
+sub-delegation,0.0
+post,2.344803646492219
+to the magistrate,2.3
+present before the court,1.3333333333333333
+drego,1.0
+opinion,1.4960606342789635
+vide,4.454025282767798
+respondent-company,0.0
+person without specific clause,0.5
+conflict,1.314561353483509
+consideration thereof,1.0
+cognizance of such offences,0.5
+verification,0.9934640522875817
+opinion among various high courts,0.5
+andhra,4.830188679245283
+directors,1.6666666666666667
+agrawal,0.8888888888888888
+brief facts of the case,1.0
+andhra pradesh of hyderabad,0.5
+court of xviii metropolitan magistrate,0.5
+documents in support thereof,0.5
+recovery,3.9892473118279574
+witness,5.333906623599983
+onu,0.7016248153618907
+sweep,0.9338152247571719
+result,1.3356630184144715
+mention of the words,0.5
+delay,1.9544910179640715
+harvest financial,0.5
+sampathy v manju gupta,0.5
+record,2.5393414390845273
+decision of bombay high court,0.6666666666666666
+principal for the acts,0.5
+procedure,2.552771605064117
+word act,0.6000000000000001
+cheques on different dates,0.5
+first question,0.5
+petitions,1.3930830039525692
+albeit,0.4451612903225806
+such offence,1.0
+gwen,0.3333333333333333
+second question,0.5355371900826446
+due course,1.0648148148148149
+november,0.7203359669727383
+aware of the transactions,0.6666666666666666
+sicknes,0.2040816326530612
+director of the company ms,0.5
+provision,5.439002243350069
+name of the payee,1.5
+record suggest,0.4444444444444444
+support,0.8630946786249609
+averment,1.7
+attorney,1.9875
+respect,2.6704963235294117
+business,2.8512056385864457
+act in pursuance,0.6666666666666666
+specific assertion,0.5
+light of decision,0.6666666666666666
+criteria,1.3561764705882353
+witnesss,0.4
+premises,1.290983606557377
+criminal application,1.0
+fact,3.6284951019474962
+process on the complaint,1.5
+harvest financials,0.5
+resolution,1.771256437663978
+cheque on different dates,0.0
+several cheque,0.5
+simple imprisonment for a period,0.8
+general power of attorney,5.0
+company under the general power,0.5
+yunu,0.2777777777777778
+anr,1.1271033322299457
+deputy,1.1595268542199488
+chief,1.9429638234317954
+matter of discretion,0.5
+criminal procedure,6.406779661016949
+office at bombay,0.5
+december,0.9629002463054187
+medchl,1.0
+extent that the attorney holder,0.5
+particulars,0.9472222222222222
+prasad,1.1407089151450054
+thereto,1.0358342665173572
+presumption,1.06
+stand,1.8422769621739425
+impugned order,2.265957446808511
+negative by the high court,0.5
+knowledge of the transaction,1.0
+that record,0.5555555555555556
+witnes,5.333906623599983
+employee of the company,3.0
+subordinateother,0.5
+later judgment,0.75
+other particular of the power,0.0
+other word,0.758838674565131
+verification of power,0.5
+maintainable,2.7551020408163267
+name of the respective payees,0.5
+representatives,0.8874021711688966
+extent,1.410108024691358
+sole ground,1.0
+different dates,1.2222222222222223
+proces for the offence,0.0
+with the general power of attorney,0.5
+debtor,2.4615384615384617
+clear that anyone,0.5
+brief facts,1.0
+light,0.8816192372754331
+respect of acts,0.5
+affidavit,2.2996987951807224
+such information,0.5
+case payee,0.5
+nothing on the record,1.0
+serious conflict between the decisions,0.5
+exercise,1.9400726466785694
+accused - g  kamalakar against the judgment,0.0
+code of criminal procedure,6.120689655172414
+papers,1.0564063453325199
+everything,0.6255060728744939
+accused - g  kamalakar,0.0
+amounts from various persons,0.5
+party,2.2250894654439723
+appellant company,1.2857142857142858
+anything,0.9132309941520469
+hyderabad by order,0.5
+tribunal in the present case,0.5
+serious conflict,0.5
+other particulars of the power,0.5
+justice,2.292557084574302
+specific averments,0.6666666666666666
+therein,1.5503424657534246
+grievance,1.032529659395331
+affidavits in support,0.6666666666666666
+criminal proceedings,2.6818181818181817
+box,1.5968425105891417
+satisfied if the complaint petition,1.5
+lui,0.3861538461538462
+sweep depose,0.5
+that complaint,0.5454545454545454
+negotiable instruments act,1.7142857142857142
+chairman,1.3592677345537758
+inspection,0.8496732026143791
+record of the case,1.0
+division bench,3.965217391304348
+date,6.195616975795285
+instruments,0.8428470754052149
+other particular,0.6233766233766233
+heir etc,0.5
+several cheque on different dates,0.0
+holder in due course,4.0
+september,0.8548484848484849
+criminal proceedings on behalf,0.5
+light of the discussion,0.8
+reference,2.1755848210276256
+process on the basis,0.5
+sub-delegation of functions,0.0
+offence,4.401610644257703
+bank,9.40770083102493
+respondent,4.757894736842104
+institution,2.7327010745685443
+onus on the appellant,0.5
+bux,1.8399999999999999
+stand of the appellant,1.1
+default,0.7094574436346588
+motion by anyone,0.5
+company m,0.7682926829268293
+records of the case,0.8571428571428571
+question,2.980312372067635
+own name,0.5238095238095238
+court of xviiith,0.5
+that view of the matter,1.553191489361702
+count,2.7493281810130092
+high court by impugned judgment,0.6666666666666666
+mere mention,0.5
+view that examination,0.5
+manumhmanumh,1.4
+scmanu,7.940520446096654
+word,2.065873981084096
+amounts,0.9789856139834046
+bhansali,0.5
+karim,2.571428571428571
+minguel,0.5
+action if the original complainant,0.5
+appeals,1.7060218112849692
+compliance with section,1.0
+grievance  offence,0.0
+amount,3.179688593072295
+february,0.8575630252100839
+other words,0.7578482137053969
+august,0.977116704805492
+statement,2.5393160135035964
+criminal justice,0.78698224852071
+judgment of the bombay high court,1.0
+complaint as the power,0.5
+investment,3.057915057915058
+appellant - g  kamalakar,0.0
+court in order,1.0
+affidavit in support,1.6
+first place,0.48711943793911006
+amount of rs,1.5806451612903225
+name,1.8996570753072433
+rajasthan,3.9215686274509802
+busines of trading,0.0
+embargo,0.5606312292358805
+high,5.367119186841496
+respondent-,0.0
+gupta,0.7610062893081762
+special statute prescribes offence,0.5
+case of vishwa mitter v op,0.5
+brief fact,1.0
+various high court,1.5555555555555556
+humberto,0.3333333333333333
+statute prescribes offences,0.5
+such acts,0.5714285714285714
+verification statement,1.0
+nothing on the record suggest,0.5
+suit,2.485274378207659
+application nos,3.25
+purpose,2.519170317925504
+law,3.538923411654744
+trial court,3.854545454545455
+dispute that the complaint,1.0
+nos,1.2635492554198444
+trial court vide,1.0
+mukhopadhaya,0.5
+view of difference,0.6666666666666666
+observation,0.7625074854374218
+indusind,1.0
+cases,1.9728229418951067
+applicant herein,0.6666666666666666
+division,1.7657319129617017
+filing of complaint petition,0.5
+vishwa mitter,1.0
+application under section,2.8076923076923075
+application before the high court,0.8
+plaintiff,2.177926421404682
+contents of the complaint,1.0
+surana,1.0
+issuance,1.05379513633014
+person of the company,0.0
+proceedings on behalf,0.5
+dias,0.5222057735011102
+board,2.401414435268602
+hereinabove,1.911764705882353
+dia,3.4986395149759177
+sampathy,0.5
+eligibility,1.1788856304985336
+conflict of opinion,0.6666666666666666
+floriano,0.5
+content,1.5450574489970066
+list of evidence,0.5
+vishwa mitter v op,0.5
+metropolitan magistrate,3.8461538461538463
+complaint,2.734525785235724
+single judge of the high court,1.588235294117647
+complaint case,1.0
+which reliance,0.9166666666666666
+poddar,0.5
+magistrate by judgment,0.5
+fine of rs,1.6
+part of that record,0.5
+appellant under section,1.4375
+criterion,0.7104166666666666
+original plaintiff,1.0
+hereinafter,0.7670609645131939
+prosecution,4.619407894736842
+complaint under section,2.7142857142857144
+proces under section,0.0
+behalf of the original plaintiff,0.5
+facts of the case,1.161764705882353
+confines,0.47619047619047616
+brief fact of the case,0.0
+criminal application nos,0.5
+notice to the appellant,1.5
+respondent- ms,0.0
+offences,1.6681887366818873
+amount from various persons,0.0
+exception,1.1036946087733006
+question in this appeal,0.8333333333333334
+imprisonment,1.4344262295081966
+information,1.1320502836800534
+dissenting view,0.3333333333333333
+aforementioned premises interpretation of section,0.5
+application,2.3322596088086445
+complaint petition in the court,0.0
+mere mention of the words,0.5
+registered office,2.0
+april,0.8928235149629509
+wln,0.2027027027027027
+behalf of the appellant company,0.5
+metropolitan magistrate vide order,0.5
+humberto luis v gloriano armado luis,0.5
+law in motion,0.6666666666666666
+simple imprisonment,1.3
+rules,3.130914366958792
+v manju gupta,0.5
+manju,0.7173913043478262
+reading,0.9004509191814082
+manuapmanuap,1.4444444444444444
+complainant - payee,0.0
+preferred application,0.2727272727272727
+-mrs doreen shaikh,0.0
+judicature at bombay,1.5
+third part,0.8882433356117566
+witness upon oath,1.0
+view of the fact,0.8707482993197279
+loans,0.7388888888888888
+payee,13.0
+whisper,0.5142857142857143
+onu on the appellant,0.0
+board of directors,1.0769230769230769
+terms of the general power,0.5
+before the court,0.9804822043628013
+acquittal,2.2714285714285714
+cheque,6.749999999999999
+manurhmanurh,1.0
+attorney holder about the transaction,0.5
+mention,1.6248742837095076
+andhra pradesh,4.857142857142857
+ltd,2.382356477306883
+shastri,0.5
+process under section,1.0
+mamtadevi prafullakumar bhansali v pushpadevi kailashkumar agrawal,0.5
+summons by the learned magistrate,0.5
+registered office at bombay,0.5
+dispute,2.402137592137592
+evidence,3.6676405172088815
+instruments act,1.7142857142857142
+vice,3.766984711894892
+document,1.401100265092073
+secunderabad,0.75
+decision of this court,2.3260869565217392
+knowledge about the transactions,0.5
+recall,1.8577938988095235
+opinion amongst various high court,0.5
+mr yunus a cementwalla,0.5
+reliance,1.400763358778626
+court by the payee,0.5
+knowledge about the transaction,1.0
+proprietor of the proprietary concern,0.5
+compliance,1.0029799914857385
+complaint petition behalf of the complainant,0.5
+case,7.332269420884958
+difference,0.8774847235514982
+period,1.9480170842427122
+floriano armando,0.5
+v medchl chemicals,1.0
+scc,1.941872465904902
+function to another person,0.0
+application for discharge  recall,0.0
+term of the general power,0.0
+learned magistrate,4.454545454545454
+company before the court,0.5
+various situations,0.3333333333333333
+reference to validity,0.5
+gwen piedade,0.5
+such offences,0.75
+singh,3.7791111111111113
+- towards the respondent-company,0.0
+reference reads,0.5
+contention,1.666391070690368
+respective payees,0.5
+inter alia,1.3280423280423281
+rule,5.04
+such power of attorney holder,0.5
+premises interpretation of section,0.5
+v medchl chemical,1.0
+advocate,1.0791341991341994
+proceedings,1.7670925223666287
+appellant - ac  narayanan,0.0
+witness box,1.0
+evidence on behalf,0.6666666666666666
+complaint petition on behalf,0.5
+stranger to transaction,0.5
+supra,2.246342614440774
+yunus,0.2777777777777778
+bench,2.5793391667754992
+suits,1.0993657505285412
+additional chief,1.5555555555555556
+presumption of knowledge,0.5
+pradeep mohanbay v minguel carlos,0.5
+competent,1.3701267639320736
+office,3.5913445886237847
+respondents,2.6341263330598856
+bombay high court,2.4642857142857144
+attorney holder under code,0.5
+maharashtra,2.9076923076923076
+reference read,0.5
+applicant,0.7861822513400833
+complaint petitions in the court,0.5
+slp,1.291953447628582
+discretion,1.2998211091234348
+complaint before issuance,0.5
+october,0.9478375701551667
+such presumption of knowledge,0.5
+imprisonment for a period,1.375
+apart,0.6007021119981881
+witness in the case,0.6666666666666666
+body,1.336775463480009
+process,1.6274942048088725
+kailashkumar,0.5
+mamtadevi,0.5
+by the high court,3.246696035242291
+notice,2.3300025999395686
+particular,1.5248953455371081
+high court of judicature,1.4210526315789473
+aforesaid fact,0.9230769230769231
+power,3.8165227690948367
+dutt,0.6171428571428573
+premise,1.2347417840375587
+impugned transaction,1.0
+eligibility of power,0.5
+vyas,0.875
+examination,2.4920345926263088
+various amount,0.6666666666666666
+criminal action,0.5714285714285714
+title,1.74290600761189
+proprietor,1.0303030303030303
+powers of power,0.5
+under section,5.374517374517374
+general manager,0.9625000000000001
+content of the complaint,0.0
+reason,2.6381270903010035
+behalf of the party,1.0
+shankar,0.84
+payee  holder,0.0
+position,1.549133168619177
+personal capacity,0.5
+power of attorney,4.416666666666667
+position that criminal law,0.5
+views,0.6965871413779037
+petition,5.3436539306104525
+stranger,0.5863636363636363
+company ie,1.0
+basis fact,0.6666666666666666
+similar substantial questions,0.5
+preferred applications,0.2727272727272727
+query,0.7205882352941175
+transactions,6.503443526170798
+consideration,1.9110153789142115
+xith,0.30000000000000004
+andhra pradesh at hyderabad,1.1111111111111112
+oath under section,0.5
+fund,2.9945256868353374
+words,1.6384367086179112
+armado,0.5
+xviii metropolitan magistrate,1.0
+facie,1.0476190476190477
+clause,3.526455026455027
+documents,1.142515923566879
+shares,3.3129411764705883
+exception to the above,0.3333333333333333
+shambhu dutt shastri v state,0.5
+various situation,0.3333333333333333
+others,0.9074667328904616
+acts,1.9133929521984454
+holder,1.8472993827160495
+criminal law in motion,0.6666666666666666
+gloriano,0.5
+particular of the power,0.0
+order of conviction,1.3
+confine,0.7331810394060537
+truth of the grievance  offence,0.0
+rhmanu,1.0
+limited company,2.2857142857142856
+fourth question,0.2857142857142857
+attorney holder in the impugned transaction,0.5
+conjoint,1.1875
+trading,1.4943609022556392
+general power,4.333333333333333
+metropolitan,1.3088642659279779
+function under the general power,0.0
+managing,1.4126463700234193
+various persons,0.5
+prasad employee,0.5
+heir,2.4782705005515444
+authority,2.4352627108360636
+judge,2.9012627415183325
+death,2.361592909460208
+provisions,3.8929824561403508
+manuscmanusc,7.940520446096654
+vashdeo bhojwani,2.5
+conjoint reading,1.1333333333333333
+various amounts from various persons,0.5
+legal representative,3.727272727272727
+complaint on oath,0.5
+aforesaid order,1.2857142857142858
+due knowledge,0.5
+old age,0.6349206349206349
+affidavits,1.954022988505747
+luis,0.4806201550387597
+witnes upon oath,0.0
+fact of the case,0.0
+mmtc,1.25
+support of the complaint petition,0.5
+court by impugned judgment,0.6666666666666666
+client,2.2968505695778423
+judges,2.0931496919173616
+security,1.5014864864864865
+principal in respect,1.0
+page,1.011907905159212
+questions,0.9979150871872632
+witnes in the case,0.0
+paper,1.8076689487632511
+view that the power,0.5
+larger bench,2.0606060606060606
+complainant in support,2.0
+various amount from various persons,0.0
+division bench of this court,1.4545454545454546
+motion,1.9249311294765838
+reference to the power,0.5
+negotiable,0.9493670886075949
+applications under section,0.75
+hand,2.0299623418254717
+under sections,2.1931818181818183
+evelyn drego,0.5
+criminal application before the high court,0.5
+holder of power,0.5
+iii,1.5614499719992534
+original complainant,0.5
+court of xith,0.5
+attorney holder,9.5
+nanubhai vyas v state of maharashtra manuscmanusc,0.5
+process for the offence,0.5
+busines,2.8488759960122034
+appellant,14.387096774193548
+mhmanu,1.4
+only eligibility criterion,0.0
+onus,0.8162100456621004
+cause title,1.0
+lawyer,0.6086956521739131
+evelyn,0.2512820512820513
+manager,1.7133044010756409
+functions under the general power,0.5
+sole proprietor,1.3333333333333333
+signatory,1.5333333333333332
+if the complaint petition,1.5
+vishwa,0.6818181818181818
+high court,7.7477477477477485
+complainant,4.538461538461538
+power - of - attorney holder in exercise,0.0
+case of ac,0.6666666666666666
+state,6.817996007300392
+eligibility criteria,2.375
+witness on behalf,1.0
+general manager of the company ie,0.5
+statute,2.5765859456247218
+premises interpretation,0.5
+legal notice,1.25
+distinct query,0.5
+behalf in the court,0.5
+encashment,1.9090909090909092
+trial,3.7979448350459712
+plaintiff in the capacity,0.5
+pw-,0.0
+manu,7.078142071124147
+concern,2.0544958000579303
+debtors,1.0
+general,1.7536558414534391
+provision of the act,0.8888888888888888
+delegation,2.6692759295499027
+cementwalla,0.5
+inconsistent with the general power of attorney,0.5
+bank ltd,1.3333333333333333
+bhojwani,2.5
+kamalakar,2.0
+nanubhai vyas v state,0.5
+summon,1.0346907993966816
+proceedings in question,0.5
+attorney in the body,0.5
+counter,1.0576470084371923
+pursuant thereto,1.0769230769230769
+case of g kamalakar,0.5
+scale,2.0845464725643894
+single,1.6221488419098207
+shri shankar,0.5
+karim bux,0.5
+form of loans,0.5
+opinion that the attorney holder,0.5
+proprietary concern,3.5714285714285716
+andor application,0.5
+thereupon,1.4857142857142858
+attorney holder alone,0.5
+discussion,0.7445831166579996
+such power,0.8907563025210085
+janki vashdeo bhojwani,2.5
+endorsement,0.8138461538461539
+tribunal,5.07183212267958
+various amounts,0.6666666666666666
+mohanbay,0.5
+doreen,0.2857142857142857
+authoritative pronouncement,0.8571428571428571
+shaikh,1.6500000000000001
+shri ravinder singh,1.0
+payee  holder in due course,0.0
+maharashtra manuscmanusc,1.3529411764705883
+respondent - company,0.0
+case of humberto luis v gloriano armado luis,0.5
+situation,1.1254754682459434
+compensation,3.7916666666666665
+bandra,1.5
+vide ashwin,0.5
+raj,1.3364194424876723
+case magistrate,0.5
+criminal proceeding,2.9166666666666665
+instrument,1.493863846866317
+summon by the learned magistrate,0.0
+action,3.127292663476874
+similar substantial question,0.5
+fit,2.7848485899724365
+aforesaid order of conviction,0.5
+cognizance of the office,0.5
+personal knowledge of the transaction,1.0
+post-dated cheque,0.0
+persons,2.5993381990166555
+aspect in mind,0.5
+pw- shri ravinder singh,0.0

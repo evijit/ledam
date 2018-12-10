@@ -1,0 +1,284 @@
+days,1.6721350893491447
+appropriate orders,1.2666666666666666
+senior,1.989753211141579
+independence,0.6549707602339182
+process,1.6274942048088725
+insofar,0.9295774647887324
+today,0.6330563683773655
+local,1.7491695749064458
+petitioner,4.524972253052164
+order of the court,0.8888888888888888
+dale menezes,1.0
+prayers,0.6104336043360433
+orders,1.4936359300077826
+to the local commissioner,0.5
+above term,0.9375
+basis,1.953226441078104
+senior division,2.1
+seals of the premises,0.5
+local commissioners,3.0
+such use,0.5333333333333333
+survive in ia,0.0
+office premise,1.25
+statement,2.5393160135035964
+menezes,1.6666666666666667
+premise,1.2347417840375587
+day from the date,0.0
+behalf of the respondent,1.453125
+enlisting of the properties  documents,0.0
+reasons,1.3749054007567938
+court of bombay,2.176470588235294
+court commissioner before the trial court,0.0
+name,1.8996570753072433
+sooner,0.39560439560439564
+terms,2.390350840909655
+office premises,1.25
+properties  documents,0.0
+matters,1.4810665618448637
+trial court for such use,1.0
+title,1.74290600761189
+title deed etc,0.5
+mr rui,0.5
+redress,1.2
+that basis,0.6886956521739132
+payment,2.059553716565686
+local  court commissioners,0.0
+pass,2.510543963686946
+week from today,0.75
+consideration whereof,0.5
+high,5.367119186841496
+interest,2.74353772015385
+survives in ia,0.5
+reason,2.6381270903010035
+court,12.24425115501509
+deceased cosme meneze,0.5
+event,1.4310854436179261
+time,2.4764180952862667
+orders of the court,1.0909090909090908
+court for redress,0.6666666666666666
+further survive in ia,0.0
+process of the opening,0.5
+ground,1.4186722903211633
+property,2.9368986630013745
+valuable securities,1.6666666666666667
+learned,3.406323898681099
+further order,0.8253968253968255
+prayer ii in the application,0.5
+high court of bombay,2.176470588235294
+prayer,0.6969296987087519
+relative of the parties,0.0
+seal of the premises,0.0
+person,4.291511329454258
+trial court,3.854545454545455
+law,3.538923411654744
+behalf,1.9888053603529987
+meneze in this regard,0.0
+further survives in ia,0.5
+end of the hearing,0.6666666666666666
+consideration,1.9110153789142115
+survive,0.5735785953177257
+sealing of the premises,1.0
+part,5.294464509893076
+separate order,0.75
+civil judge,3.2142857142857144
+division,1.7657319129617017
+matter,2.8088923076923082
+sides,0.6706755273269035
+dale,0.4573552425665102
+week from the date,0.6666666666666666
+listing,0.6422018348623852
+open to the local commissioners,0.5
+days from the date,1.7352941176470589
+nothing,0.8658723322806009
+article,4.378806157159795
+bombay,2.3134020618556703
+proces of the opening,0.0
+de-sealed by the bailiff,0.0
+high court to the trial court,0.5
+commissioner,2.271608643457383
+fairnes,0.5708245243128964
+mr mp,0.5
+documents,1.142515923566879
+matrix,0.46733812949640285
+term,3.6255105640901575
+that basi,0.6481481481481481
+court to the trial court,0.5
+civil judge of the premises,0.5
+view,2.441100058469462
+fresh orders on the subject,0.5
+relative,1.0564311594202898
+listing of the documents,1.0
+dale meneze,1.0
+user thereof,0.75
+appropriate order,1.565217391304348
+panaji in civil miscellaneous application,0.5
+opinion,1.4960606342789635
+articles,1.4349688743466387
+side,3.88845645915565
+factual matrix,1.173913043478261
+which event,0.44871794871794873
+division panaji,1.0
+sealing,1.1
+that limited extent,0.5
+use,5.06801278974993
+pas,2.68416862749163
+pereira,0.28124999999999994
+cosme,0.6296296296296295
+appropriate order in accordance,0.5
+grant,1.7314487632508835
+within a period,1.5733333333333333
+ground that the trial court,0.6666666666666666
+appeal,3.4125488033856883
+close relative,0.6666666666666666
+deceased cosme,1.0
+prepared by the commissioners,0.5
+examine,1.6547910566941708
+user,0.5042401399919236
+re-sealing,0.0
+civil miscellaneous application,0.6666666666666666
+orders of the civil judge,1.0
+judge,2.9012627415183325
+opening,0.7180555555555556
+to the local commissioners,0.5
+entire exercise,0.75
+close relatives of the parties,0.5
+close relative of the parties,0.0
+counsel,2.2246780703440323
+documents  property,0.0
+application,2.3322596088086445
+advocates as court commissioners,0.5
+satisfaction,0.6639095671353735
+fresh orders,1.0
+dale meneze in this regard,0.0
+further survive,0.5
+cosme de meneze,0.5
+mulgaonkar,0.5
+advocates,0.6153846153846153
+enlisting,1.5555555555555556
+inventory,0.7333333333333333
+local  court commissioners before the trial court,0.0
+length by learned counsel,0.5
+gomes,0.2542372881355932
+dale menezes in this regard,0.5
+anxious consideration,0.875
+subject,2.4420366233344897
+premises,1.290983606557377
+security,1.5014864864864865
+order,5.472481489660944
+names,1.766440410418311
+learned counsel,3.703333333333333
+cedric,0.6666666666666666
+local  court commissioner before the trial court,0.0
+permissible in accordance with law,0.6666666666666666
+interest of justice,1.2
+cedric menezes,1.0
+in accordance with law,1.0046948356807512
+further survives,0.5
+joint prayer,0.5
+learned counsel for the parties,1.263157894736842
+survives,0.5185185185185185
+court commissioner,3.0
+mention,1.6248742837095076
+cosme meneze,0.5
+bailiff as the premise,0.5
+document,1.401100265092073
+miscellaneous application,1.0
+goa,0.6574823943661972
+week,0.8253498691546249
+above terms,0.9375
+confidence,0.5942028985507247
+which part,0.44563279857397503
+confidence of the parties,0.5
+sealing of the office premises,0.5
+bailiff,2.0
+agreed arrangement,0.5
+valuable security,4.0
+work,2.8478559811646353
+list,4.014941314095513
+in the interest of justice,1.05
+deceased cosme de meneze,0.5
+extent,1.410108024691358
+relatives,0.8460264900662252
+detail,0.9737454684220567
+listing by the bailiff,0.5
+high court,7.7477477477477485
+bailiff as the premises,0.5
+parties,1.8210828547990157
+court commissioners before the trial court,0.5
+further orders,0.7777777777777778
+period,1.9480170842427122
+light,0.8816192372754331
+such time,0.8480725623582767
+local  court commissioner,0.0
+exercise,1.9400726466785694
+enlisting of the documents  properties,0.0
+cosme menezes,0.5
+trial,3.7979448350459712
+controversy,0.8593204191806921
+deed,1.3564447722662734
+petitioner herein,1.0
+securities,8.22857142857143
+party,2.2250894654439723
+gome,0.23056994818652848
+order of the civil judge,0.0
+order in accordance,0.6666666666666666
+relatives of the parties,0.5
+whereof,1.2790697674418605
+senior division panaji,1.0
+rui,2.1528231077377185
+documents  properties,0.0
+court commissioners,1.5
+local commissioner,3.0
+menezes in this regard,0.5
+fresh order,1.5714285714285714
+orders on the subject,0.5
+meneze,2.0
+justice,2.292557084574302
+possible within a period,0.6666666666666666
+seal,1.5645371577574967
+civil,2.126558634963905
+properties  document,0.0
+deceased cosme menezes,0.5
+prayer ii,0.5
+end,6.1484001628618765
+redres,1.1730769230769231
+regard,2.723310344827586
+seals,0.6164383561643835
+advocate,1.0791341991341994
+close relatives,0.4444444444444444
+commissioners,1.5384615384615383
+advocates as court commissioner,0.5
+fairness,0.5844155844155844
+date,6.195616975795285
+proces,1.627944583238701
+direction,1.8495050210098996
+judge of the premises,0.5
+re-sealing by the bailiff,0.0
+orders in accordance,0.6666666666666666
+fresh order on the subject,0.0
+remuneration,1.4285714285714286
+trial court for payment,0.5
+length,0.6297872340425531
+accordance with law,1.0046948356807512
+civil appeal,2.2413793103448274
+remuneration in which event,0.5
+hearing,0.9644508209787979
+respondent,4.757894736842104
+necessary in the interest of justice,0.5
+office,3.5913445886237847
+light of the agreed arrangement,0.5
+arrangement,0.7318181818181818
+respondents,2.6341263330598856
+properties,1.7286779414438989
+leave,1.0147842365477848
+order on the subject,0.0
+accordance,1.4069045211613462
+cedric meneze,1.0
+name of cedric menezes,0.0
+persons,2.5993381990166555
+panaji,1.0
+names of cedric menezes,0.5
+basi,2.0752712086391383
+day,1.550999710228919
+appropriate orders in accordance,0.5
+latter under the orders of the court,0.5
