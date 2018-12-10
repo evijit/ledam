@@ -20,7 +20,7 @@ def normalize_word(word):
 
 def read_instance(input_file, word_alphabet, char_alphabet, feature_alphabets, label_alphabet, number_normalized, max_sent_length, char_padding_size=-1, char_padding_symbol = '</pad>'):
     feature_num = len(feature_alphabets)
-    in_lines = open(input_file,'r').readlines()
+    in_lines = open(input_file,'r',encoding="ISO-8859-1").readlines()
     instence_texts = []
     instence_Ids = []
     words = []
@@ -125,7 +125,7 @@ def norm2one(vec):
 def load_pretrain_emb(embedding_path):
     embedd_dim = -1
     embedd_dict = dict()
-    with open(embedding_path, 'r') as file:
+    with open(embedding_path, 'r',encoding="ISO-8859-1") as file:
         for line in file:
             line = line.strip()
             if len(line) == 0:
