@@ -176,7 +176,7 @@ class Data:
 
 
     def initial_feature_alphabets(self):
-        items = open(self.train_dir,'r').readline().strip('\n').split()
+        items = open(self.train_dir,'r',encoding="ISO-8859-1").readline().strip('\n').split()
         total_column = len(items)
         if total_column > 2:
             for idx in range(1, total_column-1):
@@ -200,7 +200,7 @@ class Data:
 
 
     def build_alphabet(self, input_file):
-        in_lines = open(input_file,'r').readlines()
+        in_lines = open(input_file,'r',encoding="ISO-8859-1").readlines()
         for line in in_lines:
             if len(line) > 2:
                 pairs = line.strip().split()
