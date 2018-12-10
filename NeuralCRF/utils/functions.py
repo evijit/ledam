@@ -122,27 +122,44 @@ def norm2one(vec):
     root_sum_square = np.sqrt(np.sum(np.square(vec)))
     return vec/root_sum_square
 
-def load_pretrain_emb(embedding_path):
-    embedd_dim = -1
-    embedd_dict = dict()
-    with open(embedding_path, 'r',encoding="ISO-8859-1") as file:
-        for line in file:
-            line = line.strip()
-            if len(line) == 0:
-                continue
-            tokens = line.split()
-            if embedd_dim < 0:
-                embedd_dim = len(tokens) - 1
-            else:
-                assert (embedd_dim + 1 == len(tokens))
-            embedd = np.empty([1, embedd_dim])
-            embedd[:] = tokens[1:]
-            if sys.version_info[0] < 3:
-                first_col = tokens[0].decode('utf-8')
-            else:
-                first_col = tokens[0]
-            embedd_dict[first_col] = embedd
-    return embedd_dict, embedd_dim
+# def load_pretrain_emb(embedding_path):
+#     embedd_dim = -1
+#     embedd_dict = dict()
+#     with open(embedding_path, 'r',encoding="ISO-8859-1") as file:
+#         for line in file:
+#             line = line.strip()
+#             if len(line) == 0:
+#                 continue
+#             tokens = line.split()
+#             if embedd_dim < 0:
+#                 embedd_dim = len(tokens) - 1
+#             else:
+#                 assert (embedd_dim + 1 == len(tokens))
+#             embedd = np.empty([1, embedd_dim])
+#             embedd[:] = tokens[1:]
+#             if sys.version_info[0] < 3:
+#                 first_col = tokens[0].decode('utf-8')
+#             else:
+#                 first_col = tokens[0]
+#             embedd_dict[first_col] = embedd
+#     return embedd_dict, embedd_dim
+
+def load_pretrain_emb(gloveFile):
+    print ("Loading Glove Model")
+    f = open(gloveFile,'r')
+    model = {}
+    for line in f:
+        splitLine = line.split()
+        word = splitLine[0]
+        embedding = np.array([float(val) for val in splitLine[1:]])
+        model[word] = embedding
+    print ("Done.",len(model)," words loaded!")
+    return model,len(model['the'])
+
+
+model = loadGloveModel('ledam/glove/vectors.txt')
+def vec(word):
+	return model[word]
 
 if __name__ == '__main__':
     a = np.arange(9.0)
